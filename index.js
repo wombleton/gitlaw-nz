@@ -7,7 +7,8 @@ var async = require('async'),
     url = require('url'),
     md = require('html-md'),
     actQueue,
-    searchQueue;
+    searchQueue,
+    retried = {};
 
 function scrapeSearch(uri, callback) {
     request({
@@ -65,6 +66,10 @@ function downloadAct(uri, callback) {
         if (err) {
             console.error("Couldn't download", uri, 'because', err);
             callback();
+            if (!retried[uri]) {
+                retried[uri] = true;
+                actQueue.push(uri);
+            }
         } else {
             $ = cheerio.load(body);
 
