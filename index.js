@@ -18,7 +18,7 @@ function scrapeSearch(uri, callback) {
             acts;
 
         if (err) {
-            console.err(err);
+            console.log(err);
             process.exit(1);
         } else {
             $ = cheerio.load(body);
@@ -58,27 +58,32 @@ function downloadAct(uri, callback) {
             dir;
 
         if (err) {
-            console.err('Couldn\'t download', uri);
+            console.error("Couldn't download", uri, 'because', err);
         } else {
             $ = cheerio.load(body);
 
             act = $('.act').html();
-            title = $('h1.title').text();
+            title = $('h1.title').first().text().trim();
+
             markdown = makeMarkdown(act, uri);
 
-            file = path.join('acts', title.substring(0, 1).toUpperCase(), title);
+            if (title) {
+                file = path.join('acts', title.substring(0, 1).toUpperCase(), title);
 
-            dir = path.dirname(file);
+                dir = path.dirname(file);
 
-            fs.exists(dir, function(exists) {
-                if (exists) {
-                    writeFile(file, markdown, callback);
-                } else {
-                    fs.mkdir(path.dirname(file), function(err) {
+                fs.exists(dir, function(exists) {
+                    if (exists) {
                         writeFile(file, markdown, callback);
-                    });
-                }
-            });
+                    } else {
+                        fs.mkdir(path.dirname(file), function(err) {
+                            writeFile(file, markdown, callback);
+                        });
+                    }
+                });
+            } else {
+                console.log("COULD NOT FIND TITLE FOR: ", uri);
+            }
         }
     });
 }
@@ -93,13 +98,17 @@ function makeMarkdown(act, uri) {
 
 function writeFile(file, markdown, callback) {
     fs.writeFile(file, markdown, function(err) {
-        console.log("Written " + file);
+        if (err) {
+            console.log("Problem writing this file: ", file, markdown.length, err);
+        } else {
+            console.log("Written " + file);
+        }
         callback(err);
     });
 }
 
 searchQueue = async.queue(scrapeSearch);
 
-actQueue = async.queue(downloadAct, 10);
+actQueue = async.queue(downloadAct, 20);
 
 searchQueue.push('http://www.legislation.govt.nz/act/results.aspx?search=ta_act_All_ac%40ainf%40anif_an%40bn%40rn_200_a&p=1');
