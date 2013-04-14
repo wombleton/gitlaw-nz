@@ -64,6 +64,7 @@ function downloadAct(uri, callback) {
 
         if (err) {
             console.error("Couldn't download", uri, 'because', err);
+            callback();
         } else {
             $ = cheerio.load(body);
 
@@ -88,6 +89,7 @@ function downloadAct(uri, callback) {
                 });
             } else {
                 console.log("COULD NOT FIND TITLE FOR: ", uri);
+                callback();
             }
         }
     });
