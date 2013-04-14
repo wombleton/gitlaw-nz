@@ -10,6 +10,10 @@ var async = require('async'),
     searchQueue,
     retried = {};
 
+_.each('ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''), function(letter) {
+    fs.mkdirSync('acts/' + letter);
+});
+
 function scrapeSearch(uri, callback) {
     request({
         uri: uri
@@ -84,13 +88,10 @@ function downloadAct(uri, callback) {
                 dir = path.dirname(file);
 
                 fs.exists(dir, function(exists) {
-                    if (exists) {
-                        writeFile(file, markdown, callback);
-                    } else {
-                        fs.mkdir(path.dirname(file), function(err) {
-                            writeFile(file, markdown, callback);
-                        });
+                    if (!exists) {
+                        fs.mkdirSync(path.dirname(file));
                     }
+                    writeFile(file, markdown, callback);
                 });
             } else {
                 console.log("COULD NOT FIND TITLE FOR: ", uri);
@@ -115,12 +116,12 @@ function writeFile(file, markdown, callback) {
         } else {
             console.log("Written " + file);
         }
-        callback(err);
+        callback();
     });
 }
 
 searchQueue = async.queue(scrapeSearch);
 
-actQueue = async.queue(downloadAct, 10);
+actQueue = async.queue(downloadAct, 5);
 
 searchQueue.push('http://www.legislation.govt.nz/act/results.aspx?search=ta_act_All_ac%40ainf%40anif_an%40bn%40rn_200_a&p=1');
