@@ -64,7 +64,7 @@ function downloadAct(uri, callback) {
 
             act = $('.act').html();
             title = $('h1.title').text();
-            markdown = md(act);
+            markdown = makeMarkdown(act, uri);
 
             file = path.join('acts', title.substring(0, 1).toUpperCase(), title);
 
@@ -75,16 +75,19 @@ function downloadAct(uri, callback) {
                     writeFile(file, markdown, callback);
                 } else {
                     fs.mkdir(path.dirname(file), function(err) {
-                        if (err) {
-                            console.log(err);
-                            callback(err);
-                        } else {
-                            writeFile(file, markdown, callback);
-                        }
+                        writeFile(file, markdown, callback);
                     });
                 }
             });
         }
+    });
+}
+
+function makeMarkdown(act, uri) {
+    var markdown = md(act);
+
+    return markdown.replace(/(\n\[\d+\]: )([^\n]+)/g, function(match, number, pathname) {
+        return number + url.resolve(uri, pathname);
     });
 }
 
