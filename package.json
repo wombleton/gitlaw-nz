@@ -1,0 +1,29 @@
+{
+  "name": "legislation.govt.nz",
+  "version": "0.0.0",
+  "description": "A github repository following the legislative process in New Zealand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wombleton/legislation.govt.nz.git"
+  },
+  "keywords": [
+    "legislation",
+    "New",
+    "Zealand",
+    "NZ",
+    "law",
+    "gitlaw"
+  ],
+  "author": "Rowan Crawford",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "93370f17dc45677ff85d357230de5fd8d69a7520",
+  "dependencies": {
+    "async": "~0.2.7",
+    "underscore": "~1.4.4"
+  }
+}
