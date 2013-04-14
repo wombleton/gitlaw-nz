@@ -47,6 +47,11 @@ function scrapeSearch(uri, callback) {
 }
 
 function downloadAct(uri, callback) {
+    // skip former title acts
+    if (/formertitle\.aspx/.test(uri)) {
+        return callback();
+    }
+
     request({
         uri: uri
     }, function(err, response, body) {
@@ -63,7 +68,7 @@ function downloadAct(uri, callback) {
             $ = cheerio.load(body);
 
             act = $('.act').html();
-            title = $('h1.title').first().text().trim();
+            title = $('h1.title').first().text().trim().replace(/\r\n?/g, ' ');
 
             markdown = makeMarkdown(act, uri);
 
