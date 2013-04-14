@@ -6,6 +6,7 @@ var async = require('async'),
     request = require('request'),
     url = require('url'),
     md = require('html-md'),
+    actQueue,
     searchQueue;
 
 function scrapeSearch(uri, callback) {
