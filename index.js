@@ -11,7 +11,9 @@ var async = require('async'),
     retried = {};
 
 _.each('ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''), function(letter) {
-    fs.mkdirSync('acts/' + letter);
+    try {
+        fs.mkdirSync('acts/' + letter);
+    } catch(e) {}
 });
 
 function scrapeSearch(uri, callback) {
@@ -38,12 +40,34 @@ function scrapeSearch(uri, callback) {
             acts = $('.resultsTitle a');
 
             _.each(acts, function(act) {
-                var uri = url.parse(act.attribs['href']);
+                var file,
+                    title,
+                    uri;
+
+                act = $(act);
+
+                title = act.text();
+                uri = url.parse(act.attr('href'));
 
                 uri.search = undefined;
                 uri.pathname = uri.pathname.replace(/\/[^\/]+\.html$/, '/whole.html');
 
-                actQueue.push('http://www.legislation.govt.nz' + url.format(uri));
+                file = getPath(title);
+
+                fs.exists(file, function(exists) {
+                    if (exists) {
+                        actQueue.push({
+                            title: title,
+                            uri: 'http://www.legislation.govt.nz' + url.format(uri)
+                        });
+                        console.log(file + " already exists, putting at the end...");
+                    } else {
+                        actQueue.unshift({
+                            title: title,
+                            uri: 'http://www.legislation.govt.nz' + url.format(uri)
+                        });
+                    }
+                });
             });
 
             callback();
@@ -51,13 +75,23 @@ function scrapeSearch(uri, callback) {
     });
 }
 
-function downloadAct(uri, callback) {
+function getPath(title) {
+    title = title.trim().replace(/\r\n?/g, ' ').replace(/\//g, '-');
+
+    return path.join('acts', title.substring(0, 1).toUpperCase(), title);
+}
+
+function downloadAct(task, callback) {
+    var uri = task.uri;
+
     // skip former title acts
     if (/formertitle\.aspx/.test(uri)) {
         return callback();
     }
 
+    console.log("Requesting " + uri + " with " + actQueue.length() + " items still in the queue.");
     request({
+        timeout: 15000,
         uri: uri
     }, function(err, response, body) {
         var $,
@@ -67,8 +101,8 @@ function downloadAct(uri, callback) {
             markdown,
             dir;
 
-        if (err) {
-            console.error("Couldn't download", uri, 'because', err);
+        if (err || Math.floor(response.statusCode / 100) !== 2) {
+            console.error("Couldn't download " + uri + ' because ' + err);
             callback();
             if (!retried[uri]) {
                 retried[uri] = true;
@@ -78,18 +112,20 @@ function downloadAct(uri, callback) {
             $ = cheerio.load(body);
 
             act = $('.act').html();
-            title = $('h1.title').first().text().trim().replace(/\r\n?/g, ' ');
+            title = $('h1.title').first().text();
 
             markdown = makeMarkdown(act, uri);
 
             if (title) {
-                file = path.join('acts', title.substring(0, 1).toUpperCase(), title);
+                file = getPath(title);
 
                 dir = path.dirname(file);
 
                 fs.exists(dir, function(exists) {
                     if (!exists) {
-                        fs.mkdirSync(path.dirname(file));
+                        try {
+                            fs.mkdirSync(path.dirname(file));
+                        } catch(e) {}
                     }
                     writeFile(file, markdown, callback);
                 });
@@ -110,6 +146,7 @@ function makeMarkdown(act, uri) {
 }
 
 function writeFile(file, markdown, callback) {
+
     fs.writeFile(file, markdown, function(err) {
         if (err) {
             console.log("Problem writing this file: ", file, markdown.length, err);
