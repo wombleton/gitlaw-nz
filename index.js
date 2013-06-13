@@ -173,7 +173,7 @@ function updateAct(path, title, data, callback) {
                 repo: process.env.REPO,
                 base_tree: tree,
                 tree: {
-                    path: path
+                    path: path,
                     content: data
                 }
             }, function(err, newSha) {
