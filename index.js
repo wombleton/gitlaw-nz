@@ -164,7 +164,20 @@ function updateAct(path, title, data, markdown, callback) {
         author: {
             name: "GitLaw NZ Bot"
         }
-    }, callback);
+    }, {
+        method: 'PUT',
+        url: "/repos/:user/:repo/contents/:path",
+        params: {
+            "$user": null,
+            "$repo": null,
+            "$path": null,
+            "message": null,
+            "content": null,
+            "sha": null,
+            "author": null
+        }
+    },
+    callback);
 }
 
 function makeMarkdown(act, uri) {
