@@ -144,6 +144,12 @@ function auth() {
     });
 }
 
+function respectLimit(obj, callback) {
+    if (obj && obj.meta && obj.meta['x-ratelimit-remaining'] === '0') {
+        setTimeout(callback, 60 * 60 * 1000);
+    }
+}
+
 function updateAct(path, title, data, callback) {
     async.waterfall([
         function(callback) {
@@ -152,7 +158,11 @@ function updateAct(path, title, data, callback) {
                 user: process.env.USER,
                 repo: process.env.REPO,
                 ref: 'heads/master'
-            }, callback);
+            }, function(err, obj) {
+                respectLimit(obj, function() {
+                    callback(err, obj && obj.object && obj.object.sha);
+                });
+            });
         },
         function(sha, callback) {
             console.log("Got sha from #getReference: %s", JSON.stringify(sha));
