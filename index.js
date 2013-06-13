@@ -125,8 +125,8 @@ function downloadAct(task, callback) {
                     if (err) {
                         callback(err);
                     } else {
-                        if (data !== markdown) {
-                            updateAct(path, title, data, callback);
+                        if (new Buffer(data.content).toString('utf8') !== markdown) {
+                            updateAct(path, title, data, markdown, callback);
                         } else {
                             callback();
                         }
@@ -152,74 +152,19 @@ function respectLimit(obj, callback) {
     }
 }
 
-function updateAct(path, title, data, callback) {
-    async.waterfall([
-        function(callback) {
-            auth();
-            github.gitdata.getReference({
-                user: process.env.USER,
-                repo: process.env.REPO,
-                ref: 'heads/master'
-            }, function(err, obj) {
-                respectLimit(obj, function() {
-                    callback(err, obj && obj.object && obj.object.sha);
-                });
-            });
-        },
-        function(sha, callback) {
-            console.log("Got sha from #getReference: %s", JSON.stringify(sha));
-            auth();
-            github.gitdata.getTree({
-                user: process.env.USER,
-                repo: process.env.REPO,
-                sha: sha
-            }, function(err, tree) {
-                console.log("Got tree from #getTree: %s", JSON.stringify(tree));
-                callback(err, sha, tree);
-            });
-        },
-        function(sha, tree, callback) {
-            auth();
-            github.gitdata.createTree({
-                user: process.env.USER,
-                repo: process.env.REPO,
-                base_tree: tree,
-                tree: {
-                    path: path,
-                    content: data
-                }
-            }, function(err, newSha) {
-                console.log("Got newSha from #createTree: %s", JSON.stringify(newSha));
-                callback(err, sha, tree, newSha);
-            });
-        },
-        function(sha, tree, newSha, callback) {
-            auth();
-            github.gitdata.createCommit({
-                user: process.env.USER,
-                repo: process.env.REPO,
-                message: "New version for " + title,
-                tree: newSha,
-                parents: [tree],
-                committer: {
-                    name: 'GitLaw NZ Bot'
-                }
-            }, callback);
-        },
-        function(commitSha, callback) {
-            console.log("Got commitSha from #createCommit: %s", JSON.stringify(commitSha));
-            auth();
-            github.gitdata.updateReference({
-                user: process.env.USER,
-                repo: process.env.REPO,
-                ref: 'heads/master',
-                sha: commitSha
-            }, callback);
-        },
-    ], function(err) {
-        console.log("End of waterfall, error: %s", err);
-        callback(err);
-    });
+function updateAct(path, title, data, markdown, callback) {
+    auth();
+    GitHubApi.prototype.httpSend({
+        user: process.env.USER,
+        repo: process.env.REPO,
+        path: path,
+        message: "New version for " + title,
+        content: new Buffer(markdown).toString('base64'),
+        sha: data.sha,
+        author: {
+            name: "GitLaw NZ Bot"
+        }
+    }, callback);
 }
 
 function makeMarkdown(act, uri) {
