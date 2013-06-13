@@ -195,6 +195,6 @@ function makeMarkdown(act, uri) {
 
 searchQueue = async.queue(scrapeSearch);
 
-actQueue = async.queue(downloadAct, 5);
+actQueue = async.queue(downloadAct, 1);
 
 searchQueue.push('http://www.legislation.govt.nz/act/results.aspx?search=ta_act_All_ac%40ainf%40anif_an%40bn%40rn_200_a&p=1');
