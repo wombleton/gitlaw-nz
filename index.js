@@ -128,6 +128,7 @@ function downloadAct(task, callback) {
                         if (new Buffer(data.content).toString('utf8') !== markdown) {
                             updateAct(path, title, data, markdown, callback);
                         } else {
+                            console.log("%s matches. Moving to next file.");
                             callback();
                         }
                     }
@@ -154,6 +155,7 @@ function respectLimit(obj, callback) {
 
 function updateAct(path, title, data, markdown, callback) {
     auth();
+    console.log("Updating %s to new content", path);
     GitHubApi.prototype.httpSend.call(github, {
         user: process.env.USER,
         repo: process.env.REPO,
