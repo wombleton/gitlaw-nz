@@ -6,9 +6,18 @@ var async = require('async'),
     request = require('request'),
     url = require('url'),
     md = require('html-md'),
+    GitHubApi = require("github"),
+    github,
     actQueue,
     searchQueue,
     retried = {};
+
+github = new GitHubApi({
+    // required
+    version: "3.0.0",
+    // optional
+    timeout: 5000
+});
 
 _.each('ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''), function(letter) {
     try {
@@ -52,21 +61,9 @@ function scrapeSearch(uri, callback) {
                 uri.search = undefined;
                 uri.pathname = uri.pathname.replace(/\/[^\/]+\.html$/, '/whole.html');
 
-                file = getPath(title);
-
-                fs.exists(file, function(exists) {
-                    if (exists) {
-                        actQueue.push({
-                            title: title,
-                            uri: 'http://www.legislation.govt.nz' + url.format(uri)
-                        });
-                        console.log(file + " already exists, putting at the end...");
-                    } else {
-                        actQueue.unshift({
-                            title: title,
-                            uri: 'http://www.legislation.govt.nz' + url.format(uri)
-                        });
-                    }
+                actQueue.unshift({
+                    title: title,
+                    uri: 'http://www.legislation.govt.nz' + url.format(uri)
                 });
             });
 
@@ -78,7 +75,7 @@ function scrapeSearch(uri, callback) {
 function getPath(title) {
     title = title.trim().replace(/\r\n?/g, ' ').replace(/\//g, '-');
 
-    return path.join('acts', title.substring(0, 1).toUpperCase(), title);
+    return path.join('acts', title.substring(0, 1).toUpperCase(), title) + '.md';
 }
 
 function downloadAct(task, callback) {
@@ -98,6 +95,7 @@ function downloadAct(task, callback) {
             act,
             title,
             file,
+            path,
             markdown,
             dir;
 
@@ -117,23 +115,98 @@ function downloadAct(task, callback) {
             markdown = makeMarkdown(act, uri);
 
             if (title) {
-                file = getPath(title);
-
-                dir = path.dirname(file);
-
-                fs.exists(dir, function(exists) {
-                    if (!exists) {
-                        try {
-                            fs.mkdirSync(path.dirname(file));
-                        } catch(e) {}
+                path = getPath(title);
+                auth();
+                github.repos.getContent({
+                    user: process.env.USER,
+                    repo: process.env.REPO,
+                    path: path
+                }, function(err, data) {
+                    if (err) {
+                        callback(err);
+                    } else {
+                        if (data !== markdown) {
+                            updateAct(path, title, data, callback);
+                        } else {
+                            callback();
+                        }
                     }
-                    writeFile(file, markdown, callback);
                 });
-            } else {
-                console.log("COULD NOT FIND TITLE FOR: ", uri);
-                callback();
             }
         }
+    });
+}
+
+function auth() {
+    github.client.authenticate({
+        type: 'oauth',
+        token: process.env.GITHUB_TOKEN
+    });
+}
+
+function updateAct(path, title, data, callback) {
+    async.waterfall([
+        function(callback) {
+            auth();
+            github.gitdata.getReference({
+                user: process.env.USER,
+                repo: process.env.REPO,
+                ref: 'heads/master'
+            }, callback);
+        },
+        function(sha, callback) {
+            console.log("Got sha from #getReference: %s", sha);
+            auth();
+            github.gitdata.getTree({
+                user: process.env.USER,
+                repo: process.env.REPO,
+                sha: sha
+            }, function(err, tree) {
+                console.log("Got tree from #getTree: %s", tree);
+                callback(err, sha, tree);
+            });
+        },
+        function(sha, tree, callback) {
+            auth();
+            github.gitdata.createTree({
+                user: process.env.USER,
+                repo: process.env.REPO,
+                base_tree: tree,
+                tree: {
+                    path: path
+                    content: data
+                }
+            }, function(err, newSha) {
+                console.log("Got newSha from #createTree: %s", newSha);
+                callback(err, sha, tree, newSha);
+            });
+        },
+        function(sha, tree, newSha, callback) {
+            auth();
+            github.gitdata.createCommit({
+                user: process.env.USER,
+                repo: process.env.REPO,
+                message: "New version for " + title,
+                tree: newSha,
+                parents: [tree],
+                committer: {
+                    name: 'GitLaw NZ Bot'
+                }
+            }, callback);
+        },
+        function(commitSha, callback) {
+            console.log("Got commitSha from #createCommit: %s", commitSha);
+            auth();
+            github.gitdata.updateReference({
+                user: process.env.USER,
+                repo: process.env.REPO,
+                ref: 'heads/master',
+                sha: commitSha
+            }, callback);
+        },
+    ], function(err) {
+        console.log("End of waterfall, error: %s", err);
+        callback(err);
     });
 }
 
@@ -142,18 +215,6 @@ function makeMarkdown(act, uri) {
 
     return markdown.replace(/(\n\[\d+\]: )([^\n]+)/g, function(match, number, pathname) {
         return number + url.resolve(uri, pathname);
-    });
-}
-
-function writeFile(file, markdown, callback) {
-
-    fs.writeFile(file, markdown, function(err) {
-        if (err) {
-            console.log("Problem writing this file: ", file, markdown.length, err);
-        } else {
-            console.log("Written " + file);
-        }
-        callback();
     });
 }
 
