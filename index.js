@@ -138,7 +138,7 @@ function downloadAct(task, callback) {
 }
 
 function auth() {
-    github.client.authenticate({
+    github.authenticate({
         type: 'oauth',
         token: process.env.GITHUB_TOKEN
     });
