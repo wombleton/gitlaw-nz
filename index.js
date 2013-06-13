@@ -179,7 +179,10 @@ function updateAct(path, title, data, markdown, callback) {
             "author": null
         }
     },
-    callback);
+    function(err, result) {
+        console.log("Error: %s Result: %s", err, JSON.stringify(result));
+        callback(err);
+    });
 }
 
 function makeMarkdown(act, uri) {
