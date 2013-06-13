@@ -155,14 +155,14 @@ function updateAct(path, title, data, callback) {
             }, callback);
         },
         function(sha, callback) {
-            console.log("Got sha from #getReference: %s", sha);
+            console.log("Got sha from #getReference: %s", JSON.stringify(sha));
             auth();
             github.gitdata.getTree({
                 user: process.env.USER,
                 repo: process.env.REPO,
                 sha: sha
             }, function(err, tree) {
-                console.log("Got tree from #getTree: %s", tree);
+                console.log("Got tree from #getTree: %s", JSON.stringify(tree));
                 callback(err, sha, tree);
             });
         },
@@ -177,7 +177,7 @@ function updateAct(path, title, data, callback) {
                     content: data
                 }
             }, function(err, newSha) {
-                console.log("Got newSha from #createTree: %s", newSha);
+                console.log("Got newSha from #createTree: %s", JSON.stringify(newSha));
                 callback(err, sha, tree, newSha);
             });
         },
@@ -195,7 +195,7 @@ function updateAct(path, title, data, callback) {
             }, callback);
         },
         function(commitSha, callback) {
-            console.log("Got commitSha from #createCommit: %s", commitSha);
+            console.log("Got commitSha from #createCommit: %s", JSON.stringify(commitSha));
             auth();
             github.gitdata.updateReference({
                 user: process.env.USER,
