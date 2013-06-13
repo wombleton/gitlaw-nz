@@ -147,6 +147,8 @@ function auth() {
 function respectLimit(obj, callback) {
     if (obj && obj.meta && obj.meta['x-ratelimit-remaining'] === '0') {
         setTimeout(callback, 60 * 60 * 1000);
+    } else {
+        callback();
     }
 }
 
