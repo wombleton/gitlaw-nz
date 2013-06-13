@@ -154,7 +154,7 @@ function respectLimit(obj, callback) {
 
 function updateAct(path, title, data, markdown, callback) {
     auth();
-    GitHubApi.prototype.httpSend({
+    GitHubApi.prototype.httpSend.call(github, {
         user: process.env.USER,
         repo: process.env.REPO,
         path: path,
