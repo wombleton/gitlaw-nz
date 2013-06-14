@@ -5468,15 +5468,383 @@ Schedule 8: amended (with effect on 1 January 1953), on 1 October 1954, by [sect
 
 ---
 
+# Land Transfer (Hawke's Bay) Act 1931Public Act1931 No 27
+
+Date of assent9 November 1931
+
+Commencementsee section 1(2)
+
+An Act to authorise the making of a new land transfer register for the Land Registration District of Hawke's Bay (in replacement of the land transfer register destroyed by fire following the Hawke's Bay earthquake of 3 February 1931) and for matters incidental thereto
+
+##### 1 Short Title and commencement
+    
+*   (1) This Act may be cited as the [Land Transfer (Hawke's Bay) Act 1931][497], and is part of the Land Transfer Act 1952 (""the principal Act"").
+    
+    (2) This Act shall be deemed to have come into force on 4 February 1931\.
+    
+    Section 1(1): amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 2 Interpretation
+    
+*   In this Act, if not inconsistent with the context,---
+    
+    _certificate of title_ includes a folium of the provisional register
+    
+    _conclusive_, used with reference to a certificate of title, or to the register copy of a certificate of title, or to a registered instrument, or to the entry of a memorial of a registered instrument, means that such certificate of title or register copy or registered instrument or entry, as the case may be, has the same effect as if the certificate of title or register copy or registered instrument or entry had been issued, made, registered, or entered under the provisions of the principal Act
+    
+    _destroyed_ means lost, destroyed, or rendered indecipherable by or in consequence of the Hawke's Bay earthquake
+    
+    _District_ means the Land Registration District of Hawke's Bay
+    
+    _new register_ means the register for the district made under the authority of this Act, and includes a provisional register
+    
+    _old register_ means the register for the district in existence immediately prior to 3 February 1931, and includes the provisional register
+    
+    _Registrar_ means the Registrar-General
+    
+    The expressions _transfer_, _mortgage_, and _lease_ mean respectively memorandum of transfer, memorandum of mortgage, and memorandum of lease
+    
+    _the Hawke's Bay earthquake_ or _the earthquake_ means the earthquake that occurred in Hawke's Bay on 3 February 1931, and includes all fires consequent thereon or incidental thereto
+    
+    _the said date_ means 3 February 1931\.
+    
+    Section 2 **Registrar**: replaced, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+#### The new register
+
+\[Repealed\]
+    
+*   Heading: repealed, on 22 December 1933, pursuant to [section 3(2)][504] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+
+##### 3 Registrar directed to make new register
+    
+*   \[Repealed\]
+    
+    Section 3: repealed, on 22 December 1933, by [section 3(2)][504] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+
+#### Provisions applicable where outstanding duplicates of instruments extant
+
+##### 4 Provisions applicable in cases where outstanding duplicates have not been destroyed
+    
+*   (1) The provisions of this section shall apply only in cases where certificates of title or other instruments that were registered in the old register or duplicates of instruments that were embodied in the old register have not been destroyed.
+    
+    (2) In any case to which this section applies, the Registrar may cause copies of such instruments or duplicates as aforesaid to be prepared. Such copies shall, upon being duly authenticated under the hand and seal of the Registrar, and subject to the provisions of this Act, have the same force and effect as the corresponding folios of the old register, or the corresponding original instruments, as the case may be.
+    
+    (3) In the case of certificates of title, the Registrar, in lieu of making and authenticating copies as provided for in the last preceding subsection, may issue new certificates of title which shall, subject to the provisions of this Act, have the same force and effect as if they were certificates of title issued under the provisions of the principal Act. Every such certificate shall have endorsed thereon a memorandum to the effect that it is issued in lieu of a certificate of title the register copy of which has been destroyed.
+    
+    (4) In any case where an instrument was executed in triplicate, and whether or not a triplicate was presented for registration, if 2 copies of such instrument have been destroyed, the provisions of subsection (2) shall apply with respect to the remaining triplicate if the Registrar is satisfied that the same is a true triplicate of such instrument. Unless and until the Registrar endorses thereon a memorandum to the effect that it is conclusive, no such remaining triplicate or duplicate copy adopted in accordance with the next succeeding subsection shall be conclusive as to any memorials that may have been endorsed upon the triplicate that was retained by the Registrar, and the Registrar shall endorse upon it a memorandum that it is not conclusive as to such memorials (if any). Subject to the foregoing provisions of this subsection, every such remaining triplicate or adopted duplicate shall for the purposes of this section be regarded as if it were the registered triplicate upon which memorials were or may have been endorsed by the Registrar.
+    
+    (5) On the adoption of any triplicate of any registered instrument it shall be lawful for the Registrar to receive with the adopted triplicate 2 copies thereof, and to certify one of such copies free of cost, and to issue the same in substitution for the outstanding duplicate of the instrument upon which memorials are to be endorsed under section 40 of the principal Act, and thereafter such copy shall have the same force and effect as if it were the original duplicate upon which memorials may be endorsed by the Registrar.
+    
+    Section 4(4): amended, on 22 December 1933, by [section 8(a)][505] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    
+    Section 4(5): inserted, on 22 December 1933, by [section 8(b)][505] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    
+    Section 4(5): amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 5 Evidential value of certificates and other instruments issued or authenticated under last preceding section
+    
+*   (1) Except as provided in subsection (3), no certificate of title issued under the last preceding section, or issued in substitution for any such certificate of title, or issued in respect of any part of the land comprised in any such certificate of title, and no copy of any instrument authenticated under that section, shall, until the expiration of 1 year from the date of the issue of such certificate of title, or from the date of the issue of the first such certificate where more than 1 certificate of title has been issued, or from the date of the Registrar's authentication of such copy, as the case may be, or until the expiration of 1 year from the date of the passing of this Act, whichever period is the later to expire, be conclusive as to the proprietorship of any mortgage, lease, easement, or _profit à prendre_, or as to the non-existence on 3 February 1931 of---
+        
+    *   (a) any charge created otherwise than by a registered mortgage (not including a sub-mortgage); or
+    
+    *   (b) any registered lien; or
+    
+    *   (c) any caveat lodged to protect any estate or interest; or
+    
+    *   (d) any Proclamation taking the land or any part of it; or
+    
+    *   (e) any restriction or other matter in respect of which any memorial may have been registered in the old register; or
+    
+    *   (f) any encumbrance upon or other dealing with any mortgage, lease, easement, or _profit à prendre_ registered on or before the said date.
+    
+    (2) Any person claiming the benefit of any such charge, lien, estate or interest, encumbrance, or other dealing as is referred to in the last preceding subsection may re-register such charge or lien in the manner provided for the registration of the same in the old register, or may lodge a caveat or a new caveat to protect such charge, lien, estate or interest, or encumbrance, or other dealing. Upon the expiration of the time limited by the said subsection every such charge or lien in respect of which a memorial has not been entered on the new register by the Registrar, or that has not been re-registered, or in respect of which a caveat has not been lodged, and every caveat lodged to protect an interest in respect of which a new caveat has not been lodged, shall, as against any person who within the time limited as aforesaid or at any time thereafter becomes a registered proprietor bona fide and for value, be deemed never to have been registered or lodged, as the case may be.
+    
+    (3) If the Registrar is satisfied, upon such evidence as may seem to him to be sufficient, that the land comprised in any certificate of title or dealt with by any other instrument referred to in the last preceding section was not on the said date subject to any such charge, lien, estate or interest, encumbrance, or other dealing as is mentioned in subsection (1), the Registrar may endorse upon the copy prepared and authenticated, or upon the new certificate of title issued, as respectively provided for in the last preceding section, a memorandum to the effect that it is conclusive as to such matters, or as to any 1 or more of them, and it shall thereupon be conclusive accordingly.
+    
+    Section 5(1)(c): replaced, on 22 December 1933, by [section 9][506] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    
+    Section 5(2): amended, on 22 December 1933, by [section 10][507] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+
+#### Provisions applicable where registered instruments and outstanding duplicates destroyed
+
+##### 6 Where outstanding copy of certificate of title destroyed new certificate may be issued on application of registered proprietor or mortgagee
+    
+*   (1) Any person claiming to have been on the said date the registered proprietor, or a mortgagee under a registered mortgage, of an estate of freehold, evidenced by any certificate of title, in any land, if he knows or believes that such certificate of title was destroyed, may make application to the Registrar, in the form in the Schedule or in such other form as may be prescribed, for the issue of a new certificate of title for such land. Such application shall have endorsed thereon or shall be accompanied by a plan of the land of which the applicant claims to have been the registered proprietor or mortgagee, and shall include a statement of the registered encumbrances, liens, and interests, statutory and other charges, restrictions, and caveats to which, within the knowledge or belief of the applicant, the land was subject; and the statements contained in such application shall be verified by the statutory declaration of the applicant. The plan shall be as full and accurate as the circumstances of each case will permit without the making of a new survey of the land.
+    
+    (2) The Registrar, if he is satisfied, after the making of such inquiries and the sending of such notices, if any, as he may deem necessary or advisable, that the certificate of title was destroyed, and that the applicant was the registered proprietor or a mortgagee as aforesaid, may issue a new certificate of title for the land the subject of the application.
+
+##### 7 Memorandum of interests admitted by proprietor or mortgagee
+    
+*   (1) The Registrar shall endorse on every such new certificate of title a memorandum setting forth the encumbrances, liens, and interests, statutory and other charges, restrictions, and caveats to which the land appears to him to be subject.
+    
+    (2) In any case in which it seems to him proper so to do, the Registrar may at any time cancel any such memorandum, or he may add to or amend the statements contained in any such memorandum, by a further memorandum:
+    
+    provided that in any case where by any such addition or amendment it is shown that any interest in the land is subject to any further encumbrance, lien, interest, charge, restriction, or caveat, the Registrar shall forthwith send by registered letter to every registered proprietor adversely affected by such addition or amendment a notice that such addition or amendment has been made.
+    
+    (3) Every such memorandum shall be prima facie proof of the existence of the estates or interests or of the matters referred to in it.
+
+##### 8 Where outstanding copy of certificate of title destroyed Registrar may issue new one
+    
+*   The Registrar, in any case where he knows or believes that the certificate of title for any land was destroyed, may, if it seems to him proper so to do, of his own motion or at the instance of any person claiming an estate or interest in the land, issue a new certificate of title for such land. The provisions of the last preceding section shall, with the necessary modifications, apply to every such certificate of title.
+
+#### Interim certificates of title
+
+##### 9 Interim certificate of title
+    
+*   Every certificate of title issued pursuant to section 6 or section 8 shall have endorsed thereon a memorandum to the effect that it is an interim certificate of title.
+
+##### 10 Effect of interim certificate of title
+    
+*   (1) Except as provided in the next succeeding subsection, or in section 11 or section 12, an interim certificate of title shall not be conclusive.
+    
+    (2) The Registrar may at any time, on such evidence as seems to him to be sufficient, endorse upon an interim certificate of title a memorandum to the effect that it is conclusive as to all estates and interests evidenced thereby, or that it is conclusive as to any 1 or more of such estates and interests, or that it is conclusive as to the description and delineation of the land comprised therein, and the said certificate of title shall thereupon be conclusive according to the tenor of such memorandum.
+    
+    (3) Any certificate of title issued in substitution for an interim certificate of title or issued for any part of the land comprised in an interim certificate shall be an interim certificate, with respect to which the provisions of the last preceding subsection shall apply.
+
+##### 11 Application to make interim certificate conclusive
+    
+*   (1) The registered proprietor, or a mortgagee, of land comprised in an interim certificate of title may at any time make application in writing to the Registrar, to endorse upon such certificate a memorandum that it is conclusive. Such application shall be accompanied by such evidence as may be necessary to establish, without reasonable doubt, the ownership of the land comprised in the certificate of title, and the encumbrances, liens, interests, charges, and restrictions (if any) to which the land is subject.
+    
+    (2) Upon receipt of any such application the Registrar shall consider the evidence submitted in support thereof, and may require the production of further evidence in support thereof.
+    
+    (3) If the Registrar is satisfied with any such evidence or further evidence, he shall endorse upon the interim certificate of title a memorandum as provided for by the last preceding section.
+    
+    (4) If the Registrar is not satisfied with such evidence or further evidence, he may, at the expense of the applicant, publish notice of the application once in the _Gazette_ and twice at an interval of not less than 2 weeks in some newspaper or newspapers published and circulating in the district. Such notice shall limit and appoint a time, not less than the prescribed period, within which any person claiming to have been the registered proprietor of, or claiming to be entitled to the benefit of any encumbrance, lien, or interest upon or in, the land may present for registration an appropriate instrument, in the same manner as if the old register had not been destroyed, for the purpose of re-evidencing such encumbrance, lien, or interest, or may lodge a caveat in the form required by section 137 of the principal Act to protect the same, whether such encumbrance, lien, or interest was registered in the old register or not.
+    
+    (5) After the expiration of the time limited in any such notice, the Registrar shall, unless in his opinion there is good and sufficient reason to the contrary, endorse upon the interim certificate of title for the land referred to in such notice a memorandum to the effect that it is conclusive, or that it is conclusive except as to the description and delineation of the land comprised therein, as to him shall seem proper in the circumstances, and the certificate of title shall thereupon be conclusive according to the tenor of such memorandum; but subject, nevertheless, to the rights, if any, of any person who shall theretofore have lodged a caveat.
+    
+    (6) The Registrar may at any time thereafter, if he is reasonably satisfied that the interim certificate correctly sets forth the description and delineation of the land comprised therein, endorse a further memorandum to the effect that such certificate of title is conclusive as to the description and delineation of the land, and the certificate shall thereupon be conclusive according to the tenor of such memorandum.
+    
+    Section 11(4): amended, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    
+    Section 11(4): amended, on 1 June 2002, by [section 65(4)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+
+##### 12 Interim certificates of title to become conclusive after 6 years
+    
+*   Every interim certificate shall, after the expiration of 6 years from the date of its issue, be conclusive as to all matters except the description and delineation of the land comprised therein, whether or not the Registrar has endorsed thereon a memorandum to that effect. For the purposes of this section, in cases when an interim certificate has been issued in substitution for an interim certificate or in respect of part of the land comprised in a former interim certificate, the period of 6 years aforesaid shall begin to run on the date of the issue of the original interim certificate.
+
+#### Leasehold interests in Crown lands or other lands administered by the Hawke's Bay Land Board
+
+##### 13 Where outstanding copy of lease or licence lost or destroyed
+    
+*   (1) Where, with respect to Crown land or other land administered by the Commissioner of Crown Lands (appointed under section 12A(1) of the Survey Act 1986), a lease or licence a duplicate of which was embodied in the old register as a folium has been cancelled, the Commissioner shall, on application by the lessee or licensee or by a mortgagee, prepare and execute and shall present for registration a new lease or licence of the land for the unexpired residue of the term, and subject to the terms and conditions, as nearly as they can be ascertained, of the destroyed lease or licence. The Registrar shall thereupon register such new lease or licence in the new register in the manner in which the destroyed lease or licence was registered. Every lease or licence issued under this section shall have endorsed thereon a memorandum to the effect that it is an interim lease or licence.
+    
+    (2) The provisions of sections 7, 9, 10, 11, and 12 shall apply, with the necessary modifications, to every interim lease or licence issued under this section in the same manner as they apply to interim certificates of title.
+    
+    Section 13(1): amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+#### Other interests
+
+##### 14 Establishing interests other than freeholds and certain leaseholds
+    
+*   (1) Any person claiming to have been the registered proprietor on the said date of any estate or interest in or of any charge or lien upon any land, other than an estate of freehold in respect of which a certificate of title existed on the said date, or other than a leasehold interest under a lease or licence embodied in the old register as a folium thereof, and knowing or believing that the instrument under which he claims has been destroyed may, without payment of any fee, lodge a caveat in the form required by section 137 of the principal Act to protect such estate or interest, charge, or lien. Every such caveat shall operate to preserve for all purposes the priority of the estate or interest, charge, or lien to protect which such caveat was lodged:
+    
+    provided that where pursuant to this section a caveat affecting the land comprised in any certificate of title or in any lease or licence is lodged at any time after an interim certificate of title or an interim lease or licence comprising such land has been made or has become conclusive, in accordance with the foregoing provisions of this Act, such caveat shall not operate to affect any estate or interest in such land that may have been acquired for valuable consideration, without notice of the estate or interest, charge, or lien of the caveator:
+    
+    provided also that in the case of the land comprised in any certificate of title or other instrument to which section 5 applies, a caveat lodged in accordance with this section shall not affect the estate or interest of a registered proprietor whose right or interest is protected by subsection (2) of that section.
+    
+    (2) Upon the registration of an instrument for the purpose of evidencing any such estate or interest, charge, or lien, such caveat shall be deemed to have lapsed.
+    
+    (3) No such caveat shall prevent the registration of any instrument in which, or by endorsement on which, the rights of the caveator are admitted. The consent of the caveator to the registration of any such instrument shall not be necessary.
+    
+    Section 14(1): amended, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    
+    Section 14(1) first proviso: amended, on 22 December 1933, by [section 11(a)][509] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    
+    Section 14(1) second proviso: inserted, on 22 December 1933, by [section 11(b)][509] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+
+##### 15 Registered proprietor bound to execute new instruments where originals destroyed
+    
+*   (1) Every proprietor whose estate or interest is subject to an encumbrance, lien, or interest acquired under or by virtue of an instrument that was destroyed, upon being requested so to do by the person who was on the said date the proprietor of such encumbrance, lien, or interest, or by the successor in title of such person, shall be bound, in the same manner as if he had contracted so to do, but without cost to himself, to execute an appropriate instrument having as nearly as possible the same effect, after registration, as the destroyed instrument had.
+    
+    (2) No instrument so executed by any such person shall, unless therein expressed or necessarily implied to the contrary as regards the person executing the same, have any greater effect as against any person or any estate or interest than the destroyed instrument had, and no such instrument shall, unless therein expressed or necessarily implied to the contrary, operate so as to relieve any person, other than any party to it, from the obligation to perform any covenant that may have been expressed or implied in any destroyed instrument.
+    
+    (3) Notwithstanding anything to the contrary in the principal Act, every new instrument executed and registered to replace a destroyed instrument shall have the same priority over any other instrument as the destroyed instrument had, notwithstanding that such new instrument may be registered subsequently to the registration of such other instrument. Where a new instrument has such priority the Registrar shall add to the memorial of such new instrument a memorandum indicating the priority.
+
+#### Maori freehold land
+    
+*   Heading: amended, on 27 November 1947, pursuant to [section 2][478] of the Maori Purposes Act 1947 (1947 No 59).
+
+##### 16 Partition orders of Maori freehold land
+    
+*   (1) Notwithstanding anything to the contrary in the Native Land Act 1909, or in any other Act, the Registrar shall not be bound to register any partition order affecting any Maori freehold land or any other land that is or was subject to the jurisdiction of the Native Land Court, or to register any other order having the effect of vesting in any person an estate of freehold in any such land, unless and until he is reasonably satisfied either---
+        
+    *   (a) that on the said date there was no interest of any kind and no caveat registered in the old register or under the Deeds Registration Act 1908, as the case may be, affecting the land comprised in such partition order or other order; or
+    
+    *   (b) that every such interest or caveat has been re-registered or otherwise protected in accordance with the provisions of this Act.
+    
+    (2) For the purposes of this section the expression _Maori freehold land_ has the same meaning as in the Native Land Act 1909\.
+    
+    Section 16 heading: amended, on 27 November 1947, pursuant to [section 2][478] of the Maori Purposes Act 1947 (1947 No 59).
+    
+    Section 16(1): amended, on 27 November 1947, pursuant to [section 2][478] of the Maori Purposes Act 1947 (1947 No 59).
+    
+    Section 16(2) : amended, on 27 November 1947, pursuant to [section 2][478] of the Maori Purposes Act 1947 (1947 No 59).
+
+#### Miscellaneous
+
+##### 17 Power to compel production of instruments, etc
+    
+*   (1) In addition to the powers conferred on him by the principal Act, the Registrar may, in respect of land in the district, exercise all or any of the powers conferred by the following provisions of this section.
+    
+    (2) He may require any person having in his possession or under his control any grant, certificate, or other instrument of title, or any plan, search notes, report on title, or other written or printed document evidencing or tending to evidence in any manner the boundaries, extent, or position of, or the state of the title to, or the encumbrances upon, any parcel of land in the district, to produce the same within a reasonable time to be fixed by a notice requiring such production and indicating the particular documents or kind of documents required, and to deposit the same in any land registry office for such time as may be necessary to enable the Registrar to examine or make copies of the same.
+    
+    (3) He may make such copies or records of, or such extracts from, any such plans or documents as he thinks fit.
+    
+    (4) He may require any person of any of the classes hereinafter mentioned to give any information, explanation, or evidence, in writing upon oath or otherwise, concerning the subject matter of such application, title, or claim, or, except in the case of a solicitor or agent acting as hereinafter mentioned, to attend before him at any land registry office and give such information, explanation, or evidence orally upon oath or otherwise. The classes of persons herein referred to are the following:
+        
+    *   (a) any person making an application under the provisions of this Act; or
+    
+    *   (b) any person being, or claiming to be entitled as, a registered proprietor on the old register; or
+    
+    *   (c) any person claiming to become the registered proprietor of any estate or interest in any land in the district; or
+    
+    *   (d) any person being the solicitor or agent of, and acting on behalf of, any of the aforesaid persons.
+    
+    (5) If the proprietor of any easement, or _profit à prendre_, or other encumbrance which had been registered, neglects to furnish such particulars of his easement, or _profit à prendre_, or other encumbrance, as the Registrar may require by notice in writing, directed to the usual or last known address of such proprietor, the Registrar may, at his discretion, at any time after the expiration of the prescribed period, remove any entry of such easement, _profit à prendre_, or other encumbrance from the register, or from any certificate of title, or other outstanding duplicate of the register, by marking the memorial thereof in the register with the words ""Removed.---See K No . . . (\[_date_\]) . . . Registrar"", and a like entry shall be made or noted on every servient title or tenement against which the easement or _profit à prendre_, or encumbrance has been registered. From the date of such removal being noted by the Registrar such easement, or _profit à prendre_, or encumbrance shall cease and determine.
+    
+    Section 17(2): amended, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    
+    Section 17(4): amended, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    
+    Section 17(5): inserted, on 22 December 1933, by [section 12][510] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    
+    Section 17(5): amended, on 1 June 2002, by [section 65(4)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    
+    Section 17(5): amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 18 Penalty for not producing documents or attending to give information
+    
+*   If upon a requisition in writing made by the Registrar for any purpose mentioned in the last preceding section any person without reasonable cause refuses or neglects to comply with such requisition, he shall be liable to the penalties provided for by section 212 of the principal Act.
+    
+    Section 18: amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 19 Instruments may be lodged although relative folium of register not reconstructed
+    
+*   Until a folium of the new register is made in respect of any parcel of land the Registrar shall accept for registration or lodgment every instrument or document relating to such parcel of land that appears to be in order and that could have been registered or lodged if the old register had not been destroyed. He shall file and index every such instrument or document, and upon the making of a folium of the new register for such parcel of land he shall deal in the usual manner with all such instruments or documents that are then found to be in order affecting such parcel of land, in such a manner as to preserve their relative priorities in accordance with the provisions of the principal Act and of this Act.
+
+##### 20 Providing for copies of plans to be filed, without fees
+    
+*   (1) The Registrar may acquire and file as records of his office such plans or copies of plans as shall appear to him to be desirable as evidencing or tending to evidence the boundaries of any land in the district comprised in any certificate of title or in any destroyed deposited plan, and no fee shall be payable for the checking or deposit of any such plan or copy of plan.
+    
+    (2) The provisions of this section shall extend and apply to plans of surveys made since the said date for the purpose of replacing deposited plans that were destroyed, or for the purpose only of fixing the boundaries of the land comprised in any certificate of title existing on the said date.
+    
+    (3) Except in the case of plans referred to in subsection (2), the Registrar shall endorse on every plan or copy of plan filed as aforesaid a memorandum showing from whom the plan or copy was acquired, and, if possible and necessary, by whom and under whose authority it was made.
+
+##### 21 Conditions as to compensation for mistake of Registrar
+    
+*   (1) No person having or claiming any estate or interest in or any charge or lien upon any land who had notice by personal service or otherwise, or was aware of any proposed act of the Registrar, shall be entitled to commence any action for the recovery of damages under the provisions of the principal Act in respect of any loss he may have sustained by reason of such act of the Registrar unless, within a reasonable time after receiving such notice or becoming aware of such proposed act, he has taken the appropriate steps in accordance with the provisions of this Act or the principal Act to protect his estate or interest, charge, or lien.
+    
+    (2) No person shall be entitled to commence any action for the recovery of damages under the provisions of the principal Act in respect of any loss he may have sustained by reason of an interim certificate of title or interim lease or licence becoming or being made conclusive as against any estate or interest, charge, or lien he may have had in or over the land comprised in such certificate of title, lease, or licence unless action to recover the same is commenced within 6 years from the date when such certificate of title or such lease or licence has become or been made conclusive:
+    
+    provided that any person being under the disability of infancy, unsoundness of mind, or absence from New Zealand may bring any action as aforesaid after the expiration of the aforesaid period of 6 years but within 3 years from the date on which such disability ceases.
+
+##### 22 No fee for certificate of title or for provisional lease or mortgage issued in lieu of destroyed one
+    
+*   No fee shall be payable to the Registrar for a provisional or new certificate of title or for a provisional lease or licence or mortgage of any land, wheresoever situated, issued in lieu of a destroyed certificate of title, lease, licence, or mortgage, and it shall not be necessary for the Registrar to advertise notice of his intention to issue any such certificate, lease, licence, or mortgage if he is reasonably satisfied that the certificate, lease, licence, or mortgage in lieu of which it is to be issued was destroyed by the earthquake:
+    
+    provided that nothing in this section shall affect the liability of any person to pay any fee outstanding and unpaid in respect of any destroyed certificate of title or other instrument.
+    
+    Section 22: amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 23 Exemption from stamp duty and fees
+    
+*   The following instruments shall be exempt from stamp duty or registration fees, as the case may be, namely:
+        
+    *   (a) every instrument executed or registered in substitution for a registered instrument that has been destroyed, if the Registrar is satisfied that such new instrument is substantially to the same effect as the destroyed instrument:
+    
+    *   (b) \[Repealed\]
+    
+    *   (c) \[Repealed\]
+    
+    *   (d) every caveat lodged under the provisions of this Act, and every withdrawal of any such caveat.
+    
+    Section 23(b): repealed, on 1 December 1953, by section 7(2) of the Stamp Duties Amendment Act 1953 (1953 No 54).
+    
+    Section 23(c): repealed, on 1 December 1953, by section 7(2) of the Stamp Duties Amendment Act 1953 (1953 No 54).
+
+##### 24 Registrations may be effected in City of Wellington
+    
+*   \[Repealed\]
+    
+    Section 24: repealed, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
+
+---
+
+# Land Transfer (Hawke's Bay) Amendment Act 1933Public Act1933 No 39
+
+Date of assent22 December 1933
+
+Commencement22 December 1933
+
+An Act to amend the Land Transfer (Hawke's Bay) Act 1931
+
+##### 1 Short Title
+    
+*   This Act may be cited as the [Land Transfer (Hawke's Bay) Amendment Act 1933][511], and is part of the Land Transfer Act 1952 (""the principal Act"").
+    
+    Section 1: amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 2 Interpretation
+    
+*   In this Act---
+    
+    _adopted_ means used for the purpose of making a copy under section 4 of the special Act, and _adoption_ has a corresponding meaning
+    
+    _the special Act_ means the Land Transfer (Hawke's Bay) Act 1931\.
+    
+    Section 2 **the principal Act**: repealed, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 3 Registrar to make a new register for district
+    
+*   (1) The Registrar is hereby directed to make a new register for the district, and for that purpose is hereby given all such necessary authority as is not expressly conferred by the special Act or this Act.
+    
+    (2) This section is in substitution for section 3 of the special Act, and that section is hereby repealed accordingly.
+
+##### 4 Registrar may apply to Hawke's Bay Adjustment Court for declaratory order in respect of matters concerning the new register
+    
+*   (1) The Registrar may at his discretion at any time apply to the Hawke's Bay Adjustment Court for an order under section 12 of the Hawke's Bay Earthquake Act 1931 to define the rights and liabilities of any person or persons in or in relation to any land or interest in land within the district, if the definition of such right or liability by that court would facilitate the making of the new register for the district.
+    
+    (2) Notice of every such application shall be given by the Registrar by registered letter to every person known or believed by him to be entitled to any right or to be subject to any liability in respect of any land the subject matter of the application.
+    
+    (3) Every such application, until disposed of by the court, shall be effective as a caveat by the Registrar, and he shall make an entry in the register that such application has been made.
+
+##### 5 Modification of section 44 of principal Act for purposes of special Act
+    
+*   The Registrar shall have power, and from the passing of the special Act shall be deemed to have had power, to act under the provisions of section 44 of the principal Act without the necessity of complying with the proviso to subsection (2) of that Act; and he may dispense with copying any outstanding duplicate of any instrument.
+    
+    Section 5 heading: amended, on 1 February 1999, pursuant to section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+    
+    Section 5: amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
+
+##### 6 Registrar may decline to issue certificates or to register certain instruments until prescribed conditions satisfied
+    
+*   (1) Notwithstanding any enactment or rule of law to the contrary, the Registrar shall not be bound to issue any certificate of title upon a warrant, or to embody in the provisional register as a folium thereof any certificate under the hand of the Commissioner of Crown Lands to the effect that any purchase money has been paid, or to register any lease or licence issued under the Land Act 1924, or the Land for Settlements Act 1925 or any other Act, or to register any vesting of any estate or interest in any person whomsoever under a statute which does not expressly direct that the estate or interest shall vest free from all encumbrances, restrictions, liens, and interests, unless and until he is informed under the hand of the Commissioner of Crown Lands, or until he is reasonably satisfied, either---
+        
+    *   (a) that on the said date (as defined by the special Act) no caveat was noted and no interest of any kind was registered in the old register or under the Deeds Registration Act 1908, as the case may be, affecting the land comprised in such warrant, certificate under the hand of the Commissioner of Crown Lands, lease, or licence, or statute, as the case may be; or
+    
+    *   (b) if a caveat had been noted or an instrument had existed on the said date, then that such interest or caveat has been re-registered or disclosed in writing to the Registrar in such a manner as to enable him to bring forward a memorial of it, or that it has been otherwise protected in accordance with the provisions of this Act or the special Act.
+    
+    (2) The Registrar on being satisfied of the existence of such a caveat or interest on the said date shall bring forward a memorial thereof on any certificate of title, provisional register, lease, or licence, which he shall issue or register.
+
+##### 7 New instruments executed under section 15 not dependent on any confirmation or approval that may have been required in respect of destroyed instruments
+    
+*   Where pursuant to section 15 of the special Act any person is required to execute an instrument in replacement of a destroyed instrument, it shall not be necessary to obtain in respect of the new instrument any consent, approval, or confirmation that may have been required in respect of the destroyed instrument, but unless and until the contrary is proved, every such consent, approval, or confirmation shall be deemed to have been duly given in respect of the destroyed instrument on or before its registration.
+
+---
+
 # Land Transfer Amendment Act 1963Public Act1963 No 61
 
 Date of assent23 October 1963
 
 Commencement23 October 1963
 
+An Act to amend the Land Transfer Act 1952
+
 ##### 1 Short Title
     
-*   This Act may be cited as the [Land Transfer Amendment Act 1963][504], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Land Transfer Amendment Act 1963][512], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
 
 ## Part 1  
 Prescriptive title to land
@@ -5499,9 +5867,9 @@ Prescriptive title to land
     
     *   (b) shall be (or be deemed to have been) capable of being adverse possession as against the other tenant or tenants.
     
-    Section 3(1): amended, on 17 May 2005, by [section 18][505] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 3(1): amended, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
-    Section 3(3): inserted, on 30 March 1995 (but not imposing on any person any liability for any action, or failure or refusal to act, occurring before 30 March 1995), by [section 2(1)][506] of the Land Transfer Amendment Act 1995 (1995 No 11).
+    Section 3(3): inserted, on 30 March 1995 (but not imposing on any person any liability for any action, or failure or refusal to act, occurring before 30 March 1995), by [section 2(1)][513] of the Land Transfer Amendment Act 1995 (1995 No 11).
 
 ##### 4 Person with registered interest under disability
     
@@ -5571,9 +5939,9 @@ Prescriptive title to land
     
     (3) Any caveat under this section may be withdrawn by the caveator or by his attorney or agent under a written authority, and either as to the whole or any part of the land to which it relates.
     
-    Section 8(1): amended, on 17 May 2005, by [section 18][505] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 8(1): amended, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
-    Section 8(2): amended, on 17 May 2005, by [section 18][505] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 8(2): amended, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 9 Caveat by registered proprietor of fee simple or estate for life, etc
     
@@ -5747,7 +6115,7 @@ Prescriptive title to land
     
     Section 16(2)(a): amended, on 1 June 2002, by [section 68(1)][357] of the Cadastral Survey Act 2002 (2002 No 12).
     
-    Section 16(4): amended, on 1 July 2003, by [section 262][507] of the Local Government Act 2002 (2002 No 84).
+    Section 16(4): amended, on 1 July 2003, by [section 262][514] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17 Application in respect of land of dissolved company or other corporate body
     
@@ -5789,7 +6157,7 @@ Prescriptive title to land
     
 *   The provisions of sections 239 to 240D of the principal Act apply in relation to notices under this Act.
     
-    Section 20: replaced, on 17 May 2005, by [section 18][505] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 20: replaced, on 17 May 2005, by [section 18][508] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 21 This Part not to apply in certain cases
     
@@ -5807,7 +6175,7 @@ Prescriptive title to land
     
     *   (f) with respect to any land occupied together with any adjoining land by the owner of that adjoining land or by any other person by virtue of a change of course of any river, creek, or stream, or by virtue of the isolation of that land from any other land in the same ownership by any river, creek, or stream or by any other natural feature of the land or of adjoining land or by any road.
     
-    Section 21(b): amended, on 1 July 1993, pursuant to [section 362(2)][508] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 21(b): amended, on 1 July 1993, pursuant to [section 362(2)][515] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ## Part 2  
 Miscellaneous amendments of principal Act
@@ -5826,9 +6194,11 @@ Date of assent7 October 1966
 
 Commencement7 October 1966
 
+An Act to amend the Land Transfer Act 1952
+
 ##### 1 Short Title
     
-*   This Act may be cited as the [Land Transfer Amendment Act 1966][509], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Land Transfer Amendment Act 1966][516], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
 
 ## Part 2  
 Miscellaneous amendments to principal Act
@@ -5847,9 +6217,11 @@ Date of assent30 November 1982
 
 Commencementsee section 1
 
+An Act to amend the Land Transfer Act 1952 to provide compensation for persons suffering loss from reliance on official search copies, and to authorise the preparation of fresh duplicate grants or certificates of title where the originals have been lost
+
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Land Transfer Amendment Act (No 2) 1982][510], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Land Transfer Amendment Act (No 2) 1982][517], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
     
     (2) Sections 3 and 4 shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
@@ -5873,7 +6245,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Land Transfer Amendment Act 1991][511], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Land Transfer Amendment Act 1991][518], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on the day after the day on which it receives the Royal assent.
 
@@ -5893,7 +6265,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Land Transfer Amendment Act 1993][512], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Land Transfer Amendment Act 1993][519], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 July 1994\.
 
@@ -6111,15 +6483,15 @@ Computer registers and electronic instruments
     
     (5) The Registrar need not create a computer unit title register in respect of any unit in any particular case if, in his or her opinion, it is not expedient to do so.
     
-    Section 11(1): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 11(1): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 11(2): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 11(2): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 11(2)(a): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 11(2)(a): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 11(4)(a): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 11(4)(a): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 11(4)(b): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 11(4)(b): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
 
 ##### 12 Content of computer unit title register
     
@@ -6139,7 +6511,7 @@ Computer registers and electronic instruments
     
     *   (g) any other information that is required to be included by any Act or regulations, or that the Registrar considers appropriate to give effect to the requirements of any Act or regulations.
     
-    Section 12(d): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 12(d): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
 
 ##### 13 Composite computer registers
     
@@ -6213,11 +6585,11 @@ Computer registers and electronic instruments
     
     (5) \[Repealed\]
     
-    Section 17(2): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 17(2): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 17(3): amended, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 17(3): amended, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 17(5): repealed, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 17(5): repealed, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
 
 #### No certificates of title for electronic transactions land
 
@@ -6271,7 +6643,7 @@ Computer registers and electronic instruments
     
     (4) \[Repealed\]
     
-    Section 20(4): repealed, on 20 June 2011, by [section 233(1)][513] of the Unit Titles Act 2010 (2010 No 22).
+    Section 20(4): repealed, on 20 June 2011, by [section 233(1)][520] of the Unit Titles Act 2010 (2010 No 22).
 
 #### Easements
 
@@ -6345,15 +6717,15 @@ Computer registers and electronic instruments
     
     (4) The Registrar may refuse to accept a paper instrument presented by any person if he or she believes on reasonable grounds that acceptance of the paper instrument would defeat the purpose of an Order in Council made under subsection (1).
     
-    Section 24 heading: amended, on 1 August 2008, by [section 347(1)][514] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 24 heading: amended, on 1 August 2008, by [section 347(1)][521] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 24(1): amended, on 1 August 2008, by [section 347(2)(a)][514] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 24(1): amended, on 1 August 2008, by [section 347(2)(a)][521] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 24(2)(a): amended, on 1 August 2008, by [section 347(2)(a)][514] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 24(2)(a): amended, on 1 August 2008, by [section 347(2)(a)][521] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 24(3): amended, on 1 August 2008, by [section 347(2)(a)][514] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 24(3): amended, on 1 August 2008, by [section 347(2)(a)][521] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 24(3)(a): amended, on 1 August 2008, by [section 347(2)(b)][514] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 24(3)(a): amended, on 1 August 2008, by [section 347(2)(b)][521] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 25 Electronic transactions land
     
@@ -6618,21 +6990,21 @@ Amendments to Land Transfer Act 1952
     
 *   This is a reprint of the Land Transfer Act 1952\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][515] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][522] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][516] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][523] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][517] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][524] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][518] and [17E][519] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][525] and [17E][526] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -6669,7 +7041,7 @@ Amendments to Land Transfer Act 1952
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [sections 342--345][356]
     
-    [Land Transfer Amendment Act 2005][520] (2005 No 58)
+    [Land Transfer Amendment Act 2005][527] (2005 No 58)
     
     Cadastral Survey Act 2002 (2002 No 12): [sections 68(2)][357], [69(1)][469]
     
@@ -6689,11 +7061,11 @@ Amendments to Land Transfer Act 1952
     
     Land Transfer Amendment Act 1994 (1994 No 12)
     
-    [Land Transfer Amendment Act 1993][512] (1993 No 124)
+    [Land Transfer Amendment Act 1993][519] (1993 No 124)
     
     Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][372]
     
-    [Land Transfer Amendment Act 1991][511] (1991 No 118)
+    [Land Transfer Amendment Act 1991][518] (1991 No 118)
     
     Public Finance Act 1989 (1989 No 44): [section 83(7)][473]
     
@@ -6709,7 +7081,7 @@ Amendments to Land Transfer Act 1952
     
     Land Transfer Amendment Act 1985 (1985 No 90)
     
-    [Land Transfer Amendment Act (No 2) 1982][510] (1982 No 115)
+    [Land Transfer Amendment Act (No 2) 1982][517] (1982 No 115)
     
     Land Transfer Amendment Act 1982 (1982 No 22)
     
@@ -6723,9 +7095,9 @@ Amendments to Land Transfer Act 1952
     
     Mental Health Act 1969 (1969 No 16): section 129(4), (7)
     
-    [Land Transfer Amendment Act 1966][509] (1966 No 37)
+    [Land Transfer Amendment Act 1966][516] (1966 No 37)
     
-    [Land Transfer Amendment Act 1963][504] (1963 No 61)
+    [Land Transfer Amendment Act 1963][512] (1963 No 61)
     
     Land Transfer Amendment Act 1961 (1961 No 9)
     
@@ -6733,13 +7105,19 @@ Amendments to Land Transfer Act 1952
     
     Land Transfer Amendment Act 1959 (1959 No 29)
     
-    [Land Transfer Amendment Act 1958][521] (1958 No 75)
+    [Land Transfer Amendment Act 1958][528] (1958 No 75)
     
     Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][487]
     
     Archives Act 1957 (1957 No 13): section 26(1)(b)
     
     Finance Act 1954 (1954 No 90): [section 36][503]
+    
+    Stamp Duties Amendment Act 1953 (1953 No 54): section 7(2)
+    
+    Maori Purposes Act 1947 (1947 No 59): [section 2][478]
+    
+    [Land Transfer (Hawke's Bay) Amendment Act 1933][511] (1933 No 39)
 
 
 
@@ -7247,21 +7625,28 @@ Amendments to Land Transfer Act 1952
 [501]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM246298
 [502]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM260504
 [503]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM288705
-[504]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM349453
-[505]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348409
-[506]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM359352
-[507]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM174088
-[508]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM293026
-[509]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374756
-[510]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59720
-[511]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM250188
-[512]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM328310
-[513]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM1160866
-[514]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367847
-[515]: http://www.pco.parliament.govt.nz/reprints/
-[516]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM195439
-[517]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[518]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM195468
-[519]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM195470
-[520]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348087
-[521]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM321012
+[504]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214773
+[505]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214780
+[506]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214781
+[507]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214782
+[508]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348409
+[509]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214783
+[510]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214784
+[511]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214755
+[512]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM349453
+[513]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM359352
+[514]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM174088
+[515]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM293026
+[516]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374756
+[517]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59720
+[518]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM250188
+[519]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM328310
+[520]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM1160866
+[521]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367847
+[522]: http://www.pco.parliament.govt.nz/reprints/
+[523]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM195439
+[524]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[525]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM195468
+[526]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM195470
+[527]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348087
+[528]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM321012
