@@ -1,5 +1,5 @@
 Reprint  
-as at 2 April 2013
+as at 24 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,258 +23,258 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1 ][1][][1][Title][1]
+[1][1][][1][Title][1]
 
-[2 ][2][][2][Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [General provisions][3]
 
-[3 ][4][][4][Interpretation][4]
+[3][4][][4][Interpretation][4]
 
-[4 ][5][][5][Act binds the Crown][5]
+[4][5][][5][Act binds the Crown][5]
 
-[5 ][6][][6][Purpose][6]
+[5][6][][6][Purpose][6]
 
 [Part 2][7]  
 [Police powers][7]
 
 [Subpart 1][8][---][8][Rules about search warrant powers in relation to places, vehicles, and other things][8]
 
-[6 ][9][][9][Issuing officer may issue search warrant][9]
+[6][9][][9][Issuing officer may issue search warrant][9]
 
 [Subpart 2][10][---][10][Warrantless powers to enter and search when effecting arrest][10]
 
-[7 ][11][][11][Entry without warrant to arrest person unlawfully at large][11]
+[7][11][][11][Entry without warrant to arrest person unlawfully at large][11]
 
-[8 ][12][][12][Entry without warrant to avoid loss of offender or evidential material][12]
+[8][12][][12][Entry without warrant to avoid loss of offender or evidential material][12]
 
 [Stopping vehicle without warrant to effect arrest][13]
 
-[9 ][14][][14][Stopping vehicle to find persons unlawfully at large or who have committed certain offences][14]
+[9][14][][14][Stopping vehicle to find persons unlawfully at large or who have committed certain offences][14]
 
-[10 ][15][][15][Powers and duties of constable after vehicle stopped][15]
+[10][15][][15][Powers and duties of constable after vehicle stopped][15]
 
 [Subpart 3][16][---][16][Warrantless searches of people who are to be locked up in Police custody][16]
 
-[11 ][17][][17][Warrantless searches of people who are, or are to be, locked up in Police custody][17]
+[11][17][][17][Warrantless searches of people who are, or are to be, locked up in Police custody][17]
 
-[12 ][18][][18][Searchers][18]
+[12][18][][18][Searchers][18]
 
-[13 ][19][][19][Property taken from people locked up in Police custody][19]
+[13][19][][19][Property taken from people locked up in Police custody][19]
 
 [Subpart 4][20][---][20][Warrantless powers of entry in urgent circumstances][20]
 
-[14 ][21][][21][Warrantless entry to prevent offence or respond to risk to life or safety][21]
+[14][21][][21][Warrantless entry to prevent offence or respond to risk to life or safety][21]
 
 [Subpart 5][22][---][22][Warrantless powers for evidential material relating to serious offences][22]
 
-[15 ][23][][23][Entry without warrant to find and avoid loss of evidential material relating to certain offences][23]
+[15][23][][23][Entry without warrant to find and avoid loss of evidential material relating to certain offences][23]
 
-[16 ][24][][24][Searching people in public place without warrant for evidential material relating to certain offences][24]
+[16][24][][24][Searching people in public place without warrant for evidential material relating to certain offences][24]
 
-[17 ][25][][25][Warrantless entry and search of vehicle for evidential material relating to certain offences][25]
+[17][25][][25][Warrantless entry and search of vehicle for evidential material relating to certain offences][25]
 
 [Subpart 6][26][---][26][Warrantless powers in relation to arms offences][26]
 
-[18 ][27][][27][Warrantless searches associated with arms][27]
+[18][27][][27][Warrantless searches associated with arms][27]
 
 [Subpart 7][28][---][28][Police powers in relation to Misuse of Drugs Act 1975 offences][28]
 
-[19 ][29][][29][Search of persons in relation to Misuse of Drugs Act 1975 offence search warrants][29]
+[19][29][][29][Search of persons in relation to Misuse of Drugs Act 1975 offence search warrants][29]
 
-[20 ][30][][30][Warrantless search of places and vehicles in relation to some Misuse of Drugs Act 1975 offences][30]
+[20][30][][30][Warrantless search of places and vehicles in relation to some Misuse of Drugs Act 1975 offences][30]
 
-[21 ][31][][31][Warrantless searches of people found in or on places or vehicles ][31]
+[21][31][][31][Warrantless searches of people found in or on places or vehicles ][31]
 
-[22 ][32][][32][Warrantless power to search for controlled drugs and precursor substances if offence suspected against Misuse of Drugs Act 1975][32]
+[22][32][][32][Warrantless power to search for controlled drugs and precursor substances if offence suspected against Misuse of Drugs Act 1975][32]
 
-[23 ][33][][33][Internal search of person under arrest for offence against section 6, 7, or 11 of Misuse of Drugs Act 1975][33]
+[23][33][][33][Internal search of person under arrest for offence against section 6, 7, or 11 of Misuse of Drugs Act 1975][33]
 
-[24 ][34][][34][Effect of not permitting internal search under section 23 on bail application][34]
+[24][34][][34][Effect of not permitting internal search under section 23 on bail application][34]
 
 [Subpart 8][35][---][35][Warrantless powers in relation to offences against section 78 of Crimes Act 1961][35]
 
-[25 ][36][][36][Warrantless searches if offence against section 78 of Crimes Act 1961 suspected][36]
+[25][36][][36][Warrantless searches if offence against section 78 of Crimes Act 1961 suspected][36]
 
 [Subpart 9][37][---][37][Warrantless powers in relation to offences against section 202A of Crimes Act 1961][37]
 
-[26 ][38][][38][Meaning of disabling substance and offensive weapon in this subpart][38]
+[26][38][][38][Meaning of disabling substance and offensive weapon in this subpart][38]
 
-[27 ][39][][39][Searching people in public places without search warrant if offence against section 202A(4)(a) of Crimes Act 1961 suspected][39]
+[27][39][][39][Searching people in public places without search warrant if offence against section 202A(4)(a) of Crimes Act 1961 suspected][39]
 
-[28 ][40][][40][Stopping and searching vehicles without warrant if offence against section 202A of Crimes Act 1961 suspected][40]
+[28][40][][40][Stopping and searching vehicles without warrant if offence against section 202A of Crimes Act 1961 suspected][40]
 
 [Subpart 10][41][---][41][Warrantless search of vehicle for stolen property][41]
 
-[29 ][42][][42][Power to search vehicles without warrant for stolen property][42]
+[29][42][][42][Power to search vehicles without warrant for stolen property][42]
 
 [Subpart 11][43][---][43][Warrantless powers relating to road blocks][43]
 
-[30 ][44][][44][Obtaining authorisation for warrantless road block][44]
+[30][44][][44][Obtaining authorisation for warrantless road block][44]
 
-[31 ][45][][45][Duration and record of warrantless road block authorisation][45]
+[31][45][][45][Duration and record of warrantless road block authorisation][45]
 
-[32 ][46][][46][Authorised road blocks implemented without warrant][46]
+[32][46][][46][Authorised road blocks implemented without warrant][46]
 
 [Subpart 12][47][---][47][Examination orders][47]
 
 [Examination orders in business contexts][48]
 
-[33 ][49][][49][Inspector or more senior officer may apply for examination order in business context][49]
+[33][49][][49][Inspector or more senior officer may apply for examination order in business context][49]
 
-[34 ][50][][50][Conditions for making examination order in business context][50]
+[34][50][][50][Conditions for making examination order in business context][50]
 
 [Examination orders in contexts other than those of business][51]
 
-[35 ][52][][52][Inspector or more senior officer may apply for examination order in non-business context ][52]
+[35][52][][52][Inspector or more senior officer may apply for examination order in non-business context ][52]
 
-[36 ][53][][53][Conditions for making examination order in non-business context][53]
+[36][53][][53][Conditions for making examination order in non-business context][53]
 
 [Other provisions that apply to examination order applications][54]
 
-[37 ][55][][55][Other provisions that apply to examination order applications][55]
+[37][55][][55][Other provisions that apply to examination order applications][55]
 
 [Making examination orders and contents of examination orders][56]
 
-[38 ][57][][57][Judge may make examination order][57]
+[38][57][][57][Judge may make examination order][57]
 
-[39 ][58][][58][Form and content of examination order][58]
+[39][58][][58][Form and content of examination order][58]
 
 [Other provisions relating to examination orders][59]
 
-[40 ][60][][60][Presence of lawyer][60]
+[40][60][][60][Presence of lawyer][60]
 
-[41 ][61][][61][Duration of examination order][61]
+[41][61][][61][Duration of examination order][61]
 
-[42 ][62][][62][Other provisions that apply to examination orders][62]
+[42][62][][62][Other provisions that apply to examination orders][62]
 
 [Examination order reports][63]
 
-[43 ][64][][64][Examination order reports][64]
+[43][64][][64][Examination order reports][64]
 
 [Subpart 13][65][---][65][Other matters][65]
 
-[44 ][66][][66][Common law defence of necessity for people other than constables not affected by this Part][66]
+[44][66][][66][Common law defence of necessity for people other than constables not affected by this Part][66]
 
 [Part 3][67]  
 [Enforcement officers' powers and orders][67]
 
 [Subpart 1][68][---][68][Surveillance device warrants and declaratory orders][68]
 
-[45 ][69][][69][Restrictions on some trespass surveillance and use of interception device][69]
+[45][69][][69][Restrictions on some trespass surveillance and use of interception device][69]
 
 [Surveillance device warrants][70]
 
-[46 ][71][][71][Activities for which surveillance device warrant required][71]
+[46][71][][71][Activities for which surveillance device warrant required][71]
 
-[47 ][72][][72][Some activities that do not require warrant under this subpart][72]
+[47][72][][72][Some activities that do not require warrant under this subpart][72]
 
-[48 ][73][][73][Surveillance device warrant need not be obtained for use of surveillance device in some situations of emergency or urgency][73]
+[48][73][][73][Surveillance device warrant need not be obtained for use of surveillance device in some situations of emergency or urgency][73]
 
 [Application for surveillance device warrant][74]
 
-[49 ][75][][75][Application for surveillance device warrant][75]
+[49][75][][75][Application for surveillance device warrant][75]
 
-[50 ][76][][76][Approval of law enforcement agencies other than Police to carry out visual trespass surveillance and use interception devices][76]
+[50][76][][76][Approval of law enforcement agencies other than Police to carry out visual trespass surveillance and use interception devices][76]
 
-[51 ][77][][77][Conditions for issuing surveillance device warrant][77]
+[51][77][][77][Conditions for issuing surveillance device warrant][77]
 
-[52 ][78][][78][Other provisions that apply to surveillance device warrant applications][78]
+[52][78][][78][Other provisions that apply to surveillance device warrant applications][78]
 
 [Issuing of surveillance device warrant][79]
 
-[53 ][80][][80][Who may issue surveillance device warrant][80]
+[53][80][][80][Who may issue surveillance device warrant][80]
 
-[54 ][81][][81][Restrictions on issue of surveillance device warrant][81]
+[54][81][][81][Restrictions on issue of surveillance device warrant][81]
 
-[55 ][82][][82][Form and content of surveillance device warrant][82]
+[55][82][][82][Form and content of surveillance device warrant][82]
 
 [Carrying out authorised surveillance activities and evidential material relevant to other offences][83]
 
-[56 ][84][][84][Carrying out authorised surveillance activities][84]
+[56][84][][84][Carrying out authorised surveillance activities][84]
 
-[57 ][85][][85][Admissibility of evidential material relevant to other offences][85]
+[57][85][][85][Admissibility of evidential material relevant to other offences][85]
 
 [Other provisions applying to surveillance device warrants][86]
 
-[58 ][87][][87][Other provisions that apply to surveillance device warrants][87]
+[58][87][][87][Other provisions that apply to surveillance device warrants][87]
 
 [Surveillance device warrant reports][88]
 
-[59 ][89][][89][Surveillance device warrant report][89]
+[59][89][][89][Surveillance device warrant report][89]
 
-[60 ][90][][90][Report on use of surveillance device in situation of urgency or emergency][90]
+[60][90][][90][Report on use of surveillance device in situation of urgency or emergency][90]
 
-[61 ][91][][91][Actions on receipt of surveillance device warrant report][91]
+[61][91][][91][Actions on receipt of surveillance device warrant report][91]
 
-[62 ][92][][92][Actions on receipt of report on use of surveillance device in situation of urgency or emergency][92]
+[62][92][][92][Actions on receipt of report on use of surveillance device in situation of urgency or emergency][92]
 
 [Retention and destruction of raw surveillance data, excerpts, and other information obtained][93]
 
-[63 ][94][][94][Retention of raw surveillance data, excerpts, and information obtained][94]
+[63][94][][94][Retention of raw surveillance data, excerpts, and information obtained][94]
 
-[64 ][95][][95][Disposal of raw surveillance data, excerpts, and information obtained][95]
+[64][95][][95][Disposal of raw surveillance data, excerpts, and information obtained][95]
 
 [Declaratory orders][96]
 
-[65 ][97][][97][What is a declaratory order][97]
+[65][97][][97][What is a declaratory order][97]
 
 [Applying for declaratory order][98]
 
-[66 ][99][][99][When to obtain declaratory order][99]
+[66][99][][99][When to obtain declaratory order][99]
 
-[67 ][100][][100][Application for declaratory order][100]
+[67][100][][100][Application for declaratory order][100]
 
 [Making declaratory order][101]
 
-[68 ][102][][102][Who may make declaratory order][102]
+[68][102][][102][Who may make declaratory order][102]
 
-[69 ][103][][103][Form and content of declaratory order][103]
+[69][103][][103][Form and content of declaratory order][103]
 
 [Subpart 2][104][---][104][Production orders][104]
 
-[70 ][105][][105][Interpretation][105]
+[70][105][][105][Interpretation][105]
 
-[71 ][106][][106][Enforcement officer may apply for production order][106]
+[71][106][][106][Enforcement officer may apply for production order][106]
 
-[72 ][107][][107][Conditions for making production order][107]
+[72][107][][107][Conditions for making production order][107]
 
-[73 ][108][][108][Other provisions that apply to production order applications][108]
+[73][108][][108][Other provisions that apply to production order applications][108]
 
-[74 ][109][][109][Issuing officer may make production order][109]
+[74][109][][109][Issuing officer may make production order][109]
 
-[75 ][110][][110][Form and content of production order][110]
+[75][110][][110][Form and content of production order][110]
 
-[76 ][111][][111][Duration of production order][111]
+[76][111][][111][Duration of production order][111]
 
-[77 ][112][][112][Other provisions applying to production orders][112]
+[77][112][][112][Other provisions applying to production orders][112]
 
-[78 ][113][][113][Documents produced under production order][113]
+[78][113][][113][Documents produced under production order][113]
 
-[79 ][114][][114][Copy of retained document to be given][114]
+[79][114][][114][Copy of retained document to be given][114]
 
 [Subpart 3][115][---][115][Police and Customs officer powers to search in relation to delivery under section 12 of Misuse of Drugs Amendment Act 1978][115]
 
-[80 ][116][][116][Meaning of terms used in this subpart][116]
+[80][116][][116][Meaning of terms used in this subpart][116]
 
-[81 ][117][][117][Searches of persons, places, and vehicles relating to deliveries under section 12 of Misuse of Drugs Amendment Act 1978][117]
+[81][117][][117][Searches of persons, places, and vehicles relating to deliveries under section 12 of Misuse of Drugs Amendment Act 1978][117]
 
 [Subpart 4][118][---][118][Warrantless powers of entry and search incidental to arrest or detention][118]
 
-[82 ][119][][119][Application of this subpart][119]
+[82][119][][119][Application of this subpart][119]
 
-[83 ][120][][120][Entry without warrant after arrest][120]
+[83][120][][120][Entry without warrant after arrest][120]
 
-[84 ][121][][121][Warrantless entry and search of vehicle after arrest][121]
+[84][121][][121][Warrantless entry and search of vehicle after arrest][121]
 
-[85 ][122][][122][Rub-down search of arrested or detained person][122]
+[85][122][][122][Rub-down search of arrested or detained person][122]
 
-[86 ][123][][123][Things that can be done to facilitate rub-down search][123]
+[86][123][][123][Things that can be done to facilitate rub-down search][123]
 
-[87 ][124][][124][Rub-down search may include visual examination][124]
+[87][124][][124][Rub-down search may include visual examination][124]
 
-[88 ][125][][125][Warrantless search of arrested or detained person][125]
+[88][125][][125][Warrantless search of arrested or detained person][125]
 
 [Part 4][126]  
 [General provisions in relation to search, surveillance, and inspection powers][126]
@@ -283,251 +283,251 @@ This Act is administered by the Ministry of Justice.
 
 [Application of rules][128]
 
-[89 ][129][][129][Application of this Part][129]
+[89][129][][129][Application of this Part][129]
 
-[90 ][130][][130][Application of rules in relation to enforcement officers and transfer of things between law enforcement agencies, etc][130]
+[90][130][][130][Application of rules in relation to enforcement officers and transfer of things between law enforcement agencies, etc][130]
 
 [Subpart 2][131][---][131][Consent searches][131]
 
-[91 ][132][][132][Application of rules about consent searches][132]
+[91][132][][132][Application of rules about consent searches][132]
 
-[92 ][133][][133][Purposes for which consent search may be undertaken][133]
+[92][133][][133][Purposes for which consent search may be undertaken][133]
 
-[93 ][134][][134][Advice that must be given before consent search undertaken][134]
+[93][134][][134][Advice that must be given before consent search undertaken][134]
 
-[94 ][135][][135][Circumstances where search by consent unlawful][135]
+[94][135][][135][Circumstances where search by consent unlawful][135]
 
-[95 ][136][][136][Ability of persons under 14 years to consent to searches of places, vehicles, or other things][136]
+[95][136][][136][Ability of persons under 14 years to consent to searches of places, vehicles, or other things][136]
 
-[96 ][137][][137][Exceptions to consent search rules][137]
+[96][137][][137][Exceptions to consent search rules][137]
 
 [Subpart 3][138][---][138][Search warrants][138]
 
-[97 ][139][][139][Interpretation][139]
+[97][139][][139][Interpretation][139]
 
 [Application for search warrant][140]
 
-[98 ][141][][141][Application for search warrant][141]
+[98][141][][141][Application for search warrant][141]
 
-[99 ][142][][142][Application must be verified][142]
+[99][142][][142][Application must be verified][142]
 
-[100 ][143][][143][Mode of application for search warrant][143]
+[100][143][][143][Mode of application for search warrant][143]
 
-[101 ][144][][144][Retention of documents][144]
+[101][144][][144][Retention of documents][144]
 
 [Issuing of search warrant][145]
 
-[102 ][146][][146][Restrictions on issue of search warrant][146]
+[102][146][][146][Restrictions on issue of search warrant][146]
 
-[103 ][147][][147][Form and content of search warrant][147]
+[103][147][][147][Form and content of search warrant][147]
 
-[104 ][148][][148][Issuing officer may require search warrant report][148]
+[104][148][][148][Issuing officer may require search warrant report][148]
 
-[105 ][149][][149][Transmission of search warrant][149]
+[105][149][][149][Transmission of search warrant][149]
 
-[106 ][150][][150][When search warrant executed][150]
+[106][150][][150][When search warrant executed][150]
 
-[107 ][151][][151][When search warrant invalid][151]
+[107][151][][151][When search warrant invalid][151]
 
-[108 ][152][][152][Authorisation of issuing officers][152]
+[108][152][][152][Authorisation of issuing officers][152]
 
-[109 ][153][][153][Limitation on jurisdiction of certain issuing officers][153]
+[109][153][][153][Limitation on jurisdiction of certain issuing officers][153]
 
 [Subpart 4][154][---][154][Carrying out search powers][154]
 
-[110 ][155][][155][Search powers][155]
+[110][155][][155][Search powers][155]
 
-[111 ][156][][156][Remote access search of thing authorised by warrant][156]
+[111][156][][156][Remote access search of thing authorised by warrant][156]
 
-[112 ][157][][157][Items of uncertain status may be seized][157]
+[112][157][][157][Items of uncertain status may be seized][157]
 
-[113 ][158][][158][Powers of persons called to assist][158]
+[113][158][][158][Powers of persons called to assist][158]
 
-[114 ][159][][159][Powers of persons called to assist remote access search][159]
+[114][159][][159][Powers of persons called to assist remote access search][159]
 
-[115 ][160][][160][Limitation on exercise of powers][160]
+[115][160][][160][Limitation on exercise of powers][160]
 
 [Giving directions][161]
 
-[116 ][162][][162][Securing place, vehicle, or other thing to be searched][162]
+[116][162][][162][Securing place, vehicle, or other thing to be searched][162]
 
 [Establishing search scene][163]
 
-[117 ][164][][164][Special powers where application for search warrant pending][164]
+[117][164][][164][Special powers where application for search warrant pending][164]
 
 [Detention of person at search scene][165]
 
-[118 ][166][][166][Powers of detention incidental to powers to search places and vehicles][166]
+[118][166][][166][Powers of detention incidental to powers to search places and vehicles][166]
 
 [Powers of search incidental to powers of arrest][167]
 
-[119 ][168][][168][Powers of search by person who has power of arrest][168]
+[119][168][][168][Powers of search by person who has power of arrest][168]
 
-[120 ][169][][169][Powers of search when suspect pursued][169]
+[120][169][][169][Powers of search when suspect pursued][169]
 
 [Stopping vehicles with or without warrant for purposes of search][170]
 
-[121 ][171][][171][Stopping vehicles with or without warrant for purposes of search][171]
+[121][171][][171][Stopping vehicles with or without warrant for purposes of search][171]
 
 [Moving vehicle for safekeeping and other purposes][172]
 
-[122 ][173][][173][Moving vehicles for purpose of search or safekeeping][173]
+[122][173][][173][Moving vehicles for purpose of search or safekeeping][173]
 
 [Seizure of items in plain view][174]
 
-[123 ][175][][175][Seizure of items in plain view][175]
+[123][175][][175][Seizure of items in plain view][175]
 
 [Search of persons][176]
 
-[124 ][177][][177][Internal searches generally prohibited][177]
+[124][177][][177][Internal searches generally prohibited][177]
 
-[125 ][178][][178][Special rules about searching persons][178]
+[125][178][][178][Special rules about searching persons][178]
 
-[126 ][179][][179][Guidelines and rules about use of strip searching][179]
+[126][179][][179][Guidelines and rules about use of strip searching][179]
 
 [Search warrants to enter and search vehicles][180]
 
-[127 ][181][][181][Search warrants to enter and search vehicles][181]
+[127][181][][181][Search warrants to enter and search vehicles][181]
 
 [Duty to remain stopped][182]
 
-[128 ][183][][183][Duty to remain stopped][183]
+[128][183][][183][Duty to remain stopped][183]
 
 [Duty to provide information][184]
 
-[129 ][185][][185][Duty to provide information][185]
+[129][185][][185][Duty to provide information][185]
 
 [Computer system searches][186]
 
-[130 ][187][][187][Duty of persons with knowledge of computer system or other data storage devices or Internet site to assist access][187]
+[130][187][][187][Duty of persons with knowledge of computer system or other data storage devices or Internet site to assist access][187]
 
 [Identification and notice][188]
 
-[131 ][189][][189][Identification and notice requirements for person exercising search power (other than remote access search)][189]
+[131][189][][189][Identification and notice requirements for person exercising search power (other than remote access search)][189]
 
-[132 ][190][][190][Identifications and notice requirements for remote access search][190]
+[132][190][][190][Identifications and notice requirements for remote access search][190]
 
-[133 ][191][][191][Inventory of items seized][191]
+[133][191][][191][Inventory of items seized][191]
 
-[134 ][192][][192][Compliance with certain provisions may be deferred in certain circumstances][192]
+[134][192][][192][Compliance with certain provisions may be deferred in certain circumstances][192]
 
-[135 ][193][][193][Further postponement of, or dispensation from, obligation to comply with certain provisions][193]
+[135][193][][193][Further postponement of, or dispensation from, obligation to comply with certain provisions][193]
 
 [Subpart 5][194][---][194][Privilege and confidentiality][194]
 
 [General][195]
 
-[136 ][196][][196][Recognition of privilege][196]
+[136][196][][196][Recognition of privilege][196]
 
-[137 ][197][][197][Lawyers' trust accounts][197]
+[137][197][][197][Lawyers' trust accounts][197]
 
 [Examination orders and production orders][198]
 
-[138 ][199][][199][Privilege against self-incrimination][199]
+[138][199][][199][Privilege against self-incrimination][199]
 
-[139 ][200][][200][Other privileges][200]
+[139][200][][200][Other privileges][200]
 
 [Surveillance][201]
 
-[140 ][202][][202][Effect of privilege on surveillance conducted under this Act][202]
+[140][202][][202][Effect of privilege on surveillance conducted under this Act][202]
 
-[141 ][203][][203][Claims for privilege in respect of surveillance][203]
+[141][203][][203][Claims for privilege in respect of surveillance][203]
 
 [Search warrants and other search powers][204]
 
-[142 ][205][][205][Effect of privilege on search warrants and search powers][205]
+[142][205][][205][Effect of privilege on search warrants and search powers][205]
 
-[143 ][206][][206][Search warrants that extend to lawyers' premises or material held by lawyers][206]
+[143][206][][206][Search warrants that extend to lawyers' premises or material held by lawyers][206]
 
-[144 ][207][][207][Search warrant extending to certain other privileged materials][207]
+[144][207][][207][Search warrant extending to certain other privileged materials][207]
 
-[145 ][208][][208][Searches otherwise affecting privileged materials][208]
+[145][208][][208][Searches otherwise affecting privileged materials][208]
 
-[146 ][209][][209][Interim steps pending resolution of privilege claim][209]
+[146][209][][209][Interim steps pending resolution of privilege claim][209]
 
-[147 ][210][][210][Claims for privilege for things seized or sought to be seized][210]
+[147][210][][210][Claims for privilege for things seized or sought to be seized][210]
 
 [Admission of evidence generally][211]
 
-[148 ][212][][212][Admission of evidence][212]
+[148][212][][212][Admission of evidence][212]
 
 [Subpart 6][213][---][213][Procedures applying to seized or produced materials][213]
 
-[149 ][214][][214][Disposal of things seized or produced][214]
+[149][214][][214][Disposal of things seized or produced][214]
 
-[150 ][215][][215][Certain things must be returned][215]
+[150][215][][215][Certain things must be returned][215]
 
-[151 ][216][][216][Custody of things seized or produced][216]
+[151][216][][216][Custody of things seized or produced][216]
 
-[152 ][217][][217][Copies of things seized or produced][217]
+[152][217][][217][Copies of things seized or produced][217]
 
-[153 ][218][][218][Extension of time for holding thing seized or produced][218]
+[153][218][][218][Extension of time for holding thing seized or produced][218]
 
-[154 ][219][][219][Disputed ownership of thing seized or produced][219]
+[154][219][][219][Disputed ownership of thing seized or produced][219]
 
-[155 ][220][][220][Seized or produced property forfeit to the Crown if ownership not established][220]
+[155][220][][220][Seized or produced property forfeit to the Crown if ownership not established][220]
 
 [Rights of owners and others in relation to things seized or produced][221]
 
-[156 ][222][][222][Application for release of or access to things seized or produced][222]
+[156][222][][222][Application for release of or access to things seized or produced][222]
 
-[157 ][223][][223][Failure to comply with bond or conditions][223]
+[157][223][][223][Failure to comply with bond or conditions][223]
 
-[158 ][224][][224][Application to District Court for access to thing seized or produced][224]
+[158][224][][224][Application to District Court for access to thing seized or produced][224]
 
-[159 ][225][][225][Application to District Court for release of thing seized or produced][225]
+[159][225][][225][Application to District Court for release of thing seized or produced][225]
 
-[160 ][226][][226][Disposal of unlawful items][226]
+[160][226][][226][Disposal of unlawful items][226]
 
-[161 ][227][][227][Disposal of forensic copies][227]
+[161][227][][227][Disposal of forensic copies][227]
 
-[162 ][228][][228][Other copies and generated material may be retained][228]
+[162][228][][228][Other copies and generated material may be retained][228]
 
-[163 ][229][][229][Application to District Court to dispose of seized property][229]
+[163][229][][229][Application to District Court to dispose of seized property][229]
 
 [Subpart 7][230][---][230][Immunities][230]
 
-[164 ][231][][231][Immunities of issuing officer][231]
+[164][231][][231][Immunities of issuing officer][231]
 
-[165 ][232][][232][Immunities in relation to obtaining or execution of orders and warrants][232]
+[165][232][][232][Immunities in relation to obtaining or execution of orders and warrants][232]
 
-[166 ][233][][233][Other immunities in relation to exercise of entry, search, or surveillance powers][233]
+[166][233][][233][Other immunities in relation to exercise of entry, search, or surveillance powers][233]
 
-[167 ][234][][234][Immunity of the Crown][234]
+[167][234][][234][Immunity of the Crown][234]
 
-[168 ][235][][235][Relationship between sections 164 to 167 and other enactments][235]
+[168][235][][235][Relationship between sections 164 to 167 and other enactments][235]
 
 [Subpart 8][236][---][236][Reporting][236]
 
-[169 ][237][][237][Reporting of exercise of powers within law enforcement agency][237]
+[169][237][][237][Reporting of exercise of powers within law enforcement agency][237]
 
-[170 ][238][][238][Annual reporting of search and surveillance powers by Commissioner][238]
+[170][238][][238][Annual reporting of search and surveillance powers by Commissioner][238]
 
-[171 ][239][][239][Annual reporting of search and surveillance powers by agencies other than Police][239]
+[171][239][][239][Annual reporting of search and surveillance powers by agencies other than Police][239]
 
-[172 ][240][][240][Information to be included in report on surveillance device warrants and declaratory orders][240]
+[172][240][][240][Information to be included in report on surveillance device warrants and declaratory orders][240]
 
 [Subpart 9][241][---][241][Offences][241]
 
-[173 ][242][][242][Failing to comply with examination order][242]
+[173][242][][242][Failing to comply with examination order][242]
 
-[174 ][243][][243][Failing to comply with production order][243]
+[174][243][][243][Failing to comply with production order][243]
 
-[175 ][244][][244][False application for examination order, production order, search warrant, surveillance device warrant, or declaratory order][244]
+[175][244][][244][False application for examination order, production order, search warrant, surveillance device warrant, or declaratory order][244]
 
-[176 ][245][][245][Leaving search location in breach of direction][245]
+[176][245][][245][Leaving search location in breach of direction][245]
 
-[177 ][246][][246][Offences relating to stopping vehicles][246]
+[177][246][][246][Offences relating to stopping vehicles][246]
 
-[178 ][247][][247][Offence of failing to carry out obligations in relation to computer system search][247]
+[178][247][][247][Offence of failing to carry out obligations in relation to computer system search][247]
 
-[179 ][248][][248][Offence to disclose information acquired through search or surveillance][248]
+[179][248][][248][Offence to disclose information acquired through search or surveillance][248]
 
 [Subpart 10][249][---][249][Miscellaneous][249]
 
-[180 ][250][][250][Effect of proceedings][250]
+[180][250][][250][Effect of proceedings][250]
 
-[181 ][251][][251][Service of orders and notices][251]
+[181][251][][251][Service of orders and notices][251]
 
 [Part 5][252]  
 [Amendments, repeals, and miscellaneous provisions][252]
@@ -536,253 +536,253 @@ This Act is administered by the Ministry of Justice.
 
 [Amendments to Agricultural Compounds and Veterinary Medicines Act 1997][254]
 
-[182 ][255][][255][Amendments to Agricultural Compounds and Veterinary Medicines Act 1997][255]
+[182][255][][255][Amendments to Agricultural Compounds and Veterinary Medicines Act 1997][255]
 
-[183 ][256][][256][Powers of entry for inspection][256]
+[183][256][][256][Powers of entry for inspection][256]
 
-[184 ][257][][257][Issue of search warrants][257]
+[184][257][][257][Issue of search warrants][257]
 
-[185 ][258][][258][Powers of entry with warrant][258]
+[185][258][][258][Powers of entry with warrant][258]
 
-[186 ][259][][259][Disposal of property seized][259]
+[186][259][][259][Disposal of property seized][259]
 
-[187 ][260][][260][Section 84 repealed][260]
+[187][260][][260][Section 84 repealed][260]
 
-[188 ][261][][261][Schedule 1 repealed][261]
+[188][261][][261][Schedule 1 repealed][261]
 
 [Amendments to Animal Products Act 1999][262]
 
-[189 ][263][][263][Amendments to Animal Products Act 1999][263]
+[189][263][][263][Amendments to Animal Products Act 1999][263]
 
-[190 ][264][][264][Power of entry][264]
+[190][264][][264][Power of entry][264]
 
-[191 ][265][][265][Power to examine, etc][265]
+[191][265][][265][Power to examine, etc][265]
 
-[192 ][266][][266][New section 91A inserted][266]
+[192][266][][266][New section 91A inserted][266]
 
 [91A][267][][267][Disposal of seized animals prior to commencement or determination of proceedings][267]
 
-[193 ][268][][268][Other amendments to Animal Products Act 1999][268]
+[193][268][][268][Other amendments to Animal Products Act 1999][268]
 
 [Amendments to Animal Welfare Act 1999][269]
 
-[194 ][270][][270][Amendments to Animal Welfare Act 1999][270]
+[194][270][][270][Amendments to Animal Welfare Act 1999][270]
 
-[195 ][271][][271][Amendments to sections 130 to 136][271]
+[195][271][][271][Amendments to sections 130 to 136][271]
 
-[196 ][272][][272][New section 136A inserted][272]
+[196][272][][272][New section 136A inserted][272]
 
 [136A][273][][273][Disposal of animals seized or taken into custody prior to commencement or determination of proceedings][273]
 
-[197 ][274][][274][Vehicle, aircraft, ship, or animal may be detained][274]
+[197][274][][274][Vehicle, aircraft, ship, or animal may be detained][274]
 
-[198 ][275][][275][Power of court to order that certain animals be forfeited to the Crown or approved organisation][275]
+[198][275][][275][Power of court to order that certain animals be forfeited to the Crown or approved organisation][275]
 
 [Amendment to Antarctic Marine Living Resources Act 1981][276]
 
-[199 ][277][][277][Amendment to Antarctic Marine Living Resources Act 1981][277]
+[199][277][][277][Amendment to Antarctic Marine Living Resources Act 1981][277]
 
 [Amendments to Antarctica (Environmental Protection) Act 1994][278]
 
-[200 ][279][][279][Amendments to Antarctica (Environmental Protection) Act 1994][279]
+[200][279][][279][Amendments to Antarctica (Environmental Protection) Act 1994][279]
 
 [Amendments to Anti-Money Laundering and Countering Financing of Terrorism Act 2009][280]
 
-[201 ][281][][281][Amendments to Anti-Money Laundering and Countering Financing of Terrorism Act 2009][281]
+[201][281][][281][Amendments to Anti-Money Laundering and Countering Financing of Terrorism Act 2009][281]
 
 [Amendments to Aviation Crimes Act 1972][282]
 
-[202 ][283][][283][Amendments to Aviation Crimes Act 1972][283]
+[202][283][][283][Amendments to Aviation Crimes Act 1972][283]
 
 [Amendments to Biosecurity Act 1993][284]
 
-[203 ][285][][285][Amendments to Biosecurity Act 1993][285]
+[203][285][][285][Amendments to Biosecurity Act 1993][285]
 
 [Amendment to Boxing and Wrestling Act 1981][286]
 
-[204 ][287][][287][Amendment to Boxing and Wrestling Act 1981][287]
+[204][287][][287][Amendment to Boxing and Wrestling Act 1981][287]
 
-[205 ][288][][288][New section 9 substituted][288]
+[205][288][][288][New section 9 substituted][288]
 
 [9][289][][289][Search warrants][289]
 
 [Amendments to Children, Young Persons, and Their Families Act 1989][290]
 
-[206 ][291][][291][Amendments to Children, Young Persons, and Their Families Act 1989][291]
+[206][291][][291][Amendments to Children, Young Persons, and Their Families Act 1989][291]
 
-[207 ][292][][292][Amendments to Parts 1 to 9 of Children, Young Persons, and Their Families Act 1989][292]
+[207][292][][292][Amendments to Parts 1 to 9 of Children, Young Persons, and Their Families Act 1989][292]
 
-[208 ][293][][293][Amendments to Part 10 of Children, Young Persons, and Their Families Act 1989][293]
+[208][293][][293][Amendments to Part 10 of Children, Young Persons, and Their Families Act 1989][293]
 
-[209 ][294][][294][New section 445D inserted][294]
+[209][294][][294][New section 445D inserted][294]
 
 [445D][295][][295][Certain provisions of Search and Surveillance Act 2012 apply to some warrants][295]
 
 [Amendments to Civil Aviation Act 1990][296]
 
-[210 ][297][][297][Amendments to Civil Aviation Act 1990][297]
+[210][297][][297][Amendments to Civil Aviation Act 1990][297]
 
 [Amendments to Commodity Levies Act 1990][298]
 
-[211 ][299][][299][Amendments to Commodity Levies Act 1990][299]
+[211][299][][299][Amendments to Commodity Levies Act 1990][299]
 
 [Amendments to Conservation Act 1987][300]
 
-[212 ][301][][301][Amendments to Conservation Act 1987][301]
+[212][301][][301][Amendments to Conservation Act 1987][301]
 
 [Amendments to Criminal Proceeds (Recovery) Act 2009][302]
 
-[213 ][303][][303][Amendments to Criminal Proceeds (Recovery) Act 2009][303]
+[213][303][][303][Amendments to Criminal Proceeds (Recovery) Act 2009][303]
 
-[214 ][304][][304][Amendments to sections 59 and 71 of Criminal Proceeds (Recovery) Act 2009][304]
+[214][304][][304][Amendments to sections 59 and 71 of Criminal Proceeds (Recovery) Act 2009][304]
 
-[215 ][305][][305][Amendments to sections 101 to 110 of Criminal Proceeds (Recovery) Act 2009][305]
+[215][305][][305][Amendments to sections 101 to 110 of Criminal Proceeds (Recovery) Act 2009][305]
 
-[216 ][306][][306][New section 114 substituted][306]
+[216][306][][306][New section 114 substituted][306]
 
 [114][307][][307][Application of Part 4 of Search and Surveillance Act 2012][307]
 
-[217 ][308][][308][Sections 115 to 122 repealed][308]
+[217][308][][308][Sections 115 to 122 repealed][308]
 
-[218 ][309][][309][New section 127 substituted][309]
+[218][309][][309][New section 127 substituted][309]
 
 [127][310][][310][Provisions associated with foreign restraining orders and foreign forfeiture orders][310]
 
-[219 ][311][][311][Additional matters in respect of registering foreign forfeiture order][311]
+[219][311][][311][Additional matters in respect of registering foreign forfeiture order][311]
 
 [Amendments to Customs and Excise Act 1996][312]
 
-[220 ][313][][313][Amendments to Customs and Excise Act 1996][313]
+[220][313][][313][Amendments to Customs and Excise Act 1996][313]
 
-[221 ][314][][314][Amendments to sections 139 to 141 of Customs and Excise Act 1996][314]
+[221][314][][314][Amendments to sections 139 to 141 of Customs and Excise Act 1996][314]
 
-[222 ][315][][315][Searching vehicles][315]
+[222][315][][315][Searching vehicles][315]
 
-[223 ][316][][316][Amendments to sections 149A to 149D of Customs and Excise Act 1996][316]
+[223][316][][316][Amendments to sections 149A to 149D of Customs and Excise Act 1996][316]
 
-[224 ][317][][317][Examination of goods no longer subject to control of Customs][317]
+[224][317][][317][Examination of goods no longer subject to control of Customs][317]
 
-[225 ][318][][318][Amendments to sections 165 to 167 of Customs and Excise Act 1996][318]
+[225][318][][318][Amendments to sections 165 to 167 of Customs and Excise Act 1996][318]
 
-[226 ][319][][319][Amendments to section 172 and repeal of sections 168 to 171, and 173 of Customs and Excise Act 1996][319]
+[226][319][][319][Amendments to section 172 and repeal of sections 168 to 171, and 173 of Customs and Excise Act 1996][319]
 
-[227 ][320][][320][Seizure and detention of goods suspected to be certain risk goods or evidence of commission of certain offences][320]
+[227][320][][320][Seizure and detention of goods suspected to be certain risk goods or evidence of commission of certain offences][320]
 
-[228 ][321][][321][New section 175D inserted][321]
+[228][321][][321][New section 175D inserted][321]
 
 [175D][322][][322][Seizure and detention of certain drugs and objectionable publications][322]
 
-[229 ][323][][323][Amendments to Part 17 of Customs and Excise Act 1996][323]
+[229][323][][323][Amendments to Part 17 of Customs and Excise Act 1996][323]
 
 [Amendments to Dairy Industry Restructuring Act 2001][324]
 
-[230 ][325][][325][Amendments to Dairy Industry Restructuring Act 2001][325]
+[230][325][][325][Amendments to Dairy Industry Restructuring Act 2001][325]
 
 [Amendments to Dog Control Act 1996][326]
 
-[231 ][327][][327][Amendments to Dog Control Act 1996][327]
+[231][327][][327][Amendments to Dog Control Act 1996][327]
 
-[232 ][328][][328][Power of entry][328]
+[232][328][][328][Power of entry][328]
 
-[233 ][329][][329][Other amendments to Dog Control Act 1996][329]
+[233][329][][329][Other amendments to Dog Control Act 1996][329]
 
 [Amendments to Driftnet Prohibition Act 1991][330]
 
-[234 ][331][][331][Amendments to Driftnet Prohibition Act 1991][331]
+[234][331][][331][Amendments to Driftnet Prohibition Act 1991][331]
 
-[235 ][332][][332][Powers of search][332]
+[235][332][][332][Powers of search][332]
 
-[236 ][333][][333][Powers of seizure][333]
+[236][333][][333][Powers of seizure][333]
 
-[237 ][334][][334][Sections 16, 17, and 19 to 22 repealed][334]
+[237][334][][334][Sections 16, 17, and 19 to 22 repealed][334]
 
-[238 ][335][][335][Section 24 repealed][335]
+[238][335][][335][Section 24 repealed][335]
 
 [Amendments to Electricity Industry Act 2010][336]
 
-[239 ][337][][337][Amendments to Electricity Industry Act 2010][337]
+[239][337][][337][Amendments to Electricity Industry Act 2010][337]
 
 [239A][338][][338][Amendments to Electronic Identity Verification Act 2012][338]
 
 [Amendments to Extradition Act 1999][339]
 
-[240 ][340][][340][Amendments to Extradition Act 1999][340]
+[240][340][][340][Amendments to Extradition Act 1999][340]
 
 [Amendments to Films, Videos, and Publications Classification Act 1993][341]
 
-[241 ][342][][342][Amendments to Films, Videos, and Publications Classification Act 1993][342]
+[241][342][][342][Amendments to Films, Videos, and Publications Classification Act 1993][342]
 
-[242 ][343][][343][Amendments to sections 109 to 109B of Films, Videos, and Publications Classification Act 1993][343]
+[242][343][][343][Amendments to sections 109 to 109B of Films, Videos, and Publications Classification Act 1993][343]
 
-[243 ][344][][344][New section 110 substituted][344]
+[243][344][][344][New section 110 substituted][344]
 
 [110][345][][345][Application of Part 4 of Search and Surveillance Act 2012][345]
 
-[244 ][346][][346][Section 118 repealed][346]
+[244][346][][346][Section 118 repealed][346]
 
 [Amendments to Financial Markets Authority Act 2011][347]
 
-[245 ][348][][348][Amendments to Financial Markets Authority Act 2011][348]
+[245][348][][348][Amendments to Financial Markets Authority Act 2011][348]
 
 [Amendments to Financial Transactions Reporting Act 1996][349]
 
-[246 ][350][][350][Amendments to Financial Transactions Reporting Act 1996][350]
+[246][350][][350][Amendments to Financial Transactions Reporting Act 1996][350]
 
 [Amendments to Fisheries Act 1996][351]
 
-[247 ][352][][352][Amendments to Fisheries Act 1996][352]
+[247][352][][352][Amendments to Fisheries Act 1996][352]
 
-[248 ][353][][353][New sections 199 and 199A substituted][353]
+[248][353][][353][New sections 199 and 199A substituted][353]
 
 [199][354][][354][Powers of entry and examination for regulatory purposes][354]
 
 [199A][355][][355][Powers of entry and search for law enforcement purposes][355]
 
-[249 ][356][][356][New section 199B inserted][356]
+[249][356][][356][New section 199B inserted][356]
 
 [199B][357][][357][Application of Part 4 of Search and Surveillance Act 2012][357]
 
-[250 ][358][][358][Amendments to sections 200 to 207 of Fisheries Act 1996][358]
+[250][358][][358][Amendments to sections 200 to 207 of Fisheries Act 1996][358]
 
-[251 ][359][][359][Amendments to sections 208 to 220 of Fisheries Act 1996][359]
+[251][359][][359][Amendments to sections 208 to 220 of Fisheries Act 1996][359]
 
-[252 ][360][][360][Schedule 7 repealed][360]
+[252][360][][360][Schedule 7 repealed][360]
 
 [Amendments to Food Act 1981][361]
 
-[253 ][362][][362][Amendments to Food Act 1981][362]
+[253][362][][362][Amendments to Food Act 1981][362]
 
 [Amendments to Gambling Act 2003][363]
 
-[254 ][364][][364][Amendments to Gambling Act 2003][364]
+[254][364][][364][Amendments to Gambling Act 2003][364]
 
 [Amendments to Hazardous Substances and New Organisms Act 1996][365]
 
-[255 ][366][][366][Amendments to Hazardous Substances and New Organisms Act 1996][366]
+[255][366][][366][Amendments to Hazardous Substances and New Organisms Act 1996][366]
 
 [Amendments to Health Practitioners Competence Assurance Act 2003][367]
 
-[256 ][368][][368][Amendments to Health Practitioners Competence Assurance Act 2003][368]
+[256][368][][368][Amendments to Health Practitioners Competence Assurance Act 2003][368]
 
 [Amendments to Human Assisted Reproductive Technology Act 2004][369]
 
-[257 ][370][][370][Amendments to Human Assisted Reproductive Technology Act 2004][370]
+[257][370][][370][Amendments to Human Assisted Reproductive Technology Act 2004][370]
 
 [Amendments to Human Tissue Act 2008][371]
 
-[258 ][372][][372][Amendments to Human Tissue Act 2008][372]
+[258][372][][372][Amendments to Human Tissue Act 2008][372]
 
 [Amendment to Immigration Act 2009][373]
 
-[259 ][374][][374][Amendment to Immigration Act 2009][374]
+[259][374][][374][Amendment to Immigration Act 2009][374]
 
 [293A][375][][375][Immigration officer may apply for search warrant][375]
 
 [Amendments to Immigration Advisers Licensing Act 2007][376]
 
-[260 ][377][][377][Amendments to Immigration Advisers Licensing Act 2007][377]
+[260][377][][377][Amendments to Immigration Advisers Licensing Act 2007][377]
 
-[261 ][378][][378][New sections 56 and 57 substituted][378]
+[261][378][][378][New sections 56 and 57 substituted][378]
 
 [56][379][][379][Purposes of inspection][379]
 
@@ -790,65 +790,65 @@ This Act is administered by the Ministry of Justice.
 
 [262][381][][381][Amendments to sections 58 to 61 of Immigration Advisers Licensing Act 2007][381]
 
-[263 ][382][][382][New section 61A inserted][382]
+[263][382][][382][New section 61A inserted][382]
 
 [61A][383][][383][Search warrant][383]
 
-[264 ][384][][384][Other amendments to Immigration Advisers Licensing Act 2007][384]
+[264][384][][384][Other amendments to Immigration Advisers Licensing Act 2007][384]
 
 [Amendments to Insurance (Prudential Supervision) Act 2010][385]
 
-[265 ][386][][386][Amendments to Insurance (Prudential Supervision) Act 2010][386]
+[265][386][][386][Amendments to Insurance (Prudential Supervision) Act 2010][386]
 
 [Amendments to International Crimes and International Criminal Court Act 2000][387]
 
-[266 ][388][][388][Amendments to International Crimes and International Criminal Court Act 2000][388]
+[266][388][][388][Amendments to International Crimes and International Criminal Court Act 2000][388]
 
 [Amendments to International War Crimes Tribunals Act 1995][389]
 
-[267 ][390][][390][Amendments to International War Crimes Tribunals Act 1995][390]
+[267][390][][390][Amendments to International War Crimes Tribunals Act 1995][390]
 
 [Amendments to Land Transport Act 1998][391]
 
-[268 ][392][][392][Amendments to Land Transport Act 1998][392]
+[268][392][][392][Amendments to Land Transport Act 1998][392]
 
 [Amendments to Local Government Act 2002][393]
 
-[269 ][394][][394][Amendments to Local Government Act 2002][394]
+[269][394][][394][Amendments to Local Government Act 2002][394]
 
-[270 ][395][][395][Seizure of property from private land][395]
+[270][395][][395][Seizure of property from private land][395]
 
-[271 ][396][][396][Other amendments to Local Government Act 2002][396]
+[271][396][][396][Other amendments to Local Government Act 2002][396]
 
 [Amendments to Major Events Management Act 2007][397]
 
-[272 ][398][][398][Amendments to Major Events Management Act 2007][398]
+[272][398][][398][Amendments to Major Events Management Act 2007][398]
 
 [Amendments to Marine Mammals Protection Act 1978][399]
 
-[273 ][400][][400][Amendments to Marine Mammals Protection Act 1978][400]
+[273][400][][400][Amendments to Marine Mammals Protection Act 1978][400]
 
-[274 ][401][][401][Powers of search][401]
+[274][401][][401][Powers of search][401]
 
-[275 ][402][][402][New section 14 substituted][402]
+[275][402][][402][New section 14 substituted][402]
 
 [14][403][][403][Officer may obtain warrant][403]
 
 [Amendments to Marine Reserves Act 1971][404]
 
-[276 ][405][][405][Amendments to Marine Reserves Act 1971][405]
+[276][405][][405][Amendments to Marine Reserves Act 1971][405]
 
 [Amendments to Maritime Security Act 2004][406]
 
-[277 ][407][][407][Amendments to Maritime Security Act 2004][407]
+[277][407][][407][Amendments to Maritime Security Act 2004][407]
 
 [Amendments to Maritime Transport Act 1994][408]
 
-[278 ][409][][409][Amendments to Maritime Transport Act 1994][409]
+[278][409][][409][Amendments to Maritime Transport Act 1994][409]
 
-[279 ][410][][410][Amendments to Part 30 of Maritime Transport Act 1994][410]
+[279][410][][410][Amendments to Part 30 of Maritime Transport Act 1994][410]
 
-[280 ][411][][411][New sections 454 and 455 substituted][411]
+[280][411][][411][New sections 454 and 455 substituted][411]
 
 [454][412][][412][Warrant to inspect dwellinghouse, marae, etc][412]
 
@@ -856,269 +856,269 @@ This Act is administered by the Ministry of Justice.
 
 [Amendments to Meat Board Act 2004][414]
 
-[281 ][415][][415][Amendments to Meat Board Act 2004][415]
+[281][415][][415][Amendments to Meat Board Act 2004][415]
 
-[282 ][416][][416][Amendments to Part 3 of Meat Board Act 2004][416]
+[282][416][][416][Amendments to Part 3 of Meat Board Act 2004][416]
 
-[283 ][417][][417][Amendments to Part 4 of Meat Board Act 2004][417]
+[283][417][][417][Amendments to Part 4 of Meat Board Act 2004][417]
 
 [Amendments to Motor Vehicle Sales Act 2003][418]
 
-[284 ][419][][419][Amendments to Motor Vehicle Sales Act 2003][419]
+[284][419][][419][Amendments to Motor Vehicle Sales Act 2003][419]
 
 [Amendments to National Parks Act 1980][420]
 
-[285 ][421][][421][Amendments to National Parks Act 1980][421]
+[285][421][][421][Amendments to National Parks Act 1980][421]
 
 [Amendments to Overseas Investment Act 2005][422]
 
-[286 ][423][][423][Amendments to Overseas Investment Act 2005][423]
+[286][423][][423][Amendments to Overseas Investment Act 2005][423]
 
 [Amendments to Ozone Layer Protection Act 1996][424]
 
-[287 ][425][][425][Amendments to Ozone Layer Protection Act 1996][425]
+[287][425][][425][Amendments to Ozone Layer Protection Act 1996][425]
 
-[288 ][426][][426][Search warrants][426]
+[288][426][][426][Search warrants][426]
 
-[289 ][427][][427][New section 25 substituted][427]
+[289][427][][427][New section 25 substituted][427]
 
 [25][428][][428][Retention of property seized][428]
 
-[290 ][429][][429][Return or forfeiture of property seized][429]
+[290][429][][429][Return or forfeiture of property seized][429]
 
 [Amendment to Petroleum Demand Restraint Act 1981][430]
 
-[291 ][431][][431][Amendment to Petroleum Demand Restraint Act 1981][431]
+[291][431][][431][Amendment to Petroleum Demand Restraint Act 1981][431]
 
 [Amendments to Pork Industry Board Act 1997][432]
 
-[292 ][433][][433][Amendments to Pork Industry Board Act 1997][433]
+[292][433][][433][Amendments to Pork Industry Board Act 1997][433]
 
 [Amendments to Prostitution Reform Act 2003][434]
 
-[293 ][435][][435][Amendments to Prostitution Reform Act 2003][435]
+[293][435][][435][Amendments to Prostitution Reform Act 2003][435]
 
 [Amendments to Radiation Protection Act 1965][436]
 
-[294 ][437][][437][Amendments to Radiation Protection Act 1965][437]
+[294][437][][437][Amendments to Radiation Protection Act 1965][437]
 
 [Amendments to Radiocommunications Act 1989][438]
 
-[295 ][439][][439][Amendments to Radiocommunications Act 1989][439]
+[295][439][][439][Amendments to Radiocommunications Act 1989][439]
 
 [Amendments to Reserve Bank of New Zealand Act 1989][440]
 
-[296 ][441][][441][Amendments to Reserve Bank of New Zealand Act 1989][441]
+[296][441][][441][Amendments to Reserve Bank of New Zealand Act 1989][441]
 
-[297 ][442][][442][Amendments to Parts 4 and 5 of Reserve Bank of New Zealand Act 1989][442]
+[297][442][][442][Amendments to Parts 4 and 5 of Reserve Bank of New Zealand Act 1989][442]
 
-[298 ][443][][443][Further amendments to Reserve Bank of New Zealand Act 1989][443]
+[298][443][][443][Further amendments to Reserve Bank of New Zealand Act 1989][443]
 
 [Amendments to Reserves Act 1977][444]
 
-[299 ][445][][445][Amendments to Reserves Act 1977][445]
+[299][445][][445][Amendments to Reserves Act 1977][445]
 
 [Amendments to Resource Management Act 1991][446]
 
-[300 ][447][][447][Amendments to Resource Management Act 1991][447]
+[300][447][][447][Amendments to Resource Management Act 1991][447]
 
 [Amendments to Sale of Liquor Act 1989][448]
 
-[301 ][449][][449][Amendments to Sale of Liquor Act 1989][449]
+[301][449][][449][Amendments to Sale of Liquor Act 1989][449]
 
 [Amendments to Tax Administration Act 1994][450]
 
-[302 ][451][][451][Amendments to Tax Administration Act 1994][451]
+[302][451][][451][Amendments to Tax Administration Act 1994][451]
 
 [Amendments to Trade in Endangered Species Act 1989][452]
 
-[303 ][453][][453][Amendments to Trade in Endangered Species Act 1989][453]
+[303][453][][453][Amendments to Trade in Endangered Species Act 1989][453]
 
 [Amendments to Unsolicited Electronic Messages Act 2007][454]
 
-[304 ][455][][455][Amendments to Unsolicited Electronic Messages Act 2007][455]
+[304][455][][455][Amendments to Unsolicited Electronic Messages Act 2007][455]
 
 [Amendments to Waste Minimisation Act 2008][456]
 
-[305 ][457][][457][Amendments to Waste Minimisation Act 2008][457]
+[305][457][][457][Amendments to Waste Minimisation Act 2008][457]
 
-[306 ][458][][458][Amendments to Waste Minimisation Act 2008][458]
+[306][458][][458][Amendments to Waste Minimisation Act 2008][458]
 
-[307 ][459][][459][Other amendments to Waste Minimisation Act 2008][459]
+[307][459][][459][Other amendments to Waste Minimisation Act 2008][459]
 
 [Amendments to Wild Animal Control Act 1977][460]
 
-[308 ][461][][461][Amendments to Wild Animal Control Act 1977][461]
+[308][461][][461][Amendments to Wild Animal Control Act 1977][461]
 
 [Amendments to Wildlife Act 1953][462]
 
-[309 ][463][][463][Amendments to Wildlife Act 1953][463]
+[309][463][][463][Amendments to Wildlife Act 1953][463]
 
 [Amendments to Wine Act 2003][464]
 
-[310 ][465][][465][Amendments to Wine Act 2003][465]
+[310][465][][465][Amendments to Wine Act 2003][465]
 
 [Subpart 2][466][---][466][Amendments to search and seizure powers in other enactments (and to related provisions) used for regulatory purposes][466]
 
 [Amendments to Anti-Personnel Mines Prohibition Act 1998][467]
 
-[311 ][468][][468][Amendments to Anti-Personnel Mines Prohibition Act 1998][468]
+[311][468][][468][Amendments to Anti-Personnel Mines Prohibition Act 1998][468]
 
 [Amendments to Chemical Weapons (Prohibition) Act 1996][469]
 
-[312 ][470][][470][Amendments to Chemical Weapons (Prohibition) Act 1996][470]
+[312][470][][470][Amendments to Chemical Weapons (Prohibition) Act 1996][470]
 
 [Amendments to Commerce Act 1986][471]
 
-[313 ][472][][472][Amendments to Commerce Act 1986][472]
+[313][472][][472][Amendments to Commerce Act 1986][472]
 
 [Amendment to Credit Contracts and Consumer Finance Act 2003][473]
 
-[314 ][474][][474][Amendment to Credit Contracts and Consumer Finance Act 2003][474]
+[314][474][][474][Amendment to Credit Contracts and Consumer Finance Act 2003][474]
 
 [Amendments to Electricity Act 1992][475]
 
-[315 ][476][][476][Amendments to Electricity Act 1992][476]
+[315][476][][476][Amendments to Electricity Act 1992][476]
 
 [Amendments to Fair Trading Act 1986][477]
 
-[316 ][478][][478][Amendments to Fair Trading Act 1986][478]
+[316][478][][478][Amendments to Fair Trading Act 1986][478]
 
 [Amendments to Forests Act 1949][479]
 
-[317 ][480][][480][Amendments to Forests Act 1949][480]
+[317][480][][480][Amendments to Forests Act 1949][480]
 
 [Amendments to Gas Act 1992][481]
 
-[318 ][482][][482][Amendments to Gas Act 1992][482]
+[318][482][][482][Amendments to Gas Act 1992][482]
 
 [Amendments to International Energy Agreement Act 1976][483]
 
-[319 ][484][][484][Amendments to International Energy Agreement Act 1976][484]
+[319][484][][484][Amendments to International Energy Agreement Act 1976][484]
 
-[320 ][485][][485][Power of entry][485]
+[320][485][][485][Power of entry][485]
 
-[321 ][486][][486][New section 11 substituted][486]
+[321][486][][486][New section 11 substituted][486]
 
 [11][487][][487][Search warrants][487]
 
 [Amendments to Weights and Measures Act 1987][488]
 
-[322 ][489][][489][Amendments to Weights and Measures Act 1987][489]
+[322][489][][489][Amendments to Weights and Measures Act 1987][489]
 
 [Subpart 3][490][---][490][Other repeals and amendments][490]
 
 [Amendments to Arms Act 1983][491]
 
-[323 ][492][][492][Arms Act 1983 amended][492]
+[323][492][][492][Arms Act 1983 amended][492]
 
 [Amendments to Corrections Act 2004][493]
 
-[324 ][494][][494][Corrections Act 2004 amended][494]
+[324][494][][494][Corrections Act 2004 amended][494]
 
 [Amendments to Crimes Act 1961][495]
 
-[325 ][496][][496][Crimes Act 1961 amended][496]
+[325][496][][496][Crimes Act 1961 amended][496]
 
 [Amendments to Crimes Amendment Act (No 4) 2011][497]
 
-[326 ][498][][498][Amendments to Crimes Amendment Act (No 4) 2011][498]
+[326][498][][498][Amendments to Crimes Amendment Act (No 4) 2011][498]
 
 [Amendments to Criminal Procedure Act 2011][499]
 
-[327 ][500][][500][Amendments to Criminal Procedure Act 2011][500]
+[327][500][][500][Amendments to Criminal Procedure Act 2011][500]
 
 [Amendment to District Courts Act 1947][501]
 
-[328 ][502][][502][District Courts Act 1947 amended][502]
+[328][502][][502][District Courts Act 1947 amended][502]
 
-[329 ][503][][503][New section 17A substituted][503]
+[329][503][][503][New section 17A substituted][503]
 
 [17A][504][][504][Sections 121, 128, and 129 of Search and Surveillance Act 2012 inapplicable to bailiffs][504]
 
 [Amendment to Health Act 1956][505]
 
-[330 ][506][][506][Health Act 1956 amended][506]
+[330][506][][506][Health Act 1956 amended][506]
 
 [Amendments to Misuse of Drugs Act 1975][507]
 
-[331 ][508][][508][Misuse of Drugs Act 1975 amended][508]
+[331][508][][508][Misuse of Drugs Act 1975 amended][508]
 
-[332 ][509][][509][New section 18 substituted][509]
+[332][509][][509][New section 18 substituted][509]
 
 [18][510][][510][Seizing and destroying prohibited plants and seeds][510]
 
-[333 ][511][][511][Application of Customs and Excise Act 1996][511]
+[333][511][][511][Application of Customs and Excise Act 1996][511]
 
 [Amendments to Misuse of Drugs Amendment Act 1978][512]
 
-[334 ][513][][513][Misuse of Drugs Amendment Act 1978 amended][513]
+[334][513][][513][Misuse of Drugs Amendment Act 1978 amended][513]
 
 [Amendment to Mutual Assistance in Criminal Matters Act 1992][514]
 
-[335 ][515][][515][Mutual Assistance in Criminal Matters Act 1992 amended][515]
+[335][515][][515][Mutual Assistance in Criminal Matters Act 1992 amended][515]
 
 [Amendments to Policing Act 2008][516]
 
-[336 ][517][][517][Policing Act 2008 amended][517]
+[336][517][][517][Policing Act 2008 amended][517]
 
 [Amendments to Summary Proceedings Act 1957][518]
 
-[337 ][519][][519][Summary Proceedings Act 1957 amended][519]
+[337][519][][519][Summary Proceedings Act 1957 amended][519]
 
 [Amendments to Summary Proceedings Amendment Act (No 2) 2011][520]
 
-[338 ][521][][521][Amendments to Summary Proceedings Amendment Act (No 2) 2011][521]
+[338][521][][521][Amendments to Summary Proceedings Amendment Act (No 2) 2011][521]
 
 [Amendment to Telecommunications Act 2001][522]
 
-[339 ][523][][523][Telecommunications Act 2001 amended][523]
+[339][523][][523][Telecommunications Act 2001 amended][523]
 
 [Amendment to Telecommunications (Interception Capability) Act 2004][524]
 
-[340 ][525][][525][Telecommunications (Interception Capability) Act 2004 amended][525]
+[340][525][][525][Telecommunications (Interception Capability) Act 2004 amended][525]
 
 [Repeal of Telecommunications (Residual Provisions) Act 1987][526]
 
-[341 ][527][][527][Telecommunications (Residual Provisions) Act 1987 repealed][527]
+[341][527][][527][Telecommunications (Residual Provisions) Act 1987 repealed][527]
 
 [Subpart 4][528][---][528][Regulation-making powers, transitional provisions, and review provision][528]
 
-[342 ][529][][529][Regulations][529]
+[342][529][][529][Regulations][529]
 
 [Transitional provisions][530]
 
-[343 ][531][][531][Transitional provision in relation to reporting requirements][531]
+[343][531][][531][Transitional provision in relation to reporting requirements][531]
 
-[344 ][532][][532][Disclosure of prior warrants in applications for surveillance device warrants made in transitional period][532]
+[344][532][][532][Disclosure of prior warrants in applications for surveillance device warrants made in transitional period][532]
 
-[345 ][533][][533][Disclosure of prior warrants in applications for search warrants][533]
+[345][533][][533][Disclosure of prior warrants in applications for search warrants][533]
 
-[346 ][534][][534][Transitional provision relating to Part 11A of Crimes Act 1961][534]
+[346][534][][534][Transitional provision relating to Part 11A of Crimes Act 1961][534]
 
-[347 ][535][][535][Transitional provision relating to sections 14 to 29 of Misuse of Drugs Amendment Act 1978][535]
+[347][535][][535][Transitional provision relating to sections 14 to 29 of Misuse of Drugs Amendment Act 1978][535]
 
-[348 ][536][][536][Transitional provision in relation to sections 198 to 200 of Summary Proceedings Act 1957][536]
+[348][536][][536][Transitional provision in relation to sections 198 to 200 of Summary Proceedings Act 1957][536]
 
-[349 ][537][][537][Transitional provision relating to sections 200A to 200P of Summary Proceedings Act 1957][537]
+[349][537][][537][Transitional provision relating to sections 200A to 200P of Summary Proceedings Act 1957][537]
 
-[350 ][538][][538][Transitional provision relating to covert video surveillance][538]
+[350][538][][538][Transitional provision relating to covert video surveillance][538]
 
-[351 ][539][][539][Transitional provision relating to provisions brought into force under section 2][539]
+[351][539][][539][Transitional provision relating to provisions brought into force under section 2][539]
 
-[352 ][540][][540][Certain provisions deemed to be in force during transitional period][540]
+[352][540][][540][Certain provisions deemed to be in force during transitional period][540]
 
-[353 ][541][][541][Certain provisions limited to matters covered in subpart 1 of Part 3 during transitional period][541]
+[353][541][][541][Certain provisions limited to matters covered in subpart 1 of Part 3 during transitional period][541]
 
-[354 ][542][][542][Transitional provision relating to Criminal Procedure Act 2011][542]
+[354][542][][542][Transitional provision relating to Criminal Procedure Act 2011][542]
 
-[355 ][543][][543][References to enforcement officer during transitional period][543]
+[355][543][][543][References to enforcement officer during transitional period][543]
 
-[356 ][544][][544][Regulations providing for transitional matters][544]
+[356][544][][544][Regulations providing for transitional matters][544]
 
 [Review provision][545]
 
-[357 ][546][][546][Review of operation of Act][546]
+[357][546][][546][Review of operation of Act][546]
 
 [Schedule][547]  
 [Powers in other enactments to which all or part of Part 4 of Search and Surveillance Act 2012 applies][547]
@@ -8283,6 +8283,10 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [146][703] High Court may declare the nature, extent, and value of any person's interest in property specified in a foreign forfeiture order All (except [subpart 6][213])
 
+[Crown Minerals Amendment Act 2013][1048] [99B][1049] Enforcement officer authorised by Minister may inspect place or structure (other than dwellinghouse or marae) to determine whether permit, [Crown Minerals Act 1991][1050], or regulations made under that Act being complied with. All (except [sections 118][1051] and [119][1052])
+
+[99C][1053] Constable or enforcement officer authorised by Minister may obtain and execute search warrant to enter and search place or vehicle for evidence of offence against [Crown Minerals Act 1991][1050] or regulations made under that Act. All (except [sections 118][1051] and [119][1052] in the case of an enforcement officer)
+
 [Customs and Excise Act 1996][704] [139(1)(d)][705] Customs officer and authorised person may board craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against [Customs and Excise Act 1996][704] or is carrying dutiable, uncustomed, prohibited, or forfeited goods [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
 
 [140][706] Customs officer and authorised person may search craft if officer or authorised person has reasonable cause to suspect craft is involved in offence against [Customs and Excise Act 1996][704] or is carrying dutiable, uncustomed, prohibited, or forfeited goods [Subparts 1][127], [2][131], and [4 to 10][154] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subparts 6][213] and [8][236] do not apply to forfeited goods)
@@ -8301,9 +8305,9 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [175C][721] Customs officer may seize or detain goods suspected to be certain risk goods or evidence of commission of certain offences, if those goods are discovered in the course of exercising powers of inspection, search, or examination under [Customs and Excise Act 1996][704] All (except [subparts 2][131] and [3][138])
 
-175D Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under [Customs and Excise Act 1996][704]) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under [Misuse of Drugs Act 1975][580] or [Films, Videos, and Publications Classification Act 1993][1048] [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods) 
+175D Customs officer may seize and detain goods or documents (located in the course of exercising any power of search, inspection, or examination under [Customs and Excise Act 1996][704]) that he or she has reasonable cause to suspect are evidence of any of specified list of offences under [Misuse of Drugs Act 1975][580] or [Films, Videos, and Publications Classification Act 1993][1054] [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249] (except that [sections 125(4)][178], [131(5)(f)][189], and [133][191] and [subpart 6][213] do not apply to forfeited goods) 
 
-[Dairy Industry Restructuring Act 2001][724] [29I(1)][726] Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against [section 31(3)][1049] of Dairy Industry Restructuring Act 2001 All (except that [sections 118][166] and [119][168] apply to constables only)
+[Dairy Industry Restructuring Act 2001][724] [29I(1)][726] Constable or chief executive of Ministry of Agriculture and Forestry or person authorised by chief executive may obtain and execute search warrant to search for evidence of offence against [section 31(3)][1055] of Dairy Industry Restructuring Act 2001 All (except that [sections 118][166] and [119][168] apply to constables only)
 
 [Dog Control Act 1996][732] [14(1) to (3)][733] Dog control officer who has good cause to suspect that offence against [Dog Control Act 1996][732] or bylaw under that Act is being committed may enter land or premises, and inspect any dog, and, if authorised by that Act, seize or take custody of dog (note: warrant must be obtained to enter dwellinghouse) [Subparts 1][127], [2][131], [4][154], and [7 to 10][230] (except that [sections 118][166] and [119][168] apply to constables only)
 
@@ -8323,9 +8327,9 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Fair Trading Act 1986][974] [47(2)][975] Authorised employee of Commerce Commission may obtain and execute search warrant to investigate breaches of [Fair Trading Act 1986][974] All (except [sections 118][166] and [119][168])
 
-[Films, Videos, and Publications Classification Act 1993][1048] [109][753] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [Films, Videos, and Publications Classification Act 1993][1048] (other than against [sections 126][1050] and [131A][1051]) All (except [sections 118][166] and [119][168])
+[Films, Videos, and Publications Classification Act 1993][1054] [109][753] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [Films, Videos, and Publications Classification Act 1993][1054] (other than against [sections 126][1056] and [131A][1057]) All (except [sections 118][166] and [119][168])
 
-[109A(1)][754] and [109B][755] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [section 126][1050] or [131A][1051] of Films, Videos, and Publications Classification Act 1993 All (except [sections 118][166] and [119][168])
+[109A(1)][754] and [109B][755] Constable or inspector may obtain and execute search warrant to search for evidence of offences against [section 126][1056] or [131A][1057] of Films, Videos, and Publications Classification Act 1993 All (except [sections 118][166] and [119][168])
 
 [Financial Markets Authority Act 2011][758] [29(1) and (3)][760] Specified person may enter and search place, vehicle, or other thing by consent or with warrant to ascertain if person is contravening financial markets legislation All (except [sections 118][166] and [119][168])
 
@@ -8351,11 +8355,11 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [71B(1)][981] Various powers of entry conferred by Forests Act 1949 are subject to specified statutory restrictions (including all of [Part 4][126] of Search and Surveillance Act 2012) All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Gambling Act 2003][1052] [335(1)][781] Gambling inspector may, while in casino, seize any gambling equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [sections 351 to 353][1052] of Gambling Act 2003 All (except [subpart 3][138])
+[Gambling Act 2003][1058] [335(1)][781] Gambling inspector may, while in casino, seize any gambling equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [sections 351 to 353][1058] of Gambling Act 2003 All (except [subpart 3][138])
 
-[336(1)][782] Gambling inspector may, while in public place, seize any equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [Gambling Act 2003][1052] or related offence involving gambling All (except [subpart 3][138])
+[336(1)][782] Gambling inspector may, while in public place, seize any equipment, device, or thing that inspector has reasonable grounds to believe is evidence of offence against [Gambling Act 2003][1058] or related offence involving gambling All (except [subpart 3][138])
 
-[340(3)][784] Gambling inspector or constable may obtain and execute search warrant to search for evidence of offence against [Gambling Act 2003][1052] or related offence involving gambling All (except that [sections 118][166] and [119][168] apply to constables only)
+[340(3)][784] Gambling inspector or constable may obtain and execute search warrant to search for evidence of offence against [Gambling Act 2003][1058] or related offence involving gambling All (except that [sections 118][166] and [119][168] apply to constables only)
 
 [Gas Act 1992][982] [43W(6) and (7)][983] Authorised person may enter home of industry participant under authority of warrant (which may be issued if there are reasonable grounds to believe it is necessary to issue warrant to ascertain whether industry participant has breached, or may breach, gas governance regulations or rules) [Subparts 1][127], [3][138], [7][230], [9][241], and [10][249] 
 
@@ -8363,7 +8367,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Hazardous Substances and New Organisms Act 1996][788] [119(1)][789] Enforcement officer may obtain and execute search warrant to search for evidence of any substance or organism or related thing involved in offence against [Hazardous Substances and New Organisms Act 1996][788] All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Health Practitioners Competence Assurance Act 2003][791] [10(1)][792] Constable may obtain and execute search warrant to search for evidence of offence against [section 7][1053] or [9][1054] of Health Practitioners Competence Assurance Act 2003 All (except [sections 118][166] and [119][168])
+[Health Practitioners Competence Assurance Act 2003][791] [10(1)][792] Constable may obtain and execute search warrant to search for evidence of offence against [section 7][1059] or [9][1060] of Health Practitioners Competence Assurance Act 2003 All (except [sections 118][166] and [119][168])
 
 [Human Assisted Reproductive Technology Act 2004][793] [68(1)][794] Authorised person may enter place if he or she has reasonable grounds to believe that gamete, embryo, or foetus formed by prohibited action is located there or any assisted reproductive procedure or human reproductive research is conducted there, and inspect equipment at place and exercise other powers (such as powers of inspection and search and seizures at various times) All (except [subpart 3][138] and [sections 118][166] and [119][168])
 
@@ -8385,7 +8389,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Insurance (Prudential Supervision) Act 2010][818] [132(1)][819] Investigator may enter and search any place by consent or with warrant for purposes of investigating affairs of licensed insurer or associated person All (except [sections 118][166] and [119][168]) 
 
-[230][820], [231][1055] Protection from liability for acts done in good faith [Subpart 7][230]
+[230][820], [231][1061] Protection from liability for acts done in good faith [Subpart 7][230]
 
 [International Crimes and International Criminal Court Act 2000][822] [102(1) and (2)][824] Constable may obtain and execute search warrant to search for evidence of international crime or anything related to such crime [Subparts 1 to 5][127], [7][230], [9][241], and [10][249] and also sections 161 and 162 
 
@@ -8397,7 +8401,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [International Energy Agreement Act 1976][985] [11][987] Regulations may be made allowing powers of entry conferred by [section 9][986] of International Energy Agreement Act 1976 to be exercised to ensure compliance with those regulations (note: regulations must not limit [section 6][9] of Search and Surveillance Act 2012 or [subpart 6 of Part 4][213] of that Act) [Section 6][9] and [subparts 1][127], [3][138], [6][213], [7][230], [9][241], and [10][249] 
 
-[International War Crimes Tribunals Act 1995][828] [48(1)][831] Constable who is of or above the level of inspector may obtain and execute warrant to search for evidence of suspected offence for which person has been arrested under [section 7][1056] of International War Crimes Tribunals Act 1995 or for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
+[International War Crimes Tribunals Act 1995][828] [48(1)][831] Constable who is of or above the level of inspector may obtain and execute warrant to search for evidence of suspected offence for which person has been arrested under [section 7][1062] of International War Crimes Tribunals Act 1995 or for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
 
 [48(2)][831] Constable, authorised by Attorney-General, may obtain and execute warrant to search for evidence of suspected offence that war crimes tribunal has jurisdiction to try, and for any thing in respect of which such offence has been, or is suspected of having been, committed [Subparts 1 to 5][127] and [7 to 10][230] and also [sections 161][227] and [162][228]
 
@@ -8439,7 +8443,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [62(1)][869] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that a person has taken or is intending to take certain proscribed actions and that meat products or related documents are or are likely to be at the place All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[62(2)][869] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that, as consequence of inspection under [section 61][1057] of Meat Board Act 2004, there are reasonable grounds to believe that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
+[62(2)][869] Constable or authorised person may obtain and execute warrant to enter and inspect place that is not a place of business if issuing officer is satisfied that, as consequence of inspection under [section 61][1063] of Meat Board Act 2004, there are reasonable grounds to believe that there are or are likely to be meat products or related documents at that place All (except that [sections 118][166] and [119][168] apply to constables only)
 
 [Motor Vehicle Sales Act 2003][873] [130(1)][874] Constable or Registrar of Motor Vehicles or person authorised by Registrar may obtain and execute search warrant to search for evidence of offence against [Motor Vehicle Sales Act 2003][873] that has been, or is being, committed or for any related thing All (except that [sections 118][166] and [119][168] apply to constables only)
 
@@ -8459,25 +8463,25 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [25][885] If any constable or officer seizes any substance or goods under [Ozone Layer Protection Act 1996][883], [subparts 1][127], [6][213], [7][230], [9][241], and [10][249] of Part 4 of Search and Surveillance Act 2012 apply [Subparts 1][127], [6][213], [7][230], [9][241], and [10][249]
 
-[Pork Industry Board Act 1997][889] [44(2)][890] Authorised person may enter and inspect place of business to ascertain whether requirements of [Part 4][1058] of Pork Industry Board Act 1997 are being complied with or to obtain evidence that any of those requirements are not being met All (except [subpart 2][131], sections 118 and 119, and [subpart 8][236])
+[Pork Industry Board Act 1997][889] [44(2)][890] Authorised person may enter and inspect place of business to ascertain whether requirements of [Part 4][1064] of Pork Industry Board Act 1997 are being complied with or to obtain evidence that any of those requirements are not being met All (except [subpart 2][131], sections 118 and 119, and [subpart 8][236])
 
-[45(1)][891] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that offence against [section 49(1) or (2)][1059] of Pork Industry Board Act 1997 has been committed and that there are or are likely to be at the place certain documents relating to levy money or slaughter of pigs, or pork products subject to that levy, that are evidence of commission of offence All (except [sections 118][166] and [119][168])
+[45(1)][891] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that offence against [section 49(1) or (2)][1065] of Pork Industry Board Act 1997 has been committed and that there are or are likely to be at the place certain documents relating to levy money or slaughter of pigs, or pork products subject to that levy, that are evidence of commission of offence All (except [sections 118][166] and [119][168])
 
 [45(2)][891] Authorised person may obtain and execute warrant to enter and inspect place that is not place of business if issuing officer is satisfied that, as consequence of inspection of place of business under [section 44][890] of Pork Industry Board Act 1997, there are reasonable grounds to believe that there are certain documents relating to levy money or slaughter of pigs, or pork products from pigs subject to that levy, at that place All (except [sections 118][166] and [119][168])
 
-[Prostitution Reform Act 2003][895] [30(1)][896] Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against [section 23][1060] or [34][1061] of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence All
+[Prostitution Reform Act 2003][895] [30(1)][896] Constable may obtain warrant to enter and search place if issuing officer is satisfied that there is good cause to suspect offence against [section 23][1066] or [34][1067] of Prostitution Reform Act 2003 has been or is likely to be committed at that place, or that it is necessary for constable to enter place to prevent or investigate such offence All
 
 [Radiation Protection Act 1965][898] 24(2) Authorised officer of Ministry of Health who is refused entry to building believed to have radioactive material or irradiating apparatus or who believes that offence has been committed against [Radiation Protection Act 1965][898] may obtain and execute search warrant All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Radiocommunications Act 1989][900] [120][901] Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against [Radiocommunications Act 1989][900] or any regulations made under [section 134(1)(g)][1062] of that Act All (except [sections 118][166] and [119][168])
+[Radiocommunications Act 1989][900] [120][901] Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against [Radiocommunications Act 1989][900] or any regulations made under [section 134(1)(g)][1068] of that Act All (except [sections 118][166] and [119][168])
 
 [Reserve Bank of New Zealand Act 1989][903] [66I][904] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that certain information supplied to Reserve Bank is false or misleading, or that a person has failed to comply with certain statutory requirements under [Reserve Bank of New Zealand Act 1989][903] All (except [sections 118][166] and [119][168])
 
-[106(1)][906] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in [Part 5][1063] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[106(1)][906] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that there has been non-compliance with any of certain provisions in [Part 5][1069] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
-[106(2)][906] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that it is necessary to do so for purpose of determining whether to execute statutory powers conferred by [section 113][1064] or [117][1065] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[106(2)][906] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that it is necessary to do so for purpose of determining whether to execute statutory powers conferred by [section 113][1070] or [117][1071] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
-[157ZM(1)][907] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds to believe that deposit taker has committed offence against [Part 5D][1066] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
+[157ZM(1)][907] Suitably qualified person appointed by Reserve Bank may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds to believe that deposit taker has committed offence against [Part 5D][1072] of Reserve Bank of New Zealand Act 1989 All (except [sections 118][166] and [119][168])
 
 [Reserves Act 1977][910] [95(1)][912] Certain wildlife and related things found in possession of person in reserve may be seized by constable, ranger, or employee of administering body, if he or she has good cause to suspect that the person, in obtaining possession of the thing, has committed offence against [Reserves Act 1977][910] All (except [subpart 3][138])
 
@@ -8527,6 +8531,8 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [68][958] Property seized under search warrant issued under [section 65][955] of Wine Act 2003 may be disposed of [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
 
+*   Schedule: amended, on 24 May 2013, by [section 65][1073] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+
 ---
 
 #### Contents
@@ -8543,23 +8549,23 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 ###### 1 General
     
-*   This is a reprint of the Search and Surveillance Act 2012\. The reprint incorporates all the amendments to the Act as at 2 April 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Search and Surveillance Act 2012\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][1067] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][1074] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][1068] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][1075] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][1069] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][1076] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][1070] and [17E][1071] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][1077] and [17E][1078] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -8590,9 +8596,11 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Electronic Identity Verification Act 2012 (2012 No 123): [section 76][747]
+*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1073]
     
-    [Search and Surveillance Act Commencement Order 2012][1072] (SR 2012/229)
+    Electronic Identity Verification Act 2012 (2012 No 123): [section 76][747]
+    
+    [Search and Surveillance Act Commencement Order 2012][1079] (SR 2012/229)
 
 
 
@@ -9644,28 +9652,35 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 [1045]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM332179
 [1046]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM313301
 [1047]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1451324
-[1048]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM312894
-[1049]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM108997
-[1050]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314154
-[1051]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314171
-[1052]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210705
-[1053]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203380
-[1054]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203382
-[1055]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478604
-[1056]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365058
-[1057]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302056
-[1058]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422420
-[1059]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422437
-[1060]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197876
-[1061]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197890
-[1062]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197395
-[1063]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200324
-[1064]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201206
-[1065]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201224
-[1066]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607314
-[1067]: http://www.pco.parliament.govt.nz/reprints/
-[1068]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195439
-[1069]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1070]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195468
-[1071]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195470
-[1072]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
+[1048]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756102
+[1049]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756280
+[1050]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242535
+[1051]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM247359
+[1052]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM247360
+[1053]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4756281
+[1054]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM312894
+[1055]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM108997
+[1056]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314154
+[1057]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM314171
+[1058]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM210705
+[1059]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203380
+[1060]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM203382
+[1061]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2478604
+[1062]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM365058
+[1063]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM302056
+[1064]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422420
+[1065]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM422437
+[1066]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197876
+[1067]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197890
+[1068]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM197395
+[1069]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM200324
+[1070]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201206
+[1071]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201224
+[1072]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607314
+[1073]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5081570
+[1074]: http://www.pco.parliament.govt.nz/reprints/
+[1075]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195439
+[1076]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1077]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195468
+[1078]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM195470
+[1079]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
