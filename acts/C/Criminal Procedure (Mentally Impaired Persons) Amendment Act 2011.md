@@ -8,15 +8,15 @@ Commencementsee section 2
 
 ## Contents
 
-[1 ][0] [Title][0]
+[1 ][0][][0][Title][0]
 
-[2 ][1] [Commencement][1]
+[2 ][1][][1][Commencement][1]
 
-[3 ][2] [Principal Act amended][2]
+[3 ][2][][2][Principal Act amended][2]
 
-[4 ][3] [Amendments to principal Act][3]
+[4 ][3][][3][Amendments to principal Act][3]
 
-[5 ][4] [Application of amendments made by section 4][4]
+[5 ][4][][4][Application of amendments made by section 4][4]
 
 [Schedule][5]  
 [Amendments to principal Act][5]
