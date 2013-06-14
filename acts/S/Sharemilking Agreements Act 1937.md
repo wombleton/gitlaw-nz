@@ -1,19 +1,23 @@
 Reprint  
 as at 1 June 2012
 
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
+
 # Sharemilking Agreements Act 1937Public Act1937 No 37
 
 Date of assent15 March 1938
+
+Commencement15 March 1938
 
 ---
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered in the Department of Labour.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -33,12 +37,12 @@ This Act is administered in the Department of Labour.
 
 [6][7][][7][Inspector may take proceedings on behalf of sharemilker][7]
 
-[7][8][][8][Share-milking agreements may be enforced though not in writing][8] \[Repealed\]
+[7][8][][8][Sharemilking agreements may be enforced though not in writing][8] \[Repealed\]
 
-[8][9][][9][Act to be administered by Department of Labour][9]
+[8][9][][9][Act to be administered by Labour Department][9]
 
 [Schedule][10]  
-[Sharemilking agreement][10]
+[Sharemilking Agreement][10]
 
 ---
 
@@ -52,37 +56,37 @@ An Act to make provision for safeguarding the interests of sharemilkers under sh
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _employer_, in relation to a sharemilker, means a person by agreement with whom a sharemilker is entitled, otherwise than as a servant under a contract of service, to receive a share of the returns or profits derived from the dairy farming operations which are the subject-matter of the agreement
+    _employer_, in relation to a sharemilker, means a person by agreement with whom a sharemilker is entitled, otherwise than as a servant under a contract of service, to receive a share of the returns or profits derived from the dairy farming operations which are the subject matter of the agreement
     
     _Inspector_ means an Inspector appointed under the Agricultural Workers Act 1977
     
-    _sharemilker_ means a person who has undertaken to perform in whole or in part the work of a dairy farm otherwise than as a servant under a contract of service, and who is entitled under a sharemilking agreement to receive a share of the returns or profits derived from the dairy farming operations which are the subject-matter of the agreement
+    _sharemilker_ means a person who has undertaken to perform in whole or in part the work of a dairy farm otherwise than as a servant under a contract of service, and who is entitled under a sharemilking agreement to receive a share of the returns or profits derived from the dairy farming operations which are the subject matter of the agreement
     
-    _sharemilking agreement_ means an agreement between a sharemilker and an employer in relation to the carrying on by the sharemilker of the dairy farming operations which are the subject-matter of the agreement.
+    _sharemilking agreement_ means an agreement between a sharemilker and an employer in relation to the carrying on by the sharemilker of the dairy farming operations which are the subject matter of the agreement.
     
-    (2) References in the [Schedule][10] hereto to ""the farm owner"" shall be read as references to ""the employer"" as herein defined.
+    (2) References in the [Schedule][10] to the farm owner shall be read as references to the employer as herein defined.
     
-    Section 2(1) **Inspector**: amended, on 1 November 1977, by section 62(1)(a) of the Agricultural Workers Act 1977 (1977 No 43).
+    Section 2(1) **Inspector**: amended, on 1 November 1977, pursuant to section 62(1)(a) of the Agricultural Workers Act 1977 (1977 No 43).
 
 ##### 3 Sharemilking agreements to which this section applies not to contain conditions less favourable to sharemilker than those specified in Schedule
     
-*   (1) This section applies to every sharemilking agreement made between an employer and a sharemilker in any case where the dairy herd is owned or provided by the employer, but does not apply to any bona fide sharemilking agreement whereby the sharemilker receives one-half of the returns or profits derived from the dairy farming operations which are the subject-matter of the agreement, and the employer, for the purposes of the agreement, bails or leases the dairy herd or part of it to the sharemilker for an adequate consideration.
+*   (1) This section applies to every sharemilking agreement made between an employer and a sharemilker in any case where the dairy herd is owned or provided by the employer, but does not apply to any bona fide sharemilking agreement whereby the sharemilker receives one-half of the returns or profits derived from the dairy farming operations which are the subject matter of the agreement, and the employer, for the purposes of the agreement, bails or leases the dairy herd or part of it to the sharemilker for an adequate consideration.
     
-    (2) Notwithstanding anything to the contrary in any sharemilking agreement to which this section applies (whether such agreement has been entered into before or is entered into after the passing of this Act) the agreement shall, on and after 1 August 1938, operate not less favourably to the sharemilker in any respect than if the terms and conditions specified in the Schedule hereto were incorporated in the agreement on that date.
+    (2) Notwithstanding anything to the contrary in any sharemilking agreement to which this section applies (whether such agreement has been entered into before or is entered into after the passing of this Act) the agreement shall, on and after 1 August 1938, operate not less favourably to the sharemilker in any respect than if the terms and conditions specified in the Schedule were incorporated in the agreement on that date.
     
-    (3) Any terms and conditions included in the sharemilking agreement that are inconsistent with the terms and conditions specified in the [Schedule][10] hereto (in so far as they would operate to the disadvantage of the sharemilker) shall, on and after 1 August 1938, or the date of the agreement (whichever is the later), be deemed to be null and void.
+    (3) Any terms and conditions included in the sharemilking agreement that are inconsistent with the terms and conditions specified in the [Schedule][10] (in so far as they would operate to the disadvantage of the sharemilker) shall, on and after 1 August 1938 or the date of the agreement (whichever is the later), be deemed to be null and void.
     
-    (4) Notwithstanding any other provision of this section, the [Limitation Act 2010][11] shall be read subject to the terms and conditions specified in the [Schedule][10] hereto.
+    (4) Notwithstanding any other provision of this section, the [Limitation Act 2010][11] shall be read subject to the terms and conditions specified in the [Schedule][10].
     
     Section 3(1): amended, on 11 June 1985, by section 2(1) of the Sharemilking Agreements Amendment Act 1985 (1985 No 98).
     
-    Section 3(4): added, on 27 October 1965, by by section 2 of the Sharemilking Agreements Amendment Act 1965 (1965 No 110).
+    Section 3(4): inserted, on 27 October 1965, by section 2 of the Sharemilking Agreements Amendment Act 1965 (1965 No 110).
     
     Section 3(4): amended, on 1 January 2011, by [section 58][12] of the Limitation Act 2010 (2010 No 110).
 
 ##### 4 Provision for variation of conditions set out in Schedule
     
-*   (1) The terms and conditions set out in the [Schedule][10] (which have been formulated and agreed to on behalf of the New Zealand Farmers' Union and the New Zealand Workers' Industrial Union of Workers) may at any time and from time to time be altered by the Governor-General by Order in Council if he is satisfied that the proposed alterations have been agreed to by or on behalf of the same organisations, or by or on behalf of any other organisations representing the interests of the employers and sharemilkers respectively, or have been recommended by the Arbitration Court.
+*   (1) The terms and conditions set out in the [Schedule][10] (which have been formulated and agreed to on behalf of the New Zealand Farmers' Union and the New Zealand Workers' Industrial Union of Workers) may at any time and from time to time be altered by the Governor-General by Order in Council if he is satisfied that the proposed alterations have been agreed to by or on behalf of the same organisations, or by or on behalf of any other organisations representing the interests of the employers and sharemilkers respectively or have been recommended by the Arbitration Court.
     
     (2) The authority conferred by this section to alter the said terms and conditions shall include authority to add any new terms and conditions, or to vary or revoke any of the specified terms and conditions.
     
@@ -90,11 +94,11 @@ An Act to make provision for safeguarding the interests of sharemilkers under sh
     
     (4) Every Order in Council under this section shall operate as from a date to be specified therein in that behalf, being not earlier than a date agreed to by the organisations concerned or recommended by the Arbitration Court (which may be before or after the date of the Order in Council).
     
-    Section 4(1): amended, on OIC, by section 6(2) of the Industrial Relations Amendment Act 1977 (1977 No 108).
+    Section 4(1): amended, on 17 April 1978, by section 6(2) of the Industrial Relations Amendment Act 1977 (1977 No 108).
     
     Section 4(1): amended, on 7 December 1945, by [section 75(5)(a)][13] of the Statutes Amendment Act 1945 (1945 No 40).
     
-    Section 4(4): amended, on OIC, by section 6(2) of the Industrial Relations Amendment Act 1977 (1977 No 108).
+    Section 4(4): amended, on 17 April 1978, by section 6(2) of the Industrial Relations Amendment Act 1977 (1977 No 108).
     
     Section 4(4): amended, on 7 December 1945, by [section 75(5)(b)][13] of the Statutes Amendment Act 1945 (1945 No 40).
 
@@ -102,13 +106,11 @@ An Act to make provision for safeguarding the interests of sharemilkers under sh
     
 *   (1) If at any time the Governor-General is satisfied with respect to any class of sharemilking agreements, other than the class of agreements to which [section 3][4] applies, that standard terms and conditions have been agreed to by representative organisations of employers and sharemilkers or recommended by the Arbitration Court, he may by Order in Council apply the foregoing provisions of this Act to agreements of that class.
     
-    (2) In the application of the foregoing provisions of this Act to agreements of any such class, references therein to the terms and conditions set out in the Schedule to this Act shall be read as references to the standard terms and conditions agreed to or recommended as aforesaid with respect to agreements of that class.
+    (2) In the application of the foregoing provisions of this Act to agreements of any such class, references therein to the terms and conditions set out in the Schedule shall be read as references to the standard terms and conditions agreed to or recommended as aforesaid with respect to agreements of that class.
     
-    Section 5(1): amended, on OIC, by section 6(2) of the Industrial Relations Amendment Act 1977 (1977 No 108).
+    Section 5(1): amended, on 17 April 1978, by section 6(2) of the Industrial Relations Amendment Act 1977 (1977 No 108).
     
     Section 5(1): amended, on 7 December 1945, by [section 75(6)(a)][13] of the Statutes Amendment Act 1945 (1945 No 40).
-    
-    Section 5(2): amended, on OIC, by section 6(2) of the Industrial Relations Amendment Act 1977 (1977 No 108).
     
     Section 5(2): amended, on 7 December 1945, by [section 75(6)(b)][13] of the Statutes Amendment Act 1945 (1945 No 40).
 
@@ -116,28 +118,26 @@ An Act to make provision for safeguarding the interests of sharemilkers under sh
     
 *   Without limiting any other remedies that a sharemilker may have against his employer, any Inspector, acting in the name and on behalf of a sharemilker, may take proceedings for the enforcement of the rights of the sharemilker under any sharemilking agreement.
 
-##### 7 Share-milking agreements may be enforced though not in writing
+##### 7 Sharemilking agreements may be enforced though not in writing
     
 *   \[Repealed\]
     
     Section 7: repealed, on 19 October 1956, by [section 5(1)][14] of the Contracts Enforcement Act 1956 (1956 No 23).
 
-##### 8 Act to be administered by Department of Labour
+##### 8 Act to be administered by Labour Department
     
-*   (1) This Act shall be administered by the Department of Labour established under the Labour Department Act 1954\.
+*   (1) This Act shall be administered by the Department of Labour established under the Labour Department Act 1908\.
     
     (2) \[Repealed\]
-    
-    Section 8(1): amended, on 1 November 1954, by section 17(1) of the Labour Department Act 1954 (1954 No 71).
     
     Section 8(2): repealed, on 1 November 1954, by section 17(1) of the Labour Department Act 1954 (1954 No 71).
 
 ---
 
 ## Schedule  
-Sharemilking agreement
+Sharemilking Agreement
     
-*   Schedule: replaced, on 1 June 2012, by [clause 4][15] of the Sharemilking Agreements Order 2011 (SR 2011/295).
+*   Schedule: replaced, on 1 June 2012 (applying only to sharemilking agreements to which section 3(1) of this Act applies), by [clause 4][15] of the Sharemilking Agreements Order 2011 (SR 2011/295).
 
 The terms and conditions of the Sharemilking Agreement (applicable in cases where the sharemilker does not provide the herd) as settled by the Sharemilkers' Section of Federated Farmers of New Zealand (Incorporated) and the Sharemilker Employers' Section of Federated Farmers of New Zealand (Incorporated).
 
@@ -274,12 +274,10 @@ Email address:
 ### Legal description of land
 
 *   4 The farm owner possesses the farm shown on the plan attached to this Agreement (the land), the legal description and area of which follow.
-        
-    *   Area in hectares:
-        
-        Legal description:
     
+    Area in hectares:
     
+    Legal description:
 
 ### Area of land to be used by sharemilker
 
@@ -336,10 +334,8 @@ Email address:
 ### Lime application
 
 *   \*15 The farm owner must, in each season, supply and apply the following minimum quantity and type of lime:
-    
-    \*Omit this clause if it does not apply.
-    
-    
+
+\*Omit this clause if it does not apply.
 
 ### Relationship of parties
 
@@ -848,14 +844,14 @@ Email address:
 ### Stock responsibilities
 
 *   89 Unless otherwise instructed by the farm owner, the sharemilker is responsible at all times for the total care and husbandry of all stock that is the subject of this Agreement, including the calling of a veterinarian where necessary.
-        
-    *   The farm owner must ensure that adequate supplies of animal remedies are on hand at all times and must instruct the nominated supplier to provide to the sharemilker supplies of products to treat or prevent any diseases and conditions that require treatment or prevention.
     
-    *   **Note**: Both parties must be aware of their responsibilities under the [Animal Welfare Act 1999][29].
+    The farm owner must ensure that adequate supplies of animal remedies are on hand at all times and must instruct the nominated supplier to provide to the sharemilker supplies of products to treat or prevent any diseases and conditions that require treatment or prevention.
     
-    *   The sharemilker has purchasing authority for any one purchase of supplies of animal remedies up to a value of $\[_amount_\] per calendar month without recourse to the farm owner.
+    **Note**: Both parties must be aware of their responsibilities under the [Animal Welfare Act 1999][29].
     
-    *   The following methods, materials, and period of administration must be used for the prevention of bloat, facial eczema, grass staggers, and mastitis:
+    The sharemilker has purchasing authority for any one purchase of supplies of animal remedies up to a value of $\[_amount_\] per calendar month without recourse to the farm owner.
+    
+    The following methods, materials, and period of administration must be used for the prevention of bloat, facial eczema, grass staggers, and mastitis:
     
     **Method****Material****Period of administration**
     
@@ -1531,8 +1527,10 @@ Facial eczema
 #### Contents
     
 *   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+*   2Status of reprints
+*   3How reprints are prepared
+*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
+*   5List of amendments incorporated in this reprint (most recent first)
 
 ---
 
@@ -1540,19 +1538,70 @@ Facial eczema
 
 ###### 1 General
     
-*   This is an eprint of the Sharemilking Agreements Act 1937\. The eprint incorporates all the amendments to the Act as at 1 June 2012\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
+*   This is a reprint of the Sharemilking Agreements Act 1937\. The reprint incorporates all the amendments to the Act as at 1 June 2012, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][45] ![](/images/external_link.gif).
 
-###### 2 About this eprint
+###### 2 Status of reprints
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][45] ![](/images/external_link.gif).
+*   Under [section 16D][46] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+    
+    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 How reprints are prepared
     
-*   Sharemilking Agreements Order 2011 (SR 2011/295): [clause 4][15]
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][47] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+
+###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+    
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][48] and [17E][49] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+    
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    
+    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+        
+    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   •typeface and type size (Times Roman, generally in 11.5 point)
+    *   •layout of provisions, including:
+            
+        *   •indentation
+        *   •position of section headings (eg, the number and heading now appear above the section)
+        
+    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   •position of the date of assent (it now appears on the front page of each Act)
+    *   •punctuation (eg, colons are not used after definitions)
+    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   •case and appearance of letters and words, including:
+            
+        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   •small capital letters in section and subsection references are now capital letters
+        
+    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   •running heads (the information that appears at the top of each page)
+    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    
+    
+
+###### 5 List of amendments incorporated in this reprint (most recent first)
+    
+*   Sharemilking Agreements Order 2011 (2011 No 295): [clause 4][15]
     
     Limitation Act 2010 (2010 No 110): [section 58][12]
+    
+    Sharemilking Agreements Amendment Act 1985 (1985 No 98)
+    
+    Industrial Relations Amendment Act 1977 (1977 No 108): section 6(2)
+    
+    Agricultural Workers Act 1977 (1977 No 43): section 62(1)(a)
+    
+    Sharemilking Agreements Amendment Act 1965 (1965 No 110)
+    
+    Contracts Enforcement Act 1956 (1956 No 23): [section 5(1)][14]
+    
+    Labour Department Act 1954 (1954 No 71): section 17(1)
+    
+    Statutes Amendment Act 1945 (1945 No 40): section 75(5), (6)
 
 
 
@@ -1601,4 +1650,8 @@ Facial eczema
 [42]: http://www.legislation.govt.nz/act/public/1937/0037/latest/whole.html#DLM5080822
 [43]: http://www.legislation.govt.nz/act/public/1937/0037/latest/whole.html#DLM5080826
 [44]: http://www.legislation.govt.nz/act/public/1937/0037/latest/whole.html#DLM5080830
-[45]: http://www.pco.parliament.govt.nz/eprints/
+[45]: http://www.pco.parliament.govt.nz/reprints/
+[46]: http://www.legislation.govt.nz/act/public/1937/0037/latest/link.aspx?id=DLM195439
+[47]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[48]: http://www.legislation.govt.nz/act/public/1937/0037/latest/link.aspx?id=DLM195468
+[49]: http://www.legislation.govt.nz/act/public/1937/0037/latest/link.aspx?id=DLM195470
