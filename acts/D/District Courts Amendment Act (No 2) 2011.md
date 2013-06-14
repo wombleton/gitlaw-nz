@@ -8,41 +8,41 @@ Commencementsee section 2
 
 ## Contents
 
-[1 ][0] [Title][0]
+[1 ][0][][0][Title][0]
 
-[2 ][1] [Commencement][1]
+[2 ][1][][1][Commencement][1]
 
-[3 ][2] [Principal Act amended][2]
+[3 ][2][][2][Principal Act amended][2]
 
-[4 ][3] [New section 5B inserted][3]
+[4 ][3][][3][New section 5B inserted][3]
 
-[5B][4] [Appointment of jury trial Judges][4]
+[5B][4][][4][Appointment of jury trial Judges][4]
 
-[5 ][5] [New sections 11CA to 11CE inserted][5]
+[5 ][5][][5][New sections 11CA to 11CE inserted][5]
 
-[11CA][6] [No proceeding against Community Magistrate unless he or she acted without jurisdiction][6]
+[11CA][6][][6][No proceeding against Community Magistrate unless he or she acted without jurisdiction][6]
 
-[11CB][7] [No proceeding against Community Magistrate to be commenced in District Court][7]
+[11CB][7][][7][No proceeding against Community Magistrate to be commenced in District Court][7]
 
-[11CC][8] [Onus of proof][8]
+[11CC][8][][8][Onus of proof][8]
 
-[11CD][9] [Plaintiff may be ordered to give security for costs][9]
+[11CD][9][][9][Plaintiff may be ordered to give security for costs][9]
 
-[11CE][10] [Indemnity to Community Magistrate][10]
+[11CE][10][][10][Indemnity to Community Magistrate][10]
 
-[6 ][11] [Principal Act amendments taking into account section 14 of District Courts Amendment Act 2011][11]
+[6 ][11][][11][Principal Act amendments taking into account section 14 of District Courts Amendment Act 2011][11]
 
-[7 ][12] [Principal Act amendment further taking into account section 14 of District Courts Amendment Act 2011][12]
+[7 ][12][][12][Principal Act amendment further taking into account section 14 of District Courts Amendment Act 2011][12]
 
-[8 ][13] [Amendment to principal Act taking into account section 19 of District Courts Amendment Act 2011][13]
+[8 ][13][][13][Amendment to principal Act taking into account section 19 of District Courts Amendment Act 2011][13]
 
-[9 ][14] [Principal Act: first amendment taking into account section 23 of District Courts Amendment Act 2011][14]
+[9 ][14][][14][Principal Act: first amendment taking into account section 23 of District Courts Amendment Act 2011][14]
 
-[10 ][15] [Principal Act: second amendment taking into account section 23 of District Courts Amendment Act 2011][15]
+[10 ][15][][15][Principal Act: second amendment taking into account section 23 of District Courts Amendment Act 2011][15]
 
-[11 ][16] [Principal Act: third amendment taking into account section 23 of District Courts Amendment Act 2011][16]
+[11 ][16][][16][Principal Act: third amendment taking into account section 23 of District Courts Amendment Act 2011][16]
 
-[12 ][17] [Further amendments to principal Act][17]
+[12 ][17][][17][Further amendments to principal Act][17]
 
 [Schedule][18]  
 [Amendments to principal Act][18]
