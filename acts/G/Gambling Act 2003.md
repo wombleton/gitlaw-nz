@@ -9311,6 +9311,8 @@ Administration
 
 ## Part 4  
 Board procedure
+
+\[Repealed\]
     
 *   Schedule 4 Part 4: repealed, on 25 January 2005, pursuant to [section 200][525] of the Crown Entities Act 2004 (2004 No 115).
 
