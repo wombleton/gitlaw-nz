@@ -8,27 +8,27 @@ Commencementsee section 2
 
 ## Contents
 
-[1 ][0] [Title][0]
+[1 ][0][][0][Title][0]
 
-[2 ][1] [Commencement][1]
+[2 ][1][][1][Commencement][1]
 
-[3 ][2] [Principal Act amended][2]
+[3 ][2][][2][Principal Act amended][2]
 
-[4 ][3] [Functions and powers of Justices][3]
+[4 ][3][][3][Functions and powers of Justices][3]
 
-[5 ][4] [New sections 4A to 4F inserted][4]
+[5 ][4][][4][New sections 4A to 4F inserted][4]
 
-[4A][5] [Application of sections 4B to 4F][5]
+[4A][5][][5][Application of sections 4B to 4F][5]
 
-[4B][6] [No proceeding against Justice unless he or she acted without jurisdiction][6]
+[4B][6][][6][No proceeding against Justice unless he or she acted without jurisdiction][6]
 
-[4C][7] [No proceeding against Justice to be commenced in District Court][7]
+[4C][7][][7][No proceeding against Justice to be commenced in District Court][7]
 
-[4D][8] [Onus of proof][8]
+[4D][8][][8][Onus of proof][8]
 
-[4E][9] [Plaintiff may be ordered to give security for costs][9]
+[4E][9][][9][Plaintiff may be ordered to give security for costs][9]
 
-[4F][10] [Indemnity to Justice][10]
+[4F][10][][10][Indemnity to Justice][10]
 
 ---
 
