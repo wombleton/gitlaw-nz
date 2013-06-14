@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2013
+as at 24 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -291,7 +291,7 @@ This Act is administered by the Ministry for the Environment.
 
 [75][132][][132][Consultation on pre-1990 forest land allocation plan][132]
 
-[76][133][][133][Consultation on fishing allocation plan ][133]
+[76][133][][133][Consultation on fishing allocation plan][133]
 
 [77][134][][134][Determinations made in accordance with allocation plan][134]
 
@@ -325,7 +325,7 @@ This Act is administered by the Ministry for the Environment.
 
 [86B][149][][149][Decisions on applications for allocations of New Zealand units to industry and agriculture][149]
 
-[86C][150][][150][Reconsideration of allocation decisions ][150]
+[86C][150][][150][Reconsideration of allocation decisions][150]
 
 [86D][151][][151][Retention of records and materials in relation to allocation][151]
 
@@ -692,9 +692,9 @@ This Act is administered by the Ministry for the Environment.
 
 [214][332][][332][Units not required to be surrendered for fertilisers embedded in products][332]
 
-[215][333][][333][Effect of purchasing or farming less than threshold level ][333] \[Repealed\]
+[215][333][][333][Effect of purchasing or farming less than threshold level][333] \[Repealed\]
 
-[216][334][][334][Effect of registration by farmers ][334] \[Repealed\]
+[216][334][][334][Effect of registration by farmers][334] \[Repealed\]
 
 [Subpart 5][335][---][335][Transitional provisions][335]
 
@@ -1355,7 +1355,7 @@ Preliminary provisions
     
     _entity_, in relation to a group, means a reporting entity or reporting entity's subsidiary, within the meaning of [section 2(1)][471] of the Financial Reporting Act 1993
     
-    _Environmental Protection Authority_ or _EPA_ means the Environmental Protection Authority established by [section 7][472] of the Environmental Protection Authority Act 2011 
+    _Environmental Protection Authority_ or _EPA_ means the Environmental Protection Authority established by [section 7][472] of the Environmental Protection Authority Act 2011
     
     _executive board_ means the board established under [Article 12(4)][464] of the Protocol
     
@@ -1453,15 +1453,15 @@ Preliminary provisions
     
     _landowner_,---
         
-    *   (a) in relation to Crown land, means the appropriate Minister (as that term is defined in [section 2(2)][466] of the Crown Minerals Act 1991); and
+    *   (a) in relation to Crown land, means the appropriate Minister (as that term is defined in [section 2A][475] of the Crown Minerals Act 1991); and
     
     *   (b) in relation to land other than Crown land, means---
             
         *   (i) the legal owner of a freehold estate in the land; or
         
-        *   (ii) if the land is Maori customary land (as defined in [section 4][475] of Te Ture Whenua Maori Act 1993), the person or persons who have title to the land as determined under [Te Ture Whenua Maori Act 1993][476]; or
+        *   (ii) if the land is Maori customary land (as defined in [section 4][476] of Te Ture Whenua Maori Act 1993), the person or persons who have title to the land as determined under [Te Ture Whenua Maori Act 1993][477]; or
         
-        *   (iii) if the land is Maori freehold land (as defined in [section 4][475] of Te Ture Whenua Maori Act 1993), the legal owner of the land
+        *   (iii) if the land is Maori freehold land (as defined in [section 4][476] of Te Ture Whenua Maori Act 1993), the legal owner of the land
         
         
     
@@ -1471,7 +1471,7 @@ Preliminary provisions
     
     _levy year_ means the period of 12 months starting on 1 January and ending with the close of 31 December
     
-    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][477]
+    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][478]
     
     _long-term certified emission reduction replacement account_ means an account in the Registry---
         
@@ -1493,7 +1493,7 @@ Preliminary provisions
     
     _long-term certified emission reduction unit_ means a unit derived from a clean development mechanism project, issued by the CDM registry, and designated as a long-term certified emission reduction unit by the CDM registry
     
-    _Maori land_ has the same meaning as in [section 4][475] of Te Ture Whenua Maori Act 1993
+    _Maori land_ has the same meaning as in [section 4][476] of Te Ture Whenua Maori Act 1993
     
     _member_, in relation to an unincorporated body, means a partner, joint venturer, trustee, joint owner of land, or other member of the body
     
@@ -1509,7 +1509,7 @@ Preliminary provisions
     
     _Minister_ means the Minister who is, under the authority of any warrant or under the authority of the Prime Minister, responsible for the administration of this Act
     
-    _motor vehicle_ has the same meaning as in [section 2(1)][478] of the Land Transport Act 1998
+    _motor vehicle_ has the same meaning as in [section 2(1)][479] of the Land Transport Act 1998
     
     _motor vehicle levy_ means the synthetic greenhouse gas levy imposed by [section 227(1)(a)][358]
     
@@ -1525,7 +1525,7 @@ Preliminary provisions
     
     _New Zealand unit_ means a unit issued by the Registrar and designated as a New Zealand unit
     
-    _nominated entity_, in relation to a consolidated group, means an entity appointed under [section 150(4)(b)][228] or [152(3)(b)][231] as the nominated entity of a consolidated group 
+    _nominated entity_, in relation to a consolidated group, means an entity appointed under [section 150(4)(b)][228] or [152(3)(b)][231] as the nominated entity of a consolidated group
     
     _non-compliance cancellation account_ means an account in the Registry for the purpose of holding any units on behalf of the Crown that are cancelled as a result of a determination that New Zealand is not in compliance with [Article 3.1][448] of the Protocol
     
@@ -1587,7 +1587,7 @@ Preliminary provisions
         
         *   (ii) that remained as forest land on 31 December 2007 (taking into account subsection (5)); and
         
-        *   (iii) where the forest species on the forest land on 31 December 2007 consisted predominantly of exotic forest species; but 
+        *   (iii) where the forest species on the forest land on 31 December 2007 consisted predominantly of exotic forest species; but
         
         
     
@@ -1633,27 +1633,27 @@ Preliminary provisions
     
     _registered_,---
         
-    *   (a) in relation to a motor vehicle, has the same meaning as in [section 2(1)][478] of the Land Transport Act 1998; but
+    *   (a) in relation to a motor vehicle, has the same meaning as in [section 2(1)][479] of the Land Transport Act 1998; but
     
     *   (b) otherwise means registered in accordance with this Act
     
-    _registered forestry right_ means a forestry right registered under the [Forestry Rights Registration Act 1983][479]
+    _registered forestry right_ means a forestry right registered under the [Forestry Rights Registration Act 1983][480]
     
     _registered lease_,---
         
-    *   (a) in relation to a lease in respect of land registered under the [Land Transfer Act 1952][480],---
+    *   (a) in relation to a lease in respect of land registered under the [Land Transfer Act 1952][481],---
             
         *   (i) means a lease registered under that Act; and
         
-        *   (ii) includes a lease registered under the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][481]:
+        *   (ii) includes a lease registered under the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][482]:
         
         
     
-    *   (b) in relation to a lease in respect of land that is not registered under the [Land Transfer Act 1952][480], means a lease registered under the [Deeds Registration Act 1908][482]
+    *   (b) in relation to a lease in respect of land that is not registered under the [Land Transfer Act 1952][481], means a lease registered under the [Deeds Registration Act 1908][483]
     
     _Registrar_ means the person appointed under [section 11][26]
     
-    _Registrar of Motor Vehicles_ has the same meaning as Registrar in [section 233(1)][483] of the Land Transport Act 1998
+    _Registrar of Motor Vehicles_ has the same meaning as Registrar in [section 233(1)][484] of the Land Transport Act 1998
     
     _Registry_ means the Registry established in New Zealand for the purpose set out in [section 10][24]
     
@@ -1685,7 +1685,7 @@ Preliminary provisions
     
     *   (c) a reduction from emissions reported in---
             
-        *   (i) New Zealand's annual inventory report under [section 32][78] as required under the [Convention][413] or [Protocol][414] for any year; or 
+        *   (i) New Zealand's annual inventory report under [section 32][78] as required under the [Convention][413] or [Protocol][414] for any year; or
         
         *   (ii) any emissions report from New Zealand under a successor international agreement
         
@@ -1741,7 +1741,7 @@ Preliminary provisions
     
     _tree weed_ means a tree that is defined or designated as---
         
-    *   (a) a pest in a pest management strategy under the [Biosecurity Act 1993][484]; or
+    *   (a) a pest in a pest management strategy under the [Biosecurity Act 1993][485]; or
     
     *   (b) a tree weed in regulations made under this Act
     
@@ -1759,7 +1759,7 @@ Preliminary provisions
                 
             *   (A) landowners; or
             
-            *   (B) leaseholders; or 
+            *   (B) leaseholders; or
             
             *   (C) holders of a registered forestry right; or
             
@@ -1843,335 +1843,337 @@ Preliminary provisions
     
     *   (c) the trustees hold land A and land B in their capacity as professional trustees (as defined in [section 183(7)][280]).
     
-    Section 4(1) **account number**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **account number**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **agency**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **agency**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **allocate**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **allocate**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **allocation plan**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **allocation plan**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **allocation plan**: amended, on 8 December 2009, by [section 8(1)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **allocation plan**: amended, on 8 December 2009, by [section 8(1)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **animal material**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **animal material**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **animal product**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **animal product**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **animal welfare export certificate**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **animal welfare export certificate**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **annual financial statements of the Government**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **annual financial statements of the Government**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **approved overseas unit**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **approved overseas unit**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **assigned amount unit**: amended, on 26 September 2008, by [section 6(3)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **assigned amount unit**: amended, on 26 September 2008, by [section 6(3)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **associated person**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **associated person**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Australian eligible industrial activity**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **Australian eligible industrial activity**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **cancel**: substituted, on 26 September 2008, by [section 6(4)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **cancel**: substituted, on 26 September 2008, by [section 6(4)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **carbon accounting area**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **carbon accounting area**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **carbon accounting area** paragraph (b): amended, on 8 December 2009, by [section 8(3)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **carbon accounting area** paragraph (b): amended, on 8 December 2009, by [section 8(3)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **carbon accounting area** paragraph (c): added, on 8 December 2009, by [section 8(3)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **carbon accounting area** paragraph (c): added, on 8 December 2009, by [section 8(3)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **carbon dioxide equivalent**: amended, on 1 January 2013, by [section 7(2)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **carbon dioxide equivalent**: amended, on 1 January 2013, by [section 7(2)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **carbon dioxide equivalent**: amended, on 26 September 2008, by [section 6(5)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **carbon dioxide equivalent**: amended, on 26 September 2008, by [section 6(5)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **carbon equivalence**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **carbon equivalence**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **carry-over**: amended, on 26 September 2008, by [section 6(6)(a)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **carry-over**: amended, on 26 September 2008, by [section 6(6)(a)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **carry-over**: amended, on 26 September 2008, by [section 6(6)(b)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **carry-over**: amended, on 26 September 2008, by [section 6(6)(b)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **carry-over**: amended, on 1 August 2003, by [section 5(1)(a)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **carry-over**: amended, on 1 August 2003, by [section 5(1)(a)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **certified emission reduction unit**: amended, on 26 September 2008, by [section 6(7)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **certified emission reduction unit**: amended, on 26 September 2008, by [section 6(7)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **chief executive**: substituted, on 5 December 2011, by [section 4(1)][489] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 4(1) **chief executive**: substituted, on 5 December 2011, by [section 4(1)][490] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 4(1) **chief executive responsible for the administration of this Act**: repealed, on 5 December 2011, by [section 4(1)][489] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 4(1) **chief executive responsible for the administration of this Act**: repealed, on 5 December 2011, by [section 4(1)][490] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 4(1) **clean development mechanism project**: amended, on 1 August 2003, by [section 5(1)(b)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **clean development mechanism project**: amended, on 1 August 2003, by [section 5(1)(b)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **clear**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **clear**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **coal**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **coal**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **commitment period**: repealed, on 1 August 2003, by [section 5(3)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **commitment period**: repealed, on 1 August 2003, by [section 5(3)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **commitment period reserve**: amended, on 26 September 2008, by [section 6(8)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **commitment period reserve**: amended, on 26 September 2008, by [section 6(8)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **commitment period reserve** paragraph (b): amended, on 26 September 2008, by [section 6(9)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **commitment period reserve** paragraph (b): amended, on 26 September 2008, by [section 6(9)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **consolidated group**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **consolidated group**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **Convention**: substituted, on 8 December 2009, by [section 8(5)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **Convention**: substituted, on 8 December 2009, by [section 8(5)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **conversion account**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **conversion account**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **convert**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **convert**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Crown conservation contract**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **Crown conservation contract**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Crown holding account**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **Crown holding account**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **Crown land**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **Crown land**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **dairy processing**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **dairy processing**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **deforest**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **deforest**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **designated operational entity**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **designated operational entity**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **disposal facility**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **disposal facility**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **dispose**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **dispose**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **document**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **document**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **draft allocation plan**: repealed, on 8 December 2009, by [section 8(6)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **draft allocation plan**: repealed, on 8 December 2009, by [section 8(6)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **electrical switchgear**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **electrical switchgear**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **eligible activity**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **eligible activity**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **eligible agricultural activity**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **eligible agricultural activity**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **eligible industrial activity**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **eligible industrial activity**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **eligible land**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **eligible land**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **eligible person**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **eligible person**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **emission reduction unit**: amended, on 26 September 2008, by [section 6(10)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **emission reduction unit**: amended, on 26 September 2008, by [section 6(10)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **emissions**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **emissions**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **emissions return**: replaced, on 1 January 2013, by [section 7(3)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **emissions return**: replaced, on 1 January 2013, by [section 7(3)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **entity**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **entity**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Environmental Protection Authority** or **EPA**: inserted, on 5 December 2011, by [section 4(2)][489] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 4(1) **Environmental Protection Authority** or **EPA**: inserted, on 5 December 2011, by [section 4(2)][490] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 4(1) **executive board**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **executive board**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **exempt land**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **exempt land**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **exotic forest species**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **exotic forest species**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **expire** or **expiry**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **expire** or **expiry**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **export**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **export**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **farm dairy**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **farm dairy**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **financial year**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **financial year**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **first commitment period**: inserted, on 1 August 2003, by [section 5(3)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **first commitment period**: inserted, on 1 August 2003, by [section 5(3)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **fishing allocation plan**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **fishing allocation plan**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **Food Standards Code**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **Food Standards Code**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **forest land**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **forest land**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **forest land** paragraph (a): amended, on 8 December 2009, by [section 8(7)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **forest land** paragraph (a): amended, on 8 December 2009, by [section 8(7)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **forest land** paragraph (c)(i): amended, on 8 December 2009, by [section 8(8)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **forest land** paragraph (c)(i): amended, on 8 December 2009, by [section 8(8)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **forest land** paragraph (c)(ii): amended, on 8 December 2009, by [section 8(9)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **forest land** paragraph (c)(ii): amended, on 8 December 2009, by [section 8(9)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **forest species**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **forest species**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **forest species**: amended, on 8 December 2009, by [section 8(10)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **forest species**: amended, on 8 December 2009, by [section 8(10)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **fugitive coal seam gas**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **fugitive coal seam gas**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **goods**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **goods**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **goods levy**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **goods levy**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **group**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **group**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **holding account**: amended, on 26 September 2008, by [section 6(11)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **holding account**: amended, on 26 September 2008, by [section 6(11)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **holding account**: amended, on 1 August 2003, by [section 5(1)(c)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **holding account**: amended, on 1 August 2003, by [section 5(1)(c)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **import**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **import**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **importer**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **importer**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **independent transaction log**: repealed, on 26 September 2008, by [section 6(12)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **independent transaction log**: repealed, on 26 September 2008, by [section 6(12)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **indigenous forest species**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **indigenous forest species**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **initial assigned amount**: amended, on 26 September 2008, by [section 6(13)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **initial assigned amount**: amended, on 26 September 2008, by [section 6(13)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **international transaction log**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **international transaction log**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **inventory agency**: substituted, on 5 December 2011, by [section 4(3)][489] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 4(1) **inventory agency**: substituted, on 5 December 2011, by [section 4(3)][490] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 4(1) **Kyoto units**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **Kyoto units**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **landowner**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **landowner**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **leviable goods**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **landowner** paragraph (a): amended, on 24 May 2013, by [section 65][491] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 4(1) **leviable motor vehicle**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **leviable goods**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **levy year**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **leviable motor vehicle**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1): **local authority**: substituted, on 1 July 2003, by [section 262][490] of the Local Government Act 2002 (2002 No 84).
+    Section 4(1) **levy year**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **long-term certified emission reduction replacement account**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1): **local authority**: substituted, on 1 July 2003, by [section 262][492] of the Local Government Act 2002 (2002 No 84).
     
-    Section 4(1) **long-term certified emission reduction unit**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **long-term certified emission reduction replacement account**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **long-term certified emission reduction unit**: amended, on 26 September 2008, by [section 6(15)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **long-term certified emission reduction unit**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **Maori land**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **long-term certified emission reduction unit**: amended, on 26 September 2008, by [section 6(15)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **member**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **Maori land**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **merchantable timber**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **member**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **mining**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **merchantable timber**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Minister**: substituted, on 5 December 2011, by [section 4(4)][489] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 4(1) **mining**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Minister responsible for the administration of this Act**: repealed, on 5 December 2011, by [section 4(4)][489] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 4(1) **Minister**: substituted, on 5 December 2011, by [section 4(4)][490] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 4(1) **Minister responsible for the inventory agency**: repealed, on 26 September 2008, by [section 6(1)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **Minister responsible for the administration of this Act**: repealed, on 5 December 2011, by [section 4(4)][490] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 4(1) **Minister responsible for the Registry**: repealed, on 26 September 2008, by [section 6(1)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **Minister responsible for the inventory agency**: repealed, on 26 September 2008, by [section 6(1)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **motor vehicle**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **Minister responsible for the Registry**: repealed, on 26 September 2008, by [section 6(1)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **motor vehicle levy**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **motor vehicle**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **natural gas**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **motor vehicle levy**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **New Zealand Customs Service** and **the Customs**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **natural gas**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **New Zealand unit**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **New Zealand Customs Service** and **the Customs**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **nominated entity**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **New Zealand unit**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **obligation fuel**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **nominated entity**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **obligation jet fuel**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **obligation fuel**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **offsetting forest land**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **obligation jet fuel**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **operating**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **offsetting forest land**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **overseas registry** paragraph (c): added, on 26 September 2008, by [section 6(16)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **operating**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **participant**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **overseas registry** paragraph (c): added, on 26 September 2008, by [section 6(16)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **post-1989 forest land**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **participant**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **post-1989 forest land** paragraph (b): amended, on 8 December 2009, by [section 8(11)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **post-1989 forest land**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **post-1989 forest land** paragraph (ca): inserted, on 1 January 2013, by [section 7(4)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **post-1989 forest land** paragraph (b): amended, on 8 December 2009, by [section 8(11)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **post-1989 forest land** paragraph (cb): inserted, on 1 January 2013, by [section 7(4)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **post-1989 forest land** paragraph (ca): inserted, on 1 January 2013, by [section 7(4)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **pre-1990 forest land**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **post-1989 forest land** paragraph (cb): inserted, on 1 January 2013, by [section 7(4)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **pre-1990 forest land allocation plan**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **pre-1990 forest land**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **pre-1990 offsetting forest land**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **pre-1990 forest land allocation plan**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **previous commitment period**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **pre-1990 offsetting forest land**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **primary representative**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **previous commitment period**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **Protocol**: substituted, on 8 December 2009, by [section 8(12)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **primary representative**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **provisional allocation**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **Protocol**: substituted, on 8 December 2009, by [section 8(12)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **public notice**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **provisional allocation**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **recover**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **public notice**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **recycle**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **recover**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **registered**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **recycle**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **registered forestry right**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **registered**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **registered lease**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **registered forestry right**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Registrar**: inserted, on 5 December 2011, by [section 4(2)][489] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 4(1) **registered lease**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **Registrar of Motor Vehicles**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **Registrar**: inserted, on 5 December 2011, by [section 4(2)][490] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 4(1) **relevant commitment period**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **Registrar of Motor Vehicles**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **relevant commitment period** paragraph (b): amended, on 26 September 2008, by [section 6(17)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **relevant commitment period**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **removal activity**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **relevant commitment period** paragraph (b): amended, on 26 September 2008, by [section 6(17)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **removal unit** paragraph (b): amended, on 26 September 2008, by [section 6(18)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **removal activity**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **removals**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **removal unit** paragraph (b): amended, on 26 September 2008, by [section 6(18)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **representative identifier**: repealed, on 26 September 2008, by [section 6(19)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **removals**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **retire**: substituted, on 26 September 2008, by [section 6(20)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **representative identifier**: repealed, on 26 September 2008, by [section 6(19)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **retirement account**: amended, on 26 September 2008, by [section 6(21)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **retire**: substituted, on 26 September 2008, by [section 6(20)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **reuse**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **retirement account**: amended, on 26 September 2008, by [section 6(21)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **solid biofuel**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **reuse**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **specified synthetic greenhouse gas**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **solid biofuel**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **subsequent commitment period**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **specified synthetic greenhouse gas**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **surrender**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **subsequent commitment period**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **surrender account**: inserted, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **surrender**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **synthetic greenhouse gas**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **surrender account**: inserted, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **synthetic greenhouse gas levy** or **levy**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **synthetic greenhouse gas**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **temporary certified emission reduction replacement account**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **synthetic greenhouse gas levy** or **levy**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **temporary certified emission reduction unit**: inserted, on 1 August 2003, by [section 5(2)][488] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 4(1) **temporary certified emission reduction replacement account**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **temporary certified emission reduction unit**: amended, on 26 September 2008, by [section 6(22)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **temporary certified emission reduction unit**: inserted, on 1 August 2003, by [section 5(2)][489] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 4(1) **tree weed**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **temporary certified emission reduction unit**: amended, on 26 September 2008, by [section 6(22)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **tree weed spread**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **tree weed**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **unincorporated body**: inserted, on 8 December 2009, by [section 8(2)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **tree weed spread**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **unit**: substituted, on 26 September 2008, by [section 6(23)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **unincorporated body**: inserted, on 8 December 2009, by [section 8(2)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(1) **usual rotation period**: inserted, on 1 January 2013, by [section 7(1)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(1) **unit**: substituted, on 26 September 2008, by [section 6(23)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(1) **waste**: substituted, on 8 December 2009, by [section 8(13)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(1) **usual rotation period**: inserted, on 1 January 2013, by [section 7(1)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 4(1) **year**: added, on 26 September 2008, by [section 6(2)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **waste**: substituted, on 8 December 2009, by [section 8(13)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(3): added, on 26 September 2008, by [section 6(24)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(1) **year**: added, on 26 September 2008, by [section 6(2)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(4): added, on 26 September 2008, by [section 6(24)][485] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 4(3): added, on 26 September 2008, by [section 6(24)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(5): substituted, on 8 December 2009, by [section 8(14)][487] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 4(4): added, on 26 September 2008, by [section 6(24)][486] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 4(6): inserted, on 1 January 2013, by [section 7(5)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(5): substituted, on 8 December 2009, by [section 8(14)][488] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 4(7): inserted, on 1 January 2013, by [section 7(5)][486] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 4(6): inserted, on 1 January 2013, by [section 7(5)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 4(7): inserted, on 1 January 2013, by [section 7(5)][487] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 5 Act binds the Crown
     
@@ -2182,7 +2184,7 @@ Institutional arrangements
 
 ### Subpart 1---Ministerial powers
     
-*   Subpart 1 heading: replaced, on 1 January 2013, by [section 8][491] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Subpart 1 heading: replaced, on 1 January 2013, by [section 8][493] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 6 Minister of Finance may direct Registrar regarding establishment of Crown holding accounts and carry out trading activities with respect to units
     
@@ -2200,9 +2202,9 @@ Institutional arrangements
     
     *   (f) appoint agents to conduct the activities referred to in paragraphs (a) to (e) on the terms and conditions that the Minister of Finance thinks fit.
     
-    Section 6 heading: amended, on 8 December 2009, by [section 9(1)][492] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 6 heading: amended, on 8 December 2009, by [section 9(1)][494] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 6(a): amended, on 8 December 2009, by [section 9(2)][492] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 6(a): amended, on 8 December 2009, by [section 9(2)][494] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 6A Minister's power to sell by auction
     
@@ -2212,7 +2214,7 @@ Institutional arrangements
     
     *   (b) appoint agents to conduct the sale on the terms and conditions that the Minister thinks fit.
     
-    Section 6A: inserted, on 1 January 2013, by [section 9][493] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 6A: inserted, on 1 January 2013, by [section 9][495] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 7 Minister of Finance may give directions to Registrar regarding accounts and units
     
@@ -2272,53 +2274,53 @@ Institutional arrangements
     
     (3) For the purposes of subsection (2)(b)(i), _reasonable notice_ means sufficient opportunity in the circumstances for the relevant account holder to make a written submission to the Minister of Finance on the transfer of the units before the units are transferred.
     
-    Section 7(1)(a)(v): added, on 19 November 2007, by [section 6(1)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(1)(a)(v): added, on 19 November 2007, by [section 6(1)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 7(1)(a)(vi): added, on 19 November 2007, by [section 6(1)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(1)(a)(vi): added, on 19 November 2007, by [section 6(1)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 7(1)(a)(vii): added, on 26 September 2008, by [section 7(1)][495] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 7(1)(a)(vii): added, on 26 September 2008, by [section 7(1)][497] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 7(1)(a)(viii): added, on 26 September 2008, by [section 7(1)][495] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 7(1)(a)(viii): added, on 26 September 2008, by [section 7(1)][497] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 7(1)(b): substituted, on 19 November 2007, by [section 6(2)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(1)(b): substituted, on 19 November 2007, by [section 6(2)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 7(1)(d): substituted, on 19 November 2007, by [section 6(3)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(1)(d): substituted, on 19 November 2007, by [section 6(3)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 7(1)(d): amended, on 26 September 2008, by [section 7(2)][495] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 7(1)(d): amended, on 26 September 2008, by [section 7(2)][497] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 7(1)(d): amended, on 26 September 2008, by [section 7(3)][495] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 7(1)(d): amended, on 26 September 2008, by [section 7(3)][497] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 7(1)(da): inserted, on 19 November 2007, by [section 6(3)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(1)(da): inserted, on 19 November 2007, by [section 6(3)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 7(1)(db): inserted, on 1 January 2013, by [section 10][496] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 7(1)(db): inserted, on 1 January 2013, by [section 10][498] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 7(1)(e): substituted, on 19 November 2007, by [section 6(4)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(1)(e): substituted, on 19 November 2007, by [section 6(4)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 7(1)(e): amended, on 26 September 2008, by [section 7(4)][495] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 7(1)(e): amended, on 26 September 2008, by [section 7(4)][497] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 7(2): added, on 19 November 2007, by [section 6(5)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(2): added, on 19 November 2007, by [section 6(5)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 7(2)(b): substituted, on 26 September 2008, by [section 7(5)][495] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 7(2)(b): substituted, on 26 September 2008, by [section 7(5)][497] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 7(2)(c): added, on 26 September 2008, by [section 7(5)][495] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 7(2)(c): added, on 26 September 2008, by [section 7(5)][497] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 7(3): added, on 19 November 2007, by [section 6(5)][494] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 7(3): added, on 19 November 2007, by [section 6(5)][496] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 8 Registrar must give effect to directions of Minister of Finance
     
 *   (1) The Registrar must give effect to any directions given by the Minister of Finance under [section 6][13] or [section 7][15] in accordance with, and subject to, the procedures set out in [subpart 2][22] of this Part and regulations made under [section 30G][69].
     
-    (2) To avoid doubt, the [Crown Entities Act 2004][497] does not apply to a direction by the Minister of Finance to the Registrar.
+    (2) To avoid doubt, the [Crown Entities Act 2004][499] does not apply to a direction by the Minister of Finance to the Registrar.
     
-    Section 8(1): amended, on 26 September 2008, by [section 8][498] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 8(1): amended, on 26 September 2008, by [section 8][500] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 8(2): added, on 5 December 2011, by [section 5][499] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 8(2): added, on 5 December 2011, by [section 5][501] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 8A Minister of Finance must publish directions
     
 *   As soon as practicable after giving a direction under [section 6][13] or [7][15], the Minister of Finance must publish a copy of the direction on the Registry's Internet site.
     
-    Section 8A: inserted, on 19 November 2007, by [section 7][500] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 8A: inserted, on 19 November 2007, by [section 7][502] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 9 Minister of Finance may obtain information from inventory agency and Registrar
     
@@ -2334,17 +2336,17 @@ Institutional arrangements
         
         
     
-    Section 9: amended, on 19 November 2007, by [section 8(1)][501] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 9: amended, on 19 November 2007, by [section 8(1)][503] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 9(b)(ii): amended, on 26 September 2008, by [section 9][502] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 9(b)(ii): amended, on 26 September 2008, by [section 9][504] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 9(b)(ii): amended, on 19 November 2007, by [section 8(2)(a)][501] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 9(b)(ii): amended, on 19 November 2007, by [section 8(2)(a)][503] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 9(b)(ii): amended, on 19 November 2007, by [section 8(2)(b)][501] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 9(b)(ii): amended, on 19 November 2007, by [section 8(2)(b)][503] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ### Subpart 1A---Chief executive
     
-*   Subpart 1A: inserted, on 5 December 2011, by [section 6][503] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+*   Subpart 1A: inserted, on 5 December 2011, by [section 6][505] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 9A Functions of chief executive
     
@@ -2356,15 +2358,15 @@ Institutional arrangements
     
     *   (c) publish information on the Internet in accordance with this Act.
     
-    Section 9A: inserted, on 5 December 2011, by [section 6][503] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 9A: inserted, on 5 December 2011, by [section 6][505] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 9B Delegation by chief executive
     
 *   (1) The chief executive may delegate any of his or her functions, duties, and powers under this Act to the EPA.
     
-    (2) [Section 41][504] of the State Sector Act 1988 applies to a delegation under this section as if the EPA were an employee of the chief executive.
+    (2) [Section 41][506] of the State Sector Act 1988 applies to a delegation under this section as if the EPA were an employee of the chief executive.
     
-    Section 9B: inserted, on 5 December 2011, by [section 6][503] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 9B: inserted, on 5 December 2011, by [section 6][505] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ### Subpart 2---Registry
 
@@ -2410,29 +2412,29 @@ Institutional arrangements
     
     (3) The purpose of the Registry in relation to all units is to facilitate the exchange of information between those persons with functions, duties, and powers under this Act to enable all of them to perform their functions and duties, and exercise their powers.
     
-    Section 10(1): amended, on 26 September 2008, by [section 10(1)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(1): amended, on 26 September 2008, by [section 10(1)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(1)(a): amended, on 1 January 2013, by [section 11][506] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 10(1)(a): amended, on 1 January 2013, by [section 11][508] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 10(1)(a): amended, on 26 September 2008, by [section 10(2)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(1)(a): amended, on 26 September 2008, by [section 10(2)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(1)(a)(i): amended, on 26 September 2008, by [section 10(3)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(1)(a)(i): amended, on 26 September 2008, by [section 10(3)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(1)(a)(i): amended, on 26 September 2008, by [section 10(4)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(1)(a)(i): amended, on 26 September 2008, by [section 10(4)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(1)(a)(i): amended, on 19 November 2007, by [section 9(2)][507] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 10(1)(a)(i): amended, on 19 November 2007, by [section 9(2)][509] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 10(1)(a)(iii): added, on 19 November 2007, by [section 9(3)][507] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 10(1)(a)(iii): added, on 19 November 2007, by [section 9(3)][509] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 10(1)(b)(ii): amended, on 26 September 2008, by [section 10(5)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(1)(b)(ii): amended, on 26 September 2008, by [section 10(5)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(1)(b)(ii): amended, on 26 September 2008, by [section 10(6)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(1)(b)(ii): amended, on 26 September 2008, by [section 10(6)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(1)(c): repealed, on 26 September 2008, by [section 10(7)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(1)(c): repealed, on 26 September 2008, by [section 10(7)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(2): added, on 26 September 2008, by [section 10(8)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(2): added, on 26 September 2008, by [section 10(8)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 10(3): added, on 26 September 2008, by [section 10(8)][505] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 10(3): added, on 26 September 2008, by [section 10(8)][507] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 #### Registrar
 
@@ -2440,13 +2442,13 @@ Institutional arrangements
     
 *   The EPA must appoint an employee of the EPA as the Registrar.
     
-    Section 11: substituted, on 5 December 2011, by [section 7][508] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 11: substituted, on 5 December 2011, by [section 7][510] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 12 Registrar responsible for Registry
     
 *   The Registrar is responsible for the operation, on behalf of the Crown, of the Registry.
     
-    Section 12: amended, on 5 December 2011, by [section 8][509] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 12: amended, on 5 December 2011, by [section 8][511] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 13 Registrar may refuse access to, or suspend operation of, Registry
     
@@ -2460,13 +2462,13 @@ Institutional arrangements
     
     *   (d) to give effect to New Zealand's international obligations.
     
-    Section 13: substituted, on 19 November 2007, by [section 10][510] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 13: substituted, on 19 November 2007, by [section 10][512] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 14 Registrar must give effect to directions
     
 *   The Registrar must give effect to any direction relating to the transfer of units from a Crown holding account (or in the case of reimbursement, from a surrender account) to the holding account of an eligible person or a participant (or, if required, in the prescribed circumstances to another holding account notified by one of those persons) that is given by a Minister authorised to give such directions in accordance with a provision in [Part 4][105] or [5][271] of this Act or the EPA.
     
-    Section 14: substituted, on 8 December 2009, by [section 10][511] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 14: substituted, on 8 December 2009, by [section 10][513] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 14: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -2500,9 +2502,9 @@ Institutional arrangements
     
     *   (b) replacing the identifiers on the converted units with identifiers that designate that the converted units are emission reduction units.
     
-    Section 15 heading: amended, on 26 September 2008, by [section 13(1)][512] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 15 heading: amended, on 26 September 2008, by [section 13(1)][514] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 15(1A): inserted, on 26 September 2008, by [section 13(2)][512] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 15(1A): inserted, on 26 September 2008, by [section 13(2)][514] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 16 Carry-over of certain Kyoto units
     
@@ -2510,13 +2512,13 @@ Institutional arrangements
     
     (2) Long-term certified emission reduction units, removal units, and temporary certified emission reduction units may not be carried-over.
     
-    Section 16: substituted, on 19 November 2007, by [section 12][513] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 16: substituted, on 19 November 2007, by [section 12][515] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 16 heading: amended, on 26 September 2008, by [section 14(1)][514] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 16 heading: amended, on 26 September 2008, by [section 14(1)][516] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 16(1): amended, on 26 September 2008, by [section 14(2)][514] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 16(1): amended, on 26 September 2008, by [section 14(2)][516] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 16(2): amended, on 26 September 2008, by [section 14(3)][514] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 16(2): amended, on 26 September 2008, by [section 14(3)][516] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 17 Commitment period reserve
     
@@ -2524,9 +2526,9 @@ Institutional arrangements
     
     (2) This section does not apply to transfers or cancellations of Kyoto units that the Registrar has issued as emission reduction units that were verified by the supervisory committee.
     
-    Section 17(1): substituted, on 26 September 2008, by [section 15(1)][515] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 17(1): substituted, on 26 September 2008, by [section 15(1)][517] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 17(2): amended, on 26 September 2008, by [section 15(2)][515] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 17(2): amended, on 26 September 2008, by [section 15(2)][517] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 17A Power of Registrar to delegate
     
@@ -2542,9 +2544,9 @@ Institutional arrangements
     
     (6) Every delegation under this section, until revoked, continues in force according to its tenor, even if the Registrar by whom it was made has ceased to hold office.
     
-    (7) For the purposes of this section, **State services** has the same meaning as in [section 2][516] of the State Sector Act 1988\.
+    (7) For the purposes of this section, **State services** has the same meaning as in [section 2][518] of the State Sector Act 1988\.
     
-    Section 17A: inserted, on 8 December 2009, by [section 11][517] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 17A: inserted, on 8 December 2009, by [section 11][519] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 17A(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -2588,17 +2590,17 @@ Institutional arrangements
         
         
     
-    Section 18(1)(b): amended, on 19 November 2007, by [section 13(1)][518] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18(1)(b): amended, on 19 November 2007, by [section 13(1)][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 18(2)(b)(i): amended, on 26 September 2008, by [section 16(1)][519] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18(2)(b)(i): amended, on 26 September 2008, by [section 16(1)][521] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 18(2)(b)(i): amended, on 19 November 2007, by [section 13(2)][518] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18(2)(b)(i): amended, on 19 November 2007, by [section 13(2)][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 18(2)(b)(iii): added, on 19 November 2007, by [section 13(3)][518] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18(2)(b)(iii): added, on 19 November 2007, by [section 13(3)][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 18(3): added, on 19 November 2007, by [section 13(4)][518] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18(3): added, on 19 November 2007, by [section 13(4)][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 18(3)(a): substituted, on 26 September 2008, by [section 16(2)][519] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18(3)(a): substituted, on 26 September 2008, by [section 16(2)][521] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 18A Opening holding accounts
     
@@ -2618,9 +2620,9 @@ Institutional arrangements
     
     (6) A holding account is subject to any regulations made under this Act.
     
-    Section 18A: inserted, on 19 November 2007, by [section 14][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18A: inserted, on 19 November 2007, by [section 14][522] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 18A(3)(b): amended, on 26 September 2008, by [section 17][521] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18A(3)(b): amended, on 26 September 2008, by [section 17][523] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 18B Closing holding accounts
     
@@ -2666,7 +2668,7 @@ Institutional arrangements
     
     (7) The Registrar must give effect to any directions given by the EPA under subsection (2) in accordance with, and subject to, the procedures set out in this subpart and any regulations made under [section 30G][69].
     
-    Section 18B: inserted, on 19 November 2007, by [section 14][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18B: inserted, on 19 November 2007, by [section 14][522] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
     Section 18B(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -2674,17 +2676,17 @@ Institutional arrangements
     
     Section 18B(2)(b)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 18B(2)(b)(ii)(B): amended, on 26 September 2008, by [section 18(2)][522] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18B(2)(b)(ii)(B): amended, on 26 September 2008, by [section 18(2)][524] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 18B(2)(b)(ii)(B): amended, on 26 September 2008, by [section 18(3)][522] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18B(2)(b)(ii)(B): amended, on 26 September 2008, by [section 18(3)][524] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 18B(2)(b)(ii)(C): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 18B(6): substituted, on 26 September 2008, by [section 18(4)][522] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18B(6): substituted, on 26 September 2008, by [section 18(4)][524] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 18B(6)(c): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 18B(7): added, on 8 December 2009, by [section 12][523] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 18B(7): added, on 8 December 2009, by [section 12][525] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 18B(7): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -2706,15 +2708,15 @@ Institutional arrangements
     
     (4) An account holder who receives units is under no obligation to initiate any registration process.
     
-    Section 18C: inserted, on 19 November 2007, by [section 14][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18C: inserted, on 19 November 2007, by [section 14][522] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 18C(3): amended, on 26 September 2008, by [section 19(1)][524] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18C(3): amended, on 26 September 2008, by [section 19(1)][526] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 18C(3): amended, on 26 September 2008, by [section 19(2)][524] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18C(3): amended, on 26 September 2008, by [section 19(2)][526] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 18C(3)(a): amended, on 26 September 2008, by [section 19(3)][524] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18C(3)(a): amended, on 26 September 2008, by [section 19(3)][526] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 18C(3)(b): amended, on 26 September 2008, by [section 19(4)][524] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18C(3)(b): amended, on 26 September 2008, by [section 19(4)][526] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 18CA Effect of surrender, retirement, cancellation, and conversion
     
@@ -2738,15 +2740,15 @@ Institutional arrangements
     
     (5) A New Zealand unit that is transferred to a conversion account may not be surrendered, cancelled, or otherwise further transferred except as required by [section 30E(4)(b)][67].
     
-    Section 18CA: inserted, on 26 September 2008, by [section 20][525] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18CA: inserted, on 26 September 2008, by [section 20][527] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 18CA(3): substituted, on 8 December 2009, by [section 13][526] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 18CA(3): substituted, on 8 December 2009, by [section 13][528] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 18CA(3)(a): replaced, on 1 January 2013, by [section 12][527] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 18CA(3)(a): replaced, on 1 January 2013, by [section 12][529] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 18CA(3)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 18CA(4): substituted, on 8 December 2009, by [section 13][526] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 18CA(4): substituted, on 8 December 2009, by [section 13][528] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 18CA(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -2756,7 +2758,7 @@ Institutional arrangements
     
     (2) In this section and [section 18CD][42], _imported assigned amount unit_ means an assigned amount unit that is issued out of the initial assigned amount of a Party other than New Zealand.
     
-    Section 18CB: inserted, on 26 September 2008, by [section 20][525] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18CB: inserted, on 26 September 2008, by [section 20][527] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 18CC Restriction on surrender of assigned amount units issued during first commitment period
     
@@ -2764,7 +2766,7 @@ Institutional arrangements
     
     (2) In this section and [sections 18CD][42] and [19][45], _CP1 imported assigned amount unit_ means an assigned amount unit that is issued out of the initial assigned amount of a Party, other than New Zealand, during the first commitment period.
     
-    Section 18CC: inserted, on 26 September 2008, by [section 20][525] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18CC: inserted, on 26 September 2008, by [section 20][527] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 18CD Effect of surrendering restricted assigned amount units
     
@@ -2786,7 +2788,7 @@ Institutional arrangements
     
     *   (b) if the EPA considers that the person has not surrendered the required number of units by the due date, give a notice to the participant under [section 134(3)(a)][208].
     
-    Section 18CD: inserted, on 26 September 2008, by [section 20][525] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 18CD: inserted, on 26 September 2008, by [section 20][527] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 18CD(2)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -2810,7 +2812,7 @@ Institutional arrangements
     
     (3) If a successor is determined, and the Registrar is informed of that determination in writing, the Registrar must register the successor as the account holder.
     
-    Section 18D: inserted, on 19 November 2007, by [section 14][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18D: inserted, on 19 November 2007, by [section 14][522] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 18E Trusts, representatives, and assignees of bankrupts
     
@@ -2826,11 +2828,11 @@ Institutional arrangements
     
     (3) The assignee of the property of a bankrupt may be entered on the unit register as the assignee of the bankrupt's units.
     
-    Section 18E: inserted, on 19 November 2007, by [section 14][520] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 18E: inserted, on 19 November 2007, by [section 14][522] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 18E(1): substituted, on 8 December 2009, by [section 14][528] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 18E(1): substituted, on 8 December 2009, by [section 14][530] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 18E(1A): inserted, on 8 December 2009, by [section 14][528] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 18E(1A): inserted, on 8 December 2009, by [section 14][530] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 19 Retirement of Kyoto units by the Crown
     
@@ -2840,7 +2842,7 @@ Institutional arrangements
     
     (3) New Zealand units and approved overseas units may not be retired.
     
-    Section 19: substituted, on 26 September 2008, by [section 21][529] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 19: substituted, on 26 September 2008, by [section 21][531] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 20 Transactions must be registered
     
@@ -2854,13 +2856,13 @@ Institutional arrangements
     
     *   (c) the prescribed fees (if any) have not been paid to the Registrar (unless arrangements for payment have been made in accordance with regulations made under this Act).
     
-    Section 20(1): amended, on 26 September 2008, by [section 22(1)][530] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 20(1): amended, on 26 September 2008, by [section 22(1)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 20(1): amended, on 19 November 2007, by [section 15(1)][531] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 20(1): amended, on 19 November 2007, by [section 15(1)][533] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 20(2): substituted, on 19 November 2007, by [section 15(2)][531] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 20(2): substituted, on 19 November 2007, by [section 15(2)][533] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 20(2)(a): amended, on 26 September 2008, by [section 22(2)][530] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 20(2)(a): amended, on 26 September 2008, by [section 22(2)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 21 Registration procedure for Kyoto units
     
@@ -2916,45 +2918,45 @@ Institutional arrangements
     
     (4) This section does not apply to the carry-over of assigned amount units, certified emission reduction units, and emission reduction units.
     
-    Section 21 heading: amended, on 26 September 2008, by [section 23(1)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21 heading: amended, on 26 September 2008, by [section 23(1)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 21(1): substituted, on 19 November 2007, by [section 16(1)][533] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 21(1): substituted, on 19 November 2007, by [section 16(1)][535] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
     Section 21(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21(1): amended, on 26 September 2008, by [section 23(2)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(1): amended, on 26 September 2008, by [section 23(2)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 21(1): amended, on 26 September 2008, by [section 23(3)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(1): amended, on 26 September 2008, by [section 23(3)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 21(1)(a): amended, on 8 December 2009, by [section 15(2)][534] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21(1)(a): amended, on 8 December 2009, by [section 15(2)][536] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 21(1)(b): substituted, on 26 September 2008, by [section 23(4)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(1)(b): substituted, on 26 September 2008, by [section 23(4)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 21(1)(c): added, on 26 September 2008, by [section 23(4)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(1)(c): added, on 26 September 2008, by [section 23(4)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 21(1)(c)(ii)(A): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21(1)(c)(ii)(A): amended, on 8 December 2009, by [section 15(3)][534] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21(1)(c)(ii)(A): amended, on 8 December 2009, by [section 15(3)][536] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 21(2): substituted, on 26 September 2008, by [section 23(5)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(2): substituted, on 26 September 2008, by [section 23(5)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 21(2)(c)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21(2)(c)(i): amended, on 8 December 2009, by [section 15(4)][534] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21(2)(c)(i): amended, on 8 December 2009, by [section 15(4)][536] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 21(3): amended, on 26 September 2008, by [section 23(6)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(3): amended, on 26 September 2008, by [section 23(6)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 21(3): amended, on 26 September 2008, by [section 23(7)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(3): amended, on 26 September 2008, by [section 23(7)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 21(3)(c): substituted, on 26 September 2008, by [section 23(8)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(3)(c): substituted, on 26 September 2008, by [section 23(8)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 21(3)(d): added, on 26 September 2008, by [section 23(8)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(3)(d): added, on 26 September 2008, by [section 23(8)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 21(3)(d)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21(3)(d)(i): amended, on 8 December 2009, by [section 15(5)][534] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21(3)(d)(i): amended, on 8 December 2009, by [section 15(5)][536] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 21(4): amended, on 26 September 2008, by [section 23(9)][532] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21(4): amended, on 26 September 2008, by [section 23(9)][534] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 21AA Registration procedure for New Zealand units and approved overseas units
     
@@ -3008,21 +3010,21 @@ Institutional arrangements
         
         
     
-    Section 21AA: inserted, on 26 September 2008, by [section 24][535] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21AA: inserted, on 26 September 2008, by [section 24][537] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 21AA(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 21AA(1)(c)(ii)(A): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21AA(1)(c)(ii)(A): amended, on 8 December 2009, by [section 16(2)][536] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21AA(1)(c)(ii)(A): amended, on 8 December 2009, by [section 16(2)][538] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 21AA(2)(c)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21AA(2)(c)(i): amended, on 8 December 2009, by [section 16(3)][536] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21AA(2)(c)(i): amended, on 8 December 2009, by [section 16(3)][538] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 21AA(3)(d)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21AA(3)(d)(i): amended, on 8 December 2009, by [section 16(4)][536] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21AA(3)(d)(i): amended, on 8 December 2009, by [section 16(4)][538] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 21A Electronic registration
     
@@ -3034,11 +3036,11 @@ Institutional arrangements
     
     *   (c) made in accordance with regulations made under this Act.
     
-    Section 21A: inserted, on 19 November 2007, by [section 17][537] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 21A: inserted, on 19 November 2007, by [section 17][539] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
     Section 21A: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 21A: amended, on 8 December 2009, by [section 17][538] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 21A: amended, on 8 December 2009, by [section 17][540] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 21B Defective applications
     
@@ -3056,9 +3058,9 @@ Institutional arrangements
     
     (3) Any fees paid to the Registrar in relation to an uncorrected defective application are forfeited.
     
-    Section 21B: inserted, on 19 November 2007, by [section 17][537] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 21B: inserted, on 19 November 2007, by [section 17][539] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 21B(1)(a): repealed, on 26 September 2008, by [section 25][539] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 21B(1)(a): repealed, on 26 September 2008, by [section 25][541] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 22 Transactions take effect when registered
     
@@ -3092,29 +3094,29 @@ Institutional arrangements
     
     (4) Subsection (1) is subject to subsection (2).
     
-    Section 23 heading: amended, on 26 September 2008, by [section 26(1)][540] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 23 heading: amended, on 26 September 2008, by [section 26(1)][542] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 23(1): amended, on 1 January 2013, by [section 13(1)][541] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 23(1): amended, on 1 January 2013, by [section 13(1)][543] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 23(1): amended, on 26 September 2008, by [section 26(2)][540] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 23(1): amended, on 26 September 2008, by [section 26(2)][542] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 23(1)(a): repealed, on 1 January 2013, by [section 13(2)][541] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 23(1)(a): repealed, on 1 January 2013, by [section 13(2)][543] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 23(1)(b): repealed, on 19 November 2007, by [section 18(1)][542] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 23(1)(b): repealed, on 19 November 2007, by [section 18(1)][544] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 23(2): amended, on 26 September 2008, by [section 26(2)][540] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 23(2): amended, on 26 September 2008, by [section 26(2)][542] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 23(2): amended, on 26 September 2008, by [section 26(3)][540] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 23(2): amended, on 26 September 2008, by [section 26(3)][542] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 23(2)(c): amended, on 26 September 2008, by [section 26(3)][540] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No  85).
+    Section 23(2)(c): amended, on 26 September 2008, by [section 26(3)][542] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 23(2)(c): amended, on 19 November 2007, by [section 18(2)][542] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 23(2)(c): amended, on 19 November 2007, by [section 18(2)][544] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 23(3): added, on 19 November 2007, by [section 18(3)][542] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 23(3): added, on 19 November 2007, by [section 18(3)][544] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 23(3): amended, on 26 September 2008, by [section 26(4)][540] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 23(3): amended, on 26 September 2008, by [section 26(4)][542] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 23(4): inserted, on 1 January 2013, by [section 13(3)][541] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 23(4): inserted, on 1 January 2013, by [section 13(3)][543] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 23A Receiving New Zealand units and approved overseas units from overseas registries
     
@@ -3130,7 +3132,7 @@ Institutional arrangements
     
     (3) A transfer of New Zealand units or approved overseas units from an overseas registry is subject to any regulations made under this Act.
     
-    Section 23A: inserted, on 26 September 2008, by [section 27][543] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 23A: inserted, on 26 September 2008, by [section 27][545] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 24 Priority of registration
     
@@ -3140,15 +3142,15 @@ Institutional arrangements
     
     (3) Subsection (1) applies to an application for the registration of a transaction only if the application is completed to the satisfaction of the Registrar and in accordance with any regulations made under this Act.
     
-    Section 24(1): substituted, on 26 September 2008, by [section 28(1)][544] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 24(1): substituted, on 26 September 2008, by [section 28(1)][546] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 24(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 24(1): amended, on 8 December 2009, by [section 18][545] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 24(1): amended, on 8 December 2009, by [section 18][547] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 24(2): amended, on 19 November 2007, by [section 19(2)][546] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 24(2): amended, on 19 November 2007, by [section 19(2)][548] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 24(3): added, on 26 September 2008, by [section 28(2)][544] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 24(3): added, on 26 September 2008, by [section 28(2)][546] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 25 Correction of unit register
     
@@ -3194,17 +3196,17 @@ Institutional arrangements
         
         
     
-    Section 25: substituted, on 19 November 2007, by [section 20][547] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 25: substituted, on 19 November 2007, by [section 20][549] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 25(1): substituted, on 26 September 2008, by [section 29(1)][548] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 25(1): substituted, on 26 September 2008, by [section 29(1)][550] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 25(1)(a): substituted, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 25(3): amended, on 26 September 2008, by [section 29(2)][548] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 25(3): amended, on 26 September 2008, by [section 29(2)][550] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 25(3)(c)(ii): substituted, on 26 September 2008, by [section 29(3)][548] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 25(3)(c)(ii): substituted, on 26 September 2008, by [section 29(3)][550] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 25(3)(c)(iii): substituted, on 26 September 2008, by [section 29(3)][548] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 25(3)(c)(iii): substituted, on 26 September 2008, by [section 29(3)][550] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 26 Unit register must be open for search
     
@@ -3212,9 +3214,9 @@ Institutional arrangements
     
     (2) The Registrar is not required to make publicly available any information that is not listed in [section 27][57].
     
-    Section 26(1): amended, on 19 November 2007, by [section 21][549] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 26(1): amended, on 19 November 2007, by [section 21][551] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 26(2): added, on 26 September 2008, by [section 30][550] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 26(2): added, on 26 September 2008, by [section 30][552] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 27 Information accessible by search
     
@@ -3338,15 +3340,15 @@ Institutional arrangements
     
     *   (b) the total holdings of assigned amount units, emission reduction units, certified emission reduction units, long-term certified emission reduction units, temporary certified emission reduction units, and removal units in each holding account in the Registry (including any holding account held by the Crown).
     
-    Section 27: substituted, on 26 September 2008, by [section 31][551] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 27: substituted, on 26 September 2008, by [section 31][553] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 27(2)(c): replaced, on 1 January 2013, by [section 14][552] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 27(2)(c): replaced, on 1 January 2013, by [section 14][554] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 28 Search of unit register
     
 *   A person may, by using the form and paying the fees (if any) prescribed by regulations made under this Act, search the unit register, and obtain a printed search result, in accordance with this Act and any regulations made under this Act.
     
-    Section 28: substituted, on 14 November 2006, by [section 23][553] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 28: substituted, on 14 November 2006, by [section 23][555] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 29 Printed search result receivable as evidence
     
@@ -3358,7 +3360,7 @@ Institutional arrangements
     
     *   (c) information that the Registry holds.
     
-    Section 29: substituted, on 14 November 2006, by [section 23][553] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 29: substituted, on 14 November 2006, by [section 23][555] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 30 Recovery of fees
     
@@ -3366,15 +3368,15 @@ Institutional arrangements
     
     (2) The EPA may enter into any agreement or arrangement, on any terms that the EPA thinks fit, with any person to collect, or assist in the collection of, any fees that are payable.
     
-    Section 30(1): amended, on 26 September 2008, by [section 32(1)][554] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30(1): amended, on 26 September 2008, by [section 32(1)][556] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 30(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 30(1): amended, on 26 September 2008, by [section 32(2)][554] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30(1): amended, on 26 September 2008, by [section 32(2)][556] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 30(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 30(2): amended, on 26 September 2008, by [section 32(1)][554] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30(2): amended, on 26 September 2008, by [section 32(1)][556] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 30A The Crown or Registrar not liable in relation to searches in certain cases
     
@@ -3394,19 +3396,19 @@ Institutional arrangements
         
         
     
-    Section 30A: inserted, on 14 November 2006, by [section 24][555] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 30A: inserted, on 14 November 2006, by [section 24][557] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 30A heading: amended, on 26 September 2008, by [section 33(1)][556] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30A heading: amended, on 26 September 2008, by [section 33(1)][558] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30A(b)(i): amended, on 26 September 2008, by [section 33(2)][556] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30A(b)(i): amended, on 26 September 2008, by [section 33(2)][558] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30A(b)(ia): inserted, on 26 September 2008, by [section 33(3)][556] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30A(b)(ia): inserted, on 26 September 2008, by [section 33(3)][558] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30A(b)(ib): inserted, on 26 September 2008, by [section 33(3)][556] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30A(b)(ib): inserted, on 26 September 2008, by [section 33(3)][558] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 #### Expiry of long-term certified emission reduction units and temporary certified emission reduction units
     
-*   Heading: inserted, on 14 November 2006, by [section 24][555] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+*   Heading: inserted, on 14 November 2006, by [section 24][557] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 30B Expiry of long-term certified emission reduction units
     
@@ -3428,7 +3430,7 @@ Institutional arrangements
     
     (5) If subsection (4) applies, then [section 18C(3)][38] does not apply.
     
-    Section 30B: inserted, on 14 November 2006, by [section 24][555] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 30B: inserted, on 14 November 2006, by [section 24][557] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 30C Replacement of certain long-term certified emission reduction units
     
@@ -3458,11 +3460,11 @@ Institutional arrangements
     
     (3) A person notified under subsection (2)(b) must replace the affected long-term certified emission reduction unit within 30 days of receiving the notice.
     
-    (4) [Sections 354 to 361][557] of the Property Law Act 2007 apply, with all necessary modifications, to any notice required under subsection (2)(b).
+    (4) [Sections 354 to 361][559] of the Property Law Act 2007 apply, with all necessary modifications, to any notice required under subsection (2)(b).
     
-    Section 30C: inserted, on 14 November 2006, by [section 24][555] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 30C: inserted, on 14 November 2006, by [section 24][557] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 30C(4): amended, on 1 January 2008, by [section 364(1)][558] of the Property Law Act 2007 (2007 No 91).
+    Section 30C(4): amended, on 1 January 2008, by [section 364(1)][560] of the Property Law Act 2007 (2007 No 91).
 
 ##### 30D Expiry of temporary certified emission reduction units
     
@@ -3486,11 +3488,11 @@ Institutional arrangements
     
     (5) If subsection (4) applies, then [section 18C(3)][38] does not apply.
     
-    Section 30D: inserted, on 14 November 2006, by [section 24][555] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 30D: inserted, on 14 November 2006, by [section 24][557] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 #### Miscellaneous provisions
     
-*   Heading: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 30E Conversion of New Zealand units into designated assigned amount units for sale overseas or cancellation
     
@@ -3536,9 +3538,9 @@ Institutional arrangements
     
     *   (b) is held by the Crown in a Crown holding account.
     
-    Section 30E: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30E: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30E(3A): inserted, on 1 January 2013, by [section 15][560] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30E(3A): inserted, on 1 January 2013, by [section 15][562] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 30F Restrictions on certain New Zealand units allocated to landowners of pre-1990 forest land
     
@@ -3548,11 +3550,11 @@ Institutional arrangements
     
     (3) If the activity listed in [Part 1][428] of Schedule 3 is repealed, the Minister of Finance may issue a direction to the Registrar under [section 7][15] to transfer from any holding account to a cancellation account any New Zealand units to which this section applies.
     
-    Section 30F: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30F: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30F(1): substituted, on 8 December 2009, by [section 20][561] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 30F(1): substituted, on 8 December 2009, by [section 20][563] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 30F(2): repealed, on 8 December 2009, by [section 20][561] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 30F(2): repealed, on 8 December 2009, by [section 20][563] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 30G Regulations relating to Part 2
     
@@ -3632,17 +3634,17 @@ Institutional arrangements
     
     *   (l) prescribing procedures for transactions involving approved overseas units:
     
-    *   (m) prescribing matters in respect of the taking of possession of an emissions unit for the purposes of [section 18(1A)(b)][562] of the Personal Property Securities Act 1999:
+    *   (m) prescribing matters in respect of the taking of possession of an emissions unit for the purposes of [section 18(1A)(b)][564] of the Personal Property Securities Act 1999:
     
     *   (n) in respect of this Part, giving effect to the terms of the [Convention][413] and the [Protocol][414], including any decisions, rules, guidelines, principles, measures, methodologies, modalities, procedures, mechanisms, or other matters adopted, agreed on, made, or approved in accordance with the Convention or the Protocol:
     
     *   (o) providing for the matters that are contemplated by, or necessary for, giving full effect to this Part and for its due administration:
     
-    *   (p) prescribing matters relating to the powers of the Minister under [section 6A][14] to sell New Zealand units by auction, including--- 
+    *   (p) prescribing matters relating to the powers of the Minister under [section 6A][14] to sell New Zealand units by auction, including---
             
-        *   (i) prescribing the date on which the sale of New Zealand units by auction commences: 
+        *   (i) prescribing the date on which the sale of New Zealand units by auction commences:
         
-        *   (ii) providing for a pilot auction to be conducted in advance of the date from which sale by auction is to commence: 
+        *   (ii) providing for a pilot auction to be conducted in advance of the date from which sale by auction is to commence:
         
         *   (iii) prescribing the persons or classes of persons eligible to participate in an auction of New Zealand units:
         
@@ -3664,13 +3666,13 @@ Institutional arrangements
     
     (4) Any regulations made under subsection (1) must be consistent with the [Convention][413] and the [Protocol][414].
     
-    Section 30G: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30G: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30G(1)(p): inserted, on 1 January 2013, by [section 16][563] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30G(1)(p): inserted, on 1 January 2013, by [section 16][565] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 30G(1)(q): inserted, on 1 January 2013, by [section 16][563] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30G(1)(q): inserted, on 1 January 2013, by [section 16][565] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 30G(3A): inserted, on 5 December 2011, by [section 9][564] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 30G(3A): inserted, on 5 December 2011, by [section 9][566] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 30GA Further provisions governing regulations made under section 30G(1)(p)
     
@@ -3690,13 +3692,13 @@ Institutional arrangements
     
     (2) Before the Minister makes a recommendation to the Governor-General under subsection (1), the Minister must have regard to---
         
-    *   (a) the matters set out in [section 68(2)(b)(i) to (iii)][124] (with any necessary modifications); and 
+    *   (a) the matters set out in [section 68(2)(b)(i) to (iii)][124] (with any necessary modifications); and
     
     *   (b) New Zealand's projected emission trends; and
     
     *   (c) any domestic target to reduce emissions; and
     
-    *   (d) the number of New Zealand units that are expected to be allocated; and 
+    *   (d) the number of New Zealand units that are expected to be allocated; and
     
     *   (e) the emissions to which the greenhouse gas emissions trading scheme applies; and
     
@@ -3724,7 +3726,7 @@ Institutional arrangements
     
     (7) To avoid doubt, subsections (3) and (4) do not apply to regulations to which subsection (1)(b) applies.
     
-    Section 30GA: inserted, on 1 January 2013, by [section 17][565] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30GA: inserted, on 1 January 2013, by [section 17][567] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 30GB Further provisions governing regulations made under section 30G(1)(q)
     
@@ -3736,7 +3738,7 @@ Institutional arrangements
     
     (4) Despite subsection (2), [section 30E(5)(a)][67] does not apply if this section applies.
     
-    Section 30GB: inserted, on 1 January 2013, by [section 17][565] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30GB: inserted, on 1 January 2013, by [section 17][567] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 30H Procedure for certain regulations relating to units
     
@@ -3756,13 +3758,13 @@ Institutional arrangements
     
     (5) A failure to comply with this section does not affect the validity of regulations made under [section 30G(1)(b)(i), (c), (d), (j), (k), (p), or (q)][69].
     
-    Section 30H: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30H: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30H(1): amended, on 1 January 2013, by [section 18(1)][566] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30H(1): amended, on 1 January 2013, by [section 18(1)][568] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 30H(3): amended, on 1 January 2013, by [section 18(2)][566] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30H(3): amended, on 1 January 2013, by [section 18(2)][568] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 30H(5): amended, on 1 January 2013, by [section 18(3)][566] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30H(5): amended, on 1 January 2013, by [section 18(3)][568] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 30I Incorporation by reference in regulations made under section 30G
     
@@ -3788,9 +3790,9 @@ Institutional arrangements
     
     (4) [Sections 170 to 177][259] apply to material incorporated by reference into regulations under [section 30G][69] as though all references to [sections 163 to 165][252], [167][256], and [168][257] were references to section 30G and all references to the chief executive were references to the Registrar.
     
-    Section 30I: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30I: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 30I(1)(b)(ii): amended, on 1 January 2013, by [section 19][567] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 30I(1)(b)(ii): amended, on 1 January 2013, by [section 19][569] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 30J Signing false declaration with respect to regulations made under section 30G
     
@@ -3800,7 +3802,7 @@ Institutional arrangements
     
     *   (b) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 30J: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30J: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 30K Providing false or misleading information to Registrar
     
@@ -3812,12 +3814,12 @@ Institutional arrangements
     
     (2) Every person who recklessly provides false or misleading information to the Registrar commits an offence, and is liable on conviction to a fine not exceeding $2,000\.
     
-    Section 30K: inserted, on 26 September 2008, by [section 34][559] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 30K: inserted, on 26 September 2008, by [section 34][561] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ## Part 3  
 Inventory agency
     
-*   Part 3 heading: inserted, on 26 September 2008, by [section 35][568] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Part 3 heading: inserted, on 26 September 2008, by [section 35][570] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 31 Meaning of greenhouse gas
     
@@ -3831,7 +3833,7 @@ Inventory agency
     
     *   (b) prepare the following reports for the purpose of discharging New Zealand's obligations:
             
-        *   (i) New Zealand's annual inventory report under [Articles 4][569] and [12][570] of the Convention and [Article 7.1][450] of the Protocol, including (but not limited to) the quantities of long-term certified emission reduction units and temporary certified emission reduction units that have expired or have been replaced, retired, or cancelled; and
+        *   (i) New Zealand's annual inventory report under [Articles 4][571] and [12][572] of the Convention and [Article 7.1][450] of the Protocol, including (but not limited to) the quantities of long-term certified emission reduction units and temporary certified emission reduction units that have expired or have been replaced, retired, or cancelled; and
         
         *   (ii) New Zealand's national communication (or periodic report) under [Article 7.2][450] of the Protocol and [Article 12][451] of the Convention; and
         
@@ -3861,11 +3863,11 @@ Inventory agency
     
     *   (f) retain information and documents to show how the estimates were determined.
     
-    Section 32(1)(b)(i): amended, on 1 January 2013, by [section 20][571] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 32(1)(b)(i): amended, on 1 January 2013, by [section 20][573] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 32(1)(b)(i): amended, on 14 November 2006, by [section 25][572] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 32(1)(b)(i): amended, on 14 November 2006, by [section 25][574] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 32(2)(b)(iii): amended, on 26 September 2008, by [section 36][573] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 32(2)(b)(iii): amended, on 26 September 2008, by [section 36][575] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 33 Inventory agency under direction of Minister
     
@@ -3873,15 +3875,15 @@ Inventory agency
     
     (2) As soon as practicable after giving the direction, the Minister must make a copy of the direction accessible via the inventory agency's Internet site.
     
-    Section 33 heading: amended, on 26 September 2008, by [section 37(1)][574] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 33 heading: amended, on 26 September 2008, by [section 37(1)][576] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 33(1): amended, on 26 September 2008, by [section 37(2)][574] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 33(1): amended, on 26 September 2008, by [section 37(2)][576] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 33(1): amended, on 26 September 2008, by [section 37(3)][574] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 33(1): amended, on 26 September 2008, by [section 37(3)][576] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 33(2): amended, on 26 September 2008, by [section 37(2)][574] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 33(2): amended, on 26 September 2008, by [section 37(2)][576] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 33(2): amended, on 14 November 2006, by [section 26][575] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 33(2): amended, on 14 November 2006, by [section 26][577] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 34 Record keeping
     
@@ -3897,11 +3899,11 @@ Inventory agency
     
 *   The inventory agency must publish New Zealand's annual inventory report and its national communication (or periodic report) in electronic form by placing the report on a publicly accessible portion of the inventory agency's Internet site.
     
-    Section 35: substituted, on 1 August 2003, by [section 27][576] of the Climate Change Response Amendment Act 2006 (2006 No 59).
+    Section 35: substituted, on 1 August 2003, by [section 27][578] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 #### Inspectors
     
-*   Heading: substituted, on 26 September 2008, by [section 38][577] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: substituted, on 26 September 2008, by [section 38][579] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 36 Authorisation of inspectors
     
@@ -3911,7 +3913,7 @@ Inventory agency
     
     *   (b) employees of the Ministry for Primary Industries and employees of any other department of the public service prescribed by regulation; or
     
-    *   (c) employees of New Zealand Forest Research Institute Limited, Landcare Research New Zealand Limited, New Zealand Pastoral Agriculture Research Institute Limited, and employees of any other Crown Research Institute (within the meaning of the [Crown Research Institutes Act 1992][578]) prescribed by regulation; or
+    *   (c) employees of New Zealand Forest Research Institute Limited, Landcare Research New Zealand Limited, New Zealand Pastoral Agriculture Research Institute Limited, and employees of any other Crown Research Institute (within the meaning of the [Crown Research Institutes Act 1992][580]) prescribed by regulation; or
     
     *   (d) employees of the EPA.
     
@@ -3927,23 +3929,23 @@ Inventory agency
     
     (5) An inspector who holds a warrant of authorisation issued under this section must, on the termination of that inspector's authorisation, surrender his or her warrant of authorisation to the Minister.
     
-    Section 36(1): amended, on 26 September 2008, by [section 39(1)][579] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 36(1): amended, on 26 September 2008, by [section 39(1)][581] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 36(1): amended, on 26 September 2008, by [section 39(2)][579] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 36(1): amended, on 26 September 2008, by [section 39(2)][581] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 36(1)(b): amended, on 1 January 2013, by [section 21][580] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 36(1)(b): amended, on 1 January 2013, by [section 21][582] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 36(1)(c): amended, on 5 December 2011, by [section 10][581] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 36(1)(c): amended, on 5 December 2011, by [section 10][583] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 36(1)(d): added, on 5 December 2011, by [section 10][581] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 36(1)(d): added, on 5 December 2011, by [section 10][583] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 36(2): amended, on 26 September 2008, by [section 39(1)][579] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 36(2): amended, on 26 September 2008, by [section 39(1)][581] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 36(3): amended, on 26 September 2008, by [section 39(1)][579] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 36(3): amended, on 26 September 2008, by [section 39(1)][581] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 36(4): amended, on 26 September 2008, by [section 39(3)][579] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 36(4): amended, on 26 September 2008, by [section 39(3)][581] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 36(5): amended, on 26 September 2008, by [section 39(1)][579] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 36(5): amended, on 26 September 2008, by [section 39(1)][581] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 37 Power to enter land or premises to collect information to estimate emissions or removals of greenhouse gases
     
@@ -3971,9 +3973,9 @@ Inventory agency
     
     (7) A person who provides assistance under subsection (6) may exercise the powers provided to inspectors under subsection (1).
     
-    Section 37(1): amended, on 26 September 2008, by [section 40][582] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 37(1): amended, on 26 September 2008, by [section 40][584] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 37(2): amended, on 26 September 2008, by [section 40][582] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 37(2): amended, on 26 September 2008, by [section 40][584] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 38 Limitation on power of entry under section 37
     
@@ -3983,7 +3985,7 @@ Inventory agency
     
     *   (b) cannot reasonably be obtained from the occupier or owner of the land or premises.
     
-    Section 38: amended, on 26 September 2008, by [section 41][583] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 38: amended, on 26 September 2008, by [section 41][585] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 39 Power of entry for inspection
     
@@ -4041,11 +4043,11 @@ Inventory agency
     
     (5) Nothing in this section limits the privilege against self-incrimination.
     
-    Section 40(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][584] of the Policing Act 2008 (2008 No 72).
+    Section 40(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][586] of the Policing Act 2008 (2008 No 72).
 
 ##### 41 Entry of defence areas
     
-*   Despite anything in [sections 37][84], [39][86], and [40][87], an inspector may not enter a defence area (within the meaning of [section 2(1)][585] of the Defence Act 1990), except in accordance with a written agreement between the inventory agency and the Chief of Defence Force on the date or dates specified in that agreement.
+*   Despite anything in [sections 37][84], [39][86], and [40][87], an inspector may not enter a defence area (within the meaning of [section 2(1)][587] of the Defence Act 1990), except in accordance with a written agreement between the inventory agency and the Chief of Defence Force on the date or dates specified in that agreement.
 
 ##### 42 Proof of authority must be produced
     
@@ -4085,11 +4087,11 @@ Inventory agency
 
 ##### 45 Return of items seized
     
-*   [Section 199][586] of the Summary Proceedings Act 1957 applies, with the necessary modifications, to any property seized or taken by an inspector as if---
+*   [Section 199][588] of the Summary Proceedings Act 1957 applies, with the necessary modifications, to any property seized or taken by an inspector as if---
         
     *   (a) references in that section to a constable were references to an inspector; and
     
-    *   (b) the reference in that section to [section 198][587] of that Act were a reference to [section 39][86] or [section 40][87] of this Act.
+    *   (b) the reference in that section to [section 198][589] of that Act were a reference to [section 39][86] or [section 40][87] of this Act.
     
     
 
@@ -4097,7 +4099,7 @@ Inventory agency
     
 *   No inspector or person called upon to assist an inspector who does an act or omits to do an act when carrying out a duty, performing a function, or exercising a power conferred on that person by this Part is under any civil or criminal liability in respect of that act or omission unless the person has acted or omitted to act in bad faith or without reasonable cause.
     
-    Section 45A: inserted, on 26 September 2008, by [section 42][588] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 45A: inserted, on 26 September 2008, by [section 42][590] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 #### Offences and penalties
 
@@ -4139,11 +4141,11 @@ Inventory agency
         
         
     
-    Section 47 heading: amended, on 26 September 2008, by [section 43(1)][589] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 47 heading: amended, on 26 September 2008, by [section 43(1)][591] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 47(a)(i): amended, on 26 September 2008, by [section 43(2)][589] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 47(a)(i): amended, on 26 September 2008, by [section 43(2)][591] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 47(a)(ii): amended, on 26 September 2008, by [section 43(3)][589] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 47(a)(ii): amended, on 26 September 2008, by [section 43(3)][591] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 48 Signing false declaration in respect of regulations made under section 50
     
@@ -4153,13 +4155,13 @@ Inventory agency
     
     *   (b) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 48 heading: amended, on 26 September 2008, by [section 44][590] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 48 heading: amended, on 26 September 2008, by [section 44][592] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 48A Providing false or misleading information to Registrar
     
 *   \[Repealed\]
     
-    Section 48A: repealed, on 26 September 2008, by [section 45][591] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 48A: repealed, on 26 September 2008, by [section 45][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 #### Miscellaneous provisions
 
@@ -4177,9 +4179,9 @@ Inventory agency
     
     *   (b) prescribing agencies whose employees may act as inspectors under [section 36][83], being---
             
-        *   (i) a Department of the Public Service listed in [Schedule 1][592] of the State Sector Act 1988; or
+        *   (i) a Department of the Public Service listed in [Schedule 1][594] of the State Sector Act 1988; or
         
-        *   (ii) a Crown Research Institute within the meaning of the [Crown Research Institutes Act 1992][578]:
+        *   (ii) a Crown Research Institute within the meaning of the [Crown Research Institutes Act 1992][580]:
         
         
     
@@ -4255,37 +4257,37 @@ Inventory agency
     
     *   (d) revoking [Schedule 2][414] and substituting a new schedule setting out in an up-to-date form the text of the Protocol.
     
-    Section 50(1)(a): repealed, on 26 September 2008, by [section 47(1)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(a): repealed, on 26 September 2008, by [section 47(1)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(c): repealed, on 26 September 2008, by [section 47(2)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(c): repealed, on 26 September 2008, by [section 47(2)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(ca): repealed, on 26 September 2008, by [section 47(3)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(ca): repealed, on 26 September 2008, by [section 47(3)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(d): repealed, on 26 September 2008, by [section 47(4)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(d): repealed, on 26 September 2008, by [section 47(4)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(e): repealed, on 26 September 2008, by [section 47(5)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(e): repealed, on 26 September 2008, by [section 47(5)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(f): repealed, on 26 September 2008, by [section 47(6)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(f): repealed, on 26 September 2008, by [section 47(6)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(g): repealed, on 26 September 2008, by [section 47(7)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(g): repealed, on 26 September 2008, by [section 47(7)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(h): repealed, on 26 September 2008, by [section 47(8)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(h): repealed, on 26 September 2008, by [section 47(8)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(i): amended, on 26 September 2008, by [section 47(9)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(i): amended, on 26 September 2008, by [section 47(9)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(1)(k): amended, on 26 September 2008, by [section 47(10)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(1)(k): amended, on 26 September 2008, by [section 47(10)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(2): amended, on 26 September 2008, by [section 47(11)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(2): amended, on 26 September 2008, by [section 47(11)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(2)(fa): inserted, on 1 January 2013, by [section 22(1)][594] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 50(2)(fa): inserted, on 1 January 2013, by [section 22(1)][596] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 50(2)(k): amended, on 1 January 2013, by [section 22(2)][594] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 50(2)(k): amended, on 1 January 2013, by [section 22(2)][596] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 50(3): amended, on 26 September 2008, by [section 47(11)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(3): amended, on 26 September 2008, by [section 47(11)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(5): substituted, on 26 September 2008, by [section 47(12)][593] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 50(5): substituted, on 26 September 2008, by [section 47(12)][595] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 50(8): added, on 8 December 2009, by [section 21][595] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 50(8): added, on 8 December 2009, by [section 21][597] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 51 Incorporation by reference in regulations made under section 50
     
@@ -4311,9 +4313,9 @@ Inventory agency
     
     (4) [Sections 170 to 177][259] apply to material incorporated by reference into regulations under [section 50][101] as though all references to [sections 163 to 165][252], [167][256], and [168][257] were references to section 50 and all references to the chief executive were references to the inventory agency.
     
-    Section 51: substituted, on 26 September 2008, by [section 48][596] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 51: substituted, on 26 September 2008, by [section 48][598] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 51(1)(b)(ii): amended, on 1 January 2013, by [section 23][597] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 51(1)(b)(ii): amended, on 1 January 2013, by [section 23][599] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 52 Inventory agency must report to Minister on certain matters before certain regulations are made
     
@@ -4323,7 +4325,7 @@ Inventory agency
             
         *   (i) voluntary collection; or
         
-        *   (ii) collection from a government agency that holds the information (provided that the release of the information by that government agency complies with the principles of the [Privacy Act 1993][598] and any provisions of the enactment under which the information was collected); and
+        *   (ii) collection from a government agency that holds the information (provided that the release of the information by that government agency complies with the principles of the [Privacy Act 1993][600] and any provisions of the enactment under which the information was collected); and
         
         
     
@@ -4347,26 +4349,26 @@ Inventory agency
     
     (4) The Minister may not recommend the making of regulations under [section 50(2) and (3)][101] unless he or she is satisfied, on reasonable grounds, that the regulations are necessary to assist New Zealand to meet its obligations under the [Convention][413] or the [Protocol][414].
     
-    Section 52 heading: amended, on 26 September 2008, by [section 49(1)][599] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 52 heading: amended, on 26 September 2008, by [section 49(1)][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 52(1): amended, on 26 September 2008, by [section 49(2)][599] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 52(1): amended, on 26 September 2008, by [section 49(2)][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 52(3): amended, on 26 September 2008, by [section 49(3)][599] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 52(3): amended, on 26 September 2008, by [section 49(3)][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 52(4): amended, on 26 September 2008, by [section 49(4)][599] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 52(4): amended, on 26 September 2008, by [section 49(4)][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 53 Consequential amendments
     
-*   _Amendment(s) incorporated in the [Act(s)][600]_.
+*   _Amendment(s) incorporated in the [Act(s)][602]_.
 
 ## Part 4  
 New Zealand greenhouse gas emissions trading scheme
     
-*   Part 4: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Part 4: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ### Subpart 1---Participants
     
-*   Subpart 1: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 1: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 54 Participants
     
@@ -4396,15 +4398,15 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) The EPA must ensure that the registers, or the information contained in the registers, kept for the purposes of [section 56][109] or [57][110] are open for public inspection, without fee, on the EPA's Internet site and in any other form the EPA considers appropriate.
     
-    Section 54: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 54: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 54(1)(a)(i): amended, on 8 December 2009, by [section 22(1)][602] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 54(1)(a)(i): amended, on 8 December 2009, by [section 22(1)][604] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 54(1)(b)(ii): amended, on 8 December 2009, by [section 22(2)][602] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 54(1)(b)(ii): amended, on 8 December 2009, by [section 22(2)][604] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 54(2): amended, on 8 December 2009, by [section 22(1)][602] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 54(2): amended, on 8 December 2009, by [section 22(1)][604] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 54(4): amended, on 8 December 2009, by [section 22(3)][602] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 54(4): amended, on 8 December 2009, by [section 22(3)][604] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 54(5): substituted, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -4428,11 +4430,11 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 55: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 55: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 55(3)(b)(ii): substituted, on 8 December 2009, by [section 23(1)][603] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 55(3)(b)(ii): substituted, on 8 December 2009, by [section 23(1)][605] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 55(3)(b)(iii): amended, on 8 December 2009, by [section 23(2)][603] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 55(3)(b)(iii): amended, on 8 December 2009, by [section 23(2)][605] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 56 Registration as participant in respect of activities listed in Schedule 3
     
@@ -4480,7 +4482,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) If the EPA receives a notice under subsection (1)(a) from a person whose name is already on the register kept in accordance with subsection (3), the EPA need not re-enter the person's name on the register, but must enter next to the person's name the activity that is specified in the notice, and notify the person that the activity has been entered on the register next to the person's name.
     
-    Section 56: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 56: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 56(1)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -4500,7 +4502,7 @@ New Zealand greenhouse gas emissions trading scheme
 
 ##### 57 Applicant to be registered as participant in respect of activities listed in Schedule 4
     
-*   (1) A person who carries out an activity listed in [Schedule 4][416], or who will do so at the time that the person's registration takes effect, may apply to be registered as a participant in respect of the activity by application to the EPA in accordance with subsection (2). 
+*   (1) A person who carries out an activity listed in [Schedule 4][416], or who will do so at the time that the person's registration takes effect, may apply to be registered as a participant in respect of the activity by application to the EPA in accordance with subsection (2).
     
     (2) An application under subsection (1) must---
         
@@ -4562,9 +4564,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     (9) If the EPA receives an application under subsection (1) from a person whose name is already on the register kept in accordance with subsection (5), and registers the person in respect of the activity specified in the application, the EPA need not re-enter the person's name on the register, but must enter next to the person's name the activity that is specified in the application, and notify the person that the activity has been entered on the register next to the person's name.
     
-    Section 57: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 57: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 57 heading: amended, on 1 January 2013, by [section 24(1)][604] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 57 heading: amended, on 1 January 2013, by [section 24(1)][606] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 57(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -4576,25 +4578,25 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 57(4)(a)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 57(4)(b): amended, on 8 December 2009, by [section 24(1)][605] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 57(4)(b): amended, on 8 December 2009, by [section 24(1)][607] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 57(4)(ba): inserted, on 1 January 2013, by [section 24(2)][604] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 57(4)(ba): inserted, on 1 January 2013, by [section 24(2)][606] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 57(4)(c): added, on 8 December 2009, by [section 24(1)][605] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 57(4)(c): added, on 8 December 2009, by [section 24(1)][607] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 57(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 57(6): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 57(6)(b): amended, on 8 December 2009, by [section 24(2)][605] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 57(6)(b): amended, on 8 December 2009, by [section 24(2)][607] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 57(7): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 57(7): amended, on 8 December 2009, by [section 24(3)][605] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 57(7): amended, on 8 December 2009, by [section 24(3)][607] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 57(7)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 57(8): amended, on 8 December 2009, by [section 24(4)][605] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 57(8): amended, on 8 December 2009, by [section 24(4)][607] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 57(9): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -4630,17 +4632,17 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) The EPA must remove the name of an applicant under subsection (1) from the register in respect of the activity specified in the application immediately or on any later date required by [section 188(7)(a)(ii)][299], [198(3)(b)][314], or [209(3)(b)][326].
     
-    Section 58: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 58: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 58(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 58(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 58(3)(c): amended, on 8 December 2009, by [section 25(1)][606] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 58(3)(c): amended, on 8 December 2009, by [section 25(1)][608] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 58(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 58(4): amended, on 8 December 2009, by [section 25(2)][606] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 58(4): amended, on 8 December 2009, by [section 25(2)][608] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 59 Removal from register of participants in respect of activities listed in Schedules 3 and 4
     
@@ -4660,19 +4662,19 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) This section is subject to [sections 200][316] and [211][328].
     
-    Section 59: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 59: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 59(1): amended, on 1 January 2013, by [section 25][607] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 59(1): amended, on 1 January 2013, by [section 25][609] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 59(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 59(2): amended, on 1 January 2013, by [section 25][607] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 59(2): amended, on 1 January 2013, by [section 25][609] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 59(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 59(2)(b): amended, on 8 December 2009, by [section 26(1)][608] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 59(2)(b): amended, on 8 December 2009, by [section 26(1)][610] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 59(3): amended, on 8 December 2009, by [section 26(2)][608] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 59(3): amended, on 8 December 2009, by [section 26(2)][610] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 60 Exemptions in respect of activities listed in Schedule 3
     
@@ -4728,17 +4730,17 @@ New Zealand greenhouse gas emissions trading scheme
     
     (8) A failure to comply with subsection (5) does not affect the validity of any order made.
     
-    Section 60: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 60: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 60(1)(a): amended, on 8 December 2009, by [section 27(1)][609] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 60(1)(a): amended, on 8 December 2009, by [section 27(1)][611] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 60(1)(b): amended, on 8 December 2009, by [section 27(2)][609] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 60(1)(b): amended, on 8 December 2009, by [section 27(2)][611] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 60(1)(c): amended, on 8 December 2009, by [section 27(3)][609] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 60(1)(c): amended, on 8 December 2009, by [section 27(3)][611] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 60(1A): inserted, on 8 December 2009, by [section 27(4)][609] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 60(1A): inserted, on 8 December 2009, by [section 27(4)][611] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 60(2)(b): amended, on 8 December 2009, by [section 27(5)][609] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 60(2)(b): amended, on 8 December 2009, by [section 27(5)][611] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 61 Requirement to have holding account
     
@@ -4762,7 +4764,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) an eligible person.
     
-    Section 61: substituted, on 8 December 2009, by [section 28][610] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 61: substituted, on 8 December 2009, by [section 28][612] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 62 Monitoring of emissions and removals
     
@@ -4776,13 +4778,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (d) keep, in the prescribed format (if any), records of the data or information and calculations.
     
-    Section 62: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 62: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 62(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 62(c): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 62(d): substituted, on 8 December 2009, by [section 29][611] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 62(d): substituted, on 8 December 2009, by [section 29][613] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 63 Liability to surrender units to cover emissions
     
@@ -4794,7 +4796,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) If a participant is liable to surrender units under this Act, the participant must make an application under [section 18C][38] to transfer the required number of units from the participant's holding account to a surrender account designated by the EPA.
     
-    Section 63: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 63: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 63(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -4802,13 +4804,13 @@ New Zealand greenhouse gas emissions trading scheme
     
 *   (1) This section applies to a person who---
         
-    *   (a) carries out an activity listed in any of [Parts 2 to 6][612] of Schedule 3; or
+    *   (a) carries out an activity listed in any of [Parts 2 to 6][614] of Schedule 3; or
     
     *   (b) is a participant in relation to an activity listed in [Part 3][430] or [4][431] of Schedule 4\.
     
     (2) Despite anything in this Act, a person to whom this section applies is only liable to surrender, and may only surrender, 1 unit for each 2 whole tonnes of emissions from the activity.
     
-    Section 63A: inserted, on 1 January 2013, by [section 26][613] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 63A: inserted, on 1 January 2013, by [section 26][615] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 64 Entitlement to receive New Zealand units for removal activities
     
@@ -4822,19 +4824,19 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) \[Repealed\]
     
-    Section 64: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 64: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 64(2): substituted, on 8 December 2009, by [section 30][614] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 64(2): substituted, on 8 December 2009, by [section 30][616] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 64(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 64(3): substituted, on 8 December 2009, by [section 30][614] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 64(3): substituted, on 8 December 2009, by [section 30][616] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 64(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 64(4): repealed, on 8 December 2009, by [section 30][614] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 64(4): repealed, on 8 December 2009, by [section 30][616] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 64(5): repealed, on 8 December 2009, by [section 30][614] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 64(5): repealed, on 8 December 2009, by [section 30][616] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 64A Modification of entitlement to receive New Zealand units for removal activities
     
@@ -4846,7 +4848,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) Despite [section 64][118], a participant to whom this section applies is entitled to receive only 1 New Zealand unit for each 2 whole tonnes of removals from the activity.
     
-    Section 64A: inserted, on 1 January 2013, by [section 27][615] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 64A: inserted, on 1 January 2013, by [section 27][617] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 65 Annual emissions returns
     
@@ -4856,7 +4858,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) must, in the case where approval for the participant's offsetting forest land application is treated as revoked under [section 186D(2)][289] or is revoked under [section 186G(1)][292], submit an annual emissions return to the EPA in respect of the activity listed in [Part 1][428] of Schedule 3 that the participant carried out that covers the period---
             
-        *   (i) beginning when the activity first occurred; and 
+        *   (i) beginning when the activity first occurred; and
         
         *   (ii) ending on the date that the revocation occurred.
         
@@ -4896,17 +4898,17 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) A participant who carries out an activity listed in [Part 1][429] of Schedule 4 must submit emissions returns as set out in [section 189(2)][301].
     
-    Section 65: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 65: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 65(1): replaced, on 1 January 2013, by [section 28(1)][616] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 65(1): replaced, on 1 January 2013, by [section 28(1)][618] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 65(1A): inserted, on 1 January 2013, by [section 28(1)][616] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 65(1A): inserted, on 1 January 2013, by [section 28(1)][618] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 65(2A): inserted, on 1 January 2013, by [section 28(2)][616] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 65(2A): inserted, on 1 January 2013, by [section 28(2)][618] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 65(4): amended, on 1 January 2013, by [section 28(3)][616] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 65(4): amended, on 1 January 2013, by [section 28(3)][618] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 65(4): amended, on 8 December 2009, by [section 31(2)][617] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 65(4): amended, on 8 December 2009, by [section 31(2)][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 66 Quarterly returns for other removal activities
     
@@ -4924,7 +4926,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) in respect of each activity covered by the return, be in respect of the period---
             
-        *   (i) commencing on the later of--- 
+        *   (i) commencing on the later of---
                 
             *   (A) the day the person became a participant in respect of the activity; or
             
@@ -4942,7 +4944,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) Despite anything in [section 65][120], the annual emissions return of a participant who has submitted a return for an activity under this section in any year must cover only the part of the year not covered by a return under this section.
     
-    Section 66: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 66: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 67 Retention of emissions records
     
@@ -4966,17 +4968,17 @@ New Zealand greenhouse gas emissions trading scheme
         
     *   (a) include the records specified in [section 62(d)][115]; and
     
-    *   (b) in the case where they relate to an activity listed in [Part 1][618] of Schedule 3 or [4][416], be retained for a period of at least 20 years after the end of the year to which they relate; and
+    *   (b) in the case where they relate to an activity listed in [Part 1][620] of Schedule 3 or [4][416], be retained for a period of at least 20 years after the end of the year to which they relate; and
     
     *   (c) in every other case, be retained for a period of at least 7 years after the end of the year to which they relate.
     
-    Section 67: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 67: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 67(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ### Subpart 2---Issuing and allocating New Zealand units
     
-*   Subpart 2 heading: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Subpart 2 heading: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 68 Issuing New Zealand units
     
@@ -5022,7 +5024,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) Each copy of the direction under subsection (4) must be accompanied by a statement setting out how the Minister has had regard to the matters specified in subsection (2)(b) and, if relevant, subsection (2)(c).
     
-    Section 68: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 68: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 68(4)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -5056,13 +5058,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) The Crown is not bound by any notice given under subsection (1) to make any decisions in relation to the issuing, sale, or allocation of New Zealand units.
     
-    Section 69: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 69: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 69(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 #### Allocation of New Zealand units in relation to pre-1990 forest land and fishing
     
-*   Heading: inserted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Heading: inserted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 70 Governor-General may issue allocation plans
     
@@ -5076,9 +5078,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) An allocation plan comes into force on the day after the date it is presented to the House of Representatives.
     
-    (4) An allocation plan is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][620] and for the purposes of the [Acts and Regulations Publication Act 1989][621].
+    (4) An allocation plan is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][622] and for the purposes of the [Acts and Regulations Publication Act 1989][623].
     
-    Section 70: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 70: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 71 Correction of allocation plans
     
@@ -5088,7 +5090,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) [Section 70(2)(b) and (3)][127] do not apply to an amended allocation plan.
     
-    Section 71: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 71: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 72 Allocation in respect of pre-1990 forest land
     
@@ -5166,13 +5168,13 @@ New Zealand greenhouse gas emissions trading scheme
         
         *   (v) the data and information, or the kind of data and information, that each eligible person must supply, and the form in which the person must supply the data and information, in order to---
                 
-            *   (A) receive an allocation of New Zealand units under the plan; and 
+            *   (A) receive an allocation of New Zealand units under the plan; and
             
             *   (B) enable the Minister to determine the person's correct allocation of New Zealand units under the allocation plan; and
             
             
         
-        *   (vi) in relation to an eligible person who receives an allocation of New Zealand units,--- 
+        *   (vi) in relation to an eligible person who receives an allocation of New Zealand units,---
                 
             *   (A) the records, or the kinds of records, that the person must retain; and
             
@@ -5194,7 +5196,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) may provide for any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
     
-    (5) Despite subsection (2)(b), the pre-1990 forest land allocation plan must treat any Crown forest licence land transferred pursuant to the [Te Uri o Hau Claims Settlement Act 2002][622] as if it were eligible land covered by subsection (2)(b)(iii).
+    (5) Despite subsection (2)(b), the pre-1990 forest land allocation plan must treat any Crown forest licence land transferred pursuant to the [Te Uri o Hau Claims Settlement Act 2002][624] as if it were eligible land covered by subsection (2)(b)(iii).
     
     (6) For the purposes of---
         
@@ -5202,7 +5204,7 @@ New Zealand greenhouse gas emissions trading scheme
             
         *   (i) eligible land is to be treated as transferred on the settlement date, unless the pre-1990 forest land allocation plan specifies another date or event upon which any or all eligible land is to be treated as transferred; and
         
-        *   (ii) _Crown forest licence land_ means eligible land subject to a Crown forestry licence under [section 14][623] of the Crown Forest Assets Act 1989; and
+        *   (ii) _Crown forest licence land_ means eligible land subject to a Crown forestry licence under [section 14][625] of the Crown Forest Assets Act 1989; and
         
         
     
@@ -5214,7 +5216,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 72: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 72: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 73 Minister to appoint person to hold certain New Zealand units
     
@@ -5238,7 +5240,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) If the Minister has not appointed a person in accordance with subsection (1) before issuing a notice under [section 77(1)][134] inviting persons to apply for an allocation of New Zealand units under the pre-1990 forest land allocation plan, then the Minister must, by notice in the _Gazette_, appoint a person to apply for an allocation of New Zealand units in respect of the land specified in [section 72(2)(b)(i)(A)][129] on behalf of the person to be appointed under subsection (1).
     
-    Section 73: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 73: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 74 Allocation to owners of fishing quota
     
@@ -5248,7 +5250,7 @@ New Zealand greenhouse gas emissions trading scheme
         
     *   (a) an allocation of New Zealand units to persons who---
             
-        *   (i) were shown on the quota register kept under [Part 8][624] of the Fisheries Act 1996 as owners of fishing quota on 24 September 2009; and 
+        *   (i) were shown on the quota register kept under [Part 8][626] of the Fisheries Act 1996 as owners of fishing quota on 24 September 2009; and
         
         *   (ii) meet any tests or thresholds that are specified in the allocation plan; and
         
@@ -5280,11 +5282,11 @@ New Zealand greenhouse gas emissions trading scheme
         
         **D**
         > 
-        > is the sum of the total allowable commercial catch (expressed in kilograms) of stocks, other than Foveaux Strait dredge oysters (excluding any quota shown in the quota register kept under [Part 8][624] of the Fisheries Act 1996 as being owned by the Crown), on the close of 24 September 2009
+        > is the sum of the total allowable commercial catch (expressed in kilograms) of stocks, other than Foveaux Strait dredge oysters (excluding any quota shown in the quota register kept under [Part 8][626] of the Fisheries Act 1996 as being owned by the Crown), on the close of 24 September 2009
         
         **E**
         > 
-        > is the sum of the total allowable commercial catch (expressed as a number of oysters) of the Foveaux Strait dredge oyster stock divided by 9.8 (excluding any quota shown in the quota register kept under [Part 8][624] of the Fisheries Act 1996 as being owned by the Crown) on the close of 24 September 2009; and
+        > is the sum of the total allowable commercial catch (expressed as a number of oysters) of the Foveaux Strait dredge oyster stock divided by 9.8 (excluding any quota shown in the quota register kept under [Part 8][626] of the Fisheries Act 1996 as being owned by the Crown) on the close of 24 September 2009; and
         
         
     
@@ -5308,9 +5310,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (f) any other matters contemplated by this subpart, necessary for its administration, or necessary for giving it full effect.
     
-    (3) For the purposes of this section, _quota weight equivalent_ and _total allowable commercial catch_ have the same meaning as in [section 2(1)][625] of the Fisheries Act 1996\.
+    (3) For the purposes of this section, _quota weight equivalent_ and _total allowable commercial catch_ have the same meaning as in [section 2(1)][627] of the Fisheries Act 1996\.
     
-    Section 74: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 74: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 75 Consultation on pre-1990 forest land allocation plan
     
@@ -5320,13 +5322,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) Any consultation undertaken before the commencement of this section in respect of the pre-1990 forest land allocation plan is to be treated as the consultation required for the purposes of this section.
     
-    Section 75: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 75: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
-##### 76 Consultation on fishing allocation plan 
+##### 76 Consultation on fishing allocation plan
     
-*   (1) Before making a recommendation under [section 74(1)][131], the Minister must--- 
+*   (1) Before making a recommendation under [section 74(1)][131], the Minister must---
         
-    *   (a) prepare a draft fishing allocation plan; and 
+    *   (a) prepare a draft fishing allocation plan; and
     
     *   (b) consult, or be satisfied that the chief executive has consulted, persons (or their representatives) that appear to the Minister or the chief executive likely to have an interest in the fishing allocation plan.
     
@@ -5346,7 +5348,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) If any submission is made on the draft fishing allocation plan under subsection (4), the chief executive must, after the expiry of the time for making submissions, prepare for the Minister a report that contains recommendations in respect of the submissions.
     
-    Section 76: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 76: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 77 Determinations made in accordance with allocation plan
     
@@ -5362,7 +5364,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (d) how the data and other information are to be supplied.
     
-    (3) To avoid doubt, data and information supplied under subsection (2) are subject to the [Official Information Act 1982][626].
+    (3) To avoid doubt, data and information supplied under subsection (2) are subject to the [Official Information Act 1982][628].
     
     (4) Despite anything in this subpart or in any allocation plan,---
         
@@ -5372,17 +5374,17 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) The Minister must, in relation to each application received by the date specified in the notice given under subsection (1), make a preliminary determination in accordance with the allocation plan as to---
         
-    *   (a) whether the person is eligible to receive an allocation of New Zealand units under the plan; and 
+    *   (a) whether the person is eligible to receive an allocation of New Zealand units under the plan; and
     
-    *   (b) the total number of New Zealand units the person is entitled to receive under the plan (which may be expressed by reference to a formula); and 
+    *   (b) the total number of New Zealand units the person is entitled to receive under the plan (which may be expressed by reference to a formula); and
     
-    *   (c) the year or years in which the New Zealand units will be transferred to the person. 
+    *   (c) the year or years in which the New Zealand units will be transferred to the person.
     
     (6) After making a preliminary determination, the Minister must notify the applicant of the following:
         
     *   (a) whether, in the Minister's opinion, the person is an eligible person under the allocation plan, and---
             
-        *   (i) if so, the total number of New Zealand units the Minister has determined the person is entitled to receive under the plan (which may be expressed by reference to a formula) and the year or years in which those units will be transferred; and 
+        *   (i) if so, the total number of New Zealand units the Minister has determined the person is entitled to receive under the plan (which may be expressed by reference to a formula) and the year or years in which those units will be transferred; and
         
         *   (ii) if not, the reasons for that opinion; and
         
@@ -5406,7 +5408,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (8A) Despite subsection (8)(d), if the applicant does not have a holding account, the Registrar is not required to comply with a direction by the Minister until the applicant has opened a holding account that has been approved by the Registrar.
     
-    (9) For the purposes of making a preliminary determination under subsection (5) or a final determination under subsection (7) in respect of a fishing allocation plan, the Minister may access, and rely on, the information set out in the quota register kept under [Part 8][624] of the Fisheries Act 1996\.
+    (9) For the purposes of making a preliminary determination under subsection (5) or a final determination under subsection (7) in respect of a fishing allocation plan, the Minister may access, and rely on, the information set out in the quota register kept under [Part 8][626] of the Fisheries Act 1996\.
     
     (10) To avoid doubt, and without limiting the powers conferred under [sections 94 to 106][165], the EPA or any other person with powers under sections 94 to 106 may exercise those powers for the purposes of ascertaining whether a person who applies for an allocation of New Zealand units or is allocated New Zealand units under an allocation plan is complying with, or has complied with,---
         
@@ -5414,11 +5416,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) any requirement in the relevant allocation plan (for example, a requirement to keep records).
     
-    Section 77: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 77: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 77(8)(c): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 77(8A): inserted, on 1 January 2013, by [section 29][627] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 77(8A): inserted, on 1 January 2013, by [section 29][629] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 77(10): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -5448,7 +5450,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    *   (c) follow the procedure in [section 77(6) to (8)][134], which apply, with any necessary modifications, to the new determination. 
+    *   (c) follow the procedure in [section 77(6) to (8)][134], which apply, with any necessary modifications, to the new determination.
     
     (3) The Minister may not revoke or replace a determination under this section after the expiry of 4 years from the date of notification of the Minister's first determination under [section 77(7)][134] if the new determination would decrease the number of units allocated to a person.
     
@@ -5456,13 +5458,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) Subsections (6) and (7) apply if---
         
-    *   (a) the Minister has made a determination under [section 77][134] that Te Ohu Kai Moana Trustee Limited is entitled to receive New Zealand units under a fishing allocation plan; and 
+    *   (a) the Minister has made a determination under [section 77][134] that Te Ohu Kai Moana Trustee Limited is entitled to receive New Zealand units under a fishing allocation plan; and
     
-    *   (b) New Zealand units have been transferred to Te Ohu Kai Moana Trustee Limited under the determination in respect of unallocated quota; and 
+    *   (b) New Zealand units have been transferred to Te Ohu Kai Moana Trustee Limited under the determination in respect of unallocated quota; and
     
-    *   (c) Te Ohu Kai Moana Trustee Limited has allocated and transferred unallocated quota together with New Zealand units associated with that quota to any iwi or mandated iwi organisation in accordance with [section 138A(2)][628] of the Maori Fisheries Act 2004; and
+    *   (c) Te Ohu Kai Moana Trustee Limited has allocated and transferred unallocated quota together with New Zealand units associated with that quota to any iwi or mandated iwi organisation in accordance with [section 138A(2)][630] of the Maori Fisheries Act 2004; and
     
-    *   (d) the Minister reconsiders the determination. 
+    *   (d) the Minister reconsiders the determination.
     
     (6) In reconsidering the determination of Te Ohu Kai Moana Trustee Limited's entitlement, the Minister must treat an iwi or a mandated iwi organisation which has received unallocated quota from Te Ohu Kai Moana Trustee Limited as if it owned that quota on 24 September 2009\.
     
@@ -5474,13 +5476,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (8) In subsections (5) to (7) and [section 79(4)][136],---
     
-    _iwi_ has the same meaning as in [section 5][629] of the Maori Fisheries Act 2004
+    _iwi_ has the same meaning as in [section 5][631] of the Maori Fisheries Act 2004
     
-    _mandated iwi organisation_ has the same meaning as in [section 5][629] of the Maori Fisheries Act 2004
+    _mandated iwi organisation_ has the same meaning as in [section 5][631] of the Maori Fisheries Act 2004
     
-    _unallocated quota_ means quota held by Te Ohu Kai Moana Trustee Limited on 24 September 2009 and that had not been allocated under [section 130(1)][630], [135][631], or [151][632] of the Maori Fisheries Act 2004 at that date.
+    _unallocated quota_ means quota held by Te Ohu Kai Moana Trustee Limited on 24 September 2009 and that had not been allocated under [section 130(1)][632], [135][633], or [151][634] of the Maori Fisheries Act 2004 at that date.
     
-    Section 78: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 78: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 79 Effect of new determination
     
@@ -5522,13 +5524,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the New Zealand units associated with the unallocated quota transferred to an iwi or a mandated iwi organisation by Te Ohu Kai Moana Trustee Limited had been transferred to the iwi or mandated iwi organisation under the earlier determination.
     
-    Section 79: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 79: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 79(3)(b): amended, on 1 January 2013, by [section 30][633] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 79(3)(b): amended, on 1 January 2013, by [section 30][635] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Allocation of New Zealand units in relation to industry and agriculture
     
-*   Heading: inserted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Heading: inserted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 80 Criteria for allocation of New Zealand units to industry
     
@@ -5536,7 +5538,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) Subsection (1) is subject to [sections 86E][152] and [161D(7)][246].
     
-    Section 80: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 80: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 81 Entitlement to provisional allocation for eligible industrial activities
     
@@ -5584,11 +5586,11 @@ New Zealand greenhouse gas emissions trading scheme
     > 
     > is the prescribed allocative baseline for the applicable product that is required to be used by the eligible person by regulations made under this Act.
     
-    Section 81: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 81: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 81 formula item LA paragraph (a)(ii): replaced, on 1 January 2013, by [section 31(1)][634] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 81 formula item LA paragraph (a)(ii): replaced, on 1 January 2013, by [section 31(1)][636] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 81 formula item LA paragraph (b)(ii): replaced, on 1 January 2013, by [section 31(2)][634] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 81 formula item LA paragraph (b)(ii): replaced, on 1 January 2013, by [section 31(2)][636] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 82 Entitlement to allocation for eligible industrial activities where provisional allocation not received
     
@@ -5596,7 +5598,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) A new entrant or other eligible person who did not receive a provisional allocation of New Zealand units for an eligible industrial activity in respect of a year is entitled to an allocation of New Zealand units for the eligible industrial activity for the year calculated in accordance with the formula in [section 83(2)][141].
     
-    Section 82: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 82: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 83 Annual allocation adjustment
     
@@ -5710,11 +5712,11 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 83: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 83: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 83(2) formula item LA paragraph (a)(ii): replaced, on 1 January 2013, by [section 32(1)][635] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 83(2) formula item LA paragraph (a)(ii): replaced, on 1 January 2013, by [section 32(1)][637] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 83(2) formula item LA paragraph (b)(ii): replaced, on 1 January 2013, by [section 32(2)][635] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 83(2) formula item LA paragraph (b)(ii): replaced, on 1 January 2013, by [section 32(2)][637] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 83(3) formula item PA: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -5784,7 +5786,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) [Section 83(7)][141] applies to the repayment of units under this section as if the units were required to be repaid under section 83\.
     
-    Section 84: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 84: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 84(1)(c)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -5794,7 +5796,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 84(2)(c): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 84(4)(a) formula item PA: amended, on 1 January 2013, by [section 33][636] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 84(4)(a) formula item PA: amended, on 1 January 2013, by [section 33][638] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 84A Temporary suspension of allocation entitlement for eligible industrial activities
     
@@ -5802,7 +5804,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) This section applies to the allocation entitlement (including the provisional allocation entitlement) of an eligible person in respect of an eligible industrial activity calculated under [sections 81 to 84][139].
     
-    (3) Despite anything in this Act, an eligible person who carries out an eligible industrial activity is entitled to be allocated, in respect of an application made under [section 86][147], only half of the person's allocation entitlement during the period--- 
+    (3) Despite anything in this Act, an eligible person who carries out an eligible industrial activity is entitled to be allocated, in respect of an application made under [section 86][147], only half of the person's allocation entitlement during the period---
         
     *   (a) beginning on the day that this section comes into force; and
     
@@ -5812,7 +5814,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) This section is repealed on the day after the closure date specified in an Order in Council made under subsection (3)(b).
     
-    Section 84A: inserted, on 1 January 2013, by [section 34][637] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 84A: inserted, on 1 January 2013, by [section 34][639] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 85 Allocation of New Zealand units in relation to agriculture
     
@@ -5862,11 +5864,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     (6) An eligible person who has applied in accordance with subsection (3) for an allocation in respect of a closing year, but who then recommences carrying out the activity in the closing year may apply under [section 86][147] for an allocation in respect of the part of the year after the date the person recommenced carrying out the activity (and which was not covered by the application made in accordance with subsection (3)) and, for that purpose, subsection (2) applies as if the year were the part of the year from the date the person recommenced carrying out the activity.
     
-    Section 85: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 85: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 85(2) formula item LA paragraph (a): replaced, on 1 January 2013, by [section 35][638] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 85(2) formula item LA paragraph (a): replaced, on 1 January 2013, by [section 35][640] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 85(2) formula item LA paragraph (b): replaced, on 1 January 2013, by [section 35][638] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 85(2) formula item LA paragraph (b): replaced, on 1 January 2013, by [section 35][640] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 85A Temporary suspension of phase-out rates for assistance under sections 81, 83(2), and 85(2)
     
@@ -5888,7 +5890,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) This section is repealed on the day after the closure date specified in the Order in Council made under subsection (2)(a)(ii) that specifies the end of all suspensions under this section.
     
-    Section 85A: inserted, on 1 January 2013, by [section 36][639] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 85A: inserted, on 1 January 2013, by [section 36][641] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 85B Temporary suspension of allocation entitlement for eligible agricultural activities
     
@@ -5906,7 +5908,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) This section is repealed on the day after the closure date specified in an Order in Council made under subsection (3)(b) that specifies the end of suspensions under this section.
     
-    Section 85B: inserted, on 1 January 2013, by [section 36][639] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 85B: inserted, on 1 January 2013, by [section 36][641] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 86 Applications for allocation of New Zealand units for industry and agriculture
     
@@ -5946,7 +5948,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) be accompanied by---
             
-        *   (i) any other information that the EPA may require; and 
+        *   (i) any other information that the EPA may require; and
         
         *   (ii) the prescribed fee (if any); and
         
@@ -5954,9 +5956,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (d) contain the account number of the eligible person's holding account, required by [section 61][114].
     
-    Section 86: substituted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 86: substituted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 86(1): replaced, on 1 January 2013, by [section 37][640] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 86(1): replaced, on 1 January 2013, by [section 37][642] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 86(2)(c)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -5968,7 +5970,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) ending on the date 3 months after the date in paragraph (a).
     
-    Section 86A: inserted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 86A: inserted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 86B Decisions on applications for allocations of New Zealand units to industry and agriculture
     
@@ -5978,7 +5980,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) if in the EPA's opinion the applicant is eligible for an allocation in respect of the application, the number of units the applicant is entitled to be allocated in respect of the application that, if the application relates to a provisional allocation for an eligible industrial activity, must---
             
-        *   (i) include any units to which the person is entitled in respect of an annual allocation adjustment for the previous year; or 
+        *   (i) include any units to which the person is entitled in respect of an annual allocation adjustment for the previous year; or
         
         *   (ii) be net of any units required to be deducted from the person's provisional allocation entitlement in accordance with [section 83(6)(a)][141].
         
@@ -6014,13 +6016,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) ensure it is accessible via the Internet site of the EPA.
     
-    (6) For the purposes of subsection (5),--- 
+    (6) For the purposes of subsection (5),---
         
     *   (a) the final allocation of a person who received a provisional allocation for an eligible industrial activity is the person's provisional allocation for the activity in respect of the year adjusted by the annual allocation adjustment for the activity for the year (or closing allocation adjustment, as the case may be); and
     
     *   (b) the EPA is not required to publish the final allocation of an eligible person for an eligible activity in respect of a year, or ensure it is accessible via the Internet, if the EPA considers that publishing that information would be likely to prejudice unreasonably the commercial position of the eligible person who received the allocation.
     
-    Section 86B: inserted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 86B: inserted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 86B(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6042,7 +6044,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 86B(6)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
-##### 86C Reconsideration of allocation decisions 
+##### 86C Reconsideration of allocation decisions
     
 *   (1) Without limiting [section 144][221], the EPA may reconsider, vary, or revoke any decision made under [section 86B][149] if in the EPA's opinion the decision has resulted, or would otherwise result, in a person receiving an incorrect allocation because---
         
@@ -6072,7 +6074,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (6) [Section 83(7)][141] applies to repayment of units under subsection (5) as if it were repayment under section 83\.
     
-    Section 86C: inserted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 86C: inserted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 86C(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6082,13 +6084,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 86C(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 86C(5)(a): amended, on 1 January 2013, by [section 38(1)][641] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 86C(5)(a): amended, on 1 January 2013, by [section 38(1)][643] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 86C(5)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 86C(5)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 86C(5A): inserted, on 1 January 2013, by [section 38(2)][641] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 86C(5A): inserted, on 1 January 2013, by [section 38(2)][643] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 86D Retention of records and materials in relation to allocation
     
@@ -6114,7 +6116,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) must be retained for a period of at least 7 years after the end of the year to which the application or notice relates.
     
-    Section 86D: inserted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 86D: inserted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 86D(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6138,7 +6140,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) entitled to the allocation that the person has applied for or received (in relation to an annual allocation adjustment or a closing allocation adjustment).
     
-    (4) The Minister or EPA or chief executive may, as appropriate, for the purpose of verifying whether a determination made under [section 77][134] or [78][135] or a decision made under [section 86B][149] was correct or whether it should be reconsidered, give a notice to a person who has been allocated New Zealand units under one of those sections, requiring the person to supply to the Minister or EPA or chief executive any records, data, or other information that the person is required to keep in relation to the allocation. 
+    (4) The Minister or EPA or chief executive may, as appropriate, for the purpose of verifying whether a determination made under [section 77][134] or [78][135] or a decision made under [section 86B][149] was correct or whether it should be reconsidered, give a notice to a person who has been allocated New Zealand units under one of those sections, requiring the person to supply to the Minister or EPA or chief executive any records, data, or other information that the person is required to keep in relation to the allocation.
     
     (5) A person who has received a notice under this section must supply the information requested within the period specified in the notice.
     
@@ -6148,7 +6150,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) has been allocated but not yet received some or all units allocated to the person under an allocation plan is not entitled to be transferred any units or any further units allocated to the person under the plan.
     
-    Section 86E: inserted, on 8 December 2009, by [section 32][619] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 86E: inserted, on 8 December 2009, by [section 32][621] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 86E heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6162,15 +6164,15 @@ New Zealand greenhouse gas emissions trading scheme
     
 *   \[Repealed\]
     
-    Section 86F: repealed, on 1 January 2013, by [section 39][642] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 86F: repealed, on 1 January 2013, by [section 39][644] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ### Subpart 3---Environmental Protection Authority
     
-*   Subpart 3 heading: substituted, on 5 December 2011, by [section 11][643] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+*   Subpart 3 heading: substituted, on 5 December 2011, by [section 11][645] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 #### General administrative provisions
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 87 Functions of EPA
     
@@ -6196,33 +6198,33 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) For the avoidance of doubt, the EPA undertakes the functions described in subsection (1) on behalf of the Crown.
     
-    Section 87: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 87: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 87 heading: amended, on 5 December 2011, by [section 12(1)][644] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 87 heading: amended, on 5 December 2011, by [section 12(1)][646] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 87(1): amended, on 5 December 2011, by [section 12(1)][644] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 87(1): amended, on 5 December 2011, by [section 12(1)][646] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 87(1)(ba): inserted, on 8 December 2009, by [section 33(1)][645] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 87(1)(ba): inserted, on 8 December 2009, by [section 33(1)][647] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 87(1)(d): substituted, on 8 December 2009, by [section 33(2)][645] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 87(1)(d): substituted, on 8 December 2009, by [section 33(2)][647] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 87(1)(e): amended, on 1 January 2013 (applying on and after 8 December 2009, being the commencement date of section 87(1)(ba)), by [section 40][646] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 87(1)(e): amended, on 1 January 2013 (applying on and after 8 December 2009, being the commencement date of section 87(1)(ba)), by [section 40][648] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 87(2): amended, on 5 December 2011, by [section 12(1)][644] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 87(2): amended, on 5 December 2011, by [section 12(1)][646] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 87(3): added, on 5 December 2011, by [section 12(2)][644] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 87(3): added, on 5 December 2011, by [section 12(2)][646] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 87A Delegation by EPA
     
 *   (1) The EPA must not delegate its power to appoint the Registrar under [section 11][26].
     
-    (2) In all other respects, [section 73][647] of the Crown Entities Act 2004 applies, except that subsection (1) of that section applies as if paragraph (d) were repealed and the following paragraph substituted:
+    (2) In all other respects, [section 73][649] of the Crown Entities Act 2004 applies, except that subsection (1) of that section applies as if paragraph (d) were repealed and the following paragraph substituted:
     
     > *   "(d) a person, or an office holder in a department of the Public Service, approved by the entity's responsible Minister:".
     > 
     > 
     
-    Section 87A: inserted, on 5 December 2011, by [section 13][648] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 87A: inserted, on 5 December 2011, by [section 13][650] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 88 Directions to EPA
     
@@ -6234,23 +6236,23 @@ New Zealand greenhouse gas emissions trading scheme
         
     *   (a) publish a copy of the direction in the _Gazette_; and
     
-    *   (b) make a copy of the direction accessible via the Internet site of the EPA; and 
+    *   (b) make a copy of the direction accessible via the Internet site of the EPA; and
     
     *   (c) present a copy of the direction to the House of Representatives.
     
-    (4) Before giving a direction under subsection (1), the Minister must comply with [section 115(1)][649] of the Crown Entities Act 2004\.
+    (4) Before giving a direction under subsection (1), the Minister must comply with [section 115(1)][651] of the Crown Entities Act 2004\.
     
-    Section 88: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 88: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 88 heading: amended, on 5 December 2011, by [section 14(1)][650] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 88 heading: amended, on 5 December 2011, by [section 14(1)][652] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 88(1): amended, on 5 December 2011, by [section 14(1)][650] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 88(1): amended, on 5 December 2011, by [section 14(1)][652] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 88(1): amended, on 5 December 2011, by [section 14(2)][650] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 88(1): amended, on 5 December 2011, by [section 14(2)][652] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 88(3)(b): amended, on 5 December 2011, by [section 14(3)][650] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 88(3)(b): amended, on 5 December 2011, by [section 14(3)][652] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 88(4): added, on 5 December 2011, by [section 14(4)][650] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 88(4): added, on 5 December 2011, by [section 14(4)][652] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 89 EPA to publish certain information
     
@@ -6312,35 +6314,35 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) The EPA is only required to publish the total quantity of emissions and the total quantity of removals in aggregate for the activities in [Part 1][429] of Schedule 4\.
     
-    Section 89: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 89: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 89 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 89(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 89(1)(e): amended, on 8 December 2009, by [section 34(1)][651] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 89(1)(e): amended, on 8 December 2009, by [section 34(1)][653] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 89(1)(i): substituted, on 8 December 2009, by [section 34(2)][651] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 89(1)(i): substituted, on 8 December 2009, by [section 34(2)][653] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 89(1)(i): amended, on 1 January 2013, by [section 41(1)][652] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 89(1)(i): amended, on 1 January 2013, by [section 41(1)][654] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 89(1)(j): inserted, on 1 January 2013, by [section 41(2)][652] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 89(1)(j): inserted, on 1 January 2013, by [section 41(2)][654] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 89(1)(k): inserted, on 1 January 2013, by [section 41(2)][652] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 89(1)(k): inserted, on 1 January 2013, by [section 41(2)][654] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 89(2): replaced, on 1 January 2013, by [section 41(3)][652] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 89(2): replaced, on 1 January 2013, by [section 41(3)][654] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 89(2A): inserted, on 1 January 2013, by [section 41(3)][652] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 89(2A): inserted, on 1 January 2013, by [section 41(3)][654] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 89(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 89(3): amended, on 8 December 2009, by [section 34(3)][651] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 89(3): amended, on 8 December 2009, by [section 34(3)][653] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 89(3): amended, on 8 December 2009, by [section 34(4)][651] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 89(3): amended, on 8 December 2009, by [section 34(4)][653] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 89(3)(a): amended, on 8 December 2009, by [section 34(5)][651] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 89(3)(a): amended, on 8 December 2009, by [section 34(5)][653] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 89(4): added, on 8 December 2009, by [section 34(6)][651] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 89(4): added, on 8 December 2009, by [section 34(6)][653] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 89(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -6360,7 +6362,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) To avoid doubt, if the EPA prescribes an electronic form or format under subsection (1), the EPA may require any signature on that form or that relates to that format to be an electronic signature.
     
-    Section 90: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 90: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 90 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6408,7 +6410,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 91: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 91: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 91(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6422,7 +6424,7 @@ New Zealand greenhouse gas emissions trading scheme
 
 ##### 92 Recognition of verifiers
     
-*   (1) The EPA may, in accordance with any regulations made under [section 163][252], recognise a person or organisation with the prescribed expertise, technical competence, or qualifications as a person or organisation that may undertake verification functions for the purposes of [section 62(a) and (c)][115] or regulations made under [section 164 ][253] relating to the process for approval of a unique emissions factor.
+*   (1) The EPA may, in accordance with any regulations made under [section 163][252], recognise a person or organisation with the prescribed expertise, technical competence, or qualifications as a person or organisation that may undertake verification functions for the purposes of [section 62(a) and (c)][115] or regulations made under [section 164][253] relating to the process for approval of a unique emissions factor.
     
     (2) A person or organisation may be recognised by the chief executive as able to verify information or unique emissions factors in respect of---
         
@@ -6432,7 +6434,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) The EPA may suspend or revoke any recognition given under this section in accordance with regulations made under [section 163][252].
     
-    Section 92: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 92: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 92(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6440,7 +6442,7 @@ New Zealand greenhouse gas emissions trading scheme
 
 #### Verification and inquiry
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 93 Appointment of enforcement officers
     
@@ -6460,15 +6462,15 @@ New Zealand greenhouse gas emissions trading scheme
     
     (6) \[Repealed\]
     
-    Section 93: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 93: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 93(1): substituted, on 5 December 2011, by [section 15(1)][653] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 93(1): substituted, on 5 December 2011, by [section 15(1)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 93(2): substituted, on 5 December 2011, by [section 15(1)][653] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 93(2): substituted, on 5 December 2011, by [section 15(1)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 93(3): substituted, on 5 December 2011, by [section 15(1)][653] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 93(3): substituted, on 5 December 2011, by [section 15(1)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 93(6): repealed, on 5 December 2011, by [section 15(2)][653] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 93(6): repealed, on 5 December 2011, by [section 15(2)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 94 Power to require information
     
@@ -6492,7 +6494,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 94: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 94: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 94(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6512,7 +6514,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) The EPA, or the chief executive, or enforcement officer may require the evidence to be given on oath and either orally or in writing, and for that purpose the EPA, or the chief executive, or enforcement officer may administer an oath.
     
-    Section 95: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 95: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 95(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6552,7 +6554,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) does not form part of the records of the court.
     
-    Section 96: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 96: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 96(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6566,7 +6568,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) The testimony of a person examined is not admissible as evidence in criminal proceedings against the person, except on a charge of perjury in relation to the testimony.
     
-    Section 97: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 97: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 98 Expenses in relation to inquiries
     
@@ -6594,7 +6596,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         *   (iii) for the purposes of, or in connection with, the exercise of powers conferred by this Part or for the administration of this Act; or
         
-        *   (iiia) for the purposes of, or in connection with, reporting requirements of the [Public Finance Act 1989][654]; or
+        *   (iiia) for the purposes of, or in connection with, reporting requirements of the [Public Finance Act 1989][656]; or
         
         *   (iv) as provided under this Act or any other Act; or
         
@@ -6614,21 +6616,21 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) providing information to any person about whether any forest land is considered by the chief executive or the EPA to be pre-1990 forest land, pre-1990 offsetting forest land, or post-1989 forest land, or has been declared to be exempt land by the chief executive or the EPA.
     
-    Section 99: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 99: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 99(1)(a): substituted, on 5 December 2011, by [section 16(1)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 99(1)(a): substituted, on 5 December 2011, by [section 16(1)][657] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 99(2)(b)(iii): amended, on 5 December 2011, by [section 16(2)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 99(2)(b)(iii): amended, on 5 December 2011, by [section 16(2)][657] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 99(2)(b)(iiia): inserted, on 5 December 2011, by [section 16(3)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 99(2)(b)(iiia): inserted, on 5 December 2011, by [section 16(3)][657] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 99(2)(b)(vi): amended, on 1 January 2013, by [section 42(1)][656] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 99(2)(b)(vi): amended, on 1 January 2013, by [section 42(1)][658] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 99(4): amended, on 5 December 2011, by [section 16(4)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 99(4): amended, on 5 December 2011, by [section 16(4)][657] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 99(4)(c): amended, on 1 January 2013, by [section 42(2)][656] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 99(4)(c): amended, on 1 January 2013, by [section 42(2)][658] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 99(4)(c): amended, on 5 December 2011, by [section 16(4)][655] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 99(4)(c): amended, on 5 December 2011, by [section 16(4)][657] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ##### 100 Power of entry for investigation
     
@@ -6660,9 +6662,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     (7) Nothing in this section limits the privilege against self-incrimination.
     
-    Section 100: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 100: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 100(1): amended, on 8 December 2009, by [section 35][657] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 100(1): amended, on 8 December 2009, by [section 35][659] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 101 Applications for warrants
     
@@ -6692,15 +6694,15 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) A person who provides assistance under subsection (2)(d) may exercise the powers provided to enforcement officers under subsection (2)(a), (b), (c), and (f).
     
-    Section 101: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 101: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 101(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 101(2)(a)(i): amended, on 1 January 2013, by [section 43(1)][658] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 101(2)(a)(i): amended, on 1 January 2013, by [section 43(1)][660] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 101(2)(a)(ii): amended, on 1 January 2013, by [section 43(2)][658] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 101(2)(a)(ii): amended, on 1 January 2013, by [section 43(2)][660] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 101(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][584] of the Policing Act 2008 (2008 No 72).
+    Section 101(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][586] of the Policing Act 2008 (2008 No 72).
 
 ##### 102 Proof of authority must be produced
     
@@ -6710,7 +6712,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) any notice given under [section 100(3)][171] or a search warrant issued under [section 101][172], as the case may be.
     
-    Section 102: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 102: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 103 Notice of entry
     
@@ -6722,7 +6724,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) the name and phone number of the enforcement officer; and
     
-    *   (d) the right, under the [Official Information Act 1982][626], to access documentation relating to the application for a search warrant and the exercise of the search power; and
+    *   (d) the right, under the [Official Information Act 1982][628], to access documentation relating to the application for a search warrant and the exercise of the search power; and
     
     *   (e) an address at which inquiries may be made.
     
@@ -6740,39 +6742,39 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) provides information about---
             
-        *   (i) the procedures to be followed to initiate a claim that privileged or confidential material has been seized; and 
+        *   (i) the procedures to be followed to initiate a claim that privileged or confidential material has been seized; and
         
         *   (ii) access to and the disposition of seized items.
         
         
     
-    Section 103: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 103: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 104 Information obtained under section 100 or 101 only admissible in proceedings for alleged breach of obligations imposed under this Part and Part 5
     
 *   No document or other information obtained from a person under [section 100][171] or [101][172] is admissible against that person in any criminal or civil proceedings, other than proceedings for an alleged breach of an obligation imposed under this Part or [Part 5][271].
     
-    Section 104: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 104: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 105 Return of items seized
     
-*   [Section 199][586] of the Summary Proceedings Act 1957 applies, with the necessary modifications, to any property seized or taken by an enforcement officer as if---
+*   [Section 199][588] of the Summary Proceedings Act 1957 applies, with the necessary modifications, to any property seized or taken by an enforcement officer as if---
         
     *   (a) references in that section to a constable were references to an enforcement officer; and
     
-    *   (b) the reference in that section to [section 198][587] of that Act were a reference to [section 100][171] or [101][172] of this Act.
+    *   (b) the reference in that section to [section 198][589] of that Act were a reference to [section 100][171] or [101][172] of this Act.
     
-    Section 105: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 105: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 106 Protection of persons acting under authority of this Part
     
 *   No enforcement officer or person called upon to assist an enforcement officer who does an act, or omits to do an act, when performing a function or exercising a power conferred on that person by this Part is under any civil or criminal liability in respect of the act or omission, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
     
-    Section 106: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 106: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 #### Emissions rulings
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 107 Applications for emissions rulings
     
@@ -6808,7 +6810,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) The EPA may request any further information from an applicant that the EPA considers necessary to assist in the consideration of the application.
     
-    Section 107: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 107: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 107(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6844,7 +6846,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (e) the matter on which the ruling is sought concerns an obligation to surrender units that are already due and payable, unless the application is received before the obligation arises; or
     
-    *   (f) an assessment or amendment relating to the same person, activity, and period to which the proposed ruling would apply has been made (unless the application is received by the EPA before the date an assessment or amendment is made); or 
+    *   (f) an assessment or amendment relating to the same person, activity, and period to which the proposed ruling would apply has been made (unless the application is received by the EPA before the date an assessment or amendment is made); or
     
     *   (g) in the EPA's opinion---
             
@@ -6854,11 +6856,11 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 108: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 108: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 108 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 108(1): substituted, on 8 December 2009, by [section 36][659] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 108(1): substituted, on 8 December 2009, by [section 36][661] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 108(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6894,13 +6896,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) Subsection (1) is subject to [section 108][180].
     
-    Section 109: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 109: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 109(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 109(1)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 109(3): amended, on 1 January 2013, by [section 44][660] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 109(3): amended, on 1 January 2013, by [section 44][662] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 110 Notice of emissions rulings
     
@@ -6910,7 +6912,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) a decision to decline to make an emissions ruling, together with the reasons for the decision.
     
-    Section 110: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 110: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 110: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -6922,9 +6924,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the conditions (if any) to which the ruling is subject, have been, and continue to be, complied with.
     
-    Section 111: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 111: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 111: amended, on 1 January 2013, by [section 45][661] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 111: amended, on 1 January 2013, by [section 45][663] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 111: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -6944,7 +6946,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) The notification that a person provides under subsection (1) or (2) must state the date on which the person became aware of the material change or the failure to comply.
     
-    Section 112: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 112: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 112 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6968,7 +6970,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) decreasing the number of units that a person is required to surrender, or increasing the number of New Zealand units that a person is entitled to receive, in respect of a year, then the corrected ruling must be applied to that year.
     
-    Section 113: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 113: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 113(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -6988,7 +6990,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) An emissions ruling does not come into effect if any information on which it is based is not accurate in all material respects.
     
-    Section 114: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 114: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 114(1)(d): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -7000,11 +7002,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) An emissions ruling or decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
     
-    Section 115: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 115: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 115 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 115(1): amended, on 1 January 2013, by [section 46][662] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 115(1): amended, on 1 January 2013, by [section 46][664] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 116 Effect of emissions rulings
     
@@ -7018,7 +7020,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) This section is subject to [sections 113][185] and [114][186] and any decision of the District Court under [section 115(2)][187].
     
-    Section 116: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 116: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 116(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7032,7 +7034,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) No person may treat, or rely on, the information published under subsection (1) as an emissions ruling with the effect specified by [section 116][188].
     
-    Section 117: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 117: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 117 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7042,7 +7044,7 @@ New Zealand greenhouse gas emissions trading scheme
 
 #### Emissions returns
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 118 Submission of final emissions returns
     
@@ -7116,23 +7118,23 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) must, if the final emissions return does not cover the full period in which the activity was carried out by the participant in a year, submit an annual emissions return under [section 65][120] in respect of the activity that covers any part of the year in which the activity was carried out by the participant that is not covered by the return submitted under this section.
     
-    Section 118: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 118: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 118(1)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 118(1)(ba): inserted, on 1 January 2013, by [section 47][663] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 118(1)(ba): inserted, on 1 January 2013, by [section 47][665] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 118(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 118(3)(a): substituted, on 8 December 2009, by [section 37(1)][664] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 118(3)(a): substituted, on 8 December 2009, by [section 37(1)][666] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 118(4)(a): substituted, on 8 December 2009, by [section 37(2)][664] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 118(4)(a): substituted, on 8 December 2009, by [section 37(2)][666] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 118(4)(a)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 118(6): added, on 8 December 2009, by [section 37(3)][664] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 118(6): added, on 8 December 2009, by [section 37(3)][666] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 118(7): added, on 8 December 2009, by [section 37(3)][664] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 118(7): added, on 8 December 2009, by [section 37(3)][666] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 119 Power to extend date for emissions returns
     
@@ -7142,11 +7144,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the EPA is satisfied that the participant is unable to submit the required emissions return by the due date.
     
-    Section 119: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 119: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 119: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 119(a): amended, on 8 December 2009, by [section 38][665] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 119(a): amended, on 8 December 2009, by [section 38][667] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 119(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -7154,7 +7156,7 @@ New Zealand greenhouse gas emissions trading scheme
     
 *   Subject to [section 127][200], if the EPA is satisfied that the information contained in an emissions return is incorrect, the EPA may, at any time, amend the emissions return and any assessment of the participant's liability to surrender units or entitlement to receive New Zealand units in the emissions return as the EPA thinks fit.
     
-    Section 120: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 120: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 120 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7170,7 +7172,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) If this section applies, the EPA may make an assessment of the matters that should have been in the person's emissions return.
     
-    Section 121: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 121: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 121(1)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7180,7 +7182,7 @@ New Zealand greenhouse gas emissions trading scheme
     
 *   An amendment made to an emissions return under [section 120][193], or an assessment made under [section 121][194], must be taken to be correct unless, on review or appeal, a different amendment or assessment is made.
     
-    Section 122: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 122: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 123 Effect of amendment or assessment
     
@@ -7206,25 +7208,25 @@ New Zealand greenhouse gas emissions trading scheme
     
     (8) The EPA is not required to meet the time frame in subsection (4) if consultation under [section 124(3)][197] on the units to be reimbursed makes this impracticable.
     
-    Section 123: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 123: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 123(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 123(3): amended, on 1 January 2013, by [section 48(1)][666] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 123(3): amended, on 1 January 2013, by [section 48(1)][668] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 123(4): amended, on 1 January 2013, by [section 48(2)][666] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 123(4): amended, on 1 January 2013, by [section 48(2)][668] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 123(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 123(5): substituted, on 8 December 2009, by [section 39][667] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 123(5): substituted, on 8 December 2009, by [section 39][669] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 123(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 123(6): amended, on 1 January 2013, by [section 48(3)][666] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 123(6): amended, on 1 January 2013, by [section 48(3)][668] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 123(6): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 123(8): amended, on 1 January 2013, by [section 48(4)][666] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 123(8): amended, on 1 January 2013, by [section 48(4)][668] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 123(8): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -7240,11 +7242,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) The EPA must take into account the views of the person to whom units will be reimbursed about the type of units to be reimbursed when determining what units to reimburse.
     
-    Section 124: substituted, on 8 December 2009, by [section 40][668] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 124: substituted, on 8 December 2009, by [section 40][670] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 124 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 124(1): amended, on 1 January 2013, by [section 49][669] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 124(1): amended, on 1 January 2013, by [section 49][671] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 124(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7266,11 +7268,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) Units repaid by any person under subsection (2)(b) must be of a type that may be transferred to a surrender account at the time the unit is repaid.
     
-    Section 125: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 125: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 125(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 125(1): amended, on 8 December 2009, by [section 41][670] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 125(1): amended, on 8 December 2009, by [section 41][672] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 126 Obligation to surrender or repay units not suspended by review or appeal
     
@@ -7280,7 +7282,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) However, any obligation on the EPA under subsection (2) is suspended pending the outcome of any appeal filed by the EPA under [section 146][223].
     
-    Section 126: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 126: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 126(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7312,7 +7314,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) decrease the number of New Zealand units to which the participant is entitled in respect of removal activities.
     
-    Section 127: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 127: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 127(1)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7328,7 +7330,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) is not invalid by virtue of the fact that it is made automatically by such means.
     
-    Section 128: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 128: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 128: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7336,7 +7338,7 @@ New Zealand greenhouse gas emissions trading scheme
 
 ### Subpart 4---Offences and penalties
     
-*   Subpart 4: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 4: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 129 Offences in relation to failure to comply with various provisions
     
@@ -7346,7 +7348,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) without reasonable excuse,---
             
-        *   (i) fails to notify the EPA under [section 56][109] that the person is carrying out an activity listed in [Schedule 3][415]; or 
+        *   (i) fails to notify the EPA under [section 56][109] that the person is carrying out an activity listed in [Schedule 3][415]; or
         
         *   (ii) fails to submit an emissions return when required to do so under [section 65][120], [118][191], [189][301], [191][303], or [193][305]; or
         
@@ -7362,7 +7364,7 @@ New Zealand greenhouse gas emissions trading scheme
             
             
         
-        *   (iv) fails to notify the EPA of a matter that is required to be notified under [section 112][184]; or 
+        *   (iv) fails to notify the EPA of a matter that is required to be notified under [section 112][184]; or
         
         *   (v) fails to notify the EPA, within the time required, of a matter required to be notified under [section 84(2)(b)][142] or [192(3)][304].
         
@@ -7376,21 +7378,21 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) on every subsequent occasion that the person is convicted of that offence, to a fine not exceeding $24,000\.
     
-    Section 129: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 129: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 129 heading: replaced, on 1 January 2013, by [section 50][671] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 129 heading: replaced, on 1 January 2013, by [section 50][673] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 129(1)(b)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 129(1)(b)(iia): inserted, on 8 December 2009, by [section 42(1)][672] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 129(1)(b)(iia): inserted, on 8 December 2009, by [section 42(1)][674] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 129(1)(b)(iia): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 129(1)(b)(iii): substituted, on 8 December 2009, by [section 42(1)][672] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 129(1)(b)(iii): substituted, on 8 December 2009, by [section 42(1)][674] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 129(1)(b)(iv): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 129(1)(b)(v): substituted, on 8 December 2009, by [section 42(2)][672] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 129(1)(b)(v): substituted, on 8 December 2009, by [section 42(2)][674] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 129(1)(b)(v): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -7404,7 +7406,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) both.
     
-    Section 130: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 130: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 131 Offence for failure to provide information or documents
     
@@ -7420,7 +7422,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) in the case of a body corporate, to a fine not exceeding $24,000\.
     
-    Section 131: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 131: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 131(1)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7464,17 +7466,17 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Section 132: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 132: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 132(1)(da): inserted, on 8 December 2009, by [section 43(1)][673] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 132(1)(da): inserted, on 8 December 2009, by [section 43(1)][675] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 132(1)(da): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 132(1)(e): substituted, on 8 December 2009, by [section 43(1)][673] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 132(1)(e): substituted, on 8 December 2009, by [section 43(1)][675] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 132(1)(f): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 132(1)(f): amended, on 8 December 2009, by [section 43(2)][673] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 132(1)(f): amended, on 8 December 2009, by [section 43(2)][675] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 133 Evasion or similar offences
     
@@ -7508,19 +7510,19 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) both imprisonment and a fine.
     
-    Section 133: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 133: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 133(1)(ba): inserted, on 8 December 2009, by [section 44(1)][674] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 133(1)(ba): inserted, on 8 December 2009, by [section 44(1)][676] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 133(1)(ba): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 133(1)(c): substituted, on 8 December 2009, by [section 44(1)][674] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 133(1)(c): substituted, on 8 December 2009, by [section 44(1)][676] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 133(1)(d): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 133(1)(e): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 133(1)(e): amended, on 8 December 2009, by [section 44(2)][674] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 133(1)(e): amended, on 8 December 2009, by [section 44(2)][676] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 134 Penalty for failing to surrender or repay units
     
@@ -7582,7 +7584,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
     
-    Section 134: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 134: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 134(2)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7618,7 +7620,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) The amount of the excess emissions penalty and any interest that accrues on that penalty constitute a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
     
-    Section 134A: inserted, on 1 January 2013, by [section 51][675] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 134A: inserted, on 1 January 2013, by [section 51][677] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 135 Reductions in penalty
     
@@ -7640,13 +7642,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the EPA is satisfied that the person formed a view as to the information on which the return was based or as to whether a return was required, that, while incorrect, was reasonable, having regard to the information available to that person at the time the emissions return was required.
     
-    Section 135: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 135: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 135(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 135(1A): inserted, on 1 January 2013, by [section 52(1)][676] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 135(1A): inserted, on 1 January 2013, by [section 52(1)][678] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 135(2): amended, on 1 January 2013, by [section 52(2)][676] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 135(2): amended, on 1 January 2013, by [section 52(2)][678] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 135(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7710,7 +7712,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) The amount of the excess emissions penalty, together with any interest that accrues on that penalty, constitutes a debt due to the Crown and is recoverable by the EPA in a court of competent jurisdiction.
     
-    Section 136: substituted, on 8 December 2009, by [section 45][677] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 136: substituted, on 8 December 2009, by [section 45][679] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 136(2)(a)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7718,9 +7720,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 136(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 136(3)(b): amended, on 1 January 2013, by [section 53(1)][678] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 136(3)(b): amended, on 1 January 2013, by [section 53(1)][680] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 136(4): amended, on 1 January 2013, by [section 53(2)][678] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 136(4): amended, on 1 January 2013, by [section 53(2)][680] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 136(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7778,21 +7780,21 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) a person's financial position.
     
-    Section 137: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 137: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 137(1): substituted, on 8 December 2009, by [section 46(1)][679] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 137(1): substituted, on 8 December 2009, by [section 46(1)][681] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 137(1)(a)(i): amended, on 1 January 2013, by [section 54(1)][680] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 137(1)(a)(i): amended, on 1 January 2013, by [section 54(1)][682] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 137(1)(a)(ii): amended, on 1 January 2013, by [section 54(2)][680] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 137(1)(a)(ii): amended, on 1 January 2013, by [section 54(2)][682] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 137(2)(b): substituted, on 8 December 2009, by [section 46(2)][679] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 137(2)(b): substituted, on 8 December 2009, by [section 46(2)][681] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 137(3): substituted, on 8 December 2009, by [section 46(3)][679] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 137(3): substituted, on 8 December 2009, by [section 46(3)][681] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 137(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 137(4)(a): substituted, on 8 December 2009, by [section 46(4)][679] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 137(4)(a): substituted, on 8 December 2009, by [section 46(4)][681] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 137(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7832,13 +7834,13 @@ New Zealand greenhouse gas emissions trading scheme
     > 
     > is the rate of interest specified by the Governor-General by Order in Council made under [section 137(2)(a)][212].
     
-    Section 138: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 138: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 138(1): substituted, on 8 December 2009, by [section 47(1)][681] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 138(1): substituted, on 8 December 2009, by [section 47(1)][683] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 138(1): amended, on 1 January 2013, by [section 55][682] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 138(1): amended, on 1 January 2013, by [section 55][684] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 138(2): substituted, on 8 December 2009, by [section 47(2)][681] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 138(2): substituted, on 8 December 2009, by [section 47(2)][683] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 138(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7854,15 +7856,15 @@ New Zealand greenhouse gas emissions trading scheme
     
 *   The EPA must pay the amount of all excess emissions penalties and interest on the penalties received from a person in accordance with [section 134][208], [134A][209], [136][211], or [137][212] into a Crown Bank Account.
     
-    Section 138A: inserted, on 5 December 2011, by [section 17][683] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 138A: inserted, on 5 December 2011, by [section 17][685] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 138A: amended, on 1 January 2013, by [section 56][684] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 138A: amended, on 1 January 2013, by [section 56][686] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 139 Liability of body corporate
     
 *   If, in the course of proceedings against a body corporate for an offence under this Part, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of the person's actual or apparent authority, had that state of mind.
     
-    Section 139: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 139: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 140 Liability of directors and managers of companies
     
@@ -7872,7 +7874,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the director or person knew that the offence was to be, or was being, committed and failed to take all reasonable steps to prevent or stop it.
     
-    Section 140: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 140: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 141 Liability of companies and persons for actions of director, agent, or employee
     
@@ -7880,21 +7882,21 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) Despite subsection (1), if a principal is charged under this Part in relation to the act or omission of an agent for an offence against any of [sections 132(1)(c) to (f)][206] or [133][207], it is a defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
     
-    Section 141: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 141: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 142 Limitation period for commencement of proceedings
     
-*   Despite [section 14][685] of the Summary Proceedings Act 1957, an information for an offence against---
+*   Despite [section 14][687] of the Summary Proceedings Act 1957, an information for an offence against---
         
     *   (a) [section 131][205] or [132(1)(a), (b), (g), (h), or (i)][206] may be laid at any time within 2 years from the time when the matter of the information arose:
     
     *   (b) [section 129][203], [130][204], or [132(1)(c) to (f)][206] may be commenced at any time within 7 years from the time when the matter of the information arose.
     
-    Section 142: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 142: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 142(a): amended, on 1 January 2013, by [section 57(1)][686] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 142(a): amended, on 1 January 2013, by [section 57(1)][688] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 142(b): amended, on 1 January 2013, by [section 57(2)][686] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 142(b): amended, on 1 January 2013, by [section 57(2)][688] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 143 Evidence in proceedings
     
@@ -7922,13 +7924,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the document's nature.
     
-    Section 143: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 143: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 143(1)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 ### Subpart 5---Review and appeal provisions
     
-*   Subpart 5: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 5: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 144 Request for review of decisions
     
@@ -7948,9 +7950,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     (8) This section does not apply to any decision that the EPA makes under [section 90][160] or of the EPA in relation to emissions rulings (including a decision to decline making a ruling) under [sections 107][179] to [117][189].
     
-    Section 144: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 144: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 144(1): amended, on 1 January 2013, by [section 58][687] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 144(1): amended, on 1 January 2013, by [section 58][689] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 144(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -7974,7 +7976,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) Every decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
     
-    Section 145: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 145: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 145(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -7982,11 +7984,11 @@ New Zealand greenhouse gas emissions trading scheme
     
 *   If a party to any proceedings before the District Court under [section 145][222] is dissatisfied with any determination of the court as being erroneous in point of law, the party may appeal to the High Court by way of case stated for the opinion of the court on a question of law only.
     
-    Section 146: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 146: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ### Subpart 6---Miscellaneous provisions
     
-*   Subpart 6: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 6: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 147 Giving of notices by EPA
     
@@ -8008,7 +8010,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         *   (ii) personal delivery to a person that is a body corporate, if the personal delivery is made to the person's office during working hours:
         
-        *   (iii) an electronic means of communication to the person, if the EPA complies with the [Electronic Transactions Act 2002][688]:
+        *   (iii) an electronic means of communication to the person, if the EPA complies with the [Electronic Transactions Act 2002][690]:
         
         *   (iv) post to---
                 
@@ -8024,7 +8026,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) A notice given by post under subsection (2)(b)(iv) is to be treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
     
-    Section 147: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 147: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 147 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8052,7 +8054,7 @@ New Zealand greenhouse gas emissions trading scheme
                 
             *   (A) personal delivery, if the personal delivery is made during working hours:
             
-            *   (B) an electronic means of communication, if the person complies with the [Electronic Transactions Act 2002][688]:
+            *   (B) an electronic means of communication, if the person complies with the [Electronic Transactions Act 2002][690]:
             
             *   (C) post to the post office box number for the office.
             
@@ -8062,7 +8064,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) A notice given by post under subsection (2)(b)(ii)(C) is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
     
-    Section 148: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 148: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 148 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8080,7 +8082,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) is required by person B to assist person B to carry out his or her functions under this Act.
     
-    Section 149: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 149: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 150 Formation of consolidated group
     
@@ -8132,7 +8134,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (7) To avoid doubt, a participant may be a member of more than 1 consolidated group in relation to different activities.
     
-    Section 150: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 150: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 150(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8140,23 +8142,23 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 150(6)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 150(6)(a): amended, on 8 December 2009, by [section 48(1)][689] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 150(6)(a): amended, on 8 December 2009, by [section 48(1)][691] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 150(6)(a): amended, on 8 December 2009, by [section 48(2)][689] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 150(6)(a): amended, on 8 December 2009, by [section 48(2)][691] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 150(6)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 150(6)(b): amended, on 8 December 2009, by [section 48(3)][689] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 150(6)(b): amended, on 8 December 2009, by [section 48(3)][691] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 150(6)(b): amended, on 8 December 2009, by [section 48(4)][689] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 150(6)(b): amended, on 8 December 2009, by [section 48(4)][691] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 150(6A): inserted, on 8 December 2009, by [section 48(5)][689] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 150(6A): inserted, on 8 December 2009, by [section 48(5)][691] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 150(6A): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 150(6A)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 150(6B): inserted, on 8 December 2009, by [section 48(5)][689] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 150(6B): inserted, on 8 December 2009, by [section 48(5)][691] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 150(6B): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8210,7 +8212,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) submitting an application under [section 57][110] in respect of that activity.
     
-    Section 151: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 151: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 151(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8218,19 +8220,19 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 151(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 151(4): substituted, on 8 December 2009, by [section 49(1)][690] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 151(4): substituted, on 8 December 2009, by [section 49(1)][692] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 151(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 151(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 151(6): added, on 8 December 2009, by [section 49(2)][690] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 151(6): added, on 8 December 2009, by [section 49(2)][692] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 151(6): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 151(6)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 151(7): added, on 8 December 2009, by [section 49(2)][690] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 151(7): added, on 8 December 2009, by [section 49(2)][692] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 151(7): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8260,7 +8262,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) if the notice of the election is received by the EPA after 30 September in a year, on and after 1 January of the next year.
     
-    Section 151A: inserted, on 8 December 2009, by [section 50][691] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 151A: inserted, on 8 December 2009, by [section 50][693] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 151A(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8288,7 +8290,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the other entity becomes the agent (nominated entity) for the consolidated group.
     
-    Section 152: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 152: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 152(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8314,7 +8316,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) The liability of every member of the consolidated group to surrender units in respect of any year is met by the transfer of the units assessed in relation to the consolidated group from the consolidated group's holding account to a surrender account designated by the EPA.
     
-    (4) Each member of a consolidated group is jointly entitled to any New Zealand units assessed in relation to the removal activities of the consolidated group in any year, and that joint entitlement is in substitution for any entitlement of those members under this Part or [Part 5][271] individually in respect of units to be transferred for that year (to the extent that the entitlement relates to a period when the entity is a member of the consolidated group). 
+    (4) Each member of a consolidated group is jointly entitled to any New Zealand units assessed in relation to the removal activities of the consolidated group in any year, and that joint entitlement is in substitution for any entitlement of those members under this Part or [Part 5][271] individually in respect of units to be transferred for that year (to the extent that the entitlement relates to a period when the entity is a member of the consolidated group).
     
     (5) The entitlement of every member of the consolidated group to be transferred units for removal activities in respect of any year must be met by the transfer of the number of units assessed in relation to the consolidated group to the consolidated group's holding account.
     
@@ -8332,13 +8334,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (7) To avoid doubt, an emissions return for a consolidated group or any member of a consolidated group may be submitted only by the nominated entity of the consolidated group.
     
-    Section 153: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 153: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 153(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 153(6)(a)(ii): amended, on 8 December 2009, by [section 51(1)][692] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 153(6)(a)(ii): amended, on 8 December 2009, by [section 51(1)][694] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 153(7): added, on 8 December 2009, by [section 51(2)][692] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 153(7): added, on 8 December 2009, by [section 51(2)][694] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 154 Emissions returns by consolidated group in respect of activities in Part 1 of Schedule 4
     
@@ -8358,15 +8360,15 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) To avoid doubt, only the nominated entity may submit an emissions return for a consolidated group that has been formed in respect of 1 or more of the activities listed in [Part 1][429] of Schedule 4\.
     
-    Section 154: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 154: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 154(1)(a): amended, on 8 December 2009, pursuant to [section 52(1)][693] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 154(1)(a): amended, on 8 December 2009, pursuant to [section 52(1)][695] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 154(1)(ab): inserted, on 8 December 2009, by [section 52(2)][693] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 154(1)(ab): inserted, on 8 December 2009, by [section 52(2)][695] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 154(2): amended, on 8 December 2009, by [section 52(3)][693] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 154(2): amended, on 8 December 2009, by [section 52(3)][695] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 154(3): added, on 8 December 2009, by [section 52(4)][693] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 154(3): added, on 8 December 2009, by [section 52(4)][695] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 155 Ceasing to be member of consolidated group
     
@@ -8410,7 +8412,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) The EPA must acknowledge the cessation of membership of a member of a consolidated group by notice to that member and the other members of the consolidated group given within 1 month of---
         
-    *   (a) the EPA receiving a notice under--- 
+    *   (a) the EPA receiving a notice under---
             
         *   (i) subsection (1)(a); or
         
@@ -8434,19 +8436,19 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) supply the account number of the holding account, or ensure the account number of the holding account is supplied, to the EPA within 10 working days of receiving the account number from the Registrar.
     
-    Section 155: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 155: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 155(1)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 155(2)(a): substituted, on 8 December 2009, by [section 53(1)][694] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 155(2)(a): substituted, on 8 December 2009, by [section 53(1)][696] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 155(2)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 155(2)(d): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 155(2)(d): amended, on 8 December 2009, by [section 53(2)][694] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 155(2)(d): amended, on 8 December 2009, by [section 53(2)][696] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 155(3)(b): amended, on 1 January 2013, by [section 59][695] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 155(3)(b): amended, on 1 January 2013, by [section 59][697] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 155(3)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8458,9 +8460,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     Section 155(5)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 155(6): added, on 8 December 2009, by [section 53(3)][694] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 155(6): added, on 8 December 2009, by [section 53(3)][696] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 155(7): added, on 8 December 2009, by [section 53(3)][694] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 155(7): added, on 8 December 2009, by [section 53(3)][696] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 155(7)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -8472,7 +8474,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) is not liable for any obligations under this Part or [Part 5][271] in respect of emissions and removals from the activities of other members of the group, or entitled to the benefit of any units transferred for the removal activities of other members of the group, for any period during which the entity is not a member of the consolidated group.
     
-    Section 156: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 156: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 156A Removal of activities from consolidated groups
     
@@ -8502,7 +8504,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) supply the account number of the holding account, or ensure the account number of the holding account is supplied, to the EPA within 10 working days of receiving the account number from the Registrar.
     
-    Section 156A: inserted, on 8 December 2009, by [section 54][696] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 156A: inserted, on 8 December 2009, by [section 54][698] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 156A(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8592,7 +8594,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) are jointly and severally liable for the obligations, or entitled to the benefits, of an eligible person (or a person to whom units have been allocated) or a participant in respect of the activity.
     
-    Section 157: substituted, on 8 December 2009, by [section 55][697] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 157: substituted, on 8 December 2009, by [section 55][699] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 157(2)(c)(ii)(A): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8660,7 +8662,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) the transfer of a registered lease, registered forestry right, or Crown conservation contract relating to post-1989 forest land from members of an unincorporated body to members of an unincorporated body if at least 60% of the members of an unincorporated body are the same following the transfer.
     
-    Section 157A: inserted, on 8 December 2009, by [section 55][697] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 157A: inserted, on 8 December 2009, by [section 55][699] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 157A(2)(a)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -8682,11 +8684,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) If this section applies, the person who exercised the power must, to the extent that the participant is not compensated under any other Act, compensate the participant for any liability to surrender units that the participant incurs as a result of the exercise of the power.
     
-    (3) All claims for compensation under subsection (2) must, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][698], and the provisions of that Act relating to compensation apply accordingly.
+    (3) All claims for compensation under subsection (2) must, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][700], and the provisions of that Act relating to compensation apply accordingly.
     
-    (4) For the purposes of this section, _public work_ has the same meaning as in [section 2][699] of the Public Works Act 1981\.
+    (4) For the purposes of this section, _public work_ has the same meaning as in [section 2][701] of the Public Works Act 1981\.
     
-    Section 158: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 158: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 159 Recovery of costs
     
@@ -8698,7 +8700,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) If this section applies, the chief executive may seek to recover from the person, in a court of competent jurisdiction,---
         
-    *   (a) the cost of the units owed by the person as a debt; and 
+    *   (a) the cost of the units owed by the person as a debt; and
     
     *   (b) the cost of the units that the insolvent participant would be required to surrender or repay under any other provision of this Act; and
     
@@ -8724,9 +8726,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) Any administrative costs incurred in the recovery of costs under subsection (2) and any penalties incurred under [section 134][208], [134A][209], or [136][211] constitute a debt to the Crown and are recoverable by the chief executive in a court of competent jurisdiction.
     
-    (5) For the purposes of this section, _insolvency process_ means receivership under the [Receiverships Act 1993][700], liquidation under the [Companies Act 1993][701], or bankruptcy under the [Insolvency Act 2006][702].
+    (5) For the purposes of this section, _insolvency process_ means receivership under the [Receiverships Act 1993][702], liquidation under the [Companies Act 1993][703], or bankruptcy under the [Insolvency Act 2006][704].
     
-    Section 159: replaced, on 1 January 2013, by [section 60][703] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 159: replaced, on 1 January 2013, by [section 60][705] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 160 Review of operation of emissions trading scheme
     
@@ -8750,7 +8752,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) If the Minister initiates a review but does not appoint a panel, the Minister must---
         
-    *   (a) consult persons (or their representatives) who appear to the Minister likely to have an interest in the review; and 
+    *   (a) consult persons (or their representatives) who appear to the Minister likely to have an interest in the review; and
     
     *   (b) consult representatives of iwi and Māori who appear to the Minister to be likely to have an interest in the review; and
     
@@ -8758,7 +8760,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (d) establish a procedure that the Minister is satisfied is appropriate, fair in the circumstances, and in accordance with the terms of reference.
     
-    Section 160: replaced, on 1 January 2013, by [section 61][704] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 160: replaced, on 1 January 2013, by [section 61][706] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 161 Appointment and conduct of review panel
     
@@ -8766,7 +8768,7 @@ New Zealand greenhouse gas emissions trading scheme
         
     *   (a) ensure that there are a minimum of 3 and a maximum of 7 members; and
     
-    *   (b) ensure that the majority of the members are not employees under the [State Sector Act 1988][705]; and
+    *   (b) ensure that the majority of the members are not employees under the [State Sector Act 1988][707]; and
     
     *   (c) consider whether the members have, in the Minister's opinion, the appropriate knowledge, skill, and experience to conduct the review, including knowledge, skill, and experience of---
             
@@ -8798,15 +8800,15 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) may call for submissions.
     
-    Section 161: substituted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161: substituted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 161(1): amended, on 1 January 2013, by [section 62(1)][707] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161(1): amended, on 1 January 2013, by [section 62(1)][709] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 161(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 161(3): replaced, on 1 January 2013, by [section 62(2)][707] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161(3): replaced, on 1 January 2013, by [section 62(2)][709] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 161(4)(b): amended, on 1 January 2013, by [section 62(3)][707] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161(4)(b): amended, on 1 January 2013, by [section 62(3)][709] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 161A Regulations in relation to eligible industrial activities
     
@@ -8890,9 +8892,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) a regulation that amends a regulation providing that an eligible industrial activity is highly emissions-intensive to provide that the eligible industrial activity is moderately emissions-intensive.
     
-    Section 161A: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161A: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 161A(3): replaced, on 1 January 2013, by [section 63][708] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161A(3): replaced, on 1 January 2013, by [section 63][710] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 161B Australian eligible industrial activities
     
@@ -8900,7 +8902,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) Any regulations that prescribe an activity as an eligible industrial activity under [section 161A(3)(b)][243] must prescribe---
         
-    *   (a) the same activity description for the activity, including (but not limited to) the matters listed in [section 161A(1)(b)(i)][243], as the activity description for the Australian eligible industrial activity; and 
+    *   (a) the same activity description for the activity, including (but not limited to) the matters listed in [section 161A(1)(b)(i)][243], as the activity description for the Australian eligible industrial activity; and
     
     *   (b) the same products to be used as a basis for an allocation of New Zealand units in respect of the activity as the products that are, or are likely to be, used as a basis for the allocation of emissions units in respect of the Australian eligible industrial activity; and
     
@@ -8910,11 +8912,11 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) Despite subsection (2)(d), if an Australian electricity allocation factor or Australian natural gas feedstock allocation factor was used in the calculation of an allocative baseline (or likely allocative baseline) of a product of the Australian eligible industrial activity, then the allocative baseline or baselines prescribed under [section 161A(1)(c)][243] for the equivalent product must be the allocative baseline or baselines that is or are, or is likely or are likely, to be specified as the allocative baseline or baselines of the product of the Australian eligible industrial activity adjusted by substituting an electricity allocation factor or natural gas feedstock allocation factor (as the case may be) prescribed under section 161A(1)(d).
     
-    Section 161B: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161B: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 161B(1): repealed, on 1 January 2013, by [section 64(1)][709] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161B(1): repealed, on 1 January 2013, by [section 64(1)][711] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 161B(2): amended, on 1 January 2013, by [section 64(2)][709] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161B(2): amended, on 1 January 2013, by [section 64(2)][711] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 161C Other eligible industrial activities
     
@@ -8964,7 +8966,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) If the Minister has adjusted the tonnes of emissions of 1 or more persons under subsection (4), the Minister may use both the information as originally submitted and as adjusted to calculate different allocative baselines for the relevant product.
     
-    Section 161C: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161C: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 161D Power to require information for purposes of allocation to industry
     
@@ -8978,7 +8980,7 @@ New Zealand greenhouse gas emissions trading scheme
             
         *   (i) the emissions that must be included in any information provided under paragraph (e) (the **included emissions**); and
         
-        *   (ii) the emissions that may not be included in any information provided under paragraph (e) (the **excluded emissions**): 
+        *   (ii) the emissions that may not be included in any information provided under paragraph (e) (the **excluded emissions**):
         
         
     
@@ -9036,7 +9038,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (d) whether any matter should be considered by a review under [section 160][241].
     
-    (4) A _Gazette_ notice under subsection (1) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][620], but not for the purposes of the [Acts and Regulations Publication Act 1989][621].
+    (4) A _Gazette_ notice under subsection (1) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][622], but not for the purposes of the [Acts and Regulations Publication Act 1989][623].
     
     (5) Following the provision of information by any person in accordance with subsection (1)(e), the Minister may give notice to the person---
         
@@ -9052,13 +9054,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) any associated person of a person referred to in paragraph (a).
     
-    Section 161D: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161D: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 161E Requirements in respect of notice given under section 161D
     
 *   (1) Before giving notice of an activity under [section 161D(1)][246], the Minister must have regard to the following matters:
         
-    *   (a) the requirement to define each activity by reference to a physical, chemical, or biological transformation of inputs into outputs; and 
+    *   (a) the requirement to define each activity by reference to a physical, chemical, or biological transformation of inputs into outputs; and
     
     *   (b) the undesirability of activities being defined by reference to the technology employed, the fuel used, the age of the plant, or the quality of the types of feedstock used when the activity is carried out; and
     
@@ -9088,7 +9090,7 @@ New Zealand greenhouse gas emissions trading scheme
             
             *   (B) the direct use of any coal, natural gas, geothermal fluid, used oil, or waste oil to generate steam that is used as part of the activity; and
             
-            *   (C) any of the activities listed in [Part 4][710] of Schedule 3 carried out as part of the activity; and
+            *   (C) any of the activities listed in [Part 4][712] of Schedule 3 carried out as part of the activity; and
             
             *   (D) the direct use of any liquid fossil fuel in stationary equipment; and
             
@@ -9146,13 +9148,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) If an activity specified in a notice under [section 161D][246] was carried out by any person in each of the financial years 2006/07, 2007/08, and 2008/09, then the notice must specify those financial years as the financial years for which information must be provided in accordance with the notice.
     
-    Section 161E: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161E: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 161E(2)(a): amended, on 1 January 2013, by [section 65(1)][711] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161E(2)(a): amended, on 1 January 2013, by [section 65(1)][713] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 161E(2)(a)(i)(D): inserted, on 1 January 2013, by [section 65(2)][711] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161E(2)(a)(i)(D): inserted, on 1 January 2013, by [section 65(2)][713] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 161E(2)(a)(i)(E): inserted, on 1 January 2013, by [section 65(2)][711] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 161E(2)(a)(i)(E): inserted, on 1 January 2013, by [section 65(2)][713] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 161F Consultation on activities that may be prescribed as eligible industrial activities
     
@@ -9162,7 +9164,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) The processes for consultation under subsections (1) and (2) must include---
         
-    *   (a) giving adequate and appropriate notice of the proposed terms and conditions of the recommendation or the notice and the reasons for them; and 
+    *   (a) giving adequate and appropriate notice of the proposed terms and conditions of the recommendation or the notice and the reasons for them; and
     
     *   (b) the provision of a reasonable opportunity for interested persons to consider the proposed terms and conditions of the recommendation or the notice and make submissions; and
     
@@ -9176,7 +9178,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) The Minister is not required to consult under subsection (2) if the Minister issues a notice under [section 161D][246] for the sole purpose of requiring persons to provide electricity-related contracts or any information related to those contracts.
     
-    Section 161F: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161F: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 161G Regulations in relation to eligible agricultural activities
     
@@ -9234,13 +9236,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) The process for consultation under subsection (3) must include---
         
-    *   (a) giving adequate and appropriate notice of the proposed allocative baseline or baselines and the reasons for them; and 
+    *   (a) giving adequate and appropriate notice of the proposed allocative baseline or baselines and the reasons for them; and
     
     *   (b) the provision of a reasonable opportunity for interested persons to consider the proposed allocative baseline or baselines and make submissions; and
     
     *   (c) adequate and appropriate consideration of submissions.
     
-    (5) A failure to comply with subsections (3) and (4) does not affect the validity of any regulations made under subsection (1). 
+    (5) A failure to comply with subsections (3) and (4) does not affect the validity of any regulations made under subsection (1).
     
     (6) Despite [section 4][9], in this section and [section 161H][250], _eligible agricultural activity_---
         
@@ -9248,7 +9250,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) excludes any activity or subclass of any activity listed in [subpart 2][426] or [4][427] of Part 5 of Schedule 3, unless an Order in Council has been made under [section 2A(8) or (9)][4] in respect of any such activity or subclass of activity.
     
-    Section 161G: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161G: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 161H Power to request information showing output from eligible agricultural activities
     
@@ -9278,15 +9280,15 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) any associated person of a person referred to in paragraph (a).
     
-    (4) A _Gazette_ notice under subsection (1) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][620], but not for the purposes of the [Acts and Regulations Publication Act 1989][621].
+    (4) A _Gazette_ notice under subsection (1) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][622], but not for the purposes of the [Acts and Regulations Publication Act 1989][623].
     
-    Section 161H: inserted, on 8 December 2009, by [section 56][706] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 161H: inserted, on 8 December 2009, by [section 56][708] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 162 Regulations adding further activity to Part 2 of Schedule 4
     
 *   (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, amend [Part 2][456] of Schedule 4 by adding a further activity to that Part.
     
-    (2) Before making a recommendation under subsection (1), the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any Order in Council made in accordance with the recommendation. 
+    (2) Before making a recommendation under subsection (1), the Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the Minister or the chief executive likely to be substantially affected by any Order in Council made in accordance with the recommendation.
     
     (3) The process for consultation should, to the extent practicable in the circumstances, include---
         
@@ -9320,7 +9322,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 162: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 162: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 163 Regulations relating to methodologies and verifiers
     
@@ -9388,35 +9390,35 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) may require the use of a computer programme available via the Internet site of the EPA; and
     
-    *   (c) must not cover any emissions in respect of which another person is required to surrender units or any removals of greenhouse gases in respect of which another person is entitled to a transfer of New Zealand units under this Act. 
+    *   (c) must not cover any emissions in respect of which another person is required to surrender units or any removals of greenhouse gases in respect of which another person is entitled to a transfer of New Zealand units under this Act.
     
     (5) In making a recommendation in relation to a regulation under subsection (1)(a) or (b), the Minister must have regard to New Zealand's international obligations (if any) in respect of the collection of data and information relating to, and the measurement of, emissions and removals from the activity.
     
-    (6) Any guidelines or standards issued by the EPA under regulations made under subsection (1)(d) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][620], but not for the purposes of the [Acts and Regulations Publication Act 1989][621].
+    (6) Any guidelines or standards issued by the EPA under regulations made under subsection (1)(d) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][622], but not for the purposes of the [Acts and Regulations Publication Act 1989][623].
     
     (7) A person who has complied with guidelines or standards issued by the EPA in regulations made under subsection (1)(d) is, in the absence of proof to the contrary, presumed to have complied with the relevant requirements specified in regulations corresponding to those guidelines or standards.
     
-    Section 163: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 163: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 163(1)(ab): inserted, on 8 December 2009, by [section 57][712] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 163(1)(ab): inserted, on 8 December 2009, by [section 57][714] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 163(1)(ab): amended, on 1 January 2013, by [section 66(1)][713] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 163(1)(ab): amended, on 1 January 2013, by [section 66(1)][715] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 163(1)(ab): amended, on 5 December 2011, by [section 18(1)][714] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 163(1)(ab): amended, on 5 December 2011, by [section 18(1)][716] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 163(1)(c): amended, on 5 December 2011, by [section 18(1)][714] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 163(1)(c): amended, on 5 December 2011, by [section 18(1)][716] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 163(1)(d): replaced, on 1 January 2013, by [section 66(2)][713] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 163(1)(d): replaced, on 1 January 2013, by [section 66(2)][715] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 163(1)(e)(v): amended, on 5 December 2011, by [section 18(1)][714] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 163(1)(e)(v): amended, on 5 December 2011, by [section 18(1)][716] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 163(1)(e)(vii): amended, on 5 December 2011, by [section 18(2)][714] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 163(1)(e)(vii): amended, on 5 December 2011, by [section 18(2)][716] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 163(4)(b): amended, on 5 December 2011, by [section 18(3)][714] of the Climate Change Response Amendment Act 2011 (2011 No 15).
+    Section 163(4)(b): amended, on 5 December 2011, by [section 18(3)][716] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 163(6): amended, on 1 January 2013, by [section 66(3)][713] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 163(6): amended, on 1 January 2013, by [section 66(3)][715] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 163(7): inserted, on 1 January 2013, by [section 66(4)][713] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 163(7): inserted, on 1 January 2013, by [section 66(4)][715] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 164 Regulations relating to unique emissions factors
     
@@ -9440,7 +9442,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    Section 164: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 164: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 164(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -9448,7 +9450,7 @@ New Zealand greenhouse gas emissions trading scheme
     
 *   \[Repealed\]
     
-    Section 165: repealed (without coming into force), on 1 January 2013, by [section 67][715] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 165: repealed (without coming into force), on 1 January 2013, by [section 67][717] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 166 Procedure for regulations relating to methodologies, verification, unique emissions factors, and offsetting
     
@@ -9468,13 +9470,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) Subsection (3) does not apply to any regulations made under [sections 163][252] (in relation to the forestry sector) and [186F][291] on or before 1 January 2013\.
     
-    Section 166: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 166: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 166(1): amended, on 1 January 2013, by [section 68(1)][716] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 166(1): amended, on 1 January 2013, by [section 68(1)][718] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 166(4): amended, on 1 January 2013, by [section 68(2)][716] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 166(4): amended, on 1 January 2013, by [section 68(2)][718] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 166(5): inserted, on 1 January 2013, by [section 68(3)][716] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 166(5): inserted, on 1 January 2013, by [section 68(3)][718] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 167 Regulations relating to fees and charges
     
@@ -9540,23 +9542,23 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) Subsection (2) is subject to [sections 173(2)][262] and [174(1)][263] (which relate to material incorporated by reference).
     
-    Section 167: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 167: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 167(2): substituted, on 8 December 2009, by [section 58(1)][717] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 167(2): substituted, on 8 December 2009, by [section 58(1)][719] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 167(2)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 167(2)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 167(3)(b): substituted, on 8 December 2009, by [section 58(2)][717] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 167(3)(b): substituted, on 8 December 2009, by [section 58(2)][719] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 167(4)(h): amended, on 8 December 2009, by [section 58(3)][717] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 167(4)(h): amended, on 8 December 2009, by [section 58(3)][719] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 167(4)(i): added, on 8 December 2009, by [section 58(3)][717] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 167(4)(i): added, on 8 December 2009, by [section 58(3)][719] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 167(4)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 167(4)(j): added, on 8 December 2009, by [section 58(3)][717] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 167(4)(j): added, on 8 December 2009, by [section 58(3)][719] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 167(4)(j): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -9606,25 +9608,25 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) The power to prescribe the form of any application, return, information, or other document under subsection (1) includes the power to prescribe an electronic format to be used for the electronic transmission of data to or between computers.
     
-    Section 168: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 168: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 168(1)(c): repealed, on 8 December 2009, by [section 59(1)][718] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 168(1)(c): repealed, on 8 December 2009, by [section 59(1)][720] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 168(1)(ca): inserted, on 1 July 2009, by [section 4][719] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 168(1)(ca): inserted, on 1 July 2009, by [section 4][721] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
     Section 168(1)(ca): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 168(1)(ca): amended, on 8 December 2009, by [section 59(2)][718] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 168(1)(ca): amended, on 8 December 2009, by [section 59(2)][720] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 168(1)(d): amended, on 1 January 2013, by [section 69(1)][720] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 168(1)(d): amended, on 1 January 2013, by [section 69(1)][722] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 168(1)(f): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 168(1)(h): repealed, on 8 December 2009, by [section 59(3)][718] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 168(1)(h): repealed, on 8 December 2009, by [section 59(3)][720] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 168(1)(i): repealed, on 8 December 2009, by [section 59(3)][718] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 168(1)(i): repealed, on 8 December 2009, by [section 59(3)][720] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 168(1)(n): replaced, on 1 January 2013, by [section 69(2)][720] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 168(1)(n): replaced, on 1 January 2013, by [section 69(2)][722] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 169 Incorporation by reference in regulations made under section 163, 164, 167, or 168
     
@@ -9642,19 +9644,19 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) Material incorporated by reference in regulations has legal effect as part of the regulations.
     
-    Section 169: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 169: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 169 heading: amended, on 1 January 2013, by [section 70(1)][721] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 169 heading: amended, on 1 January 2013, by [section 70(1)][723] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 169 heading: amended, on 1 July 2009, by [section 10][722] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 169 heading: amended, on 1 July 2009, by [section 10][724] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
-    Section 169(1): amended, on 1 January 2013, by [section 70(2)][721] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 169(1): amended, on 1 January 2013, by [section 70(2)][723] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 170 Effect of amendments to, or replacement of, material incorporated by reference in regulations
     
 *   An amendment to, or replacement of, material incorporated by reference in regulations (_regulations A_) has legal effect as part of regulations A only if regulations made under [section 163][252], [164][253], [165][254], [167][256], or [168][257], as may be applicable, after the making of regulations A, state that the particular amendment or replacement has that effect.
     
-    Section 170: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 170: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 171 Proof of material incorporated by reference
     
@@ -9666,13 +9668,13 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) The production in proceedings of a certified copy of the material incorporated by reference is, in the absence of evidence to the contrary, sufficient evidence that the material produced is the material incorporated by reference in regulations.
     
-    Section 171: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 171: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 172 Effect of expiry of material incorporated by reference
     
 *   Material incorporated by reference in regulations that expires, or that is revoked or that ceases to have effect, ceases to have legal effect as part of the regulations only if regulations made under [section 163][252], [164][253], [165][254], [167][256], or [168][257] as may be applicable state that the material ceases to have legal effect.
     
-    Section 172: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 172: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 173 Requirement to consult
     
@@ -9714,7 +9716,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (5) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
     
-    Section 173: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 173: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 174 Public access to material incorporated by reference
     
@@ -9752,25 +9754,25 @@ New Zealand greenhouse gas emissions trading scheme
     
     (3) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
     
-    Section 174: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 174: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 175 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][621] does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+*   The [Acts and Regulations Publication Act 1989][623] does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
     
-    Section 175: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 175: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 176 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
-*   Nothing in [section 4][723] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
+*   Nothing in [section 4][725] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
     
-    Section 176: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 176: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 177 Application of Standards Act 1988 not affected
     
-*   [Sections 169 to 176][258] do not affect the application of [sections 22 to 25][724] of the Standards Act 1988\.
+*   [Sections 169 to 176][258] do not affect the application of [sections 22 to 25][726] of the Standards Act 1988\.
     
-    Section 177: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 177: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 178 Recovery of fees or charges
     
@@ -9778,7 +9780,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (2) The EPA may enter into any agreement or arrangement, on any terms that the EPA thinks fit, with any person to collect, or assist in the collection of, any fees or charges that are payable.
     
-    Section 178: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 178: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 178(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -9804,7 +9806,7 @@ New Zealand greenhouse gas emissions trading scheme
         
         
     
-    (2) Despite anything in this Act, if this section applies, a person may satisfy the person's obligation to surrender, repay, or reimburse units,--- 
+    (2) Despite anything in this Act, if this section applies, a person may satisfy the person's obligation to surrender, repay, or reimburse units,---
         
     *   (a) in the case of a person other than the EPA, by---
             
@@ -9830,7 +9832,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (4) For the purposes of subsection (3) and [section 178B(1)][269], funds paid into a Crown Bank Account are to be treated as cleared when it is no longer possible to reverse the payment and the funds are available for use by the Crown.
     
-    Section 178A: inserted, on 1 January 2013, by [section 71][725] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 178A: inserted, on 1 January 2013, by [section 71][727] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 178B Issuing New Zealand units to meet surrender obligations
     
@@ -9842,9 +9844,9 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (c) immediately following the transfer under paragraph (b), transfer the New Zealand units to a surrender account designated by the EPA.
     
-    (2) The Registrar may, for the purposes of subsection (1)(a), issue a number of New Zealand units equal to the number of units in respect of which 1 or more persons have paid a sum of $25 for each unit under [section 178A(2)(a)(ii) or (iii)][726].
+    (2) The Registrar may, for the purposes of subsection (1)(a), issue a number of New Zealand units equal to the number of units in respect of which 1 or more persons have paid a sum of $25 for each unit under [section 178A(2)(a)(ii) or (iii)][728].
     
-    (3) If the EPA is required to reimburse a person units under [section 123(4)][727], [186H][728], or [189(7)(d)][729] and has satisfied its obligation to do so by paying to the person a sum of $25 for each unit in accordance with [section 178A(2)(b)(ii) or (iii)][726], then the Registrar must---
+    (3) If the EPA is required to reimburse a person units under [section 123(4)][729], [186H][730], or [189(7)(d)][731] and has satisfied its obligation to do so by paying to the person a sum of $25 for each unit in accordance with [section 178A(2)(b)(ii) or (iii)][728], then the Registrar must---
         
     *   (a) transfer from the appropriate surrender account to the person's holding account held for the purpose of [section 61(1)][114] a number of New Zealand units equal to the number of units for which the EPA paid the person a sum of $25 for each unit; and
     
@@ -9856,7 +9858,7 @@ New Zealand greenhouse gas emissions trading scheme
     
     (6) Despite anything in [section 18CA(4)][39], a New Zealand unit that is transferred to a surrender account under subsection (1)(c) may be further transferred in accordance with subsection (3)(a).
     
-    Section 178B: inserted, on 1 January 2013, by [section 71][725] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 178B: inserted, on 1 January 2013, by [section 71][727] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 178C Prohibition on ability to export New Zealand units
     
@@ -9878,22 +9880,22 @@ New Zealand greenhouse gas emissions trading scheme
     
     *   (b) transferred in accordance with a determination of the Minister under [section 77][134] or [78][135] that relates to an allocation under the pre-1990 forest land allocation plan; or
     
-    *   (c) received under the [Forests (Permanent Forest Sink) Regulations 2007][730].
+    *   (c) received under the [Forests (Permanent Forest Sink) Regulations 2007][732].
     
-    Section 178C: inserted, on 1 January 2013, by [section 71][725] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 178C: inserted, on 1 January 2013, by [section 71][727] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ## Part 5  
 Sector specific provisions
     
-*   Part 5: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Part 5: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ### Subpart 1---Forestry sector
     
-*   Subpart 1: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 1: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 #### General
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 179 Forest land to be treated as deforested in certain cases
     
@@ -9935,11 +9937,11 @@ Sector specific provisions
     
     *   (b) any obligations imposed under this Act in respect of the deforestation have not been complied with.
     
-    Section 179: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 179: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 179(1): replaced, on 1 January 2013, by [section 72][731] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 179(1): replaced, on 1 January 2013, by [section 72][733] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 179(1A): inserted, on 1 January 2013, by [section 72][731] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 179(1A): inserted, on 1 January 2013, by [section 72][733] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 179(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -9995,11 +9997,11 @@ Sector specific provisions
     
     (3) This section applies to land that was cleared before, on, or after the commencement of this section.
     
-    Section 179A: inserted, on 1 January 2013, by [section 73][732] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 179A: inserted, on 1 January 2013, by [section 73][734] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Pre-1990 forest land
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 180 Participant in respect of pre-1990 forest land
     
@@ -10013,11 +10015,11 @@ Sector specific provisions
     
     (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances in subsection (2), a third party, is to be treated as carrying out an activity listed in [Part 1][428] of Schedule 3\.
     
-    Section 180: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 180: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 180(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 180(1)(a): amended, on 1 January 2013, by [section 74][733] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 180(1)(a): amended, on 1 January 2013, by [section 74][735] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 180(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -10041,17 +10043,17 @@ Sector specific provisions
     
     (5) This section does not apply to pre-1990 forest land that is the subject of an offsetting forest land application that the EPA has approved under [section 186B][287].
     
-    Section 181: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 181: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 181(4): added, on 8 December 2009, by [section 60][734] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 181(4): added, on 8 December 2009, by [section 60][736] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 181(5): inserted, on 1 January 2013, by [section 75][735] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 181(5): inserted, on 1 January 2013, by [section 75][737] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 182 Offsetting in relation to pre-1990 forest land
     
 *   \[Repealed\]
     
-    Section 182: repealed (without coming into force), on 1 January 2013, by [section 76][736] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 182: repealed (without coming into force), on 1 January 2013, by [section 76][738] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 183 Applications for exemption for land holdings of less than 50 hectares of pre-1990 forest land
     
@@ -10083,7 +10085,7 @@ Sector specific provisions
     
     *   (c) contain details of the area of pre-1990 forest land to which the application relates; and
     
-    *   (d) be accompanied by evidence showing that the land is pre-1990 forest land; and 
+    *   (d) be accompanied by evidence showing that the land is pre-1990 forest land; and
     
     *   (e) be accompanied by a statutory declaration,---
             
@@ -10099,13 +10101,13 @@ Sector specific provisions
         
         
     
-    *   (f) be signed by the applicant; and 
+    *   (f) be signed by the applicant; and
     
     *   (g) be accompanied by any other prescribed information.
     
     (4) If the EPA is satisfied that the applicant is a person to whom this section applies, the land is pre-1990 forest land, and each of the criteria specified in subsection 2(a) to (c) is met, the EPA must---
         
-    *   (a) declare the land to be exempt land; and 
+    *   (a) declare the land to be exempt land; and
     
     *   (b) notify the applicant that the land has been declared exempt land.
     
@@ -10135,45 +10137,45 @@ Sector specific provisions
         
     *   (a) means a trustee whose profession, employment, or business is or includes acting as a trustee or investing money on behalf of others; and
     
-    *   (b) includes a trustee in whom property is vested under [Te Ture Whenua Maori Act 1993][476].
+    *   (b) includes a trustee in whom property is vested under [Te Ture Whenua Maori Act 1993][477].
     
-    Section 183: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 183: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 183(1)(a): amended, on 8 December 2009, by [section 61(1)][737] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 183(1)(a): amended, on 8 December 2009, by [section 61(1)][739] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 183(1)(b): amended, on 8 December 2009, by [section 61(1)][737] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 183(1)(b): amended, on 8 December 2009, by [section 61(1)][739] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 183(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 183(2)(c): amended, on 8 December 2009, by [section 61(1)][737] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 183(2)(c): amended, on 8 December 2009, by [section 61(1)][739] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 183(3): amended, on 1 July 2009, by [section 5(1)][738] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 183(3): amended, on 1 July 2009, by [section 5(1)][740] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
-    Section 183(3)(a): substituted, on 1 July 2009, by [section 5(2)][738] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 183(3)(a): substituted, on 1 July 2009, by [section 5(2)][740] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
     Section 183(3)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 183(3)(a)(ii): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 183(3)(a)(ii): amended, on 8 December 2009, by [section 61(2)][737] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 183(3)(a)(ii): amended, on 8 December 2009, by [section 61(2)][739] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 183(3)(e): replaced, on 1 January 2013, by [section 77(1)][739] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 183(3)(e): replaced, on 1 January 2013, by [section 77(1)][741] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 183(4): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 183(5): amended, on 1 January 2013, by [section 77(2)][739] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 183(5): amended, on 1 January 2013, by [section 77(2)][741] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 183(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 183(5): amended, on 1 July 2009, by [section 5(3)][738] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 183(5): amended, on 1 July 2009, by [section 5(3)][740] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
     Section 183(6)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 183(6)(c): amended, on 1 January 2013, by [section 77(3)][739] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 183(6)(c): amended, on 1 January 2013, by [section 77(3)][741] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 183(6)(d): inserted, on 1 January 2013, by [section 77(4)][739] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 183(6)(d): inserted, on 1 January 2013, by [section 77(4)][741] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 183(7) **professional trustee**: replaced, on 1 January 2013, by [section 77(5)][739] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 183(7) **professional trustee**: replaced, on 1 January 2013, by [section 77(5)][741] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 183A Certain applications not otherwise permitted by section 183
     
@@ -10181,7 +10183,7 @@ Sector specific provisions
         
     *   (a) the area concerned was owned, as at 1 September 2007, by a sole professional trustee or by professional trustees only; and
     
-    *   (b) an allocation of units has been made before the commencement of the [Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012][740] in respect of the area under an allocation plan under [section 72][129].
+    *   (b) an allocation of units has been made before the commencement of the [Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012][742] in respect of the area under an allocation plan under [section 72][129].
     
     (2) If the EPA proposes to accept the application, the EPA must notify the applicant that---
         
@@ -10201,11 +10203,11 @@ Sector specific provisions
     
     (5) To avoid doubt,---
         
-    *   (a) [section 183][280] (as amended by the [Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012][741]) otherwise applies to an application permitted by this section, but subject to the modifications made by this section; and
+    *   (a) [section 183][280] (as amended by the [Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012][743]) otherwise applies to an application permitted by this section, but subject to the modifications made by this section; and
     
     *   (b) if an application is granted and an area is declared to be exempt land, the entitlement to units under the allocation plan in respect of the land is cancelled.
     
-    Section 183A: inserted, on 1 January 2013, by [section 78][742] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 183A: inserted, on 1 January 2013, by [section 78][744] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 184 Exemptions for deforestation of land with tree weeds
     
@@ -10295,49 +10297,49 @@ Sector specific provisions
     
     (9) \[Repealed\]
     
-    Section 184: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 184: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 184(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 184(1)(a): substituted, on 8 December 2009, by [section 62(1)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(1)(a): substituted, on 8 December 2009, by [section 62(1)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 184(1)(b): substituted, on 8 December 2009, by [section 62(2)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(1)(b): substituted, on 8 December 2009, by [section 62(2)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 184(2)(b): amended, on 8 December 2009, by [section 62(3)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(2)(b): amended, on 8 December 2009, by [section 62(3)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 184(2)(c): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 184(2)(c): amended, on 8 December 2009, by [section 62(4)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(2)(c): amended, on 8 December 2009, by [section 62(4)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 184(2)(d): added, on 8 December 2009, by [section 62(4)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(2)(d): added, on 8 December 2009, by [section 62(4)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 184(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 184(3): amended, on 8 December 2009, by [section 62(5)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(3): amended, on 8 December 2009, by [section 62(5)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 184(4)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 184(4)(d)(ii): substituted, on 8 December 2009, by [section 62(6)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(4)(d)(ii): substituted, on 8 December 2009, by [section 62(6)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 184(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 184(5): amended, on 8 December 2009, by [section 62(7)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(5): amended, on 8 December 2009, by [section 62(7)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 184(5)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 184(5)(b): amended, on 8 December 2009, by [section 62(8)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(5)(b): amended, on 8 December 2009, by [section 62(8)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 184(6): substituted, on 8 December 2009, by [section 62(9)][743] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 184(6): substituted, on 8 December 2009, by [section 62(9)][745] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 184(8)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 184(9): repealed, on 1 January 2013, by [section 79][744] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 184(9): repealed, on 1 January 2013, by [section 79][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 185 Effect of exemption
     
 *   The status of pre-1990 forest land as exempt land runs with the land and is not affected by any change in the ownership of the land.
     
-    Section 185: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 185: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 186 Methodology for pre-1990 forest land cleared in 8 years or less
     
@@ -10351,15 +10353,15 @@ Sector specific provisions
     
     (3) A methodology for calculating emissions from the activity in [Part 1][428] of Schedule 3 prescribed in regulations under [section 163][252] must relate to the trees that are cleared from the pre-1990 forest land as part of the deforestation activity.
     
-    Section 186: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 186: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 186 heading: amended, on 1 January 2013, by [section 80(1)][745] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186 heading: amended, on 1 January 2013, by [section 80(1)][747] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 186(2)(a): amended, on 1 January 2013, by [section 80(2)][745] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186(2)(a): amended, on 1 January 2013, by [section 80(2)][747] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Pre-1990 offsetting forest land
     
-*   Heading: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186A Persons who own pre-1990 forest land may submit offsetting forest land applications to EPA
     
@@ -10375,7 +10377,7 @@ Sector specific provisions
     
     (4) To avoid doubt, any pre-1990 forest land cleared, but not deforested, before the commencement of this section is eligible to be offset if that land meets the requirements specified in subsection (1).
     
-    Section 186A: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186A: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186B Criteria for approving offsetting forest land applications
     
@@ -10429,7 +10431,7 @@ Sector specific provisions
     
     (2) The EPA may decline any application that does not meet all or any of the requirements specified in subsection (1).
     
-    Section 186B: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186B: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186C Conditions applicable to offsetting forest land
     
@@ -10453,7 +10455,7 @@ Sector specific provisions
     
     (2) Subsection (1)(a)(i) is subject to [section 179A(1)(b)][275].
     
-    Section 186C: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186C: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186D Requirements relating to offsetting forest land
     
@@ -10467,7 +10469,7 @@ Sector specific provisions
     
     (3) If the EPA is satisfied that the offsetting forest land has become forest land by the time that the pre-1990 forest land is deforested, the EPA must, on a register kept for the purposes of this section, note---
         
-    *   (a) that the offsetting forest land is pre-1990 offsetting forest land; and 
+    *   (a) that the offsetting forest land is pre-1990 offsetting forest land; and
     
     *   (b) any conditions placed on that forest land under [section 186C][288] or [186F][291]; and
     
@@ -10475,7 +10477,7 @@ Sector specific provisions
     
     (4) The EPA must, upon written request by the person who owns or owned (or who is a prospective transferee of) the relevant pre-1990 offsetting forest land or the relevant pre-1990 forest land, provide a statement containing the information specified in subsection (3) to the person or prospective transferee (as the case may be).
     
-    Section 186D: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186D: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186E Deforesting pre-1990 offsetting forest land before usual rotation period of forest species on pre-1990 forest land
     
@@ -10483,7 +10485,7 @@ Sector specific provisions
     
     (2) If subsection (1) applies, the EPA must remove the pre-1990 offsetting forest land from the register specified in [section 186D(3)][289].
     
-    Section 186E: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186E: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186F Regulations relating to offsetting
     
@@ -10503,7 +10505,7 @@ Sector specific provisions
     
     *   (d) providing for any other matters contemplated by [sections 186B][287] and [186C][288], necessary for their administration, or necessary for giving them full effect.
     
-    Section 186F: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186F: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186G EPA may revoke approval in certain circumstances
     
@@ -10515,13 +10517,13 @@ Sector specific provisions
     
     (2) If the EPA revokes an approval, the provisions of this Act, other than [section 179A(1)(b)][275], apply to the relevant pre-1990 forest land as if the relevant offsetting forest application had not been made.
     
-    Section 186G: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186G: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186H Treatment of allocations in respect of pre-1990 forest land that is offset
     
 *   (1) This section applies to any owner of pre-1990 forest land---
         
-    *   (a) that was the subject of an offsetting forest land application approved under [section 186B][287]; and 
+    *   (a) that was the subject of an offsetting forest land application approved under [section 186B][287]; and
     
     *   (b) to which an allocation was made under an allocation plan (before or after the commencement of this section).
     
@@ -10531,7 +10533,7 @@ Sector specific provisions
     
     *   (b) surrender or repay New Zealand units equivalent to the portion of New Zealand units that are allocated, as part of the second tranche, to the pre-1990 forest land that is offset by transferring them to a Crown holding account (whether or not the allocation was actually transferred when allocated).
     
-    (3) The notice referred to in subsection (2) must specify--- 
+    (3) The notice referred to in subsection (2) must specify---
         
     *   (a) the number of New Zealand units that must be repaid; and
     
@@ -10543,13 +10545,13 @@ Sector specific provisions
     
     (6) For the purposes of subsection (2), _second tranche_, in relation to an allocation, means the New Zealand units that are allocated under [section 72(3)(a)(ii), (b)(ii), or (c)(ii)][129] to a person under an allocation plan in respect of the pre-1990 forest land on or after 1 January 2013\.
     
-    Section 186H: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186H: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186I Participant in respect of pre-1990 offsetting forest land
     
 *   If an activity listed in [Part 1A][440] of Schedule 3 is carried out, the landowner of the pre-1990 offsetting forest land is to be treated as the person carrying out the activity.
     
-    Section 186I: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186I: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 186J Methodology for pre-1990 offsetting forest land cleared after usual rotation period is completed
     
@@ -10563,11 +10565,11 @@ Sector specific provisions
     
     (3) A methodology for calculating emissions from the activity in [Part 1A][440] of Schedule 3 prescribed in regulations under [section 163][252] or [186F][291] must relate to the trees that are cleared from the pre-1990 offsetting forest land as part of the deforestation activity.
     
-    Section 186J: inserted, on 1 January 2013, by [section 81][746] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 186J: inserted, on 1 January 2013, by [section 81][748] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Post-1989 forest land
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 187 Conditions on registration as participant in respect of certain activities relating to post-1989 forest land
     
@@ -10605,7 +10607,7 @@ Sector specific provisions
         
         *   (iii) is accompanied by the prescribed fee (if any) and any other prescribed information; and
         
-        *   (iv) is signed by the person submitting the application; and 
+        *   (iv) is signed by the person submitting the application; and
         
         
     
@@ -10617,9 +10619,9 @@ Sector specific provisions
     
     (4) A person may not be registered as a participant under [section 57][110] in respect of carrying out an activity listed in [Part 1][429] of Schedule 4 in respect of post-1989 forest land unless---
         
-    *   (a) any action taken by the person in respect of the post-1989 forest land since 1 January 2008 (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the [Resource Management Act 1991][747], including any plan under that Act, or the [Forests Act 1949][748] that was in force at the time the action was taken; and
+    *   (a) any action taken by the person in respect of the post-1989 forest land since 1 January 2008 (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the [Resource Management Act 1991][749], including any plan under that Act, or the [Forests Act 1949][750] that was in force at the time the action was taken; and
     
-    *   (b) if the post-1989 forest land is subject to a pest management plan under the [Biosecurity Act 1993][484] that imposes requirements in respect of any forest species on the land, the person---
+    *   (b) if the post-1989 forest land is subject to a pest management plan under the [Biosecurity Act 1993][485] that imposes requirements in respect of any forest species on the land, the person---
             
         *   (i) has complied with the requirements; or
         
@@ -10631,25 +10633,25 @@ Sector specific provisions
     
     (6) Subsection (5) does not apply to any person who has registered as a participant before the commencement of this section.
     
-    Section 187: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 187: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 187(2)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 187(3): amended, on 8 December 2009, by [section 63(1)][749] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 187(3): amended, on 8 December 2009, by [section 63(1)][751] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 187(4): added, on 8 December 2009, by [section 63(2)][749] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 187(4): added, on 8 December 2009, by [section 63(2)][751] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 187(4)(b): amended, on 18 September 2012, by [section 93][750] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 187(4)(b): amended, on 18 September 2012, by [section 93][752] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 187(5): inserted, on 1 January 2013, by [section 82][751] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 187(5): inserted, on 1 January 2013, by [section 82][753] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 187(6): inserted, on 1 January 2013, by [section 82][751] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 187(6): inserted, on 1 January 2013, by [section 82][753] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 187A EPA to give public notice of criteria for assessing risk of tree weed spread
     
 *   The EPA must give public notice of the criteria for assessing the risk of tree weed spread from land that is the subject of an application for registration under [section 57][110].
     
-    Section 187A: inserted, on 1 January 2013, by [section 83][752] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 187A: inserted, on 1 January 2013, by [section 83][754] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 188 Registration as participant in respect of post-1989 forest land
     
@@ -10661,9 +10663,9 @@ Sector specific provisions
     
     *   (c) must be accompanied by a declaration, in the prescribed form, that---
             
-        *   (i) any action taken by the applicant since 1 January 2008 in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the [Resource Management Act 1991][747], including any plan under that Act, or the [Forests Act 1949][748], that was in force at the time the action was taken; and
+        *   (i) any action taken by the applicant since 1 January 2008 in relation to the post-1989 forest land in respect of which the application is submitted (including, but not limited to, removal of any existing vegetation before planting of a forest species on the land) complied with the [Resource Management Act 1991][749], including any plan under that Act, or the [Forests Act 1949][750], that was in force at the time the action was taken; and
         
-        *   (ii) if the post-1989 forest land is subject to a pest management plan under the [Biosecurity Act 1993][484] that imposes requirements in respect of any forest species on the land, the applicant has---
+        *   (ii) if the post-1989 forest land is subject to a pest management plan under the [Biosecurity Act 1993][485] that imposes requirements in respect of any forest species on the land, the applicant has---
                 
             *   (A) complied with the requirements; or
             
@@ -10739,7 +10741,7 @@ Sector specific provisions
             
         *   (i) notify under [section 58(3)(c)][111] or [59(2)(b)][112],---
                 
-            *   (A) if the landowner is the participant, the holder of any registered forestry right or registered lease in respect of the post-1989 forest land; or 
+            *   (A) if the landowner is the participant, the holder of any registered forestry right or registered lease in respect of the post-1989 forest land; or
             
             *   (B) if a holder of a registered forestry right or registered lease, or a party to a Crown conservation contract is the participant, the landowner of the post-1989 forest land; and
             
@@ -10781,33 +10783,33 @@ Sector specific provisions
     
     (8) A change made to the participant's record under subsection (6)(b)(ii) or (7)(b)(ii) has effect on and after the date of the relevant notice given under subsection (6)(b)(iii) or (7)(b)(iii), as the case may be.
     
-    (9) Subsection (10) applies if a person terminates a forest sink covenant registered under [section 67ZD][753] of the Forests Act 1949 and then registers as a participant in respect of the post-1989 forest land that was covered by the covenant.
+    (9) Subsection (10) applies if a person terminates a forest sink covenant registered under [section 67ZD][755] of the Forests Act 1949 and then registers as a participant in respect of the post-1989 forest land that was covered by the covenant.
     
     (10) If this subsection applies,---
         
-    *   (a) despite [section 57(8)][110], the person registering as a participant is to be treated as being a participant in respect of the land formerly the subject of the covenant on and after the date the covenant was registered on the land under [section 67ZD][753] of the Forests Act 1949; and
+    *   (a) despite [section 57(8)][110], the person registering as a participant is to be treated as being a participant in respect of the land formerly the subject of the covenant on and after the date the covenant was registered on the land under [section 67ZD][755] of the Forests Act 1949; and
     
     *   (b) for the purposes of [sections 189 to 194][301], any units transferred by or to the Crown in respect of the post-1989 forest land while it was the subject of the forest sink covenant must be treated as New Zealand units transferred for removals or surrendered for emissions from the land under this Act; and
     
     *   (c) the post-1989 forest land formerly the subject of the covenant constitutes a single carbon accounting area in respect of which the person is registered as a participant for the purposes of subsection (2).
     
-    Section 188: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 188: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 188(1)(c): substituted, on 8 December 2009, by [section 64(1)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(1)(c): substituted, on 8 December 2009, by [section 64(1)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(1)(c)(ii): amended, on 18 September 2012, by [section 93][750] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 188(1)(c)(ii): amended, on 18 September 2012, by [section 93][752] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 188(2): substituted, on 8 December 2009, by [section 64(2)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(2): substituted, on 8 December 2009, by [section 64(2)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 188(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 188(3)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 188(3)(a)(i): amended, on 8 December 2009, by [section 64(3)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(3)(a)(i): amended, on 8 December 2009, by [section 64(3)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(3)(a)(ii): amended, on 8 December 2009, by [section 64(4)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(3)(a)(ii): amended, on 8 December 2009, by [section 64(4)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(3)(b): replaced, on 1 January 2013, by [section 84(1)][755] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 188(3)(b): replaced, on 1 January 2013, by [section 84(1)][757] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 188(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -10817,9 +10819,9 @@ Sector specific provisions
     
     Section 188(6)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 188(6)(b)(ii): substituted, on 8 December 2009, by [section 64(6)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(6)(b)(ii): substituted, on 8 December 2009, by [section 64(6)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(6)(b)(iii): added, on 8 December 2009, by [section 64(6)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(6)(b)(iii): added, on 8 December 2009, by [section 64(6)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 188(7): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -10827,17 +10829,17 @@ Sector specific provisions
     
     Section 188(7)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 188(7)(b)(ii): substituted, on 8 December 2009, by [section 64(7)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(7)(b)(ii): substituted, on 8 December 2009, by [section 64(7)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(7)(b)(iii): added, on 8 December 2009, by [section 64(7)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(7)(b)(iii): added, on 8 December 2009, by [section 64(7)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(7A): inserted, on 1 January 2013, by [section 84(2)][755] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 188(7A): inserted, on 1 January 2013, by [section 84(2)][757] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 188(8): substituted, on 8 December 2009, by [section 64(8)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(8): substituted, on 8 December 2009, by [section 64(8)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(9): substituted, on 8 December 2009, by [section 64(9)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(9): substituted, on 8 December 2009, by [section 64(9)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 188(10): added, on 8 December 2009, by [section 64(9)][754] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 188(10): added, on 8 December 2009, by [section 64(9)][756] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 188A Person ceases to be participant in respect of post-1989 forest land if natural event permanently prevents re-establishing forest on that land
     
@@ -10847,7 +10849,7 @@ Sector specific provisions
     
     *   (b) the person is to be treated as having ceased to carry out the activity listed in [Part 1][429] of Schedule 4 when given notice by the EPA under [section 188(7)(b)(iii)][299].
     
-    Section 188A: inserted, on 1 January 2013, by [section 85][756] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 188A: inserted, on 1 January 2013, by [section 85][758] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 189 Emissions returns for post-1989 forest land activities
     
@@ -10947,7 +10949,7 @@ Sector specific provisions
         
         *   (ii) record the emissions and removals from the carbon accounting area during the emissions return period as calculated under [section 62(b)][115] and, if required, as verified under section 62(c); and
         
-        *   (iii) contain an assessment of the participant's gross liability to surrender units for emissions or entitlement to receive New Zealand units for removals from the carbon accounting area that takes into account [sections 188(10)][299] and [190(1)][302], but does not take into account any returns under subsection (3) that cover part of the same period as the emissions return; and 
+        *   (iii) contain an assessment of the participant's gross liability to surrender units for emissions or entitlement to receive New Zealand units for removals from the carbon accounting area that takes into account [sections 188(10)][299] and [190(1)][302], but does not take into account any returns under subsection (3) that cover part of the same period as the emissions return; and
         
         *   (iv) contain the information required by subsection (6), if relevant; and
         
@@ -11043,45 +11045,45 @@ Sector specific provisions
     
     _units transferred for removals_, in relation to an emissions return under subsection (3), include units that a person would have been entitled to receive for removals in respect of the return, but which were not actually transferred because of an election under subsection (8).
     
-    Section 189: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 189: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 189(2)(c): amended, on 8 December 2009, by [section 65(1)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(2)(c): amended, on 8 December 2009, by [section 65(1)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(2)(d): added, on 8 December 2009, by [section 65(1)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(2)(d): added, on 8 December 2009, by [section 65(1)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(2)(d)(iii): amended, on 1 January 2013, by [section 86(1)][758] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 189(2)(d)(iii): amended, on 1 January 2013, by [section 86(1)][760] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 189(3): amended, on 1 January 2013, by [section 86(2)][758] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 189(3): amended, on 1 January 2013, by [section 86(2)][760] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 189(3): amended, on 8 December 2009, by [section 65(2)(a)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(3): amended, on 8 December 2009, by [section 65(2)(a)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(3): amended, on 8 December 2009, by [section 65(2)(b)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(3): amended, on 8 December 2009, by [section 65(2)(b)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(3)(c)(i)(BA): inserted, on 8 December 2009, by [section 65(3)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(3)(c)(i)(BA): inserted, on 8 December 2009, by [section 65(3)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(4): amended, on 1 January 2013, by [section 86(3)][758] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 189(4): amended, on 1 January 2013, by [section 86(3)][760] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 189(4)(b)(i)(B): amended, on 8 December 2009, by [section 65(4)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(4)(b)(i)(B): amended, on 8 December 2009, by [section 65(4)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(4)(b)(i)(C): added, on 8 December 2009, by [section 65(4)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(4)(b)(i)(C): added, on 8 December 2009, by [section 65(4)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(4)(b)(i)(D): added, on 8 December 2009, by [section 65(4)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(4)(b)(i)(D): added, on 8 December 2009, by [section 65(4)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(4A): inserted, on 8 December 2009, by [section 65(5)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(4A): inserted, on 8 December 2009, by [section 65(5)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(5): substituted, on 8 December 2009, by [section 65(6)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(5): substituted, on 8 December 2009, by [section 65(6)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(6)(b)(ii): amended, on 8 December 2009, by [section 65(7)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(6)(b)(ii): amended, on 8 December 2009, by [section 65(7)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 189(6)(b)(ii): amended, on 8 December 2009, by [section 65(8)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(6)(b)(ii): amended, on 8 December 2009, by [section 65(8)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 189(7)(d): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 189(7A): inserted, on 8 December 2009, by [section 65(9)][757] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 189(7A): inserted, on 8 December 2009, by [section 65(9)][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 189(8)(d)(ii): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 189(8A): amended, on 1 January 2013, by [section 86(4)][758] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 189(8A): amended, on 1 January 2013, by [section 86(4)][760] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 190 Special rules regarding surrender of units in relation to post-1989 forest land
     
@@ -11111,7 +11113,7 @@ Sector specific provisions
     >     
     > *   (a) if the carbon accounting area is constituted from land from another carbon accounting area (following the removal of land from a carbon accounting area, or transmission of an interest as defined in [section 192][304]), the opening unit balance of the carbon accounting area, as determined in accordance with subsection (3); or
     > 
-    > *   (b) if the carbon accounting area is not constituted as described in paragraph (a), but is constituted from land that was subject to a forest sink covenant under [section 67ZD][753] of the Forests Act 1949, the net number of units transferred in respect of the land in the carbon accounting area while it was the subject of the forest sink covenant; or
+    > *   (b) if the carbon accounting area is not constituted as described in paragraph (a), but is constituted from land that was subject to a forest sink covenant under [section 67ZD][755] of the Forests Act 1949, the net number of units transferred in respect of the land in the carbon accounting area while it was the subject of the forest sink covenant; or
     > 
     > *   (c) if the carbon accounting area is not constituted from land from another carbon accounting area or land that was subject to a forest sink covenant, zero.
     > 
@@ -11189,7 +11191,7 @@ Sector specific provisions
     
     *   (c) _hectare_ includes any fraction of a hectare.
     
-    Section 190: substituted, on 8 December 2009, by [section 66][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 190: substituted, on 8 December 2009, by [section 66][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 191 Ceasing to be registered as participant in respect of post-1989 forest land
     
@@ -11207,7 +11209,7 @@ Sector specific provisions
     
     *   (b) is, in respect of any carbon accounting area,---
             
-        *   (i) required to be covered by the return under subsection (2), liable to surrender the unit balance of the carbon accounting area; and 
+        *   (i) required to be covered by the return under subsection (2), liable to surrender the unit balance of the carbon accounting area; and
         
         *   (ii) required to be covered by the return under subsection (3),---
                 
@@ -11293,7 +11295,7 @@ Sector specific provisions
     > 
     > is the unit balance of the land remaining in the carbon accounting area calculated as follows:
     > 
-    > UBr = (NUBCAA/HCAA) × Hr 
+    > UBr = (NUBCAA/HCAA) × Hr
     > 
     > where---
     > 
@@ -11325,11 +11327,11 @@ Sector specific provisions
     
     *   (b) accompanied by any prescribed fee and any other prescribed information.
     
-    Section 191: substituted, on 8 December 2009, by [section 66][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 191: substituted, on 8 December 2009, by [section 66][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 191(1)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 191(6): replaced, on 1 January 2013, by [section 87][760] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 191(6): replaced, on 1 January 2013, by [section 87][762] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 192 Effect of transmission of interest in post-1989 forest land
     
@@ -11343,7 +11345,7 @@ Sector specific provisions
     
     **Part A**
     
-    **Existing participant** **Interest transferred** **New participant ** **New activity in Part 1 of Schedule 4**
+    **Existing participant** **Interest transferred** **New participant** **New activity in Part 1 of Schedule 4**
     
     Landowner of post-1989 forest land Post-1989 forest land in respect of which the person is recorded as a participant New land owner Owning post-1989 forest land
     
@@ -11355,7 +11357,7 @@ Sector specific provisions
     
     **Part B**
     
-    **Existing participant** **Interest entered into** **New participant ** **New activity in Part 1 of Schedule 4**
+    **Existing participant** **Interest entered into** **New participant** **New activity in Part 1 of Schedule 4**
     
     Landowner of post-1989 forest land Registered forestry right over post-1989 forest land in respect of which the person is recorded as a participant Holder of a registered forestry right over post-1989 forest land Being the holder of a registered forestry right over post-1989 forest land
     
@@ -11365,7 +11367,7 @@ Sector specific provisions
     
     **Part C**
     
-    **Existing participant** **Interest expired or terminated** **New participant ** **New activity in Part 1 of Schedule 4**
+    **Existing participant** **Interest expired or terminated** **New participant** **New activity in Part 1 of Schedule 4**
     
     Holder of a registered forestry right over post-1989 forest land Registered forestry right over post-1989 forest land in respect of which the person is recorded as a participant Landowner of the post-1989 forest land Owning post-1989 forest land
     
@@ -11479,7 +11481,7 @@ Sector specific provisions
     
     *   (c) the EPA is not required to notify any person under [section 188(6)(a)][299] of the registration of the transferee under [section 57][110] if that registration is in accordance with this section.
     
-    Section 192: substituted, on 8 December 2009, by [section 66][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 192: substituted, on 8 December 2009, by [section 66][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 192(3)(a)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -11495,7 +11497,7 @@ Sector specific provisions
 
 ##### 193 Emissions returns in relation to transmitted interests
     
-*   (1) If [section 192][304] applies, the transferor is not required to submit an emissions return under [section 191][303] in respect of any post-1989 forest land to which the transmitted interest relates, but must submit an emissions return under this section by the date specified in section 192(3)(a) or 192(4)(b), as applicable. 
+*   (1) If [section 192][304] applies, the transferor is not required to submit an emissions return under [section 191][303] in respect of any post-1989 forest land to which the transmitted interest relates, but must submit an emissions return under this section by the date specified in section 192(3)(a) or 192(4)(b), as applicable.
     
     (2) An emissions return under this section must---
         
@@ -11527,7 +11529,7 @@ Sector specific provisions
     
     *   (b) [section 189(8)][301] applies to the person as if the reference in that provision to ""this section"" was a reference to section 193\.
     
-    Section 193: substituted, on 8 December 2009, by [section 66][759] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 193: substituted, on 8 December 2009, by [section 66][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 194 Information about status of forest land
     
@@ -11547,21 +11549,21 @@ Sector specific provisions
     
     (3) \[Repealed\]
     
-    Section 194: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 194: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 194(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 194(2)(a): amended, on 8 December 2009, by [section 67(1)][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 194(2)(a): amended, on 8 December 2009, by [section 67(1)][763] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 194(2)(b): substituted, on 8 December 2009, by [section 67(2)][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 194(2)(b): substituted, on 8 December 2009, by [section 67(2)][763] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 194(2)(c): repealed, on 8 December 2009, by [section 67(3)][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 194(2)(c): repealed, on 8 December 2009, by [section 67(3)][763] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 194(3): repealed, on 8 December 2009, by [section 67(3)][761] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 194(3): repealed, on 8 December 2009, by [section 67(3)][763] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 #### Post-1989 forest land and pre-1990 forest land
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 195 Notification of status of forest land
     
@@ -11569,23 +11571,23 @@ Sector specific provisions
         
     *   (a) the Registrar of the Maori Land Court in whose jurisdiction the land is situated in relation to Maori land; and
     
-    *   (b) the Registrar-General of Land in relation to land registered or provisionally registered under the [Land Transfer Act 1952][480]; and
+    *   (b) the Registrar-General of Land in relation to land registered or provisionally registered under the [Land Transfer Act 1952][481]; and
     
-    *   (c) the Registrar of Deeds in relation to land that is registered under the [Deeds Registration Act 1908][482].
+    *   (c) the Registrar of Deeds in relation to land that is registered under the [Deeds Registration Act 1908][483].
     
-    (2) On receipt of a notice under subsection (1), the Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must record the notice on the appropriate register under the [Land Transfer Act 1952][480], record of the Maori Land Court, or deeds index under the [Deeds Registration Act 1908][482].
+    (2) On receipt of a notice under subsection (1), the Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must record the notice on the appropriate register under the [Land Transfer Act 1952][481], record of the Maori Land Court, or deeds index under the [Deeds Registration Act 1908][483].
     
     (3) The Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must cancel any notices recorded under subsection (2) if required under regulations made under [section 168][257].
     
-    Section 195: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 195: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 195(1): amended, on 1 January 2013, by [section 88][762] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 195(1): amended, on 1 January 2013, by [section 88][764] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 195(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
 #### Transitional provisions
     
-*   Heading: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Heading: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 196 First emissions return for pre-1990 forest land activities
     
@@ -11609,23 +11611,23 @@ Sector specific provisions
     
     (7) Despite [section 129(1)(b)(i)][203], a person who carried out, before the commencement of this subsection, an activity listed in [Part 1][428] of Schedule 3 for the period commencing with 1 January 2008 and ending with the close of 31 December 2009 is not liable under section 129(1)(b)(i) if the person notifies the EPA of that activity on or before 31 January 2010\.
     
-    Section 196: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 196: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 196(1): amended, on 1 July 2009, by [section 6(1)][763] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 196(1): amended, on 1 July 2009, by [section 6(1)][765] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
-    Section 196(2): amended, on 1 July 2009, by [section 6(2)][763] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 196(2): amended, on 1 July 2009, by [section 6(2)][765] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
-    Section 196(2A): inserted, on 1 July 2009, by [section 6(3)][763] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 196(2A): inserted, on 1 July 2009, by [section 6(3)][765] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
-    Section 196(2A): amended, on 8 December 2009, by [section 68][764] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 196(2A): amended, on 8 December 2009, by [section 68][766] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 196(3): amended, on 1 July 2009, by [section 6(4)][763] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 196(3): amended, on 1 July 2009, by [section 6(4)][765] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
     Section 196(5): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 196(5): amended, on 1 July 2009, by [section 6(5)][763] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 196(5): amended, on 1 July 2009, by [section 6(5)][765] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
-    Section 196(7): added, on 1 July 2009, by [section 6(6)][763] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
+    Section 196(7): added, on 1 July 2009, by [section 6(6)][765] of the Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19).
     
     Section 196(7): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -11633,17 +11635,17 @@ Sector specific provisions
     
 *   \[Repealed\]
     
-    Section 196A: repealed, on 8 December 2009, by [section 69][765] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 196A: repealed, on 8 December 2009, by [section 69][767] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 197 First emissions return for post-1989 forest land activities
     
 *   Despite anything in this Act, the first emissions return submitted by a person to whom [section 189][301] applies in respect of an activity listed in [Part 1][429] of Schedule 4 may not be submitted before 1 January 2009\.
     
-    Section 197: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 197: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ### Subpart 2---Liquid fossil fuels sector
     
-*   Subpart 2: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 2: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 198 Registration as participant by purchasers of jet fuel
     
@@ -11651,17 +11653,17 @@ Sector specific provisions
     
     (2) If the EPA registers a person as a participant under [section 57][110] in respect of an activity listed in [Part 3][430] of Schedule 4,---
         
-    *   (a) the EPA must notify, under [section 57(6)(b)][110], every person who is registered under [section 56][109] in respect of an activity in [Part 2][612] of Schedule 3; and
+    *   (a) the EPA must notify, under [section 57(6)(b)][110], every person who is registered under [section 56][109] in respect of an activity in [Part 2][614] of Schedule 3; and
     
     *   (b) the registration takes effect 12 months from the date of the notice issued under [section 57(6)][110].
     
     (3) If the EPA has received an application under [section 58][111] for removal of a person's name from the register as a participant in respect of an activity listed in [Part 3][430] of Schedule 4, the EPA must---
         
-    *   (a) notify, under [section 58(3)(c)][111], every person who is registered under [section 56][109] in respect of an activity listed in [Part 2][612] of Schedule 3; and
+    *   (a) notify, under [section 58(3)(c)][111], every person who is registered under [section 56][109] in respect of an activity listed in [Part 2][614] of Schedule 3; and
     
     *   (b) remove, under [section 58(4)][111], the applicant's name from the register on the date that is 48 months after the notice issued under section 58(3)(b) and (c).
     
-    Section 198: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 198: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 198(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -11677,9 +11679,9 @@ Sector specific provisions
     
     (2) If the EPA receives an application under [section 57][110] that includes the information specified in subsection (1), the EPA may, for the purposes of section 57(4), satisfy him or herself that the person is, or will be when the person's registration takes effect, carrying out the activity listed in [Part 3][430] of Schedule 4 on the basis of that information.
     
-    (3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy him or herself that the person is, (or will, when the person's registration takes effect, be) carrying out the activity listed in [Part 3][430] of Schedule 4\. 
+    (3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy him or herself that the person is, (or will, when the person's registration takes effect, be) carrying out the activity listed in [Part 3][430] of Schedule 4\.
     
-    Section 199: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 199: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 199 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -11697,7 +11699,7 @@ Sector specific provisions
     
     *   (c) the person remains a participant in respect of the activity until the person's name is removed, in accordance with this Act, from the register that is kept for the purposes of [section 57][110].
     
-    Section 200: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 200: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 200(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -11705,13 +11707,13 @@ Sector specific provisions
 
 ##### 201 Effect of registration by purchasers of jet fuel
     
-*   A participant in respect of an activity listed in [Part 2][612] of Schedule 3 is not required to surrender units in respect of obligation jet fuel that is purchased by a person who is a participant in respect of an activity listed in [Part 3][430] of Schedule 4\.
+*   A participant in respect of an activity listed in [Part 2][614] of Schedule 3 is not required to surrender units in respect of obligation jet fuel that is purchased by a person who is a participant in respect of an activity listed in [Part 3][430] of Schedule 4\.
     
-    Section 201: substituted, on 8 December 2009, by [section 70][766] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 201: substituted, on 8 December 2009, by [section 70][768] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 202 Activities added to Part 2 of Schedule 3
     
-*   (1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, amend [Part 2][612] of Schedule 3 by adding activities relating to the following matters:
+*   (1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, amend [Part 2][614] of Schedule 3 by adding activities relating to the following matters:
         
     *   (a) owning or operating a ship onto which goods are loaded at any port in New Zealand for carriage to and unloading at any other port in New Zealand, if the ship consumes fuel that is purchased---
             
@@ -11733,7 +11735,7 @@ Sector specific provisions
                 
             *   (A) A is the cost increases that a person carrying out the activity will face, if the activity is added, due to the obligation imposed by this Act on the person to surrender units in respect of the emissions from the fuel consumed while carrying out the activity; and
             
-            *   (B) B is the cost increases that a person carrying out a comparable activity faces due to any obligations imposed by this Act on persons carrying out an activity listed in [Part 2][612] of Schedule 3 to surrender units in respect of the emissions from the fuel consumed while the comparable activity is carried out; and
+            *   (B) B is the cost increases that a person carrying out a comparable activity faces due to any obligations imposed by this Act on persons carrying out an activity listed in [Part 2][614] of Schedule 3 to surrender units in respect of the emissions from the fuel consumed while the comparable activity is carried out; and
             
             
         
@@ -11761,19 +11763,19 @@ Sector specific provisions
         
         
     
-    Section 202: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 202: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 203 Treatment of obligation fuels
     
-*   (1) This section applies if, in breach of the [Customs and Excise Act 1996][767], a participant fails to remove obligation fuel for home consumption.
+*   (1) This section applies if, in breach of the [Customs and Excise Act 1996][769], a participant fails to remove obligation fuel for home consumption.
     
-    (2) If this section applies, the obligation fuel that was not removed for home consumption must, for the purposes of this Act, be treated as obligation fuel removed for home consumption under the [Customs and Excise Act 1996][767].
+    (2) If this section applies, the obligation fuel that was not removed for home consumption must, for the purposes of this Act, be treated as obligation fuel removed for home consumption under the [Customs and Excise Act 1996][769].
     
-    Section 203: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 203: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ### Subpart 3---Stationary energy sector
     
-*   Subpart 3: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 3: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 204 Participant with respect to mining coal or natural gas
     
@@ -11785,7 +11787,7 @@ Sector specific provisions
     
     (2) If this section applies and---
         
-    *   (a) a permit is required under the [Crown Minerals Act 1991][768] to carry out the mining, then the person who holds the permit is to be treated as the person carrying out the activity; or
+    *   (a) a permit is required under the [Crown Minerals Act 1991][770] to carry out the mining, then the person who holds the permit is to be treated as the person carrying out the activity; or
     
     *   (b) no permit is required to carry out the mining, then the owner of the mine is to be treated as the person carrying out the activity.
     
@@ -11795,7 +11797,7 @@ Sector specific provisions
     
     *   (b) a permit relating to mining natural gas is held by 2 or more persons jointly under terms that entitle the individual holders to a proportion of the gas mined under the permit.
     
-    (4) If this subsection applies,--- 
+    (4) If this subsection applies,---
         
     *   (a) [section 157][237] does not apply; and
     
@@ -11807,13 +11809,13 @@ Sector specific provisions
         
         
     
-    Section 204: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 204: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 204(2)(a): amended, on 1 January 2013, by [section 93][769] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 204(2)(a): amended, on 1 January 2013, by [section 93][771] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 204(3): added, on 8 December 2009, by [section 71][770] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 204(3): added, on 8 December 2009, by [section 71][772] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 204(4): added, on 8 December 2009, by [section 71][770] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 204(4): added, on 8 December 2009, by [section 71][772] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 205 Mining natural gas in exclusive economic zone and continental shelf
     
@@ -11823,13 +11825,13 @@ Sector specific provisions
     
     (2) For the purposes of this section,---
     
-    _continental shelf_ has the same meaning as in [section 2(1)][771] of the Continental Shelf Act 1964
+    _continental shelf_ has the same meaning as in [section 2(1)][773] of the Continental Shelf Act 1964
     
-    _exclusive economic zone_ has the same meaning as in [section 9][772] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
+    _exclusive economic zone_ has the same meaning as in [section 9][774] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
     
-    Section 205: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 205: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 205(1A): inserted, on 8 December 2009, by [section 72][773] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 205(1A): inserted, on 8 December 2009, by [section 72][775] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 206 Obligation with respect to combusting used oil, waste oil, and waste
     
@@ -11839,7 +11841,7 @@ Sector specific provisions
     
     *   (b) carbon dioxide that results from the combustion of waste that is organic waste.
     
-    Section 206: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 206: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 207 Obligation with respect to mining coal
     
@@ -11849,7 +11851,7 @@ Sector specific provisions
     
     *   (b) is required to surrender units in respect of any coal seam gas emissions that result from the activity.
     
-    Section 207: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 207: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 208 Purchase of coal or natural gas from certain related companies of Part 3 of Schedule 3 participant
     
@@ -11861,9 +11863,9 @@ Sector specific provisions
     
     *   (c) another wholly owned subsidiary of a holding company of which a participant who mines coal or natural gas is the wholly owned subsidiary.
     
-    (2) In subsection (1), **subsidiary** and **holding company** have the same meaning as in [section 5][774] of the Companies Act 1993\.
+    (2) In subsection (1), **subsidiary** and **holding company** have the same meaning as in [section 5][776] of the Companies Act 1993\.
     
-    Section 208: substituted, on 8 December 2009, by [section 73][775] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 208: substituted, on 8 December 2009, by [section 73][777] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 209 Registration as participant by purchasers of coal or natural gas
     
@@ -11875,7 +11877,7 @@ Sector specific provisions
             
         *   (i) mines---
                 
-            *   (A) coal, if the activity specified in the application is purchasing coal; or 
+            *   (A) coal, if the activity specified in the application is purchasing coal; or
             
             *   (B) natural gas, if the activity specified in the application is purchasing natural gas; and
             
@@ -11893,7 +11895,7 @@ Sector specific provisions
             
         *   (i) mines---
                 
-            *   (A) coal, if the activity specified in the application is purchasing coal; or 
+            *   (A) coal, if the activity specified in the application is purchasing coal; or
             
             *   (B) natural gas, if the activity specified in the application is purchasing natural gas; and
             
@@ -11911,7 +11913,7 @@ Sector specific provisions
     
     *   (b) the EPA has provided notification under [section 57(6)][110] by 31 March 2009 (which notice must specify 1 January 2010 as the date from which registration takes effect).
     
-    Section 209: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 209: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 209(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -11933,15 +11935,15 @@ Sector specific provisions
     
     (3) Nothing in this section prevents the EPA from requiring a person specified in subsection (1) to provide any further information that the EPA requires to satisfy itself that the person is, or will be when the person's registration takes effect, carrying out the activity listed in [Part 4][431] of Schedule 4 that is specified in the application.
     
-    Section 210: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 210: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 210 heading: amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 210(2): amended, on 1 January 2013, by [section 94(1)][776] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 210(2): amended, on 1 January 2013, by [section 94(1)][778] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 210(2): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 210(3): amended, on 1 January 2013, by [section 94(2)][776] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 210(3): amended, on 1 January 2013, by [section 94(2)][778] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 210(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -11955,7 +11957,7 @@ Sector specific provisions
     
     *   (c) the person remains a participant in respect of the activity until the person's name is removed, in accordance with this Act, from the register that is kept for the purposes of [section 57][110].
     
-    Section 211: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 211: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 211(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -11965,13 +11967,13 @@ Sector specific provisions
     
 *   A participant who mines coal or mines natural gas is not required to surrender units in respect of coal or natural gas that is purchased by a person who is a participant in respect of an activity listed in [Part 4][431] of Schedule 4\.
     
-    Section 212: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 212: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 212: amended, on 8 December 2009, by [section 74][777] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 212: amended, on 8 December 2009, by [section 74][779] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ### Subpart 4---Agriculture
     
-*   Subpart 4: substituted, on 8 December 2009, by [section 75][778] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Subpart 4: substituted, on 8 December 2009, by [section 75][780] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 213 Participant in respect of subpart 4 of Part 5 of Schedule 3
     
@@ -11981,7 +11983,7 @@ Sector specific provisions
     
     *   (b) was entered into---
             
-        *   (i) on or after the date appointed in the Order in Council under [section 2A(9)][4] that applies the activity listed in [subpart 4][427] of Part 5 of Schedule 3 to the person carrying out the activity, and is for a term of at least 3 years; or 
+        *   (i) on or after the date appointed in the Order in Council under [section 2A(9)][4] that applies the activity listed in [subpart 4][427] of Part 5 of Schedule 3 to the person carrying out the activity, and is for a term of at least 3 years; or
         
         *   (ii) before the date appointed in the Order in Council under [section 2A(9)][4] that applies the activity listed in [subpart 4][427] of Part 5 of Schedule 3 to the person carrying out the activity, and had at least 3 years until expiry at the date appointed in the Order in Council.
         
@@ -11991,7 +11993,7 @@ Sector specific provisions
     
     (3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances specified in subsection (2), a third party, is to be treated as carrying out an activity listed in [subpart 4][427] of Part 5 of Schedule 3\.
     
-    Section 213: substituted, on 8 December 2009, by [section 75][778] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 213: substituted, on 8 December 2009, by [section 75][780] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 213(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -12005,23 +12007,23 @@ Sector specific provisions
     
     *   (b) does not result in any emissions.
     
-    Section 214: substituted, on 8 December 2009, by [section 75][778] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 214: substituted, on 8 December 2009, by [section 75][780] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
-##### 215 Effect of purchasing or farming less than threshold level 
+##### 215 Effect of purchasing or farming less than threshold level
     
 *   \[Repealed\]
     
-    Section 215: repealed, on 8 December 2009, by [section 75][778] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 215: repealed, on 8 December 2009, by [section 75][780] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
-##### 216 Effect of registration by farmers 
+##### 216 Effect of registration by farmers
     
 *   \[Repealed\]
     
-    Section 216: repealed, on 8 December 2009, by [section 75][778] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 216: repealed, on 8 December 2009, by [section 75][780] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ### Subpart 5---Transitional provisions
     
-*   Subpart 5: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Subpart 5: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 217 Transitional provision for penalties
     
@@ -12029,7 +12031,7 @@ Sector specific provisions
         
     *   (a) [Part 1][428] of Schedule 3 that relates to the period 1 January 2008 to 31 December 2009; or
     
-    *   (b) [Part 2][612], [Part 3][432], or [subpart 1][433] of Part 4 of Schedule 3 or [Part 3][430] or [4][431] of Schedule 4 that relates to the period 1 January 2010 to 31 December 2010; or
+    *   (b) [Part 2][614], [Part 3][432], or [subpart 1][433] of Part 4 of Schedule 3 or [Part 3][430] or [4][431] of Schedule 4 that relates to the period 1 January 2010 to 31 December 2010; or
     
     *   (c) [subpart 2][437] of Part 4 or [Part 6][438] of Schedule 3 that relates to the period 1 January 2013 to 31 December 2013; or
     
@@ -12063,17 +12065,17 @@ Sector specific provisions
     
     *   (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under [section 123(3)][196], [section 159(1)(a)][240] applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under [section 134][208], [134A][209], or [136][211].
     
-    Section 217: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 217: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 217(1): substituted, on 8 December 2009, by [section 76][779] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 217(1): substituted, on 8 December 2009, by [section 76][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 217(1)(d): replaced, on 1 January 2013, by [section 95(1)][780] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 217(1)(d): replaced, on 1 January 2013, by [section 95(1)][782] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
     Section 217(2)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 217(2)(b)(ii): amended, on 1 January 2013, by [section 95(2)][780] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 217(2)(b)(ii): amended, on 1 January 2013, by [section 95(2)][782] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 217(2)(c): amended, on 1 January 2013, by [section 95(3)][780] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 217(2)(c): amended, on 1 January 2013, by [section 95(3)][782] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 218 Transitional provision for voluntary reporting
     
@@ -12081,7 +12083,7 @@ Sector specific provisions
         
     *   (a) a person who carries out an activity listed in---
             
-        *   (i) [Part 2][612] of Schedule 3 in the period 1 January 2009 to 31 December 2009:
+        *   (i) [Part 2][614] of Schedule 3 in the period 1 January 2009 to 31 December 2009:
         
         *   (ii) [subpart 1][435] or [3][436] of Part 5 of Schedule 3 in the period 1 January 2011 to 31 December 2011:
         
@@ -12117,27 +12119,27 @@ Sector specific provisions
     
     (3) The EPA must not include information obtained from an emissions return submitted in accordance with subsection (2)(b) in the information published under [section 89][159].
     
-    Section 218: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 218: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 218(1)(a)(ii): amended, on 8 December 2009, by [section 77(1)][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 218(1)(a)(ii): amended, on 8 December 2009, by [section 77(1)][783] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 218(1)(a)(iii): amended, on 8 December 2009, by [section 77(2)][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 218(1)(a)(iii): amended, on 8 December 2009, by [section 77(2)][783] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 218(1)(a)(iv): added, on 8 December 2009, by [section 77(2)][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 218(1)(a)(iv): added, on 8 December 2009, by [section 77(2)][783] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 218(1)(b)(iii): repealed, on 8 December 2009, by [section 77(3)][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 218(1)(b)(iii): repealed, on 8 December 2009, by [section 77(3)][783] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 218(2)(a): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 218(2)(a): amended, on 8 December 2009, by [section 77(4)][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 218(2)(a): amended, on 8 December 2009, by [section 77(4)][783] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 218(2)(ab): inserted, on 8 December 2009, by [section 77(5)][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 218(2)(ab): inserted, on 8 December 2009, by [section 77(5)][783] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 218(2)(ab): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
     Section 218(2)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 218(2)(d): substituted, on 8 December 2009, by [section 77(6)][781] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 218(2)(d): substituted, on 8 December 2009, by [section 77(6)][783] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 218(3): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
 
@@ -12147,7 +12149,7 @@ Sector specific provisions
         
     *   (a) a person who carries out an activity listed in---
             
-        *   (i) [Part 2][612], [Part 3][432], or [subpart 1][433] of Part 4 of Schedule 3 in the period 1 January 2010 to 30 June 2010:
+        *   (i) [Part 2][614], [Part 3][432], or [subpart 1][433] of Part 4 of Schedule 3 in the period 1 January 2010 to 30 June 2010:
         
         *   (ii) [subpart 1][435] or [3][436] of Part 5 of Schedule 3 in the period---
                 
@@ -12167,39 +12169,39 @@ Sector specific provisions
     
     (2) Despite anything in this Act, a person to whom this section applies may not surrender units---
         
-    *   (a) under [section 65(4)][120] in relation to any emissions reported in the person's annual emissions return for the relevant period referred to in subsection (1); or 
+    *   (a) under [section 65(4)][120] in relation to any emissions reported in the person's annual emissions return for the relevant period referred to in subsection (1); or
     
     *   (b) under [section 118(5)][191] in relation to any emissions reported in an emissions return submitted under section 118 that relates to the relevant period referred to in subsection (1).
     
-    (3) In addition to the requirements specified in [section 65][120], a person to whom subsection (1)(a)(i) or (b) applies must record in that person's annual emissions return for the period 1 January 2010 to 31 December 2010 the emissions from the activity listed in [Part 2][612], [Part 3][432], or [subpart 1][433] of Part 4 of Schedule 3 or [Part 3][430] or [4][431] of Schedule 4, calculated under [section 62(b)][115] and, if required, verified under section 62(c), for the period 1 July 2010 to 31 December 2010\.
+    (3) In addition to the requirements specified in [section 65][120], a person to whom subsection (1)(a)(i) or (b) applies must record in that person's annual emissions return for the period 1 January 2010 to 31 December 2010 the emissions from the activity listed in [Part 2][614], [Part 3][432], or [subpart 1][433] of Part 4 of Schedule 3 or [Part 3][430] or [4][431] of Schedule 4, calculated under [section 62(b)][115] and, if required, verified under section 62(c), for the period 1 July 2010 to 31 December 2010\.
     
     (4) For the purposes of calculating emissions for the period 1 July 2010 to 31 December 2010 under subsection (3)---
         
-    *   (a) references to a year in the [Climate Change (Liquid Fossil Fuels) Regulations 2008][782] and the [Climate Change (Stationary Energy and Industrial Processes) Regulations 2009][783] must be treated as references to the period 1 July 2010 to 31 December 2010; and
+    *   (a) references to a year in the [Climate Change (Liquid Fossil Fuels) Regulations 2008][784] and the [Climate Change (Stationary Energy and Industrial Processes) Regulations 2009][785] must be treated as references to the period 1 July 2010 to 31 December 2010; and
     
     *   (b) the provisions of the regulations specified in paragraph (a) apply to emissions described in subsection (3) with any necessary modifications.
     
     (5) Subsections (3) and (4) apply with any necessary modifications to a return that covers any part of the period 1 January 2010 to 31 December 2010 that is submitted under [section 118][191] by a person to whom subsection (1)(a)(i) or (b) applies.
     
-    Section 219: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 219: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 219(1)(a)(i): substituted, on 8 December 2009, by [section 78(1)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(1)(a)(i): substituted, on 8 December 2009, by [section 78(1)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 219(1)(a)(ii): replaced, on 1 January 2013, by [section 96][785] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 219(1)(a)(ii): replaced, on 1 January 2013, by [section 96][787] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 219(1)(a)(iii): amended, on 8 December 2009, by [section 78(3)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(1)(a)(iii): amended, on 8 December 2009, by [section 78(3)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 219(1)(a)(iii): amended, on 8 December 2009, by [section 78(4)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(1)(a)(iii): amended, on 8 December 2009, by [section 78(4)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 219(1)(a)(iv): added, on 8 December 2009, by [section 78(4)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(1)(a)(iv): added, on 8 December 2009, by [section 78(4)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 219(1)(b): substituted, on 8 December 2009, by [section 78(5)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(1)(b): substituted, on 8 December 2009, by [section 78(5)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 219(3): added, on 8 December 2009, by [section 78(6)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(3): added, on 8 December 2009, by [section 78(6)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 219(4): added, on 8 December 2009, by [section 78(6)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(4): added, on 8 December 2009, by [section 78(6)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
-    Section 219(5): added, on 8 December 2009, by [section 78(6)][784] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 219(5): added, on 8 December 2009, by [section 78(6)][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 220 Transitional provision relating to unit entitlements for subpart 1 or 3 of Part 2 of Schedule 4 participants
     
@@ -12219,11 +12221,11 @@ Sector specific provisions
         
         
     
-    Section 220: substituted, on 8 December 2009, by [section 79][786] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 220: substituted, on 8 December 2009, by [section 79][788] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 221 Additional transitional provisions for Part 3 of Schedule 4 participants
     
-*   (1) A person who purchases more than 10 million litres per year of obligation jet fuel from 1 or more persons who are likely to become participants in respect of an activity listed in [Part 2][612] of Schedule 3 from 1 January 2010 is, during the period from the date of commencement of this section until 31 December 2009, to be treated for the purposes of this Act as a person carrying out an activity listed in [Part 3][430] of Schedule 4\.
+*   (1) A person who purchases more than 10 million litres per year of obligation jet fuel from 1 or more persons who are likely to become participants in respect of an activity listed in [Part 2][614] of Schedule 3 from 1 January 2010 is, during the period from the date of commencement of this section until 31 December 2009, to be treated for the purposes of this Act as a person carrying out an activity listed in [Part 3][430] of Schedule 4\.
     
     (2) Despite [section 198(2)(b)][314], the registration of a person who registers as a participant in respect of an activity listed in [Part 3][430] of Schedule 4---
         
@@ -12233,11 +12235,11 @@ Sector specific provisions
     
     (3) A person who is a participant in relation to an activity listed in [Part 3][430] of Schedule 4 during the period from the date of commencement of this section until 31 December 2008 may not submit an annual emissions return or an emissions return under [section 118][191] in respect of that activity for the period up to 31 December 2008\.
     
-    (4) The provisions of this Act apply with any necessary modifications to an application to register as a participant by a person referred to in subsection (1) as if the person or persons from whom the applicant purchases jet fuel were a participant carrying out an activity listed in [Part 2][612] of Schedule 3\.
+    (4) The provisions of this Act apply with any necessary modifications to an application to register as a participant by a person referred to in subsection (1) as if the person or persons from whom the applicant purchases jet fuel were a participant carrying out an activity listed in [Part 2][614] of Schedule 3\.
     
-    Section 221: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 221: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 221(2): substituted, on 8 December 2009, by [section 80][787] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 221(2): substituted, on 8 December 2009, by [section 80][789] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 222 Transitional provisions regarding regulations that replace existing unit register regulations
     
@@ -12245,51 +12247,51 @@ Sector specific provisions
         
     *   (a) come into force in 2008; and
     
-    *   (b) replace the [Climate Change (Unit Register) Regulations 2007][788].
+    *   (b) replace the [Climate Change (Unit Register) Regulations 2007][790].
     
-    Section 222: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 222: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
 
 ##### 222A Transitional provision for liability to surrender units to cover emissions from activities relating to liquid fossil fuels, stationary energy, and industrial processes
     
 *   \[Repealed\]
     
-    Section 222A: repealed, on 1 January 2013, by [section 97][789] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 222A: repealed, on 1 January 2013, by [section 97][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 222B Transitional provision for entitlement to receive New Zealand units for removal activities
     
 *   \[Repealed\]
     
-    Section 222B: repealed, on 1 January 2013, by [section 97][789] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 222B: repealed, on 1 January 2013, by [section 97][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 222C Transitional provision permitting payment of money instead of surrender of units to cover emissions
     
 *   \[Repealed\]
     
-    Section 222C: repealed, on 1 January 2013, by [section 97][789] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 222C: repealed, on 1 January 2013, by [section 97][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 222D Issuing New Zealand units to meet surrender obligation
     
 *   \[Repealed\]
     
-    Section 222D: repealed, on 1 January 2013, by [section 97][789] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 222D: repealed, on 1 January 2013, by [section 97][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 222E Transitional provisions relating to reporting
     
 *   \[Repealed\]
     
-    Section 222E: repealed, on 1 January 2013, by [section 97][789] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 222E: repealed, on 1 January 2013, by [section 97][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 222F Transitional provision for allocation to industry
     
 *   \[Repealed\]
     
-    Section 222F: repealed, on 1 January 2013, by [section 97][789] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 222F: repealed, on 1 January 2013, by [section 97][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 222G Transitional provision regarding prohibition on ability to export New Zealand units
     
 *   \[Repealed\]
     
-    Section 222G: repealed, on 1 January 2013, by [section 97][789] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 222G: repealed, on 1 January 2013, by [section 97][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 222H Transitional provision for unincorporated bodies
     
@@ -12331,7 +12333,7 @@ Sector specific provisions
     
     *   (b) the joint participants whose names have been removed from a register and the unincorporated body whose name has been substituted on that register are to be treated for the purposes of this Act as the same participant.
     
-    Section 222H: inserted, on 8 December 2009, by [section 81][790] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 222H: inserted, on 8 December 2009, by [section 81][792] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 222H(2)(a)(i): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -12350,14 +12352,14 @@ Sector specific provisions
 ## Part 6  
 Targets
     
-*   Part 6: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
-*   Part 6 heading: replaced, on 1 January 2013, by [section 98][791] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Part 6: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Part 6 heading: replaced, on 1 January 2013, by [section 98][793] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 223 Establishment of Household Fund
     
 *   \[Repealed\]
     
-    Section 223: repealed, on 8 December 2009, by [section 82][792] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 223: repealed, on 8 December 2009, by [section 82][794] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 224 Gazetting of targets
     
@@ -12373,19 +12375,19 @@ Targets
     
     *   (b) make the target or revocation of the target publicly accessible via the Internet site of the department of the chief executive.
     
-    (4) To avoid doubt, the _Gazette_ notice in subsection (3)(a) may not be treated as a regulation for the purposes of the [Regulations (Disallowance) Act 1989][620] or the [Acts and Regulations Publications Act 1989][621].
+    (4) To avoid doubt, the _Gazette_ notice in subsection (3)(a) may not be treated as a regulation for the purposes of the [Regulations (Disallowance) Act 1989][622] or the [Acts and Regulations Publications Act 1989][623].
     
     (5) To avoid doubt, any number of targets may be set using the process under this section.
     
-    Section 224: added, on 26 September 2008, by [section 50][601] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 224: added, on 26 September 2008, by [section 50][603] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
     Section 224(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 224(2A): inserted, on 8 December 2009, by [section 83][793] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 224(2A): inserted, on 8 December 2009, by [section 83][795] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 224(3)(b): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
-    Section 224(4): amended, on 1 January 2013, by [section 99][794] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 224(4): amended, on 1 January 2013, by [section 99][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 225 Regulations relating to targets
     
@@ -12407,7 +12409,7 @@ Targets
     
     (4) To avoid doubt, any number of targets may be set using the process under this section.
     
-    Section 225: added, on 8 December 2009, by [section 84][795] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 225: added, on 8 December 2009, by [section 84][797] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
     
     Section 225(1): amended, on 5 December 2011, by [section 19][447] of the Climate Change Response Amendment Act 2011 (2011 No 15).
     
@@ -12416,11 +12418,11 @@ Targets
 ## Part 7  
 Synthetic greenhouse gas levy
     
-*   Part 7: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Part 7: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 226 Overview of functions and responsibilities of EPA and agencies under this Part, Customs and Excise Act 1996, and Land Transport Act 1998
     
-*   (1) This section is a guide to the functions and responsibilities of the EPA and the agencies in relation to the synthetic greenhouse gas levy, but it does not affect the interpretation or the application of the provisions of this Part, the [Customs and Excise Act 1996][767], or the [Land Transport Act 1998][797].
+*   (1) This section is a guide to the functions and responsibilities of the EPA and the agencies in relation to the synthetic greenhouse gas levy, but it does not affect the interpretation or the application of the provisions of this Part, the [Customs and Excise Act 1996][769], or the [Land Transport Act 1998][799].
     
     (2) Under this Part,---
         
@@ -12440,23 +12442,23 @@ Synthetic greenhouse gas levy
     
     *   (d) it is a function of the EPA and the agencies to recover unpaid levies under [section 230][361].
     
-    (3) Under the [Customs and Excise Act 1996][767], the function of the New Zealand Customs Service is to assess and collect the goods levy and, for this purpose,---
+    (3) Under the [Customs and Excise Act 1996][769], the function of the New Zealand Customs Service is to assess and collect the goods levy and, for this purpose,---
         
     *   (a) assess and collect the levy on goods as if the levy were a duty; and
     
     *   (b) recover unpaid levies as if they were unpaid duties.
     
-    (4) Under the [Land Transport Act 1998][797], the function of the Registrar of Motor Vehicles is to assess and collect the motor vehicle levy.
+    (4) Under the [Land Transport Act 1998][799], the function of the Registrar of Motor Vehicles is to assess and collect the motor vehicle levy.
     
-    Section 226: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 226: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ### Subpart 1---Synthetic greenhouse gas levy
     
-*   Subpart 1: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Subpart 1: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Levy imposed
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 227 Synthetic greenhouse gas levy imposed
     
@@ -12468,7 +12470,7 @@ Synthetic greenhouse gas levy
     
     (2) However, if a leviable motor vehicle is registered more than once on or after 1 July 2013, it is liable for the levy only once.
     
-    Section 227: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 227: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 228 Person who registers leviable motor vehicle responsible for paying levy
     
@@ -12476,15 +12478,15 @@ Synthetic greenhouse gas levy
     
     (2) The levy (including any goods and services tax payable on it) must be paid to the Registrar of Motor Vehicles at the same time as the person pays for the registration of the vehicle.
     
-    Section 228: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 228: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 229 Importer of leviable goods must pay levy
     
 *   (1) A person who imports leviable goods on or after 1 July 2013 must pay the levy at the prescribed rate for the goods.
     
-    (2) The person must pay the levy (including any goods and services tax payable on it) to the New Zealand Customs Service at the same time as duty under the [Tariff Act 1988][798] or excise-equivalent duty would be paid on the goods if any were payable.
+    (2) The person must pay the levy (including any goods and services tax payable on it) to the New Zealand Customs Service at the same time as duty under the [Tariff Act 1988][800] or excise-equivalent duty would be paid on the goods if any were payable.
     
-    Section 229: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 229: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 230 Levies are debt due to the Crown
     
@@ -12494,51 +12496,51 @@ Synthetic greenhouse gas levy
     
     (3) This section does not limit---
         
-    *   (a) the power of the Customs to recover an unpaid amount of goods levy as a debt under the [Customs and Excise Act 1996][767]; or
+    *   (a) the power of the Customs to recover an unpaid amount of goods levy as a debt under the [Customs and Excise Act 1996][769]; or
     
-    *   (b) the power of the Registrar of Motor Vehicles to recover an unpaid amount of motor vehicle levy as a debt under the [Land Transport Act 1998][797].
+    *   (b) the power of the Registrar of Motor Vehicles to recover an unpaid amount of motor vehicle levy as a debt under the [Land Transport Act 1998][799].
     
-    Section 230: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 230: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 231 Penalties for failure to pay levy
     
 *   (1) If an importer fails to pay the levy by the date on which [section 229][360] requires payment (the _due date_), the debt is increased by adding a penalty.
     
-    (2) The penalty is to be calculated in accordance with [section 87][799] of the Customs and Excise Act 1996 as if---
+    (2) The penalty is to be calculated in accordance with [section 87][801] of the Customs and Excise Act 1996 as if---
         
     *   (a) a reference to a duty were a reference to a levy; and
     
     *   (b) a reference to additional duty were a reference to a penalty.
     
-    Section 231: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 231: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 232 Application of provisions of Customs and Excise Act 1996
     
-*   (1) The provisions of the [Customs and Excise Act 1996][767] that apply to the collection of duties apply, with all necessary modifications, to the collection of the goods levy under this Act as if the levy were a duty to which that Act applies.
+*   (1) The provisions of the [Customs and Excise Act 1996][769] that apply to the collection of duties apply, with all necessary modifications, to the collection of the goods levy under this Act as if the levy were a duty to which that Act applies.
     
     (2) However,---
         
-    *   (a) [section 103(3)][800] of that Act applies as if the reference to dutiable goods were a reference to leviable goods:
+    *   (a) [section 103(3)][802] of that Act applies as if the reference to dutiable goods were a reference to leviable goods:
     
-    *   (b) [section 103(4) and (5)][800] of that Act apply as if they did not refer to the owner of the goods or the licensee of a Customs controlled area.
+    *   (b) [section 103(4) and (5)][802] of that Act apply as if they did not refer to the owner of the goods or the licensee of a Customs controlled area.
     
-    (3) Despite subsection (1), the following provisions of the [Customs and Excise Act 1996][767] do not apply to the collection of the levy:
+    (3) Despite subsection (1), the following provisions of the [Customs and Excise Act 1996][769] do not apply to the collection of the levy:
         
-    *   (a) [section 104][801]:
+    *   (a) [section 104][803]:
     
-    *   (b) [section 108][802]:
+    *   (b) [section 108][804]:
     
-    *   (c) [section 112][803]:
+    *   (c) [section 112][805]:
     
-    *   (d) [section 114][804]:
+    *   (d) [section 114][806]:
     
-    *   (e) [section 117][805].
+    *   (e) [section 117][807].
     
-    Section 232: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 232: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Calculation of levy
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 233 Rate of synthetic greenhouse gas levy
     
@@ -12586,13 +12588,13 @@ Synthetic greenhouse gas levy
     
     (6) Before making a recommendation under subsection (4), the Minister must take into account the following matters:
         
-    *   (a) the price of the units used to calculate revenue from the greenhouse gas emissions trading scheme in the Crown annual financial statements over the preceding 12 months; and 
+    *   (a) the price of the units used to calculate revenue from the greenhouse gas emissions trading scheme in the Crown annual financial statements over the preceding 12 months; and
     
     *   (b) the price of New Zealand units sold by auction under [section 6A][14] over the preceding 12 months; and
     
     *   (c) any changes to the operation of the greenhouse gas emissions trading scheme that have affected the price of the units surrendered under that scheme, or that may do so before the end of the next levy year.
     
-    Section 233: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 233: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 234 Transitional provision for synthetic greenhouse gas levy
     
@@ -12600,7 +12602,7 @@ Synthetic greenhouse gas levy
     
     (2) However, the methodology prescribed by regulations made under [section 233(4)(a)][365] in the transitional period ceases to apply on and from the end of the transitional period.
     
-    Section 234: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 234: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 235 Temporary suspension of levy set by section 233
     
@@ -12630,7 +12632,7 @@ Synthetic greenhouse gas levy
     
     (7) An Order in Council made under subsection (2)(b) may be revoked, replaced, or amended at any time before the closure date specified in that order.
     
-    Section 235: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 235: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 236 Maximum price of carbon for purpose of levy calculation
     
@@ -12646,19 +12648,19 @@ Synthetic greenhouse gas levy
     
     (4) This section overrides [sections 233][365] and [235][367].
     
-    Section 236: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 236: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 237 Levy rate exclusive of GST
     
 *   A levy rate calculated in accordance with [section 233][365] or [235][367] is exclusive of goods and services tax.
     
-    Section 237: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 237: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 238 Levy rate for period from 1 July 2013 to 31 December 2013
     
 *   The levy rate calculated in accordance with [section 235(4)][367] applies for the period starting on 1 July 2013 and ending with the close of 31 December 2013\.
     
-    Section 238: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 238: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 239 Levy rate to apply for single calendar year on and after 1 January 2014
     
@@ -12686,21 +12688,21 @@ Synthetic greenhouse gas levy
         
         
     
-    Section 239: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 239: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Levies to be paid into Crown Bank Account
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 240 Agencies to pay levy into Crown Bank Account
     
 *   The EPA and the agencies must pay the amount of all levies received under this Part into a Crown Bank Account.
     
-    Section 240: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 240: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Information
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 241 Agencies to provide information to EPA quarterly
     
@@ -12726,13 +12728,13 @@ Synthetic greenhouse gas levy
     
     (2) The information described in subsection (1) must be provided for each class of leviable motor vehicle or and for each class of leviable goods.
     
-    Section 241: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 241: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 242 Agencies and EPA to share information
     
 *   [Section 149(2)][227] applies as if the EPA and the agencies were referred to in section 149(1).
     
-    Section 242: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 242: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 243 Circumstances where levy may be refunded
     
@@ -12748,7 +12750,7 @@ Synthetic greenhouse gas levy
     
     *   (b) the relevant motor vehicle is one to which subsection (1) applies.
     
-    Section 243: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 243: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 244 Exemptions from payment of synthetic greenhouse gas levy
     
@@ -12790,11 +12792,11 @@ Synthetic greenhouse gas levy
     
     *   (c) consider those submissions.
     
-    Section 244: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 244: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Regulations
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 245 Regulations specifying levy rates
     
@@ -12810,7 +12812,7 @@ Synthetic greenhouse gas levy
     
     (4) Regulations made under subsection (1) come into force on a date specified in the regulations that may not be earlier than 3 months after the date of their notification in the _Gazette_.
     
-    Section 245: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 245: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 246 Regulations relating to synthetic greenhouse gas levy
     
@@ -12834,7 +12836,7 @@ Synthetic greenhouse gas levy
     
     *   ###### General
     
-    *   (f) specifying accounts and records that must be kept by persons collecting levies, or persons who are or may be liable to pay a levy: 
+    *   (f) specifying accounts and records that must be kept by persons collecting levies, or persons who are or may be liable to pay a levy:
     
     *   (g) specifying the information that persons collecting levies must provide to the EPA and when the information must be provided:
     
@@ -12846,7 +12848,7 @@ Synthetic greenhouse gas levy
     
     (3) Regulations made under subsection (1)(a) to (e) come into force on a date specified in the regulations that may not be earlier than 3 months after the date of their notification in the _Gazette_.
     
-    Section 246: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 246: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 247 Process for making orders and regulations
     
@@ -12862,11 +12864,11 @@ Synthetic greenhouse gas levy
     
     (3) A failure to comply with this section does not affect the validity of regulations made under [section 233(4)(a)][365], [246(1)(a) to (e)][381], or [258][395].
     
-    Section 247: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 247: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Obligations of importers of leviable goods
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 248 Collecting information and keeping records
     
@@ -12886,17 +12888,17 @@ Synthetic greenhouse gas levy
     
     (2) The records specified in subsection (1) must be kept for a period of at least 7 years after the end of the year to which they relate.
     
-    Section 248: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 248: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ### Subpart 2---Administrative provisions and verification
     
-*   Subpart 2: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Subpart 2: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 249 Application of section 88 (Directions to EPA)
     
 *   [Section 88][158] applies in relation to the EPA's exercise of powers and performance of functions under this Part or any regulations made under this Part as if a reference to Part 5 were a reference to Part 7\.
     
-    Section 249: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 249: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 250 EPA to publish information relating to levies
     
@@ -12936,7 +12938,7 @@ Synthetic greenhouse gas levy
     
     (4) In this section, _reporting year_ means a 12-month period starting on 1 July and ending with the close of 30 June.
     
-    Section 250: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 250: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 251 Recognition of verifiers
     
@@ -12946,13 +12948,13 @@ Synthetic greenhouse gas levy
     
     (3) The EPA may suspend or revoke any recognition given under this section in accordance with regulations made under [section 258][395].
     
-    Section 251: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 251: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 252 Enforcement officers
     
 *   The EPA may appoint 1 or more enforcement officers under [section 93][164] to exercise 1 or more of the powers and perform the functions conferred on enforcement officers under [Part 4][105] in relation to this Part.
     
-    Section 252: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 252: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 253 Power to require information
     
@@ -12968,11 +12970,11 @@ Synthetic greenhouse gas levy
         
     *   (a) in the form specified by the person who requested it; and
     
-    *   (b) within any reasonable time specified in the notice; and 
+    *   (b) within any reasonable time specified in the notice; and
     
     *   (c) free of charge.
     
-    Section 253: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 253: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 254 Power to inquire
     
@@ -12990,7 +12992,7 @@ Synthetic greenhouse gas levy
     
     (5) [Sections 97][168] and [98][169] apply to an inquiry under this section.
     
-    Section 254: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 254: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 255 Inquiry before District Court Judge
     
@@ -13002,7 +13004,7 @@ Synthetic greenhouse gas levy
     
     (4) [Sections 97][168] and [98][169] apply to an inquiry under this section.
     
-    Section 255: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 255: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 256 Obligation to maintain confidentiality
     
@@ -13018,7 +13020,7 @@ Synthetic greenhouse gas levy
     
     *   (b) with the prior approval of the Minister, prepare statistical information and provide it to any person in a form that does not identify any individual.
     
-    Section 256: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 256: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 257 Power of entry for investigation, warrants, etc
     
@@ -13026,7 +13028,7 @@ Synthetic greenhouse gas levy
     
     (2) [Section 101][172] applies as if every reference to [section 129][203], [132][206], or [133][207] included a reference to [sections 259][398], [261][400], and [263][402].
     
-    Section 257: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 257: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 258 Regulations relating to verifiers
     
@@ -13068,15 +13070,15 @@ Synthetic greenhouse gas levy
     
     (3) Before making a recommendation for the making of regulations under subsection (1)(a), the Minister must have regard to New Zealand's international obligations in respect of the collection of data and information relating to specified synthetic greenhouse gases.
     
-    Section 258: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 258: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ### Subpart 3---Offences and penalties
     
-*   Subpart 3: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Subpart 3: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Offences relating to synthetic greenhouse gas levy
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 259 Offence in relation to failure to collect data and keep records
     
@@ -13090,7 +13092,7 @@ Synthetic greenhouse gas levy
     
     *   (c) on every subsequent occasion that the person is convicted of that offence, to a fine not exceeding $24,000\.
     
-    Section 259: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 259: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 260 Failure to provide information or documents
     
@@ -13106,7 +13108,7 @@ Synthetic greenhouse gas levy
     
     *   (b) in the case of a body corporate, to a fine not exceeding $24,000\.
     
-    Section 260: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 260: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 261 Other offences
     
@@ -13124,9 +13126,9 @@ Synthetic greenhouse gas levy
             
         *   (i) the EPA or an enforcement officer exercising a power conferred on that person under this Part; or
         
-        *   (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority in relation to a power conferred on that person under the [Customs and Excise Act 1996][767] in relation to the goods levy; or
+        *   (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority in relation to a power conferred on that person under the [Customs and Excise Act 1996][769] in relation to the goods levy; or
         
-        *   (iii) the Registrar of Motor Vehicles in relation to a power conferred on him or her under the [Land Transport Act 1998][797] in relation to the motor vehicle levy.
+        *   (iii) the Registrar of Motor Vehicles in relation to a power conferred on him or her under the [Land Transport Act 1998][799] in relation to the motor vehicle levy.
         
         
     
@@ -13136,7 +13138,7 @@ Synthetic greenhouse gas levy
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Section 261: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 261: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 262 Offence for breach of confidentiality
     
@@ -13146,7 +13148,7 @@ Synthetic greenhouse gas levy
     
     *   (b) a fine not exceeding $15,000\.
     
-    Section 262: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 262: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 263 Evasion
     
@@ -13158,9 +13160,9 @@ Synthetic greenhouse gas levy
             
         *   (i) the EPA, an enforcement officer, or any other person when required to do so under this Part; or
         
-        *   (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority when required to do so under the [Customs and Excise Act 1996][767] in relation to the goods levy; or
+        *   (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority when required to do so under the [Customs and Excise Act 1996][769] in relation to the goods levy; or
         
-        *   (iii) the Registrar of Motor Vehicles when required to do so under the [Land Transport Act 1998][797] in relation to the motor vehicle levy; or
+        *   (iii) the Registrar of Motor Vehicles when required to do so under the [Land Transport Act 1998][799] in relation to the motor vehicle levy; or
         
         
     
@@ -13172,11 +13174,11 @@ Synthetic greenhouse gas levy
     
     *   (b) a fine not exceeding $50,000\.
     
-    Section 263: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 263: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Offence in relation to release of synthetic greenhouse gases
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 264 Offence in relation to release of synthetic greenhouse gases
     
@@ -13190,27 +13192,27 @@ Synthetic greenhouse gas levy
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Section 264: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 264: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 265 Defence for release of synthetic greenhouse gas
     
 *   The circumstances in which a person described in [section 264(1)][404] may have a lawful justification or excuse for releasing any hydrofluorocarbon, perfluorocarbon, or sulphur hexafluoride into the atmosphere include (but are not limited to) circumstances where the release could not reasonably have been avoided.
     
-    Section 265: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 265: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Proceedings and liability
     
-*   Heading: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Heading: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 266 Limitation period for commencement of proceedings
     
-*   Despite [section 14][685] of the Summary Proceedings Act 1957, an information for an offence against---
+*   Despite [section 14][687] of the Summary Proceedings Act 1957, an information for an offence against---
         
     *   (a) [section 260][399] or [261(1)(a), (b), or (e)][400] may be laid at any time within 2 years from the time when the matter of the information arose:
     
     *   (b) [section 259][398] or [261(1)(c) or (d)][400] may be commenced at any time within 7 years from the time when the matter of the information arose.
     
-    Section 266: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 266: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 267 Evidence in proceedings
     
@@ -13238,7 +13240,7 @@ Synthetic greenhouse gas levy
     
     *   (b) the document's nature.
     
-    Section 267: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 267: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 268 Liability of body corporate, directors, managers of companies, companies, and persons for actions of directors, agents, and employees
     
@@ -13246,11 +13248,11 @@ Synthetic greenhouse gas levy
     
     (2) [Section 141][217] applies as if a reference to [sections 132(1)(c) to (f)][206] or [133][207] included a reference to [section 261(1)(c) or (d)][400] or [263][402].
     
-    Section 268: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 268: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ### Subpart 4---Other matters
     
-*   Subpart 4: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Subpart 4: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 269 Review of operation and effectiveness of levy
     
@@ -13284,7 +13286,7 @@ Synthetic greenhouse gas levy
     
     (6) The Minister may, but need not, initiate a review under subsection (1) at the same time as he or she initiates a review under [section 160][241] of the operation and effectiveness of the emissions trading scheme.
     
-    Section 269: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 269: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ##### 270 Appointment and conduct of independent panel
     
@@ -13292,7 +13294,7 @@ Synthetic greenhouse gas levy
         
     *   (a) ensure that there is no fewer than 3 but not more than 7 members; and
     
-    *   (b) ensure that the majority of the members are not employees under the [State Sector Act 1988][705]; and
+    *   (b) ensure that the majority of the members are not employees under the [State Sector Act 1988][707]; and
     
     *   (c) consider whether the members have, in the Minister's opinion, the appropriate knowledge, skill, and experience to conduct the review, including knowledge, skill, and experience of---
             
@@ -13326,7 +13328,7 @@ Synthetic greenhouse gas levy
     
     (6) If the Minister initiates a review under [section 269(1)][411] and a review under [section 160][241], the Minister may appoint 1 independent panel to undertake both reviews.
     
-    Section 270: inserted, on 1 January 2013, by [section 100][796] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 270: inserted, on 1 January 2013, by [section 100][798] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ---
 
@@ -13448,7 +13450,7 @@ United Nations Framework Convention on Climate Change
     _Have agreed as follows:_
 
 ## Article 1  
-Definitions[1][806]
+Definitions[1][808]
 
 For the purposes of this Convention:
     
@@ -13519,9 +13521,9 @@ Commitments
 
 *   2\. The developed country Parties and other Parties included in [Annex I][465] commit themselves specifically as provided for in the following:
         
-    *   (a) Each of these Parties shall adopt national[2][807] policies and take corresponding measures on the mitigation of climate change, by limiting its anthropogenic emissions of greenhouse gases and protecting and enhancing its greenhouse gas sinks and reservoirs. These policies and measures will demonstrate that developed countries are taking the lead in modifying longer-term trends in anthropogenic emissions consistent with the objective of the Convention, recognizing that the return by the end of the present decade to earlier levels of anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol would contribute to such modification, and taking into account the differences in these Parties' starting points and approaches, economic structures and resource bases, the need to maintain strong and sustainable economic growth, available technologies and other individual circumstances, as well as the need for equitable and appropriate contributions by each of these Parties to the global effort regarding that objective. These Parties may implement such policies and measures jointly with other Parties and may assist other Parties in contributing to the achievement of the objective of the Convention and, in particular, that of this subparagraph;
+    *   (a) Each of these Parties shall adopt national[2][809] policies and take corresponding measures on the mitigation of climate change, by limiting its anthropogenic emissions of greenhouse gases and protecting and enhancing its greenhouse gas sinks and reservoirs. These policies and measures will demonstrate that developed countries are taking the lead in modifying longer-term trends in anthropogenic emissions consistent with the objective of the Convention, recognizing that the return by the end of the present decade to earlier levels of anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol would contribute to such modification, and taking into account the differences in these Parties' starting points and approaches, economic structures and resource bases, the need to maintain strong and sustainable economic growth, available technologies and other individual circumstances, as well as the need for equitable and appropriate contributions by each of these Parties to the global effort regarding that objective. These Parties may implement such policies and measures jointly with other Parties and may assist other Parties in contributing to the achievement of the objective of the Convention and, in particular, that of this subparagraph;
     
-    *   (b) In order to promote progress to this end, each of these Parties shall communicate, within six months of the entry into force of the Convention for it and periodically thereafter, and in accordance with [Article 12][451], detailed information on its policies and measures referred to in subparagraph (a) above, as well as on its resulting projected anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol for the period referred to in subparagraph (a), with the aim of returning individually or jointly to their 1990 levels these anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol. This information will be reviewed by the Conference of the Parties, at its first session and periodically thereafter, in accordance with [Article 7][808];
+    *   (b) In order to promote progress to this end, each of these Parties shall communicate, within six months of the entry into force of the Convention for it and periodically thereafter, and in accordance with [Article 12][451], detailed information on its policies and measures referred to in subparagraph (a) above, as well as on its resulting projected anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol for the period referred to in subparagraph (a), with the aim of returning individually or jointly to their 1990 levels these anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol. This information will be reviewed by the Conference of the Parties, at its first session and periodically thereafter, in accordance with [Article 7][810];
     
     *   (c) Calculations of emissions by sources and removals by sinks of greenhouse gases for the purposes of subparagraph (b) above should take into account the best available scientific knowledge, including of the effective capacity of sinks and the respective contributions of such gases to climate change. The Conference of the Parties shall consider and agree on methodologies for these calculations at its first session and review them regularly thereafter;
     
@@ -13535,17 +13537,17 @@ Commitments
         
         
     
-    *   (f) The Conference of the Parties shall review, not later than 31 December 1998, available information with a view to taking decisions regarding such amendments to the lists in [Annexes I][465] and [II][809] as may be appropriate, with the approval of the Party concerned;
+    *   (f) The Conference of the Parties shall review, not later than 31 December 1998, available information with a view to taking decisions regarding such amendments to the lists in [Annexes I][465] and [II][811] as may be appropriate, with the approval of the Party concerned;
     
     *   (g) Any Party not included in [Annex I][465] may, in its instrument of ratification, acceptance, approval or accession, or at any time thereafter, notify the Depositary that it intends to be bound by subparagraphs (a) and (b) above. The Depositary shall inform the other signatories and Parties of any such notification.
     
     
 
-*   3\. The developed country Parties and other developed Parties included in [Annex II][809] shall provide new and additional financial resources to meet the agreed full costs incurred by developing country Parties in complying with their obligations under [Article 12][451], paragraph 1\. They shall also provide such financial resources, including for the transfer of technology, needed by the developing country Parties to meet the agreed full incremental costs of implementing measures that are covered by paragraph 1 of this Article and that are agreed between a developing country Party and the international entity or entities referred to in [Article 11][810], in accordance with that Article. The implementation of these commitments shall take into account the need for adequacy and predictability in the flow of funds and the importance of appropriate burden sharing among the developed country Parties.
+*   3\. The developed country Parties and other developed Parties included in [Annex II][811] shall provide new and additional financial resources to meet the agreed full costs incurred by developing country Parties in complying with their obligations under [Article 12][451], paragraph 1\. They shall also provide such financial resources, including for the transfer of technology, needed by the developing country Parties to meet the agreed full incremental costs of implementing measures that are covered by paragraph 1 of this Article and that are agreed between a developing country Party and the international entity or entities referred to in [Article 11][812], in accordance with that Article. The implementation of these commitments shall take into account the need for adequacy and predictability in the flow of funds and the importance of appropriate burden sharing among the developed country Parties.
 
-*   4\. The developed country Parties and other developed Parties included in [Annex II][809] shall also assist the developing country Parties that are particularly vulnerable to the adverse effects of climate change in meeting costs of adaptation to those adverse effects.
+*   4\. The developed country Parties and other developed Parties included in [Annex II][811] shall also assist the developing country Parties that are particularly vulnerable to the adverse effects of climate change in meeting costs of adaptation to those adverse effects.
 
-*   5\. The developed country Parties and other developed Parties included in [Annex II][809] shall take all practicable steps to promote, facilitate and finance, as appropriate, the transfer of, or access to, environmentally sound technologies and know-how to other Parties, particularly developing country Parties, to enable them to implement the provisions of the Convention. In this process, the developed country Parties shall support the development and enhancement of endogenous capacities and technologies of developing country Parties. Other Parties and organizations in a position to do so may also assist in facilitating the transfer of such technologies.
+*   5\. The developed country Parties and other developed Parties included in [Annex II][811] shall take all practicable steps to promote, facilitate and finance, as appropriate, the transfer of, or access to, environmentally sound technologies and know-how to other Parties, particularly developing country Parties, to enable them to implement the provisions of the Convention. In this process, the developed country Parties shall support the development and enhancement of endogenous capacities and technologies of developing country Parties. Other Parties and organizations in a position to do so may also assist in facilitating the transfer of such technologies.
 
 *   6\. In the implementation of their commitments under paragraph 2 above, a certain degree of flexibility shall be allowed by the Conference of the Parties to the Parties included in [Annex I][465] undergoing the process of transition to a market economy, in order to enhance the ability of these Parties to address climate change, including with regard to the historical level of anthropogenic emissions of greenhouse gases not controlled by the Montreal Protocol chosen as a reference.
 
@@ -13575,12 +13577,12 @@ Commitments
 
 *   9\. The Parties shall take full account of the specific needs and special situations of the least developed countries in their actions with regard to funding and transfer of technology.
 
-*   10\. The Parties shall, in accordance with [Article 10][811], take into consideration in the implementation of the commitments of the Convention the situation of Parties, particularly developing country Parties, with economies that are vulnerable to the adverse effects of the implementation of measures to respond to climate change. This applies notably to Parties with economies that are highly dependent on income generated from the production, processing and export, and/or consumption of fossil fuels and associated energy-intensive products and/or the use of fossil fuels for which such Parties have serious difficulties in switching to alternatives.
+*   10\. The Parties shall, in accordance with [Article 10][813], take into consideration in the implementation of the commitments of the Convention the situation of Parties, particularly developing country Parties, with economies that are vulnerable to the adverse effects of the implementation of measures to respond to climate change. This applies notably to Parties with economies that are highly dependent on income generated from the production, processing and export, and/or consumption of fossil fuels and associated energy-intensive products and/or the use of fossil fuels for which such Parties have serious difficulties in switching to alternatives.
 
 ## Article 5  
 Research and systematic observation
     
-*   In carrying out their commitments under [Article 4][812], paragraph 1(g), the Parties shall:
+*   In carrying out their commitments under [Article 4][814], paragraph 1(g), the Parties shall:
         
     *   (a) Support and further develop, as appropriate, international and intergovernmental programmes and networks or organizations aimed at defining, conducting, assessing and financing research, data collection and systematic observation, taking into account the need to minimize duplication of effort;
     
@@ -13593,7 +13595,7 @@ Research and systematic observation
 ## Article 6  
 Education, training and public awareness
     
-*   In carrying out their commitments under [Article 4][812], paragraph 1(i), the Parties shall:
+*   In carrying out their commitments under [Article 4][814], paragraph 1(i), the Parties shall:
         
     *   (a) Promote and facilitate at the national and, as appropriate, subregional and regional levels, and in accordance with national laws and regulations, and within their respective capacities:
             
@@ -13640,7 +13642,7 @@ Conference of the parties
     
     *   (g) Make recommendations on any matters necessary for the implementation of the Convention;
     
-    *   (h) Seek to mobilize financial resources in accordance with [Article 4][812], paragraphs 3, 4 and 5, and [Article 11][810];
+    *   (h) Seek to mobilize financial resources in accordance with [Article 4][814], paragraphs 3, 4 and 5, and [Article 11][812];
     
     *   (i) Establish such subsidiary bodies as are deemed necessary for the implementation of the Convention;
     
@@ -13656,7 +13658,7 @@ Conference of the parties
 
 *   3\. The Conference of the Parties shall, at its first session, adopt its own rules of procedure as well as those of the subsidiary bodies established by the Convention, which shall include decision-making procedures for matters not already covered by decision-making procedures stipulated in the Convention. Such procedures may include specified majorities required for the adoption of particular decisions.
 
-*   4\. The first session of the Conference of the Parties shall be convened by the interim secretariat referred to in [Article 21][813] and shall take place not later than one year after the date of entry into force of the Convention. Thereafter, ordinary sessions of the Conference of the Parties shall be held every year unless otherwise decided by the Conference of the Parties.
+*   4\. The first session of the Conference of the Parties shall be convened by the interim secretariat referred to in [Article 21][815] and shall take place not later than one year after the date of entry into force of the Convention. Thereafter, ordinary sessions of the Conference of the Parties shall be held every year unless otherwise decided by the Conference of the Parties.
 
 *   5\. Extraordinary sessions of the Conference of the Parties shall be held at such other times as may be deemed necessary by the Conference, or at the written request of any Party, provided that, within six months of the request being communicated to the Parties by the secretariat, it is supported by at least one third of the Parties.
 
@@ -13715,9 +13717,9 @@ Subsidiary body for implementation
 
 *   2\. Under the guidance of the Conference of the Parties, this body shall:
         
-    *   (a) Consider the information communicated in accordance with [Article 12][814], paragraph 1, to assess the overall aggregated effect of the steps taken by the Parties in the light of the latest scientific assessments concerning climate change;
+    *   (a) Consider the information communicated in accordance with [Article 12][816], paragraph 1, to assess the overall aggregated effect of the steps taken by the Parties in the light of the latest scientific assessments concerning climate change;
     
-    *   (b) Consider the information communicated in accordance with [Article 12][451], paragraph 2, in order to assist the Conference of the Parties in carrying out the reviews required by [Article 4][812], paragraph 2(d); and
+    *   (b) Consider the information communicated in accordance with [Article 12][451], paragraph 2, in order to assist the Conference of the Parties in carrying out the reviews required by [Article 4][814], paragraph 2(d); and
     
     *   (c) Assist the Conference of the Parties, as appropriate, in the preparation and implementation of its decisions.
     
@@ -13742,14 +13744,14 @@ Financial mechanism
     
     
 
-*   4\. The Conference of the Parties shall make arrangements to implement the above-mentioned provisions at its first session, reviewing and taking into account the interim arrangements referred to in [Article 21][813], paragraph 3, and shall decide whether these interim arrangements shall be maintained. Within four years thereafter, the Conference of the Parties shall review the financial mechanism and take appropriate measures.
+*   4\. The Conference of the Parties shall make arrangements to implement the above-mentioned provisions at its first session, reviewing and taking into account the interim arrangements referred to in [Article 21][815], paragraph 3, and shall decide whether these interim arrangements shall be maintained. Within four years thereafter, the Conference of the Parties shall review the financial mechanism and take appropriate measures.
 
 *   5\. The developed country Parties may also provide and developing country Parties avail themselves of, financial resources related to the implementation of the Convention through bilateral, regional and other multilateral channels.
 
 ## Article 12  
 Communication of information related to implementation
     
-*   1\. In accordance with [Article 4][812], paragraph 1, each Party shall communicate to the Conference of the Parties, through the secretariat, the following elements of information:
+*   1\. In accordance with [Article 4][814], paragraph 1, each Party shall communicate to the Conference of the Parties, through the secretariat, the following elements of information:
         
     *   (a) A national inventory of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol, to the extent its capacities permit, using comparable methodologies to be promoted and agreed upon by the Conference of the Parties;
     
@@ -13761,21 +13763,21 @@ Communication of information related to implementation
 
 *   2\. Each developed country Party and each other Party included in [Annex I][465] shall incorporate in its communication the following elements of information:
         
-    *   (a) A detailed description of the policies and measures that it has adopted to implement its commitment under [Article 4][812], paragraphs 2(a) and 2(b); and
+    *   (a) A detailed description of the policies and measures that it has adopted to implement its commitment under [Article 4][814], paragraphs 2(a) and 2(b); and
     
-    *   (b) A specific estimate of the effects that the policies and measures referred to in subparagraph (a) immediately above will have on anthropogenic emissions by its sources and removals by its sinks of greenhouse gases during the period referred to in [Article 4][812], paragraph 2(a).
+    *   (b) A specific estimate of the effects that the policies and measures referred to in subparagraph (a) immediately above will have on anthropogenic emissions by its sources and removals by its sinks of greenhouse gases during the period referred to in [Article 4][814], paragraph 2(a).
     
     
 
-*   3\. In addition, each developed country Party and each other developed Party included in [Annex II][809] shall incorporate details of measures taken in accordance with [Article 4][812], paragraphs 3, 4 and 5\.
+*   3\. In addition, each developed country Party and each other developed Party included in [Annex II][811] shall incorporate details of measures taken in accordance with [Article 4][814], paragraphs 3, 4 and 5\.
 
 *   4\. Developing country Parties may, on a voluntary basis, propose projects for financing, including specific technologies, materials, equipment, techniques or practices that would be needed to implement such projects, along with, if possible, an estimate of all incremental costs, of the reductions of emissions and increments of removals of greenhouse gases, as well as an estimate of the consequent benefits.
 
-*   5\. Each developed country Party and each other Party included in [Annex I][465] shall make its initial communication within six months of the entry into force of the Convention for that Party. Each Party not so listed shall make its initial communication within three years of the entry into force of the Convention for that Party, or of the availability of financial resources in accordance with [Article 4,][812] paragraph 3\. Parties that are least developed countries may make their initial communication at their discretion. The frequency of subsequent communications by all Parties shall be determined by the Conference of the Parties, taking into account the differentiated timetable set by this paragraph.
+*   5\. Each developed country Party and each other Party included in [Annex I][465] shall make its initial communication within six months of the entry into force of the Convention for that Party. Each Party not so listed shall make its initial communication within three years of the entry into force of the Convention for that Party, or of the availability of financial resources in accordance with [Article 4,][814] paragraph 3\. Parties that are least developed countries may make their initial communication at their discretion. The frequency of subsequent communications by all Parties shall be determined by the Conference of the Parties, taking into account the differentiated timetable set by this paragraph.
 
 *   6\. Information communicated by Parties under this Article shall be transmitted by the secretariat as soon as possible to the Conference of the Parties and to any subsidiary bodies concerned. If necessary, the procedures for the communication of information may be further considered by the Conference of the Parties.
 
-*   7\. From its first session, the Conference of the Parties shall arrange for the provision to developing country Parties of technical and financial support, on request, in compiling and communicating information under this Article, as well as in identifying the technical and financial needs associated with proposed projects and response measures under [Article 4][812]. Such support may be provided by other Parties, by competent international organizations and by the secretariat, as appropriate.
+*   7\. From its first session, the Conference of the Parties shall arrange for the provision to developing country Parties of technical and financial support, on request, in compiling and communicating information under this Article, as well as in identifying the technical and financial needs associated with proposed projects and response measures under [Article 4][814]. Such support may be provided by other Parties, by competent international organizations and by the secretariat, as appropriate.
 
 *   8\. Any group of Parties may, subject to guidelines adopted by the Conference of the Parties, and to prior notification to the Conference of the Parties, make a joint communication in fulfilment of their obligations under this Article, provided that such a communication includes information on the fulfilment by each of these Parties of its individual obligations under the Convention.
 
@@ -13831,9 +13833,9 @@ Amendments to the Convention
 ## Article 16  
 Adoption and amendment of annexes to the Convention
     
-*   1\. Annexes to the Convention shall form an integral part thereof and, unless otherwise expressly provided, a reference to the Convention constitutes at the same time a reference to any annexes thereto. Without prejudice to the provisions of [Article 14][815], paragraphs 2(b) and 7, such annexes shall be restricted to lists, forms and any other material of a descriptive nature that is of a scientific, technical, procedural or administrative character.
+*   1\. Annexes to the Convention shall form an integral part thereof and, unless otherwise expressly provided, a reference to the Convention constitutes at the same time a reference to any annexes thereto. Without prejudice to the provisions of [Article 14][817], paragraphs 2(b) and 7, such annexes shall be restricted to lists, forms and any other material of a descriptive nature that is of a scientific, technical, procedural or administrative character.
 
-*   2\. Annexes to the Convention shall be proposed and adopted in accordance with the procedure set forth in [Article 15][816], paragraphs 2, 3 and 4\.
+*   2\. Annexes to the Convention shall be proposed and adopted in accordance with the procedure set forth in [Article 15][818], paragraphs 2, 3 and 4\.
 
 *   3\. An annex that has been adopted in accordance with paragraph 2 above shall enter into force for all Parties to the Convention six months after the date of the communication by the Depositary to such Parties of the adoption of the annex, except for those Parties that have notified the Depositary, in writing, within that period of their non-acceptance of the annex. The annex shall enter into force for Parties which withdraw their notification of non-acceptance on the ninetieth day after the date on which withdrawal of such notification has been received by the Depositary.
 
@@ -13864,7 +13866,7 @@ Right to vote
 ## Article 19  
 Depositary
     
-*   The Secretary-General of the United Nations shall be the Depositary of the Convention and of protocols adopted in accordance with [Article 17][817].
+*   The Secretary-General of the United Nations shall be the Depositary of the Convention and of protocols adopted in accordance with [Article 17][819].
 
 ## Article 20  
 Signature
@@ -13874,11 +13876,11 @@ Signature
 ## Article 21  
 Interim arrangements
     
-*   1\. The secretariat functions referred to in [Article 8][818] will be carried out on an interim basis by the secretariat established by the General Assembly of the United Nations in its resolution 45/212 of 21 December 1990, until the completion of the first session of the Conference of the Parties.
+*   1\. The secretariat functions referred to in [Article 8][820] will be carried out on an interim basis by the secretariat established by the General Assembly of the United Nations in its resolution 45/212 of 21 December 1990, until the completion of the first session of the Conference of the Parties.
 
 *   2\. The head of the interim secretariat referred to in paragraph 1 above will cooperate closely with the Intergovernmental Panel on Climate Change to ensure that the Panel can respond to the need for objective scientific and technical advice. Other relevant scientific bodies could also be consulted.
 
-*   3\. The Global Environment Facility of the United Nations Development Programme, the United Nations Environment Programme and the International Bank for Reconstruction and Development shall be the international entity entrusted with the operation of the financial mechanism referred to in [Article 11][810] on an interim basis. In this connection, the Global Environment Facility should be appropriately restructured and its membership made universal to enable it to fulfil the requirements of Article 11\.
+*   3\. The Global Environment Facility of the United Nations Development Programme, the United Nations Environment Programme and the International Bank for Reconstruction and Development shall be the international entity entrusted with the operation of the financial mechanism referred to in [Article 11][812] on an interim basis. In this connection, the Global Environment Facility should be appropriately restructured and its membership made universal to enable it to fulfil the requirements of Article 11\.
 
 ## Article 22  
 Ratification, acceptance, approval or accession
@@ -14076,11 +14078,11 @@ Kyoto Protocol to the United Nations Framework Convention on Climate Change
     
     _Being_ Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as ""the Convention"",
     
-    _In pursuit_ of the ultimate objective of the [Convention][413] as stated in its [Article 2][819],
+    _In pursuit_ of the ultimate objective of the [Convention][413] as stated in its [Article 2][821],
     
     _Recalling_ the provisions of the [Convention][413],
     
-    _Being guided_ by [Article 3][820] of the Convention,
+    _Being guided_ by [Article 3][822] of the Convention,
     
     _Pursuant to_ the Berlin Mandate adopted by decision 1/CP.1 of the Conference of the Parties to the [Convention][413] at its first session,
     
@@ -14088,7 +14090,7 @@ Kyoto Protocol to the United Nations Framework Convention on Climate Change
 
 ## Article 1
 
-For the purposes of this Protocol, the definitions contained in [Article 1][821] of the Convention shall apply. In addition:
+For the purposes of this Protocol, the definitions contained in [Article 1][823] of the Convention shall apply. In addition:
     
 *   1\. ""Conference of the Parties"" means the Conference of the Parties to the [Convention][413].
 
@@ -14102,7 +14104,7 @@ For the purposes of this Protocol, the definitions contained in [Article 1][821]
 
 *   6\. ""Party"" means, unless the context otherwise indicates, a Party to this Protocol.
 
-*   7\. ""Party included in Annex I"" means a Party included in [Annex I][465] to the Convention, as may be amended, or a Party which has made a notification under [Article 4][812], paragraph 2(g), of the Convention.
+*   7\. ""Party included in Annex I"" means a Party included in [Annex I][465] to the Convention, as may be amended, or a Party which has made a notification under [Article 4][814], paragraph 2(g), of the Convention.
 
 ## Article 2
     
@@ -14128,13 +14130,13 @@ For the purposes of this Protocol, the definitions contained in [Article 1][821]
         
         
     
-    *   (b) Cooperate with other such Parties to enhance the individual and combined effectiveness of their policies and measures adopted under this Article, pursuant to [Article 4][812], paragraph 2(e)(i), of the Convention. To this end, these Parties shall take steps to share their experience and exchange information on such policies and measures, including developing ways of improving their comparability, transparency and effectiveness. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first session or as soon as practicable thereafter, consider ways to facilitate such cooperation, taking into account all relevant information.
+    *   (b) Cooperate with other such Parties to enhance the individual and combined effectiveness of their policies and measures adopted under this Article, pursuant to [Article 4][814], paragraph 2(e)(i), of the Convention. To this end, these Parties shall take steps to share their experience and exchange information on such policies and measures, including developing ways of improving their comparability, transparency and effectiveness. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first session or as soon as practicable thereafter, consider ways to facilitate such cooperation, taking into account all relevant information.
     
     
 
 *   2\. The Parties included in [Annex I][465] shall pursue limitation or reduction of emissions of greenhouse gases not controlled by the Montreal Protocol from aviation and marine bunker fuels, working through the International Civil Aviation Organization and the International Maritime Organization, respectively.
 
-*   3\. The Parties included in [Annex I][465] shall strive to implement policies and measures under this Article in such a way as to minimize adverse effects, including the adverse effects of climate change, effects on international trade, and social, environmental and economic impacts on other Parties, especially developing country Parties and in particular those identified in [Article 4][812], paragraphs 8 and 9, of the Convention, taking into account [Article 3][820] of the Convention. The Conference of the Parties serving as the meeting of the Parties to this Protocol may take further action, as appropriate, to promote the implementation of the provisions of this paragraph.
+*   3\. The Parties included in [Annex I][465] shall strive to implement policies and measures under this Article in such a way as to minimize adverse effects, including the adverse effects of climate change, effects on international trade, and social, environmental and economic impacts on other Parties, especially developing country Parties and in particular those identified in [Article 4][814], paragraphs 8 and 9, of the Convention, taking into account [Article 3][822] of the Convention. The Conference of the Parties serving as the meeting of the Parties to this Protocol may take further action, as appropriate, to promote the implementation of the provisions of this paragraph.
 
 *   4\. The Conference of the Parties serving as the meeting of the Parties to this Protocol, if it decides that it would be beneficial to coordinate any of the policies and measures in paragraph 1(a) above, taking into account different national circumstances and potential effects, shall consider ways and means to elaborate the coordination of such policies and measures.
 
@@ -14150,23 +14152,23 @@ For the purposes of this Protocol, the definitions contained in [Article 1][821]
 
 *   5\. The Parties included in [Annex I][465] undergoing the process of transition to a market economy whose base year or period was established pursuant to decision 9/CP.2 of the Conference of the Parties at its second session shall use that base year or period for the implementation of their commitments under this Article. Any other Party included in Annex I undergoing the process of transition to a market economy which has not yet submitted its first national communication under [Article 12][451] of the Convention may also notify the Conference of the Parties serving as the meeting of the Parties to this Protocol that it intends to use an historical base year or period other than 1990 for the implementation of its commitments under this Article. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall decide on the acceptance of such notification.
 
-*   6\. Taking into account [Article 4][812], paragraph 6, of the Convention, in the implementation of their commitments under this Protocol other than those under this Article, a certain degree of flexibility shall be allowed by the Conference of the Parties serving as the meeting of the Parties to this Protocol to the Parties included in [Annex I][465] undergoing the process of transition to a market economy.
+*   6\. Taking into account [Article 4][814], paragraph 6, of the Convention, in the implementation of their commitments under this Protocol other than those under this Article, a certain degree of flexibility shall be allowed by the Conference of the Parties serving as the meeting of the Parties to this Protocol to the Parties included in [Annex I][465] undergoing the process of transition to a market economy.
 
 *   7\. In the first quantified emission limitation and reduction commitment period, from 2008 to 2012, the assigned amount for each Party included in [Annex I][465] shall be equal to the percentage inscribed for it in [Annex B][462] of its aggregate anthropogenic carbon dioxide equivalent emissions of the greenhouse gases listed in [Annex A][449] in 1990, or the base year or period determined in accordance with paragraph 5 above, multiplied by five. Those Parties included in Annex I for whom land-use change and forestry constituted a net source of greenhouse gas emissions in 1990 shall include in their 1990 emissions base year or period the aggregate anthropogenic carbon dioxide equivalent emissions by sources minus removals by sinks in 1990 from land-use change for the purposes of calculating their assigned amount.
 
 *   8\. Any Party included in [Annex I][465] may use 1995 as its base year for hydrofluorocarbons, perfluorocarbons and sulphur hexafluoride, for the purposes of the calculation referred to in paragraph 7 above.
 
-*   9\. Commitments for subsequent periods for Parties included in [Annex I][465] shall be established in amendments to [Annex B][462] to this Protocol, which shall be adopted in accordance with the provisions of [Article 21][822], paragraph 7\. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall initiate the consideration of such commitments at least seven years before the end of the first commitment period referred to in paragraph 1 above.
+*   9\. Commitments for subsequent periods for Parties included in [Annex I][465] shall be established in amendments to [Annex B][462] to this Protocol, which shall be adopted in accordance with the provisions of [Article 21][824], paragraph 7\. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall initiate the consideration of such commitments at least seven years before the end of the first commitment period referred to in paragraph 1 above.
 
-*   10\. Any emission reduction units, or any part of an assigned amount, which a Party acquires from another Party in accordance with the provisions of [Article 6][474] or of [Article 17][823] shall be added to the assigned amount for the acquiring Party.
+*   10\. Any emission reduction units, or any part of an assigned amount, which a Party acquires from another Party in accordance with the provisions of [Article 6][474] or of [Article 17][825] shall be added to the assigned amount for the acquiring Party.
 
-*   11\. Any emission reduction units, or any part of an assigned amount, which a Party transfers to another Party in accordance with the provisions of [Article 6][474] or of [Article 17][823] shall be subtracted from the assigned amount for the transferring Party.
+*   11\. Any emission reduction units, or any part of an assigned amount, which a Party transfers to another Party in accordance with the provisions of [Article 6][474] or of [Article 17][825] shall be subtracted from the assigned amount for the transferring Party.
 
 *   12\. Any certified emission reductions which a Party acquires from another Party in accordance with the provisions of [Article 12][464] shall be added to the assigned amount for the acquiring Party.
 
 *   13\. If the emissions of a Party included in [Annex I][465] in a commitment period are less than its assigned amount under this Article, this difference shall, on request of that Party, be added to the assigned amount for that Party for subsequent commitment periods.
 
-*   14\. Each Party included in [Annex I][465] shall strive to implement the commitments mentioned in paragraph 1 above in such a way as to minimize adverse social, environmental and economic impacts on developing country Parties, particularly those identified in [Article 4][812], paragraphs 8 and 9, of the Convention. In line with relevant decisions of the Conference of the Parties on the implementation of those paragraphs, the Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first session, consider what actions are necessary to minimize the adverse effects of climate change and/or the impacts of response measures on Parties referred to in those paragraphs. Among the issues to be considered shall be the establishment of funding, insurance and transfer of technology.
+*   14\. Each Party included in [Annex I][465] shall strive to implement the commitments mentioned in paragraph 1 above in such a way as to minimize adverse social, environmental and economic impacts on developing country Parties, particularly those identified in [Article 4][814], paragraphs 8 and 9, of the Convention. In line with relevant decisions of the Conference of the Parties on the implementation of those paragraphs, the Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first session, consider what actions are necessary to minimize the adverse effects of climate change and/or the impacts of response measures on Parties referred to in those paragraphs. Among the issues to be considered shall be the establishment of funding, insurance and transfer of technology.
 
 ## Article 4
     
@@ -14180,7 +14182,7 @@ For the purposes of this Protocol, the definitions contained in [Article 1][821]
 
 *   5\. In the event of failure by the Parties to such an agreement to achieve their total combined level of emission reductions, each Party to that agreement shall be responsible for its own level of emissions set out in the agreement.
 
-*   6\. If Parties acting jointly do so in the framework of, and together with, a regional economic integration organization which is itself a Party to this Protocol, each member State of that regional economic integration organization individually, and together with the regional economic integration organization acting in accordance with [Article 24][824], shall, in the event of failure to achieve the total combined level of emission reductions, be responsible for its level of emissions as notified in accordance with this Article.
+*   6\. If Parties acting jointly do so in the framework of, and together with, a regional economic integration organization which is itself a Party to this Protocol, each member State of that regional economic integration organization individually, and together with the regional economic integration organization acting in accordance with [Article 24][826], shall, in the event of failure to achieve the total combined level of emission reductions, be responsible for its level of emissions as notified in accordance with this Article.
 
 ## Article 5
     
@@ -14242,13 +14244,13 @@ For the purposes of this Protocol, the definitions contained in [Article 1][821]
 
 ## Article 9
     
-*   1\. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall periodically review this Protocol in the light of the best available scientific information and assessments on climate change and its impacts, as well as relevant technical, social and economic information. Such reviews shall be coordinated with pertinent reviews under the [Convention][413], in particular those required by [Article 4][812], paragraph 2(d), and [Article 7][808], paragraph 2(a), of the Convention. Based on these reviews, the Conference of the Parties serving as the meeting of the Parties to this Protocol shall take appropriate action.
+*   1\. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall periodically review this Protocol in the light of the best available scientific information and assessments on climate change and its impacts, as well as relevant technical, social and economic information. Such reviews shall be coordinated with pertinent reviews under the [Convention][413], in particular those required by [Article 4][814], paragraph 2(d), and [Article 7][810], paragraph 2(a), of the Convention. Based on these reviews, the Conference of the Parties serving as the meeting of the Parties to this Protocol shall take appropriate action.
 
 *   2\. The first review shall take place at the second session of the Conference of the Parties serving as the meeting of the Parties to this Protocol. Further reviews shall take place at regular intervals and in a timely manner.
 
 ## Article 10
 
-All Parties, taking into account their common but differentiated responsibilities and their specific national and regional development priorities, objectives and circumstances, without introducing any new commitments for Parties not included in [Annex I][465], but reaffirming existing commitments under [Article 4][812], paragraph 1, of the Convention, and continuing to advance the implementation of these commitments in order to achieve sustainable development, taking into account [Article 4][812], paragraphs 3, 5 and 7, of the Convention, shall:
+All Parties, taking into account their common but differentiated responsibilities and their specific national and regional development priorities, objectives and circumstances, without introducing any new commitments for Parties not included in [Annex I][465], but reaffirming existing commitments under [Article 4][814], paragraph 1, of the Convention, and continuing to advance the implementation of these commitments in order to achieve sustainable development, taking into account [Article 4][814], paragraphs 3, 5 and 7, of the Convention, shall:
     
 *   (a) Formulate, where relevant and to the extent possible, cost-effective national and, where appropriate, regional programmes to improve the quality of local emission factors, activity data and/or models which reflect the socio-economic conditions of each Party for the preparation and periodic updating of national inventories of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol, using comparable methodologies to be agreed upon by the Conference of the Parties, and consistent with the guidelines for the preparation of national communications adopted by the Conference of the Parties;
 
@@ -14262,27 +14264,27 @@ All Parties, taking into account their common but differentiated responsibilitie
 
 *   (c) Cooperate in the promotion of effective modalities for the development, application and diffusion of, and take all practicable steps to promote, facilitate and finance, as appropriate, the transfer of, or access to, environmentally sound technologies, know-how, practices and processes pertinent to climate change, in particular to developing countries, including the formulation of policies and programmes for the effective transfer of environmentally sound technologies that are publicly owned or in the public domain and the creation of an enabling environment for the private sector, to promote and enhance the transfer of, and access to, environmentally sound technologies;
 
-*   (d) Cooperate in scientific and technical research and promote the maintenance and the development of systematic observation systems and development of data archives to reduce uncertainties related to the climate system, the adverse impacts of climate change and the economic and social consequences of various response strategies, and promote the development and strengthening of endogenous capacities and capabilities to participate in international and intergovernmental efforts, programmes and networks on research and systematic observation, taking into account [Article 5][825] of the Convention;
+*   (d) Cooperate in scientific and technical research and promote the maintenance and the development of systematic observation systems and development of data archives to reduce uncertainties related to the climate system, the adverse impacts of climate change and the economic and social consequences of various response strategies, and promote the development and strengthening of endogenous capacities and capabilities to participate in international and intergovernmental efforts, programmes and networks on research and systematic observation, taking into account [Article 5][827] of the Convention;
 
-*   (e) Cooperate in and promote at the international level, and, where appropriate, using existing bodies, the development and implementation of education and training programmes, including the strengthening of national capacity building, in particular human and institutional capacities and the exchange or secondment of personnel to train experts in this field, in particular for developing countries, and facilitate at the national level public awareness of, and public access to information on, climate change. Suitable modalities should be developed to implement these activities through the relevant bodies of the [Convention][413], taking into account [Article 6][826] of the Convention;
+*   (e) Cooperate in and promote at the international level, and, where appropriate, using existing bodies, the development and implementation of education and training programmes, including the strengthening of national capacity building, in particular human and institutional capacities and the exchange or secondment of personnel to train experts in this field, in particular for developing countries, and facilitate at the national level public awareness of, and public access to information on, climate change. Suitable modalities should be developed to implement these activities through the relevant bodies of the [Convention][413], taking into account [Article 6][828] of the Convention;
 
 *   (f) Include in their national communications information on programmes and activities undertaken pursuant to this Article in accordance with relevant decisions of the Conference of the Parties; and
 
-*   (g) Give full consideration, in implementing the commitments under this Article, to [Article 4][812], paragraph 8, of the Convention.
+*   (g) Give full consideration, in implementing the commitments under this Article, to [Article 4][814], paragraph 8, of the Convention.
 
 ## Article 11
     
-*   1\. In the implementation of [Article 10][827], Parties shall take into account the provisions of [Article 4][812], paragraphs 4, 5, 7, 8 and 9, of the Convention.
+*   1\. In the implementation of [Article 10][829], Parties shall take into account the provisions of [Article 4][814], paragraphs 4, 5, 7, 8 and 9, of the Convention.
 
-*   2\. In the context of the implementation of [Article 4][812], paragraph 1, of the Convention, in accordance with the provisions of [Article 4][812], paragraph 3, and [Article 11][810] of the Convention, and through the entity or entities entrusted with the operation of the financial mechanism of the Convention, the developed country Parties and other developed Parties included in [Annex II][809] to the Convention shall:
+*   2\. In the context of the implementation of [Article 4][814], paragraph 1, of the Convention, in accordance with the provisions of [Article 4][814], paragraph 3, and [Article 11][812] of the Convention, and through the entity or entities entrusted with the operation of the financial mechanism of the Convention, the developed country Parties and other developed Parties included in [Annex II][811] to the Convention shall:
         
-    *   (a) Provide new and additional financial resources to meet the agreed full costs incurred by developing country Parties in advancing the implementation of existing commitments under [Article 4][812], paragraph 1(a), of the Convention that are covered in [Article 10][827], subparagraph (a); and
+    *   (a) Provide new and additional financial resources to meet the agreed full costs incurred by developing country Parties in advancing the implementation of existing commitments under [Article 4][814], paragraph 1(a), of the Convention that are covered in [Article 10][829], subparagraph (a); and
     
-    *   (b) Also provide such financial resources, including for the transfer of technology, needed by the developing country Parties to meet the agreed full incremental costs of advancing the implementation of existing commitments under [Article 4][812], paragraph 1, of the Convention that are covered by [Article 10][827] and that are agreed between a developing country Party and the international entity or entities referred to in [Article 11][810] of the Convention, in accordance with that Article.
+    *   (b) Also provide such financial resources, including for the transfer of technology, needed by the developing country Parties to meet the agreed full incremental costs of advancing the implementation of existing commitments under [Article 4][814], paragraph 1, of the Convention that are covered by [Article 10][829] and that are agreed between a developing country Party and the international entity or entities referred to in [Article 11][812] of the Convention, in accordance with that Article.
     
     The implementation of these existing commitments shall take into account the need for adequacy and predictability in the flow of funds and the importance of appropriate burden sharing among developed country Parties. The guidance to the entity or entities entrusted with the operation of the financial mechanism of the [Convention][413] in relevant decisions of the Conference of the Parties, including those agreed before the adoption of this Protocol, shall apply _mutatis mutandis_ to the provisions of this paragraph.
 
-*   3\. The developed country Parties and other developed Parties in [Annex II][809] to the Convention may also provide, and developing country Parties avail themselves of, financial resources for the implementation of [Article 10][827], through bilateral, regional and other multilateral channels.
+*   3\. The developed country Parties and other developed Parties in [Annex II][811] to the Convention may also provide, and developing country Parties avail themselves of, financial resources for the implementation of [Article 10][829], through bilateral, regional and other multilateral channels.
 
 ## Article 12
     
@@ -14332,7 +14334,7 @@ All Parties, taking into account their common but differentiated responsibilitie
         
     *   (a) Assess, on the basis of all information made available to it in accordance with the provisions of this Protocol, the implementation of this Protocol by the Parties, the overall effects of the measures taken pursuant to this Protocol, in particular environmental, economic and social effects as well as their cumulative impacts and the extent to which progress towards the objective of the [Convention][413] is being achieved;
     
-    *   (b) Periodically examine the obligations of the Parties under this Protocol, giving due consideration to any reviews required by [Article 4][812], paragraph 2(d), and [Article 7][450], paragraph 2, of the Convention, in the light of the objective of the [Convention][413], the experience gained in its implementation and the evolution of scientific and technological knowledge, and in this respect consider and adopt regular reports on the implementation of this Protocol;
+    *   (b) Periodically examine the obligations of the Parties under this Protocol, giving due consideration to any reviews required by [Article 4][814], paragraph 2(d), and [Article 7][450], paragraph 2, of the Convention, in the light of the objective of the [Convention][413], the experience gained in its implementation and the evolution of scientific and technological knowledge, and in this respect consider and adopt regular reports on the implementation of this Protocol;
     
     *   (c) Promote and facilitate the exchange of information on measures adopted by the Parties to address climate change and its effects, taking into account the differing circumstances, responsibilities and capabilities of the Parties and their respective commitments under this Protocol;
     
@@ -14342,7 +14344,7 @@ All Parties, taking into account their common but differentiated responsibilitie
     
     *   (f) Make recommendations on any matters necessary for the implementation of this Protocol;
     
-    *   (g) Seek to mobilize additional financial resources in accordance with [Article 11][828], paragraph 2;
+    *   (g) Seek to mobilize additional financial resources in accordance with [Article 11][830], paragraph 2;
     
     *   (h) Establish such subsidiary bodies as are deemed necessary for the implementation of this Protocol;
     
@@ -14362,21 +14364,21 @@ All Parties, taking into account their common but differentiated responsibilitie
 
 ## Article 14
     
-*   1\. The secretariat established by [Article 8][818] of the Convention shall serve as the secretariat of this Protocol.
+*   1\. The secretariat established by [Article 8][820] of the Convention shall serve as the secretariat of this Protocol.
 
-*   2\. [Article 8][818], paragraph 2, of the Convention on the functions of the secretariat, and Article 8, paragraph 3, of the Convention on arrangements made for the functioning of the secretariat, shall apply _mutatis mutandis_ to this Protocol. The secretariat shall, in addition, exercise the functions assigned to it under this Protocol.
+*   2\. [Article 8][820], paragraph 2, of the Convention on the functions of the secretariat, and Article 8, paragraph 3, of the Convention on arrangements made for the functioning of the secretariat, shall apply _mutatis mutandis_ to this Protocol. The secretariat shall, in addition, exercise the functions assigned to it under this Protocol.
 
 ## Article 15
     
-*   1\. The Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation established by [Articles 9][829] and [10][811] of the Convention shall serve as, respectively, the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Protocol. The provisions relating to the functioning of these two bodies under the [Convention][413] shall apply _mutatis mutandis_ to this Protocol. Sessions of the meetings of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Protocol shall be held in conjunction with the meetings of, respectively, the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of the Convention.
+*   1\. The Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation established by [Articles 9][831] and [10][813] of the Convention shall serve as, respectively, the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Protocol. The provisions relating to the functioning of these two bodies under the [Convention][413] shall apply _mutatis mutandis_ to this Protocol. Sessions of the meetings of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Protocol shall be held in conjunction with the meetings of, respectively, the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of the Convention.
 
 *   2\. Parties to the [Convention][413] that are not Parties to this Protocol may participate as observers in the proceedings of any session of the subsidiary bodies. When the subsidiary bodies serve as the subsidiary bodies of this Protocol, decisions under this Protocol shall be taken only by those that are Parties to this Protocol.
 
-*   3\. When the subsidiary bodies established by [Articles 9][829] and [10][811] of the Convention exercise their functions with regard to matters concerning this Protocol, any member of the Bureaux of those subsidiary bodies representing a Party to the [Convention][413] but, at that time, not a party to this Protocol, shall be replaced by an additional member to be elected by and from amongst the Parties to this Protocol.
+*   3\. When the subsidiary bodies established by [Articles 9][831] and [10][813] of the Convention exercise their functions with regard to matters concerning this Protocol, any member of the Bureaux of those subsidiary bodies representing a Party to the [Convention][413] but, at that time, not a party to this Protocol, shall be replaced by an additional member to be elected by and from amongst the Parties to this Protocol.
 
 ## Article 16
 
-The Conference of the Parties serving as the meeting of the Parties to this Protocol shall, as soon as practicable, consider the application to this Protocol of, and modify as appropriate, the multilateral consultative process referred to in [Article 13][830] of the Convention, in the light of any relevant decisions that may be taken by the Conference of the Parties. Any multilateral consultative process that may be applied to this Protocol shall operate without prejudice to the procedures and mechanisms established in accordance with [Article 18][831].
+The Conference of the Parties serving as the meeting of the Parties to this Protocol shall, as soon as practicable, consider the application to this Protocol of, and modify as appropriate, the multilateral consultative process referred to in [Article 13][832] of the Convention, in the light of any relevant decisions that may be taken by the Conference of the Parties. Any multilateral consultative process that may be applied to this Protocol shall operate without prejudice to the procedures and mechanisms established in accordance with [Article 18][833].
 
 ## Article 17
 
@@ -14388,7 +14390,7 @@ The Conference of the Parties serving as the meeting of the Parties to this Prot
 
 ## Article 19
 
-The provisions of [Article 14][815] of the Convention on settlement of disputes shall apply _mutatis mutandis_ to this Protocol.
+The provisions of [Article 14][817] of the Convention on settlement of disputes shall apply _mutatis mutandis_ to this Protocol.
 
 ## Article 20
     
@@ -14416,7 +14418,7 @@ The provisions of [Article 14][815] of the Convention on settlement of disputes 
 
 *   6\. If the adoption of an annex or an amendment to an annex involves an amendment to this Protocol, that annex or amendment to an annex shall not enter into force until such time as the amendment to this Protocol enters into force.
 
-*   7\. Amendments to [Annexes A][449] and [B][462] to this Protocol shall be adopted and enter into force in accordance with the procedure set out in [Article 20][832], provided that any amendment to [Annex B][462] shall be adopted only with the written consent of the Party concerned.
+*   7\. Amendments to [Annexes A][449] and [B][462] to this Protocol shall be adopted and enter into force in accordance with the procedure set out in [Article 20][834], provided that any amendment to [Annex B][462] shall be adopted only with the written consent of the Party concerned.
 
 ## Article 22
     
@@ -14622,8 +14624,8 @@ Activities with respect to which persons must be participants
 
 [s 2A][4]
 
-*   Schedule 3: added, on 26 September 2008, by [section 52][833] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
-*   Schedule 3 heading: amended, on 8 December 2009, by [section 85(1)][834] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Schedule 3: added, on 26 September 2008, by [section 52][835] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Schedule 3 heading: amended, on 8 December 2009, by [section 85(1)][836] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ## Part 1  
 Forestry
@@ -14632,14 +14634,14 @@ Forestry
 
 Deforesting pre-1990 forest land other than forest land that under [section 179A][275] may not be treated as deforested, if the area deforested is more than 2 hectares in the 5-year period commencing on 1 January 2008, or in any subsequent 5-year period after that, but excluding any pre-1990 forest land that is affected by a natural event that permanently prevents re-establishing a forest on that land.
     
-*   Schedule 3 Part 1: amended, on 1 January 2013, by [section 101(1)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 1: amended, on 1 January 2013, by [section 101(1)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 ## Part 1A  
 Pre-1990 offsetting forest land
 
 #### (applies on and after 1 January 2013)
     
-*   Schedule 3 Part 1A: inserted, on 1 January 2013, by [section 101(2)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 1A: inserted, on 1 January 2013, by [section 101(2)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 Deforesting pre-1990 offsetting forest land, but excluding any pre-1990 offsetting forest land that is affected by a natural event that permanently prevents re-establishing a forest on that land.
 
@@ -14652,7 +14654,7 @@ Owning obligation fuel---
     
 *   (a) at the time the obligation fuel is---
         
-    *   (i) removed for home consumption in accordance with the [Customs and Excise Act 1996][767]; or
+    *   (i) removed for home consumption in accordance with the [Customs and Excise Act 1996][769]; or
     
     *   (ii) otherwise removed from a refinery, other than for export; and
     
@@ -14667,7 +14669,7 @@ Stationary energy
 
 #### (applies on and after 1 January 2010)
     
-*   Schedule 3 Part 3 subpart 1 heading: inserted, on 1 January 2013, by [section 101(3)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 3 subpart 1 heading: inserted, on 1 January 2013, by [section 101(3)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 Importing coal.
 
@@ -14683,13 +14685,13 @@ Combusting used oil, waste oil, used tyres, or waste for the purpose of generati
 
 Refining petroleum where the refining involves the use of intermediate crude oil products (for example, refinery fuels and gases) for energy or feedstock purposes.
     
-*   Schedule 3 Part 3 subpart 1: amended, on 1 January 2013, by [section 101(5)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 3 subpart 1: amended, on 1 January 2013, by [section 101(5)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 #### Subpart 2
 
 #### (applies on and after 1 January 2014)
     
-*   Schedule 3 Part 3 subpart 2: inserted, on 1 January 2013, by [section 101(4)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 3 subpart 2: inserted, on 1 January 2013, by [section 101(4)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 Using crude oil or other liquid hydrocarbons (other than obligation fuel or as specified in Part 3) where any prescribed threshold is met.
 
@@ -14710,13 +14712,13 @@ Producing glass using soda ash.
 
 Producing gold.
     
-*   Schedule 3 Part 4 subpart 1: amended, on 8 December 2009, by [section 85(2)][834] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Schedule 3 Part 4 subpart 1: amended, on 8 December 2009, by [section 85(2)][836] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 #### Subpart 2
 
 #### (applies, subject to [sections 218][337] and [219][338], on and after 1 January 2011)
     
-*   Schedule 3 Part 4 subpart 2: replaced, on 1 January 2013, by [section 101(6)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 4 subpart 2: replaced, on 1 January 2013, by [section 101(6)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 Operating electrical switchgear that uses sulphur hexafluoride where any prescribed threshold is met.
 
@@ -14729,35 +14731,35 @@ Agriculture
 
 #### Subpart 1---Fertiliser (processor)
 
-#### (applies, subject to [sections 218][337] and [219][338], on and after 1 January 2011 unless subpart 2 brought into force)
+#### (applies, subject to sections 218 and 219, on and after 1 January 2011 unless subpart 2 brought into force)
 
 Importing or manufacturing synthetic fertilisers containing nitrogen.
 
 #### Subpart 2---Fertiliser (farmer)
 
-#### (applies, subject to [sections 218][337] and [219][338], from 1 January 2011, if determined by Order in Council)
+#### (applies, subject to sections 218 and 219, from 1 January 2011, if determined by Order in Council)
 
 Purchasing, other than for on-selling, synthetic fertiliser containing nitrogen for application to land.
     
-*   Schedule 3 Part 5 subpart 2: amended, on 8 December 2009, by [section 85(3)][834] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Schedule 3 Part 5 subpart 2: amended, on 8 December 2009, by [section 85(3)][836] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 #### Subpart 3---Animals (processor)
 
-#### (applies, subject to [sections 218][337] and [219][338], on and after 1 January 2011 unless subpart 4 brought into force)
+#### (applies, subject to sections 218 and 219, on and after 1 January 2011 unless subpart 4 brought into force)
 
-Slaughtering ruminant animals, pigs, horses, or poultry by a person who is the operator of a risk management programme registered under the [Animal Products Act 1999][836] for the slaughter of animals.
+Slaughtering ruminant animals, pigs, horses, or poultry by a person who is the operator of a risk management programme registered under the [Animal Products Act 1999][838] for the slaughter of animals.
 
 Dairy processing of milk or colostrum.
 
 Exporting from New Zealand live cattle, sheep, or pigs in accordance with an animal welfare export certificate.
     
-*   Schedule 3 Part 5 subpart 3: amended, on 1 January 2013, by [section 101(7)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
-*   Schedule 3 Part 5 subpart 3: amended, on 1 January 2013, by [section 101(8)][835] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
-*   Schedule 3 Part 5 subpart 3: amended, on 8 December 2009, by [section 85(4)][834] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Schedule 3 Part 5 subpart 3: amended, on 1 January 2013, by [section 101(7)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 5 subpart 3: amended, on 1 January 2013, by [section 101(8)][837] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 3 Part 5 subpart 3: amended, on 8 December 2009, by [section 85(4)][836] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 #### Subpart 4---Animals (farmer)
 
-#### (applies, subject to [sections 218][337] and [219][338], from 1 January 2011, if determined by Order in Council)
+#### (applies, subject to sections 218 and 219, from 1 January 2011, if determined by Order in Council)
 
 Farming, raising, growing, or keeping ruminant animals, pigs, horses, or poultry for---
     
@@ -14768,7 +14770,7 @@ Farming, raising, growing, or keeping ruminant animals, pigs, horses, or poultry
 ## Part 6  
 Waste
 
-#### (applies, subject to [sections 218][337] and [219][338], on and after 1 January 2011)
+#### (applies, subject to sections 218 and 219, on and after 1 January 2011)
 
 Operating a disposal facility.
 
@@ -14779,17 +14781,17 @@ Activities with respect to which persons may be participants
 
 [s 2A][4]
 
-*   Schedule 4: added, on 26 September 2008, by [section 52][833] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
-*   Schedule 4 heading: amended, on 8 December 2009, by [section 86(1)][837] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Schedule 4: added, on 26 September 2008, by [section 52][835] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+*   Schedule 4 heading: amended, on 8 December 2009, by [section 86(1)][839] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ## Part 1  
 Forestry removal activities
 
 #### (applies on and after 1 January 2008)
 
-Owning post-1989 forest land, other than post-1989 forest land that is subject to a forest sink covenant registered under [section 67ZD][753] of the Forests Act 1949\.
+Owning post-1989 forest land, other than post-1989 forest land that is subject to a forest sink covenant registered under [section 67ZD][755] of the Forests Act 1949\.
 
-Holding a registered forestry right or being the leaseholder under a registered lease of post-1989 forest land, other than post-1989 forest land that is subject to a forest sink covenant registered under [section 67ZD][753] of the Forests Act 1949\.
+Holding a registered forestry right or being the leaseholder under a registered lease of post-1989 forest land, other than post-1989 forest land that is subject to a forest sink covenant registered under [section 67ZD][755] of the Forests Act 1949\.
 
 Being a party to a Crown conservation contract.
 
@@ -14836,9 +14838,9 @@ Storing of carbon dioxide after capture, where---
 
 #### Subpart 3
 
-#### (applies, subject to [sections 218][337], [219][338], and [220][339], on and after 1 January 2011)
+#### (applies, subject to sections 218, 219, and 220, on and after 1 January 2011)
     
-*   Schedule 4 Part 2 subpart 3: replaced, on 1 January 2013, by [section 102(1)][838] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+*   Schedule 4 Part 2 subpart 3: replaced, on 1 January 2013, by [section 102(1)][840] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
 
 Exporting hydrofluorocarbons or perfluorocarbons, including hydrofluorocarbons or perfluorocarbons contained in goods, where any prescribed threshold is met.
 
@@ -14847,9 +14849,9 @@ Destroying hydrofluorocarbons or perfluorocarbons where any prescribed threshold
 ## Part 3  
 Liquid fossil fuels
 
-#### (applies, subject to [sections 218][337], [219][338], and [221][340], on and after 1 January 2008)
+#### (applies, subject to sections 218, 219, and 221, on and after 1 January 2008)
 
-Purchasing obligation jet fuel from 1 or more participants who carry out an activity listed in [Part 2][612] of Schedule 3, if the obligation jet fuel purchased exceeds 10 million litres per year.
+Purchasing obligation jet fuel from 1 or more participants who carry out an activity listed in [Part 2][614] of Schedule 3, if the obligation jet fuel purchased exceeds 10 million litres per year.
 
 ## Part 4  
 Stationary energy
@@ -14865,7 +14867,7 @@ Agriculture
 
 \[Repealed\]
     
-*   Schedule 4 Part 5: repealed, on 8 December 2009, by [section 86(2)][837] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+*   Schedule 4 Part 5: repealed, on 8 December 2009, by [section 86(2)][839] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ---
 
@@ -14877,7 +14879,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Climate Change Response (Emissions Trading) Amendment Act 2008][839].
+*   This Act is the [Climate Change Response (Emissions Trading) Amendment Act 2008][841].
 
 ##### 2 Commencement
     
@@ -14909,23 +14911,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Climate Change Response Act 2002\. The reprint incorporates all the amendments to the Act as at 1 January 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Climate Change Response Act 2002\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][840] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][842] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][841] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][843] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][842] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][844] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][843] and [17E][844] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][845] and [17E][846] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -14956,29 +14958,31 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012][740] (2012 No 89)
+*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][491]
     
-    Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][750]
+    [Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012][742] (2012 No 89)
     
-    [Climate Change Response Amendment Act 2011][845] (2011 No 15)
+    Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][752]
     
-    [Climate Change Response (Moderated Emissions Trading) Amendment Act 2009][846] (2009 No 57)
+    [Climate Change Response Amendment Act 2011][847] (2011 No 15)
     
-    [Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009][847] (2009 No 19)
+    [Climate Change Response (Moderated Emissions Trading) Amendment Act 2009][848] (2009 No 57)
     
-    [Climate Change Response (Emissions Trading) Amendment Act 2008][839] (2008 No 85)
+    [Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009][849] (2009 No 19)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][584]
+    [Climate Change Response (Emissions Trading) Amendment Act 2008][841] (2008 No 85)
+    
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][586]
     
     [Climate Change Response Act Commencement Order 2007][425] (SR 2007/336)
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][558]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][560]
     
-    [Climate Change Response Amendment Act 2006][848] (2006 No 59)
+    [Climate Change Response Amendment Act 2006][850] (2006 No 59)
     
     [Climate Change Response Act Commencement Order 2003][420] (SR 2003/151)
     
-    Local Government Act 2002 (2002 No 84): [section 262][490]
+    Local Government Act 2002 (2002 No 84): [section 262][492]
 
 ---
 
@@ -15462,377 +15466,379 @@ Commencementsee section 2
 [472]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3366850
 [473]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM377342
 [474]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160411
-[475]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM289897
-[476]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM289881
-[477]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM170872
-[478]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM433619
-[479]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM72448
-[480]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM269031
-[481]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM140136
-[482]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM141134
-[483]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2214228
-[484]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM314622
-[485]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1130942
-[486]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676527
-[487]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381647
-[488]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390421
-[489]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718908
-[490]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM174088
-[491]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676586
-[492]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381668
-[493]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676588
-[494]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390447
-[495]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131070
-[496]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676590
-[497]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM329630
-[498]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370140
-[499]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718925
-[500]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390449
-[501]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390451
-[502]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1582115
-[503]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718926
-[504]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM129566
-[505]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131071
-[506]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676591
-[507]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390452
-[508]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718930
-[509]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718932
-[510]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390453
-[511]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595480
-[512]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131075
-[513]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390456
-[514]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131076
-[515]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131077
-[516]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM129117
-[517]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381669
-[518]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390458
-[519]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131078
-[520]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390459
-[521]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370142
-[522]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131079
-[523]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381671
-[524]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131081
-[525]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131082
-[526]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595482
-[527]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676592
-[528]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595483
-[529]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131085
-[530]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131087
-[531]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390466
-[532]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131088
-[533]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390467
-[534]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595484
-[535]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131089
-[536]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595485
-[537]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390468
-[538]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595486
-[539]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370145
-[540]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131091
-[541]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676593
-[542]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390471
-[543]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131092
-[544]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370146
-[545]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595487
-[546]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390472
-[547]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390473
-[548]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131094
-[549]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390475
-[550]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370147
-[551]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370148
-[552]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676594
-[553]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390477
-[554]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131096
-[555]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390480
-[556]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131097
-[557]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM969625
-[558]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM969644
-[559]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131098
-[560]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811707
-[561]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381673
-[562]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM46194
-[563]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676598
-[564]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718933
-[565]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811708
-[566]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676599
-[567]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677200
-[568]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131106
-[569]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2481819
-[570]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2481827
-[571]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677201
-[572]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390486
-[573]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370152
-[574]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131108
-[575]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390487
-[576]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390488
-[577]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131109
-[578]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM264291
-[579]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131110
-[580]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677202
-[581]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718934
-[582]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131111
-[583]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131112
-[584]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1102349
-[585]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM204978
-[586]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM314018
-[587]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM314010
-[588]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131113
-[589]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131115
-[590]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131116
-[591]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131117
-[592]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM130706
-[593]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131119
-[594]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677203
-[595]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381674
-[596]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131120
-[597]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677204
-[598]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM296638
-[599]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131122
-[600]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM99773
-[601]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131123
-[602]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381675
-[603]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595489
-[604]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677206
-[605]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381677
-[606]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381678
-[607]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677207
-[608]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381679
-[609]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595490
-[610]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381681
-[611]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595491
-[612]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM1662844
-[613]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677208
-[614]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595492
-[615]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677210
-[616]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677212
-[617]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595493
-[618]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1662842
-[619]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381685
-[620]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195534
-[621]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195097
-[622]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM154882
-[623]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM192328
-[624]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM397619
-[625]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM394199
-[626]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM64784
-[627]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811711
-[628]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2645308
-[629]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM311475
-[630]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM312761
-[631]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM312772
-[632]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM313018
-[633]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677213
-[634]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677214
-[635]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677215
-[636]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677216
-[637]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677217
-[638]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677219
-[639]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677220
-[640]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677223
-[641]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677224
-[642]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677225
-[643]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718935
-[644]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718937
-[645]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595526
-[646]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677226
-[647]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM330308
-[648]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718938
-[649]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM330364
-[650]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718940
-[651]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381748
-[652]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677227
-[653]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718941
-[654]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM160808
-[655]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718942
-[656]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677229
-[657]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595527
-[658]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677230
-[659]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381749
-[660]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677231
-[661]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677232
-[662]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677233
-[663]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677234
-[664]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595528
-[665]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381751
-[666]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677235
-[667]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595529
-[668]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595530
-[669]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677236
-[670]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381752
-[671]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677237
-[672]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595532
-[673]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595533
-[674]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595534
-[675]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677238
-[676]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677240
-[677]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595535
-[678]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677241
-[679]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595537
-[680]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677242
-[681]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595538
-[682]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677243
-[683]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718943
-[684]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677244
-[685]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM311191
-[686]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677245
-[687]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677246
-[688]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM154184
-[689]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595539
-[690]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595540
-[691]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595541
-[692]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595543
-[693]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595544
-[694]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595545
-[695]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677248
-[696]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595546
-[697]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595548
-[698]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM45426
-[699]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM45433
-[700]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM327640
-[701]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM319569
-[702]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM385298
-[703]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677249
-[704]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677252
-[705]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM129109
-[706]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381769
-[707]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677254
-[708]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677255
-[709]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677256
-[710]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM1662848
-[711]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677257
-[712]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381775
-[713]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677258
-[714]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718945
-[715]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677259
-[716]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677260
-[717]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381776
-[718]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381777
-[719]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155111
-[720]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677261
-[721]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677262
-[722]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155119
-[723]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195549
-[724]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM128740
-[725]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677263
-[726]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4973130
-[727]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1662691
-[728]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4973705
-[729]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1662782
-[730]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1035005
-[731]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677268
-[732]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677269
-[733]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811712
-[734]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381778
-[735]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677271
-[736]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677272
-[737]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595564
-[738]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155112
-[739]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677273
-[740]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676511
-[741]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM4676511
-[742]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811713
-[743]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595565
-[744]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677277
-[745]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677278
-[746]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677279
-[747]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM230264
-[748]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM255625
-[749]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595567
-[750]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3388552
-[751]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677290
-[752]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677291
-[753]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM257126
-[754]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595568
-[755]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677293
-[756]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677294
-[757]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595569
-[758]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677296
-[759]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595570
-[760]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677297
-[761]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595587
-[762]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677298
-[763]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155113
-[764]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595588
-[765]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381801
-[766]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381802
-[767]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM377336
-[768]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM242535
-[769]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677303
-[770]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595589
-[771]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM351644
-[772]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM442682
-[773]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381805
-[774]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM319999
-[775]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595590
-[776]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677304
-[777]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381810
-[778]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381811
-[779]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381815
-[780]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677305
-[781]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381816
-[782]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1635600
-[783]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2394206
-[784]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595593
-[785]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677306
-[786]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595594
-[787]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595596
-[788]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM981445
-[789]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677307
-[790]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595597
-[791]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677308
-[792]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381828
-[793]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595702
-[794]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677309
-[795]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381829
-[796]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677310
-[797]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM433612
-[798]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM136767
-[799]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378665
-[800]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378689
-[801]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378690
-[802]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378695
-[803]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378900
-[804]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378905
-[805]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378909
-[806]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2473400
-[807]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160059
-[808]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160062
-[809]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160086
-[810]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160066
-[811]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160065
-[812]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160058
-[813]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160077
-[814]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2481854
-[815]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160069
-[816]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160070
-[817]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160073
-[818]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160063
-[819]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160407
-[820]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160057
-[821]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160045
-[822]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160426
-[823]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160422
-[824]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160429
-[825]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160060
-[826]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160061
-[827]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160415
-[828]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160416
-[829]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160064
-[830]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160068
-[831]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160423
-[832]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160425
-[833]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131291
-[834]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595607
-[835]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677369
-[836]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM33501
-[837]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595608
-[838]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677374
-[839]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1130900
-[840]: http://www.pco.parliament.govt.nz/reprints/
-[841]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195439
-[842]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[843]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195468
-[844]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195470
-[845]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718904
-[846]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381600
-[847]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155100
-[848]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390412
+[475]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM5224033
+[476]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM289897
+[477]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM289881
+[478]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM170872
+[479]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM433619
+[480]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM72448
+[481]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM269031
+[482]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM140136
+[483]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM141134
+[484]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2214228
+[485]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM314622
+[486]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1130942
+[487]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676527
+[488]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381647
+[489]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390421
+[490]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718908
+[491]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM5081570
+[492]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM174088
+[493]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676586
+[494]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381668
+[495]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676588
+[496]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390447
+[497]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131070
+[498]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676590
+[499]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM329630
+[500]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370140
+[501]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718925
+[502]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390449
+[503]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390451
+[504]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1582115
+[505]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718926
+[506]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM129566
+[507]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131071
+[508]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676591
+[509]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390452
+[510]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718930
+[511]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718932
+[512]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390453
+[513]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595480
+[514]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131075
+[515]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390456
+[516]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131076
+[517]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131077
+[518]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM129117
+[519]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381669
+[520]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390458
+[521]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131078
+[522]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390459
+[523]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370142
+[524]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131079
+[525]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381671
+[526]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131081
+[527]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131082
+[528]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595482
+[529]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676592
+[530]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595483
+[531]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131085
+[532]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131087
+[533]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390466
+[534]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131088
+[535]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390467
+[536]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595484
+[537]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131089
+[538]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595485
+[539]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390468
+[540]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595486
+[541]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370145
+[542]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131091
+[543]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676593
+[544]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390471
+[545]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131092
+[546]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370146
+[547]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595487
+[548]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390472
+[549]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390473
+[550]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131094
+[551]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390475
+[552]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370147
+[553]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370148
+[554]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676594
+[555]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390477
+[556]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131096
+[557]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390480
+[558]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131097
+[559]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM969625
+[560]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM969644
+[561]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131098
+[562]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811707
+[563]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381673
+[564]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM46194
+[565]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676598
+[566]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718933
+[567]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811708
+[568]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676599
+[569]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677200
+[570]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131106
+[571]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2481819
+[572]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2481827
+[573]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677201
+[574]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390486
+[575]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1370152
+[576]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131108
+[577]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390487
+[578]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390488
+[579]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131109
+[580]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM264291
+[581]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131110
+[582]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677202
+[583]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718934
+[584]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131111
+[585]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131112
+[586]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1102349
+[587]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM204978
+[588]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM314018
+[589]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM314010
+[590]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131113
+[591]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131115
+[592]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131116
+[593]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131117
+[594]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM130706
+[595]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131119
+[596]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677203
+[597]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381674
+[598]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131120
+[599]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677204
+[600]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM296638
+[601]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131122
+[602]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM99773
+[603]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131123
+[604]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381675
+[605]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595489
+[606]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677206
+[607]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381677
+[608]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381678
+[609]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677207
+[610]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381679
+[611]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595490
+[612]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381681
+[613]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595491
+[614]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM1662844
+[615]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677208
+[616]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595492
+[617]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677210
+[618]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677212
+[619]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595493
+[620]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1662842
+[621]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381685
+[622]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195534
+[623]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195097
+[624]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM154882
+[625]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM192328
+[626]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM397619
+[627]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM394199
+[628]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM64784
+[629]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811711
+[630]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2645308
+[631]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM311475
+[632]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM312761
+[633]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM312772
+[634]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM313018
+[635]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677213
+[636]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677214
+[637]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677215
+[638]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677216
+[639]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677217
+[640]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677219
+[641]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677220
+[642]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677223
+[643]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677224
+[644]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677225
+[645]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718935
+[646]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718937
+[647]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595526
+[648]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677226
+[649]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM330308
+[650]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718938
+[651]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM330364
+[652]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718940
+[653]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381748
+[654]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677227
+[655]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718941
+[656]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM160808
+[657]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718942
+[658]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677229
+[659]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595527
+[660]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677230
+[661]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381749
+[662]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677231
+[663]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677232
+[664]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677233
+[665]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677234
+[666]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595528
+[667]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381751
+[668]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677235
+[669]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595529
+[670]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595530
+[671]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677236
+[672]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381752
+[673]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677237
+[674]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595532
+[675]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595533
+[676]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595534
+[677]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677238
+[678]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677240
+[679]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595535
+[680]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677241
+[681]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595537
+[682]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677242
+[683]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595538
+[684]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677243
+[685]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718943
+[686]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677244
+[687]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM311191
+[688]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677245
+[689]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677246
+[690]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM154184
+[691]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595539
+[692]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595540
+[693]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595541
+[694]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595543
+[695]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595544
+[696]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595545
+[697]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677248
+[698]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595546
+[699]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595548
+[700]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM45426
+[701]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM45433
+[702]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM327640
+[703]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM319569
+[704]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM385298
+[705]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677249
+[706]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677252
+[707]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM129109
+[708]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381769
+[709]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677254
+[710]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677255
+[711]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677256
+[712]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM1662848
+[713]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677257
+[714]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381775
+[715]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677258
+[716]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718945
+[717]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677259
+[718]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677260
+[719]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381776
+[720]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381777
+[721]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155111
+[722]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677261
+[723]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677262
+[724]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155119
+[725]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195549
+[726]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM128740
+[727]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677263
+[728]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4973130
+[729]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1662691
+[730]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4973705
+[731]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1662782
+[732]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1035005
+[733]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677268
+[734]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677269
+[735]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811712
+[736]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381778
+[737]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677271
+[738]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677272
+[739]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595564
+[740]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155112
+[741]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677273
+[742]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4676511
+[743]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM4676511
+[744]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4811713
+[745]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595565
+[746]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677277
+[747]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677278
+[748]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677279
+[749]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM230264
+[750]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM255625
+[751]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595567
+[752]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3388552
+[753]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677290
+[754]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677291
+[755]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM257126
+[756]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595568
+[757]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677293
+[758]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677294
+[759]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595569
+[760]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677296
+[761]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595570
+[762]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677297
+[763]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595587
+[764]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677298
+[765]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155113
+[766]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595588
+[767]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381801
+[768]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381802
+[769]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM377336
+[770]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM242535
+[771]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677303
+[772]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595589
+[773]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM351644
+[774]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM442682
+[775]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381805
+[776]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM319999
+[777]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595590
+[778]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677304
+[779]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381810
+[780]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381811
+[781]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381815
+[782]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677305
+[783]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381816
+[784]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1635600
+[785]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2394206
+[786]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595593
+[787]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677306
+[788]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595594
+[789]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595596
+[790]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM981445
+[791]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677307
+[792]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595597
+[793]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677308
+[794]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381828
+[795]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595702
+[796]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677309
+[797]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381829
+[798]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677310
+[799]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM433612
+[800]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM136767
+[801]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378665
+[802]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378689
+[803]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378690
+[804]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378695
+[805]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378900
+[806]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378905
+[807]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378909
+[808]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2473400
+[809]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160059
+[810]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160062
+[811]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160086
+[812]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160066
+[813]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160065
+[814]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160058
+[815]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160077
+[816]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2481854
+[817]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160069
+[818]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160070
+[819]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160073
+[820]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160063
+[821]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160407
+[822]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160057
+[823]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160045
+[824]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160426
+[825]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160422
+[826]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160429
+[827]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160060
+[828]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160061
+[829]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160415
+[830]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160416
+[831]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160064
+[832]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160068
+[833]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160423
+[834]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160425
+[835]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131291
+[836]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595607
+[837]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677369
+[838]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM33501
+[839]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2595608
+[840]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM4677374
+[841]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1130900
+[842]: http://www.pco.parliament.govt.nz/reprints/
+[843]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195439
+[844]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[845]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195468
+[846]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM195470
+[847]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM3718904
+[848]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2381600
+[849]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM2155100
+[850]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM390412
