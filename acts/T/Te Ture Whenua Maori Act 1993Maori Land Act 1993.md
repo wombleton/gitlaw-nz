@@ -1,5 +1,5 @@
 Reprint  
-as at 16 September 2011
+as at 24 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -28,997 +28,997 @@ This Act is administered by Te Puni Kōkiri.
     
 *   [Preamble][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
-[2][4] [Interpretation of Act generally][4]
+[2][4][][4][Interpretation of Act generally][4]
 
-[3][5] [Interpretation of Maori terms][5] \[Repealed\]
+[3][5][][5][Interpretation of Maori terms][5] \[Repealed\]
 
-[4][6] [Interpretation][6]
+[4][6][][6][Interpretation][6]
 
-[5][7] [Act to bind the Crown][7]
+[5][7][][7][Act to bind the Crown][7]
 
 [Part 1][8]  
 [The Maori Land Court][8]
 
 [Constitution of court][9]
 
-[6][10] [Maori Land Court to continue][10]
+[6][10][][10][Maori Land Court to continue][10]
 
-[7][11] [Appointment of Judges][11]
+[7][11][][11][Appointment of Judges][11]
 
-[7A][12] [Judges act on full-time basis but may be authorised to act part-time][12]
+[7A][12][][12][Judges act on full-time basis but may be authorised to act part-time][12]
 
-[8][13] [Chief Judge and deputy][13]
+[8][13][][13][Chief Judge and deputy][13]
 
-[8A][14] [Delegation to Deputy Chief Judge][14]
+[8A][14][][14][Delegation to Deputy Chief Judge][14]
 
-[9][15] [Appointment of temporary Judges][15]
+[9][15][][15][Appointment of temporary Judges][15]
 
-[10][16] [Former Judges][16]
+[10][16][][16][Former Judges][16]
 
-[11][17] [Certificate by Chief Judge and 1 other Judge prerequisite][17]
+[11][17][][17][Certificate by Chief Judge and 1 other Judge prerequisite][17]
 
-[12][18] [Tenure of office][18]
+[12][18][][18][Tenure of office][18]
 
-[12A][19] [Judges to have immunities of High Court Judges][19]
+[12A][19][][19][Judges to have immunities of High Court Judges][19]
 
-[13][20] [Salaries and allowances of Judges][20]
+[13][20][][20][Salaries and allowances of Judges][20]
 
-[14][21] [Administration of court][21]
+[14][21][][21][Administration of court][21]
 
-[15][22] [Court districts][22]
+[15][22][][22][Court districts][22]
 
-[16][23] [Seal of court][23]
+[16][23][][23][Seal of court][23]
 
 [Objectives, jurisdiction, and powers][24]
 
-[17][25] [General objectives][25]
+[17][25][][25][General objectives][25]
 
-[18][26] [General jurisdiction of court][26]
+[18][26][][26][General jurisdiction of court][26]
 
-[19][27] [Jurisdiction in respect of injunctions][27]
+[19][27][][27][Jurisdiction in respect of injunctions][27]
 
-[20][28] [Jurisdiction in actions for recovery of land][28]
+[20][28][][28][Jurisdiction in actions for recovery of land][28]
 
-[21][29] [Power of court to grant relief against forfeiture][29]
+[21][29][][29][Power of court to grant relief against forfeiture][29]
 
-[22][30] [Power of court to grant relief against refusal to grant renewal][30]
+[22][30][][30][Power of court to grant relief against refusal to grant renewal][30]
 
-[22A][31] [Power of court to grant specific performance of leases of Maori freehold land][31]
+[22A][31][][31][Power of court to grant specific performance of leases of Maori freehold land][31]
 
-[23][32] [Power of court to authorise entry for erecting or repairing buildings, etc][32]
+[23][32][][32][Power of court to authorise entry for erecting or repairing buildings, etc][32]
 
-[24][33] [Power of court to grant relief if building is on wrong land or encroachment exists][33]
+[24][33][][33][Power of court to grant relief if building is on wrong land or encroachment exists][33]
 
-[24A][34] [Powers of court under Contracts (Privity) Act 1982 and Contractual Remedies Act 1979][34]
+[24A][34][][34][Powers of court under Contracts (Privity) Act 1982 and Contractual Remedies Act 1979][34]
 
-[24B][35] [Power to award interest on debt or damages][35]
+[24B][35][][35][Power to award interest on debt or damages][35]
 
-[25][36] [Power of court to make order to restore effect of lost instruments of alienation][36]
+[25][36][][36][Power of court to make order to restore effect of lost instruments of alienation][36]
 
-[26][37] [Jurisdiction of court under Fencing Act 1978][37]
+[26][37][][37][Jurisdiction of court under Fencing Act 1978][37]
 
 [Jurisdiction of court under Maori Fisheries Act 2004][38]
 
-[26A][39] [Interpretation][39]
+[26A][39][][39][Interpretation][39]
 
-[26B][40] [Advisory jurisdiction of court][40]
+[26B][40][][40][Advisory jurisdiction of court][40]
 
-[26C][41] [Jurisdiction of court to make determinations][41]
+[26C][41][][41][Jurisdiction of court to make determinations][41]
 
-[26D][42] [Principles applying to exercise of jurisdiction in relation to Maori Fisheries Act 2004][42]
+[26D][42][][42][Principles applying to exercise of jurisdiction in relation to Maori Fisheries Act 2004][42]
 
-[26E][43] [Procedure of court in its advisory jurisdiction][43]
+[26E][43][][43][Procedure of court in its advisory jurisdiction][43]
 
-[26F][44] [Procedure of court in making determinations][44]
+[26F][44][][44][Procedure of court in making determinations][44]
 
-[26G][45] [Powers of court if application referred under section 26F(3)(b)][45]
+[26G][45][][45][Powers of court if application referred under section 26F(3)(b)][45]
 
-[26H][46] [Appointment of mediator][46]
+[26H][46][][46][Appointment of mediator][46]
 
-[26I][47] [Judge appointed as mediator][47]
+[26I][47][][47][Judge appointed as mediator][47]
 
-[26J][48] [Conduct of mediation][48]
+[26J][48][][48][Conduct of mediation][48]
 
-[26K][49] [Successful mediation][49]
+[26K][49][][49][Successful mediation][49]
 
-[26L][50] [Unsuccessful mediation][50]
+[26L][50][][50][Unsuccessful mediation][50]
 
-[26M][51] [Orders and interim orders][51]
+[26M][51][][51][Orders and interim orders][51]
 
-[26N][52] [Proceedings where additional members appointed][52]
+[26N][52][][52][Proceedings where additional members appointed][52]
 
 [Jurisdiction of court under Maori Commercial Aquaculture Claims Settlement Act 2004][53]
 
-[26O][54] [Interpretation][54]
+[26O][54][][54][Interpretation][54]
 
-[26P][55] [Advisory jurisdiction of court][55]
+[26P][55][][55][Advisory jurisdiction of court][55]
 
-[26Q][56] [Jurisdiction of court to make determinations][56]
+[26Q][56][][56][Jurisdiction of court to make determinations][56]
 
-[26R][57] [Principles applying to exercise of jurisdiction in relation to Maori Commercial Aquaculture Claims Settlement Act 2004][57]
+[26R][57][][57][Principles applying to exercise of jurisdiction in relation to Maori Commercial Aquaculture Claims Settlement Act 2004][57]
 
-[26S][58] [Procedure of court in its advisory jurisdiction][58]
+[26S][58][][58][Procedure of court in its advisory jurisdiction][58]
 
-[26T][59] [Procedure of court in making determinations][59]
+[26T][59][][59][Procedure of court in making determinations][59]
 
-[26U][60] [Powers of court if application referred under section 26T(3)(b)][60]
+[26U][60][][60][Powers of court if application referred under section 26T(3)(b)][60]
 
-[26V][61] [Appointment of mediator][61]
+[26V][61][][61][Appointment of mediator][61]
 
-[26W][62] [Judge appointed as mediator][62]
+[26W][62][][62][Judge appointed as mediator][62]
 
-[26X][63] [Conduct of mediation][63]
+[26X][63][][63][Conduct of mediation][63]
 
-[26Y][64] [Successful mediation][64]
+[26Y][64][][64][Successful mediation][64]
 
-[26Z][65] [Unsuccessful mediation][65]
+[26Z][65][][65][Unsuccessful mediation][65]
 
-[26ZA][66] [Orders and interim orders][66]
+[26ZA][66][][66][Orders and interim orders][66]
 
-[26ZB][67] [Proceedings where additional members appointed][67]
+[26ZB][67][][67][Proceedings where additional members appointed][67]
 
-[27][68] [Governor-General may confer special jurisdiction][68]
+[27][68][][68][Governor-General may confer special jurisdiction][68]
 
-[28][69] [Additional members for purposes of court's special jurisdiction][69]
+[28][69][][69][Additional members for purposes of court's special jurisdiction][69]
 
-[29][70] [Reference to court for inquiry][70]
+[29][70][][70][Reference to court for inquiry][70]
 
-[30][71] [Maori Land Court's jurisdiction to advise on or determine representation of Maori groups][71]
+[30][71][][71][Maori Land Court's jurisdiction to advise on or determine representation of Maori groups][71]
 
-[30A][72] [Intent of sections][72]
+[30A][72][][72][Intent of sections][72]
 
-[30A][73] [Review of representatives][73] \[Repealed\]
+[30A][73][][73][Review of representatives][73] \[Repealed\]
 
-[30B][74] [Powers of Judge in addressing requests for advice][74]
+[30B][74][][74][Powers of Judge in addressing requests for advice][74]
 
-[30C][75] [Powers of Judge in addressing applications for determination][75]
+[30C][75][][75][Powers of Judge in addressing applications for determination][75]
 
-[30D][76] [Appointment of mediator][76]
+[30D][76][][76][Appointment of mediator][76]
 
-[30E][77] [Conduct of mediation][77]
+[30E][77][][77][Conduct of mediation][77]
 
-[30F][78] [Successful mediation][78]
+[30F][78][][78][Successful mediation][78]
 
-[30G][79] [Unsuccessful mediation][79]
+[30G][79][][79][Unsuccessful mediation][79]
 
-[30H][80] [Orders][80]
+[30H][80][][80][Orders][80]
 
-[30I][81] [Review of advice or determination][81]
+[30I][81][][81][Review of advice or determination][81]
 
-[30J][82] [Definition of persons affected][82]
+[30J][82][][82][Definition of persons affected][82]
 
-[31][83] [Additional members for purposes of inquiry][83]
+[31][83][][83][Additional members for purposes of inquiry][83]
 
-[32][84] [Additional members in relation to matter of tikanga Maori][84]
+[32][84][][84][Additional members in relation to matter of tikanga Maori][84]
 
-[33][85] [Additional members in relation to matter of representation][85]
+[33][85][][85][Additional members in relation to matter of representation][85]
 
-[34][86] [Oath to be taken by additional member][86]
+[34][86][][86][Oath to be taken by additional member][86]
 
-[35][87] [Fees and allowances][87]
+[35][87][][87][Fees and allowances][87]
 
-[36][88] [Quorum and decisions][88]
+[36][88][][88][Quorum and decisions][88]
 
-[37][89] [Exercise of jurisdiction generally][89]
+[37][89][][89][Exercise of jurisdiction generally][89]
 
-[38][90] [Powers of court may be exercised by any Judge][90]
+[38][90][][90][Powers of court may be exercised by any Judge][90]
 
-[39][91] [Powers of Registrars][91]
+[39][91][][91][Powers of Registrars][91]
 
-[40][92] [Power of Judge to refer matter to Registrar][92]
+[40][92][][92][Power of Judge to refer matter to Registrar][92]
 
 [Orders and rehearings][93]
 
-[41][94] [Orders to be pronounced in open court, and minute recorded][94]
+[41][94][][94][Orders to be pronounced in open court, and minute recorded][94]
 
-[42][95] [Commencement of orders][95]
+[42][95][][95][Commencement of orders][95]
 
-[43][96] [Rehearings][96]
+[43][96][][96][Rehearings][96]
 
 [Special powers of Chief Judge][97]
 
-[44][98] [Chief Judge may correct mistakes and omissions][98]
+[44][98][][98][Chief Judge may correct mistakes and omissions][98]
 
-[45][99] [Applications for exercise of special powers][99]
+[45][99][][99][Applications for exercise of special powers][99]
 
-[46][100] [Powers of Chief Judge in respect of applications][100]
+[46][100][][100][Powers of Chief Judge in respect of applications][100]
 
-[47][101] [Administrative and consequential matters][101]
+[47][101][][101][Administrative and consequential matters][101]
 
-[48][102] [Matters already finalised or pending][102]
+[48][102][][102][Matters already finalised or pending][102]
 
 [Exercise of powers by Deputy Chief Judge][103]
 
-[48A][104] [Deputy Chief Judge may exercise special powers of Chief Judge][104]
+[48A][104][][104][Deputy Chief Judge may exercise special powers of Chief Judge][104]
 
 [Right of appeal against exercise of special powers][105]
 
-[49][106] [Appeals][106]
+[49][106][][106][Appeals][106]
 
 [Part 2][107]  
 [The Maori Appellate Court][107]
 
 [Constitution of court][108]
 
-[50][109] [Maori Appellate Court to continue][109]
+[50][109][][109][Maori Appellate Court to continue][109]
 
-[51][110] [Constitution of court][110]
+[51][110][][110][Constitution of court][110]
 
-[52][111] [Officers of Maori Land Court to be officers of Maori Appellate Court][111]
+[52][111][][111][Officers of Maori Land Court to be officers of Maori Appellate Court][111]
 
-[53][112] [Seal][112]
+[53][112][][112][Seal][112]
 
 [Procedural provisions][113]
 
-[54][114] [Successive appeals in respect of same matter][114]
+[54][114][][114][Successive appeals in respect of same matter][114]
 
-[55][115] [Appeals to be by way of rehearing][115]
+[55][115][][115][Appeals to be by way of rehearing][115]
 
-[56][116] [Powers of court on appeal][116]
+[56][116][][116][Powers of court on appeal][116]
 
-[57][117] [Decision of majority to be decision of court][117]
+[57][117][][117][Decision of majority to be decision of court][117]
 
 [Jurisdiction and orders][118]
 
-[58][119] [Appeals from Maori Land Court][119]
+[58][119][][119][Appeals from Maori Land Court][119]
 
-[58A][120] [Further appeal to Court of Appeal from Maori Appellate Court][120]
+[58A][120][][120][Further appeal to Court of Appeal from Maori Appellate Court][120]
 
-[58B][121] [Direct appeal to Supreme Court from Maori Appellate Court in exceptional circumstances][121]
+[58B][121][][121][Direct appeal to Supreme Court from Maori Appellate Court in exceptional circumstances][121]
 
-[59][122] [Appeals from provisional determinations][122]
+[59][122][][122][Appeals from provisional determinations][122]
 
-[60][123] [Maori Land Court may state case for Maori Appellate Court][123]
+[60][123][][123][Maori Land Court may state case for Maori Appellate Court][123]
 
-[61][124] [High Court may state case for Maori Appellate Court][124]
+[61][124][][124][High Court may state case for Maori Appellate Court][124]
 
-[62][125] [Additional members with knowledge and experience in tikanga Maori][125]
+[62][125][][125][Additional members with knowledge and experience in tikanga Maori][125]
 
-[63][126] [Quorum and decision of court][126]
+[63][126][][126][Quorum and decision of court][126]
 
-[64][127] [Commencement of orders][127]
+[64][127][][127][Commencement of orders][127]
 
 [Part 3][128]  
 [Provisions relating to both courts][128]
 
-[65][129] [Application][129]
+[65][129][][129][Application][129]
 
 [Procedural provisions][130]
 
-[66][131] [Conduct of proceedings generally][131]
+[66][131][][131][Conduct of proceedings generally][131]
 
-[67][132] [Powers of Judge to call conference and give directions][132]
+[67][132][][132][Powers of Judge to call conference and give directions][132]
 
-[68][133] [Parties and witnesses may use Maori language][133]
+[68][133][][133][Parties and witnesses may use Maori language][133]
 
-[69][134] [Evidence in proceedings][134]
+[69][134][][134][Evidence in proceedings][134]
 
-[70][135] [Representation of parties, etc][135]
+[70][135][][135][Representation of parties, etc][135]
 
-[71][136] [Court may amend proceedings][136]
+[71][136][][136][Court may amend proceedings][136]
 
-[72][137] [Case may be stated for High Court][137]
+[72][137][][137][Case may be stated for High Court][137]
 
 [General provisions as to orders][138]
 
-[73][139] [Orders may be made subject to conditions][139]
+[73][139][][139][Orders may be made subject to conditions][139]
 
-[74][140] [Orders not invalid for want of form, etc][140]
+[74][140][][140][Orders not invalid for want of form, etc][140]
 
-[75][141] [Orders nominally in favour of deceased persons][141]
+[75][141][][141][Orders nominally in favour of deceased persons][141]
 
-[76][142] [Persons bound by orders affecting land][142]
+[76][142][][142][Persons bound by orders affecting land][142]
 
-[77][143] [Orders affecting Maori land conclusive after 10 years][143]
+[77][143][][143][Orders affecting Maori land conclusive after 10 years][143]
 
-[78][144] [Exemptions from stamp duty][144] \[Repealed\]
+[78][144][][144][Exemptions from stamp duty][144] \[Repealed\]
 
-[79][145] [Orders as to costs][145]
+[79][145][][145][Orders as to costs][145]
 
-[80][146] [Taxation of costs][146]
+[80][146][][146][Taxation of costs][146]
 
-[81][147] [Enforcement of orders for payment of money][147]
+[81][147][][147][Enforcement of orders for payment of money][147]
 
-[82][148] [Charging orders][148]
+[82][148][][148][Charging orders][148]
 
-[83][149] [Appointment of receiver to enforce charges, etc][149]
+[83][149][][149][Appointment of receiver to enforce charges, etc][149]
 
-[84][150] [Court may order repayment out of money held by trustee, etc][150]
+[84][150][][150][Court may order repayment out of money held by trustee, etc][150]
 
-[85][151] [Enforcement by High Court of injunctions][151]
+[85][151][][151][Enforcement by High Court of injunctions][151]
 
 [Amendment of orders, warrants, and records][152]
 
-[86][153] [Amendment of orders, warrants, etc][153]
+[86][153][][153][Amendment of orders, warrants, etc][153]
 
-[87][154] [Amendment of names of land owners in court records and titles][154]
+[87][154][][154][Amendment of names of land owners in court records and titles][154]
 
-[88][155] [Amendment or cancellation of orders not to affect acquired rights][155]
+[88][155][][155][Amendment or cancellation of orders not to affect acquired rights][155]
 
 [Contempt of court][156]
 
-[89][157] [Failure to comply with summons, etc][157]
+[89][157][][157][Failure to comply with summons, etc][157]
 
-[90][158] [Power to remove for contempt][158]
+[90][158][][158][Power to remove for contempt][158]
 
-[91][159] [Obstructing officers of court][159]
+[91][159][][159][Obstructing officers of court][159]
 
 [Rules of court][160]
 
-[92][161] [Constitution of Rules Committee][161]
+[92][161][][161][Constitution of Rules Committee][161]
 
-[93][162] [Fees and travelling allowances][162]
+[93][162][][162][Fees and travelling allowances][162]
 
-[94][163] [Principal function of Rules Committee][163]
+[94][163][][163][Principal function of Rules Committee][163]
 
-[95][164] [Rules of court][164]
+[95][164][][164][Rules of court][164]
 
 [Fees][165]
 
-[96][166] [Regulations][166]
+[96][166][][166][Regulations][166]
 
 [Miscellaneous provisions][167]
 
-[97][168] [Practice notes][168]
+[97][168][][168][Practice notes][168]
 
-[98][169] [Maori Land Court Special Aid Fund][169]
+[98][169][][169][Maori Land Court Special Aid Fund][169]
 
 [Part 4][170]  
 [Administration of estates][170]
 
-[99][171] [Interpretation][171]
+[99][171][][171][Interpretation][171]
 
-[100][172] [Application of this Part][172]
+[100][172][][172][Application of this Part][172]
 
-[101][173] [General law to apply subject to this Part][173]
+[101][173][][173][General law to apply subject to this Part][173]
 
 [Grant of administration and settlement of claims][174]
 
-[102][175] [Jurisdiction of High Court continued][175]
+[102][175][][175][Jurisdiction of High Court continued][175]
 
-[103][176] [Jurisdiction of High Court where administration granted by Maori Land Court][176]
+[103][176][][176][Jurisdiction of High Court where administration granted by Maori Land Court][176]
 
-[104][177] [Liability of Maori land for payment of debts of estate][177]
+[104][177][][177][Liability of Maori land for payment of debts of estate][177]
 
-[105][178] [Duty payable on succession to Maori land][178] \[Repealed\]
+[105][178][][178][Duty payable on succession to Maori land][178] \[Repealed\]
 
-[106][179] [Special provisions relating to testamentary promises and family protection][179]
+[106][179][][179][Special provisions relating to testamentary promises and family protection][179]
 
-[107][180] [Special provisions relating to status of children, etc][180]
+[107][180][][180][Special provisions relating to status of children, etc][180]
 
 [Distribution of estates][181]
 
-[108][182] [Disposition by will][182]
+[108][182][][182][Disposition by will][182]
 
-[109][183] [Succession to Maori freehold land on intestacy][183]
+[109][183][][183][Succession to Maori freehold land on intestacy][183]
 
-[109A][184] [Succession to ota whakanoho on intestacy][184]
+[109A][184][][184][Succession to ota whakanoho on intestacy][184]
 
-[110][185] [Succession on intestacy to property other than Maori land][185]
+[110][185][][185][Succession on intestacy to property other than Maori land][185]
 
-[111][186] [Interests in General land of deceased Maori][186]
+[111][186][][186][Interests in General land of deceased Maori][186]
 
-[112][187] [Transmission of Maori land to administrator][187]
+[112][187][][187][Transmission of Maori land to administrator][187]
 
-[113][188] [Maori Land Court to determine beneficial entitlements to Maori land][188]
+[113][188][][188][Maori Land Court to determine beneficial entitlements to Maori land][188]
 
-[114][189] [Succession to Maori land on intestacy where no person primarily entitled][189]
+[114][189][][189][Succession to Maori land on intestacy where no person primarily entitled][189]
 
-[115][190] [Court may make provision for whangai][190]
+[115][190][][190][Court may make provision for whangai][190]
 
-[116][191] [Court may make special provision relating to income][191]
+[116][191][][191][Court may make special provision relating to income][191]
 
-[117][192] [Vesting in persons beneficially entitled following grant of administration][192]
+[117][192][][192][Vesting in persons beneficially entitled following grant of administration][192]
 
-[118][193] [Vesting in persons beneficially entitled where no grant of administration][193]
+[118][193][][193][Vesting in persons beneficially entitled where no grant of administration][193]
 
-[118A][194] [Circumstances when certain assets and payments must be held in trust][194]
+[118A][194][][194][Circumstances when certain assets and payments must be held in trust][194]
 
-[118B][195] [Circumstances when certain transfers and payments must be held in trust][195]
+[118B][195][][195][Circumstances when certain transfers and payments must be held in trust][195]
 
-[119][196] [Court's powers in relation to whanau and putea trusts][196]
+[119][196][][196][Court's powers in relation to whanau and putea trusts][196]
 
-[119A][197] [Vesting of ota whakanoho][197]
+[119A][197][][197][Vesting of ota whakanoho][197]
 
-[120][198] [Special succession fee where death occurred before 1 April 1968][198]
+[120][198][][198][Special succession fee where death occurred before 1 April 1968][198]
 
-[121][199] [Special provisions relating to succession to shares in Maori incorporations][199]
+[121][199][][199][Special provisions relating to succession to shares in Maori incorporations][199]
 
 [Part 5][200]  
 [Recording of ownership][200]
 
-[122][201] [Application of Part][201]
+[122][201][][201][Application of Part][201]
 
-[123][202] [Orders affecting title to Maori freehold land to be registered][202]
+[123][202][][202][Orders affecting title to Maori freehold land to be registered][202]
 
-[124][203] [Special provisions where insufficient survey plan][203]
+[124][203][][203][Special provisions where insufficient survey plan][203]
 
-[125][204] [Alterations in registration of title][204]
+[125][204][][204][Alterations in registration of title][204]
 
-[125A][205] [Alteration to land appellation][205]
+[125A][205][][205][Alteration to land appellation][205]
 
-[126][206] [No registration without prior confirmation][206]
+[126][206][][206][No registration without prior confirmation][206]
 
-[127][207] [Registrar of court to record ownership][207]
+[127][207][][207][Registrar of court to record ownership][207]
 
-[128][208] [Court may issue declaratory consolidated order][208]
+[128][208][][208][Court may issue declaratory consolidated order][208]
 
 [Part 6][209]  
 [Status of land][209]
 
-[129][210] [All land to have particular status for purposes of Act][210]
+[129][210][][210][All land to have particular status for purposes of Act][210]
 
-[130][211] [Certain status not to change except in limited circumstances][211]
+[130][211][][211][Certain status not to change except in limited circumstances][211]
 
-[131][212] [Court may determine status of land][212]
+[131][212][][212][Court may determine status of land][212]
 
-[132][213] [Change from Maori customary land to Maori freehold land by vesting order][213]
+[132][213][][213][Change from Maori customary land to Maori freehold land by vesting order][213]
 
-[133][214] [Change from General land or General land owned by Maori to Maori freehold land by status order][214]
+[133][214][][214][Change from General land or General land owned by Maori to Maori freehold land by status order][214]
 
-[134][215] [Change to Maori freehold land by vesting order on change of ownership][215]
+[134][215][][215][Change to Maori freehold land by vesting order on change of ownership][215]
 
-[135][216] [Change from Maori land to General land by status order][216]
+[135][216][][216][Change from Maori land to General land by status order][216]
 
-[136][217] [Power to change status of Maori land owned by not more than 10 persons][217]
+[136][217][][217][Power to change status of Maori land owned by not more than 10 persons][217]
 
-[137][218] [Power to change status of Maori land][218]
+[137][218][][218][Power to change status of Maori land][218]
 
-[138][219] [Alternative or additional power of court][219]
+[138][219][][219][Alternative or additional power of court][219]
 
-[139][220] [Registration of vesting orders where land formerly Maori customary land][220]
+[139][220][][220][Registration of vesting orders where land formerly Maori customary land][220]
 
-[140][221] [Registration of other orders][221]
+[140][221][][221][Registration of other orders][221]
 
-[141][222] [Effect of vesting orders upon registration][222]
+[141][222][][222][Effect of vesting orders upon registration][222]
 
-[142][223] [Effect of status orders upon registration][223]
+[142][223][][223][Effect of status orders upon registration][223]
 
-[143][224] [Other land deemed Maori freehold land for succession purposes in certain circumstances][224]
+[143][224][][224][Other land deemed Maori freehold land for succession purposes in certain circumstances][224]
 
-[144][225] [Maori customary land deemed Crown land for certain purposes][225]
+[144][225][][225][Maori customary land deemed Crown land for certain purposes][225]
 
 [Part 7][226]  
 [Alienation of Maori land][226]
 
-[145][227] [Maori customary land inalienable][227]
+[145][227][][227][Maori customary land inalienable][227]
 
-[146][228] [Alienation of Maori freehold land][228]
+[146][228][][228][Alienation of Maori freehold land][228]
 
-[147][229] [Alienation of whole or part of block][229]
+[147][229][][229][Alienation of whole or part of block][229]
 
-[147A][230] [Right of first refusal for sale or gift][230]
+[147A][230][][230][Right of first refusal for sale or gift][230]
 
-[148][231] [Alienation of undivided interests][231]
+[148][231][][231][Alienation of undivided interests][231]
 
-[149][232] [Alienation of equitable interests][232]
+[149][232][][232][Alienation of equitable interests][232]
 
-[150][233] [Manner of alienation of interests in Maori freehold land][233]
+[150][233][][233][Manner of alienation of interests in Maori freehold land][233]
 
-[150A][234] [Alienation by trustees][234]
+[150A][234][][234][Alienation by trustees][234]
 
-[150B][235] [Alienation by Maori incorporation][235]
+[150B][235][][235][Alienation by Maori incorporation][235]
 
-[150C][236] [Alienation by other owners][236]
+[150C][236][][236][Alienation by other owners][236]
 
-[150D][237] [Life interests][237]
+[150D][237][][237][Life interests][237]
 
 [Part 8][238]  
 [Duties and powers of court in relation to alienations of Maori freehold land][238]
 
 [Confirmation][239]
 
-[151][240] [Application for confirmation][240]
+[151][240][][240][Application for confirmation][240]
 
-[152][241] [Court to grant confirmation if satisfied of certain matters][241]
+[152][241][][241][Court to grant confirmation if satisfied of certain matters][241]
 
-[153][242] [Court's general discretion][242] \[Repealed\]
+[153][242][][242][Court's general discretion][242] \[Repealed\]
 
-[154][243] [Grounds on which court may refuse confirmation][243] \[Repealed\]
+[154][243][][243][Grounds on which court may refuse confirmation][243] \[Repealed\]
 
-[155][244] [Manner of confirmation][244]
+[155][244][][244][Manner of confirmation][244]
 
-[156][245] [Effect of confirmation][245]
+[156][245][][245][Effect of confirmation][245]
 
-[157][246] [Execution of instrument of alienation to give effect to resolution][246]
+[157][246][][246][Execution of instrument of alienation to give effect to resolution][246]
 
-[158][247] [Special valuation required except in special cases][247]
+[158][247][][247][Special valuation required except in special cases][247]
 
-[159][248] [Proceeds of alienation to be paid to Māori Trustee, court appointed agent, or trustees][248]
+[159][248][][248][Proceeds of alienation to be paid to Māori Trustee, court appointed agent, or trustees][248]
 
-[160][249] [Certain instruments require only certificate of confirmation by Registrar][249]
+[160][249][][249][Certain instruments require only certificate of confirmation by Registrar][249]
 
-[161][250] [Certain instruments require only noting by Registrar][250] \[Repealed\]
+[161][250][][250][Certain instruments require only noting by Registrar][250] \[Repealed\]
 
-[162][251] [Failure to act on resolution][251]
+[162][251][][251][Failure to act on resolution][251]
 
-[163][252] [Jurisdiction of High Court to rectify instruments][252]
+[163][252][][252][Jurisdiction of High Court to rectify instruments][252]
 
 [Vesting orders][253]
 
-[164][254] [Transfer of land or undivided interest by court vesting orders][254]
+[164][254][][254][Transfer of land or undivided interest by court vesting orders][254]
 
-[165][255] [Vesting of interest held in representative capacity][255]
+[165][255][][255][Vesting of interest held in representative capacity][255]
 
-[166][256] [Other powers of court to make vesting orders preserved][256]
+[166][256][][256][Other powers of court to make vesting orders preserved][256]
 
-[167][257] [Interests to remain subject to existing charges after vesting][257]
+[167][257][][257][Interests to remain subject to existing charges after vesting][257]
 
-[168][258] [Liability of vesting orders to conveyance duty][258] \[Repealed\]
+[168][258][][258][Liability of vesting orders to conveyance duty][258] \[Repealed\]
 
 [Part 9][259]  
 [Powers of assembled owners][259]
 
-[169][260] [Application of this Part][260]
+[169][260][][260][Application of this Part][260]
 
-[170][261] [Owners and assembled owners defined][261]
+[170][261][][261][Owners and assembled owners defined][261]
 
-[171][262] [Sale of timber, etc, to constitute alienation for purposes of this Part][262]
+[171][262][][262][Sale of timber, etc, to constitute alienation for purposes of this Part][262]
 
-[172][263] [Matters that may be dealt with by assembled owners][263]
+[172][263][][263][Matters that may be dealt with by assembled owners][263]
 
-[173][264] [Calling of meetings][264]
+[173][264][][264][Calling of meetings][264]
 
-[174][265] [Notice of meetings][265]
+[174][265][][265][Notice of meetings][265]
 
-[175][266] [Confirmation required][266]
+[175][266][][266][Confirmation required][266]
 
-[176][267] [Court may confirm resolution passed at informal family gathering][267]
+[176][267][][267][Court may confirm resolution passed at informal family gathering][267]
 
-[177][268] [Security for calling meeting to reconsider rejected proposal][268]
+[177][268][][268][Security for calling meeting to reconsider rejected proposal][268]
 
-[178][269] [Court may review meeting][269]
+[178][269][][269][Court may review meeting][269]
 
-[179][270] [Regulations][270]
+[179][270][][270][Regulations][270]
 
 [Part 10][271]  
 [Representation of owners of Maori land][271]
 
-[180][272] [Purpose of this Part][272]
+[180][272][][272][Purpose of this Part][272]
 
-[181][273] [Notice to owners of Maori land may be given to Registrar in certain cases][273]
+[181][273][][273][Notice to owners of Maori land may be given to Registrar in certain cases][273]
 
-[182][274] [Action of court on receipt of notice][274]
+[182][274][][274][Action of court on receipt of notice][274]
 
-[183][275] [Court may appoint agent of owners for purposes of notices, etc][275]
+[183][275][][275][Court may appoint agent of owners for purposes of notices, etc][275]
 
-[184][276] [Provisions applicable where meeting of owners to be summoned][276]
+[184][276][][276][Provisions applicable where meeting of owners to be summoned][276]
 
-[185][277] [Appointment of agents for purposes of alienation, etc][277]
+[185][277][][277][Appointment of agents for purposes of alienation, etc][277]
 
-[186][278] [Order of appointment][278]
+[186][278][][278][Order of appointment][278]
 
-[187][279] [Powers of agents][279]
+[187][279][][279][Powers of agents][279]
 
-[188][280] [Service of notice on agents][280]
+[188][280][][280][Service of notice on agents][280]
 
-[189][281] [Court may call for account][281]
+[189][281][][281][Court may call for account][281]
 
-[190][282] [Costs of agents][282]
+[190][282][][282][Costs of agents][282]
 
-[191][283] [Termination of agency][283]
+[191][283][][283][Termination of agency][283]
 
 [Part 11][284]  
 [Leases][284]
 
-[192][285] [Interpretation][285]
+[192][285][][285][Interpretation][285]
 
-[193][286] [Application of provisions of Part 11][286]
+[193][286][][286][Application of provisions of Part 11][286]
 
-[194][287] [Leases not to contain option to purchase][287]
+[194][287][][287][Leases not to contain option to purchase][287]
 
-[195][288] [Māori Trustee to exercise certain powers and duties if no other agent appointed][288]
+[195][288][][288][Māori Trustee to exercise certain powers and duties if no other agent appointed][288]
 
-[196][289] [Execution of renewals][289]
+[196][289][][289][Execution of renewals][289]
 
-[197][290] [Appointment of valuers for purposes of lease][290]
+[197][290][][290][Appointment of valuers for purposes of lease][290]
 
-[198][291] [Enforcement of covenants of lease][291]
+[198][291][][291][Enforcement of covenants of lease][291]
 
-[199][292] [Assignment or sublease of lease][292]
+[199][292][][292][Assignment or sublease of lease][292]
 
-[200][293] [Execution of instruments][293]
+[200][293][][293][Execution of instruments][293]
 
-[201][294] [Valuations for revision of rent][294]
+[201][294][][294][Valuations for revision of rent][294]
 
-[202][295] [New rent payable pending objections][295]
+[202][295][][295][New rent payable pending objections][295]
 
-[203][296] [Apportionment of rent][296]
+[203][296][][296][Apportionment of rent][296]
 
-[204][297] [Service of notices][297]
+[204][297][][297][Service of notices][297]
 
-[205][298] [Special savings provision][298]
+[205][298][][298][Special savings provision][298]
 
-[206][299] [Application of sections 207 to 209][299]
+[206][299][][299][Application of sections 207 to 209][299]
 
-[207][300] [Compensation to be ascertained by valuation][300]
+[207][300][][300][Compensation to be ascertained by valuation][300]
 
-[208][301] [Notice of valuation and right of objection][301]
+[208][301][][301][Notice of valuation and right of objection][301]
 
-[209][302] [Record of improvements, etc][302]
+[209][302][][302][Record of improvements, etc][302]
 
 [Part 12][303]  
 [Trusts][303]
 
-[210][304] [Interpretation][304]
+[210][304][][304][Interpretation][304]
 
 [Constitution of trusts][305]
 
-[211][306] [Maori Land Court to have exclusive jurisdiction][306]
+[211][306][][306][Maori Land Court to have exclusive jurisdiction][306]
 
-[212][307] [Putea trusts in respect of land interests][307]
+[212][307][][307][Putea trusts in respect of land interests][307]
 
-[213][308] [Interests of beneficiaries of putea trust][308]
+[213][308][][308][Interests of beneficiaries of putea trust][308]
 
-[214][309] [Whanau trusts][309]
+[214][309][][309][Whanau trusts][309]
 
-[215][310] [Ahu whenua trusts][310]
+[215][310][][310][Ahu whenua trusts][310]
 
-[216][311] [Whenua topu trusts][311]
+[216][311][][311][Whenua topu trusts][311]
 
-[217][312] [Kai tiaki trusts][312]
+[217][312][][312][Kai tiaki trusts][312]
 
-[218][313] [Maori community purposes][313]
+[218][313][][313][Maori community purposes][313]
 
-[219][314] [Trust order][314]
+[219][314][][314][Trust order][314]
 
-[220][315] [Vesting order][315]
+[220][315][][315][Vesting order][315]
 
-[220A][316] [Registration of land in name of trust or tipuna][316]
+[220A][316][][316][Registration of land in name of trust or tipuna][316]
 
-[221][317] [Power of court to amalgamate trusts][317]
+[221][317][][317][Power of court to amalgamate trusts][317]
 
 [Appointment and powers of trustees][318]
 
-[222][319] [Appointment of trustees][319]
+[222][319][][319][Appointment of trustees][319]
 
-[223][320] [General functions of responsible trustees][320]
+[223][320][][320][General functions of responsible trustees][320]
 
-[224][321] [Special provisions where advisory trustee appointed][321]
+[224][321][][321][Special provisions where advisory trustee appointed][321]
 
-[225][322] [Special provisions where custodian trustee appointed][322]
+[225][322][][322][Special provisions where custodian trustee appointed][322]
 
-[226][323] [General powers of trustees][323]
+[226][323][][323][General powers of trustees][323]
 
-[227][324] [Trustees may act by majority][324]
+[227][324][][324][Trustees may act by majority][324]
 
-[227A][325] [Interested trustees][325]
+[227A][325][][325][Interested trustees][325]
 
-[228][326] [Trustees' powers of alienation][326] \[Repealed\]
+[228][326][][326][Trustees' powers of alienation][326] \[Repealed\]
 
 [Miscellaneous provisions relating to trusts constituted under this Part][327]
 
-[229][328] [Court may authorise new ventures][328]
+[229][328][][328][Court may authorise new ventures][328]
 
-[230][329] [Keeping of accounts][329]
+[230][329][][329][Keeping of accounts][329]
 
-[231][330] [Review of trusts][330]
+[231][330][][330][Review of trusts][330]
 
-[232][331] [Reports of trustees of kai tiaki trusts][331]
+[232][331][][331][Reports of trustees of kai tiaki trusts][331]
 
-[233][332] [Reports required where Māori Trustee trustee of kai tiaki trust][332]
+[233][332][][332][Reports required where Māori Trustee trustee of kai tiaki trust][332]
 
-[234][333] [Kai tiaki trusts to be reviewed periodically][333]
+[234][333][][333][Kai tiaki trusts to be reviewed periodically][333]
 
-[235][334] [Trusts not subject to rule against perpetuities][334]
+[235][334][][334][Trusts not subject to rule against perpetuities][334]
 
 [Provisions relating to trusts generally][335]
 
-[236][336] [Application of sections 237 to 245][336]
+[236][336][][336][Application of sections 237 to 245][336]
 
-[237][337] [Jurisdiction of court generally][337]
+[237][337][][337][Jurisdiction of court generally][337]
 
-[238][338] [Enforcement of obligations of trust][338]
+[238][338][][338][Enforcement of obligations of trust][338]
 
-[239][339] [Addition, reduction, and replacement of trustees][339]
+[239][339][][339][Addition, reduction, and replacement of trustees][339]
 
-[240][340] [Removal of trustee][340]
+[240][340][][340][Removal of trustee][340]
 
-[241][341] [Termination of trust][341]
+[241][341][][341][Termination of trust][341]
 
-[242][342] [Orders for payment of money held in trust][342]
+[242][342][][342][Orders for payment of money held in trust][342]
 
-[243][343] [Acquisition of land by trustees][343]
+[243][343][][343][Acquisition of land by trustees][343]
 
-[244][344] [Variation of trust][344]
+[244][344][][344][Variation of trust][344]
 
-[245][345] [Power of court to approve charitable trust][345]
+[245][345][][345][Power of court to approve charitable trust][345]
 
 [Part 13][346]  
 [Maori incorporations][346]
 
-[246][347] [Interpretation][347]
+[246][347][][347][Interpretation][347]
 
 [Constitution and powers][348]
 
-[247][349] [Owners may be incorporated][349]
+[247][349][][349][Owners may be incorporated][349]
 
-[248][350] [Terms of order][350]
+[248][350][][350][Terms of order][350]
 
-[249][351] [Court to fix total number of shares][351]
+[249][351][][351][Court to fix total number of shares][351]
 
-[250][352] [Effect of order][352]
+[250][352][][352][Effect of order][352]
 
-[251][353] [Inclusion in incorporation of owners of additional Maori land][353]
+[251][353][][353][Inclusion in incorporation of owners of additional Maori land][353]
 
-[252][354] [Incorporations may be amalgamated][354]
+[252][354][][354][Incorporations may be amalgamated][354]
 
-[253][355] [Capacity and powers of incorporation][355]
+[253][355][][355][Capacity and powers of incorporation][355]
 
-[253A][356] [Power to impose limitations or restrictions on powers of incorporation][356]
+[253A][356][][356][Power to impose limitations or restrictions on powers of incorporation][356]
 
-[254][357] [Incorporation's powers of alienation][357] \[Repealed\]
+[254][357][][357][Incorporation's powers of alienation][357] \[Repealed\]
 
-[255][358] [Certain instruments require noting by Registrar][358] \[Repealed\]
+[255][358][][358][Certain instruments require noting by Registrar][358] \[Repealed\]
 
-[256][359] [Acquisition of land by incorporation][359]
+[256][359][][359][Acquisition of land by incorporation][359]
 
-[257][360] [Allocation of land to shareholders][360]
+[257][360][][360][Allocation of land to shareholders][360]
 
-[258][361] [Power to declare charitable trust][361]
+[258][361][][361][Power to declare charitable trust][361]
 
-[259][362] [Application of revenues][362]
+[259][362][][362][Application of revenues][362]
 
 [Shares and dividends][363]
 
-[260][364] [Nature of shares in incorporation][364]
+[260][364][][364][Nature of shares in incorporation][364]
 
-[261][365] [Equitable interests not to be separately dealt with][365]
+[261][365][][365][Equitable interests not to be separately dealt with][365]
 
-[262][366] [Shareholders not personally liable][366]
+[262][366][][366][Shareholders not personally liable][366]
 
-[263][367] [Incorporation to have share register][367]
+[263][367][][367][Incorporation to have share register][367]
 
-[264][368] [Method of transfer of shares][368]
+[264][368][][368][Method of transfer of shares][368]
 
-[265][369] [Special rules relating to share registration in certain cases][369]
+[265][369][][369][Special rules relating to share registration in certain cases][369]
 
-[266][370] [Procedure where court makes order relating to ownership of shares][370]
+[266][370][][370][Procedure where court makes order relating to ownership of shares][370]
 
-[267][371] [Unclaimed dividends][371]
+[267][371][][371][Unclaimed dividends][371]
 
 [Internal management][372]
 
-[268][373] [Maori incorporations to have constitution][373]
+[268][373][][373][Maori incorporations to have constitution][373]
 
-[269][374] [Committee of management][374]
+[269][374][][374][Committee of management][374]
 
-[270][375] [Manner in which powers are to be exercised][375]
+[270][375][][375][Manner in which powers are to be exercised][375]
 
-[271][376] [Effect of exercise of powers][376]
+[271][376][][376][Effect of exercise of powers][376]
 
-[272][377] [Qualification, disqualification, and removal of members][377]
+[272][377][][377][Qualification, disqualification, and removal of members][377]
 
-[273][378] [Election of chairman of committee and appointment of secretary][378]
+[273][378][][378][Election of chairman of committee and appointment of secretary][378]
 
-[274][379] [Expenses and remuneration of members of committee][379]
+[274][379][][379][Expenses and remuneration of members of committee][379]
 
-[274A][380] [Interested members][380]
+[274A][380][][380][Interested members][380]
 
-[275][381] [Conduct of meetings of shareholders][381]
+[275][381][][381][Conduct of meetings of shareholders][381]
 
-[276][382] [Accounts and statement of financial position][382]
+[276][382][][382][Accounts and statement of financial position][382]
 
-[277][383] [Appointment and duties of auditor][383]
+[277][383][][383][Appointment and duties of auditor][383]
 
-[278][384] [Appointment of share valuer][384]
+[278][384][][384][Appointment of share valuer][384]
 
-[278A][385] [Adjustment of shareholding][385]
+[278A][385][][385][Adjustment of shareholding][385]
 
 [Duties and powers of court][386]
 
-[279][387] [Register of Maori incorporations][387]
+[279][387][][387][Register of Maori incorporations][387]
 
-[280][388] [Investigation of incorporation's affairs][388]
+[280][388][][388][Investigation of incorporation's affairs][388]
 
-[281][389] [Power of court to require officers to attend to explain non-compliance with statutory requirements][389]
+[281][389][][389][Power of court to require officers to attend to explain non-compliance with statutory requirements][389]
 
-[282][390] [Winding up of incorporation][390]
+[282][390][][390][Winding up of incorporation][390]
 
-[283][391] [Disposal of land on winding up of incorporation][391]
+[283][391][][391][Disposal of land on winding up of incorporation][391]
 
-[284][392] [Regulations][392]
+[284][392][][392][Regulations][392]
 
 [Part 14][393]  
 [Title reconstruction and improvement][393]
 
-[285][394] [Interpretation][394]
+[285][394][][394][Interpretation][394]
 
-[286][395] [Purpose of this Part][395]
+[286][395][][395][Purpose of this Part][395]
 
-[287][396] [Jurisdiction of courts][396]
+[287][396][][396][Jurisdiction of courts][396]
 
-[288][397] [Matters to be considered][397]
+[288][397][][397][Matters to be considered][397]
 
 [Partition][398]
 
-[289][399] [Partition orders][399]
+[289][399][][399][Partition orders][399]
 
-[290][400] [Modes of partition][400]
+[290][400][][400][Modes of partition][400]
 
-[291][401] [Discretionary powers of court in making partitions][401]
+[291][401][][401][Discretionary powers of court in making partitions][401]
 
-[292][402] [Allotment of interests on partition][402]
+[292][402][][402][Allotment of interests on partition][402]
 
-[293][403] [Power to award additional land as compensation for improvements, etc][403]
+[293][403][][403][Power to award additional land as compensation for improvements, etc][403]
 
-[294][404] [Saving of interests charged on partitioned land][404]
+[294][404][][404][Saving of interests charged on partitioned land][404]
 
-[295][405] [Court may apportion rights and obligations][405]
+[295][405][][405][Court may apportion rights and obligations][405]
 
-[296][406] [Dwelling sites for Maori][406]
+[296][406][][406][Dwelling sites for Maori][406]
 
-[297][407] [Partition orders may be made in respect of land held in trust][407]
+[297][407][][407][Partition orders may be made in respect of land held in trust][407]
 
-[298][408] [Partition of combined areas][408]
+[298][408][][408][Partition of combined areas][408]
 
-[299][409] [Registration of partition orders][409]
+[299][409][][409][Registration of partition orders][409]
 
-[300][410] [Plan approved by court prerequisite to partition of Maori land][410]
+[300][410][][410][Plan approved by court prerequisite to partition of Maori land][410]
 
-[301][411] [Compliance with provisions of Resource Management Act 1991 relating to subdivisions][411]
+[301][411][][411][Compliance with provisions of Resource Management Act 1991 relating to subdivisions][411]
 
-[302][412] [Contributions for reserve purposes][412]
+[302][412][][412][Contributions for reserve purposes][412]
 
-[303][413] [Subdivision consent and conditions of subdivision consent][413]
+[303][413][][413][Subdivision consent and conditions of subdivision consent][413]
 
-[304][414] [Power to impose restrictions in respect of other partitions][414]
+[304][414][][414][Power to impose restrictions in respect of other partitions][414]
 
-[305][415] [Reserves contributions, roads, etc][415] \[Repealed\]
+[305][415][][415][Reserves contributions, roads, etc][415] \[Repealed\]
 
-[306][416] [Cancellation of partition orders][416]
+[306][416][][416][Cancellation of partition orders][416]
 
 [Amalgamation and aggregation][417]
 
-[307][418] [Amalgamation orders][418]
+[307][418][][418][Amalgamation orders][418]
 
-[308][419] [Aggregation orders][419]
+[308][419][][419][Aggregation orders][419]
 
-[309][420] [Orders to specify relative interests of owners][420]
+[309][420][][420][Orders to specify relative interests of owners][420]
 
 [Exchange orders][421]
 
-[310][422] [Court may make exchange orders][422]
+[310][422][][422][Court may make exchange orders][422]
 
-[311][423] [Land and interests that may be exchanged][423]
+[311][423][][423][Land and interests that may be exchanged][423]
 
-[312][424] [Conditions precedent to making of exchange orders][424]
+[312][424][][424][Conditions precedent to making of exchange orders][424]
 
-[313][425] [Effect of exchange order][425]
+[313][425][][425][Effect of exchange order][425]
 
-[314][426] [Money payable by way of equality of exchange to be charge on land][426]
+[314][426][][426][Money payable by way of equality of exchange to be charge on land][426]
 
 [Easements and roadways][427]
 
-[315][428] [Court may create easements][428]
+[315][428][][428][Court may create easements][428]
 
-[315A][429] [Court may cancel or vary easements][429]
+[315A][429][][429][Court may cancel or vary easements][429]
 
-[316][430] [Court may lay out roadways][430]
+[316][430][][430][Court may lay out roadways][430]
 
-[317][431] [Required consents][431]
+[317][431][][431][Required consents][431]
 
-[318][432] [Effect of laying out roadway][432]
+[318][432][][432][Effect of laying out roadway][432]
 
-[319][433] [Compensation in respect of roadway][433]
+[319][433][][433][Compensation in respect of roadway][433]
 
-[320][434] [Roadways may be declared roads or streets][434]
+[320][434][][434][Roadways may be declared roads or streets][434]
 
-[321][435] [Land that has been used but not set apart as a road may be declared a road or street][435]
+[321][435][][435][Land that has been used but not set apart as a road may be declared a road or street][435]
 
-[322][436] [Court may cancel roadways][436]
+[322][436][][436][Court may cancel roadways][436]
 
-[323][437] [Powers of court on cancellation of roadway][437]
+[323][437][][437][Powers of court on cancellation of roadway][437]
 
-[324][438] [Unused road or street over Maori land may be stopped by court][438]
+[324][438][][438][Unused road or street over Maori land may be stopped by court][438]
 
-[325][439] [Court may make vesting orders for lands comprised in roads or streets stopped otherwise than under foregoing provisions][439]
+[325][439][][439][Court may make vesting orders for lands comprised in roads or streets stopped otherwise than under foregoing provisions][439]
 
-[326][440] [Alienation of land to include alienation of interest in roadway giving access to that land][440]
+[326][440][][440][Alienation of land to include alienation of interest in roadway giving access to that land][440]
 
 [Landlocked Maori land][441]
 
-[326A][442] [Meaning of certain terms][442]
+[326A][442][][442][Meaning of certain terms][442]
 
-[326B][443] [Reasonable access may be granted in cases of landlocked Maori land][443]
+[326B][443][][443][Reasonable access may be granted in cases of landlocked Maori land][443]
 
-[326C][444] [Conditions and other matters][444]
+[326C][444][][444][Conditions and other matters][444]
 
-[326D][445] [Additional provisions relating to orders under sections 326B or 326C][445]
+[326D][445][][445][Additional provisions relating to orders under sections 326B or 326C][445]
 
-[327][446] [Part 21 of Local Government Act 1974 modified in its application to Maori land][446] \[Repealed\]
+[327][446][][446][Part 21 of Local Government Act 1974 modified in its application to Maori land][446] \[Repealed\]
 
 [Part 15][447]  
 [Occupation orders][447]
 
-[328][448] [Occupation orders][448]
+[328][448][][448][Occupation orders][448]
 
-[329][449] [Matters to be considered][449]
+[329][449][][449][Matters to be considered][449]
 
-[330][450] [Power to amend or cancel occupation order][450]
+[330][450][][450][Power to amend or cancel occupation order][450]
 
-[330A][451] [Review of occupation orders][451]
+[330A][451][][451][Review of occupation orders][451]
 
-[331][452] [Regulations][452]
+[331][452][][452][Regulations][452]
 
 [Part 16][453]  
 [Surveys of Maori land][453]
 
-[332][454] [Power to require surveys][454]
+[332][454][][454][Power to require surveys][454]
 
-[333][455] [Power of court to make charging orders on land in respect of costs of survey][455]
+[333][455][][455][Power of court to make charging orders on land in respect of costs of survey][455]
 
-[334][456] [Interest on survey charges][456]
+[334][456][][456][Interest on survey charges][456]
 
-[335][457] [Power of Minister of Lands to remit survey charges][457]
+[335][457][][457][Power of Minister of Lands to remit survey charges][457]
 
-[336][458] [Contribution from owners in respect of surveys][458]
+[336][458][][458][Contribution from owners in respect of surveys][458]
 
-[337][459] [Survey notices][459]
+[337][459][][459][Survey notices][459]
 
 [Part 17][460]  
 [Maori reservations][460]
 
-[338][461] [Maori reservations for communal purposes][461]
+[338][461][][461][Maori reservations for communal purposes][461]
 
-[338A][462] [Regulations relating to trustees of Maori reservations][462]
+[338A][462][][462][Regulations relating to trustees of Maori reservations][462]
 
-[339][463] [Court may consider proposal for Maori reservation on application of Minister][463]
+[339][463][][463][Court may consider proposal for Maori reservation on application of Minister][463]
 
-[340][464] [Maori reservation may be held for common use and benefit of people of New Zealand][464]
+[340][464][][464][Maori reservation may be held for common use and benefit of people of New Zealand][464]
 
-[341][465] [Further provisions relating to Maori reservation for marae or meeting place][465]
+[341][465][][465][Further provisions relating to Maori reservation for marae or meeting place][465]
 
 [Part 18][466]  
 [Miscellaneous provisions][466]
 
-[342][467] [Protection of Maori land against execution for debt][467]
+[342][467][][467][Protection of Maori land against execution for debt][467]
 
-[343][468] [Maori land available in bankruptcy][468]
+[343][468][][468][Maori land available in bankruptcy][468]
 
-[344][469] [Co-owners of Maori land not bound by Limitation Act 2010 or other limitation enactments][469]
+[344][469][][469][Co-owners of Maori land not bound by Limitation Act 2010 or other limitation enactments][469]
 
-[345][470] [Presumptions as to Maori freehold land held by 2 or more owners][470]
+[345][470][][470][Presumptions as to Maori freehold land held by 2 or more owners][470]
 
-[346][471] [Prevention of waste on Maori land][471]
+[346][471][][471][Prevention of waste on Maori land][471]
 
-[347][472] [Orders in Council and Proclamations affecting title to be registered][472]
+[347][472][][472][Orders in Council and Proclamations affecting title to be registered][472]
 
 [Transitional and consequential provisions][473]
 
-[348][474] [Savings of effect of Land Titles Protection Act 1908][474]
+[348][474][][474][Savings of effect of Land Titles Protection Act 1908][474]
 
-[349][475] [Declaratory Judgments Act 1908 not affected][475]
+[349][475][][475][Declaratory Judgments Act 1908 not affected][475]
 
-[350][476] [Trustees of persons under disability][476]
+[350][476][][476][Trustees of persons under disability][476]
 
-[351][477] [Periodic review of trusts constituted under section 438 of Maori Affairs Act 1953][477]
+[351][477][][477][Periodic review of trusts constituted under section 438 of Maori Affairs Act 1953][477]
 
-[352][478] [Representation of owners of Maori land][478]
+[352][478][][478][Representation of owners of Maori land][478]
 
-[353][479] [Existing trusts of Maori land not affected][479]
+[353][479][][479][Existing trusts of Maori land not affected][479]
 
-[354][480] [Existing trusts to continue as ahu whenua trusts][480]
+[354][480][][480][Existing trusts to continue as ahu whenua trusts][480]
 
-[355][481] [Provision for completion of sales and subdivisions][481]
+[355][481][][481][Provision for completion of sales and subdivisions][481]
 
-[356][482] [Part 9 not to apply to Maori reserves][482]
+[356][482][][482][Part 9 not to apply to Maori reserves][482]
 
-[357][483] [Maori incorporations in existence at commencement of Act][483]
+[357][483][][483][Maori incorporations in existence at commencement of Act][483]
 
-[358][484] [Land acquired by Maori incorporation before commencement of Act][484]
+[358][484][][484][Land acquired by Maori incorporation before commencement of Act][484]
 
-[358A][485] [Transitional provisions in relation to objects of Maori incorporations][485]
+[358A][485][][485][Transitional provisions in relation to objects of Maori incorporations][485]
 
-[359][486] [Provisions of certain enactments not affected by this Act][486]
+[359][486][][486][Provisions of certain enactments not affected by this Act][486]
 
-[360][487] [Application of Limitation Act 1950 to Maori customary land][487] \[Repealed\]
+[360][487][][487][Application of Limitation Act 1950 to Maori customary land][487] \[Repealed\]
 
-[361][488] [Limitation of actions in relation to Maori customary land][488] \[Repealed\]
+[361][488][][488][Limitation of actions in relation to Maori customary land][488] \[Repealed\]
 
-[362][489] [Amendments and repeals][489]
+[362][489][][489][Amendments and repeals][489]
 
 [Schedule 1][490]  
 [Enactments amended][490]
@@ -8366,7 +8366,7 @@ Title reconstruction and improvement
 
 ##### 326D Additional provisions relating to orders under sections 326B or 326C
     
-*   (1) Any order made under [section 326B(5)][443] must be registered as an instrument under the [Land Transfer Act 1952][498], the [Deeds Registration Act 1908][670], or [Part 1][811] of the Crown Minerals Act 1991, as the case may require.
+*   (1) Any order made under [section 326B(5)][443] must be registered as an instrument under the [Land Transfer Act 1952][498], the [Deeds Registration Act 1908][670], or the [Crown Minerals Act 1991][811], as the case may require.
     
     (2) This section and [sections 326A to 326C][442] bind the Crown.
     
@@ -8381,6 +8381,8 @@ Title reconstruction and improvement
     (7) The court may appoint expert assessors or valuers, as additional members of the court, to assist it to determine issues of valuation or compensation under [sections 326A to 326D][442].
     
     Section 326D: inserted, on 1 July 2002, by [section 51][801] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    
+    Section 326D(1): amended, on 24 May 2013, by [section 65][812] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 327 Part 21 of Local Government Act 1974 modified in its application to Maori land
     
@@ -8417,9 +8419,9 @@ Occupation orders
     
     *   (b) that the occupation order ends on the occurrence of a defined event.
     
-    Section 328(1): amended, on 1 July 2002, by [section 52(1)][812] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 328(1): amended, on 1 July 2002, by [section 52(1)][813] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 328(4): added, on 1 July 2002, by [section 52(2)][812] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 328(4): added, on 1 July 2002, by [section 52(2)][813] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 329 Matters to be considered
     
@@ -8447,9 +8449,9 @@ Occupation orders
     
     *   (c) that, in the circumstances, the extent of the beneficial interest in the land held by the person in whose favour the occupation order is to be made, or to which that person is entitled to succeed, justifies the occupation order.
     
-    Section 329(2)(aa): inserted, on 1 July 2002, by [section 53(1)][813] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 329(2)(aa): inserted, on 1 July 2002, by [section 53(1)][814] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 329(2)(c): added, on 1 July 2002, by [section 53(2)][813] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 329(2)(c): added, on 1 July 2002, by [section 53(2)][814] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 330 Power to amend or cancel occupation order
     
@@ -8461,7 +8463,7 @@ Occupation orders
     
     (2) The Maori Land Court may conduct a review under subsection (1) as if it were exercising its jurisdiction to make the initial occupation order, and must have particular regard to the fact that, after it was made, the occupation order could pass by succession.
     
-    Section 330A: inserted, on 1 July 2002, by [section 54][814] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 330A: inserted, on 1 July 2002, by [section 54][815] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 331 Regulations
     
@@ -8528,7 +8530,7 @@ Surveys of Maori land
     
     (4) A certificate given under this section may include any group or class of charging orders.
     
-    Compare: 1953 No 94 s 410; 1987 No 65 [s 65(1)][815]
+    Compare: 1953 No 94 s 410; 1987 No 65 [s 65(1)][816]
 
 ##### 336 Contribution from owners in respect of surveys
     
@@ -8609,19 +8611,19 @@ Maori reservations
     
     *   (b) in relation to any vesting order made in respect of the Maori reservation (under any Act repealed by this Act or the corresponding provisions of any former Act), as if that vesting order were a vesting order made under this section.
     
-    Compare: 1953 No 94 s 439(1)--(11); 1968 No 127 [s 5][816]; 1970 No 120 [s 7][817]; 1972 No 135 [s 11(1)][818]; 1973 No 106 [s 15][819]; 1975 No 135 [s 16][562]
+    Compare: 1953 No 94 s 439(1)--(11); 1968 No 127 [s 5][817]; 1970 No 120 [s 7][818]; 1972 No 135 [s 11(1)][819]; 1973 No 106 [s 15][820]; 1975 No 135 [s 16][562]
     
-    Section 338(1): substituted, on 1 July 2002, by [section 55][820] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 338(1): substituted, on 1 July 2002, by [section 55][821] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
     Section 338(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 338(8): amended, on 11 April 2001, by [section 17(1)][821] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(8): amended, on 11 April 2001, by [section 17(1)][822] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 338(12): amended, on 11 April 2001, by [section 16(1)][822] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(12): amended, on 11 April 2001, by [section 16(1)][823] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 338(14): amended, on 11 April 2001, by [section 16(2)][822] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(14): amended, on 11 April 2001, by [section 16(2)][823] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 338(17): substituted, on 11 April 2001, by [section 17(2)][821] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(17): substituted, on 11 April 2001, by [section 17(2)][822] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 338A Regulations relating to trustees of Maori reservations
     
@@ -8635,15 +8637,15 @@ Maori reservations
         
         *   (iii) circumstances in which those trustees or any of them may be removed from office by the court:
         
-        *   (iv) powers, authorities, and discretions that may be exercised by those trustees (in addition to those conferred on them by this Act) and the manner in which those trustees or any of them may exercise their powers, authorities, and discretions (including those conferred on them by this Act or the [Trustee Act 1956][823] or both):
+        *   (iv) powers, authorities, and discretions that may be exercised by those trustees (in addition to those conferred on them by this Act) and the manner in which those trustees or any of them may exercise their powers, authorities, and discretions (including those conferred on them by this Act or the [Trustee Act 1956][824] or both):
         
-        *   (v) powers, authorities, and discretions conferred by the [Trustee Act 1956][823] that may not be exercised by those trustees:
+        *   (v) powers, authorities, and discretions conferred by the [Trustee Act 1956][824] that may not be exercised by those trustees:
         
         *   (vi) conditions that must be complied with by those trustees:
         
         
     
-    *   (b) authorise the court to exercise in relation to those trustees (but not to the exclusion of the High Court) any of the powers and authorities conferred on the High Court by the [Trustee Act 1956][823].
+    *   (b) authorise the court to exercise in relation to those trustees (but not to the exclusion of the High Court) any of the powers and authorities conferred on the High Court by the [Trustee Act 1956][824].
     
     (2) Nothing in subsection (1) limits---
         
@@ -8651,7 +8653,7 @@ Maori reservations
     
     *   (b) the generality of [section 338(15)][461].
     
-    Section 338A: inserted, on 11 April 2001, by [section 18][824] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338A: inserted, on 11 April 2001, by [section 18][825] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 339 Court may consider proposal for Maori reservation on application of Minister
     
@@ -8677,15 +8679,15 @@ Maori reservations
     
     (3) In appointing trustees for any Maori reservation that is not a wahi tapu that is held for the common use and benefit of the people of New Zealand, the court may, on the nomination of the local authority, appoint a person or persons to represent the local authority.
     
-    Compare: 1953 No 94 s 439(12)--(14); 1972 No 135 [s 11(2)][818]
+    Compare: 1953 No 94 s 439(12)--(14); 1972 No 135 [s 11(2)][819]
     
-    Section 340(1): amended, on 1 July 2002, by [section 56(1)(a)][825] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(1): amended, on 1 July 2002, by [section 56(1)(a)][826] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 340(1): amended, on 1 July 2002, by [section 56(1)(b)][825] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(1): amended, on 1 July 2002, by [section 56(1)(b)][826] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 340(2): amended, on 1 July 2002, by [section 56(2)][825] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(2): amended, on 1 July 2002, by [section 56(2)][826] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 340(3): amended, on 1 July 2002, by [section 56(3)][825] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(3): amended, on 1 July 2002, by [section 56(3)][826] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 341 Further provisions relating to Maori reservation for marae or meeting place
     
@@ -8695,9 +8697,9 @@ Maori reservations
     
     (3) Upon proof of the determination for any reason of the lease in respect of any reservation constituted over land leased in the manner referred to in subsection (1), the chief executive shall, in the manner provided by [section 338][461], cancel the reservation or, as the case may be, exclude from the reservation the land comprised in the lease.
     
-    Compare: 1953 No 94 s 439(15)--(17); 1973 No 106 [s 15(2)][819]
+    Compare: 1953 No 94 s 439(15)--(17); 1973 No 106 [s 15(2)][820]
     
-    Section 341(1): amended, on 1 July 2002, by [section 57][826] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 341(1): amended, on 1 July 2002, by [section 57][827] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ## Part 18  
 Miscellaneous provisions
@@ -8722,27 +8724,27 @@ Miscellaneous provisions
     
     (3) Any order made by the court pursuant to this section shall take effect and may be registered under the [Land Transfer Act 1952][498].
     
-    (4) Notwithstanding any provision to the contrary in the [Insolvency Act 2006][827], no beneficial freehold interests in Maori freehold land of a bankrupt shall vest or be deemed to have vested in the Official Assignee otherwise than by an order made pursuant to this section, and the Official Assignee shall have no power to disclaim any interest vested in the Official Assignee by such an order.
+    (4) Notwithstanding any provision to the contrary in the [Insolvency Act 2006][828], no beneficial freehold interests in Maori freehold land of a bankrupt shall vest or be deemed to have vested in the Official Assignee otherwise than by an order made pursuant to this section, and the Official Assignee shall have no power to disclaim any interest vested in the Official Assignee by such an order.
     
-    (5) Notwithstanding the provisions of the [Insolvency Act 2006][827], the Official Assignee shall not have power to sell any such beneficial freehold interest entered in Maori freehold land to any person other than a person to whom the bankrupt could have alienated it in accordance with the provisions of [Part 7][226] of this Act.
+    (5) Notwithstanding the provisions of the [Insolvency Act 2006][828], the Official Assignee shall not have power to sell any such beneficial freehold interest entered in Maori freehold land to any person other than a person to whom the bankrupt could have alienated it in accordance with the provisions of [Part 7][226] of this Act.
     
     Compare: 1953 No 94 s 455A; 1967 No 124 s 147; 1974 No 73 s 66
     
-    Section 343(1): amended, on 1 July 1994, by [section 20][828] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 343(1): amended, on 1 July 1994, by [section 20][829] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 343(4): amended, on 3 December 2007, by [section 445][829] of the Insolvency Act 2006 (2006 No 55).
+    Section 343(4): amended, on 3 December 2007, by [section 445][830] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 343(5): amended, on 3 December 2007, by [section 445][829] of the Insolvency Act 2006 (2006 No 55).
+    Section 343(5): amended, on 3 December 2007, by [section 445][830] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 344 Co-owners of Maori land not bound by Limitation Act 2010 or other limitation enactments
     
 *   (1) Time does not run, and must not be treated as having run, against a co-owner of Maori land who neglects or has at any time neglected to exercise that co-owner's right of entering upon and using the common property while it remains in the occupation of another co-owner or someone claiming through or under that co-owner.
     
-    (2) This section overrides the [Limitation Act 2010][830] and all other enactments that impose on claims a limitation period or other limitation defence.
+    (2) This section overrides the [Limitation Act 2010][831] and all other enactments that impose on claims a limitation period or other limitation defence.
     
     Compare: 1953 No 94 s 458
     
-    Section 344: substituted, on 1 January 2011, by [section 58][831] of the Limitation Act 2010 (2010 No 110).
+    Section 344: substituted, on 1 January 2011, by [section 58][832] of the Limitation Act 2010 (2010 No 110).
 
 ##### 345 Presumptions as to Maori freehold land held by 2 or more owners
     
@@ -8762,9 +8764,9 @@ Miscellaneous provisions
     
     (4) Except as provided in subsection (3), a tenant in common as such shall not be deemed to have lawful authority to do any of the acts referred to in that subsection.
     
-    (5) Notwithstanding the provisions of [section 14][832] of the Summary Proceedings Act 1957, any proceedings for an offence constituted by this section, or for the recovery of any penalty, fine, or forfeiture imposed thereunder, may be commenced at any time within 2 years after the commission of the offence.
+    (5) Notwithstanding the provisions of [section 14][833] of the Summary Proceedings Act 1957, any proceedings for an offence constituted by this section, or for the recovery of any penalty, fine, or forfeiture imposed thereunder, may be commenced at any time within 2 years after the commission of the offence.
     
-    Compare: 1953 No 94 s 459; 1955 No 106 [s 8][833]; 1974 No 73 s 67
+    Compare: 1953 No 94 s 459; 1955 No 106 [s 8][834]; 1974 No 73 s 67
 
 ##### 347 Orders in Council and Proclamations affecting title to be registered
     
@@ -8782,7 +8784,7 @@ Miscellaneous provisions
 
 ##### 349 Declaratory Judgments Act 1908 not affected
     
-*   Nothing in this Act shall limit or affect any jurisdiction conferred upon the High Court or the Court of Appeal by the [Declaratory Judgments Act 1908][834].
+*   Nothing in this Act shall limit or affect any jurisdiction conferred upon the High Court or the Court of Appeal by the [Declaratory Judgments Act 1908][835].
     
     Compare: 1953 No 94 s 469
 
@@ -8818,7 +8820,7 @@ Miscellaneous provisions
     
 *   Except as provided in subsection (4) of [section 10][705] of the Maori Reserved Land Act 1955, nothing in [Part 9][259] of this Act shall apply to any Maori reserve.
     
-    Compare: 1953 No 94 s 471; 1970 No 120 [s 14(2)][835]
+    Compare: 1953 No 94 s 471; 1970 No 120 [s 14(2)][836]
 
 ##### 357 Maori incorporations in existence at commencement of Act
     
@@ -8872,9 +8874,9 @@ Miscellaneous provisions
     
     (7) The District Land Registrar is hereby authorised and directed to cancel or amend any existing certificate of title and to issue any new certificate of title that may be necessary to give effect to an order made under subsection (1).
     
-    Section 358(1): amended, on 1 July 1994, by [section 21(1)][836] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 358(1): amended, on 1 July 1994, by [section 21(1)][837] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 358(1A): inserted, on 1 July 1994, by [section 21(2)][836] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 358(1A): inserted, on 1 July 1994, by [section 21(2)][837] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
     Section 358(3): amended, on 28 September 1993, by section 17 of Te Ture Whenua Maori Amendment Act (No 2) 1993 (1993 No 104).
 
@@ -8902,9 +8904,9 @@ Miscellaneous provisions
         
     *   (a) [Maori Reserved Land Act 1955][500]:
     
-    *   (b) [Kapiti Island Public Reserve Act 1897][837]:
+    *   (b) [Kapiti Island Public Reserve Act 1897][838]:
     
-    *   (c) [Crown Minerals Act 1991][838]:
+    *   (c) [Crown Minerals Act 1991][811]:
     
     *   (d) [Part 4][839] of the Maori Purposes Act 1931\.
     
@@ -8914,13 +8916,13 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 360: repealed, on 1 January 2011, by [section 58][831] of the Limitation Act 2010 (2010 No 110).
+    Section 360: repealed, on 1 January 2011, by [section 58][832] of the Limitation Act 2010 (2010 No 110).
 
 ##### 361 Limitation of actions in relation to Maori customary land
     
 *   \[Repealed\]
     
-    Section 361: repealed, on 1 January 2011, by [section 58][831] of the Limitation Act 2010 (2010 No 110).
+    Section 361: repealed, on 1 January 2011, by [section 58][832] of the Limitation Act 2010 (2010 No 110).
 
 ##### 362 Amendments and repeals
     
@@ -9241,7 +9243,7 @@ Amendments to Statutes
 
 ###### 1 General
     
-*   This is a reprint of Te Ture Whenua Maori Act 1993\. The reprint incorporates all the amendments to the Act as at 16 September 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of Te Ture Whenua Maori Act 1993\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][880] ![](/images/external_link.gif).
 
@@ -9288,13 +9290,15 @@ Amendments to Statutes
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Te Ture Whenua Maori Amendment Act 2011][885] (2011 No 76)
+*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][812]
+    
+    [Te Ture Whenua Maori Amendment Act 2011][885] (2011 No 76)
     
     Legal Services Act 2011 (2011 No 4): [section 144][628]
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][511]
     
-    Limitation Act 2010 (2010 No 110): [section 58][831]
+    Limitation Act 2010 (2010 No 110): [section 58][832]
     
     New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][765]
     
@@ -9318,7 +9322,7 @@ Amendments to Statutes
     
     Evidence Act 2006 (2006 No 69): [section 216][610]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][829]
+    Insolvency Act 2006 (2006 No 55): [section 445][830]
     
     Overseas Investment Act 2005 (2005 No 82): [section 74][697]
     
@@ -10189,34 +10193,34 @@ Amendments to Statutes
 [808]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM104633
 [809]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM342659
 [810]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM271699
-[811]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242541
-[812]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144367
-[813]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144368
-[814]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144369
-[815]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM106995
-[816]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388296
-[817]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395797
-[818]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409104
-[819]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411112
-[820]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144372
-[821]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90101
-[822]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90100
-[823]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM304703
-[824]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90102
-[825]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144373
-[826]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144374
-[827]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385298
-[828]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332859
-[829]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM387857
-[830]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033100
-[831]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033287
-[832]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM311191
-[833]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293856
-[834]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM176192
-[835]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396106
-[836]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332860
-[837]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM134246
-[838]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242535
+[811]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242535
+[812]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5081570
+[813]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144367
+[814]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144368
+[815]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144369
+[816]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM106995
+[817]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388296
+[818]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395797
+[819]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409104
+[820]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411112
+[821]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144372
+[822]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90101
+[823]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90100
+[824]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM304703
+[825]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90102
+[826]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144373
+[827]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144374
+[828]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385298
+[829]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332859
+[830]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM387857
+[831]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033100
+[832]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033287
+[833]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM311191
+[834]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293856
+[835]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM176192
+[836]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396106
+[837]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332860
+[838]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM134246
 [839]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM210360
 [840]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396478
 [841]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385591
