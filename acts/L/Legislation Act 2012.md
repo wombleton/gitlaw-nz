@@ -1,3 +1,6 @@
+Reprint  
+as at 24 May 2013
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Legislation Act 2012Public Act2012 No 119
@@ -6,240 +9,252 @@ Date of assent11 December 2012
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+
+A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+
+This Act is administered by the Ministry of Justice and the Parliamentary Counsel Office.
+
+---
+
 ## Contents
 
-[1][0][][0][Title][0]
+[1][1][][1][Title][1]
 
-[2][1][][1][Commencement][1]
+[2][2][][2][Commencement][2]
 
-[Part 1][2]  
-[General provisions][2]
+[Part 1][3]  
+[General provisions][3]
 
-[3][3][][3][Purposes][3]
+[3][4][][4][Purposes][4]
 
-[4][4][][4][Interpretation][4]
+[4][5][][5][Interpretation][5]
 
-[5][5][][5][Act binds the Crown][5]
+[5][6][][6][Act binds the Crown][6]
 
-[Part 2][6]  
-[Law relating to publishing, reprinting, and revising legislation][6]
+[Part 2][7]  
+[Law relating to publishing, reprinting, and revising legislation][7]
 
-[Subpart 1][7][---][7][Publishing legislation][7]
+[Subpart 1][8][---][8][Publishing legislation][8]
 
-[Responsibilities and requirements][8]
+[Responsibilities and requirements][9]
 
-[6][9][][9][Chief Parliamentary Counsel to arrange publication][9]
+[6][10][][10][Chief Parliamentary Counsel to arrange publication][10]
 
-[Availability][10]
+[Availability][11]
 
-[7][11][][11][Designation of places where printed copies of legislation may be purchased][11]
+[7][12][][12][Designation of places where printed copies of legislation may be purchased][12]
 
-[8][12][][12][Sale of copies of legislation][12]
+[8][13][][13][Sale of copies of legislation][13]
 
-[9][13][][13][Availability of electronic versions of legislation][13]
+[9][14][][14][Availability of electronic versions of legislation][14]
 
-[Forwarding to Chief Parliamentary Counsel][14]
+[Forwarding to Chief Parliamentary Counsel][15]
 
-[10][15][][15][Copies of legislative instruments to be forwarded to Chief Parliamentary Counsel][15]
+[10][16][][16][Copies of legislative instruments to be forwarded to Chief Parliamentary Counsel][16]
 
-[Numbering and notification][16]
+[Numbering and notification][17]
 
-[11][17][][17][Numbering of legislative instruments][17]
+[11][18][][18][Numbering of legislative instruments][18]
 
-[12][18][][18][Notice of making of legislative instruments][18]
+[12][19][][19][Notice of making of legislative instruments][19]
 
-[13][19][][19][Complying with requirement to publish or notify in _Gazette_ by publishing and notifying under this Act][19]
+[13][20][][20][Complying with requirement to publish or notify in _Gazette_ by publishing and notifying under this Act][20]
 
-[Other instruments][20]
+[Other instruments][21]
 
-[14][21][][21][Publication of instruments other than legislative instruments][21]
+[14][22][][22][Publication of instruments other than legislative instruments][22]
 
-[Revocation of spent instruments][22]
+[Revocation of spent instruments][23]
 
-[15][23][][23][Power to revoke spent instruments][23]
+[15][24][][24][Power to revoke spent instruments][24]
 
-[Judicial notice of legislation][24]
+[Judicial notice of legislation][25]
 
-[16][25][][25][Judicial notice of Acts, regulations, and legislative instruments][25]
+[16][26][][26][Judicial notice of Acts, regulations, and legislative instruments][26]
 
-[Official versions of legislation][26]
+[Official versions of legislation][27]
 
-[17][27][][27][Electronic and printed official versions of legislation][27]
+[17][28][][28][Electronic and printed official versions of legislation][28]
 
-[18][28][][28][Legal status of official version][28]
+[18][29][][29][Legal status of official version][29]
 
-[Evidence of parliamentary journals][29]
+[Evidence of parliamentary journals][30]
 
-[19][30][][30][Copies of parliamentary journals to be evidence][30]
+[19][31][][31][Copies of parliamentary journals to be evidence][31]
 
-[Form of copies and reprints of legislation][31]
+[Form of copies and reprints of legislation][32]
 
-[20][32][][32][Directions as to form of copies and reprints of legislation][32]
+[20][33][][33][Directions as to form of copies and reprints of legislation][33]
 
-[21][33][][33][Special requirements for copies of legislative instruments][33]
+[21][34][][34][Special requirements for copies of legislative instruments][34]
 
-[Regulations][34]
+[Regulations][35]
 
-[22][35][][35][Regulations][35]
+[22][36][][36][Regulations][36]
 
-[Subpart 2][36][---][36][Reprints][36]
+[Subpart 2][37][---][37][Reprints][37]
 
-[23][37][][37][Interpretation][37]
+[23][38][][38][Interpretation][38]
 
-[24][38][][38][Power to make changes in reprints][38]
+[24][39][][39][Power to make changes in reprints][39]
 
-[25][39][][39][Editorial changes][39]
+[25][40][][40][Editorial changes][40]
 
-[26][40][][40][Changes to format][40]
+[26][41][][41][Changes to format][41]
 
-[27][41][][41][Changes to be noted in reprint][41]
+[27][42][][42][Changes to be noted in reprint][42]
 
-[Subpart 3][42][---][42][Revision Bills][42]
+[Subpart 3][43][---][43][Revision Bills][43]
 
-[Preliminary provisions][43]
+[Preliminary provisions][44]
 
-[28][44][][44][Interpretation][44]
+[28][45][][45][Interpretation][45]
 
-[29][45][][45][Overview][45]
+[29][46][][46][Overview][46]
 
-[Preparation of revisions][46]
+[Preparation of revisions][47]
 
-[30][47][][47][Three-yearly revision programme][47]
+[30][48][][48][Three-yearly revision programme][48]
 
-[31][48][][48][Revision powers][48]
+[31][49][][49][Revision powers][49]
 
-[32][49][][49][Format of revision Bill][49]
+[32][50][][50][Format of revision Bill][50]
 
-[33][50][][50][Certification of revision Bill][50]
+[33][51][][51][Certification of revision Bill][51]
 
-[34][51][][51][Amendments proposed by revision Bills][51]
+[34][52][][52][Amendments proposed by revision Bills][52]
 
-[Interpretation of revision Acts][52]
+[Interpretation of revision Acts][53]
 
-[35][53][][53][Revision Acts not intended to change effect of law][53]
+[35][54][][54][Revision Acts not intended to change effect of law][54]
 
-[Review of this subpart][54]
+[Review of this subpart][55]
 
-[36][55][][55][Review after 6 years][55]
+[36][56][][56][Review after 6 years][56]
 
-[Part 3][56]  
-[Subordinate legislation: Disallowable instruments and incorporation of material by reference][56]
+[Part 3][57]  
+[Subordinate legislation: Disallowable instruments and incorporation of material by reference][57]
 
-[Subpart 1][57][---][57][Disallowable instruments][57]
+[Subpart 1][58][---][58][Disallowable instruments][58]
 
-[Interpretation][58]
+[Interpretation][59]
 
-[37][59][][59][Interpretation][59]
+[37][60][][60][Interpretation][60]
 
-[38][60][][60][Disallowable instruments][60]
+[38][61][][61][Disallowable instruments][61]
 
-[39][61][][61][Instruments that have significant legislative effect][61]
+[39][62][][62][Instruments that have significant legislative effect][62]
 
-[40][62][][62][Instruments that determine or alter temporal application][62]
+[40][63][][63][Instruments that determine or alter temporal application][63]
 
-[Presentation to House of Representatives][63]
+[Presentation to House of Representatives][64]
 
-[41][64][][64][Legislative instruments and disallowable instruments to be presented to House of Representatives][64]
+[41][65][][65][Legislative instruments and disallowable instruments to be presented to House of Representatives][65]
 
-[How instruments are disallowed][65]
+[How instruments are disallowed][66]
 
-[42][66][][66][Disallowance of instruments by resolution of House of Representatives][66]
+[42][67][][67][Disallowance of instruments by resolution of House of Representatives][67]
 
-[43][67][][67][Disallowance of instrument if motion to disallow not disposed of][67]
+[43][68][][68][Disallowance of instrument if motion to disallow not disposed of][68]
 
-[Effect of disallowance][68]
+[Effect of disallowance][69]
 
-[44][69][][69][Effect of disallowance generally][69]
+[44][70][][70][Effect of disallowance generally][70]
 
-[45][70][][70][Effect of disallowance on enactment amended, repealed, or revoked by disallowed instrument][70]
+[45][71][][71][Effect of disallowance on enactment amended, repealed, or revoked by disallowed instrument][71]
 
-[Amendment or substitution of instrument by House of Representatives][71]
+[Amendment or substitution of instrument by House of Representatives][72]
 
-[46][72][][72][Amendment or substitution of disallowable instrument by House of Representatives][72]
+[46][73][][73][Amendment or substitution of disallowable instrument by House of Representatives][73]
 
-[Notification of disallowance, amendment, or substitution][73]
+[Notification of disallowance, amendment, or substitution][74]
 
-[47][74][][74][Notice of resolution or motion][74]
+[47][75][][75][Notice of resolution or motion][75]
 
-[Subpart 2][75][---][75][Incorporation by reference in instruments][75]
+[Subpart 2][76][---][76][Incorporation by reference in instruments][76]
 
-[48][76][][76][Interpretation][76]
+[48][77][][77][Interpretation][77]
 
-[49][77][][77][Instruments that may incorporate material by reference][77]
+[49][78][][78][Instruments that may incorporate material by reference][78]
 
-[50][78][][78][Application of this subpart][78]
+[50][79][][79][Application of this subpart][79]
 
-[51][79][][79][Requirement to consult on proposal to incorporate material by reference][79]
+[51][80][][80][Requirement to consult on proposal to incorporate material by reference][80]
 
-[52][80][][80][Access to material incorporated by reference][80]
+[52][81][][81][Access to material incorporated by reference][81]
 
-[53][81][][81][Effect of amendments to material incorporated by reference][81]
+[53][82][][82][Effect of amendments to material incorporated by reference][82]
 
-[54][82][][82][Proof of material incorporated by reference][82]
+[54][83][][83][Proof of material incorporated by reference][83]
 
-[55][83][][83][Application of subpart 1 of Part 2 to instrument and material incorporated by reference][83]
+[55][84][][84][Application of subpart 1 of Part 2 to instrument and material incorporated by reference][84]
 
-[56][84][][84][Application of subpart 1 of this Part to instrument incorporating material by reference][84]
+[56][85][][85][Application of subpart 1 of this Part to instrument incorporating material by reference][85]
 
-[57][85][][85][Application of Standards Act 1988, other enactments, and rules of law not affected][85]
+[57][86][][86][Application of Standards Act 1988, other enactments, and rules of law not affected][86]
 
-[Part 4][86]  
-[Parliamentary Counsel Office][86]
+[Part 4][87]  
+[Parliamentary Counsel Office][87]
 
-[Constitution and functions][87]
+[Constitution and functions][88]
 
-[58][88][][88][Parliamentary Counsel Office continues as separate statutory office][88]
+[58][89][][89][Parliamentary Counsel Office continues as separate statutory office][89]
 
-[59][89][][89][Functions of PCO][89]
+[59][90][][90][Functions of PCO][90]
 
-[60][90][][90][Power to authorise drafting and printing of Government Bills by Inland Revenue Department][90]
+[60][91][][91][Power to authorise drafting and printing of Government Bills by Inland Revenue Department][91]
 
-[61][91][][91][Confidentiality][91]
+[61][92][][92][Confidentiality][92]
 
-[Powers of Chief Parliamentary Counsel][92]
+[Powers of Chief Parliamentary Counsel][93]
 
-[62][93][][93][Powers of Chief Parliamentary Counsel][93]
+[62][94][][94][Powers of Chief Parliamentary Counsel][94]
 
-[63][94][][94][Delegation of functions, responsibilities, duties, or powers][94]
+[63][95][][95][Delegation of functions, responsibilities, duties, or powers][95]
 
-[64][95][][95][Absence or incapacity of Chief Parliamentary Counsel or vacancy][95]
+[64][96][][96][Absence or incapacity of Chief Parliamentary Counsel or vacancy][96]
 
-[65][96][][96][Revocation of delegations][96]
+[65][97][][97][Revocation of delegations][97]
 
-[Chief Parliamentary Counsel and employees of PCO][97]
+[Chief Parliamentary Counsel and employees of PCO][98]
 
-[66][98][][98][Chief Parliamentary Counsel][98]
+[66][99][][99][Chief Parliamentary Counsel][99]
 
-[67][99][][99][Parliamentary counsel][99]
+[67][100][][100][Parliamentary counsel][100]
 
-[68][100][][100][Chief Parliamentary Counsel and parliamentary counsel to hold legal qualification][100]
+[68][101][][101][Chief Parliamentary Counsel and parliamentary counsel to hold legal qualification][101]
 
-[69][101][][101][Other employees of PCO][101]
+[69][102][][102][Other employees of PCO][102]
 
-[70][102][][102][Remuneration and conditions of appointment of Chief Parliamentary Counsel][102]
+[70][103][][103][Remuneration and conditions of appointment of Chief Parliamentary Counsel][103]
 
-[71][103][][103][Chief Parliamentary Counsel acts as employer][103]
+[71][104][][104][Chief Parliamentary Counsel acts as employer][104]
 
-[72][104][][104][Collective agreements][104]
+[72][105][][105][Collective agreements][105]
 
-[73][105][][105][Employment principles][105]
+[73][106][][106][Employment principles][106]
 
-[74][106][][106][Appointments on merit][106]
+[74][107][][107][Appointments on merit][107]
 
-[75][107][][107][Chief Parliamentary Counsel to establish procedure for notifying vacancies and appointments, and reviewing appointments][107]
+[75][108][][108][Chief Parliamentary Counsel to establish procedure for notifying vacancies and appointments, and reviewing appointments][108]
 
-[76][108][][108][Protection from liability][108]
+[76][109][][109][Protection from liability][109]
 
-[Repeals, consequential amendments, and savings][109]
+[Repeals, consequential amendments, and savings][110]
 
-[77][110][][110][Repeals, consequential amendments, and savings about legislative matters][110]
+[77][111][][111][Repeals, consequential amendments, and savings about legislative matters][111]
 
-[78][111][][111][Savings about former principal officers and other PCO staff][111]
+[78][112][][112][Savings about former principal officers and other PCO staff][112]
 
-[79][112][][112][Continuation of annual regulations series][112]
+[79][113][][113][Continuation of annual regulations series][113]
 
-[Schedule][113]  
-[Consequential amendments to Acts][113]
+[Schedule][114]  
+[Consequential amendments to Acts][114]
 
 ---
 
@@ -251,9 +266,9 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 2 Commencement
     
-*   (1) [Part 1][2], [subpart 3][42] of Part 2, and [Part 4][86] (except [section 77(2), (3), (4), (6), and (7)][110]) come into force on the day after the date on which this Act receives the Royal assent.
+*   (1) [Part 1][3], [subpart 3][43] of Part 2, and [Part 4][87] (except [section 77(2), (3), (4), (6), and (7)][111]) come into force on the day after the date on which this Act receives the Royal assent.
     
-    (2) [Subparts 1][7] and [2][36] of Part 2, [Part 3][56], [section 77(2), (3), (4), (6), and (7)][110], and the Schedule come into force on the earlier of---
+    (2) [Subparts 1][8] and [2][37] of Part 2, [Part 3][57], [section 77(2), (3), (4), (6), and (7)][111], and the Schedule come into force on the earlier of---
         
     *   (a) a date appointed by the Governor-General by Order in Council:
     
@@ -290,7 +305,7 @@ General provisions
     
     *   (f) to enable certain kinds of subordinate legislation to incorporate material by reference in reliance on this Act, subject to compliance with consultation and other requirements:
     
-    *   (g) to replace the [Statutes Drafting and Compilation Act 1920][114] with modern legislation that continues the Parliamentary Counsel Office as a separate statutory office and facilitates the drafting and publishing of high-quality legislation.
+    *   (g) to replace the [Statutes Drafting and Compilation Act 1920][115] with modern legislation that continues the Parliamentary Counsel Office as a separate statutory office and facilitates the drafting and publishing of high-quality legislation.
     
     
 
@@ -298,13 +313,13 @@ General provisions
     
 *   In this Act, unless the context otherwise requires,---
     
-    _Chief Parliamentary Counsel_ means the person who for the time being holds that office under [section 66][98]
+    _Chief Parliamentary Counsel_ means the person who for the time being holds that office under [section 66][99]
     
-    _disallowable instrument_ has the meaning given to it by [section 38][60]
+    _disallowable instrument_ has the meaning given to it by [section 38][61]
     
-    _Imperial enactment_ means an Imperial enactment that has effect as part of the laws of New Zealand under the [Imperial Laws Application Act 1988][115]
+    _Imperial enactment_ means an Imperial enactment that has effect as part of the laws of New Zealand under the [Imperial Laws Application Act 1988][116]
     
-    _Imperial subordinate legislation_ means Imperial subordinate legislation that has effect as part of the laws of New Zealand under the [Imperial Laws Application Act 1988][115]
+    _Imperial subordinate legislation_ means Imperial subordinate legislation that has effect as part of the laws of New Zealand under the [Imperial Laws Application Act 1988][116]
     
     _legislation_ means any Act, Imperial enactment, Imperial subordinate legislation, regulations, or legislative instrument
     
@@ -332,9 +347,9 @@ General provisions
         
         
     
-    _official version_, in relation to legislation, means a version of the legislation that has the status of an official version of the legislation under [section 17][27]
+    _official version_, in relation to legislation, means a version of the legislation that has the status of an official version of the legislation under [section 17][28]
     
-    _PCO_ means the Parliamentary Counsel Office continued by [section 58][88]
+    _PCO_ means the Parliamentary Counsel Office continued by [section 58][89]
     
     _reprint_ means a version of legislation that---
         
@@ -342,7 +357,7 @@ General provisions
     
     *   (b) is published under this Act.
     
-    Compare: 1989 No 142 [ss 2][116], [16B(2)][117]
+    Compare: 1989 No 142 [ss 2][117], [16B(2)][118]
 
 ##### 5 Act binds the Crown
     
@@ -379,7 +394,7 @@ Law relating to publishing, reprinting, and revising legislation
     
     (5) When an Act or a legislative instrument is amended after the commencement of this section, the Chief Parliamentary Counsel---
         
-    *   (a) must arrange for a reprint of the Act or legislative instrument to be published in electronic form so that an up-to-date version of the legislation is available in accordance with [section 9][13] as soon as practicable; and
+    *   (a) must arrange for a reprint of the Act or legislative instrument to be published in electronic form so that an up-to-date version of the legislation is available in accordance with [section 9][14] as soon as practicable; and
     
     *   (b) may also arrange for the reprint to be published in printed form.
     
@@ -387,39 +402,39 @@ Law relating to publishing, reprinting, and revising legislation
     
     (7) The Chief Parliamentary Counsel performs functions under this section subject to any directions given by the Attorney-General.
     
-    (8) An Order in Council made under subsection (4) is a legislative instrument and a disallowable instrument for the purposes of this Act and must be presented to the House of Representatives under [section 41][64].
+    (8) An Order in Council made under subsection (4) is a legislative instrument and a disallowable instrument for the purposes of this Act and must be presented to the House of Representatives under [section 41][65].
     
-    Compare: 1989 No 142 [s 4][118]
+    Compare: 1989 No 142 [s 4][119]
 
 #### Availability
 
 ##### 7 Designation of places where printed copies of legislation may be purchased
     
-*   (1) The Attorney-General must, by notice in the _Gazette_ or in some other manner, designate places where printed copies of legislation that are published under [section 6][9] are available for purchase by members of the public.
+*   (1) The Attorney-General must, by notice in the _Gazette_ or in some other manner, designate places where printed copies of legislation that are published under [section 6][10] are available for purchase by members of the public.
     
     (2) Copies may be made available for purchase by members of the public not only at the places designated under subsection (1) but also at other places.
     
-    Compare: 1989 No 142 [s 9][119]
+    Compare: 1989 No 142 [s 9][120]
 
 ##### 8 Sale of copies of legislation
     
-*   (1) The Chief Parliamentary Counsel must ensure that printed copies of legislation that are published under [section 6][9] are available for purchase by members of the public at the places designated under section 7(1).
+*   (1) The Chief Parliamentary Counsel must ensure that printed copies of legislation that are published under [section 6][10] are available for purchase by members of the public at the places designated under section 7(1).
     
     (2) The price of printed copies of legislation must be reasonable, having regard to the actual cost of printing and making the copies available for sale.
     
     (3) When the repeal or expiry of an Act or the revocation or expiry of regulations or a legislative instrument takes effect, subsection (1) ceases to apply to that legislation.
     
-    Compare: 1989 No 142 [s 10][120]
+    Compare: 1989 No 142 [s 10][121]
 
 ##### 9 Availability of electronic versions of legislation
     
-*   (1) The Chief Parliamentary Counsel must ensure that, as far as practicable, official electronic versions of legislation issued under [section 17][27] are at all times able to be accessed at, or downloaded from, an Internet site maintained by or on behalf of the New Zealand Government.
+*   (1) The Chief Parliamentary Counsel must ensure that, as far as practicable, official electronic versions of legislation issued under [section 17][28] are at all times able to be accessed at, or downloaded from, an Internet site maintained by or on behalf of the New Zealand Government.
     
     (2) Official electronic versions of legislation must be made available under this section free of charge.
     
     (3) This section applies to all enacted legislation other than legislation that ceased to be in force before the commencement of this section.
     
-    (4) This section is subject to any regulations made under [section 22][35].
+    (4) This section is subject to any regulations made under [section 22][36].
 
 #### Forwarding to Chief Parliamentary Counsel
 
@@ -427,19 +442,19 @@ Law relating to publishing, reprinting, and revising legislation
     
 *   A copy of every legislative instrument made after the commencement of this section must be forwarded to the Chief Parliamentary Counsel without delay.
     
-    Compare: 1989 No 142 [s 5][121]
+    Compare: 1989 No 142 [s 5][122]
 
 #### Numbering and notification
 
 ##### 11 Numbering of legislative instruments
     
-*   (1) All copies of legislative instruments published under [section 6][9] must be identified by a number as part of an annual series of legislative instruments.
+*   (1) All copies of legislative instruments published under [section 6][10] must be identified by a number as part of an annual series of legislative instruments.
     
     (2) Legislative instruments may be cited by the number given to them and by a reference to the year in which copies of them are published.
     
     (3) Subsection (2) does not limit any other mode of citation.
     
-    Compare: 1989 No 142 [s 11][122]
+    Compare: 1989 No 142 [s 11][123]
 
 ##### 12 Notice of making of legislative instruments
     
@@ -459,43 +474,43 @@ Law relating to publishing, reprinting, and revising legislation
     
     *   (f) any other information the Chief Parliamentary Counsel considers appropriate.
     
-    Compare: 1989 No 142 [s 12][123]
+    Compare: 1989 No 142 [s 12][124]
 
 ##### 13 Complying with requirement to publish or notify in _Gazette_ by publishing and notifying under this Act
     
 *   (1) This section applies if an Act requires that an instrument be published or notified in the _Gazette_.
     
-    (2) It is sufficient compliance with the requirement to publish or notify the instrument in the _Gazette_ if the instrument is published under this Act and notified in the _Gazette_ under [section 12][18].
+    (2) It is sufficient compliance with the requirement to publish or notify the instrument in the _Gazette_ if the instrument is published under this Act and notified in the _Gazette_ under [section 12][19].
     
-    Compare: 1989 No 142 [s 13][124]
+    Compare: 1989 No 142 [s 13][125]
 
 #### Other instruments
 
 ##### 14 Publication of instruments other than legislative instruments
     
-*   (1) The Attorney-General or the Chief Parliamentary Counsel may arrange for an instrument that is not a legislative instrument to be published in accordance with [section 6][9] as if it were a legislative instrument.
+*   (1) The Attorney-General or the Chief Parliamentary Counsel may arrange for an instrument that is not a legislative instrument to be published in accordance with [section 6][10] as if it were a legislative instrument.
     
     (2) An instrument is not a legislative instrument for the purposes of this subpart just because it is published under this section.
     
     (3) The following provisions apply to every instrument that is published under this section:
         
-    *   (a) [section 11][17] (numbering of legislative instruments):
+    *   (a) [section 11][18] (numbering of legislative instruments):
     
-    *   (b) [section 12][18] (notice of making of legislative instruments):
+    *   (b) [section 12][19] (notice of making of legislative instruments):
     
-    *   (c) [section 13][19] (complying with requirement to publish or notify in _Gazette_ by publishing and notifying under this Act):
+    *   (c) [section 13][20] (complying with requirement to publish or notify in _Gazette_ by publishing and notifying under this Act):
     
-    *   (d) [section 16][25] (judicial notice of Acts, regulations, and legislative instruments):
+    *   (d) [section 16][26] (judicial notice of Acts, regulations, and legislative instruments):
     
-    *   (e) [section 17][27] (electronic and printed official versions of legislation):
+    *   (e) [section 17][28] (electronic and printed official versions of legislation):
     
-    *   (f) [section 18][28] (legal status of official version):
+    *   (f) [section 18][29] (legal status of official version):
     
-    *   (g) [section 20][32] (directions as to form of copies and reprints of legislation):
+    *   (g) [section 20][33] (directions as to form of copies and reprints of legislation):
     
-    *   (h) [section 21][33] (special requirements for copies of legislative instruments).
+    *   (h) [section 21][34] (special requirements for copies of legislative instruments).
     
-    Compare: 1989 No 142 [s 14][125]
+    Compare: 1989 No 142 [s 14][126]
 
 #### Revocation of spent instruments
 
@@ -521,7 +536,7 @@ Law relating to publishing, reprinting, and revising legislation
         
         
     
-    Compare: 1989 No 142 [s 16][126]
+    Compare: 1989 No 142 [s 16][127]
 
 #### Judicial notice of legislation
 
@@ -529,7 +544,7 @@ Law relating to publishing, reprinting, and revising legislation
     
 *   All courts and persons acting judicially must take judicial notice of all Acts, regulations, and legislative instruments.
     
-    Compare: 1989 No 142 [ss 16A][127], [16B][117]
+    Compare: 1989 No 142 [ss 16A][128], [16B][118]
 
 #### Official versions of legislation
 
@@ -543,7 +558,7 @@ Law relating to publishing, reprinting, and revising legislation
     
     (2) A printed version of legislation that is produced directly from an official electronic version is also an official version.
     
-    (3) An electronic or printed document that is identifiable as an official version of legislation in accordance with regulations made under [section 22][35] must be treated as an official version unless the contrary is shown.
+    (3) An electronic or printed document that is identifiable as an official version of legislation in accordance with regulations made under [section 22][36] must be treated as an official version unless the contrary is shown.
     
     (4) This section applies whether the legislation is enacted, made, printed, or published before or after the commencement of this section.
 
@@ -555,13 +570,13 @@ Law relating to publishing, reprinting, and revising legislation
         
     *   (a) is taken to correctly state, as at the date at which it is stated to be reprinted, the law enacted or made by the legislation reprinted and by the amendments (if any) to that legislation; and
     
-    *   (b) is evidence that any changes made in the reprint are authorised by [subpart 2][36].
+    *   (b) is evidence that any changes made in the reprint are authorised by [subpart 2][37].
     
     (3) An official version of regulations or a legislative instrument, or of a reprint of regulations or a legislative instrument, that shows the date of the notification of the regulations or legislative instrument in the _Gazette_ is evidence that the making of the regulations or legislative instrument was notified in the _Gazette_ on the date shown.
     
     (4) The presumptions in subsections (1) to (3) apply unless the contrary is shown.
     
-    (5) For the purposes of the amendment of, incorporation of, or reference to legislation that has been reprinted under [subpart 2][36] with changes authorised by that subpart, those changes have effect as if enacted or made, as the case may be, expressly by other legislation having effect immediately before the reprint date.
+    (5) For the purposes of the amendment of, incorporation of, or reference to legislation that has been reprinted under [subpart 2][37] with changes authorised by that subpart, those changes have effect as if enacted or made, as the case may be, expressly by other legislation having effect immediately before the reprint date.
     
     Compare: Reprints Act 1992 s 9 (Qld)
 
@@ -573,7 +588,7 @@ Law relating to publishing, reprinting, and revising legislation
     
     (2) All courts and all persons acting judicially must admit those copies as evidence of the matters stated in them, without further proof that they were so printed or published.
     
-    Compare: 1989 No 142 [s 16E][128]
+    Compare: 1989 No 142 [s 16E][129]
 
 #### Form of copies and reprints of legislation
 
@@ -593,7 +608,7 @@ Law relating to publishing, reprinting, and revising legislation
     
     (2) A direction may include provision for the omission of signatures and formal or introductory parts.
     
-    Compare: 1989 No 142 [s 7][129]
+    Compare: 1989 No 142 [s 7][130]
 
 ##### 21 Special requirements for copies of legislative instruments
     
@@ -605,9 +620,9 @@ Law relating to publishing, reprinting, and revising legislation
     
     *   (c) the date (if any) on which the legislative instrument is stated to come into force.
     
-    (2) This section overrides [section 20(2)][32].
+    (2) This section overrides [section 20(2)][33].
     
-    Compare: 1989 No 142 [s 8][130]
+    Compare: 1989 No 142 [s 8][131]
 
 #### Regulations
 
@@ -615,9 +630,9 @@ Law relating to publishing, reprinting, and revising legislation
     
 *   The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
         
-    *   (a) imposing requirements or conditions concerning the manner in which official versions of legislation in electronic form are to be made available to the public under [section 9][13]:
+    *   (a) imposing requirements or conditions concerning the manner in which official versions of legislation in electronic form are to be made available to the public under [section 9][14]:
     
-    *   (b) specifying features by which an electronic document or a printed document is identifiable as an official version for the purpose of [section 17][27], including (without limitation) by---
+    *   (b) specifying features by which an electronic document or a printed document is identifiable as an official version for the purpose of [section 17][28], including (without limitation) by---
             
         *   (i) imposing requirements or conditions as to the form of official versions of legislation:
         
@@ -637,21 +652,21 @@ Law relating to publishing, reprinting, and revising legislation
     
     _current drafting practice_ means the legislative drafting practice for the time being used by the PCO
     
-    _legislation_ includes an instrument published under [section 14][21] or published under a corresponding provision in a previous enactment
+    _legislation_ includes an instrument published under [section 14][22] or published under a corresponding provision in a previous enactment
     
     _referential words_ means words (for example, ""of this Act"", ""of this section"", ""of this paragraph"", ""the said"", and ""hereof"") that identify the whole or part of a provision (including a schedule) as a provision, or as part of a provision, of the enactment in which they appear.
     
-    Compare: 1989 No 142 [s 17A][131]
+    Compare: 1989 No 142 [s 17A][132]
 
 ##### 24 Power to make changes in reprints
     
-*   (1) Changes authorised by [sections 25][39] and [26][40] may be made in a reprint.
+*   (1) Changes authorised by [sections 25][40] and [26][41] may be made in a reprint.
     
-    (2) [Sections 25][39] and [26][40] do not permit any change to the text of a provision of any legislation that, if enacted, would change the effect of the provision.
+    (2) [Sections 25][40] and [26][41] do not permit any change to the text of a provision of any legislation that, if enacted, would change the effect of the provision.
     
-    (3) Nothing in this section limits the authority to make changes in a reprint in reliance on the application of [section 22][132] of the Interpretation Act 1999 or any other enactment.
+    (3) Nothing in this section limits the authority to make changes in a reprint in reliance on the application of [section 22][133] of the Interpretation Act 1999 or any other enactment.
     
-    Compare: 1989 No 142 [s 17C][133]; Reprints Act 1992 s 8 (Qld)
+    Compare: 1989 No 142 [s 17C][0]; Reprints Act 1992 s 8 (Qld)
 
 ##### 25 Editorial changes
     
@@ -781,7 +796,7 @@ Law relating to publishing, reprinting, and revising legislation
     
     _revision Bill_ means a Bill prepared under this subpart
     
-    _revision programme_ means a revision programme approved under [section 30][47].
+    _revision programme_ means a revision programme approved under [section 30][48].
 
 ##### 29 Overview
     
@@ -821,9 +836,9 @@ Law relating to publishing, reprinting, and revising legislation
     
     *   (b) recommendations for changes to 1 or more of the following:
             
-        *   (i) the revision powers set out in [section 31][48]:
+        *   (i) the revision powers set out in [section 31][49]:
         
-        *   (ii) the reprint powers under [subpart 2][36]:
+        *   (ii) the reprint powers under [subpart 2][37]:
         
         *   (iii) the procedure for the certification of revision Bills.
         
@@ -865,7 +880,7 @@ Law relating to publishing, reprinting, and revising legislation
     
     (3) A revision Bill must not change the effect of the law, except as authorised by subsection (2)(i) or (j).
     
-    (4) To avoid doubt, the changes that may be made in a revision Bill include (without limitation) any of the changes that may be made in a reprint under [subpart 2][36].
+    (4) To avoid doubt, the changes that may be made in a revision Bill include (without limitation) any of the changes that may be made in a reprint under [subpart 2][37].
 
 ##### 32 Format of revision Bill
     
@@ -885,7 +900,7 @@ Law relating to publishing, reprinting, and revising legislation
         
     *   (a) the revision powers set out in section 31 have been exercised appropriately in the preparation of the revision; and
     
-    *   (b) the revision Bill does not change the effect of the law, except as authorised by [section 31(2)(i) or (j)][48].
+    *   (b) the revision Bill does not change the effect of the law, except as authorised by [section 31(2)(i) or (j)][49].
     
     (4) Before certifying a revision Bill, the certifiers may require the Chief Parliamentary Counsel to make whatever changes they consider necessary.
     
@@ -893,7 +908,7 @@ Law relating to publishing, reprinting, and revising legislation
 
 ##### 34 Amendments proposed by revision Bills
     
-*   (1) A revision Bill, as introduced, must not contain any proposed change to the effect of the law unless the amendment is authorised by [section 31][48].
+*   (1) A revision Bill, as introduced, must not contain any proposed change to the effect of the law unless the amendment is authorised by [section 31][49].
     
     (2) However, nothing in this Act affects the powers of the House of Representatives to amend a revision Bill for any purpose and to pass it with amendment.
 
@@ -1050,7 +1065,7 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
     
     *   (b) any date specified in the resolution as the date on which the instrument or provisions cease to have effect.
     
-    (3) This section does not apply to any resolution to which [section 46][72] applies.
+    (3) This section does not apply to any resolution to which [section 46][73] applies.
     
     Compare: 1989 No 143 [s 5][141]
 
@@ -1084,9 +1099,9 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
 
 ##### 44 Effect of disallowance generally
     
-*   (1) A disallowance under [section 42][66] or [43][67] has the same effect as a revocation of the disallowed instrument or provisions.
+*   (1) A disallowance under [section 42][67] or [43][68] has the same effect as a revocation of the disallowed instrument or provisions.
     
-    (2) This section is subject to [section 45][70].
+    (2) This section is subject to [section 45][71].
     
     Compare: 1989 No 143 [s 7][143]
 
@@ -1112,9 +1127,9 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
     
     (2) The amendment or the revocation and substitution, as the case may be, takes effect on the later of---
         
-    *   (a) the 28th day after the date of the publication of the notice required by [section 47][74]; or
+    *   (a) the 28th day after the date of the publication of the notice required by [section 47][75]; or
     
-    *   (b) any date specified in the notice required by [section 47][74] as the date on which the amendment or the revocation and substitution, as the case may be, takes effect.
+    *   (b) any date specified in the notice required by [section 47][75] as the date on which the amendment or the revocation and substitution, as the case may be, takes effect.
     
     Compare: 1989 No 143 [s 9][145]
 
@@ -1148,7 +1163,7 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
     
     (4) The notice is conclusive evidence of the matters stated in subsection (3)(b) and (c).
     
-    (5) The Chief Parliamentary Counsel must arrange for every notice forwarded under subsection (2) to be published under [section 6][9] as if it were a legislative instrument.
+    (5) The Chief Parliamentary Counsel must arrange for every notice forwarded under subsection (2) to be published under [section 6][10] as if it were a legislative instrument.
     
     Compare: 1989 No 143 [s 10][146]
 
@@ -1172,17 +1187,17 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
     
     _material_ means---
         
-    *   (a) material referred to in [section 49(3)][77]; but
+    *   (a) material referred to in [section 49(3)][78]; but
     
     *   (b) does not include anything incorporated by reference by that material
     
-    _parent Act_ means an Act that is a parent Act for the purpose of [section 49][77].
+    _parent Act_ means an Act that is a parent Act for the purpose of [section 49][78].
     
     (2) For the purposes of this subpart, unless the context otherwise requires, an instrument incorporates material by reference if the instrument does 1 or more of the following:
         
     *   (a) incorporates the material in whole or in part, and with or without modification:
     
-    *   (b) incorporates amendments to which [section 53][81] applies.
+    *   (b) incorporates amendments to which [section 53][82] applies.
     
     
 
@@ -1206,7 +1221,7 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
 
 ##### 50 Application of this subpart
     
-*   (1) This subpart applies in relation to the making of an instrument that incorporates material by reference in reliance on [section 49][77], except where the parent Act expressly provides to the contrary.
+*   (1) This subpart applies in relation to the making of an instrument that incorporates material by reference in reliance on [section 49][78], except where the parent Act expressly provides to the contrary.
     
     (2) This subpart applies, subject to the exception stated in subsection (1), regardless of whether the parent Act---
         
@@ -1214,7 +1229,7 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
     
     *   (b) provides for the incorporation of material by reference in an instrument; or
     
-    *   (c) expressly mentions the incorporation of material by reference in reliance on [section 49][77].
+    *   (c) expressly mentions the incorporation of material by reference in reliance on [section 49][78].
     
     
 
@@ -1252,13 +1267,13 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
     
     (4) The references in this section to material include, if the material is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
     
-    (5) A failure to comply with this section does not invalidate an instrument that incorporates material by reference in reliance on [section 49][77].
+    (5) A failure to comply with this section does not invalidate an instrument that incorporates material by reference in reliance on [section 49][78].
     
     (6) For the purposes of subsection (1)(c), a chief executive may not rely on [section 66][148] of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
 
 ##### 52 Access to material incorporated by reference
     
-*   (1) This section applies if an instrument incorporating material by reference in reliance on [section 49][77] is made.
+*   (1) This section applies if an instrument incorporating material by reference in reliance on [section 49][78] is made.
     
     (2) The chief executive must---
         
@@ -1300,7 +1315,7 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
 
 ##### 53 Effect of amendments to material incorporated by reference
     
-*   (1) This section applies if the material incorporated by reference in reliance on [section 49][77] is amended by the originator of the material after the instrument is made.
+*   (1) This section applies if the material incorporated by reference in reliance on [section 49][78] is amended by the originator of the material after the instrument is made.
     
     (2) For the purposes of this section, material is _amended_ if the material or any part of it---
         
@@ -1314,7 +1329,7 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
 
 ##### 54 Proof of material incorporated by reference
     
-*   (1) A copy of material incorporated by reference in an instrument in reliance on [section 49][77] must be---
+*   (1) A copy of material incorporated by reference in an instrument in reliance on [section 49][78] must be---
         
     *   (a) certified as a correct copy of the material by the chief executive; and
     
@@ -1324,13 +1339,13 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
 
 ##### 55 Application of subpart 1 of Part 2 to instrument and material incorporated by reference
     
-*   (1) [Subpart 1][7] of Part 2 does not apply to material that is for the time being incorporated by reference in an instrument in reliance on [section 49][77], even if the instrument is a legislative instrument.
+*   (1) [Subpart 1][8] of Part 2 does not apply to material that is for the time being incorporated by reference in an instrument in reliance on [section 49][78], even if the instrument is a legislative instrument.
     
-    (2) To avoid doubt, the material does not have to be presented to the House of Representatives under [section 41][64] even though the instrument is a disallowable instrument by virtue of [section 56][84].
+    (2) To avoid doubt, the material does not have to be presented to the House of Representatives under [section 41][65] even though the instrument is a disallowable instrument by virtue of [section 56][85].
 
 ##### 56 Application of subpart 1 of this Part to instrument incorporating material by reference
     
-*   An instrument that incorporates material by reference in reliance on [section 49][77] is a disallowable instrument for the purposes of [subpart 1][57] of this Part.
+*   An instrument that incorporates material by reference in reliance on [section 49][78] is a disallowable instrument for the purposes of [subpart 1][58] of this Part.
 
 ##### 57 Application of Standards Act 1988, other enactments, and rules of law not affected
     
@@ -1359,13 +1374,13 @@ Parliamentary Counsel Office
     
     *   (b) to draft instruments specified in subsection (2) and amendments to them:
     
-    *   (c) to arrange for the printing and publication of Bills and amendments to them (as provided in [Part 2][6]):
+    *   (c) to arrange for the printing and publication of Bills and amendments to them (as provided in [Part 2][7]):
     
-    *   (d) to arrange for the printing and publication of Acts, legislative instruments, and reprints of legislation in electronic form and printed form (as provided in [Part 2][6]):
+    *   (d) to arrange for the printing and publication of Acts, legislative instruments, and reprints of legislation in electronic form and printed form (as provided in [Part 2][7]):
     
-    *   (e) to undertake reprints of Acts, regulations, and legislative instruments (as provided in [Part 2][6]):
+    *   (e) to undertake reprints of Acts, regulations, and legislative instruments (as provided in [Part 2][7]):
     
-    *   (f) to revise Acts in accordance with the current revision programme (as provided in [Part 2][6]):
+    *   (f) to revise Acts in accordance with the current revision programme (as provided in [Part 2][7]):
     
     *   (g) to advise departments and agencies on the drafting of disallowable instruments that are not drafted by the PCO:
     
@@ -1387,7 +1402,7 @@ Parliamentary Counsel Office
     
     *   (b) instruments made by a Minister that amend an Act or define the meaning of a term used in an Act:
     
-    *   (c) instruments that are required by an Act to be published under this Act (other than resolutions of the House of Representatives referred to in paragraph (d) of the definition of legislative instrument in [section 4][4]):
+    *   (c) instruments that are required by an Act to be published under this Act (other than resolutions of the House of Representatives referred to in paragraph (d) of the definition of legislative instrument in [section 4][5]):
     
     *   (d) other instruments that the Attorney-General or the Chief Parliamentary Counsel directs in writing be drafted by the PCO.
     
@@ -1395,7 +1410,7 @@ Parliamentary Counsel Office
 
 ##### 60 Power to authorise drafting and printing of Government Bills by Inland Revenue Department
     
-*   (1) Despite [section 59(1)(a)][89], the Governor-General may, by Order in Council made on the recommendation of the Attorney-General, authorise the Inland Revenue Department---
+*   (1) Despite [section 59(1)(a)][90], the Governor-General may, by Order in Council made on the recommendation of the Attorney-General, authorise the Inland Revenue Department---
         
     *   (a) to draft (subject to the exceptions specified in the order) the Government Bills (being Bills intended to become Acts administered by that department) that the Minister of the Crown who is responsible for that department may direct be prepared for the consideration of Parliament, and amendments to them; and
     
@@ -1455,13 +1470,13 @@ Parliamentary Counsel Office
 
 ##### 64 Absence or incapacity of Chief Parliamentary Counsel or vacancy
     
-*   (1) A person who holds a delegation referred to in [section 63(1)(b)][94] may act in place of the Chief Parliamentary Counsel while the Chief Parliamentary Counsel is absent or incapacitated or during any vacancy in the office of Chief Parliamentary Counsel.
+*   (1) A person who holds a delegation referred to in [section 63(1)(b)][95] may act in place of the Chief Parliamentary Counsel while the Chief Parliamentary Counsel is absent or incapacitated or during any vacancy in the office of Chief Parliamentary Counsel.
     
     (2) No acts done by the person acting in place of the Chief Parliamentary Counsel under subsection (1) may, in any proceedings, be questioned on the ground that the occasion for the authorisation had not arisen or had ceased.
 
 ##### 65 Revocation of delegations
     
-*   (1) A delegation under [section 63][94] is revocable at any time in writing.
+*   (1) A delegation under [section 63][95] is revocable at any time in writing.
     
     (2) A delegation, until it is revoked, continues to have effect according to its terms even if the Chief Parliamentary Counsel by whom it was made has ceased to hold office.
     
@@ -1509,7 +1524,7 @@ Parliamentary Counsel Office
 
 ##### 68 Chief Parliamentary Counsel and parliamentary counsel to hold legal qualification
     
-*   (1) A person meets the qualification requirement in [section 66(3)(a)][98] for the office of Chief Parliamentary Counsel if the person---
+*   (1) A person meets the qualification requirement in [section 66(3)(a)][99] for the office of Chief Parliamentary Counsel if the person---
         
     *   (a) is a lawyer as defined in [section 6][162] of the Lawyers and Conveyancers Act 2006; or
     
@@ -1517,7 +1532,7 @@ Parliamentary Counsel Office
     
     *   (c) holds a qualification that the Attorney-General considers is sufficient for the position.
     
-    (2) A person meets the qualification requirement in [section 67(2)][99] for a position as a parliamentary counsel if the person---
+    (2) A person meets the qualification requirement in [section 67(2)][100] for a position as a parliamentary counsel if the person---
         
     *   (a) is a lawyer as defined in [section 6][162] of the Lawyers and Conveyancers Act 2006; or
     
@@ -1567,7 +1582,7 @@ Parliamentary Counsel Office
 
 ##### 74 Appointments on merit
     
-*   In making an appointment under [section 67][99] or [69][101], the Chief Parliamentary Counsel must give preference to the person who is best suited to the position.
+*   In making an appointment under [section 67][100] or [69][102], the Chief Parliamentary Counsel must give preference to the person who is best suited to the position.
     
     Compare: 2008 No 72 [s 59(1)][170]
 
@@ -1599,7 +1614,7 @@ Parliamentary Counsel Office
 
 ##### 77 Repeals, consequential amendments, and savings about legislative matters
     
-*   (1) The [Statutes Drafting and Compilation Act 1920][114] (1920 No 46) is repealed.
+*   (1) The [Statutes Drafting and Compilation Act 1920][115] (1920 No 46) is repealed.
     
     (2) The [Acts and Regulations Publication Act 1989][175] (1989 No 142) and the [Regulations (Disallowance) Act 1989][176] (1989 No 143) are repealed.
     
@@ -1611,31 +1626,31 @@ Parliamentary Counsel Office
     > 
     > 
     
-    (5) The repeal of the [Statutes Drafting and Compilation Act 1920][114] by subsection (1) does not affect the application of [section 59][178] of the Copyright Act 1994 to the PCO.
+    (5) The repeal of the [Statutes Drafting and Compilation Act 1920][115] by subsection (1) does not affect the application of [section 59][178] of the Copyright Act 1994 to the PCO.
     
     (6) Despite the repeal of the [Acts and Regulations Publication Act 1989][175] by subsection (2),---
         
-    *   (a) a notice given under [section 9][119] of that Act and in force immediately before that repeal continues in force and must be treated as if it had been given under [section 7(1)][11] of this Act:
+    *   (a) a notice given under [section 9][120] of that Act and in force immediately before that repeal continues in force and must be treated as if it had been given under [section 7(1)][12] of this Act:
     
-    *   (b) [sections 16C][179] and [16D][180] of that Act continue to apply to every copy of legislation that purports to be printed and published (whether before or after the commencement of subsection (2)) under the authority of the New Zealand Government until an official electronic or printed version is issued under [section 17][27] of this Act:
+    *   (b) [sections 16C][179] and [16D][180] of that Act continue to apply to every copy of legislation that purports to be printed and published (whether before or after the commencement of subsection (2)) under the authority of the New Zealand Government until an official electronic or printed version is issued under [section 17][28] of this Act:
     
     *   (c) for the purpose of paragraph (b), a legislative instrument must be treated as a regulation within the meaning of [section 16C][179] or [16D][180] of that Act.
     
-    (7) In any regulations in force immediately before the commencement of this subsection, material incorporated by reference in reliance on an enactment repealed by subsection (3) must be treated as having effect under [subpart 2][75] of Part 3 in the absence of any other authority for the incorporation of that material in those regulations.
+    (7) In any regulations in force immediately before the commencement of this subsection, material incorporated by reference in reliance on an enactment repealed by subsection (3) must be treated as having effect under [subpart 2][76] of Part 3 in the absence of any other authority for the incorporation of that material in those regulations.
     
-    (8) Until the repeal of the [Acts and Regulations Publication Act 1989][175] by subsection (2), references in [section 59(1)][89] to the printing, publication, or reprinting of legislation must be read as references to the printing, publication, or reprinting of legislation under that Act.
+    (8) Until the repeal of the [Acts and Regulations Publication Act 1989][175] by subsection (2), references in [section 59(1)][90] to the printing, publication, or reprinting of legislation must be read as references to the printing, publication, or reprinting of legislation under that Act.
 
 ##### 78 Savings about former principal officers and other PCO staff
     
 *   (1) On the commencement of this section,---
         
-    *   (a) the person holding the offices of Chief Parliamentary Counsel and Compiler of Statutes under the [Statutes Drafting and Compilation Act 1920][114] becomes the Chief Parliamentary Counsel under [section 66][98] of this Act:
+    *   (a) the person holding the offices of Chief Parliamentary Counsel and Compiler of Statutes under the [Statutes Drafting and Compilation Act 1920][115] becomes the Chief Parliamentary Counsel under [section 66][99] of this Act:
     
     *   (b) the office of Compiler of Statutes is abolished:
     
-    *   (c) the Parliamentary Counsel (other than the Chief Parliamentary Counsel) in the PCO become parliamentary counsel under [section 67][99]:
+    *   (c) the Parliamentary Counsel (other than the Chief Parliamentary Counsel) in the PCO become parliamentary counsel under [section 67][100]:
     
-    *   (d) the other members of the staff of the PCO become employees under [section 69][101].
+    *   (d) the other members of the staff of the PCO become employees under [section 69][102].
     
     (2) The person to whom subsection (1)(a) applies continues to be engaged on the same terms and conditions applying to that person immediately before the commencement of this section.
     
@@ -1645,15 +1660,15 @@ Parliamentary Counsel Office
     
     *   (b) continues to be entitled to those terms and conditions of employment until those terms and conditions are varied by agreement between the person and the Chief Parliamentary Counsel.
     
-    (4) The employment agreements of all other members of staff of the PCO that were in effect immediately before the commencement of this section continue in effect as if those persons were employed under [section 69][101].
+    (4) The employment agreements of all other members of staff of the PCO that were in effect immediately before the commencement of this section continue in effect as if those persons were employed under [section 69][102].
     
-    (5) For the purposes of any enactment, no person's service as an officer or employee in the PCO is broken by the repeal of the [Statutes Drafting and Compilation Act 1920][114] by [section 77][110].
+    (5) For the purposes of any enactment, no person's service as an officer or employee in the PCO is broken by the repeal of the [Statutes Drafting and Compilation Act 1920][115] by [section 77][111].
     
     (6) This Act does not affect any entitlement of an office holder or employee of the PCO under the Government Superannuation Fund Act 1956\.
 
 ##### 79 Continuation of annual regulations series
     
-*   (1) This section applies despite [sections 11][17] and [12(2)(d)][18].
+*   (1) This section applies despite [sections 11][18] and [12(2)(d)][19].
     
     (2) The Chief Parliamentary Counsel---
         
@@ -1661,9 +1676,9 @@ Parliamentary Counsel Office
     
     *   (b) must start a legislative instruments series no later than the start of the next year.
     
-    (3) It is sufficient compliance with [section 11][17] if a legislative instrument is given a number for the annual regulations series continued under subsection (2) and is published in that series.
+    (3) It is sufficient compliance with [section 11][18] if a legislative instrument is given a number for the annual regulations series continued under subsection (2) and is published in that series.
     
-    (4) It is sufficient compliance with [section 12(2)(d)][18] if a notice published under that section gives an instrument's number in the annual regulations series continued under subsection (2).
+    (4) It is sufficient compliance with [section 12(2)(d)][19] if a notice published under that section gives an instrument's number in the annual regulations series continued under subsection (2).
 
 ---
 
@@ -2304,31 +2319,21 @@ Definition of _regulations_ in [section 2(1)][286]: repeal and substitute:
 
 ##### [Crown Minerals Act 1991][293] (1991 No 70)
 
-[Section 18][294]: after section 18(2), insert:
+_Item repealed._
 
-> *   "(3) An Order in Council made under subsection (1)---
->         
->     *   "(a) is a disallowable instrument for the purposes of the Legislation Act 2012; but
->     
->     *   "(b) is not a legislative instrument for the purposes of that Act and section 59(2) of that Act does not apply to it."
->     
->     
-> 
-> 
+##### [Crown Pastoral Land Act 1998][294] (1998 No 65)
 
-##### [Crown Pastoral Land Act 1998][295] (1998 No 65)
-
-[Section 23O(4)][296]: repeal and substitute:
+[Section 23O(4)][295]: repeal and substitute:
 
 > *   "(4) A rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012\."
 > 
 > 
 
-##### [Customs and Excise Act 1996][297] (1996 No 27)
+##### [Customs and Excise Act 1996][296] (1996 No 27)
 
-[Section 76C(1)(b)][298]: omit ""section 9 of the Acts and Regulations Publication Act 1989"" and substitute ""section 7 of the Legislation Act 2012"".
+[Section 76C(1)(b)][297]: omit ""section 9 of the Acts and Regulations Publication Act 1989"" and substitute ""section 7 of the Legislation Act 2012"".
 
-[Section 76D][299]: repeal and substitute:
+[Section 76D][298]: repeal and substitute:
 
 > ##### "76D Application of Legislation Act 2012
 >     
@@ -2342,11 +2347,11 @@ Definition of _regulations_ in [section 2(1)][286]: repeal and substitute:
 > 
 > 
 
-[Section 76G(4)(a)][300]: replace ""the Acts and Regulations Publication Act 1989"" with ""Part 2 of the Legislation Act 2012"".
+[Section 76G(4)(a)][299]: replace ""the Acts and Regulations Publication Act 1989"" with ""Part 2 of the Legislation Act 2012"".
 
-[Section 286B(1)][301]: replace ""Regulations (Disallowance) Act 1989"" with ""Legislation Act 2012"".
+[Section 286B(1)][300]: replace ""Regulations (Disallowance) Act 1989"" with ""Legislation Act 2012"".
 
-[Section 287E][302]: repeal and substitute:
+[Section 287E][301]: repeal and substitute:
 
 > ##### "287E Application of Legislation Act 2012 to provisions incorporated by reference
 >     
@@ -2358,19 +2363,19 @@ Definition of _regulations_ in [section 2(1)][286]: repeal and substitute:
 > 
 > 
 
-[Section 287F][303]: repeal.
+[Section 287F][302]: repeal.
 
-[Section 288(11)][304]: repeal and substitute:
+[Section 288(11)][303]: repeal and substitute:
 
 > *   "(11) Every rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Dairy Industry Restructuring Act 2001][305] (2001 No 51)
+##### [Dairy Industry Restructuring Act 2001][304] (2001 No 51)
 
-[Section 148(6)(c)][306]: replace ""section 16 of the Acts and Regulations Publication Act 1989"" with ""section 15 of the Legislation Act 2012"".
+[Section 148(6)(c)][305]: replace ""section 16 of the Acts and Regulations Publication Act 1989"" with ""section 15 of the Legislation Act 2012"".
 
-Clause 8 of [Schedule 5E][307]: repeal and substitute:
+Clause 8 of [Schedule 5E][306]: repeal and substitute:
 
 > ##### "8 Application of Legislation Act 2012
 >     
@@ -2382,67 +2387,67 @@ Clause 8 of [Schedule 5E][307]: repeal and substitute:
 > 
 > 
 
-[Schedule 5E][307]: repeal clause 9\.
+[Schedule 5E][306]: repeal clause 9\.
 
-##### [District Courts Act 1947][308] (1947 No 16)
+##### [District Courts Act 1947][307] (1947 No 16)
 
-[Section 11G(6)][309]: repeal and substitute:
+[Section 11G(6)][308]: repeal and substitute:
 
 > *   "(6) Every Order in Council made under subsection (1)(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Dog Control Act 1996][310] (1996 No 13)
+##### [Dog Control Act 1996][309] (1996 No 13)
 
-[Section 35B(6)][311]: repeal and substitute:
+[Section 35B(6)][310]: repeal and substitute:
 
 > *   "(6) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 78A(3)][312]: repeal and substitute:
+[Section 78A(3)][311]: repeal and substitute:
 
 > *   "(3) An order made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Education Act 1989][313] (1989 No 80)
+##### [Education Act 1989][312] (1989 No 80)
 
-[Section 18AA(4)][314]: repeal and substitute:
+[Section 18AA(4)][313]: repeal and substitute:
 
 > *   "(4) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 139AJ(5)][315]: repeal and substitute:
+[Section 139AJ(5)][314]: repeal and substitute:
 
 > *   "(5) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 144C(1)(a)][316]: omit "", whether the regulations set out the standards themselves or adopt standards contained in other documents"".
+[Section 144C(1)(a)][315]: omit "", whether the regulations set out the standards themselves or adopt standards contained in other documents"".
 
-[Section 144C(1)(b)][316]: omit "", whether the regulations set out the codes themselves or adopt codes contained in other documents"".
+[Section 144C(1)(b)][315]: omit "", whether the regulations set out the codes themselves or adopt codes contained in other documents"".
 
-[Section 235B(3)][317]: repeal and substitute:
+[Section 235B(3)][316]: repeal and substitute:
 
 > *   "(3) A notice under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 317(5)][318]: repeal and substitute:
+[Section 317(5)][317]: repeal and substitute:
 
 > *   "(5) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 319(3)][319]: repeal and substitute:
+[Section 319(3)][318]: repeal and substitute:
 
 > *   "(3) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-New section 319AA: insert after [section 319][319]:
+New section 319AA: insert after [section 319][318]:
 
 > ##### "319AA Application of Legislation Act 2012 to certain material incorporated by reference
 >     
@@ -2452,65 +2457,65 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-##### [Education Lands Act 1949][320] (1949 No 24)
+##### [Education Lands Act 1949][319] (1949 No 24)
 
-[Section 15(5)][321]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
+[Section 15(5)][320]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
 
-##### [Electoral Act 1993][322] (1993 No 87)
+##### [Electoral Act 1993][321] (1993 No 87)
 
-[Section 104(2)(a)][323]: insert ""published in the _Gazette_"" after ""Order in Council"".
+[Section 104(2)(a)][322]: insert ""published in the _Gazette_"" after ""Order in Council"".
 
-[Section 266][324]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
+[Section 266][323]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
 
-##### [Electoral (Administration) Amendment Act 2011][325] (2011 No 57)
+##### [Electoral (Administration) Amendment Act 2011][324] (2011 No 57)
 
-[Section 48(3)][326]: repeal and substitute:
+[Section 48(3)][325]: repeal and substitute:
 
 > *   "(3) Regulations under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Electricity Act 1992][327] (1992 No 122)
+##### [Electricity Act 1992][326] (1992 No 122)
 
-[Section 75(4)][328]: repeal and substitute:
+[Section 75(4)][327]: repeal and substitute:
 
 > *   "(4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 90(2)][329]: repeal and substitute:
+[Section 90(2)][328]: repeal and substitute:
 
 > *   "(2) Each notice published under section 84 or 85 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 107(3)][330]: repeal and substitute:
+[Section 107(3)][329]: repeal and substitute:
 
 > *   "(3) Each notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Electricity Industry Act 2010][331] (2010 No 116)
+##### [Electricity Industry Act 2010][330] (2010 No 116)
 
-[Section 33(1)][332]: repeal and substitute:
+[Section 33(1)][331]: repeal and substitute:
 
 > *   "(1) The Code is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 90(7)][333]: repeal and substitute:
+[Section 90(7)][332]: repeal and substitute:
 
 > *   "(7) An exemption under this section is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 122(3)(d)][334]: repeal and substitute:
+[Section 122(3)(d)][333]: repeal and substitute:
 
 > *   "(d) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Schedule 1][335]: clause 7: repeal and substitute:
+[Schedule 1][334]: clause 7: repeal and substitute:
 
 > ##### "7 Application of Legislation Act 2012
 >     
@@ -2520,11 +2525,11 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-[Clause 8][336] of Schedule 1: repeal.
+[Clause 8][335] of Schedule 1: repeal.
 
-##### [Energy Resources Levy Act 1976][337] (1976 No 71)
+##### [Energy Resources Levy Act 1976][336] (1976 No 71)
 
-[Section 5(2)][338]: repeal and substitute:
+[Section 5(2)][337]: repeal and substitute:
 
 > *   "(2) An Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 in any session expires as follows:
 >         
@@ -2536,11 +2541,11 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-##### [Epidemic Preparedness Act 2006][339] (2006 No 85)
+##### [Epidemic Preparedness Act 2006][338] (2006 No 85)
 
-[Section 21(4)][340]: omit ""section 4 of the Acts and Regulations Publication Act 1989"" and substitute ""the Legislation Act 2012"".
+[Section 21(4)][339]: omit ""section 4 of the Acts and Regulations Publication Act 1989"" and substitute ""the Legislation Act 2012"".
 
-[Section 22][341]: repeal and substitute:
+[Section 22][340]: repeal and substitute:
 
 > ##### "22 Application of Part 3 of Legislation Act 2012
 >     
@@ -2554,39 +2559,39 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-##### [Extradition Act 1999][342] (1999 No 55)
+##### [Extradition Act 1999][341] (1999 No 55)
 
-[Section 15(4)][343]: repeal and substitute:
+[Section 15(4)][342]: repeal and substitute:
 
 > *   "(4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 16(3)][344]: repeal and substitute:
+[Section 16(3)][343]: repeal and substitute:
 
 > *   "(3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 40(7)][345]: repeal and substitute:
+[Section 40(7)][344]: repeal and substitute:
 
 > *   "(7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Finance Act (No 2) 1990][346] (1990 No 73)
+##### [Finance Act (No 2) 1990][345] (1990 No 73)
 
-[Section 4][347]: insert ""published in the _Gazette_"" after ""Order in Council"".
+[Section 4][346]: insert ""published in the _Gazette_"" after ""Order in Council"".
 
-##### [Financial Advisers Act 2008][348] (2008 No 91)
+##### [Financial Advisers Act 2008][347] (2008 No 91)
 
-[Section 94(4)][349]: repeal and substitute:
+[Section 94(4)][348]: repeal and substitute:
 
 > *   "(4) The code and the notice are each disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 148B(1)][350]: repeal and substitute:
+[Section 148B(1)][349]: repeal and substitute:
 
 > *   "(1) For the purposes of the Legislation Act 2012, an exemption under section 148, or a variation or revocation of an exemption under section 148A,---
 >         
@@ -2598,11 +2603,11 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-##### [Financial Reporting Act 1993][351] (1993 No 106)
+##### [Financial Reporting Act 1993][350] (1993 No 106)
 
-[Section 4B(1)][352]: omit "", by notice in the _Gazette_,"".
+[Section 4B(1)][351]: omit "", by notice in the _Gazette_,"".
 
-[Section 4B(4)][352]: repeal and substitute:
+[Section 4B(4)][351]: repeal and substitute:
 
 > *   "(4) An exemption is a disallowable instrument under the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 > 
@@ -2622,15 +2627,15 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-[Section 4D][353]: omit ""in the _Gazette_"".
+[Section 4D][352]: omit ""in the _Gazette_"".
 
-[Section 32(1)][354]: omit ""The Regulations (Disallowance) Act 1989 applies to the following instruments and determinations of the Board as if the instrument or determination were a regulation within the meaning of that Act"" and substitute ""The following instruments and determinations of the Board are disallowable instruments for the purposes of the Legislation Act 2012"".
+[Section 32(1)][353]: omit ""The Regulations (Disallowance) Act 1989 applies to the following instruments and determinations of the Board as if the instrument or determination were a regulation within the meaning of that Act"" and substitute ""The following instruments and determinations of the Board are disallowable instruments for the purposes of the Legislation Act 2012"".
 
-[Section 32(2)][354]: omit ""section 4 of the Regulations (Disallowance) Act 1989"" and substitute ""section 41 of the Legislation Act 2012"".
+[Section 32(2)][353]: omit ""section 4 of the Regulations (Disallowance) Act 1989"" and substitute ""section 41 of the Legislation Act 2012"".
 
-[Section 32(3)][354]: omit ""regulations for the purposes of the Acts and Regulations Publication Act 1989"" and substitute ""legislative instruments for the purposes of the Legislation Act 2012"".
+[Section 32(3)][353]: omit ""regulations for the purposes of the Acts and Regulations Publication Act 1989"" and substitute ""legislative instruments for the purposes of the Legislation Act 2012"".
 
-[Section 35AC(1) and (2)][355]: repeal and substitute:
+[Section 35AC(1) and (2)][354]: repeal and substitute:
 
 > *   "(1) An exemption granted under section 35A---
 >         
@@ -2644,33 +2649,33 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-[Section 35B(6)][356]: repeal and substitute:
+[Section 35B(6)][355]: repeal and substitute:
 
 > *   "(6) A notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Fire Service Act 1975][357] (1975 No 42)
+##### [Fire Service Act 1975][356] (1975 No 42)
 
-[Section 48(2A)][358]: repeal and substitute:
+[Section 48(2A)][357]: repeal and substitute:
 
 > *   "(2A) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 92(2)(na)][359]: omit "", whether by reference to a New Zealand Standard or otherwise"".
+[Section 92(2)(na)][358]: omit "", whether by reference to a New Zealand Standard or otherwise"".
 
-[Section 92(2)(nb)][359]: omit "", whether by reference to a New Zealand Standard or otherwise"".
+[Section 92(2)(nb)][358]: omit "", whether by reference to a New Zealand Standard or otherwise"".
 
-##### [Fisheries Act 1996][360] (1996 No 88)
+##### [Fisheries Act 1996][359] (1996 No 88)
 
-[Section 299A(2)][361]: repeal and substitute:
+[Section 299A(2)][360]: repeal and substitute:
 
 > *   "(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 303(1)][362]: repeal and substitute:
+[Section 303(1)][361]: repeal and substitute:
 
 > *   "(1) A notice given under this Act that is required to be published in the _Gazette_---
 >         
@@ -2682,15 +2687,15 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-[Section 303(3)][362]: repeal and substitute:
+[Section 303(3)][361]: repeal and substitute:
 
 > *   "(3) A notice given under section 11(4)(b)(i) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Food Act 1981][363] (1981 No 45)
+##### [Food Act 1981][362] (1981 No 45)
 
-[Section 11I][364]: repeal and substitute:
+[Section 11I][363]: repeal and substitute:
 
 > ##### "11I Food standards subject to disallowance
 >     
@@ -2698,121 +2703,121 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-##### [Forests Act 1949][365] (1949 No 19)
+##### [Forests Act 1949][364] (1949 No 19)
 
-[Section 67ZM(2)][366]: repeal and substitute:
+[Section 67ZM(2)][365]: repeal and substitute:
 
 > *   "(2) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 67ZT][367]: omit ""the Regulations (Disallowance) Act 1989"" in each place where it appears and substitute in each case ""Part 3 of the Legislation Act 2012"".
+[Section 67ZT][366]: omit ""the Regulations (Disallowance) Act 1989"" in each place where it appears and substitute in each case ""Part 3 of the Legislation Act 2012"".
 
-##### [Gambling Act 2003][368] (2003 No 51)
+##### [Gambling Act 2003][367] (2003 No 51)
 
-[Section 21(2)][369]: repeal and substitute:
+[Section 21(2)][368]: repeal and substitute:
 
 > *   "(2) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 116(6)][370]: repeal and substitute:
+[Section 116(6)][369]: repeal and substitute:
 
 > *   "(6) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 243(7)][371]: repeal and substitute:
+[Section 243(7)][370]: repeal and substitute:
 
 > *   "(7) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 244(3)][372]: repeal and substitute:
+[Section 244(3)][371]: repeal and substitute:
 
 > *   "(3) A notice given under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 280(7)][373]: repeal and substitute:
+[Section 280(7)][372]: repeal and substitute:
 
 > *   "(7) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 301(7)][374]: repeal and substitute:
+[Section 301(7)][373]: repeal and substitute:
 
 > *   "(7) A notice given under subsection (1)(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 327(5)][375]: repeal and substitute:
+[Section 327(5)][374]: repeal and substitute:
 
 > *   "(5) Minimum standards prescribed by the Secretary under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 367(7)][376]: repeal and substitute:
+[Section 367(7)][375]: repeal and substitute:
 
 > *   "(7) A rule, amendment, or revocation made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Gas Act 1992][377] (1992 No 124)
+##### [Gas Act 1992][376] (1992 No 124)
 
-[Section 43Q(2)(c)(ii)][378]: replace ""Acts and Regulations Publication Act 1989"" with ""Legislation Act 2012"".
+[Section 43Q(2)(c)(ii)][377]: replace ""Acts and Regulations Publication Act 1989"" with ""Legislation Act 2012"".
 
-[Section 43Q(5)][378]: repeal and substitute:
+[Section 43Q(5)][377]: repeal and substitute:
 
 > *   "(5) A rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Goods and Services Tax Act 1985][379] (1985 No 141)
+##### [Goods and Services Tax Act 1985][378] (1985 No 141)
 
-[Section 78(3)][380]: insert ""or by any legislative instrument (within the meaning of the Legislation Act 2012)"" after ""pursuant to, any Act"".
+[Section 78(3)][379]: insert ""or by any legislative instrument (within the meaning of the Legislation Act 2012)"" after ""pursuant to, any Act"".
 
-##### [Governor-General Act 2010][381] (2010 No 122)
+##### [Governor-General Act 2010][380] (2010 No 122)
 
-[Section 5(5)][382]: repeal and substitute:
+[Section 5(5)][381]: repeal and substitute:
 
 > *   "(5) A determination made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 6(4)][383]: repeal and substitute:
+[Section 6(4)][382]: repeal and substitute:
 
 > *   "(4) An Order in Council made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 8(6)][384]: repeal and substitute:
+[Section 8(6)][383]: repeal and substitute:
 
 > *   "(6) A determination made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Hazardous Substances and New Organisms Act 1996][385] (1996 No 30)
+##### [Hazardous Substances and New Organisms Act 1996][384] (1996 No 30)
 
-[Section 49B(2)(b)][386]: repeal and substitute:
+[Section 49B(2)(b)][385]: repeal and substitute:
 
 > *   "(b) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 50(5)][387]: repeal and substitute:
+[Section 50(5)][386]: repeal and substitute:
 
 > *   "(5) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 96B(5)][388]: repeal and substitute:
+[Section 96B(5)][387]: repeal and substitute:
 
 > *   "(5) A notice issued under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 141][389]I: repeal and substitute:
+[Section 141][388]I: repeal and substitute:
 
 > ##### "141I Application of Legislation Act 2012
 >     
@@ -2824,21 +2829,21 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-##### [Health Act 1956][390] (1956 No 65)
+##### [Health Act 1956][389] (1956 No 65)
 
-[Section 69O(5)][391]: repeal and substitute:
+[Section 69O(5)][390]: repeal and substitute:
 
 > *   "(5) Standards issued or adopted under subsection (1) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 69ZL(3)][392]: repeal and substitute:
+[Section 69ZL(3)][391]: repeal and substitute:
 
 > *   "(3) A notice under subsection (1)(j)(ii) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 112ZM][393]: repeal and substitute:
+[Section 112ZM][392]: repeal and substitute:
 
 > ##### "112ZM Application of Legislation Act 2012 to standards incorporated by reference
 >     
@@ -2850,9 +2855,9 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-[Section 112ZN][394]: repeal.
+[Section 112ZN][393]: repeal.
 
-[Section 137G][395]: repeal and substitute:
+[Section 137G][394]: repeal and substitute:
 
 > ##### "137G Application of Legislation Act 2012 to material incorporated by reference
 >     
@@ -2862,31 +2867,31 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-[Section 137H][396]: repeal.
+[Section 137H][395]: repeal.
 
-##### [Health and Disability Services (Safety) Act 2001][397] (2001 No 93)
+##### [Health and Disability Services (Safety) Act 2001][396] (2001 No 93)
 
-[Section 16(1)][398]: repeal and substitute:
+[Section 16(1)][397]: repeal and substitute:
 
 > *   "(1) A notice under section 13 or 14 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Health Practitioners Competence Assurance Act 2003][399] (2003 No 48)
+##### [Health Practitioners Competence Assurance Act 2003][398] (2003 No 48)
 
-[Section 9(7)][400]: repeal and substitute:
+[Section 9(7)][399]: repeal and substitute:
 
 > *   "(7) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 14(4)][401]: repeal and substitute:
+[Section 14(4)][400]: repeal and substitute:
 
 > *   "(4) A notice published under section 11 or 12 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 63][402]: repeal and substitute:
+[Section 63][401]: repeal and substitute:
 
 > ##### "63 Application of Legislation Act 2012 to notices under section 54
 >     
@@ -2894,65 +2899,65 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-[Section 115(4)][403]: repeal and substitute:
+[Section 115(4)][402]: repeal and substitute:
 
 > *   "(4) An Order in Council under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 132(3)][404]: repeal and substitute:
+[Section 132(3)][403]: repeal and substitute:
 
 > *   "(3) A notice under section 130 or 131 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Health Sector (Transfers) Act 1993][405] (1993 No 23)
+##### [Health Sector (Transfers) Act 1993][404] (1993 No 23)
 
-[Section 5(6)(b)][406]: repeal and substitute:
+[Section 5(6)(b)][405]: repeal and substitute:
 
 > *   "(b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Housing Restructuring and Tenancy Matters Act 1992][407] (1992 No 76)
+##### [Housing Restructuring and Tenancy Matters Act 1992][406] (1992 No 76)
 
-[Section 24(3)][408]: repeal and substitute:
+[Section 24(3)][407]: repeal and substitute:
 
 > *   "(3) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 25(4)(a)][409]: insert ""or the Legislation Act 2012"" after ""Acts and Regulations Publication Act 1989"".
+[Section 25(4)(a)][408]: insert ""or the Legislation Act 2012"" after ""Acts and Regulations Publication Act 1989"".
 
-##### [Immigration Act 2009][410] (2009 No 51)
+##### [Immigration Act 2009][409] (2009 No 51)
 
-[Section 22(8)(b)][411]: repeal and substitute:
+[Section 22(8)(b)][410]: repeal and substitute:
 
 > *   "(b) are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 69(4)(c)][412]: repeal and substitute:
+[Section 69(4)(c)][411]: repeal and substitute:
 
 > *   "(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 86(5)][413]: add ""; and"" and also add:
+[Section 86(5)][412]: add ""; and"" and also add:
 
 > *   "(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 378][414]: add:
+[Section 378][413]: add:
 
 > *   "(9) A special direction is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act, unless this Act otherwise provides."
 > 
 > 
 
-##### [Immigration Advisers Licensing Act 2007][415] (2007 No 15)
+##### [Immigration Advisers Licensing Act 2007][414] (2007 No 15)
 
-[Section 39][416]: repeal and substitute:
+[Section 39][415]: repeal and substitute:
 
 > ##### "39 Application of Legislation Act 2012 to code and standards
 >     
@@ -2960,47 +2965,47 @@ New section 319AA: insert after [section 319][319]:
 > 
 > 
 
-##### [Imperial Laws Application Act 1988][115] (1988 No 112)
+##### [Imperial Laws Application Act 1988][116] (1988 No 112)
 
-[Section 3(7)][417]: repeal and substitute:
+[Section 3(7)][416]: repeal and substitute:
 
 > *   "(7) An Order in Council made under subsection (6) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Incorporated Societies Act 1908][418] (1908 No 212)
+##### [Incorporated Societies Act 1908][417] (1908 No 212)
 
 Definition of _regulations_ in section 3: repeal.
 
-[Section 32(1)][419]: insert "", by Order in Council,"" after ""and may"".
+[Section 32(1)][418]: insert "", by Order in Council,"" after ""and may"".
 
-[Section 36][420]: omit ""gazetted"".
+[Section 36][419]: omit ""gazetted"".
 
-##### [Industry Training Act 1992][421] (1992 No 55)
+##### [Industry Training Act 1992][420] (1992 No 55)
 
-[Section 26(4)][422]: repeal and substitute:
+[Section 26(4)][421]: repeal and substitute:
 
 > *   "(4) A levy order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 51][423]: omit ""the Regulations (Disallowance) Act 1989"" in each place where it appears and substitute in each case ""Part 3 of the Legislation Act 2012"".
+[Section 51][422]: omit ""the Regulations (Disallowance) Act 1989"" in each place where it appears and substitute in each case ""Part 3 of the Legislation Act 2012"".
 
-[Section 52(1)(b)][424]: omit ""the Regulations (Disallowance) Act 1989"" and substitute ""Part 3 of the Legislation Act 2012"".
+[Section 52(1)(b)][423]: omit ""the Regulations (Disallowance) Act 1989"" and substitute ""Part 3 of the Legislation Act 2012"".
 
-##### [Inspector-General of Intelligence and Security Act 1996][425] (1996 No 47)
+##### [Inspector-General of Intelligence and Security Act 1996][424] (1996 No 47)
 
-[Section 2(3)][426]: repeal and substitute:
+[Section 2(3)][425]: repeal and substitute:
 
 > *   "(3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 23(5)][427]: omit ""within the meaning of the Regulations (Disallowance) Act 1989"".
+[Section 23(5)][426]: omit ""within the meaning of the Regulations (Disallowance) Act 1989"".
 
-##### [Insurance (Prudential Supervision) Act 2010][428] (2010 No 111)
+##### [Insurance (Prudential Supervision) Act 2010][427] (2010 No 111)
 
-[Section 232(8) and (9)][429]: repeal and substitute:
+[Section 232(8) and (9)][428]: repeal and substitute:
 
 > *   "(8) A declaration---
 >         
@@ -3014,11 +3019,11 @@ Definition of _regulations_ in section 3: repeal.
 > 
 > 
 
-[Section 233(1)][430]: omit ""regulations for the purposes of the Regulations (Disallowance) Act 1989 but are not regulations for the purposes of the Acts and Regulations Publication Act 1989"" and substitute ""disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012"".
+[Section 233(1)][429]: omit ""regulations for the purposes of the Regulations (Disallowance) Act 1989 but are not regulations for the purposes of the Acts and Regulations Publication Act 1989"" and substitute ""disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012"".
 
-[Section 233(2)][430]: omit ""section 4 of the Regulations (Disallowance) Act 1989"" and substitute ""section 41 of the Legislation Act 2012"".
+[Section 233(2)][429]: omit ""section 4 of the Regulations (Disallowance) Act 1989"" and substitute ""section 41 of the Legislation Act 2012"".
 
-[Schedule 1][431]: clause 7: repeal and substitute:
+[Schedule 1][430]: clause 7: repeal and substitute:
 
 > ##### "7 Application of Legislation Act 2012
 >     
@@ -3030,35 +3035,35 @@ Definition of _regulations_ in section 3: repeal.
 > 
 > 
 
-[Schedule 1][431]: clause 8: repeal.
+[Schedule 1][430]: clause 8: repeal.
 
-##### [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][432] (2003 No 116)
+##### [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][431] (2003 No 116)
 
-[Section 148(3)][433]: repeal and substitute:
+[Section 148(3)][432]: repeal and substitute:
 
 > *   "(3) All guidelines and standards issued under subsection (1) are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Intelligence and Security Committee Act 1996][434] (1996 No 46)
+##### [Intelligence and Security Committee Act 1996][433] (1996 No 46)
 
-[Section 2(3)][435]: repeal and substitute:
+[Section 2(3)][434]: repeal and substitute:
 
 > *   "(3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [International War Crimes Tribunal Act 1995][436] (1995 No 27)
+##### [International War Crimes Tribunal Act 1995][435] (1995 No 27)
 
-[Section 61(3)][437]: repeal and substitute:
+[Section 61(3)][436]: repeal and substitute:
 
 > *   "(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Judicature Act 1908][438] (1908 No 89)
+##### [Judicature Act 1908][437] (1908 No 89)
 
-[Section 51A][439]: repeal and substitute:
+[Section 51A][438]: repeal and substitute:
 
 > ##### "51A Publication of High Court Rules under Legislation Act 2012
 >     
@@ -3068,15 +3073,15 @@ Definition of _regulations_ in section 3: repeal.
 > 
 > 
 
-##### [KiwiSaver Act 2006][440] (2006 No 40)
+##### [KiwiSaver Act 2006][439] (2006 No 40)
 
-[Section 65(4)][441]: omit ""laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989"" and substitute ""presented to the House of Representatives under [section 41][442] of the Legislation Act 2012"".
+[Section 65(4)][440]: omit ""laid before the House of Representatives pursuant to the Regulations (Disallowance) Act 1989"" and substitute ""presented to the House of Representatives under [section 41][441] of the Legislation Act 2012"".
 
-##### [Land Transport Act 1998][443] (1998 No 110)
+##### [Land Transport Act 1998][442] (1998 No 110)
 
-[Section 2(2)][444]: omit ""regulation for the purposes of the Acts and Regulations Publication Act 1989"" and substitute ""legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012"".
+[Section 2(2)][443]: omit ""regulation for the purposes of the Acts and Regulations Publication Act 1989"" and substitute ""legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012"".
 
-[Section 152A(6)][445]: repeal and substitute:
+[Section 152A(6)][444]: repeal and substitute:
 
 > *   "(6) An Order in Council made under subsection (1)---
 >         
@@ -3088,45 +3093,45 @@ Definition of _regulations_ in section 3: repeal.
 > 
 > 
 
-[Section 160(6)][446]: repeal and substitute:
+[Section 160(6)][445]: repeal and substitute:
 
 > *   "(6) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 162(4)][447]: repeal and substitute:
+[Section 162(4)][446]: repeal and substitute:
 
 > *   "(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 165(7) and (8)][448]: repeal and substitute:
+[Section 165(7) and (8)][447]: repeal and substitute:
 
 > *   "(7) The Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material."
 > 
 > 
 
-[Section 168A(5)][449]: repeal and substitute:
+[Section 168A(5)][448]: repeal and substitute:
 
 > *   "(5) A notice given under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Land Transport Management Act 2003][450] (2003 No 118)
+##### [Land Transport Management Act 2003][449] (2003 No 118)
 
-[Section 46(4)][451]: repeal and substitute:
+[Section 46(4)][450]: repeal and substitute:
 
 > *   "(4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 65O(5][452]): repeal and substitute:
+[Section 65O(5][451]): repeal and substitute:
 
 > *   "(5) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 85][453]: repeal and substitute:
+[Section 85][452]: repeal and substitute:
 
 > ##### "85 Status of GPS
 >     
@@ -3134,7 +3139,7 @@ Definition of _regulations_ in section 3: repeal.
 > 
 > 
 
-##### [Lawyers and Conveyancers Act 2006][454] (2006 No 1)
+##### [Lawyers and Conveyancers Act 2006][453] (2006 No 1)
 
 Section 72: repeal and substitute:
 
@@ -3144,7 +3149,7 @@ Section 72: repeal and substitute:
 > 
 > 
 
-[Section 89][455]: repeal and substitute:
+[Section 89][454]: repeal and substitute:
 
 > ##### "89 Application of Legislation Act 2012 to constitution of New Zealand Society of Conveyancers
 >     
@@ -3152,7 +3157,7 @@ Section 72: repeal and substitute:
 > 
 > 
 
-[Section 106][456]: repeal and substitute:
+[Section 106][455]: repeal and substitute:
 
 > ##### "106 Application of Legislation Act 2012 to rules
 >     
@@ -3160,9 +3165,9 @@ Section 72: repeal and substitute:
 > 
 > 
 
-##### [Local Government Act 2002][457] (2002 No 84)
+##### [Local Government Act 2002][456] (2002 No 84)
 
-New section 259I: replace [section 259I][458] with:
+New section 259I: replace [section 259I][457] with:
 
 > ##### "259I Application of Legislation Act 2012 to standards incorporated by reference
 >     
@@ -3178,7 +3183,7 @@ New section 259I: replace [section 259I][458] with:
 > 
 > 
 
-[Section 261C][459]: repeal and substitute:
+[Section 261C][458]: repeal and substitute:
 
 > ##### "261C Status of rules
 >     
@@ -3186,15 +3191,15 @@ New section 259I: replace [section 259I][458] with:
 > 
 > 
 
-[Clause 6(7)][460] of Schedule 7: repeal and substitute:
+[Clause 6(7)][459] of Schedule 7: repeal and substitute:
 
 > *   "(7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Local Government (Auckland Transitional Provisions) Act 2010][461] (2010 No 37)
+##### [Local Government (Auckland Transitional Provisions) Act 2010][460] (2010 No 37)
 
-[Section 4][462]: repeal and substitute:
+[Section 4][461]: repeal and substitute:
 
 > ##### "4 Application of Legislation Act 2012
 >     
@@ -3202,23 +3207,23 @@ New section 259I: replace [section 259I][458] with:
 > 
 > 
 
-##### [Local Government Official Information and Meetings Act 1987][463] (1987 No 174)
+##### [Local Government Official Information and Meetings Act 1987][462] (1987 No 174)
 
-Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal and substitute:
+Paragraph (a)(ii) of the definition of _enactment_ in [section 2][463]: repeal and substitute:
 
 > *   "(ii) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council; and".
 > 
 > 
 
-[Section 56(2][465]): repeal and substitute:
+[Section 56(2][464]): repeal and substitute:
 
 > *   "(2) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Major Events Management Act 2007][466] (2007 No 35)
+##### [Major Events Management Act 2007][465] (2007 No 35)
 
-[Section 81][467]: repeal and substitute:
+[Section 81][466]: repeal and substitute:
 
 > ##### "81 Application of Legislation Act 2012
 >     
@@ -3234,61 +3239,61 @@ Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal a
 > 
 > 
 
-##### [Maori Land Amendment and Maori Land Claims Adjustment Act 1926][468] (1926 No 64)
+##### [Maori Land Amendment and Maori Land Claims Adjustment Act 1926][467] (1926 No 64)
 
-[Section 14(12][469]): repeal and substitute:
+[Section 14(12][468]): repeal and substitute:
 
 > *   "(12) A notice made under subsection (11) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Marine and Coastal Area (Takutai Moana) Act 2011][470] (2011 No 3)
+##### [Marine and Coastal Area (Takutai Moana) Act 2011][469] (2011 No 3)
 
-[Section 12(4)][471]: repeal and substitute:
+[Section 12(4)][470]: repeal and substitute:
 
 > *   "(4) Every Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Maritime Security Act 2004][472] (2004 No 16)
+##### [Maritime Security Act 2004][471] (2004 No 16)
 
-[Section 49(4)][473]: repeal and substitute:
+[Section 49(4)][472]: repeal and substitute:
 
 > *   "(4) The notice is not a legislative instrument for the purposes of the Legislation Act 2012, but if the direction in the notice takes effect on a date on or after the notice is published in the _Gazette_, the notice is a disallowable instrument for the purposes of that Act and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 78(7)(a)][474]: repeal and substitute:
+[Section 78(7)(a)][473]: repeal and substitute:
 
 > *   "(a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and".
 > 
 > 
 
-##### [Maritime Transport Act 1994][475] (1994 No 104)
+##### [Maritime Transport Act 1994][474] (1994 No 104)
 
-[Section 451(6)][476]: repeal and substitute:
+[Section 451(6)][475]: repeal and substitute:
 
 > *   "(6) A rule made under this Act is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Meat Board Act 2004][477] (2004 No 58)
+##### [Meat Board Act 2004][476] (2004 No 58)
 
-[Section 36(7)][478]: repeal and substitute:
+[Section 36(7)][477]: repeal and substitute:
 
 > *   "(7) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 55(4)][479]: repeal and substitute:
+[Section 55(4)][478]: repeal and substitute:
 
 > *   "(4) A notice under subsection (2) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Medicines Act 1981 (1981 No 118)][480]
+##### [Medicines Act 1981 (1981 No 118)][479]
 
-[Section 2(3)][481]: repeal and substitute:
+[Section 2(3)][480]: repeal and substitute:
 
 > *   "(3) A notice given by the Minister in the _Gazette_ for the purposes of subsection (1) is---
 >         
@@ -3300,35 +3305,35 @@ Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal a
 > 
 > 
 
-[Section 96J(3)][482]: repeal and substitute:
+[Section 96J(3)][481]: repeal and substitute:
 
 > *   "(3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Military Decorations and Distinctive Badges Act 1918][483] (1918 No 3)
+##### [Military Decorations and Distinctive Badges Act 1918][482] (1918 No 3)
 
-[Section 4(1)][484]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
+[Section 4(1)][483]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
 
-##### [Military Manoeuvres Act 1915][485] (1915 No 42)
+##### [Military Manoeuvres Act 1915][484] (1915 No 42)
 
-[Section 8][486]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
+[Section 8][485]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
 
-##### [Misuse of Drugs Act 1975][487] (1975 No 116)
+##### [Misuse of Drugs Act 1975][486] (1975 No 116)
 
-[Section 4(3)][488]: repeal and substitute:
+[Section 4(3)][487]: repeal and substitute:
 
 > *   "(3) An Order in Council made under subsection (1) or (1B) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 4D(8)][489]: repeal and substitute:
+[Section 4D(8)][488]: repeal and substitute:
 
 > *   "(8) A temporary class drug notice is not to be treated as a legislative instrument for the purposes of the Legislation Act 2012\."
 > 
 > 
 
-[Section 5A(3][490]): repeal and substitute:
+[Section 5A(3][489]): repeal and substitute:
 
 > *   "(3) A notice given by the Minister in the _Gazette_ for the purposes of subsection (1) is---
 >         
@@ -3340,13 +3345,13 @@ Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal a
 > 
 > 
 
-[Section 22(6)][491]: repeal and substitute:
+[Section 22(6)][490]: repeal and substitute:
 
 > *   "(6) A notice issued under subsection (1A) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 31(6)][492]: repeal and substitute:
+[Section 31(6)][491]: repeal and substitute:
 
 > *   "(6) A notice given by the Minister in the _Gazette_ for the purposes of subsection (1) is---
 >         
@@ -3358,17 +3363,17 @@ Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal a
 > 
 > 
 
-##### [Misuse of Drugs Amendment Act 2005][493] (2005 No 81)
+##### [Misuse of Drugs Amendment Act 2005][492] (2005 No 81)
 
-[Section 33(3)][494]: repeal and substitute:
+[Section 33(3)][493]: repeal and substitute:
 
 > *   "(3) An Order in Council made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Modern Apprenticeship Training Act 2000][495] (2000 No 94)
+##### [Modern Apprenticeship Training Act 2000][494] (2000 No 94)
 
-[Section 29][496]: repeal and substitute:
+[Section 29][495]: repeal and substitute:
 
 > ##### "29 Application of Legislation Act 2012 to approved code
 >     
@@ -3376,25 +3381,25 @@ Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal a
 > 
 > 
 
-##### [National Animal Identification and Tracing Act 2012][497] (2012 No 2)
+##### [National Animal Identification and Tracing Act 2012][496] (2012 No 2)
 
-[Section 64(1)(c)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 64(1)(c)][497]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Section 64(1)(d)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 64(1)(d)][497]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Section 64(3)(c)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 64(3)(c)][497]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Section 64(3)(d)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 64(3)(d)][497]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Section 68(2)(c)][499]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 68(2)(c)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Section 68(2)(d)][499]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 68(2)(d)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Section 68(4)(c)][499]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 68(4)(c)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Section 68(4)(d)][499]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
+[Section 68(4)(d)][498]: omit ""section 5 of the Regulations (Disallowance) Act 1989"" and substitute ""section 42 of the Legislation Act 2012"".
 
-[Clauses 6][500] and [7][501] of Schedule 3: repeal and substitute:
+[Clauses 6][499] and [7][500] of Schedule 3: repeal and substitute:
 
 > ##### "6 Application of Legislation Act 2012 to material incorporated by reference
 >     
@@ -3404,9 +3409,9 @@ Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal a
 > 
 > 
 
-##### [National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003][502] (2003 No 19)
+##### [National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003][501] (2003 No 19)
 
-[Section 35][503]: repeal and substitute:
+[Section 35][502]: repeal and substitute:
 
 > ##### "35 Application of Legislation Act 2012 to requirements
 >     
@@ -3414,9 +3419,9 @@ Paragraph (a)(ii) of the definition of _enactment_ in [section 2][464]: repeal a
 > 
 > 
 
-##### [National Parks Act 1980][504] (1980 No 66)
+##### [National Parks Act 1980][503] (1980 No 66)
 
-New section 12A: insert after [section 12][505]:
+New section 12A: insert after [section 12][504]:
 
 > ##### "12A Orders in Council to be published in _Gazette_
 >     
@@ -3424,43 +3429,43 @@ New section 12A: insert after [section 12][505]:
 > 
 > 
 
-##### [National Provident Fund Restructuring Act 1990][506] (1990 No 126)
+##### [National Provident Fund Restructuring Act 1990][505] (1990 No 126)
 
-[Section 9(3)(b)][507]: repeal and substitute:
-
-> *   "(b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
-> 
-> 
-
-[Section 10(3)(b)][508]: repeal and substitute:
+[Section 9(3)(b)][506]: repeal and substitute:
 
 > *   "(b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 10A(3)(b)][509]: repeal and substitute:
+[Section 10(3)(b)][507]: repeal and substitute:
 
 > *   "(b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [National Provident Fund Restructuring Amendment Act 1997][510] (1997 No 83)
+[Section 10A(3)(b)][508]: repeal and substitute:
 
-[Section 21(4)][511]: repeal and substitute:
+> *   "(b) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
+> 
+> 
+
+##### [National Provident Fund Restructuring Amendment Act 1997][509] (1997 No 83)
+
+[Section 21(4)][510]: repeal and substitute:
 
 > *   "(4) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 22(5)][512]: repeal and substitute:
+[Section 22(5)][511]: repeal and substitute:
 
 > *   "(5) The notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [New Zealand Horticulture Export Authority Act 1987][513] (1987 No 93)
+##### [New Zealand Horticulture Export Authority Act 1987][512] (1987 No 93)
 
-[Section 3][514]: repeal and substitute:
+[Section 3][513]: repeal and substitute:
 
 > ##### "3 Application and limitation of Act
 >     
@@ -3468,9 +3473,9 @@ New section 12A: insert after [section 12][505]:
 > 
 > 
 
-##### [New Zealand Institute of Chartered Accountants Act 1996][515] (1996 No 39)
+##### [New Zealand Institute of Chartered Accountants Act 1996][514] (1996 No 39)
 
-[Section 8][516]: repeal and substitute:
+[Section 8][515]: repeal and substitute:
 
 > ##### "8 Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics
 >     
@@ -3486,21 +3491,21 @@ New section 12A: insert after [section 12][505]:
 > 
 > 
 
-##### [New Zealand Stock Exchange Restructuring Act 2002][517] (2002 No 1, Private)
+##### [New Zealand Stock Exchange Restructuring Act 2002][516] (2002 No 1, Private)
 
-[Section 11(11)][518]: repeal and substitute:
+[Section 11(11)][517]: repeal and substitute:
 
 > *   "(11) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act, but the conduct rules are neither a legislative instrument nor a disallowable instrument for the purposes of that Act."
 > 
 > 
 
-[Section 12(8)][519]: repeal and substitute:
+[Section 12(8)][518]: repeal and substitute:
 
 > *   "(8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Ngāti Manawa Claims Settlement Act 2012][520] (2012 No 27)
+##### [Ngāti Manawa Claims Settlement Act 2012][519] (2012 No 27)
 
 Section 28(2): repeal and substitute:
 
@@ -3514,61 +3519,61 @@ Section 28(2): repeal and substitute:
 > 
 > 
 
-##### [Nuclear-Test-Ban Act 1999][521] (1999 No 10)
+##### [Nuclear-Test-Ban Act 1999][520] (1999 No 10)
 
-[Section 22(3)][522]: repeal and substitute:
+[Section 22(3)][521]: repeal and substitute:
 
 > *   "(3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Official Information Act 1982][523] (1982 No 156)
+##### [Official Information Act 1982][522] (1982 No 156)
 
-Paragraph (b) of the definition of _enactment_ in [section 2(1)][524]: repeal and substitute:
+Paragraph (b) of the definition of _enactment_ in [section 2(1)][523]: repeal and substitute:
 
 > *   "(b) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council".
 > 
 > 
 
-[Section 49(2)][525]: repeal and substitute:
+[Section 49(2)][524]: repeal and substitute:
 
 > *   "(2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Ombudsmen Act 1975][526] (1975 No 9)
+##### [Ombudsmen Act 1975][525] (1975 No 9)
 
-[Section 15(3)][527]: repeal and substitute:
+[Section 15(3)][526]: repeal and substitute:
 
 > *   "(3) All rules made under this section must be published under the Legislation Act 2012 as if they were legislative instruments, but they are not disallowable instruments for the purposes of that Act and do not have to be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 19(3)][528]: repeal and substitute:
+[Section 19(3)][527]: repeal and substitute:
 
 > *   "(3) Subject to this section and to section 20(1), a person who is bound by the provisions of an enactment (being an Act or a legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter may be required to supply any information to or answer any question put by an Ombudsman in relation to that matter, or to produce to an Ombudsman any document or paper or thing relating to it, even if compliance with that requirement would otherwise be in breach of the obligation of secrecy or non-disclosure."
 > 
 > 
 
-##### [Parental Leave and Employment Protection Act 1987][529] (1987 No 129)
+##### [Parental Leave and Employment Protection Act 1987][528] (1987 No 129)
 
-[Section 2AB(3)][530]: repeal and substitute:
+[Section 2AB(3)][529]: repeal and substitute:
 
 > *   "(3) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Parliamentary Service Act 2000][531] (2000 No 17)
+##### [Parliamentary Service Act 2000][530] (2000 No 17)
 
-[Section 25(4)][532]: repeal and substitute:
+[Section 25(4)][531]: repeal and substitute:
 
 > *   "(4) A resolution made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012\."
 > 
 > 
 
-##### [Petroleum Demand Restraint Act 1981][533] (1981 No 12)
+##### [Petroleum Demand Restraint Act 1981][532] (1981 No 12)
 
-[Section 12][534]: repeal and substitute:
+[Section 12][533]: repeal and substitute:
 
 > ##### "12 Publication or notification is sufficient notice
 >     
@@ -3576,59 +3581,59 @@ Paragraph (b) of the definition of _enactment_ in [section 2(1)][524]: repeal an
 > 
 > 
 
-##### [Plumbers, Gasfitters, and Drainlayers Act 2006][535] (2006 No 74)
+##### [Plumbers, Gasfitters, and Drainlayers Act 2006][534] (2006 No 74)
 
-[Section 12(4)][536]: repeal and substitute:
+[Section 12(4)][535]: repeal and substitute:
 
 > *   "(4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 35(2)][537]: repeal and substitute:
+[Section 35(2)][536]: repeal and substitute:
 
 > *   "(2) A notice published under section 28 or 30 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 52(3)][538]: repeal and substitute:
+[Section 52(3)][537]: repeal and substitute:
 
 > *   "(3) A notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 145(2)][539]: repeal and substitute:
+[Section 145(2)][538]: repeal and substitute:
 
 > *   "(2) A notice under sections 142 to 144 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Policing Act 2008][540] (2008 No 72)
+##### [Policing Act 2008][539] (2008 No 72)
 
-[Section 27(2)][541]: repeal and substitute:
+[Section 27(2)][540]: repeal and substitute:
 
 > *   "(2) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Port Companies Act 1988][542] (1988 No 91)
+##### [Port Companies Act 1988][541] (1988 No 91)
 
-[Section 14][543]: add:
+[Section 14][542]: add:
 
 > *   "(4) A notice in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Privacy Act 1993][544] (1993 No 28)
+##### [Privacy Act 1993][543] (1993 No 28)
 
-Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and substitute:
+Paragraph (b) of the definition of _enactment_ in [section 2][544]: repeal and substitute:
 
 > *   "(b) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council".
 > 
 > 
 
-[Section 7(3)(a)][546]: omit ""regulations within the meaning of the Regulations (Disallowance) Act 1989"" and substitute ""legislative instrument within the meaning of the Legislation Act 2012"".
+[Section 7(3)(a)][545]: omit ""regulations within the meaning of the Regulations (Disallowance) Act 1989"" and substitute ""legislative instrument within the meaning of the Legislation Act 2012"".
 
-[Section 50][547]: repeal and substitute:
+[Section 50][546]: repeal and substitute:
 
 > ##### "50 Application of Legislation Act 2012 to codes
 >     
@@ -3636,45 +3641,45 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Public Finance Act 1989][548] (1989 No 44)
+##### [Public Finance Act 1989][547] (1989 No 44)
 
-[Section 80A(6)][549]: repeal and substitute:
+[Section 80A(6)][548]: repeal and substitute:
 
 > *   "(6) Instructions issued under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Public Transport Management Act 2008][550] (2008 No 87)
+##### [Public Transport Management Act 2008][549] (2008 No 87)
 
-[Section 13(12)][551]: repeal and substitute:
+[Section 13(12)][550]: repeal and substitute:
 
 > *   "(12) A control is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Racing Act 2003][552] (2003 No 3)
+##### [Racing Act 2003][551] (2003 No 3)
 
-[Section 22(4)][553]: repeal and substitute:
+[Section 22(4)][552]: repeal and substitute:
 
 > *   "(4) Rules made under subsection (2) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 32(2)][554]: repeal and substitute:
+[Section 32(2)][553]: repeal and substitute:
 
 > *   "(2) Rules made under section 29 or 34 are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 59(2)][555]: repeal and substitute:
+[Section 59(2)][554]: repeal and substitute:
 
 > *   "(2) Rules made under section 52 or 54 are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Radiocommunications Act 1989][556] (1989 No 148)
+##### [Radiocommunications Act 1989][555] (1989 No 148)
 
-[Clause 6][557] of Schedule 8: repeal and substitute:
+[Clause 6][556] of Schedule 8: repeal and substitute:
 
 > ##### "6 Application of Legislation Act 2012 to material incorporated by reference
 >     
@@ -3688,47 +3693,47 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Clause 7][558] of Schedule 8: repeal.
+[Clause 7][557] of Schedule 8: repeal.
 
-##### [Railways Act 2005][559] (2005 No 37)
+##### [Railways Act 2005][558] (2005 No 37)
 
-[Section 54(5)][560]: repeal and substitute:
+[Section 54(5)][559]: repeal and substitute:
 
 > *   "(5) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 56(4)][561]: repeal and substitute:
+[Section 56(4)][560]: repeal and substitute:
 
 > *   "(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Rating Valuations Act 1998][562] (1998 No 69)
+##### [Rating Valuations Act 1998][561] (1998 No 69)
 
-[Section 5(6)][563]: repeal and substitute:
+[Section 5(6)][562]: repeal and substitute:
 
 > *   "(6) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Real Estate Agents Act 2008][564] (2008 No 66)
+##### [Real Estate Agents Act 2008][563] (2008 No 66)
 
-[Section 19(2)][565]: repeal and substitute:
+[Section 19(2)][564]: repeal and substitute:
 
 > *   "(2) A notice under section 14, 15, or 18 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 23(2)][566]: repeal and substitute:
+[Section 23(2)][565]: repeal and substitute:
 
 > *   "(2) A notice under any of sections 20 to 22 is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Reciprocal Enforcement of Judgments Act 1934][567] (1934 No 11)
+##### [Reciprocal Enforcement of Judgments Act 1934][566] (1934 No 11)
 
-[Section 11A][568]: repeal and substitute:
+[Section 11A][567]: repeal and substitute:
 
 > ##### "11A Application of Legislation Act 2012 to orders
 >     
@@ -3736,9 +3741,9 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Registered Architects Act 2005][569] (2005 No 38)
+##### [Registered Architects Act 2005][568] (2005 No 38)
 
-[Section 74][570]: repeal and substitute:
+[Section 74][569]: repeal and substitute:
 
 > ##### "74 Application of Legislation Act 2012 to rules
 >     
@@ -3746,23 +3751,23 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Remuneration Authority Act 1977][571] (1977 No 110)
+##### [Remuneration Authority Act 1977][570] (1977 No 110)
 
-[Section 12B(9)][572]: repeal and substitute:
+[Section 12B(9)][571]: repeal and substitute:
 
 > *   "(9) A determination to which subsection (1) or (2) applies is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act."
 > 
 > 
 
-[Section 16(2)][573]: repeal and substitute:
+[Section 16(2)][572]: repeal and substitute:
 
 > *   "(2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the Legislation Act 2012 but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act."
 > 
 > 
 
-##### [Reprint of Statutes Act 1931][574] (1931 No 13)
+##### [Reprint of Statutes Act 1931][573] (1931 No 13)
 
-[Section 4][575]: repeal and substitute:
+[Section 4][574]: repeal and substitute:
 
 > ##### "4 Judicial notice to be taken of reprint
 >     
@@ -3770,23 +3775,23 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Reserve Bank of New Zealand Act 1989][576] (1989 No 157)
+##### [Reserve Bank of New Zealand Act 1989][575] (1989 No 157)
 
-[Section 81(5)][577]: repeal and substitute:
+[Section 81(5)][576]: repeal and substitute:
 
 > *   "(5) An Order in Council made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 156N(6)(a)][578]: repeal and substitute:
+[Section 156N(6)(a)][577]: repeal and substitute:
 
 > *   "(a) rules are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 (and do not have to be presented to the House of Representatives under section 41 of that Act); and".
 > 
 > 
 
-[Section 157G(1][579]): omit "", by notice in the _Gazette_,"".
+[Section 157G(1][578]): omit "", by notice in the _Gazette_,"".
 
-[Section 157G(5) to (7)][579]: repeal and substitute:
+[Section 157G(5) to (7)][578]: repeal and substitute:
 
 > *   "(5) An exemption is a disallowable instrument under the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 > 
@@ -3810,25 +3815,25 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Resource Management Act 1991][580] (1991 No 69)
+##### [Resource Management Act 1991][579] (1991 No 69)
 
-[Section 46A(4)][581]: repeal and substitute:
+[Section 46A(4)][580]: repeal and substitute:
 
 > *   "(4) A national policy statement prepared after the use of a process established under subsection (1)(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Retirement Villages Act 2003][582] (2003 No 112)
+##### [Retirement Villages Act 2003][581] (2003 No 112)
 
-[Section 92(1)][583]: repeal and substitute:
+[Section 92(1)][582]: repeal and substitute:
 
 > *   "(1) A code of practice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Securities Act 1978][584] (1978 No 103)
+##### [Securities Act 1978][583] (1978 No 103)
 
-[Section 43EA(3)][585]: repeal and substitute:
+[Section 43EA(3)][584]: repeal and substitute:
 
 > *   "(3) A notice issued by the FMA---
 >         
@@ -3840,7 +3845,7 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Section 54D(3)][586]: repeal and substitute:
+[Section 54D(3)][585]: repeal and substitute:
 
 > *   "(3) A notice issued by the FMA---
 >         
@@ -3852,7 +3857,7 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Section 70AAD][587]: repeal and substitute:
+[Section 70AAD][586]: repeal and substitute:
 
 > ##### "70AAD Application of Legislation Act 2012 to material incorporated by reference
 >     
@@ -3864,11 +3869,11 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Section 70AAE][588]: repeal.
+[Section 70AAE][587]: repeal.
 
-[Section 70AAF][589]: omit ""70AAE"" and substitute ""70AAD"".
+[Section 70AAF][588]: omit ""70AAE"" and substitute ""70AAD"".
 
-[Section 70C(1) and (2)][590]: repeal and substitute:
+[Section 70C(1) and (2)][589]: repeal and substitute:
 
 > *   "(1) An exemption granted under section 70B---
 >         
@@ -3882,13 +3887,13 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Securities Markets Act 1988][591] (1988 No 234)
+##### [Securities Markets Act 1988][590] (1988 No 234)
 
-[Section 36E(1)][592]: omit "", by notice in the _Gazette_,"".
+[Section 36E(1)][591]: omit "", by notice in the _Gazette_,"".
 
-[Section 36E(6)][592]: omit "", by notice in the _Gazette_,"".
+[Section 36E(6)][591]: omit "", by notice in the _Gazette_,"".
 
-[Section 36E][592]: add:
+[Section 36E][591]: add:
 
 > *   "(7) An exemption under this section is a disallowable instrument under the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 > 
@@ -3914,7 +3919,7 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Section 36FA(1)(c)][593]: repeal and substitute:
+[Section 36FA(1)(c)][592]: repeal and substitute:
 
 > *   "(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
 > 
@@ -3922,7 +3927,7 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Section 36K(4)(b)][594]: repeal and substitute:
+[Section 36K(4)(b)][593]: repeal and substitute:
 
 > *   "(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
 > 
@@ -3930,7 +3935,7 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Section 36O][595]: repeal and substitute:
+[Section 36O][594]: repeal and substitute:
 
 > ##### "36O Application of Acts relating to regulations to contractual market rules
 >     
@@ -3940,17 +3945,17 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 >     
 >     *   "(b) legislative instruments or disallowable instruments for the purposes of the Legislation Act 2012\.
 >     
->     "Compare: 1988 No 234 [s 36R][596]"
+>     "Compare: 1988 No 234 [s 36R][595]"
 > 
 > 
 
-[Section 37][597]: add:
+[Section 37][596]: add:
 
 > *   "(11) Declarations to which subsection (7)(b) applies (but no other declarations made under this section) are legislative instruments for the purposes of the Legislation Act 2012, and all declarations made under this section are disallowable instruments for the purposes of that Act and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 48A(1) and (2)][598]: repeal and substitute:
+[Section 48A(1) and (2)][597]: repeal and substitute:
 
 > *   "(1) An exemption granted under section 48---
 >         
@@ -3964,17 +3969,17 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Securities Transfer Act 1991][599] (1991 No 119)
+##### [Securities Transfer Act 1991][598] (1991 No 119)
 
-[Section 7(8)][600]: repeal and substitute:
+[Section 7(8)][599]: repeal and substitute:
 
 > *   "(8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Securities Trustees and Statutory Supervisors Act 2011][601] (2011 No 10)
+##### [Securities Trustees and Statutory Supervisors Act 2011][600] (2011 No 10)
 
-[Section 56(3)(a) and (b)][602]: repeal and substitute:
+[Section 56(3)(a) and (b)][601]: repeal and substitute:
 
 > *   "(a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012; and
 > 
@@ -3982,9 +3987,9 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Sleepover Wages (Settlement) Act 2011][603] (2011 No 98)
+##### [Sleepover Wages (Settlement) Act 2011][602] (2011 No 98)
 
-[Section 29][604]: repeal and substitute:
+[Section 29][603]: repeal and substitute:
 
 > ##### "29 Application of Legislation Act 2012
 >     
@@ -3992,31 +3997,31 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Social Security Act 1964][605] (1964 No 136)
+##### [Social Security Act 1964][604] (1964 No 136)
 
-[Section 61H(3)][606]: repeal and substitute:
+[Section 61H(3)][605]: repeal and substitute:
 
 > *   "(3) An Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 expires on the close of the period of 12 months commencing with the date on which it was presented, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date."
 > 
 > 
 
-[Section 61H(4)][606]: repeal and substitute:
+[Section 61H(4)][605]: repeal and substitute:
 
 > *   "(4) An Order in Council made under this section that is presented to the House of Representatives under section 41 of the Legislation Act 2012, and that has been revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was presented to the House, must be treated as being invalid in respect of the period for which it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act passed before that date."
 > 
 > 
 
-##### [Social Workers Registration Act 2003][607] (2003 No 17)
+##### [Social Workers Registration Act 2003][606] (2003 No 17)
 
-[Section 110(3)][608]: repeal and substitute:
+[Section 110(3)][607]: repeal and substitute:
 
 > *   "(3) A notice published under section 108 or 109 or this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Sports Anti-Doping Act 2006][609] (2006 No 58)
+##### [Sports Anti-Doping Act 2006][608] (2006 No 58)
 
-[Section 24][610]: repeal and substitute:
+[Section 24][609]: repeal and substitute:
 
 > ##### "24 Application of Legislation Act 2012 to rules
 >     
@@ -4028,19 +4033,19 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-[Section 25][611]: repeal.
+[Section 25][610]: repeal.
 
-##### [State-Owned Enterprises Act 1986][612] (1986 No 124)
+##### [State-Owned Enterprises Act 1986][611] (1986 No 124)
 
-[Section 32(4)][613]: repeal and substitute:
+[Section 32(4)][612]: repeal and substitute:
 
 > *   "(4) A State enterprise must comply with a notice given under subsection (3), and the notice is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Student Loan Scheme Act 2011][614] (2011 No 62)
+##### [Student Loan Scheme Act 2011][613] (2011 No 62)
 
-[Section 217][615]: repeal and substitute:
+[Section 217][614]: repeal and substitute:
 
 > ##### "217 Application of Legislation Act 2012
 >     
@@ -4048,11 +4053,11 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-##### [Takeovers Act 1993][616] (1993 No 107)
+##### [Takeovers Act 1993][615] (1993 No 107)
 
-[Section 7A(2)(b)][617]: omit ""section 45(1)(b)"" and substitute ""section 45(1)(c)"".
+[Section 7A(2)(b)][616]: omit ""section 45(1)(b)"" and substitute ""section 45(1)(c)"".
 
-[Section 45][618]: repeal and substitute:
+[Section 45][617]: repeal and substitute:
 
 > ##### "45 Panel may grant exemptions
 >     
@@ -4088,7 +4093,7 @@ Paragraph (b) of the definition of _enactment_ in [section 2][545]: repeal and s
 > 
 > 
 
-New section 45A: insert after [section 45][618]:
+New section 45A: insert after [section 45][617]:
 
 > ##### "45A Deferral of obligations, and variation or revocation of exemptions
 >     
@@ -4102,17 +4107,17 @@ New section 45A: insert after [section 45][618]:
 > 
 > 
 
-##### [Taratahi Agricultural Training Centre (Wairarapa) Act 1969][619] (1969 No 138)
+##### [Taratahi Agricultural Training Centre (Wairarapa) Act 1969][618] (1969 No 138)
 
-[Section 3(2B)][620]: repeal and substitute:
+[Section 3(2B)][619]: repeal and substitute:
 
 > *   "(2B) An Order in Council made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Tariff Act 1988][621] (1988 No 155)
+##### [Tariff Act 1988][620] (1988 No 155)
 
-[Section 7G][622]: repeal and substitute:
+[Section 7G][621]: repeal and substitute:
 
 > ##### "7G Application of Legislation Act 2012
 >     
@@ -4122,11 +4127,11 @@ New section 45A: insert after [section 45][618]:
 > 
 > 
 
-[Section 7H][623]: repeal.
+[Section 7H][622]: repeal.
 
-[Section 9B(1)(b][624]): omit ""section 9 of the Acts and Regulations Publication Act 1989"" and substitute ""section 7 of the Legislation Act 2012"".
+[Section 9B(1)(b][623]): omit ""section 9 of the Acts and Regulations Publication Act 1989"" and substitute ""section 7 of the Legislation Act 2012"".
 
-[Section 9C][625]: repeal and substitute:
+[Section 9C][624]: repeal and substitute:
 
 > ##### "9C Application of Legislation Act 2012
 >     
@@ -4134,49 +4139,49 @@ New section 45A: insert after [section 45][618]:
 > 
 > 
 
-[Section 9F(4)(a)][626]: omit ""the Acts and Regulations Publication Act 1989"" and substitute ""Part 2 of the Legislation Act 2012"".
+[Section 9F(4)(a)][625]: omit ""the Acts and Regulations Publication Act 1989"" and substitute ""Part 2 of the Legislation Act 2012"".
 
-[Section 11(1)][627]: repeal and substitute:
+[Section 11(1)][626]: repeal and substitute:
 
 > *   "(1) Every Order in Council made under section 9 and presented to the House of Representatives under the Legislation Act 2012 expires on the close of 31 December in the calendar year following the calendar year during which it was presented to the House, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date."
 > 
 > 
 
-[Section 11(3)][627]: repeal and substitute:
+[Section 11(3)][626]: repeal and substitute:
 
 > *   "(3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9) presented to it under the Legislation Act 2012 should be revoked or varied, it must be treated as having been revoked or varied in accordance with the terms of the resolution, and any duty payable must, so far as that resolution provides, be refunded."
 > 
 > 
 
-##### [Tax Administration Act 1994][628] (1994 No 166)
+##### [Tax Administration Act 1994][627] (1994 No 166)
 
-[Section 225A(3)][629]: repeal and substitute:
+[Section 225A(3)][628]: repeal and substitute:
 
 > *   "(3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Telecommunications Act 2001][630] (2001 No 103)
+##### [Telecommunications Act 2001][629] (2001 No 103)
 
-[Section 30M][631]: add as subsection (2):
+[Section 30M][630]: add as subsection (2):
 
 > *   "(2) A standard terms determination is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act)."
 > 
 > 
 
-[Section 69N(6)][632]: repeal and substitute:
+[Section 69N(6)][631]: repeal and substitute:
 
 > *   "(6) An exemption under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 105(2)][633]: repeal and substitute:
+[Section 105(2)][632]: repeal and substitute:
 
 > *   "(2) A notice in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 155K(3) and (4)][634]: repeal and substitute:
+[Section 155K(3) and (4)][633]: repeal and substitute:
 
 > *   "(3) The order and the Code are disallowable instruments for the purposes of the Legislation Act 2012\.
 > 
@@ -4184,27 +4189,27 @@ New section 45A: insert after [section 45][618]:
 > 
 > 
 
-[Section 156AG(4) and (5)][635]: repeal and substitute:
+[Section 156AG(4) and (5)][634]: repeal and substitute:
 
 > *   "(4) A determination is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-[Section 160(3)][636]: repeal and substitute:
+[Section 160(3)][635]: repeal and substitute:
 
 > *   "(3) A notice in the _Gazette_ under subsection (1)(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Tourist and Health Resorts Control Act 1908][637] (1908 No 194)
+##### [Tourist and Health Resorts Control Act 1908][636] (1908 No 194)
 
-[Section 5][638]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
+[Section 5][637]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
 
-[Section 6][639]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
+[Section 6][638]: omit ""gazetted"" and substitute ""published in the _Gazette_"".
 
-##### [Trans-Tasman Mutual Recognition Act 1997][640] (1997 No 60)
+##### [Trans-Tasman Mutual Recognition Act 1997][639] (1997 No 60)
 
-[Section 76(4)][641]: repeal and substitute:
+[Section 76(4)][640]: repeal and substitute:
 
 > *   "(4) In subsection (3), _regulations_---
 >         
@@ -4218,27 +4223,27 @@ New section 45A: insert after [section 45][618]:
 > 
 > 
 
-##### [Trans-Tasman Proceedings Act 2010][642] (2010 No 108)
+##### [Trans-Tasman Proceedings Act 2010][641] (2010 No 108)
 
-[Section 8(2)][643]: omit ""regulation for the purposes of the Regulations (Disallowance) Act 1989"" and substitute ""legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.""
+[Section 8(2)][642]: omit ""regulation for the purposes of the Regulations (Disallowance) Act 1989"" and substitute ""legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.""
 
-##### [United Nations Act 1946][644] (1946 No 7)
+##### [United Nations Act 1946][643] (1946 No 7)
 
-[Section 3(2)][645]: repeal and substitute:
+[Section 3(2)][644]: repeal and substitute:
 
 > *   "(2) The publication in the _Gazette_ or in accordance with the Legislation Act 2012 of any regulations made under this Act or of any Order in Council, Proclamation, order, notice, warrant, licence, or other act of authority under this Act or under the regulations must be treated for all purposes as being notice of the act of authority to all persons concerned, and in any prosecution the liability of the accused must be determined accordingly."
 > 
 > 
 
-##### [Utilities Access Act 2010][646] (2010 No 98)
+##### [Utilities Access Act 2010][645] (2010 No 98)
 
-[Section 15(1)][647]: repeal and substitute:
+[Section 15(1)][646]: repeal and substitute:
 
 > *   "(1) A Code approved under section 12 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012\."
 > 
 > 
 
-[Clause 6][648] of the Schedule: repeal and substitute:
+[Clause 6][647] of the Schedule: repeal and substitute:
 
 > ##### "6 Application of Legislation Act 2012 to material incorporated by reference
 >     
@@ -4252,11 +4257,11 @@ New section 45A: insert after [section 45][618]:
 > 
 > 
 
-[Clause 7][649] of the Schedule: repeal.
+[Clause 7][648] of the Schedule: repeal.
 
-##### [Veterinarians Act 2005][650] (2005 No 126)
+##### [Veterinarians Act 2005][649] (2005 No 126)
 
-[Section 89][651]: repeal and substitute:
+[Section 89][650]: repeal and substitute:
 
 > ##### "89 Application of Legislation Act 2012 to _Gazette_ notices
 >     
@@ -4264,202 +4269,251 @@ New section 45A: insert after [section 45][618]:
 > 
 > 
 
-##### [War Pensions Act 1954][652] (1954 No 54)
+##### [War Pensions Act 1954][651] (1954 No 54)
 
-[Section 75C(3)][653]: repeal and substitute:
+[Section 75C(3)][652]: repeal and substitute:
 
 > *   "(3) Every Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 expires on the close of the period of 12 months commencing with the date on which it was presented to the House, except so far as it is expressly validated and confirmed by an Act passed before that date."
 > 
 > 
 
-[Section 75C(4)][653]: repeal and substitute:
+[Section 75C(4)][652]: repeal and substitute:
 
 > *   "(4) Every Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012, and revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was presented to the House, must be treated as being invalid in respect of the period for which it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act passed before that date."
 > 
 > 
 
-##### [Wellington Airport Act 1990][654] (1990 No 56)
+##### [Wellington Airport Act 1990][653] (1990 No 56)
 
-[Section 7][655]: add:
+[Section 7][654]: add:
 
 > *   "(11) An Order in Council made under subsection (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Wildlife Act 1953][656] (1953 No 31)
+##### [Wildlife Act 1953][655] (1953 No 31)
 
-[Section 72(3B)][657]: repeal and substitute:
+[Section 72(3B)][656]: repeal and substitute:
 
 > *   "(3B) A notice in the _Gazette_ made under subsection (3A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
-##### [Wine Act 2003][658] (2003 No 114)
+##### [Wine Act 2003][657] (2003 No 114)
 
-[Section 96(1)(b)][659]: omit ""the Regulations (Disallowance) Act 1989"" and substitute ""Part 3 of the Legislation Act 2012"".
+[Section 96(1)(b)][658]: omit ""the Regulations (Disallowance) Act 1989"" and substitute ""Part 3 of the Legislation Act 2012"".
 
-[Section 96(2)(b)][659]: omit ""the Regulations (Disallowance) Act 1989"" and substitute ""Part 3 of the Legislation Act 2012"".
+[Section 96(2)(b)][658]: omit ""the Regulations (Disallowance) Act 1989"" and substitute ""Part 3 of the Legislation Act 2012"".
 
-[Section 120(3)][660]: repeal and substitute:
+[Section 120(3)][659]: repeal and substitute:
 
 > *   "(3) A notice under subsection (1)(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act."
 > 
 > 
 
----
-
-## Legislative history
-
-25 June 2010Introduction (Bill 162--1)
-
-3 August 2010First reading and referral to Regulations Review Committee
-
-1 December 2010Reported from Regulations Review Committee (Bill 162--2)
-
-29 August 2012Second reading
-
-5 December 2012Committee of the whole House, third reading
-
-11 December 2012Royal assent
+Schedule: amended, on 24 May 2013, by [section 65][660] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ---
 
-This Act is administered by the Ministry of Justice and the Parliamentary Counsel Office.
+#### Contents
+    
+*   1General
+*   2Status of reprints
+*   3How reprints are prepared
+*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
+*   5List of amendments incorporated in this reprint (most recent first)
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997669
-[1]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM4803700
-[2]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997671
-[3]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997672
-[4]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997673
-[5]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997692
-[6]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997693
-[7]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997694
-[8]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997695
-[9]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997696
-[10]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997697
-[11]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997698
-[12]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997699
-[13]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998500
-[14]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998501
-[15]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998502
-[16]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998503
-[17]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998504
-[18]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998505
-[19]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998506
-[20]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998507
-[21]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998508
-[22]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998509
-[23]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998510
-[24]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998512
-[25]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998513
-[26]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998514
-[27]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998515
-[28]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998516
-[29]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998517
-[30]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998518
-[31]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998519
-[32]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998520
-[33]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998521
-[34]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998522
-[35]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998523
-[36]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998524
-[37]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998525
-[38]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998532
-[39]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998533
-[40]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998534
-[41]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998535
-[42]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998536
-[43]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998537
-[44]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998538
-[45]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998545
-[46]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998546
-[47]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998547
-[48]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998548
-[49]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998549
-[50]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998550
-[51]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398201
-[52]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998551
-[53]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998552
-[54]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998554
-[55]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998555
-[56]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998557
-[57]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998558
-[58]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998559
-[59]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998560
-[60]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998567
-[61]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998569
-[62]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998571
-[63]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998572
-[64]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998573
-[65]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998574
-[66]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998575
-[67]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998576
-[68]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998577
-[69]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998578
-[70]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998579
-[71]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998580
-[72]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998581
-[73]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998582
-[74]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998583
-[75]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998584
-[76]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998585
-[77]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998598
-[78]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998600
-[79]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998601
-[80]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998603
-[81]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998605
-[82]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998607
-[83]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998608
-[84]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998609
-[85]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998610
-[86]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998611
-[87]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998612
-[88]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998613
-[89]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398202
-[90]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398203
-[91]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398204
-[92]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998616
-[93]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998617
-[94]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998618
-[95]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998619
-[96]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998620
-[97]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998621
-[98]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998622
-[99]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998623
-[100]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398206
-[101]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998624
-[102]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998625
-[103]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998626
-[104]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998627
-[105]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998629
-[106]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998630
-[107]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998631
-[108]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398207
-[109]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998632
-[110]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998633
-[111]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998635
-[112]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM4803701
-[113]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998636
-[114]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM191587
-[115]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM135073
-[116]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195403
-[117]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195434
-[118]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195412
-[119]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195417
-[120]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195418
-[121]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195413
-[122]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195420
-[123]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195421
-[124]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195422
-[125]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195423
-[126]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195428
-[127]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195432
-[128]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195448
-[129]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195415
-[130]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195416
-[131]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195453
-[132]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM31491
-[133]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195466
+---
+
+##### Notes
+
+###### 1 General
+    
+*   This is a reprint of the Legislation Act 2012\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][661] ![](/images/external_link.gif).
+
+###### 2 Status of reprints
+    
+*   Under [section 16D][180] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+    
+    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+
+###### 3 How reprints are prepared
+    
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][662] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+
+###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+    
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][135] and [17E][134] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+    
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    
+    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+        
+    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   •typeface and type size (Times Roman, generally in 11.5 point)
+    *   •layout of provisions, including:
+            
+        *   •indentation
+        *   •position of section headings (eg, the number and heading now appear above the section)
+        
+    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   •position of the date of assent (it now appears on the front page of each Act)
+    *   •punctuation (eg, colons are not used after definitions)
+    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   •case and appearance of letters and words, including:
+            
+        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   •small capital letters in section and subsection references are now capital letters
+        
+    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   •running heads (the information that appears at the top of each page)
+    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    
+    
+
+###### 5 List of amendments incorporated in this reprint (most recent first)
+    
+*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][660]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997669
+[2]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM4803700
+[3]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997671
+[4]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997672
+[5]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997673
+[6]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997692
+[7]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997693
+[8]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997694
+[9]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997695
+[10]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997696
+[11]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997697
+[12]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997698
+[13]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2997699
+[14]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998500
+[15]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998501
+[16]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998502
+[17]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998503
+[18]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998504
+[19]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998505
+[20]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998506
+[21]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998507
+[22]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998508
+[23]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998509
+[24]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998510
+[25]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998512
+[26]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998513
+[27]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998514
+[28]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998515
+[29]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998516
+[30]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998517
+[31]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998518
+[32]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998519
+[33]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998520
+[34]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998521
+[35]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998522
+[36]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998523
+[37]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998524
+[38]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998525
+[39]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998532
+[40]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998533
+[41]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998534
+[42]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998535
+[43]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998536
+[44]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998537
+[45]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998538
+[46]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998545
+[47]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998546
+[48]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998547
+[49]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998548
+[50]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998549
+[51]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998550
+[52]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398201
+[53]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998551
+[54]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998552
+[55]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998554
+[56]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998555
+[57]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998557
+[58]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998558
+[59]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998559
+[60]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998560
+[61]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998567
+[62]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998569
+[63]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998571
+[64]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998572
+[65]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998573
+[66]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998574
+[67]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998575
+[68]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998576
+[69]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998577
+[70]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998578
+[71]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998579
+[72]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998580
+[73]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998581
+[74]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998582
+[75]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998583
+[76]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998584
+[77]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998585
+[78]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998598
+[79]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998600
+[80]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998601
+[81]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998603
+[82]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998605
+[83]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998607
+[84]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998608
+[85]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998609
+[86]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998610
+[87]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998611
+[88]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998612
+[89]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998613
+[90]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398202
+[91]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398203
+[92]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398204
+[93]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998616
+[94]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998617
+[95]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998618
+[96]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998619
+[97]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998620
+[98]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998621
+[99]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998622
+[100]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998623
+[101]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398206
+[102]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998624
+[103]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998625
+[104]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998626
+[105]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998627
+[106]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998629
+[107]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998630
+[108]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998631
+[109]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM3398207
+[110]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998632
+[111]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998633
+[112]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998635
+[113]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM4803701
+[114]: http://www.legislation.govt.nz/act/public/2012/0119/latest/whole.html#DLM2998636
+[115]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM191587
+[116]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM135073
+[117]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195403
+[118]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195434
+[119]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195412
+[120]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195417
+[121]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195418
+[122]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195413
+[123]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195420
+[124]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195421
+[125]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195422
+[126]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195423
+[127]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195428
+[128]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195432
+[129]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195448
+[130]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195415
+[131]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195416
+[132]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195453
+[133]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM31491
 [134]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195470
 [135]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195468
 [136]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195472
@@ -4620,370 +4674,372 @@ This Act is administered by the Ministry of Justice and the Parliamentary Counse
 [291]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM329630
 [292]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM330581
 [293]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM242535
-[294]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM246320
-[295]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM426893
-[296]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4592579
-[297]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM377336
-[298]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2676024
-[299]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2676025
-[300]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2676028
-[301]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4421697
-[302]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2643239
-[303]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2643240
-[304]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM380176
-[305]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM106750
-[306]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM109560
-[307]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2887911
-[308]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM242775
-[309]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM243215
-[310]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM374409
-[311]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM375148
-[312]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM375476
-[313]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175958
-[314]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM178210
-[315]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM181751
-[316]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM182056
-[317]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3983130
-[318]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM187327
-[319]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM187338
-[320]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM257454
-[321]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM258268
-[322]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM307518
-[323]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM309140
-[324]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM310485
-[325]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3367601
-[326]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3367672
-[327]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM281857
-[328]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM282868
-[329]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2859610
-[330]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2859631
-[331]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634200
-[332]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634365
-[333]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634487
-[334]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3002224
-[335]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634630
-[336]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634646
-[337]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM439694
-[338]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM439852
-[339]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM404458
-[340]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM404602
-[341]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM404603
-[342]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM25627
-[343]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM26205
-[344]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM26207
-[345]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM26269
-[346]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM214112
-[347]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM214135
-[348]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1584200
-[349]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1584744
-[350]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3084557
-[351]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM323597
-[352]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM324898
-[353]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM324902
-[354]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3876045
-[355]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3702953
-[356]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM325133
-[357]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM432647
-[358]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM433735
-[359]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM434089
-[360]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM394191
-[361]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM399921
-[362]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM399927
-[363]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM48686
-[364]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM50702
-[365]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM255625
-[366]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM257145
-[367]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM257159
-[368]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM207496
-[369]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM208247
-[370]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM208683
-[371]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209744
-[372]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209745
-[373]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210201
-[374]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210235
-[375]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210273
-[376]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210727
-[377]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM285411
-[378]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM285981
-[379]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM81034
-[380]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM85298
-[381]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999100
-[382]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999122
-[383]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999123
-[384]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999125
-[385]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM381221
-[386]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM384019
-[387]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM384044
-[388]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM384637
-[389]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2914562
-[390]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM305839
-[391]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1410272
-[392]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1410297
-[393]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM307977
-[394]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM307979
-[395]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1412385
-[396]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1412386
-[397]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM119974
-[398]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120548
-[399]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203311
-[400]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203382
-[401]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203389
-[402]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203864
-[403]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM204330
-[404]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM204355
-[405]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM294914
-[406]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM294994
-[407]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM269427
-[408]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM269628
-[409]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM269629
-[410]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440300
-[411]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440613
-[412]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440682
-[413]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440709
-[414]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1441195
-[415]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM406944
-[416]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM407344
-[417]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM135084
-[418]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175774
-[419]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM176164
-[420]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM176185
-[421]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266245
-[422]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266925
-[423]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266984
-[424]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266986
-[425]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392284
-[426]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392290
-[427]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392542
-[428]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2478100
-[429]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2478606
-[430]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3005137
-[431]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2478626
-[432]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM224577
-[433]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM226203
-[434]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392241
-[435]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392247
-[436]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM365015
-[437]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM365949
-[438]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM144692
-[439]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM146496
-[440]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM378371
-[441]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM379039
-[442]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM378883
-[443]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM433612
-[444]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM433619
-[445]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3820364
-[446]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435194
-[447]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435197
-[448]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435403
-[449]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435415
-[450]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM226229
-[451]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM227550
-[452]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1472482
-[453]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1473919
-[454]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM364938
-[455]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM366115
-[456]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM366134
-[457]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM170872
-[458]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4926341
-[459]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3415421
-[460]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175653
-[461]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3016606
-[462]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3016612
-[463]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM122241
-[464]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM122247
-[465]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM123613
-[466]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM411986
-[467]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413253
-[468]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM202921
-[469]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM202952
-[470]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3213102
-[471]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3213283
-[472]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM241098
-[473]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM241845
-[474]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM241880
-[475]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM334659
-[476]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM338870
-[477]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM301706
-[478]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM302017
-[479]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM302046
-[480]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM53789
-[481]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM53795
-[482]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM56547
-[483]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM190099
-[484]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM190409
-[485]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM186117
-[486]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM186134
-[487]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436100
-[488]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436192
-[489]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3935909
-[490]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436218
-[491]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436453
-[492]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436508
-[493]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM356223
-[494]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM356807
-[495]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM84616
-[496]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM84913
-[497]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3430202
-[498]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3430558
-[499]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3865609
-[500]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4274913
-[501]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4274914
-[502]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM191961
-[503]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM192261
-[504]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM36962
-[505]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM37918
-[506]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225563
-[507]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225870
-[508]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225871
-[509]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225872
-[510]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413617
-[511]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413673
-[512]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413674
-[513]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM117371
-[514]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM117719
-[515]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM391363
-[516]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM391407
-[517]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120800
-[518]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120867
-[519]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120871
-[520]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3276800
-[521]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM19381
-[522]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM20134
-[523]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM64784
-[524]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM64790
-[525]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM65914
-[526]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM430983
-[527]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM431127
-[528]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM431148
-[529]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120103
-[530]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120414
-[531]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM55839
-[532]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM56309
-[533]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM43598
-[534]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM44047
-[535]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM396777
-[536]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397084
-[537]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397116
-[538]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397137
-[539]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397751
-[540]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1102100
-[541]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1102211
-[542]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM131682
-[543]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM132157
-[544]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM296638
-[545]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM296645
-[546]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM297046
-[547]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM297414
-[548]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM160808
-[549]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM163153
-[550]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1179938
-[551]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1465946
-[552]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM184054
-[553]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM184475
-[554]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM184488
-[555]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM185026
-[556]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195575
-[557]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1460713
-[558]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1460714
-[559]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM341567
-[560]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM342633
-[561]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM342635
-[562]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM427296
-[563]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM427492
-[564]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1151900
-[565]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1151992
-[566]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1151997
-[567]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM216422
-[568]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM216726
-[569]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM343165
-[570]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM344079
-[571]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM15636
-[572]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM16119
-[573]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM16152
-[574]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209544
-[575]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209558
-[576]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM199363
-[577]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM200387
-[578]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM202025
-[579]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1607351
-[580]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM230264
-[581]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM233349
-[582]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM220364
-[583]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM220959
-[584]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM25999
-[585]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3723298
-[586]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3726527
-[587]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM30158
-[588]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM30160
-[589]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM30162
-[590]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3727624
-[591]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM139726
-[592]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141338
-[593]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3702011
-[594]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141355
-[595]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141364
-[596]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141370
-[597]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141755
-[598]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM142013
-[599]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM250195
-[600]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM250653
-[601]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2651100
-[602]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3639904
-[603]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4047600
-[604]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4047712
-[605]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM359106
-[606]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM362960
-[607]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM189914
-[608]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM190602
-[609]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390106
-[610]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390155
-[611]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390156
-[612]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM97376
-[613]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390166
-[614]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3179903
-[615]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3180439
-[616]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM325508
-[617]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM325594
-[618]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM326754
-[619]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM394056
-[620]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM394082
-[621]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM136767
-[622]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2680793
-[623]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2680794
-[624]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2681030
-[625]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2681031
-[626]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2681034
-[627]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM137092
-[628]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM348342
-[629]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM359315
-[630]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM124960
-[631]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM126039
-[632]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4187643
-[633]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM127189
-[634]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3874953
-[635]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3878042
-[636]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM127742
-[637]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175060
-[638]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175080
-[639]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175081
-[640]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM410792
-[641]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM411366
-[642]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2576200
-[643]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2576327
-[644]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM240501
-[645]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM240511
-[646]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2248900
-[647]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2248961
-[648]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2249035
-[649]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2249036
-[650]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM363858
-[651]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM364650
-[652]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM284374
-[653]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM285840
-[654]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM211890
-[655]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM212340
-[656]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM276813
-[657]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM278527
-[658]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM222446
-[659]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM223248
-[660]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM223281
+[294]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM426893
+[295]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4592579
+[296]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM377336
+[297]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2676024
+[298]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2676025
+[299]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2676028
+[300]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4421697
+[301]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2643239
+[302]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2643240
+[303]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM380176
+[304]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM106750
+[305]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM109560
+[306]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2887911
+[307]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM242775
+[308]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM243215
+[309]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM374409
+[310]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM375148
+[311]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM375476
+[312]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175958
+[313]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM178210
+[314]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM181751
+[315]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM182056
+[316]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3983130
+[317]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM187327
+[318]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM187338
+[319]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM257454
+[320]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM258268
+[321]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM307518
+[322]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM309140
+[323]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM310485
+[324]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3367601
+[325]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3367672
+[326]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM281857
+[327]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM282868
+[328]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2859610
+[329]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2859631
+[330]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634200
+[331]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634365
+[332]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634487
+[333]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3002224
+[334]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634630
+[335]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2634646
+[336]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM439694
+[337]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM439852
+[338]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM404458
+[339]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM404602
+[340]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM404603
+[341]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM25627
+[342]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM26205
+[343]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM26207
+[344]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM26269
+[345]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM214112
+[346]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM214135
+[347]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1584200
+[348]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1584744
+[349]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3084557
+[350]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM323597
+[351]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM324898
+[352]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM324902
+[353]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3876045
+[354]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3702953
+[355]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM325133
+[356]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM432647
+[357]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM433735
+[358]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM434089
+[359]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM394191
+[360]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM399921
+[361]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM399927
+[362]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM48686
+[363]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM50702
+[364]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM255625
+[365]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM257145
+[366]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM257159
+[367]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM207496
+[368]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM208247
+[369]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM208683
+[370]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209744
+[371]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209745
+[372]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210201
+[373]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210235
+[374]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210273
+[375]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM210727
+[376]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM285411
+[377]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM285981
+[378]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM81034
+[379]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM85298
+[380]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999100
+[381]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999122
+[382]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999123
+[383]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2999125
+[384]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM381221
+[385]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM384019
+[386]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM384044
+[387]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM384637
+[388]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2914562
+[389]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM305839
+[390]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1410272
+[391]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1410297
+[392]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM307977
+[393]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM307979
+[394]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1412385
+[395]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1412386
+[396]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM119974
+[397]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120548
+[398]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203311
+[399]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203382
+[400]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203389
+[401]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM203864
+[402]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM204330
+[403]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM204355
+[404]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM294914
+[405]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM294994
+[406]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM269427
+[407]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM269628
+[408]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM269629
+[409]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440300
+[410]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440613
+[411]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440682
+[412]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1440709
+[413]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1441195
+[414]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM406944
+[415]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM407344
+[416]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM135084
+[417]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175774
+[418]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM176164
+[419]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM176185
+[420]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266245
+[421]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266925
+[422]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266984
+[423]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM266986
+[424]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392284
+[425]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392290
+[426]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392542
+[427]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2478100
+[428]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2478606
+[429]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3005137
+[430]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2478626
+[431]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM224577
+[432]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM226203
+[433]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392241
+[434]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM392247
+[435]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM365015
+[436]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM365949
+[437]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM144692
+[438]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM146496
+[439]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM378371
+[440]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM379039
+[441]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM378883
+[442]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM433612
+[443]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM433619
+[444]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3820364
+[445]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435194
+[446]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435197
+[447]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435403
+[448]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM435415
+[449]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM226229
+[450]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM227550
+[451]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1472482
+[452]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1473919
+[453]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM364938
+[454]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM366115
+[455]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM366134
+[456]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM170872
+[457]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4926341
+[458]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3415421
+[459]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175653
+[460]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3016606
+[461]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3016612
+[462]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM122241
+[463]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM122247
+[464]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM123613
+[465]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM411986
+[466]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413253
+[467]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM202921
+[468]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM202952
+[469]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3213102
+[470]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3213283
+[471]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM241098
+[472]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM241845
+[473]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM241880
+[474]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM334659
+[475]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM338870
+[476]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM301706
+[477]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM302017
+[478]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM302046
+[479]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM53789
+[480]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM53795
+[481]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM56547
+[482]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM190099
+[483]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM190409
+[484]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM186117
+[485]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM186134
+[486]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436100
+[487]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436192
+[488]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3935909
+[489]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436218
+[490]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436453
+[491]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM436508
+[492]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM356223
+[493]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM356807
+[494]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM84616
+[495]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM84913
+[496]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3430202
+[497]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3430558
+[498]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3865609
+[499]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4274913
+[500]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4274914
+[501]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM191961
+[502]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM192261
+[503]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM36962
+[504]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM37918
+[505]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225563
+[506]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225870
+[507]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225871
+[508]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM225872
+[509]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413617
+[510]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413673
+[511]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM413674
+[512]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM117371
+[513]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM117719
+[514]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM391363
+[515]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM391407
+[516]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120800
+[517]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120867
+[518]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120871
+[519]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3276800
+[520]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM19381
+[521]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM20134
+[522]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM64784
+[523]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM64790
+[524]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM65914
+[525]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM430983
+[526]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM431127
+[527]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM431148
+[528]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120103
+[529]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM120414
+[530]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM55839
+[531]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM56309
+[532]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM43598
+[533]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM44047
+[534]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM396777
+[535]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397084
+[536]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397116
+[537]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397137
+[538]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM397751
+[539]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1102100
+[540]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1102211
+[541]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM131682
+[542]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM132157
+[543]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM296638
+[544]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM296645
+[545]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM297046
+[546]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM297414
+[547]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM160808
+[548]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM163153
+[549]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1179938
+[550]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1465946
+[551]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM184054
+[552]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM184475
+[553]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM184488
+[554]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM185026
+[555]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM195575
+[556]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1460713
+[557]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1460714
+[558]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM341567
+[559]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM342633
+[560]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM342635
+[561]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM427296
+[562]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM427492
+[563]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1151900
+[564]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1151992
+[565]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1151997
+[566]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM216422
+[567]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM216726
+[568]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM343165
+[569]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM344079
+[570]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM15636
+[571]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM16119
+[572]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM16152
+[573]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209544
+[574]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM209558
+[575]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM199363
+[576]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM200387
+[577]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM202025
+[578]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM1607351
+[579]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM230264
+[580]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM233349
+[581]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM220364
+[582]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM220959
+[583]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM25999
+[584]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3723298
+[585]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3726527
+[586]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM30158
+[587]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM30160
+[588]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM30162
+[589]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3727624
+[590]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM139726
+[591]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141338
+[592]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3702011
+[593]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141355
+[594]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141364
+[595]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141370
+[596]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM141755
+[597]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM142013
+[598]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM250195
+[599]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM250653
+[600]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2651100
+[601]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3639904
+[602]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4047600
+[603]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4047712
+[604]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM359106
+[605]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM362960
+[606]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM189914
+[607]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM190602
+[608]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390106
+[609]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390155
+[610]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390156
+[611]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM97376
+[612]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM390166
+[613]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3179903
+[614]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3180439
+[615]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM325508
+[616]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM325594
+[617]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM326754
+[618]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM394056
+[619]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM394082
+[620]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM136767
+[621]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2680793
+[622]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2680794
+[623]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2681030
+[624]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2681031
+[625]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2681034
+[626]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM137092
+[627]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM348342
+[628]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM359315
+[629]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM124960
+[630]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM126039
+[631]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM4187643
+[632]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM127189
+[633]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3874953
+[634]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM3878042
+[635]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM127742
+[636]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175060
+[637]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175080
+[638]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM175081
+[639]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM410792
+[640]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM411366
+[641]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2576200
+[642]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2576327
+[643]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM240501
+[644]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM240511
+[645]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2248900
+[646]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2248961
+[647]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2249035
+[648]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM2249036
+[649]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM363858
+[650]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM364650
+[651]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM284374
+[652]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM285840
+[653]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM211890
+[654]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM212340
+[655]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM276813
+[656]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM278527
+[657]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM222446
+[658]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM223248
+[659]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM223281
+[660]: http://www.legislation.govt.nz/act/public/2012/0119/latest/link.aspx?id=DLM5081570
+[661]: http://www.pco.parliament.govt.nz/reprints/
+[662]: http://www.pco.parliament.govt.nz/editorial-conventions/
