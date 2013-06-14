@@ -201,7 +201,7 @@ function makeMarkdown(act, uri) {
 
 searchQueue = async.queue(scrapeSearch);
 
-actQueue = async.queue(downloadAct, 1);
+actQueue = async.queue(downloadAct, process.env.QUEUE_SIZE || 1);
 
 actQueue.drain = function() {
     setTimeout(function() {
