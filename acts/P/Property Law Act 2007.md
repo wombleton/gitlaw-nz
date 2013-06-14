@@ -1,5 +1,5 @@
 Reprint  
-as at 20 June 2011
+as at 24 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -7063,9 +7063,11 @@ Special powers of court
     
     *   (b) the [Deeds Registration Act 1908][460]; or
     
-    *   (c) [Part 1][710] of the Crown Minerals Act 1991\.
+    *   (c) the [Crown Minerals Act 1991][710].
     
     Compare: 1952 No 51 [ss 129][705], [129A][706]
+    
+    Section 325(6)(c): amended, on 24 May 2013, by [section 65][711] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ### Subpart 3---Landlocked land
 
@@ -7075,9 +7077,9 @@ Special powers of court
     
     _landlocked land_ means a piece of land to which there is no reasonable access
     
-    _reasonable access_, in relation to land, means physical access for persons or services of a nature and quality that is reasonably necessary to enable the owner or occupier of the land to use and enjoy the land for any purpose for which it may be used in accordance with any right, permission, authority, consent, approval, or dispensation enjoyed or granted under the [Resource Management Act 1991][711].
+    _reasonable access_, in relation to land, means physical access for persons or services of a nature and quality that is reasonably necessary to enable the owner or occupier of the land to use and enjoy the land for any purpose for which it may be used in accordance with any right, permission, authority, consent, approval, or dispensation enjoyed or granted under the [Resource Management Act 1991][712].
     
-    Compare: 1952 No 51 [s 129B][712]
+    Compare: 1952 No 51 [s 129B][713]
 
 ##### 327 Owner or occupier of landlocked land may apply to court
     
@@ -7097,7 +7099,7 @@ Special powers of court
     
     *   (c) the relevant territorial authority.
     
-    Compare: 1952 No 51 [s 129B][712]
+    Compare: 1952 No 51 [s 129B][713]
 
 ##### 328 Court may grant reasonable access to landlocked land
     
@@ -7115,11 +7117,11 @@ Special powers of court
     
     (2) The court must not make an order under subsection (1) granting reasonable access to landlocked land over---
         
-    *   (a) land that is part of a national park within the meaning of the [National Parks Act 1980][713]; or
+    *   (a) land that is part of a national park within the meaning of the [National Parks Act 1980][714]; or
     
-    *   (b) land that is a public reserve or part of a public reserve within the meaning of the [Reserves Act 1977][714]; or
+    *   (b) land that is a public reserve or part of a public reserve within the meaning of the [Reserves Act 1977][715]; or
     
-    *   (c) a railway line within the meaning of the [New Zealand Railways Corporation Act 1981][715].
+    *   (c) a railway line within the meaning of the [New Zealand Railways Corporation Act 1981][716].
     
     (3) The court may decline to make an order under subsection (1) if it considers that the applicant is entitled, and should be required, to seek relief under---
         
@@ -7129,7 +7131,7 @@ Special powers of court
     
     *   (c) any other enactment.
     
-    Compare: 1952 No 51 [s 129B][712]
+    Compare: 1952 No 51 [s 129B][713]
 
 ##### 329 Matters court must consider in determining application for order for reasonable access
     
@@ -7145,7 +7147,7 @@ Special powers of court
     
     *   (e) any other relevant matters.
     
-    Compare: 1952 No 51 [s 129B][712]
+    Compare: 1952 No 51 [s 129B][713]
 
 ##### 330 Court may impose conditions in making order for reasonable access
     
@@ -7189,9 +7191,11 @@ Special powers of court
     
     *   (b) the [Deeds Registration Act 1908][460]; or
     
-    *   (c) [Part 1][710] of the Crown Minerals Act 1991\.
+    *   (c) the [Crown Minerals Act 1991][710].
     
-    Compare: 1952 No 51 [s 129B][712]
+    Compare: 1952 No 51 [s 129B][713]
+    
+    Section 330(5)(c): amended, on 24 May 2013, by [section 65][711] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 331 Costs of work giving effect to order
     
@@ -7201,7 +7205,7 @@ Special powers of court
     
     *   (b) gives a direction in the order accordingly.
     
-    Compare: 1952 No 51 [s 129B][712]
+    Compare: 1952 No 51 [s 129B][713]
 
 ### Subpart 4---Trees and unauthorised improvements on neighbouring land
 
@@ -7219,7 +7223,7 @@ Special powers of court
     
     *   (b) any tree, shrub, or plant (_tree_) growing or standing on any land.
     
-    Compare: 1952 No 51 [s 129C][716]
+    Compare: 1952 No 51 [s 129C][717]
 
 ##### 333 Court may order removal or trimming of trees or removal or alteration of structures
     
@@ -7249,7 +7253,7 @@ Special powers of court
     
     *   (b) if the building is not erected within a reasonable time, the order may be vacated on the application of any interested person.
     
-    Compare: 1952 No 51 [s 129C][716]
+    Compare: 1952 No 51 [s 129C][717]
 
 ##### 334 Owner or occupier of land may apply for order under section 333
     
@@ -7257,7 +7261,7 @@ Special powers of court
     
     (2) If an order is sought against the occupier of any land, the owner of the land must be joined as defendant.
     
-    Compare: 1952 No 51 [s 129C][716]
+    Compare: 1952 No 51 [s 129C][717]
 
 ##### 335 Matters court may consider in determining application for order under section 333
     
@@ -7291,7 +7295,7 @@ Special powers of court
     
     (3) Despite subsection (2)(b), an order may be made under [section 333][393] if, in all the circumstances, the court thinks fit.
     
-    Compare: 1952 No 51 [s 129C][716]
+    Compare: 1952 No 51 [s 129C][717]
 
 ##### 336 Further considerations relating to trees
     
@@ -7307,9 +7311,9 @@ Special powers of court
     
     *   (e) any likely effect of the removal or trimming of the tree on ground stability, the water table, or run-off.
     
-    (2) Except for a purpose referred to in [section 335(1)(b)(i)][395], the court may not make an order under [section 333][393] relating to any tree that is the subject of a requirement lawfully made by a heritage protection authority under the provisions of [Part 8][717] of the Resource Management Act 1991\.
+    (2) Except for a purpose referred to in [section 335(1)(b)(i)][395], the court may not make an order under [section 333][393] relating to any tree that is the subject of a requirement lawfully made by a heritage protection authority under the provisions of [Part 8][718] of the Resource Management Act 1991\.
     
-    Compare: 1952 No 51 [s 129C][716]
+    Compare: 1952 No 51 [s 129C][717]
 
 ##### 337 Court may impose conditions in making order under section 333
     
@@ -7327,7 +7331,7 @@ Special powers of court
     
     (3) Subsection (2) is subject to [section 338(6)][398].
     
-    Compare: 1952 No 51 [s 129C][716]
+    Compare: 1952 No 51 [s 129C][717]
 
 ##### 338 Completion of work required by order under section 333
     
@@ -7399,13 +7403,15 @@ Special powers of court
     
     *   (b) the [Deeds Registration Act 1908][460]; or
     
-    *   (c) [Part 1][710] of the Crown Minerals Act 1991\.
+    *   (c) the [Crown Minerals Act 1991][710].
     
-    Compare: [Partition Act 1539][718], 31 Hen 8, c 1 (Imp); [Partition Act 1540][719], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][720]
+    Compare: [Partition Act 1539][719], 31 Hen 8, c 1 (Imp); [Partition Act 1540][720], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][721]
+    
+    Section 339(6)(c): amended, on 24 May 2013, by [section 65][711] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 340 Order under section 339(1)(b) subject to restrictions on subdivision of land
     
-*   (1) No order under [section 339(1)(b)][400] (and no related order under section 339(4)) may subdivide land contrary to [section 11][721] or [Part 10][708] of the Resource Management Act 1991\.
+*   (1) No order under [section 339(1)(b)][400] (and no related order under section 339(4)) may subdivide land contrary to [section 11][722] or [Part 10][708] of the Resource Management Act 1991\.
     
     (2) A court that concludes that an order under [section 339(1)(b)][400] (or a related order under section 339(4)) would contravene subsection (1) may make an order of that kind that does not contravene that subsection, or may instead make an order under section 339(1)(a) or (c) (and any related order under section 339(4)).
 
@@ -7429,7 +7435,7 @@ Special powers of court
     
     (3) The court to which that application is made may, by order made on an application for the purpose, change, or dispense with service on, the people who must be served under subsection (2).
     
-    Compare: [Partition Act 1539][718], 31 Hen 8, c 1 (Imp); [Partition Act 1540][719], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][720]
+    Compare: [Partition Act 1539][719], 31 Hen 8, c 1 (Imp); [Partition Act 1540][720], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][721]
 
 ##### 342 Relevant considerations
     
@@ -7447,7 +7453,7 @@ Special powers of court
     
     *   (f) any other matters the court considers relevant.
     
-    Compare: [Partition Act 1539][718], 31 Hen 8, c 1 (Imp); [Partition Act 1540][719], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][720]
+    Compare: [Partition Act 1539][719], 31 Hen 8, c 1 (Imp); [Partition Act 1540][720], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][721]
 
 ##### 343 Further powers of court
     
@@ -7473,7 +7479,7 @@ Special powers of court
     
     *   (g) provides for, or requires, any other matters or steps the court considers necessary or desirable as a consequence of the making of the order under [section 339(1)][400].
     
-    Compare: [Partition Act 1539][718], 31 Hen 8, c 1 (Imp); [Partition Act 1540][719], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][720]
+    Compare: [Partition Act 1539][719], 31 Hen 8, c 1 (Imp); [Partition Act 1540][720], 32 Hen 8, c 32 (Imp); 1952 No 51 [ss 140--143][721]
 
 ### Subpart 6---Setting aside of dispositions that prejudice creditors
 
@@ -7481,7 +7487,7 @@ Special powers of court
     
 *   The purpose of this subpart is to enable a court to order that property acquired or received under or through certain prejudicial dispositions made by a debtor (or its value) be restored for the benefit of creditors (but without the order having effect so as to increase the value of securities held by creditors over the debtor's property).
     
-    Compare: 1952 No 51 [s 60][722]
+    Compare: 1952 No 51 [s 60][723]
 
 ##### 345 Interpretation
     
@@ -7519,7 +7525,7 @@ Special powers of court
     
     _property_ includes the proceeds of any property.
     
-    Compare: 1952 No 51 [s 60][722]
+    Compare: 1952 No 51 [s 60][723]
 
 ##### 346 Dispositions to which this subpart applies
     
@@ -7537,7 +7543,7 @@ Special powers of court
     
     *   (c) intended to incur, or believed, or reasonably should have believed, that the debtor would incur, debts beyond the debtor's ability to pay.
     
-    Compare: 1952 No 51 [s 60][722]
+    Compare: 1952 No 51 [s 60][723]
 
 ##### 347 Application for order under section 348
     
@@ -7555,7 +7561,7 @@ Special powers of court
     
     *   (b) any other person from whom property or compensation is sought through the application.
     
-    Compare: 1952 No 51 [s 60][722]
+    Compare: 1952 No 51 [s 60][723]
 
 ##### 348 Court may set aside certain dispositions of property
     
@@ -7585,7 +7591,7 @@ Special powers of court
     
     (7) This section is subject to [section 349][411].
     
-    Compare: 1952 No 51 [s 60][722]
+    Compare: 1952 No 51 [s 60][723]
 
 ##### 349 Protection of persons receiving property under disposition
     
@@ -7601,7 +7607,7 @@ Special powers of court
     
     *   (b) the person's circumstances have so changed since the receipt of the property that it is unjust to order that the property be restored, or reasonable compensation be paid, in either case in part or in full.
     
-    Compare: 1952 No 51 [s 60][722]
+    Compare: 1952 No 51 [s 60][723]
 
 ##### 350 Person in or to whom order under section 348 vests property or makes compensation for it payable
     
@@ -7631,7 +7637,7 @@ Special powers of court
     
     (4) This section overrides the [Land Transfer Act 1952][452].
     
-    Compare: 1952 No 51 [s 60][722]
+    Compare: 1952 No 51 [s 60][723]
 
 ## Part 7  
 Miscellaneous provisions
@@ -7652,7 +7658,7 @@ Miscellaneous provisions
     
     *   (b) instruments relating to land to which paragraph (a) applies.
     
-    Compare: 1952 No 51 [s 3][723]
+    Compare: 1952 No 51 [s 3][724]
 
 #### Service of notices and other documents
 
@@ -7670,7 +7676,7 @@ Miscellaneous provisions
     
     *   (e) [section 261][300] (lessor's notice of a refusal to grant a renewal or to sell a reversion to a lessee or licensee of land).
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 353 How documents in section 352 to be given or served
     
@@ -7678,9 +7684,9 @@ Miscellaneous provisions
         
     *   (a) an individual person in a manner provided for in [section 359][424]:
     
-    *   (b) a company under the [Companies Act 1993][449] in a manner provided for in [section 387(1)][725] (other than paragraph (e)) or [section 388][726] of that Act:
+    *   (b) a company under the [Companies Act 1993][449] in a manner provided for in [section 387(1)][726] (other than paragraph (e)) or [section 388][727] of that Act:
     
-    *   (c) an overseas company in a manner provided for in [section 389(1)][727] (other than paragraph (e)) or [section 390][728] of the Companies Act 1993:
+    *   (c) an overseas company in a manner provided for in [section 389(1)][728] (other than paragraph (e)) or [section 390][729] of the Companies Act 1993:
     
     *   (d) any other body corporate in a manner in which it could be given or served if the body corporate were a company:
     
@@ -7692,7 +7698,7 @@ Miscellaneous provisions
     
     *   (b) any instrument or agreement.
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 354 How other documents to be given or served
     
@@ -7708,7 +7714,7 @@ Miscellaneous provisions
     
     (4) This section is subject to [sections 355 to 357][420].
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 355 Person to or on whom document to be given or served in special cases
     
@@ -7736,13 +7742,13 @@ Miscellaneous provisions
     
     *   (b) any instrument or agreement.
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 356 Sections 353 to 355 and service in legal proceedings
     
 *   [Sections 353 to 355][418] do not apply to the service of a document in a legal proceeding, whether the proceeding is brought under this Act or otherwise.
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 357 Orders dispensing with, or directing manner of, service
     
@@ -7764,13 +7770,13 @@ Miscellaneous provisions
     
     *   (b) any instrument or agreement.
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 358 Agent defined for purposes of sections 353 and 355
     
 *   In [sections 353][418] and [355][420], _agent_, in relation to a person who is overseas, the Secretary to the Treasury, or any other chief executive of a government department or office, means a person who has actual or ostensible authority to receive, on behalf of that person, the Secretary to the Treasury, or the other chief executive, a notice, cross-notice, or other document required or authorised to be given or served by a provision of this Act.
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 359 Manner of giving or serving notices
     
@@ -7792,9 +7798,9 @@ Miscellaneous provisions
         
     *   (a) provides a system of recorded delivery; and
     
-    *   (b) is similar in nature to a registered post service provided by a person registered as a postal operator under the [Postal Services Act 1998][729].
+    *   (b) is similar in nature to a registered post service provided by a person registered as a postal operator under the [Postal Services Act 1998][730].
     
-    Compare: 1952 No 51 [s 152][724]; 1987 No 74 [s 2(1)][730]
+    Compare: 1952 No 51 [s 152][725]; 1987 No 74 [s 2(1)][731]
 
 ##### 360 Receipt for purposes of section 359
     
@@ -7806,7 +7812,7 @@ Miscellaneous provisions
     
     *   (c) it is otherwise received in writing by that person.
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 ##### 361 Time of service if more than 1 person to be served
     
@@ -7822,7 +7828,7 @@ Miscellaneous provisions
     
     *   (b) the last member of the relevant class or classes.
     
-    Compare: 1952 No 51 [s 152][724]
+    Compare: 1952 No 51 [s 152][725]
 
 #### District Courts' jurisdiction, regulations, consequential amendments, repeals, etc, and savings and transitional provisions
 
@@ -7836,15 +7842,15 @@ Miscellaneous provisions
     
     *   (c) an order under [section 320][377] authorising entry onto or over neighbouring land:
     
-    *   (d) an order under [section 323][381] granting relief in respect of a wrongly placed structure situated on a single piece, or on 2 or more pieces, of land, if the value of that single piece, or of one of those 2 or more pieces, of land (excluding the value of the wrongly placed structure) does not exceed the amount to which the jurisdiction of District Courts is limited by [section 31][731] of the District Courts Act 1947:
+    *   (d) an order under [section 323][381] granting relief in respect of a wrongly placed structure situated on a single piece, or on 2 or more pieces, of land, if the value of that single piece, or of one of those 2 or more pieces, of land (excluding the value of the wrongly placed structure) does not exceed the amount to which the jurisdiction of District Courts is limited by [section 31][732] of the District Courts Act 1947:
     
     *   (e) an order under [section 333][393] for the removal or trimming of a tree or the removal or alteration of a structure:
     
     *   (f) an order under [section 357][422] dispensing with, or directing the manner of, service.
     
-    (2) This section applies despite anything to the contrary in the [District Courts Act 1947][732].
+    (2) This section applies despite anything to the contrary in the [District Courts Act 1947][733].
     
-    (3) The [District Courts Act 1947][732] applies to the jurisdiction of District Courts under this section as if that jurisdiction had been conferred by that Act.
+    (3) The [District Courts Act 1947][733] applies to the jurisdiction of District Courts under this section as if that jurisdiction had been conferred by that Act.
     
     (4) This section does not affect any jurisdiction that a District Court has, otherwise than under this section, to exercise a power conferred on a court by this Act.
 
@@ -7862,71 +7868,71 @@ Miscellaneous provisions
     
     *   (e) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 1952 No 51 [s 104AA][733]
+    Compare: 1952 No 51 [s 104AA][734]
 
 ##### 364 Consequential amendments
     
 *   (1) The enactments specified in [Schedule 7][444] are amended in the manner specified in that schedule.
     
-    (2) However, if [section 443(1)][734] of the Insolvency Act 2006 (which repeals the [Insolvency Act 1967][735]) comes into force on or before 1 January 2008, all items in [Schedule 7][444] that relate to the Insolvency Act 1967 are repealed on 1 January 2008\.
+    (2) However, if [section 443(1)][735] of the Insolvency Act 2006 (which repeals the [Insolvency Act 1967][736]) comes into force on or before 1 January 2008, all items in [Schedule 7][444] that relate to the Insolvency Act 1967 are repealed on 1 January 2008\.
 
 ##### 365 Imperial enactments relating to property no longer part of law of New Zealand
     
 *   (1) The enactments to which this section applies cease to have effect as part of the law of New Zealand.
     
-    (2) This section applies to the enactments specified under the heading ""Enactments relating to property"" in [Schedule 1][736] of the Imperial Laws Application Act 1988, namely---
+    (2) This section applies to the enactments specified under the heading ""Enactments relating to property"" in [Schedule 1][737] of the Imperial Laws Application Act 1988, namely---
         
-    *   (a) (1267) 52 Hen 3 ([The Statute of Marlborough][737]), c 23:
+    *   (a) (1267) 52 Hen 3 ([The Statute of Marlborough][738]), c 23:
     
-    *   (b) (1289--90) 18 Edw 1, St 1---([Quia Emptores][738]), c 1, c 3:
+    *   (b) (1289--90) 18 Edw 1, St 1---([Quia Emptores][739]), c 1, c 3:
     
-    *   (c) (1539) 31 Hen 8, c 1---The [Partition Act 1539][718]:
+    *   (c) (1539) 31 Hen 8, c 1---The [Partition Act 1539][719]:
     
-    *   (d) (1540) 32 Hen 8, c 32---The [Partition Act 1540][719]:
+    *   (d) (1540) 32 Hen 8, c 32---The [Partition Act 1540][720]:
     
     *   (e) (1540) 32 Hen 8, c 34---The [Grantees of Reversions Act 1540][640], except section 3:
     
     *   (f) (1689) 2 Will and Mar, Sess 1, c 5---The [Distress Act 1689][652], except sections 3 and 4:
     
-    *   (g) (1705) 4 and 5 Anne, c 3---The [Administration of Justice Act 1705][644]: [sections 9][739] and [10][740]:
+    *   (g) (1705) 4 and 5 Anne, c 3---The [Administration of Justice Act 1705][644]: [sections 9][740] and [10][741]:
     
-    *   (h) (1709) 8 Anne, c 18---The Landlord and Tenant Act 1709: [sections 1][741], [4][742], [6][743], and [7][744]:
+    *   (h) (1709) 8 Anne, c 18---The Landlord and Tenant Act 1709: [sections 1][742], [4][743], [6][744], and [7][745]:
     
-    *   (i) (1730) 4 Geo 2, c 28---The Landlord and Tenant Act 1730: [sections 2][647], [4][648], [5][745], and [6][631]:
+    *   (i) (1730) 4 Geo 2, c 28---The Landlord and Tenant Act 1730: [sections 2][647], [4][648], [5][746], and [6][631]:
     
-    *   (j) (1737) 11 Geo 2, c 19---The Distress for Rent Act 1737: [sections 1][746], [2][747], [7][748], [8][749], [11][750], [14][751], [16][752], and [17][753]:
+    *   (j) (1737) 11 Geo 2, c 19---The Distress for Rent Act 1737: [sections 1][747], [2][748], [7][749], [8][750], [11][751], [14][752], [16][753], and [17][754]:
     
     *   (k) (1832) 2 and 3 Will 4, c 71---The Prescription Act 1832: [sections 1][680], [2][681], and [4 to 8][682]:
     
-    *   (l) (1851) 14 and 15 Vict, c 25---The Landlord and Tenant Act 1851: [sections 1 to 4][754].
+    *   (l) (1851) 14 and 15 Vict, c 25---The Landlord and Tenant Act 1851: [sections 1 to 4][755].
     
-    (3) This section also applies to the following enactments specified under the heading ""Other enactments"" in [Schedule 1][736] of the Imperial Laws Application Act 1988:
+    (3) This section also applies to the following enactments specified under the heading ""Other enactments"" in [Schedule 1][737] of the Imperial Laws Application Act 1988:
         
-    *   (a) (1774) 14 Geo 3, c 78---The Fires Prevention (Metropolis) Act 1774: [section 83][755], and [section 86][756] \[as amended by the [Statute Law Revision Act 1861][757] (24 and 25 Vict c 101)\]:
+    *   (a) (1774) 14 Geo 3, c 78---The Fires Prevention (Metropolis) Act 1774: [section 83][756], and [section 86][757] \[as amended by the [Statute Law Revision Act 1861][758] (24 and 25 Vict c 101)\]:
     
-    *   (b) (1828) 9 Geo 4, c 14---The Statute of Frauds Amendment Act 1828: [section 6][758].
+    *   (b) (1828) 9 Geo 4, c 14---The Statute of Frauds Amendment Act 1828: [section 6][759].
     
-    (4) [Schedule 1][736] of the Imperial Laws Application Act 1988 is consequentially amended by repealing the heading referred to in subsection (2) and so much of that schedule as relates to the enactments to which this section applies, and the following are consequentially repealed:
+    (4) [Schedule 1][737] of the Imperial Laws Application Act 1988 is consequentially amended by repealing the heading referred to in subsection (2) and so much of that schedule as relates to the enactments to which this section applies, and the following are consequentially repealed:
         
-    *   (a) [section 3(2)][759] of the Innkeepers Act 1962; and
+    *   (a) [section 3(2)][760] of the Innkeepers Act 1962; and
     
-    *   (b) [section 43(1A)][760] of the Forest and Rural Fires Act 1977\.
+    *   (b) [section 43(1A)][761] of the Forest and Rural Fires Act 1977\.
     
-    (5) [Sections 17 to 19][761] and [21][762] of the Interpretation Act 1999 apply to the enactments to which this section applies as if those enactments were Acts of the Parliament of New Zealand.
+    (5) [Sections 17 to 19][762] and [21][763] of the Interpretation Act 1999 apply to the enactments to which this section applies as if those enactments were Acts of the Parliament of New Zealand.
     
-    Compare: 1952 No 51 [s 155(1)][763]; 1999 No 55 [s 112(2), (3)][764]; 2001 No 31 [s 22(2), (3)][765]
+    Compare: 1952 No 51 [s 155(1)][764]; 1999 No 55 [s 112(2), (3)][765]; 2001 No 31 [s 22(2), (3)][766]
 
 ##### 366 Property Law Act 1952 and 2 related Acts repealed
     
 *   The following are repealed:
         
-    *   (a) [Contracts Enforcement Act 1956][766] (1956 No 23):
+    *   (a) [Contracts Enforcement Act 1956][767] (1956 No 23):
     
-    *   (b) [Distress and Replevin Act 1908][767] (1908 No 47):
+    *   (b) [Distress and Replevin Act 1908][768] (1908 No 47):
     
     *   (c) [Property Law Act 1952][604] (1952 No 51).
     
-    Compare: 1952 No 51 [s 155(2)][763]
+    Compare: 1952 No 51 [s 155(2)][764]
 
 ##### 367 Existing matters, proceedings, and instruments
     
@@ -7952,21 +7958,21 @@ Miscellaneous provisions
     
     (4) All instruments of the kind to which this Act applies and that came into operation before 1 January 2008 must, to give effect to subsection (3), be read and construed as if the law existing immediately before 1 January 2008 continued to have effect, and must be given only the effect and consequences that they would have had under that law.
     
-    (5) Covenants implied by the [Property Law Act 1952][604], or by [section 96][677] or [98][768] of the Land Transfer Act 1952, into instruments that came into operation before 1 January 2008 are not affected by [sections 364][430] and [366(c)][432], and continue as if that Act, and those sections, had not been repealed.
+    (5) Covenants implied by the [Property Law Act 1952][604], or by [section 96][677] or [98][769] of the Land Transfer Act 1952, into instruments that came into operation before 1 January 2008 are not affected by [sections 364][430] and [366(c)][432], and continue as if that Act, and those sections, had not been repealed.
     
     (6) Covenants, conditions, terms, or powers implied by [sections 105 to 107][628] of the Property Law Act 1952 into leases that came into operation before 1 January 2008 are not affected by [section 366(c)][432], and continue as if that Act had not been repealed.
     
     (7) Subsections (5) and (6) do not limit subsections (3) and (4); but subsections (1) to (6) are subject to express provision to the contrary in this Act or any other enactment.
     
-    (8) Nothing in [section 365][431] or this section limits or affects the application of the [Interpretation Act 1999][769].
+    (8) Nothing in [section 365][431] or this section limits or affects the application of the [Interpretation Act 1999][770].
     
-    Compare: 1952 No 51 [s 155(3)--(7)][763]
+    Compare: 1952 No 51 [s 155(3)--(7)][764]
 
 ##### 368 Distraint may be completed
     
 *   The levying of any distress for rent or other amounts payable under a lease of land or for a rentcharge that has lawfully been commenced, but not completed, before 1 January 2008 may be continued and completed in all respects on and after that date as if---
         
-    *   (a) [section 366(b)][432] had not repealed the [Distress and Replevin Act 1908][767]; or
+    *   (a) [section 366(b)][432] had not repealed the [Distress and Replevin Act 1908][768]; or
     
     *   (b) this Act had not repealed any other enactment concerning the levying of the distress.
     
@@ -7974,27 +7980,27 @@ Miscellaneous provisions
 
 ##### 369 Transitional provisions relating to Insolvency Act 2006
     
-*   (1) Until the commencement of [Part 6][448] of the Insolvency Act 2006, the definition of **bankrupt** in [section 4][5] of this Act must be read as if the reference to Part 6 of the Insolvency Act 2006 were a reference to [Part 17][770] of the Insolvency Act 1967\.
+*   (1) Until the commencement of [Part 6][448] of the Insolvency Act 2006, the definition of **bankrupt** in [section 4][5] of this Act must be read as if the reference to Part 6 of the Insolvency Act 2006 were a reference to [Part 17][771] of the Insolvency Act 1967\.
     
-    (2) Until the commencement of [subpart 9][771] of Part 3 of the Insolvency Act 2006, the definition of **creditor** in [section 4][5] of this Act must be read as if the reference to the [Insolvency Act 2006][451] were a reference to the [Insolvency Act 1967][735].
+    (2) Until the commencement of [subpart 9][772] of Part 3 of the Insolvency Act 2006, the definition of **creditor** in [section 4][5] of this Act must be read as if the reference to the [Insolvency Act 2006][451] were a reference to the [Insolvency Act 1967][736].
 
 ##### 370 Transitional provisions relating to Companies Amendment Act 2006
     
-*   (1) Until the commencement of [section 40][772] of the Companies Amendment Act 2006, [section 153(2)(c) and (4)][177] of this Act must be read as if the references to [clauses 1(1)][586] and [2(1)(b)][587] of Schedule 7 of the Companies Act 1993 were references to clauses 1 and 9(b) of Schedule 7 of the Companies Act 1993\.
+*   (1) Until the commencement of [section 40][773] of the Companies Amendment Act 2006, [section 153(2)(c) and (4)][177] of this Act must be read as if the references to [clauses 1(1)][586] and [2(1)(b)][587] of Schedule 7 of the Companies Act 1993 were references to clauses 1 and 9(b) of Schedule 7 of the Companies Act 1993\.
     
-    (2) If [section 40][772] of the Companies Amendment Act 2006 is in force on 1 January 2008, [clause 5][773] of Schedule 7 of the Companies Act 1993 is amended by omitting ""landlord or other"" in each place where it appears.
+    (2) If [section 40][773] of the Companies Amendment Act 2006 is in force on 1 January 2008, [clause 5][774] of Schedule 7 of the Companies Act 1993 is amended by omitting ""landlord or other"" in each place where it appears.
     
-    (3) If [section 40][772] of the Companies Amendment Act 2006 is not in force on 1 January 2008,---
+    (3) If [section 40][773] of the Companies Amendment Act 2006 is not in force on 1 January 2008,---
         
     *   (a) clause 11 of Schedule 7 of the Companies Act 1993 is amended by omitting ""landlord or other"" in each place where it appears; and
     
-    *   (b) the [Schedule 7][585] of the Companies Act 1993 to be substituted by [section 40][772], and set out in [Schedule 1][774], of the Companies Amendment Act 2006, is amended by omitting from clause 5 ""landlord or other"" in each place where it appears.
+    *   (b) the [Schedule 7][585] of the Companies Act 1993 to be substituted by [section 40][773], and set out in [Schedule 1][775], of the Companies Amendment Act 2006, is amended by omitting from clause 5 ""landlord or other"" in each place where it appears.
     
     
 
 ##### 371 Transitional provision relating to Insolvency (Cross-border) Act 2006
     
-*   Until the commencement of [section 13][775] of the Insolvency (Cross-border) Act 2006, references in this Act to an overseas company being liquidated under [section 342][584] of the Companies Act 1993 must be read as references to an overseas company whose assets in New Zealand are being liquidated under that section.
+*   Until the commencement of [section 13][776] of the Insolvency (Cross-border) Act 2006, references in this Act to an overseas company being liquidated under [section 342][584] of the Companies Act 1993 must be read as references to an overseas company whose assets in New Zealand are being liquidated under that section.
 
 ---
 
@@ -8095,9 +8101,9 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (b) perform all duties and obligations imposed on the owner or occupier of the mortgaged land concerning the land, including (without limitation) all obligations binding on the owner or occupier of the land under---
             
-        *   (i) the [Resource Management Act 1991][711] or any consent given, or any notice, order, or requirement made, under that Act or under the rules of any regional or district plan; and
+        *   (i) the [Resource Management Act 1991][712] or any consent given, or any notice, order, or requirement made, under that Act or under the rules of any regional or district plan; and
         
-        *   (ii) the [Building Act 2004][776] or any building consent given under that Act; and
+        *   (ii) the [Building Act 2004][777] or any building consent given under that Act; and
         
         
     
@@ -8201,7 +8207,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (2) If, under subclause (1), the mortgagee calls up as payable amounts secured by the mortgage, the mortgagee may require the mortgagor to pay 1 month's premium interest calculated at the agreed rate (if any) payable on the principal amount secured by the mortgage (in addition to all other interest payable under the mortgage to the date of payment of all amounts secured by the mortgage).
     
-    (3) Subclause (2) does not apply in relation to a consumer credit contract (as defined in the [Credit Contracts and Consumer Finance Act 2003][777]).
+    (3) Subclause (2) does not apply in relation to a consumer credit contract (as defined in the [Credit Contracts and Consumer Finance Act 2003][778]).
     
     (4) No acquiescence, delay, or failure to act by the mortgagee after acquiring knowledge of any failure of the mortgagor or other event referred to in subclause (1) prejudices, or operates as a waiver of, the rights of the mortgagee under this clause.
     
@@ -8253,11 +8259,11 @@ Covenants, conditions, and powers implied in mortgages over land
 
 ##### 14 Power to subdivide
     
-*   (1) For the purpose of exercising the power conferred by [clause 13][778] to sell the whole or any part of the mortgaged land, the mortgagee (without the need to enter into possession of the land as mortgagee) or any receiver appointed by the mortgagee under the mortgage may subdivide the land.
+*   (1) For the purpose of exercising the power conferred by [clause 13][779] to sell the whole or any part of the mortgaged land, the mortgagee (without the need to enter into possession of the land as mortgagee) or any receiver appointed by the mortgagee under the mortgage may subdivide the land.
     
     (2) The power to subdivide conferred by subclause (1) includes the following powers:
         
-    *   (a) to apply for and obtain all necessary consents under the [Resource Management Act 1991][711]:
+    *   (a) to apply for and obtain all necessary consents under the [Resource Management Act 1991][712]:
     
     *   (b) to comply with all reasonable and proper conditions of consent, including (without limitation)---
             
@@ -8285,25 +8291,25 @@ Covenants, conditions, and powers implied in mortgages over land
 
 ##### 15 Unit titles
     
-*   (1) If the mortgage is of, or includes, any stratum estate under the [Unit Titles Act 2010][779], the mortgagor will---
+*   (1) If the mortgage is of, or includes, any stratum estate under the [Unit Titles Act 2010][780], the mortgagor will---
         
-    *   (a) comply with all obligations of the mortgagor under the [Unit Titles Act 2010][779] and the rules of the body corporate; and
+    *   (a) comply with all obligations of the mortgagor under the [Unit Titles Act 2010][780] and the rules of the body corporate; and
     
-    *   (b) duly and punctually pay to the body corporate all amounts payable by the mortgagor under the [Unit Titles Act 2010][779] and the rules of the body corporate; and
+    *   (b) duly and punctually pay to the body corporate all amounts payable by the mortgagor under the [Unit Titles Act 2010][780] and the rules of the body corporate; and
     
-    *   (c) arrange and maintain a mortgage redemption policy under [section 137(1)(b)][780] of the Unit Titles Act 2010 for an amount not less than all of the amounts from time to time secured by the mortgage; and
+    *   (c) arrange and maintain a mortgage redemption policy under [section 137(1)(b)][781] of the Unit Titles Act 2010 for an amount not less than all of the amounts from time to time secured by the mortgage; and
     
-    *   (d) do all things reasonably necessary to enforce the obligations of the body corporate under the [Unit Titles Act 2010][779] and the rules of the body corporate; and
+    *   (d) do all things reasonably necessary to enforce the obligations of the body corporate under the [Unit Titles Act 2010][780] and the rules of the body corporate; and
     
     *   (e) give the mortgagee any information relating to the affairs of the body corporate that the mortgagee reasonably requires.
     
-    (2) The mortgagee may call up as payable all of the principal amount, interest, and other amounts for the time being secured by the mortgage (even if the time or times appointed for payment may not have arrived), in the same manner and subject to the same conditions as if the power to do so were conferred by [clause 11][781], if either---
+    (2) The mortgagee may call up as payable all of the principal amount, interest, and other amounts for the time being secured by the mortgage (even if the time or times appointed for payment may not have arrived), in the same manner and subject to the same conditions as if the power to do so were conferred by [clause 11][782], if either---
         
     *   (a) the principal unit is damaged or destroyed so that it is no longer habitable or usable; or
     
-    *   (b) an administrator is appointed by the High Court under [section 141][782] of the Unit Titles Act 2010\.
+    *   (b) an administrator is appointed by the High Court under [section 141][783] of the Unit Titles Act 2010\.
     
-    (3) The mortgagor's voting rights under the [Unit Titles Act 2010][779] and the rules of the body corporate (whether at a meeting or by entry in the minute book) may be exercised by the mortgagee, at the expense of the mortgagor.
+    (3) The mortgagor's voting rights under the [Unit Titles Act 2010][780] and the rules of the body corporate (whether at a meeting or by entry in the minute book) may be exercised by the mortgagee, at the expense of the mortgagor.
     
     (4) For the purposes of subclause (3), the mortgagor irrevocably appoints the mortgagee as the attorney of the mortgagor.
     
@@ -8317,21 +8323,21 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (7) The mortgagor agrees to ratify and confirm anything that the mortgagee or a substitute attorney lawfully does or causes to be done under this clause.
     
-    Schedule 2 Part 1 clause 15(1): amended, on 20 June 2011, by [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(1): amended, on 20 June 2011, by [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
     
-    Schedule 2 Part 1 clause 15(1)(a): amended, on 20 June 2011, by [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(1)(a): amended, on 20 June 2011, by [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
     
-    Schedule 2 Part 1 clause 15(1)(b): amended, on 20 June 2011, by [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(1)(b): amended, on 20 June 2011, by [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
     
-    Schedule 2 Part 1 clause 15(1)(c): amended, on 20 June 2011, by [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(1)(c): amended, on 20 June 2011, by [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
     
-    Schedule 2 Part 1 clause 15(1)(d): amended, on 20 June 2011, by [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(1)(d): amended, on 20 June 2011, by [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
     
-    Schedule 2 Part 1 clause 15(2)(b): amended, on 20 June 2011, by [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(2)(b): amended, on 20 June 2011, by [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
     
-    Schedule 2 Part 1 clause 15(3): amended, on 20 June 2011, by [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(3): amended, on 20 June 2011, by [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
     
-    Schedule 2 Part 1 clause 15(5): amended, on 20 June 2011, pursuant to [section 233(1)][783] of the Unit Titles Act 2010 (2010 No 22).
+    Schedule 2 Part 1 clause 15(5): amended, on 20 June 2011, pursuant to [section 233(1)][784] of the Unit Titles Act 2010 (2010 No 22).
 
 ##### 16 Farming provisions
     
@@ -8385,7 +8391,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (e) receive the compensation, damages, or other amounts referred to in paragraph (d) on behalf of the mortgagor:
     
-    *   (f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of a request to the Registrar-General under [section 117][630] or [118A][784] of the Land Transfer Act 1952).
+    *   (f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of a request to the Registrar-General under [section 117][630] or [118A][785] of the Land Transfer Act 1952).
     
     (6) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys.
     
@@ -8415,11 +8421,11 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (b) while the mortgagor is failing to perform or observe any covenant expressed or implied in the mortgage; or
     
-    *   (c) for the purpose of any dealing concerning the land referred to in [clause 11(1)(c) or (i)][781] of these covenants to which the mortgagee has not consented; or
+    *   (c) for the purpose of any dealing concerning the land referred to in [clause 11(1)(c) or (i)][782] of these covenants to which the mortgagee has not consented; or
     
     *   (d) until the proper and reasonable costs of their production have first been paid to the mortgagee.
     
-    (2) Subclause (1) does not apply if the mortgagee is required to produce the certificate of title or other instruments of title to the mortgaged land or the mortgage by a notice issued by the Registrar-General under [section 211][785] of the Land Transfer Act 1952\.
+    (2) Subclause (1) does not apply if the mortgagee is required to produce the certificate of title or other instruments of title to the mortgaged land or the mortgage by a notice issued by the Registrar-General under [section 211][786] of the Land Transfer Act 1952\.
 
 ##### 20 Mortgagor's liability for costs
     
@@ -8427,7 +8433,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee's rights, remedies, and powers under the mortgage.
     
-    (3) The costs of the mortgagee under subclause (2) include the costs of giving or attempted giving of any notice required by the [Property Law Act 2007][786] and the costs of inspection and valuation of the mortgaged land.
+    (3) The costs of the mortgagee under subclause (2) include the costs of giving or attempted giving of any notice required by the [Property Law Act 2007][787] and the costs of inspection and valuation of the mortgaged land.
 
 ## Part 2  
 Covenants, conditions, and powers implied in mortgages over goods
@@ -8540,7 +8546,7 @@ Covenants, conditions, and powers implied in mortgages over goods
     
     *   (c) the goods are at risk; or
     
-    *   (d) the mortgagee, under [clause 9][787], calls up as payable amounts secured by the mortgage.
+    *   (d) the mortgagee, under [clause 9][788], calls up as payable amounts secured by the mortgage.
     
     
 
@@ -8574,7 +8580,7 @@ Covenants, conditions, and powers implied in mortgages over goods
     
     (2) If, under subclause (1), the mortgagee calls up as payable amounts secured by the mortgage, the mortgagee may require the mortgagor to pay 1 month's premium interest calculated at the agreed rate (if any) payable on the principal amount secured by the mortgage (in addition to all other interest payable under the mortgage to the date of payment of all amounts secured by the mortgage).
     
-    (3) Subclause (2) does not apply in relation to a consumer credit contract (as defined in the [Credit Contracts and Consumer Finance Act 2003][777]).
+    (3) Subclause (2) does not apply in relation to a consumer credit contract (as defined in the [Credit Contracts and Consumer Finance Act 2003][778]).
     
     (4) No acquiescence, delay, or failure to act by the mortgagee after acquiring knowledge of any failure of the mortgagor or other event referred to in subclause (1) prejudices, or operates as a waiver of, the rights of the mortgagee under this clause.
     
@@ -8636,7 +8642,7 @@ Covenants, conditions, and powers implied in mortgages over goods
     
     (2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee's rights, remedies, and powers under the mortgage.
     
-    (3) The costs of the mortgagee under subclause (2) include the costs of giving or attempted giving of any notice required by the [Property Law Act 2007 ][786]and the costs of inspection and valuation of the mortgaged goods.
+    (3) The costs of the mortgagee under subclause (2) include the costs of giving or attempted giving of any notice required by the [Property Law Act 2007 ][787]and the costs of inspection and valuation of the mortgaged goods.
 
 ---
 
@@ -8693,9 +8699,9 @@ Covenants, conditions, and powers implied in all leases of land
     
     *   (c) any other person under the lessee's direction or control.
     
-    (5) Any dispute arising under this clause will be referred to arbitration under the [Arbitration Act 1996][788].
+    (5) Any dispute arising under this clause will be referred to arbitration under the [Arbitration Act 1996][789].
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 5 Alteration of buildings
     
@@ -8703,7 +8709,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     (2) The lessor will not unreasonably withhold consent under subclause (1).
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 6 Noxious or offensive acts or things
     
@@ -8721,25 +8727,25 @@ Covenants, conditions, and powers implied in all leases of land
     
     *   (b) any act or thing that is, or is likely to be, a nuisance or that causes, or is likely to cause, any nuisance, damage, or disturbance.
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 7 Commission of waste
     
 *   The lessee will not commit, or permit any of the lessee's agents, contractors, or invitees to commit, the tort of voluntary waste in relation to the leased premises.
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 8 Lessor not to depart from grant
     
 *   The lessor will not derogate from the lease.
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 9 Lessee entitled to quiet enjoyment
     
 *   The lessee and all persons claiming under the lessee will be able quietly to enjoy the leased premises without disturbance by any person specified in [section 218(2)][253].
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 10 Premises unable to be used for particular purpose
     
@@ -8757,7 +8763,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     *   (c) any other person under the lessee's direction or control.
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 11 Power to inspect premises
     
@@ -8777,7 +8783,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     (2) The lessor will not unreasonably interfere with the lessee's occupation and use of the leased premises in the exercise of the power conferred by subclause (1).
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ##### 12 Power to cancel lease for non-payment of rent or other breach
     
@@ -8793,7 +8799,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     *   (b) the court makes an order for possession of the land in favour of the lessor.
     
-    Compare: 1952 No 51 [ss 106][632], [107][789]
+    Compare: 1952 No 51 [ss 106][632], [107][790]
 
 ## Part 3  
 Covenant implied in all leases of land (except short-term leases)
@@ -8944,7 +8950,7 @@ The grantor and the grantee of a vehicular right of way covenant with one anothe
     
     (3) In this clause, the _grantee_ and the _grantor_ include agents, contractors, employees, invitees, licensees, and tenants of the grantee or the grantor.
     
-    Compare: 1952 No 51 [s 126B][712], Schedule 9 [cl 1][790]
+    Compare: 1952 No 51 [s 126B][713], Schedule 9 [cl 1][791]
 
 ##### 2 Right to establish and maintain driveway
     
@@ -8960,7 +8966,7 @@ The grantor and the grantee of a vehicular right of way covenant with one anothe
     
     *   (e) the right to recover the cost of repairing any damage to the driveway made necessary by any deliberate or negligent act of a person bound by these covenants or that person's agents, contractors, employees, invitees, licensees, or tenants.
     
-    Compare: 1952 No 51 [s 126B][685], Schedule 9 [cl 2(a)--(d)][791]
+    Compare: 1952 No 51 [s 126B][685], Schedule 9 [cl 2(a)--(d)][792]
 
 ##### 3 Right to have land restored after completion of work
     
@@ -8970,7 +8976,7 @@ The grantor and the grantee of a vehicular right of way covenant with one anothe
     
     (3) That right of person A is subject to person B's right, in accordance with [clause 2(d)][689], to receive a reasonable contribution towards the cost of the work.
     
-    Compare: 1952 No 51 [s 126B][685], Schedule 9 [cl 2(e)][791]
+    Compare: 1952 No 51 [s 126B][685], Schedule 9 [cl 2(e)][792]
 
 ---
 
@@ -8989,13 +8995,13 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     *   (b) assignments or surrenders by operation of law.
     
-    Compare: 1952 No 51 [s 10][792]
+    Compare: 1952 No 51 [s 10][793]
 
 ##### 2 Fee to pass without words of limitation
     
 *   A conveyance of land without words of limitation passes the fee simple or other whole estate that the party conveying has power to dispose of.
     
-    Compare: 1952 No 51 [s 43][793]
+    Compare: 1952 No 51 [s 43][794]
 
 ##### 3 Form of conveyance in fee simple
     
@@ -9031,7 +9037,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     *   (c) specify any variation in any of those particulars.
     
-    Compare: 1952 No 51 [s 47][794]
+    Compare: 1952 No 51 [s 47][795]
 
 ##### 4 What conveyance of land includes
     
@@ -9045,7 +9051,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     *   (b) pass a better title to any property, right, or thing than the title expressed to be passed by the conveyance.
     
-    Compare: 1952 No 51 [s 47][794]
+    Compare: 1952 No 51 [s 47][795]
 
 ##### 5 Application of stated conditions of sale
     
@@ -9079,7 +9085,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     *   (b) to inquire whether the sale was irregular or improper.
     
-    Compare: 1952 No 51 [s 57][795]
+    Compare: 1952 No 51 [s 57][796]
 
 ##### 7 Covenants for the production of title deeds
     
@@ -9147,7 +9153,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     *   (b) may be registered accordingly.
     
-    Compare: 1952 No 51 [s 76][796]
+    Compare: 1952 No 51 [s 76][797]
 
 ##### 9 Recovery of annual sums charged on land
     
@@ -9193,7 +9199,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     *   (b) any equivalent powers or remedies conferred by any instrument for recovering the payment of any annual sum within the meaning of this clause.
     
-    Compare: 1952 No 51 [s 150][797]
+    Compare: 1952 No 51 [s 150][798]
 
 ---
 
@@ -9204,21 +9210,21 @@ Consequential amendments
 
 ##### Administration Act 1969 (1969 No 52)
 
-[Section 36(3)][798]: repeal and substitute:
+[Section 36(3)][799]: repeal and substitute:
 
 > *   "(3) Section 149 of the Property Law Act 1952 continues to apply to a will made before 1 January 1971 as if that section had not been repealed by the Property Law Act 2007\."
 > 
 > 
 
-[Section 43][799]: repeal.
+[Section 43][800]: repeal.
 
 ##### Agricultural and Pastoral Societies Act 1908 (1908 No 4)
 
-[Section 8(3)][800]: omit ""and distrain"".
+[Section 8(3)][801]: omit ""and distrain"".
 
 ##### Building Societies Act 1965 (1965 No 22)
 
-Definition of land in [section 2(1)][801]: repeal and substitute:
+Definition of land in [section 2(1)][802]: repeal and substitute:
 
 > "_land_ includes---
 >     
@@ -9234,17 +9240,17 @@ Definition of land in [section 2(1)][801]: repeal and substitute:
 > 
 > 
 
-[Section 56G][802]: omit ""section 79 of the Property Law Act 1952"" and substitute ""section 83 of the Property Law Act 2007, and without affecting section 9 of that Act"".
+[Section 56G][803]: omit ""section 79 of the Property Law Act 1952"" and substitute ""section 83 of the Property Law Act 2007, and without affecting section 9 of that Act"".
 
 ##### Climate Change Response Act 2002 (2002 No 40)
 
-[Section 30C(4)][803]: omit ""Section 152 of the Property Law Act 1952 applies"" and substitute ""Sections 354 to 361 of the Property Law Act 2007 apply"".
+[Section 30C(4)][804]: omit ""Section 152 of the Property Law Act 1952 applies"" and substitute ""Sections 354 to 361 of the Property Law Act 2007 apply"".
 
 ##### Companies Act 1993 (1993 No 105)
 
-Heading to [Part 6][804]: add ""**and debentures**"".
+Heading to [Part 6][805]: add ""**and debentures**"".
 
-Insert after [section 95][805]:
+Insert after [section 95][806]:
 
 > #### "Debentures
 > 
@@ -9304,13 +9310,13 @@ Insert after [section 95][805]:
 > 
 > 
 
-[Section 181(3)][806]: repeal and substitute:
+[Section 181(3)][807]: repeal and substitute:
 
 > *   "(3) Sections 19 to 21 of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by a company, to the same extent as if the company was a natural person and as if the commencement of the liquidation or, if there is no liquidation, the removal from the register kept for the purposes of this Act of the company was an event revoking the power of attorney within the meaning of those sections."
 > 
 > 
 
-[Section 343(1)][807]: repeal and substitute:
+[Section 343(1)][808]: repeal and substitute:
 
 > *   "(1) Sections 19 to 21 of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by an overseas company registered under this Part of this Act, to the same extent as if the company was a natural person and as if the commencement of the liquidation of the company was an event revoking the power of attorney within the meaning of those sections."
 > 
@@ -9318,9 +9324,9 @@ Insert after [section 95][805]:
 
 ##### Contracts (Privity) Act 1982 (1982 No 132)
 
-[Section 13][808]: repeal.
+[Section 13][809]: repeal.
 
-[Sections 14][809] and [15][810]: repeal and substitute:
+[Sections 14][810] and [15][811]: repeal and substitute:
 
 > ##### "14 Savings
 >     
@@ -9348,13 +9354,13 @@ Insert after [section 95][805]:
 
 ##### Contractual Mistakes Act 1977 (1977 No 54)
 
-[Section 8(2)][811]: omit ""section 130 of the Property Law Act 1952"" and substitute ""subpart 5 of Part 2 of the Property Law Act 2007"".
+[Section 8(2)][812]: omit ""section 130 of the Property Law Act 1952"" and substitute ""subpart 5 of Part 2 of the Property Law Act 2007"".
 
 ##### Contractual Remedies Act 1979 (1979 No 11)
 
-[Section 11(4)(a)][812]: omit ""section 104 of the Property Law Act 1952"" and substitute ""subpart 8 of Part 3 of the Property Law Act 2007"".
+[Section 11(4)(a)][813]: omit ""section 104 of the Property Law Act 1952"" and substitute ""subpart 8 of Part 3 of the Property Law Act 2007"".
 
-[Section 15(g)][813]: repeal and substitute:
+[Section 15(g)][814]: repeal and substitute:
 
 > *   "(g) sections 253 to 260 of the Property Law Act 2007 (which relate to relief against cancellation of leases for breach of covenant or condition):".
 > 
@@ -9362,29 +9368,29 @@ Insert after [section 95][805]:
 
 ##### Corporations (Investigation and Management) Act 1989 (1989 No 11)
 
-[Section 42(1)(d)][814]: omit ""foreclose,"".
+[Section 42(1)(d)][815]: omit ""foreclose,"".
 
-[Section 42(1)(g)][814]: omit ""distrain for rent,"".
+[Section 42(1)(g)][815]: omit ""distrain for rent,"".
 
 ##### Credit Contracts and Consumer Finance Act 2003 (2003 No 52)
 
-[Section 50(4)][815]: omit ""section 81 of the Property Law Act 1952"" and substitute ""sections 97 to 99 of the Property Law Act 2007"".
+[Section 50(4)][816]: omit ""section 81 of the Property Law Act 1952"" and substitute ""sections 97 to 99 of the Property Law Act 2007"".
 
 ##### Crown Pastoral Land Act 1998 (1998 No 65)
 
-[Section 19(4)][816]: omit ""Section 118 of the Property Law Act 1952"" and substitute ""Sections 244 to 257 of the Property Law Act 2007"".
+[Section 19(4)][817]: omit ""Section 118 of the Property Law Act 1952"" and substitute ""Sections 244 to 257 of the Property Law Act 2007"".
 
 ##### Defence Act 1990 (1990 No 28)
 
-[Section 92(3)][817]: omit ""from distress and"".
+[Section 92(3)][818]: omit ""from distress and"".
 
 ##### District Courts Act 1947 (1947 No 16)
 
-[Sections 32][818] and [95][819]: repeal.
+[Sections 32][819] and [95][820]: repeal.
 
 ##### Family Benefits (Home Ownership) Act 1964 (1964 No 32)
 
-[Section 13(7)][820]: repeal and substitute:
+[Section 13(7)][821]: repeal and substitute:
 
 > *   "(7) The Property Law Act 2007 applies to every such charge---
 >         
@@ -9406,7 +9412,7 @@ Insert after [section 95][805]:
 
 ##### Forestry Encouragement Act 1962 (1962 No 20)
 
-[Section 5(10A)][821]: repeal and substitute:
+[Section 5(10A)][822]: repeal and substitute:
 
 > *   "(10A) Forestry encouragement agreements, whether entered into before or after the close of 31 December 2007, must be treated as mortgages for the purposes of sections 90 to 92 of the Property Law Act 2007; and the Minister must be treated as a mortgagee of the leasehold estate or interest for the purposes of section 249(1)(a) of that Act."
 > 
@@ -9414,21 +9420,21 @@ Insert after [section 95][805]:
 
 ##### Forests Act 1949 (1949 No 19)
 
-Heading to [section 67ZC][822]: omit ""**Section 126G of Property Law Act 1952 does**"" and substitute ""**Sections 316 to 318 of Property Law Act 2007 do**"".
+Heading to [section 67ZC][823]: omit ""**Section 126G of Property Law Act 1952 does**"" and substitute ""**Sections 316 to 318 of Property Law Act 2007 do**"".
 
-[Section 67ZC][822]: omit ""section 126G of the Property Law Act 1952"" and substitute ""sections 316 to 318 of the Property Law Act 2007"".
+[Section 67ZC][823]: omit ""section 126G of the Property Law Act 1952"" and substitute ""sections 316 to 318 of the Property Law Act 2007"".
 
 ##### Historic Places Act 1993 (1993 No 38)
 
-[Section 6(9)][823]: omit ""section 126G of the Property Law Act 1952"" and substitute ""sections 316 to 318 of the Property Law Act 2007"".
+[Section 6(9)][824]: omit ""section 126G of the Property Law Act 1952"" and substitute ""sections 316 to 318 of the Property Law Act 2007"".
 
 ##### Housing Corporation Act 1974 (1974 No 19)
 
-[Section 19(4)(c)(i) and (ii)][824]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"" in each case.
+[Section 19(4)(c)(i) and (ii)][825]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"" in each case.
 
 ##### Innkeepers Act 1962 (1962 No 140)
 
-[Section 10(1)][825]: omit ""for the rent of the inn or any other claim"".
+[Section 10(1)][826]: omit ""for the rent of the inn or any other claim"".
 
 ##### Insolvency Act 1967 (1967 No 54)
 
@@ -9436,27 +9442,27 @@ _Items repealed._
 
 ##### Insolvency Act 2006 (2006 No 55)
 
-[Section 192(1)(d)][826]: repeal and substitute:
+[Section 192(1)(d)][827]: repeal and substitute:
 
 > *   "(d) a disposition of property to which subpart 6 of Part 6 (setting aside of dispositions that prejudice creditors) of the Property Law Act 2007 applies:".
 > 
 > 
 
-[Section 206(1)(d)][827]: repeal and substitute:
+[Section 206(1)(d)][828]: repeal and substitute:
 
 > *   "(d) a disposition of property to which subpart 6 of Part 6 (setting aside of dispositions that prejudice creditors) of the Property Law Act 2007 applies."
 > 
 > 
 
-Item relating to the Property Law Act 1952 in Part 1 of [Schedule 2][828]: repeal.
+Item relating to the Property Law Act 1952 in Part 1 of [Schedule 2][829]: repeal.
 
 ##### Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39)
 
-[Clause 11(1)][829] of Schedule 1: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
+[Clause 11(1)][830] of Schedule 1: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
 
 ##### Insurance Law Reform Act 1985 (1985 No 117)
 
-[Section 13(1)][830]: repeal and substitute:
+[Section 13(1)][831]: repeal and substitute:
 
 > *   "(1) Subsection (1A) applies during the period beginning with the making of a contract for the sale of land and all or any fixtures on that land, and ending on the purchaser taking possession of the land and fixtures, or final settlement (whichever occurs first).
 > 
@@ -9468,7 +9474,7 @@ Item relating to the Property Law Act 1952 in Part 1 of [Schedule 2][828]: repea
 > 
 > 
 
-[Section 13(2)(a)][830]: repeal and substitute:
+[Section 13(2)(a)][831]: repeal and substitute:
 
 > *   "(a) a claim by a purchaser against an insurer under this section, that the vendor otherwise would not be entitled to be indemnified by the insurer or to require reinstatement because the vendor has suffered no loss or has suffered diminished loss because the vendor is or was entitled to be paid all, or the balance of, the purchase price, by the purchaser; or".
 > 
@@ -9476,21 +9482,21 @@ Item relating to the Property Law Act 1952 in Part 1 of [Schedule 2][828]: repea
 
 ##### Land Act 1948 (1948 No 64)
 
-[Section 24(1)(e)][831]: omit ""distrain, sue for,"" and substitute ""sue for"".
+[Section 24(1)(e)][832]: omit ""distrain, sue for,"" and substitute ""sue for"".
 
-[Section 84(4)][832]: omit "", and, in case the same is levied by distress, an order by the Commissioner shall be a sufficient warrant and authority to distrain, any law or enactment to the contrary notwithstanding"".
+[Section 84(4)][833]: omit "", and, in case the same is levied by distress, an order by the Commissioner shall be a sufficient warrant and authority to distrain, any law or enactment to the contrary notwithstanding"".
 
 ##### Land Transfer Act 1952 (1952 No 52)
 
-[Section 90F(1)][833]: omit ""section 126A of the Property Law Act 1952"" and substitute ""section 307 of the Property Law Act 2007"".
+[Section 90F(1)][834]: omit ""section 126A of the Property Law Act 1952"" and substitute ""section 307 of the Property Law Act 2007"".
 
-[Section 90F(3)][833]: omit ""Sections 63 to 71, 126, 126A, and 126G of the Property Law Act 1952"" and substitute ""Sections 4, 8(1) and (2)(c), 23(2), 275 to 279, 301 to 307, and 316 to 318 of the Property Law Act 2007"".
+[Section 90F(3)][834]: omit ""Sections 63 to 71, 126, 126A, and 126G of the Property Law Act 1952"" and substitute ""Sections 4, 8(1) and (2)(c), 23(2), 275 to 279, 301 to 307, and 316 to 318 of the Property Law Act 2007"".
 
-[Section 90F(4)][833]: omit ""section 126A of the Property Law Act 1952"" and substitute ""section 307 of the Property Law Act 2007"".
+[Section 90F(4)][834]: omit ""section 126A of the Property Law Act 1952"" and substitute ""section 307 of the Property Law Act 2007"".
 
-[Sections 96][677] and [98][768]: repeal.
+[Sections 96][677] and [98][769]: repeal.
 
-[Section 101(2)(e)][834]: repeal and substitute:
+[Section 101(2)(e)][835]: repeal and substitute:
 
 > *   "(e) the stated priority limit under section 92 of the Property Law Act 2007 (if any)."
 > 
@@ -9502,103 +9508,103 @@ Item relating to the Property Law Act 1952 in Part 1 of [Schedule 2][828]: repea
 
 [Sections 106 to 108][547] and [110][573]: repeal.
 
-[Section 115(1)][835]: omit ""for a life or lives, or for a term of not less than 3 years"".
+[Section 115(1)][836]: omit ""for a life or lives, or for a term of not less than 3 years"".
 
-[Section 115(5)][835]: repeal.
+[Section 115(5)][836]: repeal.
 
-[Section 121L(2)(b)][836]: omit ""Section 104 of the Property Law Act 1952"" and substitute ""subpart 8 of Part 3 of the Property Law Act 2007"".
+[Section 121L(2)(b)][837]: omit ""Section 104 of the Property Law Act 1952"" and substitute ""subpart 8 of Part 3 of the Property Law Act 2007"".
 
-[Section 141(3)(a)(ii)][837]: omit ""section 101 of the Property Law Act 1952"" and substitute ""section 196 of the Property Law Act 2007"".
+[Section 141(3)(a)(ii)][838]: omit ""section 101 of the Property Law Act 1952"" and substitute ""section 196 of the Property Law Act 2007"".
 
-[Section 164E(4)][838]: omit ""section 49A of the Property Law Act 1952"" and substitute ""section 25 of the Property Law Act 2007"".
+[Section 164E(4)][839]: omit ""section 49A of the Property Law Act 1952"" and substitute ""section 25 of the Property Law Act 2007"".
 
 Section 244: repeal.
 
-Paragraph (2) of [Schedule 3][839]: omit ""and the provisions of paragraph (7) of Schedule 4 of the Property Law Act 1952 shall, with the necessary modifications, apply with respect to"" and substitute ""and clause 10 of Part 1 of Schedule 2 of the Property Law Act 2007 applies (with all necessary modifications) to"".
+Paragraph (2) of [Schedule 3][840]: omit ""and the provisions of paragraph (7) of Schedule 4 of the Property Law Act 1952 shall, with the necessary modifications, apply with respect to"" and substitute ""and clause 10 of Part 1 of Schedule 2 of the Property Law Act 2007 applies (with all necessary modifications) to"".
 
-[Schedule 4][840]: omit ""Part 8 of the Property Law Act 1952"" and substitute ""Part 4 of the Property Law Act 2007"".
+[Schedule 4][841]: omit ""Part 8 of the Property Law Act 1952"" and substitute ""Part 4 of the Property Law Act 2007"".
 
 ##### Land Transfer Amendment Act 1963 (1963 No 61)
 
-[Section 11(2)][841]: omit ""section 92 of the Property Law Act 1952"" and substitute ""subpart 5 of Part 3 of the Property Law Act 2007"".
+[Section 11(2)][842]: omit ""section 92 of the Property Law Act 1952"" and substitute ""subpart 5 of Part 3 of the Property Law Act 2007"".
 
-[Section 11(3)][841]: omit ""section 104 of the Property Law Act 1952"" and substitute ""subpart 8 of Part 3 of the Property Law Act 2007"".
+[Section 11(3)][842]: omit ""section 104 of the Property Law Act 1952"" and substitute ""subpart 8 of Part 3 of the Property Law Act 2007"".
 
 ##### Law Reform (Testamentary Promises) Act 1949 (1949 No 33)
 
-[Section 3(2)(b)][842]: omit ""section 4 of the Statute of Frauds 1677, or section 2 of the Contracts Enforcement Act 1956"" and substitute ""subpart 2 of Part 2 of the Property Law Act 2007"".
+[Section 3(2)(b)][843]: omit ""section 4 of the Statute of Frauds 1677, or section 2 of the Contracts Enforcement Act 1956"" and substitute ""subpart 2 of Part 2 of the Property Law Act 2007"".
 
 ##### Lawyers and Conveyancers Act 2006 (2006 No 1)
 
-Heading to [clause 18][843] of Schedule 1: omit ""**Property Law Act 1952**"" and substitute ""**Property Law Act 2007**"".
+Heading to [clause 18][844] of Schedule 1: omit ""**Property Law Act 1952**"" and substitute ""**Property Law Act 2007**"".
 
-[Clause 18][843] of Schedule 1: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
+[Clause 18][844] of Schedule 1: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
 
 ##### Life Insurance Act 1908 (1908 No 105)
 
-[Section 40B(2)(d)][844]: omit ""Foreclose,"".
+[Section 40B(2)(d)][845]: omit ""Foreclose,"".
 
-[Section 40B(2)(e)][844]: omit ""distrain for rent,"".
+[Section 40B(2)(e)][845]: omit ""distrain for rent,"".
 
 ##### Maori Affairs Restructuring Act 1989 (1989 No 68)
 
-[Section 43(5)][845]: omit ""expressed by the Land Transfer Act 1952 or the Property Law Act 1952, as the case may be, in respect of mortgages"" and substitute ""implied by the Property Law Act 2007 in mortgages over land"".
+[Section 43(5)][846]: omit ""expressed by the Land Transfer Act 1952 or the Property Law Act 1952, as the case may be, in respect of mortgages"" and substitute ""implied by the Property Law Act 2007 in mortgages over land"".
 
 ##### Maori Housing Act 1935 (1935 No 34)
 
-[Section 14A][846]: omit ""section 152 of the Property Law Act 1952"" and substitute ""sections 353 to 360 of the Property Law Act 2007"".
+[Section 14A][847]: omit ""section 152 of the Property Law Act 1952"" and substitute ""sections 353 to 360 of the Property Law Act 2007"".
 
 ##### Maori Housing Amendment Act 1938 (1938 No 17)
 
-[Section 21(8)][847]: omit ""conferred by the Land Transfer Act 1952 and the Property Law Act 1952 in respect of mortgages"" and substitute ""implied in mortgages over land by the Property Law Act 2007"".
+[Section 21(8)][848]: omit ""conferred by the Land Transfer Act 1952 and the Property Law Act 1952 in respect of mortgages"" and substitute ""implied in mortgages over land by the Property Law Act 2007"".
 
 ##### Maori Reserved Land Act 1955 (1955 No 38)
 
-Clause 11 in [form A][848] of Schedule 2: omit ""Property Law Act 1952 relating to forfeiture and relief against forfeiture (notwithstanding that, and whatever the means by which, such forfeiture may be avoided)"" and substitute ""Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided)"".
+Clause 11 in [form A][849] of Schedule 2: omit ""Property Law Act 1952 relating to forfeiture and relief against forfeiture (notwithstanding that, and whatever the means by which, such forfeiture may be avoided)"" and substitute ""Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided)"".
 
-Clause 16 in [form A][848] of Schedule 2: omit ""by distress under the Distress and Replevin Act 1908 or otherwise"".
+Clause 16 in [form A][849] of Schedule 2: omit ""by distress under the Distress and Replevin Act 1908 or otherwise"".
 
-Clause 18 in [form A][848] of Schedule 2: omit ""implied in leases by the Property Law Act 1952"" and substitute ""implied in leases (other than registered or unregistered short-term leases) by the Property Law Act 2007"".
+Clause 18 in [form A][849] of Schedule 2: omit ""implied in leases by the Property Law Act 1952"" and substitute ""implied in leases (other than registered or unregistered short-term leases) by the Property Law Act 2007"".
 
-Clause 16 in [form B][849] of Schedule 2: omit ""Property Law Act 1952 relating to forfeiture and relief against forfeiture (notwithstanding that, and whatever the means by which, such forfeiture may be avoided)"" and substitute ""Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided)"".
+Clause 16 in [form B][850] of Schedule 2: omit ""Property Law Act 1952 relating to forfeiture and relief against forfeiture (notwithstanding that, and whatever the means by which, such forfeiture may be avoided)"" and substitute ""Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided)"".
 
-Clause 25 in [form B][849] of Schedule 2: omit ""by distress under the Distress and Replevin Act 1908 or otherwise"".
+Clause 25 in [form B][850] of Schedule 2: omit ""by distress under the Distress and Replevin Act 1908 or otherwise"".
 
-Clause 27 in [form B][849] of Schedule 2: omit ""implied in leases by the Property Law Act 1952"" and substitute ""implied in leases (other than registered or unregistered short-term leases) by the Property Law Act 2007"".
+Clause 27 in [form B][850] of Schedule 2: omit ""implied in leases by the Property Law Act 1952"" and substitute ""implied in leases (other than registered or unregistered short-term leases) by the Property Law Act 2007"".
 
 ##### Maori Reserved Land Amendment Act 1997 (1997 No 101)
 
-[Clause 2(1)(i)(ii)][850] of Schedule 1: omit ""section 99 of the Property Law Act 1952 by a Registrar of the High Court, of the redemption price stated"" and substitute ""sections 187 to 198 of the Property Law Act 2007 by a Registrar of the High Court, of the discharge sum nominated"".
+[Clause 2(1)(i)(ii)][851] of Schedule 1: omit ""section 99 of the Property Law Act 1952 by a Registrar of the High Court, of the redemption price stated"" and substitute ""sections 187 to 198 of the Property Law Act 2007 by a Registrar of the High Court, of the discharge sum nominated"".
 
 ##### Maori Trustee Act 1953 (1953 No 95)
 
-[Section 49(2)][851]: omit ""expressed by the Land Transfer Act 1952 or the Property Law Act 1952, as the case may be, in respect of mortgages,"" and substitute ""implied in mortgages over land by the Property Law Act 2007"".
+[Section 49(2)][852]: omit ""expressed by the Land Transfer Act 1952 or the Property Law Act 1952, as the case may be, in respect of mortgages,"" and substitute ""implied in mortgages over land by the Property Law Act 2007"".
 
 ##### Maori Vested Lands Administration Act 1954 (1954 No 60)
 
-[Clause 18][852] of Schedule 1: omit ""Property Law Act 1952 relating to forfeiture and relief against forfeiture (notwithstanding that, and whatever the means by which, such forfeiture may be avoided)"" and substitute ""Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided)"".
+[Clause 18][853] of Schedule 1: omit ""Property Law Act 1952 relating to forfeiture and relief against forfeiture (notwithstanding that, and whatever the means by which, such forfeiture may be avoided)"" and substitute ""Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided)"".
 
-[Clause 31][853] of Schedule 1: omit ""and shall be recoverable by distress under the Distress and Replevin Act 1908 or otherwise as if the same were rent in arrear hereby reserved"".
+[Clause 31][854] of Schedule 1: omit ""and shall be recoverable by distress under the Distress and Replevin Act 1908 or otherwise as if the same were rent in arrear hereby reserved"".
 
-[Clause 33][854] of Schedule 1: omit ""the Property Law Act 1952"" and substitute ""sections 218 and 219 of the Property Law Act 2007"".
+[Clause 33][855] of Schedule 1: omit ""the Property Law Act 1952"" and substitute ""sections 218 and 219 of the Property Law Act 2007"".
 
 ##### Medicines Act 1981 (1981 No 118)
 
-[Section 55G(2)][855]: omit ""section 2 of the Property Law Act 1952"" and substitute ""section 4 of the Property Law Act 2007"".
+[Section 55G(2)][856]: omit ""section 2 of the Property Law Act 1952"" and substitute ""section 4 of the Property Law Act 2007"".
 
 ##### Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)
 
-Heading to [section 411][856]: omit ""**Property Law Act 1952**"" and substitute ""**Property Law Act 2007**"".
+Heading to [section 411][857]: omit ""**Property Law Act 1952**"" and substitute ""**Property Law Act 2007**"".
 
-[Section 411][856]: omit ""Section 129B of the Property Law Act 1952"" and substitute ""Subpart 3 of Part 6 of the Property Law Act 2007"".
+[Section 411][857]: omit ""Section 129B of the Property Law Act 1952"" and substitute ""Subpart 3 of Part 6 of the Property Law Act 2007"".
 
 ##### Official Appointments and Documents Act 1919 (1919 No 18)
 
-[Section 3(4)][857]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
+[Section 3(4)][858]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
 
 ##### Personal Property Securities Act 1999 (1999 No 126)
 
-[Section 104(1)(b)][858]: repeal and substitute:
+[Section 104(1)(b)][859]: repeal and substitute:
 
 > *   "(b) a secured party has sold the collateral under section 109, and the net proceeds of the sale exceed the sum of the amounts required to be paid under section 116A (if any) and---
 >         
@@ -9610,11 +9616,11 @@ Heading to [section 411][856]: omit ""**Property Law Act 1952**"" and substitute
 > 
 > 
 
-[Section 107(1)][859]: omit ""117(1)(c),"".
+[Section 107(1)][860]: omit ""117(1)(c),"".
 
-[Section 107(2)(b) and (j)][859]: repeal.
+[Section 107(2)(b) and (j)][860]: repeal.
 
-[Section 107][859]: add:
+[Section 107][860]: add:
 
 > *   "(4) The provisions of this section, as in force immediately before the commencement of the Property Law Act 2007, continue to apply to a security agreement that was entered into before that commencement."
 > 
@@ -9622,7 +9628,7 @@ Heading to [section 411][856]: omit ""**Property Law Act 1952**"" and substitute
 
 [Section 109(1)][447]: omit ""with priority over all other secured parties"".
 
-New section 110A: insert after [section 110][860]:
+New section 110A: insert after [section 110][861]:
 
 > ##### "110A No defence or indemnity
 >     
@@ -9636,9 +9642,9 @@ New section 110A: insert after [section 110][860]:
 > 
 > 
 
-[Section 114(2)(b)][861]: omit ""after default"".
+[Section 114(2)(b)][862]: omit ""after default"".
 
-[Section 114(2)(e)][861]: repeal and substitute:
+[Section 114(2)(e)][862]: repeal and substitute:
 
 > *   "(e) the collateral consists of inventory; or
 > 
@@ -9650,7 +9656,7 @@ New section 110A: insert after [section 110][860]:
 > 
 > 
 
-[Section 114][861]: add:
+[Section 114][862]: add:
 
 > *   "(3) If a security interest is over collateral and some, but not all, of the collateral is described in subsection (2), the secured party may sell the collateral described in subsection (2) under section 109 without complying with subsection (1).
 > 
@@ -9672,7 +9678,7 @@ New section 110A: insert after [section 110][860]:
 > 
 > 
 
-Insert after [section 116][862]:
+Insert after [section 116][863]:
 
 > ##### "116A Secured party selling collateral must pay prior ranking secured parties
 >     
@@ -9692,7 +9698,7 @@ Insert after [section 116][862]:
 > 
 > 
 
-[Section 117][863]: add:
+[Section 117][864]: add:
 
 > *   "(4) This section is subject to sections 153 and 154 of the Property Law Act 2007\."
 > 
@@ -9700,15 +9706,15 @@ Insert after [section 116][862]:
 
 ##### Protection of Personal and Property Rights Act 1988 (1988 No 4)
 
-[Section 57(1)(c)][864]: omit ""foreclose,"".
+[Section 57(1)(c)][865]: omit ""foreclose,"".
 
-[Section 57(1)(d)][864]: omit ""distrain for rent,"".
+[Section 57(1)(d)][865]: omit ""distrain for rent,"".
 
 ##### Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90)
 
-[Section 18][865]: new section 103C(1): omit ""section 135(1) to (5) of the Property Law Act 1952"" and substitute ""section 20(1) to (4) of the Property Law Act 2007"".
+[Section 18][866]: new section 103C(1): omit ""section 135(1) to (5) of the Property Law Act 1952"" and substitute ""section 20(1) to (4) of the Property Law Act 2007"".
 
-[Section 18][865]: new section 103C(1): omit ""section 135(6)(b) of the Property Law Act 1952"" and substitute ""section 20(5)(b) of the Property Law Act 2007"".
+[Section 18][866]: new section 103C(1): omit ""section 135(6)(b) of the Property Law Act 1952"" and substitute ""section 20(5)(b) of the Property Law Act 2007"".
 
 Heading to [section 26][490]: omit ""**section 135 of Property Law Act 1952**"" and substitute ""**section 20 of Property Law Act 2007**"".
 
@@ -9720,21 +9726,21 @@ Heading to [section 26][490]: omit ""**section 135 of Property Law Act 1952**"" 
 
 ##### Public Service Investment Society Management Act (No 2) 1979 (1979 No 9)
 
-[Section 6(1)(d)][866]: omit ""Foreclose,"".
+[Section 6(1)(d)][867]: omit ""Foreclose,"".
 
-[Section 6(1)(e)][866]: omit ""distrain for rent,"".
+[Section 6(1)(e)][867]: omit ""distrain for rent,"".
 
 ##### Public Trust Act 2001 (2001 No 100)
 
-[Section 12(5)][867]: repeal.
+[Section 12(5)][868]: repeal.
 
 ##### Public Works Act 1981 (1981 No 35)
 
-[Section 221(3)][868]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
+[Section 221(3)][869]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
 
 ##### Receiverships Act 1993 (1993 No 122)
 
-Paragraph (c) of the definition of **receiver** in [section 2(1)][869]: repeal and substitute:
+Paragraph (c) of the definition of **receiver** in [section 2(1)][870]: repeal and substitute:
 
 > *   "(c) a mortgagee who, whether personally or through an agent, exercises a power to---
 >         
@@ -9746,9 +9752,9 @@ Paragraph (c) of the definition of **receiver** in [section 2(1)][869]: repeal a
 > 
 > 
 
-[Section 9][870]: repeal.
+[Section 9][871]: repeal.
 
-[Section 30][871]: insert before subsection (3):
+[Section 30][872]: insert before subsection (3):
 
 > *   "(2B) For the purposes of subsection (2)(a), if an amount of an expense or of remuneration---
 >         
@@ -9770,21 +9776,21 @@ Paragraph (c) of the definition of **receiver** in [section 2(1)][869]: repeal a
 > 
 > 
 
-[Section 30B(3)][872]: omit ""section 102A(2) to (5) of the Property Law Act 1952"" and substitute ""section 186(2) to (5) of the Property Law Act 2007"".
+[Section 30B(3)][873]: omit ""section 102A(2) to (5) of the Property Law Act 1952"" and substitute ""section 186(2) to (5) of the Property Law Act 2007"".
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-[Section 122(1)(d)][873]: omit ""Foreclose,"".
+[Section 122(1)(d)][874]: omit ""Foreclose,"".
 
-[Section 122(1)(g)][873]: omit ""distrain for rent,"".
+[Section 122(1)(g)][874]: omit ""distrain for rent,"".
 
 ##### Reserves and Other Lands Disposal Act 1958 (1958 No 108)
 
-Heading to [section 13][874]: omit ""**Public Trustee**"" and substitute ""**Public Trust**"".
+Heading to [section 13][875]: omit ""**Public Trustee**"" and substitute ""**Public Trust**"".
 
-[Section 13(1) to (4)][874]: omit ""The Public Trustee"" and ""the Public Trustee"" and substitute in each case ""Public Trust"".
+[Section 13(1) to (4)][875]: omit ""The Public Trustee"" and ""the Public Trustee"" and substitute in each case ""Public Trust"".
 
-[Section 13(5)][874]: repeal and substitute:
+[Section 13(5)][875]: repeal and substitute:
 
 > *   "(5) For the purpose of securing payment of any sum so raised, whether under subsection (3)(a) or (b), the lender has the power of sale in clause 13 of Part 1 of Schedule 2 of the Property Law Act 2007\.
 > 
@@ -9800,11 +9806,11 @@ Heading to [section 13][874]: omit ""**Public Trustee**"" and substitute ""**Pub
 
 ##### Residential Tenancies Act 1986 (1986 No 120)
 
-[Section 5(ba)][875]: insert "", the tenancy was granted before the commencement, on 1 January 2008, of the Property Law Act 2007,"" after ""a fixed-term tenancy of at least 5 years"".
+[Section 5(ba)][876]: insert "", the tenancy was granted before the commencement, on 1 January 2008, of the Property Law Act 2007,"" after ""a fixed-term tenancy of at least 5 years"".
 
-[Section 5(t)][875]: omit ""shelter"" and substitute ""shelter:"".
+[Section 5(t)][876]: omit ""shelter"" and substitute ""shelter:"".
 
-[Section 5][875]: add:
+[Section 5][876]: add:
 
 > *   "(u) if the tenancy has been entered into by a leasing authority under section 7(1)(e), (f), (g), or (h) of the Public Bodies Leases Act 1969:
 > 
@@ -9816,7 +9822,7 @@ Heading to [section 13][874]: omit ""**Public Trustee**"" and substitute ""**Pub
 > 
 > 
 
-Insert after [section 5][875]:
+Insert after [section 5][876]:
 
 > ##### "5A Certain excluded long fixed-term tenancies remain subject to repealed sections of Property Law Act 1952
 >     
@@ -9848,15 +9854,15 @@ Insert after [section 5][875]:
 > 
 > 
 
-[Section 58(2)][876]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
+[Section 58(2)][877]: omit ""Property Law Act 1952"" and substitute ""Property Law Act 2007"".
 
-[Section 77(4)][877]: repeal and substitute:
+[Section 77(4)][878]: repeal and substitute:
 
 > *   "(4) In respect of tenancy agreements, the Tribunal has jurisdiction to exercise, and may exercise, all the powers conferred on a court by section 264 of the Property Law Act 2007 (which relates to the granting of relief to the tenant against the landlord's refusal to enter into a renewal of a tenancy agreement or to sell the landlord's interest in the premises to the tenant)."
 > 
 > 
 
-[Section 142][878]: repeal and substitute:
+[Section 142][879]: repeal and substitute:
 
 > ##### "142 Effect of Property Law Act 2007
 >     
@@ -9868,17 +9874,17 @@ Insert after [section 5][875]:
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-[Section 11(1)(d)][721]: omit ""section 129B of the Property Law Act 1952 (which relates to the granting of access to land-locked land)"" and substitute ""subpart 3 of Part 6 of the Property Law Act 2007 (which relates to the granting of access to landlocked land)"".
+[Section 11(1)(d)][722]: omit ""section 129B of the Property Law Act 1952 (which relates to the granting of access to land-locked land)"" and substitute ""subpart 3 of Part 6 of the Property Law Act 2007 (which relates to the granting of access to landlocked land)"".
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-[Section 21][879]: omit ""sections 118 and 119 of the Property Law Act 1952"" and substitute ""sections 253 to 260 of the Property Law Act 2007"".
+[Section 21][880]: omit ""sections 118 and 119 of the Property Law Act 1952"" and substitute ""sections 253 to 260 of the Property Law Act 2007"".
 
-[Section 22][880]: omit ""section 120 of the Property Law Act 1952"" and substitute ""section 264 of the Property Law Act 2007"".
+[Section 22][881]: omit ""section 120 of the Property Law Act 1952"" and substitute ""section 264 of the Property Law Act 2007"".
 
-[Section 23][881]: omit ""conferred on the District Court by subsections (1), (2), and (4) of section 128 of the Property Law Act 1952"" and substitute ""conferred on a court by subpart 1 of Part 6 of the Property Law Act 2007"".
+[Section 23][882]: omit ""conferred on the District Court by subsections (1), (2), and (4) of section 128 of the Property Law Act 1952"" and substitute ""conferred on a court by subpart 1 of Part 6 of the Property Law Act 2007"".
 
-[Section 24][882]: repeal and substitute:
+[Section 24][883]: repeal and substitute:
 
 > ##### "24 Power of court to grant relief if building is on wrong land or encroachment exists
 >     
@@ -9886,15 +9892,15 @@ Insert after [section 5][875]:
 > 
 > 
 
-[Section 107(3)][883]: omit ""Sections 37 and 38 of the Property Law Act 1952"" and substitute ""Section 65 of the Property Law Act 2007"".
+[Section 107(3)][884]: omit ""Sections 37 and 38 of the Property Law Act 1952"" and substitute ""Section 65 of the Property Law Act 2007"".
 
 ##### Trustee Act 1956 (1956 No 61)
 
-[Section 14(6A)][884]: insert ""or civil union partner,"" after ""wife,"".
+[Section 14(6A)][885]: insert ""or civil union partner,"" after ""wife,"".
 
-[Section 14(6A)][884]: omit ""or partner"" and substitute "", civil union partner, or surviving de facto partner"".
+[Section 14(6A)][885]: omit ""or partner"" and substitute "", civil union partner, or surviving de facto partner"".
 
-Insert after [section 14(6AA)][884]:
+Insert after [section 14(6AA)][885]:
 
 > *   "(6AB) If, under a marriage settlement of land, there is a tenant for life in possession, a trustee may exercise a power conferred by subsection (1)(a) or (b) only at the request in writing of the tenant for life."
 > 
@@ -9902,13 +9908,13 @@ Insert after [section 14(6AA)][884]:
 
 ##### Trustee Companies Act 1967 (1967 No 35)
 
-[Section 13(1)][885]: omit ""section 134 and subsections (1), (2), and (5) of section 135 of the Property Law Act 1952, and of section 399 of the Companies Act 1955,"" and substitute ""sections 19 and 20 of the Property Law Act 2007 and section 343 of the Companies Act 1993"".
+[Section 13(1)][886]: omit ""section 134 and subsections (1), (2), and (5) of section 135 of the Property Law Act 1952, and of section 399 of the Companies Act 1955,"" and substitute ""sections 19 and 20 of the Property Law Act 2007 and section 343 of the Companies Act 1993"".
 
-[Section 24(1)][886]: omit ""or the Property Law Act 1952"".
+[Section 24(1)][887]: omit ""or the Property Law Act 1952"".
 
 ##### Trustee Companies Management Act 1975 (1975 No 25)
 
-[Section 4(2)(d)][887]: omit ""Foreclose,"" and ""distrain for rent,"".
+[Section 4(2)(d)][888]: omit ""Foreclose,"" and ""distrain for rent,"".
 
 ##### Trustee Companies Management Amendment Act 1978 (1978 No 39)
 
@@ -9916,13 +9922,13 @@ Section 7(d): omit ""Foreclose,"" and ""distrain for rent,"".
 
 ##### Unit Titles Act 1972 (1972 No 15)
 
-[Section 27(1)(b)][888]: repeal.
+[Section 27(1)(b)][889]: repeal.
 
-[Section 29(4)][889]: omit ""section 120 of the Property Law Act 1952"" and substitute ""section 264 of the Property Law Act 2007"".
+[Section 29(4)][890]: omit ""section 120 of the Property Law Act 1952"" and substitute ""section 264 of the Property Law Act 2007"".
 
 Schedule 7: amended, on 1 January 2011, by [section 58][517] of the Limitation Act 2010 (2010 No 110).
 
-Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [section 364(2)][890].
+Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [section 364(2)][891].
 
 ---
 
@@ -9940,23 +9946,23 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 
 ###### 1 General
     
-*   This is a reprint of the Property Law Act 2007\. The reprint incorporates all the amendments to the Act as at 20 June 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Property Law Act 2007\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][891] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][892] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][892] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][893] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][893] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][894] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][894] and [17E][895] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][895] and [17E][896] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -9987,15 +9993,17 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Limitation Act 2010 (2010 No 110): [section 58][517]
+*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][711]
+    
+    Limitation Act 2010 (2010 No 110): [section 58][517]
     
     Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 8][663]
     
-    [Property Law Amendment Act 2010][896] (2010 No 76)
+    [Property Law Amendment Act 2010][897] (2010 No 76)
     
     Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][476]
     
-    Unit Titles Act 2010 (2010 No 22): [section 233(1)][783]
+    Unit Titles Act 2010 (2010 No 22): [section 233(1)][784]
     
     Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90): [section 26][490]
 
@@ -10711,190 +10719,191 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 [707]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM21877
 [708]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM236786
 [709]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM420676
-[710]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM242541
-[711]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM230264
-[712]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268477
-[713]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM36962
-[714]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM444304
-[715]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM57005
-[716]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268495
-[717]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM236204
-[718]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10947
-[719]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10956
-[720]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268929
-[721]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM231942
-[722]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267630
-[723]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267330
-[724]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268967
-[725]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323270
-[726]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323273
-[727]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323274
-[728]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323275
-[729]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM423257
-[730]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM108024
-[731]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM243618
-[732]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM242775
-[733]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267849
-[734]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM387849
-[735]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM382333
-[736]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM135091
-[737]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10900
-[738]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10911
-[739]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11145
-[740]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11146
-[741]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11152
-[742]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11153
-[743]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11154
-[744]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11155
-[745]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11169
-[746]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11183
-[747]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11184
-[748]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11185
-[749]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11186
-[750]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11187
-[751]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11188
-[752]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11189
-[753]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11190
-[754]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11842
-[755]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11513
-[756]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11514
-[757]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11876
-[758]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11520
-[759]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM345327
-[760]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM443515
-[761]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31486
-[762]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31490
-[763]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268977
-[764]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM27331
-[765]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM92209
-[766]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM294261
-[767]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM142146
-[768]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM270683
-[769]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31462
-[770]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM383779
-[771]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM387205
-[772]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM389296
-[773]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323556
-[774]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM389299
-[775]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM389647
-[776]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM306035
-[777]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM211511
-[778]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM969670
-[779]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160400
-[780]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160730
-[781]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM969668
-[782]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160739
-[783]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160866
-[784]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271038
-[785]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271952
-[786]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM968964
-[787]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM969688
-[788]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM403276
-[789]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268237
-[790]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM269029
-[791]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM269030
-[792]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267345
-[793]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267603
-[794]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267607
-[795]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267625
-[796]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267663
-[797]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268951
-[798]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM392852
-[799]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM392865
-[800]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM137382
-[801]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM367774
-[802]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM371776
-[803]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM159568
-[804]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM320141
-[805]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM320457
-[806]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM320848
-[807]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322880
-[808]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM64710
-[809]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM64713
-[810]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM64714
-[811]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM443654
-[812]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31591
-[813]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM32009
-[814]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM144948
-[815]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM213102
-[816]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM427008
-[817]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM206914
-[818]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM243630
-[819]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM244363
-[820]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM351977
-[821]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM339636
-[822]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM257124
-[823]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM300599
-[824]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM412068
-[825]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM345336
-[826]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM386947
-[827]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM386967
-[828]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM387877
-[829]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM391455
-[830]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM76609
-[831]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM251185
-[832]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM252116
-[833]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM270670
-[834]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM270693
-[835]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271028
-[836]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271088
-[837]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271238
-[838]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271625
-[839]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM272836
-[840]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM272837
-[841]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM349486
-[842]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM258715
-[843]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM368133
-[844]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170042
-[845]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170618
-[846]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM219501
-[847]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM224949
-[848]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290476
-[849]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290480
-[850]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM419040
-[851]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM282955
-[852]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM288344
-[853]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM288357
-[854]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM288359
-[855]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM56030
-[856]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM430553
-[857]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM190789
-[858]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46791
-[859]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46798
-[860]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47105
-[861]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47109
-[862]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47111
-[863]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47112
-[864]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM127065
-[865]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM968941
-[866]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31520
-[867]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM123476
-[868]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM48319
-[869]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327646
-[870]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327715
-[871]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327741
-[872]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327750
-[873]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM201245
-[874]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM321093
-[875]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95000
-[876]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95526
-[877]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95578
-[878]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM96424
-[879]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290552
-[880]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290553
-[881]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290556
-[882]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290557
-[883]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM291233
-[884]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM305099
-[885]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM381464
-[886]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM381483
-[887]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM431777
-[888]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM406099
-[889]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM406201
-[890]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM969644
-[891]: http://www.pco.parliament.govt.nz/reprints/
-[892]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM195439
-[893]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[894]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM195468
-[895]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM195470
-[896]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM3043300
+[710]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM242535
+[711]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM5081570
+[712]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM230264
+[713]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268477
+[714]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM36962
+[715]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM444304
+[716]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM57005
+[717]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268495
+[718]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM236204
+[719]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10947
+[720]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10956
+[721]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268929
+[722]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM231942
+[723]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267630
+[724]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267330
+[725]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268967
+[726]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323270
+[727]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323273
+[728]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323274
+[729]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323275
+[730]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM423257
+[731]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM108024
+[732]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM243618
+[733]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM242775
+[734]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267849
+[735]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM387849
+[736]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM382333
+[737]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM135091
+[738]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10900
+[739]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10911
+[740]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11145
+[741]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11146
+[742]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11152
+[743]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11153
+[744]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11154
+[745]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11155
+[746]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11169
+[747]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11183
+[748]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11184
+[749]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11185
+[750]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11186
+[751]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11187
+[752]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11188
+[753]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11189
+[754]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11190
+[755]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11842
+[756]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11513
+[757]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11514
+[758]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11876
+[759]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11520
+[760]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM345327
+[761]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM443515
+[762]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31486
+[763]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31490
+[764]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268977
+[765]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM27331
+[766]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM92209
+[767]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM294261
+[768]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM142146
+[769]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM270683
+[770]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31462
+[771]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM383779
+[772]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM387205
+[773]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM389296
+[774]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323556
+[775]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM389299
+[776]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM389647
+[777]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM306035
+[778]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM211511
+[779]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM969670
+[780]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160400
+[781]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160730
+[782]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM969668
+[783]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160739
+[784]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM1160866
+[785]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271038
+[786]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271952
+[787]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM968964
+[788]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM969688
+[789]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM403276
+[790]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268237
+[791]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM269029
+[792]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM269030
+[793]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267345
+[794]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267603
+[795]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267607
+[796]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267625
+[797]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267663
+[798]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268951
+[799]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM392852
+[800]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM392865
+[801]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM137382
+[802]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM367774
+[803]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM371776
+[804]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM159568
+[805]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM320141
+[806]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM320457
+[807]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM320848
+[808]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322880
+[809]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM64710
+[810]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM64713
+[811]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM64714
+[812]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM443654
+[813]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31591
+[814]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM32009
+[815]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM144948
+[816]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM213102
+[817]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM427008
+[818]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM206914
+[819]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM243630
+[820]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM244363
+[821]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM351977
+[822]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM339636
+[823]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM257124
+[824]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM300599
+[825]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM412068
+[826]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM345336
+[827]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM386947
+[828]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM386967
+[829]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM387877
+[830]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM391455
+[831]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM76609
+[832]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM251185
+[833]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM252116
+[834]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM270670
+[835]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM270693
+[836]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271028
+[837]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271088
+[838]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271238
+[839]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271625
+[840]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM272836
+[841]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM272837
+[842]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM349486
+[843]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM258715
+[844]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM368133
+[845]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170042
+[846]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170618
+[847]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM219501
+[848]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM224949
+[849]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290476
+[850]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290480
+[851]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM419040
+[852]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM282955
+[853]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM288344
+[854]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM288357
+[855]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM288359
+[856]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM56030
+[857]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM430553
+[858]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM190789
+[859]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46791
+[860]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46798
+[861]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47105
+[862]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47109
+[863]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47111
+[864]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47112
+[865]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM127065
+[866]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM968941
+[867]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31520
+[868]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM123476
+[869]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM48319
+[870]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327646
+[871]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327715
+[872]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327741
+[873]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327750
+[874]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM201245
+[875]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM321093
+[876]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95000
+[877]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95526
+[878]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95578
+[879]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM96424
+[880]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290552
+[881]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290553
+[882]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290556
+[883]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM290557
+[884]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM291233
+[885]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM305099
+[886]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM381464
+[887]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM381483
+[888]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM431777
+[889]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM406099
+[890]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM406201
+[891]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM969644
+[892]: http://www.pco.parliament.govt.nz/reprints/
+[893]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM195439
+[894]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[895]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM195468
+[896]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM195470
+[897]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM3043300
