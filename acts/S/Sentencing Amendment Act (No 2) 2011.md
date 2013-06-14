@@ -8,23 +8,23 @@ Commencementsee section 2
 
 ## Contents
 
-[1 ][0] [Title][0]
+[1 ][0][][0][Title][0]
 
-[2 ][1] [Commencement][1]
+[2 ][1][][1][Commencement][1]
 
-[3 ][2] [Principal Act amended][2]
+[3 ][2][][2][Principal Act amended][2]
 
-[4 ][3] [Aggravating and mitigating factors][3]
+[4 ][3][][3][Aggravating and mitigating factors][3]
 
-[5 ][4] [New section 81B inserted][4]
+[5 ][4][][4][New section 81B inserted][4]
 
-[81B][5] [Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment][5]
+[81B][5][][5][Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment][5]
 
-[6 ][6] [New section 143A inserted][6]
+[6 ][6][][6][New section 143A inserted][6]
 
-[143A][7] [Sentencing following finding or verdict of guilt on more than 1 charge][7]
+[143A][7][][7][Sentencing following finding or verdict of guilt on more than 1 charge][7]
 
-[7 ][8] [Other amendments to principal Act][8]
+[7 ][8][][8][Other amendments to principal Act][8]
 
 [Schedule][9]  
 [Amendments to principal Act][9]
@@ -152,49 +152,49 @@ Omit ""hearing or"".
 
 Omit ""hearing or"".
 
-##### Section 38A(4)(b)(ii)
+##### [Section 38A(4)(b)(ii)][19]
 
 Omit ""or section 28I of the District Courts Act 1947"".
 
-##### [Section 39(4)][19]
+##### [Section 39(4)][20]
 
 Repeal.
 
-##### [Section 43][20]
+##### [Section 43][21]
 
 Omit ""summary"".
 
-##### [Section 69G][21]
+##### [Section 69G][22]
 
 Omit ""summary"".
 
-##### [Section 69H(1) and (2)][22]
+##### [Section 69H(1) and (2)][23]
 
 Omit ""summary"".
 
-##### [Section 70][23]
+##### [Section 70][24]
 
 Omit ""summary"".
 
-##### [Section 70A][24]
+##### [Section 70A][25]
 
 Omit ""summary"".
 
-##### [Section 71(1) and (2)][25]
+##### [Section 71(1) and (2)][26]
 
 Omit ""summary"".
 
-##### [Section 72(1)(b)(ii)][26]
+##### [Section 72(1)(b)(ii)][27]
 
 Omit ""on indictment"" and substitute ""following a jury trial"".
 
-##### [Section 72(5)][26]
+##### [Section 72(5)][27]
 
 Omit ""sections 45 to 47 of the Summary Proceedings Act 1957"" and substitute ""sections 167 to 170, 206, and 385 of the Criminal Procedure Act 2011"".
 
 Omit ""an information"" and substitute ""a charging document"".
 
-##### [Section 73][27]
+##### [Section 73][28]
 
 Repeal and substitute:
 
@@ -204,15 +204,15 @@ Repeal and substitute:
 > 
 > 
 
-##### [Section 75(2)][28]
+##### [Section 75(2)][29]
 
 Omit ""section 137 of the Summary Proceedings Act 1957"" and substitute ""sections 345 and 346 of the Criminal Procedure Act 2011"".
 
-##### [Section 80J(2)][29]
+##### [Section 80J(2)][30]
 
 Omit ""Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Section 80M(2)][30]
+##### [Section 80M(2)][31]
 
 Repeal and substitute:
 
@@ -220,23 +220,23 @@ Repeal and substitute:
 > 
 > 
 
-##### [Section 80S][31]
+##### [Section 80S][32]
 
 Omit ""summary"".
 
-##### [Section 80T(1) and (2)][32]
+##### [Section 80T(1) and (2)][33]
 
 Omit ""summary"".
 
-##### [Section 80U(1)][33]
+##### [Section 80U(1)][34]
 
 Omit ""summary"".
 
-##### [Section 86(5)][34]
+##### [Section 86(5)][35]
 
 Omit ""Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Section 86D(1)(a)][35]
+##### [Section 86D(1)(a)][36]
 
 Repeal and substitute:
 
@@ -244,29 +244,29 @@ Repeal and substitute:
 > 
 > 
 
-##### [Section 86H][36]
+##### [Section 86H][37]
 
 Omit ""Part 13 of the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Section 89(3)][37]
+##### [Section 89(3)][38]
 
 Omit ""Part 13 of the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Section 90(2)][38]
+##### [Section 90(2)][39]
 
 Omit ""Section 44 of the Summary Proceedings Act 1957 or (as the case may require) section 28G of the District Courts Act 1947 applies, and the Court must"" and substitute ""The court must transfer the offender to the High Court for sentence and"".
 
 Omit ""information"" and substitute ""charging document"".
 
-##### [Section 96(1)][39]
+##### [Section 96(1)][40]
 
 Omit ""summary"".
 
-##### [Section 105][40]
+##### [Section 105][41]
 
 Omit ""Part 13 of the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Section 111(4)][41]
+##### [Section 111(4)][42]
 
 Repeal and substitute:
 
@@ -274,31 +274,31 @@ Repeal and substitute:
 > 
 > 
 
-##### [Section 116][42]
+##### [Section 116][43]
 
 Omit ""Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Section 118(2)][43]
+##### [Section 118(2)][44]
 
 Omit ""summary"".
 
-##### [Section 132A(2)][44]
+##### [Section 132A(2)][45]
 
 Omit ""summary"".
 
-##### [Section 133(2)][45]
+##### [Section 133(2)][46]
 
 Omit ""summary"".
 
-##### [Section 136(3)][46]
+##### [Section 136(3)][47]
 
 Omit ""summary"".
 
-##### [Section 138A(4)][47]
+##### [Section 138A(4)][48]
 
 Omit ""or section 28I of the District Courts Act 1947"".
 
-##### [Section 142O][48]
+##### [Section 142O][49]
 
 Omit ""summary"".
 
@@ -306,15 +306,15 @@ Omit ""summary"".
 
 Omit ""on indictment"" and substitute ""following a jury trial"".
 
-##### [Section 146A(2)][49]
+##### [Section 146A(2)][50]
 
 Omit ""informant"" and substitute ""prosecutor"".
 
-##### [Section 150][50]
+##### [Section 150][51]
 
 Repeal.
 
-##### [Section 151][51]
+##### [Section 151][52]
 
 Repeal.
 
@@ -351,36 +351,37 @@ This Act is administered by the Ministry of Justice and the Department of Correc
 [16]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM135561
 [17]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM135573
 [18]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM135591
-[19]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136008
-[20]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136013
-[21]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136074
-[22]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136075
-[23]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136082
-[24]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136083
-[25]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136084
-[26]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136086
-[27]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136088
-[28]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136091
-[29]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136410
-[30]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136413
-[31]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136419
-[32]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136420
-[33]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136421
-[34]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136450
-[35]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM3023017
-[36]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM3023022
-[37]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136461
-[38]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136462
-[39]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136481
-[40]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136804
-[41]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136816
-[42]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136822
-[43]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136824
-[44]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM2602735
-[45]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136862
-[46]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136865
-[47]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM2602799
-[48]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM2601263
-[49]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM1101200
-[50]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136899
-[51]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM137200
+[19]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM4639405
+[20]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136008
+[21]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136013
+[22]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136074
+[23]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136075
+[24]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136082
+[25]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136083
+[26]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136084
+[27]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136086
+[28]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136088
+[29]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136091
+[30]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136410
+[31]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136413
+[32]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136419
+[33]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136420
+[34]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136421
+[35]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136450
+[36]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM3023017
+[37]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM3023022
+[38]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136461
+[39]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136462
+[40]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136481
+[41]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136804
+[42]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136816
+[43]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136822
+[44]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136824
+[45]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM2602735
+[46]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136862
+[47]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136865
+[48]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM2602799
+[49]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM2601263
+[50]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM1101200
+[51]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM136899
+[52]: http://www.legislation.govt.nz/act/public/2011/0093/latest/link.aspx?id=DLM137200
