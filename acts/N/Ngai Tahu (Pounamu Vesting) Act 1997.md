@@ -1,7 +1,7 @@
 Reprint  
-as at 2 October 1997
+as at 24 May 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Ngai Tahu (Pounamu Vesting) Act 1997Public Act1997 No 81
 
@@ -27,15 +27,15 @@ This Act is administered by the Ministry of Economic Development.
     
 *   [Preamble][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Ownership by Ngai Tahu of certain minerals][5]
+[3][5][][5][Ownership by Ngai Tahu of certain minerals][5]
 
-[4][6] [Existing privileges for pounamu][6]
+[4][6][][6][Existing privileges for pounamu][6]
 
-[5][7] [Applications for mining privileges and permits for pounamu][7]
+[5][7][][7][Applications for mining privileges and permits for pounamu][7] \[Repealed\]
 
 [Schedule][8]  
 [Description of land in which serpentine included][8]
@@ -82,7 +82,7 @@ An Act to give effect to certain provisions of the Deed of ""On Account"" Settle
     
 *   In this Act, unless the context otherwise requires,---
     
-    _existing privilege_ has the meaning given to that term by [section 106][12] of the Crown Minerals Act 1991
+    _existing privilege_ has the meaning given to that term by [section 2(1)][12] of the Crown Minerals Act 1991
     
     _Minister_ means the Minister of Energy
     
@@ -97,6 +97,8 @@ An Act to give effect to certain provisions of the Deed of ""On Account"" Settle
     _Takiwa of Ngai Tahu Whanui_ has the meaning given to that term by [section 5][13] of Te Runanga o Ngai Tahu Act 1996
     
     _Te Runanga o Ngai Tahu_ means the body corporate known as Te Runanga o Ngai Tahu established by [section 6][14] of Te Runanga o Ngai Tahu Act 1996\.
+    
+    Section 2 **existing privilege**: amended, on 24 May 2013, by [section 65][15] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 3 Ownership by Ngai Tahu of certain minerals
     
@@ -104,25 +106,23 @@ An Act to give effect to certain provisions of the Deed of ""On Account"" Settle
         
     *   (a) the Takiwa of Ngai Tahu Whanui; and
     
-    *   (b) those parts of the territorial sea of New Zealand (as defined by [section 3][15] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) that are adjacent to the Takiwa of Ngai Tahu Whanui and the seabed and subsoil beneath those parts of the territorial sea---
+    *   (b) those parts of the territorial sea of New Zealand (as defined by [section 3][16] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) that are adjacent to the Takiwa of Ngai Tahu Whanui and the seabed and subsoil beneath those parts of the territorial sea---
     
     that, immediately before the commencement of this Act, is the property of the Crown, ceases, on the commencement of this Act, to be the property of the Crown and vests in and becomes the property of Te Runanga o Ngai Tahu.
 
 ##### 4 Existing privileges for pounamu
     
-*   (1) Nothing in [section 3][5] affects an existing privilege or the rights or obligations of any holder of an existing privilege and [Part 2][16] of the Crown Minerals Act 1991 continues to apply in relation to that privilege as if this Act had not been passed.
+*   (1) Nothing in [section 3][5] affects an existing privilege or the rights or obligations of any holder of an existing privilege and the [Crown Minerals Act 1991][11] continues to apply in relation to that privilege as if this Act had not been passed.
     
     (2) Notwithstanding anything in the [Crown Minerals Act 1991][11], all royalties paid to the Crown after the commencement of this Act by the holder of any existing privilege in respect of pounamu must be paid by the Crown to Te Runanga o Ngai Tahu.
+    
+    Section 4(1): amended, on 24 May 2013, by [section 65][15] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 5 Applications for mining privileges and permits for pounamu
     
-*   Notwithstanding anything in the [Crown Minerals Act 1991][11], the Minister of Energy must not grant any---
-        
-    *   (a) permit pursuant to an application made under [section 23][17] of that Act before the commencement of this Act; or
+*   \[Repealed\]
     
-    *   (b) mining privilege pursuant to an application to which [section 112][18] of that Act applies---
-    
-    in respect of any pounamu to which [section 3][5] applies.
+    Section 5: repealed, on 24 May 2013, by [section 65][15] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ---
 
@@ -151,23 +151,23 @@ The area marked ""C"" on Survey Office Plan 12457 lodged in the office of the Ch
 
 ###### 1 General
     
-*   This is a reprint of the Ngai Tahu (Pounamu Vesting) Act 1997\. The reprint incorporates all the amendments to the Act as at 2 October 1997, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Ngai Tahu (Pounamu Vesting) Act 1997\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][19] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][17] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][20] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][18] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][21] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][19] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][22] and [17E][23] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][20] and [17E][21] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -198,7 +198,7 @@ The area marked ""C"" on Survey Office Plan 12457 lodged in the office of the Ch
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   
+*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][15]
 
 
 
@@ -214,15 +214,13 @@ The area marked ""C"" on Survey Office Plan 12457 lodged in the office of the Ch
 [9]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM435367
 [10]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM435834
 [11]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM242535
-[12]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM247306
+[12]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM242543
 [13]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM117230
 [14]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM117232
-[15]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM442665
-[16]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM247305
-[17]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM246326
-[18]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM247349
-[19]: http://www.pco.parliament.govt.nz/reprints/
-[20]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM195439
-[21]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[22]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM195468
-[23]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM195470
+[15]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM5081570
+[16]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM442665
+[17]: http://www.pco.parliament.govt.nz/reprints/
+[18]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM195439
+[19]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[20]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM195468
+[21]: http://www.legislation.govt.nz/act/public/1997/0081/latest/link.aspx?id=DLM195470
