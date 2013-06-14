@@ -883,13 +883,13 @@ An Act to consolidate and amend the law relating to public health
     
     _hospital_ means a hospital care institution within the meaning of [section 58(4)][395] of the Health and Disability Services (Safety) Act 2001
     
-    _infectious disease_ means any disease for the time being specified in [Part 1][5] or [Part 2][52] of Schedule 1
+    _infectious disease_ means any disease for the time being specified in [Part 1][396] or [Part 2][397] of Schedule 1
     
-    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][396]
+    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][398]
     
     _medical officer of health_ means the medical officer of health appointed under this Act for a health district, and includes any deputy medical officer of health; and, for the purposes of [Part 4][256], includes any medical practitioner acting under the direction of the medical officer of health
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][397] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][399] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
     
     _Minister_ means the Minister of Health
     
@@ -897,27 +897,27 @@ An Act to consolidate and amend the law relating to public health
     
     _notifiable disease_ means any notifiable infectious disease, and any disease for the time being specified in [Schedule 2][383]
     
-    _notifiable infectious disease_ means any infectious disease for the time being specified in [Part 1][398] of Schedule 1
+    _notifiable infectious disease_ means any infectious disease for the time being specified in [Part 1][396] of Schedule 1
     
     _offensive trade_ means any trade, business, manufacture, or undertaking for the time being specified in [Schedule 3][384]
     
-    _owner_, in relation to any land or premises, means the person for the time being entitled to receive the rent of the land or premises, whether on his own account or as the agent of or trustee for any other person, or who would be so entitled if the land or premises were let at a rent, and includes any person for the time being registered under the [Land Transfer Act 1952][399] as the proprietor of the land or premises
+    _owner_, in relation to any land or premises, means the person for the time being entitled to receive the rent of the land or premises, whether on his own account or as the agent of or trustee for any other person, or who would be so entitled if the land or premises were let at a rent, and includes any person for the time being registered under the [Land Transfer Act 1952][400] as the proprietor of the land or premises
     
     _passenger_, in relation to a craft means any person in or on it who is not a member of its crew
     
-    _personal health_ has the same meaning as in [section 6(1)][400] of the New Zealand Public Health and Disability Act 2000
+    _personal health_ has the same meaning as in [section 6(1)][401] of the New Zealand Public Health and Disability Act 2000
     
-    _personal health services_ has the same meaning as in [section 6(1)][400] of the New Zealand Public Health and Disability Act 2000
+    _personal health services_ has the same meaning as in [section 6(1)][401] of the New Zealand Public Health and Disability Act 2000
     
     _premises_ includes a ship or an aircraft
     
     _prescribed_ means prescribed by this Act or by regulations or bylaws thereunder
     
-    _public health_ has the same meaning as in [section 6(1)][400] of the New Zealand Public Health and Disability Act 2000
+    _public health_ has the same meaning as in [section 6(1)][401] of the New Zealand Public Health and Disability Act 2000
     
-    _public health services_ has the same meaning as in [section 6(1)][400] of the New Zealand Public Health and Disability Act 2000
+    _public health services_ has the same meaning as in [section 6(1)][401] of the New Zealand Public Health and Disability Act 2000
     
-    _quarantinable disease_ means a disease stated in [Part 3][401] of Schedule 1
+    _quarantinable disease_ means a disease stated in [Part 3][402] of Schedule 1
     
     _ship_ includes every description of vessel used in navigation
     
@@ -927,65 +927,65 @@ An Act to consolidate and amend the law relating to public health
     
     (2) If, in any proceedings for an offence against this Act or against any regulations thereunder, a question arises as to whether or not any person is a contact, as defined in subsection (1), the question shall be determined in accordance with the opinion of the medical officer of health.
     
-    (3) The Governor-General may, by Order in Council, amend [Part 3][401] of Schedule 1 by adding or omitting the name of a disease, or substituting a new name for a disease.
+    (3) The Governor-General may, by Order in Council, amend [Part 3][402] of Schedule 1 by adding or omitting the name of a disease, or substituting a new name for a disease.
     
     Compare: 1920 No 45 s 2; 1940 No 17 ss 4, 9, 11(1), 16, 18; SR 1951/282
     
-    Section 2(1) **aerodrome**: amended, on 1 September 1990, pursuant to [section 101(1)][402] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aerodrome**: amended, on 1 September 1990, pursuant to [section 101(1)][403] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][402] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][403] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **Board**: repealed, on 1 October 1988, by [section 4(3)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 2(1) **Board**: repealed, on 1 October 1988, by [section 4(3)][404] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 2(1) **chemical works**: repealed, on 1 April 1974, by section 56(1) of the Clean Air Act 1972 (1972 No 31).
     
-    Section 2(1) **craft**: inserted, on 19 December 2006, by [section 4(1)][404] of the Health Amendment Act 2006 (2006 No 86).
+    Section 2(1) **craft**: inserted, on 19 December 2006, by [section 4(1)][405] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 2(1) **Director-General**: replaced, on 1 July 1993, by [section 2(1)][405] of the Health Amendment Act 1993 (1993 No 24).
+    Section 2(1) **Director-General**: replaced, on 1 July 1993, by [section 2(1)][406] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 2(1) **district health board**: inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(1) **district health board**: inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 2(1) **environmental health officer**: replaced, on 1 July 1993, by [section 2(2)][405] of the Health Amendment Act 1993 (1993 No 24).
+    Section 2(1) **environmental health officer**: replaced, on 1 July 1993, by [section 2(2)][406] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 2(1) **epidemic management notice**: inserted, on 19 December 2006, by [section 4(1)][404] of the Health Amendment Act 2006 (2006 No 86).
+    Section 2(1) **epidemic management notice**: inserted, on 19 December 2006, by [section 4(1)][405] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 2(1) **epidemic notice**: inserted, on 19 December 2006, by [section 4(1)][404] of the Health Amendment Act 2006 (2006 No 86).
+    Section 2(1) **epidemic notice**: inserted, on 19 December 2006, by [section 4(1)][405] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 2(1) **health protection officer**: replaced, on 1 July 1993, by [section 2(3)][405] of the Health Amendment Act 1993 (1993 No 24).
+    Section 2(1) **health protection officer**: replaced, on 1 July 1993, by [section 2(3)][406] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 2(1) **hospital**: replaced, on 1 October 2002, by [section 58(1)][395] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 2(1) **inspector**: repealed, on 26 July 1988, by [section 2(3)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 2(1) **inspector**: repealed, on 26 July 1988, by [section 2(3)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 2(1) **inspector of health**: repealed, on 26 July 1988, by [section 2(3)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 2(1) **inspector of health**: repealed, on 26 July 1988, by [section 2(3)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 2(1) **local authority**: replaced, on 1 July 2003, by [section 262][408] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **local authority**: replaced, on 1 July 2003, by [section 262][409] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **medical officer of health**: amended, on 1 July 1993, by [section 2(6)][405] of the Health Amendment Act 1993 (1993 No 24).
+    Section 2(1) **medical officer of health**: amended, on 1 July 1993, by [section 2(6)][406] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 2(1) **medical officer of health**: amended, on 26 November 1982, by section 2(a) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][409] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][410] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **Ministry of Health**: inserted, on 1 July 1993, by [section 2(7)][405] of the Health Amendment Act 1993 (1993 No 24).
+    Section 2(1) **Ministry of Health**: inserted, on 1 July 1993, by [section 2(7)][406] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 2(1) **noxious or offensive gas**: repealed, on 1 April 1974, by section 56(1) of the Clean Air Act 1972 (1972 No 31).
     
-    Section 2(1) **passenger**: inserted, on 19 December 2006, by [section 4(1)][404] of the Health Amendment Act 2006 (2006 No 86).
+    Section 2(1) **passenger**: inserted, on 19 December 2006, by [section 4(1)][405] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 2(1) **personal health**: inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(1) **personal health**: inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 2(1) **personal health services**: inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(1) **personal health services**: inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
     Section 2(1) **port health officer**: repealed, on 26 November 1982, by section 2(b) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 2(1) **public health**: inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(1) **public health**: inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 2(1) **public health services**: inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(1) **public health services**: inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 2(1) **quarantinable disease**: replaced, on 19 December 2006, by [section 4(1)][404] of the Health Amendment Act 2006 (2006 No 86).
+    Section 2(1) **quarantinable disease**: replaced, on 19 December 2006, by [section 4(1)][405] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 2(3): inserted, on 19 December 2006, by [section 4(2)][404] of the Health Amendment Act 2006 (2006 No 86).
+    Section 2(3): inserted, on 19 December 2006, by [section 4(2)][405] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 3 Power of Governor-General in Council to amend Schedules
     
@@ -1004,13 +1004,13 @@ Administration
 
 #### Ministry of Health
     
-*   Heading: amended, on 1 July 1993, pursuant to [section 38(3)][410] of the Health Amendment Act 1993 (1993 No 24).
+*   Heading: amended, on 1 July 1993, pursuant to [section 38(3)][411] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 3A Function of Ministry in relation to public health
     
 *   Without limiting any other enactment or rule of law, and without limiting any other functions of the Ministry or of any other person or body, the Ministry shall have the function of improving, promoting, and protecting public health.
     
-    Section 3A: inserted, on 22 January 1996, by [section 13][411] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 3A: inserted, on 22 January 1996, by [section 13][412] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
 
 ##### 3B Director of Public Health
     
@@ -1028,17 +1028,17 @@ Administration
     
     *   (b) limits the functions of the Ministry or of any other person or body.
     
-    Section 3B: inserted, on 22 January 1996, by [section 13][411] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 3B: inserted, on 22 January 1996, by [section 13][412] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
 
 ##### 3C Director-General to produce annual report on current state of public health
     
-*   (1) Without limiting [section 43][412] of the Public Finance Act 1989, the Director-General shall in each year give to the Minister a report on the current state of public health in New Zealand.
+*   (1) Without limiting [section 43][413] of the Public Finance Act 1989, the Director-General shall in each year give to the Minister a report on the current state of public health in New Zealand.
     
     (2) The Minister shall lay a copy of the report before the House of Representatives not later than the 12th sitting day of the House of Representatives after the date on which the Minister receives the report.
     
-    Section 3C: inserted, on 22 January 1996, by [section 13][411] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 3C: inserted, on 22 January 1996, by [section 13][412] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
-    Section 3C(1): amended, on 25 January 2005, by [section 37(1)][413] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 3C(1): amended, on 25 January 2005, by [section 37(1)][414] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 3D Director of Public Health may provide advice or reports to Minister
     
@@ -1052,7 +1052,7 @@ Administration
     
     (3) Nothing in subsection (2) limits the responsibility of the Director of Public Health to the Director-General for the efficient, effective, and economical management of the activities of the Director of Public Health.
     
-    Section 3D: inserted, on 22 January 1996, by [section 13][411] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 3D: inserted, on 22 January 1996, by [section 13][412] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
 
 ##### 3E Public Health Group
     
@@ -1072,57 +1072,57 @@ Administration
     
     *   (b) limits the functions of the Ministry or of any other person or body.
     
-    Section 3E: inserted, on 22 January 1996, by [section 13][411] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 3E: inserted, on 22 January 1996, by [section 13][412] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
 
 ##### 3F Public Health Group to consult
     
 *   In order to ensure that the views of the public, persons involved in the provision of personal health services and public health services, and other persons are able to be considered in the formulation of the Public Health Group's advice to the Director-General under [section 3E(3)][11], the Public Health Group shall institute a programme of regular consultation with such members of the public, persons involved in the provision of personal health services and public health services, and other persons as the Director-General (after consultation with the Minister) considers appropriate, but nothing in this section shall be taken to require such consultation before each and every occasion on which such advice is formulated.
     
-    Section 3F: inserted, on 22 January 1996, by [section 13][411] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 3F: inserted, on 22 January 1996, by [section 13][412] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
-    Section 3F: amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 3F: amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 4 Department of Health
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 1 July 1993, by [section 3(1)(a)][414] of the Health Amendment Act 1993 (1993 No 24).
+    Section 4: repealed, on 1 July 1993, by [section 3(1)(a)][415] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 5 Director-General of Health
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 1 July 1993, by [section 3(1)(b)][414] of the Health Amendment Act 1993 (1993 No 24).
+    Section 5: repealed, on 1 July 1993, by [section 3(1)(b)][415] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 5A Deputy Directors-General and Assistant Directors-General of Health
     
 *   \[Repealed\]
     
-    Section 5A: repealed, on 1 July 1993, by [section 3(1)(b)][414] of the Health Amendment Act 1993 (1993 No 24).
+    Section 5A: repealed, on 1 July 1993, by [section 3(1)(b)][415] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 5B Delegation of powers by Director-General
     
 *   \[Repealed\]
     
-    Section 5B: repealed, on 1 July 1993, by [section 3(1)(c)][414] of the Health Amendment Act 1993 (1993 No 24).
+    Section 5B: repealed, on 1 July 1993, by [section 3(1)(c)][415] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 6 Other officers and employees
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 1 July 1993, by [section 3(1)(d)][414] of the Health Amendment Act 1993 (1993 No 24).
+    Section 6: repealed, on 1 July 1993, by [section 3(1)(d)][415] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 6A Part-time deputy medical officers of health
     
 *   \[Repealed\]
     
-    Section 6A: repealed, on 1 July 1993, by [section 3(1)(e)][414] of the Health Amendment Act 1993 (1993 No 24).
+    Section 6A: repealed, on 1 July 1993, by [section 3(1)(e)][415] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 7 Principal functions of Department
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 1 July 1993, by [section 3(1)(f)][414] of the Health Amendment Act 1993 (1993 No 24).
+    Section 7: repealed, on 1 July 1993, by [section 3(1)(f)][415] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 7A Medical officers of health and other officers
     
@@ -1140,7 +1140,7 @@ Administration
     
     (7) Where by virtue of any enactment, a reasonable belief in any particular state of affairs is a prerequisite for the exercise of any power by a medical officer of health, health protection officer, or other officer designated by the Director-General, it shall be sufficient if that officer exercises that power at the direction of the Director-General (or any other person designated by the Director-General for the purposes of this subsection) so long as, at the time of giving the direction, the Director-General or other person held such a belief in that state of affairs.
     
-    Section 7A: inserted, on 1 July 1993, by [section 4][415] of the Health Amendment Act 1993 (1993 No 24).
+    Section 7A: inserted, on 1 July 1993, by [section 4][416] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 7A(2): replaced, on 1 July 1996, by section 143(1) of the Medical Practitioners Act 1995 (1995 No 95).
 
@@ -1158,99 +1158,99 @@ Administration
     
     Compare: 1940 No 17 s 2
     
-    Section 8(1): amended, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 8(1): amended, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
-    Section 8(1): amended, on 1 July 1993, by [section 5][417] of the Health Amendment Act 1993 (1993 No 24).
+    Section 8(1): amended, on 1 July 1993, by [section 5][418] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 8(2): amended, on 1 July 1993, by [section 5][417] of the Health Amendment Act 1993 (1993 No 24).
+    Section 8(2): amended, on 1 July 1993, by [section 5][418] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 8(4): amended, on 1 July 1993, by [section 5][417] of the Health Amendment Act 1993 (1993 No 24).
+    Section 8(4): amended, on 1 July 1993, by [section 5][418] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 8(5): amended, on 1 July 1993, by [section 5][417] of the Health Amendment Act 1993 (1993 No 24).
+    Section 8(5): amended, on 1 July 1993, by [section 5][418] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 9 Delegation of powers by Minister
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 1 July 1993, by [section 6(1)(a)][418] of the Health Amendment Act 1993 (1993 No 24).
+    Section 9: repealed, on 1 July 1993, by [section 6(1)(a)][419] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 9A Advisory committees and subcommittees
     
 *   \[Repealed\]
     
-    Section 9A: repealed, on 1 July 1993, by [section 6(1)(b)][418] of the Health Amendment Act 1993 (1993 No 24).
+    Section 9A: repealed, on 1 July 1993, by [section 6(1)(b)][419] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 10 Annual report
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 1 July 1993, by [section 6(1)(c)][418] of the Health Amendment Act 1993 (1993 No 24).
+    Section 10: repealed, on 1 July 1993, by [section 6(1)(c)][419] of the Health Amendment Act 1993 (1993 No 24).
 
 #### Board of Health
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+*   Heading: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 11 Board of Health
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 11: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 11A Chairman and deputy chairman
     
 *   \[Repealed\]
     
-    Section 11A: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 11A: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 12 Remuneration and travelling allowances
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 12: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 13 Meetings and procedure of Board
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 13: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 14 Seal of Board
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 14: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 15 Secretary to Board
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 15: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 16 Functions of Board
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 16: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 17 Board may be appointed as a commission of inquiry
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 17: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 18 Committees of Board
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 18: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 18A Ad hoc subcommittees
     
 *   \[Repealed\]
     
-    Section 18A: repealed, on 1 October 1988, by [section 4(2)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 18A: repealed, on 1 October 1988, by [section 4(2)][404] of the Health Amendment Act 1988 (1988 No 99).
 
 #### Health districts
 
@@ -1262,13 +1262,13 @@ Administration
     
     (3) In no case shall part only of any territorial authority district be included within the boundaries of a health district.
     
-    Section 19: replaced, on 1 July 1993, by [section 7(1)][419] of the Health Amendment Act 1993 (1993 No 24).
+    Section 19: replaced, on 1 July 1993, by [section 7(1)][420] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 20 Medical officer of health for every health district
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 July 1993, by [section 8(1)][420] of the Health Amendment Act 1993 (1993 No 24).
+    Section 20: repealed, on 1 July 1993, by [section 8(1)][421] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 21 Evidence of authority of medical officer or health protection officer
     
@@ -1276,9 +1276,9 @@ Administration
     
     Compare: 1920 No 45 s 18
     
-    Section 21 heading: amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 21 heading: amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 21: amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 21: amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 22 Certain officers to have functions of medical officers of health
     
@@ -1292,21 +1292,21 @@ Administration
     
 *   \[Repealed\]
     
-    Section 22A: repealed, on 1 April 1993, by [section 62(1)][421] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 22A: repealed, on 1 April 1993, by [section 62(1)][422] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 #### Personal information
     
-*   Heading: inserted, on 26 July 1988, by [section 6][422] of the Health Amendment Act 1988 (1988 No 99).
+*   Heading: inserted, on 26 July 1988, by [section 6][423] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 22B Interpretation
     
 *   In this section and [sections 22C to 22H][44], unless the context otherwise requires,---
     
-    _agency_ has the same meaning as in [section 2][423] of the Privacy Act 1993
+    _agency_ has the same meaning as in [section 2][424] of the Privacy Act 1993
     
-    _document_ has the same meaning as in [section 2][424] of the Official Information Act 1982
+    _document_ has the same meaning as in [section 2][425] of the Official Information Act 1982
     
-    _Health Benefits Limited_ has the same meaning as in [section 2(1)][425] of the Health Sector (Transfers) Act 1993
+    _Health Benefits Limited_ has the same meaning as in [section 2(1)][426] of the Health Sector (Transfers) Act 1993
     
     _health information_, in relation to an identifiable individual, means---
         
@@ -1336,35 +1336,35 @@ Administration
     
     *   (c) subject to paragraphs (a) and (b), where the individual is unable to give his or her consent or authority, a person appearing to be lawfully acting on the individual's behalf or in that individual's interests
     
-    _services_ has the same meaning as in [section 6(1)][400] of the New Zealand Public Health and Disability Act 2000\.
+    _services_ has the same meaning as in [section 6(1)][401] of the New Zealand Public Health and Disability Act 2000\.
     
     Section 22B: replaced, on 1 July 1993, by section 2 of the Health Amendment Act (No 2) 1993 (1993 No 32).
     
-    Section 22B: amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B: amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
     Section 22B **Crown health enterprise**: repealed, on 1 July 1998, by section 5(4) of the Health and Disability Services Amendment Act 1998 (1998 No 74).
     
-    Section 22B **disability services**: repealed, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **disability services**: repealed, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22B **funder**: repealed, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **funder**: repealed, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22B **Health Benefits Limited**: inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **Health Benefits Limited**: inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22B **Health Funding Authority**: repealed, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **Health Funding Authority**: repealed, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22B **health information** paragraph (c): amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **health information** paragraph (c): amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22B **health services**: repealed, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **health services**: repealed, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22B **hospital and health service**: repealed, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **hospital and health service**: repealed, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22B **Public Health Commission**: repealed, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 22B **Public Health Commission**: repealed, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
     Section 22B **purchaser**: repealed, on 1 July 1998, by section 5(4) of the Health and Disability Services Amendment Act 1998 (1998 No 74).
     
     Section 22B **regional health authority**: repealed, on 1 July 1998, by section 5(4) of the Health and Disability Services Amendment Act 1998 (1998 No 74).
     
-    Section 22B **services**: inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22B **services**: inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 22C Disclosure of health information
     
@@ -1380,23 +1380,23 @@ Administration
     
     *   (b) if that disclosure is permitted---
             
-        *   (i) by or under a code of practice issued under [section 46][426] of the Privacy Act 1993; or
+        *   (i) by or under a code of practice issued under [section 46][427] of the Privacy Act 1993; or
         
-        *   (ii) if no such code of practice applies in relation to the information, by any of the information privacy principles set out in [section 6][427] of that Act.
+        *   (ii) if no such code of practice applies in relation to the information, by any of the information privacy principles set out in [section 6][428] of that Act.
         
         
     
     (2) The persons and purposes referred to in subsection (1)(a) are as follows:
         
-    *   (a) any medical officer of a prison within the meaning of the [Corrections Act 2004][428], for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
+    *   (a) any medical officer of a prison within the meaning of the [Corrections Act 2004][429], for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
     
-    *   (b) any probation officer within the meaning of the [Corrections Act 2004][428], for the purposes of exercising or performing any of that person's powers, duties, or functions under any enactment:
+    *   (b) any probation officer within the meaning of the [Corrections Act 2004][429], for the purposes of exercising or performing any of that person's powers, duties, or functions under any enactment:
     
-    *   (c) a Social Worker or a Care and Protection Co-ordinator within the meaning of the [Children, Young Persons, and Their Families Act 1989][429], for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
+    *   (c) a Social Worker or a Care and Protection Co-ordinator within the meaning of the [Children, Young Persons, and Their Families Act 1989][430], for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
     
-    *   (d) any employee of the department for the time being responsible for the administration of the [Social Security Act 1964][430], for the purposes of administering [section 75][431] of the Social Security Act 1964:
+    *   (d) any employee of the department for the time being responsible for the administration of the [Social Security Act 1964][431], for the purposes of administering [section 75][432] of the Social Security Act 1964:
     
-    *   (e) any member of the New Zealand Defence Force, for the purposes of administering the [Armed Forces Discipline Act 1971][432] or the [Defence Act 1990][433]:
+    *   (e) any member of the New Zealand Defence Force, for the purposes of administering the [Armed Forces Discipline Act 1971][433] or the [Defence Act 1990][434]:
     
     *   (f) any constable, for the purposes of exercising or performing any of that person's powers, duties, or functions:
     
@@ -1408,13 +1408,13 @@ Administration
         
         
     
-    *   (h) any employee of the Ministry of Agriculture and Forestry authorised by the chief executive of that Ministry to receive the information, for the purposes of administering the Meat Act 1981 or the [Animal Products Act 1999][434]:
+    *   (h) any employee of the Ministry of Agriculture and Forestry authorised by the chief executive of that Ministry to receive the information, for the purposes of administering the Meat Act 1981 or the [Animal Products Act 1999][435]:
     
     *   (i) any employee of the New Zealand Transport Agency, for statistical or research purposes in relation to road safety or the environment:
     
-    *   (j) any employee of a district health board, for the purposes of exercising or performing any of that board's powers, duties, or functions under the [New Zealand Public Health and Disability Act 2000][435].
+    *   (j) any employee of a district health board, for the purposes of exercising or performing any of that board's powers, duties, or functions under the [New Zealand Public Health and Disability Act 2000][436].
     
-    (3) For the purposes of [principle 11(d)][427] of the Privacy Act 1993, the disclosure of health information about an individual may be authorised---
+    (3) For the purposes of [principle 11(d)][428] of the Privacy Act 1993, the disclosure of health information about an individual may be authorised---
         
     *   (a) by that individual personally, if he or she has attained the age of 16 years; or
     
@@ -1422,23 +1422,23 @@ Administration
     
     Section 22C: replaced, on 1 July 1993, by section 2 of the Health Amendment Act (No 2) 1993 (1993 No 32).
     
-    Section 22C(1): amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22C(1): amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22C(2)(a): amended, on 1 June 2005, by [section 206][436] of the Corrections Act 2004 (2004 No 50).
+    Section 22C(2)(a): amended, on 1 June 2005, by [section 206][437] of the Corrections Act 2004 (2004 No 50).
     
-    Section 22C(2)(b): amended, on 1 June 2005, by [section 206][436] of the Corrections Act 2004 (2004 No 50).
+    Section 22C(2)(b): amended, on 1 June 2005, by [section 206][437] of the Corrections Act 2004 (2004 No 50).
     
-    Section 22C(2)(b): amended, on 30 June 2002, by [section 186][437] of the Sentencing Act 2002 (2002 No 9).
+    Section 22C(2)(b): amended, on 30 June 2002, by [section 186][438] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 22C(2)(d): amended, on 1 October 1998, by [section 11][438] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 22C(2)(d): amended, on 1 October 1998, by [section 11][439] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 22C(2)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][439] of the Policing Act 2008 (2008 No 72).
+    Section 22C(2)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
     
-    Section 22C(2)(h): replaced, on 1 November 1999, by [section 8(1)][440] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 22C(2)(h): replaced, on 1 November 1999, by [section 8(1)][441] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
     
-    Section 22C(2)(i): amended, on 1 August 2008, by [section 50(1)][441] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22C(2)(i): amended, on 1 August 2008, by [section 50(1)][442] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 22C(2)(j): replaced, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22C(2)(j): replaced, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 22D Duty to provide health information
     
@@ -1462,21 +1462,21 @@ Administration
     
     Section 22D(1): replaced, on 1 July 1998, by section 5(4) of the Health and Disability Services Amendment Act 1998 (1998 No 74).
     
-    Section 22D(1): amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22D(1): amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
     Section 22D(2): replaced, on 1 July 1998, by section 5(4) of the Health and Disability Services Amendment Act 1998 (1998 No 74).
     
-    Section 22D(2): amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22D(2): amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 22E Duty to provide information for purposes of blood collection
     
-*   The Minister may, at any time, by notice in writing, require a district health board to provide to an entity appointed under [section 63][442] of the Human Tissue Act 2008, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in [section 22B][43].
+*   The Minister may, at any time, by notice in writing, require a district health board to provide to an entity appointed under [section 63][443] of the Human Tissue Act 2008, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in [section 22B][43].
     
-    Section 22E: replaced, on 4 July 1998, by [section 2][443] of the Health Amendment Act 1998 (1998 No 86).
+    Section 22E: replaced, on 4 July 1998, by [section 2][444] of the Health Amendment Act 1998 (1998 No 86).
     
-    Section 22E: amended, on 1 November 2008, by [section 92][444] of the Human Tissue Act 2008 (2008 No 28).
+    Section 22E: amended, on 1 November 2008, by [section 92][445] of the Human Tissue Act 2008 (2008 No 28).
     
-    Section 22E: amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22E: amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 22F Communication of information for diagnostic and other purposes
     
@@ -1488,7 +1488,7 @@ Administration
     
     *   (b) where the information is requested by someone other than the individual about whom it is held (not being a representative of that individual), the holder of the information has reasonable grounds for believing that that individual does not wish the information to be disclosed; or
     
-    *   (c) refusal is authorised by a code of practice issued under [section 46][426] of the Privacy Act 1993\.
+    *   (c) refusal is authorised by a code of practice issued under [section 46][427] of the Privacy Act 1993\.
     
     (3) For the purposes of subsection (2)(a), neither---
         
@@ -1496,17 +1496,17 @@ Administration
     
     *   (b) the need to avoid prejudice to the commercial position of the holder of any information or of any other person; nor
     
-    *   (c) the fact that disclosure is not permitted under any of the information privacy principles set out in [section 6][427] of the Privacy Act 1993---
+    *   (c) the fact that disclosure is not permitted under any of the information privacy principles set out in [section 6][428] of the Privacy Act 1993---
     
     shall constitute a lawful excuse for not disclosing information under this section.
     
-    (4) Where any person refuses to disclose health information in response to a request made under this section, the person whose request is refused may make a complaint to the Privacy Commissioner under [Part 8][445] of the Privacy Act 1993, and that Part of that Act, so far as applicable and with all necessary modifications, shall apply in relation to that complaint as if the refusal to which the complaint relates were a refusal to make information available in response to an information privacy request within the meaning of that Act.
+    (4) Where any person refuses to disclose health information in response to a request made under this section, the person whose request is refused may make a complaint to the Privacy Commissioner under [Part 8][446] of the Privacy Act 1993, and that Part of that Act, so far as applicable and with all necessary modifications, shall apply in relation to that complaint as if the refusal to which the complaint relates were a refusal to make information available in response to an information privacy request within the meaning of that Act.
     
     (5) Nothing in subsection (4) limits any other remedy that is available to any person who is aggrieved by any refusal to disclose information under this section.
     
     Section 22F: replaced, on 1 July 1993, by section 2 of the Health Amendment Act (No 2) 1993 (1993 No 32).
     
-    Section 22F(1): amended, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22F(1): amended, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 22G Inspection of records
     
@@ -1540,11 +1540,11 @@ Administration
     
     Section 22G: inserted, on 1 July 1993, by section 2 of the Health Amendment Act (No 2) 1993 (1993 No 32).
     
-    Section 22G(1): replaced, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22G(1): replaced, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22G(2): replaced, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22G(2): replaced, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 22G(3): inserted, on 1 January 2001, by [section 111(1)][406] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 22G(3): inserted, on 1 January 2001, by [section 111(1)][407] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 22H Anonymous health information
     
@@ -1556,7 +1556,7 @@ Administration
     
 *   \[Repealed\]
     
-    Section 22I: repealed, on 1 January 1997, by [section 22J][446].
+    Section 22I: repealed, on 1 January 1997, by [section 22J][447].
 
 ##### 22J Expiry of section 22I
     
@@ -1597,23 +1597,23 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 20
     
-    Section 23: amended, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 23: amended, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
-    Section 23(a): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 23(a): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 23(d): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 23(d): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 23(e): amended, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 23(e): amended, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
-    Section 23(f): replaced, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 23(f): replaced, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
-    Section 23(f): amended, on 1 July 2008, by [section 4][448] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 23(f): amended, on 1 July 2008, by [section 4][449] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 24 Governor-General may exempt certain local authorities
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 1 July 2003, by [section 262][408] of the Local Government Act 2002 (2002 No 84).
+    Section 24: repealed, on 1 July 2003, by [section 262][409] of the Local Government Act 2002 (2002 No 84).
 
 #### Sanitary works
 
@@ -1679,47 +1679,47 @@ Powers and duties of local authorities
     
     Section 25(1)(g): repealed, on 23 November 1973, by section 3(1) of the Health Amendment Act 1973 (1973 No 111).
     
-    Section 25(2): amended, on 23 March 1987, by [section 7(1)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(2): amended, on 23 March 1987, by [section 7(1)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(2): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(2): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(3): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(3): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(4): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(4): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(5)(a): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(5)(a): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(5)(b): amended, on 7 July 2004, by [section 21][449] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
+    Section 25(5)(b): amended, on 7 July 2004, by [section 21][450] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
     
-    Section 25(6): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(6): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(7): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(7): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(8): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(8): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(9): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(9): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(10): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 25(10): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 25(11): replaced, on 1 July 1993, by [section 12][450] of the Health Amendment Act 1993 (1993 No 24).
+    Section 25(11): replaced, on 1 July 1993, by [section 12][451] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 26 Appeal against requisition or determination of Board of Health
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 23 March 1987, by [section 7(3)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 26: repealed, on 23 March 1987, by [section 7(3)][448] of the Health Amendment Act 1987 (1987 No 10).
 
 ##### 27 Local authority may raise loans for sanitary works
     
-*   (1) All sanitary works within the meaning of this Act shall be deemed to be public works within the meaning of the [Public Works Act 1981][451].
+*   (1) All sanitary works within the meaning of this Act shall be deemed to be public works within the meaning of the [Public Works Act 1981][452].
     
     (2) Any local authority required by the Minister to provide, alter, or extend any sanitary works under this Act may raise a loan for that purpose.
     
     Compare: 1920 No 45 s 24; 1951 No 44 s 6
     
-    Section 27(1): amended, on 1 February 1982, pursuant to [section 248(1)][452] of the Public Works Act 1981 (1981 No 35).
+    Section 27(1): amended, on 1 February 1982, pursuant to [section 248(1)][453] of the Public Works Act 1981 (1981 No 35).
     
-    Section 27(2): replaced, on 1 July 2003, by [section 262][408] of the Local Government Act 2002 (2002 No 84).
+    Section 27(2): replaced, on 1 July 2003, by [section 262][409] of the Local Government Act 2002 (2002 No 84).
 
 ##### 27A Grants and subsidies for refuse disposal works, sewerage works, and water supplies
     
@@ -1727,11 +1727,11 @@ Powers and duties of local authorities
     
     (2) For the purposes of this section, the term _local authority_ includes the Auckland Regional Authority.
     
-    Section 27A: replaced, on 23 March 1987, by [section 11(1)][453] of the Health Amendment Act 1987 (1987 No 10).
+    Section 27A: replaced, on 23 March 1987, by [section 11(1)][454] of the Health Amendment Act 1987 (1987 No 10).
 
 #### Appointment of environmental health officers
     
-*   Heading: amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+*   Heading: amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 28 Appointment of environmental health officers by local authorities
     
@@ -1753,11 +1753,11 @@ Powers and duties of local authorities
     
     (8) No agreement entered into by a local authority for the purposes of subsection (7) shall, except with the concurrence of the Director-General, be terminated unless at least 12 months' notice in writing of intention to terminate the agreement has been given to the Director-General by the local authority.
     
-    Section 28: replaced, on 1 July 1993, by [section 13(1) ][454]of the Health Amendment Act 1993 (1993 No 24).
+    Section 28: replaced, on 1 July 1993, by [section 13(1) ][455]of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 28(6): amended, on 25 January 2005, pursuant to [section 65R(3)][455] of the Public Finance Act 1989 (1989 No 44).
+    Section 28(6): amended, on 25 January 2005, pursuant to [section 65R(3)][456] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 28(7): amended, on 25 January 2005, pursuant to [section 65R(3)][455] of the Public Finance Act 1989 (1989 No 44).
+    Section 28(7): amended, on 25 January 2005, pursuant to [section 65R(3)][456] of the Public Finance Act 1989 (1989 No 44).
 
 #### Nuisances
 
@@ -1837,7 +1837,7 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 29
     
-    Section 32: amended, on 1 July 1993, by [section 14][456] of the Health Amendment Act 1993 (1993 No 24).
+    Section 32: amended, on 1 July 1993, by [section 14][457] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 33 Proceedings in respect of nuisances
     
@@ -1871,9 +1871,9 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 30
     
-    Section 33(1): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 33(1): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 33(10): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 33(10): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 34 Power to abate nuisance without notice
     
@@ -1883,7 +1883,7 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 31
     
-    Section 34(1): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 34(1): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 35 Proceedings when nuisance caused by default outside district
     
@@ -1895,31 +1895,31 @@ Powers and duties of local authorities
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 1980, pursuant to [section 9(1)][458] of the Local Government Amendment Act 1979 (1979 No 59).
+*   Heading: repealed, on 1 April 1980, pursuant to [section 9(1)][459] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 36 Local authorities to make provision for removal of refuse, etc
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 1 April 1980, by [section 9(1)][458] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 36: repealed, on 1 April 1980, by [section 9(1)][459] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 37 Further provisions as to removal of refuse, etc
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 April 1980, by [section 9(1)][458] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 37: repealed, on 1 April 1980, by [section 9(1)][459] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 38 Right of local authority to use portion of reserve for depot
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 1 April 1980, by [section 9(1)][458] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 38: repealed, on 1 April 1980, by [section 9(1)][459] of the Local Government Amendment Act 1979 (1979 No 59).
 
 #### Buildings
 
 ##### 39 Requirements of dwellinghouses as to supply of water and sanitary conveniences
     
-*   (1) It shall not be lawful for any person to erect or rebuild any building intended for use as a dwellinghouse, or for any person to sell, or let, or sublet, or permit to be occupied as a dwellinghouse, any building or part of a building, unless in every such case sufficient provision is made in accordance with the building code and the [Building Act 2004][459] for the following matters, that is to say:
+*   (1) It shall not be lawful for any person to erect or rebuild any building intended for use as a dwellinghouse, or for any person to sell, or let, or sublet, or permit to be occupied as a dwellinghouse, any building or part of a building, unless in every such case sufficient provision is made in accordance with the building code and the [Building Act 2004][460] for the following matters, that is to say:
         
     *   (a) an adequate and convenient supply of water that is potable (as defined in [section 69G][124]), available for the inmates of the dwelling:
     
@@ -1933,11 +1933,11 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 36; 1945 No 40 s 32
     
-    Section 39(1): amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 39(1): amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
     
     Section 39(1): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 39(1)(a): amended, on 1 July 2008, by [section 5][461] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 39(1)(a): amended, on 1 July 2008, by [section 5][462] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
     
     Section 39(2): amended, on 30 November 1979, by section 9 of the Health Amendment Act 1979 (1979 No 64).
     
@@ -1995,13 +1995,13 @@ Powers and duties of local authorities
     
     Section 42(1)(e): inserted, on 30 November 1979, by section 3(1) of the Health Amendment Act 1979 (1979 No 64).
     
-    Section 42(2): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 42(2): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 42(2): amended, on 23 March 1987, by [section 12(1)][462] of the Health Amendment Act 1987 (1987 No 10).
+    Section 42(2): amended, on 23 March 1987, by [section 12(1)][463] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 42(3): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 42(3): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 42(6): inserted, on 23 March 1987, by [section 12(2)][462] of the Health Amendment Act 1987 (1987 No 10).
+    Section 42(6): inserted, on 23 March 1987, by [section 12(2)][463] of the Health Amendment Act 1987 (1987 No 10).
 
 ##### 43 Appeal against closing order
     
@@ -2011,13 +2011,13 @@ Powers and duties of local authorities
     
     (3) On the hearing of the application the court, whose decision shall be final, may cancel the closing order, or may confirm it either absolutely or subject to such modifications and conditions as the court thinks fit.
     
-    (4) Every application to the court under this section shall be made and dealt with by way of originating application, on notice, under the rules of procedure for the time being in force under the [District Courts Act 1947][463], and the provisions of those rules shall apply accordingly.
+    (4) Every application to the court under this section shall be made and dealt with by way of originating application, on notice, under the rules of procedure for the time being in force under the [District Courts Act 1947][464], and the provisions of those rules shall apply accordingly.
     
     Compare: 1920 No 45 ss 41, 42, 43
     
-    Section 43(1): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 43(1): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 43(4): amended, on 1 April 1980, pursuant to [section 2(3)][464] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 43(4): amended, on 1 April 1980, pursuant to [section 2(3)][465] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 44 Issue of closing order by medical officer of health
     
@@ -2027,7 +2027,7 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 45
     
-    Section 44(2): replaced, on 1 July 1993, by [section 15][465] of the Health Amendment Act 1993 (1993 No 24).
+    Section 44(2): replaced, on 1 July 1993, by [section 15][466] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 45 Determination of closing order
     
@@ -2041,7 +2041,7 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 46
     
-    Section 45(2): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45(2): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 46 Closing order for premises owned by local authority
     
@@ -2051,7 +2051,7 @@ Powers and duties of local authorities
     
     Section 46(2): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 46(2): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 46(2): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
 
 ##### 47 Failure to comply with closing order
     
@@ -2097,7 +2097,7 @@ Powers and duties of local authorities
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 July 1993, by [section 16][466] of the Health Amendment Act 1993 (1993 No 24).
+    Section 53: repealed, on 1 July 1993, by [section 16][467] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 53A Mortgagee may do acts required of owner
     
@@ -2109,7 +2109,7 @@ Powers and duties of local authorities
     
     (4) The exercise by a mortgagee of the powers conferred by this section shall not relieve any person from liability to any penalty for failure to comply with the requirements of any of the provisions of this Act specified in subsection (1).
     
-    (5) In this section the term _mortgagee_, in relation to a dwellinghouse, means a mortgagee of the land under a mortgage that is registered under the [Deeds Registration Act 1908][467] or the [Land Transfer Act 1952][399], or in respect of which a caveat is lodged with the appropriate District Land Registrar; and includes the holder of any charge on the land that is duly registered pursuant to the [Statutory Land Charges Registration Act 1928][468].
+    (5) In this section the term _mortgagee_, in relation to a dwellinghouse, means a mortgagee of the land under a mortgage that is registered under the [Deeds Registration Act 1908][468] or the [Land Transfer Act 1952][400], or in respect of which a caveat is lodged with the appropriate District Land Registrar; and includes the holder of any charge on the land that is duly registered pursuant to the [Statutory Land Charges Registration Act 1928][469].
     
     Section 53A: inserted, on 30 November 1979, by section 4(1) of the Health Amendment Act 1979 (1979 No 64).
     
@@ -2133,13 +2133,13 @@ Powers and duties of local authorities
     
     Section 53B(a): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 53B(d): amended, on 1 July 2003, by [section 262][408] of the Local Government Act 2002 (2002 No 84).
+    Section 53B(d): amended, on 1 July 2003, by [section 262][409] of the Local Government Act 2002 (2002 No 84).
 
 ##### 53C Advances by local authority to owners
     
 *   A local authority may make advances to any owner upon whom an order or notice is served under any of [sections 41][77], [42][78], [44][80], and [46][82] to enable that owner to comply in all respects with the requirements of the order or notice.
     
-    Section 53C: replaced, on 1 July 2003, by [section 262][408] of the Local Government Act 2002 (2002 No 84).
+    Section 53C: replaced, on 1 July 2003, by [section 262][409] of the Local Government Act 2002 (2002 No 84).
 
 #### Offensive trades
 
@@ -2159,7 +2159,7 @@ Powers and duties of local authorities
     
     (6) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
     
-    (7) Nothing in this section relating to local authorities (including consents and registration) shall apply to any offensive trade where a resource consent for that activity has been granted under the [Resource Management Act 1991][469].
+    (7) Nothing in this section relating to local authorities (including consents and registration) shall apply to any offensive trade where a resource consent for that activity has been granted under the [Resource Management Act 1991][470].
     
     Compare: 1920 No 45 ss 54, 55(1), (2), 56; 1940 No 17 s 7
     
@@ -2193,7 +2193,7 @@ Powers and duties of local authorities
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 23 March 1987, by [section 13][470] of the Health Amendment Act 1987 (1987 No 10).
+    Section 57: repealed, on 23 March 1987, by [section 13][471] of the Health Amendment Act 1987 (1987 No 10).
 
 ##### 58 Restrictions on establishment of stock saleyards
     
@@ -2227,7 +2227,7 @@ Powers and duties of local authorities
     
 *   (1) Every person commits an offence and is liable to a fine not exceeding $1,000 who directly or indirectly pollutes the water supply of the district of any local authority, or any portion of that supply, in such a manner as to make the water dangerous to health, or offensive, or unfit for domestic use.
     
-    (2) Every person commits an offence, and is liable to a fine not exceeding $1,000, who directly or indirectly pollutes any watercourse that passes through a borough, town district, urban area of the district of a district council, or a community within the meaning of the [Local Government Act 1974][471], whether or not that watercourse forms part of the water supply of the borough, town district, urban area, or community, unless he satisfies the court that no part of the watercourse within the limits of the borough, town district, urban area, or community is thereby made dangerous to health or offensive.
+    (2) Every person commits an offence, and is liable to a fine not exceeding $1,000, who directly or indirectly pollutes any watercourse that passes through a borough, town district, urban area of the district of a district council, or a community within the meaning of the [Local Government Act 1974][472], whether or not that watercourse forms part of the water supply of the borough, town district, urban area, or community, unless he satisfies the court that no part of the watercourse within the limits of the borough, town district, urban area, or community is thereby made dangerous to health or offensive.
     
     (3) In subsection (2) the term _urban area_, in relation to the district of a district council, means a part of the district that immediately before the constitution of the district was a borough or town district or part of a borough or town district.
     
@@ -2235,9 +2235,9 @@ Powers and duties of local authorities
     
     Section 60(1): amended, on 30 November 1979, by section 9 of the Health Amendment Act 1979 (1979 No 64).
     
-    Section 60(2): replaced, on 1 April 1980, by [section 8(3)][472] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 60(2): replaced, on 1 April 1980, by [section 8(3)][473] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 60(3): inserted, on 1 April 1980, by [section 8(3)][472] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 60(3): inserted, on 1 April 1980, by [section 8(3)][473] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 61 Control of watercourses, etc
     
@@ -2247,7 +2247,7 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 62
     
-    Section 61(1): repealed, on 1 April 1980, by [section 8(3)][472] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 61(1): repealed, on 1 April 1980, by [section 8(3)][473] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 62 Supply of water from polluted source
     
@@ -2265,7 +2265,7 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 64
     
-    Section 63(2): amended, on 1 July 1993, by [section 17][473] of the Health Amendment Act 1993 (1993 No 24).
+    Section 63(2): amended, on 1 July 1993, by [section 17][474] of the Health Amendment Act 1993 (1993 No 24).
 
 #### Bylaws
 
@@ -2327,7 +2327,7 @@ Powers and duties of local authorities
     
     Compare: 1920 No 45 s 67
     
-    Section 64(1)(a): amended, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 64(1)(a): amended, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
     Section 64(1)(e): repealed, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
@@ -2341,11 +2341,11 @@ Powers and duties of local authorities
     
     Section 64(1)(j): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 64(1)(k): repealed, on 1 April 1980, by [section 9(1)][458] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 64(1)(k): repealed, on 1 April 1980, by [section 9(1)][459] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 64(1)(l): repealed, on 1 April 1980, by [section 9(1)][458] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 64(1)(l): repealed, on 1 April 1980, by [section 9(1)][459] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 64(1)(n): repealed, on 1 April 1980, by [section 9(1)][458] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 64(1)(n): repealed, on 1 April 1980, by [section 9(1)][459] of the Local Government Amendment Act 1979 (1979 No 59).
     
     Section 64(1)(p): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
@@ -2373,17 +2373,17 @@ Powers and duties of local authorities
 
 ##### 65A Effect of Building Act 2004 on bylaws
     
-*   (1) A local authority may not make any bylaw under this Act that purports to have the effect of requiring any building to achieve performance criteria additional to or more restrictive than those specified in the [Building Act 2004][459] or the building code.
+*   (1) A local authority may not make any bylaw under this Act that purports to have the effect of requiring any building to achieve performance criteria additional to or more restrictive than those specified in the [Building Act 2004][460] or the building code.
     
-    (2) For the purposes of this section, the terms _building_, _building code_, and _performance criteria_ have the meanings ascribed to them by the [Building Act 2004][459].
+    (2) For the purposes of this section, the terms _building_, _building code_, and _performance criteria_ have the meanings ascribed to them by the [Building Act 2004][460].
     
     Section 65A: inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 65A heading: amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 65A heading: amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
     
-    Section 65A(1): amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 65A(1): amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
     
-    Section 65A(2): amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 65A(2): amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
 
 ##### 66 Penalties for breach of bylaws
     
@@ -2399,13 +2399,13 @@ Powers and duties of local authorities
 
 ##### 67 Mode of making bylaws
     
-*   (1) All bylaws made by a local authority under this Act must be made in the same manner in all respects as if they were bylaws made pursuant to the [Local Government Act 2002][396].
+*   (1) All bylaws made by a local authority under this Act must be made in the same manner in all respects as if they were bylaws made pursuant to the [Local Government Act 2002][398].
     
     (2) A copy of all bylaws proposed to be made under this Act shall be sent to the medical officer of health for submission to the Director-General not less than 28 days before the bylaws are confirmed.
     
     Compare: 1920 No 45 s 73
     
-    Section 67(1): replaced, on 1 July 2003, by [section 262][408] of the Local Government Act 2002 (2002 No 84).
+    Section 67(1): replaced, on 1 July 2003, by [section 262][409] of the Local Government Act 2002 (2002 No 84).
 
 ##### 68 Copies of bylaws to be available
     
@@ -2417,18 +2417,18 @@ Powers and duties of local authorities
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 1993, by [section 18][474] of the Health Amendment Act 1993 (1993 No 24).
+*   Heading: repealed, on 1 July 1993, by [section 18][475] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 69 Duties and powers of harbour boards
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 1 July 1993, by [section 18][474] of the Health Amendment Act 1993 (1993 No 24).
+    Section 69: repealed, on 1 July 1993, by [section 18][475] of the Health Amendment Act 1993 (1993 No 24).
 
 ## Part 2A  
 Drinking water
     
-*   Part 2A: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Part 2A: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69A Purpose
     
@@ -2462,11 +2462,11 @@ Drinking water
     
     *   (i) provides for the dissemination of information about drinking water.
     
-    Section 69A: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69A: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Application of this Part
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69B This Part generally to apply on commencement
     
@@ -2476,21 +2476,21 @@ Drinking water
     
     (3) [Section 69ZA][147] applies to a temporary drinking-water supplier on and after 1 July 2009\.
     
-    Section 69B: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69B: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69C Application of sections 69S to 69ZC generally
     
-*   (1) A drinking-water supplier who, on or after 1 July 2009 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][476], commences supplying drinking water using a new drinking-water supply that is a large, medium, minor, small, neighbourhood, or rural agricultural drinking-water supply, must comply with [sections 69S to 69ZC][139] in respect of that drinking-water supply, on and after the commencement of supply.
+*   (1) A drinking-water supplier who, on or after 1 July 2009 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][477], commences supplying drinking water using a new drinking-water supply that is a large, medium, minor, small, neighbourhood, or rural agricultural drinking-water supply, must comply with [sections 69S to 69ZC][139] in respect of that drinking-water supply, on and after the commencement of supply.
     
-    (2) A networked supplier or operator of a designated port or airport who uses a large drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2009 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][476].
+    (2) A networked supplier or operator of a designated port or airport who uses a large drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2009 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][477].
     
-    (3) A networked supplier or operator of a designated port or airport who uses a medium drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2010 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][476].
+    (3) A networked supplier or operator of a designated port or airport who uses a medium drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2010 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][477].
     
-    (4) A networked supplier or operator of a designated port or airport who uses a minor drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2011 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][476].
+    (4) A networked supplier or operator of a designated port or airport who uses a minor drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2011 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][477].
     
-    (5) A networked supplier or operator of a designated port or airport who uses a small drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2012 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][476].
+    (5) A networked supplier or operator of a designated port or airport who uses a small drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2012 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][477].
     
-    (6) A networked supplier or operator of a designated port or airport who uses a neighbourhood drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2013 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][476].
+    (6) A networked supplier or operator of a designated port or airport who uses a neighbourhood drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply, on and after 1 July 2013 or any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][477].
     
     (7) Despite subsections (2) to (6), a networked supplier or operator of a designated port or airport who uses a rural agricultural drinking-water supply must comply with [sections 69S to 69ZC][139] in respect of that supply on the latest of the following dates:
         
@@ -2498,7 +2498,7 @@ Drinking water
     
     *   (b) the date on which the drinking-water standards are amended to make specific provision in respect of rural agricultural drinking-water supplies:
     
-    *   (c) any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][476].
+    *   (c) any later date appointed for the purposes of this subsection by the Governor-General by [Order in Council][477].
     
     (8) [Sections 69S to 69ZC][139] do not apply to a drinking-water supplier who---
         
@@ -2506,27 +2506,27 @@ Drinking water
     
     *   (b) is not a water carrier.
     
-    Section 69C: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69C: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
     
-    Section 69C(1): 1 July 2012 appointed as date for the purposes of section 69C(1), on 26 June 2009, by [clause 3(1)][477] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
+    Section 69C(1): 1 July 2012 appointed as date for the purposes of section 69C(1), on 26 June 2009, by [clause 3(1)][478] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
     
-    Section 69C(2): 1 July 2012 appointed as date for the purposes of section 69C(2), on 26 June 2009, by [clause 3(2)][477] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
+    Section 69C(2): 1 July 2012 appointed as date for the purposes of section 69C(2), on 26 June 2009, by [clause 3(2)][478] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
     
-    Section 69C(3): 1 July 2013 appointed as date for the purposes of section 69C(3), on 26 June 2009, by [clause 3(3)][477] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
+    Section 69C(3): 1 July 2013 appointed as date for the purposes of section 69C(3), on 26 June 2009, by [clause 3(3)][478] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
     
-    Section 69C(4): 1 July 2014 appointed as date for the purposes of section 69C(4), on 26 June 2009, by [clause 3(4)][477] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
+    Section 69C(4): 1 July 2014 appointed as date for the purposes of section 69C(4), on 26 June 2009, by [clause 3(4)][478] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
     
-    Section 69C(5): 1 July 2015 appointed as date for the purposes of section 69C(5), on 26 June 2009, by [clause 3(5)][477] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
+    Section 69C(5): 1 July 2015 appointed as date for the purposes of section 69C(5), on 26 June 2009, by [clause 3(5)][478] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
     
-    Section 69C(6): 1 July 2016 appointed as date for the purposes of section 69C(6), on 26 June 2009, by [clause 3(6)][477] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
+    Section 69C(6): 1 July 2016 appointed as date for the purposes of section 69C(6), on 26 June 2009, by [clause 3(6)][478] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
     
-    Section 69C(7): 1 July 2016 appointed as date for the purposes of section 69C(7), on 26 June 2009, by [clause 3(7)][477] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
+    Section 69C(7): 1 July 2016 appointed as date for the purposes of section 69C(7), on 26 June 2009, by [clause 3(7)][478] of the Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009 (SR 2009/176).
 
 ##### 69D Application of sections 69S to 69ZC to bulk suppliers
     
 *   A bulk supplier must comply with [sections 69S to 69ZC][139] in respect of each supply of water made by that supplier to another drinking-water supplier, on and after the date on which any drinking-water supplier to whom the supply is made is required to comply with those sections in respect of their own supply.
     
-    Section 69D: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69D: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69E Application of sections 69S to 69ZC to water carriers
     
@@ -2534,7 +2534,7 @@ Drinking water
     
     (2) A water carrier who provides water from a drinking-water supply operated by a person other than a networked supplier or operator of a designated port or airport must comply with [sections 69S to 69ZC][139] on and after a date determined by the medical officer of health and notified in writing to the water carrier.
     
-    Section 69E: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69E: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69F Bulk suppliers, networked suppliers, water carriers, and designated ports or airports may elect earlier compliance
     
@@ -2542,11 +2542,11 @@ Drinking water
     
     (2) If any notice is given to the Director-General under subsection (1) the provisions of this Part apply to the bulk supplier, networked supplier, water carrier, or designated port or airport concerned on and after the date on which the notice is received.
     
-    Section 69F: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69F: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Interpretation
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69G Interpretation
     
@@ -2596,7 +2596,7 @@ Drinking water
     
     _designated officer_ means a person designated under [section 7A][20] as a medical officer of health, or as a health protection officer
     
-    _designated port or airport_ means a port or airport for the time being approved under [section 37(1)][478] of the Biosecurity Act 1993 or treated as designated under [section 184][479] of that Act, as a place of first arrival for all craft or craft of specified kinds or descriptions
+    _designated port or airport_ means a port or airport for the time being approved under [section 37(1)][479] of the Biosecurity Act 1993 or treated as designated under [section 184][480] of that Act, as a place of first arrival for all craft or craft of specified kinds or descriptions
     
     _determinand_ means---
         
@@ -2634,7 +2634,7 @@ Drinking water
         
         
     
-    *   (b) while standards applying to bottled water are in force under the [Food Act 1981][480], does not include---
+    *   (b) while standards applying to bottled water are in force under the [Food Act 1981][481], does not include---
             
         *   (i) any bottled water that is covered by those standards; or
         
@@ -2654,7 +2654,7 @@ Drinking water
         
     *   (a) standards issued or adopted under [section 69O][134]; or
     
-    *   (b) if [section 14(5)][481] of the Health (Drinking Water) Amendment Act 2007 applies, the _Drinking-Water Standards for New Zealand 2000_
+    *   (b) if [section 14(5)][482] of the Health (Drinking Water) Amendment Act 2007 applies, the _Drinking-Water Standards for New Zealand 2000_
     
     _drinking-water supplier_ means a person who supplies drinking water to people in New Zealand or overseas from a drinking-water supply, and---
         
@@ -2864,9 +2864,9 @@ Drinking water
     
     *   (b) not containing or exhibiting any determinand in an amount that exceeds the value stated in the guideline values for aesthetic determinands in the drinking-water standards as being the maximum extent to which drinking water may contain or exhibit the determinand without being likely to have an adverse aesthetic effect on the drinking water
     
-    _working day_ has the same meaning as in [section 5(1)][482] of the Local Government Act 2002\.
+    _working day_ has the same meaning as in [section 5(1)][483] of the Local Government Act 2002\.
     
-    Section 69G: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69G: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69H All practicable steps
     
@@ -2896,7 +2896,7 @@ Drinking water
     
     (3) A person who wishes to rely on subsection (1)(a)(ii) as a reason for not taking any step or steps to achieve a result---
         
-    *   (a) must keep a full and complete record of that person's financial position and those of any associated person (as defined in [section YA 1][483] of the Income Tax Act 2007); and
+    *   (a) must keep a full and complete record of that person's financial position and those of any associated person (as defined in [section YA 1][484] of the Income Tax Act 2007); and
     
     *   (b) if a drinking-water assessor or designated officer asks why the person has failed to take that step or steps, must, as soon as practicable and in any event not more than 28 days later,---
             
@@ -2906,7 +2906,7 @@ Drinking water
         
         
     
-    Section 69H: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69H: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69I Part binds the Crown
     
@@ -2918,11 +2918,11 @@ Drinking water
     
     *   (b) in compliance with international drinking-water code QSTAG245 or other similar standard regulating the quality of drinking water used for military purposes.
     
-    Section 69I: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69I: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Registration of drinking-water suppliers and certain self-suppliers
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69J Drinking-water register
     
@@ -2968,7 +2968,7 @@ Drinking water
     
     (5) The register may also include any other information relevant to a drinking-water supplier, specified self-supplier, or a drinking-water supply that the Director-General considers appropriate.
     
-    Section 69J: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69J: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69K Applications for registration
     
@@ -2998,7 +2998,7 @@ Drinking water
     
     *   (c) notify the person in writing accordingly.
     
-    Section 69K: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69K: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69L Renewal of registration by water carriers
     
@@ -3022,7 +3022,7 @@ Drinking water
     
     *   (b) is unable to comply with the requirements of this Part.
     
-    Section 69L: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69L: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69M Duty to update details on register
     
@@ -3032,7 +3032,7 @@ Drinking water
     
     (3) A notice under subsection (1) or (2) must be given as soon as practicable after the details of the proposed change are known to the supplier.
     
-    Section 69M: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69M: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69N Removal from register
     
@@ -3050,11 +3050,11 @@ Drinking water
     
     (3) Despite subsections (1) and (2), the Director-General may retain on the register all relevant details relating to the water-supply activities of a person whose name has been removed from the register, if the fact of that removal is clearly noted on the register to avoid any confusion.
     
-    Section 69N: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69N: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Drinking-water standards
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69O Minister may issue, adopt, amend, or revoke drinking-water standards
     
@@ -3098,11 +3098,11 @@ Drinking water
     
     *   (c) must not include any requirement that fluoride be added to drinking water.
     
-    (4) Despite [section 28][484] of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1).
+    (4) Despite [section 28][485] of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1).
     
-    (5) Standards issued or adopted under subsection (1) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][485], but are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][486].
+    (5) Standards issued or adopted under subsection (1) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][486], but are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][487].
     
-    Section 69O: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69O: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69P Minister must consult before issuing, adopting, or amending drinking-water standards
     
@@ -3126,7 +3126,7 @@ Drinking water
     
     *   (b) the amendment is minor and will not adversely and substantially affect the interest of any person.
     
-    Section 69P: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69P: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69Q Drinking-water standards must be notified and made available
     
@@ -3140,7 +3140,7 @@ Drinking water
     
     (3) The Director-General must ensure that current copies of drinking-water standards are available for inspection by members of the public free of charge.
     
-    Section 69Q: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69Q: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69R Commencement of drinking-water standards
     
@@ -3150,11 +3150,11 @@ Drinking water
     
     *   (b) if [section 69P(2)][135] applies to the standards or amendments, at least 28 days after the date of publication of that notice in the _Gazette_.
     
-    Section 69R: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69R: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Duties of drinking-water suppliers and temporary drinking-water suppliers
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69S Duty of suppliers in relation to provision of drinking water
     
@@ -3196,9 +3196,9 @@ Drinking water
     
     *   (b) must, despite any non-payment or failure referred to in paragraph (a), continue to provide an adequate supply of drinking water.
     
-    (5) This section is subject to [section 69T][140] and to any contrary provisions in the [Civil Defence Emergency Management Act 2002][487].
+    (5) This section is subject to [section 69T][140] and to any contrary provisions in the [Civil Defence Emergency Management Act 2002][488].
     
-    Section 69S: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69S: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69T Duties where risk to water is actual or foreseeable
     
@@ -3210,7 +3210,7 @@ Drinking water
     
     *   (c) if the supplier is a bulk supplier, notify the drinking-water supplier to which the bulk supplier supplies water of the circumstances giving rise to the risk.
     
-    Section 69T: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69T: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69U Duty to take reasonable steps to contribute to protection of source of drinking water
     
@@ -3228,17 +3228,17 @@ Drinking water
         
     *   (a) the making of submissions on---
             
-        *   (i) processes governed by the [Resource Management Act 1991][469] (including discussion papers, and draft proposed and notified regional and district plans, in relation to issues that may affect drinking water); and
+        *   (i) processes governed by the [Resource Management Act 1991][470] (including discussion papers, and draft proposed and notified regional and district plans, in relation to issues that may affect drinking water); and
         
         *   (ii) where notified, resource consent applications relating to issues that may affect drinking water; and
         
         
     
-    *   (b) the making of submissions on community outcomes and sanitary services assessments under the [Local Government Act 2002][396] in relation to issues that may affect drinking water; and
+    *   (b) the making of submissions on community outcomes and sanitary services assessments under the [Local Government Act 2002][398] in relation to issues that may affect drinking water; and
     
     *   (c) contributing, directly or indirectly, to improved catchment management whether by planting of trees, promoting and assisting the use of integrated water resources management, or through other means.
     
-    Section 69U: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69U: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69V Duty to take all practicable steps to comply with drinking-water standards
     
@@ -3252,13 +3252,13 @@ Drinking water
     
     (5) Subsection (1) does not apply to those drinking-water standards that are identified in those standards as guideline values for aesthetic determinands for avoiding adverse aesthetic effects in drinking water.
     
-    Section 69V: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69V: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69W Duty to take reasonable steps to supply wholesome drinking water
     
 *   Every drinking-water supplier must take reasonable steps to ensure that the drinking water supplied by that drinking-water supplier is wholesome.
     
-    Section 69W: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69W: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69X Duties in relation to new water sources
     
@@ -3268,7 +3268,7 @@ Drinking water
     
     *   (b) is, or will be, treated in such a way that it will contain no determinands that exceed the maximum acceptable values specified in those standards when it is supplied.
     
-    Section 69X: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69X: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69Y Duty to monitor drinking water
     
@@ -3280,7 +3280,7 @@ Drinking water
     
     (2) Monitoring under subsection (1) must be carried out in accordance with the drinking-water standards.
     
-    Section 69Y: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69Y: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69Z Duty to prepare and implement public health risk management plan
     
@@ -3364,7 +3364,7 @@ Drinking water
     
     (9) This section does not apply to a drinking-water supplier who supplies drinking water from a small drinking-water supply or a neighbourhood drinking-water supply.
     
-    Section 69Z: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69Z: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZA Medical officer of health may require preparation and implementation of public health risk management plan
     
@@ -3406,7 +3406,7 @@ Drinking water
     
     *   (b) the persons who use the supply (other than the occupiers of the property on which it is situated) have access to it for more than 60 days in each year.
     
-    Section 69ZA: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZA: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZB Duration of plans
     
@@ -3416,7 +3416,7 @@ Drinking water
     
     *   (b) if the period of time stated in the plan exceeds 5 years from the date of completion or approval or if no period is stated in the plan, until the date that is 5 years after the date on which the plan is completed or approved or most recently reviewed or approved, whichever occurs later.
     
-    Section 69ZB: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZB: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZC Review and renewal of plans
     
@@ -3436,7 +3436,7 @@ Drinking water
     
     *   (c) in the case of a temporary drinking-water supplier who was required to prepare and implement a public health risk management plan, a temporary drinking-water supplier.
     
-    Section 69ZC: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZC: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZD Duty to keep records and make them available
     
@@ -3484,7 +3484,7 @@ Drinking water
     
     (4) Records kept under this section must be made available, on request by a drinking-water assessor or designated officer, for inspection or assessment by the assessor or officer.
     
-    Section 69ZD: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZD: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZE Duty to investigate complaints
     
@@ -3494,7 +3494,7 @@ Drinking water
     
     *   (b) if the complaint relates to a failure to meet the drinking-water standards and is upheld, take the appropriate remedial action specified in [section 69ZF][152].
     
-    Section 69ZE: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZE: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZF Duty to take remedial action if drinking-water standards breached
     
@@ -3504,7 +3504,7 @@ Drinking water
     
     *   (b) if no remedial action is set out in the drinking-water standards, take all practicable steps to correct the problem.
     
-    Section 69ZF: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZF: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZG Duty to provide reasonable assistance to drinking-water assessors, designated officers, and medical officers of health
     
@@ -3518,7 +3518,7 @@ Drinking water
     
     (2) Every temporary drinking-water supplier must, at all reasonable times, provide reasonable assistance to a medical officer of health for the exercise of any power set out in [section 69ZJ][156].
     
-    Section 69ZG: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZG: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZH Duty to provide information to territorial authority
     
@@ -3538,7 +3538,7 @@ Drinking water
     
     (6) No condition may be imposed under subsection (5) limiting the amount of drinking water to be supplied to a residential property to such an extent that there is no adequate supply (as defined in [section 69G][124]) to that property.
     
-    Section 69ZH: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZH: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZI Temporary supplier to notify medical officer of health of source and quality of raw water
     
@@ -3554,7 +3554,7 @@ Drinking water
     
     *   (b) as soon as practicable after the supplier has begun supplying drinking water that was raw water taken from the source if, due to an unforeseen event, it is necessary, as a matter of urgency, to supply drinking water that was raw water taken from the source.
     
-    Section 69ZI: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZI: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZJ Powers of medical officer of health relating to temporary drinking-water suppliers
     
@@ -3564,11 +3564,11 @@ Drinking water
     
     (3) A temporary drinking-water supplier must comply with a notice issued to that supplier under subsection (1) or (2).
     
-    Section 69ZJ: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZJ: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Drinking-water assessors and designated officers
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZK Director-General may appoint drinking-water assessors
     
@@ -3584,9 +3584,9 @@ Drinking water
     
     (3) A drinking-water assessor that is an agency carries out the functions of a drinking-water assessor through those of its employees and contractors who are accredited in the manner referred to in subsection (2)(b), and those employees and contractors have all the powers of a drinking-water assessor.
     
-    (4) No person appointed by the Director-General under subsection (1) to be a drinking-water assessor is, because of that appointment, employed in the Public Service for the purposes of the [State Sector Act 1988][391] or the [Government Superannuation Fund Act 1956][488].
+    (4) No person appointed by the Director-General under subsection (1) to be a drinking-water assessor is, because of that appointment, employed in the Public Service for the purposes of the [State Sector Act 1988][391] or the [Government Superannuation Fund Act 1956][489].
     
-    Section 69ZK: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZK: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZL Functions of drinking-water assessors
     
@@ -3628,9 +3628,9 @@ Drinking water
     
     (2) The functions referred to in subsection (1)(e) and (f) do not apply in relation to any recognised laboratory.
     
-    (3) A notice under subsection (1)(j)(ii) is not a regulation for the purposes of the [Regulations (Disallowance) Act 1989][485].
+    (3) A notice under subsection (1)(j)(ii) is not a regulation for the purposes of the [Regulations (Disallowance) Act 1989][486].
     
-    Section 69ZL: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZL: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZM Drinking-water assessors accountable to Director-General for performance of functions
     
@@ -3638,7 +3638,7 @@ Drinking water
     
     (2) On the request of the Director-General, a drinking-water assessor must give the Director-General reasonable access to any records held by the assessor in connection with the assessor's functions under this Part, to enable the Director-General to assess whether the assessor is properly discharging those functions.
     
-    Section 69ZM: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZM: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZN Functions of designated officers
     
@@ -3656,7 +3656,7 @@ Drinking water
     
     *   (c) to investigate the commission of offences under this Part and to bring proceedings in respect of those offences.
     
-    Section 69ZN: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZN: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZO Powers of designated officers
     
@@ -3676,7 +3676,7 @@ Drinking water
     
     *   (d) for the purpose of protecting the public, publish statements relating to the serious risk of harm to health or safety, including, without limitation, statements about the boiling of water.
     
-    (3) The exercise of any power referred to in subsection (2) that would otherwise involve the contravention of any of [sections 9][489], [12][490], [13][491], [14][492], or [15][493] of the Resource Management Act 1991 is not a contravention of any of those sections if, before the exercise of the power, the designated officer---
+    (3) The exercise of any power referred to in subsection (2) that would otherwise involve the contravention of any of [sections 9][490], [12][491], [13][492], [14][493], or [15][494] of the Resource Management Act 1991 is not a contravention of any of those sections if, before the exercise of the power, the designated officer---
         
     *   (a) consults with the relevant consent authority and takes account of any views expressed by the authority about the way in which the power is to be exercised; and
     
@@ -3696,7 +3696,7 @@ Drinking water
     
     *   (b) has declared a drinking-water emergency under [section 69ZZA][176] in relation to the risk of harm that was the reason for imposing that requirement.
     
-    Section 69ZO: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZO: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZP Powers of drinking-water assessors and designated officers
     
@@ -3742,7 +3742,7 @@ Drinking water
     
     (3) This section and [section 69ZQ][164] do not limit the powers exercisable by a designated officer under the other Parts of this Act or any other enactment.
     
-    Section 69ZP: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZP: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZQ Ancillary powers
     
@@ -3760,7 +3760,7 @@ Drinking water
     
     *   (b) in good working order.
     
-    Section 69ZQ: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZQ: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZR Restrictions on exercise of powers
     
@@ -3782,7 +3782,7 @@ Drinking water
     
     *   (e) in a case where the assessor or officer proposes to exercise the power conferred by [section 69ZP][163] to enter a dwellinghouse, must not exercise that power unless he or she has obtained a warrant under [section 69ZS][166].
     
-    (2) Despite [section 69ZP][163], neither a drinking-water assessor nor a designated officer may enter any land or building that is a defence area (within the meaning of [section 2(1)][494] of the Defence Act 1990) except in accordance with a written agreement between the Director-General and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
+    (2) Despite [section 69ZP][163], neither a drinking-water assessor nor a designated officer may enter any land or building that is a defence area (within the meaning of [section 2(1)][495] of the Defence Act 1990) except in accordance with a written agreement between the Director-General and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
     
     (3) Nothing in [section 69ZP][163] limits any enactment that imposes a prohibition or restriction on the availability of any information.
     
@@ -3790,7 +3790,7 @@ Drinking water
     
     (5) Nothing in this section, or in [section 69ZP][163], limits [section 128][359].
     
-    Section 69ZR: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZR: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZS Requirement for warrant to enter dwellinghouse
     
@@ -3810,7 +3810,7 @@ Drinking water
     
     *   (c) to exercise any power conferred by [section 69ZP][163].
     
-    Section 69ZS: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZS: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZT Standard conditions applying where warrant executed
     
@@ -3822,7 +3822,7 @@ Drinking water
     
     (2) If the occupier of the dwelling is not present at the time the search warrant is executed, the drinking-water assessor or designated officer must leave in a prominent place at the dwelling a written statement of the time and date of the search, and of the drinking-water assessor or designated officer's name and the address of the office to which inquiries should be made.
     
-    Section 69ZT: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZT: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZU Drinking-water assessors and designated officers must produce identification
     
@@ -3844,13 +3844,13 @@ Drinking water
     
     (5) A person or agency who ceases to be a drinking-water assessor or designated officer must, as soon as possible, return the identity card or other means of identification to the Director-General.
     
-    Section 69ZU: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZU: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZV Inventory of things seized to be provided
     
 *   If any thing is seized by a drinking-water assessor or designated officer under [section 69ZP][163] or a person accompanying that officer the drinking-water assessor or designated officer must leave in a prominent location at the place, or send to the occupier within 10 working days after the search, a written inventory of all things seized.
     
-    Section 69ZV: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZV: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZW Review of decisions of drinking-water assessors
     
@@ -3864,7 +3864,7 @@ Drinking water
     
     (3) The Director-General must, after seeking any advice that he or she considers necessary, confirm, vary, or reverse the decision of the drinking-water assessor.
     
-    Section 69ZW: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZW: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZX Register of drinking-water assessors
     
@@ -3882,11 +3882,11 @@ Drinking water
     
     (3) The register may also include any other information relevant to an agency's appointment as a drinking-water assessor that the Director-General considers appropriate.
     
-    Section 69ZX: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZX: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Recognised laboratories
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZY Director-General may recognise laboratories
     
@@ -3900,7 +3900,7 @@ Drinking water
         
     *   (a) is---
             
-        *   (i) registered under the [Testing Laboratory Registration Act 1972][495]; or
+        *   (i) registered under the [Testing Laboratory Registration Act 1972][496]; or
         
         *   (ii) accredited by International Accreditation New Zealand (_IANZ_) or any other prescribed body, for the purposes of this section; or
         
@@ -3932,7 +3932,7 @@ Drinking water
     
     *   (e) any other particulars that may be required by or under this Part or regulations made under [section 69ZZY][204].
     
-    Section 69ZY: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZY: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZ Compliance tests must be carried out by recognised laboratory
     
@@ -3944,11 +3944,11 @@ Drinking water
     
     (2) A copy of the results of any analysis or test referred to in subsection (1) that indicate any non-compliance with a maximum acceptable value set out in the drinking-water standards must be forwarded to the Director-General by the operator of the laboratory or the person who performs the analysis or test as soon as practicable after the test or analysis is conducted.
     
-    Section 69ZZ: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZ: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Emergency powers
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZA Minister may declare drinking-water emergency
     
@@ -3982,15 +3982,15 @@ Drinking water
         
         
     
-    (5) Despite [section 28][484] of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1) or (2).
+    (5) Despite [section 28][485] of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1) or (2).
     
-    Section 69ZZA: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZA: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZB Maximum duration of drinking-water emergency declaration
     
 *   No drinking-water emergency declaration may remain in force for longer than 28 days unless regulations are made under [section 69ZZY(1)(e)][204] extending the period of the drinking-water emergency.
     
-    Section 69ZZB: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZB: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZC Drinking-water emergency may be declared or continued even if other emergency declared
     
@@ -4000,13 +4000,13 @@ Drinking water
     
     *   (b) remains in force in accordance with [section 69ZZB][177], even if an emergency has been declared under another enactment.
     
-    (2) Despite subsection (1), if an emergency is declared under the [Civil Defence Emergency Management Act 2002][487] or the [Hazardous Substances and New Organisms Act 1996][496], unless the Director-General directs otherwise, any designated officer is, when exercising any powers conferred by [section 69ZZD][179], subject to the direction of---
+    (2) Despite subsection (1), if an emergency is declared under the [Civil Defence Emergency Management Act 2002][488] or the [Hazardous Substances and New Organisms Act 1996][497], unless the Director-General directs otherwise, any designated officer is, when exercising any powers conferred by [section 69ZZD][179], subject to the direction of---
         
-    *   (a) in the case of an emergency declared under the [Civil Defence Emergency Management Act 2002][487], the Controller (within the meaning of [section 4][497] of the Civil Defence Emergency Management Act 2002); or
+    *   (a) in the case of an emergency declared under the [Civil Defence Emergency Management Act 2002][488], the Controller (within the meaning of [section 4][498] of the Civil Defence Emergency Management Act 2002); or
     
-    *   (b) in the case of an emergency declared under the [Hazardous Substances and New Organisms Act 1996][496], the relevant office-holder who appointed the enforcement officer who declared the emergency.
+    *   (b) in the case of an emergency declared under the [Hazardous Substances and New Organisms Act 1996][497], the relevant office-holder who appointed the enforcement officer who declared the emergency.
     
-    Section 69ZZC: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZC: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZD Special powers of designated officers during drinking-water emergency
     
@@ -4056,7 +4056,7 @@ Drinking water
     
     *   (b) the amount of the costs (if any) to be recovered.
     
-    Section 69ZZD: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZD: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZE Compensation for property requisitioned or destroyed
     
@@ -4078,11 +4078,11 @@ Drinking water
     
     (5) If there is any dispute as to the entitlement of any person to compensation under this section, or as to the amount of that compensation, or as to the liability of the Crown to pay compensation, or as to the liability of any person to reimburse the Crown under subsection (4), the matter must be determined by a court of competent jurisdiction.
     
-    Section 69ZZE: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZE: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZF Actions taken under emergency powers may be exempted from requirements of Part 3 of Resource Management Act 1991
     
-*   (1) If any action under [section 69ZO][162] or [69ZZD][179] would be in breach of the provisions of [Part 3][498] of the Resource Management Act 1991, the Minister may exempt the action taken from the provisions of Part 3 of the Resource Management Act 1991 for up to 28 days.
+*   (1) If any action under [section 69ZO][162] or [69ZZD][179] would be in breach of the provisions of [Part 3][499] of the Resource Management Act 1991, the Minister may exempt the action taken from the provisions of Part 3 of the Resource Management Act 1991 for up to 28 days.
     
     (2) Before making a decision under subsection (1), the Minister---
         
@@ -4098,7 +4098,7 @@ Drinking water
     
     *   (b) any appeal is lodged against the decision of the consent authority, in which case the exemption expires on the determination of the appeal or at the time specified by the court that determines the appeal.
     
-    (5) If any action has been exempted from [Part 3][498] of the Resource Management Act 1991 under subsection (1) and the Minister considers that it is necessary to continue the action beyond the duration of the exemption in order to prevent, reduce, or eliminate the risk of harm to people arising from the drinking-water supplied to them,---
+    (5) If any action has been exempted from [Part 3][499] of the Resource Management Act 1991 under subsection (1) and the Minister considers that it is necessary to continue the action beyond the duration of the exemption in order to prevent, reduce, or eliminate the risk of harm to people arising from the drinking-water supplied to them,---
         
     *   (a) the Minister may recommend that regulations be made continuing the exemption; and
     
@@ -4110,17 +4110,17 @@ Drinking water
     
     *   (b) continue in force until revoked or until a date not later than the day 2 years after the regulations came into force, on which date the regulations expire and are deemed to have been revoked.
     
-    Section 69ZZF: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZF: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZG Effect of exemption
     
-*   If an exemption is granted under [section 69ZZF][181], the provisions of [Part 3][498] of the Resource Management Act 1991 do not apply to the actions taken under [section 69ZO][162] or [section 69ZZD][179] to which the exemption relates while the exemption remains in force.
+*   If an exemption is granted under [section 69ZZF][181], the provisions of [Part 3][499] of the Resource Management Act 1991 do not apply to the actions taken under [section 69ZO][162] or [section 69ZZD][179] to which the exemption relates while the exemption remains in force.
     
-    Section 69ZZG: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZG: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Compliance orders
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZH Medical officer of health may issue compliance order
     
@@ -4146,7 +4146,7 @@ Drinking water
     
     (3) A compliance order may specify the time within which compliance must be achieved.
     
-    Section 69ZZH: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZH: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZI Compliance with compliance order
     
@@ -4158,7 +4158,7 @@ Drinking water
     
     (2) This section is subject to the rights of appeal in [section 69ZZK][187].
     
-    Section 69ZZI: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZI: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZJ Form and content of compliance order
     
@@ -4178,7 +4178,7 @@ Drinking water
     
     *   (g) the name and office address of the medical officer of health who issued the order.
     
-    Section 69ZZJ: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZJ: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZK Appeals
     
@@ -4200,7 +4200,7 @@ Drinking water
     
     *   (c) set the compliance order aside.
     
-    Section 69ZZK: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZK: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZL Stay of compliance order pending appeal
     
@@ -4232,7 +4232,7 @@ Drinking water
     
     (7) A stay does not have effect until it is served in accordance with subsection (6).
     
-    Section 69ZZL: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZL: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZM Variation and cancellation of compliance order
     
@@ -4258,7 +4258,7 @@ Drinking water
     
     (5) The medical officer of health must give written notice of his or her decision to the person who applied under subsection (3) for a change or cancellation of the compliance order.
     
-    Section 69ZZM: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZM: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZN Appeals against decision on change or cancellation of compliance order
     
@@ -4266,11 +4266,11 @@ Drinking water
     
     (2) No person who lodges an appeal under subsection (1) may apply for, or be granted, a stay of the compliance order pending a decision on that appeal.
     
-    Section 69ZZN: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZN: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Contamination of water supplies and sources
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZO Contamination of raw water or pollution of water supply
     
@@ -4278,7 +4278,7 @@ Drinking water
     
     (2) Every person who commits an offence under subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $200,000, or both.
     
-    Section 69ZZO: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZO: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZP Local authority may be required to warn users of self-supplied building water supplies about contamination
     
@@ -4302,11 +4302,11 @@ Drinking water
         
         
     
-    Section 69ZZP: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZP: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Offences
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZQ Offence to supply or transport water if not registered
     
@@ -4330,7 +4330,7 @@ Drinking water
     
     (3) Every person who commits an offence against subsection (1) or (2) is liable on summary conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
     
-    Section 69ZZQ: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZQ: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZR Offences against sections in this Part
     
@@ -4376,9 +4376,9 @@ Drinking water
     
     (4) Every person commits an offence who, without reasonable excuse, takes any water from a fire hydrant, unless---
         
-    *   (a) that person is a firefighter (as defined in [section 2][499] of the Fire Service Act 1975); or
+    *   (a) that person is a firefighter (as defined in [section 2][500] of the Fire Service Act 1975); or
     
-    *   (b) that person is a member of a volunteer fire brigade (as defined in [section 2][499] of the Fire Service Act 1975); or
+    *   (b) that person is a member of a volunteer fire brigade (as defined in [section 2][500] of the Fire Service Act 1975); or
     
     *   (c) that person takes the water for the purposes of firefighting; or
     
@@ -4390,7 +4390,7 @@ Drinking water
         
         
     
-    Section 69ZZR: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZR: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZS Strict liability and defence to offences
     
@@ -4402,7 +4402,7 @@ Drinking water
     
     *   (b) that the defendant took all practicable steps to prevent the commission of the offence.
     
-    Section 69ZZS: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZS: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZT Offences involving deception
     
@@ -4424,13 +4424,13 @@ Drinking water
     
     (2) Every person who commits an offence against subsection (1) is liable to the penalty set out in [section 69ZZV(1)][200].
     
-    Section 69ZZT: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZT: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZU Time for laying information
     
-*   Despite [section 14][500] of the Summary Proceedings Act 1957, an information in respect of an offence under this Part may be laid by any person at any time within 3 years of the time when the matter of the information arose.
+*   Despite [section 14][501] of the Summary Proceedings Act 1957, an information in respect of an offence under this Part may be laid by any person at any time within 3 years of the time when the matter of the information arose.
     
-    Section 69ZZU: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZU: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZV Penalties
     
@@ -4442,7 +4442,7 @@ Drinking water
     
     (4) The continued existence of any thing, or the intermittent repetition of any action, that constitutes an offence under [section 69ZZR][196] is a continuing offence for the purposes of this section.
     
-    Section 69ZZV: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZV: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZW Additional penalty for certain offences for commercial gain
     
@@ -4454,9 +4454,9 @@ Drinking water
     
     (2) For the purposes of subsection (1), the value of any gain (if readily ascertainable) must be assessed by the court, and any amount ordered to be paid under subsection (1)(a) or (b) is recoverable in the same manner as a fine.
     
-    (3) In this section, _interconnected_ and _turnover_ have the same meaning as in the [Commerce Act 1986][501].
+    (3) In this section, _interconnected_ and _turnover_ have the same meaning as in the [Commerce Act 1986][502].
     
-    Section 69ZZW: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZW: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZX Liability of principal for acts of agents
     
@@ -4488,11 +4488,11 @@ Drinking water
     
     *   (b) that he or she knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all practicable steps to prevent or stop it.
     
-    Section 69ZZX: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZX: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Miscellaneous
     
-*   Heading: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+*   Heading: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZY Regulations
     
@@ -4528,7 +4528,7 @@ Drinking water
     
     (2) Regulations may not be made for the purpose described in subsection (1)(a) except on the advice of the Minister provided after consultation with those bodies or organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations.
     
-    Section 69ZZY: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZY: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZZ Protecting water supplies from risk of back-flow
     
@@ -4544,7 +4544,7 @@ Drinking water
         
         
     
-    *   (b) require the owner of the property in respect of which the back-flow prevention system operates or the person who is required (whether under the [Local Government Act 2002][396] or any contract) to pay for drinking water supplied to that property,---
+    *   (b) require the owner of the property in respect of which the back-flow prevention system operates or the person who is required (whether under the [Local Government Act 2002][398] or any contract) to pay for drinking water supplied to that property,---
             
         *   (i) if paragraph (a)(i) applies, to reimburse the supplier for the cost of that system (including the cost of installation, testing, and on-going maintenance); and
         
@@ -4562,7 +4562,7 @@ Drinking water
     
     *   (c) may require the occupier of the property in respect of which the device operates to pay the reasonable costs involved in conducting the test.
     
-    Section 69ZZZ: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZZ: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZZA Keeping, inspection, and copying of registers
     
@@ -4588,7 +4588,7 @@ Drinking water
     
     (3) The Director-General must supply to any person a copy of all or part of any register that is required to be kept under this Part, on request, and on payment of a reasonable charge for the production of the copy.
     
-    Section 69ZZZA: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZZA: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZZB Director-General must publish annual report
     
@@ -4608,13 +4608,13 @@ Drinking water
     
     *   (c) for purchase by members of the public at a reasonable price.
     
-    Section 69ZZZB: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZZB: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZZC Statements by Director-General
     
 *   The Director-General may, for the purpose of protecting the public, publish statements relating to any drinking-water emergency, or to the performance or non-performance of any duty imposed on any person by or under this Part.
     
-    Section 69ZZZC: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZZC: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZZD Protection of persons performing or exercising functions, duties, or powers under this Part
     
@@ -4632,24 +4632,24 @@ Drinking water
     
     *   (d) a local authority (other than when acting in its capacity as a drinking-water supplier).
     
-    Section 69ZZZD: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZZD: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 69ZZZE Relationship between this Part and other enactments
     
 *   This Part does not apply to any water---
         
-    *   (a) supplied for food preparation use that is regulated under the [Food Act 1981][480]; or
+    *   (a) supplied for food preparation use that is regulated under the [Food Act 1981][481]; or
     
-    *   (b) that is subject to regulations or specifications made or issued under the [Animal Products Act 1999][434] or the [Wine Act 2003][502].
+    *   (b) that is subject to regulations or specifications made or issued under the [Animal Products Act 1999][435] or the [Wine Act 2003][503].
     
-    Section 69ZZZE: inserted, on 1 July 2008, by [section 7][475] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 69ZZZE: inserted, on 1 July 2008, by [section 7][476] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ## Part 3  
 Infectious and notifiable diseases
 
 ##### 70 Special powers of medical officer of health
     
-*   (1) For the purpose of preventing the outbreak or spread of any infectious disease, the medical officer of health may from time to time, if authorised to do so by the Minister or if a state of emergency has been declared under the [Civil Defence Emergency Management Act 2002][487] or while an epidemic notice is in force,---
+*   (1) For the purpose of preventing the outbreak or spread of any infectious disease, the medical officer of health may from time to time, if authorised to do so by the Minister or if a state of emergency has been declared under the [Civil Defence Emergency Management Act 2002][488] or while an epidemic notice is in force,---
         
     *   (a) declare any land, building, or thing to be insanitary, and prohibit its use for any specified purpose:
     
@@ -4707,11 +4707,11 @@ Infectious and notifiable diseases
         
     *   (a) any premises that are, or any part of any premises that is, used solely as a private dwellinghouse; or
     
-    *   (b) any premises within the parliamentary precincts (within the meaning of [section 3][503] of the Parliamentary Service Act 2000); or
+    *   (b) any premises within the parliamentary precincts (within the meaning of [section 3][504] of the Parliamentary Service Act 2000); or
     
     *   (c) any premises whose principal or only use is as a courtroom or judge's chambers, or a court registry; or
     
-    *   (d) any premises that are, or are part of, a prison (within the meaning of [section 3(1)][504] of the Corrections Act 2004).
+    *   (d) any premises that are, or are part of, a prison (within the meaning of [section 3(1)][505] of the Corrections Act 2004).
     
     (1B) An order under paragraph (la) or (m) of subsection (1) may exempt people engaged in necessary work in the premises to which it relates.
     
@@ -4727,49 +4727,49 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 76
     
-    Section 70(1): amended, on 19 December 2006, by [section 5(1)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1): amended, on 19 December 2006, by [section 5(1)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1): amended, on 1 December 2002, by [section 117][506] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 70(1): amended, on 1 December 2002, by [section 117][507] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
     
-    Section 70(1): amended, on 3 November 1964, by [section 3][507] of the Health Amendment Act 1964 (1964 No 34).
+    Section 70(1): amended, on 3 November 1964, by [section 3][508] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 70(1)(ea): inserted, on 19 December 2006, by [section 5(2)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(ea): inserted, on 19 December 2006, by [section 5(2)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(f): amended, on 19 December 2006, by [section 5(3)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(f): amended, on 19 December 2006, by [section 5(3)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(fa): inserted, on 19 December 2006, by [section 5(4)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(fa): inserted, on 19 December 2006, by [section 5(4)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(g): amended, on 19 December 2006, by [section 5(5)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(g): amended, on 19 December 2006, by [section 5(5)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(h): amended, on 19 December 2006, by [section 5(6)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(h): amended, on 19 December 2006, by [section 5(6)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(i): amended, on 19 December 2006, by [section 5(5)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(i): amended, on 19 December 2006, by [section 5(5)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(la): inserted, on 19 December 2006, by [section 5(7)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(la): inserted, on 19 December 2006, by [section 5(7)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(m): replaced, on 19 December 2006, by [section 5(7)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(m): replaced, on 19 December 2006, by [section 5(7)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(n): repealed, on 19 December 2006, by [section 5(7)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(n): repealed, on 19 December 2006, by [section 5(7)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1)(o): repealed, on 19 December 2006, by [section 5(7)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1)(o): repealed, on 19 December 2006, by [section 5(7)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1A): inserted, on 19 December 2006, by [section 5(8)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1A): inserted, on 19 December 2006, by [section 5(8)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1B): inserted, on 19 December 2006, by [section 5(8)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1B): inserted, on 19 December 2006, by [section 5(8)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1C): inserted, on 19 December 2006, by [section 5(8)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1C): inserted, on 19 December 2006, by [section 5(8)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(1D): inserted, on 19 December 2006, by [section 5(8)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(1D): inserted, on 19 December 2006, by [section 5(8)][506] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 70(2): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 70(2): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 70(3): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 70(3): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 70(4): inserted, on 19 December 2006, by [section 5(9)][505] of the Health Amendment Act 2006 (2006 No 86).
+    Section 70(4): inserted, on 19 December 2006, by [section 5(9)][506] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 71 Powers of medical officer of health on outbreak of infectious disease
     
-*   (1) In the event of the outbreak of any infectious disease the medical officer of health, with the authority in writing of the Minister or during a state of emergency declared under the [Civil Defence Emergency Management Act 2002][487] or while an epidemic notice is in force, may---
+*   (1) In the event of the outbreak of any infectious disease the medical officer of health, with the authority in writing of the Minister or during a state of emergency declared under the [Civil Defence Emergency Management Act 2002][488] or while an epidemic notice is in force, may---
         
     *   (a) by requisition in writing served on its owner or occupier, take possession of, occupy, and use any land or building (whether public or private) that in his or her opinion is required for the accommodation and treatment of patients:
     
@@ -4793,21 +4793,21 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 75
     
-    Section 71(1): amended, on 19 December 2006, by [section 6(1)][508] of the Health Amendment Act 2006 (2006 No 86).
+    Section 71(1): amended, on 19 December 2006, by [section 6(1)][509] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 71(1): amended, on 1 December 2002, by [section 117][506] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 71(1): amended, on 1 December 2002, by [section 117][507] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
     
-    Section 71(1): amended, on 3 November 1964, by [section 4][509] of the Health Amendment Act 1964 (1964 No 34).
+    Section 71(1): amended, on 3 November 1964, by [section 4][510] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 71(1)(a): replaced, on 19 December 2006, by [section 6(2)][508] of the Health Amendment Act 2006 (2006 No 86).
+    Section 71(1)(a): replaced, on 19 December 2006, by [section 6(2)][509] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 71(1)(ab): inserted, on 19 December 2006, by [section 6(2)][508] of the Health Amendment Act 2006 (2006 No 86).
+    Section 71(1)(ab): inserted, on 19 December 2006, by [section 6(2)][509] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 71(1)(b): replaced, on 19 December 2006, by [section 6(2)][508] of the Health Amendment Act 2006 (2006 No 86).
+    Section 71(1)(b): replaced, on 19 December 2006, by [section 6(2)][509] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 71(2): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 71(2): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 71(3): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 71(3): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 71(3): amended, on 30 November 1979, by section 9 of the Health Amendment Act 1979 (1979 No 64).
 
@@ -4847,23 +4847,23 @@ Infectious and notifiable diseases
     
     (4) A constable may do a thing authorised by subsection (1) or (2) whether or not a medical officer of health has asked him or her to do so.
     
-    (5) [Sections 128][510], [129][511], and [177][512] of the Search and Surveillance Act 2012, with any necessary modifications, apply to the powers conferred by subsection (2)(c).
+    (5) [Sections 128][511], [129][512], and [177][513] of the Search and Surveillance Act 2012, with any necessary modifications, apply to the powers conferred by subsection (2)(c).
     
     (6) A constable does not incur any personal liability by reason of anything done by him or her in good faith in the exercise or intended exercise of a power conferred by this section.
     
-    Section 71A: inserted, on 19 December 2006, by [section 7][513] of the Health Amendment Act 2006 (2006 No 86).
+    Section 71A: inserted, on 19 December 2006, by [section 7][514] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 71A heading: amended, on 1 October 2008, pursuant to [section 116(a)(i)][439] of the Policing Act 2008 (2008 No 72).
+    Section 71A heading: amended, on 1 October 2008, pursuant to [section 116(a)(i)][440] of the Policing Act 2008 (2008 No 72).
     
-    Section 71A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][439] of the Policing Act 2008 (2008 No 72).
+    Section 71A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
     
-    Section 71A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][439] of the Policing Act 2008 (2008 No 72).
+    Section 71A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
     
-    Section 71A(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][439] of the Policing Act 2008 (2008 No 72).
+    Section 71A(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
     
-    Section 71A(5): replaced, on 1 October 2012, by [section 330][514] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71A(5): replaced, on 1 October 2012, by [section 330][515] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71A(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][439] of the Policing Act 2008 (2008 No 72).
+    Section 71A(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
 
 ##### 72 Offences relating to obstructing medical officer of health or people assisting medical officer of health
     
@@ -4879,9 +4879,9 @@ Infectious and notifiable diseases
     
     *   (e) does, or delays ceasing to do, a thing prohibited or forbidden by a medical officer of health or any person authorised by a medical officer of health in the exercise of powers or functions under [section 70][212] or [71][213].
     
-    Section 72: replaced, on 19 December 2006, by [section 7][513] of the Health Amendment Act 2006 (2006 No 86).
+    Section 72: replaced, on 19 December 2006, by [section 7][514] of the Health Amendment Act 2006 (2006 No 86).
     
-    Section 72(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][439] of the Policing Act 2008 (2008 No 72).
+    Section 72(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
 
 ##### 73 Medical officer of health may cause sanitary works to be undertaken
     
@@ -4891,13 +4891,13 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 78
     
-    Section 73(2): replaced, on 1 July 1993, by [section 19][515] of the Health Amendment Act 1993 (1993 No 24).
+    Section 73(2): replaced, on 1 July 1993, by [section 19][516] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 74 Medical practitioners to give notice of cases of notifiable disease
     
 *   (1) Every medical practitioner who has reason to believe that any person professionally attended by him is suffering from a notifiable disease or from any sickness of which the symptoms create a reasonable suspicion that it is a notifiable disease shall---
         
-    *   (a) in the case of a notifiable infectious disease, forthwith inform the occupier of the premises and every person nursing or in immediate attendance on the patient of the infectious nature of the disease and the precautions to be taken, and forthwith give notices in the prescribed form to the medical officer of health, and, except where the disease is specified in [section B][398] of Part 1 of Schedule 1, to the local authority of the district:
+    *   (a) in the case of a notifiable infectious disease, forthwith inform the occupier of the premises and every person nursing or in immediate attendance on the patient of the infectious nature of the disease and the precautions to be taken, and forthwith give notices in the prescribed form to the medical officer of health, and, except where the disease is specified in [section B][396] of Part 1 of Schedule 1, to the local authority of the district:
     
     *   (b) in the case of a notifiable disease other than a notifiable infectious disease, forthwith give notice in the prescribed form to the medical officer of health.
     
@@ -4913,9 +4913,9 @@ Infectious and notifiable diseases
     
     Section 74(1)(a): amended, on 6 December 1962, by section 2(1) of the Health Amendment Act 1962 (1962 No 76).
     
-    Section 74(2): repealed, on 1 July 1993, by [section 20(1)][516] of the Health Amendment Act 1993 (1993 No 24).
+    Section 74(2): repealed, on 1 July 1993, by [section 20(1)][517] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 74(5): repealed, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 74(5): repealed, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
 
 ##### 74AA Medical laboratories to give notice of cases of notifiable disease
     
@@ -4929,13 +4929,13 @@ Infectious and notifiable diseases
     
     *   (b) is liable to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
     
-    Section 74AA: inserted, on 18 December 2007, by [section 8][517] of the Health Amendment Act 2006 (2006 No 86).
+    Section 74AA: inserted, on 18 December 2007, by [section 8][518] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 74A National Cervical Screening Register
     
 *   \[Repealed\]
     
-    Section 74A: repealed, on 7 March 2005, by [section 3][518] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 74A: repealed, on 7 March 2005, by [section 3][519] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 74B Medical laboratories may be required to give notice of cases of disease during epidemic
     
@@ -4951,7 +4951,7 @@ Infectious and notifiable diseases
     
     (4) The fact that the notice has expired does not affect any criminal or civil liability arising while it was in force.
     
-    Section 74B: inserted, on 19 December 2006, by [section 9][519] of the Health Amendment Act 2006 (2006 No 86).
+    Section 74B: inserted, on 19 December 2006, by [section 9][520] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 74C Priorities for medicines
     
@@ -4983,7 +4983,7 @@ Infectious and notifiable diseases
     
     (6) In this section, _medicine_ means any substance used or capable of being used to prevent, treat, or palliate a disease, or the symptoms or effects of a disease.
     
-    Section 74C: inserted, on 19 December 2006, by [section 9][519] of the Health Amendment Act 2006 (2006 No 86).
+    Section 74C: inserted, on 19 December 2006, by [section 9][520] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 74D Redirection of aircraft
     
@@ -5005,7 +5005,7 @@ Infectious and notifiable diseases
     
     *   (b) measures necessary to deal with the situation can more practicably be carried out at the other place.
     
-    Section 74D: inserted, on 19 December 2006, by [section 9][519] of the Health Amendment Act 2006 (2006 No 86).
+    Section 74D: inserted, on 19 December 2006, by [section 9][520] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 75 Duty of occupier of premises as to infectious disease
     
@@ -5053,17 +5053,17 @@ Infectious and notifiable diseases
     
     Compare: 1941 No 26 s 31
     
-    Section 79(1): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 79(1): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 79(2): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 79(2): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 79(3): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 79(3): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 79(4): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 79(4): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 79(5): amended, on 1 July 1993, by [section 22][520] of the Health Amendment Act 1993 (1993 No 24).
+    Section 79(5): amended, on 1 July 1993, by [section 22][521] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 79(5): amended, on 1 July 1993, pursuant to [section 38(3)][410] of the Health Amendment Act 1993 (1993 No 24).
+    Section 79(5): amended, on 1 July 1993, pursuant to [section 38(3)][411] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 80 Offences in respect of infectious or communicable diseases
     
@@ -5085,15 +5085,15 @@ Infectious and notifiable diseases
     
     *   (d) when letting or negotiating to let to any person for hire any house in which any person suffering from an infectious disease is then living, or any part of any such house, does not disclose that fact.
     
-    (3) For the purposes of this section, the expression _public place_ has the same meaning as in [section 2][521] of the Summary Offences Act 1981\.
+    (3) For the purposes of this section, the expression _public place_ has the same meaning as in [section 2][522] of the Summary Offences Act 1981\.
     
-    (4) For the purposes of this section, the keeper of a lodginghouse or boardinghouse or the licensee or person charged with the management of any premises licensed or deemed to be licensed under the [Sale of Liquor Act 1989][522] shall be deemed to let part of a house for hire to any person admitted as a guest or lodger to the lodginghouse or boardinghouse or premises.
+    (4) For the purposes of this section, the keeper of a lodginghouse or boardinghouse or the licensee or person charged with the management of any premises licensed or deemed to be licensed under the [Sale of Liquor Act 1989][523] shall be deemed to let part of a house for hire to any person admitted as a guest or lodger to the lodginghouse or boardinghouse or premises.
     
     Compare: 1920 No 45 ss 85(1)(a)--(c), (3),  86
     
-    Section 80(3): amended, on 1 February 1982, pursuant to [section 51(3)][523] of the Summary Offences Act 1981 (1981 No 113).
+    Section 80(3): amended, on 1 February 1982, pursuant to [section 51(3)][524] of the Summary Offences Act 1981 (1981 No 113).
     
-    Section 80(4): amended, on 1 April 1990, pursuant to [section 230(2)][524] of the Sale of Liquor Act 1989 (1989 No 63).
+    Section 80(4): amended, on 1 April 1990, pursuant to [section 230(2)][525] of the Sale of Liquor Act 1989 (1989 No 63).
 
 ##### 81 Power of local authority to disinfect premises
     
@@ -5101,7 +5101,7 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 87
     
-    Section 81: amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 81: amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 82 Medical officer of health may order premises to be disinfected
     
@@ -5113,9 +5113,9 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 88
     
-    Section 82(3): amended, on 1 July 1993, by [section 23][525] of the Health Amendment Act 1993 (1993 No 24).
+    Section 82(3): amended, on 1 July 1993, by [section 23][526] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 82(3): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 82(3): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 83 Infected articles may be destroyed
     
@@ -5123,13 +5123,13 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 89
     
-    Section 83: amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 83: amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 84 Establishment of mortuaries and disinfecting stations
     
 *   (1) Any local authority may either separately or jointly with any other local authority or local authorities,---
         
-    *   (a) provide, equip, and maintain places for the reception of dead bodies (_mortuaries_) pending the carrying out of any post-mortem examination or until removal for interment, and provide facilities for carrying out in the mortuaries post-mortems authorised or directed under the [Coroners Act 2006][526] or under any other enactment and for making good for burial dead bodies on which post-mortems of that kind have been carried out:
+    *   (a) provide, equip, and maintain places for the reception of dead bodies (_mortuaries_) pending the carrying out of any post-mortem examination or until removal for interment, and provide facilities for carrying out in the mortuaries post-mortems authorised or directed under the [Coroners Act 2006][527] or under any other enactment and for making good for burial dead bodies on which post-mortems of that kind have been carried out:
     
     *   (b) provide, equip, and maintain disinfecting and cleansing stations, plant, equipment, and attendance for the cleansing of persons and for the disinfection of bedding, clothing, or other articles which have been exposed to or are believed to be contaminated with the infection of infectious disease, or which are dirty or verminous:
     
@@ -5141,11 +5141,11 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 91; 1954 No 55 s 2
     
-    Section 84(1): amended, on 1 July 1993, by [section 24][527] of the Health Amendment Act 1993 (1993 No 24).
+    Section 84(1): amended, on 1 July 1993, by [section 24][528] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 84(1): amended, on 23 November 1973, by section 3(2) of the Health Amendment Act 1973 (1973 No 111).
     
-    Section 84(1)(a): replaced, on 1 July 2007, by [section 146][528] of the Coroners Act 2006 (2006 No 38).
+    Section 84(1)(a): replaced, on 1 July 2007, by [section 146][529] of the Coroners Act 2006 (2006 No 38).
 
 ##### 85 Notice of death from infectious disease
     
@@ -5155,7 +5155,7 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 92
     
-    Section 85(2): repealed, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 85(2): repealed, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
 
 ##### 86 Duties of local authorities as to burials
     
@@ -5175,7 +5175,7 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 93
     
-    Section 86(3): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 86(3): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 87 Compensation for persons injuriously affected
     
@@ -5193,9 +5193,9 @@ Infectious and notifiable diseases
     
     Compare: 1920 No 45 s 94
     
-    Section 87(1): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 87(1): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 87(6): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 87(6): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 87A Communicable diseases occurring in animals
     
@@ -5213,13 +5213,13 @@ Infectious and notifiable diseases
     
     (6) Notwithstanding anything in the preceding provisions of this section, or in any Order in Council made hereunder nothing in those provisions shall apply in respect of any animal found to be suffering from a communicable disease in the course of any campaign for the eradication of that disease conducted by or at the instance of the responsible Ministry.
     
-    Section 87A: inserted, on 3 November 1964, by [section 6][529] of the Health Amendment Act 1964 (1964 No 34).
+    Section 87A: inserted, on 3 November 1964, by [section 6][530] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 87A(3A): repealed, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 87A(3A): repealed, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
     Section 87A(6): inserted, on 20 October 1972, by section 2 of the Health Amendment Act 1972 (1972 No 65).
     
-    Section 87A(6): amended, on 1 July 1995, pursuant to [section 6(1)(b)][530] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 87A(6): amended, on 1 July 1995, pursuant to [section 6(1)(b)][531] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
 
 #### Venereal disease
 
@@ -5233,7 +5233,7 @@ Infectious and notifiable diseases
     
     Compare: 1917 No 24 s 3
     
-    Section 88(1): amended, on 18 September 2004, by [section 175(1)][409] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 88(1): amended, on 18 September 2004, by [section 175(1)][410] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 89 Duty of medical practitioner as to patient suffering from venereal disease
     
@@ -5247,7 +5247,7 @@ Infectious and notifiable diseases
     
     Compare: 1917 No 24 s 4
     
-    Section 89(b): amended, on 26 April 2005, by [section 7][531] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 89(b): amended, on 26 April 2005, by [section 7][532] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 90 Treatment of children
     
@@ -5259,9 +5259,9 @@ Infectious and notifiable diseases
     
     Compare: 1917 No 24 s 5
     
-    Section 90(1): amended, on 18 September 2004, by [section 175(1)][409] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 90(1): amended, on 18 September 2004, by [section 175(1)][410] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 90(2): amended, on 18 September 2004, by [section 175(1)][409] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 90(2): amended, on 18 September 2004, by [section 175(1)][410] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 91 Persons other than medical practitioners treating venereal disease
     
@@ -5269,11 +5269,11 @@ Infectious and notifiable diseases
     
     Compare: 1917 No 24 s 7
     
-    Section 91 heading: amended, on 18 September 2004, by [section 175(1)][409] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 91 heading: amended, on 18 September 2004, by [section 175(1)][410] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 91: amended, on 18 September 2004, by [section 175(1)][409] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 91: amended, on 18 September 2004, by [section 175(1)][410] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 91: amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 91: amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 91: amended, on 30 November 1979, by section 9 of the Health Amendment Act 1979 (1979 No 64).
 
@@ -5283,7 +5283,7 @@ Infectious and notifiable diseases
     
     Compare: 1917 No 24 s 8
     
-    Section 92: amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 92: amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 92: amended, on 30 November 1979, by section 9 of the Health Amendment Act 1979 (1979 No 64).
 
@@ -5292,79 +5292,79 @@ Trading in human blood and controlled human substance
 
 \[Repealed\]
     
-*   Part 3A: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+*   Part 3A: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92A Interpretation
     
 *   \[Repealed\]
     
-    Section 92A: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92A: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92B Trading in own blood or controlled human substance prohibited
     
 *   \[Repealed\]
     
-    Section 92B: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92B: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92C Collection of blood or controlled human substance
     
 *   \[Repealed\]
     
-    Section 92C: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92C: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92D Charging for administered blood or controlled human substance
     
 *   \[Repealed\]
     
-    Section 92D: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92D: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92E Exemptions
     
 *   \[Repealed\]
     
-    Section 92E: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92E: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92F Unauthorised advertising prohibited
     
 *   \[Repealed\]
     
-    Section 92F: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92F: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92G Liability of employers, principals, and directors
     
 *   \[Repealed\]
     
-    Section 92G: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92G: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92H Appointed entities to collect and distribute blood and controlled human substances
     
 *   \[Repealed\]
     
-    Section 92H: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92H: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92I Exemption from Part 2 of Commerce Act 1986
     
 *   \[Repealed\]
     
-    Section 92I: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92I: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92J Protection of appointed entities
     
 *   \[Repealed\]
     
-    Section 92J: repealed, on 1 November 2008, by [section 93(2)][532] of the Human Tissue Act 2008 (2008 No 28).
+    Section 92J: repealed, on 1 November 2008, by [section 93(2)][533] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 92K Exemption from Part 2 of Commerce Act 1986
     
 *   \[Repealed\]
     
-    Section 92K: repealed, on 4 July 1998, by [section 3][533] of the Health Amendment Act 1998 (1998 No 86).
+    Section 92K: repealed, on 4 July 1998, by [section 3][534] of the Health Amendment Act 1998 (1998 No 86).
 
 ##### 92L Protection of trustees of blood transfusion trust
     
 *   \[Repealed\]
     
-    Section 92L: repealed, on 4 July 1998, by [section 3][533] of the Health Amendment Act 1998 (1998 No 86).
+    Section 92L: repealed, on 4 July 1998, by [section 3][534] of the Health Amendment Act 1998 (1998 No 86).
 
 ## Part 4  
 Quarantine
@@ -5381,7 +5381,7 @@ Quarantine
     
     Compare: 1920 No 45 s 95
     
-    Section 94: amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 94: amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 94: amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
 
@@ -5419,7 +5419,7 @@ Quarantine
     
     *   (b) that, within the 14 days before he or she arrived in New Zealand, he or she has been exposed to a disease that (whether or not it was a quarantinable disease at the time of the believed or suspected exposure) is a quarantinable disease.
     
-    Section 97: replaced, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97: replaced, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 97A People liable to quarantine to comply with directions and supply information
     
@@ -5457,7 +5457,7 @@ Quarantine
     
     (7) Subsection (1)(b) does not limit the generality of subsection (1)(a).
     
-    Section 97A: inserted, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97A: inserted, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 97B Detention of craft and people
     
@@ -5475,13 +5475,13 @@ Quarantine
     
     (2) The medical officer of health or health protection officer must tell the person in charge of the airport or port concerned of any direction he or she gives under subsection (1); and that person must not allow the craft concerned to leave the airport or port until given written notice under [section 97C][264] of the lifting of the detention of the craft.
     
-    Section 97B: inserted, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97B: inserted, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 97C Lifting of detention of craft
     
 *   The detention of a craft under [section 97B][263] ceases when the medical officer of health or a health protection officer gives the person in charge of the airport or port written notice to that effect.
     
-    Section 97C: inserted, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97C: inserted, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 97D Powers and duties of medical officer of health or health protection officer in relation to quarantinable diseases
     
@@ -5505,7 +5505,7 @@ Quarantine
     
     (2) A person whom subsection (1) empowers the medical officer of health or a health protection officer to examine or take a sample from must allow the officer to examine him or her or (as the case requires) take the sample.
     
-    Section 97D: inserted, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97D: inserted, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 97E Surveillance of certain people liable to quarantine
     
@@ -5553,7 +5553,7 @@ Quarantine
     
     *   (d) if he or she leaves for another place, tell the medical officer of health, or the medical practitioner nominated by the medical officer of health, and give details of the address to which he or she is going.
     
-    Section 97E: inserted, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97E: inserted, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 97F Children and people under disability
     
@@ -5563,13 +5563,13 @@ Quarantine
     
     *   (b) must give in respect of the child or person under disability all information required under any of those sections.
     
-    Section 97F: inserted, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97F: inserted, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 97G Offences against this Part
     
 *   Every person who fails or refuses to comply with any of [sections 97A(1)][262], [97A(2)][262], [97B(2)][263], [97D(2)][265], [97E(5)][266], [97E(6)][266], or [97F][267] commits an offence against this Act
     
-    Section 97G: inserted, on 19 December 2006, by [section 10(1)][534] of the Health Amendment Act 2006 (2006 No 86).
+    Section 97G: inserted, on 19 December 2006, by [section 10(1)][535] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 98 Continuance of liability to quarantine
     
@@ -5585,7 +5585,7 @@ Quarantine
         
     *   (a) for the master, pilot, or other officer in charge of the navigation of that ship to bring that ship or allow that ship to be brought to any wharf or other landing place; or
     
-    *   (b) for any person to go on board that ship, except the medical officer of health or health protection officer, and the assistants of any such officer, or a pilot, or an officer of Customs, or a constable, or an officer appointed or authorised under the [Immigration Act 2009][535], or an inspector appointed under [section 15][536] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995; or
+    *   (b) for any person to go on board that ship, except the medical officer of health or health protection officer, and the assistants of any such officer, or a pilot, or an officer of Customs, or a constable, or an officer appointed or authorised under the [Immigration Act 2009][536], or an inspector appointed under [section 15][537] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995; or
     
     *   (c) for any person to leave that ship, except the persons specified in paragraph (b); or
     
@@ -5595,13 +5595,13 @@ Quarantine
     
     (2) Any authority given by the medical officer of health or health protection officer under this section may be given subject to such exceptions and conditions as that officer thinks fit, and may be revoked by that officer at any time.
     
-    Section 99: replaced, on 1 July 1993, by [section 28(1)][537] of the Health Amendment Act 1993 (1993 No 24).
+    Section 99: replaced, on 1 July 1993, by [section 28(1)][538] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 99(1)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][538] of the Immigration Act 2009 (2009 No 51).
+    Section 99(1)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][539] of the Immigration Act 2009 (2009 No 51).
     
-    Section 99(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][439] of the Policing Act 2008 (2008 No 72).
+    Section 99(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
     
-    Section 99(1)(b): amended, on 1 July 1995, pursuant to [section 4(1)(a)][539] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 99(1)(b): amended, on 1 July 1995, pursuant to [section 4(1)(a)][540] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
 
 ##### 100 Quarantine signal for ships
     
@@ -5625,13 +5625,13 @@ Quarantine
     
     Section 101: replaced, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 101(1): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 101(1): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 101(2): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 101(2): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 101(4): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 101(4): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 101(6): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 101(6): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 102 Ship's declaration of health
     
@@ -5655,19 +5655,19 @@ Quarantine
     
     *   (b) to influence in any other respect the exercise by or on behalf of the medical officer of health of any authority conferred on that officer by this Part.
     
-    Section 102: replaced, on 26 July 1988, by [section 7(1)][540] of the Health Amendment Act 1988 (1988 No 99).
+    Section 102: replaced, on 26 July 1988, by [section 7(1)][541] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 103 Aircraft declaration
     
 *   \[Repealed\]
     
-    Section 103: repealed, on 23 March 1987, by [section 14][541] of the Health Amendment Act 1987 (1987 No 10).
+    Section 103: repealed, on 23 March 1987, by [section 14][542] of the Health Amendment Act 1987 (1987 No 10).
 
 ##### 104 Offences under last 2 preceding sections
     
 *   \[Repealed\]
     
-    Section 104: repealed, on 26 July 1988, by [section 7(2)(a)][540] of the Health Amendment Act 1988 (1988 No 99).
+    Section 104: repealed, on 26 July 1988, by [section 7(2)(a)][541] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 105 Ship arriving from infected place
     
@@ -5675,7 +5675,7 @@ Quarantine
     
     Compare: 1920 No 45 s 108
     
-    Section 105: amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 105: amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 105: amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
 
@@ -5685,7 +5685,7 @@ Quarantine
     
     Compare: 1920 No 45 s 109
     
-    Section 106: amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 106: amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 106: amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
 
@@ -5697,11 +5697,11 @@ Quarantine
     
     Compare: 1920 No 45 s 110; 1940 No 17 s 11
     
-    Section 107(1): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 107(1): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 107(1): amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 107(2): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 107(2): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 107(2): amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
 
@@ -5711,7 +5711,7 @@ Quarantine
     
     Section 108: replaced, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 108: amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 108: amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 109 Infected baggage, cargo, or stores
     
@@ -5725,7 +5725,7 @@ Quarantine
     
     *   (b) is liable to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
     
-    Section 109: replaced, on 19 December 2006, by [section 11][542] of the Health Amendment Act 2006 (2006 No 86).
+    Section 109: replaced, on 19 December 2006, by [section 11][543] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 110 Disinfection and fumigation of craft
     
@@ -5747,7 +5747,7 @@ Quarantine
     
     (7) Subsection (6) does not limit the general powers given by this section.
     
-    Section 110: replaced, on 19 December 2006, by [section 11][542] of the Health Amendment Act 2006 (2006 No 86).
+    Section 110: replaced, on 19 December 2006, by [section 11][543] of the Health Amendment Act 2006 (2006 No 86).
 
 ##### 111 Power to board any ship and inspect
     
@@ -5757,7 +5757,7 @@ Quarantine
     
     Compare: 1920 No 45 s 129
     
-    Section 111(1): replaced, on 1 July 1993, by [section 30(1)][543] of the Health Amendment Act 1993 (1993 No 24).
+    Section 111(1): replaced, on 1 July 1993, by [section 30(1)][544] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 111(2): amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
 
@@ -5773,25 +5773,25 @@ Quarantine
     
     Compare: 1920 No 45 ss 117, 118, 131; 1940 No 17 s 11
     
-    Section 112(1): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 112(1): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 112(1): amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 112(1): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 112(1): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 112(1): amended, on 30 November 1979, by section 9 of the Health Amendment Act 1979 (1979 No 64).
     
     Section 112(2): replaced, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 112(2): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 112(2): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 112(3): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 112(3): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 112(3): amended, on 30 November 1979, by section 9 of the Health Amendment Act 1979 (1979 No 64).
     
     Section 112(4): replaced, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
     
-    Section 112(4): amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 112(4): amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 112AA Sections 70 and 71 and this Part operate independently
     
@@ -5801,12 +5801,12 @@ Quarantine
     
     *   (b) nothing in this Part limits or affects the powers conferred by [section 70][212] or [71][213].
     
-    Section 112AA: inserted, on 19 December 2006, by [section 12][544] of the Health Amendment Act 2006 (2006 No 86).
+    Section 112AA: inserted, on 19 December 2006, by [section 12][545] of the Health Amendment Act 2006 (2006 No 86).
 
 ## Part 4A  
 National Cervical Screening Programme
     
-*   Part 4A: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+*   Part 4A: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112A Purpose
     
@@ -5822,15 +5822,15 @@ National Cervical Screening Programme
         
         
     
-    Section 112A: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112A: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112B Interpretation
     
 *   In this Part, unless the context otherwise requires,---
     
-    _cancer_ has the meaning set out in [section 2][546] of the Cancer Registry Act 1993
+    _cancer_ has the meaning set out in [section 2][547] of the Cancer Registry Act 1993
     
-    _cancer registry_ means the cancer registry maintained under the [Cancer Registry Act 1993][547]
+    _cancer registry_ means the cancer registry maintained under the [Cancer Registry Act 1993][548]
     
     _cervical cancer_ means any cancer of the cervix
     
@@ -5846,7 +5846,7 @@ National Cervical Screening Programme
     
     _health information_ has the meaning set out in paragraphs (a) and (c) of the definition of that term in [section 22B][43]
     
-    _health practitioner_ has the meaning set out in [section 5][548] of the Health Practitioners Competence Assurance Act 2003
+    _health practitioner_ has the meaning set out in [section 5][549] of the Health Practitioners Competence Assurance Act 2003
     
     _hospital_ means a hospital care institution within the meaning of [section 58(4)][395] of the Health and Disability Services (Safety) Act 2001
     
@@ -5870,25 +5870,25 @@ National Cervical Screening Programme
     
     _specimen_ means a bodily sample or tissue sample taken from a woman for the purpose of a screening test or a diagnostic test, and includes cervical cytology and histology slides and blocks.
     
-    Section 112B: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112B: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 #### Operation of NCSP
     
-*   Heading: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+*   Heading: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112C Appointment of persons to operate NCSP
     
-*   (1) All persons appointed to operate the NCSP, and to perform functions in relation to the operation of that programme, must be appointed under [section 59][549] of the State Sector Act 1988, unless it is not reasonably practicable to do so.
+*   (1) All persons appointed to operate the NCSP, and to perform functions in relation to the operation of that programme, must be appointed under [section 59][550] of the State Sector Act 1988, unless it is not reasonably practicable to do so.
     
-    (2) If the Director-General wishes to appoint a particular person to perform particular functions in relation to the operation of the NCSP, and it is not reasonably practicable to appoint that person under [section 59][549] of the State Sector Act 1988, the Director-General may appoint that person to perform those functions under this subsection.
+    (2) If the Director-General wishes to appoint a particular person to perform particular functions in relation to the operation of the NCSP, and it is not reasonably practicable to appoint that person under [section 59][550] of the State Sector Act 1988, the Director-General may appoint that person to perform those functions under this subsection.
     
-    (3) The Director-General may appoint, either under [section 59][549] of the State Sector Act 1988 or under subsection (2), 1 person to be the manager of the NCSP.
+    (3) The Director-General may appoint, either under [section 59][550] of the State Sector Act 1988 or under subsection (2), 1 person to be the manager of the NCSP.
     
-    (4) The NCSP manager may direct a person appointed under [section 59][549] of the State Sector Act 1988 or under subsection (2) in relation to the performance of that person's functions, and that person must comply with the NCSP manager's direction.
+    (4) The NCSP manager may direct a person appointed under [section 59][550] of the State Sector Act 1988 or under subsection (2) in relation to the performance of that person's functions, and that person must comply with the NCSP manager's direction.
     
     (5) The Director-General may direct the NCSP manager in relation to the performance of the NCSP manager's functions, and the NCSP manager must comply with the Director-General's direction.
     
-    Section 112C: inserted, on 1 July 2004, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112C: inserted, on 1 July 2004, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112D Objectives of NCSP
     
@@ -5912,7 +5912,7 @@ National Cervical Screening Programme
     
     *   (f) provide information to women about the quality and effectiveness of the NCSP including, if it is appropriate, information based on the results of evaluations.
     
-    Section 112D: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112D: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112E Enrolment in NCSP
     
@@ -5932,7 +5932,7 @@ National Cervical Screening Programme
     
     *   (c) has notified the NCSP manager, under [section 112G(2)][293], that she does not wish to be enrolled in the NCSP.
     
-    Section 112E: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112E: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112F Duties of NCSP manager that relate to enrolled women
     
@@ -5958,7 +5958,7 @@ National Cervical Screening Programme
     
     (2) The NCSP manager must record on the NCSP register every result that is reported to the NCSP manager from a screening test, or from a diagnostic test, if that result relates to a woman who is enrolled in the NCSP.
     
-    Section 112F: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112F: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112G Procedure to prevent or cancel enrolment in NCSP
     
@@ -5972,7 +5972,7 @@ National Cervical Screening Programme
     
     *   (b) include information that will enable the NCSP manager, in the future, to identify the woman as a woman who must not be enrolled in the NCSP (which information may be kept on the NCSP register and used by the NCSP manager for that purpose).
     
-    Section 112G: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112G: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112H Duties of NCSP manager when women cancel enrolment in NCSP
     
@@ -6006,9 +6006,9 @@ National Cervical Screening Programme
     
     *   (b) was received before the date of commencement of this section.
     
-    (4) To avoid any doubt, subsection (1) overrides the [Health (Retention of Health Information) Regulations 1996][550] (SR 1996/343).
+    (4) To avoid any doubt, subsection (1) overrides the [Health (Retention of Health Information) Regulations 1996][551] (SR 1996/343).
     
-    Section 112H: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112H: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112I Procedure to re-enrol in NCSP
     
@@ -6016,7 +6016,7 @@ National Cervical Screening Programme
     
     (2) A woman who has notified the NCSP manager, under [section 112G(2)][293], that she does not wish to be enrolled in the NCSP may cancel that notification and enrol in the NCSP, at any time, by advising the NCSP manager in the manner and form specified by the NCSP manager.
     
-    Section 112I: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112I: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112J Certain information held by NCSP must not be disclosed
     
@@ -6040,7 +6040,7 @@ National Cervical Screening Programme
     
     (2) Despite subsection (1), a screening programme evaluator may disclose information in accordance with [section 112Y(2)(a) to (d)][314].
     
-    Section 112J: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112J: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112K Delegation of functions and powers
     
@@ -6066,13 +6066,13 @@ National Cervical Screening Programme
     
     (7) A delegation under this section does not affect or prevent the performance or exercise of any function or power by the delegator, and does not affect the responsibility of the delegator for the actions of any person acting under that delegation.
     
-    (8) Subsection (1) does not limit the Director-General's power to delegate any of his or her functions under this Part in accordance with [section 41][551] of the State Sector Act 1988\.
+    (8) Subsection (1) does not limit the Director-General's power to delegate any of his or her functions under this Part in accordance with [section 41][552] of the State Sector Act 1988\.
     
-    Section 112K: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112K: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 #### Duties to provide information to women and to NCSP
     
-*   Heading: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+*   Heading: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112L Duties of persons taking specimens for screening tests
     
@@ -6086,7 +6086,7 @@ National Cervical Screening Programme
     
     (3) Subsections (1) and (2) do not limit any other obligation to provide information that arises under any other enactment or rule of law.
     
-    Section 112L: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112L: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112M Duty of persons performing colposcopic procedure
     
@@ -6108,7 +6108,7 @@ National Cervical Screening Programme
     
     *   (c) be provided in the manner and form specified by the Director-General.
     
-    Section 112M: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112M: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112N Duty of laboratories where specimens are analysed
     
@@ -6134,11 +6134,11 @@ National Cervical Screening Programme
     
     *   (c) be provided in the manner and form specified by the Director-General.
     
-    Section 112N: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112N: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 #### Review of NCSP and duty of Director-General to report
     
-*   Heading: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+*   Heading: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112O Establishment of NCSP review committee
     
@@ -6168,7 +6168,7 @@ National Cervical Screening Programme
     
     *   (b) on any other terms and conditions that the Minister considers appropriate.
     
-    Section 112O: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112O: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112P Work of review committee
     
@@ -6206,7 +6206,7 @@ National Cervical Screening Programme
     
     (5) The review committee may, subject to any written direction by the Minister, regulate its own procedure.
     
-    Section 112P: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112P: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112Q Review committee's access to information
     
@@ -6216,7 +6216,7 @@ National Cervical Screening Programme
     
     (3) To avoid doubt, the confidentiality obligations set out in [section 112J][296] apply to members of a review committee.
     
-    Section 112Q: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112Q: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112R Report by review committee
     
@@ -6236,17 +6236,17 @@ National Cervical Screening Programme
     
     (2) The Minister must present the report to the House of Representatives not later than 10 sitting days after the date on which the Minister receives the report from the committee, and, following that presentation, must make the report publicly available.
     
-    Section 112R: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112R: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112S Duty of Director-General to report
     
 *   The Director-General must, from time to time, provide information to the public on the quality and effectiveness of the NCSP including, if it is appropriate, information based on the results of evaluations.
     
-    Section 112S: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112S: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 #### Screening programme evaluators
     
-*   Heading: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+*   Heading: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112T Meaning of evaluate
     
@@ -6260,7 +6260,7 @@ National Cervical Screening Programme
     
     *   (c) any deceased persons to whom paragraph (a) or paragraph (b) applied at the time of death.
     
-    Section 112T: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112T: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112U Director-General may designate screening programme evaluators
     
@@ -6270,7 +6270,7 @@ National Cervical Screening Programme
     
     (3) The Director-General may limit the type of information that a person who is designated as a screening programme evaluator may have access to under this Part in accordance with the evaluation functions to be performed by that person.
     
-    Section 112U: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112U: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112V Criteria for designating employees of Ministry
     
@@ -6280,7 +6280,7 @@ National Cervical Screening Programme
     
     *   (b) the Ministry and the person will appropriately manage any conflicts of interest that arise.
     
-    Section 112V: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112V: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112W Criteria for designating persons who are not Ministry employees
     
@@ -6294,7 +6294,7 @@ National Cervical Screening Programme
     
     *   (d) will comply with the obligations on that person under this Part.
     
-    Section 112W: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112W: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112X Power of screening programme evaluators to access specimens and health information
     
@@ -6334,9 +6334,9 @@ National Cervical Screening Programme
     
     (6) When a screening programme evaluator accesses health information under subsection (2)(c)(i) that is held by, or otherwise in the power or control of, a health practitioner, that health practitioner may oversee that access.
     
-    (7) To avoid doubt, subsection (2) does not affect the [Health (Cervical Screening (Kaitiaki)) Regulations 1995][552] (SR 1995/29).
+    (7) To avoid doubt, subsection (2) does not affect the [Health (Cervical Screening (Kaitiaki)) Regulations 1995][553] (SR 1995/29).
     
-    Section 112X: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112X: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112Y Duties of screening programme evaluators
     
@@ -6374,7 +6374,7 @@ National Cervical Screening Programme
     
     (5) Subsections (1) and (3)(a) and (c) are subject to [section 112ZE][322].
     
-    Section 112Y: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112Y: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112Z Duties of persons to whom evaluation material is supplied by screening programme evaluator
     
@@ -6390,7 +6390,7 @@ National Cervical Screening Programme
     
     (2) Subsection (1) is subject to [section 112ZE][322].
     
-    Section 112Z: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112Z: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZA Screening programme evaluator may publish non-identifiable information obtained during evaluation
     
@@ -6404,11 +6404,11 @@ National Cervical Screening Programme
     
     (2) The NCSP manager may not withhold consent under subsection (1)(b) unless he or she believes, on reasonable grounds, that the publication of the paper or article, or the proposed timing of that publication, poses a serious risk to the effective operation of the NCSP.
     
-    Section 112ZA: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZA: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 #### Duties to provide information to screening programme evaluators
     
-*   Heading: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+*   Heading: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZB Duty of health practitioners
     
@@ -6416,7 +6416,7 @@ National Cervical Screening Programme
     
     (2) The Director-General may specify, by notice in writing to the health practitioner, the manner and form in which health information or specimens that are required to be made available under subsection (1) must be made available, and that information or those specimens must be made available in that manner and form.
     
-    Section 112ZB: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZB: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZC Duty of persons who hold specimens
     
@@ -6424,7 +6424,7 @@ National Cervical Screening Programme
     
     (2) The Director-General may specify, by notice in writing to the person in charge of the laboratory or other premises, the manner and form in which health information or a specimen that is required to be provided under subsection (1) must be provided, and that information or that specimen must be provided in that manner and form.
     
-    Section 112ZC: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZC: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZD Duty of hospitals
     
@@ -6432,11 +6432,11 @@ National Cervical Screening Programme
     
     (2) The Director-General may specify, by notice in writing to the person in charge of the hospital, the manner and form in which health information or a specimen that is required to be provided under subsection (1) must be provided, and that information or that specimen must be provided in that manner and form.
     
-    Section 112ZD: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZD: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 #### Miscellaneous
     
-*   Heading: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+*   Heading: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZE Screening programme employees may retain, access, use, and disclose information to perform functions
     
@@ -6454,7 +6454,7 @@ National Cervical Screening Programme
     
     *   (b) is employed to work in that programme by the Ministry or by the persons appointed to operate the programme.
     
-    Section 112ZE: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZE: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZF Regulations
     
@@ -6500,7 +6500,7 @@ National Cervical Screening Programme
     
     *   (b) state that an amendment to, or replacement of, standards incorporated by reference has legal effect as part of the regulations.
     
-    Section 112ZF: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZF: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZG Incorporation of standards by reference in regulations
     
@@ -6514,13 +6514,13 @@ National Cervical Screening Programme
     
     (3) Standards incorporated by reference in regulations have legal effect as part of the regulations.
     
-    Section 112ZG: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZG: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZH Effect of amendments to, or replacement of, standards incorporated by reference in regulations
     
 *   An amendment to, or replacement of, standards incorporated by reference in regulations (_regulations A_) has legal effect as part of regulations A only if regulations made under [section 112ZF(1)(g)][323] after the making of regulations A state that the particular amendment or replacement has that effect.
     
-    Section 112ZH: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZH: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZI Proof of standards incorporated by reference
     
@@ -6532,13 +6532,13 @@ National Cervical Screening Programme
     
     (2) The production in proceedings of a certified copy of the standards is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the regulations of the standards.
     
-    Section 112ZI: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZI: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZJ Effect of expiry or revocation of standards incorporated by reference
     
 *   Standards incorporated by reference in regulations that expire or that are revoked or that cease to have effect cease to have legal effect as part of the regulations only if regulations made under [section 112ZF(1)(g)][323] state that the standards cease to have legal effect.
     
-    Section 112ZJ: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZJ: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZK Requirement to consult
     
@@ -6580,13 +6580,13 @@ National Cervical Screening Programme
     
     (3) A failure to comply with this section does not invalidate regulations that incorporate standards by reference.
     
-    Section 112ZK: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZK: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
     
-    Section 112ZK(2)(d): repealed, on 14 April 2005, by [section 3(1)(a)][553] of the Health Amendment Act 2005 (2005 No 34).
+    Section 112ZK(2)(d): repealed, on 14 April 2005, by [section 3(1)(a)][554] of the Health Amendment Act 2005 (2005 No 34).
     
-    Section 112ZK(2)(e)(iii): repealed, on 14 April 2005, by [section 3(1)(b)][553] of the Health Amendment Act 2005 (2005 No 34).
+    Section 112ZK(2)(e)(iii): repealed, on 14 April 2005, by [section 3(1)(b)][554] of the Health Amendment Act 2005 (2005 No 34).
     
-    Section 112ZK(2A): inserted, on 14 April 2005, by [section 3(2)][553] of the Health Amendment Act 2005 (2005 No 34).
+    Section 112ZK(2A): inserted, on 14 April 2005, by [section 3(2)][554] of the Health Amendment Act 2005 (2005 No 34).
 
 ##### 112ZL Access to standards incorporated by reference
     
@@ -6618,29 +6618,29 @@ National Cervical Screening Programme
     
     (3) A failure to comply with this section does not invalidate regulations that incorporate standards by reference.
     
-    Section 112ZL: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZL: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
     
-    Section 112ZL(1): replaced, on 14 April 2005, by [section 4][554] of the Health Amendment Act 2005 (2005 No 34).
+    Section 112ZL(1): replaced, on 14 April 2005, by [section 4][555] of the Health Amendment Act 2005 (2005 No 34).
 
 ##### 112ZM Acts and Regulations Publication Act 1989 not applicable to standards incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][486] does not apply to standards incorporated by reference in regulations or to an amendment to, or replacement of, those standards.
+*   The [Acts and Regulations Publication Act 1989][487] does not apply to standards incorporated by reference in regulations or to an amendment to, or replacement of, those standards.
     
-    Section 112ZM: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZM: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZN Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
     
-*   (1) Nothing in [section 4][555] of the Regulations (Disallowance) Act 1989 requires standards that are incorporated by reference in regulations to be laid before the House of Representatives.
+*   (1) Nothing in [section 4][556] of the Regulations (Disallowance) Act 1989 requires standards that are incorporated by reference in regulations to be laid before the House of Representatives.
     
-    (2) The [Regulations (Disallowance) Act 1989][485], apart from the modification to the application of [section 4][555] of that Act made by subsection (1) of this section, applies to regulations that incorporate standards by reference.
+    (2) The [Regulations (Disallowance) Act 1989][486], apart from the modification to the application of [section 4][556] of that Act made by subsection (1) of this section, applies to regulations that incorporate standards by reference.
     
-    Section 112ZN: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZN: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZO Application of Standards Act 1988 not affected
     
-*   [Sections 112ZG to 112ZN][324] do not affect the application of [sections 22 to 25][556] of the Standards Act 1988\.
+*   [Sections 112ZG to 112ZN][324] do not affect the application of [sections 22 to 25][557] of the Standards Act 1988\.
     
-    Section 112ZO: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZO: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 112ZP Offences
     
@@ -6650,7 +6650,7 @@ National Cervical Screening Programme
     
     (3) Every person who commits an offence under subsection (2) is liable on summary conviction to a fine not exceeding $10,000\.
     
-    Section 112ZP: inserted, on 7 March 2005, by [section 4][545] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 112ZP: inserted, on 7 March 2005, by [section 4][546] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ## Part 5  
 Air pollution
@@ -6758,25 +6758,25 @@ Regulations
     
     Compare: 1920 No 45 s 132(1)(a)--(t), (z), (ac)--(ae), (2), (3); 1940 No 17 s 15(1)(c), (2)
     
-    Section 117(1)(a): replaced, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 117(1)(a): replaced, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
     Section 117(1)(c): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 117(1)(r): amended, on 3 November 1964, by [section 7(a)][557] of the Health Amendment Act 1964 (1964 No 34).
+    Section 117(1)(r): amended, on 3 November 1964, by [section 7(a)][558] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 117(1)(w): amended, on 3 November 1964, by [section 7(b)][557] of the Health Amendment Act 1964 (1964 No 34).
+    Section 117(1)(w): amended, on 3 November 1964, by [section 7(b)][558] of the Health Amendment Act 1964 (1964 No 34).
     
     Section 117(1)(y): amended, on 20 October 1972, by section 3 of the Health Amendment Act 1972 (1972 No 65).
     
-    Section 117(1)(y): amended, on 3 November 1964, by [section 7(c)][557] of the Health Amendment Act 1964 (1964 No 34).
+    Section 117(1)(y): amended, on 3 November 1964, by [section 7(c)][558] of the Health Amendment Act 1964 (1964 No 34).
     
     Section 117(1A): inserted, on 13 January 1988, by section 2 of the Health Amendment Act (No 2) 1987 (1987 No 194).
     
-    Section 117(2): amended, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 117(2): amended, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
     
-    Section 117(3): amended, on 1 July 1993, by [section 31][558] of the Health Amendment Act 1993 (1993 No 24).
+    Section 117(3): amended, on 1 July 1993, by [section 31][559] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 117(3): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 117(3): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
 
 ##### 118 Regulations as to quarantine
     
@@ -6798,9 +6798,9 @@ Regulations
     
     Compare: 1920 No 45 s 132(1)(u)--(w); 1940 No 17 s 11(5)
     
-    Section 118(c): replaced, on 3 November 1964, by [section 8][559] of the Health Amendment Act 1964 (1964 No 34).
+    Section 118(c): replaced, on 3 November 1964, by [section 8][560] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 118(cc): inserted, on 3 November 1964, by [section 8][559] of the Health Amendment Act 1964 (1964 No 34).
+    Section 118(cc): inserted, on 3 November 1964, by [section 8][560] of the Health Amendment Act 1964 (1964 No 34).
     
     Section 118(f): amended, on 1 April 1983, by section 4(2) of the Health Amendment Act 1982 (1982 No 34).
 
@@ -6850,15 +6850,15 @@ Regulations
     
     Compare: 1920 No 45 s 132(1)(aa); 1940 No 17 s 15(1)(a), (b)
     
-    Section 120(1)(a): repealed, on 1 April 1977, by [section 68(2)][560] of the Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69).
+    Section 120(1)(a): repealed, on 1 April 1977, by [section 68(2)][561] of the Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69).
     
-    Section 120(2)(c): amended, on 3 November 1964, by [section 9(1)][561] of the Health Amendment Act 1964 (1964 No 34).
+    Section 120(2)(c): amended, on 3 November 1964, by [section 9(1)][562] of the Health Amendment Act 1964 (1964 No 34).
     
     Section 120(2)(d): amended, on 1 April 1974, by section 56(1) of the Clean Air Act 1972 (1972 No 31).
     
-    Section 120(2)(f): inserted, on 3 November 1964, by [section 9(2)][561] of the Health Amendment Act 1964 (1964 No 34).
+    Section 120(2)(f): inserted, on 3 November 1964, by [section 9(2)][562] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 120(2)(g): inserted, on 3 November 1964, by [section 9(2)][561] of the Health Amendment Act 1964 (1964 No 34).
+    Section 120(2)(g): inserted, on 3 November 1964, by [section 9(2)][562] of the Health Amendment Act 1964 (1964 No 34).
 
 ##### 120A Regulations as to homes and day-care centres for aged persons
     
@@ -6892,9 +6892,9 @@ Regulations
     
     *   (m) prescribe training courses required to be undergone by persons employed in homes and day-care centres.
     
-    (3) Every person commits an offence against this Act who holds out, or uses any words which are likely to lead persons to believe, that any home is a licensed hospital within the meaning of the Hospitals Act 1957 or a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][562] or that premises which are not registered or licensed under regulations made pursuant to this section are in fact so registered or licensed.
+    (3) Every person commits an offence against this Act who holds out, or uses any words which are likely to lead persons to believe, that any home is a licensed hospital within the meaning of the Hospitals Act 1957 or a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][563] or that premises which are not registered or licensed under regulations made pursuant to this section are in fact so registered or licensed.
     
-    (4) In this section the term _home_ means any premises where 3 or more persons who have attained the age of 65 years and are not related by blood or marriage or by or through a civil union or de facto relationship to the householder are, or are to be, in residence and paying for their lodging and for 1 or more meals a day, being any premises that are, or purport to be, conducted principally for aged-frail persons, and not being a licensed hospital within the meaning of the Hospitals Act 1957 or a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][562].
+    (4) In this section the term _home_ means any premises where 3 or more persons who have attained the age of 65 years and are not related by blood or marriage or by or through a civil union or de facto relationship to the householder are, or are to be, in residence and paying for their lodging and for 1 or more meals a day, being any premises that are, or purport to be, conducted principally for aged-frail persons, and not being a licensed hospital within the meaning of the Hospitals Act 1957 or a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][563].
     
     (5) In this section the term _day-care centre_ means any premises which are or purport to be used regularly, although not necessarily continuously, for the accommodation (for the purposes of care, occupation, recreation, or entertainment), during the day, of 5 or more persons who have attained the age of 65 years, who are not related by blood or marriage or by or through a civil union or de facto relationship to the occupier of the premises, and by whom or on whose behalf payment is made in respect of such accommodation or in respect of 1 or more meals provided in the course of such accommodation, whether or not the premises are used at the same time for the accommodation of other persons or for other purposes; but does not include---
         
@@ -6906,13 +6906,13 @@ Regulations
     
     Section 120A: replaced, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 120A(3): amended, on 1 July 1993, by [section 32(a)][563] of the Health Amendment Act 1993 (1993 No 24).
+    Section 120A(3): amended, on 1 July 1993, by [section 32(a)][564] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 120A(4): amended, on 26 April 2005, by [section 7][531] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 120A(4): amended, on 26 April 2005, by [section 7][532] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 120A(4): amended, on 1 July 1993, by [section 32(b)][563] of the Health Amendment Act 1993 (1993 No 24).
+    Section 120A(4): amended, on 1 July 1993, by [section 32(b)][564] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 120A(5): amended, on 26 April 2005, by [section 7][531] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 120A(5): amended, on 26 April 2005, by [section 7][532] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 120B Regulations as to camping grounds
     
@@ -6950,11 +6950,11 @@ Regulations
     
     *   (k) prescribe or make provision for such other matters as may be necessary for the due administration of this section and of any such regulations.
     
-    Section 120B: inserted, on 10 December 1976, by [section 2(1)][564] of the Health Amendment Act 1976 (1976 No 91).
+    Section 120B: inserted, on 10 December 1976, by [section 2(1)][565] of the Health Amendment Act 1976 (1976 No 91).
 
 ##### 120C Regulations as to housing improvement and overcrowding
     
-*   (1) Subject to the [Building Act 2004][459], for the purpose of prescribing standards of fitness with which any dwellinghouse, whether erected before or after the commencement of this section, must comply, regulations made under this Act may make provision for or with respect to---
+*   (1) Subject to the [Building Act 2004][460], for the purpose of prescribing standards of fitness with which any dwellinghouse, whether erected before or after the commencement of this section, must comply, regulations made under this Act may make provision for or with respect to---
         
     *   (a) the construction, condition, and situation of dwellinghouses, and the space about dwellinghouses:
     
@@ -6980,11 +6980,11 @@ Regulations
     
     Section 120C: inserted, on 30 November 1979, by section 7(1) of the Health Amendment Act 1979 (1979 No 64).
     
-    Section 120C(1): amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 120C(1): amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
     
     Section 120C(1): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 120C(1)(d): amended, on 1 July 2008, by [section 8][565] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 120C(1)(d): amended, on 1 July 2008, by [section 8][566] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 121 Regulations as to qualifications of environmental health officers appointed by local authorities
     
@@ -6996,13 +6996,13 @@ Regulations
     
     Compare: 1920 No 45 s 132(1)(ab); 1940 No 17 s 5(1)
     
-    Section 121 heading: amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 121 heading: amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 121(1): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 121(1): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 121(2): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 121(2): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 121(3): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 121(3): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 121A Regulations as to retention of health information
     
@@ -7026,15 +7026,15 @@ Regulations
     
     Section 121A: inserted, on 1 July 1993, by section 3 of the Health Amendment Act (No 2) 1993 (1993 No 32).
     
-    Section 121A(1)(a): amended, on 7 March 2005, by [section 5(1)][566] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 121A(1)(a): amended, on 7 March 2005, by [section 5(1)][567] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
     
-    Section 121A(1)(b): amended, on 7 March 2005, by [section 5(2)][566] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 121A(1)(b): amended, on 7 March 2005, by [section 5(2)][567] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
     
-    Section 121A(1)(c): amended, on 7 March 2005, by [section 5(3)][566] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 121A(1)(c): amended, on 7 March 2005, by [section 5(3)][567] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
     
-    Section 121A(1)(c): amended, on 7 March 2005, by [section 5(4)][566] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 121A(1)(c): amended, on 7 March 2005, by [section 5(4)][567] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
     
-    Section 121A(2): amended, on 7 March 2005, by [section 5(5)][566] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
+    Section 121A(2): amended, on 7 March 2005, by [section 5(5)][567] of the Health (National Cervical Screening Programme) Amendment Act 2004 (2004 No 3).
 
 ##### 122 Special provisions as to regulations
     
@@ -7048,15 +7048,15 @@ Regulations
     
     (5) \[Repealed\]
     
-    (6) The Minister, before recommending the making of any regulations under [section 117][340] or [section 119][342] relating to hazardous substances (as defined in [section 2][567] of the Hazardous Substances and New Organisms Act 1996), must consult the Environmental Protection Authority established by [section 7][568] of the Environmental Protection Authority Act 2011 about the contents of any such regulations, and shall take into account any submissions made by the Authority.
+    (6) The Minister, before recommending the making of any regulations under [section 117][340] or [section 119][342] relating to hazardous substances (as defined in [section 2][568] of the Hazardous Substances and New Organisms Act 1996), must consult the Environmental Protection Authority established by [section 7][569] of the Environmental Protection Authority Act 2011 about the contents of any such regulations, and shall take into account any submissions made by the Authority.
     
     Compare: 1920 No 45 s 133
     
-    Section 122(5): repealed, on 19 December 1989, by [section 11][569] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 122(5): repealed, on 19 December 1989, by [section 11][570] of the Regulations (Disallowance) Act 1989 (1989 No 143).
     
-    Section 122(6): inserted, on 2 July 2001, by [section 149][570] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 122(6): inserted, on 2 July 2001, by [section 149][571] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 122(6): amended, on 1 July 2011, by [section 53(1)][571] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 122(6): amended, on 1 July 2011, by [section 53(1)][572] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
 ## Part 7  
 Miscellaneous provisions
@@ -7085,37 +7085,37 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 143; 1951 No 44 s 7
     
-    Section 123 heading: amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 123 heading: amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 123(1): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 123(1): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 123(1)(a): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 123(1)(a): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 123(1)(b): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 123(1)(b): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 123(2): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 123(2): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 123(3): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 123(3): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 123(4): amended, on 23 March 1987, by [section 7(2)][447] of the Health Amendment Act 1987 (1987 No 10).
+    Section 123(4): amended, on 23 March 1987, by [section 7(2)][448] of the Health Amendment Act 1987 (1987 No 10).
     
-    Section 123(5): replaced, on 1 July 1993, by [section 33][572] of the Health Amendment Act 1993 (1993 No 24).
+    Section 123(5): replaced, on 1 July 1993, by [section 33][573] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 123(6): replaced, on 1 July 1993, by [section 33][572] of the Health Amendment Act 1993 (1993 No 24).
+    Section 123(6): replaced, on 1 July 1993, by [section 33][573] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 123(7): replaced, on 1 July 1993, by [section 33][572] of the Health Amendment Act 1993 (1993 No 24).
+    Section 123(7): replaced, on 1 July 1993, by [section 33][573] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 123(7): amended, on 25 January 2005, pursuant to [section 65R(3)][455] of the Public Finance Act 1989 (1989 No 44).
+    Section 123(7): amended, on 25 January 2005, pursuant to [section 65R(3)][456] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 123A Mandamus
     
 *   The Minister may apply to the High Court for a writ of mandamus to compel a local authority to perform any duty that the local authority has failed to perform under this Act.
     
-    Section 123A: inserted, on 3 November 1964, by [section 11][573] of the Health Amendment Act 1964 (1964 No 34).
+    Section 123A: inserted, on 3 November 1964, by [section 11][574] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 123A: amended, on 1 October 1988, by [section 4(3)][403] of the Health Amendment Act 1988 (1988 No 99).
+    Section 123A: amended, on 1 October 1988, by [section 4(3)][404] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 123A: amended, on 1 April 1980, pursuant to [section 12][574] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 123A: amended, on 1 April 1980, pursuant to [section 12][575] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 124 Constitution and powers of boards of appeal
     
@@ -7129,7 +7129,7 @@ Miscellaneous provisions
     
     (5) The decision of not less than 2 members of the board of appeal (including the chairman) shall be the decision of that board, and that decision shall be final.
     
-    (6) The board of appeal shall, within the scope of its jurisdiction, be deemed to be a commission under the [Commissions of Inquiry Act 1908][575], and, subject to the provisions of this Act, all the provisions of that Act shall apply accordingly.
+    (6) The board of appeal shall, within the scope of its jurisdiction, be deemed to be a commission under the [Commissions of Inquiry Act 1908][576], and, subject to the provisions of this Act, all the provisions of that Act shall apply accordingly.
     
     (7) The chairman of the board of appeal may exercise the powers of the board in respect of summoning witnesses, and may do any other act preliminary or incidental to the hearing or consideration of any matter by the board.
     
@@ -7137,13 +7137,13 @@ Miscellaneous provisions
     
     provided that no meeting of the board shall be held unless all the members of the board are present.
     
-    (9) There shall be paid to the assessors out of money appropriated by Parliament for the purpose remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][576], and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
+    (9) There shall be paid to the assessors out of money appropriated by Parliament for the purpose remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][577], and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
     
     Compare: 1920 No 45 ss 8, 23(1), (2), (4)--(7), 55(3), (5); 1951 No 44 s 5(2); 1951 No 79 s 10(1)
     
-    Section 124(1): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 124(1): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 124(3): replaced, on 1 July 1993, by [section 34(1)][577] of the Health Amendment Act 1993 (1993 No 24).
+    Section 124(3): replaced, on 1 July 1993, by [section 34(1)][578] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 125 Medical examination of children
     
@@ -7151,9 +7151,9 @@ Miscellaneous provisions
     
     _child care centre_ has the same meaning as in section 105(3) of the Children and Young Persons Act 1974
     
-    _private school_ means a school registered under [section 186][578] of the Education Act 1964 and any premises, not being so registered and being neither a child care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
+    _private school_ means a school registered under [section 186][579] of the Education Act 1964 and any premises, not being so registered and being neither a child care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
     
-    _public school_ means a school established under [Part 3][579] of the Education Act 1964; and includes a kindergarten or other institution providing pre-school education recognised under regulations made pursuant to [section 70][580] of that Act.
+    _public school_ means a school established under [Part 3][580] of the Education Act 1964; and includes a kindergarten or other institution providing pre-school education recognised under regulations made pursuant to [section 70][581] of that Act.
     
     (2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school or child care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
     
@@ -7163,7 +7163,7 @@ Miscellaneous provisions
     
     Section 125(1) **child care centre**: amended, on 1 April 1975, pursuant to section 109 of the Children and Young Persons Act 1974 (1974 No 72).
     
-    Section 125(2): amended, on 1 July 1993, by [section 35][581] of the Health Amendment Act 1993 (1993 No 24).
+    Section 125(2): amended, on 1 July 1993, by [section 35][582] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 125(2): amended, on 30 November 1979, by section 8 of the Health Amendment Act 1979 (1979 No 64).
 
@@ -7177,23 +7177,23 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 142; 1940 No 17 s 13
     
-    Section 126(1): amended, on 1 July 1993, by [section 36][582] of the Health Amendment Act 1993 (1993 No 24).
+    Section 126(1): amended, on 1 July 1993, by [section 36][583] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 126(1): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 126(1): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 126(3): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 126(3): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 126A Persons attempting to commit suicide
     
 *   \[Repealed\]
     
-    Section 126A: repealed, on 1 July 1993, by [section 37(1)][583] of the Health Amendment Act 1993 (1993 No 24).
+    Section 126A: repealed, on 1 July 1993, by [section 37(1)][584] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 126B Blood transfusions
     
 *   \[Repealed\]
     
-    Section 126B: repealed, on 1 July 2005, by [section 151][584] of the Care of Children Act 2004 (2004 No 90).
+    Section 126B: repealed, on 1 July 2005, by [section 151][585] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 127 Attendance of medical officer of health at meetings of local authorities
     
@@ -7201,7 +7201,7 @@ Miscellaneous provisions
     
     provided that he shall not have the right to vote on any question at any such meeting, and shall retire from the meeting whenever he is requested to do so by the chairman of the meeting.
     
-    Section 127: amended, on 22 January 1996, by [section 3(3)][416] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
+    Section 127: amended, on 22 January 1996, by [section 3(3)][417] of the Health and Disability Services Amendment Act 1995 (1995 No 84).
 
 ##### 128 Power of entry and inspection
     
@@ -7209,21 +7209,21 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 134; 1940 No 17 s 18
     
-    Section 128: amended, on 26 July 1988, pursuant to [section 2(5)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 128: amended, on 26 July 1988, pursuant to [section 2(5)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 128A Building Act 2004
     
-*   (1) Where any person making an inspection in accordance with [section 128][359] believes that any building or sitework does not comply with the [Building Act 2004][459], that person shall by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
+*   (1) Where any person making an inspection in accordance with [section 128][359] believes that any building or sitework does not comply with the [Building Act 2004][460], that person shall by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
     
-    (2) For the purposes of this section, the terms _building_, _sitework_, and _territorial authority_ have the meanings ascribed to them by the [Building Act 2004][459].
+    (2) For the purposes of this section, the terms _building_, _sitework_, and _territorial authority_ have the meanings ascribed to them by the [Building Act 2004][460].
     
     Section 128A: inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 128A heading: amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 128A heading: amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
     
-    Section 128A(1): amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 128A(1): amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
     
-    Section 128A(2): amended, on 31 March 2005, by [section 414][460] of the Building Act 2004 (2004 No 72).
+    Section 128A(2): amended, on 31 March 2005, by [section 414][461] of the Building Act 2004 (2004 No 72).
 
 ##### 129 Protection of persons acting under authority of Act
     
@@ -7249,11 +7249,11 @@ Miscellaneous provisions
     
     Section 129(2): amended, on 9 December 1994, by section 3(c) of the Health Amendment Act (No 3) 1994 (1994 No 137).
     
-    Section 129(2): amended, on 1 April 1980, pursuant to [section 12][574] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 129(2): amended, on 1 April 1980, pursuant to [section 12][575] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 129(4): amended, on 9 December 1994, by section 3(d) of the Health Amendment Act (No 3) 1994 (1994 No 137).
     
-    Section 129(6): inserted, on 1 July 2008, by [section 9][585] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 129(6): inserted, on 1 July 2008, by [section 9][586] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 130 Expenses of local authorities
     
@@ -7265,9 +7265,9 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 140
     
-    Section 130(2): repealed, on 1 July 2003, by [section 138(1)][586] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 130(2): repealed, on 1 July 2003, by [section 138(1)][587] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 130(3): repealed, on 1 July 2003, by [section 138(1)][586] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 130(3): repealed, on 1 July 2003, by [section 138(1)][587] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 131 Service of documents
     
@@ -7283,13 +7283,13 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 136
     
-    Section 131(1): amended, on 26 July 1988, by [section 8][587] of the Health Amendment Act 1988 (1988 No 99).
+    Section 131(1): amended, on 26 July 1988, by [section 8][588] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 131(3): amended, on 1 April 1980, pursuant to [section 12][574] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 131(3): amended, on 1 April 1980, pursuant to [section 12][575] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 131(3A): inserted, on 3 November 1964, by [section 12][588] of the Health Amendment Act 1964 (1964 No 34).
+    Section 131(3A): inserted, on 3 November 1964, by [section 12][589] of the Health Amendment Act 1964 (1964 No 34).
     
-    Section 131(4): amended, on 1 April 1980, pursuant to [section 12][574] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 131(4): amended, on 1 April 1980, pursuant to [section 12][575] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 132 Procedure in respect of charges on land
     
@@ -7299,15 +7299,15 @@ Miscellaneous provisions
     
     *   (b) subject to any decision of the court, a certificate under the hand of the medical officer of health or of the mayor, chairperson, or chief executive of the local authority is sufficient evidence of the amount of the charge, the land subject to the charge, and the persons liable to pay the amount of the charge:
     
-    *   (c) the charge may be registered under the provisions of the [Statutory Land Charges Registration Act 1928][468]:
+    *   (c) the charge may be registered under the provisions of the [Statutory Land Charges Registration Act 1928][469]:
     
     *   (d) except as hereinafter provided, the charge shall, on registration, have priority over all existing or subsequent mortgages, charges, or encumbrances howsoever created. Notwithstanding anything to the contrary in any other Act, if any land subject to the charge is also subject to a charge created by that other Act, the charges shall rank equally with each other unless by virtue of that other Act the charge created thereby would be deferred to the charge created by this Act.
     
     Compare: 1920 No 45 s 144
     
-    Section 132(a): amended, on 1 April 1980, pursuant to [section 18(2)][457] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 132(a): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 132(b): replaced, on 1 July 2003, by [section 262][408] of the Local Government Act 2002 (2002 No 84).
+    Section 132(b): replaced, on 1 July 2003, by [section 262][409] of the Local Government Act 2002 (2002 No 84).
 
 ##### 132A Bursaries
     
@@ -7327,7 +7327,7 @@ Miscellaneous provisions
     
     (7) Nothing in this section shall affect any bursary awarded by or on behalf of the Minister otherwise than pursuant to this section or the validity of any agreement, bond, or acknowledgement, whether executed before or after the commencement of this section, relating to any such bursary.
     
-    Section 132A: inserted, on 1 August 1965, by [section 13(1)][589] of the Health Amendment Act 1964 (1964 No 34).
+    Section 132A: inserted, on 1 August 1965, by [section 13(1)][590] of the Health Amendment Act 1964 (1964 No 34).
 
 ##### 133 Obstruction of officers
     
@@ -7343,9 +7343,9 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 137
     
-    Section 134(1): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 134(1): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
     
-    Section 134(2): amended, on 26 July 1988, pursuant to [section 2(4)][407] of the Health Amendment Act 1988 (1988 No 99).
+    Section 134(2): amended, on 26 July 1988, pursuant to [section 2(4)][408] of the Health Amendment Act 1988 (1988 No 99).
 
 ##### 135 Interference by owner or occupier
     
@@ -7387,7 +7387,7 @@ Miscellaneous provisions
     
     *   (b) forms part of the instrument for all purposes and has legal effect accordingly.
     
-    Section 137A: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137A: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137B Effect of amendments to, or replacement of, material incorporated by reference
     
@@ -7405,7 +7405,7 @@ Miscellaneous provisions
         
         
     
-    Section 137B: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137B: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137C Proof of material incorporated by reference
     
@@ -7417,13 +7417,13 @@ Miscellaneous provisions
     
     (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the instrument of the material.
     
-    Section 137C: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137C: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137D Effect of expiry of material incorporated by reference
     
 *   Material incorporated by reference in this Act or an instrument that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the Act or the instrument only if the Minister or, as appropriate, the Director-General, by notice in the _Gazette_, states that the material ceases to have legal effect.
     
-    Section 137D: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137D: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137E Requirement to consult
     
@@ -7473,7 +7473,7 @@ Miscellaneous provisions
     
     (5) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
     
-    Section 137E: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137E: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137F Access to material incorporated by reference
     
@@ -7507,19 +7507,19 @@ Miscellaneous provisions
     
     (3) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
     
-    Section 137F: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137F: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137G Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][486] does not apply to material incorporated by reference in this Act or in an instrument or to an amendment to, or replacement of, that material.
+*   The [Acts and Regulations Publication Act 1989][487] does not apply to material incorporated by reference in this Act or in an instrument or to an amendment to, or replacement of, that material.
     
-    Section 137G: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137G: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137H Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
-*   Nothing in [section 4][555] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in this Act or in an instrument made or issued under this Act to be laid before the House of Representatives.
+*   Nothing in [section 4][556] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in this Act or in an instrument made or issued under this Act to be laid before the House of Representatives.
     
-    Section 137H: inserted, on 1 July 2008, by [section 10][590] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137H: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 138 Other Acts not affected
     
@@ -7533,7 +7533,7 @@ Miscellaneous provisions
     
     (2) Every reference in any other enactment to a sanitary inspector shall be deemed to be a reference to a city health inspector or, as the case may require, to a borough health inspector, a town district health inspector, a county health inspector, or a district health inspector.
     
-    Section 139(2): amended, on 1 April 1980, by [section 8(3)][472] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 139(2): amended, on 1 April 1980, by [section 8(3)][473] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 140 Repeals and savings
     
@@ -7541,13 +7541,13 @@ Miscellaneous provisions
     
     (2) The regulations and notices specified in [Schedule 8][389] are hereby revoked.
     
-    (3) Without limiting the provisions of the [Interpretation Act 1999][591], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+    (3) Without limiting the provisions of the [Interpretation Act 1999][592], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
     (4) \[Repealed\]
     
     (5) Any regulations made under the Social Hygiene Act 1917 and in force at the commencement of this Act shall be deemed to have been made under this Act and shall continue in force accordingly, except so far as any provision of those regulations is inconsistent with any provision of [Part 3][211].
     
-    Section 140(3): amended, on 1 November 1999, pursuant to [section 38(1)][592] of the Interpretation Act 1999 (1999 No 85).
+    Section 140(3): amended, on 1 November 1999, pursuant to [section 38(1)][593] of the Interpretation Act 1999 (1999 No 85).
     
     Section 140(4): repealed, on 1 April 1970, by section 129(1) of the Mental Health Act 1969 (1969 No 16).
 
@@ -7563,7 +7563,7 @@ Infectious diseases
 ## Part 1  
 Notifiable infectious diseases
 
-### Section A Infectious diseases notifiable to medical officer of health and local authority
+### Section A---Infectious diseases notifiable to medical officer of health and local authority
 
 Acute gastroenteritis
 
@@ -7591,28 +7591,28 @@ Typhoid and paratyphoid fever
 
 Yersiniosis
     
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(a)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(b)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(c)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(d)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(e)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(f)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(g)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(h)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(i)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(j)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(k)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(l)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(m)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(n)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(o)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(p)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(q)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(r)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(s)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(2)][593] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(a)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(b)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(c)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(d)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(e)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(f)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(g)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(h)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(i)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(j)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(k)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(l)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(m)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(n)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(o)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(p)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(q)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(r)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(s)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(2)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
-### Section B Infectious diseases notifiable to medical officer of health
+### Section B---Infectious diseases notifiable to medical officer of health
 
 Acquired Immunodeficiency Syndrome
 
@@ -7682,25 +7682,25 @@ Viral heamorrhagic fevers
 
 Yellow fever
     
-*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(a)][594] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
-*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(b)][594] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
-*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(c)][594] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
-*   Schedule 1 Part 1 Section B: amended, at 4 pm on 29 April 2009, by [clause 3(a)][595] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
-*   Schedule 1 Part 1 Section B: amended, on 16 October 2008, by [clause 3][596] of the Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008 (SR 2008/312).
-*   Schedule 1 Part 1 Section B: amended, on 12 February 2004, by [clause 3][597] of the Infectious and Notifiable Disease (Highly Pathogenic Avian Influenza) Order 2004 (SR 2004/8).
-*   Schedule 1 Part 1 Section B: amended, on 1 April 2003, by [clause 3][598] of the Infectious and Notifiable Disease (SARS) Order 2003 (SR 2003/70).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(a)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(b)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(c)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(d)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(e)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(f)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(g)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(h)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(i)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(j)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(k)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(2)][599] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(a)][595] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(b)][595] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(c)][595] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 1 Part 1 Section B: amended, at 4 pm on 29 April 2009, by [clause 3(a)][596] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
+*   Schedule 1 Part 1 Section B: amended, on 16 October 2008, by [clause 3][597] of the Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008 (SR 2008/312).
+*   Schedule 1 Part 1 Section B: amended, on 12 February 2004, by [clause 3][598] of the Infectious and Notifiable Disease (Highly Pathogenic Avian Influenza) Order 2004 (SR 2004/8).
+*   Schedule 1 Part 1 Section B: amended, on 1 April 2003, by [clause 3][599] of the Infectious and Notifiable Disease (SARS) Order 2003 (SR 2003/70).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(a)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(b)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(c)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(d)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(e)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(f)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(g)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(h)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(i)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(j)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(k)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(2)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
 ## Part 2  
 Other infectious diseases
@@ -7729,22 +7729,22 @@ Varicella-zoster infection
 
 Venereal granuloma
     
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(a)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(b)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(c)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(d)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(e)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(f)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(g)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(h)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(i)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(j)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(k)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(l)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(m)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(n)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(o)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(2)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(a)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(b)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(c)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(d)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(e)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(f)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(g)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(h)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(i)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(j)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(k)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(l)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(m)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(n)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(o)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(2)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
 ## Part 3  
 Quarantinable infectious diseases
@@ -7759,8 +7759,8 @@ Quarantinable infectious diseases
 
 *   5 non-seasonal influenza (capable of being transmitted between human beings)
 
-*   Schedule 1 Part 3: inserted, on 19 December 2006, by [section 4(3)][404] of the Health Amendment Act 2006 (2006 No 86).
-*   Schedule 1 Part 3: amended, at 4 pm on 29 April 2009, by [clause 3(b)][595] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
+*   Schedule 1 Part 3: inserted, on 19 December 2006, by [section 4(3)][405] of the Health Amendment Act 2006 (2006 No 86).
+*   Schedule 1 Part 3: amended, at 4 pm on 29 April 2009, by [clause 3(b)][596] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
 
 ---
 
@@ -7771,11 +7771,11 @@ Diseases notifiable to medical officer of health (other than notifiable infectio
 
 *   Schedule 2: replaced, on 26 November 1982, by section 6 of the Health Amendment Act 1982 (1982 No 34).
 
-### Section A Conditions arising from occupation
+### Section A---Conditions arising from occupation
     
-*   Schedule 2 Section A: amended, on 13 December 2012, by [clause 4][601] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 2 Section A: amended, on 13 December 2012, by [clause 4][602] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
 
-### Section B Other conditions
+### Section B---Other conditions
 
 Cysticercosis
 
@@ -7789,20 +7789,20 @@ Taeniasis
 
 Trichinosis
     
-*   Schedule 2 Section B: amended, on 3 September 2007, by [clause 3][602] of the Infectious and Notifiable Diseases Order 2007 (SR 2007/202).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(a)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(b)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(c)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(d)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(e)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(f)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(g)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(h)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(i)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(j)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(k)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(l)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(4)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 3 September 2007, by [clause 3][603] of the Infectious and Notifiable Diseases Order 2007 (SR 2007/202).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(a)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(b)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(c)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(d)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(e)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(f)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(g)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(h)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(i)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(j)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(k)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(l)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(4)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
 ---
 
@@ -7851,7 +7851,7 @@ Wool scouring
     
 *   Schedule 3: amended, on 1 April 1974, by section 56(1) of the Clean Air Act 1972 (1972 No 31).
 *   Schedule 3: amended, on 25 October 1960, by section 5(1) of the Health Amendment Act 1960 (1960 No 96).
-*   Schedule 3: amended, on 1 June 1959, by [clause 2][604] of the Offensive Trades Order 1959 (SR 1959/79).
+*   Schedule 3: amended, on 1 June 1959, by [clause 2][605] of the Offensive Trades Order 1959 (SR 1959/79).
 
 ---
 
@@ -7907,7 +7907,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79) 
 
-_Amendment(s) incorporated in the _[Act(s)][605]_._
+_Amendment(s) incorporated in the _[Act(s)][606]_._
 
 ##### Finance Act 1921 (1921 No 5) (1931 Reprint, Vol VI, p 1117)
 
@@ -7951,15 +7951,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1943 (1943 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][606]._
+_Amendment(s) incorporated in the [Act(s)][607]._
 
 ##### Statutes Amendment Act 1945 (1945 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][607]._
+_Amendment(s) incorporated in the [Act(s)][608]._
 
 ##### Statutes Amendment Act 1949 (1949 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][608]._
+_Amendment(s) incorporated in the [Act(s)][609]._
 
 ---
 
@@ -8042,7 +8042,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Health (National Cervical Screening Programme) Amendment Act 2004][609].
+*   (1) This Act is the [Health (National Cervical Screening Programme) Amendment Act 2004][610].
     
     (2) In this Act, the Health Act 1956 is called ""the principal Act"".
 
@@ -8098,7 +8098,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Health (Drinking Water) Amendment Act 2007][610].
+*   This Act is the [Health (Drinking Water) Amendment Act 2007][611].
 
 ##### 2 Commencement
     
@@ -8177,7 +8177,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Human Tissue Act 2008][611].
+*   This Act is the [Human Tissue Act 2008][612].
 
 ##### 2 Commencement
     
@@ -8187,7 +8187,7 @@ Commencementsee section 2
     
     (3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2(3): Human Tissue Act 2008 (except sections 1, 2, 87, 88, 89, and the heading above section 87) brought into force, on 1 November 2008, by the [Human Tissue Act 2008 Commencement Order 2008][612] (SR 2008/311).
+    Section 2(3): Human Tissue Act 2008 (except sections 1, 2, 87, 88, 89, and the heading above section 87) brought into force, on 1 November 2008, by the [Human Tissue Act 2008 Commencement Order 2008][613] (SR 2008/311).
 
 ## Part 3  
 Technical and miscellaneous provisions
@@ -8224,21 +8224,21 @@ Technical and miscellaneous provisions
     
 *   This is a reprint of the Health Act 1956\. The reprint incorporates all the amendments to the Act as at 13 December 2012, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][613] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][614] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][614] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][615] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][615] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][616] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][616] and [17E][617] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][617] and [17E][618] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -8269,87 +8269,87 @@ Technical and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Infectious and Notifiable Diseases Order 2012][618] (SR 2012/339)
+*   [Infectious and Notifiable Diseases Order 2012][619] (SR 2012/339)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 330][514]
+    Search and Surveillance Act 2012 (2012 No 24): [section 330][515]
     
-    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][571]
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][572]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][538]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][539]
     
-    [Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009][476] (SR 2009/176)
+    [Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009][477] (SR 2009/176)
     
-    [Health (Non-Seasonal Influenza) Order 2009][619] (SR 2009/113)
+    [Health (Non-Seasonal Influenza) Order 2009][620] (SR 2009/113)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(i), (ii)][439]
+    Policing Act 2008 (2008 No 72): [section 116(a)(i), (ii)][440]
     
-    [Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008][620] (SR 2008/312)
+    [Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008][621] (SR 2008/312)
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][441]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][442]
     
-    Human Tissue Act 2008 (2008 No 28): [sections 92][444], [93(2)][532]
+    Human Tissue Act 2008 (2008 No 28): [sections 92][445], [93(2)][533]
     
-    [Health (Drinking Water) Amendment Act 2007][610] (2007 No 92)
+    [Health (Drinking Water) Amendment Act 2007][611] (2007 No 92)
     
-    [Infectious and Notifiable Diseases Order 2007][621] (SR 2007/202)
+    [Infectious and Notifiable Diseases Order 2007][622] (SR 2007/202)
     
-    [Health Amendment Act 2006][622] (2006 No 86)
+    [Health Amendment Act 2006][623] (2006 No 86)
     
-    Coroners Act 2006 (2006 No 38): [section 146][528]
+    Coroners Act 2006 (2006 No 38): [section 146][529]
     
-    [Health Amendment Act 2005][623] (2005 No 34)
+    [Health Amendment Act 2005][624] (2005 No 34)
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][531]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][532]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][413]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][414]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][584]
+    Care of Children Act 2004 (2004 No 90): [section 151][585]
     
-    Building Act 2004 (2004 No 72): [section 414][460]
+    Building Act 2004 (2004 No 72): [section 414][461]
     
-    Local Government Act 1974 Amendment Act 2004 (2004 No 64): [section 21][449]
+    Local Government Act 1974 Amendment Act 2004 (2004 No 64): [section 21][450]
     
-    Corrections Act 2004 (2004 No 50):[section 206][436]
+    Corrections Act 2004 (2004 No 50):[section 206][437]
     
     Infectious and Notifiable Disease (Highly Pathogenic Avian Influenza) Order 2004 (SR 2004/8)
     
-    [Health (National Cervical Screening Programme) Amendment Act 2004][609] (2004 No 3)
+    [Health (National Cervical Screening Programme) Amendment Act 2004][610] (2004 No 3)
     
     Infectious and Notifiable Disease (SARS) Order 2003 (SR 2003/70)
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][409]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][410]
     
-    Local Government Act 2002 (2002 No 84): [section 262][408]
+    Local Government Act 2002 (2002 No 84): [section 262][409]
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][506]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][507]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][437]
+    Sentencing Act 2002 (2002 No 9): [section 186][438]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][586]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][587]
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][395]
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][406]
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][407]
     
-    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][440]
+    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][441]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][592]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][593]
     
-    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][438]
+    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][439]
     
-    [Health Amendment Act 1998][624] (1998 No 86)
+    [Health Amendment Act 1998][625] (1998 No 86)
     
     Health and Disability Services Amendment Act 1998 (1998 No 74): section 5(4)
     
     Infectious and Notifiable Diseases Order 1996 (SR 1996/92)
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][570]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][571]
     
     Medical Practitioners Act 1995 (1995 No 95): section 143(1)
     
-    Health and Disability Services Amendment Act 1995 (1995 No 84): [sections 3(3)][416], [13][411]
+    Health and Disability Services Amendment Act 1995 (1995 No 84): [sections 3(3)][417], [13][412]
     
-    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [sections 4(1)(a)][539], [6(1)(b)][530]
+    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [sections 4(1)(a)][540], [6(1)(b)][531]
     
     Health Amendment Act (No 3) 1994 (1994 No 137)
     
@@ -8359,47 +8359,47 @@ Technical and miscellaneous provisions
     
     Health Amendment Act (No 2) 1993 (1993 No 32)
     
-    [Health Amendment Act 1993][625] (1993 No 24)
+    [Health Amendment Act 1993][626] (1993 No 24)
     
-    Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][421]
+    Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][422]
     
     Building Act 1991 (1991 No 150): section 92(1)
     
-    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][402]
+    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][403]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][569]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][570]
     
-    Sale of Liquor Act 1989 (1989 No 63): [section 230(2)][524]
+    Sale of Liquor Act 1989 (1989 No 63): [section 230(2)][525]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][455]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][456]
     
-    [Health Amendment Act 1988][626] (1988 No 99)
+    [Health Amendment Act 1988][627] (1988 No 99)
     
     Health Amendment Act (No 2) 1987 (1987 No 194)
     
-    [Health Amendment Act 1987][627] (1987 No 10)
+    [Health Amendment Act 1987][628] (1987 No 10)
     
     Health Amendment Act 1982 (1982 No 34)
     
     Clean Air Amendment Act 1982 (1982 No 31): section 27
     
-    Summary Offences Act 1981 (1981 No 113): [section 51(3)][523]
+    Summary Offences Act 1981 (1981 No 113): [section 51(3)][524]
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][452]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][453]
     
-    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][464], [18(2)][457]
+    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][465], [18(2)][458]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][574]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][575]
     
     Health Amendment Act 1979 (1979 No 64)
     
-    Local Government Amendment Act 1979 (1979 No 59): [sections 8(3)][472], [9(1)][458]
+    Local Government Amendment Act 1979 (1979 No 59): [sections 8(3)][473], [9(1)][459]
     
     Health Amendment Act 1978 (1978 No 96)
     
     Health Amendment Act 1976 (1976 No 91)
     
-    Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69): [section 68(2)][560]
+    Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69): [section 68(2)][561]
     
     Children and Young Persons Act 1974 (1974 No 72): section 109
     
@@ -8421,7 +8421,7 @@ Technical and miscellaneous provisions
     
     Health Amendment Act 1960 (1960 No 96)
     
-    Offensive Trades Order 1959 (SR 1959/79): [clause 2][604]
+    Offensive Trades Order 1959 (SR 1959/79): [clause 2][605]
     
     Health Act 1956 (1956 No 65): [section 22J][51]
 
@@ -8823,235 +8823,236 @@ Technical and miscellaneous provisions
 [393]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404486
 [394]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404483
 [395]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM120905
-[396]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM170872
-[397]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204329
-[398]: http://www.legislation.govt.nz/act/public/1956/0065/latest/whole.html#DLM308730
-[399]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM269031
-[400]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM80064
-[401]: http://www.legislation.govt.nz/act/public/1956/0065/latest/whole.html#DLM308744
-[402]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM218728
-[403]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132551
-[404]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404618
-[405]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295792
-[406]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM81644
-[407]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132546
-[408]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM174088
-[409]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM205009
-[410]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296637
-[411]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM371908
-[412]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM162464
-[413]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM328867
-[414]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295795
-[415]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295796
-[416]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM371289
-[417]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295797
-[418]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295798
-[419]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295799
-[420]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296600
-[421]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM279941
-[422]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132554
-[423]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296645
-[424]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM64790
-[425]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM294944
-[426]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297408
-[427]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297038
-[428]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM294848
-[429]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM147087
-[430]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM359106
-[431]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM363920
-[432]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM401062
-[433]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204972
-[434]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM33501
-[435]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM80050
-[436]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297136
-[437]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM137267
-[438]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM429013
-[439]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1102349
-[440]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM36187
-[441]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1313622
-[442]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1154253
-[443]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428183
-[444]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1154311
-[445]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297439
-[446]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM306676
-[447]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101380
-[448]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969842
-[449]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM304012
-[450]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296607
-[451]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM45426
-[452]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM48604
-[453]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101388
-[454]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296608
-[455]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM162942
-[456]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296609
-[457]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM35085
-[458]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM34673
-[459]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM306035
-[460]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM309090
-[461]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969843
-[462]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101389
-[463]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM242775
-[464]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM35057
-[465]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296610
-[466]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296611
-[467]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM141134
-[468]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204851
-[469]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM230264
-[470]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101390
-[471]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM415531
-[472]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM34672
-[473]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296612
-[474]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296613
-[475]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969845
-[476]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2134900
-[477]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2134906
-[478]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM315317
-[479]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM317104
-[480]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM48686
-[481]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970046
-[482]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM170881
-[483]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1520575
-[484]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM129507
-[485]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195534
-[486]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195097
-[487]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM149788
-[488]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM446000
-[489]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231918
-[490]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231949
-[491]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231970
-[492]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231974
-[493]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231978
-[494]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204978
-[495]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM407090
-[496]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM381221
-[497]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM149796
-[498]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231916
-[499]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM433203
-[500]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM311191
-[501]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM87622
-[502]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM222446
-[503]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM55846
-[504]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM294857
-[505]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404629
-[506]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM151437
-[507]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352241
-[508]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404630
-[509]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352242
-[510]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4355802
-[511]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2136830
-[512]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2136893
-[513]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404631
-[514]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2137130
-[515]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296614
-[516]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296615
-[517]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404634
-[518]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238120
-[519]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404636
-[520]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296618
-[521]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM53353
-[522]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM165115
-[523]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM53759
-[524]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM167530
-[525]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296619
-[526]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM377056
-[527]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296620
-[528]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM378303
-[529]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352245
-[530]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM366838
-[531]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM333795
-[532]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1154312
-[533]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428184
-[534]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404641
-[535]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1440300
-[536]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM366853
-[537]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296627
-[538]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1441347
-[539]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM366835
-[540]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132556
-[541]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101391
-[542]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404650
-[543]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296629
-[544]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404653
-[545]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238121
-[546]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM318893
-[547]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM318887
-[548]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM203321
-[549]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM129736
-[550]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM225615
-[551]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM129566
-[552]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM198872
-[553]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341212
-[554]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341213
-[555]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195549
-[556]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM128740
-[557]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352246
-[558]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296630
-[559]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352247
-[560]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM439678
-[561]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352248
-[562]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM262175
-[563]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296631
-[564]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM439955
-[565]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970029
-[566]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238610
-[567]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM382730
-[568]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM3366850
-[569]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195558
-[570]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM385160
-[571]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM3366997
-[572]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296632
-[573]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352251
-[574]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM35049
-[575]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM139130
-[576]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM264952
-[577]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296633
-[578]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM358887
-[579]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357828
-[580]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357830
-[581]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296634
-[582]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296635
-[583]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296636
-[584]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM317988
-[585]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970030
-[586]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM133501
-[587]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132557
-[588]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352252
-[589]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352253
-[590]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970031
-[591]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31458
-[592]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31885
-[593]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209668
-[594]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865552
-[595]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008606
-[596]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588106
-[597]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM240437
-[598]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM187799
-[599]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209671
-[600]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209672
-[601]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865553
-[602]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443051
-[603]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209673
-[604]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM13647
-[605]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM265254
-[606]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM236440
-[607]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM239141
-[608]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM260074
-[609]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238112
-[610]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969834
-[611]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1152935
-[612]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1608000
-[613]: http://www.pco.parliament.govt.nz/reprints/
-[614]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195439
-[615]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[616]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195468
-[617]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195470
-[618]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865546
-[619]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008600
-[620]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588100
-[621]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443043
-[622]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404611
-[623]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341206
-[624]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428176
-[625]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295786
-[626]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132540
-[627]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101365
+[396]: http://www.legislation.govt.nz/act/public/1956/0065/latest/whole.html#DLM308730
+[397]: http://www.legislation.govt.nz/act/public/1956/0065/latest/whole.html#DLM308741
+[398]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM170872
+[399]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204329
+[400]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM269031
+[401]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM80064
+[402]: http://www.legislation.govt.nz/act/public/1956/0065/latest/whole.html#DLM308744
+[403]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM218728
+[404]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132551
+[405]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404618
+[406]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295792
+[407]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM81644
+[408]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132546
+[409]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM174088
+[410]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM205009
+[411]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296637
+[412]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM371908
+[413]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM162464
+[414]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM328867
+[415]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295795
+[416]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295796
+[417]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM371289
+[418]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295797
+[419]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295798
+[420]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295799
+[421]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296600
+[422]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM279941
+[423]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132554
+[424]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296645
+[425]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM64790
+[426]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM294944
+[427]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297408
+[428]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297038
+[429]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM294848
+[430]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM147087
+[431]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM359106
+[432]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM363920
+[433]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM401062
+[434]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204972
+[435]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM33501
+[436]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM80050
+[437]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297136
+[438]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM137267
+[439]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM429013
+[440]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1102349
+[441]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM36187
+[442]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1313622
+[443]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1154253
+[444]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428183
+[445]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1154311
+[446]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM297439
+[447]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM306676
+[448]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101380
+[449]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969842
+[450]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM304012
+[451]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296607
+[452]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM45426
+[453]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM48604
+[454]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101388
+[455]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296608
+[456]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM162942
+[457]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296609
+[458]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM35085
+[459]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM34673
+[460]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM306035
+[461]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM309090
+[462]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969843
+[463]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101389
+[464]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM242775
+[465]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM35057
+[466]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296610
+[467]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296611
+[468]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM141134
+[469]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204851
+[470]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM230264
+[471]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101390
+[472]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM415531
+[473]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM34672
+[474]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296612
+[475]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296613
+[476]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969845
+[477]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2134900
+[478]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2134906
+[479]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM315317
+[480]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM317104
+[481]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM48686
+[482]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970046
+[483]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM170881
+[484]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1520575
+[485]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM129507
+[486]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195534
+[487]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195097
+[488]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM149788
+[489]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM446000
+[490]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231918
+[491]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231949
+[492]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231970
+[493]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231974
+[494]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231978
+[495]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM204978
+[496]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM407090
+[497]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM381221
+[498]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM149796
+[499]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM231916
+[500]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM433203
+[501]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM311191
+[502]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM87622
+[503]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM222446
+[504]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM55846
+[505]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM294857
+[506]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404629
+[507]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM151437
+[508]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352241
+[509]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404630
+[510]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352242
+[511]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4355802
+[512]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2136830
+[513]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2136893
+[514]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404631
+[515]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2137130
+[516]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296614
+[517]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296615
+[518]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404634
+[519]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238120
+[520]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404636
+[521]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296618
+[522]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM53353
+[523]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM165115
+[524]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM53759
+[525]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM167530
+[526]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296619
+[527]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM377056
+[528]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296620
+[529]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM378303
+[530]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352245
+[531]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM366838
+[532]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM333795
+[533]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1154312
+[534]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428184
+[535]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404641
+[536]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1440300
+[537]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM366853
+[538]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296627
+[539]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1441347
+[540]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM366835
+[541]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132556
+[542]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101391
+[543]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404650
+[544]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296629
+[545]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404653
+[546]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238121
+[547]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM318893
+[548]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM318887
+[549]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM203321
+[550]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM129736
+[551]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM225615
+[552]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM129566
+[553]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM198872
+[554]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341212
+[555]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341213
+[556]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195549
+[557]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM128740
+[558]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352246
+[559]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296630
+[560]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352247
+[561]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM439678
+[562]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352248
+[563]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM262175
+[564]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296631
+[565]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM439955
+[566]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970029
+[567]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238610
+[568]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM382730
+[569]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM3366850
+[570]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195558
+[571]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM385160
+[572]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM3366997
+[573]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296632
+[574]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352251
+[575]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM35049
+[576]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM139130
+[577]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM264952
+[578]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296633
+[579]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM358887
+[580]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357828
+[581]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357830
+[582]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296634
+[583]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296635
+[584]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296636
+[585]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM317988
+[586]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970030
+[587]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM133501
+[588]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132557
+[589]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352252
+[590]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352253
+[591]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970031
+[592]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31458
+[593]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31885
+[594]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209668
+[595]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865552
+[596]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008606
+[597]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588106
+[598]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM240437
+[599]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM187799
+[600]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209671
+[601]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209672
+[602]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865553
+[603]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443051
+[604]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209673
+[605]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM13647
+[606]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM265254
+[607]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM236440
+[608]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM239141
+[609]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM260074
+[610]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238112
+[611]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969834
+[612]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1152935
+[613]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1608000
+[614]: http://www.pco.parliament.govt.nz/reprints/
+[615]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195439
+[616]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[617]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195468
+[618]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195470
+[619]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865546
+[620]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008600
+[621]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588100
+[622]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443043
+[623]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404611
+[624]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341206
+[625]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428176
+[626]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295786
+[627]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132540
+[628]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101365
