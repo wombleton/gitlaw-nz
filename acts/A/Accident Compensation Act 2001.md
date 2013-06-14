@@ -1,5 +1,5 @@
 Reprint  
-as at 30 March 2013
+as at 1 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -19,7 +19,7 @@ Changes authorised by [section 17C][1] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Labour.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -2356,7 +2356,7 @@ Cover
         
     *   (a) was performed on, with, or in relation to the claimant (but not on, with, or in relation to any other person); and
     
-    *   (b) was within the description of any offence listed in Schedule 1 of the Accident Rehabilitation and Compensation Insurance Act 1992 (the **1992 Act**); and
+    *   (b) was within the description of any offence listed in Schedule 1 of the Accident Rehabilitation and Compensation Insurance Act 1992 (the _1992 Act_); and
     
     *   (c) was performed before 1 July 1992 (including before 1 April 1974) and was performed---
             
@@ -2788,7 +2788,7 @@ Cover
     
     (2A) \[Repealed\]
     
-    (3) **Personal injury caused by a work-related gradual process, disease, or infection** includes personal injury that is---
+    (3) _Personal injury caused by a work-related gradual process, disease, or infection_ includes personal injury that is---
         
     *   (a) of a type described in [Schedule 2][524]; and
     
@@ -8637,7 +8637,7 @@ Miscellaneous provisions
     
     *   (b) on every other occasion the person is convicted for the same type of offence, to a fine not exceeding $50,000\.
     
-    (5) No person may be convicted of an offence under this section in respect of any deduction required to be made on account of the levy payable under this Act (**levy deduction**) if the person is convicted of an offence under [section 143A(1)][861] of the Tax Administration Act 1994 in respect of any deduction required to be made under the PAYE rules, being a deduction which, if the levy deduction were a deduction on account of income tax for the purposes of the PAYE rules, would have included the amount of the levy deduction.
+    (5) No person may be convicted of an offence under this section in respect of any deduction required to be made on account of the levy payable under this Act (_levy deduction_) if the person is convicted of an offence under [section 143A(1)][861] of the Tax Administration Act 1994 in respect of any deduction required to be made under the PAYE rules, being a deduction which, if the levy deduction were a deduction on account of income tax for the purposes of the PAYE rules, would have included the amount of the levy deduction.
     
     (6) In this section, _PAYE intermediary_ means a PAYE intermediary as defined in [section YA 1][534] of the Income Tax Act 2007\.
     
@@ -11936,7 +11936,7 @@ Weekly compensation
         
     *   (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of---
             
-        *   (i) the minimum weekly wage under the [Minimum Wage Act 1983][844] for a person aged 18 years or older to whom [section 4(1)(c)][988] of that Act does not apply; or
+        *   (i) the minimum weekly adult rate prescribed under [section 4][988] of the Minimum Wage Act 1983; or
         
         *   (ii) 125% of the rate for a single person under the age of 18 years of invalid's benefit under the [Social Security Act 1964][803]; or
         
@@ -11946,7 +11946,7 @@ Weekly compensation
     
     *   (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of---
             
-        *   (i) the minimum weekly wage under the [Minimum Wage Act 1983][844] for a person aged 18 years or older to whom section 4(1)(c) of that Act does not apply; or
+        *   (i) the minimum weekly adult rate prescribed under [section 4][988] of the Minimum Wage Act 1983; or
         
         *   (ii) 125% of the rate for a single person over the age of 18 years of invalid's benefit under the [Social Security Act 1964][803]; or
         
@@ -11978,11 +11978,11 @@ Weekly compensation
     
     Schedule 1 clause 42(3): substituted, on 1 July 2005, by [section 60(1)][656] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
-    Schedule 1 clause 42(3)(a)(i): substituted, on 1 July 2008, by [section 33(1)][986] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 42(3)(a)(i): replaced, on 1 May 2013, by [section 6(2)][989] of the Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8).
     
     Schedule 1 clause 42(3)(b): amended, on 1 July 2008, by [section 33(1)][986] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
     
-    Schedule 1 clause 42(3)(b)(i): substituted, on 1 July 2008, by [section 33(1)][986] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 (2008 No 46).
+    Schedule 1 clause 42(3)(b)(i): replaced, on 1 May 2013, by [section 6(3)][989] of the Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8).
     
     Schedule 1 clause 42(4): repealed, on 1 July 2005, by [section 60(1)][656] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005 (2005 No 45).
     
@@ -12684,9 +12684,9 @@ Entitlements arising from fatal injuries
     
     Schedule 1 clause 66(4): amended, on 26 April 2005, by [section 8(3)][574] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
-    Schedule 1 clause 66(4)(a): substituted, on 26 April 2005, by [section 7][989] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
+    Schedule 1 clause 66(4)(a): substituted, on 26 April 2005, by [section 7][990] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
-    Schedule 1 clause 66(4)(b): repealed, on 26 April 2005, by [section 7][989] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
+    Schedule 1 clause 66(4)(b): repealed, on 26 April 2005, by [section 7][990] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
     Schedule 1 clause 66(5): amended, on 26 April 2005, by [section 8(1)][574] of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005 (2005 No 12).
     
@@ -13063,30 +13063,30 @@ Occupational diseases
 
 *   41 Vitiligo diagnosed as caused by para-tertiary-butylphenol, para-tertiary-butylcatechol, para-amylphenol, hydroquinone, or the monobenzyl or monobutyl ether of hydroquinone.
 
-*   Schedule 2 item 18: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 19: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 20: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 21: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 22: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 23: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 24: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 25: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 26: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 27: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 28: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 29: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 30: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 31: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 32: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 33: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 34: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 35: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 36: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 37: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 38: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 39: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 40: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
-*   Schedule 2 item 41: added, on 17 January 2008, by [clause 4][990] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 18: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 19: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 20: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 21: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 22: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 23: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 24: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 25: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 26: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 27: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 28: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 29: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 30: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 31: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 32: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 33: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 34: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 35: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 36: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 37: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 38: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 39: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 40: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
+*   Schedule 2 item 41: added, on 17 January 2008, by [clause 4][991] of the Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007 (SR 2007/402).
 
 ---
 
@@ -13097,55 +13097,55 @@ Cover for mental injury caused by certain acts dealt with in Crimes Act 1961
 
 **Section** 
 
-[128B(1)][991]Sexual violation
+[128B(1)][992]Sexual violation
 
-[129(1)][992]Attempted sexual violation
+[129(1)][993]Attempted sexual violation
 
-[129(2)][992]Assault with intent to commit sexual violation
+[129(2)][993]Assault with intent to commit sexual violation
 
-[129A(1)][993]Inducing sexual connection by threat
+[129A(1)][994]Inducing sexual connection by threat
 
-[129A(2)][993]Inducing indecent act by threat
+[129A(2)][994]Inducing indecent act by threat
 
-[130][994]Incest
+[130][995]Incest
 
-[131(1)][995]Sexual connection with dependent family member
+[131(1)][996]Sexual connection with dependent family member
 
-[131(2)][995]Attempted sexual connection with dependent family member
+[131(2)][996]Attempted sexual connection with dependent family member
 
-[131(3)][995]Indecent act with dependent family member
+[131(3)][996]Indecent act with dependent family member
 
-[132(1)][996]Sexual connection with child under 12
+[132(1)][997]Sexual connection with child under 12
 
-[132(2)][996]Attempted sexual connection with child under 12
+[132(2)][997]Attempted sexual connection with child under 12
 
-[132(3)][996]Indecent act on child under 12
+[132(3)][997]Indecent act on child under 12
 
-[134(1)][997]Sexual connection with young person under 16
+[134(1)][998]Sexual connection with young person under 16
 
-[134(2)][997]Attempted sexual connection with young person under 16
+[134(2)][998]Attempted sexual connection with young person under 16
 
-[134(3)][997]Indecent act on young person under 16
+[134(3)][998]Indecent act on young person under 16
 
-[135][998]Indecent assault
+[135][999]Indecent assault
 
-[138(1)][999]Exploitative sexual connection with person with significant impairment
+[138(1)][1000]Exploitative sexual connection with person with significant impairment
 
-[138(2)][999]Attempted exploitative sexual connection with person with significant impairment
+[138(2)][1000]Attempted exploitative sexual connection with person with significant impairment
 
-[138(4)][999]Exploitative indecent act with person with significant impairment
+[138(4)][1000]Exploitative indecent act with person with significant impairment
 
-[142A][1000]Compelling indecent act with animal
+[142A][1001]Compelling indecent act with animal
 
-[194][1001]Assault on a child, or by a male on a female. For the purposes of this schedule, [section 194][1001] of the Crimes Act 1961 must be regarded as relating only to situations where a female sexually assaults a child under 14 years old.
+[194][1002]Assault on a child, or by a male on a female. For the purposes of this schedule, [section 194][1002] of the Crimes Act 1961 must be regarded as relating only to situations where a female sexually assaults a child under 14 years old.
 
-[201][1002]Infecting with disease
+[201][1003]Infecting with disease
 
-[204A][1003]Female genital mutilation
+[204A][1004]Female genital mutilation
 
-[204B][1004]Further offences relating to female genital mutilation
+[204B][1005]Further offences relating to female genital mutilation
 
-*   Schedule 3: amended, on 20 May 2005, by [section 10][1005] of the Crimes Amendment Act 2005 (2005 No 41).
+*   Schedule 3: amended, on 20 May 2005, by [section 10][1006] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ---
 
@@ -13178,13 +13178,13 @@ Deductions on account of earner levies
     
     Schedule 4 clause 1: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 1: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(2)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 1: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(2)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 1(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
     
     Schedule 4 clause 1(c): amended, on 6 October 2009 (with effect on 1 April 2008, effective for 2008--09 income year and later), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 1(db): inserted, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(1)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 1(db): inserted, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(1)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 1(db): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
 
@@ -13198,27 +13198,27 @@ Deductions on account of earner levies
 
 *   4 If an employer or a PAYE intermediary makes a deduction under section 221(1) and fails to deal with the deduction or any part of it in the manner required by this Act, the deduction, to the extent to which the employer or the PAYE intermediary has not made payment of the deduction to the Corporation or an agent of the Corporation, in the application of the assets of the employer or the PAYE intermediary, ranks---
         
-    *   (a) equally with any amount of tax not paid by the employer or the PAYE intermediary, as provided for in [section 167(2)][1007] of the Tax Administration Act 1994; or
+    *   (a) equally with any amount of tax not paid by the employer or the PAYE intermediary, as provided for in [section 167(2)][1008] of the Tax Administration Act 1994; or
     
-    *   (b) if there are no such unpaid amounts of tax, in accordance with [section 167(2)][1007] of the Tax Administration Act 1994, as if the deduction were an amount of tax withheld and not paid by the employer or the PAYE intermediary.
+    *   (b) if there are no such unpaid amounts of tax, in accordance with [section 167(2)][1008] of the Tax Administration Act 1994, as if the deduction were an amount of tax withheld and not paid by the employer or the PAYE intermediary.
     
-    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(a)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(a)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 4(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 4(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Schedule 4 clause 4(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 4(b): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 4(b): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(3)(b)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   5 In relation to an employee who is a private domestic worker, neither the employer of that employee nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer in respect of the employment of that employee as a private domestic worker; and section RD 4 of the Income Tax Act 2007 applies to that employee in respect of such amounts.
     
     Schedule 4 clause 5: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 5: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(4)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 5: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(4)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   6 For the purpose of section 221(1), the employer of a shareholder-employee is deemed to make payment to the shareholder-employee of the earnings as an employee for a tax year on the date that the employer finally determines the amount of the earnings as an employee of the shareholder employee for that tax year.
     
@@ -13232,11 +13232,11 @@ Deductions on account of earner levies
     
     Schedule 4 clause 8: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][576] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(a)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(a)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(b)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(b)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(c)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 8: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(6)(c)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   9 Despite clause 1, sections LA 3, LA 6, RA 2, RD 10, RD 11, RD 16, RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994, and section 33A of the Tax Administration Act 1994 do not apply to any such amount required to be deducted.
     
@@ -13244,13 +13244,13 @@ Deductions on account of earner levies
 
 *   10 Except to the extent specified in clause 11, the following Parts of the Tax Administration Act 1994 (those provisions) apply to earner levies payable under section 219, namely,---
         
-    *   (a) [Part 7][1008]---interest (but subject to [section 157A][1009] of the Tax Administration Act 1994); and
+    *   (a) [Part 7][1009]---interest (but subject to [section 157A][1010] of the Tax Administration Act 1994); and
     
-    *   (b) [Part 9][1010]---insofar as the Part applies to establishing late payment and shortfall penalties (but subject to section 157A of the Tax Administration Act 1994); and
+    *   (b) [Part 9][1011]---insofar as the Part applies to establishing late payment and shortfall penalties (but subject to section 157A of the Tax Administration Act 1994); and
     
-    *   (c) [Part 10][1011]---recoveries; and
+    *   (c) [Part 10][1012]---recoveries; and
     
-    *   (d) [Part 11][1012]---insofar as the Part provides rights of remission, relief, and refunds in respect of interest, and late payment penalties and shortfall penalties,---
+    *   (d) [Part 11][1013]---insofar as the Part provides rights of remission, relief, and refunds in respect of interest, and late payment penalties and shortfall penalties,---
     
     and as if they were set out in full in this Act, but with---
         
@@ -13302,25 +13302,25 @@ Deductions on account of earner levies
 
 *   17 The amount of any levy payable under this Act and clause 16 must have credited towards it the sum of the deductions (excluding any penalty charged or imposed under clause 10 of Schedule 5 of the Accident Insurance Act 1998) made by an employer of the employee or by a PAYE intermediary under section 221 on account of that levy.
     
-    Schedule 4 clause 17: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(8)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 17: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(8)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   18 If the sum of the levy deductions from a person's earnings as an employee on account of the earner levy payable by the person exceeds the amount of the earner levy payable on the specified maximum of the levy, the Corporation or its agent must refund the excess to the employee.
     
     Schedule 4 clause 18: amended, on 3 March 2010, by [section 47(2)][987] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(a)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(a)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(b)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 18: amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(9)(b)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   19 If a person with earnings as an employee is not required to furnish a return of income or an income statement under the Tax Administration Act 1994, and does not in fact do so,---
         
-    *   (a) the amount of the earner levy payable under [clause 16][1013] is to be treated as equal to the total of the deductions required to be made (if any) from those earnings by the person's employer or by a PAYE intermediary under [section 221][278]; and
+    *   (a) the amount of the earner levy payable under [clause 16][1014] is to be treated as equal to the total of the deductions required to be made (if any) from those earnings by the person's employer or by a PAYE intermediary under [section 221][278]; and
     
     *   (b) the person need not deliver a statement of earnings as an employee under clause 16\.
     
     Schedule 4 clause 19(a): amended, on 3 March 2010, by [section 47(2)][987] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 4 clause 19(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(10)][1006] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Schedule 4 clause 19(a): amended, on 26 March 2003 (applying to obligations under the principal Act that arise on and after 1 April 2004), by [section 169(10)][1007] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 *   20 If the Corporation is satisfied that the amount of levy payable by a person under clause 19 exceeds the amount that would be payable if the levy amount were determined under clause 16, the Corporation must refund to the person the amount of the excess or, at the Corporation's option, credit the excess in payment of any earner levy due and unpaid by the person.
     
@@ -13465,7 +13465,7 @@ Provisions relating to Corporation
     
     (2) The chief executive may not be a member of the Board.
     
-    (3) [Section 117][1014] of the Crown Entities Act 2004 applies to the appointment of a chief executive under this clause.
+    (3) [Section 117][1015] of the Crown Entities Act 2004 applies to the appointment of a chief executive under this clause.
     
     Compare: 1998 No 114 Schedule 6 cl 17
     
@@ -13519,7 +13519,7 @@ Provisions relating to Corporation
 
 ##### 25 Additional persons to whom delegations can be made
     
-*   Despite [section 73(1)(d)][1015] of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
+*   Despite [section 73(1)(d)][1016] of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
     
     Schedule 5 clause 25: substituted, on 25 January 2005, by [section 200][577] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -13535,11 +13535,11 @@ Acts amended
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1016]._
+_Amendment(s) incorporated in the [Act(s)][1017]._
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][1017]._
+_Amendment(s) incorporated in the [Act(s)][1018]._
 
 ##### Carriage by Air Act 1967 (1967 No 151)
 
@@ -13547,7 +13547,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1018]._
+_Amendment(s) incorporated in the [Act(s)][1019]._
 
 ##### Civil Defence Act 1983 (1983 No 46)
 
@@ -13555,27 +13555,27 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Corporations (Investigation and Management) Act 1989 (1989 No 11)
 
-_Amendment(s) incorporated in the [Act(s)][1019]._
+_Amendment(s) incorporated in the [Act(s)][1020]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][1020]_.
+_Amendment(s) incorporated in the [Act(s)][1021]_.
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][1021]._
+_Amendment(s) incorporated in the [Act(s)][1022]._
 
 ##### Deaths by Accident Compensation Act 1952 (1952 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1022]._
+_Amendment(s) incorporated in the [Act(s)][1023]._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1023]._
+_Amendment(s) incorporated in the [Act(s)][1024]._
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][1024]._
+_Amendment(s) incorporated in the [Act(s)][1025]._
 
 ##### District Courts Act 1947 (1947 No 16)
 
@@ -13583,31 +13583,31 @@ _Amendment(s) incorporated in the [Act(s)][686]._
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1025]._
+_Amendment(s) incorporated in the [Act(s)][1026]._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][1026]._
+_Amendment(s) incorporated in the [Act(s)][1027]._
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][1027]._
+_Amendment(s) incorporated in the [Act(s)][1028]._
 
 ##### Financial Reporting Act 1993 (1993 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][1028]._
+_Amendment(s) incorporated in the [Act(s)][1029]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][1029]._
+_Amendment(s) incorporated in the [Act(s)][1030]._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1030]._
+_Amendment(s) incorporated in the [Act(s)][1031]._
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][1031]._
+_Amendment(s) incorporated in the [Act(s)][1032]._
 
 ##### Health and Disability Services Act 1993 (1993 No 22)
 
@@ -13623,23 +13623,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Housing Restructuring Act 1992 (1992 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][1032]._
+_Amendment(s) incorporated in the [Act(s)][1033]._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][1033]._
+_Amendment(s) incorporated in the [Act(s)][1034]._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][1034]._
+_Amendment(s) incorporated in the [Act(s)][1035]._
 
 ##### Judicature Act 1908 (1908 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1035]._
+_Amendment(s) incorporated in the [Act(s)][1036]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1036]._
+_Amendment(s) incorporated in the [Act(s)][1037]._
 
 ##### Medical Practitioners Act 1995 (1995 No 95)
 
@@ -13647,7 +13647,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Minors' Contracts Act 1969 (1969 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][1037]._
+_Amendment(s) incorporated in the [Act(s)][1038]._
 
 ##### Penal Institutions Act 1954 (1954 No 51)
 
@@ -13655,15 +13655,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][1038]._
+_Amendment(s) incorporated in the [Act(s)][1039]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][1039]_.
+_Amendment(s) incorporated in the [Act(s)][1040]_.
 
 ##### Sharemilking Agreements Act 1937 (1937 No 37)
 
-_Amendment(s) incorporated in the [Act(s)][1040]._
+_Amendment(s) incorporated in the [Act(s)][1041]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
@@ -13671,38 +13671,38 @@ _Amendment(s) incorporated in the [Act(s)][828]._
 
 ##### Social Welfare (Transitional Provisions) Act 1990 (1990 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][1041]_.
+_Amendment(s) incorporated in the [Act(s)][1042]_.
 
 ##### Statutory Land Charges Registration Act 1928 (1928 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][1042]._
+_Amendment(s) incorporated in the [Act(s)][1043]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][1043]._
+_Amendment(s) incorporated in the [Act(s)][1044]._
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][1044]._
+_Amendment(s) incorporated in the [Act(s)][1045]._
 
 ##### Transport (Vehicle and Driver Registration and Licensing) Act 1986 (1986 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][1045]._
+_Amendment(s) incorporated in the [Act(s)][1046]._
 
 ##### Trustee Companies Act 1967 (1967 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1046]._
+_Amendment(s) incorporated in the [Act(s)][1047]._
 
 ## Part 2  
 Regulations amended
 
 ##### District Courts Rules 1992 (SR 1992/109)
 
-_Amendment(s) incorporated in the [rules][1047]._
+_Amendment(s) incorporated in the [rules][1048]._
 
 ##### Health Entitlement Cards Regulations 1993 (SR 1993/169)
 
-_Amendment(s) incorporated in the [regulations][1048]._
+_Amendment(s) incorporated in the [regulations][1049]._
 
 ---
 
@@ -13713,11 +13713,11 @@ Consequential tax amendments
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][1049]._
+_Amendment(s) incorporated in the [Act(s)][1050]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][1050]_.
+_Amendment(s) incorporated in the [Act(s)][1051]_.
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
@@ -13764,7 +13764,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1051].
+*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1052].
     
     (2) In this Act, the Injury Prevention, Rehabilitation, and Compensation Act 2001 is called ""the principal Act"".
 
@@ -13812,7 +13812,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005][1052].
+*   (1) This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005][1053].
     
     (2) In this Act, the Injury Prevention, Rehabilitation, and Compensation Act 2001 is called ""the principal Act"".
 
@@ -13893,7 +13893,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1053].
+*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1054].
 
 ##### 2 Commencement
     
@@ -13934,7 +13934,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1054].
+*   This Act is the [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1055].
 
 ##### 2 Commencement
     
@@ -14006,7 +14006,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Accident Compensation Amendment Act 2010][1055].
+*   This Act is the [Accident Compensation Amendment Act 2010][1056].
 
 ##### 2 Commencement
     
@@ -14181,23 +14181,23 @@ Miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Accident Compensation Act 2001\. The reprint incorporates all the amendments to the Act as at 30 March 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Accident Compensation Act 2001\. The reprint incorporates all the amendments to the Act as at 1 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][1056] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][1057] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][1057] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][1058] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][1058] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][1059] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][1059] and [17E][1060] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][1060] and [17E][1061] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -14230,6 +14230,8 @@ Miscellaneous provisions
     
 *   Student Loan Scheme Amendment Act 2013 (2013 No 10): [section 45][713]
     
+    Minimum Wage (Starting-out Wage) Amendment Act 2013 (2013 No 8): [section 6][989]
+    
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][712]
     
     Summary Proceedings Amendment Act 2011 (2011 No 32): [section 26][711]
@@ -14238,7 +14240,7 @@ Miscellaneous provisions
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][710]
     
-    [Accident Compensation Amendment Act 2010][1055] (2010 No 1)
+    [Accident Compensation Amendment Act 2010][1056] (2010 No 1)
     
     Customs and Excise Amendment Act 2009 (2009 No 61): [section 11(4)][766]
     
@@ -14248,15 +14250,15 @@ Miscellaneous provisions
     
     Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][769]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1054] (2008 No 46)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008][1055] (2008 No 46)
     
-    [Injury Prevention, Rehabilitation, and Compensation (Social Assistance) Amendment Act 2008][1061] (2008 No 26)
+    [Injury Prevention, Rehabilitation, and Compensation (Social Assistance) Amendment Act 2008][1062] (2008 No 26)
     
-    [Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007][1062] (SR 2007/402)
+    [Injury Prevention, Rehabilitation, and Compensation (Occupational Diseases) Order 2007][1063] (SR 2007/402)
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][576]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1053] (2007 No 8)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2007][1054] (2007 No 8)
     
     KiwiSaver Act 2006 (2006 No 40): [section 231][714]
     
@@ -14268,7 +14270,7 @@ Miscellaneous provisions
     
     Crimes Amendment Act 2005 (2005 No 41): section 10
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005][1063] (2005 No 12)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2005][1064] (2005 No 12)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][577]
     
@@ -14278,13 +14280,13 @@ Miscellaneous provisions
     
     Holidays Act 2003 (2003 No 129): [section 91(2)][858]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003][1064] (2003 No 80)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2003][1065] (2003 No 80)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][575]
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][722]
     
-    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1051] (2003 No 29)
+    [Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003][1052] (2003 No 29)
     
     Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5): [sections 165--169][580]
     
@@ -15289,79 +15291,80 @@ Miscellaneous provisions
 [986]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1107536
 [987]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417566
 [988]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM74414
-[989]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335972
-[990]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013908
-[991]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329064
-[992]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329070
-[993]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329075
-[994]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329081
-[995]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329085
-[996]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329203
-[997]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329212
-[998]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329219
-[999]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329227
-[1000]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329256
-[1001]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329383
-[1002]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329704
-[1003]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329734
-[1004]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329750
-[1005]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM346419
-[1006]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187135
-[1007]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357456
-[1008]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM354985
-[1009]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357421
-[1010]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356110
-[1011]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356976
-[1012]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM358317
-[1013]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM106117
-[1014]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330367
-[1015]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330308
-[1016]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM393030
-[1017]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM403873
-[1018]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM153483
-[1019]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM144996
-[1020]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM76615
-[1021]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM378623
-[1022]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM265858
-[1023]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM437001
-[1024]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM134112
-[1025]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM59960
-[1026]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM97304
-[1027]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM39728
-[1028]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324887
-[1029]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM433541
-[1030]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM443395
-[1031]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM334112
-[1032]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM269821
-[1033]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM304475
-[1034]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM383234
-[1035]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM147653
-[1036]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM336205
-[1037]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM392392
-[1038]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297916
-[1039]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324284
-[1040]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM222520
-[1041]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM203578
-[1042]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM204876
-[1043]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM311866
-[1044]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM290975
-[1045]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM91421
-[1046]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM381446
-[1047]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM161099
-[1048]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM177247
-[1049]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM81877
-[1050]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1184504
-[1051]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198324
-[1052]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM99493
-[1053]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405280
-[1054]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1106382
-[1055]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417500
-[1056]: http://www.pco.parliament.govt.nz/reprints/
-[1057]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM195439
-[1058]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1059]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM195468
-[1060]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM195470
-[1061]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1210503
-[1062]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013900
-[1063]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335959
-[1064]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217609
+[989]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM4752325
+[990]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335972
+[991]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013908
+[992]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329064
+[993]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329070
+[994]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329075
+[995]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329081
+[996]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329085
+[997]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329203
+[998]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329212
+[999]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329219
+[1000]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329227
+[1001]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329256
+[1002]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329383
+[1003]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329704
+[1004]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329734
+[1005]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM329750
+[1006]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM346419
+[1007]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM187135
+[1008]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357456
+[1009]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM354985
+[1010]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM357421
+[1011]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356110
+[1012]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM356976
+[1013]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM358317
+[1014]: http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html#DLM106117
+[1015]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330367
+[1016]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM330308
+[1017]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM393030
+[1018]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM403873
+[1019]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM153483
+[1020]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM144996
+[1021]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM76615
+[1022]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM378623
+[1023]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM265858
+[1024]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM437001
+[1025]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM134112
+[1026]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM59960
+[1027]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM97304
+[1028]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM39728
+[1029]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324887
+[1030]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM433541
+[1031]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM443395
+[1032]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM334112
+[1033]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM269821
+[1034]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM304475
+[1035]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM383234
+[1036]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM147653
+[1037]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM336205
+[1038]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM392392
+[1039]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM297916
+[1040]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM324284
+[1041]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM222520
+[1042]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM203578
+[1043]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM204876
+[1044]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM311866
+[1045]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM290975
+[1046]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM91421
+[1047]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM381446
+[1048]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM161099
+[1049]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM177247
+[1050]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM81877
+[1051]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1184504
+[1052]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM198324
+[1053]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM99493
+[1054]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM405280
+[1055]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1106382
+[1056]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM2417500
+[1057]: http://www.pco.parliament.govt.nz/reprints/
+[1058]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM195439
+[1059]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1060]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM195468
+[1061]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM195470
+[1062]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1210503
+[1063]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM1013900
+[1064]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM335959
+[1065]: http://www.legislation.govt.nz/act/public/2001/0049/latest/link.aspx?id=DLM217609
