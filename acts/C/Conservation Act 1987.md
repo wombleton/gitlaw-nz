@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 24 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -213,367 +213,371 @@ This Act is administered by the Department of Conservation.
 [Part 4][91]  
 [Specially protected areas][91]
 
-[18][92][][92][Minister may confer additional specific protection or preservation requirements][92]
+[18AA][92][][92][Governor-General may confer additional protection or preservation requirements][92]
 
-[19][93][][93][Conservation parks][93]
+[18AB][93][][93][Governor-General may declare that wetland be notified to Ramsar Secretariat][93]
 
-[20][94][][94][Wilderness areas][94]
+[18][94][][94][Minister may confer additional specific protection or preservation requirements][94]
 
-[21][95][][95][Ecological areas][95]
+[19][95][][95][Conservation parks][95]
 
-[22][96][][96][Sanctuary areas][96]
+[20][96][][96][Wilderness areas][96]
 
-[23][97][][97][Watercourse areas][97]
+[21][97][][97][Ecological areas][97]
 
-[23A][98][][98][Amenity areas][98]
+[22][98][][98][Sanctuary areas][98]
 
-[23B][99][][99][Wildlife management areas][99]
+[23][99][][99][Watercourse areas][99]
 
-[Part 4A][100]  
-[Marginal strips][100]
+[23A][100][][100][Amenity areas][100]
 
-[24][101][][101][Marginal strips reserved][101]
+[23B][101][][101][Wildlife management areas][101]
 
-[24A][102][][102][Power to reduce width of marginal strip][102]
+[Part 4A][102]  
+[Marginal strips][102]
 
-[24AA][103][][103][Power to increase width of marginal strip][103]
+[24][103][][103][Marginal strips reserved][103]
 
-[24B][104][][104][Power to declare certain dispositions to be exempt from section 24][104]
+[24A][104][][104][Power to reduce width of marginal strip][104]
 
-[24BA][105][][105][Notification of intention to reduce marginal strip or to grant exemption][105]
+[24AA][105][][105][Power to increase width of marginal strip][105]
 
-[24C][106][][106][Purposes of marginal strips][106]
+[24B][106][][106][Power to declare certain dispositions to be exempt from section 24][106]
 
-[24D][107][][107][Reservation of marginal strips to be recorded][107]
+[24BA][107][][107][Notification of intention to reduce marginal strip or to grant exemption][107]
 
-[24E][108][][108][Exchange of marginal strips][108]
+[24C][108][][108][Purposes of marginal strips][108]
 
-[24F][109][][109][Right of Crown to half of bed of river adjoining former land of the Crown][109]
+[24D][109][][109][Reservation of marginal strips to be recorded][109]
 
-[24G][110][][110][Effect of change to boundary of marginal strips][110]
+[24E][110][][110][Exchange of marginal strips][110]
 
-[24H][111][][111][Management of marginal strips][111]
+[24F][111][][111][Right of Crown to half of bed of river adjoining former land of the Crown][111]
 
-[24I][112][][112][Easements][112] \[Repealed\]
+[24G][112][][112][Effect of change to boundary of marginal strips][112]
 
-[24J][113][][113][Resumption of marginal strips by Crown][113]
+[24H][113][][113][Management of marginal strips][113]
 
-[24K][114][][114][Provisions applying in relation to land vested under New Zealand Railways Corporation Restructuring Act 1990][114]
+[24I][114][][114][Easements][114] \[Repealed\]
 
-[24L][115][][115][Public access rights][115]
+[24J][115][][115][Resumption of marginal strips by Crown][115]
 
-[Part 5][116]  
-[Stewardship areas][116]
+[24K][116][][116][Provisions applying in relation to land vested under New Zealand Railways Corporation Restructuring Act 1990][116]
 
-[25][117][][117][Management of stewardship areas][117]
+[24L][117][][117][Public access rights][117]
 
-[26][118][][118][Disposal of stewardship areas][118]
+[Part 5][118]  
+[Stewardship areas][118]
 
-[Part 5A][119]  
-[Sports Fish and Game Councils][119]
+[25][119][][119][Management of stewardship areas][119]
 
-[Functions of Minister][120]
+[26][120][][120][Disposal of stewardship areas][120]
 
-[26A][121][][121][Functions of Minister][121]
+[Part 5A][121]  
+[Sports Fish and Game Councils][121]
 
-[New Zealand Fish and Game Council][122]
+[Functions of Minister][122]
 
-[26B][123][][123][Establishment and powers of New Zealand Fish and Game Council][123]
+[26A][123][][123][Functions of Minister][123]
 
-[26C][124][][124][Functions of New Zealand Fish and Game Council][124]
+[New Zealand Fish and Game Council][124]
 
-[26D][125][][125][Membership][125]
+[26B][125][][125][Establishment and powers of New Zealand Fish and Game Council][125]
 
-[26DA][126][][126][Members not personally liable][126]
+[26C][126][][126][Functions of New Zealand Fish and Game Council][126]
 
-[26E][127][][127][Co-opted members][127]
+[26D][127][][127][Membership][127]
 
-[26F][128][][128][Powers of New Zealand Fish and Game Council][128]
+[26DA][128][][128][Members not personally liable][128]
 
-[26FA][129][][129][Appointment of fish and game rangers][129]
+[26E][129][][129][Co-opted members][129]
 
-[26FB][130][][130][Powers of fish and game rangers][130]
+[26F][130][][130][Powers of New Zealand Fish and Game Council][130]
 
-[26FC][131][][131][Provisions relating to Director and fish and game rangers][131]
+[26FA][131][][131][Appointment of fish and game rangers][131]
 
-[26G][132][][132][Employment principles][132]
+[26FB][132][][132][Powers of fish and game rangers][132]
 
-[26H][133][][133][Crown entity][133]
+[26FC][133][][133][Provisions relating to Director and fish and game rangers][133]
 
-[26I][134][][134][Annual report][134]
+[26G][134][][134][Employment principles][134]
 
-[26J][135][][135][Chairperson of New Zealand Fish and Game Council][135]
+[26H][135][][135][Crown entity][135]
 
-[26K][136][][136][Meetings of New Zealand Fish and Game Council][136]
+[26I][136][][136][Annual report][136]
 
-[26L][137][][137][Director-General entitled to attend meetings of New Zealand Fish and Game Council][137]
+[26J][137][][137][Chairperson of New Zealand Fish and Game Council][137]
 
-[26M][138][][138][No remuneration payable to members][138]
+[26K][138][][138][Meetings of New Zealand Fish and Game Council][138]
 
-[Transitional Councils][139]
+[26L][139][][139][Director-General entitled to attend meetings of New Zealand Fish and Game Council][139]
 
-[26N][140][][140][Transitional Councils][140]
+[26M][140][][140][No remuneration payable to members][140]
 
-[26O][141][][141][Functions and powers of Transitional Councils][141]
+[Transitional Councils][141]
 
-[Fish and Game Councils][142]
+[26N][142][][142][Transitional Councils][142]
 
-[26P][143][][143][Establishment and powers of Fish and Game Councils][143]
+[26O][143][][143][Functions and powers of Transitional Councils][143]
 
-[26Q][144][][144][Functions of Fish and Game Councils][144]
+[Fish and Game Councils][144]
 
-[26R][145][][145][Fish and Game Council responsibilities][145]
+[26P][145][][145][Establishment and powers of Fish and Game Councils][145]
 
-[26S][146][][146][Powers of Fish and Game Councils][146]
+[26Q][146][][146][Functions of Fish and Game Councils][146]
 
-[26T][147][][147][Appointment of staff][147]
+[26R][147][][147][Fish and Game Council responsibilities][147]
 
-[26U][148][][148][Membership][148]
+[26S][148][][148][Powers of Fish and Game Councils][148]
 
-[26V][149][][149][Co-opted members][149]
+[26T][149][][149][Appointment of staff][149]
 
-[26W][150][][150][Crown entity][150]
+[26U][150][][150][Membership][150]
 
-[26X][151][][151][Annual report][151]
+[26V][151][][151][Co-opted members][151]
 
-[26Y][152][][152][Eligibility to vote][152]
+[26W][152][][152][Crown entity][152]
 
-[26Z][153][][153][Conduct of elections][153]
+[26X][153][][153][Annual report][153]
 
-[26ZA][154][][154][Term of office of members of Fish and Game Councils][154]
+[26Y][154][][154][Eligibility to vote][154]
 
-[26ZB][155][][155][Members not personally liable][155]
+[26Z][155][][155][Conduct of elections][155]
 
-[26ZC][156][][156][Chairpersons of Fish and Game Councils][156]
+[26ZA][156][][156][Term of office of members of Fish and Game Councils][156]
 
-[26ZD][157][][157][Meetings of Fish and Game Councils][157]
+[26ZB][157][][157][Members not personally liable][157]
 
-[26ZE][158][][158][Director-General entitled to attend meetings of Fish and Game Councils][158]
+[26ZC][158][][158][Chairpersons of Fish and Game Councils][158]
 
-[26ZF][159][][159][No remuneration payable to members][159]
+[26ZD][159][][159][Meetings of Fish and Game Councils][159]
 
-[Part 5B][160]  
-[Freshwater fisheries][160]
+[26ZE][160][][160][Director-General entitled to attend meetings of Fish and Game Councils][160]
 
-[26ZG][161][][161][Application of Part][161]
+[26ZF][161][][161][No remuneration payable to members][161]
 
-[Maori fishing rights][162]
+[Part 5B][162]  
+[Freshwater fisheries][162]
 
-[26ZH][163][][163][Maori fishing rights unaffected by this Part][163]
+[26ZG][163][][163][Application of Part][163]
 
-[Sports fisheries][164]
+[Maori fishing rights][164]
 
-[26ZI][165][][165][Taking sports fish without licence prohibited][165]
+[26ZH][165][][165][Maori fishing rights unaffected by this Part][165]
 
-[26ZJ][166][][166][Offences relating to spawning fish][166]
+[Sports fisheries][166]
 
-[26ZK][167][][167][Fishing competitions relating to sports fish][167]
+[26ZI][167][][167][Taking sports fish without licence prohibited][167]
 
-[26ZL][168][][168][Restrictions on fishing][168]
+[26ZJ][168][][168][Offences relating to spawning fish][168]
 
-[26ZM][169][][169][Transfer or release of live aquatic life][169]
+[26ZK][169][][169][Fishing competitions relating to sports fish][169]
 
-[26ZN][170][][170][Fishing rights not to be sold or let][170]
+[26ZL][170][][170][Restrictions on fishing][170]
 
-[26ZO][171][][171][Occupier may fish without licence][171]
+[26ZM][171][][171][Transfer or release of live aquatic life][171]
 
-[Miscellaneous provisions][172]
+[26ZN][172][][172][Fishing rights not to be sold or let][172]
 
-[26ZP][173][][173][Determination of closed seasons for fishing][173]
+[26ZO][173][][173][Occupier may fish without licence][173]
 
-[26ZQ][174][][174][Buying, selling, or possessing fish, contrary to Act][174]
+[Miscellaneous provisions][174]
 
-[26ZQA][175][][175][Possessing certain kinds of fish without approval][175]
+[26ZP][175][][175][Determination of closed seasons for fishing][175]
 
-[26ZR][176][][176][Using hazardous substances to catch or destroy fish][176]
+[26ZQ][176][][176][Buying, selling, or possessing fish, contrary to Act][176]
 
-[Part 5C][177]  
-[Control of dogs][177]
+[26ZQA][177][][177][Possessing certain kinds of fish without approval][177]
 
-[26ZS][178][][178][Controlled dog areas and open dog areas][178]
+[26ZR][178][][178][Using hazardous substances to catch or destroy fish][178]
 
-[26ZT][179][][179][Areas excluded from open dog areas][179]
+[Part 5C][179]  
+[Control of dogs][179]
 
-[26ZU][180][][180][Matters that may be included in declarations of controlled dog areas or open dog areas][180]
+[26ZS][180][][180][Controlled dog areas and open dog areas][180]
 
-[26ZV][181][][181][Matters about which Minister must be satisfied][181]
+[26ZT][181][][181][Areas excluded from open dog areas][181]
 
-[26ZW][182][][182][Matters to be taken into account in relation to declaration][182]
+[26ZU][182][][182][Matters that may be included in declarations of controlled dog areas or open dog areas][182]
 
-[26ZX][183][][183][Matters relevant to determination of conditions][183]
+[26ZV][183][][183][Matters about which Minister must be satisfied][183]
 
-[26ZY][184][][184][Preparation of discussion document][184]
+[26ZW][184][][184][Matters to be taken into account in relation to declaration][184]
 
-[26ZZ][185][][185][Notification of discussion document][185]
+[26ZX][185][][185][Matters relevant to determination of conditions][185]
 
-[26ZZA][186][][186][Inspection of discussion document][186]
+[26ZY][186][][186][Preparation of discussion document][186]
 
-[26ZZB][187][][187][Submissions on discussion document][187]
+[26ZZ][187][][187][Notification of discussion document][187]
 
-[26ZZC][188][][188][Hearing of submissions][188]
+[26ZZA][188][][188][Inspection of discussion document][188]
 
-[26ZZD][189][][189][Summary of submissions][189]
+[26ZZB][189][][189][Submissions on discussion document][189]
 
-[26ZZE][190][][190][Recommendation of Director-General][190]
+[26ZZC][190][][190][Hearing of submissions][190]
 
-[26ZZF][191][][191][Issue of notice][191]
+[26ZZD][191][][191][Summary of submissions][191]
 
-[26ZZG][192][][192][Restrictions on access to controlled dog area][192]
+[26ZZE][192][][192][Recommendation of Director-General][192]
 
-[26ZZH][193][][193][Dog control permits][193]
+[26ZZF][193][][193][Issue of notice][193]
 
-[26ZZI][194][][194][Requirements in relation to dog control permits][194]
+[26ZZG][194][][194][Restrictions on access to controlled dog area][194]
 
-[26ZZJ][195][][195][Power to amend or revoke dog control permit][195]
+[26ZZH][195][][195][Dog control permits][195]
 
-[26ZZK][196][][196][Persons authorised to take dogs into controlled dog area without dog control permit][196]
+[26ZZI][196][][196][Requirements in relation to dog control permits][196]
 
-[26ZZL][197][][197][Seizure and destruction of dogs][197]
+[26ZZJ][197][][197][Power to amend or revoke dog control permit][197]
 
-[26ZZM][198][][198][Disposal of seized dog][198]
+[26ZZK][198][][198][Persons authorised to take dogs into controlled dog area without dog control permit][198]
 
-[26ZZN][199][][199][Supply of information in relation to ownership of dogs][199]
+[26ZZL][199][][199][Seizure and destruction of dogs][199]
 
-[26ZZO][200][][200][Recovery of costs relating to dogs][200]
+[26ZZM][200][][200][Disposal of seized dog][200]
 
-[26ZZP][201][][201][Offences][201]
+[26ZZN][201][][201][Supply of information in relation to ownership of dogs][201]
 
-[26ZZQ][202][][202][Dogs causing serious injury to protected wildlife][202]
+[26ZZO][202][][202][Recovery of costs relating to dogs][202]
 
-[26ZZR][203][][203][Power of warranted officer to request information][203]
+[26ZZP][203][][203][Offences][203]
 
-[26ZZS][204][][204][No liability where dog wounded in attempt to destroy][204]
+[26ZZQ][204][][204][Dogs causing serious injury to protected wildlife][204]
 
-[26ZZT][205][][205][Limitation of liability for damage][205]
+[26ZZR][205][][205][Power of warranted officer to request information][205]
 
-[Part 6][206]  
-[Miscellaneous][206]
+[26ZZS][206][][206][No liability where dog wounded in attempt to destroy][206]
 
-[27][207][][207][Covenants][207]
+[26ZZT][207][][207][Limitation of liability for damage][207]
 
-[27A][208][][208][Nga Whenua Rahui kawenata][208]
+[Part 6][208]  
+[Miscellaneous][208]
 
-[28][209][][209][Resources other than land][209]
+[27][209][][209][Covenants][209]
 
-[29][210][][210][Management agreements][210]
+[27A][210][][210][Nga Whenua Rahui kawenata][210]
 
-[30][211][][211][Taking of plants][211]
+[28][211][][211][Resources other than land][211]
 
-[31][212][][212][Removal of shingle, etc][212] \[Repealed\]
+[29][212][][212][Management agreements][212]
 
-[32][213][][213][Lessees, etc, may be required to make contributions][213] \[Repealed\]
+[30][213][][213][Taking of plants][213]
 
-[33][214][][214][Receipts][214]
+[31][214][][214][Removal of shingle, etc][214] \[Repealed\]
 
-[34][215][][215][Annual reports][215]
+[32][215][][215][Lessees, etc, may be required to make contributions][215] \[Repealed\]
 
-[35][216][][216][Local authority contributions][216]
+[33][216][][216][Receipts][216]
 
-[36][217][][217][Trespassing livestock][217]
+[34][217][][217][Annual reports][217]
 
-[37][218][][218][Production of permit, etc, on demand][218]
+[35][218][][218][Local authority contributions][218]
 
-[38][219][][219][Hunting, etc][219]
+[36][219][][219][Trespassing livestock][219]
 
-[39][220][][220][Other offences in respect of conservation areas][220]
+[37][220][][220][Production of permit, etc, on demand][220]
 
-[40][221][][221][Powers of warranted officers][221]
+[38][221][][221][Hunting, etc][221]
 
-[41][222][][222][Offences in respect of warranted officers and fish and game rangers][222]
+[39][222][][222][Other offences in respect of conservation areas][222]
 
-[42][223][][223][Protection of warranted officers and others][223]
+[40][223][][223][Powers of warranted officers][223]
 
-[43][224][][224][Proceedings for offences][224]
+[41][224][][224][Offences in respect of warranted officers and fish and game rangers][224]
 
-[43A][225][][225][Evidence in proceedings][225]
+[42][225][][225][Protection of warranted officers and others][225]
 
-[43B][226][][226][Strict liability][226]
+[43][226][][226][Proceedings for offences][226]
 
-[44][227][][227][Penalties][227]
+[43A][227][][227][Evidence in proceedings][227]
 
-[45][228][][228][Offenders liable for loss or damage][228]
+[43B][228][][228][Strict liability][228]
 
-[46][229][][229][Forfeiture of property][229]
+[44][229][][229][Penalties][229]
 
-[47][230][][230][Information leading to conviction][230]
+[45][230][][230][Offenders liable for loss or damage][230]
 
-[48][231][][231][Regulations][231]
+[46][231][][231][Forfeiture of property][231]
 
-[48AA][232][][232][Regulations prescribing time limits for applications for concessions][232]
+[47][232][][232][Information leading to conviction][232]
 
-[48A][233][][233][Special regulations relating to freshwater fisheries][233]
+[48][233][][233][Regulations][233]
 
-[48B][234][][234][Special regulations relating to South Island freshwater fisheries][234]
+[48AA][234][][234][Regulations prescribing time limits for applications for concessions][234]
 
-[49][235][][235][Public notice and rights of objection][235]
+[48A][235][][235][Special regulations relating to freshwater fisheries][235]
 
-[50][236][][236][Changes of status of land to be noted][236]
+[48B][236][][236][Special regulations relating to South Island freshwater fisheries][236]
 
-[50A][237][][237][Errors of description in notices may be corrected][237]
+[49][237][][237][Public notice and rights of objection][237]
 
-[51][238][][238][Consent or approval may be conditional][238]
+[50][238][][238][Changes of status of land to be noted][238]
 
-[Part 7][239]  
-[Administration][239]
+[50A][239][][239][Errors of description in notices may be corrected][239]
 
-[52][240][][240][Director-General of Conservation][240]
+[51][240][][240][Consent or approval may be conditional][240]
 
-[53][241][][241][Powers of Director-General][241]
+[Part 7][241]  
+[Administration][241]
 
-[54][242][][242][Deputy Directors-General of Conservation][242]
+[52][242][][242][Director-General of Conservation][242]
 
-[55][243][][243][Other officers and employees of Department][243]
+[53][243][][243][Powers of Director-General][243]
 
-[56][244][][244][Committees][244]
+[54][244][][244][Deputy Directors-General of Conservation][244]
 
-[57][245][][245][Delegation of powers by Minister][245]
+[55][245][][245][Other officers and employees of Department][245]
 
-[58][246][][246][Delegation of powers by Director-General][246]
+[56][246][][246][Committees][246]
 
-[59][247][][247][Warranted officers][247]
+[57][247][][247][Delegation of powers by Minister][247]
 
-[60][248][][248][Acquisition of land for administrative purposes][248]
+[58][248][][248][Delegation of powers by Director-General][248]
 
-[60A][249][][249][Persons in respect of whose actions Director-General may recover costs, require royalties, etc][249]
+[59][249][][249][Warranted officers][249]
 
-[60B][250][][250][Director-General may recover certain costs][250]
+[60][250][][250][Acquisition of land for administrative purposes][250]
 
-[60C][251][][251][Indirect applications][251]
+[60A][251][][251][Persons in respect of whose actions Director-General may recover costs, require royalties, etc][251]
 
-[60D][252][][252][Royalties, etc, may be required in certain circumstances][252]
+[60B][252][][252][Director-General may recover certain costs][252]
 
-[60E][253][][253][Payments][253]
+[60C][253][][253][Indirect applications][253]
 
-[60F][254][][254][Certificate of title in respect of conservation areas][254]
+[60D][254][][254][Royalties, etc, may be required in certain circumstances][254]
 
-[Part 8][255]  
-[Transitional, consequential amendments, and savings][255]
+[60E][255][][255][Payments][255]
 
-[61][256][][256][Certain former State forest land to become protected area on commencement of Act][256]
+[60F][256][][256][Certificate of title in respect of conservation areas][256]
 
-[62][257][][257][Certain land to be managed as if it is stewardship area][257]
+[Part 8][257]  
+[Transitional, consequential amendments, and savings][257]
 
-[63][258][][258][Certain land may become protected area without public notification][258]
+[61][258][][258][Certain former State forest land to become protected area on commencement of Act][258]
 
-[64][259][][259][Existing leases, licences, etc][259]
+[62][259][][259][Certain land to be managed as if it is stewardship area][259]
 
-[64A][260][][260][Agreed exchanges to proceed][260]
+[63][260][][260][Certain land may become protected area without public notification][260]
 
-[64B][261][][261][Powers under forestry and Crown leases, etc, exercisable by Minister or Director-General][261]
+[64][261][][261][Existing leases, licences, etc][261]
 
-[65][262][][262][Amendments and savings][262]
+[64A][262][][262][Agreed exchanges to proceed][262]
 
-[Schedule 1][263]  
-[Other enactments administered by Department][263]
+[64B][263][][263][Powers under forestry and Crown leases, etc, exercisable by Minister or Director-General][263]
 
-[Schedule 2][264]  
-[Enactments amended][264]
+[65][264][][264][Amendments and savings][264]
 
-[Schedule 3][265]  
-[Consequential amendments to regulations][265]
+[Schedule 1][265]  
+[Other enactments administered by Department][265]
 
-[Schedule 4][266]  
-[Land that may be protected area][266]
+[Schedule 2][266]  
+[Enactments amended][266]
+
+[Schedule 3][267]  
+[Consequential amendments to regulations][267]
+
+[Schedule 4][268]  
+[Land that may be protected area][268]
 
 ---
 
@@ -594,11 +598,11 @@ Preliminary
     
     _activity_ includes a trade, business, or occupation
     
-    _aircraft_ has the same meaning as in the [Civil Aviation Act 1990][267]
+    _aircraft_ has the same meaning as in the [Civil Aviation Act 1990][269]
     
     _amend_, in relation to any conservation management strategy, conservation management plan, freshwater fisheries management plan, or sports fish and game management plan, means any change that does not affect the objectives of the strategy or plan
     
-    _Anglers Notice_ means a notice published in the _Gazette_ by a Fish and Game Council under [section 26R][145]
+    _Anglers Notice_ means a notice published in the _Gazette_ by a Fish and Game Council under [section 26R][147]
     
     _animal_ means any member of the animal kingdom other than a human being
     
@@ -612,9 +616,9 @@ Preliminary
     
     *   (b) in relation to a lake, the space of land which the waters of the lake cover at its highest level without exceeding its physical margin
     
-    _certified aerodrome_ means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the [Civil Aviation Act 1990][267]
+    _certified aerodrome_ means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the [Civil Aviation Act 1990][269]
     
-    _common marine and coastal area_ has the meaning given in [section 9(1)][268] of the Marine and Coastal Area (Takutai Moana) Act 2011
+    _common marine and coastal area_ has the meaning given in [section 9(1)][270] of the Marine and Coastal Area (Takutai Moana) Act 2011
     
     _companion dog_ means a dog certified by the Top Dog Companion Trust as being a companion dog or a dog under training as a companion dog
     
@@ -656,17 +660,17 @@ Preliminary
     
     _Conservation Board_ or _Board_ means a Conservation Board established under [section 6L][24]
     
-    _conservation management plan_ means a conservation management plan approved under [section 14E][269] of the Wildlife Act 1953, [section 8][270] of the Marine Reserves Act 1971, [section 40B][271] of the Reserves Act 1977, [section 3D][272] of the Marine Mammals Protection Act 1978, or [section 17G][58] of this Act
+    _conservation management plan_ means a conservation management plan approved under [section 14E][271] of the Wildlife Act 1953, [section 8][272] of the Marine Reserves Act 1971, [section 40B][273] of the Reserves Act 1977, [section 3D][274] of the Marine Mammals Protection Act 1978, or [section 17G][58] of this Act
     
     _conservation management strategy_ means a conservation management strategy approved under [section 17F][57]
     
-    _contaminant_ has the same meaning as it has in the [Resource Management Act 1991][273]
+    _contaminant_ has the same meaning as it has in the [Resource Management Act 1991][275]
     
-    _controlled dog area_ means any area declared, by notice published in the _Gazette_ under [section 26ZS][178], to be a controlled dog area
+    _controlled dog area_ means any area declared, by notice published in the _Gazette_ under [section 26ZS][180], to be a controlled dog area
     
-    _Crown land_ has the same meaning as in the [Land Act 1948][274]
+    _Crown land_ has the same meaning as in the [Land Act 1948][276]
     
-    _customary marine title area_ has the meaning given in [section 9(1)][268] of the Marine and Coastal Area (Takutai Moana) Act 2011
+    _customary marine title area_ has the meaning given in [section 9(1)][270] of the Marine and Coastal Area (Takutai Moana) Act 2011
     
     _day_ means a period of 24 hours beginning at midnight and ending with the following midnight
     
@@ -678,15 +682,15 @@ Preliminary
     
     _Director-General_ means the Director-General of Conservation
     
-    _effect_ has the same meaning as it has in the [Resource Management Act 1991][273]
+    _effect_ has the same meaning as it has in the [Resource Management Act 1991][275]
     
-    _Fish and Game Council_ means a Fish and Game Council established under [section 26P][143]
+    _Fish and Game Council_ means a Fish and Game Council established under [section 26P][145]
     
-    _fish and game ranger_ means a fish and game ranger appointed pursuant to [section 26FA][129] or deemed to be appointed under that section
+    _fish and game ranger_ means a fish and game ranger appointed pursuant to [section 26FA][131] or deemed to be appointed under that section
     
     _fishery_ means 1 or more stocks or parts of stocks or 1 or more species of freshwater fish or aquatic life that can be treated as a unit for the purposes of conservation or management
     
-    _fishery officer_ means any officer specified as such in [section 76][275] of the Fisheries Act 1983
+    _fishery officer_ means any officer specified as such in [section 76][277] of the Fisheries Act 1983
     
     _fishing_---
         
@@ -704,7 +708,7 @@ Preliminary
     
     _foreshore_ means such parts of the bed, shore, or banks of a tidal water as are covered and uncovered by the flow and ebb of the tide at mean spring tides
     
-    _former Act_ means the [Land Act 1948][274] or the [Forests Act 1949][276]; and includes any enactment repealed by a former Act
+    _former Act_ means the [Land Act 1948][276] or the [Forests Act 1949][278]; and includes any enactment repealed by a former Act
     
     _freshwater_ means---
         
@@ -720,17 +724,17 @@ Preliminary
     
     _freshwater fisheries management plan_ means a freshwater fisheries management plan approved under [section 17K][62]
     
-    _game_ has the same meaning as in the [Wildlife Act 1953][277]
+    _game_ has the same meaning as in the [Wildlife Act 1953][279]
     
-    _game bird habitat stamp_ means a stamp in a form approved under [section 19A][278] of the [Wildlife Act 1953][277]
+    _game bird habitat stamp_ means a stamp in a form approved under [section 19A][280] of the [Wildlife Act 1953][279]
     
-    _game hunting guide_ has the same meaning as in the [Wildlife Act 1953][279]
+    _game hunting guide_ has the same meaning as in the [Wildlife Act 1953][281]
     
     _guide dog_ means a dog certified by the Royal New Zealand Foundation of the Blind as being a guide dog or a dog under training as a guide dog
     
-    _historic resource_ means a historic place within the meaning of the [Historic Places Act 1993][280]; and includes any interest in a historic resource
+    _historic resource_ means a historic place within the meaning of the [Historic Places Act 1993][282]; and includes any interest in a historic resource
     
-    _hunting weapon_ means a weapon within the meaning of the [Trespass Act 1980][281]
+    _hunting weapon_ means a weapon within the meaning of the [Trespass Act 1980][283]
     
     _indigenous fish_ means any freshwater fish that is indigenous to New Zealand
     
@@ -752,7 +756,7 @@ Preliminary
         
         *   (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any former Act:
         
-        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and purporting to be issued under this Act before the commencement of [section 2(2)][282] of the Conservation Amendment Act 1996; but
+        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and purporting to be issued under this Act before the commencement of [section 2(2)][284] of the Conservation Amendment Act 1996; but
         
         
     
@@ -774,9 +778,9 @@ Preliminary
             
         *   (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any former Act; and
         
-        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under any former Act or issued under this Act before the commencement of [section 2(2)][282] of the Conservation Amendment Act 1996; and
+        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under any former Act or issued under this Act before the commencement of [section 2(2)][284] of the Conservation Amendment Act 1996; and
         
-        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2(2)][282];---
+        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2(2)][284];---
         
         
     
@@ -786,11 +790,11 @@ Preliminary
     
     _manawhenua_ means customary authority exercised by an iwi or hapu or individual in an identified area
     
-    _Maori_ has the same meaning as in [Te Ture Whenua Maori Act 1993][283]
+    _Maori_ has the same meaning as in [Te Ture Whenua Maori Act 1993][285]
     
-    _Maori land_ has the same meaning as in [Te Ture Whenua Maori Act 1993][283]
+    _Maori land_ has the same meaning as in [Te Ture Whenua Maori Act 1993][285]
     
-    _marginal strip_ means any strip of land reserved or deemed to be reserved by [section 24][101] or [section 24E(3)][108] or [section 24G][110] for the purposes specified in [section 24C][106]; and includes any part of any such strip
+    _marginal strip_ means any strip of land reserved or deemed to be reserved by [section 24][103] or [section 24E(3)][110] or [section 24G][112] for the purposes specified in [section 24C][108]; and includes any part of any such strip
     
     _Minister_ means the Minister of Conservation
     
@@ -812,13 +816,13 @@ Preliminary
     
     _New Zealand Conservation Authority_ or _Conservation Authority_ or _Authority_ means the New Zealand Conservation Authority established under [section 6A][12]
     
-    _New Zealand Fish and Game Council_ means the New Zealand Fish and Game Council established under [section 26B][123]
+    _New Zealand Fish and Game Council_ means the New Zealand Fish and Game Council established under [section 26B][125]
     
-    _Nga Whenua Rahui kawenata_ means an agreement entered into under [section 27A][208]
+    _Nga Whenua Rahui kawenata_ means an agreement entered into under [section 27A][210]
     
-    _open dog area_ means any area declared, by notice published in the _Gazette_ under [section 26ZS][178], to be an open dog area
+    _open dog area_ means any area declared, by notice published in the _Gazette_ under [section 26ZS][180], to be an open dog area
     
-    _operational work plan_ means an annual operational work plan having effect under [section 26Q(3)][144]
+    _operational work plan_ means an annual operational work plan having effect under [section 26Q(3)][146]
     
     _owner_, in relation to any dog, means every person who---
         
@@ -834,7 +838,7 @@ Preliminary
         
         
     
-    but does not include any person who has seized or taken custody of the dog under this Act or the [Animal Welfare Act 1999][284] or the [National Parks Act 1980][285] or the [Dog Control Act 1996][286] or any order made under the Dog Control Act 1996 or the Animal Welfare Act 1999
+    but does not include any person who has seized or taken custody of the dog under this Act or the [Animal Welfare Act 1999][286] or the [National Parks Act 1980][287] or the [Dog Control Act 1996][288] or any order made under the Dog Control Act 1996 or the Animal Welfare Act 1999
     
     _permit_ in relation to [Part 3B][66],---
         
@@ -844,7 +848,7 @@ Preliminary
     
     _permit holder_ has a corresponding meaning
     
-    _planning document_ has the meaning given in [section 9(1)][268] of the Marine and Coastal Area (Takutai Moana) Act 2011
+    _planning document_ has the meaning given in [section 9(1)][270] of the Marine and Coastal Area (Takutai Moana) Act 2011
     
     _plant_ means any member of the plant kingdom; and includes any alga, bacterium, or fungus, and any part of or seed or spore from any plant
     
@@ -852,17 +856,17 @@ Preliminary
     
     _private land_ means any land that---
         
-    *   (a) is Maori land within the meaning of [Te Ture Whenua Maori Act 1993][283]; or
+    *   (a) is Maori land within the meaning of [Te Ture Whenua Maori Act 1993][285]; or
     
     *   (b) has been alienated from the Crown
     
     _protected wildlife_ means---
         
-    *   (a) any animal for the time being absolutely protected pursuant to [section 3][287] of the Wildlife Act 1953:
+    *   (a) any animal for the time being absolutely protected pursuant to [section 3][289] of the Wildlife Act 1953:
     
-    *   (b) any animal for the time being partially protected pursuant to [section 5][288] of the Wildlife Act 1953, other than such an animal in circumstances in which that animal may be hunted or killed under the authority of subsection (2) of that section:
+    *   (b) any animal for the time being partially protected pursuant to [section 5][290] of the Wildlife Act 1953, other than such an animal in circumstances in which that animal may be hunted or killed under the authority of subsection (2) of that section:
     
-    *   (c) any animal that is a [marine mammal][289] within the meaning of the [Marine Mammals Protection Act 1978][290]
+    *   (c) any animal that is a [marine mammal][291] within the meaning of the [Marine Mammals Protection Act 1978][292]
     
     _protected wildlife vulnerable to dogs_ means---
         
@@ -874,13 +878,17 @@ Preliminary
     
     *   (d) any protected wildlife that feeds upon or in close proximity to the ground:
     
-    *   (e) any animal that is a [marine mammal][289] within the meaning of the [Marine Mammals Protection Act 1978][290]
+    *   (e) any animal that is a [marine mammal][291] within the meaning of the [Marine Mammals Protection Act 1978][292]
     
     _protection_, in relation to a resource, means its maintenance, so far as is practicable, in its current state; but includes---
         
     *   (a) its restoration to some former state; and
     
     *   (b) its augmentation, enhancement, or expansion
+    
+    _Ramsar Administrative Authority_ means the administering agency that is the Ramsar Administrative Authority for New Zealand, as from time to time advised by the Government of New Zealand to the Ramsar Secretariat
+    
+    _Ramsar Secretariat_ means the body responsible for co-ordination of the Convention on Wetlands of International Importance especially as Waterfowl Habitat, done at Ramsar on 2 February 1971
     
     _review_, in relation to any conservation management strategy or management plan, means to consider all objectives and policies of those provisions under review and to approve a new strategy or plan, having regard to increased knowledge or changed circumstances; and, for the purposes of this definition, an _objective_ is a statement of intent from which a policy is derived
     
@@ -896,9 +904,9 @@ Preliminary
     
     _State forest land_ means land that---
         
-    *   (a) was, immediately before the commencement of this Act, State forest land within the meaning of the [Forests Act 1949][276]; and
+    *   (a) was, immediately before the commencement of this Act, State forest land within the meaning of the [Forests Act 1949][278]; and
     
-    *   (b) has not been vested in a State enterprise under the [State-Owned Enterprises Act 1986][291]; and
+    *   (b) has not been vested in a State enterprise under the [State-Owned Enterprises Act 1986][293]; and
     
     *   (c) is not a conservation area
     
@@ -908,9 +916,9 @@ Preliminary
     
     *   (b) a watercourse area; or
     
-    *   (c) land held under this Act for 1 or more of the purposes described in [section 18(1)][92]; or
+    *   (c) land held under this Act for 1 or more of the purposes described in [section 18(1)][94]; or
     
-    *   (d) land in respect of which an interest is held under this Act for 1 or more of the purposes described in [section 18(1)][92]
+    *   (d) land in respect of which an interest is held under this Act for 1 or more of the purposes described in [section 18(1)][94]
     
     _taking_---
         
@@ -918,181 +926,187 @@ Preliminary
     
     *   (b) in relation to any fish, means fishing; and _takes_ and _to take_ have a corresponding meaning
     
-    _Taupo Fishery_ means the fishery to which [section 14][292] of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926 relates
+    _Taupo Fishery_ means the fishery to which [section 14][294] of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926 relates
     
-    _vehicle_ has the same meaning as in the [Land Transport Act 1998][293]; but includes any vehicle from which any wheels have been removed
+    _vehicle_ has the same meaning as in the [Land Transport Act 1998][295]; but includes any vehicle from which any wheels have been removed
     
     _warranted officer_ means a person---
         
     *   (a) who---
             
-        *   (i) is a warranted officer appointed under [section 59][247]; or
+        *   (i) is a warranted officer appointed under [section 59][249]; or
         
-        *   (ii) is a person deemed by [section 59(2)][247] or [section 59(9)][247] to be a warranted officer for the purposes of this Act; and
+        *   (ii) is a person deemed by [section 59(2)][249] or [section 59(9)][249] to be a warranted officer for the purposes of this Act; and
         
         
     
     *   (b) is acting on or in respect of any matter or thing arising, situated, or formerly situated in the district, area, or areas for which the person is appointed or is deemed to be a warranted officer
     
-    _watercourse area_ means land for the time being declared to be such an area under [section 23][97]
+    _watercourse area_ means land for the time being declared to be such an area under [section 23][99]
     
-    _wild animal_ has the same meaning as in [section 2][294] of the Wild Animal Control Act 1977; but does not include any animal product derived from a wild animal
+    _wild animal_ has the same meaning as in [section 2][296] of the Wild Animal Control Act 1977; but does not include any animal product derived from a wild animal
     
-    _wildlife_ has the same meaning as it has in the [Wildlife Act 1953][277]
+    _wildlife_ has the same meaning as it has in the [Wildlife Act 1953][279]
     
     _working day_ means a day that is not a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, or a day during a period commencing on any Christmas Day and ending with the 15th day of the following January.
     
-    (2) In this Act, unless the context otherwise requires, _conservation park_, _ecological area_, _sanctuary area_, or _wilderness area_, mean an area held for ecological, park, sanctuary, or wilderness purposes under [section 18(1)][92].
+    (2) In this Act, unless the context otherwise requires, _conservation park_, _ecological area_, _sanctuary area_, or _wilderness area_, mean an area held for ecological, park, sanctuary, or wilderness purposes under [section 18AA(1)][92] or [18(1)][94].
     
     (3) For the purposes of this Act, the Governor-General may from time to time, by Order in Council, declare any species to be included in or excluded from the definitions of the terms aquatic life, freshwater fish, or sports fish in subsection (1); and any such declaration may be expressed to apply to any species in any specified areas or waters, or generally throughout New Zealand.
     
-    Section 2(1) **activity**: inserted, on 13 March 1996, by [section 2(4)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **activity**: inserted, on 13 March 1996, by [section 2(4)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][295] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][297] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **amend**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **amend**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Anglers Notice**: inserted, on 13 March 1996, by [section 2(3)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **Anglers Notice**: inserted, on 13 March 1996, by [section 2(3)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **aquatic life**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **aquatic life**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **bed**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **bed**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **certified aerodrome**: inserted, on 13 March 1996, by [section 2(4)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **certified aerodrome**: inserted, on 13 March 1996, by [section 2(4)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **common marine and coastal area**: inserted, on 1 April 2011, by [section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 2(1) **common marine and coastal area**: inserted, on 1 April 2011, by [section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
     Section 2(1) **companion dog**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **concession** or **concession document**: inserted, on 13 March 1996, by [section 2(4)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **concession** or **concession document**: inserted, on 13 March 1996, by [section 2(4)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **concessionaire**: inserted, on 13 March 1996, by [section 2(4)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **concessionaire**: inserted, on 13 March 1996, by [section 2(4)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **Conservation Board** or **Board**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Conservation Board** or **Board**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **conservation management plan**: amended, on 27 September 2001, by [section 3(a)][298] of the Conservation Amendment Act 2001 (2001 No 59).
+    Section 2(1) **conservation management plan**: amended, on 27 September 2001, by [section 3(a)][300] of the Conservation Amendment Act 2001 (2001 No 59).
     
-    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **contaminant**: inserted, on 13 March 1996, by [section 2(3)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **contaminant**: inserted, on 13 March 1996, by [section 2(3)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
     Section 2(1) **controlled dog area**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **customary marine title area**: inserted, on 1 April 2011, by [section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 2(1) **customary marine title area**: inserted, on 1 April 2011, by [section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
     Section 2(1) **day**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **Director**: inserted, on 25 November 1994, by [section 2(1)][299] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 2(1) **Director**: inserted, on 25 November 1994, by [section 2(1)][301] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 2(1) **District Anglers Notice**: repealed, on 13 March 1996, by [section 2(1)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **District Anglers Notice**: repealed, on 13 March 1996, by [section 2(1)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **effect**: inserted, on 13 March 1996, by [section 2(4)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **effect**: inserted, on 13 March 1996, by [section 2(4)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **Fish and Game Council**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Fish and Game Council**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **fish and game ranger**: inserted, on 25 November 1994, by [section 2(2)][299] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 2(1) **fish and game ranger**: inserted, on 25 November 1994, by [section 2(2)][301] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 2(1) **fishery**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **fishery**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **fishery officer**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **fishery officer**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **fishing**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **fishing**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **foreshore**: substituted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **foreshore**: substituted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **freshwater**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **freshwater**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **freshwater fish**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **freshwater fish**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **freshwater fisheries management plan**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **freshwater fisheries management plan**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **game**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **game**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2(1) **game bird habitat stamp**: inserted, on 17 May 1993, by section 6 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 2(1) **game hunting guide**: inserted, on 13 March 1996, by [section 2(3)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **game hunting guide**: inserted, on 13 March 1996, by [section 2(3)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
     Section 2(1) **guide dog**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **guide dog**: amended, on 30 April 2003, by [section 28(1)][300] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
+    Section 2(1) **guide dog**: amended, on 30 April 2003, by [section 28(1)][302] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
     
-    Section 2(1) **historic resource**: amended, on 1 July 1993, pursuant to [section 118(1)][301] of the Historic Places Act 1993 (1993 No 38).
+    Section 2(1) **historic resource**: amended, on 1 July 1993, pursuant to [section 118(1)][303] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 2(1) **indigenous fish**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **indigenous fish**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **lake**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **lake**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **lease**: substituted, on 1 July 1996, by [section 2(2)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **lease**: substituted, on 1 July 1996, by [section 2(2)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **licence**: substituted, on 1 July 1996, by [section 2(2)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **licence**: substituted, on 1 July 1996, by [section 2(2)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **livestock**: amended, on 25 November 1994, by [section 2(3)][299] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 2(1) **livestock**: amended, on 25 November 1994, by [section 2(3)][301] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 2(1) **management plan**: repealed, on 27 September 2001, by [section 3(b)][298] of the Conservation Amendment Act 2001 (2001 No 59).
+    Section 2(1) **management plan**: repealed, on 27 September 2001, by [section 3(b)][300] of the Conservation Amendment Act 2001 (2001 No 59).
     
     Section 2(1) **manawhenua**: inserted, on 24 March 1993, by section 2 of the Conservation Amendment Act 1993 (1993 No 9).
     
-    Section 2(1) **Maori**: amended, on 1 July 1993, pursuant to [section 362(2)][302] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 2(1) **Maori**: amended, on 1 July 1993, pursuant to [section 362(2)][304] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
     Section 2(1) **Maori land**: inserted, on 24 March 1993, by section 2 of the Conservation Amendment Act 1993 (1993 No 9).
     
-    Section 2(1) **marginal strip**: substituted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **marginal strip**: substituted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **nature conservation**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **nature conservation**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **New Zealand Conservation Authority** or **Conservation Authority** or **Authority**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **New Zealand Conservation Authority** or **Conservation Authority** or **Authority**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **New Zealand Fish and Game Council**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **New Zealand Fish and Game Council**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2(1) **Nga Whenua Rahui kawenata**: inserted, on 24 March 1993, by section 2 of the Conservation Amendment Act 1993 (1993 No 9).
     
     Section 2(1) **open dog area**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **operational work plan**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **operational work plan**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2(1) **owner**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **owner**: amended, on 1 January 2000, by [section 194][303] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 2(1) **owner**: amended, on 1 January 2000, by [section 194][305] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 2(1) **permit**: inserted, on 13 March 1996, by [section 2(4)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **permit**: inserted, on 13 March 1996, by [section 2(4)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **planning document**: inserted, on 1 April 2011, by [section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 2(1) **planning document**: inserted, on 1 April 2011, by [section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 2(1) **private land** paragraph (a): amended, on 1 July 1993, pursuant to [section 362(2)][302] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 2(1) **private land** paragraph (a): amended, on 1 July 1993, pursuant to [section 362(2)][304] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
     Section 2(1) **protected wildlife**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
     Section 2(1) **protected wildlife vulnerable to dogs**: inserted, on 2 May 1996, by section 2(1) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **review**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Ramsar Administrative Authority**: inserted, on 24 May 2013, by [section 4(1)][306] of the Conservation Amendment Act 2013 (2013 No 15).
     
-    Section 2(1) **sale**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Ramsar Secretariat**: inserted, on 24 May 2013, by [section 4(1)][306] of the Conservation Amendment Act 2013 (2013 No 15).
     
-    Section 2(1) **sale**: amended, on 1 July 2004, by [section 374][304] of the Gambling Act 2003 (2003 No 51).
+    Section 2(1) **review**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 2(1) **sale**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 2(1) **sale**: amended, on 1 July 2004, by [section 374][307] of the Gambling Act 2003 (2003 No 51).
     
     Section 2(1) **ship**: substituted (with effect on 1 April 1987), on 2 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 2(1) **sports fish**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **sports fish**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **sports fish and game management plan**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **sports fish and game management plan**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **sports fishing guide**: inserted, on 13 March 1996, by [section 2(3)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **sports fishing guide**: inserted, on 13 March 1996, by [section 2(3)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(1) **taking**: substituted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **taking**: substituted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Taupo Fishery**: inserted, on 10 April 1990, by [section 3(1)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Taupo Fishery**: inserted, on 10 April 1990, by [section 3(1)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **vehicle**: amended, on 1 March 1999, by [section 215(1)][305] of the Land Transport Act 1998 (1998 No 110).
+    Section 2(1) **vehicle**: amended, on 1 March 1999, by [section 215(1)][308] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 2(1) **walkway**: repealed, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 2(1) **walkway**: repealed, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
     
     Section 2(1) **warranted officer**: substituted, on 2 May 1996, by section 2(2) of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 2(1) **wildlife**: inserted, on 13 March 1996, by [section 2(3)][282] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 2(1) **wildlife**: inserted, on 13 March 1996, by [section 2(3)][284] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 2(3): added, on 10 April 1990, by [section 3(2)][296] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(2): amended, on 24 May 2013, by [section 4(2)][306] of the Conservation Amendment Act 2013 (2013 No 15).
+    
+    Section 2(3): added, on 10 April 1990, by [section 3(2)][298] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 3 Act to bind the Crown
     
@@ -1100,7 +1114,7 @@ Preliminary
 
 ##### 4 Act to give effect to Treaty of Waitangi
     
-*   This Act shall so be interpreted and administered as to give effect to the principles of the [Treaty of Waitangi][307].
+*   This Act shall so be interpreted and administered as to give effect to the principles of the [Treaty of Waitangi][310].
 
 ## Part 2  
 Establishment and functions of Department of Conservation
@@ -1111,7 +1125,7 @@ Establishment and functions of Department of Conservation
 
 ##### 6 Functions of Department
     
-*   The functions of the Department are to administer this Act and the enactments specified in [Schedule 1][263], and, subject to this Act and those enactments and to the directions (if any) of the Minister,---
+*   The functions of the Department are to administer this Act and the enactments specified in [Schedule 1][265], and, subject to this Act and those enactments and to the directions (if any) of the Minister,---
         
     *   (a) to manage for conservation purposes, all land, and all other natural and historic resources, for the time being held under this Act, and all other land and natural and historic resources whose owner agrees with the Minister that they should be managed by the Department:
     
@@ -1137,34 +1151,34 @@ Establishment and functions of Department of Conservation
     
     *   (g) every other function conferred on it by any other enactment.
     
-    Section 6(ab): inserted, on 10 April 1990, by [section 4][308] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6(ab): inserted, on 10 April 1990, by [section 4][311] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ## Part 2A  
 New Zealand Conservation Authority and Conservation Boards
     
-*   Part 2A: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Part 2A: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### New Zealand Conservation Authority
     
-*   Heading: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6A New Zealand Conservation Authority established
     
 *   There is hereby established an authority to be called the New Zealand Conservation Authority.
     
-    Section 6A: brought into force, on 25 May 1990, by the [Conservation Act Commencement Order 1990][310] (SR 1990/115).
+    Section 6A: brought into force, on 25 May 1990, by the [Conservation Act Commencement Order 1990][313] (SR 1990/115).
     
-    Section 6A: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6A: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6B Functions of Authority
     
 *   (1) The functions of the Authority shall be---
         
-    *   (a) to advise the Minister on statements of general policy prepared under the [Wildlife Act 1953][277], the [Marine Reserves Act 1971][311], the [Reserves Act 1977][312], the [Wild Animal Control Act 1977][313], the [Marine Mammals Protection Act 1978][290], and this Act:
+    *   (a) to advise the Minister on statements of general policy prepared under the [Wildlife Act 1953][279], the [Marine Reserves Act 1971][314], the [Reserves Act 1977][315], the [Wild Animal Control Act 1977][316], the [Marine Mammals Protection Act 1978][292], and this Act:
     
-    *   (b) to approve conservation management strategies and conservation management plans, and review and amend such strategies and plans, as required under the [Wildlife Act 1953][277], the [Marine Reserves Act 1971][311], the [Reserves Act 1977][312], the [Wild Animal Control Act 1977][313], the [Marine Mammals Protection Act 1978][290], the [National Parks Act 1980][285], and this Act:
+    *   (b) to approve conservation management strategies and conservation management plans, and review and amend such strategies and plans, as required under the [Wildlife Act 1953][279], the [Marine Reserves Act 1971][314], the [Reserves Act 1977][315], the [Wild Animal Control Act 1977][316], the [Marine Mammals Protection Act 1978][292], the [National Parks Act 1980][287], and this Act:
     
-    *   (c) to review and report to the Minister or the Director-General on the effectiveness of the Department's administration of general policies prepared under the [Wildlife Act 1953][277], the [Marine Reserves Act 1971][311], the [Reserves Act 1977][312], the [Wild Animal Control Act 1977][313], the [Marine Mammals Protection Act 1978][290], and this Act:
+    *   (c) to review and report to the Minister or the Director-General on the effectiveness of the Department's administration of general policies prepared under the [Wildlife Act 1953][279], the [Marine Reserves Act 1971][314], the [Reserves Act 1977][315], the [Wild Animal Control Act 1977][316], the [Marine Mammals Protection Act 1978][292], and this Act:
     
     *   (d) to investigate any nature conservation or other conservation matters the Authority considers are of national importance, and to advise the Minister or the Director-General, as appropriate, on such matters:
     
@@ -1182,17 +1196,17 @@ New Zealand Conservation Authority and Conservation Boards
     
     (2) The Authority shall have such other functions as are conferred on it by or under this Act or any other Act.
     
-    Compare: 1980 No 66 [s 18][314]
+    Compare: 1980 No 66 [s 18][317]
     
-    Section 6B: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6B: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 6B(1)(a): amended, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 6B(1)(a): amended, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
     
-    Section 6B(1)(b): amended, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 6B(1)(b): amended, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
     
-    Section 6B(1)(c): amended, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 6B(1)(c): amended, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
     
-    Section 6B(1)(f): repealed, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 6B(1)(f): repealed, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
 
 ##### 6C Powers of Authority
     
@@ -1212,7 +1226,7 @@ New Zealand Conservation Authority and Conservation Boards
     
     (5) The power conferred by subsection (2)(c) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Authority's functions.
     
-    Section 6C: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6C: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6D Membership
     
@@ -1224,7 +1238,7 @@ New Zealand Conservation Authority and Conservation Boards
     
     *   (c) 1 person appointed after consultation with the Minister of Local Government:
     
-    *   (ca) 1 person nominated by Te Rūnanga o Ngāi Tahu (as established by [section 6][315] of Te Runanga o Ngai Tahu Act 1996):
+    *   (ca) 1 person nominated by Te Rūnanga o Ngāi Tahu (as established by [section 6][318] of Te Runanga o Ngai Tahu Act 1996):
     
     *   (d) 1 person appointed on the recommendation of the Royal Society of New Zealand:
     
@@ -1254,13 +1268,13 @@ New Zealand Conservation Authority and Conservation Boards
     
     (4) No person employed by the Department shall be eligible for appointment as a member of the Authority.
     
-    Compare: 1980 No 66 [s 17][316]
+    Compare: 1980 No 66 [s 17][319]
     
-    Section 6D: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6D: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 6D(1)(ca): inserted, on 22 October 1998, by [section 272(1)][317] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 6D(1)(ca): inserted, on 22 October 1998, by [section 272(1)][320] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 6D(2)(d): substituted, on 7 May 1999, by [section 2][318] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6D(2)(d): substituted, on 7 May 1999, by [section 2][321] of the Conservation Amendment Act 1999 (1999 No 30).
 
 ##### 6E Annual report
     
@@ -1268,9 +1282,9 @@ New Zealand Conservation Authority and Conservation Boards
     
     (2) A copy of the annual report shall be laid by the Minister before the House of Representatives as soon as practicable after it has been received by that Minister.
     
-    Compare: 1980 No 66 [s 21][319]
+    Compare: 1980 No 66 [s 21][322]
     
-    Section 6E: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6E: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6F Term of office of members of Authority
     
@@ -1292,17 +1306,17 @@ New Zealand Conservation Authority and Conservation Boards
     
     (5) Unless a member sooner dies, resigns, or is removed from office, every member of the Authority shall continue in office until that member's successor comes into office, notwithstanding that the term for which that member was appointed may have expired.
     
-    Compare: 1980 No 66 [s 22][320]
+    Compare: 1980 No 66 [s 22][323]
     
-    Section 6F: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6F: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 6F(2): amended, on 1 January 2002, by [section 70(1)][321] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 6F(2): amended, on 1 January 2002, by [section 70(1)][324] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 6F(4): substituted, on 7 May 1999, by [section 3][322] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6F(4): substituted, on 7 May 1999, by [section 3][325] of the Conservation Amendment Act 1999 (1999 No 30).
     
-    Section 6F(4A): inserted, on 7 May 1999, by [section 3][322] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6F(4A): inserted, on 7 May 1999, by [section 3][325] of the Conservation Amendment Act 1999 (1999 No 30).
     
-    Section 6F(4B): inserted, on 7 May 1999, by [section 3][322] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6F(4B): inserted, on 7 May 1999, by [section 3][325] of the Conservation Amendment Act 1999 (1999 No 30).
 
 ##### 6G Chairperson of Authority
     
@@ -1312,9 +1326,9 @@ New Zealand Conservation Authority and Conservation Boards
     
     (3) If the chairperson is absent from any meeting of the Authority, the members present shall appoint one of their number to be the chairperson of that meeting.
     
-    Compare: 1980 No 66 [s 23][323]
+    Compare: 1980 No 66 [s 23][326]
     
-    Section 6G: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6G: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6H Meetings of Authority
     
@@ -1332,39 +1346,39 @@ New Zealand Conservation Authority and Conservation Boards
     
     (7) Subject to the provisions of this Act, the Authority may regulate its procedure in such manner as it thinks fit.
     
-    Compare: 1980 No 66 [s 24][324]
+    Compare: 1980 No 66 [s 24][327]
     
-    Section 6H: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6H: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6I Director-General entitled to attend meetings of Authority
     
 *   Notice in writing of every meeting of the Authority and of the business proposed to be transacted at that meeting shall be given to the Director-General, and the Director-General or the Director-General's nominee shall be entitled to attend and speak at any such meeting, but shall not be entitled to vote on any question.
     
-    Compare: 1980 No 66 [s 25][325]
+    Compare: 1980 No 66 [s 25][328]
     
-    Section 6I: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6I: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6J Servicing of Authority
     
 *   The Authority shall be serviced by the Department in such manner as the Minister may from time to time direct.
     
-    Compare: 1980 No 66 [s 26][326]
+    Compare: 1980 No 66 [s 26][329]
     
-    Section 6J: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6J: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6K Fees and travelling expenses of members of Authority
     
-*   (1) The Authority is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][327].
+*   (1) The Authority is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][330].
     
-    (2) There shall be paid to members of the Authority, out of money appropriated by Parliament for the purpose, remuneration by way of fees, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][328], and the provisions of that Act shall apply accordingly.
+    (2) There shall be paid to members of the Authority, out of money appropriated by Parliament for the purpose, remuneration by way of fees, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][331], and the provisions of that Act shall apply accordingly.
     
-    Compare: 1980 No 66 [s 27][329]
+    Compare: 1980 No 66 [s 27][332]
     
-    Section 6K: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6K: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Conservation Boards
     
-*   Heading: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6L Conservation Boards established
     
@@ -1374,11 +1388,11 @@ New Zealand Conservation Authority and Conservation Boards
     
     (3) The area under the jurisdiction of each Conservation Board shall be as determined from time to time by the Minister.
     
-    Compare: 1980 No 66 [s 29][330]
+    Compare: 1980 No 66 [s 29][333]
     
-    Section 6L: brought into force, on 19 July 1990, by the [Conservation Act Commencement Order (No 2) 1990][331] (SR 1990/169).
+    Section 6L: brought into force, on 19 July 1990, by the [Conservation Act Commencement Order (No 2) 1990][334] (SR 1990/169).
     
-    Section 6L: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6L: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6M Functions of Boards
     
@@ -1406,11 +1420,11 @@ New Zealand Conservation Authority and Conservation Boards
     
     (2) Every Board shall have such other functions as are conferred on it by or under this Act or any other Act.
     
-    Compare: 1980 No 66 [s 30][332]
+    Compare: 1980 No 66 [s 30][335]
     
-    Section 6M: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6M: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 6M(1)(e): repealed, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 6M(1)(e): repealed, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
 
 ##### 6N Powers of Boards
     
@@ -1424,13 +1438,13 @@ New Zealand Conservation Authority and Conservation Boards
     
     (3) The power conferred by subsection (2)(a) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Board's functions.
     
-    Section 6N: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6N: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6O Annual report
     
 *   As soon as practicable after 30 June in every year, every Board shall furnish the Conservation Authority with a report of its operations for the period of 12 months that ended on that day.
     
-    Section 6O: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6O: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6P Membership of Conservation Boards
     
@@ -1478,21 +1492,21 @@ New Zealand Conservation Authority and Conservation Boards
     
     *   (b) 1 person appointed by the Minister on the recommendation of the Whanganui River Maori Trust Board.
     
-    (7A) The Board whose area of jurisdiction includes most of the Waikato claim area within the meaning of [section 7][333] of the Waikato Raupatu Claims Settlement Act 1995 shall consist of not more than 12 persons, being---
+    (7A) The Board whose area of jurisdiction includes most of the Waikato claim area within the meaning of [section 7][336] of the Waikato Raupatu Claims Settlement Act 1995 shall consist of not more than 12 persons, being---
         
     *   (a) not more than 11 persons appointed under subsection (2); and
     
     *   (b) the person who for the time being is recognised as the Head of Kahui Ariki, or a person appointed by the Minister on the nomination of the person so recognised.
     
-    (7B) A Board whose area of jurisdiction is wholly within the Ngāi Tahu claim area, as defined in [section 8][334] of the Ngāi Tahu Claims Settlement Act 1998, must consist of not more than 12 persons, being---
+    (7B) A Board whose area of jurisdiction is wholly within the Ngāi Tahu claim area, as defined in [section 8][337] of the Ngāi Tahu Claims Settlement Act 1998, must consist of not more than 12 persons, being---
         
-    *   (a) at least 2 persons appointed on the nomination of Te Rūnanga o Ngāi Tahu (as established by [section 6][315] of Te Runanga o Ngai Tahu Act 1996); and
+    *   (a) at least 2 persons appointed on the nomination of Te Rūnanga o Ngāi Tahu (as established by [section 6][318] of Te Runanga o Ngai Tahu Act 1996); and
     
     *   (b) the remaining persons appointed under subsection (2).
     
-    (7C) A Board whose area of jurisdiction is partly within the Ngāi Tahu claim area, as defined in [section 8][334] of the Ngāi Tahu Claims Settlement Act 1998, must consist of not more than 12 persons, being---
+    (7C) A Board whose area of jurisdiction is partly within the Ngāi Tahu claim area, as defined in [section 8][337] of the Ngāi Tahu Claims Settlement Act 1998, must consist of not more than 12 persons, being---
         
-    *   (a) at least 1 person appointed on the nomination of Te Rūnanga o Ngāi Tahu (as established by [section 6][315] of Te Runanga o Ngai Tahu Act 1996); and
+    *   (a) at least 1 person appointed on the nomination of Te Rūnanga o Ngāi Tahu (as established by [section 6][318] of Te Runanga o Ngai Tahu Act 1996); and
     
     *   (b) the remaining persons appointed under subsection (2).
     
@@ -1500,23 +1514,23 @@ New Zealand Conservation Authority and Conservation Boards
     
     (8) The appointment of any person by the Minister to be a member of a Board shall be made by notice published in the _Gazette_, and shall take effect from the date of such notice or such later date as may be specified in the notice.
     
-    (9) No person employed by the Department under the [State Sector Act 1988][335] shall be eligible to be a member of any Board.
+    (9) No person employed by the Department under the [State Sector Act 1988][338] shall be eligible to be a member of any Board.
     
-    Compare: 1980 No 66 [s 32][336]
+    Compare: 1980 No 66 [s 32][339]
     
-    Section 6P: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6P: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 6P(2): amended, on 1 September 1996, pursuant to [section 25(1)][337] of the Waikato Raupatu Claims Settlement Act 1995 (1995 No 58).
+    Section 6P(2): amended, on 1 September 1996, pursuant to [section 25(1)][340] of the Waikato Raupatu Claims Settlement Act 1995 (1995 No 58).
     
-    Section 6P(4)(d): substituted, on 7 May 1999, by [section 4][338] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6P(4)(d): substituted, on 7 May 1999, by [section 4][341] of the Conservation Amendment Act 1999 (1999 No 30).
     
-    Section 6P(7A): inserted, on 1 September 1996, by [section 25(2)][337] of the Waikato Raupatu Claims Settlement Act 1995 (1995 No 58).
+    Section 6P(7A): inserted, on 1 September 1996, by [section 25(2)][340] of the Waikato Raupatu Claims Settlement Act 1995 (1995 No 58).
     
-    Section 6P(7B): inserted, on 22 October 1998, by [section 273(1)][339] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 6P(7B): inserted, on 22 October 1998, by [section 273(1)][342] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 6P(7C): inserted, on 22 October 1998, by [section 273(1)][339] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 6P(7C): inserted, on 22 October 1998, by [section 273(1)][342] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 6P(7D): inserted, on 22 October 1998, by [section 273(1)][339] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 6P(7D): inserted, on 22 October 1998, by [section 273(1)][342] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
 
 ##### 6Q Co-opted members
     
@@ -1524,7 +1538,7 @@ New Zealand Conservation Authority and Conservation Boards
     
     (2) A co-opted member of a Board shall be entitled to attend and speak at any meeting of that Board, but shall not be entitled to vote on any question.
     
-    Section 6Q: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6Q: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6R Term of office of members of Boards
     
@@ -1546,17 +1560,17 @@ New Zealand Conservation Authority and Conservation Boards
     
     (5) Unless a member sooner dies, resigns, or is removed from office, every member of a Board shall continue in office until that member's successor comes into office, notwithstanding that the term for which that member was appointed may have expired.
     
-    Compare: 1980 No 66 [s 33][340]
+    Compare: 1980 No 66 [s 33][343]
     
-    Section 6R: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6R: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 6R(2): amended, on 1 January 2002, by [section 70(1)][321] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 6R(2): amended, on 1 January 2002, by [section 70(1)][324] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 6R(4): substituted, on 7 May 1999, by [section 5][341] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6R(4): substituted, on 7 May 1999, by [section 5][344] of the Conservation Amendment Act 1999 (1999 No 30).
     
-    Section 6R(4A): inserted, on 7 May 1999, by [section 5][341] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6R(4A): inserted, on 7 May 1999, by [section 5][344] of the Conservation Amendment Act 1999 (1999 No 30).
     
-    Section 6R(4B): inserted, on 7 May 1999, by [section 5][341] of the Conservation Amendment Act 1999 (1999 No 30).
+    Section 6R(4B): inserted, on 7 May 1999, by [section 5][344] of the Conservation Amendment Act 1999 (1999 No 30).
 
 ##### 6S Chairpersons of Boards
     
@@ -1566,9 +1580,9 @@ New Zealand Conservation Authority and Conservation Boards
     
     (3) If the chairperson is absent from any meeting, the members present shall appoint one of their number to be the chairperson of that meeting.
     
-    Compare: 1980 No 66 [s 34][342]
+    Compare: 1980 No 66 [s 34][345]
     
-    Section 6S: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6S: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6T Meetings of Boards
     
@@ -1586,46 +1600,46 @@ New Zealand Conservation Authority and Conservation Boards
     
     (7) Subject to the provisions of this Act, each Board may regulate its procedure in such manner as it thinks fit.
     
-    Compare: 1980 No 66 [s 35][343]
+    Compare: 1980 No 66 [s 35][346]
     
-    Section 6T: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6T: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6U Director-General entitled to attend meetings of Boards
     
 *   Notice in writing of every meeting of a Board and of the business proposed to be transacted at that meeting shall be given to the Director-General, and the Director-General or the Director-General's nominee shall be entitled to attend and speak at any such meeting, but shall not be entitled to vote on any question.
     
-    Compare: 1980 No 66 [s 36][344]; 1987 No 65 [s 65(1)][262]
+    Compare: 1980 No 66 [s 36][347]; 1987 No 65 [s 65(1)][264]
     
-    Section 6U: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6U: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6V Servicing of Boards
     
 *   The Boards shall be serviced by the Department in such manner as the Minister may from time to time direct.
     
-    Compare: 1980 No 66 [s 37][345]
+    Compare: 1980 No 66 [s 37][348]
     
-    Section 6V: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6V: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6W Fees and travelling expenses of members of Boards
     
-*   (1) Every Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][328].
+*   (1) Every Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][331].
     
-    (2) There shall be paid to members of every Board, out of money appropriated by Parliament, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][328], and the provisions of that Act shall apply accordingly.
+    (2) There shall be paid to members of every Board, out of money appropriated by Parliament, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][331], and the provisions of that Act shall apply accordingly.
     
-    Compare: 1980 No 66 [s 38][346]
+    Compare: 1980 No 66 [s 38][349]
     
-    Section 6W: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6W: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ## Part 2B  
 Guardians of Lakes Manapouri, Monowai, and Te Anau
     
-*   Part 2B: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Part 2B: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6X Guardians of Lakes Manapouri, Monowai, and Te Anau
     
 *   (1) The Minister may, on such terms and conditions as the Minister may from time to time specify, appoint suitable persons to be the Guardians of Lakes Manapouri, Monowai, and Te Anau.
     
-    (1A) The persons appointed to be Guardians must include at least 1 person nominated by Te Rūnanga o Ngāi Tahu (as established by [Te Runanga o Ngai Tahu Act 1996][347]).
+    (1A) The persons appointed to be Guardians must include at least 1 person nominated by Te Rūnanga o Ngāi Tahu (as established by [Te Runanga o Ngai Tahu Act 1996][350]).
     
     (2) The functions of the Guardians shall be---
         
@@ -1633,17 +1647,17 @@ Guardians of Lakes Manapouri, Monowai, and Te Anau
     
     *   (b) to make recommendations to the Minister on any matters arising from the environmental, ecological, and social effects of the operation of the Monowai Power Scheme on Lake Monowai, its shoreline, and on the rivers flowing in and out of Lake Monowai, having particular regard to the effects of the operation on social values, conservation, recreation, tourism, and related activities and amenities:
     
-    *   (c) to make to the Minister, and to the Minister responsible for the administration of the [Manapouri -- Te Anau Development Act 1963][348], recommendations on the operating guidelines for the levels of Lakes Manapouri and Te Anau, for the purposes of [section 4A][349] of that Act.
+    *   (c) to make to the Minister, and to the Minister responsible for the administration of the [Manapouri -- Te Anau Development Act 1963][351], recommendations on the operating guidelines for the levels of Lakes Manapouri and Te Anau, for the purposes of [section 4A][352] of that Act.
     
     (3) The Guardians shall in each year make a report to the Minister on their meetings and recommendations.
     
     (4) Except as otherwise expressly provided, every reference in any other Act to the Guardians of Lakes Manapouri and Te Anau shall be read as a reference to the Guardians appointed under subsection (1).
     
-    Section 6X: inserted, on 10 April 1990, by [section 5][309] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 6X: inserted, on 10 April 1990, by [section 5][312] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 6X(1): amended, on 22 October 1998, by [section 274(1)][350] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 6X(1): amended, on 22 October 1998, by [section 274(1)][353] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 6X(1A): inserted, on 22 October 1998, by [section 274(2)][350] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 6X(1A): inserted, on 22 October 1998, by [section 274(2)][353] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
 
 ## Part 3  
 Conservation areas
@@ -1652,71 +1666,83 @@ Conservation areas
     
 *   (1) The Minister, and the Minister responsible for an agency or department of State that has control of any land, may jointly, by notice in the _Gazette_ describing it, declare that the land is held for conservation purposes; and, subject to this Act, it shall thereafter be so held.
     
-    (1A) Notwithstanding subsection (1), in the case of any land to which [section 61][256] or [section 62][257] applies, the Minister may, by notice in the _Gazette_ describing it, declare that the land is held for conservation purposes; and, subject to this Act, it shall thereafter be so held.
+    (1A) Notwithstanding subsection (1), in the case of any land to which [section 61][258] or [section 62][259] applies, the Minister may, by notice in the _Gazette_ describing it, declare that the land is held for conservation purposes; and, subject to this Act, it shall thereafter be so held.
     
     (1B) In the case of land that is foreshore within the common marine and coastal area, the Minister may declare, by notice in the _Gazette_ describing the land, that the land is held for conservation purposes.
     
     (2) The Minister may, by agreement, acquire any interest in land for conservation purposes; and, subject to this Act, it shall thereafter be held for those purposes.
     
-    (3) Nothing in subsections (1) and (2) applies in respect of land that is Crown forest land within the meaning of [section 2][351] of the Crown Forest Assets Act 1989\.
+    (3) Nothing in subsections (1) and (2) applies in respect of land that is Crown forest land within the meaning of [section 2][354] of the Crown Forest Assets Act 1989\.
     
-    (4) For the purposes of subsection (1), the Minister of Forestry shall be deemed to be the Minister responsible for a department of State that has control of State forest land that is not Crown forest land within the meaning of [section 2][351] of the Crown Forest Assets Act 1989\.
+    (4) For the purposes of subsection (1), the Minister of Forestry shall be deemed to be the Minister responsible for a department of State that has control of State forest land that is not Crown forest land within the meaning of [section 2][354] of the Crown Forest Assets Act 1989\.
     
-    Section 7(1): amended, on 1 April 2011, by [section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 7(1): amended, on 1 April 2011, by [section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 7(1A): inserted, on 25 November 1994, by [section 3][352] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 7(1A): inserted, on 25 November 1994, by [section 3][355] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 7(1A): amended, on 1 April 2011, by [section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 7(1A): amended, on 1 April 2011, by [section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 7(1B): inserted, on 1 April 2011, by [section 127(2)][353] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 7(1B): inserted, on 1 April 2011, by [section 127(2)][356] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 7(3): substituted, on 25 October 1989, by [section 44(1)][354] of the Crown Forest Assets Act 1989 (1989 No 99).
+    Section 7(3): substituted, on 25 October 1989, by [section 44(1)][357] of the Crown Forest Assets Act 1989 (1989 No 99).
     
-    Section 7(4): added, on 25 October 1989, by [section 44(1)][354] of the Crown Forest Assets Act 1989 (1989 No 99).
+    Section 7(4): added, on 25 October 1989, by [section 44(1)][357] of the Crown Forest Assets Act 1989 (1989 No 99).
 
 ##### 8 Conservation area may become reserve, national park, etc
     
 *   (1) Nothing in this Act shall prevent any conservation area's becoming a reserve, sanctuary, refuge, or national park under any enactment other than this Act administered by the Department.
     
-    (1A) The Minister may from time to time, by notice in the _Gazette_, declare any conservation area to be a reserve under the [Reserves Act 1977][312] and to have a classification under that Act, or to be included in any existing reserve under that Act, and may in like manner amend or revoke any such notice; and every such declaration shall have effect as a reservation under that Act for the purposes specified in the notice.
+    (1A) The Minister may from time to time, by notice in the _Gazette_, declare any conservation area to be a reserve under the [Reserves Act 1977][315] and to have a classification under that Act, or to be included in any existing reserve under that Act, and may in like manner amend or revoke any such notice; and every such declaration shall have effect as a reservation under that Act for the purposes specified in the notice.
     
-    (2) Upon becoming a reserve, sanctuary, refuge, or national park, a conservation area shall cease to be a conservation area, notwithstanding that there has been no compliance with [section 16][48] or [section 26][118].
+    (1B) Subsection (1A) is subject to subsection (4).
+    
+    (2) Upon becoming a reserve, sanctuary, refuge, or national park, a conservation area shall cease to be a conservation area, notwithstanding that there has been no compliance with [section 16][48] or [section 26][120].
     
     (3) Upon the revocation of any notice given under subsection (1A), the land to which that notice related shall become a conservation area and have the same status as it had immediately before the commencement of that notice.
     
-    Section 8(1A): inserted, on 10 April 1990, by [section 6(1)][355] of the Conservation Law Reform Act 1990 (1990 No 31).
+    (4) The Minister must not act under subsection (1A) to declare a conservation area---
+        
+    *   (a) to be a nature reserve or a scientific reserve under the [Reserves Act 1977][315]; or
     
-    Section 8(3): added, on 10 April 1990, by [section 6(2)][355] of the Conservation Law Reform Act 1990 (1990 No 31).
+    *   (b) to be included in an existing nature reserve or scientific reserve under that Act.
+    
+    Section 8(1A): inserted, on 10 April 1990, by [section 6(1)][358] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 8(1B): inserted, on 24 May 2013, by [section 5(1)][359] of the Conservation Amendment Act 2013 (2013 No 15).
+    
+    Section 8(3): added, on 10 April 1990, by [section 6(2)][358] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 8(4): inserted, on 24 May 2013, by [section 5(2)][359] of the Conservation Amendment Act 2013 (2013 No 15).
 
 ##### 9 Policy statements for conservation areas
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 10 April 1990, by [section 13(2)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 9: repealed, on 10 April 1990, by [section 13(2)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 10 Management plans
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 10 April 1990, by [section 13(2)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 10: repealed, on 10 April 1990, by [section 13(2)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 11 Procedure for preparing and amending management plans
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 10 April 1990, by [section 13(2)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 11: repealed, on 10 April 1990, by [section 13(2)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 12 Effect of management plans
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 10 April 1990, by [section 13(2)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 12: repealed, on 10 April 1990, by [section 13(2)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 13 Conservation areas may be closed
     
 *   (1) The Minister may---
         
-    *   (a) if requested to do so under [section 24H(7)][111] or if any conservation management strategy or conservation management plan relating to any conservation area provides for its closure in whole or in part for conservation purposes, to public entry, close the area or any part of it to public entry in accordance with the strategy or plan; and
+    *   (a) if requested to do so under [section 24H(7)][113] or if any conservation management strategy or conservation management plan relating to any conservation area provides for its closure in whole or in part for conservation purposes, to public entry, close the area or any part of it to public entry in accordance with the strategy or plan; and
     
     *   (b) to the extent only that the conservation of any natural or historic resource of a conservation area for which there is no conservation management strategy or conservation management plan requires the closure of the area to public entry, close the area to public entry; and
     
@@ -1726,33 +1752,33 @@ Conservation areas
     
     (2) For so long as a conservation area is closed under subsection (1), the Director-General shall take all reasonable steps to ensure that members of the public are made aware of the closure and the reasons for it.
     
-    Section 13(1)(a): substituted, on 10 April 1990, by [section 7(1)][357] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 13(1)(a): substituted, on 10 April 1990, by [section 7(1)][361] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 13(1)(b): amended, on 10 April 1990, by [section 7(2)][357] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 13(1)(b): amended, on 10 April 1990, by [section 7(2)][361] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 14 Conditions on the issuing of leases and licences, and disposal of conservation areas
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 1 July 1996, by [section 7(5)(a)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 14: repealed, on 1 July 1996, by [section 7(5)(a)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 15 Creation of easements
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 1 July 1996, by [section 7(5)(a)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 15: repealed, on 1 July 1996, by [section 7(5)(a)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 16 Disposal of conservation areas
     
-*   (1) Notwithstanding anything in the [State-Owned Enterprises Act 1986][291] but subject to the [Public Works Act 1981][359], no conservation area or interest in a conservation area shall be disposed of except in accordance with this Act.
+*   (1) Notwithstanding anything in the [State-Owned Enterprises Act 1986][293] but subject to the [Public Works Act 1981][363], no conservation area or interest in a conservation area shall be disposed of except in accordance with this Act.
     
     (2) Nothing in subsection (1) restricts or prevents the granting under this Act of a lease, licence, or easement over any conservation area.
     
-    (3) Nothing in [section 42][360] of the Public Works Act 1981 applies to the disposal of any conservation area or interest in a conservation area.
+    (3) Nothing in [section 42][364] of the Public Works Act 1981 applies to the disposal of any conservation area or interest in a conservation area.
     
-    Section 16(1): substituted, on 10 April 1990, by [section 10][361] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 16(1): substituted, on 10 April 1990, by [section 10][365] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 16(3): added, on 25 November 1994, by [section 4][362] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 16(3): added, on 25 November 1994, by [section 4][366] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 16A Exchanges of stewardship areas
     
@@ -1762,25 +1788,25 @@ Conservation areas
     
     (3) All land acquired by the Crown under this section shall be held for such conservation purposes as the Minister may specify in respect of that land by notice in the _Gazette_.
     
-    (4) The Minister may authorise the payment or receipt by the Crown of money by way of equality of exchange in any case under this section; and all money so received shall be paid into the Department of Conservation Grants and Gifts Trust Account, and shall be applied, without further appropriation than this section, for the acquisition of land under this Act or the [Reserves Act 1977][312] or the [National Parks Act 1980][285].
+    (4) The Minister may authorise the payment or receipt by the Crown of money by way of equality of exchange in any case under this section; and all money so received shall be paid into the Department of Conservation Grants and Gifts Trust Account, and shall be applied, without further appropriation than this section, for the acquisition of land under this Act or the [Reserves Act 1977][315] or the [National Parks Act 1980][287].
     
     (5) The Minister or the Director-General may, on behalf of the Crown, do all such things as may be necessary to effect any exchange authorised under this section.
     
     (6) Upon the transfer of any stewardship area or any part of any stewardship area under this section, that land shall cease to be subject to this Act.
     
-    (7) Nothing in [section 26][118] or [section 49][235] shall apply to the exchange of land under this section.
+    (7) Nothing in [section 26][120] or [section 49][237] shall apply to the exchange of land under this section.
     
-    (7A) Nothing in [section 40][363] of the Public Works Act 1981 applies to the exchange of land under this section.
+    (7A) Nothing in [section 40][367] of the Public Works Act 1981 applies to the exchange of land under this section.
     
     (8) District Land Registrars are hereby authorised and directed to make such entries in registers and do all such other things as may be necessary to give effect to exchanges authorised under this section.
     
-    Section 16A: inserted, on 10 April 1990, by [section 11][364] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 16A: inserted, on 10 April 1990, by [section 11][368] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 16A(7A): inserted, on 25 November 1994, by [section 5][365] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 16A(7A): inserted, on 25 November 1994, by [section 5][369] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 17 Access to conservation areas
     
-*   (1) Except as provided by or under this section, [Part 3B][66], or [section 38(1)][219], the entry to and use of conservation areas by the public shall be free of charge.
+*   (1) Except as provided by or under this section, [Part 3B][66], or [section 38(1)][221], the entry to and use of conservation areas by the public shall be free of charge.
     
     (2) The Minister may impose a reasonable charge for the use of facilities (other than paths and tracks) that are provided by the Minister in or in respect of any conservation area.
     
@@ -1798,12 +1824,12 @@ Conservation areas
     
     (5) Nothing in this section authorises any person to do anything on or in respect of any private land.
     
-    Section 17: substituted, on 1 July 1996, by [section 3(1)][366] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17: substituted, on 1 July 1996, by [section 3(1)][370] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ## Part 3A  
 Management planning
     
-*   Part 3A: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Part 3A: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 17A Conservation areas to be managed by Department
     
@@ -1813,7 +1839,7 @@ Management planning
     
     *   (b) conservation management strategies, conservation management plans, and freshwater fisheries management plans.
     
-    Section 17A: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17A: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 17B General policy
     
@@ -1839,7 +1865,7 @@ Management planning
         
         
     
-    *   (c) the Director-General shall also give notice to the same effect to all regional councils within the meaning of the [Local Government Act 2002][367], and, so far as is practicable, to representatives of the appropriate iwi authorities:
+    *   (c) the Director-General shall also give notice to the same effect to all regional councils within the meaning of the [Local Government Act 2002][371], and, so far as is practicable, to representatives of the appropriate iwi authorities:
     
     *   (d) before revising any such draft, the Director-General shall ensure that---
             
@@ -1889,23 +1915,23 @@ Management planning
     
     (5) All statements of general policy approved under this Act before the commencement of this section shall be deemed to have been approved under subsection (3)(m).
     
-    Section 17B: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17B: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17B(3)(c): amended, on 1 July 2003, by [section 262][368] of the Local Government Act 2002 (2002 No 84).
+    Section 17B(3)(c): amended, on 1 July 2003, by [section 262][372] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17C General policy under more than 1 Act
     
-*   (1) The Director-General may from time to time prepare and recommend for approval by the Minister a general statement of policy for any area or areas of land or water, or for any natural or historic resources, managed by the Department for the purposes of the [Wildlife Act 1953][277], the [Marine Reserves Act 1971][311], the [Reserves Act 1977][312], the [Wild Animal Control Act 1977][313], the [Marine Mammals Protection Act 1978][290], or this Act, or any of them.
+*   (1) The Director-General may from time to time prepare and recommend for approval by the Minister a general statement of policy for any area or areas of land or water, or for any natural or historic resources, managed by the Department for the purposes of the [Wildlife Act 1953][279], the [Marine Reserves Act 1971][314], the [Reserves Act 1977][315], the [Wild Animal Control Act 1977][316], the [Marine Mammals Protection Act 1978][292], or this Act, or any of them.
     
     (2) Where any part of any such statement of policy is subject to any of the Acts referred to in subsection (1), it may be approved only in accordance with the relevant approval procedures set out in that Act; and the relevant provisions of that Act shall apply accordingly.
     
-    Section 17C: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17C: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17C(1): amended, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 17C(1): amended, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
 
 ##### 17D Conservation management strategies
     
-*   (1) The purpose of a conservation management strategy is to implement general policies and establish objectives for the integrated management of natural and historic resources, including any species, managed by the Department under the [Wildlife Act 1953][277], the [Marine Reserves Act 1971][311], the [Reserves Act 1977][312], the [Wild Animal Control Act 1977][313], the [Marine Mammals Protection Act 1978][290], the [National Parks Act 1980][285] [Hauraki Gulf Marine Park Act 2000][369], or this Act, or any of them, and for recreation, tourism, and other conservation purposes.
+*   (1) The purpose of a conservation management strategy is to implement general policies and establish objectives for the integrated management of natural and historic resources, including any species, managed by the Department under the [Wildlife Act 1953][279], the [Marine Reserves Act 1971][314], the [Reserves Act 1977][315], the [Wild Animal Control Act 1977][316], the [Marine Mammals Protection Act 1978][292], the [National Parks Act 1980][287] [Hauraki Gulf Marine Park Act 2000][373], or this Act, or any of them, and for recreation, tourism, and other conservation purposes.
     
     (2) Within 5 years after the commencement of this section, such conservation management strategies as may be necessary to establish such objectives for all areas managed by the Department shall be prepared by the Director-General for approval by the Conservation Authority in accordance with [section 17F][57].
     
@@ -1919,21 +1945,21 @@ Management planning
     
     *   (c) affect any agreement or arrangement entered into under this Act or any other Act between the Minister and any land owner other than the Crown or between the Director-General and any such land owner.
     
-    (5) A conservation management strategy may require the preparation of a conservation management plan under any Act specified in [Schedule 1][263] other than the [National Parks Act 1980][285].
+    (5) A conservation management strategy may require the preparation of a conservation management plan under any Act specified in [Schedule 1][265] other than the [National Parks Act 1980][287].
     
-    (6) Any conservation management plan approved in respect of any conservation park or under the [National Parks Act 1980][285] may be approved as a conservation management strategy by the Conservation Authority in accordance with paragraphs (m) to (p) of [section 17F][57], as if it were a draft conservation management strategy.
+    (6) Any conservation management plan approved in respect of any conservation park or under the [National Parks Act 1980][287] may be approved as a conservation management strategy by the Conservation Authority in accordance with paragraphs (m) to (p) of [section 17F][57], as if it were a draft conservation management strategy.
     
     (7) A conservation management strategy shall identify and describe all protected areas managed by the Department within the boundaries of the strategy.
     
-    (8) When preparing a conservation management strategy, the Director-General shall have regard to any relevant concessions for the time being in force and to existing management plans under this Act or any Act specified in [Schedule 1][263].
+    (8) When preparing a conservation management strategy, the Director-General shall have regard to any relevant concessions for the time being in force and to existing management plans under this Act or any Act specified in [Schedule 1][265].
     
-    Section 17D: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17D: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17D(1): amended, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 17D(1): amended, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
     
-    Section 17D(1): amended, on 27 February 2000, by [section 49][370] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
+    Section 17D(1): amended, on 27 February 2000, by [section 49][374] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
     
-    Section 17D(8): amended, on 1 July 1996, by [section 4][371] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17D(8): amended, on 1 July 1996, by [section 4][375] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17E Conservation management plans
     
@@ -1943,7 +1969,7 @@ Management planning
     
     (3) Where an area is not subject to a conservation management strategy, the Minister may require the preparation of a conservation management plan for that area after consultation with the Boards affected; and the Director-General shall prepare such a plan if so required by the Minister.
     
-    (4) Any conservation management plan may relate to any area or areas managed by the Department under the [Wildlife Act 1953][277], the [Marine Reserves Act 1971][311], the [Reserves Act 1977][312], the [Marine Mammals Protection Act 1978][290] [Hauraki Gulf Marine Park Act 2000][369], or this Act.
+    (4) Any conservation management plan may relate to any area or areas managed by the Department under the [Wildlife Act 1953][279], the [Marine Reserves Act 1971][314], the [Reserves Act 1977][315], the [Marine Mammals Protection Act 1978][292] [Hauraki Gulf Marine Park Act 2000][373], or this Act.
     
     (5) Nothing in any conservation management plan shall derogate from---
         
@@ -1961,19 +1987,19 @@ Management planning
     
     (9) When preparing a conservation management plan, the Director-General shall have regard to any relevant concessions for the time being in force and to existing freshwater fisheries management plans and sports fish and game management plans under this Act.
     
-    Section 17E: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17E: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17E(4): amended, on 27 February 2000, by [section 49][370] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
+    Section 17E(4): amended, on 27 February 2000, by [section 49][374] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
     
-    Section 17E(5)(c): amended, on 25 November 1994, by [section 6][372] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 17E(5)(c): amended, on 25 November 1994, by [section 6][376] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 17E(9): amended, on 1 July 1996, by [section 5][373] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17E(9): amended, on 1 July 1996, by [section 5][377] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17F Procedure for preparation and approval of conservation management strategies
     
 *   The following provisions shall apply to the preparation and approval of draft conservation management strategies:
         
-    *   (a) every draft shall be prepared by the Director-General in consultation with the Conservation Boards affected by it and such other persons or organisations, as the Director-General considers practicable and appropriate, and then notified in accordance with [section 49(1)][235] and to the appropriate regional councils and territorial authorities within the meaning of the [Local Government Act 2002][367] and to the appropriate iwi authorities, and that provision shall apply as if the notice were required to be given by the Minister:
+    *   (a) every draft shall be prepared by the Director-General in consultation with the Conservation Boards affected by it and such other persons or organisations, as the Director-General considers practicable and appropriate, and then notified in accordance with [section 49(1)][237] and to the appropriate regional councils and territorial authorities within the meaning of the [Local Government Act 2002][371] and to the appropriate iwi authorities, and that provision shall apply as if the notice were required to be given by the Minister:
     
     *   (b) every notice under paragraph (a) shall---
             
@@ -2035,9 +2061,9 @@ Management planning
         
         
     
-    Section 17F: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17F: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17F(a): amended, on 1 July 2003, by [section 262][368] of the Local Government Act 2002 (2002 No 84).
+    Section 17F(a): amended, on 1 July 2003, by [section 262][372] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17G Procedure for preparation and approval of conservation management plans
     
@@ -2081,7 +2107,7 @@ Management planning
         
         
     
-    Section 17G: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17G: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 17H Reviews of conservation management strategies and conservation management plans
     
@@ -2101,11 +2127,11 @@ Management planning
     
     *   (d) in the case of a conservation management plan, the Minister may, after consultation with the Conservation Boards affected, extend that period of review.
     
-    (5) When reviewing any part of a conservation management strategy, the Director-General must take into account the matters set out in any planning documents lodged with the Director-General under [section 90][374] of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to the strategy.
+    (5) When reviewing any part of a conservation management strategy, the Director-General must take into account the matters set out in any planning documents lodged with the Director-General under [section 90][378] of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to the strategy.
     
-    Section 17H: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17H: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17H(5): added, on 1 April 2011, by[section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 17H(5): added, on 1 April 2011, by[section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 ##### 17I Amendments to conservation management strategies and conservation management plans
     
@@ -2123,17 +2149,17 @@ Management planning
     
     *   (b) in the case of a conservation management plan, the Director-General shall send the proposal to the Conservation Boards affected and it shall be dealt with under subsections (2) and (3) of [section 17G][58].
     
-    (5) When amending any part of a conservation management strategy, the Director-General must take into account the matters set out in any planning documents lodged with the Director-General under [section 90][374] of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to the strategy.
+    (5) When amending any part of a conservation management strategy, the Director-General must take into account the matters set out in any planning documents lodged with the Director-General under [section 90][378] of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to the strategy.
     
-    Section 17I: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17I: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17I(1A): inserted, on 22 October 2003, by [section 3][375] of the Conservation Amendment Act 2003 (2003 No 65).
+    Section 17I(1A): inserted, on 22 October 2003, by [section 3][379] of the Conservation Amendment Act 2003 (2003 No 65).
     
-    Section 17I(4)(a): amended, on 25 November 1994, by [section 7][376] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 17I(4)(a): amended, on 25 November 1994, by [section 7][380] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 17I(4)(b): amended, on 25 November 1994, by [section 7][376] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 17I(4)(b): amended, on 25 November 1994, by [section 7][380] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 17I(5): added, on 1 April 2011, by[section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 17I(5): added, on 1 April 2011, by[section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 ##### 17J Freshwater fisheries management plans
     
@@ -2153,13 +2179,13 @@ Management planning
     
     (5) In preparing any freshwater fisheries management plan, the Director-General shall have regard to any sports fish and game management plan having effect in that area.
     
-    Section 17J: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17J: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 17K Procedure for preparation, approval, review, and amendment of freshwater fisheries management plans
     
 *   (1) The following provisions shall apply to the preparation and approval of freshwater fisheries management plans:
         
-    *   (a) every draft plan shall be prepared by the Director-General in consultation with the Conservation Boards affected by it and such other persons or organisations, including representatives of the appropriate iwi authorities, as the Director-General considers practicable and appropriate, and then notified in accordance with [section 49(1)][235] and to the appropriate regional councils and territorial authorities within the meaning of the [Local Government Act 2002][367], and that provision shall apply as if the notice were required to be given by the Minister:
+    *   (a) every draft plan shall be prepared by the Director-General in consultation with the Conservation Boards affected by it and such other persons or organisations, including representatives of the appropriate iwi authorities, as the Director-General considers practicable and appropriate, and then notified in accordance with [section 49(1)][237] and to the appropriate regional councils and territorial authorities within the meaning of the [Local Government Act 2002][371], and that provision shall apply as if the notice were required to be given by the Minister:
     
     *   (b) every notice under paragraph (a) shall---
             
@@ -2217,9 +2243,9 @@ Management planning
     
     (6) Where any such amendment is of such a nature that the Director-General considers that it will not materially affect the objectives or policies expressed in the plan or the public interest in the area concerned, the amendment shall be dealt with under paragraphs (i) to (m) of subsection (1), which shall apply with any necessary modifications.
     
-    Section 17K: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17K: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17K(1)(a): amended, on 1 July 2003, by [section 262][368] of the Local Government Act 2002 (2002 No 84).
+    Section 17K(1)(a): amended, on 1 July 2003, by [section 262][372] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17L Sports fish and game management plans
     
@@ -2243,7 +2269,7 @@ Management planning
     
     *   (c) include such provisions as may be necessary to maximise recreational opportunities for hunters and anglers.
     
-    Section 17L: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17L: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 17M Procedure for preparation, approval, review, and amendment of sports fish and game management plans
     
@@ -2255,7 +2281,7 @@ Management planning
             
         *   (i) shall publish a notice of the draft plan either in some newspaper circulating in the area in which the subject matter of the notice is situated or, if the draft is of national importance, at least once in each of 5 daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin, respectively; and
         
-        *   (ii) shall give notice of the draft plan to the Director-General and, so far as is practicable, to representatives of the appropriate iwi authorities, and to the appropriate regional councils and territorial authorities within the meaning of the [Local Government Act 2002][367]; and
+        *   (ii) shall give notice of the draft plan to the Director-General and, so far as is practicable, to representatives of the appropriate iwi authorities, and to the appropriate regional councils and territorial authorities within the meaning of the [Local Government Act 2002][371]; and
         
         *   (iii) may give such further notice of the draft plan as the Fish and Game Council thinks fit; and
         
@@ -2293,9 +2319,9 @@ Management planning
     
     (6) Where the proposed amendment of any sports fish and game management plan is of such a nature that the Fish and Game Council considers that it will not materially affect the objectives or policies expressed in the plan or the public interest in the area concerned, the amendment shall be dealt with under paragraphs (e) to (g) of subsection (2), which shall apply with any necessary modifications.
     
-    Section 17M: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17M: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17M(2)(a)(ii): amended, on 1 July 2003, by [section 262][368] of the Local Government Act 2002 (2002 No 84).
+    Section 17M(2)(a)(ii): amended, on 1 July 2003, by [section 262][372] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17N Effect of general policies, conservation management strategies, and management plans
     
@@ -2309,18 +2335,18 @@ Management planning
     
     (5) Sports fish and game management plans, and policies relating to sports fish and game that are general policies or are established by the New Zealand Fish and Game Council, shall be available at the offices of the New Zealand Fish and Game Council and the Fish and Game Councils affected by them.
     
-    (6) Where any such strategy or plan or any review or amendment of any such strategy or plan is approved, the Fish and Game Council that prepared, reviewed, or amended the sports fish and game management plan, or the Director-General in the case of any other strategy or plan, must give public notice of the approval, specifying the offices or places at which the strategy or plan, or reviewed or amended strategy or plan, can be inspected; and [section 49(1)][235] applies as if the notice were required to be given by the Minister.
+    (6) Where any such strategy or plan or any review or amendment of any such strategy or plan is approved, the Fish and Game Council that prepared, reviewed, or amended the sports fish and game management plan, or the Director-General in the case of any other strategy or plan, must give public notice of the approval, specifying the offices or places at which the strategy or plan, or reviewed or amended strategy or plan, can be inspected; and [section 49(1)][237] applies as if the notice were required to be given by the Minister.
     
-    Section 17N: inserted, on 10 April 1990, by [section 13(1)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17N: inserted, on 10 April 1990, by [section 13(1)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17N(3): repealed, on 1 July 1996, by [section 6][377] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17N(3): repealed, on 1 July 1996, by [section 6][381] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 17N(6): substituted, on 3 June 1998, by [section 2][378] of the Conservation Amendment Act 1998 (1998 No 33).
+    Section 17N(6): substituted, on 3 June 1998, by [section 2][382] of the Conservation Amendment Act 1998 (1998 No 33).
 
 ## Part 3B  
 Concessions
     
-*   Part 3B: inserted, on 1 July 1996, by [section 7(1)][358] of the of the Conservation Amendment Act 1996 (1996 No 1).
+*   Part 3B: inserted, on 1 July 1996, by [section 7(1)][362] of the of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17O Application
     
@@ -2330,9 +2356,9 @@ Concessions
     
     (3) A concession is not required in respect of---
         
-    *   (a) any mining activity authorised under the [Crown Minerals Act 1991][379] (including the transitional provisions of that Act); or
+    *   (a) any mining activity authorised under the [Crown Minerals Act 1991][383] (including the transitional provisions of that Act); or
     
-    *   (b) any activity that is otherwise authorised by or under this Act or any Act specified in [Schedule 1][263]; or
+    *   (b) any activity that is otherwise authorised by or under this Act or any Act specified in [Schedule 1][265]; or
     
     *   (c) any action or event necessary for the purposes of saving or protecting life or health, or preventing serious damage to property or avoiding an actual or likely adverse effect on the environment; or
     
@@ -2344,19 +2370,19 @@ Concessions
     
     (6) Subsection (3)(b) shall not apply to any sports fishing guide or game hunting guide who conducts any activity in a conservation area.
     
-    (7) This Part is subject to [Part 2][380] of the Forests (West Coast Accord) Act 2000, in relation to land that is a conservation area as a result of a declaration under [section 8(1)][381] of that Act.
+    (7) This Part is subject to [Part 2][384] of the Forests (West Coast Accord) Act 2000, in relation to land that is a conservation area as a result of a declaration under [section 8(1)][385] of that Act.
     
-    Section 17O: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17O: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 17O(7): added, on 21 October 2000, by [section 22][382] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
+    Section 17O(7): added, on 21 October 2000, by [section 22][386] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 ##### 17P Relationship with the Resource Management Act 1991
     
-*   (1) Except as provided in subsection (2), this Part does not relieve any person from any obligation to obtain a resource consent under the [Resource Management Act 1991][273].
+*   (1) Except as provided in subsection (2), this Part does not relieve any person from any obligation to obtain a resource consent under the [Resource Management Act 1991][275].
     
-    (2) [Section 11][383] and [Part 10][384] of the Resource Management Act 1991 do not apply to any lease granted by the Minister.
+    (2) [Section 11][387] and [Part 10][388] of the Resource Management Act 1991 do not apply to any lease granted by the Minister.
     
-    Section 17P: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17P: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17Q Powers to grant concessions
     
@@ -2364,9 +2390,9 @@ Concessions
     
     (2) The Minister shall not grant an easement in respect of an activity if a lease, licence, or permit may be granted in respect of the activity and the Minister considers that a lease, licence, or permit is more appropriate in that case.
     
-    (3) [Part 4A][100] does not apply to any lease or licence granted under this Part.
+    (3) [Part 4A][102] does not apply to any lease or licence granted under this Part.
     
-    Section 17Q: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17Q: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17R Applications for leases, licences, etc
     
@@ -2378,9 +2404,9 @@ Concessions
     
     *   (b) the application would be inconsistent with the process.
     
-    Section 17R: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17R: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 17R(2): added, on 20 April 2010, by [section 4][385] of the Conservation Amendment Act 2010 (2010 No 14).
+    Section 17R(2): added, on 20 April 2010, by [section 4][389] of the Conservation Amendment Act 2010 (2010 No 14).
 
 ##### 17S Contents of application
     
@@ -2408,7 +2434,7 @@ Concessions
     
     the applicant, in addition to supplying the information required by subsection (1), shall supply reasons for the request and sufficient information to satisfy the Minister, in terms of [section 17U][73], that it is both appropriate to grant the lease, _profit à prendre_, licence, or easement and lawful to grant it.
     
-    (3) The Minister may require an applicant for a concession to supply such further information as the Minister considers necessary to enable a decision to be made, including the preparation of an environmental impact assessment in the form set out in [Schedule 4][386] of the Resource Management Act 1991 or in such other form as the Minister may require.
+    (3) The Minister may require an applicant for a concession to supply such further information as the Minister considers necessary to enable a decision to be made, including the preparation of an environmental impact assessment in the form set out in [Schedule 4][390] of the Resource Management Act 1991 or in such other form as the Minister may require.
     
     (4) The Minister may, at the expense of the applicant,---
         
@@ -2426,7 +2452,7 @@ Concessions
     
     *   (c) has supplied information to the applicant under subsection (5) and the time limit specified under that subsection has not expired.
     
-    Section 17S: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17S: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17T Process for complete application
     
@@ -2444,19 +2470,19 @@ Concessions
     
     (6) Subsections (4) and (5) do not apply to the grant of a lease or licence resulting from the exercise of a right of renewal, or a right to a new lease or licence, that is contained in a lease or licence.
     
-    (7) [Section 49][235] applies to a public notice given under subsection (4) or (5).
+    (7) [Section 49][237] applies to a public notice given under subsection (4) or (5).
     
-    Section 17T: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17T: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 17T(1A): inserted, on 20 April 2010, by [section 5(1)][387] of the Conservation Amendment Act 2010 (2010 No 14).
+    Section 17T(1A): inserted, on 20 April 2010, by [section 5(1)][391] of the Conservation Amendment Act 2010 (2010 No 14).
     
-    Section 17T(4): substituted, on 20 April 2010, by [section 5(2)][387] of the Conservation Amendment Act 2010 (2010 No 14).
+    Section 17T(4): substituted, on 20 April 2010, by [section 5(2)][391] of the Conservation Amendment Act 2010 (2010 No 14).
     
-    Section 17T(5): substituted, on 20 April 2010, by [section 5(2)][387] of the Conservation Amendment Act 2010 (2010 No 14).
+    Section 17T(5): substituted, on 20 April 2010, by [section 5(2)][391] of the Conservation Amendment Act 2010 (2010 No 14).
     
-    Section 17T(6): added, on 20 April 2010, by [section 5(2)][387] of the Conservation Amendment Act 2010 (2010 No 14).
+    Section 17T(6): added, on 20 April 2010, by [section 5(2)][391] of the Conservation Amendment Act 2010 (2010 No 14).
     
-    Section 17T(7): added, on 20 April 2010, by [section 5(2)][387] of the Conservation Amendment Act 2010 (2010 No 14).
+    Section 17T(7): added, on 20 April 2010, by [section 5(2)][391] of the Conservation Amendment Act 2010 (2010 No 14).
 
 ##### 17U Matters to be considered by Minister
     
@@ -2472,9 +2498,9 @@ Concessions
     
     *   (e) any relevant environmental impact assessment, including any audit or review:
     
-    *   (f) any relevant oral or written submissions received as a result of any relevant public notice issued under [section 49][235]:
+    *   (f) any relevant oral or written submissions received as a result of any relevant public notice issued under [section 49][237]:
     
-    *   (g) any relevant information which may be withheld from any person in accordance with the [Official Information Act 1982][388] or the [Privacy Act 1993][389].
+    *   (g) any relevant information which may be withheld from any person in accordance with the [Official Information Act 1982][392] or the [Privacy Act 1993][393].
     
     (2) The Minister may decline any application if the Minister considers that---
         
@@ -2524,13 +2550,13 @@ Concessions
     
     (7) For the purposes of subsection (6), the competent operation of an activity includes the necessity for the activity to achieve adequate investment and maintenance.
     
-    Section 17U: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17U: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17V Limitations on concessions and leases over marginal strips
     
-*   (1) Without limiting the power of the Minister to grant a concession over a conservation area that is a marginal strip, the Minister may decline to grant a concession in any case if he or she is satisfied that it is more appropriate in that case to enter into any agreement or arrangement under [section 24H][111].
+*   (1) Without limiting the power of the Minister to grant a concession over a conservation area that is a marginal strip, the Minister may decline to grant a concession in any case if he or she is satisfied that it is more appropriate in that case to enter into any agreement or arrangement under [section 24H][113].
     
-    (2) No concession may authorise the owner of any land adjoining a marginal strip to use the marginal strip for farming purposes or forestry purposes or any purpose associated with or incidental to any farming or forestry carried out on the adjoining land; but nothing in the preceding provisions of this subsection limits or affects [section 24H][111].
+    (2) No concession may authorise the owner of any land adjoining a marginal strip to use the marginal strip for farming purposes or forestry purposes or any purpose associated with or incidental to any farming or forestry carried out on the adjoining land; but nothing in the preceding provisions of this subsection limits or affects [section 24H][113].
     
     (3) The Minister shall not grant a lease (other than a lease that formalises an occupation of the land, where that occupation existed before 10 April 1990) over a marginal strip unless he or she is satisfied that---
         
@@ -2540,7 +2566,7 @@ Concessions
     
     *   (c) the land, structures, and facilities to which the lease relates are essential to the carrying out of such activities.
     
-    Section 17V: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17V: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17W Relationship between concessions and conservation management strategies and plans
     
@@ -2566,7 +2592,7 @@ Concessions
     
     (8) Any provision of a concession document that contravenes or allows expressly or by implication any action or default on the part of the concessionaire in contravention of the strategy or plan shall have no effect and any breach or contravention of the strategy or plan shall be deemed to be a breach or contravention of the concession and concession document.
     
-    Section 17W: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17W: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17X Power of Minister to impose and enforce conditions
     
@@ -2606,9 +2632,9 @@ Concessions
     
     *   (i) a covenant that on any transfer, sublease, sublicence, or assignment of a concession, the concessionaire shall remain liable throughout the term (including renewals) of the lease or licence or easement and shall procure from the transferee or sublessee or sublicensee or assignee a covenant to be bound by the conditions of the lease or licence or easement:
     
-    *   (j) the payment of any fees (including legal fees) in respect of the preparation of the concession document and its registration (where necessary), being fees payable in addition to any fees payable under [sections 60A to 60D][249].
+    *   (j) the payment of any fees (including legal fees) in respect of the preparation of the concession document and its registration (where necessary), being fees payable in addition to any fees payable under [sections 60A to 60D][251].
     
-    Section 17X: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17X: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17Y Rents, fees, and royalties
     
@@ -2628,7 +2654,7 @@ Concessions
     
     (3) Rent, fees, and royalties for a concession shall be reviewed at intervals not exceeding 3 years.
     
-    Section 17Y: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17Y: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17Z Term of concession
     
@@ -2642,11 +2668,11 @@ Concessions
     
     *   (b) where the easement provides a right of way access to a property to which there is no other practical access, the term may be for such longer period as the Minister considers appropriate:
     
-    *   (c) where the easement is for a public work (as defined in the [Public Works Act 1981][359]), the term may be for the reasonably foreseeable duration of that public work.
+    *   (c) where the easement is for a public work (as defined in the [Public Works Act 1981][363]), the term may be for the reasonably foreseeable duration of that public work.
     
-    Section 17Z: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17Z: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 17Z(2): amended, on 20 April 2010, by [section 6][390] of the Conservation Amendment Act 2010 (2010 No 14).
+    Section 17Z(2): amended, on 20 April 2010, by [section 6][394] of the Conservation Amendment Act 2010 (2010 No 14).
 
 ##### 17ZAA Concession may continue after application for new concession
     
@@ -2730,9 +2756,9 @@ Concessions
         
     *   (a) the end of the day that is 1 month after the day of the Minister's decision to grant or to decline to grant the new concession:
     
-    *   (b) the end of any time limit for the concessionaire to apply for reconsideration under [section 17ZJ][90] that is prescribed by regulations made under [section 48AA][232], including any extension of the time limit.
+    *   (b) the end of any time limit for the concessionaire to apply for reconsideration under [section 17ZJ][90] that is prescribed by regulations made under [section 48AA][234], including any extension of the time limit.
     
-    Section 17ZAA: inserted, on 31 August 2012, by [section 4][391] of the Conservation Amendment Act 2012 (2012 No 61).
+    Section 17ZAA: inserted, on 31 August 2012, by [section 4][395] of the Conservation Amendment Act 2012 (2012 No 61).
 
 ##### 17ZAAB Concession may continue after process initiated under section 17ZG(2)(a)
     
@@ -2824,21 +2850,21 @@ Concessions
         
     *   (a) the end of the day that is 1 month after the day of the Minister's decision to grant or to decline to grant the relevant applicant's concession:
     
-    *   (b) the end of any time limit for the relevant applicant to apply for reconsideration under [section 17ZJ][90] that is prescribed by regulations made under [section 48AA][232], including any extension of the time limit.
+    *   (b) the end of any time limit for the relevant applicant to apply for reconsideration under [section 17ZJ][90] that is prescribed by regulations made under [section 48AA][234], including any extension of the time limit.
     
-    Section 17ZAAB: inserted, on 31 August 2012, by [section 4][391] of the Conservation Amendment Act 2012 (2012 No 61).
+    Section 17ZAAB: inserted, on 31 August 2012, by [section 4][395] of the Conservation Amendment Act 2012 (2012 No 61).
 
 ##### 17ZA Registration of easements
     
 *   (1) For the purpose of granting any easement over any conservation area, the Minister is hereby deemed to be the registered proprietor of that conservation area.
     
-    (2) Notwithstanding anything in the [Land Transfer Act 1952][392], where the instrument of easement under [section 17Z][78] is a deed and the easement is granted or reserved over land for which no certificate of title has been issued under that Act, the Minister may request the District Land Registrar to register the deed under that Act by constituting it a folium in the register book; and the District Land Registrar shall register the deed accordingly.
+    (2) Notwithstanding anything in the [Land Transfer Act 1952][396], where the instrument of easement under [section 17Z][78] is a deed and the easement is granted or reserved over land for which no certificate of title has been issued under that Act, the Minister may request the District Land Registrar to register the deed under that Act by constituting it a folium in the register book; and the District Land Registrar shall register the deed accordingly.
     
-    (3) Where the Minister has granted or reserved any easement over any conservation area that is subject to a lease or licence that is registered under the [Land Transfer Act 1952][392], and the lessee or licensee or other person entitled for the time being to the custody of the lease or licence neglects or refuses to produce the outstanding copy to the appropriate District Land Registrar to permit registration of the easement, the Minister may, on being satisfied that the neglect or refusal is not justified, request the District Land Registrar to register the easement without production of the outstanding copy; and the District Land Registrar shall register the easement accordingly.
+    (3) Where the Minister has granted or reserved any easement over any conservation area that is subject to a lease or licence that is registered under the [Land Transfer Act 1952][396], and the lessee or licensee or other person entitled for the time being to the custody of the lease or licence neglects or refuses to produce the outstanding copy to the appropriate District Land Registrar to permit registration of the easement, the Minister may, on being satisfied that the neglect or refusal is not justified, request the District Land Registrar to register the easement without production of the outstanding copy; and the District Land Registrar shall register the easement accordingly.
     
-    (4) Nothing in subsection (3) affects or restricts the power of a District Land Registrar under [sections 211][393] and [212][394] of the Land Transfer Act 1952 to require the production of the outstanding copy of a lease or licence.
+    (4) Nothing in subsection (3) affects or restricts the power of a District Land Registrar under [sections 211][397] and [212][398] of the Land Transfer Act 1952 to require the production of the outstanding copy of a lease or licence.
     
-    Section 17ZA: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZA: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZB Accounts
     
@@ -2848,7 +2874,7 @@ Concessions
     
     (3) The contravention of or failure to comply with subsection (2) shall be a breach of the concession.
     
-    Section 17ZB: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZB: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZC Changing conditions
     
@@ -2872,11 +2898,11 @@ Concessions
     
     (4) Subject to subsection (5), a memorandum of any variation or extension shall be executed by the Minister and by the concessionaire and, if it relates to a lease or licence or easement registered with the District Land Registrar, shall be registered with the District Land Registrar who shall enter an appropriate memorial on the register book copy of the lease or licence or easement and on the outstanding copy thereof.
     
-    (5) Notwithstanding anything to the contrary in [section 66][395] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
+    (5) Notwithstanding anything to the contrary in [section 66][399] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
     
     (6) If the interest of the concessionaire is at the time of registration of the memorandum of variation or extension subject to a mortgage, the memorandum shall not be binding on the mortgagee unless the mortgagee has consented to the variation or extension in writing in the memorandum.
     
-    Section 17ZC: inserted, on 1 July 1996, by[section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZC: inserted, on 1 July 1996, by[section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZD Failure to execute or exercise concession document
     
@@ -2884,11 +2910,11 @@ Concessions
     
     (2) A concession lapses on the expiry of 2 years after the date of commencement of the concession, or after the expiry of such longer period as the Minister may allow, unless the concession is exercised before the end of that period.
     
-    (3) Any money paid under the concession (including any money paid under any of [sections 60A to 60D][249]) shall, unless the Minister otherwise directs, be forfeit to the Minister.
+    (3) Any money paid under the concession (including any money paid under any of [sections 60A to 60D][251]) shall, unless the Minister otherwise directs, be forfeit to the Minister.
     
-    (4) Any activity carried on by the concessionaire under a concession that has been cancelled under subsection (1) or has lapsed under subsection (2) shall be deemed to be an activity carried on without the authority of the Minister for the purposes of [section 39][220].
+    (4) Any activity carried on by the concessionaire under a concession that has been cancelled under subsection (1) or has lapsed under subsection (2) shall be deemed to be an activity carried on without the authority of the Minister for the purposes of [section 39][222].
     
-    Section 17ZD: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZD: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZE Transfers, subleases, and mortgages
     
@@ -2898,7 +2924,7 @@ Concessions
     
     (3) Unless the concession document otherwise provides, the provisions of [sections 17P][68], [17S][71], [17T][72], [17U][73], [17W][75], [17X][76], [17ZB][82], and [17ZC][83] apply to any application to transfer, sublease, assign, mortgage, or otherwise dispose of a concessionaire's interest in a concession or any part of a concession.
     
-    Section 17ZE: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZE: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZF Aircraft
     
@@ -2924,11 +2950,11 @@ Concessions
     
     (5) For the purposes of this section, _landing_ includes the hovering of any aircraft and the setting down or taking on of goods or persons from an aircraft.
     
-    Section 17ZF: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZF: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZG Management activities
     
-*   (1) Subject to this Act, nothing in this Part shall affect or limit the proper exercise by the Minister or Director-General of any power to manage any land held or managed under this Act or any Act specified in [Schedule 1][263].
+*   (1) Subject to this Act, nothing in this Part shall affect or limit the proper exercise by the Minister or Director-General of any power to manage any land held or managed under this Act or any Act specified in [Schedule 1][265].
     
     (2) Without limiting any power exercisable by the Minister, the Minister may---
         
@@ -2936,7 +2962,7 @@ Concessions
     
     *   (b) include in any concession provisions for the concessionaire to carry on activities relating to the management of any conservation area on behalf of the Minister or at any time enter into any agreement providing for the concessionaire to carry out such activities.
     
-    Section 17ZG: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZG: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZH Powers of Minister where services are provided by the Minister or the Director-General
     
@@ -2954,9 +2980,9 @@ Concessions
     
     *   (f) the Minister may exempt any concessionaire from payment of the whole or any part of any amount apportioned by the Minister or the Director-General under the foregoing provisions of this section, or may grant such relief to the concessionaire as he or she considers appropriate in the circumstances.
     
-    Compare: 1980 No 66 [s 53][396]
+    Compare: 1980 No 66 [s 53][400]
     
-    Section 17ZH: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZH: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZI Records
     
@@ -2968,7 +2994,7 @@ Concessions
     
     *   (c) the decision made on the application.
     
-    Section 17ZI: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZI: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 17ZJ Reconsideration of decisions
     
@@ -2978,20 +3004,58 @@ Concessions
     
     *   (b) where the Minister has decided to grant a concession to the applicant, the Minister may reconsider any decision made by the Minister in relation to the proposed concession if the application under this section is made before a concession document is executed.
     
-    Section 17ZJ: inserted, on 1 July 1996, by [section 7(1)][358] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 17ZJ: inserted, on 1 July 1996, by [section 7(1)][362] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ## Part 4  
 Specially protected areas
 
+##### 18AA Governor-General may confer additional protection or preservation requirements
+    
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare any conservation area---
+        
+    *   (a) to be held for the purpose of a wilderness area, a sanctuary area, or both; and
+    
+    *   (b) to have the official geographic name stated in the order.
+    
+    (2) Before making a recommendation under subsection (1), the Minister must---
+        
+    *   (a) refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under [subpart 3][401] of Part 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and
+    
+    *   (b) give public notice of the intention to recommend the making of the order that includes the proposed name for the area.
+    
+    (3) [Section 49][237] applies, with the necessary modifications, to a notice given under subsection (2)(b).
+    
+    (4) A conservation area declared to be held for the purpose of a wilderness area, a sanctuary area, or both, under this section must be managed in a manner that is consistent with that purpose or those purposes (as the case may be).
+    
+    (5) The Governor-General may, by Order in Council made on the recommendation of the Minister, vary or revoke the purpose, or all or any of the purposes, for which any conservation area held under subsection (1) is held, and the land is to be held accordingly as provided in the order.
+    
+    (6) Before making a recommendation under subsection (5), the Minister must give public notice of the intention to recommend the making of the order, and [section 49][237] applies with the necessary modifications.
+    
+    Section 18AA: inserted, on 24 May 2013, by [section 6][402] of the Conservation Amendment Act 2013 (2013 No 15).
+
+##### 18AB Governor-General may declare that wetland be notified to Ramsar Secretariat
+    
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,---
+        
+    *   (a) specify a wetland and the details of the area of the wetland; and
+    
+    *   (b) declare that the Minister for the time being responsible for the Ramsar Administrative Authority must notify the Ramsar Secretariat of the wetland and the details of the area of the wetland; and
+    
+    *   (c) declare that the wetland is to have the official geographic name stated in the order.
+    
+    (2) Before making a recommendation under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under [subpart 3][401] of Part 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    
+    Section 18AB: inserted, on 24 May 2013, by [section 6][402] of the Conservation Amendment Act 2013 (2013 No 15).
+
 ##### 18 Minister may confer additional specific protection or preservation requirements
     
-*   (1) Subject to subsections (2) to (4), the Minister may, by notice in the _Gazette_ describing the land concerned, declare any land or interest in land, held under this Act for conservation purposes to be held for the purpose of a conservation park, an ecological area, a sanctuary area, a wilderness area, for any other specified purpose or purposes, or for 2 or more of those purposes; and, subject to this Act, it shall thereafter so be held.
+*   (1) Subject to subsections (2) to (4), the Minister may, by notice in the _Gazette_ describing the land concerned, declare any land or interest in land, held under this Act for conservation purposes to be held for the purpose of a conservation park, an ecological area, for any other specified purpose or purposes, or for 2 or more of those purposes; and, subject to this Act, it shall thereafter so be held.
     
-    (2) The Minister shall give public notice of intention to give a notice under subsection (1); and [section 49][235] shall apply accordingly.
+    (2) The Minister shall give public notice of intention to give a notice under subsection (1); and [section 49][237] shall apply accordingly.
     
     (3) The public notice referred to in subsection (2) must specify the proposed name for the proposed park or area.
     
-    (3A) After considering any submissions received in response to the public notice given under subsection (2), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under [section 27(3)][397] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and the provisions of [sections 28 to 31][398] of that Act apply.
+    (3A) After considering any submissions received in response to the public notice given under subsection (2), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under [section 27(3)][403] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and the provisions of [sections 28 to 31][404] of that Act apply.
     
     (3B) The area for which a name is specified and determined under subsections (3) and (3A) must be known by its official geographic name.
     
@@ -2999,17 +3063,19 @@ Specially protected areas
     
     (5) Every area held under this Act for 1 or more of the purposes described in subsection (1) shall be managed in a manner consistent with the purpose or purposes concerned.
     
-    (6) Nothing in [sections 19 to 24][93] limits the generality of subsection (5).
+    (6) Nothing in [sections 19 to 24][95] limits the generality of subsection (5).
     
     (7) Subject to subsection (8), the Minister may, by notice in the _Gazette_, vary or revoke the purpose, or all or any of the purposes, for which any land or interest held under subsection (1) is held; and it shall thereafter be held accordingly.
     
-    (8) Before varying or revoking any purpose under subsection (7), the Minister shall give public notice of intention to do so; and [section 49][235] shall apply accordingly.
+    (8) Before varying or revoking any purpose under subsection (7), the Minister shall give public notice of intention to do so; and [section 49][237] shall apply accordingly.
     
-    Section 18(3): substituted, on 1 November 2008, by [section 38][399] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 18(1): amended, on 24 May 2013, by [section 7][405] of the Conservation Amendment Act 2013 (2013 No 15).
     
-    Section 18(3A): inserted, on 1 November 2008, by [section 38][399] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 18(3): substituted, on 1 November 2008, by [section 38][406] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
     
-    Section 18(3B): inserted, on 1 November 2008, by [section 38][399] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 18(3A): inserted, on 1 November 2008, by [section 38][406] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    
+    Section 18(3B): inserted, on 1 November 2008, by [section 38][406] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
 
 ##### 19 Conservation parks
     
@@ -3057,11 +3123,11 @@ Specially protected areas
     
     (4) Nothing in subsection (1) prevents the doing of any thing for any person's protection, or because of some emergency involving any person's property.
     
-    Section 20(1)(d): substituted, on 25 November 1994, by [section 8(1)][400] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 20(1)(d): substituted, on 25 November 1994, by [section 8(1)][407] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 20(2)(a): amended, on 10 April 1990, by [section 14][401] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 20(2)(a): amended, on 10 April 1990, by [section 14][408] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 20(3): substituted, on 25 November 1994, by [section 8(2)][400] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 20(3): substituted, on 25 November 1994, by [section 8(2)][407] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 21 Ecological areas
     
@@ -3077,13 +3143,13 @@ Specially protected areas
         
     *   (a) land held under this Act for conservation purposes; or
     
-    *   (b) a reserve classified pursuant to [section 16][402] of the Reserves Act 1977; or
+    *   (b) a reserve classified pursuant to [section 16][409] of the Reserves Act 1977; or
     
-    *   (c) held under [section 21(2)(a)][403] of the Queen Elizabeth the Second National Trust Act 1977; or
+    *   (c) held under [section 21(2)(a)][410] of the Queen Elizabeth the Second National Trust Act 1977; or
     
-    *   (d) subject to an agreement under [section 76][404] or [section 77][405] of the Reserves Act 1977, [section 22][406] of the Queen Elizabeth the Second National Trust Act 1977, or [section 6][407] of the Historic Places Act 1993,---
+    *   (d) subject to an agreement under [section 76][411] or [section 77][412] of the Reserves Act 1977, [section 22][413] of the Queen Elizabeth the Second National Trust Act 1977, or [section 6][414] of the Historic Places Act 1993,---
     
-    adjoins any river, lake, or stream, for which a water conservation order has been made under the [Resource Management Act 1991][273], or that is otherwise protected, and has, when considered with the river, lake, or stream, outstanding wild, scenic, or other natural or recreational characteristics, the Minister may, by notice in the _Gazette_, declare it to be held for the purpose of a watercourse area; and, subject to this Act, it shall thereafter be so held.
+    adjoins any river, lake, or stream, for which a water conservation order has been made under the [Resource Management Act 1991][275], or that is otherwise protected, and has, when considered with the river, lake, or stream, outstanding wild, scenic, or other natural or recreational characteristics, the Minister may, by notice in the _Gazette_, declare it to be held for the purpose of a watercourse area; and, subject to this Act, it shall thereafter be so held.
     
     (2) No land to which paragraph (c) of subsection (1) applies shall be declared to be held for the purpose of a watercourse area under that subsection without the consent of the Queen Elizabeth the Second National Trust.
     
@@ -3099,9 +3165,9 @@ Specially protected areas
     
     (6) The Minister may, after giving public notice of intention to do so, by notice in the _Gazette_, declare that all or any part of any watercourse area is no longer held for the purpose of a watercourse area.
     
-    Section 23(1): amended, on 1 October 1991, by [section 362][408] of the Resource Management Act 1991 (1991 No 69).
+    Section 23(1): amended, on 1 October 1991, by [section 362][415] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 23(1)(d): amended, on 1 July 1993, pursuant to [section 118(1)][301] of the Historic Places Act 1993 (1993 No 38).
+    Section 23(1)(d): amended, on 1 July 1993, pursuant to [section 118(1)][303] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 23A Amenity areas
     
@@ -3113,7 +3179,7 @@ Specially protected areas
     
     *   (c) subject to paragraphs (a) and (b), to foster the recreational attributes of the area.
     
-    Section 23A: inserted, on 13 March 1996, by [section 8][409] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 23A: inserted, on 13 March 1996, by [section 8][416] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 23B Wildlife management areas
     
@@ -3125,12 +3191,12 @@ Specially protected areas
     
     (2) For the purposes of this section, the term _wildlife_ means any native animal.
     
-    Section 23B: inserted, on 13 March 1996, by [section 8][409] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 23B: inserted, on 13 March 1996, by [section 8][416] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ## Part 4A  
 Marginal strips
     
-*   Part 4A: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Part 4A: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24 Marginal strips reserved
     
@@ -3140,7 +3206,7 @@ Marginal strips
     
     *   (b) the normal level of the bed of any lake not subject to control by artificial means; or
     
-    *   (c) the bed of any river or any stream (not being a canal under the control of a State enterprise within the meaning of [section 2][411] of the State-Owned Enterprises Act 1986 and used by the State enterprise for, or as part of any scheme for, the generation of electricity), being a bed that has an average width of 3 metres or more.
+    *   (c) the bed of any river or any stream (not being a canal under the control of a State enterprise within the meaning of [section 2][418] of the State-Owned Enterprises Act 1986 and used by the State enterprise for, or as part of any scheme for, the generation of electricity), being a bed that has an average width of 3 metres or more.
     
     (2) There shall be deemed to be reserved from the sale or other disposition by the Crown of any land extending along and abutting the landward margin of any lake controlled by artificial means a strip of land that---
         
@@ -3156,83 +3222,83 @@ Marginal strips
     
     (4) Nothing in this section shall affect any right, title, or interest any person may have in respect of any assets or improvements lawfully existing on any marginal strip at the commencement of this section.
     
-    (5) Nothing in this section shall limit or affect [section 230][412] of the Resource Management Act 1991\.
+    (5) Nothing in this section shall limit or affect [section 230][419] of the Resource Management Act 1991\.
     
-    (6) Every disposition of any land by the Crown to a State enterprise pursuant to the [State-Owned Enterprises Act 1986][291], on or after the commencement of this section (whether the agreement to dispose of that land was entered into before that date or is entered into after that date), shall be deemed to be a disposition of land for the purposes of this section.
+    (6) Every disposition of any land by the Crown to a State enterprise pursuant to the [State-Owned Enterprises Act 1986][293], on or after the commencement of this section (whether the agreement to dispose of that land was entered into before that date or is entered into after that date), shall be deemed to be a disposition of land for the purposes of this section.
     
-    (7) Notwithstanding subsection (6), where the freehold of any land subject to a lease or licence under the [Land Act 1948][274] is transferred by the Crown to Landcorp Farming Limited, the reservation of any marginal strip on any part of the land to which the lease or licence relates shall not have effect until either the lease or licence is renewed or the freehold of the area to which the lease or licence relates is transferred to the lessee or licensee, whichever first occurs.
+    (7) Notwithstanding subsection (6), where the freehold of any land subject to a lease or licence under the [Land Act 1948][276] is transferred by the Crown to Landcorp Farming Limited, the reservation of any marginal strip on any part of the land to which the lease or licence relates shall not have effect until either the lease or licence is renewed or the freehold of the area to which the lease or licence relates is transferred to the lessee or licensee, whichever first occurs.
     
-    (7A) Every disposition of land by the Crown to a Crown Research Institute pursuant to the [Crown Research Institutes Act 1992][413] shall be deemed to be a disposition of land for the purposes of this section.
+    (7A) Every disposition of land by the Crown to a Crown Research Institute pursuant to the [Crown Research Institutes Act 1992][420] shall be deemed to be a disposition of land for the purposes of this section.
     
-    (7B) Nothing in this section applies to the vesting or proposed vesting of any reserve under [section 26][414] of the Reserves Act 1977\.
+    (7B) Nothing in this section applies to the vesting or proposed vesting of any reserve under [section 26][421] of the Reserves Act 1977\.
     
-    (7C) Nothing in this section applies to the vesting of a right, title, or interest in reclaimed land under [section 355][415] of the Resource Management Act 1991 or under [section 39 ][416]or [43][417] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
+    (7C) Nothing in this section applies to the vesting of a right, title, or interest in reclaimed land under [section 355][422] of the Resource Management Act 1991 or under [section 39 ][423]or [43][424] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
     
     (8) Except as otherwise expressly provided, this section shall apply to the disposition of any land by the Crown under the provisions of any enactment.
     
     (9) For the purposes of this section, a disposition by the Crown in relation to any land, includes---
         
-    *   (a) the grant of a Crown forestry licence under the [Crown Forest Assets Act 1989][418]:
+    *   (a) the grant of a Crown forestry licence under the [Crown Forest Assets Act 1989][425]:
     
-    *   (b) the grant or renewal of a lease or licence under the [Land Act 1948][274]:
+    *   (b) the grant or renewal of a lease or licence under the [Land Act 1948][276]:
     
-    *   (c) the vesting, pursuant to the [New Zealand Railways Corporation Restructuring Act 1990][419], of any land held by the Crown or the New Zealand Railways Corporation in a Crown transferee company within the meaning of [section 2][420] of that Act:
+    *   (c) the vesting, pursuant to the [New Zealand Railways Corporation Restructuring Act 1990][426], of any land held by the Crown or the New Zealand Railways Corporation in a Crown transferee company within the meaning of [section 2][427] of that Act:
     
-    *   (d) the grant or renewal of a lease or licence of any land pursuant to [section 12][421] of the New Zealand Railways Corporation Restructuring Act 1990:
+    *   (d) the grant or renewal of a lease or licence of any land pursuant to [section 12][428] of the New Zealand Railways Corporation Restructuring Act 1990:
     
-    *   (e) the sale or other disposition of land held by the New Zealand Railways Corporation to a Crown transferee company within the meaning of [section 2][420] of the New Zealand Railways Corporation Restructuring Act 1990 or to any other person.
+    *   (e) the sale or other disposition of land held by the New Zealand Railways Corporation to a Crown transferee company within the meaning of [section 2][427] of the New Zealand Railways Corporation Restructuring Act 1990 or to any other person.
     
-    Section 24: substituted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24: substituted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 24(1)(c): amended, on 14 May 1999, by [section 100][422] of the Electricity Industry Reform Act 1998 (1998 No 88).
+    Section 24(1)(c): amended, on 14 May 1999, by [section 100][429] of the Electricity Industry Reform Act 1998 (1998 No 88).
     
-    Section 24(2A): inserted, on 13 March 1996, by [section 9(1)][423] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24(2A): inserted, on 13 March 1996, by [section 9(1)][430] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 24(5): substituted, on 1 October 1991, by [section 362][408] of the Resource Management Act 1991 (1991 No 69).
+    Section 24(5): substituted, on 1 October 1991, by [section 362][415] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 24(7): amended, on 12 April 2001, by [clause 4][424] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+    Section 24(7): amended, on 12 April 2001, by [clause 4][431] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
     
-    Section 24(7): amended, on 13 March 1996, by [section 9(2)][423] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24(7): amended, on 13 March 1996, by [section 9(2)][430] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 24(7A): inserted, on 1 July 1992, by [section 46(1)][425] of the Crown Research Institutes Act 1992 (1992 No 47).
+    Section 24(7A): inserted, on 1 July 1992, by [section 46(1)][432] of the Crown Research Institutes Act 1992 (1992 No 47).
     
-    Section 24(7B): inserted, on 13 March 1996, by [section 9(3)][423] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24(7B): inserted, on 13 March 1996, by [section 9(3)][430] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 24(7C): inserted, on 25 November 2004, by [section 103(1)][426] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 24(7C): inserted, on 25 November 2004, by [section 103(1)][433] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 24(7C): amended, on 1 April 2011, by[section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 24(7C): amended, on 1 April 2011, by[section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
     Section 24(9): substituted, on 28 August 1990, by section 2 of the Conservation Amendment Act 1990 (1990 No 106).
 
 ##### 24A Power to reduce width of marginal strip
     
-*   (1) Notwithstanding [section 24][101], in the case of a marginal strip extending along and abutting the landward margin of the sea or a lake, the Minister may, at any time before the disposition by the Crown of the land adjoining the marginal strip, approve the reduction of the width of the strip to not less than 3 metres if he or she is satisfied that its value in terms of the purposes specified in [section 24C][106] will not be diminished.
+*   (1) Notwithstanding [section 24][103], in the case of a marginal strip extending along and abutting the landward margin of the sea or a lake, the Minister may, at any time before the disposition by the Crown of the land adjoining the marginal strip, approve the reduction of the width of the strip to not less than 3 metres if he or she is satisfied that its value in terms of the purposes specified in [section 24C][108] will not be diminished.
     
-    (2) Notwithstanding [section 24][101], in the case of land extending along and abutting the bed of a river or stream where---
+    (2) Notwithstanding [section 24][103], in the case of land extending along and abutting the bed of a river or stream where---
         
     *   (a) the bed is not less than 3 metres in width; and
     
     *   (b) the land (including the marginal strip) contains not more than 2 hectares,---
     
-    the Minister may, at any time before the disposition by the Crown of the land, approve the reduction of the width of the strip to not less than 3 metres if he or she is satisfied that its value in terms of the purposes specified in [section 24C][106] will not be diminished.
+    the Minister may, at any time before the disposition by the Crown of the land, approve the reduction of the width of the strip to not less than 3 metres if he or she is satisfied that its value in terms of the purposes specified in [section 24C][108] will not be diminished.
     
-    Section 24A: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24A: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 24A(1): amended, on 13 March 1996, by [section 10(1)][427] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24A(1): amended, on 13 March 1996, by [section 10(1)][434] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 24A(2): added, on 13 March 1996, by [section 10(2)][427] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24A(2): added, on 13 March 1996, by [section 10(2)][434] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 24AA Power to increase width of marginal strip
     
 *   (1) Where the Crown proposes to sell or otherwise dispose of any land, the proposal shall be subject to the succeeding provisions of this section.
     
-    (2) During the period of 20 working days commencing on the day after the date of the receipt of a notification under [section 24(2A)][101] in respect of the proposal,---
+    (2) During the period of 20 working days commencing on the day after the date of the receipt of a notification under [section 24(2A)][103] in respect of the proposal,---
         
     *   (a) the sale or other disposition shall not proceed; and
     
     *   (b) the Director-General shall notify the responsible department or agency whether or not he or she intends to investigate the proposal to ascertain whether or not it is appropriate to increase the width of any marginal strip that would be reserved from the sale or other disposition.
     
-    (3) If the Director-General fails to notify the responsible department or agency in accordance with subsection (2)(b), the department or agency may proceed with the sale or other disposition after the expiration of the period specified in that subsection and [section 24][101] shall apply accordingly.
+    (3) If the Director-General fails to notify the responsible department or agency in accordance with subsection (2)(b), the department or agency may proceed with the sale or other disposition after the expiration of the period specified in that subsection and [section 24][103] shall apply accordingly.
     
     (4) If the Director-General notifies the responsible department or agency in accordance with subsection (2)(b) that he or she intends to investigate the proposal,---
         
@@ -3244,11 +3310,11 @@ Marginal strips
         
     *   (a) to provide effective access along the strip; and
     
-    *   (b) to maintain the value of the strip in terms of the purposes specified in [section 24C][106].
+    *   (b) to maintain the value of the strip in terms of the purposes specified in [section 24C][108].
     
-    (6) Where the reservation of any marginal strip under [section 24(1)][101] creates a residual area of land that is of such size or shape that it has little or no potential use either alone or in conjunction with the remainder of the land being sold or disposed of, that residual area of land may be added to the marginal strip by agreement between the responsible department or agency, and the Minister.
+    (6) Where the reservation of any marginal strip under [section 24(1)][103] creates a residual area of land that is of such size or shape that it has little or no potential use either alone or in conjunction with the remainder of the land being sold or disposed of, that residual area of land may be added to the marginal strip by agreement between the responsible department or agency, and the Minister.
     
-    (7) Where the disposition takes the form of the renewal of a lease or licence under the [Land Act 1948][274] that is referred to in [section 24(7)][101], the lessee or licensee is entitled to a reduction in rent or fees or royalties for any injurious affection to the lessee or licensee caused by any reservation of a marginal strip having a width exceeding 20 metres.
+    (7) Where the disposition takes the form of the renewal of a lease or licence under the [Land Act 1948][276] that is referred to in [section 24(7)][103], the lessee or licensee is entitled to a reduction in rent or fees or royalties for any injurious affection to the lessee or licensee caused by any reservation of a marginal strip having a width exceeding 20 metres.
     
     (8) Any reduction in rent or fees or royalties payable under this section shall be assessed by the Minister responsible for the administration of the land.
     
@@ -3258,23 +3324,23 @@ Marginal strips
     
     (11) The Minister may require that the whole or any part of a marginal strip be of a width exceeding 20 metres.
     
-    Section 24AA: inserted, on 13 March 1996, by [section 11][428] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24AA: inserted, on 13 March 1996, by [section 11][435] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 24B Power to declare certain dispositions to be exempt from section 24
     
-*   (1) Subject to subsection (2), the Minister may at any time before the disposition by the Crown of any land extending along and abutting the bed of any river or stream (being a bed of not less than 3 metres in width), by notice in the _Gazette_, declare that [section 24][101] shall not apply to the proposed disposition.
+*   (1) Subject to subsection (2), the Minister may at any time before the disposition by the Crown of any land extending along and abutting the bed of any river or stream (being a bed of not less than 3 metres in width), by notice in the _Gazette_, declare that [section 24][103] shall not apply to the proposed disposition.
     
     (2) The Minister may make a declaration under subsection (1) only if satisfied---
         
-    *   (a) that the land has little or no value in terms of the purposes specified in [section 24C][106]; or
+    *   (a) that the land has little or no value in terms of the purposes specified in [section 24C][108]; or
     
     *   (b) that any value the land has in those terms can be protected effectively by another means.
     
-    (3) Notwithstanding subsection (2), where the Minister proposes to grant an exemption under this section in respect of the renewal of a lease or licence under the [Land Act 1948][274] but is precluded from doing so by that subsection, the Minister may grant the exemption if satisfied that the proposal is equitable and in the public interest.
+    (3) Notwithstanding subsection (2), where the Minister proposes to grant an exemption under this section in respect of the renewal of a lease or licence under the [Land Act 1948][276] but is precluded from doing so by that subsection, the Minister may grant the exemption if satisfied that the proposal is equitable and in the public interest.
     
-    (4) The Minister may, by notice in the _Gazette_, declare that [section 24][101] shall not apply to any proposed disposition of---
+    (4) The Minister may, by notice in the _Gazette_, declare that [section 24][103] shall not apply to any proposed disposition of---
         
-    *   (a) land that is part of the core assets of a State enterprise within the meaning of [section 2][411] of the State-Owned Enterprises Act 1986 that is a generator of electricity; or
+    *   (a) land that is part of the core assets of a State enterprise within the meaning of [section 2][418] of the State-Owned Enterprises Act 1986 that is a generator of electricity; or
     
     *   (b) land that is required in connection with electricity works.
     
@@ -3282,39 +3348,39 @@ Marginal strips
     
     (6) For the purposes of subsection (4)(a), the term _core assets_ means---
         
-    *   (a) any aqueduct, bridge, boom anchor, canal, control gate, dam, flume, headrace, penstock, power station, screen, spillway, switching gear, surge chamber, tailrace, transmission tower, tunnel, or weir, used by a State enterprise within the meaning of the [State-Owned Enterprises Act 1986][291] for or in connection with the generation, transmission, or supply of electricity; or
+    *   (a) any aqueduct, bridge, boom anchor, canal, control gate, dam, flume, headrace, penstock, power station, screen, spillway, switching gear, surge chamber, tailrace, transmission tower, tunnel, or weir, used by a State enterprise within the meaning of the [State-Owned Enterprises Act 1986][293] for or in connection with the generation, transmission, or supply of electricity; or
     
     *   (b) any similar structure or device so used.
     
-    (7) Nothing in [section 24][101] shall apply to any disposition in respect of which a notice is given under this section.
+    (7) Nothing in [section 24][103] shall apply to any disposition in respect of which a notice is given under this section.
     
-    Section 24B: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24B: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 24B(4)(a): amended, on 14 May 1999, by [section 100][422] of the Electricity Industry Reform Act 1998 (1998 No 88).
+    Section 24B(4)(a): amended, on 14 May 1999, by [section 100][429] of the Electricity Industry Reform Act 1998 (1998 No 88).
     
-    Section 24B(5): amended, on 14 May 1999, by [section 100][422] of the Electricity Industry Reform Act 1998 (1998 No 88).
+    Section 24B(5): amended, on 14 May 1999, by [section 100][429] of the Electricity Industry Reform Act 1998 (1998 No 88).
     
-    Section 24B(6)(a): amended, on 14 May 1999, by [section 100][422] of the Electricity Industry Reform Act 1998 (1998 No 88).
+    Section 24B(6)(a): amended, on 14 May 1999, by [section 100][429] of the Electricity Industry Reform Act 1998 (1998 No 88).
 
 ##### 24BA Notification of intention to reduce marginal strip or to grant exemption
     
-*   (1) Where the Minister receives an application under [section 24A][102] (which relates to the reduction of the width of marginal strips) or [section 24B][104] (which relates to exemptions), the Minister shall consult the relevant Conservation Board and Fish and Game Council.
+*   (1) Where the Minister receives an application under [section 24A][104] (which relates to the reduction of the width of marginal strips) or [section 24B][106] (which relates to exemptions), the Minister shall consult the relevant Conservation Board and Fish and Game Council.
     
     (2) On being satisfied that it is reasonable in the circumstances to do so, the relevant Conservation Board or Fish and Game Council may request the Minister to publicly notify the proposal.
     
-    (3) On receipt of a request under subsection (2) that the Minister considers reasonable in the circumstances, the Minister may publicly notify the proposal and [section 49(1)][235] shall apply accordingly; but the Minister is not obliged to publicly notify the proposal.
+    (3) On receipt of a request under subsection (2) that the Minister considers reasonable in the circumstances, the Minister may publicly notify the proposal and [section 49(1)][237] shall apply accordingly; but the Minister is not obliged to publicly notify the proposal.
     
     (4) In considering whether or not it is reasonable in the circumstances to publicly notify an application, the Conservation Board or Fish and Game Council or the Minister, as the case may be, shall have regard to---
         
-    *   (a) the purposes specified in [section 24C][106]; and
+    *   (a) the purposes specified in [section 24C][108]; and
     
     *   (b) the interests of the public in marginal strips; and
     
     *   (c) the potential costs of notification (including the costs of public notification) that are likely to be incurred by the seller and the purchaser of the land.
     
-    (5) The responsible department or agency disposing of the land shall pay to the Minister all the costs of and incidental to the public notification of the proposal in accordance with [section 49][235].
+    (5) The responsible department or agency disposing of the land shall pay to the Minister all the costs of and incidental to the public notification of the proposal in accordance with [section 49][237].
     
-    Section 24BA: inserted, on 13 March 1996, by [section 12][429] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24BA: inserted, on 13 March 1996, by [section 12][436] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 24C Purposes of marginal strips
     
@@ -3336,19 +3402,19 @@ Marginal strips
     
     *   (c) for public recreational use of the marginal strips and adjacent watercourses or bodies of water.
     
-    Section 24C: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24C: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24D Reservation of marginal strips to be recorded
     
-*   (1) Upon the registration of any disposition by the Crown of any land under the [Land Transfer Act 1952][392], the District Land Registrar of the land registration district affected shall, without fee, record on the certificate of title for that land a statement to the effect that the land to which the certificate of title relates is subject to this Part.
+*   (1) Upon the registration of any disposition by the Crown of any land under the [Land Transfer Act 1952][396], the District Land Registrar of the land registration district affected shall, without fee, record on the certificate of title for that land a statement to the effect that the land to which the certificate of title relates is subject to this Part.
     
-    (1A) Upon being notified of any reduction in the width of any marginal strip under [section 24A][102] or any increase in the width of any marginal strip under [section 24AA][103] or any exemption under [section 24B][104], where there is a certificate of title for the land under the [Land Transfer Act 1952][392], the District Land Registrar shall, without fee, record the reduction or increase or exemption on the certificate of title.
+    (1A) Upon being notified of any reduction in the width of any marginal strip under [section 24A][104] or any increase in the width of any marginal strip under [section 24AA][105] or any exemption under [section 24B][106], where there is a certificate of title for the land under the [Land Transfer Act 1952][396], the District Land Registrar shall, without fee, record the reduction or increase or exemption on the certificate of title.
     
-    (2) Upon being notified of any disposition by the Crown of any land not registered under the [Land Transfer Act 1952][392], the Chief Surveyor shall, without fee, record on the proper plans and records of the land registration district affected a statement to the effect that the land so transferred is subject to this Part.
+    (2) Upon being notified of any disposition by the Crown of any land not registered under the [Land Transfer Act 1952][396], the Chief Surveyor shall, without fee, record on the proper plans and records of the land registration district affected a statement to the effect that the land so transferred is subject to this Part.
     
-    (2A) Upon being notified of any reduction in the width of any marginal strip under [section 24A][102] or any increase in the width of any marginal strip under [section 24AA][103] or any exemption under [section 24B][104], where the land is not registered under the [Land Transfer Act 1952][392], the Chief Surveyor shall, without fee, record the reduction or increase or exemption on the proper plans and records.
+    (2A) Upon being notified of any reduction in the width of any marginal strip under [section 24A][104] or any increase in the width of any marginal strip under [section 24AA][105] or any exemption under [section 24B][106], where the land is not registered under the [Land Transfer Act 1952][396], the Chief Surveyor shall, without fee, record the reduction or increase or exemption on the proper plans and records.
     
-    (3) The Chief Surveyor shall, without fee, in the manner the Chief Surveyor considers most appropriate, cause the proper plans of every land registration district to show the marginal strips (including details of the reduction in the width of any marginal strip under [section 24A][102] or the increase in the width of any marginal strip under [section 24AA][103]) within that district.
+    (3) The Chief Surveyor shall, without fee, in the manner the Chief Surveyor considers most appropriate, cause the proper plans of every land registration district to show the marginal strips (including details of the reduction in the width of any marginal strip under [section 24A][104] or the increase in the width of any marginal strip under [section 24AA][105]) within that district.
     
     (4) All land that is subject to this Part shall remain subject to this Part and the statements specified in subsections (1) and (2) shall continue to be recorded on the certificates of title for that land and on all subsequent certificates of title for that land and on all the proper plans and records of the land registration district affected, as the case may be, notwithstanding---
         
@@ -3364,21 +3430,21 @@ Marginal strips
     
     *   (b) may be defined for the purposes of the issue of a certificate of title as if this Part had not been passed.
     
-    (7) Notwithstanding anything in the [Land Transfer Act 1952][392], land reserved as marginal strip under [section 24][101] shall not be required to be surveyed for the purposes of that Act.
+    (7) Notwithstanding anything in the [Land Transfer Act 1952][396], land reserved as marginal strip under [section 24][103] shall not be required to be surveyed for the purposes of that Act.
     
-    Section 24D: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24D: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 24D(1A): inserted, on 13 March 1996, by [section 13(1)][430] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24D(1A): inserted, on 13 March 1996, by [section 13(1)][437] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 24D(2A): inserted, on 13 March 1996, by [section 13(2)][430] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24D(2A): inserted, on 13 March 1996, by [section 13(2)][437] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 24D(3): amended, on 13 March 1996, by [section 13(3)][430] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24D(3): amended, on 13 March 1996, by [section 13(3)][437] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 24E Exchange of marginal strips
     
 *   (1) The Minister may, by notice in the _Gazette_, authorise the exchange of any marginal strip for another strip of land.
     
-    (2) The Minister shall not authorise the exchange of any marginal strip unless the Minister is satisfied that the exchange will better achieve the purposes specified in [section 24C][106].
+    (2) The Minister shall not authorise the exchange of any marginal strip unless the Minister is satisfied that the exchange will better achieve the purposes specified in [section 24C][108].
     
     (3) The land taken by the Crown in exchange for any marginal strip shall be deemed to be reserved as marginal strip.
     
@@ -3388,13 +3454,13 @@ Marginal strips
     
     (6) District Land Registrars are hereby authorised and directed to make such entries in registers and do all such other things as may be necessary to give effect to exchanges authorised under this section.
     
-    Section 24E: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24E: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24F Right of Crown to half of bed of river adjoining former land of the Crown
     
 *   Notwithstanding any other enactment or rule of law, where the Crown owns part of the bed of a non-navigable river or stream adjoining any land (being a bed of not less than 3 metres in width) and disposes of that land, that part of the bed of that river or stream shall remain owned by the Crown.
     
-    Section 24F: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24F: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24G Effect of change to boundary of marginal strips
     
@@ -3404,15 +3470,15 @@ Marginal strips
     
     (3) With respect to any foreshore, to any lake or reservoir and to any bay or inlet of any lake or reservoir, and to any river or stream, a marginal strip shall be reserved by subsection (1) or subsection (2) on all land of the Crown, and on all land the title to which is subject to this Part, and on no other land.
     
-    (4) Every marginal strip reserved by subsection (1) or subsection (2) shall be of such dimensions and be situated as if the marginal strip had been reserved under [section 24][101], and shall extinguish either in whole or in part, as the case may require, the existing reservation of the existing marginal strip which would have continued but for the alterations referred to in those subsections.
+    (4) Every marginal strip reserved by subsection (1) or subsection (2) shall be of such dimensions and be situated as if the marginal strip had been reserved under [section 24][103], and shall extinguish either in whole or in part, as the case may require, the existing reservation of the existing marginal strip which would have continued but for the alterations referred to in those subsections.
     
     (5) Nothing in this section shall affect any right, title, or interest any person may have in respect of any assets or improvements existing on any marginal strip at the time such marginal strip is reserved by subsection (1) or subsection (2).
     
-    (6) Subject to this section, the provisions of this Act shall apply to every marginal strip reserved by subsection (1) or subsection (2) as if such marginal strip had been reserved by [section 24][101].
+    (6) Subject to this section, the provisions of this Act shall apply to every marginal strip reserved by subsection (1) or subsection (2) as if such marginal strip had been reserved by [section 24][103].
     
-    (7) Nothing in this section shall apply to any marginal strip reserved by [section 24(3)][101].
+    (7) Nothing in this section shall apply to any marginal strip reserved by [section 24(3)][103].
     
-    Section 24G: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24G: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24H Management of marginal strips
     
@@ -3428,13 +3494,13 @@ Marginal strips
     
     (4) Subject to this section, the manager of a marginal strip shall---
         
-    *   (a) manage the strip in a way that best serves the purposes specified in [section 24C][106]; and
+    *   (a) manage the strip in a way that best serves the purposes specified in [section 24C][108]; and
     
     *   (b) enable members of the public to have access along the strip.
     
-    (5) Subject to this section, the manager of a marginal strip may make improvements to the strip, and the improvements may include such planting or harvesting of crops or trees as may be provided for in any Crown forestry licence under the [Crown Forest Assets Act 1989][418] affecting or relating to the strip or in any agreement between the manager and the Crown.
+    (5) Subject to this section, the manager of a marginal strip may make improvements to the strip, and the improvements may include such planting or harvesting of crops or trees as may be provided for in any Crown forestry licence under the [Crown Forest Assets Act 1989][425] affecting or relating to the strip or in any agreement between the manager and the Crown.
     
-    (6) In the case of the holder of a Crown forestry licence under the [Crown Forest Assets Act 1989][418], the following provisions shall also apply:
+    (6) In the case of the holder of a Crown forestry licence under the [Crown Forest Assets Act 1989][425], the following provisions shall also apply:
         
     *   (a) the licence holder may manage and harvest exotic plantation trees existing at the time of the grant of the licence on any marginal strip adjoining the land to which the licence relates:
     
@@ -3466,13 +3532,13 @@ Marginal strips
     
     *   (b) knowingly uses the marginal strip for any purpose contrary to any provision of or to any requirement imposed under this Part.
     
-    Section 24H: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24H: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24I Easements
     
 *   \[Repealed\]
     
-    Section 24I: repealed, on 1 July 1996, by [section 15(1)][431] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 24I: repealed, on 1 July 1996, by [section 15(1)][438] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 24J Resumption of marginal strips by Crown
     
@@ -3484,31 +3550,31 @@ Marginal strips
     
     *   (b) the manager's reasonable administration costs associated with the Crown's resumption of the strip.
     
-    (3) A manager shall have no right to be compensated for improvements made to or erected on the marginal strip without the prior consent of the Minister as required by [section 24H(11)][111].
+    (3) A manager shall have no right to be compensated for improvements made to or erected on the marginal strip without the prior consent of the Minister as required by [section 24H(11)][113].
     
-    (4) If there is any dispute or difference between the manager of any marginal strip and the Crown as to any amount the Crown is liable to pay under subsection (2), the amount shall be fixed by arbitration in accordance with the [Arbitration Act 1996][432].
+    (4) If there is any dispute or difference between the manager of any marginal strip and the Crown as to any amount the Crown is liable to pay under subsection (2), the amount shall be fixed by arbitration in accordance with the [Arbitration Act 1996][439].
     
-    (5) For the purposes of any such arbitration, this section shall be deemed to be a submission to arbitration within the meaning of the [Arbitration Act 1996][432], and the reference shall be deemed to be to 2 arbitrators, one to be appointed by the Minister, and the other by the manager.
+    (5) For the purposes of any such arbitration, this section shall be deemed to be a submission to arbitration within the meaning of the [Arbitration Act 1996][439], and the reference shall be deemed to be to 2 arbitrators, one to be appointed by the Minister, and the other by the manager.
     
     (6) Notwithstanding subsection (4), the parties may agree on the amount to be paid under subsection (2), either before or after the matter is submitted to arbitration, and, if the agreement is made after the date of any award of arbitration, the award shall be deemed to be cancelled.
     
-    Section 24J: inserted, on 10 April 1990, by [section 15][410] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24J: inserted, on 10 April 1990, by [section 15][417] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 24J(4): amended, on 1 July 1997, pursuant to [section 18][433] of the Arbitration Act 1996 (1996 No 99).
+    Section 24J(4): amended, on 1 July 1997, pursuant to [section 18][440] of the Arbitration Act 1996 (1996 No 99).
     
-    Section 24J(5): amended, on 1 July 1997, pursuant to [section 18][433] of the Arbitration Act 1996 (1996 No 99).
+    Section 24J(5): amended, on 1 July 1997, pursuant to [section 18][440] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 24K Provisions applying in relation to land vested under New Zealand Railways Corporation Restructuring Act 1990
     
-*   (1) In this section and in [section 24L][115]---
+*   (1) In this section and in [section 24L][117]---
     
-    _Crown transferee company_ has the same meaning as in [section 2][434] of the New Zealand Railways Corporation Restructuring Act 1990
+    _Crown transferee company_ has the same meaning as in [section 2][441] of the New Zealand Railways Corporation Restructuring Act 1990
     
-    _railway operator_ has the same meaning as in [section 2][435] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    _railway operator_ has the same meaning as in [section 2][442] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
-    (2) The provisions of [section 24D][107] shall apply in relation to a disposition of land of the kind referred to in [section 24(9)(c)][101] with such modifications as shall be necessary and as if the reference in subsection (1) of that section to the registration of any disposition by the Crown were a reference to the registration of a Crown transferee company as the proprietor of the land in accordance with [section 9(1)(a)][436] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    (2) The provisions of [section 24D][109] shall apply in relation to a disposition of land of the kind referred to in [section 24(9)(c)][103] with such modifications as shall be necessary and as if the reference in subsection (1) of that section to the registration of any disposition by the Crown were a reference to the registration of a Crown transferee company as the proprietor of the land in accordance with [section 9(1)(a)][443] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
-    (3) This Part (except [section 24L][115]) does not apply to---
+    (3) This Part (except [section 24L][117]) does not apply to---
         
     *   (a) land within an area of 25 metres of a line drawn midway between the rails of a railway line:
     
@@ -3518,11 +3584,11 @@ Marginal strips
         
     *   (a) the land is reasonably required for the purposes of altering the route of the railway line; and
     
-    *   (b) the value in terms of the purposes specified in [section 24C][106] of the land adjacent to the railway line will not be diminished any more than is reasonably necessary for the purposes of the proposed alterations to the railway line.
+    *   (b) the value in terms of the purposes specified in [section 24C][108] of the land adjacent to the railway line will not be diminished any more than is reasonably necessary for the purposes of the proposed alterations to the railway line.
     
     (5) In giving an approval under subsection (3)(b) the Minister may impose such conditions as he or she thinks fit in connection with the construction of the proposed alterations to the railway line.
     
-    (6) Where, in relation to land of the kind referred to in subsection (3)(b), a statement that the land is subject to this Part has, in accordance with [section 24D][107], been recorded on the certificate of title to the land or on the proper plans and records of the land registration district affected, the District Land Registrar of the land registration district affected or the Chief Surveyor, as the case may be, shall make such alterations to any existing certificates of title for that land or to the plans and records of the land registration district, as the case may be, as shall be necessary for the purpose of recording the fact that the land is no longer subject to this Part.
+    (6) Where, in relation to land of the kind referred to in subsection (3)(b), a statement that the land is subject to this Part has, in accordance with [section 24D][109], been recorded on the certificate of title to the land or on the proper plans and records of the land registration district affected, the District Land Registrar of the land registration district affected or the Chief Surveyor, as the case may be, shall make such alterations to any existing certificates of title for that land or to the plans and records of the land registration district, as the case may be, as shall be necessary for the purpose of recording the fact that the land is no longer subject to this Part.
     
     (7) Where, in relation to any land of the kind referred to in subsection (3),---
         
@@ -3534,19 +3600,19 @@ Marginal strips
         
         as the case may be,---
     
-    the land shall immediately become subject to this Part and the provisions of [section 24D][107] shall apply with such modifications as shall be necessary and as if---
+    the land shall immediately become subject to this Part and the provisions of [section 24D][109] shall apply with such modifications as shall be necessary and as if---
         
     *   (d) the reference in subsection (1) of that section to the registration of any disposition by the Crown were a reference to land becoming subject to this Part by virtue of this subsection; and
     
     *   (e) the reference in subsection (2) of that section to notification of any disposition by the Crown were a reference to notification of land becoming subject to this Part by virtue of this subsection.
     
-    (8) Nothing in this Part limits or affects the application of [sections 30][437] and [31][438] of the New Zealand Railways Corporation Act 1981 or [section 31][439] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    (8) Nothing in this Part limits or affects the application of [sections 30][444] and [31][445] of the New Zealand Railways Corporation Act 1981 or [section 31][446] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
     Section 24K: inserted, on 28 August 1990, by section 3 of the Conservation Amendment Act 1990 (1990 No 106).
 
 ##### 24L Public access rights
     
-*   Every railway operator must allow members of the public to have access on foot over land that would, but for subsection (3) of [section 24K][114], be reserved as a marginal strip, except land that is within 5 metres of a line drawn midway between the rails of a railway line, unless, in the opinion of the railway operator, such access would be likely to endanger the safety of persons or property.
+*   Every railway operator must allow members of the public to have access on foot over land that would, but for subsection (3) of [section 24K][116], be reserved as a marginal strip, except land that is within 5 metres of a line drawn midway between the rails of a railway line, unless, in the opinion of the railway operator, such access would be likely to endanger the safety of persons or property.
     
     Section 24L: inserted, on 28 August 1990, by section 3 of the Conservation Amendment Act 1990 (1990 No 106).
 
@@ -3569,7 +3635,7 @@ Stewardship areas
     
     unless satisfied that its retention and continued management as a stewardship area would not materially enhance the conservation or recreational values of the adjacent conservation area or land or, in the case of any marginal strip, of the adjacent water, or public access to it.
     
-    (3) The Minister shall not dispose of any land or any interest in land without first giving notice of intention to do so; and [section 49][235] shall apply accordingly.
+    (3) The Minister shall not dispose of any land or any interest in land without first giving notice of intention to do so; and [section 49][237] shall apply accordingly.
     
     (4) Upon being disposed of under this section, the land or interest in land shall cease to be held for conservation purposes.
     
@@ -3579,36 +3645,36 @@ Stewardship areas
     
     *   (b) specifying the interest and the revenue (or, where the interest was disposed of by way of exchange or part exchange, the consideration) received for it.
     
-    (6) Any disposal under this section may be effected by transfer under the [Land Transfer Act 1952][392].
+    (6) Any disposal under this section may be effected by transfer under the [Land Transfer Act 1952][396].
     
     (7) A District Land Registrar shall accept any such transfer as conclusive evidence that the land or interest concerned is no longer required for conservation purposes.
     
     (8) Nothing in this section shall affect any application for or grant of any concession under [Part 3B][66] over a stewardship area or an interest in a stewardship area.
     
-    Section 26(1): amended, on 10 April 1990, by [section 16(1)(a)][440] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26(1): amended, on 10 April 1990, by [section 16(1)(a)][447] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26(2): amended, on 10 April 1990, by[section 16(1)(b)][440] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26(2): amended, on 10 April 1990, by[section 16(1)(b)][447] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26(3): amended, on 10 April 1990, by[section 16(1)(c)][440] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26(3): amended, on 10 April 1990, by[section 16(1)(c)][447] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26(4): amended, on 10 April 1990, by [section 16(1)(d)][440] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26(4): amended, on 10 April 1990, by [section 16(1)(d)][447] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26(5): amended, on 10 April 1990, by [section 16(1)(e)][440] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26(5): amended, on 10 April 1990, by [section 16(1)(e)][447] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26(6): added, on 10 April 1990, by[section 16(2)][440] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26(6): added, on 10 April 1990, by[section 16(2)][447] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26(7): added, on 10 April 1990, by[section 16(2)][440] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26(7): added, on 10 April 1990, by[section 16(2)][447] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26(8): added, on 1 July 1996, by [section 14][441] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26(8): added, on 1 July 1996, by [section 14][448] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ## Part 5A  
 Sports Fish and Game Councils
     
-*   Part 5A: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Part 5A: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Functions of Minister
     
-*   Heading: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26A Functions of Minister
     
@@ -3632,11 +3698,11 @@ Sports Fish and Game Councils
     
     (2) The Minister shall have all such powers as are reasonably necessary or expedient to enable the Minister to carry out the Minister's functions under this section.
     
-    Section 26A: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26A: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### New Zealand Fish and Game Council
     
-*   Heading: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26B Establishment and powers of New Zealand Fish and Game Council
     
@@ -3658,21 +3724,21 @@ Sports Fish and Game Councils
     
     (3) The New Zealand Fish and Game Council shall not exercise any of its rights, powers, or privileges except for the purpose of performing its functions.
     
-    Section 26B: brought into force, on 19 July 1990, by the [Conservation Act Commencement Order (No 2) 1990][331] (SR 1990/169).
+    Section 26B: brought into force, on 19 July 1990, by the [Conservation Act Commencement Order (No 2) 1990][334] (SR 1990/169).
     
-    Section 26B: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26B: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26B heading: substituted, on 25 November 1994, by [section 9][443] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26B heading: substituted, on 25 November 1994, by [section 9][450] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26B(2): added, on 25 November 1994, by [section 9][443] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26B(2): added, on 25 November 1994, by [section 9][450] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26B(3): added, on 25 November 1994, by [section 9][443] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26B(3): added, on 25 November 1994, by [section 9][450] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 26C Functions of New Zealand Fish and Game Council
     
 *   (1) The functions of the New Zealand Fish and Game Council shall be---
         
-    *   (a) to develop, in consultation with Fish and Game Councils, national policies for the carrying out of its functions for sports fish and game, and the effective implementation of relevant general policies established under the [Wildlife Act 1953][277] and this Act:
+    *   (a) to develop, in consultation with Fish and Game Councils, national policies for the carrying out of its functions for sports fish and game, and the effective implementation of relevant general policies established under the [Wildlife Act 1953][279] and this Act:
     
     *   (b) to advise the Minister on issues relating to sports fish and game:
     
@@ -3712,11 +3778,11 @@ Sports Fish and Game Councils
     
     (2) The New Zealand Fish and Game Council shall have such other functions as are conferred on it by or under this Act or any other Act.
     
-    Section 26C: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26C: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26C(1)(ba): inserted, on 13 March 1996, by [section 16(1)][444] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26C(1)(ba): inserted, on 13 March 1996, by [section 16(1)][451] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26C(1)(ea): inserted, on 13 March 1996, by [section 16(2)][444] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26C(1)(ea): inserted, on 13 March 1996, by [section 16(2)][451] of the Conservation Amendment Act 1996 (1996 No 1).
     
     Section 26C(1)(ja): inserted, on 17 May 1993, by section 6 of the Wildlife Amendment Act 1993 (1993 No 39).
     
@@ -3726,9 +3792,9 @@ Sports Fish and Game Councils
     
 *   (1) The New Zealand Fish and Game Council shall consist of persons appointed as members of the New Zealand Fish and Game Council by Fish and Game Councils.
     
-    (2) Each Fish and Game Council shall be entitled, in accordance with any regulations made under [section 48][231], to appoint one of its members to be a member of the New Zealand Fish and Game Council, and any person so appointed may from time to time be reappointed.
+    (2) Each Fish and Game Council shall be entitled, in accordance with any regulations made under [section 48][233], to appoint one of its members to be a member of the New Zealand Fish and Game Council, and any person so appointed may from time to time be reappointed.
     
-    Section 26D: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26D: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26DA Members not personally liable
     
@@ -3742,7 +3808,7 @@ Sports Fish and Game Councils
     
     (2) A co-opted member of the Council shall be entitled to attend and speak at any meeting of the Council, but shall not be entitled to vote on any question.
     
-    Section 26E: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26E: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26F Powers of New Zealand Fish and Game Council
     
@@ -3758,19 +3824,19 @@ Sports Fish and Game Councils
     
     *   (d) enter into contracts to provide services and enter into contracts on behalf of, and subject to the authorisation of, any Fish and Game Council.
     
-    (3) For the purposes of [section 26C(1)(g)][124], the New Zealand Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
+    (3) For the purposes of [section 26C(1)(g)][126], the New Zealand Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
     
     (4) \[Repealed\]
     
     (5) \[Repealed\]
     
-    Section 26F: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26F: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 26F(2)(d): amended, on 17 May 1993, by section 6 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 26F(4): repealed, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26F(4): repealed, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 26F(5): repealed, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26F(5): repealed, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26FA Appointment of fish and game rangers
     
@@ -3798,19 +3864,19 @@ Sports Fish and Game Councils
     
     (10) There may be paid to any fish and game ranger appointed under subsection (2), by the New Zealand Fish and Game Council or any Fish and Game Council, reimbursement of the actual and reasonable expenses incurred in the course of acting as a fish and game ranger, if the Director has given prior authorisation and has subsequently approved the amount of the expenses.
     
-    Section 26FA: inserted, on 25 November 1994, by [section 11(1)][446] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26FA: inserted, on 25 November 1994, by [section 11(1)][453] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26FA(9): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][447] of the Policing Act 2008 (2008 No 72).
+    Section 26FA(9): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][454] of the Policing Act 2008 (2008 No 72).
 
 ##### 26FB Powers of fish and game rangers
     
-*   Subject to this Act and the terms of the warrant of appointment of any fish and game ranger, a fish and game ranger shall have and may exercise all the powers exercisable by a warranted officer under this Act or the [Wildlife Act 1953][277], or under any regulations or notices made under either of those Acts.
+*   Subject to this Act and the terms of the warrant of appointment of any fish and game ranger, a fish and game ranger shall have and may exercise all the powers exercisable by a warranted officer under this Act or the [Wildlife Act 1953][279], or under any regulations or notices made under either of those Acts.
     
-    Section 26FB: inserted, on 25 November 1994, by [section 11(1)][446] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26FB: inserted, on 25 November 1994, by [section 11(1)][453] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 26FC Provisions relating to Director and fish and game rangers
     
-*   (1) [Sections 37][218], [40][221], [42][223], [43][224], [43A][225], [46][229], and [47][230] shall apply in respect of fish and game rangers as if---
+*   (1) [Sections 37][220], [40][223], [42][225], [43][226], [43A][227], [46][231], and [47][232] shall apply in respect of fish and game rangers as if---
         
     *   (a) references in those provisions to the Director-General were references to the Director:
     
@@ -3820,37 +3886,37 @@ Sports Fish and Game Councils
     
     *   (d) references to money appropriated by Parliament were references to money belonging to the New Zealand Fish and Game Council or a Fish and Game Council.
     
-    (2) The Director may in writing delegate to any employee of the New Zealand Fish and Game Council or of any Fish and Game Council all or any of the Director's functions and powers under this Act or any other Act, except the power to appoint fish and game rangers under [section 26FA][129].
+    (2) The Director may in writing delegate to any employee of the New Zealand Fish and Game Council or of any Fish and Game Council all or any of the Director's functions and powers under this Act or any other Act, except the power to appoint fish and game rangers under [section 26FA][131].
     
-    Section 26FC: inserted, on 25 November 1994, by [section 11(1)][446] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26FC: inserted, on 25 November 1994, by [section 11(1)][453] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 26G Employment principles
     
-*   The New Zealand Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of [sections 56][448] and [58][449] of the State Sector Act 1988\.
+*   The New Zealand Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of [sections 56][455] and [58][456] of the State Sector Act 1988\.
     
-    Section 26G: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26G: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26H Crown entity
     
-*   (1) The New Zealand Fish and Game Council is, for the purposes of [subpart 2][450] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][451] of that Act.
+*   (1) The New Zealand Fish and Game Council is, for the purposes of [subpart 2][457] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][458] of that Act.
     
-    (2) The Council is a public entity as defined in [section 4][452] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) The Council is a public entity as defined in [section 4][459] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 26H: substituted, on 25 November 1994, by [section 12][453] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26H: substituted, on 25 November 1994, by [section 12][460] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26H(1): amended, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26H(1): amended, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 26H(2): substituted, on 1 July 2001, by [section 53][454] of the Public Audit Act 2001 (2001 No 10).
+    Section 26H(2): substituted, on 1 July 2001, by [section 53][461] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 26I Annual report
     
 *   (1) The New Zealand Fish and Game Council shall, as soon as practicable after the end of each financial year, furnish to the Minister a report on its operations for that financial year.
     
-    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][455] of the Crown Entities Act 2004\.
+    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][462] of the Crown Entities Act 2004\.
     
-    Section 26I: substituted, on 25 November 1994, by [section 12][453] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26I: substituted, on 25 November 1994, by [section 12][460] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26I(2): substituted, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26I(2): substituted, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26J Chairperson of New Zealand Fish and Game Council
     
@@ -3860,7 +3926,7 @@ Sports Fish and Game Councils
     
     (3) If the chairperson is absent from any meeting of the New Zealand Fish and Game Council, the members present shall appoint one of their number to be the chairperson of that meeting.
     
-    Section 26J: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26J: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26K Meetings of New Zealand Fish and Game Council
     
@@ -3878,23 +3944,23 @@ Sports Fish and Game Councils
     
     (7) Subject to the provisions of this Act, the New Zealand Fish and Game Council may regulate its procedure in such manner as it thinks fit.
     
-    Section 26K: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26K: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26L Director-General entitled to attend meetings of New Zealand Fish and Game Council
     
 *   Notice in writing of every meeting of the New Zealand Fish and Game Council and of the business proposed to be transacted at that meeting shall be given by the Council to the Director-General, and the Director-General or the Director-General's nominee shall be entitled to attend and speak at any such meeting, but shall not be entitled to vote on any question.
     
-    Section 26L: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26L: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26M No remuneration payable to members
     
 *   Except as otherwise provided by this Act or any regulations made under it, no member of the New Zealand Fish and Game Council shall be entitled to receive any remuneration or expenses in respect of his or her service as a member of the Council.
     
-    Section 26M: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26M: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Transitional Councils
     
-*   Heading: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26N Transitional Councils
     
@@ -3902,13 +3968,13 @@ Sports Fish and Game Councils
         
     *   (a) a Transitional New Zealand Fish and Game Council; and
     
-    *   (b) a Transitional Fish and Game Council for each region defined under [section 26A(1)(c)][121].
+    *   (b) a Transitional Fish and Game Council for each region defined under [section 26A(1)(c)][123].
     
     (2) Each Transitional Fish and Game Council shall consist of not more than 12 members appointed by the Minister.
     
     (3) The Transitional New Zealand Fish and Game Council and each Transitional Fish and Game Council shall be established for the period specified in the notice by which it is established.
     
-    Section 26N: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26N: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26O Functions and powers of Transitional Councils
     
@@ -3922,7 +3988,7 @@ Sports Fish and Game Councils
     
     *   (b) develop an annual operational work plan for its region and submit for the approval of the Minister those provisions of it that relate to the management of those species of sports fish and game for which there is no management plan; and
     
-    *   (c) provide a report of its operations, and financial statements audited by the Audit Office and complying with [section 26H(b)][133].
+    *   (c) provide a report of its operations, and financial statements audited by the Audit Office and complying with [section 26H(b)][135].
     
     (4) The Transitional Fish and Game Councils concerned shall engage the Department for a period of not less than 6 months, on terms and conditions to be mutually agreed, to manage---
         
@@ -3930,15 +3996,15 @@ Sports Fish and Game Councils
     
     *   (b) the area formerly known as the Southern Lakes Acclimatisation District.
     
-    Section 26O: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26O: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Fish and Game Councils
     
-*   Heading: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26P Establishment and powers of Fish and Game Councils
     
-*   (1) There is hereby established for the purposes of the management, maintenance, and enhancement of sports fish and game a Fish and Game Council for each region defined by the Minister under [section 26A(1)(c)][121].
+*   (1) There is hereby established for the purposes of the management, maintenance, and enhancement of sports fish and game a Fish and Game Council for each region defined by the Minister under [section 26A(1)(c)][123].
     
     (2) Each Fish and Game Council shall be a body corporate with perpetual succession and a common seal, and, except as provided in this Act, shall have---
         
@@ -3956,15 +4022,15 @@ Sports Fish and Game Councils
     
     (3) A Fish and Game Council shall not exercise any of its rights, powers, or privileges except for the purpose of performing its functions.
     
-    Section 26P: brought into force, on 19 July 1990, by the [Conservation Act Commencement Order (No 2) 1990][331] (SR 1990/169).
+    Section 26P: brought into force, on 19 July 1990, by the [Conservation Act Commencement Order (No 2) 1990][334] (SR 1990/169).
     
-    Section 26P: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26P: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26P heading: substituted, on 25 November 1994, by [section 13][456] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26P heading: substituted, on 25 November 1994, by [section 13][463] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26P(2): added, on 25 November 1994, by [section 13][456] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26P(2): added, on 25 November 1994, by [section 13][463] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26P(3): added, on 25 November 1994, by [section 13][456] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26P(3): added, on 25 November 1994, by [section 13][463] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 26Q Functions of Fish and Game Councils
     
@@ -4034,11 +4100,11 @@ Sports Fish and Game Councils
     
     *   (f) to issue---
             
-        *   (i) licences to hunt or kill game, and game bird habitat stamps, in accordance with the [Wildlife Act 1953][277] and any regulations made under it; and
+        *   (i) licences to hunt or kill game, and game bird habitat stamps, in accordance with the [Wildlife Act 1953][279] and any regulations made under it; and
         
         *   (ii) licences to take sports fish, in accordance with this Part and any regulations made under this Act; and
         
-        *   (iii) game hunting guide licences in accordance with the [Wildlife Act 1953][277] and sports fishing guide licences in accordance with this Act:
+        *   (iii) game hunting guide licences in accordance with the [Wildlife Act 1953][279] and sports fishing guide licences in accordance with this Act:
         
         
     
@@ -4060,17 +4126,17 @@ Sports Fish and Game Councils
     
     *   (e) if there is no management plan for any species of sports fish or game for the time being in force for the region of a Council, those provisions of the Council's operational work plan that relate to the management of those species for which there is no management plan shall not have effect until approved by the Minister.
     
-    Section 26Q: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26Q: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26Q(1)(b)(iii): amended, on 13 March 1996, by [section 17(1)][457] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26Q(1)(b)(iii): amended, on 13 March 1996, by [section 17(1)][464] of the Conservation Amendment Act 1996 (1996 No 1).
     
     Section 26Q(1)(d)(ii): amended, on 17 May 1993, by section 6 of the Wildlife Amendment Act 1993 (1993 No 39).
     
     Section 26Q(1)(f)(i): amended, on 17 May 1993, by section 6 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 26Q(1)(f)(ii): amended, on 13 March 1996, by [section 17(2)][457] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26Q(1)(f)(ii): amended, on 13 March 1996, by [section 17(2)][464] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26Q(1)(f)(iii): added, on 13 March 1996, by [section 17(2)][457] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26Q(1)(f)(iii): added, on 13 March 1996, by [section 17(2)][464] of the Conservation Amendment Act 1996 (1996 No 1).
     
     Section 26Q(1)(g): added, on 17 May 1993, by section 6 of the Wildlife Amendment Act 1993 (1993 No 39).
     
@@ -4078,9 +4144,9 @@ Sports Fish and Game Councils
 
 ##### 26R Fish and Game Council responsibilities
     
-*   (1) In the performance of their responsibilities, Fish and Game Councils shall abide by the requirements of this Act and the [Wildlife Act 1953][277] and any regulations made under either of those Acts.
+*   (1) In the performance of their responsibilities, Fish and Game Councils shall abide by the requirements of this Act and the [Wildlife Act 1953][279] and any regulations made under either of those Acts.
     
-    (2) Except as provided in [section 26Q(1)][144], Fish and Game Councils shall not, within their areas of jurisdiction, engage in any activity that has as its predominant purpose the making of a commercial gain from that activity.
+    (2) Except as provided in [section 26Q(1)][146], Fish and Game Councils shall not, within their areas of jurisdiction, engage in any activity that has as its predominant purpose the making of a commercial gain from that activity.
     
     (3) The following provisions apply to Anglers Notices:
         
@@ -4110,19 +4176,19 @@ Sports Fish and Game Councils
     
     (6) Every person commits an offence and is liable to a fine not exceeding $5,000 who takes any sports fish from any waters at any time or place, or with any device or in any manner, if such taking is not permitted by any Anglers Notice in force in respect of those waters.
     
-    Compare: 1983 No 14 [s 71][458]
+    Compare: 1983 No 14 [s 71][465]
     
-    Section 26R: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26R: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 26R(2): amended, on 17 May 1993, by section 6 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 26R(3): substituted, on 13 March 1996, by [section 18(1)][459] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26R(3): substituted, on 13 March 1996, by [section 18(1)][466] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26R(4): amended, on 13 March 1996, by [section 18(2)(a)][459] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26R(4): amended, on 13 March 1996, by [section 18(2)(a)][466] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26R(5): amended, on 13 March 1996, by [section 18(2)(a)][459] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26R(5): amended, on 13 March 1996, by [section 18(2)(a)][466] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26R(6): amended, on 13 March 1996, by [section 18(2)(b)][459] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26R(6): amended, on 13 March 1996, by [section 18(2)(b)][466] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26S Powers of Fish and Game Councils
     
@@ -4152,41 +4218,41 @@ Sports Fish and Game Councils
     
     (6) Each Fish and Game Council may expend money received by it from any source arising under this Act for the purposes of carrying out its functions under this Act.
     
-    (7) For the purposes of [section 26Q(1)][144], a Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
+    (7) For the purposes of [section 26Q(1)][146], a Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
     
-    (8) Nothing in this section or in [section 26Q][144] shall enable any person to enter any land (other than land vested in a Fish and Game Council) without the consent of the owner or occupier.
+    (8) Nothing in this section or in [section 26Q][146] shall enable any person to enter any land (other than land vested in a Fish and Game Council) without the consent of the owner or occupier.
     
     (9) \[Repealed\]
     
     (10) \[Repealed\]
     
-    Section 26S: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26S: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26S(9): repealed, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26S(9): repealed, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 26S(10): repealed, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26S(10): repealed, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26T Appointment of staff
     
-*   (1) Without limiting [section 26S][146], a Fish and Game Council may appoint a manager and other staff for the efficient and economic administration of the affairs of the Council.
+*   (1) Without limiting [section 26S][148], a Fish and Game Council may appoint a manager and other staff for the efficient and economic administration of the affairs of the Council.
     
-    (2) Every Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of [sections 56][448] and [58][449] of the State Sector Act 1988\.
+    (2) Every Fish and Game Council shall operate a personnel policy that complies with the principle of being a good employer by following, as closely as possible and as if it were a chief executive of a department, the provisions of [sections 56][455] and [58][456] of the State Sector Act 1988\.
     
-    Section 26T: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26T: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26U Membership
     
-*   (1) Each Fish and Game Council shall consist of not more than 12 members elected in accordance with [section 26Z][153].
+*   (1) Each Fish and Game Council shall consist of not more than 12 members elected in accordance with [section 26Z][155].
     
     (2) A person shall be qualified to be a member of a Fish and Game Council only if that person holds a current adult whole season licence to hunt game or fish for sports fish.
     
-    (3) Each region defined by the Minister under [section 26A(1)(c)][121] shall comprise not more than 6 subregions, which shall be determined by the Fish and Game Council for that region and notified in some newspaper circulating in the areas affected.
+    (3) Each region defined by the Minister under [section 26A(1)(c)][123] shall comprise not more than 6 subregions, which shall be determined by the Fish and Game Council for that region and notified in some newspaper circulating in the areas affected.
     
     (4) No person who is a bankrupt or has been convicted of an offence involving sports fish or game or protected wildlife (being an offence under this Act or any other Act) shall be eligible to be a member of a Fish and Game Council.
     
-    Section 26U: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26U: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26U(4): amended, on 13 March 1996, by [section 19][460] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26U(4): amended, on 13 March 1996, by [section 19][467] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26V Co-opted members
     
@@ -4194,29 +4260,29 @@ Sports Fish and Game Councils
     
     (2) A co-opted member of a Council shall be entitled to attend and speak at any meeting of that Council, but shall not be entitled to vote on any question.
     
-    Section 26V: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26V: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26W Crown entity
     
-*   (1) Each Fish and Game Council is, for the purposes of [subpart 2][450] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][451] of that Act.
+*   (1) Each Fish and Game Council is, for the purposes of [subpart 2][457] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][458] of that Act.
     
-    (2) Each Council is a public entity as defined in [section 4][452] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) Each Council is a public entity as defined in [section 4][459] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 26W: substituted, on 25 November 1994, by [section 15][461] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26W: substituted, on 25 November 1994, by [section 15][468] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26W(1): amended, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26W(1): amended, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 26W(2): substituted, on 1 July 2001, by [section 53][454] of the Public Audit Act 2001 (2001 No 10).
+    Section 26W(2): substituted, on 1 July 2001, by [section 53][461] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 26X Annual report
     
 *   (1) Each Fish and Game Council shall, as soon as practicable after the end of each financial year, furnish to the Minister a report on its operations for that financial year.
     
-    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][455] of the Crown Entities Act 2004\.
+    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][462] of the Crown Entities Act 2004\.
     
-    Section 26X: substituted, on 25 November 1994, by [section 15][461] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26X: substituted, on 25 November 1994, by [section 15][468] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 26X(2): substituted, on 25 January 2005, by [section 37(1)][445] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26X(2): substituted, on 25 January 2005, by [section 37(1)][452] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26Y Eligibility to vote
     
@@ -4226,13 +4292,13 @@ Sports Fish and Game Councils
     
     (3) For the purposes of this section, each Fish and Game Council shall maintain a register or roll of persons who indicate their wish to vote at an election of members of the Council.
     
-    Section 26Y: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26Y: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26Y(1): substituted, on 13 March 1996, by [section 20][462] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26Y(1): substituted, on 13 March 1996, by [section 20][469] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26Z Conduct of elections
     
-*   (1) Voting at the election of members of Fish and Game Councils shall be by postal ballot and in accordance with regulations made under [section 48][231].
+*   (1) Voting at the election of members of Fish and Game Councils shall be by postal ballot and in accordance with regulations made under [section 48][233].
     
     (2) Each Transitional Fish and Game Council shall, as soon as practicable after it is established, conduct an election to elect not more than 12 persons to be members of the Fish and Game Council for the area for which that Transitional Council is established.
     
@@ -4240,7 +4306,7 @@ Sports Fish and Game Councils
     
     (4) At every election of members of a Fish and Game Council at least 1 member shall be elected for each subregion of the Council.
     
-    Section 26Z: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26Z: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZA Term of office of members of Fish and Game Councils
     
@@ -4248,7 +4314,7 @@ Sports Fish and Game Councils
     
     (2) Any member of a Fish and Game Council may at any time be removed from office by the Minister for bankruptcy, inability to perform the functions of the office, neglect of duty, or misconduct, or a conviction for an offence involving sports fish or game or protected wildlife (being an offence under this Act or any other Act).
     
-    (3) A Fish and Game Council may at any time be discharged and any member of a Fish and Game Council may at any time be removed, by the Minister for failure to carry out any of its or his or her functions under this Act or the [Wildlife Act 1953][277].
+    (3) A Fish and Game Council may at any time be discharged and any member of a Fish and Game Council may at any time be removed, by the Minister for failure to carry out any of its or his or her functions under this Act or the [Wildlife Act 1953][279].
     
     (4) Any member of any Fish and Game Council may at any time resign his or her office by writing addressed to the Minister.
     
@@ -4266,17 +4332,17 @@ Sports Fish and Game Councils
     
     (7) Unless a member sooner dies, resigns, or is removed from office, every member of any Fish and Game Council shall continue in office until that member's successor comes into office, notwithstanding that the term for which that member was appointed may have expired.
     
-    Section 26ZA: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZA: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZA(2): amended, on 1 January 2002, by [section 70(1)][321] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 26ZA(2): amended, on 1 January 2002, by [section 70(1)][324] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 26ZA(2): amended, on 13 March 1996, by [section 21][463] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZA(2): amended, on 13 March 1996, by [section 21][470] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26ZB Members not personally liable
     
 *   No member of a Fish and Game Council shall be personally liable for any default made by the Council or by any member of it, in good faith in the course of its operations.
     
-    Section 26ZB: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZB: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZC Chairpersons of Fish and Game Councils
     
@@ -4286,7 +4352,7 @@ Sports Fish and Game Councils
     
     (3) If the chairperson is absent from any meeting of the Fish and Game Council, the members present shall appoint one of their number to be the chairperson of that meeting.
     
-    Section 26ZC: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZC: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZD Meetings of Fish and Game Councils
     
@@ -4306,17 +4372,17 @@ Sports Fish and Game Councils
     
     (8) Subject to the provisions of this Act, a Fish and Game Council may regulate its procedure in such manner as it thinks fit.
     
-    Section 26ZD: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZD: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZD(7): amended, on 7 July 2010, by [section 4][464] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
+    Section 26ZD(7): amended, on 7 July 2010, by [section 4][471] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
     
-    Section 26ZD(7): amended, on 25 November 1994, by [section 16][465] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26ZD(7): amended, on 25 November 1994, by [section 16][472] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 26ZE Director-General entitled to attend meetings of Fish and Game Councils
     
 *   Notice in writing of every meeting of a Fish and Game Council and of the business proposed to be transacted at that meeting shall be given by the Council to the Director-General, and the Director-General or the Director-General's nominee shall be entitled to attend and speak at any such meeting, but shall not be entitled to vote on any question.
     
-    Section 26ZE: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZE: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZF No remuneration payable to members
     
@@ -4324,14 +4390,14 @@ Sports Fish and Game Councils
     
     (2) No member of any Fish and Game Council shall be granted free of charge a licence to take sports fish or to hunt or kill game.
     
-    Section 26ZF: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZF: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZF(2): added, on 13 March 1996, by [section 22][466] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZF(2): added, on 13 March 1996, by [section 22][473] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ## Part 5B  
 Freshwater fisheries
     
-*   Part 5B: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Part 5B: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZG Application of Part
     
@@ -4345,43 +4411,43 @@ Freshwater fisheries
     
     *   (c) the taking, holding, possession, sale, or disposal of freshwater fish under the authority of---
             
-        *   (i) the [Fisheries Act 1983][467], the Marine Farming Act 1971, or any regulations made under either of those Acts; or
+        *   (i) the [Fisheries Act 1983][474], the Marine Farming Act 1971, or any regulations made under either of those Acts; or
         
-        *   (ii) the registration of a fish farmer under [Part 9A][468] of the Fisheries Act 1996\.
+        *   (ii) the registration of a fish farmer under [Part 9A][475] of the Fisheries Act 1996\.
         
         
     
-    (3) To avoid doubt, subsection (2) does not limit or affect [section 26ZI][165] or [section 26ZM][169].
+    (3) To avoid doubt, subsection (2) does not limit or affect [section 26ZI][167] or [section 26ZM][171].
     
-    Compare: 1983 No 14 [s 88(1)][469]; 1986 No 34 s 22
+    Compare: 1983 No 14 [s 88(1)][476]; 1986 No 34 s 22
     
-    Section 26ZG: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZG: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZG(2): amended, on 1 January 2005, by [section 3(1)][470] of the Conservation Amendment Act 2004 (2004 No 105).
+    Section 26ZG(2): amended, on 1 January 2005, by [section 3(1)][477] of the Conservation Amendment Act 2004 (2004 No 105).
     
-    Section 26ZG(2)(a): amended, on 13 March 1996, by [section 23(2)][471] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZG(2)(a): amended, on 13 March 1996, by [section 23(2)][478] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26ZG(2)(c): substituted, on 1 January 2005, by s[ection 3(2)][470] of the Conservation Amendment Act 2004 (2004 No 105).
+    Section 26ZG(2)(c): substituted, on 1 January 2005, by s[ection 3(2)][477] of the Conservation Amendment Act 2004 (2004 No 105).
     
-    Section 26ZG(3): added, on 1 January 2005, by [section 3(3)][470] of the Conservation Amendment Act 2004 (2004 No 105).
+    Section 26ZG(3): added, on 1 January 2005, by [section 3(3)][477] of the Conservation Amendment Act 2004 (2004 No 105).
 
 #### Maori fishing rights
     
-*   Heading: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZH Maori fishing rights unaffected by this Part
     
 *   (1) Nothing in this Part shall affect any Maori fishing rights.
     
-    (2) Subsection (1) does not apply to customary Māori fishing rights with respect to freshwater fisheries within South Island fisheries waters, in respect of which regulations have been made under [section 48B][234], for so long as such regulations remain in force.
+    (2) Subsection (1) does not apply to customary Māori fishing rights with respect to freshwater fisheries within South Island fisheries waters, in respect of which regulations have been made under [section 48B][236], for so long as such regulations remain in force.
     
-    Section 26ZH: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZH: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZH(2): added, on 1 October 1998, by [section 305(1)][472] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 26ZH(2): added, on 1 October 1998, by [section 305(1)][479] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
 
 #### Sports fisheries
     
-*   Heading: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZI Taking sports fish without licence prohibited
     
@@ -4397,9 +4463,9 @@ Freshwater fisheries
     
     (4) No person shall establish, manage, or operate a fish farm for trout.
     
-    Compare: 1983 No 14 [s 68][473]; 1986 No 34 s 14
+    Compare: 1983 No 14 [s 68][480]; 1986 No 34 s 14
     
-    Section 26ZI: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZI: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZJ Offences relating to spawning fish
     
@@ -4421,17 +4487,17 @@ Freshwater fisheries
     
     *   (b) the taking of freshwater fish subsequently found to contain eggs or larvae.
     
-    Compare: 1983 No 14 [s 68A][474]; 1986 No 34 s 15
+    Compare: 1983 No 14 [s 68A][481]; 1986 No 34 s 15
     
-    Section 26ZJ: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZJ: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZK Fishing competitions relating to sports fish
     
 *   No competition involving the taking of sports fish shall be held unless it conforms in all respects with any regulations made under this Act.
     
-    Compare: 1983 No 14 [s 69A][475]; 1986 No 34 s 17
+    Compare: 1983 No 14 [s 69A][482]; 1986 No 34 s 17
     
-    Section 26ZK: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZK: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZL Restrictions on fishing
     
@@ -4451,17 +4517,17 @@ Freshwater fisheries
     
     (3) Notwithstanding subsection (1), the Director-General shall not impose any prohibition, restriction, or other condition that relates to the taking of sports fish from any waters in any area within the jurisdiction of a Fish and Game Council without prior consultation with that Council, nor restrict entry to any area without prior consultation with the appropriate regional council or any government agency that has statutory control over the land involved.
     
-    Compare: 1983 No 14 [s 70][476]
+    Compare: 1983 No 14 [s 70][483]
     
-    Section 26ZL: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZL: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZL(1): amended, on 3 June 1998, by [section 3(1)][477] of the Conservation Amendment Act 1998 (1998 No 33).
+    Section 26ZL(1): amended, on 3 June 1998, by [section 3(1)][484] of the Conservation Amendment Act 1998 (1998 No 33).
     
-    Section 26ZL(2): amended, on 15 November 2000, by [section 3][478] of the Conservation Amendment Act 2000 (2000 No 56).
+    Section 26ZL(2): amended, on 15 November 2000, by [section 3][485] of the Conservation Amendment Act 2000 (2000 No 56).
     
-    Section 26ZL(2A): inserted, on 3 June 1998, by [section 3(2)][477] of the Conservation Amendment Act 1998 (1998 No 33).
+    Section 26ZL(2A): inserted, on 3 June 1998, by [section 3(2)][484] of the Conservation Amendment Act 1998 (1998 No 33).
     
-    Section 26ZL(3): amended, on 13 March 1996, by [section 25][479] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZL(3): amended, on 13 March 1996, by [section 25][486] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26ZM Transfer or release of live aquatic life
     
@@ -4477,7 +4543,7 @@ Freshwater fisheries
         
     *   (a) the transfer of live aquatic life to or the release of live aquatic life in a new location where the species does not already exist (including the transfer of a new species to or the release of a new species in an existing or a new fish farm):
     
-    *   (b) the transfer of a species of live aquatic life to any land or water managed or administered under this Act or any other Act specified in [Schedule 1][263].
+    *   (b) the transfer of a species of live aquatic life to any land or water managed or administered under this Act or any other Act specified in [Schedule 1][265].
     
     (4) The following provisions shall apply where the approval of the Minister of Conservation is required under subsection (3):
         
@@ -4495,15 +4561,15 @@ Freshwater fisheries
     
     (7) Except as provided in subsections (5A) and (6), this section applies to all persons.
     
-    Section 26ZM: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZM: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZM(4)(b): amended, on 17 May 2005, by [section 3][480] of the Conservation Amendment Act 2005 (2005 No 47).
+    Section 26ZM(4)(b): amended, on 17 May 2005, by [section 3][487] of the Conservation Amendment Act 2005 (2005 No 47).
     
-    Section 26ZM(5): substituted, on 13 March 1996, by [section 26(1)][481] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZM(5): substituted, on 13 March 1996, by [section 26(1)][488] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26ZM(5A): inserted, on 13 March 1996, by[section 26(1)][481] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZM(5A): inserted, on 13 March 1996, by[section 26(1)][488] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26ZM(7): added, on 13 March 1996, by [section 26(2)][481] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZM(7): added, on 13 March 1996, by [section 26(2)][488] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26ZN Fishing rights not to be sold or let
     
@@ -4517,27 +4583,27 @@ Freshwater fisheries
     
     *   (c) charges made for guiding services by any sports fishing guide.
     
-    Section 26ZN: substituted, on 13 March 1996, by[section 27][482] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZN: substituted, on 13 March 1996, by[section 27][489] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26ZO Occupier may fish without licence
     
-*   (1) Subject to this Act, any person who is the lawful occupier of any land may fish on such land or waters within such land without a licence or payment of fee, within the period and upon such terms and conditions, as may be specified in any notice issued pursuant to [section 26ZL][168], or in any Anglers Notice applying, or in any regulations made under [section 48][231] or [section 48A][233], without being liable to any penalty for so doing.
+*   (1) Subject to this Act, any person who is the lawful occupier of any land may fish on such land or waters within such land without a licence or payment of fee, within the period and upon such terms and conditions, as may be specified in any notice issued pursuant to [section 26ZL][170], or in any Anglers Notice applying, or in any regulations made under [section 48][233] or [section 48A][235], without being liable to any penalty for so doing.
     
     (2) For the purposes of this section, the term _lawful occupier_ includes the owner of the land and any person who has the right to occupy the land pursuant to a written agreement for a period of not less than 6 months; but does not include the manager of a marginal strip.
     
     (3) Every person who claims to be the lawful occupier of any land pursuant to an agreement referred to in subsection (2) shall produce the agreement on demand by a warranted officer or fish and game ranger or at any office of the Department or Fish and Game Council within 7 days of a demand by a warranted officer or fish and game ranger.
     
-    Compare: 1983 No 14 [s 74][483]; 1986 No 34 s 18
+    Compare: 1983 No 14 [s 74][490]; 1986 No 34 s 18
     
-    Section 26ZO: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZO: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZO(1): amended, on 13 March 1996, by [section 28][484] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZO(1): amended, on 13 March 1996, by [section 28][491] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 26ZO(3): amended, on 25 November 1994, by [section 17][485] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 26ZO(3): amended, on 25 November 1994, by [section 17][492] of the Conservation Amendment Act 1994 (1994 No 108).
 
 #### Miscellaneous provisions
     
-*   Heading: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26ZP Determination of closed seasons for fishing
     
@@ -4551,11 +4617,11 @@ Freshwater fisheries
     
     (5) Any person who, during any closed season, is found in possession of any sports fish shall be deemed to have taken or obtained that fish during such closed season until the contrary is proved.
     
-    Compare: 1983 No 14 [s 85(2)--(7)][486]
+    Compare: 1983 No 14 [s 85(2)--(7)][493]
     
-    Section 26ZP: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZP: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZP(1): amended, on 3 June 1998, by [section 4][487] of the Conservation Amendment Act 1998 (1998 No 33).
+    Section 26ZP(1): amended, on 3 June 1998, by [section 4][494] of the Conservation Amendment Act 1998 (1998 No 33).
 
 ##### 26ZQ Buying, selling, or possessing fish, contrary to Act
     
@@ -4569,11 +4635,11 @@ Freshwater fisheries
     
     (3) Nothing in this section applies to the purchase, sale, or possession for sale of sports fish where the sale or intended sale is between Fish and Game Councils, or between a Fish and Game Council and the Crown acting for conservation purposes, where the fish have been bred or reared by the seller.
     
-    Compare: 1983 No 14 [s 69][488]; 1986 No 34 s 16
+    Compare: 1983 No 14 [s 69][495]; 1986 No 34 s 16
     
-    Section 26ZQ: inserted, on 10 April 1990, by [section 17][442] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26ZQ: inserted, on 10 April 1990, by [section 17][449] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 26ZQ(1A): inserted, on 13 March 1996, by [section 29][489] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 26ZQ(1A): inserted, on 13 March 1996, by [section 29][496] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 26ZQA Possessing certain kinds of fish without approval
     
@@ -4597,9 +4663,9 @@ Freshwater fisheries
         
     *   (a) an approval under subsection (2):
     
-    *   (b) an approval under [section 26ZM(2)][169]:
+    *   (b) an approval under [section 26ZM(2)][171]:
     
-    *   (c) an approval under [section 26ZM(3)][169].
+    *   (c) an approval under [section 26ZM(3)][171].
     
     (5) Every person commits an offence, and is liable to a fine not exceeding $5,000, who, without reasonable cause, knowingly possesses restricted fish---
         
@@ -4607,9 +4673,9 @@ Freshwater fisheries
     
     *   (b) being reckless as to whether or not any of those approvals has been given.
     
-    (6) [Section 43B][226] does not apply to an offence under subsection (5).
+    (6) [Section 43B][228] does not apply to an offence under subsection (5).
     
-    Section 26ZQA: inserted, on 15 November 2000, by [section 4][490] of the Conservation Amendment Act 2000 (2000 No 56).
+    Section 26ZQA: inserted, on 15 November 2000, by [section 4][497] of the Conservation Amendment Act 2000 (2000 No 56).
 
 ##### 26ZR Using hazardous substances to catch or destroy fish
     
@@ -4621,11 +4687,11 @@ Freshwater fisheries
     
     *   (b) any person authorised in writing for the purpose by the Director-General, the Director, or the appropriate Fish and Game Council.
     
-    (3) In this section, the term _hazardous substance_ has the same meaning as in [section 2][491] of the Hazardous Substances and New Organisms Act 1996\.
+    (3) In this section, the term _hazardous substance_ has the same meaning as in [section 2][498] of the Hazardous Substances and New Organisms Act 1996\.
     
-    Section 26ZR: substituted, on 2 July 2001, by [section 149][492] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 26ZR: substituted, on 2 July 2001, by [section 149][499] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 26ZR(2): substituted, on 7 July 2010, by [section 5][493] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
+    Section 26ZR(2): substituted, on 7 July 2010, by [section 5][500] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
 
 ## Part 5C  
 Control of dogs
@@ -4634,65 +4700,65 @@ Control of dogs
 
 ##### 26ZS Controlled dog areas and open dog areas
     
-*   (1) Subject to [sections 26ZT to 26ZZF][179], the Minister may from time to time, by notice in the _Gazette_, declare any part or parts of the land managed and administered by the Minister or Department under any of the following Acts, namely,---
+*   (1) Subject to [sections 26ZT to 26ZZF][181], the Minister may from time to time, by notice in the _Gazette_, declare any part or parts of the land managed and administered by the Minister or Department under any of the following Acts, namely,---
         
-    *   (a) the Foreshore and Seabed Endowment Revesting Act 1991 so far as it is saved by [section 30(2)][494] of the Foreshore and Seabed Act 2004:
+    *   (a) the Foreshore and Seabed Endowment Revesting Act 1991 so far as it is saved by [section 30(2)][501] of the Foreshore and Seabed Act 2004:
     
-    *   (ab) the [Marine and Coastal Area (Takutai Moana) Act 2011][495]:
+    *   (ab) the [Marine and Coastal Area (Takutai Moana) Act 2011][502]:
     
-    *   (b) the [Reserves Act 1977][312]:
+    *   (b) the [Reserves Act 1977][315]:
     
-    *   (c) the [Sugar Loaf Islands Marine Protected Area Act 1991][496]:
+    *   (c) the [Sugar Loaf Islands Marine Protected Area Act 1991][503]:
     
-    *   (d) the [Waitangi Endowment Act 1932--33][497]:
+    *   (d) the [Waitangi Endowment Act 1932--33][504]:
     
     *   (e) \[Repealed\]
     
-    *   (f) the [Wildlife Act 1953][277]:
+    *   (f) the [Wildlife Act 1953][279]:
     
     *   (g) this Act,---
     
     to be either a controlled dog area or an open dog area.
     
-    (2) The Minister may from time to time, by notice in the _Gazette_, amend or revoke any notice under this section or, subject to [section 26ZX][183], amend or revoke any conditions imposed under [section 26ZU(c)][180].
+    (2) The Minister may from time to time, by notice in the _Gazette_, amend or revoke any notice under this section or, subject to [section 26ZX][185], amend or revoke any conditions imposed under [section 26ZU(c)][182].
     
     Section 26ZS: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 26ZS(1)(a): amended, on 25 November 2004, by [section 103(1)][426] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 26ZS(1)(a): amended, on 25 November 2004, by [section 103(1)][433] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 26ZS(1)(ab): substituted, on 1 April 2011, by[section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 26ZS(1)(ab): substituted, on 1 April 2011, by[section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 26ZS(1)(e): repealed, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
+    Section 26ZS(1)(e): repealed, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
 
 ##### 26ZT Areas excluded from open dog areas
     
 *   An open dog area may not include---
         
-    *   (a) any part of an area declared under [section 18][92] to be held for the purpose of a wilderness area, an ecological area, or a sanctuary area or for 2 or more of those purposes; or
+    *   (a) any part of an area declared under [section 18][94] to be held for the purpose of a wilderness area, an ecological area, or a sanctuary area or for 2 or more of those purposes; or
     
     *   (b) any part of a reserve classified---
             
-        *   (i) under [section 13][498] of the Reserves Act 1977 as a national reserve; or
+        *   (i) under [section 13][505] of the Reserves Act 1977 as a national reserve; or
         
-        *   (ii) under [section 19][499] of the Reserves Act 1977 as a scenic reserve; or
+        *   (ii) under [section 19][506] of the Reserves Act 1977 as a scenic reserve; or
         
-        *   (iii) under [section 20][500] of the Reserves Act 1977 as a nature reserve; or
+        *   (iii) under [section 20][507] of the Reserves Act 1977 as a nature reserve; or
         
-        *   (iv) under [section 21][501] of the Reserves Act 1977 as a scientific reserve; or
+        *   (iv) under [section 21][508] of the Reserves Act 1977 as a scientific reserve; or
         
         
     
-    *   (c) any part of a reserve set apart under [section 47][502] of the Reserves Act 1977 as a wilderness area; or
+    *   (c) any part of a reserve set apart under [section 47][509] of the Reserves Act 1977 as a wilderness area; or
     
-    *   (d) any part of the Protected Area defined by the [Sugar Loaf Islands Marine Protected Area Act 1991][496]; or
+    *   (d) any part of the Protected Area defined by the [Sugar Loaf Islands Marine Protected Area Act 1991][503]; or
     
     *   (e) any part of an area declared---
             
-        *   (i) under [section 9][503] of the Wildlife Act 1953 to be a wildlife sanctuary; or
+        *   (i) under [section 9][510] of the Wildlife Act 1953 to be a wildlife sanctuary; or
         
-        *   (ii) under [section 14][504] of the Wildlife Act 1953 to be a wildlife refuge; or
+        *   (ii) under [section 14][511] of the Wildlife Act 1953 to be a wildlife refuge; or
         
-        *   (iii) under [section 14A][505] of the Wildlife Act 1953 to be a wildlife management reserve.
+        *   (iii) under [section 14A][512] of the Wildlife Act 1953 to be a wildlife management reserve.
         
         
     
@@ -4700,7 +4766,7 @@ Control of dogs
 
 ##### 26ZU Matters that may be included in declarations of controlled dog areas or open dog areas
     
-*   The Minister may, in any notice published under [section 26ZS][178],---
+*   The Minister may, in any notice published under [section 26ZS][180],---
         
     *   (a) assign a name to any controlled dog area or open dog area:
     
@@ -4714,7 +4780,7 @@ Control of dogs
             
         *   (i) by reference to any plan lodged in the Office of the Chief Surveyor and approved by the Chief Surveyor:
         
-        *   (ii) by reference to any plan certified as correct for the purposes of [section 62][257]:
+        *   (ii) by reference to any plan certified as correct for the purposes of [section 62][259]:
         
         *   (iii) by reference to any existing survey:
         
@@ -4732,7 +4798,7 @@ Control of dogs
 
 ##### 26ZV Matters about which Minister must be satisfied
     
-*   The Minister shall not publish a notice under [section 26ZS][178] in respect of any land unless the Minister is satisfied---
+*   The Minister shall not publish a notice under [section 26ZS][180] in respect of any land unless the Minister is satisfied---
         
     *   (a) that the declaration of that land as a controlled dog area or an open dog control area is consistent with---
             
@@ -4754,7 +4820,7 @@ Control of dogs
 
 ##### 26ZW Matters to be taken into account in relation to declaration
     
-*   The Minister shall, in deciding whether to publish a notice under [section 26ZS][178] in respect of any land that is part of a conservation area, take account of---
+*   The Minister shall, in deciding whether to publish a notice under [section 26ZS][180] in respect of any land that is part of a conservation area, take account of---
         
     *   (a) the purposes for which the land is held:
     
@@ -4780,7 +4846,7 @@ Control of dogs
 
 ##### 26ZX Matters relevant to determination of conditions
     
-*   The Minister, in determining the conditions to be included in any notice published under [section 26ZS][178] in relation to any land, shall have regard, among other things, to---
+*   The Minister, in determining the conditions to be included in any notice published under [section 26ZS][180] in relation to any land, shall have regard, among other things, to---
         
     *   (a) any actual or potential risk to protected wildlife vulnerable to dogs that is present, or, by reason of the habitat or source of food that the land provides, is likely to be present on or in the vicinity of the land:
     
@@ -4824,7 +4890,7 @@ Control of dogs
 
 ##### 26ZZ Notification of discussion document
     
-*   (1) The discussion document shall be publicly notified by the Minister in accordance with [section 49(1)][235].
+*   (1) The discussion document shall be publicly notified by the Minister in accordance with [section 49(1)][237].
     
     (2) In addition, the Minister shall serve copies of the discussion document on the appropriate regional councils, territorial authorities, and iwi authorities.
     
@@ -4838,7 +4904,7 @@ Control of dogs
 
 ##### 26ZZA Inspection of discussion document
     
-*   From the date of public notification of a discussion document until the end of the period specified in the notice published under [section 26ZZ][185], the Director-General shall make the discussion document available for public inspection during normal office hours, in such places and quantities as are likely to encourage public participation.
+*   From the date of public notification of a discussion document until the end of the period specified in the notice published under [section 26ZZ][187], the Director-General shall make the discussion document available for public inspection during normal office hours, in such places and quantities as are likely to encourage public participation.
     
     Section 26ZZA: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
@@ -4878,43 +4944,43 @@ Control of dogs
 
 ##### 26ZZF Issue of notice
     
-*   Where the Director-General recommends the publication of a notice under [section 26ZS][178], the Minister,---
+*   Where the Director-General recommends the publication of a notice under [section 26ZS][180], the Minister,---
         
-    *   (a) if he or she is satisfied about the matters specified in [section 26ZT][179]; and
+    *   (a) if he or she is satisfied about the matters specified in [section 26ZT][181]; and
     
-    *   (b) if he or she has taken into account the matters specified in [section 26ZU][180]; and
+    *   (b) if he or she has taken into account the matters specified in [section 26ZU][182]; and
     
-    *   (c) if he or she in fixing any conditions has had regard to the matters specified in [section 26ZV][181],---
+    *   (c) if he or she in fixing any conditions has had regard to the matters specified in [section 26ZV][183],---
     
-    may approve the recommendation, with or without changes, and may publish in the _Gazette_ a notice under [section 26ZS][178].
+    may approve the recommendation, with or without changes, and may publish in the _Gazette_ a notice under [section 26ZS][180].
     
     Section 26ZZF: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
 ##### 26ZZG Restrictions on access to controlled dog area
     
-*   Except as provided in [sections 26ZZH][193] and [26ZZI][194], no person, being an owner of a dog or a person in charge of a dog, shall allow that dog to enter or remain in any part of a controlled dog area.
+*   Except as provided in [sections 26ZZH][195] and [26ZZI][196], no person, being an owner of a dog or a person in charge of a dog, shall allow that dog to enter or remain in any part of a controlled dog area.
     
     Section 26ZZG: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
 ##### 26ZZH Dog control permits
     
-*   (1) Subject to [section 26ZZI][194], the Director-General may from time to time issue in respect of any dog a dog control permit allowing the owner or any other person in charge of that dog to take that dog into any controlled dog area specified in the permit.
+*   (1) Subject to [section 26ZZI][196], the Director-General may from time to time issue in respect of any dog a dog control permit allowing the owner or any other person in charge of that dog to take that dog into any controlled dog area specified in the permit.
     
     (2) Without limiting the generality of subsection (1), it is hereby declared that the Director-General may refuse to issue a dog control permit if the permit is sought---
         
-    *   (a) in relation to a dog that is classified as a dangerous dog under [section 31][506] of the Dog Control Act 1996 or is not registered under that Act; or
+    *   (a) in relation to a dog that is classified as a dangerous dog under [section 31][513] of the Dog Control Act 1996 or is not registered under that Act; or
     
     *   (b) by a person who is---
             
-        *   (i) a person classified under [section 21(1)][507] of the Dog Control Act 1996 as a probationary owner; or
+        *   (i) a person classified under [section 21(1)][514] of the Dog Control Act 1996 as a probationary owner; or
         
-        *   (ii) a person disqualified under [section 25][508] of the Dog Control Act 1996 from being the owner of any dog; or
+        *   (ii) a person disqualified under [section 25][515] of the Dog Control Act 1996 from being the owner of any dog; or
         
         *   (iii) a person who has been convicted of an offence under the Dog Control and Hydatids Act 1982; or
         
-        *   (iv) a person who has been convicted of an offence against [section 26ZZP][201] or [section 26ZZQ][202] of this Act or [section 56I][509] of the National Parks Act 1980; or
+        *   (iv) a person who has been convicted of an offence against [section 26ZZP][203] or [section 26ZZQ][204] of this Act or [section 56I][516] of the National Parks Act 1980; or
         
-        *   (v) a person who has been convicted of an offence against the [Wildlife Act 1953][277], the [Marine Mammals Protection Act 1978][290], or the [Trade in Endangered Species Act 1989][510] or any regulations made under any of those Acts.
+        *   (v) a person who has been convicted of an offence against the [Wildlife Act 1953][279], the [Marine Mammals Protection Act 1978][292], or the [Trade in Endangered Species Act 1989][517] or any regulations made under any of those Acts.
         
         
     
@@ -4930,9 +4996,9 @@ Control of dogs
 
 ##### 26ZZI Requirements in relation to dog control permits
     
-*   (1) The Director-General, in exercising his or her powers under subsection (1) or subsection (3)(b) of [section 26ZZH][193] shall have regard to the matters specified in [sections 26ZV to 26ZX][181].
+*   (1) The Director-General, in exercising his or her powers under subsection (1) or subsection (3)(b) of [section 26ZZH][195] shall have regard to the matters specified in [sections 26ZV to 26ZX][183].
     
-    (2) The Director-General shall not issue a dog control permit under [section 26ZZH(1)][193] unless he or she is satisfied---
+    (2) The Director-General shall not issue a dog control permit under [section 26ZZH(1)][195] unless he or she is satisfied---
         
     *   (a) that a dog is essential for the proposed activity; and
     
@@ -4948,7 +5014,7 @@ Control of dogs
 
 ##### 26ZZJ Power to amend or revoke dog control permit
     
-*   The Director-General may amend or revoke any dog control permit issued under [section 26ZZH(1)][193].
+*   The Director-General may amend or revoke any dog control permit issued under [section 26ZZH(1)][195].
     
     Section 26ZZJ: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
@@ -4974,19 +5040,19 @@ Control of dogs
     
     Section 26ZZK: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 26ZZK(1)(a): amended, on 1 October 2008, by [section 130(1)][511] of the Policing Act 2008 (2008 No 72).
+    Section 26ZZK(1)(a): amended, on 1 October 2008, by [section 130(1)][518] of the Policing Act 2008 (2008 No 72).
 
 ##### 26ZZL Seizure and destruction of dogs
     
 *   (1) Any warranted officer who finds a dog in a controlled dog area, may, unless that dog---
         
-    *   (a) is in the controlled dog area in accordance with a dog control permit issued under [section 26ZZH(1)][193]; or
+    *   (a) is in the controlled dog area in accordance with a dog control permit issued under [section 26ZZH(1)][195]; or
     
-    *   (b) is in the controlled dog area in accordance with [section 26ZZK][196],---
+    *   (b) is in the controlled dog area in accordance with [section 26ZZK][198],---
     
     seize the dog.
     
-    (2) Where a dog is in a controlled dog area by virtue of a dog control permit issued under [section 26ZZH(1)][193], any warranted officer may seize that dog if---
+    (2) Where a dog is in a controlled dog area by virtue of a dog control permit issued under [section 26ZZH(1)][195], any warranted officer may seize that dog if---
         
     *   (a) the dog is not in the immediate vicinity of the holder of the permit and the warranted officer has good cause to suspect that there is a significant risk---
             
@@ -4996,7 +5062,7 @@ Control of dogs
         
         
     
-    *   (b) any condition, being a condition imposed under [section 26ZU(c)][180] in relation to the controlled dog area or a condition of the permit, is not being observed in relation to the dog; or
+    *   (b) any condition, being a condition imposed under [section 26ZU(c)][182] in relation to the controlled dog area or a condition of the permit, is not being observed in relation to the dog; or
     
     *   (c) the holder of the permit is in the immediate vicinity of the dog but the warranted officer has good cause to suspect that the holder of the permit is unwilling or unable to control the dog; or
     
@@ -5004,7 +5070,7 @@ Control of dogs
     
     (3) Where a dog is at large in an open dog area and, a warranted officer or any other person, has good cause to suspect---
         
-    *   (a) that any condition imposed under [section 26ZU(c)][180] in relation to the open dog area is not being observed in relation to that dog; or
+    *   (a) that any condition imposed under [section 26ZU(c)][182] in relation to the open dog area is not being observed in relation to that dog; or
     
     *   (b) that dog is likely to cause annoyance or distress to any person or animal; or
     
@@ -5024,13 +5090,13 @@ Control of dogs
 
 ##### 26ZZM Disposal of seized dog
     
-*   (1) Where a warranted officer or any other person seizes a dog under any provision of [section 26ZZL][197], that warranted officer or other person may---
+*   (1) Where a warranted officer or any other person seizes a dog under any provision of [section 26ZZL][199], that warranted officer or other person may---
         
     *   (a) cause that dog to be returned to its owner; or
     
     *   (b) hold the dog in a kennel under the Director-General's custody; or
     
-    *   (c) place the dog in the custody of a territorial authority to be impounded under [section 69][512] of the Dog Control Act 1996\.
+    *   (c) place the dog in the custody of a territorial authority to be impounded under [section 69][519] of the Dog Control Act 1996\.
     
     (2) Where a dog is held by the Director-General under subsection (1)(b), the following provisions shall apply:
         
@@ -5048,15 +5114,15 @@ Control of dogs
     
     *   (d) the sale, destruction, or other disposal of a dog under these provisions shall not relieve any former owner of the dog of the liability to pay any fees incurred in respect of the dog's seizure, sustenance, and holding.
     
-    (3) Where a dog which is not registered under the [Dog Control Act 1996][286] but which ought to be so registered is held by the Department under subsection (1)(b), no offence is committed against [section 42][513] of that Act by the person holding the dog under subsection (1)(b).
+    (3) Where a dog which is not registered under the [Dog Control Act 1996][288] but which ought to be so registered is held by the Department under subsection (1)(b), no offence is committed against [section 42][520] of that Act by the person holding the dog under subsection (1)(b).
     
-    (4) Except as provided in subsection (1)(c), nothing in [section 69][512] of the Dog Control Act 1996 affects or limits the provisions of this section.
+    (4) Except as provided in subsection (1)(c), nothing in [section 69][519] of the Dog Control Act 1996 affects or limits the provisions of this section.
     
     Section 26ZZM: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
 ##### 26ZZN Supply of information in relation to ownership of dogs
     
-*   (1) No employee of the Department shall disclose, otherwise than in accordance with this section, information which is given to a territorial authority under [section 26ZZM(2)(b)(i)][198] and which---
+*   (1) No employee of the Department shall disclose, otherwise than in accordance with this section, information which is given to a territorial authority under [section 26ZZM(2)(b)(i)][200] and which---
         
     *   (a) identifies, or will assist any person to identify, the name and address of the registered owner of any specified dog; or
     
@@ -5072,7 +5138,7 @@ Control of dogs
     
     *   (d) any society established for the prevention of cruelty to animals or for animal welfare purposes; or
     
-    *   (e) any inspector under the [Animal Welfare Act 1999][284]; or
+    *   (e) any inspector under the [Animal Welfare Act 1999][286]; or
     
     *   (f) any registered veterinary surgeon---
     
@@ -5080,9 +5146,9 @@ Control of dogs
     
     Section 26ZZN: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
     
-    Section 26ZZN(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][447] of the Policing Act 2008 (2008 No 72).
+    Section 26ZZN(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][454] of the Policing Act 2008 (2008 No 72).
     
-    Section 26ZZN(2)(e): amended, on 1 January 2000, by [section 194][303] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 26ZZN(2)(e): amended, on 1 January 2000, by [section 194][305] of the Animal Welfare Act 1999 (1999 No 142).
 
 ##### 26ZZO Recovery of costs relating to dogs
     
@@ -5096,13 +5162,13 @@ Control of dogs
     
 *   Every person commits an offence against this Act and is liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000 or to both who,---
         
-    *   (a) being the owner of a dog or a person in charge of a dog, allows that dog, in contravention of [section 26ZZG][192], to enter or remain in any part of a controlled dog area; or
+    *   (a) being the owner of a dog or a person in charge of a dog, allows that dog, in contravention of [section 26ZZG][194], to enter or remain in any part of a controlled dog area; or
     
-    *   (b) being the holder of a dog control permit issued to that person under [section 26ZZH(1)][193], takes any dog to which that permit relates into any part of the controlled dog area otherwise than in accordance with the conditions of that permit; or
+    *   (b) being the holder of a dog control permit issued to that person under [section 26ZZH(1)][195], takes any dog to which that permit relates into any part of the controlled dog area otherwise than in accordance with the conditions of that permit; or
     
     *   (c) being the owner of a dog or a person in charge of a dog, fails to keep under his or her immediate or apparent control a dog that he or she has taken into a controlled dog area; or
     
-    *   (d) being the owner or a person in charge of a dog, fails, in relation to any controlled dog area or open dog area, to comply with any condition imposed under [section 26ZU(c)][180] in relation to that controlled dog area or open dog area.
+    *   (d) being the owner or a person in charge of a dog, fails, in relation to any controlled dog area or open dog area, to comply with any condition imposed under [section 26ZU(c)][182] in relation to that controlled dog area or open dog area.
     
     Section 26ZZP: inserted, on 2 May 1996, by section 3 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
@@ -5118,7 +5184,7 @@ Control of dogs
     
     (3) The court must, on convicting the person, make an order for the destruction of the dog unless satisfied that the circumstances of the attack were exceptional and do not justify destruction.
     
-    Section 26ZZQ: substituted, on 7 July 2010, by [section 6][514] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
+    Section 26ZZQ: substituted, on 7 July 2010, by [section 6][521] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
 
 ##### 26ZZR Power of warranted officer to request information
     
@@ -5165,13 +5231,13 @@ Miscellaneous
         
     *   (a) there may be granted or reserved over any land any covenant for conservation purposes in favour of the Minister; and
     
-    *   (b) every such covenant shall run with and bind the land that is subject to the burden of the covenant, and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][392].
+    *   (b) every such covenant shall run with and bind the land that is subject to the burden of the covenant, and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][396].
     
     (2) Subject to subsection (3), where a covenant is granted or reserved under this section, the District Land Registrar of the land registration district affected, on the application of the Director-General, shall, without fee, enter in the appropriate registers a notification that the land affected by the covenant is subject to the burden of the covenant.
     
     (3) Where the burden of a covenant under this section applies to land comprising part of the land in a certificate or instrument of title, a District Land Registrar shall not enter in any register a notification of the covenant unless---
         
-    *   (a) the land to which the covenant relates is defined on an existing plan approved under the [Land Transfer Act 1952][392] or a new plan approved under that Act; or
+    *   (a) the land to which the covenant relates is defined on an existing plan approved under the [Land Transfer Act 1952][396] or a new plan approved under that Act; or
     
     *   (b) the document incorporating the covenant is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the covenant is adequately described and properly defined---
             
@@ -5183,11 +5249,11 @@ Miscellaneous
         
         
     
-    Section 27: substituted, on 10 April 1990, by [section 18][515] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 27: substituted, on 10 April 1990, by [section 18][522] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 27(2): amended, on 25 November 1994, by [section 20(1)][516] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 27(2): amended, on 25 November 1994, by [section 20(1)][523] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 27(3): added, on 25 November 1994, by [section 20(2)][516] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 27(3): added, on 25 November 1994, by [section 20(2)][523] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 27A Nga Whenua Rahui kawenata
     
@@ -5203,13 +5269,13 @@ Miscellaneous
     
     *   (b) a Nga Whenua Rahui kawenata under this section may be in perpetuity or for any specific term or may be in perpetuity subject to a condition that at agreed intervals of not less than 25 years the parties to the Nga Whenua Rahui kawenata shall review the objectives, conditions, and continuance of the Nga Whenua Rahui kawenata; and on such review the parties may mutually agree that the Nga Whenua Rahui kawenata shall be terminated, or the owner or lessee may terminate the Nga Whenua Rahui kawenata on giving such notice (being not less than 6 months) as may be agreed. The Crown shall have regard to the manawhenua of the owner or lessee in any such review:
     
-    *   (c) while any Nga Whenua Rahui kawenata under this section remains in force, [sections 36 to 43][217] and [44 to 47][227], as far as they are applicable and with the necessary modifications, but subject to the terms of the Nga Whenua Rahui kawenata, shall apply to the land affected thereby in all respects as if it were a conservation area, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
+    *   (c) while any Nga Whenua Rahui kawenata under this section remains in force, [sections 36 to 43][219] and [44 to 47][229], as far as they are applicable and with the necessary modifications, but subject to the terms of the Nga Whenua Rahui kawenata, shall apply to the land affected thereby in all respects as if it were a conservation area, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
     
-    *   (d) every such Nga Whenua Rahui kawenata shall run with and bind the land that is subject to the burden of the Nga Whenua Rahui kawenata, and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][392]:
+    *   (d) every such Nga Whenua Rahui kawenata shall run with and bind the land that is subject to the burden of the Nga Whenua Rahui kawenata, and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][396]:
     
     *   (e) where a Nga Whenua Rahui kawenata is entered into under this section, the District Land Registrar of the land registration district affected, on the application of the Director-General, shall, without fee, enter in the appropriate folio of the register relating to the land that is subject to the burden of the Nga Whenua Rahui kawenata a notification thereof:
     
-    *   (f) subject to [section 33][214], any money payable as consideration for a Nga Whenua Rahui kawenata shall be paid out of money appropriated by Parliament.
+    *   (f) subject to [section 33][216], any money payable as consideration for a Nga Whenua Rahui kawenata shall be paid out of money appropriated by Parliament.
     
     (2) In the case of a Crown lease other than a lease administered by the Department of Conservation, the consent of the Minister of Lands shall be required before a Nga Whenua Rahui kawenata is entered into, and that Minister may give consent subject to the inclusion of any condition in the Nga Whenua Rahui kawenata or conditions, and may agree to a reduction in rent if, having regard to the basis for fixing the rent, it appears fair and equitable to do so.
     
@@ -5217,7 +5283,7 @@ Miscellaneous
     
     (4) Where the burden of a Nga Whenua Rahui kawenata under this section applies to land comprising part of the land in a certificate or instrument of title, a District Land Registrar shall not enter in any register a notification of the Nga Whenua Rahui kawenata unless---
         
-    *   (a) the land to which the Nga Whenua Rahui kawenata relates is defined on an existing plan approved under the [Land Transfer Act 1952][392] or a new plan approved under that Act; or
+    *   (a) the land to which the Nga Whenua Rahui kawenata relates is defined on an existing plan approved under the [Land Transfer Act 1952][396] or a new plan approved under that Act; or
     
     *   (b) the document incorporating the Nga Whenua Rahui kawenata is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the Nga Whenua Rahui kawenata is adequately described and properly defined---
             
@@ -5231,7 +5297,7 @@ Miscellaneous
     
     Section 27A: inserted, on 24 March 1993, by section 3 of the Conservation Amendment Act 1993 (1993 No 9).
     
-    Section 27A(4): substituted, on 25 November 1994, by [section 21][517] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 27A(4): substituted, on 25 November 1994, by [section 21][524] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 28 Resources other than land
     
@@ -5243,9 +5309,9 @@ Miscellaneous
     
     *   (b) its disposal is desirable in order to enable or facilitate the acquisition for conservation purposes of some other natural resource.
     
-    (3) Before disposing of any indigenous natural resource or historic resource other than an interest in land, the Minister shall give public notice of intention to do so; and [section 49][235] shall apply accordingly.
+    (3) Before disposing of any indigenous natural resource or historic resource other than an interest in land, the Minister shall give public notice of intention to do so; and [section 49][237] shall apply accordingly.
     
-    Section 28(3): amended, on 13 March 1996, by [section 31][518] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 28(3): amended, on 13 March 1996, by [section 31][525] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 29 Management agreements
     
@@ -5257,13 +5323,13 @@ Miscellaneous
         
     *   (a) with the authority of and in accordance with a concession under [Part 3B][66]; or
     
-    *   (aa) in accordance with an access arrangement under the [Crown Minerals Act 1991][379]; or
+    *   (aa) in accordance with an access arrangement under the [Crown Minerals Act 1991][383]; or
     
     *   (b) in accordance with a lease or licence granted before the commencement of this Act; or
     
     *   (c) \[Repealed\]
     
-    *   (ca) pursuant to subsection (5) or subsection (6) of [section 24H][111]; or
+    *   (ca) pursuant to subsection (5) or subsection (6) of [section 24H][113]; or
     
     *   (d) \[Repealed\]
     
@@ -5281,47 +5347,47 @@ Miscellaneous
     
     (6) Every person commits an offence who acts in contravention of or fails to comply with any provision of this section.
     
-    Section 30(1)(a): substituted, on 1 July 1996, by [section 32(1)][519] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 30(1)(a): substituted, on 1 July 1996, by [section 32(1)][526] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 30(1)(aa): inserted, on 1 July 1996, by [section 32(1)][519] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 30(1)(aa): inserted, on 1 July 1996, by [section 32(1)][526] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 30(1)(c): repealed, on 1 July 1996, by [section 32(2)(a)][519] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 30(1)(c): repealed, on 1 July 1996, by [section 32(2)(a)][526] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 30(1)(ca): inserted, on 10 April 1990, by [section 19(1)][520] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 30(1)(ca): inserted, on 10 April 1990, by [section 19(1)][527] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 30(1)(d): repealed, on 1 July 1996, by [section 32(2)(a)][519] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 30(1)(d): repealed, on 1 July 1996, by [section 32(2)(a)][526] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 30(4): amended, on 10 April 1990, by [section 19(2)][520] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 30(4): amended, on 10 April 1990, by [section 19(2)][527] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 30(5): repealed, on 1 July 1996, by [section 32(2)(b)][519] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 30(5): repealed, on 1 July 1996, by [section 32(2)(b)][526] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 30(6): added, on 10 April 1990, by [section 19(4)][520] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 30(6): added, on 10 April 1990, by [section 19(4)][527] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 31 Removal of shingle, etc
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 July 1996, by [section 15(1)][431] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 31: repealed, on 1 July 1996, by [section 15(1)][438] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 32 Lessees, etc, may be required to make contributions
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 July 1996, by [section 15(1)][431] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 32: repealed, on 1 July 1996, by [section 15(1)][438] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 33 Receipts
     
-*   (1) All money received by the Crown under this Act shall be paid in accordance with the [Public Finance Act 1989][521] into a Crown Bank Account, the Department's Departmental Bank Account, or a Trust Bank Account.
+*   (1) All money received by the Crown under this Act shall be paid in accordance with the [Public Finance Act 1989][528] into a Crown Bank Account, the Department's Departmental Bank Account, or a Trust Bank Account.
     
     (2) Notwithstanding subsection (1), any person or body, unless prohibited from doing so by any Act, regulation, or instrument of trust, may make to the Minister a grant or gift of money for specified or general purposes of this Act; and the Minister may accept any such grant or gift for those purposes.
     
-    (3) All money received by the Minister under subsection (2) shall be paid into a Trust Bank Account established under [section 67][522] of the Public Finance Act 1989 to be known as the Department of Conservation Grants and Gifts Trust Account, and shall be applied to the purposes for which the grant or gift was made.
+    (3) All money received by the Minister under subsection (2) shall be paid into a Trust Bank Account established under [section 67][529] of the Public Finance Act 1989 to be known as the Department of Conservation Grants and Gifts Trust Account, and shall be applied to the purposes for which the grant or gift was made.
     
-    Section 33(1): amended, on 25 January 2005, pursuant to [section 65R(3)][523] of the Public Finance Act 1989 (1989 No 44).
+    Section 33(1): amended, on 25 January 2005, pursuant to [section 65R(3)][530] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 33(1): amended, on 1 July 1989, by [section 86(1)][524] of the Public Finance Act 1989 (1989 No 44).
+    Section 33(1): amended, on 1 July 1989, by [section 86(1)][531] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 33(3): amended, on 1 July 1989, by [section 86(1)][524] of the Public Finance Act 1989 (1989 No 44).
+    Section 33(3): amended, on 1 July 1989, by [section 86(1)][531] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 34 Annual reports
     
@@ -5351,7 +5417,7 @@ Miscellaneous
     
     (7) In this section, _branded_ means bearing a brand within the meaning of section 69 of the Animals Act 1967; and _unbranded_ has a corresponding meaning.
     
-    Section 36(5A): inserted, on 10 April 1990, by [section 21][525] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 36(5A): inserted, on 10 April 1990, by [section 21][532] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 37 Production of permit, etc, on demand
     
@@ -5359,9 +5425,9 @@ Miscellaneous
     
     (2) Every person commits an offence against this Act who fails or refuses to produce a permit, concession, right, or authority, when required by subsection (1) to do so.
     
-    Section 37(1): amended, on 1 July 1996, by [section 33][526] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 37(1): amended, on 1 July 1996, by [section 33][533] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 37(2): amended, on 1 July 1996, by [section 33][526] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 37(2): amended, on 1 July 1996, by [section 33][533] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 38 Hunting, etc
     
@@ -5377,7 +5443,7 @@ Miscellaneous
     
     (3) The Director-General may charge for the issue of a permit under subsection (1) any fee not exceeding the appropriate proportion of the costs of administering the issue of such permits.
     
-    (4) Every person commits an offence against this Act who, knowingly and without a permit in that behalf issued under subsection (1) or [section 26ZZH][193], or knowingly and otherwise than in compliance with any conditions subject to which such a permit has been issued,---
+    (4) Every person commits an offence against this Act who, knowingly and without a permit in that behalf issued under subsection (1) or [section 26ZZH][195], or knowingly and otherwise than in compliance with any conditions subject to which such a permit has been issued,---
         
     *   (a) discharges any hunting weapon on, into, or over any conservation area; or
     
@@ -5403,7 +5469,7 @@ Miscellaneous
     
     (6) Every person commits an offence against this Act who uses, receives, sells, or otherwise disposes of any animal or animal product, knowing it to have been taken in contravention of subsection (4).
     
-    (7) Evidence that any person was found in any conservation area in possession of any animal, animal product, natural resource, or plant, capable of being captured or taken in that area shall, for the purposes of proceedings under this section or [section 39][220], be evidence that the person captured or took it in the area.
+    (7) Evidence that any person was found in any conservation area in possession of any animal, animal product, natural resource, or plant, capable of being captured or taken in that area shall, for the purposes of proceedings under this section or [section 39][222], be evidence that the person captured or took it in the area.
     
     (8) In any such proceedings, the averment that any land is a conservation area shall be sufficient without proof of the fact, unless the defendant proves to the contrary; and all plans, maps, leases, licences, certificates, and copies certified as true under the hand of the Director-General or Chief Surveyor shall be sufficient evidence of their contents without production of original records and without the personal attendance of those officers or proof of their signatures, unless the defendant adduces evidence to the contrary and the interests of justice requires the attendance of one of the officers.
     
@@ -5435,7 +5501,7 @@ Miscellaneous
     
     *   (h) takes or removes any gravel, sand, stone, clay, limestone, or other such natural resource, otherwise than in accordance with a concession or some enactment other than this Act.
     
-    (2) Every person commits an offence against this Act who knowingly, and without reasonable excuse, takes any plant on or from a conservation area in contravention of [section 30(1)][211].
+    (2) Every person commits an offence against this Act who knowingly, and without reasonable excuse, takes any plant on or from a conservation area in contravention of [section 30(1)][213].
     
     (3) Every person commits an offence against this Act who, knowingly and without reasonable excuse, disposes of any contaminant into or onto any conservation area or in a position where it is likely to spill, drift, or blow onto or percolate or wash onto or into any conservation area.
     
@@ -5443,39 +5509,39 @@ Miscellaneous
     
     (5) For the purposes of this section, a person shall be deemed to allow a contaminant or water containing a contaminant to enter into water if that person places or discharges or causes or permits to be placed or discharged any contaminant or water containing any contaminant, in a position where that contaminant or any other contaminant emanating as a result of a natural process from that contaminant is liable to flow, fall, or descend into, or to be washed or percolate into, or to be carried by wind, tide, or current into, any water.
     
-    (6) Where any person is convicted of an offence under subsection (4) that person shall be liable to a fine not exceeding $30,000, and to a further fine of $3,000 per day if the offence is a continuing one; but it shall be a defence to the charge if the defendant can show that the contaminant was discharged in terms of the conditions of a current discharge permit granted under the [Resource Management Act 1991][273] or was a permitted activity in the relevant regional plan under that Act, and for this purpose it shall be a sufficient defence to produce a certificate to that effect from the regional council in the area of which the permit was purported to be granted or activity otherwise permitted.
+    (6) Where any person is convicted of an offence under subsection (4) that person shall be liable to a fine not exceeding $30,000, and to a further fine of $3,000 per day if the offence is a continuing one; but it shall be a defence to the charge if the defendant can show that the contaminant was discharged in terms of the conditions of a current discharge permit granted under the [Resource Management Act 1991][275] or was a permitted activity in the relevant regional plan under that Act, and for this purpose it shall be a sufficient defence to produce a certificate to that effect from the regional council in the area of which the permit was purported to be granted or activity otherwise permitted.
     
     (7) Subsection (4) shall apply in respect of any marine and coastal area administered or managed by the Department, and all freshwater in New Zealand.
     
-    Section 39(1): amended, on 1 July 1996, by [section 34(1)][527] of the Conservation Amendment act 1996 (1996 No 1).
+    Section 39(1): amended, on 1 July 1996, by [section 34(1)][534] of the Conservation Amendment act 1996 (1996 No 1).
     
-    Section 39(1)(b): amended, on 13 March 1996, by [section 34(2)(a)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(1)(b): amended, on 13 March 1996, by [section 34(2)(a)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(1)(ba): inserted, on 1 July 1996, by [section 34(3)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(1)(ba): inserted, on 1 July 1996, by [section 34(3)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(1)(ca): inserted, on 1 July 1996, by [section 34(4)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(1)(ca): inserted, on 1 July 1996, by [section 34(4)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(1)(ga): substituted on 13 March 1996, by [section 34(5)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(1)(ga): substituted on 13 March 1996, by [section 34(5)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(1)(h): amended, on 13 March 1996, by [section 34(2)(b)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(1)(h): amended, on 13 March 1996, by [section 34(2)(b)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(3): amended, on 13 March 1996, by [section 34(6)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(3): amended, on 13 March 1996, by [section 34(6)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(4): added, on 10 April 1990, by [section 22][528] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 39(4): added, on 10 April 1990, by [section 22][535] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 39(4): amended, on 13 March 1996, by [section 34(7)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(4): amended, on 13 March 1996, by [section 34(7)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(5): substituted, on 13 March 1996, by [section 34(8)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(5): substituted, on 13 March 1996, by [section 34(8)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(6): added, on 10 April 1990, by [section 22][528] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 39(6): added, on 10 April 1990, by [section 22][535] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 39(6): amended, on 13 March 1996, by [section 34(9)][527] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 39(6): amended, on 13 March 1996, by [section 34(9)][534] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 39(6): amended, on 1 October 1991, by [section 362][408] of the Resource Management Act 1991 (1991 No 69).
+    Section 39(6): amended, on 1 October 1991, by [section 362][415] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 39(7): added, on 10 April 1990, by [section 22][528] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 39(7): added, on 10 April 1990, by [section 22][535] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 39(7): amended, on 1 April 2011, by[section 128][297] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 39(7): amended, on 1 April 2011, by[section 128][299] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 ##### 40 Powers of warranted officers
     
@@ -5513,27 +5579,27 @@ Miscellaneous
     
     (5) Any constable or warranted officer who has reason to believe that an offence against this Act has been committed in respect of any animal, animal product, freshwater fish, freshwater fish product, natural or historic resource, or plant may seize it.
     
-    (6) In the case of every warranted officer, the provisions of this section are subject to any restrictions or limitations specified in the warrant issued to that person under [section 59][247].
+    (6) In the case of every warranted officer, the provisions of this section are subject to any restrictions or limitations specified in the warrant issued to that person under [section 59][249].
     
-    (7) The provisions of [Part 4][529] of the Search and Surveillance Act 2012 (except for [subpart 3][530]) apply.
+    (7) The provisions of [Part 4][536] of the Search and Surveillance Act 2012 (except for [subpart 3][537]) apply.
     
-    Section 40(1)(a): amended, on 10 April 1990, by [section 23(1)(a)][531] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40(1)(a): amended, on 10 April 1990, by [section 23(1)(a)][538] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 40(1)(b): amended, on 10 April 1990, by [section 23(1)(b)][531] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40(1)(b): amended, on 10 April 1990, by [section 23(1)(b)][538] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 40(1)(c): amended, on 10 April 1990, by [section 23(1)(c)][531] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40(1)(c): amended, on 10 April 1990, by [section 23(1)(c)][538] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 40(4A): repealed, on 1 October 2012, by [section 212(2)][532] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 40(4A): repealed, on 1 October 2012, by [section 212(2)][539] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 40(4B): repealed, on 1 October 2012, by [section 212(2)][532] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 40(4B): repealed, on 1 October 2012, by [section 212(2)][539] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 40(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][447] of the Policing Act 2008 (2008 No 72).
+    Section 40(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][454] of the Policing Act 2008 (2008 No 72).
     
-    Section 40(5): amended, on 10 April 1990, by [section 23(3)][531] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40(5): amended, on 10 April 1990, by [section 23(3)][538] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 40(6): added, on 10 April 1990, by [section 23(4)][531] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40(6): added, on 10 April 1990, by [section 23(4)][538] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 40(7): inserted, on 1 October 2012, by [section 212(3)][532] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 40(7): inserted, on 1 October 2012, by [section 212(3)][539] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 41 Offences in respect of warranted officers and fish and game rangers
     
@@ -5547,19 +5613,19 @@ Miscellaneous
     
     *   (d) personates or falsely represents the person to be a warranted officer or fish and game ranger or a person lawfully acting under a warranted officer's or fish and game ranger's orders or in a warranted officer's or fish and game ranger's aid.
     
-    Section 41 heading: substituted, on 25 November 1994, by [section 19][533] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 41 heading: substituted, on 25 November 1994, by [section 19][540] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 41(a): amended, on 25 November 1994, by [section 19(a)][533] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 41(a): amended, on 25 November 1994, by [section 19(a)][540] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 41(a): amended, on 25 November 1994, by [section 19(b)][533] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 41(a): amended, on 25 November 1994, by [section 19(b)][540] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 41(b): amended, on 25 November 1994, by [section 19(a)][533] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 41(b): amended, on 25 November 1994, by [section 19(a)][540] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 41(c): amended, on 25 November 1994, by [section 19(a)][533] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 41(c): amended, on 25 November 1994, by [section 19(a)][540] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 41(d): amended, on 25 November 1994, by [section 19(a)][533] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 41(d): amended, on 25 November 1994, by [section 19(a)][540] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 41(d): amended, on 25 November 1994, by [section 19(c)][533] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 41(d): amended, on 25 November 1994, by [section 19(c)][540] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 42 Protection of warranted officers and others
     
@@ -5567,9 +5633,9 @@ Miscellaneous
 
 ##### 43 Proceedings for offences
     
-*   (1) Subject to subsection (2), all proceedings in respect of offences against this Act shall be under the [Summary Proceedings Act 1957][534].
+*   (1) Subject to subsection (2), all proceedings in respect of offences against this Act shall be under the [Summary Proceedings Act 1957][541].
     
-    (2) Notwithstanding [section 14][535] of the Summary Proceedings Act 1957, an information in respect of an offence against this Act may be laid at any time within 1 year of the time when the alleged offence was committed.
+    (2) Notwithstanding [section 14][542] of the Summary Proceedings Act 1957, an information in respect of an offence against this Act may be laid at any time within 1 year of the time when the alleged offence was committed.
     
     (3) Prosecutions and proceedings in respect of offences under this Act may be commenced and taken in the name of the Director-General.
     
@@ -5585,11 +5651,11 @@ Miscellaneous
     
     the thing shall be presumed to be the property of the Crown unless the contrary is proved.
     
-    Section 43(3): amended, on 10 April 1990, by [section 24][536] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 43(3): amended, on 10 April 1990, by [section 24][543] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 43A Evidence in proceedings
     
-*   (1) Subject to subsections (3) and (4), in any proceedings in respect of an offence against any provision of [Part 5B][160] or [Part 5C][177] or of any regulation made under [section 48A][233], a certificate purporting to be signed by the Director-General or any officer authorised by the Director-General for that purpose to the effect that, on a date specified in the certificate, the defendant or other named person was not the holder of a fishing permit or dog control permit, as the case may be, shall, in the absence of proof to the contrary, be sufficient evidence of the matter stated in the certificate.
+*   (1) Subject to subsections (3) and (4), in any proceedings in respect of an offence against any provision of [Part 5B][162] or [Part 5C][179] or of any regulation made under [section 48A][235], a certificate purporting to be signed by the Director-General or any officer authorised by the Director-General for that purpose to the effect that, on a date specified in the certificate, the defendant or other named person was not the holder of a fishing permit or dog control permit, as the case may be, shall, in the absence of proof to the contrary, be sufficient evidence of the matter stated in the certificate.
     
     (2) A copy of any licence or document granted or issued under this Act which is certified correct by the Director-General, or any officer of the Department duly authorised by the Director-General in that behalf, shall be sufficient, in the absence of proof to the contrary, to prove that licence or other document.
     
@@ -5601,7 +5667,7 @@ Miscellaneous
 
 ##### 43B Strict liability
     
-*   (1) In any prosecution for any offence against any provision of [Part 5B][160] or [Part 5C][177] or any regulation made under [section 48A][233] it shall not be necessary for the prosecution to prove that the defendant intended to commit an offence.
+*   (1) In any prosecution for any offence against any provision of [Part 5B][162] or [Part 5C][179] or any regulation made under [section 48A][235] it shall not be necessary for the prosecution to prove that the defendant intended to commit an offence.
     
     (2) It shall be a defence in any such prosecution if the defendant proves---
         
@@ -5615,9 +5681,9 @@ Miscellaneous
         
         
     
-    Compare: 1983 No 14 [s 105][537]; 1986 No 34 s 27
+    Compare: 1983 No 14 [s 105][544]; 1986 No 34 s 27
     
-    Section 43B: inserted, on 10 April 1990, by[section 25][538] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 43B: inserted, on 10 April 1990, by[section 25][545] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 43B(1): amended, on 2 May 1996, by section 6 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
@@ -5651,17 +5717,17 @@ Miscellaneous
         
     *   (a) any ship, vehicle, aircraft, conveyance, machinery, implement, appliance, material, container, goods, equipment, fishing gear, or hunting weapon used in the commission of the offence may, on the direction of the court, be forfeited to the Crown; and in that case shall be disposed of as the Minister thinks fit; and
     
-    *   (b) any animal, animal product, freshwater fish, freshwater fish product, natural or historic resource, or plant in respect of which the offence has been committed, whether or not it has been seized or taken possession of under this Act, shall be forfeit to the Crown, and shall be disposed of as the Minister thinks fit, unless it is a wild animal or a part of any wild animal, in which case it shall be dealt with under the [Wild Animal Control Act 1977][313].
+    *   (b) any animal, animal product, freshwater fish, freshwater fish product, natural or historic resource, or plant in respect of which the offence has been committed, whether or not it has been seized or taken possession of under this Act, shall be forfeit to the Crown, and shall be disposed of as the Minister thinks fit, unless it is a wild animal or a part of any wild animal, in which case it shall be dealt with under the [Wild Animal Control Act 1977][316].
     
     (6) Where any thing seized under this Act is---
         
-    *   (a) protected wildlife or an animal product derived from any protected wildlife, it shall be dealt with under the [Wildlife Act 1953][277]:
+    *   (a) protected wildlife or an animal product derived from any protected wildlife, it shall be dealt with under the [Wildlife Act 1953][279]:
     
     *   (b) a protected New Zealand object,---
             
         *   (i) if it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, kept in the custody of the Director-General:
         
-        *   (ii) in every other case, it shall be delivered to the person who is entitled to its custody under the [Protected Objects Act 1975][539].
+        *   (ii) in every other case, it shall be delivered to the person who is entitled to its custody under the [Protected Objects Act 1975][546].
         
         
     
@@ -5671,29 +5737,29 @@ Miscellaneous
         
     *   (a) the forfeited property shall be disposed of by the Minister to that Council for the purposes of sale and may be sold by that Council, and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council:
     
-    *   (b) subject to [section 73(2)][540] of the Public Finance Act 1989, all fines imposed and recovered in proceedings taken by a Fish and Game Council for any breach of this Act or any regulations or notice made under this Act shall be paid to the Council of the region or district in which the fines were received, for the purpose of the distribution, rearing, cultivation, and protection of fish in the region or district of that Council.
+    *   (b) subject to [section 73(2)][547] of the Public Finance Act 1989, all fines imposed and recovered in proceedings taken by a Fish and Game Council for any breach of this Act or any regulations or notice made under this Act shall be paid to the Council of the region or district in which the fines were received, for the purpose of the distribution, rearing, cultivation, and protection of fish in the region or district of that Council.
     
     (8) Any forfeiture directed, or redemption payment imposed, under this section shall be in addition to, and not in substitution for, any other penalty that may be imposed.
     
-    Section 46(1): repealed, on 1 October 2012, by [section 212(4)][532] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 46(1): repealed, on 1 October 2012, by [section 212(4)][539] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 46(2): repealed, on 1 October 2012, by [section 212(4)][532] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 46(2): repealed, on 1 October 2012, by [section 212(4)][539] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 46(3): repealed, on 1 October 2012, by [section 212(4)][532] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 46(3): repealed, on 1 October 2012, by [section 212(4)][539] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 46(4): repealed, on 1 October 2012, by [section 212(4)][532] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 46(4): repealed, on 1 October 2012, by [section 212(4)][539] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 46(5)(a): amended, on 10 April 1990, by [section 26(1)(a)][541] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 46(5)(a): amended, on 10 April 1990, by [section 26(1)(a)][548] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 46(5)(b): amended, on 10 April 1990, by [section 26(1)(b)][541] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 46(5)(b): amended, on 10 April 1990, by [section 26(1)(b)][548] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 46(6)(b): amended, on 1 November 2006, by [section 35][542] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 46(6)(b): amended, on 1 November 2006, by [section 35][549] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 46(6)(b)(ii): amended, on 1 November 2006, by [section 35][542] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 46(6)(b)(ii): amended, on 1 November 2006, by [section 35][549] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 46(7A): inserted, on 10 April 1990, by [section 26(2)][541] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 46(7A): inserted, on 10 April 1990, by [section 26(2)][548] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 46(7A)(b): amended, on 13 March 1996, by [section 35][543] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 46(7A)(b): amended, on 13 March 1996, by [section 35][550] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 47 Information leading to conviction
     
@@ -5749,11 +5815,11 @@ Miscellaneous
     
     (4) For the purposes of this section, the term _conservation organisation_ includes the New Zealand Conservation Authority, any Conservation Board, the New Zealand Fish and Game Council, and any Fish and Game Council.
     
-    Section 48: substituted, on 10 April 1990, by [section 27][544] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 48: substituted, on 10 April 1990, by [section 27][551] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 48(1)(m): amended, on 15 November 2000, by [section 5][545] of the Conservation Amendment Act 2000 (2000 No 56).
+    Section 48(1)(m): amended, on 15 November 2000, by [section 5][552] of the Conservation Amendment Act 2000 (2000 No 56).
     
-    Section 48(2): amended, on 25 November 1994, by [section 22][546] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 48(2): amended, on 25 November 1994, by [section 22][553] of the Conservation Amendment Act 1994 (1994 No 108).
 
 ##### 48AA Regulations prescribing time limits for applications for concessions
     
@@ -5761,7 +5827,7 @@ Miscellaneous
         
     *   (a) prescribing a time limit for the Minister or the applicant to do anything under [Part 3B][66] in relation to an application for a concession under Part 3B or another enactment that applies Part 3B, if Part 3B does not already prescribe a time limit for doing that thing:
     
-    *   (b) prescribing a time limit for the Director-General to satisfy the requirement of [section 49(2)(c)][235] or (d) in relation to an application for a concession under [Part 3B][66] or another enactment that applies Part 3B:
+    *   (b) prescribing a time limit for the Director-General to satisfy the requirement of [section 49(2)(c)][237] or (d) in relation to an application for a concession under [Part 3B][66] or another enactment that applies Part 3B:
     
     *   (c) providing for how a prescribed time limit may be extended (for example, at the Minister's discretion or by agreement between the Minister and the applicant):
     
@@ -5773,11 +5839,11 @@ Miscellaneous
     
     (2) In this section, _prescribed time limit_ means a time limit prescribed by regulations made under this section.
     
-    Section 48AA: inserted, on 31 August 2012, by [section 5][547] of the Conservation Amendment Act 2012 (2012 No 61).
+    Section 48AA: inserted, on 31 August 2012, by [section 5][554] of the Conservation Amendment Act 2012 (2012 No 61).
 
 ##### 48A Special regulations relating to freshwater fisheries
     
-*   (1) Without limiting [section 48][231], the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+*   (1) Without limiting [section 48][233], the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
         
     *   (a) providing for the establishment of an advisory user group for the Taupo Fishery, and prescribing its functions, powers, proceedings, and other necessary matters:
     
@@ -5807,7 +5873,7 @@ Miscellaneous
         
         *   (ii) prescribing conditions subject to which such authorisations may be given, or providing for the specifying of such conditions by the person or body that grants the authorisation:
         
-        *   (iii) providing for the variation or withdrawal of any such authorisation (which may include withdrawal on the grounds of the commission of an offence against the [Fisheries Act 1983][467] or this Act, or against any regulations made under that Act or this Act, where the offence involves the possession or use of an electric fishing device), and for the revocation, variation, and addition of any condition of any such authorisation:
+        *   (iii) providing for the variation or withdrawal of any such authorisation (which may include withdrawal on the grounds of the commission of an offence against the [Fisheries Act 1983][474] or this Act, or against any regulations made under that Act or this Act, where the offence involves the possession or use of an electric fishing device), and for the revocation, variation, and addition of any condition of any such authorisation:
         
         *   (iv) providing for appeals against all or any of the following:
                 
@@ -5837,7 +5903,7 @@ Miscellaneous
     
     *   (b) may apply special conditions or confer special rights in relation to fishing by specified communities.
     
-    (2A) Notwithstanding anything in [section 48(1)(k)][231] or [section 48A(1)(c) or (e)][233], the Minister may by notice in the _Gazette_,---
+    (2A) Notwithstanding anything in [section 48(1)(k)][233] or [section 48A(1)(c) or (e)][235], the Minister may by notice in the _Gazette_,---
         
     *   (a) fix the forms and classes of licences to fish for sports fish:
     
@@ -5847,29 +5913,29 @@ Miscellaneous
     
     *   (d) fix the fees payable for any licence to fish for sports fish.
     
-    (2B) Any notice in the _Gazette_ made under subsection (2A) shall be deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][548].
+    (2B) Any notice in the _Gazette_ made under subsection (2A) shall be deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][555].
     
     (3) Subject to subsection (4), for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)(j), any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
     
     (4) Before entering any premises pursuant to subsection (3), a person referred to in that section shall produce evidence of his or her appointment, if requested to do so by the person appearing to be in charge of those premises.
     
-    Section 48A: inserted, on 10 April 1990, by [section 27][544] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 48A: inserted, on 10 April 1990, by [section 27][551] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 48A(1)(c): amended, on 13 March 1996, by [section 36(1)(a)][549] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 48A(1)(c): amended, on 13 March 1996, by [section 36(1)(a)][556] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 48A(1)(d): amended, on 13 March 1996, by [section 36(1)(b)][549] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 48A(1)(d): amended, on 13 March 1996, by [section 36(1)(b)][556] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 48A(1)(e): amended, on 13 March 1996, by [section 36(1)(c)][549] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 48A(1)(e): amended, on 13 March 1996, by [section 36(1)(c)][556] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 48A(1)(f): amended, on 13 March 1996, by [section 36(1)(d)][549] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 48A(1)(f): amended, on 13 March 1996, by [section 36(1)(d)][556] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 48A(1)(i): amended, on 13 March 1996, by [section 36(1)(e)][549] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 48A(1)(i): amended, on 13 March 1996, by [section 36(1)(e)][556] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 48A(1)(l): substituted, on 1 April 1993, by [section 173(2)][550] of the Electricity Act 1992 (1992 No 122).
+    Section 48A(1)(l): substituted, on 1 April 1993, by [section 173(2)][557] of the Electricity Act 1992 (1992 No 122).
     
-    Section 48A(1)(l)(iv): substituted, on 25 November 1994, by [section 23][551] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 48A(1)(l)(iv): substituted, on 25 November 1994, by [section 23][558] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 48A(1)(q): substituted, on 13 March 1996, by [section 36(2)][549] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 48A(1)(q): substituted, on 13 March 1996, by [section 36(2)][556] of the Conservation Amendment Act 1996 (1996 No 1).
     
     Section 48A(2A): inserted, on 2 September 1996, by section 2 of the Conservation Amendment Act (No 3) 1996 (1996 No 116).
     
@@ -5879,7 +5945,7 @@ Miscellaneous
     
 *   (1) The Governor-General may from time to time, by Order in Council, make regulations providing for customary Māori fishing rights with respect to freshwater fisheries within South Island fisheries waters.
     
-    (2) The regulations must be consistent with the provisions of the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][552] and this Act, and provide for input by Ngāi Tahu and other South Island iwi into the integrated management (including control) by the Minister of Conservation of the freshwater fisheries to which the regulations apply.
+    (2) The regulations must be consistent with the provisions of the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][559] and this Act, and provide for input by Ngāi Tahu and other South Island iwi into the integrated management (including control) by the Minister of Conservation of the freshwater fisheries to which the regulations apply.
     
     (3) Without limiting the generality of subsections (1) and (2), the regulations may---
         
@@ -5899,7 +5965,7 @@ Miscellaneous
     
     *   (h) prescribe offences for the breach of the regulations and for the imposition of fines not exceeding $10,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences.
     
-    Section 48B: inserted, on 22 October 1998, by [section 305(2)][472] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 48B: inserted, on 22 October 1998, by [section 305(2)][479] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
 
 ##### 49 Public notice and rights of objection
     
@@ -5919,13 +5985,13 @@ Miscellaneous
     
     (3) The Director-General shall determine the procedure at any hearing under this section.
     
-    Section 49(2): amended, on 10 April 1990, by [section 13(3)][356] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 49(2): amended, on 10 April 1990, by [section 13(3)][360] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 50 Changes of status of land to be noted
     
 *   (1) Where a notice is published in the _Gazette_ under this Act changing the status of any land or notifying the disposal of any interest in a stewardship area, the District Land Registrar or Chief Surveyor, as the case requires, shall register a copy of it against the appropriate title or record.
     
-    (2) After disposing of or transferring any land or interest in land under [section 60(2)][248] or [section 64A][260], the Director-General shall give the appropriate Chief Surveyor written notice of the disposal or transfer.
+    (2) After disposing of or transferring any land or interest in land under [section 60(2)][250] or [section 64A][262], the Director-General shall give the appropriate Chief Surveyor written notice of the disposal or transfer.
     
     Section 50(2): added, on 21 December 1988, by section 4(2) of the Conservation Amendment Act (No 2) 1988 (1988 No 237).
 
@@ -5935,13 +6001,13 @@ Miscellaneous
     
     (2) Every fresh notice or amending notice under this section shall, according to its tenor, take effect as from the date on which the original notice was intended to take effect or as from such other date as may be specified in that behalf in the fresh or amending notice.
     
-    Section 50A: inserted, on 10 April 1990, by [section 28][553] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 50A: inserted, on 10 April 1990, by [section 28][560] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 51 Consent or approval may be conditional
     
-*   (1) Except where it is otherwise expressly provided in this Act or any other Act, every arrangement, approval, authority, concurrence, consent, decision, order, permission, permit, waiver, or other similar action given, granted, issued, made, or reached by the Minister under this Act or any other Act in respect of any conservation area, or any land to which [section 61][256] or [section 62][257] applies, shall be subject to the payment of such rents and compensation, and to such conditions (including a requirement to give any security), as the Minister may impose.
+*   (1) Except where it is otherwise expressly provided in this Act or any other Act, every arrangement, approval, authority, concurrence, consent, decision, order, permission, permit, waiver, or other similar action given, granted, issued, made, or reached by the Minister under this Act or any other Act in respect of any conservation area, or any land to which [section 61][258] or [section 62][259] applies, shall be subject to the payment of such rents and compensation, and to such conditions (including a requirement to give any security), as the Minister may impose.
     
-    (2) Where the Minister has given, granted, issued, made or reached any arrangement, approval, authority, concession, concurrence, consent, easement, decision, lease, licence, order, permission, permit, waiver, or other similar action under this Act or any other Act in respect of any conservation area, or any land to which [section 61][256] or [section 62][257] applies, the Minister may take all necessary proceedings---
+    (2) Where the Minister has given, granted, issued, made or reached any arrangement, approval, authority, concession, concurrence, consent, easement, decision, lease, licence, order, permission, permit, waiver, or other similar action under this Act or any other Act in respect of any conservation area, or any land to which [section 61][258] or [section 62][259] applies, the Minister may take all necessary proceedings---
         
     *   (a) to enforce any conditions of the arrangement, approval, authority, concession, concurrence, consent, easement, decision, lease, licence, order, permission, permit, waiver, or other similar actions:
     
@@ -5949,16 +6015,16 @@ Miscellaneous
     
     *   (c) in respect of any act or omission contrary to the terms upon which the arrangement, approval, concession, concurrence, consent, easement, lease, licence, decision, order, permission, permit, waiver or other action was given, granted, issued, made or reached.
     
-    Section 51: substituted, on 1 July 1996, by [section 37][554] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 51: substituted, on 1 July 1996, by [section 37][561] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ## Part 7  
 Administration
 
 ##### 52 Director-General of Conservation
     
-*   There shall from time to time be appointed under the [State Sector Act 1988][335] a Director-General of Conservation who, subject to the control of the Minister, shall be the administrative head of the Department.
+*   There shall from time to time be appointed under the [State Sector Act 1988][338] a Director-General of Conservation who, subject to the control of the Minister, shall be the administrative head of the Department.
     
-    Section 52: amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 52: amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
 
 ##### 53 Powers of Director-General
     
@@ -6006,13 +6072,13 @@ Administration
     
     (4) in relation to the Taupo Fishery, the Director-General shall have all the powers conferred on a Fish and Game Council by or under this Act subject to the following modifications:
         
-    *   (a) paragraphs (b)(iii) and (d)(ii) of [section 26Q(1)][144] shall be read as if references to the New Zealand Fish and Game Council were references to the Minister:
+    *   (a) paragraphs (b)(iii) and (d)(ii) of [section 26Q(1)][146] shall be read as if references to the New Zealand Fish and Game Council were references to the Minister:
     
-    *   (b) paragraphs (d)(iii), (e)(iv), and (e)(v) of [section 26Q(1)][144] do not apply to the Director-General:
+    *   (b) paragraphs (d)(iii), (e)(iv), and (e)(v) of [section 26Q(1)][146] do not apply to the Director-General:
     
-    *   (c) [section 26R(3)(b)][145] shall be read as if references to the role of the New Zealand Fish and Game Council were omitted:
+    *   (c) [section 26R(3)(b)][147] shall be read as if references to the role of the New Zealand Fish and Game Council were omitted:
     
-    *   (d) paragraphs (c) and (d) of [section 26R(3)][145] shall be read as if references to the New Zealand Fish and Game Council were references to the Director-General.
+    *   (d) paragraphs (c) and (d) of [section 26R(3)][147] shall be read as if references to the New Zealand Fish and Game Council were references to the Director-General.
     
     (5) Any agreement or arrangement entered into under subsection (3)(a) may permit any person to take freshwater fish that the person would not otherwise be entitled to take and may permit the person to retain those fish or any other fish taken by the person under the agreement or arrangement.
     
@@ -6020,25 +6086,25 @@ Administration
     
     Section 53(2)(e): amended (with effect on 1 April 1987), on 2 July 1987, pursuant to section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 53(2)(j): repealed, on 13 March 1996, by [section 38(1)][556] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 53(2)(j): repealed, on 13 March 1996, by [section 38(1)][563] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 53(3): added, on 10 April 1990, by [section 29][557] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 53(3): added, on 10 April 1990, by [section 29][564] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 53(3)(a): amended, on 13 March 1996, by [section 38(2)][556] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 53(3)(a): amended, on 13 March 1996, by [section 38(2)][563] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 53(3)(ea): inserted, on 13 March 1996, by [section 38(3)][556] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 53(3)(ea): inserted, on 13 March 1996, by [section 38(3)][563] of the Conservation Amendment Act 1996 (1996 No 1).
     
     Section 53(3)(g): substituted, on 26 August 1993, by section 2 of the Conservation Amendment Act (No 2) 1993 (1993 No 97).
     
-    Section 53(4): substituted, on 13 March 1996, by [section 38(4)][556] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 53(4): substituted, on 13 March 1996, by [section 38(4)][563] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 53(5): added, on 10 April 1990, by [section 29][557] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 53(5): added, on 10 April 1990, by [section 29][564] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 54 Deputy Directors-General of Conservation
     
-*   (1) There shall from time to time be appointed under the [State Sector Act 1988][335] 1 or more Deputy Directors-General of Conservation, as may be necessary or desirable for the effective and efficient carrying out of the functions of the Department.
+*   (1) There shall from time to time be appointed under the [State Sector Act 1988][338] 1 or more Deputy Directors-General of Conservation, as may be necessary or desirable for the effective and efficient carrying out of the functions of the Department.
     
-    (2) Subject to the control of the Director-General, a Deputy Director-General shall have and may exercise all of the powers, duties, and functions of the Director-General (including any powers delegated by the Minister under [section 57][245]) and shall perform any other duties the Director-General thinks fit.
+    (2) Subject to the control of the Director-General, a Deputy Director-General shall have and may exercise all of the powers, duties, and functions of the Director-General (including any powers delegated by the Minister under [section 57][247]) and shall perform any other duties the Director-General thinks fit.
     
     (3) On the occurrence from any cause of a vacancy in the office of Director-General (whether by reason of death or resignation, or otherwise), or in the case of absence (from whatever cause arising) of the Director-General, and for so long as the vacancy or absence continues,---
         
@@ -6046,23 +6112,23 @@ Administration
     
     *   (b) a Deputy Director-General authorised in writing in that behalf by the State Services Commission (before, on, or after the occurrence of the vacancy or absence) in every other case,---
     
-    shall have and may exercise and perform all the powers, functions, and duties of the Director-General (including any powers delegated by the Minister under [section 57][245]).
+    shall have and may exercise and perform all the powers, functions, and duties of the Director-General (including any powers delegated by the Minister under [section 57][247]).
     
     (4) The fact that a Deputy Director-General exercises or performs any power, function, or duty of the Director-General shall be conclusive evidence of the authority of the Deputy Director-General to do so; and no authority given under subsection (3)(b) and no act done by a Deputy Director-General under any such authority or under subsection (2) or subsection (3) shall in any proceedings be questioned on the ground that the occasion for the giving of the authority had not arisen or had ceased or that the act was contrary to a direction of the Director-General.
     
-    Section 54(1): amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 54(1): amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
 
 ##### 55 Other officers and employees of Department
     
-*   There shall from time to time be appointed under the [State Sector Act 1988][335] such other officers and employees of the Department as are necessary for the effective and efficient performance of the functions of the Department.
+*   There shall from time to time be appointed under the [State Sector Act 1988][338] such other officers and employees of the Department as are necessary for the effective and efficient performance of the functions of the Department.
     
-    Section 55: amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 55: amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
 
 ##### 56 Committees
     
 *   (1) The Minister may from time to time appoint, alter, and discharge advisory committees, consisting of 1 or more members, define and vary the terms of reference of those committees, and regulate their procedure as the Minister thinks fit.
     
-    (2) The Minister may declare any advisory committee to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][328].
+    (2) The Minister may declare any advisory committee to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][331].
     
     (3) Every member of an advisory committee so declared is entitled to receive---
         
@@ -6076,7 +6142,7 @@ Administration
     
 *   (1) Subject to subsection (1A), the Minister may from time to time, by writing under the Minister's hand, either generally or particularly, and either unconditionally or subject to any conditions the Minister thinks fit, delegate to the Director-General, the Conservation Authority, and any Conservation Board, or any of them, all or any of the Minister's powers and functions under this Act or any other enactment, other than the power of delegation conferred on the Minister by this subsection.
     
-    (1A) The Minister shall not delegate to the Conservation Authority or to any Conservation Board any of the Minister's powers and functions under [Part 5A][119].
+    (1A) The Minister shall not delegate to the Conservation Authority or to any Conservation Board any of the Minister's powers and functions under [Part 5A][121].
     
     (2) Subject to---
         
@@ -6092,21 +6158,21 @@ Administration
     
     *   (b) subject to paragraph (c), if the Director-General to whom it was made ceases to hold office, it shall continue to have effect as if made to the Director-General for the time being:
     
-    *   (c) if there is no Director-General for the time being, or if the Director-General is absent from duty, it shall continue to have effect as if made to the person for the time being directed under the [State Sector Act 1988][335] to act in place of the Director-General or to a Deputy Director-General (as the case requires).
+    *   (c) if there is no Director-General for the time being, or if the Director-General is absent from duty, it shall continue to have effect as if made to the person for the time being directed under the [State Sector Act 1988][338] to act in place of the Director-General or to a Deputy Director-General (as the case requires).
     
-    (4) In the absence of proof to the contrary, where the Director-General, a Deputy Director-General, or any person directed under the [State Sector Act 1988][335] to act in place of the Director-General purports to act pursuant to a delegation under subsection (1), the action concerned shall be presumed to be in accordance with the delegation.
+    (4) In the absence of proof to the contrary, where the Director-General, a Deputy Director-General, or any person directed under the [State Sector Act 1988][338] to act in place of the Director-General purports to act pursuant to a delegation under subsection (1), the action concerned shall be presumed to be in accordance with the delegation.
     
     (5) No delegation under subsection (1) shall affect or prevent the exercise of any power by the Minister.
     
-    Section 57(1): substituted (with effect on 1 April 1987), on 10 April 1990, by [section 30(1)][558] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 57(1): substituted (with effect on 1 April 1987), on 10 April 1990, by [section 30(1)][565] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 57(1A): inserted (with effect on 1 April 1987), on 10 April 1990, by [section 30(1)][558] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 57(1A): inserted (with effect on 1 April 1987), on 10 April 1990, by [section 30(1)][565] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 57(2): amended (with effect on 1 April 1987), on 10 April 1990, by [section 30(2)][558] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 57(2): amended (with effect on 1 April 1987), on 10 April 1990, by [section 30(2)][565] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 57(3)(c): amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 57(3)(c): amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
     
-    Section 57(4): amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 57(4): amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
 
 ##### 58 Delegation of powers by Director-General
     
@@ -6120,7 +6186,7 @@ Administration
     
     *   (b) without the written consent of the Minister delegate any power delegated to the Director-General by the Minister; or
     
-    *   (c) without the written consent of the State Services Commission, delegate any power delegated to the Director-General under the [State Sector Act 1988][335].
+    *   (c) without the written consent of the State Services Commission, delegate any power delegated to the Director-General under the [State Sector Act 1988][338].
     
     (4) Subject to---
         
@@ -6144,7 +6210,7 @@ Administration
         
     *   (a) by the Director-General for the time being; or
     
-    *   (b) if there is no Director-General for the time being, by the person for the time being directed under the [State Sector Act 1988][335] to act in place of the Director-General, or by a Deputy Director-General (as the case requires).
+    *   (b) if there is no Director-General for the time being, by the person for the time being directed under the [State Sector Act 1988][338] to act in place of the Director-General, or by a Deputy Director-General (as the case requires).
     
     (7) Where the Director-General or a delegate of the Director-General uses a written document to inform any other person of an action taken by a delegate of the Director-General, the document---
         
@@ -6158,13 +6224,13 @@ Administration
     
     (9) For the purposes only of subsection (1), every warranted officer shall be deemed to be an officer of the Department.
     
-    Section 58(3)(c): amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 58(3)(c): amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
     
-    Section 58(6)(b): amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 58(6)(b): amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
 
 ##### 59 Warranted officers
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][335] suitable persons to be warranted officers for the purposes of this Act.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][338] suitable persons to be warranted officers for the purposes of this Act.
     
     (2) The Director-General may from time to time appoint suitable persons to be warranted officers in an honorary capacity for the purposes of this Act; and every person so appointed shall be deemed to be a warranted officer for the purposes of this Act having the powers specified in the warrant issued to the person.
     
@@ -6178,29 +6244,29 @@ Administration
     
     (6) Every person shall, on ceasing to be a warranted officer, surrender to the Director-General the warrant of appointment, and any badge of office, issued to the person.
     
-    (7) No warranted officer appointed under subsection (2) shall, by virtue of the appointment, be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][335] or of the [Government Superannuation Fund Act 1956][559].
+    (7) No warranted officer appointed under subsection (2) shall, by virtue of the appointment, be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][338] or of the [Government Superannuation Fund Act 1956][566].
     
     (8) The Director-General shall give every warranted officer a written warrant, signed by or on behalf of the Director-General, evidencing the appointment; and the production of the warrant shall, in the absence of proof to the contrary, be conclusive evidence of the appointment.
     
-    (9) Every person who is a constable, or a ranger appointed under [section 38(1)][560] of the Wildlife Act 1953, [section 8(1)][561] of the Reserves Act 1977, or [section 40(1)][562] of the National Parks Act 1980, or any person who is a fishery officer or an honorary fishery officer appointed under [Part 6][563] of the Fisheries Act 1983 to exercise powers in relation to freshwater fisheries, shall be deemed to be a warranted officer; but, where such a person has been so appointed in respect of part of New Zealand only, the person shall be deemed to have been appointed a warranted officer for that part.
+    (9) Every person who is a constable, or a ranger appointed under [section 38(1)][567] of the Wildlife Act 1953, [section 8(1)][568] of the Reserves Act 1977, or [section 40(1)][569] of the National Parks Act 1980, or any person who is a fishery officer or an honorary fishery officer appointed under [Part 6][570] of the Fisheries Act 1983 to exercise powers in relation to freshwater fisheries, shall be deemed to be a warranted officer; but, where such a person has been so appointed in respect of part of New Zealand only, the person shall be deemed to have been appointed a warranted officer for that part.
     
     (10) There may be paid to any warranted officer appointed under subsection (2), out of money appropriated by Parliament for the purpose, reimbursement of actual and reasonable expenses incurred in the course of acting as a warranted officer, if the Director-General has given prior authorisation and has subsequently approved the amount of the expenses.
     
-    Section 59(1): amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 59(1): amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
     
-    Section 59(3A): inserted, on 10 April 1990, by[section 31(1)][564] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 59(3A): inserted, on 10 April 1990, by[section 31(1)][571] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 59(7): amended, on 1 April 1988, pursuant to [section 90(a)][555] of the State Sector Act 1988 (1988 No 20).
+    Section 59(7): amended, on 1 April 1988, pursuant to [section 90(a)][562] of the State Sector Act 1988 (1988 No 20).
     
-    Section 59(9): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][447] of the Policing Act 2008 (2008 No 72).
+    Section 59(9): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][454] of the Policing Act 2008 (2008 No 72).
     
-    Section 59(9): amended, on 10 April 1990, by [section 31(2)][564] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 59(9): amended, on 10 April 1990, by [section 31(2)][571] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 60 Acquisition of land for administrative purposes
     
 *   (1) The Director-General may acquire land or any interest in land for the purposes of the Department and the due administration of this Act.
     
-    (2) The Director-General may on behalf of Her Majesty the Queen, without complying with any provision of this Act (other than [section 50(2)][236]) or any provision of the [Land Act 1948][274], dispose of---
+    (2) The Director-General may on behalf of Her Majesty the Queen, without complying with any provision of this Act (other than [section 50(2)][238]) or any provision of the [Land Act 1948][276], dispose of---
         
     *   (a) any land acquired under subsection (1); or
     
@@ -6226,7 +6292,7 @@ Administration
     
 *   (1) The Director-General, after---
         
-    *   (a) any person to whom [section 60A][249] applies, has---
+    *   (a) any person to whom [section 60A][251] applies, has---
             
         *   (i) considered whether or not to give, grant, issue, make, or reach any approval, authority, concession, concurrence, consent, decision, licence, permission, permit, or waiver, or to take or undertake any similar action (whether or not the consideration has been concluded); or
         
@@ -6248,7 +6314,7 @@ Administration
     
     (3) The Director-General may, in the Director-General's absolute discretion, refund or waive payment of all or any part of any sum paid or required to be paid pursuant to this section.
     
-    (4) Where any person applies to a person to whom [section 60A][249] applies for, or otherwise requests from any such person,---
+    (4) Where any person applies to a person to whom [section 60A][251] applies for, or otherwise requests from any such person,---
         
     *   (a) any approval, authority, concession, concurrence, consent, decision, licence, order, permission, permit, waiver, or other action, in respect of which the Director-General is empowered by subsection (1) to recover any costs; or
     
@@ -6260,35 +6326,35 @@ Administration
     
     *   (d) until the other person has been so informed, no further costs to the Department are incurred other than the cost of so informing the other person.
     
-    (5) Subject to subsection (6), on application in that behalf, any person to whom [section 60A][249] applies shall give to the applicant the person's best estimate of the costs likely to be required under this section to be paid by the applicant in respect of any specified matter.
+    (5) Subject to subsection (6), on application in that behalf, any person to whom [section 60A][251] applies shall give to the applicant the person's best estimate of the costs likely to be required under this section to be paid by the applicant in respect of any specified matter.
     
-    (6) A person to whom [section 60A][249] applies may refuse to give an estimate under subsection (5) unless paid the reasonable costs to the Department of causing it to be prepared.
+    (6) A person to whom [section 60A][251] applies may refuse to give an estimate under subsection (5) unless paid the reasonable costs to the Department of causing it to be prepared.
     
     (7) No person shall be bound by an estimate given under subsection (5).
     
-    (8) Notwithstanding subsection (2), nothing in this section shall apply to any application or inquiry made under the [Ombudsmen Act 1975][565] or the [Official Information Act 1982][388].
+    (8) Notwithstanding subsection (2), nothing in this section shall apply to any application or inquiry made under the [Ombudsmen Act 1975][572] or the [Official Information Act 1982][392].
     
     Section 60B: inserted, on 30 July 1988, by section 3 of the Conservation Amendment Act 1988 (1988 No 131).
     
-    Section 60B(1)(a)(i): amended, on 1 July 1996, by [section 39][566] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60B(1)(a)(i): amended, on 1 July 1996, by [section 39][573] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 60B(1)(a)(ii): amended, on 1 July 1996, by [section 39][566] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60B(1)(a)(ii): amended, on 1 July 1996, by [section 39][573] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 60B(1)(a)(iii): amended, on 1 July 1996, by [section 39][566] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60B(1)(a)(iii): amended, on 1 July 1996, by [section 39][573] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    section 60B(4)(a): amended, on 1 July 1996, by [section 39][566] of the Conservation Amendment Act 1996 (1996 No 1).
+    section 60B(4)(a): amended, on 1 July 1996, by [section 39][573] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 60B(8): added, on 10 April 1990, by [section 32][567] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 60B(8): added, on 10 April 1990, by [section 32][574] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 60C Indirect applications
     
 *   Where---
         
-    *   (a) any person (in this section referred to as the beneficiary) applies to a person (being a person to whom [section 60A][249] does not apply) for, or otherwise requests from any such person, any action, decision, or thing; and
+    *   (a) any person (in this section referred to as the beneficiary) applies to a person (being a person to whom [section 60A][251] does not apply) for, or otherwise requests from any such person, any action, decision, or thing; and
     
     *   (b) by virtue of this Act or any other enactment, the action, decision, or thing may not be done, given, granted, issued, reached, taken, or undertaken, except---
             
-        *   (i) with the approval, authority, concession, concurrence, consent, licence, permission, or permit of a person to whom [section 60A][249] applies; or
+        *   (i) with the approval, authority, concession, concurrence, consent, licence, permission, or permit of a person to whom [section 60A][251] applies; or
         
         *   (ii) after any such person has made a decision, or taken or undertaken an action, of a specified kind or description; or
         
@@ -6300,21 +6366,21 @@ Administration
     
     *   (c) as a consequence of the beneficiary's application or request, an application or other request is made by any person---
             
-        *   (i) to a person to whom [section 60A][249] applies for the approval, authority, concession, concurrence, consent, decision, licence, permission, permit, or action concerned; or
+        *   (i) to a person to whom [section 60A][251] applies for the approval, authority, concession, concurrence, consent, decision, licence, permission, permit, or action concerned; or
         
         *   (ii) to the Minister to recommend the making of the order concerned,---
         
         
     
-    [section 60B][250] shall have effect as if the beneficiary had made the latter application or request directly to the person to whom [section 60A][249] applies or, as the case may be, to the Minister.
+    [section 60B][252] shall have effect as if the beneficiary had made the latter application or request directly to the person to whom [section 60A][251] applies or, as the case may be, to the Minister.
     
     Section 60C: inserted, on 30 July 1988, by section 3 of the Conservation Amendment Act 1988 (1988 No 131).
     
-    Section 60C(b)(i): amended, on 1 July 1996, by [section 40][568] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60C(b)(i): amended, on 1 July 1996, by [section 40][575] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 60C(b)(iv): amended, on 1 July 1996, by [section 40][568] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60C(b)(iv): amended, on 1 July 1996, by [section 40][575] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 60C(c)(i): amended, on 1 July 1996, by [section 40][568] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60C(c)(i): amended, on 1 July 1996, by [section 40][575] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 60D Royalties, etc, may be required in certain circumstances
     
@@ -6322,7 +6388,7 @@ Administration
         
     *   (a) either---
             
-        *   (i) any person to whom [section 60A][249] applies (in this section referred to as the grantor) is empowered by any enactment or by law to give, grant, issue, make, or reach any approval, authority, concession, concurrence, consent, decision, licence, permission, permit, or waiver, or to take or undertake any similar action; or
+        *   (i) any person to whom [section 60A][251] applies (in this section referred to as the grantor) is empowered by any enactment or by law to give, grant, issue, make, or reach any approval, authority, concession, concurrence, consent, decision, licence, permission, permit, or waiver, or to take or undertake any similar action; or
         
         *   (ii) the Governor-General is empowered by any such enactment to make an Order in Council; and
         
@@ -6352,15 +6418,15 @@ Administration
     
     Section 60D: inserted, on 30 July 1988, by section 3 of the Conservation Amendment Act 1988 (1988 No 131).
     
-    Section 60D(1)(a): amended, on 1 July 1996, by [section 41(a)][569] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60D(1)(a): amended, on 1 July 1996, by [section 41(a)][576] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 60D(1)(a)(i): amended, on 25 November 1994, by [section 24][570] of the Conservation Amendment Act 1994 (1994 No 108).
+    Section 60D(1)(a)(i): amended, on 25 November 1994, by [section 24][577] of the Conservation Amendment Act 1994 (1994 No 108).
     
-    Section 60D(1)(b)(i): amended, on 1 July 1996, by [section 41(b)][569] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 60D(1)(b)(i): amended, on 1 July 1996, by [section 41(b)][576] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 60E Payments
     
-*   All money paid to the Director-General under [section 60B][250] or under any arrangement under [section 60D][252] shall be deemed to have been paid under this Act.
+*   All money paid to the Director-General under [section 60B][252] or under any arrangement under [section 60D][254] shall be deemed to have been paid under this Act.
     
     Section 60E: inserted, on 30 July 1988, by section 3 of the Conservation Amendment Act 1988 (1988 No 131).
 
@@ -6368,84 +6434,84 @@ Administration
     
 *   (1) The District Land Registrar for the land registration district in which is situated any land for the time being held under this Act for conservation purposes or for the purposes of the Department shall, on the written request of the Director-General,---
         
-    *   (a) issue a certificate or certificates of title under the [Land Transfer Act 1952][392] (in the name of Her Majesty the Queen for conservation purposes or for the purposes of the Department) in respect of any of the land; and
+    *   (a) issue a certificate or certificates of title under the [Land Transfer Act 1952][396] (in the name of Her Majesty the Queen for conservation purposes or for the purposes of the Department) in respect of any of the land; and
     
     *   (b) issue a duplicate to the Director-General.
     
-    (2) For the purposes only of the [Land Transfer Act 1952][392], a request under subsection (1) is conclusive evidence that the land to which it relates is held under this Act for conservation purposes or, as the case requires, for the purposes of the Department.
+    (2) For the purposes only of the [Land Transfer Act 1952][396], a request under subsection (1) is conclusive evidence that the land to which it relates is held under this Act for conservation purposes or, as the case requires, for the purposes of the Department.
     
-    (3) If the survey of any land is inadequate for the issue of a certificate of title under subsection (1), the District Land Registrar may require the Director-General to deposit in the Land Registry Office concerned such other plan as the District Land Registrar, after consultation with the Chief Surveyor under the [Cadastral Survey Act 2002][571] for the land district in which the land is situated, thinks sufficient to define the land in relation to existing surveys made in accordance with the regulations to which [section 167][572] of the [Land Transfer Act 1952][392] refers.
+    (3) If the survey of any land is inadequate for the issue of a certificate of title under subsection (1), the District Land Registrar may require the Director-General to deposit in the Land Registry Office concerned such other plan as the District Land Registrar, after consultation with the Chief Surveyor under the [Cadastral Survey Act 2002][578] for the land district in which the land is situated, thinks sufficient to define the land in relation to existing surveys made in accordance with the regulations to which [section 167][579] of the [Land Transfer Act 1952][396] refers.
     
     Section 60F: inserted, on 21 December 1988, by section 3 of the Conservation Amendment Act (No 2) 1988 (1988 No 237).
     
-    Section 60F(3): amended, on 1 June 2002, pursuant to [section 68(2)][573] of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 60F(3): amended, on 1 June 2002, pursuant to [section 68(2)][580] of the Cadastral Survey Act 2002 (2002 No 12).
 
 ## Part 8  
 Transitional, consequential amendments, and savings
 
 ##### 61 Certain former State forest land to become protected area on commencement of Act
     
-*   (1) Any land that, immediately before the commencement of this Act, was a forest sanctuary shall be deemed to have been declared to be held for the purpose of a sanctuary area by a notice under [section 18(1)][92] published in the _Gazette_ on that commencement.
+*   (1) Any land that, immediately before the commencement of this Act, was a forest sanctuary shall be deemed to have been declared to be held for the purpose of a sanctuary area by a notice under [section 18(1)][94] published in the _Gazette_ on that commencement.
     
     (2) Any land that, immediately before the commencement of this Act,---
         
     *   (a) was a forest park; and
     
-    *   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of [section 24][574] of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,---
+    *   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of [section 24][581] of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,---
     
     shall, until it---
         
     *   (c) is declared to be held for conservation purposes under [section 7(1)][39]; or
     
-    *   (d) is vested in a State enterprise under the said [section 24][574],---
+    *   (d) is vested in a State enterprise under the said [section 24][581],---
     
     be deemed to be a conservation park.
     
-    (2A) Nothing in subsection (2) applies to any land that, immediately before the commencement of the [Crown Forest Assets Act 1989][418], was shown as being allocated to New Zealand Forestry Corporation Limited on record plans lodged in the office of the Chief Surveyor for the land district in which the land is situated.
+    (2A) Nothing in subsection (2) applies to any land that, immediately before the commencement of the [Crown Forest Assets Act 1989][425], was shown as being allocated to New Zealand Forestry Corporation Limited on record plans lodged in the office of the Chief Surveyor for the land district in which the land is situated.
     
-    (2B) Land of the kind referred to in subsection (2A) that has, before the commencement of the [Crown Forest Assets Act 1989][418], been declared to be held for conservation purposes under [section 7(1)][39], shall, with effect from the commencement of that Act, be deemed not to have been declared to be held for those purposes.
+    (2B) Land of the kind referred to in subsection (2A) that has, before the commencement of the [Crown Forest Assets Act 1989][425], been declared to be held for conservation purposes under [section 7(1)][39], shall, with effect from the commencement of that Act, be deemed not to have been declared to be held for those purposes.
     
-    (3) When any land to which subsection (2) applies is declared to be held for conservation purposes under [section 7(1)][39], it shall be deemed to have been declared to be held for the purpose of a conservation park by a notice in the _Gazette_ under [section 18(1)][92].
+    (3) When any land to which subsection (2) applies is declared to be held for conservation purposes under [section 7(1)][39], it shall be deemed to have been declared to be held for the purpose of a conservation park by a notice in the _Gazette_ under [section 18(1)][94].
     
     (4) Any land that, immediately before the commencement of this Act,---
         
-    *   (a) was State forest land dedicated under [section 15(ba)][575] of the Forests Act 1949 as a wilderness area; and
+    *   (a) was State forest land dedicated under [section 15(ba)][582] of the Forests Act 1949 as a wilderness area; and
     
-    *   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of [section 24][574] of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,---
+    *   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of [section 24][581] of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,---
     
     shall, until it---
         
     *   (c) is declared to be held for conservation purposes under [section 7(1)][39]; or
     
-    *   (d) is vested in a State enterprise under the said [section 24][574],---
+    *   (d) is vested in a State enterprise under the said [section 24][581],---
     
     be deemed to be a wilderness area.
     
-    (5) When any land to which subsection (4) applies is declared to be held for conservation purposes under [section 7(1)][39], it shall be deemed to have been declared to be held for the purpose of a wilderness area by a notice in the _Gazette_ under [section 18(1)][92].
+    (5) When any land to which subsection (4) applies is declared to be held for conservation purposes under [section 7(1)][39], it shall be deemed to have been declared to be held for the purpose of a wilderness area by a notice in the _Gazette_ under [section 18(1)][94].
     
     (6) Any land that, immediately before the commencement of this Act,---
         
-    *   (a) was State forest land dedicated under [section 15(ba)][575] of the Forests Act 1949 as an ecological area; and
+    *   (a) was State forest land dedicated under [section 15(ba)][582] of the Forests Act 1949 as an ecological area; and
     
-    *   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of [section 24][574] of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,---
+    *   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of [section 24][581] of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,---
     
     shall, until it---
         
     *   (c) is declared to be held for conservation purposes under [section 7(1)][39]; or
     
-    *   (d) is vested in a State enterprise under the said [section 24][574],---
+    *   (d) is vested in a State enterprise under the said [section 24][581],---
     
     be deemed to be an ecological area.
     
-    (6A) Nothing in subsection (6) applies to any land that, immediately before the commencement of the [Crown Forest Assets Act 1989][418], was shown as being allocated to New Zealand Forestry Corporation Limited on record plans lodged in the office of the Chief Surveyor for the land district in which the land is situated.
+    (6A) Nothing in subsection (6) applies to any land that, immediately before the commencement of the [Crown Forest Assets Act 1989][425], was shown as being allocated to New Zealand Forestry Corporation Limited on record plans lodged in the office of the Chief Surveyor for the land district in which the land is situated.
     
-    (6B) Land of the kind referred to in subsection (6A) that has, before the commencement of the [Crown Forest Assets Act 1989][418], been declared to be held for conservation purposes under [section 7(1)][39], shall, with effect from the commencement of that Act, be deemed not to have been declared to be held for those purposes.
+    (6B) Land of the kind referred to in subsection (6A) that has, before the commencement of the [Crown Forest Assets Act 1989][425], been declared to be held for conservation purposes under [section 7(1)][39], shall, with effect from the commencement of that Act, be deemed not to have been declared to be held for those purposes.
     
-    (7) When any land to which subsection (6) applies is declared to be held for conservation purposes under [section 7(1)][39], it shall be deemed to have been declared to be held for the purpose of an ecological area by a notice in the _Gazette_ under [section 18(1)][92].
+    (7) When any land to which subsection (6) applies is declared to be held for conservation purposes under [section 7(1)][39], it shall be deemed to have been declared to be held for the purpose of an ecological area by a notice in the _Gazette_ under [section 18(1)][94].
     
     (8) All land to which subsection (6) applies, for so long as it is required to be managed as if it is an ecological area or is deemed to be an ecological area, shall be managed so as to protect---
         
-    *   (a) the value or values for which it was dedicated under [section 15(ba)][575] of the Forests Act 1949, if any such value was specified at the time; or
+    *   (a) the value or values for which it was dedicated under [section 15(ba)][582] of the Forests Act 1949, if any such value was specified at the time; or
     
     *   (b) for its ecological value, in every other case.
     
@@ -6453,7 +6519,7 @@ Transitional, consequential amendments, and savings
         
     *   (a) declared to be held for conservation purposes under [section 7(1)][39]; or
     
-    *   (b) vested in a State enterprise under [section 24][574] of the State-Owned Enterprises Act 1986,---
+    *   (b) vested in a State enterprise under [section 24][581] of the State-Owned Enterprises Act 1986,---
     
     all land that is deemed by this section to be a conservation park, a wilderness area, or an ecological area shall be deemed to be held under this Act for conservation purposes; but neither it nor any interest in it shall be disposed of except by vesting as aforesaid.
     
@@ -6463,9 +6529,9 @@ Transitional, consequential amendments, and savings
     
     Section 61(2)(d): substituted, on 30 July 1988, by section 2(3) of the Conservation Amendment Act 1988 (1988 No 131).
     
-    Section 61(2A): inserted, on 25 October 1989, by [section 44(2)][354] of the Crown Forest Assets Act 1989 (1989 No 99).
+    Section 61(2A): inserted, on 25 October 1989, by [section 44(2)][357] of the Crown Forest Assets Act 1989 (1989 No 99).
     
-    Section 61(2B): inserted, on 25 October 1989, by [section 44(2)][354] of the Crown Forest Assets Act 1989 (1989 No 99).
+    Section 61(2B): inserted, on 25 October 1989, by [section 44(2)][357] of the Crown Forest Assets Act 1989 (1989 No 99).
     
     Section 61(4): amended, on 30 July 1988, by section 2(4) of the Conservation Amendment Act 1988 (1988 No 131).
     
@@ -6475,15 +6541,15 @@ Transitional, consequential amendments, and savings
     
     Section 616(d): substituted, on 30 July 1988, by section 2(5) of the Conservation Amendment Act 1988 (1988 No 131).
     
-    Section 61(6A): inserted, on 25 October 1989, by [section 44(3)][354] of the Crown Forest Assets Act 1989 (1989 No 99).
+    Section 61(6A): inserted, on 25 October 1989, by [section 44(3)][357] of the Crown Forest Assets Act 1989 (1989 No 99).
     
-    Section 61(6B): inserted, on 25 October 1989, by [section 44(3)][354] of the Crown Forest Assets Act 1989 (1989 No 99).
+    Section 61(6B): inserted, on 25 October 1989, by [section 44(3)][357] of the Crown Forest Assets Act 1989 (1989 No 99).
     
     Section 61(9): added, on 30 July 1988, by section 2(6) of the Conservation Amendment Act 1988 (1988 No 131).
     
     Section 61(10): added, on 30 July 1988, by section 2(6) of the Conservation Amendment Act 1988 (1988 No 131).
     
-    Section 61(10): amended, on 1 July 1996, by [section 42][576] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 61(10): amended, on 1 July 1996, by [section 42][583] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 62 Certain land to be managed as if it is stewardship area
     
@@ -6505,31 +6571,31 @@ Transitional, consequential amendments, and savings
     
     Section 62(2): added, on 30 July 1988, by section 2(8) of the Conservation Amendment Act 1988 (1988 No 131).
     
-    Section 62(2): amended, on 1 July 1996, by [section 43][577] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 62(2): amended, on 1 July 1996, by [section 43][584] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 63 Certain land may become protected area without public notification
     
-*   (1) Notwithstanding [section 18(2)][92], where---
+*   (1) Notwithstanding [section 18(2)][94], where---
         
     *   (a) before the commencement of this Act, the Minister of Lands (in respect of any Crown land) or the Minister of Forests (in respect of any State forest land) has approved in writing that any specified Crown land or State forest land should become an ecological area, an amenity area, or a wilderness area after 1 April 1987; and
     
     *   (b) that land has subsequently become a conservation area,---
     
-    the Minister may, under [section 18(1)][92], declare the land to be held for any of the purposes specified in that subsection without giving public notice of intention to do so.
+    the Minister may, under [section 18(1)][94], declare the land to be held for any of the purposes specified in that subsection without giving public notice of intention to do so.
     
     (2) The Minister may, by notice in the _Gazette_, declare that any land---
         
-    *   (a) identified in the first column of [Schedule 4][266] for protection as an ecological area, amenity reserve, wildlife corridor, or wildlife management reserve; and
+    *   (a) identified in the first column of [Schedule 4][268] for protection as an ecological area, amenity reserve, wildlife corridor, or wildlife management reserve; and
     
-    *   (b) held and managed as a conservation area under [section 7][39] or [section 61][256] or [section 62][257] or as a reserve under the [Reserves Act 1977][312]---
+    *   (b) held and managed as a conservation area under [section 7][39] or [section 61][258] or [section 62][259] or as a reserve under the [Reserves Act 1977][315]---
     
-    is held for the purpose of an ecological area under [section 21][95] or an amenity area under [section 23A][98] or a wildlife management area under [section 23B][99]; and, subject to this Act, it shall thereafter be so held and, in the case of any land that was a reserve under the [Reserves Act 1977][312], the reservation of the land as a reserve shall thereupon be deemed to have been revoked in accordance with that Act.
+    is held for the purpose of an ecological area under [section 21][97] or an amenity area under [section 23A][100] or a wildlife management area under [section 23B][101]; and, subject to this Act, it shall thereafter be so held and, in the case of any land that was a reserve under the [Reserves Act 1977][315], the reservation of the land as a reserve shall thereupon be deemed to have been revoked in accordance with that Act.
     
-    (3) The purpose for which any land identified in [Schedule 4][266] is held shall be as specified in the third column of that schedule.
+    (3) The purpose for which any land identified in [Schedule 4][268] is held shall be as specified in the third column of that schedule.
     
-    (4) Where any boundary of any land is identified in any document referred to in the fourth column of [Schedule 4][266], the boundary identified in the document shall be conclusive for the purposes of this Act.
+    (4) Where any boundary of any land is identified in any document referred to in the fourth column of [Schedule 4][268], the boundary identified in the document shall be conclusive for the purposes of this Act.
     
-    (5) Where any boundary of any land is not identified in any document referred to in the fourth column in [Schedule 4][266], the Minister shall describe the land in the notice given under this section after having regard,---
+    (5) Where any boundary of any land is not identified in any document referred to in the fourth column in [Schedule 4][268], the Minister shall describe the land in the notice given under this section after having regard,---
         
     *   (a) in the case of any land identified as Category A in Appendix C of the Final Report of the West Coast Forests Working Party dated 31 October 1986, to the maps contained or referred to in that report:
     
@@ -6539,69 +6605,69 @@ Transitional, consequential amendments, and savings
     
     (7) Notwithstanding subsections (4), (5), and (6), the Minister may, by notice in the _Gazette_, make any necessary or practical or appropriate adjustments to the description of any land under this section.
     
-    (8) Where any land identified in [Schedule 4][266] is identified as an extension to any existing land held for a special purpose under [Part 4][91], the Minister may, by notice in the _Gazette_, add the land identified in that schedule to the existing land.
+    (8) Where any land identified in [Schedule 4][268] is identified as an extension to any existing land held for a special purpose under [Part 4][91], the Minister may, by notice in the _Gazette_, add the land identified in that schedule to the existing land.
     
-    (9) Notwithstanding [section 18(2)][92], the Minister may make a declaration under subsection (2) without giving public notice of the intention to declare the land as being held for the proposed purpose.
+    (9) Notwithstanding [section 18(2)][94], the Minister may make a declaration under subsection (2) without giving public notice of the intention to declare the land as being held for the proposed purpose.
     
-    Section 63(2): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(2): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 63(3): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(3): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 63(4): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(4): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 63(5): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(5): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 63(6): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(6): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 63(7): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(7): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 63(8): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(8): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 63(9): added, on 13 March 1996, by [section 44][578] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 63(9): added, on 13 March 1996, by [section 44][585] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 64 Existing leases, licences, etc
     
-*   (1) In this section, _existing incumbrance_ means a lease, licence, permit, or tenancy, granted or issued under the [Land Act 1948][274] or any former Land Act within the meaning of that Act.
+*   (1) In this section, _existing incumbrance_ means a lease, licence, permit, or tenancy, granted or issued under the [Land Act 1948][276] or any former Land Act within the meaning of that Act.
     
     (2) Where a conservation area was subject to an existing incumbrance immediately before becoming a conservation area,---
         
     *   (a) it shall be subject to the incumbrance on becoming a conservation area; and
     
-    *   (b) the provisions of the [Land Act 1948][274] specified in subsection (3) shall apply to the incumbrance, its application to the area, and every present or former lessee, licensee, permittee, and tenant, as if every reference in those provisions to the Commissioner of Crown Lands, the Land Settlement Board, the Board, or the Department, is a reference to the Director-General.
+    *   (b) the provisions of the [Land Act 1948][276] specified in subsection (3) shall apply to the incumbrance, its application to the area, and every present or former lessee, licensee, permittee, and tenant, as if every reference in those provisions to the Commissioner of Crown Lands, the Land Settlement Board, the Board, or the Department, is a reference to the Director-General.
     
-    (3) The provisions concerned are [sections 18][579], [50][580], [50A to 50F][581], [56][582], [60][583], [60A][584], [60B][585], [65][586], [67(1)][587], [67(2)][587], [67(4)][587], [68 to 69][588], [81 to 105][589], [111 to 115][590], [121 to 126][591], [127][592], [131 to 151][593], [153 to 158][594], [160][595], [164A][596], [164B][597], [170 to 171][598], [174][599], and [183][600].
+    (3) The provisions concerned are [sections 18][586], [50][587], [50A to 50F][588], [56][589], [60][590], [60A][591], [60B][592], [65][593], [67(1)][594], [67(2)][594], [67(4)][594], [68 to 69][595], [81 to 105][596], [111 to 115][597], [121 to 126][598], [127][599], [131 to 151][600], [153 to 158][601], [160][602], [164A][603], [164B][604], [170 to 171][605], [174][606], and [183][607].
     
     (4) Where, at the commencement of this subsection, any person has under a lease or licence of any land of the Crown a right to acquire the freehold title for that land, the following provisions shall apply:
         
     *   (a) that person may, subject to the provisions of the lease or licence under which the right is conferred, exercise that right at any time during the currency of the lease or licence:
     
-    *   (b) the exercise of that right shall not constitute a disposition for the purposes of [section 16][48] or [Part 4A][100].
+    *   (b) the exercise of that right shall not constitute a disposition for the purposes of [section 16][48] or [Part 4A][102].
     
-    (4A) Where a lessee or licensee of any land vested in Landcorp Farming Limited, being land that was acquired from the Crown, exercises under that person's lease or licence a right to acquire the freehold title for that land, the exercise of that right shall not constitute a disposition for the purposes of [section 16][48] or [Part 4A][100].
+    (4A) Where a lessee or licensee of any land vested in Landcorp Farming Limited, being land that was acquired from the Crown, exercises under that person's lease or licence a right to acquire the freehold title for that land, the exercise of that right shall not constitute a disposition for the purposes of [section 16][48] or [Part 4A][102].
     
     (5) Where the freehold title of any land referred to in subsection (4A) is transferred to the lessee or licensee of the land pursuant to the exercise of a right to acquire that title, the District Land Registrar or the Chief Surveyor shall, without fee,---
         
-    *   (a) remove from the certificate of title, or proper plans and records, of the land any record or notation made in accordance with subsection (1) or subsection (2) of [section 24D][107]; and
+    *   (a) remove from the certificate of title, or proper plans and records, of the land any record or notation made in accordance with subsection (1) or subsection (2) of [section 24D][109]; and
     
     *   (b) remove from any such proper plans any reference to the marginal strip formerly reserved in respect of the land.
     
-    Section 64(4): substituted, on 10 April 1990, by [section 33][601] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 64(4): substituted, on 10 April 1990, by [section 33][608] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 64(4)(b): amended, on 13 March 1996, by [section 45(1)(a)][602] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 64(4)(b): amended, on 13 March 1996, by [section 45(1)(a)][609] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 64(4A): inserted, on 10 April 1990, by [section 33][601] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 64(4A): inserted, on 10 April 1990, by [section 33][608] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 64(4A): amended, on 12 April 2001, by [clause 4][424] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+    Section 64(4A): amended, on 12 April 2001, by [clause 4][431] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
     
-    Section 64(4A): amended, on 13 March 1996, by [section 45(1)(a)][602] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 64(4A): amended, on 13 March 1996, by [section 45(1)(a)][609] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 64(4A): amended, on 13 March 1996, by [section 45(1)(b)][602] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 64(4A): amended, on 13 March 1996, by [section 45(1)(b)][609] of the Conservation Amendment Act 1996 (1996 No 1).
     
-    Section 64(5): added, on 13 March 1996, by [section 45(2)][602] of the Conservation Amendment Act 1996 (1996 No 1).
+    Section 64(5): added, on 13 March 1996, by [section 45(2)][609] of the Conservation Amendment Act 1996 (1996 No 1).
 
 ##### 64A Agreed exchanges to proceed
     
-*   Where, immediately before the commencement of this Act, there was in existence an executed written agreement between the Crown and the owner of any private land for the exchange of any land that was then Crown land or State forest land and all or any part of the private land, the Director-General may, without complying with any provision of this Act (other than [section 50(2))][236], take all steps necessary to enable the transfer to the person of any part of the former Crown land or State forest land that is a conservation area.
+*   Where, immediately before the commencement of this Act, there was in existence an executed written agreement between the Crown and the owner of any private land for the exchange of any land that was then Crown land or State forest land and all or any part of the private land, the Director-General may, without complying with any provision of this Act (other than [section 50(2))][238], take all steps necessary to enable the transfer to the person of any part of the former Crown land or State forest land that is a conservation area.
     
     Section 64A: inserted, on 21 December 1988, by section 4(1) of the Conservation Amendment Act (No 2) 1988 (1988 No 237).
 
@@ -6611,9 +6677,9 @@ Transitional, consequential amendments, and savings
         
     *   (a) land in any conservation area:
     
-    *   (b) land to which [section 61][256] applies:
+    *   (b) land to which [section 61][258] applies:
     
-    *   (c) land to which [section 62][257] applies.
+    *   (c) land to which [section 62][259] applies.
     
     (2) Subject to subsection (3), the Minister or the Director-General may exercise any power that---
         
@@ -6643,15 +6709,15 @@ Transitional, consequential amendments, and savings
     
     *   (c) in respect of any act or omission contrary to the terms upon which the lease, licence, permit, consent, or other authority was granted.
     
-    (5) Notwithstanding [section 32(1)][603] of the State-Owned Enterprises Act 1986 but subject to subsections (2) and (3), every lease, licence, permit, consent, and other authority granted under the [Forests Act 1949][276] in respect of any land to which this section applies, that is for the time being in force, shall have effect and be construed as if [sections 14][604], [30][605], [33][606], [36][607], [37][608], and [40 to 44][609] of the Forests Act 1949 were still in force; and every such authority shall be deemed to have had such effect on and from 1 April 1987 and shall be construed accordingly.
+    (5) Notwithstanding [section 32(1)][610] of the State-Owned Enterprises Act 1986 but subject to subsections (2) and (3), every lease, licence, permit, consent, and other authority granted under the [Forests Act 1949][278] in respect of any land to which this section applies, that is for the time being in force, shall have effect and be construed as if [sections 14][611], [30][612], [33][613], [36][614], [37][615], and [40 to 44][616] of the Forests Act 1949 were still in force; and every such authority shall be deemed to have had such effect on and from 1 April 1987 and shall be construed accordingly.
     
-    Section 64B: inserted, on 10 April 1990, by [section 34][610] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 64B: inserted, on 10 April 1990, by [section 34][617] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 64B(2)(b)(iv): substituted, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
 ##### 65 Amendments and savings
     
-*   (1) The enactments specified in [Schedule 2][264] are hereby amended in the manner indicated in that schedule.
+*   (1) The enactments specified in [Schedule 2][266] are hereby amended in the manner indicated in that schedule.
     
     (2) The Governor-General may, by Order in Council, amend any local or private Act so as to achieve all or any of the following ends:
         
@@ -6661,31 +6727,31 @@ Transitional, consequential amendments, and savings
     
     *   (c) the substitution of references to the Department of Conservation for references to the Ministry of Agriculture and Fisheries, the Department of Agriculture, the New Zealand Forest Service, the Department of Internal Affairs, the Marine Department, the Ministry of Transport, the Transport Department, or the Department within the meaning of section 2 of the Survey Act 1986\.
     
-    (3) The regulations specified in [Schedule 3][265] are hereby amended in the manner indicated in that schedule.
+    (3) The regulations specified in [Schedule 3][267] are hereby amended in the manner indicated in that schedule.
     
-    (4) The regulations specified in [Schedule 3][265] may be amended or revoked as if the amendments specified in that schedule had been effected by regulation and not by this Act.
+    (4) The regulations specified in [Schedule 3][267] may be amended or revoked as if the amendments specified in that schedule had been effected by regulation and not by this Act.
     
-    (5) The [State Forest Parks and Forest Recreation Regulations 1979][611] are hereby deemed to have been made under [section 48][231], and may be amended or revoked accordingly.
+    (5) The [State Forest Parks and Forest Recreation Regulations 1979][618] are hereby deemed to have been made under [section 48][233], and may be amended or revoked accordingly.
     
-    (6) After the commencement of this Act, the [Titi (Muttonbird) Islands Regulations 1978][612] shall have effect as if made under this Act, and may be amended or revoked accordingly.
+    (6) After the commencement of this Act, the [Titi (Muttonbird) Islands Regulations 1978][619] shall have effect as if made under this Act, and may be amended or revoked accordingly.
     
     (7) After the commencement of this Act, every reference in---
         
-    *   (a) any regulation, order, Proclamation, notice, rule, notification, certificate, agreement, deed, instrument, application, licence, authority, permit or other document whatsoever made, given, issued, granted, or entered into pursuant to, by, or under the [Wildlife Act 1953][277] or any former corresponding enactment; or
+    *   (a) any regulation, order, Proclamation, notice, rule, notification, certificate, agreement, deed, instrument, application, licence, authority, permit or other document whatsoever made, given, issued, granted, or entered into pursuant to, by, or under the [Wildlife Act 1953][279] or any former corresponding enactment; or
     
     *   (b) any protection notice issued pursuant to section 36 of the Historic Places Act 1980; or
     
-    *   (c) any District Anglers Notice given pursuant to [section 71][458] of the Fisheries Act 1983;---
+    *   (c) any District Anglers Notice given pursuant to [section 71][465] of the Fisheries Act 1983;---
     
     to the Minister of, Secretary for, or Department of Internal Affairs shall be read as a reference to the Minister, Director-General, or, as the case may be, Department of Conservation.
     
-    (8) After the commencement of this Act, references in any bylaws made under [section 56][613] of the National Parks Act 1980 to the Department of Lands and Survey or to the Commissioner of Crown Lands shall be read as references to the Department of Conservation or to the Director-General of Conservation, respectively.
+    (8) After the commencement of this Act, references in any bylaws made under [section 56][620] of the National Parks Act 1980 to the Department of Lands and Survey or to the Commissioner of Crown Lands shall be read as references to the Department of Conservation or to the Director-General of Conservation, respectively.
     
     (9), (10) _Amendment(s) incorporated in the order(s)_.
     
     (11) The orders specified in subsections (9) and (10) may be amended or revoked as if the amendments effected by those subsections had been effected by Order in Council made under section 165 of the Harbours Act 1950\.
     
-    (12) The following provisions shall apply in respect of every management plan approved under any former Act in relation to the management of any area that, on or after the commencement of this Act, became or becomes a conservation area or an area subject to [section 61][256] or [section 62][257]:
+    (12) The following provisions shall apply in respect of every management plan approved under any former Act in relation to the management of any area that, on or after the commencement of this Act, became or becomes a conservation area or an area subject to [section 61][258] or [section 62][259]:
         
     *   (a) except to the extent that it is inconsistent with this Act, every such plan shall have effect as if it were a conservation management plan:
     
@@ -6715,9 +6781,9 @@ Transitional, consequential amendments, and savings
     
     Section 65(2)(c): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
     
-    Section 65(5): substituted, on 10 April 1990, by [section 35(1)][614] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 65(5): substituted, on 10 April 1990, by [section 35(1)][621] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 65(12): substituted, on 10 April 1990, by[section 35(2)][614] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 65(12): substituted, on 10 April 1990, by[section 35(2)][621] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 65(14): added (with effect on 1 April 1987), on 2 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
 
@@ -6728,71 +6794,71 @@ Other enactments administered by Department
 
 [s 6][9]
 
-[Canterbury Provincial Buildings Vesting Act 1928][615]
+[Canterbury Provincial Buildings Vesting Act 1928][622]
 
-[Harbour Boards Dry Land Endowment Revesting Act 1991][616]
+[Harbour Boards Dry Land Endowment Revesting Act 1991][623]
 
-[Kapiti Island Public Reserve Act 1897][617]
+[Kapiti Island Public Reserve Act 1897][624]
 
-[Lake Wanaka Preservation Act 1973][618]
+[Lake Wanaka Preservation Act 1973][625]
 
-[Marine Mammals Protection Act 1978][290]
+[Marine Mammals Protection Act 1978][292]
 
-[Marine Reserves Act 1971][311]
+[Marine Reserves Act 1971][314]
 
-[Mount Egmont Vesting Act 1978][619]
+[Mount Egmont Vesting Act 1978][626]
 
-[National Parks Act 1980][285]
+[National Parks Act 1980][287]
 
-[Native Plants Protection Act 1934][620]
+[Native Plants Protection Act 1934][627]
 
-[Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998][621]
+[Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998][628]
 
-[Queen Elizabeth the Second National Trust Act 1977][622]
+[Queen Elizabeth the Second National Trust Act 1977][629]
 
-[Queenstown Reserves Vesting and Empowering Act 1971][623]
+[Queenstown Reserves Vesting and Empowering Act 1971][630]
 
-[Reserves Act 1977][312]
+[Reserves Act 1977][315]
 
-[Stewart Island Reserves Empowering Act 1976][624]
+[Stewart Island Reserves Empowering Act 1976][631]
 
-[Sugar Loaf Islands Marine Protected Area Act 1991][496]
+[Sugar Loaf Islands Marine Protected Area Act 1991][503]
 
-[Trade in Endangered Species Act 1989][510]
+[Trade in Endangered Species Act 1989][517]
 
-[Tutae-Ka-Wetoweto Forest Act 2001][625]
+[Tutae-Ka-Wetoweto Forest Act 2001][632]
 
-[Waitangi Endowment Act 1932--33][497]
+[Waitangi Endowment Act 1932--33][504]
 
-[Waitangi National Trust Board Act 1932][626]
+[Waitangi National Trust Board Act 1932][633]
 
-[Waitutu Block Settlement Act 1997][627]
+[Waitutu Block Settlement Act 1997][634]
 
-[Wild Animal Control Act 1977][313]
+[Wild Animal Control Act 1977][316]
 
-[Wildlife Act 1953][277]
+[Wildlife Act 1953][279]
     
-*   Schedule 1: amended, on 7 July 2010, by [section 7][628] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
-*   Schedule 1: amended, on 30 September 2008, by [section 82][306] of the Walking Access Act 2008 (2008 No 101).
-*   Schedule 1: amended, on 25 November 2004, by [section 103(1)][426] of the Foreshore and Seabed Act 2004 (2004 No 93).
-*   Schedule 1: amended, on 22 October 2003, by [section 4][629] of the Conservation Amendment Act 2003 (2003 No 65).
-*   Schedule 1: amended, on 9 October 2001, by [section 14][630] of the Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48).
-*   Schedule 1: amended, on 1 October 2000, by [section 12][631] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
-*   Schedule 1: amended, on 1 June 1998, by [section 15][632] of the Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16).
-*   Schedule 1: amended, on 21 December 1997, by [section 18][633] of the Waitutu Block Settlement Act 1997 (1997 No 84).
-*   Schedule 1: amended, on 1 July 1993, by [section 118(2)][301] of the Historic Places Act 1993 (1993 No 38).
-*   Schedule 1: amended, on 3 October 1991, by [section 14][634] of the Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104).
-*   Schedule 1: amended, on 21 March 1991, by [section 12][635] of the Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8).
-*   Schedule 1: amended, on 19 July 1990, by [section 38][636] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1: amended, on 10 April 1990, by [section 31(1)][637] of the New Zealand Walkways Act 1990 (1990 No 32).
-*   Schedule 1: amended, on 1 June 1989, by [section 55][638] of the Trade in Endangered Species Act 1989 (1989 No 18).
+*   Schedule 1: amended, on 7 July 2010, by [section 7][635] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
+*   Schedule 1: amended, on 30 September 2008, by [section 82][309] of the Walking Access Act 2008 (2008 No 101).
+*   Schedule 1: amended, on 25 November 2004, by [section 103(1)][433] of the Foreshore and Seabed Act 2004 (2004 No 93).
+*   Schedule 1: amended, on 22 October 2003, by [section 4][636] of the Conservation Amendment Act 2003 (2003 No 65).
+*   Schedule 1: amended, on 9 October 2001, by [section 14][637] of the Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48).
+*   Schedule 1: amended, on 1 October 2000, by [section 12][638] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+*   Schedule 1: amended, on 1 June 1998, by [section 15][639] of the Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16).
+*   Schedule 1: amended, on 21 December 1997, by [section 18][640] of the Waitutu Block Settlement Act 1997 (1997 No 84).
+*   Schedule 1: amended, on 1 July 1993, by [section 118(2)][303] of the Historic Places Act 1993 (1993 No 38).
+*   Schedule 1: amended, on 3 October 1991, by [section 14][641] of the Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104).
+*   Schedule 1: amended, on 21 March 1991, by [section 12][642] of the Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8).
+*   Schedule 1: amended, on 19 July 1990, by [section 38][643] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Schedule 1: amended, on 10 April 1990, by [section 31(1)][644] of the New Zealand Walkways Act 1990 (1990 No 32).
+*   Schedule 1: amended, on 1 June 1989, by [section 55][645] of the Trade in Endangered Species Act 1989 (1989 No 18).
 
 ---
 
 ## Schedule 2  
 Enactments amended
 
-[s 65(1)][262]
+[s 65(1)][264]
 
 ##### Agricultural Pests Destruction Act 1967 (1967 No 147)
 
@@ -6804,7 +6870,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Canterbury Provincial Buildings Vesting Act 1928 (1928 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][639]._
+_Amendment(s) incorporated in the [Act(s)][646]._
 
 ##### Coal Mines Act 1979 (1979 No 21)
 
@@ -6812,19 +6878,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fencing Act 1978 (1978 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][640]._
+_Amendment(s) incorporated in the [Act(s)][647]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][641]._
+_Amendment(s) incorporated in the [Act(s)][648]._
 
 ##### Fisheries Act 1983 (1983 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][642]._
+_Amendment(s) incorporated in the [Act(s)][649]._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][643]._
+_Amendment(s) incorporated in the [Act(s)][650]._
 
 ##### Harbours Act 1950 (1950 No 334)
 
@@ -6840,19 +6906,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Hunter Gift for the Settlement of Discharged Soldiers Act 1921 (1921 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][644]._
+_Amendment(s) incorporated in the [Act(s)][651]._
 
 ##### Kapiti Island Public Reserve Act 1897 (1897 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][645]._
+_Amendment(s) incorporated in the [Act(s)][652]._
 
 ##### Lake Wanaka Preservation Act 1973 (1973 No 107)
 
-_Amendment(s) incorporated in the [Act(s)][646]._
+_Amendment(s) incorporated in the [Act(s)][653]._
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][647]._
+_Amendment(s) incorporated in the [Act(s)][654]._
 
 ##### Land Settlement Promotion and Land Acquisition Act 1952 (1952 No 34)
 
@@ -6860,19 +6926,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Land Transfer Act 1952 (1952 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][648]._
+_Amendment(s) incorporated in the [Act(s)][655]._
 
 ##### Litter Act 1979 (1979 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][649]._
+_Amendment(s) incorporated in the [Act(s)][656]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][650]._
+_Amendment(s) incorporated in the [Act(s)][657]._
 
 ##### Manapouri-Te Anau Development Act 1963 (1963 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][349]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ##### Maori Affairs Act 1953 (1953 No 94)
 
@@ -6880,19 +6946,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Maori Housing Amendment Act 1938 (1938 No 17)
 
-_Amendment(s) incorporated in the [Act(s)][651]._
+_Amendment(s) incorporated in the [Act(s)][658]._
 
 ##### Maori Land Amendment and Maori Land Claims Adjustment Act 1926 (1926 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][292]._
+_Amendment(s) incorporated in the [Act(s)][294]._
 
 ##### Maori Purposes Act 1960 (1960 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][652]._
+_Amendment(s) incorporated in the [Act(s)][659]._
 
 ##### Maori Reserved Land Act 1955 (1955 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][653]._
+_Amendment(s) incorporated in the [Act(s)][660]._
 
 ##### Marine Farming Act 1971 (1971 No 29)
 
@@ -6900,11 +6966,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][654]._
+_Amendment(s) incorporated in the [Act(s)][661]._
 
 ##### Marine Reserves Act 1971 (1971 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][655]._
+_Amendment(s) incorporated in the [Act(s)][662]._
 
 ##### Mining Act 1971 (1971 No 25)
 
@@ -6912,7 +6978,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Mining Tenures Registration Act 1962 (1962 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][656]._
+_Amendment(s) incorporated in the [Act(s)][663]._
 
 ##### Ministry of Agriculture and Fisheries Act 1953 (1953 No 7)
 
@@ -6928,11 +6994,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Mount Egmont Vesting Act 1978 (1978 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][657]._
+_Amendment(s) incorporated in the [Act(s)][664]._
 
 ##### National Parks Act 1980 (1980 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][658]._
+_Amendment(s) incorporated in the [Act(s)][665]._
 
 ##### Nature Conservation Council Act 1962 (1962 No 24)
 
@@ -6952,19 +7018,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][659]._
+_Amendment(s) incorporated in the [Act(s)][666]._
 
 ##### Queen Elizabeth the Second National Trust Act 1977 (1977 No 102)
 
-_Amendment(s) incorporated in the [Act(s)][660]._
+_Amendment(s) incorporated in the [Act(s)][667]._
 
 ##### Queenstown Reserves Vesting and Empowering Act 1971 (1971 No 14 (L))
 
-_Amendment(s) incorporated in the [Act(s)][661]._
+_Amendment(s) incorporated in the [Act(s)][668]._
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][662]._
+_Amendment(s) incorporated in the [Act(s)][669]._
 
 ##### Reserves and Other Lands Disposal Act 1954 (1954 No 58)
 
@@ -6972,15 +7038,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Reserves and Other Lands Disposal Act 1956 (1956 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][663]._
+_Amendment(s) incorporated in the [Act(s)][670]._
 
 ##### Reserves and Other Lands Disposal Act 1971 (1971 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][664]._
+_Amendment(s) incorporated in the [Act(s)][671]._
 
 ##### Rotorua Town Lands Act 1920 (1920 No 57)
 
-_Amendment(s) incorporated in the [Act(s)][665]._
+_Amendment(s) incorporated in the [Act(s)][672]._
 
 ##### Sand Drift Act 1908 (1908 No 169)
 
@@ -6988,7 +7054,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][666]._
+_Amendment(s) incorporated in the [Act(s)][673]._
 
 ##### Town and Country Planning Act 1977 (1977 No 121)
 
@@ -6996,7 +7062,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Waitangi Endowment Act 1932--33 (1932--33 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][667]._
+_Amendment(s) incorporated in the [Act(s)][674]._
 
 ##### Water and Soil Conservation Act 1967 (1967 No 135)
 
@@ -7004,22 +7070,22 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][668]._
+_Amendment(s) incorporated in the [Act(s)][675]._
 
 ##### Wildlife Act 1953 (1953 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][279]._
+_Amendment(s) incorporated in the [Act(s)][281]._
 
 ---
 
 ## Schedule 3  
 Consequential amendments to regulations
 
-[s 65][262]
+[s 65][264]
 
 ##### Buller River Mouth Wildlife Refuge Order 1973 (SR 1973/272)
 
-_Amendment(s) incorporated in the [order(s)][669]_.
+_Amendment(s) incorporated in the [order(s)][676]_.
 
 ##### Central North Island Wildlife Conservancy Council Regulations 1980 (SR 1980/48)
 
@@ -7027,7 +7093,7 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Chatham Islands (Wildlife) Notice 1977 (SR 1977/106)
 
-_Amendment(s) incorporated in the [notice(s)][670]_.
+_Amendment(s) incorporated in the [notice(s)][677]_.
 
 ##### Council of North Island Acclimatisation Societies Regulations 1959 (SR 1959/73)
 
@@ -7039,27 +7105,27 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Freshwater Fish Farming Regulations 1983 (SR 1983/278)
 
-_Amendment(s) incorporated in the [regulations][671]_.
+_Amendment(s) incorporated in the [regulations][678]_.
 
 ##### Freshwater Fisheries Regulations 1983 (SR 1983/277)
 
-_Amendment(s) incorporated in the [regulations][672]_.
+_Amendment(s) incorporated in the [regulations][679]_.
 
 ##### Hart's Creek Wildlife Refuge Order 1973 (SR 1973/273)
 
-_Amendment(s) incorporated in the [order(s)][673]_.
+_Amendment(s) incorporated in the [order(s)][680]_.
 
 ##### Hawksbury Lagoon Wildlife Refuge Order 1974 (SR 1974/28)
 
-_Amendment(s) incorporated in the [order(s)][674]_.
+_Amendment(s) incorporated in the [order(s)][681]_.
 
 ##### Lake Grasmere Wildlife Refuge Order 1968 (SR 1968/145)
 
-_Amendment(s) incorporated in the [order(s)][675]_.
+_Amendment(s) incorporated in the [order(s)][682]_.
 
 ##### Lake Rotomahana Wildlife Refuge Order 1967 (SR 1967/198)
 
-_Amendment(s) incorporated in the [order(s)][676]_.
+_Amendment(s) incorporated in the [order(s)][683]_.
 
 ##### Lake Rotorua (Motutara) Wildlife Refuge Order 1967 (SR 1967/53)
 
@@ -7067,15 +7133,15 @@ _Amendment(s) incorporated in the order(s)_.
 
 ##### Lakes Orakai, Tutira, and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274)
 
-_Amendment(s) incorporated in the [order(s)][677]_.
+_Amendment(s) incorporated in the [order(s)][684]_.
 
 ##### Land Act Regulations 1949 (SR 1949/37)
 
-_Amendment(s) incorporated in the [regulations][678]_.
+_Amendment(s) incorporated in the [regulations][685]_.
 
 ##### Little Shag Notice 1955 (SR 1955/181)
 
-_Amendment(s) incorporated in the [notice(s)][679]_.
+_Amendment(s) incorporated in the [notice(s)][686]_.
 
 ##### Taupo Fishing Regulations 1984 (SR 1984/347)
 
@@ -7083,39 +7149,39 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Titi (Muttonbird) Island Regulations 1978 (SR 1978/59)
 
-_Amendment(s) incorporated in the [regulations][612]_.
+_Amendment(s) incorporated in the [regulations][619]_.
 
 ##### Wildlife Regulations 1955 (SR 1962/199)
 
-_Amendment(s) incorporated in the [regulations][680]_.
+_Amendment(s) incorporated in the [regulations][687]_.
 
 ##### Wildlife Sanctuary (Aldermen Islands) Order 1965 (SR 1965/81)
 
-_Amendment(s) incorporated in the [order(s)][681]_.
+_Amendment(s) incorporated in the [order(s)][688]_.
 
 ##### Wildlife Sanctuary (the Brothers Islands) Order 1970 (SR 1970/87)
 
-_Amendment(s) incorporated in the [order(s)][682]_.
+_Amendment(s) incorporated in the [order(s)][689]_.
 
 ##### Wildlife Sanctuary (Gannet Island) Order 1980 (SR 1980/90)
 
-_Amendment(s) incorporated in the [order(s)][683]_.
+_Amendment(s) incorporated in the [order(s)][690]_.
 
 ##### Wildlife Sanctuary (Karewa Island) Order 1965 (SR 1965/182)
 
-_Amendment(s) incorporated in the [order(s)][684]_.
+_Amendment(s) incorporated in the [order(s)][691]_.
 
 ##### Wildlife Sanctuary (Mokohinau Islands) Order 1965 (SR 1965/183)
 
-_Amendment(s) incorporated in the [order(s)][685]_.
+_Amendment(s) incorporated in the [order(s)][692]_.
 
 ##### Wildlife Sanctuary (Motunau Island) Order 1969 (SR 1969/165)
 
-_Amendment(s) incorporated in the [order(s)][686]_.
+_Amendment(s) incorporated in the [order(s)][693]_.
 
 ##### Wildlife Sanctuary (Otamatou Rocks) Order 1965 (SR 1965/184)
 
-_Amendment(s) incorporated in the [order(s)][687]_.
+_Amendment(s) incorporated in the [order(s)][694]_.
 
 ##### Wildlife Sanctuary (Stephens Island) Order 1966 (SR 1966/63)
 
@@ -7123,33 +7189,33 @@ _Amendment(s) incorporated in the order(s)_.
 
 ##### Wildlife Sanctuary/Sulphur Point, Lake Rotorua Order 1964 (SR 1964/201)
 
-_Amendment(s) incorporated in the [order(s)][688]_.
+_Amendment(s) incorporated in the [order(s)][695]_.
 
 ##### Wildlife Sanctuary (Taiaroa Head Foreshore) Order 1979 (SR 1979/146)
 
-_Amendment(s) incorporated in the [order(s)][689]_.
+_Amendment(s) incorporated in the [order(s)][696]_.
 
 ##### Wildlife Sanctuary (Trio Islands) Order 1965 (SR 1965/1985)
 
-_Amendment(s) incorporated in the [order(s)][690]_.
+_Amendment(s) incorporated in the [order(s)][697]_.
 
 ##### Wildlife Sanctuary (Whangamata Islands) Order 1976 (SR 1976/301)
 
-_Amendment(s) incorporated in the [order(s)][691]_.
+_Amendment(s) incorporated in the [order(s)][698]_.
 
 ##### Wildlife Sanctuary (White Rocks, Duffers Reef, and Sentinel Rock) Order 1966 (SR 1966/131)
 
-_Amendment(s) incorporated in the [order(s)][692]_.
+_Amendment(s) incorporated in the [order(s)][699]_.
 
 ---
 
 ## Schedule 4  
 Land that may be protected area
 
-[s 46][229]
+[s 46][231]
 
-*   Schedule 4: added, on 13 March 1996, by [section 46][693] of the Conservation Amendment Act 1996 (1996 No 1).
-*   Schedule 4 heading: substituted, on 21 October 2000, by [section 22][382] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
+*   Schedule 4: added, on 13 March 1996, by [section 46][700] of the Conservation Amendment Act 1996 (1996 No 1).
+*   Schedule 4 heading: substituted, on 21 October 2000, by [section 22][386] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 **Land** **Category A or B** **Proposed purpose** **Boundary documents**
 
@@ -7296,7 +7362,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Conservation Amendment Act 2010][694].
+*   This Act is the [Conservation Amendment Act 2010][701].
 
 ##### 2 Commencement
     
@@ -7338,7 +7404,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Search and Surveillance Act 2012][695].
+*   This Act is the [Search and Surveillance Act 2012][702].
 
 ##### 2 Commencement
     
@@ -7350,7 +7416,7 @@ Commencementsee section 2
     
     (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
     
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][696] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
+    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][703] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
 
 ## Part 1  
 General provisions
@@ -7414,23 +7480,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Conservation Act 1987\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Conservation Act 1987\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][697] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][704] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][698] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][705] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][699] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][706] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][700] and [17E][701] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][707] and [17E][708] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -7461,89 +7527,91 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Conservation Amendment Act 2012][702] (2012 No 61)
+*   [Conservation Amendment Act 2013][709] (2013 No 15)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 212][532]
+    [Conservation Amendment Act 2012][710] (2012 No 61)
     
-    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [sections 127(2)][353], [128][297]
+    Search and Surveillance Act 2012 (2012 No 24): [section 212][539]
     
-    [Conservation Amendment Act (No 2) 2010][703] (2010 No 54)
+    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [sections 127(2)][356], [128][299]
     
-    [Conservation Amendment Act 2010][694] (2010 No 14)
+    [Conservation Amendment Act (No 2) 2010][711] (2010 No 54)
     
-    Walking Access Act 2008 (2008 No 101): [section 82][306]
+    [Conservation Amendment Act 2010][701] (2010 No 14)
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][447], [130(1)][511]
+    Walking Access Act 2008 (2008 No 101): [section 82][309]
     
-    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][399]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][454], [130(1)][518]
     
-    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][542]
+    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][406]
     
-    [Conservation Amendment Act 2005][704] (2005 No 47)
+    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][549]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][445]
+    [Conservation Amendment Act 2005][712] (2005 No 47)
     
-    [Conservation Amendment Act 2004][705] (2004 No 105)
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][452]
     
-    Foreshore and Seabed Act 2004 (2004 No 93): [section 103(1)][426]
+    [Conservation Amendment Act 2004][713] (2004 No 105)
     
-    [Conservation Amendment Act 2003][706] (2003 No 65)
+    Foreshore and Seabed Act 2004 (2004 No 93): [section 103(1)][433]
     
-    Gambling Act 2003 (2003 No 51): [section 374][304]
+    [Conservation Amendment Act 2003][714] (2003 No 65)
     
-    Local Government Act 2002 (2002 No 84): [section 262][368]
+    Gambling Act 2003 (2003 No 51): [section 374][307]
     
-    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][300]
+    Local Government Act 2002 (2002 No 84): [section 262][372]
     
-    Cadastral Survey Act 2002 (2002 No 12): [section 68(2)][573]
+    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][302]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][321]
+    Cadastral Survey Act 2002 (2002 No 12): [section 68(2)][580]
     
-    [Conservation Amendment Act 2001][707] (2001 No 59)
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][324]
     
-    Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48): [section 14][630]
+    [Conservation Amendment Act 2001][715] (2001 No 59)
     
-    Public Audit Act 2001 (2001 No 10): [section 53][454]
+    Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48): [section 14][637]
     
-    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][424]
+    Public Audit Act 2001 (2001 No 10): [section 53][461]
     
-    [Conservation Amendment Act 2000][708] (2000 No 56)
+    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][431]
     
-    Forests (West Coast Accord) Act 2000 (2000 No 45): [section 22][382]
+    [Conservation Amendment Act 2000][716] (2000 No 56)
     
-    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][631]
+    Forests (West Coast Accord) Act 2000 (2000 No 45): [section 22][386]
     
-    Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 49][370]
+    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][638]
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][303]
+    Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 49][374]
     
-    [Conservation Amendment Act 1999][709] (1999 No 30)
+    Animal Welfare Act 1999 (1999 No 142): [section 194][305]
     
-    Land Transport Act 1998 (1998 No 110): [section 215(1)][305]
+    [Conservation Amendment Act 1999][717] (1999 No 30)
     
-    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [sections 272(1)][317], [273(1)][339], [274(1), (2)][350], [305(1), (2)][472]
+    Land Transport Act 1998 (1998 No 110): [section 215(1)][308]
     
-    Electricity Industry Reform Act 1998 (1998 No 88): [section 100][422]
+    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [sections 272(1)][320], [273(1)][342], [274(1), (2)][353], [305(1), (2)][479]
     
-    [Conservation Amendment Act 1998][710] (1998 No 33)
+    Electricity Industry Reform Act 1998 (1998 No 88): [section 100][429]
     
-    Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16): [section 15][632]
+    [Conservation Amendment Act 1998][718] (1998 No 33)
     
-    Waitutu Block Settlement Act 1997 (1997 No 84): [section 18][633]
+    Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16): [section 15][639]
+    
+    Waitutu Block Settlement Act 1997 (1997 No 84): [section 18][640]
     
     Conservation Amendment Act (No 3) 1996 (1996 No 116)
     
-    Arbitration Act 1996 (1996 No 99): [section 18][433]
+    Arbitration Act 1996 (1996 No 99): [section 18][440]
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][492]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][499]
     
     Conservation Amendment Act (No 2) 1996 (1996 No 14)
     
-    [Conservation Amendment Act 1996][711] (1996 No 1)
+    [Conservation Amendment Act 1996][719] (1996 No 1)
     
-    Waikato Raupatu Claims Settlement Act 1995 (1995 No 58): [section 25][337]
+    Waikato Raupatu Claims Settlement Act 1995 (1995 No 58): [section 25][340]
     
     Conservation Amendment Act 1994 (1994 No 108)
     
@@ -7551,45 +7619,45 @@ Amendments, repeals, and miscellaneous provisions
     
     Wildlife Amendment Act 1993 (1993 No 39): section 6
     
-    Historic Places Act 1993 (1993 No 38): [section 118(1), (2)][301]
+    Historic Places Act 1993 (1993 No 38): [section 118(1), (2)][303]
     
     Conservation Amendment Act 1993 (1993 No 9)
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][302]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][304]
     
-    Electricity Act 1992 (1992 No 122): [section 173(2)][550]
+    Electricity Act 1992 (1992 No 122): [section 173(2)][557]
     
-    Crown Research Institutes Act 1992 (1992 No 47): [section 46(1)][425]
+    Crown Research Institutes Act 1992 (1992 No 47): [section 46(1)][432]
     
-    Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104): [section 14][634]
+    Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104): [section 14][641]
     
-    Resource Management Act 1991 (1991 No 69): [section 362][408]
+    Resource Management Act 1991 (1991 No 69): [section 362][415]
     
-    Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8): [section 12][635]
+    Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8): [section 12][642]
     
     Conservation Amendment Act 1990 (1990 No 106)
     
-    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][295]
+    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][297]
     
-    [Conservation Act Commencement Order (No 2) 1990][331] (SR 1990/169)
+    [Conservation Act Commencement Order (No 2) 1990][334] (SR 1990/169)
     
-    [Conservation Act Commencement Order 1990][310] (SR 1990/115)
+    [Conservation Act Commencement Order 1990][313] (SR 1990/115)
     
-    New Zealand Walkways Act 1990 (1990 No 32): [section 31(1)][637]
+    New Zealand Walkways Act 1990 (1990 No 32): [section 31(1)][644]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [Part 1][712]
+    Conservation Law Reform Act 1990 (1990 No 31): [Part 1][720]
     
-    Crown Forest Assets Act 1989 (1989 No 99): [section 44][354]
+    Crown Forest Assets Act 1989 (1989 No 99): [section 44][357]
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][523], [86(1)][524]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][530], [86(1)][531]
     
-    Trade in Endangered Species Act 1989 (1989 No 18): [section 55][638]
+    Trade in Endangered Species Act 1989 (1989 No 18): [section 55][645]
     
     Conservation Amendment Act (No 2) 1988 (1988 No 237)
     
     Conservation Amendment Act 1988 (1988 No 131)
     
-    State Sector Act 1988 (1988 No 20): [section 90(a)][555]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][562]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
 
@@ -7687,624 +7755,632 @@ Amendments, repeals, and miscellaneous provisions
 [89]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104677
 [90]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104679
 [91]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104681
-[92]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104682
-[93]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104683
-[94]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104684
-[95]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104688
-[96]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104689
-[97]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104690
-[98]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104692
-[99]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104694
-[100]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104697
-[101]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104699
-[102]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104910
-[103]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104914
-[104]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104917
-[105]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104923
-[106]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104926
-[107]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104928
-[108]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104933
-[109]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104935
-[110]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104937
-[111]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104939
-[112]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104941
-[113]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104944
-[114]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104947
-[115]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104953
-[116]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104955
-[117]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104956
-[118]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104957
-[119]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104964
-[120]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104966
-[121]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104967
-[122]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104969
-[123]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104970
-[124]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104974
-[125]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104978
-[126]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104980
-[127]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104982
-[128]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104984
-[129]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104989
-[130]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104992
-[131]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104995
-[132]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104998
-[133]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105700
-[134]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105705
-[135]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105709
-[136]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105711
-[137]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105713
-[138]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105715
-[139]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105717
-[140]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105718
-[141]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105720
-[142]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105722
-[143]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105723
-[144]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105726
-[145]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105734
-[146]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105740
-[147]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105744
-[148]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105746
-[149]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105749
-[150]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105751
-[151]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105756
-[152]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105760
-[153]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105763
-[154]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105765
-[155]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105769
-[156]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105771
-[157]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105773
-[158]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105776
-[159]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105778
-[160]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105781
-[161]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105783
-[162]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105791
-[163]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105792
-[164]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105795
-[165]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105796
-[166]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105798
-[167]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106002
-[168]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106004
-[169]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106010
-[170]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106016
-[171]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106019
-[172]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106024
-[173]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106025
-[174]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106028
-[175]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106031
-[176]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106034
-[177]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106041
-[178]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106043
-[179]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106047
-[180]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106049
-[181]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106051
-[182]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106053
-[183]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106055
-[184]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106057
-[185]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106059
-[186]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106061
-[187]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106063
-[188]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106065
-[189]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106067
-[190]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106069
-[191]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106071
-[192]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106073
-[193]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106075
-[194]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106077
-[195]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106079
-[196]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106081
-[197]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106083
-[198]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106085
-[199]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106087
-[200]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106090
-[201]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106092
-[202]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106094
-[203]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106096
-[204]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106098
-[205]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106600
-[206]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106602
-[207]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106603
-[208]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106607
-[209]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106610
-[210]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106612
-[211]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106613
-[212]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106622
-[213]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106626
-[214]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106628
-[215]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106631
-[216]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106632
-[217]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106633
-[218]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106637
-[219]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106639
-[220]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106641
-[221]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106658
-[222]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106665
-[223]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106670
-[224]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106671
-[225]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106673
-[226]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106676
-[227]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106679
-[228]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106680
-[229]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106681
-[230]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106688
-[231]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106689
-[232]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM4717423
-[233]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106694
-[234]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106905
-[235]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106907
-[236]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106909
-[237]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106911
-[238]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106913
-[239]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106915
-[240]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106916
-[241]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106918
-[242]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106929
-[243]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106931
-[244]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106933
-[245]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106934
-[246]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106938
-[247]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106939
-[248]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106944
-[249]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106947
-[250]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106949
-[251]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106953
-[252]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106956
-[253]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106961
-[254]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106963
-[255]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106965
-[256]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106966
-[257]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106977
-[258]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106981
-[259]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106983
-[260]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106990
-[261]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106992
-[262]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106995
-[263]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM107200
-[264]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM107215
-[265]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM107282
-[266]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM108013
-[267]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM214686
-[268]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213146
-[269]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277277
-[270]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM398137
-[271]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444677
-[272]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25304
-[273]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM230264
-[274]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM250585
-[275]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69821
-[276]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM255625
-[277]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM276813
-[278]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277347
-[279]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM276819
-[280]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM300510
-[281]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36926
-[282]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372890
-[283]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM289881
-[284]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM49663
-[285]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36962
-[286]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374409
-[287]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277090
-[288]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277093
-[289]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25159
-[290]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25110
-[291]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM97376
-[292]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM202952
-[293]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM433612
-[294]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16957
-[295]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM218728
-[296]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207919
-[297]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213476
-[298]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM112103
-[299]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341436
-[300]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM121634
-[301]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM301645
-[302]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM293026
-[303]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM51965
-[304]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM210735
-[305]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM435656
-[306]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1244216
-[307]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM435834
-[308]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207989
-[309]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207990
-[310]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM138145
-[311]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397837
-[312]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444304
-[313]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16622
-[314]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37931
-[315]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM117232
-[316]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37929
-[317]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430142
-[318]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23940
-[319]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37940
-[320]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37942
-[321]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM122579
-[322]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23941
-[323]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37944
-[324]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37946
-[325]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37948
-[326]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37950
-[327]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM264970
-[328]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM264952
-[329]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37952
-[330]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37958
-[331]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM138992
-[332]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37960
-[333]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM370508
-[334]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM429208
-[335]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM129109
-[336]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37966
-[337]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM370581
-[338]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23942
-[339]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430143
-[340]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37968
-[341]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23943
-[342]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37970
-[343]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37972
-[344]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37974
-[345]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37977
-[346]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37979
-[347]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM117217
-[348]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM348211
-[349]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM348242
-[350]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430144
-[351]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM191774
-[352]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341437
-[353]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3597422
-[354]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM192380
-[355]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208319
-[356]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208330
-[357]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208320
-[358]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372895
-[359]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM45426
-[360]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46073
-[361]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208325
-[362]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341438
-[363]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46055
-[364]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208326
-[365]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341439
-[366]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372891
-[367]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM170872
-[368]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM174088
-[369]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM52557
-[370]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM53193
-[371]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372892
-[372]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341440
-[373]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372893
-[374]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213420
-[375]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216551
-[376]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341441
-[377]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372894
-[378]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426405
-[379]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM242535
-[380]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM73833
-[381]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM73834
-[382]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM73848
-[383]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM231942
-[384]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM236786
-[385]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853107
-[386]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM242008
-[387]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853108
-[388]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM64784
-[389]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM296638
-[390]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853109
-[391]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444007
-[392]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM269031
-[393]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM271952
-[394]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM271957
-[395]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM270475
-[396]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM38239
-[397]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1065508
-[398]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1065509
-[399]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1065526
-[400]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341442
-[401]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208346
-[402]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444492
-[403]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9004
-[404]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444911
-[405]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444912
-[406]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9005
-[407]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM300599
-[408]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM239393
-[409]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372896
-[410]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208347
-[411]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98008
-[412]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM237255
-[413]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM264291
-[414]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444650
-[415]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM239322
-[416]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3597242
-[417]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213341
-[418]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM191768
-[419]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222630
-[420]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222636
-[421]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222683
-[422]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM428672
-[423]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372897
-[424]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21620
-[425]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM265666
-[426]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM320574
-[427]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372898
-[428]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372899
-[429]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373300
-[430]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373301
-[431]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373303
-[432]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM403276
-[433]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM405708
-[434]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222641
-[435]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222649
-[436]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222678
-[437]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM57654
-[438]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM57656
-[439]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM223137
-[440]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208362
-[441]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373302
-[442]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208363
-[443]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341443
-[444]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373304
-[445]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM328867
-[446]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341445
-[447]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1102349
-[448]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM129719
-[449]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM129733
-[450]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM162719
-[451]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM163544
-[452]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM88548
-[453]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341446
-[454]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM88957
-[455]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM330552
-[456]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341447
-[457]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373305
-[458]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69804
-[459]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373306
-[460]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373307
-[461]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341449
-[462]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373308
-[463]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373309
-[464]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040705
-[465]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341450
-[466]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373310
-[467]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66581
-[468]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397980
-[469]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69881
-[470]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM324335
-[471]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373311
-[472]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430218
-[473]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69790
-[474]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69793
-[475]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69799
-[476]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69802
-[477]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426406
-[478]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75778
-[479]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373315
-[480]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM347636
-[481]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373316
-[482]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373317
-[483]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69810
-[484]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373318
-[485]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341451
-[486]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69869
-[487]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426407
-[488]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69796
-[489]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373319
-[490]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75779
-[491]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM382730
-[492]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM385160
-[493]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040706
-[494]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM320254
-[495]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213102
-[496]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM228384
-[497]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213292
-[498]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444479
-[499]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444610
-[500]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444612
-[501]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444617
-[502]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444695
-[503]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277212
-[504]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277234
-[505]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277256
-[506]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374887
-[507]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374839
-[508]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374853
-[509]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM38266
-[510]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM145965
-[511]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1102383
-[512]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM375442
-[513]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM375173
-[514]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040707
-[515]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208719
-[516]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341454
-[517]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341455
-[518]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373321
-[519]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373322
-[520]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208721
-[521]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM160808
-[522]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM162983
-[523]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM162942
-[524]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM163175
-[525]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208725
-[526]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373323
-[527]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373324
-[528]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208726
-[529]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136770
-[530]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136781
-[531]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208728
-[532]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136944
-[533]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341453
-[534]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM310742
-[535]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM311191
-[536]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208729
-[537]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM70197
-[538]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208730
-[539]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM432115
-[540]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM163137
-[541]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208733
-[542]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM376605
-[543]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373325
-[544]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208734
-[545]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75782
-[546]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341456
-[547]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444012
-[548]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195534
-[549]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373326
-[550]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM284137
-[551]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341457
-[552]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM281432
-[553]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208738
-[554]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373327
-[555]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM130377
-[556]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373328
-[557]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208740
-[558]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208741
-[559]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM446000
-[560]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277803
-[561]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444464
-[562]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37984
-[563]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69819
-[564]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208742
-[565]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430983
-[566]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373329
-[567]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208743
-[568]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373330
-[569]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373331
-[570]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341458
-[571]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM141994
-[572]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM271641
-[573]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM142638
-[574]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98075
-[575]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256241
-[576]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373332
-[577]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373333
-[578]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373334
-[579]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251170
-[580]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251453
-[581]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251464
-[582]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251714
-[583]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251729
-[584]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251741
-[585]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251744
-[586]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251760
-[587]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251778
-[588]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251787
-[589]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252108
-[590]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252193
-[591]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252435
-[592]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252473
-[593]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252480
-[594]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252738
-[595]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252762
-[596]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252772
-[597]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252774
-[598]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM253201
-[599]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM253217
-[600]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM253242
-[601]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208744
-[602]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373335
-[603]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98437
-[604]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256239
-[605]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256280
-[606]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256286
-[607]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256292
-[608]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256294
-[609]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256400
-[610]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208745
-[611]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM67015
-[612]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM61920
-[613]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM38246
-[614]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208747
-[615]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM205653
-[616]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM248777
-[617]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134246
-[618]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411130
-[619]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21218
-[620]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216730
-[621]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425352
-[622]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8800
-[623]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69344
-[624]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM439124
-[625]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99419
-[626]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213209
-[627]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413913
-[628]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040709
-[629]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216552
-[630]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99452
-[631]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM67196
-[632]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425391
-[633]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413966
-[634]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM249317
-[635]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM228919
-[636]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208751
-[637]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM209954
-[638]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM147046
-[639]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM205662
-[640]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21842
-[641]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM433577
-[642]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66587
-[643]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM442952
-[644]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM193466
-[645]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134255
-[646]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411147
-[647]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251178
-[648]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM270447
-[649]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM33087
-[650]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM420156
-[651]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM224959
-[652]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM325980
-[653]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM290459
-[654]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25116
-[655]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397843
-[656]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM339694
-[657]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21226
-[658]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36968
-[659]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46307
-[660]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8806
-[661]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69350
-[662]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444310
-[663]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM304382
-[664]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM405348
-[665]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM192065
-[666]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98927
-[667]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213800
-[668]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16628
-[669]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41187
-[670]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM56874
-[671]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM93755
-[672]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM92491
-[673]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41501
-[674]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM42013
-[675]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM29205
-[676]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM26912
-[677]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41514
-[678]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4007
-[679]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9793
-[680]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8734
-[681]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22334
-[682]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM32152
-[683]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69238
-[684]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22361
-[685]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22387
-[686]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM31319
-[687]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22814
-[688]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM20712
-[689]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66659
-[690]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22844
-[691]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM53806
-[692]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM24415
-[693]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373336
-[694]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853102
-[695]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136500
-[696]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4686448
-[697]: http://www.pco.parliament.govt.nz/reprints/
-[698]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195439
-[699]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[700]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195468
-[701]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195470
-[702]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444000
-[703]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040700
-[704]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM347630
-[705]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM324329
-[706]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216545
-[707]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM110997
-[708]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75772
-[709]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23934
-[710]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426299
-[711]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372884
-[712]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207917
+[92]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM5223604
+[93]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM5223605
+[94]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104682
+[95]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104683
+[96]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104684
+[97]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104688
+[98]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104689
+[99]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104690
+[100]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104692
+[101]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104694
+[102]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104697
+[103]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104699
+[104]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104910
+[105]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104914
+[106]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104917
+[107]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104923
+[108]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104926
+[109]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104928
+[110]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104933
+[111]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104935
+[112]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104937
+[113]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104939
+[114]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104941
+[115]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104944
+[116]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104947
+[117]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104953
+[118]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104955
+[119]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104956
+[120]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104957
+[121]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104964
+[122]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104966
+[123]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104967
+[124]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104969
+[125]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104970
+[126]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104974
+[127]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104978
+[128]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104980
+[129]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104982
+[130]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104984
+[131]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104989
+[132]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104992
+[133]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104995
+[134]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM104998
+[135]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105700
+[136]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105705
+[137]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105709
+[138]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105711
+[139]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105713
+[140]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105715
+[141]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105717
+[142]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105718
+[143]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105720
+[144]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105722
+[145]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105723
+[146]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105726
+[147]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105734
+[148]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105740
+[149]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105744
+[150]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105746
+[151]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105749
+[152]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105751
+[153]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105756
+[154]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105760
+[155]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105763
+[156]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105765
+[157]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105769
+[158]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105771
+[159]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105773
+[160]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105776
+[161]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105778
+[162]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105781
+[163]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105783
+[164]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105791
+[165]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105792
+[166]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105795
+[167]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105796
+[168]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM105798
+[169]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106002
+[170]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106004
+[171]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106010
+[172]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106016
+[173]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106019
+[174]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106024
+[175]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106025
+[176]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106028
+[177]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106031
+[178]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106034
+[179]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106041
+[180]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106043
+[181]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106047
+[182]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106049
+[183]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106051
+[184]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106053
+[185]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106055
+[186]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106057
+[187]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106059
+[188]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106061
+[189]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106063
+[190]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106065
+[191]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106067
+[192]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106069
+[193]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106071
+[194]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106073
+[195]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106075
+[196]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106077
+[197]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106079
+[198]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106081
+[199]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106083
+[200]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106085
+[201]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106087
+[202]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106090
+[203]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106092
+[204]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106094
+[205]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106096
+[206]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106098
+[207]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106600
+[208]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106602
+[209]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106603
+[210]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106607
+[211]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106610
+[212]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106612
+[213]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106613
+[214]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106622
+[215]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106626
+[216]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106628
+[217]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106631
+[218]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106632
+[219]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106633
+[220]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106637
+[221]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106639
+[222]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106641
+[223]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106658
+[224]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106665
+[225]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106670
+[226]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106671
+[227]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106673
+[228]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106676
+[229]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106679
+[230]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106680
+[231]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106681
+[232]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106688
+[233]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106689
+[234]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM4717423
+[235]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106694
+[236]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106905
+[237]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106907
+[238]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106909
+[239]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106911
+[240]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106913
+[241]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106915
+[242]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106916
+[243]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106918
+[244]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106929
+[245]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106931
+[246]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106933
+[247]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106934
+[248]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106938
+[249]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106939
+[250]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106944
+[251]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106947
+[252]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106949
+[253]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106953
+[254]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106956
+[255]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106961
+[256]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106963
+[257]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106965
+[258]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106966
+[259]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106977
+[260]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106981
+[261]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106983
+[262]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106990
+[263]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106992
+[264]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM106995
+[265]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM107200
+[266]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM107215
+[267]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM107282
+[268]: http://www.legislation.govt.nz/act/public/1987/0065/latest/whole.html#DLM108013
+[269]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM214686
+[270]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213146
+[271]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277277
+[272]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM398137
+[273]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444677
+[274]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25304
+[275]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM230264
+[276]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM250585
+[277]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69821
+[278]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM255625
+[279]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM276813
+[280]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277347
+[281]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM276819
+[282]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM300510
+[283]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36926
+[284]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372890
+[285]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM289881
+[286]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM49663
+[287]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36962
+[288]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374409
+[289]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277090
+[290]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277093
+[291]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25159
+[292]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25110
+[293]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM97376
+[294]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM202952
+[295]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM433612
+[296]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16957
+[297]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM218728
+[298]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207919
+[299]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213476
+[300]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM112103
+[301]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341436
+[302]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM121634
+[303]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM301645
+[304]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM293026
+[305]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM51965
+[306]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM5137311
+[307]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM210735
+[308]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM435656
+[309]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1244216
+[310]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM435834
+[311]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207989
+[312]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207990
+[313]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM138145
+[314]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397837
+[315]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444304
+[316]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16622
+[317]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37931
+[318]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM117232
+[319]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37929
+[320]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430142
+[321]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23940
+[322]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37940
+[323]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37942
+[324]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM122579
+[325]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23941
+[326]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37944
+[327]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37946
+[328]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37948
+[329]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37950
+[330]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM264970
+[331]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM264952
+[332]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37952
+[333]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37958
+[334]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM138992
+[335]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37960
+[336]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM370508
+[337]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM429208
+[338]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM129109
+[339]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37966
+[340]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM370581
+[341]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23942
+[342]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430143
+[343]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37968
+[344]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23943
+[345]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37970
+[346]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37972
+[347]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37974
+[348]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37977
+[349]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37979
+[350]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM117217
+[351]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM348211
+[352]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM348242
+[353]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430144
+[354]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM191774
+[355]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341437
+[356]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3597422
+[357]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM192380
+[358]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208319
+[359]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM5137316
+[360]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208330
+[361]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208320
+[362]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372895
+[363]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM45426
+[364]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46073
+[365]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208325
+[366]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341438
+[367]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46055
+[368]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208326
+[369]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341439
+[370]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372891
+[371]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM170872
+[372]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM174088
+[373]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM52557
+[374]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM53193
+[375]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372892
+[376]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341440
+[377]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372893
+[378]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213420
+[379]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216551
+[380]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341441
+[381]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372894
+[382]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426405
+[383]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM242535
+[384]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM73833
+[385]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM73834
+[386]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM73848
+[387]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM231942
+[388]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM236786
+[389]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853107
+[390]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM242008
+[391]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853108
+[392]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM64784
+[393]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM296638
+[394]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853109
+[395]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444007
+[396]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM269031
+[397]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM271952
+[398]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM271957
+[399]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM270475
+[400]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM38239
+[401]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1065506
+[402]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM5137317
+[403]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1065508
+[404]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1065509
+[405]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM5137320
+[406]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1065526
+[407]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341442
+[408]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208346
+[409]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444492
+[410]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9004
+[411]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444911
+[412]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444912
+[413]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9005
+[414]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM300599
+[415]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM239393
+[416]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372896
+[417]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208347
+[418]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98008
+[419]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM237255
+[420]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM264291
+[421]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444650
+[422]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM239322
+[423]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3597242
+[424]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213341
+[425]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM191768
+[426]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222630
+[427]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222636
+[428]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222683
+[429]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM428672
+[430]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372897
+[431]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21620
+[432]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM265666
+[433]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM320574
+[434]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372898
+[435]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372899
+[436]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373300
+[437]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373301
+[438]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373303
+[439]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM403276
+[440]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM405708
+[441]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222641
+[442]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222649
+[443]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM222678
+[444]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM57654
+[445]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM57656
+[446]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM223137
+[447]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208362
+[448]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373302
+[449]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208363
+[450]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341443
+[451]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373304
+[452]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM328867
+[453]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341445
+[454]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1102349
+[455]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM129719
+[456]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM129733
+[457]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM162719
+[458]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM163544
+[459]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM88548
+[460]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341446
+[461]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM88957
+[462]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM330552
+[463]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341447
+[464]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373305
+[465]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69804
+[466]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373306
+[467]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373307
+[468]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341449
+[469]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373308
+[470]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373309
+[471]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040705
+[472]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341450
+[473]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373310
+[474]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66581
+[475]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397980
+[476]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69881
+[477]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM324335
+[478]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373311
+[479]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430218
+[480]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69790
+[481]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69793
+[482]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69799
+[483]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69802
+[484]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426406
+[485]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75778
+[486]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373315
+[487]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM347636
+[488]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373316
+[489]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373317
+[490]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69810
+[491]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373318
+[492]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341451
+[493]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69869
+[494]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426407
+[495]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69796
+[496]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373319
+[497]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75779
+[498]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM382730
+[499]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM385160
+[500]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040706
+[501]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM320254
+[502]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3213102
+[503]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM228384
+[504]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213292
+[505]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444479
+[506]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444610
+[507]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444612
+[508]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444617
+[509]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444695
+[510]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277212
+[511]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277234
+[512]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277256
+[513]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374887
+[514]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374839
+[515]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM374853
+[516]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM38266
+[517]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM145965
+[518]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM1102383
+[519]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM375442
+[520]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM375173
+[521]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040707
+[522]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208719
+[523]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341454
+[524]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341455
+[525]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373321
+[526]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373322
+[527]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208721
+[528]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM160808
+[529]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM162983
+[530]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM162942
+[531]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM163175
+[532]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208725
+[533]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373323
+[534]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373324
+[535]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208726
+[536]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136770
+[537]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136781
+[538]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208728
+[539]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136944
+[540]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341453
+[541]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM310742
+[542]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM311191
+[543]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208729
+[544]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM70197
+[545]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208730
+[546]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM432115
+[547]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM163137
+[548]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208733
+[549]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM376605
+[550]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373325
+[551]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208734
+[552]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75782
+[553]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341456
+[554]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444012
+[555]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195534
+[556]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373326
+[557]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM284137
+[558]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341457
+[559]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM281432
+[560]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208738
+[561]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373327
+[562]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM130377
+[563]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373328
+[564]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208740
+[565]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208741
+[566]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM446000
+[567]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM277803
+[568]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444464
+[569]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM37984
+[570]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69819
+[571]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208742
+[572]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM430983
+[573]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373329
+[574]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208743
+[575]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373330
+[576]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373331
+[577]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM341458
+[578]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM141994
+[579]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM271641
+[580]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM142638
+[581]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98075
+[582]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256241
+[583]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373332
+[584]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373333
+[585]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373334
+[586]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251170
+[587]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251453
+[588]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251464
+[589]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251714
+[590]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251729
+[591]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251741
+[592]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251744
+[593]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251760
+[594]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251778
+[595]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251787
+[596]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252108
+[597]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252193
+[598]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252435
+[599]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252473
+[600]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252480
+[601]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252738
+[602]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252762
+[603]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252772
+[604]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM252774
+[605]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM253201
+[606]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM253217
+[607]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM253242
+[608]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208744
+[609]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373335
+[610]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98437
+[611]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256239
+[612]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256280
+[613]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256286
+[614]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256292
+[615]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256294
+[616]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM256400
+[617]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208745
+[618]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM67015
+[619]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM61920
+[620]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM38246
+[621]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208747
+[622]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM205653
+[623]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM248777
+[624]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134246
+[625]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411130
+[626]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21218
+[627]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216730
+[628]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425352
+[629]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8800
+[630]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69344
+[631]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM439124
+[632]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99419
+[633]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213209
+[634]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413913
+[635]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040709
+[636]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216552
+[637]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99452
+[638]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM67196
+[639]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425391
+[640]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413966
+[641]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM249317
+[642]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM228919
+[643]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208751
+[644]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM209954
+[645]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM147046
+[646]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM205662
+[647]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21842
+[648]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM433577
+[649]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66587
+[650]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM442952
+[651]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM193466
+[652]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134255
+[653]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411147
+[654]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251178
+[655]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM270447
+[656]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM33087
+[657]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM420156
+[658]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM224959
+[659]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM325980
+[660]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM290459
+[661]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25116
+[662]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397843
+[663]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM339694
+[664]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21226
+[665]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36968
+[666]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46307
+[667]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8806
+[668]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69350
+[669]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444310
+[670]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM304382
+[671]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM405348
+[672]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM192065
+[673]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98927
+[674]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213800
+[675]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16628
+[676]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41187
+[677]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM56874
+[678]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM93755
+[679]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM92491
+[680]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41501
+[681]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM42013
+[682]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM29205
+[683]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM26912
+[684]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41514
+[685]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4007
+[686]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9793
+[687]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8734
+[688]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22334
+[689]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM32152
+[690]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69238
+[691]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22361
+[692]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22387
+[693]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM31319
+[694]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22814
+[695]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM20712
+[696]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66659
+[697]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22844
+[698]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM53806
+[699]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM24415
+[700]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373336
+[701]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853102
+[702]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2136500
+[703]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4686448
+[704]: http://www.pco.parliament.govt.nz/reprints/
+[705]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195439
+[706]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[707]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195468
+[708]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM195470
+[709]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM5137305
+[710]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444000
+[711]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040700
+[712]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM347630
+[713]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM324329
+[714]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216545
+[715]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM110997
+[716]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75772
+[717]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23934
+[718]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426299
+[719]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372884
+[720]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207917
