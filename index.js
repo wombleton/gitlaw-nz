@@ -166,7 +166,7 @@ function updateAct(path, title, data, markdown, callback) {
         sha: data.sha,
         author: {
             name: "GitLaw NZ Bot",
-            email: USER_EMAIL
+            email: process.env.USER_EMAIL
         }
     }, {
         method: 'PUT',
