@@ -1,19 +1,23 @@
 Reprint  
 as at 1 August 2008
 
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
+
 # New Zealand Council of Law Reporting Act 1938Public Act1938 No 2
 
 Date of assent18 August 1938
+
+Commencement18 August 1938
 
 ---
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered in the Ministry of Justice
+This Act is administered by the Ministry of Justice.
 
 ---
 
@@ -23,47 +27,47 @@ This Act is administered in the Ministry of Justice
     
 *   [Preamble][2]
 
-[1][3] [Short Title][3]
+[1][3][][3][Short Title][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Incorporation of Council][5]
+[3][5][][5][Incorporation of Council][5]
 
-[4][6] [Contracts of Council][6]
+[4][6][][6][Contracts of Council][6]
 
-[5][7] [Assets and liabilities of existing Council to become assets and liabilities of corporation][7]
+[5][7][][7][Assets and liabilities of existing Council to become assets and liabilities of corporation][7]
 
-[6][8] [Appointments by Council of New Zealand Law Society][8]
+[6][8][][8][Appointments by Council of New Zealand Law Society][8]
 
-[7][9] [Reconstitution of Council][9]
+[7][9][][9][Reconstitution of Council][9]
 
-[8][10] [Provisions as to term of office of appointed members][10]
+[8][10][][10][Term of office of appointed members][10]
 
-[8A][11] [Extraordinary vacancies in appointments by Chief Justice][11]
+[8A][11][][11][Extraordinary vacancies][11]
 
-[9][12] [Extraordinary vacancies in appointments by Council][12]
+[9][12][][12][Extraordinary vacancies][12]
 
-[10][13] [Chairperson][13]
+[10][13][][13][Chairperson][13]
 
-[10A][14] [Deputy Chairperson][14]
+[10A][14][][14][Deputy Chairperson][14]
 
-[10B][15] [Absence of Chairperson and Deputy Chairperson][15]
+[10B][15][][15][Absence of Chairperson and Deputy Chairperson][15]
 
-[10C][16] [Alternates][16]
+[10C][16][][16][Alternates][16]
 
-[10D][17] [Proceedings of Council][17]
+[10D][17][][17][Proceedings of Council][17]
 
-[11][18] [Appointment of officers][18]
+[11][18][][18][Appointment of officers][18]
 
-[12][19] [Functions of the Council][19]
+[12][19][][19][Functions of the Council][19]
 
-[13][20] [Refund of travelling expenses to members of Council][20]
+[13][20][][20][Refund of travelling expenses to members of Council][20]
 
-[14][21] [Council may make payments to New Zealand Law Society or to District Law Societies][21] \[Repealed\]
+[14][21][][21][Council may make payments to New Zealand Law Society or to District Law Societies][21] \[Repealed\]
 
-[15][22] [Investment of money not immediately required for purposes of Council][22]
+[15][22][][22][Investment of moneys not immediately required for purposes of Council][22]
 
-[16][23] [Subsidiary powers of Council][23]
+[16][23][][23][Subsidiary powers of Council][23]
 
 ---
 
@@ -71,7 +75,9 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
 *   #### Preamble
     
-    WHEREAS the New Zealand Council of Law Reporting is an unincorporated association, consisting of the Attorney-General, the Solicitor-General, the President of the New Zealand Law Society, and 8 other barristers representing the principal District Law Societies in New Zealand, and formed primarily for the purpose of publishing or arranging for the publication of the series of reports of legal decisions known as The New Zealand Law Reports: And whereas it is desirable that the Council should be incorporated, that its constitution should be altered, and that its powers and functions should be defined.
+    Whereas the New Zealand Council of Law Reporting is an unincorporated association, consisting of the Attorney-General, the Solicitor-General, the President of the New Zealand Law Society, and 8 other barristers representing the principal District Law Societies in New Zealand, and formed primarily for the purpose of publishing or arranging for the publication of the series of reports of legal decisions known as The New Zealand Law Reports:
+    
+    And whereas it is desirable that the Council should be incorporated, that its constitution should be altered, and that its powers and functions should be defined.
 
 ##### 1 Short Title
     
@@ -83,11 +89,11 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
 
 ##### 3 Incorporation of Council
     
-*   (1) The Council shall on the passing of this Act become a body corporate by the name of **The New Zealand Council of Law Reporting**, having perpetual succession and a common seal, being capable of holding real and personal property, of suing and being sued, and of doing and suffering all such other acts and things as bodies corporate may lawfully do and suffer.
+*   (1) The Council shall on the passing of this Act become a body corporate by the name of The New Zealand Council of Law Reporting, having perpetual succession and a common seal, being capable of holding real and personal property, of suing and being sued, and of doing and suffering all such other acts and things as bodies corporate may lawfully do and suffer.
     
     (2) \[Repealed\]
     
-    Subsection (2) was repealed by section 2(7) of the Law Practitioners Amendment Act 1953\.
+    Section 3(2): repealed, on 26 November 1953, by section 2(7) of the Law Practitioners Amendment Act 1953 (1953 No 83).
 
 ##### 4 Contracts of Council
     
@@ -109,7 +115,7 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
     (4) No stamp duty under the [Stamp and Cheque Duties Act 1971][24] shall be payable in respect of the transfer to the Council of any property in accordance with this section.
     
-    In subsection (4) the Stamp and Cheque Duties Act 1971 has been substituted for the repealed Stamp Duties Act 1923\. The exemption given by subsection (4) is confirmed by [section 10][25] of the Stamp and Cheque Duties Act 1971\.
+    Section 5(4): amended, on 1 January 1972, pursuant to [section 101(1)][25] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 6 Appointments by Council of New Zealand Law Society
     
@@ -117,29 +123,33 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
     (2) On the coming into office of the members first appointed under this section the members of the Council then in office shall go out of office, and the Council shall thereafter be constituted in accordance with the provisions of the next succeeding section.
     
-    In subsection (1) the Law Practitioners Act 1955 was substituted for the repealed Law Practitioners Act 1931\.
+    Section 6(1): amended, on 1 April 1980, pursuant to [section 12][26] of the Judicature Amendment Act 1979 (1979 No 124).
+    
+    Section 6(1): amended, on 1 January 1956, pursuant to section 124(1) of the Law Practitioners Act 1955 (1955 No 101).
 
 ##### 7 Reconstitution of Council
     
 *   (1) As soon as the members first appointed by the Council of the New Zealand Law Society in accordance with the last preceding section have come into office in accordance with the terms of their appointment, the Council shall be reconstituted, and thereafter shall consist of---
         
-    *   (a) The person for the time being holding office as the Attorney-General:
+    *   (a) the person for the time being holding office as the Attorney-General:
     
-    *   (aa) A Judge of the High Court to be appointed by the Chief Justice:
+    *   (aa) a Judge of the High Court to be appointed by the Chief Justice:
     
-    *   (b) The person for the time being holding office as the Solicitor-General:
+    *   (b) the person for the time being holding office as the Solicitor-General:
     
-    *   (c) The person for the time being holding office as the President of the New Zealand Law Society in accordance with the provisions of section 117 of the Law Practitioners Act 1955:
+    *   (c) the person for the time being holding office as the President of the New Zealand Law Society in accordance with the provisions of section 117 of the Law Practitioners Act 1955:
     
-    *   (d) The persons for the time being appointed as members of the Council by the Council of the New Zealand Law Society in accordance with the provisions of the last preceding section.
+    *   (d) the persons for the time being appointed as members of the Council by the Council of the New Zealand Law Society in accordance with the provisions of the last preceding section.
     
     (2) The powers of the Council or the validity of its acts shall not be affected by any vacancy in the membership thereof or by any defect or irregularity in the appointment or qualification of any member.
     
-    Subsection (1)(aa) was inserted by section 2 of the New Zealand Council of Law Reporting Amendment Act 1964\.
+    Section 7(1)(aa): inserted, on 11 November 1964, by section 2 of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
     
-    In subsection (1)(c), section 117 of the Law Practitioners Act 1955 was substituted for section 65 of the repealed Law Practitioners Act 1931\.
+    Section 7(1)(aa): amended, on 1 April 1980, pursuant to [section 12][26] of the Judicature Amendment Act 1979 (1979 No 124).
+    
+    Section 7(1)(c): amended, on 1 January 1956, pursuant to section 124(1) of the Law Practitioners Act 1955 (1955 No 101).
 
-##### 8 Provisions as to term of office of appointed members
+##### 8 Term of office of appointed members
     
 *   (1) \[Repealed\]
     
@@ -149,61 +159,59 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
     (3) Any member who retires from office on the expiration of the term of his appointment may be reappointed.
     
-    (4) Notwithstanding anything in the foregoing provisions of this section, every appointed member of the Council, unless he sooner vacates his office in accordance with [section 8A][11] or [section 9][12] of this Act, shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
+    (4) Notwithstanding anything in the foregoing provisions of this section, every appointed member of the Council, unless he sooner vacates his office in accordance with [section 8A][11] or [section 9][12], shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
     
-    Subsection (1) was repealed by section 3(1) of the New Zealand Council of Law Reporting Amendment Act 1964\.
+    Section 8 heading: amended, on 11 November 1964, by section 3 of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
     
-    Subsection (1A) was inserted by section 3(1) of the New Zealand Council of Law Reporting Amendment Act 1964\.
+    Section 8(1): repealed, on 11 November 1964, by section 3(1) of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
     
-    Subsection (2) were substituted by section 3(1) of the New Zealand Council of Law Reporting Amendment Act 1964\.
+    Section 8(1A): inserted, on 11 November 1964, by section 3(1) of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
     
-    In subsection (4) the words ""section 8A or section 9 of this Act"" were substituted for the words ""the next succeeding section"" by section 3(2) of the New Zealand Council of Law Reporting Amendment Act 1964\.
+    Section 8(2): replaced, on 11 November 1964, by section 3(1) of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
+    
+    Section 8(4): amended, on 11 November 1964, by section 3(2) of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
 
-##### 8A Extraordinary vacancies in appointments by Chief Justice
+##### 8A Extraordinary vacancies
     
 *   The office of a member of the Council appointed by the Chief Justice shall become vacant in any of the following circumstances:
         
-    *   (a) If he dies; or
+    *   (a) if he dies; or
     
-    *   (b) If he ceases to be a Judge of the High Court; or
+    *   (b) if he ceases to be a Judge of the High Court; or
     
-    *   (c) If he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council.
+    *   (c) if he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council.
     
-    Section 8A was inserted, as from 11 November 1964, by section 4(1) New Zealand Council of Law Reporting Amendment Act 1964\.
+    Section 8A: inserted, on 11 November 1964, by section 4(1) of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
     
-    Paragraph (c) was amended, as from 28 July 1997, by section [3(1)][26] New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51) by substituting the word ""Chairperson"" for the word ""Chairman"".
+    Section 8A(b): amended, on 1 April 1980, pursuant to [section 12][26] of the Judicature Amendment Act 1979 (1979 No 124).
+    
+    Section 8A(c): amended, on 28 July 1997, by [section 3(1)][27] of the New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
 
-##### 9 Extraordinary vacancies in appointments by Council
+##### 9 Extraordinary vacancies
     
-*   (1) The office of a member of the Council appointed by the Council of the New Zealand Law Society shall become vacant in any of the following circumstances---
+*   (1) The office of a member of the Council appointed by the Council of the New Zealand Law Society shall become vacant in any of the following circumstances:
         
-    *   (a) If he dies; or
+    *   (a) if he dies; or
     
-    *   (b) If he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council; or
+    *   (b) if he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council; or
     
-    *   (c) If he becomes bankrupt, or makes any composition with his creditors for less than 100 cents in the dollar, or makes an assignment of his estate for the benefit of his creditors; or
+    *   (c) if he becomes bankrupt, or makes any composition with his creditors for less than 100 cents in the dollar, or makes an assignment of his estate for the benefit of his creditors; or
     
-    *   (d) If he becomes of unsound mind; or
+    *   (d) if he becomes of unsound mind; or
     
-    *   (e) If, in the opinion of the Council of the New Zealand Law Society, he has been guilty of any gross misconduct (in which case he may be removed from office by resolution of the Council of the said Society).
+    *   (e) if, in the opinion of the Council of the New Zealand Law Society, he has been guilty of any gross misconduct (in which case he may be removed from office by resolution of the Council of the said Society).
     
     (2) On the vacation of office by any appointed member of the Council in accordance with the last preceding subsection, the Council of the New Zealand Law Society shall appoint a qualified person to hold office as his successor for the residue of the term for which the first-mentioned member was appointed.
     
-    In subsection (1) the words ""a member of the Council appointed by the Council of the New Zealand Law Society"" were substituted, as from 28 October 1965, for the words ""an appointed member of the Council"" by section 4(2) New Zealand Council of Law Reporting Amendment Act 1964\.
+    Section 9(1): amended, on 11 November 1964, by section 4(2) of the New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41).
     
-    Subsection (1)(b) was amended, as from 28 July 1997, by section [3(1)][26] New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51) by substituting the word ""Chairperson"" for the word ""Chairman"".
-    
-    The expression ""100 cents in the dollar"" was substituted, as from 10 July 1967, for the words ""twenty shillings in the pound"" pursuant to section [7(1)][27] Decimal Currency Act 1964 (1964 No 27).
+    Section 9(1)(b): amended, on 28 July 1997, by [section 3(1)][27] of the New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
 
 ##### 10 Chairperson
     
 *   The Attorney-General is the Chairperson of the Council and, when present, presides at all meetings.
     
-    Subsection (4A) was inserted, as from 11 November 1964, by section 5(1) New Zealand Council of Law Reporting Amendment Act 1964\.
-    
-    In subsection (5) the words ""a Vice-President of that Society authorised by the Council of that Society"" were substituted, as from 11 November 1964, for the words ""the Vice President of that Society"" by section 5(2) New Zealand Council of Law Reporting Amendment Act 1964\.
-    
-    Section 10 was substituted, as from 28 July 1997, by [section 2][28] New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
+    Section 10: replaced, on 28 July 1997, by [section 2][28] of the New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
 
 ##### 10A Deputy Chairperson
     
@@ -211,27 +219,27 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
     (2) The Deputy Chairperson, when present, presides at all meetings of the Council in the absence of the Chairperson.
     
-    (3) Subject to subsection [(4)][14], the Deputy Chairperson holds office until a successor is elected under this section, and is eligible for re-election.
+    (3) Subject to subsection (4), the Deputy Chairperson holds office until a successor is elected under this section, and is eligible for re-election.
     
     (4) The office of Deputy Chairperson becomes vacant in any of the following circumstances:
         
-    *   (a) If the Deputy Chairperson dies; or
+    *   (a) if the Deputy Chairperson dies; or
     
-    *   (b) If the Council removes the Deputy Chairperson from office; or
+    *   (b) if the Council removes the Deputy Chairperson from office; or
     
-    *   (c) If the Deputy Chairperson resigns, by writing addressed to the Chairperson of the Council, or to the principal administrative officer of the Council; or
+    *   (c) if the Deputy Chairperson resigns, by writing addressed to the Chairperson of the Council, or to the principal administrative officer of the Council; or
     
-    *   (d) If the Deputy Chairperson ceases to be a member of the Council.
+    *   (d) if the Deputy Chairperson ceases to be a member of the Council.
     
     (5) Where the office of Deputy Chairperson becomes vacant, an election to fill the vacancy must be held as soon as is reasonably practicable after its occurrence.
     
-    Sections 10A to 10D were inserted, as from 28 July 1997, by [section 2][28] New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
+    Sections 10A: inserted, on 28 July 1997, by [section 2][28] of the New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
 
 ##### 10B Absence of Chairperson and Deputy Chairperson
     
 *   In the absence from any meeting of both the Attorney-General and the Deputy-Chairperson, the members present must elect one of their number to be the chairperson for the purposes of that meeting.
     
-    Sections 10A to 10D were inserted, as from 28 July 1997, by [section 2][28] New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
+    Sections 10B: inserted, on 28 July 1997, by [section 2][28] of the New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
 
 ##### 10C Alternates
     
@@ -243,7 +251,7 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
     (4) A person appointed under this section is, for the purpose of those meetings, deemed to be a member of the Council and that person's attendance is evidence of authority to do so.
     
-    Sections 10A to 10D were inserted, as from 28 July 1997, by [section 2][28] New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
+    Sections 10C: inserted, on 28 July 1997, by [section 2][28] of the New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
 
 ##### 10D Proceedings of Council
     
@@ -253,9 +261,9 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
     (3) On every such question the Chairperson has a deliberative vote, and, in the case of an equality of votes, has a casting vote.
     
-    (4) Except as provided in this section and sections [10 to 10C][13], the Council may govern its own procedure.
+    (4) Except as provided in this section and [sections 10 to 10C][13], the Council may govern its own procedure.
     
-    Sections 10A to 10D were inserted, as from 28 July 1997, by [section 2][28] New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
+    Sections 10D: inserted, on 28 July 1997, by [section 2][28] of the New Zealand Council of Law Reporting Amendment Act 1997 (1997 No 51).
 
 ##### 11 Appointment of officers
     
@@ -275,7 +283,7 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
     *   (b) continue the publication of a series of reports of decisions of the Supreme Court (either separately or in conjunction with reports of other judicial decisions) whose publication commenced before the commencement of that Act.
     
-    (5) The New Zealand Law Society may give its consent under subsection [(3)][19] or subsection [(4)][19] if---
+    (5) The New Zealand Law Society may give its consent under subsection (3) or subsection (4) if---
         
     *   (a) the Council has failed to publish, or has failed to arrange for there to be published, within a reasonable time and at a reasonable cost to purchasers, adequate reports of the decisions of the High Court or Court of Appeal or Supreme Court or of the Land Valuation Tribunal; or
     
@@ -287,15 +295,15 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
         
         
     
-    (6) Despite subsection [(4)][19], the Chief Justice may, after consultation with the New Zealand Law Society, authorise any person, firm, or company other than the Council to publish reports of the decisions of the Supreme Court.
+    (6) Despite subsection (4), the Chief Justice may, after consultation with the New Zealand Law Society, authorise any person, firm, or company other than the Council to publish reports of the decisions of the Supreme Court.
     
-    In subsection (3) the references to the Land Valuation Tribunal were substituted by section [2(4)][30] of the Land Valuation Proceedings Amendment Act 1968 (as amended by section [6(7A)][31] of the Land Valuation Proceedings Amendment Act 1977, as inserted by section 2 of the Land Valuation Proceedings Amendment Act (No 2) 1977) for references to the Administrative Division of the Supreme Court which by section [2(4)][30] of the Land Valuation Proceedings Amendment Act 1968 had been substituted for references to the Land Valuation Court which had been inserted by [section 38][32] of the Statutes Amendment Act 1949\.
+    Section 12(3): replaced, on 10 April 2006, by [section 4][30] of the New Zealand Council of Law Reporting Amendment Act 2006 (2006 No 17).
     
-    Subsection (3) was amended, as from 1 April 1980, pursuant to [section 12][33] Judicature Amendment Act 1979 (1979 No 124) by substituting the words ""High Court"" for the words ""Supreme Court"" in both places they appear.
+    Section 12(4): inserted, on 10 April 2006, by [section 4][30] of the New Zealand Council of Law Reporting Amendment Act 2006 (2006 No 17).
     
-    Subsection (3) was substituted, as from 10 April 2006, by [section 4][34] New Zealand Council of Law Reporting Amendment Act 2006 (2006 No 17).
+    Section 12(5): inserted, on 10 April 2006, by [section 4][30] of the New Zealand Council of Law Reporting Amendment Act 2006 (2006 No 17).
     
-    Subsections (4) to (6) were inserted, as from 10 April 2006, by [section 4][34] New Zealand Council of Law Reporting Amendment Act 2006 (2006 No 17).
+    Section 12(6): inserted, on 10 April 2006, by [section 4][30] of the New Zealand Council of Law Reporting Amendment Act 2006 (2006 No 17).
 
 ##### 13 Refund of travelling expenses to members of Council
     
@@ -305,23 +313,25 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 1 August 2008, by [section 349][35] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 14: repealed, on 1 August 2008, by [section 349][31] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
-##### 15 Investment of money not immediately required for purposes of Council
+##### 15 Investment of moneys not immediately required for purposes of Council
     
-*   Any money belonging to the Council that is not immediately required for expenditure by the Council may be invested in any manner in which trustees are for the time being authorised to invest trust funds.
+*   Any moneys belonging to the Council that are not immediately required for expenditure by the Council may be invested in any manner in which trustees are for the time being authorised to invest trust funds.
 
 ##### 16 Subsidiary powers of Council
     
-*   Nothing in the foregoing provisions of this Act shall be construed to restrict the power of the Council to expend any money belonging to the Council for any purpose that in its opinion is ancillary to the principal functions of the Council as defined in [section 12][19] hereof.
+*   Nothing in the foregoing provisions of this Act shall be construed to restrict the power of the Council to expend any moneys belonging to the Council for any purpose that in its opinion is ancillary to the principal functions of the Council as defined in [section 12][19].
 
 ---
 
 #### Contents
     
 *   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+*   2Status of reprints
+*   3How reprints are prepared
+*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
+*   5List of amendments incorporated in this reprint (most recent first)
 
 ---
 
@@ -329,15 +339,68 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
 
 ###### 1 General
     
-*   This is an eprint of the New Zealand Council of Law Reporting Act 1938\. It incorporates all the amendments to the New Zealand Council of Law Reporting Act 1938 as at 1 August 2008\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\. Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the Principal enactment, in chronological order.
-
-###### 2 About this eprint
+*   This is a reprint of the New Zealand Council of Law Reporting Act 1938\. The reprint incorporates all the amendments to the Act as at 1 August 2008, as specified in the list of amendments at the end of these notes.
     
-*   This eprint has not been officialised. For more information about officialisation, please see ""Making online legislation official"" under ""Status of legislation on this site"" in the About section of this website.
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][32] ![](/images/external_link.gif).
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 2 Status of reprints
     
-*   Lawyers and Conveyancers Act 2006 (2006 No 1): [section 349][35]
+*   Under [section 16D][33] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+    
+    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+
+###### 3 How reprints are prepared
+    
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][34] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+
+###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+    
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][35] and [17E][36] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+    
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    
+    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+        
+    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   •typeface and type size (Times Roman, generally in 11.5 point)
+    *   •layout of provisions, including:
+            
+        *   •indentation
+        *   •position of section headings (eg, the number and heading now appear above the section)
+        
+    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   •position of the date of assent (it now appears on the front page of each Act)
+    *   •punctuation (eg, colons are not used after definitions)
+    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   •case and appearance of letters and words, including:
+            
+        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   •small capital letters in section and subsection references are now capital letters
+        
+    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   •running heads (the information that appears at the top of each page)
+    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    
+    
+
+###### 5 List of amendments incorporated in this reprint (most recent first)
+    
+*   [New Zealand Council of Law Reporting Amendment Act 2006][29] (2006 No 17)
+    
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 349][31]
+    
+    [New Zealand Council of Law Reporting Amendment Act 1997][37] (1997 No 51)
+    
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][26]
+    
+    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][25]
+    
+    New Zealand Council of Law Reporting Amendment Act 1964 (1964 No 41)
+    
+    Law Practitioners Act 1955 (1955 No 101): section 124(1)
+    
+    Law Practitioners Amendment Act 1953 (1953 No 83): section 2(7)
 
 
 
@@ -366,14 +429,16 @@ An Act to provide for the incorporation and reconstitution of the New Zealand Co
 [22]: http://www.legislation.govt.nz/act/public/1938/0002/latest/whole.html#DLM224104
 [23]: http://www.legislation.govt.nz/act/public/1938/0002/latest/whole.html#DLM224105
 [24]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM399728
-[25]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM400064
-[26]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM410703
-[27]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM351265
+[25]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM401040
+[26]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM35049
+[27]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM410703
 [28]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM410702
 [29]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM372743
-[30]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM388230
-[31]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM442575
-[32]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM260521
-[33]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM35049
-[34]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM372750
-[35]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM367851
+[30]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM372750
+[31]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM367851
+[32]: http://www.pco.parliament.govt.nz/reprints/
+[33]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM195439
+[34]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[35]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM195468
+[36]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM195470
+[37]: http://www.legislation.govt.nz/act/public/1938/0002/latest/link.aspx?id=DLM410396
