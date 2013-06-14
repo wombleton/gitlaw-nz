@@ -8,13 +8,13 @@ Commencementsee section 2
 
 ## Contents
 
-[1 ][0] [Title][0]
+[1 ][0][][0][Title][0]
 
-[2 ][1] [Commencement][1]
+[2 ][1][][1][Commencement][1]
 
-[3 ][2] [Principal Act amended][2]
+[3 ][2][][2][Principal Act amended][2]
 
-[4 ][3] [Rights of persons charged][3]
+[4 ][3][][3][Rights of persons charged][3]
 
 ---
 
