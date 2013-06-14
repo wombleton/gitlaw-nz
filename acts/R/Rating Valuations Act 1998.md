@@ -1,5 +1,5 @@
 Reprint  
-as at 20 June 2011
+as at 24 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,166 +25,166 @@ This Act is administered by Land Information New Zealand.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Part 1][4]  
 [Functions and powers of Valuer-General][4]
 
-[3][5] [Valuer-General][5]
+[3][5][][5][Valuer-General][5]
 
-[4][6] [Functions and powers of Valuer-General][6]
+[4][6][][6][Functions and powers of Valuer-General][6]
 
-[5][7] [Valuer-General may make rules setting requirements in relation to valuations and district valuation rolls][7]
+[5][7][][7][Valuer-General may make rules setting requirements in relation to valuations and district valuation rolls][7]
 
-[5A][8] [Meaning of certificate of title][8]
+[5A][8][][8][Meaning of certificate of title][8]
 
-[5B][9] [What constitutes rating unit if there is certificate of title][9]
+[5B][9][][9][What constitutes rating unit if there is certificate of title][9]
 
-[5C][10] [What constitutes rating unit if there is no certificate of title][10]
+[5C][10][][10][What constitutes rating unit if there is no certificate of title][10]
 
 [Part 2][11]  
 [District valuation rolls][11]
 
-[6][12] [District valuation rolls to be used as basis for rating][12] \[Repealed\]
+[6][12][][12][District valuation rolls to be used as basis for rating][12] \[Repealed\]
 
-[7][13] [Territorial authorities to prepare and maintain district valuation rolls][13]
+[7][13][][13][Territorial authorities to prepare and maintain district valuation rolls][13]
 
-[8][14] [Persons who may provide valuations][14]
+[8][14][][14][Persons who may provide valuations][14]
 
 [General revaluations][15]
 
-[9][16] [General revaluation of rolls at 3-yearly intervals][16]
+[9][16][][16][General revaluation of rolls at 3-yearly intervals][16]
 
-[10][17] [Territorial authority to supply details of general revaluation to Valuer-General][17]
+[10][17][][17][Territorial authority to supply details of general revaluation to Valuer-General][17]
 
-[11][18] [Valuer-General's approval required before general revaluation may be implemented][18]
+[11][18][][18][Valuer-General's approval required before general revaluation may be implemented][18]
 
-[12][19] [General revaluation to be publicly notified upon completion][19]
+[12][19][][19][General revaluation to be publicly notified upon completion][19]
 
-[13][20] [Notice of general revaluation to owners and occupiers][20]
+[13][20][][20][Notice of general revaluation to owners and occupiers][20]
 
 [Alterations to rolls][21]
 
-[14][22] [Alterations during currency of rolls][22]
+[14][22][][22][Alterations during currency of rolls][22]
 
-[15][23] [Alteration may be backdated in case of certain omissions][23]
+[15][23][][23][Alteration may be backdated in case of certain omissions][23]
 
-[16][24] [New valuation on request][24]
+[16][24][][24][New valuation on request][24]
 
-[17][25] [Notice of alterations, etc, to owner and ratepayer][25]
+[17][25][][25][Notice of alterations, etc, to owner and ratepayer][25]
 
 [Equalisation certificates and special rating areas][26]
 
 \[Repealed\]
 
-[18][27] [Equalisation certificates and special rating areas under Rating Powers Act 1988][27] \[Repealed\]
+[18][27][][27][Equalisation certificates and special rating areas under Rating Powers Act 1988][27] \[Repealed\]
 
-[19][28] [Valuer-General's approval required before rating may proceed on basis of equalisation certificate or special rating area][28] \[Repealed\]
+[19][28][][28][Valuer-General's approval required before rating may proceed on basis of equalisation certificate or special rating area][28] \[Repealed\]
 
 [Part 3][29]  
 [Special provisions relating to determination of rateable values][29]
 
-[20][30] [Value of trees and minerals][30]
+[20][30][][30][Value of trees and minerals][30]
 
-[21][31] [Value of land subject to lease][31]
+[21][31][][31][Value of land subject to lease][31]
 
-[22][32] [Rates-postponement values of farmland][32] \[Repealed\]
+[22][32][][32][Rates-postponement values of farmland][32] \[Repealed\]
 
-[23][33] [Special rateable values of industrial or commercial land in residential or rural areas][33] \[Repealed\]
+[23][33][][33][Special rateable values of industrial or commercial land in residential or rural areas][33] \[Repealed\]
 
-[24][34] [Special rateable values of residential land in commercial or industrial areas][34] \[Repealed\]
+[24][34][][34][Special rateable values of residential land in commercial or industrial areas][34] \[Repealed\]
 
-[25][35] [Special rateable values of single or double-unit dwellings where values influenced by demand for multi-unit housing][35] \[Repealed\]
+[25][35][][35][Special rateable values of single or double-unit dwellings where values influenced by demand for multi-unit housing][35] \[Repealed\]
 
-[26][36] [Special rateable values of existing use properties][36] \[Repealed\]
+[26][36][][36][Special rateable values of existing use properties][36] \[Repealed\]
 
-[27][37] [Special rateable values of land subject to special preservation conditions][37] \[Repealed\]
+[27][37][][37][Special rateable values of land subject to special preservation conditions][37] \[Repealed\]
 
-[28][38] [Rates-postponement or special rateable value need not be determined unless likely to be lower than normal rateable value][38] \[Repealed\]
+[28][38][][38][Rates-postponement or special rateable value need not be determined unless likely to be lower than normal rateable value][38] \[Repealed\]
 
-[29][39] [When rates-postponement and special rateable values to be entered in valuation roll][39] \[Repealed\]
+[29][39][][39][When rates-postponement and special rateable values to be entered in valuation roll][39] \[Repealed\]
 
-[30][40] [Land ceasing to be used for purpose for which rates-postponement or special rateable value determined][40] \[Repealed\]
+[30][40][][40][Land ceasing to be used for purpose for which rates-postponement or special rateable value determined][40] \[Repealed\]
 
-[31][41] [Notice to owners and occupiers in relation to rates-postponement or special rateable value][41] \[Repealed\]
+[31][41][][41][Notice to owners and occupiers in relation to rates-postponement or special rateable value][41] \[Repealed\]
 
 [Part 4][42]  
 [Objections][42]
 
-[32][43] [Objection by owner or ratepayer][43]
+[32][43][][43][Objection by owner or ratepayer][43]
 
-[33][44] [Objection by other persons][44]
+[33][44][][44][Objection by other persons][44]
 
-[34][45] [Objection to be initially reviewed by valuer][45]
+[34][45][][45][Objection to be initially reviewed by valuer][45]
 
-[35][46] [Notification of result of review][46]
+[35][46][][46][Notification of result of review][46]
 
-[36][47] [Persons affected may require objection to be heard by Land Valuation Tribunal][47]
+[36][47][][47][Persons affected may require objection to be heard by Land Valuation Tribunal][47]
 
-[37][48] [Valuer-General may object to any valuation, or join proceedings][48]
+[37][48][][48][Valuer-General may object to any valuation, or join proceedings][48]
 
-[38][49] [Proceedings of Land Valuation Tribunal][49]
+[38][49][][49][Proceedings of Land Valuation Tribunal][49]
 
-[39][50] [Territorial authority to give effect to decisions of Tribunal][50]
+[39][50][][50][Territorial authority to give effect to decisions of Tribunal][50]
 
-[40][51] [Valuation may be acted on while appeal pending][51]
+[40][51][][51][Valuation may be acted on while appeal pending][51]
 
 [Part 5][52]  
 [Miscellaneous provisions][52]
 
-[41][53] [Copies of entries in rolls available to public][53]
+[41][53][][53][Copies of entries in rolls available to public][53]
 
-[42][54] [Territorial authorities to maintain and supply information to Valuer-General][54]
+[42][54][][54][Territorial authorities to maintain and supply information to Valuer-General][54]
 
-[43][55] [Regional councils to share costs of maintaining district valuation rolls][55]
+[43][55][][55][Regional councils to share costs of maintaining district valuation rolls][55]
 
-[44][56] [Territorial authorities may be required to supply valuation services for equalisation certificates and special rating areas][56] \[Repealed\]
+[44][56][][56][Territorial authorities may be required to supply valuation services for equalisation certificates and special rating areas][56] \[Repealed\]
 
-[45][57] [Powers of entry][57]
+[45][57][][57][Powers of entry][57]
 
-[46][58] [Provisions relating to notices][58]
+[46][58][][58][Provisions relating to notices][58]
 
-[47][59] [Delegation of Valuer-General's functions and powers][59]
+[47][59][][59][Delegation of Valuer-General's functions and powers][59]
 
-[48][60] [Appearance in legal proceedings of Valuer-General][60]
+[48][60][][60][Appearance in legal proceedings of Valuer-General][60]
 
-[49][61] [Expenses of administration of Valuer-General][61]
+[49][61][][61][Expenses of administration of Valuer-General][61]
 
-[50][62] [Delegation of functions and powers of territorial authority][62]
+[50][62][][62][Delegation of functions and powers of territorial authority][62]
 
-[51][63] [Sale of information obtained under Act not prevented by Copyright Act 1994][63]
+[51][63][][63][Sale of information obtained under Act not prevented by Copyright Act 1994][63]
 
-[52][64] [Regulations][64]
+[52][64][][64][Regulations][64]
 
 [Repeals and amendments][65]
 
-[53][66] [Repeals][66]
+[53][66][][66][Repeals][66]
 
-[54][67] [Amendments to other Acts, etc][67]
+[54][67][][67][Amendments to other Acts, etc][67]
 
 [Savings][68]
 
-[55][69] [References to Valuer-General in leases and other documents][69]
+[55][69][][69][References to Valuer-General in leases and other documents][69]
 
-[56][70] [References to this Act, etc][70]
+[56][70][][70][References to this Act, etc][70]
 
-[57][71] [Savings relating to proceedings][71]
+[57][71][][71][Savings relating to proceedings][71]
 
-[58][72] [Saving of pre-1971 definitions of improvements and value of improvements in certain cases][72]
+[58][72][][72][Saving of pre-1971 definitions of improvements and value of improvements in certain cases][72]
 
 [Transitional provisions relating to valuation rolls][73]
 
-[59][74] [Existing valuation rolls to continue in force][74]
+[59][74][][74][Existing valuation rolls to continue in force][74]
 
-[60][75] [Territorial authorities may be required to use services of Valuation New Zealand Limited until 1 September 2000][75]
+[60][75][][75][Territorial authorities may be required to use services of Valuation New Zealand Limited until 1 September 2000][75]
 
-[61][76] [Valuer-General and New Zealand Local Government Association to agree on which territorial authorities need not use Valuation New Zealand Limited][76]
+[61][76][][76][Valuer-General and New Zealand Local Government Association to agree on which territorial authorities need not use Valuation New Zealand Limited][76]
 
-[62][77] [Saving for Auckland City Council][77]
+[62][77][][77][Saving for Auckland City Council][77]
 
-[63][78] [Saving in respect of rules made on or before 1 August 1998][78]
+[63][78][][78][Saving in respect of rules made on or before 1 August 1998][78]
 
 [Schedule 1][79]  
 [Enactments repealed][79]
@@ -274,7 +274,7 @@ An Act to---
     
     _local authority_ means a territorial authority or regional council
     
-    _minerals_ includes all minerals, metals, coal, oil, kauri gum, clay, stone, gravel, sand, precious stones, and water; and includes petroleum within the meaning of [Part 1][83] of the Crown Minerals Act 1991
+    _minerals_ includes all minerals, metals, coal, oil, kauri gum, clay, stone, gravel, sand, precious stones, and water; and includes petroleum within the meaning of [section 2(1)][83] of the Crown Minerals Act 1991
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -336,6 +336,8 @@ An Act to---
     
     Section 2 **local authority**: substituted (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
+    Section 2 **minerals**: amended, on 24 May 2013, by [section 65][90] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    
     Section 2 **occupier**: repealed (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 2 **owner**: amended (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
@@ -348,13 +350,13 @@ An Act to---
     
     Section 2 **rating unit**: inserted (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 2 **regional council**: substituted, on 1 July 2003, by [section 262][90] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **regional council**: substituted, on 1 July 2003, by [section 262][91] of the Local Government Act 2002 (2002 No 84).
     
     Section 2 **special purpose authority**: repealed (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 2 **special rateable value**: repealed (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 2 **territorial authority**: substituted, on 1 July 2003, by [section 262][90] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **territorial authority**: substituted, on 1 July 2003, by [section 262][91] of the Local Government Act 2002 (2002 No 84).
     
     Section 2 **valuation services** paragraph (a)(i): amended (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
@@ -365,7 +367,7 @@ Functions and powers of Valuer-General
 
 ##### 3 Valuer-General
     
-*   (1) There is from time to time to be appointed under the [State Sector Act 1988][91] a Valuer-General.
+*   (1) There is from time to time to be appointed under the [State Sector Act 1988][92] a Valuer-General.
     
     (2) The Valuer-General reports directly to the Minister on the exercise of his or her functions and powers under this Act.
     
@@ -443,7 +445,7 @@ Functions and powers of Valuer-General
     
     (5) The _Gazette_ notice must specify where copies of the rules may be inspected and obtained.
     
-    (6) Any rules made under this section are to be treated for the purposes of the [Regulations Disallowance Act 1989][92] (but not for the purposes of the [Acts and Regulations Publication Act 1989][93]) as if they were regulations within the meaning of that Act.
+    (6) Any rules made under this section are to be treated for the purposes of the [Regulations Disallowance Act 1989][93] (but not for the purposes of the [Acts and Regulations Publication Act 1989][94]) as if they were regulations within the meaning of that Act.
     
     Section 5(1)(c): amended (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
@@ -457,11 +459,11 @@ Functions and powers of Valuer-General
     
 *   In [sections 5B][9] and [5C][10], _certificate of title_ means a certificate of title---
         
-    *   (a) issued under the [Land Transfer Act 1952][94] for an estate in fee simple; or
+    *   (a) issued under the [Land Transfer Act 1952][95] for an estate in fee simple; or
     
-    *   (b) issued under the [Unit Titles Act 2010][95] for a stratum estate; or
+    *   (b) issued under the [Unit Titles Act 2010][96] for a stratum estate; or
     
-    *   (c) issued under the [Land Transfer Act 1952][94] for both---
+    *   (c) issued under the [Land Transfer Act 1952][95] for both---
             
         *   (i) an undivided share in an estate in fee simple; and
         
@@ -471,7 +473,7 @@ Functions and powers of Valuer-General
     
     Section 5A: inserted (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 5A(b): amended, on 20 June 2011, by [section 233(1)][96] of the Unit Titles Act 2010 (2010 No 22).
+    Section 5A(b): amended, on 20 June 2011, by [section 233(1)][97] of the Unit Titles Act 2010 (2010 No 22).
 
 ##### 5B What constitutes rating unit if there is certificate of title
     
@@ -501,9 +503,9 @@ Functions and powers of Valuer-General
                 
             *   (A) owned by the Crown; or
             
-            *   (B) surveyed and subject to a separate lease registered under [section 115][97] of the Land Transfer Act 1952; or
+            *   (B) surveyed and subject to a separate lease registered under [section 115][98] of the Land Transfer Act 1952; or
             
-            *   (C) Māori freehold land subject to an occupation order made by the Māori Land Court under [section 328][98] of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
+            *   (C) Māori freehold land subject to an occupation order made by the Māori Land Court under [section 328][99] of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
             
             
         
@@ -557,7 +559,7 @@ Functions and powers of Valuer-General
                 
             *   (A) owned by the Crown; or
             
-            *   (B) Māori freehold land subject to an occupation order made by the Māori Land Court under [section 328][98] of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
+            *   (B) Māori freehold land subject to an occupation order made by the Māori Land Court under [section 328][99] of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
             
             
         
@@ -936,7 +938,7 @@ Objections
     
 *   Any affected person (including the territorial authority) who is dissatisfied with a review under [section 34][45] may, within 20 working days after service of the notice under [section 35][46], require the objection to be heard by a Land Valuation Tribunal by---
         
-    *   (a) filing the objection in the office of the District Court in which the objection is required by [section 21][99] of the Land Valuation Proceedings Act 1948 to be filed; and
+    *   (a) filing the objection in the office of the District Court in which the objection is required by [section 21][100] of the Land Valuation Proceedings Act 1948 to be filed; and
     
     *   (b) serving a copy of the objection on the territorial authority (except where it is the territorial authority that is dissatisfied with the review); and
     
@@ -958,7 +960,7 @@ Objections
     
     (2) Where the Valuer-General wishes to have his or her objection heard by a Land Valuation Tribunal, the Valuer-General commences proceedings by---
         
-    *   (a) filing the objection in the office of the District Court in which the objection is required by [section 21][99] of the Land Valuation Proceedings Act 1948 to be filed; and
+    *   (a) filing the objection in the office of the District Court in which the objection is required by [section 21][100] of the Land Valuation Proceedings Act 1948 to be filed; and
     
     *   (b) serving a copy of the objection on---
             
@@ -1071,7 +1073,7 @@ Miscellaneous provisions
     
     (5) A territorial authority must, without charge, provide a copy of its district valuation roll that contains the information that is required by, or requested by, a regional council to that regional council on request.
     
-    (6) If the territorial authority and the regional council cannot agree on the amount of the share of costs determined having regard to the formula in subsection (3), that amount is to be determined by arbitration in accordance with the [Arbitration Act 1996][100].
+    (6) If the territorial authority and the regional council cannot agree on the amount of the share of costs determined having regard to the formula in subsection (3), that amount is to be determined by arbitration in accordance with the [Arbitration Act 1996][101].
     
     Section 43(3) formula item c: amended (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
     
@@ -1165,7 +1167,7 @@ Miscellaneous provisions
 
 ##### 47 Delegation of Valuer-General's functions and powers
     
-*   The Valuer-General may under [section 41][101] of the State Sector Act 1988 delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,---
+*   The Valuer-General may under [section 41][102] of the State Sector Act 1988 delegate to employees of the department, in the same manner and to the same extent as if the Valuer-General were its chief executive,---
         
     *   (a) any power conferred on the Valuer-General by statute, other than the power to make rules under [section 5][7]:
     
@@ -1189,11 +1191,11 @@ Miscellaneous provisions
     
     (2) All monies received by the Valuer-General under this Act are to be paid into a Departmental Bank Account.
     
-    (3) Subject to [section 73][102] of the Public Finance Act 1989, all fines recovered under this Act are to be paid into a Crown Bank Account.
+    (3) Subject to [section 73][103] of the Public Finance Act 1989, all fines recovered under this Act are to be paid into a Crown Bank Account.
     
     Compare: 1951 No 19 s 49
     
-    Section 49(3): amended, on 25 January 2005, pursuant to [section 65R(3)][103] of the Public Finance Act 1989 (1989 No 44).
+    Section 49(3): amended, on 25 January 2005, pursuant to [section 65R(3)][104] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 50 Delegation of functions and powers of territorial authority
     
@@ -1201,11 +1203,11 @@ Miscellaneous provisions
     
     (2) \[Repealed\]
     
-    Section 50(2): repealed, on 1 July 2003, by [section 262][90] of the Local Government Act 2002 (2002 No 84).
+    Section 50(2): repealed, on 1 July 2003, by [section 262][91] of the Local Government Act 2002 (2002 No 84).
 
 ##### 51 Sale of information obtained under Act not prevented by Copyright Act 1994
     
-*   Nothing in the [Copyright Act 1994][104] prevents any local authority or the Valuer-General from selling any information required to be provided to the Valuer-General by or under this Act.
+*   Nothing in the [Copyright Act 1994][105] prevents any local authority or the Valuer-General from selling any information required to be provided to the Valuer-General by or under this Act.
     
     Section 51: amended (but only for the purpose of rating in a financial year that begins on or after 1 July 2003), on 31 March 2002, by [section 137(1)][89] of the Local Government (Rating) Act 2002 (2002 No 6).
 
@@ -1253,7 +1255,7 @@ Miscellaneous provisions
     
 *   (1) The enactments specified in [Schedule 2][80] are amended in the manner indicated in that schedule.
     
-    (2) _Amendment(s) incorporated in the [rules][105]._
+    (2) _Amendment(s) incorporated in the [rules][106]._
 
 #### Savings
 
@@ -1341,7 +1343,7 @@ Miscellaneous provisions
     
     (3) For such time as a territorial authority is required to use the valuation services of Valuation New Zealand Limited under subsection (1), the date as at which a general revaluation of its district valuation roll must be undertaken is 1 September or such other date as the Valuer-General determines.
     
-    Section 60(2)(b): repealed, on 1 November 2010, by [section 113(1)][106] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 60(2)(b): repealed, on 1 November 2010, by [section 113(1)][107] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 61 Valuer-General and New Zealand Local Government Association to agree on which territorial authorities need not use Valuation New Zealand Limited
     
@@ -1361,7 +1363,7 @@ Miscellaneous provisions
     
     (5) Any exemption under this section may exclude from its ambit matters (including the undertaking and completion of objections) relating to valuation services that relate back to valuations made pursuant to an earlier contract between Valuation New Zealand Limited and the relevant territorial authority.
     
-    Section 61(2): repealed, on 1 November 2010, by [section 113(1)][106] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 61(2): repealed, on 1 November 2010, by [section 113(1)][107] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 62 Saving for Auckland City Council
     
@@ -1371,7 +1373,7 @@ Miscellaneous provisions
         
     *   (a) arrange for the provision of valuation services in respect of the maintenance of the district valuation roll of Auckland City up until 1 July 1999; and
     
-    *   (b) recover from the Auckland Regional Council such reasonable share of the costs of providing those services as may be agreed between the Valuer-General and the Regional Council (or, failing agreement, as may be determined by arbitration in accordance with the [Arbitration Act 1996][100]).
+    *   (b) recover from the Auckland Regional Council such reasonable share of the costs of providing those services as may be agreed between the Valuer-General and the Regional Council (or, failing agreement, as may be determined by arbitration in accordance with the [Arbitration Act 1996][101]).
     
     
 
@@ -1388,23 +1390,23 @@ Enactments repealed
 
 ##### Historic Places Act 1993 (1993 No 38)
 
-_Amendment(s) incorporated in the [Acts(s)][107]._
+_Amendment(s) incorporated in the [Acts(s)][108]._
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Acts(s)][108]._
+_Amendment(s) incorporated in the [Acts(s)][109]._
 
 ##### Public Finance Act 1989 (1989 No 44) (RS Vol 33, p 619)
 
-_Amendment(s) incorporated in the [Acts(s)][109]._
+_Amendment(s) incorporated in the [Acts(s)][110]._
 
 ##### Resource Management Act 1991 (1991 No 69) (RS Vol 32, p 131)
 
-_Amendment(s) incorporated in the [Acts(s)][110]._
+_Amendment(s) incorporated in the [Acts(s)][111]._
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Acts(s)][111]._
+_Amendment(s) incorporated in the [Acts(s)][112]._
 
 ##### Valuation of Land Act 1951 (1951 No 19) (RS Vol 21, p 851)
 
@@ -1443,35 +1445,35 @@ Amendments to other Acts
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35) (RS Vol 28, p 341)
 
-_Amendment(s) incorporated in the [Act(s)][112]._
+_Amendment(s) incorporated in the [Act(s)][113]._
 
 ##### Greymouth Harbour Board Empowering Act 1982 (1982 No 7 (L))
 
-_Amendment(s) incorporated in the [Act(s)][113]._ 
+_Amendment(s) incorporated in the [Act(s)][114]._ 
 
 ##### Joint Family Homes Act 1964 (1964 No 45) (RS Vol 27, p 637)
 
-_Amendment(s) incorporated in the [Act(s)][114]._ 
+_Amendment(s) incorporated in the [Act(s)][115]._ 
 
 ##### Land Valuation Proceedings Act 1948 (1948 No 50) (RS Vol 17, p 241)
 
-_Amendment(s) incorporated in the [Act(s)][115]._
+_Amendment(s) incorporated in the [Act(s)][116]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][116]._
+_Amendment(s) incorporated in the [Act(s)][117]._
 
 ##### Maori Affairs Restructuring Act 1989 (1989 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][117]._
+_Amendment(s) incorporated in the [Act(s)][118]._
 
 ##### Maori Reserved Land Act 1955 (1955 No 38) (RS Vol 8, p 609)
 
-_Amendment(s) incorporated in the [Act(s)][118]._
+_Amendment(s) incorporated in the [Act(s)][119]._
 
 ##### Maori Vested Lands Administration Act 1954 (1954 No 60) (RS Vol 8, p 725)
 
-_Amendment(s) incorporated in the [Act(s)][119]._
+_Amendment(s) incorporated in the [Act(s)][120]._
 
 ##### Matrimonial Property Act 1976 (1976 No 166) (RS Vol 26, p 491)
 
@@ -1479,11 +1481,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][120]._ 
+_Amendment(s) incorporated in the [Act(s)][121]._ 
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][121]._
+_Amendment(s) incorporated in the [Act(s)][122]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -1491,7 +1493,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Resource Management Act 1991 (1991 No 69) (RS Vol 32, p 131)
 
-_Amendment(s) incorporated in the [Act(s)][122]._
+_Amendment(s) incorporated in the [Act(s)][123]._
 
 ##### Soil Conservation and Rivers Control Act 1941 (1941 No 12) (RS Vol 36, p 783)
 
@@ -1499,27 +1501,27 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][123]._
+_Amendment(s) incorporated in the [Act(s)][124]._
 
 ##### Taranaki Harbours Board Empowering Act 1976 (1976 No 8 (L))
 
-_Amendment(s) incorporated in the [Act(s)][124]._
+_Amendment(s) incorporated in the [Act(s)][125]._
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
-_Amendment(s) incorporated in the [Act(s)][125]._
+_Amendment(s) incorporated in the [Act(s)][126]._
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][126]._
+_Amendment(s) incorporated in the [Act(s)][127]._
 
 ##### Unit Titles Act 1972 (1972 No 15) (RS Vol 24, p 787)
 
-_Amendment(s) incorporated in the [Act(s)][127]._
+_Amendment(s) incorporated in the [Act(s)][128]._
 
 ##### Unit Titles Amendment Act 1979 (1979 No 37) (RS Vol 24, p 851)
 
-_Amendment(s) incorporated in the [Act(s)][128]._
+_Amendment(s) incorporated in the [Act(s)][129]._
 
 ##### Valuers Act 1948 (1948 No 63) (RS Vol 11, p 723)
 
@@ -1617,23 +1619,23 @@ Replacement of rates and miscellaneous matters
 
 ###### 1 General
     
-*   This is a reprint of the Rating Valuations Act 1998\. The reprint incorporates all the amendments to the Act as at 20 June 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Rating Valuations Act 1998\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][129] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][130] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][130] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][131] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][131] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][132] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][132] and [17E][133] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][133] and [17E][134] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1664,15 +1666,17 @@ Replacement of rates and miscellaneous matters
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][106]
+*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][90]
     
-    Unit Titles Act 2010 (2010 No 22): [section 233(1)][96]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][107]
     
-    Local Government Act 2002 (2002 No 84): [section 262][90]
+    Unit Titles Act 2010 (2010 No 22): [section 233(1)][97]
+    
+    Local Government Act 2002 (2002 No 84): [section 262][91]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][89]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][103]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][104]
 
 
 
@@ -1759,54 +1763,55 @@ Replacement of rates and miscellaneous matters
 [80]: http://www.legislation.govt.nz/act/public/1998/0069/latest/whole.html#DLM427730
 [81]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM230264
 [82]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM249212
-[83]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM242541
+[83]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM242543
 [84]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM132213
 [85]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM131393
 [86]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM170872
 [87]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM249941
 [88]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM132252
 [89]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM133500
-[90]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM174088
-[91]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM129109
-[92]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195534
-[93]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195097
-[94]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM269031
-[95]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM1160400
-[96]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM1160866
-[97]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM271028
-[98]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM292863
-[99]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM249290
-[100]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM403276
-[101]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM129566
-[102]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM163137
-[103]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM162942
-[104]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM345633
-[105]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM185481
-[106]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM3016880
-[107]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM301649
-[108]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM230225
-[109]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM163182
-[110]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM242024
-[111]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM135633
-[112]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM385591
-[113]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM75563
-[114]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM353087
-[115]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM249626
-[116]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM415539
-[117]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM169979
-[118]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM289716
-[119]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM287740
-[120]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM82620
-[121]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM296644
-[122]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM237293
-[123]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM399728
-[124]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM72808
-[125]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM348342
-[126]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM289881
-[127]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM405590
-[128]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM32456
-[129]: http://www.pco.parliament.govt.nz/reprints/
-[130]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195439
-[131]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[132]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195468
-[133]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195470
+[90]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM5081570
+[91]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM174088
+[92]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM129109
+[93]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195534
+[94]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195097
+[95]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM269031
+[96]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM1160400
+[97]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM1160866
+[98]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM271028
+[99]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM292863
+[100]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM249290
+[101]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM403276
+[102]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM129566
+[103]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM163137
+[104]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM162942
+[105]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM345633
+[106]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM185481
+[107]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM3016880
+[108]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM301649
+[109]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM230225
+[110]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM163182
+[111]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM242024
+[112]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM135633
+[113]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM385591
+[114]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM75563
+[115]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM353087
+[116]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM249626
+[117]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM415539
+[118]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM169979
+[119]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM289716
+[120]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM287740
+[121]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM82620
+[122]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM296644
+[123]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM237293
+[124]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM399728
+[125]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM72808
+[126]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM348342
+[127]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM289881
+[128]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM405590
+[129]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM32456
+[130]: http://www.pco.parliament.govt.nz/reprints/
+[131]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195439
+[132]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[133]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195468
+[134]: http://www.legislation.govt.nz/act/public/1998/0069/latest/link.aspx?id=DLM195470
