@@ -206,7 +206,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     ###### Enactments consolidated
     
-    (2) This Act is a consolidation of the enactments mentioned in the [Schedule][84].
+    (2) This Act is a consolidation of the enactments mentioned in the [Schedule][82].
     
     (3) All matters and proceedings commenced under the said enactments, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
     
@@ -274,7 +274,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1895 No 23 s 2
     
-    Section 2(1) **goods**: replaced, on 8 July 2003, by [section 3][85] of the Sale of Goods Amendment Act 2003 (2003 No 35).
+    Section 2(1) **goods**: replaced, on 8 July 2003, by [section 3][84] of the Sale of Goods Amendment Act 2003 (2003 No 35).
 
 ## Part 1  
 Formation of the contract
@@ -305,9 +305,9 @@ Formation of the contract
     
     Compare: 1895 No 23 s 4
     
-    Section 4(1) proviso: amended, on 1 January 1970, by [section 18][86] of the Minors' Contracts Act 1969 (1969 No 41).
+    Section 4(1) proviso: amended, on 1 January 1970, by [section 18][85] of the Minors' Contracts Act 1969 (1969 No 41).
     
-    Section 4(2): amended, on 1 January 1970, by [section 18][86] of the Minors' Contracts Act 1969 (1969 No 41).
+    Section 4(2): amended, on 1 January 1970, by [section 18][85] of the Minors' Contracts Act 1969 (1969 No 41).
 
 #### Formalities of the contract
 
@@ -323,7 +323,7 @@ Formation of the contract
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 19 October 1956, by [section 4(1)][87] of the Contracts Enforcement Act 1956 (1956 No 23).
+    Section 6: repealed, on 19 October 1956, by [section 4(1)][86] of the Contracts Enforcement Act 1956 (1956 No 23).
 
 #### Subject matter of contract
 
@@ -395,7 +395,7 @@ Formation of the contract
     
     Compare: 1895 No 23 s 13
     
-    Section 13(3): amended, on 1 April 1980, by [section 14(1)(a)][88] of the Contractual Remedies Act 1979 (1979 No 11).
+    Section 13(3): amended, on 1 April 1980, by [section 14(1)(a)][87] of the Contractual Remedies Act 1979 (1979 No 11).
 
 ##### 14 Implied undertaking as to title, etc
     
@@ -530,15 +530,15 @@ Effects of the contract
     
     (2) Provided that nothing in this Act shall affect---
         
-    *   (a) the provisions of the [Mercantile Law Act 1908][89], or any other enactment enabling the apparent owner of goods to dispose of them as if he were the true owner thereof:
+    *   (a) the provisions of the [Mercantile Law Act 1908][88], or any other enactment enabling the apparent owner of goods to dispose of them as if he were the true owner thereof:
     
     *   (b) the validity of any contract of sale under any special common law or statutory power of sale, or under the order of a court of competent jurisdiction:
     
-    *   (c) the provisions of the [Personal Property Securities Act 1999][90] enabling a purchaser of goods to acquire good title to the goods.
+    *   (c) the provisions of the [Personal Property Securities Act 1999][89] enabling a purchaser of goods to acquire good title to the goods.
     
     Compare: 1895 No 23 s 23
     
-    Section 23(2)(c): replaced, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126). 
+    Section 23(2)(c): replaced, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126). 
 
 ##### 24 Market overt
     
@@ -564,29 +564,29 @@ Effects of the contract
     
 *   (1) Where a person, having sold goods continues or is in possession of the goods, or of the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for him, of the goods or documents of title under any sale, pledge, or other disposition thereof, or under any agreement for sale, pledge, or other disposition thereof, to any person receiving the same in good faith and without notice of the previous sale, shall have the same effect as if the person making the delivery or transfer were expressly authorised by the owner of the goods to make the same.
     
-    (1A) Subsection (1) does not apply to a delivery or transfer of goods or documents of title to the goods by a person who is, with the consent of the holder of a security interest that has been perfected under the [Personal Property Securities Act 1999][90], in possession of the goods or documents of title to the goods.
+    (1A) Subsection (1) does not apply to a delivery or transfer of goods or documents of title to the goods by a person who is, with the consent of the holder of a security interest that has been perfected under the [Personal Property Securities Act 1999][89], in possession of the goods or documents of title to the goods.
     
     (2) Where a person, having bought or agreed to buy goods, obtains, with the consent of the seller, possession of the goods or the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for him, of the goods or documents of title, under any sale, pledge, or other disposition thereof, or under any agreement for sale, pledge, or other disposition thereof, to any person receiving the same in good faith and without notice of any lien or other right of the original seller in respect of the goods, shall have the same effect as if the person making the delivery or transfer were a mercantile agent in possession of the goods or documents of title with the consent of the owner.
     
-    (2A) Subsection (2) does not apply to a delivery or transfer of goods or documents of title to the goods by a person who is, with the consent of the holder of a security interest that has been perfected under the [Personal Property Securities Act 1999][90], in possession of the goods or documents of title to the goods.
+    (2A) Subsection (2) does not apply to a delivery or transfer of goods or documents of title to the goods by a person who is, with the consent of the holder of a security interest that has been perfected under the [Personal Property Securities Act 1999][89], in possession of the goods or documents of title to the goods.
     
     (3) In this section,---
     
-    _mercantile agent_ has the same meaning as in [Part 1][92] of the Mercantile Law Act 1908
+    _mercantile agent_ has the same meaning as in [Part 1][91] of the Mercantile Law Act 1908
     
-    _security interest_ has the same meaning as in [section 17][93] of the Personal Property Securities Act 1999\.
+    _security interest_ has the same meaning as in [section 17][92] of the Personal Property Securities Act 1999\.
     
     Compare: 1890 No 11 ss 10, 11; 1895 No 23 s 27
     
-    Section 27(1A): inserted, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 27(1A): inserted, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 27(2) first proviso: repealed, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 27(2) first proviso: repealed, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 27(2) second proviso: repealed, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 27(2) second proviso: repealed, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 27(2A): inserted, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126). 
+    Section 27(2A): inserted, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126). 
     
-    Section 27(3): replaced, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126). 
+    Section 27(3): replaced, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126). 
 
 ##### 28 Effect of writs of execution
     
@@ -683,7 +683,7 @@ Performance of the contract
     
     Compare: 1895 No 23 s 37
     
-    Section 37: amended, on 1 April 1980, by [section 14(1)(b)][88] of the Contractual Remedies Act 1979 (1979 No 11).
+    Section 37: amended, on 1 April 1980, by [section 14(1)(b)][87] of the Contractual Remedies Act 1979 (1979 No 11).
 
 ##### 38 Buyer not bound to return rejected goods
     
@@ -896,9 +896,9 @@ Supplementary
 
 ##### 56A Exclusion where Consumer Guarantees Act 1993 applies
     
-*   Nothing in [section 10][16] or in [sections 13 to 17][20] or in [section 38][50] or in [section 54][73] shall apply to any supply of goods to which the [Consumer Guarantees Act 1993][94] applies.
+*   Nothing in [section 10][16] or in [sections 13 to 17][20] or in [section 38][50] or in [section 54][73] shall apply to any supply of goods to which the [Consumer Guarantees Act 1993][93] applies.
     
-    Section 56A: inserted, on 1 April 1994, by [section 48][95] of the Consumer Guarantees Act 1993 (1993 No 91).
+    Section 56A: inserted, on 1 April 1994, by [section 48][94] of the Consumer Guarantees Act 1993 (1993 No 91).
 
 ##### 57 Reasonable time a question of fact
     
@@ -959,7 +959,7 @@ Commencement8 December 1971
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Layby Sales Act 1971][96], and shall be read together with and deemed part of the Sale of Goods Act 1908\.
+*   This Act may be cited as the [Layby Sales Act 1971][95], and shall be read together with and deemed part of the Sale of Goods Act 1908\.
 
 ##### 2 Interpretation
     
@@ -1001,9 +1001,9 @@ Commencement8 December 1971
     
     *   (b) the goods sold or agreed to be sold are mainly or wholly vehicles that are motor vehicles for the purposes of the Motor Vehicle Sales Act 2003 and the seller is a motor vehicle trader registered under that Act.
     
-    Section 4(a): amended, on 15 November 2000, by [section 3][97] of the Layby Sales Amendment Act 2000 (2000 No 70).
+    Section 4(a): amended, on 15 November 2000, by [section 3][96] of the Layby Sales Amendment Act 2000 (2000 No 70).
     
-    Section 4(b): amended, on 15 December 2003, by [section 145][98] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+    Section 4(b): amended, on 15 December 2003, by [section 145][97] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 
 ##### 5 Act to bind the Crown
     
@@ -1093,13 +1093,13 @@ Commencement8 December 1971
     
     (4) If any buyer makes any payment on account of the purchase price after the commencement of the bankruptcy or liquidation or the appointment he shall be entitled to have that payment refunded in full unless the purchase is completed in accordance with subsection (1).
     
-    Section 10 heading: amended, on 1 July 1994, pursuant to [section 2][99] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 10 heading: amended, on 1 July 1994, pursuant to [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 10(1): amended, on 1 July 1994, by [section 2][99] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 10(1): amended, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 10(3)(b): amended, on 26 April 2005, by [section 7][100] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 10(3)(b): amended, on 26 April 2005, by [section 7][99] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 10(4): amended, on 1 July 1994, by [section 2][99] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 10(4): amended, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 11 Preference on liquidation, bankruptcy, or receivership of seller
     
@@ -1109,9 +1109,9 @@ Commencement8 December 1971
         
     *   (a) is over all or any part of the seller's accounts receivable and inventory or all or any part of either of them; and
     
-    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][101] of the Personal Property Securities Act 1999; and
+    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][100] of the Personal Property Securities Act 1999; and
     
-    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][90] at the commencement of the liquidation, or at the time of the receiver's appointment, or at the date of adjudication, as the case may be, and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][89] at the commencement of the liquidation, or at the time of the receiver's appointment, or at the date of adjudication, as the case may be, and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
     
     (2) Debts to which priority is given by subsection (1) must be paid in accordance with section 312 and Schedule 7 of the Companies Act 1993, or section 30 of the Receiverships Act 1993, or section 274(3) of the Insolvency Act 2006, as the case may be.
     
@@ -1121,23 +1121,23 @@ Commencement8 December 1971
     
     (5) The provisions of this section, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a seller's property that was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
     
-    Section 11 heading: amended, on 1 July 1994, pursuant to [section 2][99] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 11 heading: amended, on 1 July 1994, pursuant to [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 11(1): amended, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(1): amended, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 11(1): amended, on 1 July 1994, by [section 2][99] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 11(1): amended, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 11(1A): inserted, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(1A): inserted, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 11(1A)(b): amended, on 3 December 2007, by [section 445][102] of the Insolvency Act 2006 (2006 No 55).
+    Section 11(1A)(b): amended, on 3 December 2007, by [section 445][101] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 11(1A)(c): amended, on 3 December 2007, by [section 445][102] of the Insolvency Act 2006 (2006 No 55).
+    Section 11(1A)(c): amended, on 3 December 2007, by [section 445][101] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 11(2): replaced, on 3 December 2007, by [section 445][102] of the Insolvency Act 2006 (2006 No 55).
+    Section 11(2): replaced, on 3 December 2007, by [section 445][101] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 11(4): inserted, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(4): inserted, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 11(5): inserted, on 1 May 2002, by [section 191(1)][91] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(5): inserted, on 1 May 2002, by [section 191(1)][90] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 12 Service of notices
     
@@ -1153,9 +1153,9 @@ Commencement8 December 1971
     
     (6) This section does not apply to notices or other documents served in any proceedings in any court.
     
-    Section 12(3): amended, on 1 April 1980, pursuant to [section 18(2)][103] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(3): amended, on 1 April 1980, pursuant to [section 18(2)][102] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(5): amended, on 1 April 1980, pursuant to [section 18(2)][103] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(5): amended, on 1 April 1980, pursuant to [section 18(2)][102] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 13 Buyer's rights protected
     
@@ -1173,7 +1173,7 @@ Commencement8 December 1971
     
 *   Nothing in this Act shall derogate from the provisions of the Door to Door Sales Act 1967\.
     
-    Section 15: amended, on 1 April 2005, by [section 139][104] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 15: amended, on 1 April 2005, by [section 139][103] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ---
 
@@ -1193,21 +1193,21 @@ Commencement8 December 1971
     
 *   This is a reprint of the Sale of Goods Act 1908\. The reprint incorporates all the amendments to the Act as at 8 July 2003, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][105] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][104] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][106] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][105] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][107] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][106] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][108] and [17E][109] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][107] and [17E][108] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1238,21 +1238,21 @@ Commencement8 December 1971
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Sale of Goods Amendment Act 2003][110] (2003 No 35)
+*   [Sale of Goods Amendment Act 2003][109] (2003 No 35)
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][91]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][90]
     
-    Consumer Guarantees Act 1993 (1993 No 91): [section 48][95]
+    Consumer Guarantees Act 1993 (1993 No 91): [section 48][94]
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][83]
     
-    Contractual Remedies Act 1979 (1979 No 11): [section 14(1)][88]
+    Contractual Remedies Act 1979 (1979 No 11): [section 14(1)][87]
     
-    Minors' Contracts Act 1969 (1969 No 41): [section 18][86]
+    Minors' Contracts Act 1969 (1969 No 41): [section 18][85]
     
     Sale of Goods Amendment Act 1961 (1961 No 98)
     
-    Contracts Enforcement Act 1956 (1956 No 23): [section 4(1)][87]
+    Contracts Enforcement Act 1956 (1956 No 23): [section 4(1)][86]
 
 
 
@@ -1340,30 +1340,29 @@ Commencement8 December 1971
 [81]: http://www.legislation.govt.nz/act/public/1908/0168/latest/whole.html#DLM175005
 [82]: http://www.legislation.govt.nz/act/public/1908/0168/latest/whole.html#DLM4464410
 [83]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM94263
-[84]: http://www.legislation.govt.nz/act/public/1908/0168/latest/whole.html#DLM175006
-[85]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM198945
-[86]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM392622
-[87]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM294274
-[88]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM32004
-[89]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM171944
-[90]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM45599
-[91]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM47639
-[92]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM171950
-[93]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM46187
-[94]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM311052
-[95]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM312875
-[96]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM405080
-[97]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM77710
-[98]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM188945
-[99]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM328986
-[100]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM333795
-[101]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM46737
-[102]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM387857
-[103]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM35085
-[104]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM213532
-[105]: http://www.pco.parliament.govt.nz/reprints/
-[106]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM195439
-[107]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[108]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM195468
-[109]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM195470
-[110]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM198939
+[84]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM198945
+[85]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM392622
+[86]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM294274
+[87]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM32004
+[88]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM171944
+[89]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM45599
+[90]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM47639
+[91]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM171950
+[92]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM46187
+[93]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM311052
+[94]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM312875
+[95]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM405080
+[96]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM77710
+[97]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM188945
+[98]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM328986
+[99]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM333795
+[100]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM46737
+[101]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM387857
+[102]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM35085
+[103]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM213532
+[104]: http://www.pco.parliament.govt.nz/reprints/
+[105]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM195439
+[106]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[107]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM195468
+[108]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM195470
+[109]: http://www.legislation.govt.nz/act/public/1908/0168/latest/link.aspx?id=DLM198939
