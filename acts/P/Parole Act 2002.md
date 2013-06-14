@@ -23,452 +23,452 @@ This Act is administered by the Ministry of Justice and the Department of Correc
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Parole and other release from detention][3]
 
-[Subpart 1][4]---[Preliminary provisions relating to parole and other release from detention][4]
+[Subpart 1][4][---][4][Preliminary provisions relating to parole and other release from detention][4]
 
-[3][5] [Purpose][5]
+[3][5][][5][Purpose][5]
 
-[4][6] [Interpretation][6]
+[4][6][][6][Interpretation][6]
 
-[5][7] [Act binds the Crown][7]
+[5][7][][7][Act binds the Crown][7]
 
-[Subpart 2][8]---[Release][8]
+[Subpart 2][8][---][8][Release][8]
 
 [General provisions][9]
 
-[6][10] [Overview of release][10]
+[6][10][][10][Overview of release][10]
 
-[7][11] [Guiding principles][11]
+[7][11][][11][Guiding principles][11]
 
-[8][12] [Part applies to all offenders][12]
+[8][12][][12][Part applies to all offenders][12]
 
-[9][13] [Application of Part to persons subject to term of imprisonment][13]
+[9][13][][13][Application of Part to persons subject to term of imprisonment][13]
 
-[10][14] [Application to offenders detained in hospital or secure facility][14]
+[10][14][][14][Application to offenders detained in hospital or secure facility][14]
 
-[11][15] [Application of Part to offenders detained in social welfare residence][15]
+[11][15][][15][Application of Part to offenders detained in social welfare residence][15]
 
-[12][16] [This Part subject to other orders][16]
+[12][16][][16][This Part subject to other orders][16]
 
-[13][17] [General rules about information to be given to offenders][17]
+[13][17][][17][General rules about information to be given to offenders][17]
 
-[13AA][18] [Application for confidentiality order][18]
+[13AA][18][][18][Application for confidentiality order][18]
 
-[13AB][19] [Making of confidentiality order][19]
+[13AB][19][][19][Making of confidentiality order][19]
 
-[13AC][20] [Effect of confidentiality order][20]
+[13AC][20][][20][Effect of confidentiality order][20]
 
-[13AD][21] [If confidentiality order not made][21]
+[13AD][21][][21][If confidentiality order not made][21]
 
-[13AE][22] [Variation or rescission of confidentiality order][22]
+[13AE][22][][22][Variation or rescission of confidentiality order][22]
 
-[13A][23] [Procedure of Board during epidemic][23]
+[13A][23][][23][Procedure of Board during epidemic][23]
 
 [Conditions][24]
 
-[14][25] [Standard release conditions][25]
+[14][25][][25][Standard release conditions][25]
 
-[15][26] [Special conditions][26]
+[15][26][][26][Special conditions][26]
 
-[15A][27] [Electronic monitoring][27]
+[15A][27][][27][Electronic monitoring][27]
 
-[16][28] [Programmes][28]
+[16][28][][28][Programmes][28]
 
 [Release at statutory release date][29]
 
-[17][30] [Release at statutory release date][30]
+[17][30][][30][Release at statutory release date][30]
 
-[18][31] [Conditions applying to release at statutory release date][31]
+[18][31][][31][Conditions applying to release at statutory release date][31]
 
-[19][32] [Special provision for offenders sentenced to short-term sentences while on parole][32]
+[19][32][][32][Special provision for offenders sentenced to short-term sentences while on parole][32]
 
 [Parole][33]
 
-[20][34] [Parole eligibility date][34]
+[20][34][][34][Parole eligibility date][34]
 
-[21][35] [Consideration for parole of offenders detained in prison][35]
+[21][35][][35][Consideration for parole of offenders detained in prison][35]
 
-[22][36] [Date of hearings][36]
+[22][36][][36][Date of hearings][36]
 
-[23][37] [No consideration for parole of offenders on compassionate release][37]
+[23][37][][37][No consideration for parole of offenders on compassionate release][37]
 
-[24][38] [Consideration of offenders unlawfully at large when due to be considered for parole][38]
+[24][38][][38][Consideration of offenders unlawfully at large when due to be considered for parole][38]
 
-[25][39] [Early referral and consideration for parole][39]
+[25][39][][39][Early referral and consideration for parole][39]
 
-[26][40] [Other times when Board may consider offenders for parole][40]
+[26][40][][40][Other times when Board may consider offenders for parole][40]
 
-[27][41] [Postponement of consideration for parole][41]
+[27][41][][41][Postponement of consideration for parole][41]
 
-[27A][42] [Consideration of offenders for parole during epidemic][42]
+[27A][42][][42][Consideration of offenders for parole during epidemic][42]
 
-[28][43] [Direction for release on parole][43]
+[28][43][][43][Direction for release on parole][43]
 
-[29][44] [Release conditions applying to parole][44]
+[29][44][][44][Release conditions applying to parole][44]
 
-[29A][45] [Release conditions for person to whom extended supervision order applies][45]
+[29A][45][][45][Release conditions for person to whom extended supervision order applies][45]
 
-[29B][46] [Board may monitor compliance with conditions][46]
+[29B][46][][46][Board may monitor compliance with conditions][46]
 
-[30][47] [Release conditions applying to offenders detained in hospital or secure facility who are released on parole][47]
+[30][47][][47][Release conditions applying to offenders detained in hospital or secure facility who are released on parole][47]
 
-[31][48] [When release conditions discharged or suspended][48]
+[31][48][][48][When release conditions discharged or suspended][48]
 
-[32][49] [When parole ends][49]
+[32][49][][49][When parole ends][49]
 
 [Residential restrictions][50]
 
-[33][51] [Residential restrictions][51]
+[33][51][][51][Residential restrictions][51]
 
-[34][52] [Prior report on suitability of residential restrictions][52]
+[34][52][][52][Prior report on suitability of residential restrictions][52]
 
-[35][53] [Residential restrictions only to be imposed if residence suitable and occupants consent][53]
+[35][53][][53][Residential restrictions only to be imposed if residence suitable and occupants consent][53]
 
-[36][54] [Detention conditions][54] \[Repealed\]
+[36][54][][54][Detention conditions][54] \[Repealed\]
 
-[37][55] [Expiry and revocation of direction for home detention][55] \[Repealed\]
+[37][55][][55][Expiry and revocation of direction for home detention][55] \[Repealed\]
 
-[38][56] [Residential restrictions do not affect entitlements under Social Security Act 1964][56]
+[38][56][][56][Residential restrictions do not affect entitlements under Social Security Act 1964][56]
 
-[39][57] [When detention conditions suspended or cancelled][57] \[Repealed\]
+[39][57][][57][When detention conditions suspended or cancelled][57] \[Repealed\]
 
-[40][58] [When home detention ends][58] \[Repealed\]
+[40][58][][58][When home detention ends][58] \[Repealed\]
 
-[40A][59] [Applications for home detention during epidemic][59] \[Repealed\]
+[40A][59][][59][Applications for home detention during epidemic][59] \[Repealed\]
 
 [Compassionate release][60]
 
-[41][61] [Board may direct early release on compassionate grounds][61]
+[41][61][][61][Board may direct early release on compassionate grounds][61]
 
 [Procedures for certain hearings][62]
 
-[42][63] [Application of procedures set out in sections 43 to 50][63]
+[42][63][][63][Application of procedures set out in sections 43 to 50][63]
 
-[43][64] [Start of process][64]
+[43][64][][64][Start of process][64]
 
-[43A][65] [Consultation and disclosure necessary to provide reports][65]
+[43A][65][][65][Consultation and disclosure necessary to provide reports][65]
 
-[44][66] [Information for victims][66]
+[44][66][][66][Information for victims][66]
 
-[45][67] [Decision on type of hearing][67]
+[45][67][][67][Decision on type of hearing][67]
 
-[46][68] [Review of decision on type of hearing][68]
+[46][68][][68][Review of decision on type of hearing][68]
 
-[47][69] [Interviews of offender before hearings][69]
+[47][69][][69][Interviews of offender before hearings][69]
 
-[48][70] [Unattended hearings][70]
+[48][70][][70][Unattended hearings][70]
 
-[49][71] [Attended hearing][71]
+[49][71][][71][Attended hearing][71]
 
-[50][72] [Decisions must be notified][72]
+[50][72][][72][Decisions must be notified][72]
 
-[50A][73] [Submissions from, and interviews with, certain victims][73]
+[50A][73][][73][Submissions from, and interviews with, certain victims][73]
 
-[50B][74] [Decisions to be notified to certain victims][74]
+[50B][74][][74][Decisions to be notified to certain victims][74]
 
 [Actual release][75]
 
-[51][76] [Date of release][76]
+[51][76][][76][Date of release][76]
 
-[52][77] [Release of offenders released at statutory release date][77]
+[52][77][][77][Release of offenders released at statutory release date][77]
 
-[53][78] [Licence issued on release][78]
+[53][78][][78][Licence issued on release][78]
 
-[54][79] [Police must be advised][79]
+[54][79][][79][Police must be advised][79]
 
-[55][80] [Offenders may be released early for deportation][80]
+[55][80][][80][Offenders may be released early for deportation][80]
 
-[55A][81] [Implementation of early release for deportation][81]
+[55A][81][][81][Implementation of early release for deportation][81]
 
-[55B][82] [Offenders released early remain offenders under New Zealand law][82]
+[55B][82][][82][Offenders released early remain offenders under New Zealand law][82]
 
 [Variation and discharge of conditions][83]
 
-[56][84] [Application for variation or discharge of conditions][84]
+[56][84][][84][Application for variation or discharge of conditions][84]
 
-[56A][85] [Application of section 56 during epidemic][85]
+[56A][85][][85][Application of section 56 during epidemic][85]
 
-[57][86] [Procedure for determining applications][86]
+[57][86][][86][Procedure for determining applications][86]
 
-[58][87] [Board determines application for variation or discharge][87]
+[58][87][][87][Board determines application for variation or discharge][87]
 
 [Recall][88]
 
-[59][89] [Definition of recall application][89]
+[59][89][][89][Definition of recall application][89]
 
-[60][90] [Making recall application][90]
+[60][90][][90][Making recall application][90]
 
-[61][91] [Grounds for recall][91]
+[61][91][][91][Grounds for recall][91]
 
-[62][92] [Making interim recall order][92]
+[62][92][][92][Making interim recall order][92]
 
-[63][93] [What happens when interim recall order made][93]
+[63][93][][93][What happens when interim recall order made][93]
 
-[64][94] [What happens if no interim recall order made][94]
+[64][94][][94][What happens if no interim recall order made][94]
 
-[65][95] [Procedure for determining recall applications][95]
+[65][95][][95][Procedure for determining recall applications][95]
 
-[65A][96] [Application of section 65 during epidemic][96]
+[65A][96][][96][Application of section 65 during epidemic][96]
 
-[66][97] [Board may make final recall order][97]
+[66][97][][97][Board may make final recall order][97]
 
-[66A][98] [Protection of constables][98]
+[66A][98][][98][Protection of constables][98]
 
 [Reviews and appeals from decisions][99]
 
-[67][100] [Review of decisions][100]
+[67][100][][100][Review of decisions][100]
 
-[68][101] [Appeal to High Court against postponement orders, section 107 orders, and final recall orders][101]
+[68][101][][101][Appeal to High Court against postponement orders, section 107 orders, and final recall orders][101]
 
-[69][102] [Procedure on appeal against postponement orders, section 107 orders, and final recall orders][102]
+[69][102][][102][Procedure on appeal against postponement orders, section 107 orders, and final recall orders][102]
 
-[70][103] [Powers of court on appeal][103]
+[70][103][][103][Powers of court on appeal][103]
 
 [Offences][104]
 
-[71][105] [Offence to breach conditions][105]
+[71][105][][105][Offence to breach conditions][105]
 
-[72][106] [Offence to refuse entry to residence specified under residential restrictions][106]
+[72][106][][106][Offence to refuse entry to residence specified under residential restrictions][106]
 
 [Arrest of offenders][107]
 
-[73][108] [Arrest without warrant][108]
+[73][108][][108][Arrest without warrant][108]
 
-[73A][109] [Power to enter premises to arrest][109]
+[73A][109][][109][Power to enter premises to arrest][109]
 
 [Regulations][110]
 
-[74][111] [Regulations][111]
+[74][111][][111][Regulations][111]
 
-[Subpart 3][112]---[Sentence calculation][112]
+[Subpart 3][112][---][112][Sentence calculation][112]
 
 [Cumulative sentences][113]
 
-[75][114] [Cumulative sentences form notional single sentence][114]
+[75][114][][114][Cumulative sentences form notional single sentence][114]
 
 [Start date of sentence of imprisonment][115]
 
-[76][116] [General rules about start date of sentence of imprisonment][116]
+[76][116][][116][General rules about start date of sentence of imprisonment][116]
 
-[77][117] [Start date of notional single sentence][117]
+[77][117][][117][Start date of notional single sentence][117]
 
-[78][118] [Deferred start date][118]
+[78][118][][118][Deferred start date][118]
 
-[79][119] [Start date if later sentence replaces original sentence][119]
+[79][119][][119][Start date if later sentence replaces original sentence][119]
 
-[80][120] [Start date after temporary surrender to New Zealand][120]
+[80][120][][120][Start date after temporary surrender to New Zealand][120]
 
-[81][121] [Start date of sentence of imprisonment when term imposed][121]
+[81][121][][121][Start date of sentence of imprisonment when term imposed][121]
 
 [Sentence expiry dates][122]
 
-[82][123] [Sentence expiry date][123]
+[82][123][][123][Sentence expiry date][123]
 
-[83][124] [Sentence expiry date of pre-cd sentence][124]
+[83][124][][124][Sentence expiry date of pre-cd sentence][124]
 
 [Non-parole periods][125]
 
-[84][126] [Non-parole periods][126]
+[84][126][][126][Non-parole periods][126]
 
-[85][127] [Pre-cd sentences do not have non-parole periods][127]
+[85][127][][127][Pre-cd sentences do not have non-parole periods][127]
 
 [Release dates][128]
 
-[86][129] [Release date of sentence][129]
+[86][129][][129][Release date of sentence][129]
 
-[87][130] [Release date of pre-cd sentence][130]
+[87][130][][130][Release date of pre-cd sentence][130]
 
 [Determining key dates][131]
 
-[88][132] [Chief executive must determine key dates, etc][132]
+[88][132][][132][Chief executive must determine key dates, etc][132]
 
 [Determining how much time has been served][133]
 
-[89][134] [Determining time served][134]
+[89][134][][134][Determining time served][134]
 
-[90][135] [Period spent in pre-sentence detention deemed to be time served][135]
+[90][135][][135][Period spent in pre-sentence detention deemed to be time served][135]
 
-[91][136] [Meaning of pre-sentence detention][136]
+[91][136][][136][Meaning of pre-sentence detention][136]
 
-[92][137] [Procedure for recording length of pre-sentence detention][137]
+[92][137][][137][Procedure for recording length of pre-sentence detention][137]
 
-[93][138] [Definition of extradition offender and ICC offender and MACM offender][138]
+[93][138][][138][Definition of extradition offender and ICC offender and MACM offender][138]
 
-[94][139] [Time ceases to run in certain circumstances][139]
+[94][139][][139][Time ceases to run in certain circumstances][139]
 
-[95][140] [Time on bail pending appeal does not count as time served][140]
+[95][140][][140][Time on bail pending appeal does not count as time served][140]
 
-[96][141] [Period between quashed sentence and new sentence does not count as time served][141]
+[96][141][][141][Period between quashed sentence and new sentence does not count as time served][141]
 
-[Subpart 4][142]---[Transitional arrangements for offenders subject to pre-cd sentences][142]
+[Subpart 4][142][---][142][Transitional arrangements for offenders subject to pre-cd sentences][142]
 
 [General rules][143]
 
-[97][144] [Application of this Part to offenders subject to pre-cd sentences][144]
+[97][144][][144][Application of this Part to offenders subject to pre-cd sentences][144]
 
-[98][145] [Transitional provisions for hearings within 3 months after commencement date][145]
+[98][145][][145][Transitional provisions for hearings within 3 months after commencement date][145]
 
-[99][146] [Chief executive may exercise certain powers before commencement date][146]
+[99][146][][146][Chief executive may exercise certain powers before commencement date][146]
 
-[100][147] [Offenders subject to non-association orders][147]
+[100][147][][147][Offenders subject to non-association orders][147]
 
-[101][148] [Corrective training deemed to be short-term sentence][148]
+[101][148][][148][Corrective training deemed to be short-term sentence][148]
 
-[102][149] [Suspended sentences][149]
+[102][149][][149][Suspended sentences][149]
 
 [Release at final release date][150]
 
-[103][151] [Purpose and effect of section 104][151]
+[103][151][][151][Purpose and effect of section 104][151]
 
-[104][152] [Release at final release date][152]
+[104][152][][152][Release at final release date][152]
 
-[105][153] [Calculation of final release dates][153]
+[105][153][][153][Calculation of final release dates][153]
 
-[106][154] [Variation and cancellation of final release dates][154]
+[106][154][][154][Variation and cancellation of final release dates][154]
 
-[107][155] [Order that offender not be released][155]
+[107][155][][155][Order that offender not be released][155]
 
 [Part 1A][156]  
 [Extended supervision orders][156]
 
 [Preliminary][157]
 
-[107A][158] [Overview of Part][158]
+[107A][158][][158][Overview of Part][158]
 
-[107B][159] [Meaning of relevant offence][159]
+[107B][159][][159][Meaning of relevant offence][159]
 
-[107C][160] [Meaning of eligible offender][160]
+[107C][160][][160][Meaning of eligible offender][160]
 
-[107D][161] [Meaning of sentencing court][161]
+[107D][161][][161][Meaning of sentencing court][161]
 
-[107E][162] [Obligation to assess eligible offenders][162]
+[107E][162][][162][Obligation to assess eligible offenders][162]
 
 [Application for, and making of extended supervision orders][163]
 
-[107F][164] [Chief executive may apply for extended supervision order][164]
+[107F][164][][164][Chief executive may apply for extended supervision order][164]
 
-[107G][165] [Procedure following application for extended supervision order][165]
+[107G][165][][165][Procedure following application for extended supervision order][165]
 
-[107GA][166] [Application of section 107G during epidemic][166]
+[107GA][166][][166][Application of section 107G during epidemic][166]
 
-[107H][167] [Hearings relating to extended supervision orders][167]
+[107H][167][][167][Hearings relating to extended supervision orders][167]
 
-[107I][168] [Sentencing court may make extended supervision order][168]
+[107I][168][][168][Sentencing court may make extended supervision order][168]
 
-[107IA][169] [Court may impose special conditions on interim basis][169]
+[107IA][169][][169][Court may impose special conditions on interim basis][169]
 
 [Nature of extended supervision order][170]
 
-[107J][171] [Conditions of extended supervision order][171]
+[107J][171][][171][Conditions of extended supervision order][171]
 
-[107JA][172] [Standard extended supervision conditions][172]
+[107JA][172][][172][Standard extended supervision conditions][172]
 
-[107K][173] [Board may impose special conditions][173]
+[107K][173][][173][Board may impose special conditions][173]
 
-[107L][174] [Commencement and expiry of extended supervision order][174]
+[107L][174][][174][Commencement and expiry of extended supervision order][174]
 
 [Cancellation, extension, variation, and suspension of extended supervision orders or conditions][175]
 
-[107M][176] [Sentencing court may cancel extended supervision order][176]
+[107M][176][][176][Sentencing court may cancel extended supervision order][176]
 
-[107N][177] [Extension of short extended supervision order][177]
+[107N][177][][177][Extension of short extended supervision order][177]
 
-[107O][178] [Board may vary conditions of extended supervision order][178]
+[107O][178][][178][Board may vary conditions of extended supervision order][178]
 
-[107P][179] [Suspension of conditions of extended supervision order][179]
+[107P][179][][179][Suspension of conditions of extended supervision order][179]
 
-[107Q][180] [Effect of new sentence on offender subject to extended supervision order][180]
+[107Q][180][][180][Effect of new sentence on offender subject to extended supervision order][180]
 
 [Appeals and reviews][181]
 
-[107R][182] [Appeals against decisions of sentencing court][182]
+[107R][182][][182][Appeals against decisions of sentencing court][182]
 
-[107S][183] [Review of Board decisions][183]
+[107S][183][][183][Review of Board decisions][183]
 
 [Miscellaneous provisions][184]
 
-[107T][185] [Offence to breach extended supervision order][185]
+[107T][185][][185][Offence to breach extended supervision order][185]
 
-[107U][186] [Rules about court practice and procedure][186]
+[107U][186][][186][Rules about court practice and procedure][186]
 
-[107V][187] [Additional victim notification][187]
+[107V][187][][187][Additional victim notification][187]
 
-[107W][188] [Information about victims not to be disclosed][188]
+[107W][188][][188][Information about victims not to be disclosed][188]
 
-[107X][189] [Application of Legal Services Act 2000][189]
+[107X][189][][189][Application of Legal Services Act 2000][189]
 
 [Transitional measures][190]
 
-[107Y][191] [Definitions][191]
+[107Y][191][][191][Definitions][191]
 
-[107Z][192] [Applications in respect of transitional eligible offenders to be made within first 6 months after commencement][192]
+[107Z][192][][192][Applications in respect of transitional eligible offenders to be made within first 6 months after commencement][192]
 
 [Part 2][193]  
 [New Zealand Parole Board and amendments to other enactments relating to parole and release generally][193]
 
 [Establishment of Board][194]
 
-[108][195] [New Zealand Parole Board established][195]
+[108][195][][195][New Zealand Parole Board established][195]
 
-[109][196] [Functions of Board][196]
+[109][196][][196][Functions of Board][196]
 
-[110][197] [Department of Corrections to provide administrative and training support to Board][197]
+[110][197][][197][Department of Corrections to provide administrative and training support to Board][197]
 
 [Membership of Board][198]
 
-[111][199] [Membership of Board][199]
+[111][199][][199][Membership of Board][199]
 
-[112][200] [Chairperson of Board][200]
+[112][200][][200][Chairperson of Board][200]
 
-[113][201] [Delegation of chairperson's functions, powers, and duties][201]
+[113][201][][201][Delegation of chairperson's functions, powers, and duties][201]
 
-[114][202] [Panel convenors][202]
+[114][202][][202][Panel convenors][202]
 
 [How Board performs its functions][203]
 
-[115][204] [Parole panels][204]
+[115][204][][204][Parole panels][204]
 
-[116][205] [Decisions of Board][205]
+[116][205][][205][Decisions of Board][205]
 
-[117][206] [Information before Board][206]
+[117][206][][206][Information before Board][206]
 
-[117A][207] [Board may regulate own procedure][207]
+[117A][207][][207][Board may regulate own procedure][207]
 
-[118][208] [Avoiding actual or perceived bias][208]
+[118][208][][208][Avoiding actual or perceived bias][208]
 
 [Summoning witnesses][209]
 
-[118A][210] [Power to summon witnesses][210]
+[118A][210][][210][Power to summon witnesses][210]
 
-[118B][211] [Service of summons][211]
+[118B][211][][211][Service of summons][211]
 
-[118C][212] [Protection of witnesses][212]
+[118C][212][][212][Protection of witnesses][212]
 
-[118D][213] [Offences][213]
+[118D][213][][213][Offences][213]
 
 [General provisions about Board and members][214]
 
-[119][215] [Annual report][215]
+[119][215][][215][Annual report][215]
 
-[120][216] [Term of appointment, and reappointment][216]
+[120][216][][216][Term of appointment, and reappointment][216]
 
-[121][217] [Members ceasing to hold office][217]
+[121][217][][217][Members ceasing to hold office][217]
 
-[122][218] [Remuneration and expenses of members][218]
+[122][218][][218][Remuneration and expenses of members][218]
 
-[123][219] [Immunity of members][219]
+[123][219][][219][Immunity of members][219]
 
-[124][220] [Abolition of Parole Board and District Prisons Boards][220]
+[124][220][][220][Abolition of Parole Board and District Prisons Boards][220]
 
 [Acts amended][221]
 
-[125][222] [Acts amended][222]
+[125][222][][222][Acts amended][222]
 
 [Schedule][223]  
 [Amendments to other enactments][223]
@@ -3237,7 +3237,7 @@ Extended supervision orders
     
     *   (j) [section 132(1)][437] (sexual connection with child under 12):
     
-    *   (k) [section 130(2)][434] (attempted sexual connection with child under 12):
+    *   (k) [section 132(2)][437] (attempted sexual connection with child under 12):
     
     *   (l) [section 132(3)][434] (indecent act on child under 12):
     
