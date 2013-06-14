@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2011
+as at 14 May 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1705,11 +1705,35 @@ Appointment and discharge of trustees
     
     (3) The court may, upon any such application, make an order appointing some proper person as trustee in place of the trustee so desirous of being discharged from his trust, and direct any accounts and inquiries to be made, and make an order discharging the trustee from the trust and from all liability in respect thereof, and may make such order as to costs or otherwise as it thinks fit, and may exercise any of the powers contained in [Part 5][92]; and the person who upon the making of the order becomes trustee shall have the same rights and powers as he would have had if appointed by judgment in an action duly instituted.
     
-    (4) If on any such application the court thinks proper to appoint Public Trust to be trustee instead of the retiring trustee, it shall be the duty of Public Trust to undertake the trust.
+    (4) If the court, on an application under subsection (2) by a trustee other than a securities trustee, appoints Public Trust as the replacement trustee, Public Trust must accept the appointment.
+    
+    (5) On an application under subsection (2) by a securities trustee for the appointment of Public Trust as the replacement trustee, the court may appoint Public Trust, and Public Trust must accept the appointment, only if---
+        
+    *   (a) the retiring trustee has failed to obtain a replacement trustee after making reasonable endeavours to do so; and
+    
+    *   (b) it is impracticable or difficult to obtain a replacement trustee without an order under this section; and
+    
+    *   (c) the retiring trustee indemnifies Public Trust for its reasonable fees and expenses incurred in undertaking the appointment; and
+    
+    *   (d) the retiring trustee has provided security to the satisfaction of the court for its indemnity under paragraph (c).
+    
+    (6) For the purposes of subsection (5)(a), and without limiting the meaning of reasonable endeavours, a retiring trustee has not made reasonable endeavours to obtain a replacement trustee if it has not both---
+        
+    *   (a) undertaken to indemnify the proposed replacement trustee for its reasonable fees and expenses in undertaking the appointment; and
+    
+    *   (b) offered adequate security for its indemnity.
+    
+    (7) In subsections (4) and (5), _securities trustee_ means a person appointed as a trustee in respect of a security (and, for this purpose, _security_ and _trustee_ have the same meanings as in [section 4(1)][193] of the Securities Trustees and Statutory Supervisors Act 2011).
     
     Compare: 1908 No 200 s 102
     
-    Section 46(4): amended, on 1 March 2002, by [section 170(1)][160] of the Public Trust Act 2001 (2001 No 100).
+    Section 46(4): replaced, on 14 May 2013, by [section 4][194] of the Trustee (Public Trust) Amendment Act 2013 (2013 No 21).
+    
+    Section 46(5): inserted, on 14 May 2013, by [section 4][194] of the Trustee (Public Trust) Amendment Act 2013 (2013 No 21).
+    
+    Section 46(6): inserted, on 14 May 2013, by [section 4][194] of the Trustee (Public Trust) Amendment Act 2013 (2013 No 21).
+    
+    Section 46(7): inserted, on 14 May 2013, by [section 4][194] of the Trustee (Public Trust) Amendment Act 2013 (2013 No 21).
 
 ##### 47 Vesting of trust property in new or continuing trustees
     
@@ -1787,7 +1811,7 @@ Appointment and discharge of trustees
     
     (5) Subject to the provisions of the instrument (if any) creating the trust and to any order made by the court, in any case where remuneration is payable to the trustee of any trust property, remuneration or commission may be paid to both the responsible trustee and the advisory trustee, and subject as aforesaid the amount thereof shall be determined,---
         
-    *   (a) where the responsible trustee is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][193]:
+    *   (a) where the responsible trustee is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][195]:
     
     *   (aa) where the responsible trustee is Public Trust, in accordance with Public Trust's scale of charges:
     
@@ -1801,7 +1825,7 @@ Appointment and discharge of trustees
     
     Section 49(1): amended, on 1 October 1988, pursuant to [section 113][156] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
-    Section 49(1): amended, on 1 October 1988, pursuant to [section 117(3)][194] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 49(1): amended, on 1 October 1988, pursuant to [section 117(3)][196] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
     Section 49(1): amended, on 1 April 1970, pursuant to section 129(4) of the Mental Health Act 1969 (1969 No 16).
     
@@ -1817,7 +1841,7 @@ Appointment and discharge of trustees
     
     Section 49(2)(e): amended, on 1 October 1988, pursuant to [section 113][156] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
-    Section 49(2)(e): amended, on 1 October 1988, pursuant to [section 117(3)][194] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 49(2)(e): amended, on 1 October 1988, pursuant to [section 117(3)][196] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
     Section 49(3): amended, on 15 November 1968, by section 14(b) of the Trustee Amendment Act 1968 (1968 No 24).
     
@@ -1859,11 +1883,11 @@ Appointment and discharge of trustees
     
     (4) Subject to the provisions of the instrument (if any) creating the trust and to any order made by the court, in any case where remuneration or commission is payable to the trustee of any trust property, remuneration may be paid to both the custodian trustee and the managing trustees, and subject as aforesaid the amount thereof shall be determined,---
         
-    *   (a) as regards the custodian trustee in any case where the custodian trustee is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][193]:
+    *   (a) as regards the custodian trustee in any case where the custodian trustee is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][195]:
     
     *   (aa) as regards the custodian trustee in any case where the custodian trustee is Public Trust, in accordance with Public Trust's scale of charges:
     
-    *   (b) as regards the custodian trustee in any case where the custodian trustee is a trustee company within the meaning of the [Trustee Companies Act 1967][195], in accordance with the scale of charges for the time being of the trustee company:
+    *   (b) as regards the custodian trustee in any case where the custodian trustee is a trustee company within the meaning of the [Trustee Companies Act 1967][197], in accordance with the scale of charges for the time being of the trustee company:
     
     *   (c) except as provided in paragraphs (a) and (b), by the managing trustees if they are entitled to fix their own remuneration, or by the court.
     
@@ -1898,9 +1922,9 @@ Powers of the court
         
     *   (a) has been held by the court to have misconducted himself in the administration of the trust; or
     
-    *   (b) is convicted, whether summarily or on indictment, of a crime involving dishonesty as defined by [section 2][196] of the Crimes Act 1961; or
+    *   (b) is convicted, whether summarily or on indictment, of a crime involving dishonesty as defined by [section 2][198] of the Crimes Act 1961; or
     
-    *   (c) is a mentally disordered person within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][197], or whose estate or any part thereof is subject to a property order made under the [Protection of Personal and Property Rights Act 1988][148]; or
+    *   (c) is a mentally disordered person within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][199], or whose estate or any part thereof is subject to a property order made under the [Protection of Personal and Property Rights Act 1988][148]; or
     
     *   (d) is a bankrupt; or
     
@@ -1914,13 +1938,13 @@ Powers of the court
     
     Compare: 1908 No 200 ss 41, 42; Trustee Act 1925 ss 41, 43 (UK)
     
-    Section 51(2)(b): amended, on 1 January 1962, pursuant to [section 412(2)][198] of the Crimes Act 1961 (1961 No 43).
+    Section 51(2)(b): amended, on 1 January 1962, pursuant to [section 412(2)][200] of the Crimes Act 1961 (1961 No 43).
     
-    Section 51(2)(c): amended, on 1 November 1992, pursuant to [section 137(1)][199] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 51(2)(c): amended, on 1 November 1992, pursuant to [section 137(1)][201] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
     Section 51(2)(c): amended, on 1 October 1988, pursuant to [section 113][156] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
-    Section 51(2)(c): amended, on 1 October 1988, pursuant to [section 117(3)][194] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 51(2)(c): amended, on 1 October 1988, pursuant to [section 117(3)][196] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
     Section 51(2)(c): amended, on 1 April 1970, pursuant to section 129(4) of the Mental Health Act 1969 (1969 No 16).
 
@@ -2004,7 +2028,7 @@ Powers of the court
     
     and shall in every other case have the same effect as if the trustee or other person or description or class of persons to whose rights or supposed rights the said provisions respectively relate had been an ascertained and existing person of full age and full mental capacity and had executed a conveyance or release to the effect intended by the order.
     
-    (2) This section shall, as regards land under the [Land Transfer Act 1952][162], be read and construed subject to [section 99][200] of that Act.
+    (2) This section shall, as regards land under the [Land Transfer Act 1952][162], be read and construed subject to [section 99][202] of that Act.
     
     Compare: 1908 No 200 ss 22, 43; Trustee Act 1925 s 49 (UK)
 
@@ -2096,7 +2120,7 @@ Powers of the court
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 1 January 1972, by [section 101(1)][201] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 63: repealed, on 1 January 1972, by [section 101(1)][203] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 #### Jurisdiction to make other orders
 
@@ -2114,7 +2138,7 @@ Powers of the court
     
     (4) An application to the court under this section may be made by the trustees, or by any of them, or by any person beneficially interested under the trust.
     
-    Compare: 1936 No 58 [s 81][202]; Trustee Act 1925 s 57 (UK)
+    Compare: 1936 No 58 [s 81][204]; Trustee Act 1925 s 57 (UK)
     
     Section 64 heading: amended, on 25 October 1960, by section 8 of the Trustee Amendment Act 1960 (1960 No 101).
     
@@ -2170,9 +2194,9 @@ Powers of the court
     
     (4) No action shall lie against the trustee for having distributed as income the whole or any part of the amount received by the trustee by way of capital dividend if the distribution was properly made by the trustee before service on the trustee of any application under this section that could affect that amount and without notice in writing of any such application or intention to make such an application; but nothing in this subsection shall prevent the court from making an order pursuant to subsection (6) disturbing the distribution made by the trustee.
     
-    (5) For the purposes of subsection (4), [section 48][203] of the Administration Act 1969 shall apply with all necessary modifications.
+    (5) For the purposes of subsection (4), [section 48][205] of the Administration Act 1969 shall apply with all necessary modifications.
     
-    (6) Where the court makes an order under subsection (2) after the trustee has distributed as income the whole or any part of the amount received by the trustee by way of capital dividend, the court may also make any order of a kind authorised by subsection (1) of [section 49][179] of the Administration Act 1969 (which relates to the following of assets); and the provisions of that section and [sections 50][204] and [51][205] of that Act shall apply with any necessary modifications.
+    (6) Where the court makes an order under subsection (2) after the trustee has distributed as income the whole or any part of the amount received by the trustee by way of capital dividend, the court may also make any order of a kind authorised by subsection (1) of [section 49][179] of the Administration Act 1969 (which relates to the following of assets); and the provisions of that section and [sections 50][206] and [51][207] of that Act shall apply with any necessary modifications.
     
     Section 64B: inserted, on 6 November 1986, by section 2 of the Trustee Amendment Act 1986 (1986 No 112).
 
@@ -2262,7 +2286,7 @@ Powers of the court
     
     (3) Where the court allows a commission or percentage under this section in any case in which 2 or more persons are or have been the trustees, whether acting at the same time or at different times, the amount so allowed shall be apportioned among the trustees as they mutually agree; and if there is no such agreement the court may, in its discretion, apportion the total amount allowed among the trustees in such manner as it thinks fit, and, in particular, may divide the amount in unequal shares or may make the allowance to 1 or more of the trustees to the exclusion of the other or others.
     
-    (4) Rules may from time to time be made in the manner prescribed by the [Judicature Act 1908][206] for carrying the provisions of this section into effect. The Executors Commission Rules 1935 and the Executors Commission Rules 1935, Amendment No 1, so far as they were in force on 31 December 1956, shall continue and have effect as if they had been made under this subsection and as if this section had been in force when they were made, and may be amended or revoked accordingly.
+    (4) Rules may from time to time be made in the manner prescribed by the [Judicature Act 1908][208] for carrying the provisions of this section into effect. The Executors Commission Rules 1935 and the Executors Commission Rules 1935, Amendment No 1, so far as they were in force on 31 December 1956, shall continue and have effect as if they had been made under this subsection and as if this section had been in force when they were made, and may be amended or revoked accordingly.
     
     Section 72: replaced, on 25 October 1960, by section 10 of the Trustee Amendment Act 1960 (1960 No 101).
     
@@ -2432,15 +2456,15 @@ Powers of the court
     
     Compare: 1908 No 200 ss 72, 73
     
-    Section 78(1)(a): amended, on 25 January 2005, pursuant to [section 83(7)][207] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(1)(a): amended, on 25 January 2005, pursuant to [section 83(7)][209] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(3): amended, on 25 January 2005, pursuant to [section 83(7)][207] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(3): amended, on 25 January 2005, pursuant to [section 83(7)][209] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(4): amended, on 25 January 2005, pursuant to [section 83(7)][207] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(4): amended, on 25 January 2005, pursuant to [section 83(7)][209] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(5): amended, on 25 January 2005, pursuant to [section 83(7)][207] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(5): amended, on 25 January 2005, pursuant to [section 83(7)][209] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 78(7): amended, on 25 January 2005, pursuant to [section 83(7)][207] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(7): amended, on 25 January 2005, pursuant to [section 83(7)][209] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 79 Orders in respect of funds paid to Crown
     
@@ -2452,7 +2476,7 @@ Powers of the court
     
     Compare: 1908 No 200 ss 69, 70
     
-    Section 79: amended, on 25 January 2005, pursuant to [section 83(7)][207] of the Public Finance Act 1989 (1989 No 44).
+    Section 79: amended, on 25 January 2005, pursuant to [section 83(7)][209] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 6  
 General provisions
@@ -2523,7 +2547,7 @@ General provisions
 
 ##### 83B Audit of other trust estates
     
-*   (1) Subject to the provisions of any regulations made under this Act, and unless the court otherwise orders, the condition and accounts of any trust estate (being an estate which is not being administered by a trustee corporation) shall, on an application being made and notice thereof being given in the prescribed manner by or on behalf of any trustee or beneficiary in that estate, be investigated and audited by such solicitor or such chartered accountant (within the meaning of [section 19][208] of the New Zealand Institute of Chartered Accountants Act 1996) as may be agreed on between the applicant trustee and his co-trustees and Public Trust, or between the applicant beneficiary and the trustees and Public Trust, as the case may be, or, in default of any such agreement, by a solicitor or a chartered accountant (within the meaning of [section 19][208] of the New Zealand Institute of Chartered Accountants Act 1996) appointed by Public Trust:
+*   (1) Subject to the provisions of any regulations made under this Act, and unless the court otherwise orders, the condition and accounts of any trust estate (being an estate which is not being administered by a trustee corporation) shall, on an application being made and notice thereof being given in the prescribed manner by or on behalf of any trustee or beneficiary in that estate, be investigated and audited by such solicitor or such chartered accountant (within the meaning of [section 19][210] of the New Zealand Institute of Chartered Accountants Act 1996) as may be agreed on between the applicant trustee and his co-trustees and Public Trust, or between the applicant beneficiary and the trustees and Public Trust, as the case may be, or, in default of any such agreement, by a solicitor or a chartered accountant (within the meaning of [section 19][210] of the New Zealand Institute of Chartered Accountants Act 1996) appointed by Public Trust:
     
     provided that---
         
@@ -2561,11 +2585,11 @@ General provisions
     
     Section 83B: inserted, on 18 October 1957, by section 10(1) of the Trustee Amendment Act 1957 (1957 No 37).
     
-    Section 83B(1): amended, on 7 July 2010, by [section 10][209] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 83B(1): amended, on 7 July 2010, by [section 10][211] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
     Section 83B(1): amended, on 1 March 2002, by [section 170(1)][160] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 83B(1): amended, on 1 October 1996, by [section 23][210] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
+    Section 83B(1): amended, on 1 October 1996, by [section 23][212] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
     
     Section 83B(1) proviso paragraph (c): amended, on 1 March 2002, by [section 170(1)][160] of the Public Trust Act 2001 (2001 No 100).
     
@@ -2643,9 +2667,9 @@ General provisions
     
     (3) Regulation 30 of the regulations under the Public Trust Office Act 1908 made on 20 August 1923 (_Gazette_ 1923, Vol II, page 2257) shall continue in force until it is otherwise revoked, notwithstanding the repeal of section 4 of the Public Trust Office Amendment Act 1913\.
     
-    (4) Without limiting the provisions of the [Interpretation Act 1999][211], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+    (4) Without limiting the provisions of the [Interpretation Act 1999][213], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
-    Section 89(4): amended, on 1 November 1999, pursuant to [section 38][212] of the Interpretation Act 1999 (1999 No 85).
+    Section 89(4): amended, on 1 November 1999, pursuant to [section 38][214] of the Interpretation Act 1999 (1999 No 85).
 
 ---
 
@@ -2656,7 +2680,7 @@ Other Acts authorising trustee investments
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 October 1988, by [section 13][213] of the Trustee Amendment Act 1988 (1988 No 119).
+*   Schedule 1: repealed, on 1 October 1988, by [section 13][215] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ---
 
@@ -2701,7 +2725,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Christchurch District Drainage Act 1951 (1951 No 21 (L)) 
 
-_Amendment(s) incorporated in the [Act(s)][214]._
+_Amendment(s) incorporated in the [Act(s)][216]._
 
 ##### Christchurch--Lyttelton Road Tunnel Act 1956 (1956 No 16)
 
@@ -2717,7 +2741,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act (No 2) 1952 (1952 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][215]._
+_Amendment(s) incorporated in the [Act(s)][217]._
 
 ##### Gisborne Harbour Board Empowering Amendment Act 1953 (1953 No 3 (L))
 
@@ -2741,7 +2765,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Mortgagors and Lessees Rehabilitation Act 1936 (1936 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][216]._
+_Amendment(s) incorporated in the [Act(s)][218]._
 
 ##### Napier Harbour Board Empowering and Loan Act 1914 (1914 No 14 (L))
 
@@ -2757,7 +2781,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Otago Harbour Board Empowering Act 1913 (1913 No 8 (L)) 
 
-_Amendment(s) incorporated in the [Act(s)][217]._
+_Amendment(s) incorporated in the [Act(s)][219]._
 
 ##### Penal Institutions Act 1954 (1954 No 51)
 
@@ -2791,15 +2815,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1936 (1936 No 58)
 
-_Amendment(s) incorporated in the [Act(s)][218]._
+_Amendment(s) incorporated in the [Act(s)][220]._
 
 ##### Statutes Amendment Act 1938 (1938 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][219]._
+_Amendment(s) incorporated in the [Act(s)][221]._
 
 ##### Taranaki Harbour Board Empowering Amendment Act 1952 (1952 No 23 (L)) 
 
-_Amendment(s) incorporated in the [Act(s)][220]._
+_Amendment(s) incorporated in the [Act(s)][222]._
 
 ##### Tauranga Harbour Board Loan and Empowering Act 1956 (1956 No 7 (L))
 
@@ -2831,7 +2855,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Whangarei Harbour Board Vesting and Empowering Amendment Act 1954 (1954 No 6 (L))
 
-Schedule 2: amended, on 1 January 2011, by [section 58][221] of the Limitation Act 2010 (2010 No 110).
+Schedule 2: amended, on 1 January 2011, by [section 58][223] of the Limitation Act 2010 (2010 No 110).
 
 ---
 
@@ -2884,8 +2908,6 @@ I, \[_full name_\], of \[_place of residence_\] in New Zealand, \[_occupation_\]
 
 Signed at: \[_place, date_\]
 
----
-
 ##### Note
 
 \*This form should not be used if the person holding the power of attorney is a corporation aggregate.
@@ -2905,8 +2927,6 @@ I, \[_full name_\], of \[_place of residence_\] in New Zealand, \[_occupation_\]
 
 Signed at: \[_place, date_\]
 
----
-
 ##### Note
 
 \*This form should be used only if the person holding the power of attorney is a corporation aggregate.
@@ -2921,7 +2941,7 @@ Commencementsee section 1(1)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Trustee Amendment Act 1988][222], and shall be read together with and deemed part of the Trustee Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Trustee Amendment Act 1988][224], and shall be read together with and deemed part of the Trustee Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 October 1988\.
 
@@ -2953,7 +2973,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Trustee Amendment Act 2005][223].
+*   (1) This Act is the [Trustee Amendment Act 2005][225].
     
     (2) In this Act, the Trustee Act 1956 is called ""the principal Act"".
 
@@ -2966,6 +2986,30 @@ Commencementsee section 2
 *   (1) The amendments made to section 40(2) of the principal Act by section 4 apply in respect of any accumulated residue referred to in section 40 of the principal Act, even if the accumulation was made before the commencement of this Act.
     
     (2) The amendments made to section 42(1)(b) of the principal Act by section 5 apply in respect of any trust coming into operation under section 42 of the principal Act, even if the trust came into operation before the commencement of this Act.
+
+---
+
+# Trustee (Public Trust) Amendment Act 2013Public Act2013 No 21
+
+Date of assent13 May 2013
+
+Commencementsee section 2
+
+##### 1 Title
+    
+*   This Act is the [Trustee (Public Trust) Amendment Act 2013][226].
+
+##### 2 Commencement
+    
+*   This Act comes into force on the day after the date on which it receives the Royal assent.
+
+##### 3 Principal Act
+    
+*   This Act amends the Trustee Act 1956 (the _principal Act_).
+
+##### 5 Transitional provision
+    
+*   Nothing in the amendment made under section 4 affects any proceeding commenced before section 4 comes into force, and any such proceeding must be decided as if the amendment had not been made.
 
 ---
 
@@ -2983,23 +3027,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Trustee Act 1956\. The reprint incorporates all the amendments to the Act as at 1 July 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Trustee Act 1956\. The reprint incorporates all the amendments to the Act as at 14 May 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][224] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][227] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][225] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][228] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][226] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][229] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][227] and [17E][228] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][230] and [17E][231] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3030,11 +3074,13 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Trustee (Prescribed Rate of Interest) Order 2011 (SR 2011/178): [clause 4][178]
+*   [Trustee (Public Trust) Amendment Act 2013][226] (2013 No 21)
     
-    Limitation Act 2010 (2010 No 110): [section 58][221]
+    Trustee (Prescribed Rate of Interest) Order 2011 (SR 2011/178): [clause 4][178]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][209]
+    Limitation Act 2010 (2010 No 110): [section 58][223]
+    
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][211]
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][159], [(2)(a)][159]
     
@@ -3046,7 +3092,7 @@ Commencementsee section 2
     
     Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 240, 241][154]
     
-    [Trustee Amendment Act 2005][223] (2005 No 23)
+    [Trustee Amendment Act 2005][225] (2005 No 23)
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][160]
     
@@ -3054,21 +3100,21 @@ Commencementsee section 2
     
     Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][184]
     
-    Interpretation Act 1999 (1999 No 85): [section 38][212]
+    Interpretation Act 1999 (1999 No 85): [section 38][214]
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][229]
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][232]
     
-    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][210]
+    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][212]
     
-    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][230]
+    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][233]
     
-    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][199]
+    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][201]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][207]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][209]
     
-    [Trustee Amendment Act 1988][222] (1988 No 119)
+    [Trustee Amendment Act 1988][224] (1988 No 119)
     
-    Protection of Personal and Property Rights Act 1988 (1988 No 4): [sections 113][156], [117(3)][194]
+    Protection of Personal and Property Rights Act 1988 (1988 No 4): [sections 113][156], [117(3)][196]
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][146]
     
@@ -3078,9 +3124,9 @@ Commencementsee section 2
     
     Trustee Amendment Act 1982 (1982 No 50)
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][231]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][234]
     
-    Fencing Act 1978 (1978 No 50): [section 28(1)][232]
+    Fencing Act 1978 (1978 No 50): [section 28(1)][235]
     
     Public Finance Act 1977 (1977 No 65): section 163(1)
     
@@ -3088,7 +3134,7 @@ Commencementsee section 2
     
     Trustee Amendment Act 1974 (1974 No 15)
     
-    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][201]
+    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][203]
     
     Age of Majority Act 1970 (1970 No 137): [section 6][186]
     
@@ -3104,7 +3150,7 @@ Commencementsee section 2
     
     Charitable Trusts Amendment Act 1963 (1963 No 21): section 4(2)
     
-    Crimes Act 1961 (1961 No 43): [section 412(2)][198]
+    Crimes Act 1961 (1961 No 43): [section 412(2)][200]
     
     Trustee Amendment Act 1960 (1960 No 101)
     
@@ -3305,43 +3351,46 @@ Commencementsee section 2
 [190]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM337757
 [191]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM401906
 [192]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM264600
-[193]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM282037
-[194]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM128108
-[195]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM381179
-[196]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM327394
-[197]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM262175
-[198]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM332403
-[199]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM264250
-[200]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM270684
-[201]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM401040
-[202]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM221731
-[203]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM392883
-[204]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM392885
-[205]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM392886
-[206]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM144692
-[207]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM163167
-[208]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM391422
-[209]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM3043113
-[210]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM391427
-[211]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM31458
-[212]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM31885
-[213]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM135628
-[214]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM55236
-[215]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM275659
-[216]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM220417
-[217]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM39110
-[218]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM221730
-[219]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM226727
-[220]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM56431
-[221]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM2033287
-[222]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM135611
-[223]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM337749
-[224]: http://www.pco.parliament.govt.nz/reprints/
-[225]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM195439
-[226]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[227]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM195468
-[228]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM195470
-[229]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM30504
-[230]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM366890
-[231]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM35049
-[232]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM21887
+[193]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM2651125
+[194]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM5183111
+[195]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM282037
+[196]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM128108
+[197]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM381179
+[198]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM327394
+[199]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM262175
+[200]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM332403
+[201]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM264250
+[202]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM270684
+[203]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM401040
+[204]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM221731
+[205]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM392883
+[206]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM392885
+[207]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM392886
+[208]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM144692
+[209]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM163167
+[210]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM391422
+[211]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM3043113
+[212]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM391427
+[213]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM31458
+[214]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM31885
+[215]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM135628
+[216]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM55236
+[217]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM275659
+[218]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM220417
+[219]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM39110
+[220]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM221730
+[221]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM226727
+[222]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM56431
+[223]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM2033287
+[224]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM135611
+[225]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM337749
+[226]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM5183101
+[227]: http://www.pco.parliament.govt.nz/reprints/
+[228]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM195439
+[229]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[230]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM195468
+[231]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM195470
+[232]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM30504
+[233]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM366890
+[234]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM35049
+[235]: http://www.legislation.govt.nz/act/public/1956/0061/latest/link.aspx?id=DLM21887
