@@ -8,21 +8,21 @@ Commencementsee section 2
 
 ## Contents
 
-[1 ][0] [Title][0]
+[1 ][0][][0][Title][0]
 
-[2 ][1] [Commencement][1]
+[2 ][1][][1][Commencement][1]
 
-[3 ][2] [Principal Act amended][2]
+[3 ][2][][2][Principal Act amended][2]
 
-[4 ][3] [New section 34A inserted][3]
+[4 ][3][][3][New section 34A inserted][3]
 
-[34A][4] [Detention of child or young person serving sentence of imprisonment][4]
+[34A][4][][4][Detention of child or young person serving sentence of imprisonment][4]
 
-[5 ][5] [New section 190A inserted][5]
+[5 ][5][][5][New section 190A inserted][5]
 
-[190A][6] [Minister may approve subsidies for voluntary groups][6]
+[190A][6][][6][Minister may approve subsidies for voluntary groups][6]
 
-[6 ][7] [Further amendments to principal Act][7]
+[6 ][7][][7][Further amendments to principal Act][7]
 
 [Schedule][8]  
 [Amendments to principal Act][8]
