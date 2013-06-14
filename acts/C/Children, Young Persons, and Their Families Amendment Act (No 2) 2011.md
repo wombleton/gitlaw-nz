@@ -8,15 +8,15 @@ Commencementsee section 2
 
 ## Contents
 
-[1 ][0] [Title][0]
+[1 ][0][][0][Title][0]
 
-[2 ][1] [Commencement][1]
+[2 ][1][][1][Commencement][1]
 
-[3 ][2] [Principal Act amended][2]
+[3 ][2][][2][Principal Act amended][2]
 
-[4 ][3] [Amendments to principal Act][3]
+[4 ][3][][3][Amendments to principal Act][3]
 
-[5 ][4] [Application of amendments made by section 4][4]
+[5 ][4][][4][Application of amendments made by section 4][4]
 
 [Schedule][5]  
 [Amendments to principal Act][5]
@@ -567,9 +567,7 @@ Repeal and substitute:
 > 
 > s 321
 > 
-> ##### 1
->     
-> *   The District Courts Act 1947, except that---
+> *   1 The District Courts Act 1947, except that---
 >         
 >     *   (a) where any provisions of this Act conflict with any of the provisions of the District Courts Act 1947, the provisions of this Act prevail:
 >     
@@ -577,9 +575,7 @@ Repeal and substitute:
 >     
 >     
 > 
-> ##### 2
->     
-> *   Section 10, 13, Part 2, subparts 1 to 4 of Part 3, subparts 1 and 3 of Part 4, and subparts 1 and 2 of Part 5 of the Criminal Procedure Act 2011, except that---
+> *   2 Section 10, 13, Part 2, subparts 1 to 4 of Part 3, subparts 1 and 3 of Part 4, and subparts 1 and 2 of Part 5 of the Criminal Procedure Act 2011, except that---
 >         
 >     *   (a) charging documents against children or young persons must continue to be filed in District Courts even though they may be heard and determined in Youth Courts:
 >     
@@ -615,9 +611,7 @@ Repeal and substitute:
 >     
 >     
 > 
-> ##### 3
->     
-> *   Part 3 of the Bail Act 2000 except that---
+> *   3 Part 3 of the Bail Act 2000 except that---
 >         
 >     *   (a) neither a Justice nor a Community Magistrate may exercise any of the powers conferred by section 33:
 >     
@@ -629,9 +623,7 @@ Repeal and substitute:
 >     
 >     
 > 
-> ##### 4
->     
-> *   The Criminal Disclosure Act 2008\.
+> *   4 The Criminal Disclosure Act 2008\.
 > 
 > 
 
