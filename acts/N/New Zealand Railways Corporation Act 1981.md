@@ -1,5 +1,5 @@
 Reprint  
-as at 1 August 2012
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2153,21 +2153,21 @@ General provisions
 
 ##### 119A Application of certain transport Acts to Corporation
     
-*   Notwithstanding [section 4(1)][7], or any other enactment or rule of law, proceedings for any offence committed on or after 1 November 1989 against the [Road User Charges Act 2012][229], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][230], the [Public Transport Management Act 2008][231], the [Railways Act 2005][232], the [Land Transport Act 1998][192], or the [Land Transport Management Act 2003][233], or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
+*   Notwithstanding [section 4(1)][7], or any other enactment or rule of law, proceedings for any offence committed on or after 1 November 1989 against the [Road User Charges Act 2012][229], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][230], the [Railways Act 2005][231], the [Land Transport Act 1998][192], or the [Land Transport Management Act 2003][232], or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
     
     Section 119A: inserted, on 1 October 1989, by [section 68(2)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
     
-    Section 119A heading: amended, on 20 July 2005, by [section 103(3)][234] of the Railways Act 2005 (2005 No 37).
+    Section 119A heading: amended, on 20 July 2005, by [section 103(3)][233] of the Railways Act 2005 (2005 No 37).
+    
+    Section 119A: amended, on 13 June 2013, by [section 72][234] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
     Section 119A: amended, on 1 August 2012, by [section 94][235] of the Road User Charges Act 2012 (2012 No 1).
     
     Section 119A: amended, on 10 May 2011, by [section 100(3)][236] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 119A: amended, on 1 January 2009, by [section 63(2)][237] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 119A: amended, on 20 July 2005, by [section 103(3)][233] of the Railways Act 2005 (2005 No 37).
     
-    Section 119A: amended, on 20 July 2005, by [section 103(3)][234] of the Railways Act 2005 (2005 No 37).
-    
-    Section 119A: amended, on 13 November 2003, by [section 90][238] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 119A: amended, on 13 November 2003, by [section 90][237] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 120 Repeals and amendments
     
@@ -2175,7 +2175,7 @@ General provisions
     
     (2) \[Repealed\]
     
-    (3) _Amendment(s) incorporated in the [Act(s)][239]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][238]_.
     
     (4) Every reference in any enactment or document whatever to the New Zealand Government Railways Department shall, unless the context otherwise requires, hereafter be read as a reference to the New Zealand Railways Corporation.
     
@@ -2233,23 +2233,23 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][240]_.
+_Amendment(s) incorporated in the [Act(s)][239]_.
 
 ##### Carriage of Goods Act 1979 (1979 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][241]_.
+_Amendment(s) incorporated in the [Act(s)][240]_.
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79)
 
-_Amendment(s) incorporated in the [Act(s)][242]_.
+_Amendment(s) incorporated in the [Act(s)][241]_.
 
 ##### Finance Act 1957 (1957 No 106) (Reprinted 1973, Vol 2, p 1515)
 
-_Amendment(s) incorporated in the [Act(s)][243]_.
+_Amendment(s) incorporated in the [Act(s)][242]_.
 
 ##### Finance Act 1958 (1958 No 38) (Reprinted 1973, Vol 2, p 1515)
 
-_Amendment(s) incorporated in the [Act(s)][244]_.
+_Amendment(s) incorporated in the [Act(s)][243]_.
 
 ##### Government Railways Act 1949 (1949 No 40) (Reprinted 1973, Vol 2, p 1403)
 
@@ -2301,7 +2301,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Government Amendment Act 1979 (1979 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][245]_.
+_Amendment(s) incorporated in the [Act(s)][244]_.
 
 ##### Public Finance Act 1977 (1977 No 65)
 
@@ -2331,23 +2331,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Railways Corporation Act 1981\. The reprint incorporates all the amendments to the Act as at 1 August 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Zealand Railways Corporation Act 1981\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][246] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][245] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][247] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][246] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][248] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][247] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][249] and [17E][250] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][248] and [17E][249] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2378,7 +2378,9 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [New Zealand Railways Corporation Amendment Act 2012][251] (2012 No 15)
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][234]
+    
+    [New Zealand Railways Corporation Amendment Act 2012][250] (2012 No 15)
     
     Road User Charges Act 2012 (2012 No 1): [section 94][235]
     
@@ -2388,15 +2390,13 @@ _Amendment(s) incorporated in the Act(s)_.
     
     [New Zealand Railways Corporation Amendment Act 2010][213] (2010 No 100)
     
-    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][237]
-    
     Land Transport Amendment Act 2005 (2005 No 77): [section 95(6)][194]
     
-    Railways Act 2005 (2005 No 37): [section 103(3)][234]
+    Railways Act 2005 (2005 No 37): [section 103(3)][233]
     
-    Land Transport Management Act 2003 (2003 No 118): [section 90][238]
+    Land Transport Management Act 2003 (2003 No 118): [section 90][237]
     
-    [New Zealand Railways Corporation Amendment Act 2003][252] (2003 No 88)
+    [New Zealand Railways Corporation Amendment Act 2003][251] (2003 No 88)
     
     Local Government Act 2002 (2002 No 84): [section 262][176]
     
@@ -2673,25 +2673,24 @@ _Amendment(s) incorporated in the Act(s)_.
 [228]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM317324
 [229]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3394800
 [230]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM90414
-[231]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM1179938
-[232]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM341567
-[233]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM226229
-[234]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM343101
+[231]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM341567
+[232]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM226229
+[233]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM343101
+[234]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM4663359
 [235]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3395080
 [236]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3231293
-[237]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM1180107
-[238]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM228040
-[239]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM430983
-[240]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM396810
-[241]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34087
-[242]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM264952
-[243]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM317313
-[244]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM320040
-[245]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34678
-[246]: http://www.pco.parliament.govt.nz/reprints/
-[247]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195439
-[248]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[249]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195468
-[250]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195470
-[251]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM4014600
-[252]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM218118
+[237]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM228040
+[238]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM430983
+[239]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM396810
+[240]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34087
+[241]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM264952
+[242]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM317313
+[243]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM320040
+[244]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34678
+[245]: http://www.pco.parliament.govt.nz/reprints/
+[246]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195439
+[247]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[248]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195468
+[249]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195470
+[250]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM4014600
+[251]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM218118
