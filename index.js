@@ -7,7 +7,7 @@ var async = require('async'),
     url = require('url'),
     md = require('html-md'),
     GitHubApi = require('github'),
-    crypto = require('crypto'),
+    shagit = require('shagit'),
     github,
     actQueue,
     searchQueue,
@@ -18,12 +18,6 @@ github = new GitHubApi({
     version: "3.0.0",
     // optional
     timeout: 5000
-});
-
-_.each('ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''), function(letter) {
-    try {
-        fs.mkdirSync('acts/' + letter);
-    } catch(e) {}
 });
 
 function scrapeSearch(uri, callback) {
@@ -123,11 +117,13 @@ function downloadAct(task, callback) {
                     repo: process.env.REPO,
                     path: path
                 }, function(err, data) {
+                    var sha;
+
                     if (err) {
                         callback(err);
                     } else {
-                        console.log("GitHub SHA: %s Markdown SHA: %s", data.sha, crypto.createHash('sha1').update(markdown).digest('hex'))
-                        if (false) {
+                        sha = shagit(markdown);
+                        if (sha !== data.sha) {
                             updateAct(path, title, data, markdown, callback);
                         } else {
                             console.log("%s matches. Moving to next file.", path);
@@ -156,8 +152,8 @@ function respectLimit(obj, callback) {
 }
 
 function updateAct(path, title, data, markdown, callback) {
-    auth();
     console.log("Updating %s to new content", path);
+    auth();
     GitHubApi.prototype.httpSend.call(github, {
         user: process.env.USER,
         repo: process.env.REPO,
