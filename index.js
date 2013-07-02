@@ -126,7 +126,7 @@ function downloadAct(task, callback) {
                     if (err) {
                         callback(err);
                     } else {
-                        console.log("GitHub SHA: %s Markdown SHA: %s", data.sha, crypto.createHash('sha1').update(markdown + '\n').digest('hex'))
+                        console.log("GitHub SHA: %s Markdown SHA: %s", data.sha, crypto.createHash('sha1').update(markdown).digest('hex'))
                         if (false) {
                             updateAct(path, title, data, markdown, callback);
                         } else {
