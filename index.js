@@ -6,7 +6,8 @@ var async = require('async'),
     request = require('request'),
     url = require('url'),
     md = require('html-md'),
-    GitHubApi = require("github"),
+    GitHubApi = require('github'),
+    crypto = require('crypto'),
     github,
     actQueue,
     searchQueue,
@@ -125,7 +126,8 @@ function downloadAct(task, callback) {
                     if (err) {
                         callback(err);
                     } else {
-                        if (new Buffer(data.content, 'base64').toString('utf8') !== markdown) {
+                        console.log("GitHub SHA: %s Markdown SHA: %s", data.sha, crypto.createHash('sha1').update(markdown + '\n').digest('hex'))
+                        if (false) {
                             updateAct(path, title, data, markdown, callback);
                         } else {
                             console.log("%s matches. Moving to next file.", path);
@@ -156,7 +158,6 @@ function respectLimit(obj, callback) {
 function updateAct(path, title, data, markdown, callback) {
     auth();
     console.log("Updating %s to new content", path);
-    debugger;
     GitHubApi.prototype.httpSend.call(github, {
         user: process.env.USER,
         repo: process.env.REPO,
