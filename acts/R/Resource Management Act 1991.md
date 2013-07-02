@@ -1,5 +1,5 @@
 Reprint  
-as at 24 May 2013
+as at 28 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -6519,13 +6519,15 @@ Standards, policy statements, and plans
         
         to the extent that their content has a bearing on resource management issues of the region; and
     
-    *   (b) the extent to which the regional policy statement needs to be consistent with the policy statements and plans of adjacent regional councils.
+    *   (b) the extent to which the regional policy statement needs to be consistent with the policy statements and plans of adjacent regional councils; and
+    
+    *   (c) the extent to which the regional policy statement needs to be consistent with regulations made under the [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][1203]; and
     
     (2A) When a regional council is preparing or changing a regional policy statement, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
         
     *   (a) the council must take into account any relevant planning document recognised by an iwi authority; and
     
-    *   (b) in relation to a planning document prepared by a customary marine title group under [section 85][1203] of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with [section 93][1204] of that Act,---
+    *   (b) in relation to a planning document prepared by a customary marine title group under [section 85][1204] of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with [section 93][1205] of that Act,---
             
         *   (i) recognise and provide for the matters in that document, to the extent that they relate to the relevant customary marine title area; and
         
@@ -6535,21 +6537,25 @@ Standards, policy statements, and plans
     
     (3) In preparing or changing any regional policy statement, a regional council must not have regard to trade competition or the effects of trade competition.
     
-    Section 61 heading: amended, on 17 December 1997, by [section 11][1205] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 61 heading: amended, on 17 December 1997, by [section 11][1206] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 61(2)(a)(ii): repealed, on 1 August 2003, by [section 24(1)][1206] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 61(2)(a)(ii): repealed, on 1 August 2003, by [section 24(1)][1207] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 61(2)(a)(iia): inserted, on 1 July 1993, by [section 118(2)][1207] of the Historic Places Act 1993 (1993 No 38).
+    Section 61(2)(a)(iia): inserted, on 1 July 1993, by [section 118(2)][1208] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 61(2)(a)(iii): replaced, on 1 October 1996, by [section 316(1)][1208] of the Fisheries Act 1996 (1996 No 88).
+    Section 61(2)(a)(iii): replaced, on 1 October 1996, by [section 316(1)][1209] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 61(2)(a)(iv): repealed, on 1 August 2003, by [section 24(1)][1206] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 61(2)(a)(iv): repealed, on 1 August 2003, by [section 24(1)][1207] of the Resource Management Amendment Act 2003 (2003 No 23).
+    
+    Section 61(2)(b): amended, on 28 June 2013, by [section 176(2)][1210] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    
+    Section 61(2)(c): inserted, on 28 June 2013, by [section 176(2)][1210] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
     Section 61(2A): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 61(3): inserted, on 17 December 1997, by [section 11][1205] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 61(3): inserted, on 17 December 1997, by [section 11][1206] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 61(3): amended, on 1 October 2009, by [section 55][1209] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 61(3): amended, on 1 October 2009, by [section 55][1211] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 62 Contents of regional policy statements
     
@@ -6589,7 +6595,7 @@ Standards, policy statements, and plans
     
     (3) A regional policy statement must not be inconsistent with any water conservation order and must give effect to a national policy statement or New Zealand coastal policy statement.
     
-    Section 62: replaced, on 1 August 2003, by [section 25][1210] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 62: replaced, on 1 August 2003, by [section 25][1212] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 62(1)(b): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -6611,11 +6617,11 @@ Standards, policy statements, and plans
     
     (4) A regional coastal plan may be changed in the manner set out in [Schedule 1][903].
     
-    Section 64(1): replaced, on 7 July 1993, by [section 35][1211] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 64(1): replaced, on 7 July 1993, by [section 35][1213] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 64(1): amended, on 1 October 2011, by [section 15][1212] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 64(1): amended, on 1 October 2011, by [section 15][1214] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 64(4): amended, on 1 October 2011, by [section 15][1212] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 64(4): amended, on 1 October 2011, by [section 15][1214] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 64A Imposition of coastal occupation charges
     
@@ -6645,7 +6651,7 @@ Standards, policy statements, and plans
     
     (5) Any money received by the regional council from a coastal occupation charge must be used only for the purpose of promoting the sustainable management of the coastal marine area.
     
-    Section 64A: inserted, on 17 December 1997, by [section 12][1213] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 64A: inserted, on 17 December 1997, by [section 12][1215] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 64A(1): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
@@ -6709,19 +6715,19 @@ Standards, policy statements, and plans
     
     *   (b) as soon as reasonably practicable, in any other case.
     
-    Section 65(1): replaced, on 1 August 2003, by [section 26][1214] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 65(1): replaced, on 1 August 2003, by [section 26][1216] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 65(1): amended, on 10 August 2005, by [section 39(1)][1215] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 65(1): amended, on 10 August 2005, by [section 39(1)][1217] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 65(1A): inserted, on 10 August 2005, by [section 39(2)][1215] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 65(1A): inserted, on 10 August 2005, by [section 39(2)][1217] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 65(2): replaced, on 1 August 2003, by [section 26][1214] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 65(2): replaced, on 1 August 2003, by [section 26][1216] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 65(5): amended, on 7 July 1993, by [section 36][1216] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 65(5): amended, on 7 July 1993, by [section 36][1218] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 65(6): inserted, on 10 August 2005, by [section 39(3)][1215] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 65(6): inserted, on 10 August 2005, by [section 39(3)][1217] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 65(7): inserted, on 10 August 2005, by [section 39(3)][1215] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 65(7): inserted, on 10 August 2005, by [section 39(3)][1217] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 66 Matters to be considered by regional council (plans)
     
@@ -6747,13 +6753,15 @@ Standards, policy statements, and plans
         
         to the extent that their content has a bearing on resource management issues of the region; and
     
-    *   (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils.
+    *   (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils; and
+    
+    *   (e) to the extent to which the regional plan needs to be consistent with regulations made under the [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][1203]; and
     
     (2A) When a regional council is preparing or changing a regional plan, it must deal with the following documents, if they are lodged with the council, in the manner specified, to the extent that their content has a bearing on the resource management issues of the region:
         
     *   (a) the council must take into account any relevant planning document recognised by an iwi authority; and
     
-    *   (b) in relation to a planning document prepared by a customary marine title group under [section 85][1203] of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with [section 93][1204] of that Act,---
+    *   (b) in relation to a planning document prepared by a customary marine title group under [section 85][1204] of the Marine and Coastal Area (Takutai Moana) Act 2011, the council must, in accordance with [section 93][1205] of that Act,---
             
         *   (i) recognise and provide for the matters in that document, to the extent that they relate to the relevant customary marine title area; and
         
@@ -6763,27 +6771,31 @@ Standards, policy statements, and plans
     
     (3) In preparing or changing any regional plan, a regional council must not have regard to trade competition or the effects of trade competition.
     
-    Section 66 heading: amended, on 17 December 1997, by [section 13][1217] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 66 heading: amended, on 17 December 1997, by [section 13][1219] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 66(1): amended, on 10 August 2005, by [section 40(1)][1218] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 66(1): amended, on 10 August 2005, by [section 40(1)][1220] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 66(2): amended, on 10 August 2005, by [section 40(2)][1218] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 66(2): amended, on 10 August 2005, by [section 40(2)][1220] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 66(2)(b): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 66(2)(c)(ii): repealed, on 1 August 2003, by [section 27(1)][1219] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 66(2)(c)(ii): repealed, on 1 August 2003, by [section 27(1)][1221] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Subsection (2)(c)(iia): inserted, on 1 July 1993, by [section 118(2)][1207] of the Historic Places Act 1993 (1993 No 38).
+    Subsection (2)(c)(iia): inserted, on 1 July 1993, by [section 118(2)][1208] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 66(2)(c)(iii): replaced, on 1 October 1996, by [section 316(1)][1208] of the Fisheries Act 1996 (1996 No 88).
+    Section 66(2)(c)(iii): replaced, on 1 October 1996, by [section 316(1)][1209] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 66(2)(c)(iv): repealed, on 1 August 2003, by [section 27(1)][1219] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 66(2)(c)(iv): repealed, on 1 August 2003, by [section 27(1)][1221] of the Resource Management Amendment Act 2003 (2003 No 23).
+    
+    Section 66(2)(d): amended, on 28 June 2013, by [section 176(3)][1210] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    
+    Section 66(2)(e): inserted, on 28 June 2013, by [section 176(3)][1210] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
     Section 66(2A): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 66(3): inserted, on 17 December 1997, by [section 13][1217] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 66(3): inserted, on 17 December 1997, by [section 13][1219] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 66(3): amended, on 1 October 2009, by [section 56][1220] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 66(3): amended, on 1 October 2009, by [section 56][1222] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 67 Contents of regional plans
     
@@ -6841,9 +6853,9 @@ Standards, policy statements, and plans
     
     (6) A regional plan may incorporate material by reference under [Part 3][1104] of Schedule 1\.
     
-    Section 67: replaced, on 10 August 2005, by [section 41][1221] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 67: replaced, on 10 August 2005, by [section 41][1223] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 67(4)(c): repealed, on 1 October 2011, by [section 16][1222] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 67(4)(c): repealed, on 1 October 2011, by [section 16][1224] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 68 Regional rules
     
@@ -6921,45 +6933,45 @@ Standards, policy statements, and plans
     
     *   (c) treats the land as not contaminated for purposes stated in the rule.
     
-    Section 68(1): amended, on 1 August 2003, by [section 29(1)][1223] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 68(1): amended, on 1 August 2003, by [section 29(1)][1225] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 68(2A): replaced, on 31 March 2005, by [section 414][1015] of the Building Act 2004 (2004 No 72).
     
-    Section 68(3): amended, on 1 August 2003, by [section 29(2)][1223] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 68(3): amended, on 1 August 2003, by [section 29(2)][1225] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 68(3A): repealed, on 1 August 2003, by [section 29(3)][1223] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 68(3A): repealed, on 1 August 2003, by [section 29(3)][1225] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 68(3B): repealed, on 1 August 2003, by [section 29(3)][1223] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 68(3B): repealed, on 1 August 2003, by [section 29(3)][1225] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 68(4): amended, on 1 August 2003, by [section 29(4)][1223] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 68(4): amended, on 1 August 2003, by [section 29(4)][1225] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 68(5)(e): replaced, on 1 August 2003, by [section 29(5)][1223] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 68(5)(e): replaced, on 1 August 2003, by [section 29(5)][1225] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 68(6): repealed, on 17 December 1997, by [section 14][1224] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 68(6): repealed, on 17 December 1997, by [section 14][1226] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 68(7): inserted, on 7 July 1993, by [section 37(4)][1225] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 68(7): inserted, on 7 July 1993, by [section 37(4)][1227] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 68(8): inserted, on 20 August 1998, by [section 10][1226] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 68(8): inserted, on 20 August 1998, by [section 10][1228] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 68(9): inserted, on 20 August 1998, by [section 10][1226] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 68(9): inserted, on 20 August 1998, by [section 10][1228] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 68(10): inserted, on 20 August 1998, by [section 10][1226] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 68(10): inserted, on 20 August 1998, by [section 10][1228] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 68(11): inserted, on 10 August 2005, by [section 42][1227] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 68(11): inserted, on 10 August 2005, by [section 42][1229] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 68(11): amended, on 1 October 2009, by [section 57][1228] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 68(11): amended, on 1 October 2009, by [section 57][1230] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 68A Regional coastal plan not to authorise aquaculture activities in coastal marine area as permitted activities
     
-*   (1) Despite [section 68][159], after the commencement of [section 17][1229] of the Resource Management Amendment Act (No 2) 2011 no rule may be included in a regional coastal plan which authorises as a permitted activity any aquaculture activity in the coastal marine area.
+*   (1) Despite [section 68][159], after the commencement of [section 17][1231] of the Resource Management Amendment Act (No 2) 2011 no rule may be included in a regional coastal plan which authorises as a permitted activity any aquaculture activity in the coastal marine area.
     
-    (2) If, immediately before the commencement of [section 17][1229] of the Resource Management Amendment Act (No 2) 2011, a regional coastal plan contains a rule that authorises as a permitted activity any part of an aquaculture activity in the coastal marine area---
+    (2) If, immediately before the commencement of [section 17][1231] of the Resource Management Amendment Act (No 2) 2011, a regional coastal plan contains a rule that authorises as a permitted activity any part of an aquaculture activity in the coastal marine area---
         
     *   (a) any person may act, or continue to act, in accordance with the rule until any alteration of the rule has legal effect; but
     
-    *   (b) a regional council must, as soon as is reasonably practicable and not later than 2 years after the commencement of [section 17][1229] of the Resource Management Amendment Act (No 2) 2011, initiate a review of the rule under [section 79][182] and propose to alter any provisions necessary to ensure compliance with subsection (1), in the manner set out in [Part 1][1230] of Schedule 1 and this Part.
+    *   (b) a regional council must, as soon as is reasonably practicable and not later than 2 years after the commencement of [section 17][1231] of the Resource Management Amendment Act (No 2) 2011, initiate a review of the rule under [section 79][182] and propose to alter any provisions necessary to ensure compliance with subsection (1), in the manner set out in [Part 1][1232] of Schedule 1 and this Part.
     
-    Section 68A: replaced, on 1 October 2011, by [section 17][1229] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 68A: replaced, on 1 October 2011, by [section 17][1231] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 69 Rules relating to water quality
     
@@ -7005,7 +7017,7 @@ Standards, policy statements, and plans
 
 #### Rules relating to discharge of greenhouse gases
     
-*   Heading: inserted, on 2 March 2004, by [section 6][1231] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
+*   Heading: inserted, on 2 March 2004, by [section 6][1233] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
 
 ##### 70A Application to climate change of rules relating to discharge of greenhouse gases
     
@@ -7015,25 +7027,25 @@ Standards, policy statements, and plans
     
     *   (b) relative to the use and development of non-renewable energy.
     
-    Section 70A: inserted, on 2 March 2004, by [section 6][1231] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
+    Section 70A: inserted, on 2 March 2004, by [section 6][1233] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
 
 ##### 70B Implementation of national environmental standards
     
 *   If a national environmental standard is made to control the effects on climate change of the discharge into air of greenhouse gases, a regional council may make rules that are necessary to implement the standard, provided the rules are no more or less restrictive than the standard.
     
-    Section 70B: inserted, on 2 March 2004, by [section 6][1231] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
+    Section 70B: inserted, on 2 March 2004, by [section 6][1233] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
     
-    Section 70B heading: amended, on 10 August 2005, by [section 43(1)][1232] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 70B heading: amended, on 10 August 2005, by [section 43(1)][1234] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 70B: amended, on 10 August 2005, by [section 43(2)(a)][1232] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 70B: amended, on 10 August 2005, by [section 43(2)(a)][1234] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 70B: amended, on 10 August 2005, by [section 43(2)(b)][1232] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 70B: amended, on 10 August 2005, by [section 43(2)(b)][1234] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 71 Rules about esplanade reserves on reclamation
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 7 July 1993, by [section 38][1233] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 71: repealed, on 7 July 1993, by [section 38][1235] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### District plans
 
@@ -7073,13 +7085,13 @@ Standards, policy statements, and plans
     
     *   (b) as soon as reasonably practicable, in any other case.
     
-    Section 73(1A): inserted, on 7 July 1993, by [section 39][1234] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 73(1A): inserted, on 7 July 1993, by [section 39][1236] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 73(1B): inserted, on 10 August 2005, by [section 44(1)][1235] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 73(1B): inserted, on 10 August 2005, by [section 44(1)][1237] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 73(4): inserted, on 10 August 2005, by [section 44(2)][1235] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 73(4): inserted, on 10 August 2005, by [section 44(2)][1237] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 73(5): inserted, on 10 August 2005, by [section 44(2)][1235] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 73(5): inserted, on 10 August 2005, by [section 44(2)][1237] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 74 Matters to be considered by territorial authority
     
@@ -7113,23 +7125,23 @@ Standards, policy statements, and plans
     
     (3) In preparing or changing any district plan, a territorial authority must not have regard to trade competition or the effects of trade competition.
     
-    Section 74(1): amended, on 10 August 2005, by [section 45(1)][1236] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 74(1): amended, on 10 August 2005, by [section 45(1)][1238] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 74(2): amended, on 10 August 2005, by [section 45(2)][1236] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 74(2): amended, on 10 August 2005, by [section 45(2)][1238] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 74(2)(a): replaced, on 17 December 1997, by [section 15(1)][1237] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 74(2)(a): replaced, on 17 December 1997, by [section 15(1)][1239] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 74(2)(b)(ii): repealed, on 1 August 2003, by [section 31(1)][1238] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 74(2)(b)(ii): repealed, on 1 August 2003, by [section 31(1)][1240] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 74(2)(b)(iia): inserted, on 1 July 1993, by [section 118(2)][1207] of the Historic Places Act 1993 (1993 No 38).
+    Section 74(2)(b)(iia): inserted, on 1 July 1993, by [section 118(2)][1208] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 74(2)(b)(iii): replaced, on 1 October 1996, by [section 316(1)][1208] of the Fisheries Act 1996 (1996 No 88).
+    Section 74(2)(b)(iii): replaced, on 1 October 1996, by [section 316(1)][1209] of the Fisheries Act 1996 (1996 No 88).
     
     Section 74(2A): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 74(3): inserted, on 17 December 1997, by [section 15(2)][1237] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 74(3): inserted, on 17 December 1997, by [section 15(2)][1239] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 74(3): amended, on 1 October 2009, by [section 58][1239] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 74(3): amended, on 1 October 2009, by [section 58][1241] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 75 Contents of district plans
     
@@ -7175,7 +7187,7 @@ Standards, policy statements, and plans
     
     (5) A district plan may incorporate material by reference under [Part 3][1104] of Schedule 1\.
     
-    Section 75: replaced, on 10 August 2005, by [section 46][1240] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 75: replaced, on 10 August 2005, by [section 46][1242] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 76 District rules
     
@@ -7241,25 +7253,25 @@ Standards, policy statements, and plans
     
     *   (c) treats the land as not contaminated for purposes stated in the rule.
     
-    Section 76(1): amended, on 1 August 2003, by [section 33(1)][1241] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 76(1): amended, on 1 August 2003, by [section 33(1)][1243] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 76(2A): replaced, on 31 March 2005, by [section 414][1015] of the Building Act 2004 (2004 No 72).
     
-    Section 76(3): amended, on 1 August 2003, by [section 33(2)][1241] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 76(3): amended, on 1 August 2003, by [section 33(2)][1243] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 76(3A): repealed, on 1 August 2003, by [section 33(3)][1241] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 76(3A): repealed, on 1 August 2003, by [section 33(3)][1243] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 76(3B): repealed, on 1 August 2003, by [section 33(3)][1241] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 76(3B): repealed, on 1 August 2003, by [section 33(3)][1243] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 76(4)(e): replaced, on 1 August 2003, by [section 33(4)][1241] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 76(4)(e): replaced, on 1 August 2003, by [section 33(4)][1243] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 76(4A): inserted, on 1 October 2009, by [section 59(1)][1242] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 76(4A): inserted, on 1 October 2009, by [section 59(1)][1244] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 76(4B): inserted, on 1 October 2009, by [section 59(1)][1242] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 76(4B): inserted, on 1 October 2009, by [section 59(1)][1244] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 76(5): inserted, on 10 August 2005, by [section 47][1243] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 76(5): inserted, on 10 August 2005, by [section 47][1245] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 76(5): amended, on 1 October 2009, by [section 59(2)][1242] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 76(5): amended, on 1 October 2009, by [section 59(2)][1244] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 77 Rules about esplanade reserves on subdivision and road stopping
     
@@ -7275,9 +7287,9 @@ Standards, policy statements, and plans
     
     (3) A territorial authority may include in its district plan a rule which provides---
         
-    *   (a) that esplanade reserves, required to be set aside under [section 345(3)][1244] of the Local Government Act 1974, shall be of a width greater or less than 20 metres:
+    *   (a) that esplanade reserves, required to be set aside under [section 345(3)][1246] of the Local Government Act 1974, shall be of a width greater or less than 20 metres:
     
-    *   (b) that [section 345(3)][1244] of the Local Government Act 1974 shall not apply.
+    *   (b) that [section 345(3)][1246] of the Local Government Act 1974 shall not apply.
     
     (4) Rules made under this section shall make provision for such matters as are appropriate in the circumstances of the district, and may apply---
         
@@ -7287,13 +7299,13 @@ Standards, policy statements, and plans
     
     *   (c) in particular circumstances.
     
-    Section 77: replaced, on 7 July 1993, by [section 41][1245] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 77: replaced, on 7 July 1993, by [section 41][1247] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 77(4): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Additional provisions for regional rules and district rules
     
-*   Heading: inserted, on 1 August 2003, by [section 34][1246] of the Resource Management Amendment Act 2003 (2003 No 23).
+*   Heading: inserted, on 1 August 2003, by [section 34][1248] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 77A Power to make rules to apply to classes of activities and specify conditions
     
@@ -7327,7 +7339,7 @@ Standards, policy statements, and plans
     
     (3) Subsection (1)(b) is subject to [section 77B][176].
     
-    Section 77A: replaced, on 1 October 2009, by [section 60][1247] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 77A: replaced, on 1 October 2009, by [section 60][1249] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 77B Duty to include certain rules in relation to controlled or restricted discretionary activities
     
@@ -7339,13 +7351,13 @@ Standards, policy statements, and plans
     
     (4) The local authority must specify in the rule the matters over which it has restricted its discretion in relation to the activity.
     
-    Section 77B: replaced, on 1 October 2009, by [section 60][1247] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 77B: replaced, on 1 October 2009, by [section 60][1249] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 77C Certain activities to be treated as discretionary activities or prohibited activities
     
 *   \[Repealed\]
     
-    Section 77C: repealed, on 1 October 2009, by [section 61][1248] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 77C: repealed, on 1 October 2009, by [section 61][1250] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 77D Rules specifying activities for which consent applications must be notified or are precluded from being notified
     
@@ -7357,7 +7369,7 @@ Standards, policy statements, and plans
     
     *   (c) is precluded from giving limited notification of an application for a resource consent.
     
-    Section 77D: replaced, on 1 October 2009, by [section 62][1249] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 77D: replaced, on 1 October 2009, by [section 62][1251] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Miscellaneous provisions
 
@@ -7365,13 +7377,13 @@ Standards, policy statements, and plans
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 7 July 1993, by [section 42][1250] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 78: repealed, on 7 July 1993, by [section 42][1252] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 78A Combined regional and district documents
     
 *   \[Repealed\]
     
-    Section 78A: repealed, on 1 October 2009, by [section 63][1251] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 78A: repealed, on 1 October 2009, by [section 63][1253] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 79 Review of policy statements and plans
     
@@ -7383,13 +7395,13 @@ Standards, policy statements, and plans
     
     *   (c) a district plan.
     
-    (2) If, after reviewing the provision, the local authority considers that it requires alteration, the local authority must, in the manner set out in [Part 1][1230] of Schedule 1 and this Part, propose to alter the provision.
+    (2) If, after reviewing the provision, the local authority considers that it requires alteration, the local authority must, in the manner set out in [Part 1][1232] of Schedule 1 and this Part, propose to alter the provision.
     
     (3) If, after reviewing the provision, the local authority considers that it does not require alteration, the local authority must still publicly notify the provision---
         
     *   (a) as if it were a change; and
     
-    *   (b) in the manner set out in [Part 1][1230] of Schedule 1 and this Part.
+    *   (b) in the manner set out in [Part 1][1232] of Schedule 1 and this Part.
     
     (4) Without limiting subsection (1), a local authority may, at any time, commence a full review of any of the following documents it has:
         
@@ -7401,19 +7413,19 @@ Standards, policy statements, and plans
     
     (5) In carrying out a review under subsection (4), the local authority must review all the sections of, and all the changes to, the policy statement or plan regardless of when the sections or changes became operative.
     
-    (6) If, after reviewing the statement or plan under subsection (4), the local authority considers that it requires alteration, the local authority must alter the statement or plan in the manner set out in [Part 1][1230] of Schedule 1 and this Part.
+    (6) If, after reviewing the statement or plan under subsection (4), the local authority considers that it requires alteration, the local authority must alter the statement or plan in the manner set out in [Part 1][1232] of Schedule 1 and this Part.
     
     (7) If, after reviewing the statement or plan under subsection (4), the local authority considers that it does not require alteration, the local authority must still publicly notify the statement or plan---
         
     *   (a) as if it were a proposed policy statement or plan; and
     
-    *   (b) in the manner set out in [Part 1][1230] of Schedule 1 and this Part.
+    *   (b) in the manner set out in [Part 1][1232] of Schedule 1 and this Part.
     
     (8) A provision of a policy statement or plan, or the policy statement or plan, as the case may be, does not cease to be operative because the provision, statement, or plan is due for review or is being reviewed under this section.
     
     (9) The obligations on a local authority under this section are in addition to its duty to monitor under [section 35][77].
     
-    Section 79: replaced, on 1 October 2009, by [section 64][1252] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 79: replaced, on 1 October 2009, by [section 64][1254] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 79A Circumstance when further review required
     
@@ -7483,9 +7495,9 @@ Standards, policy statements, and plans
     
     (10) Subsection (9)(b) applies whether or not the combined document is approved by any of the other local authorities concerned.
     
-    (11) [Clause 30][1253] of Schedule 7 of the Local Government Act 2002 applies to the appointment and conduct of any joint committee set up for the purposes of preparing, implementing, or administering a combined document under this section.
+    (11) [Clause 30][1255] of Schedule 7 of the Local Government Act 2002 applies to the appointment and conduct of any joint committee set up for the purposes of preparing, implementing, or administering a combined document under this section.
     
-    Section 80: replaced, on 1 October 2009, by [section 66][1254] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 80: replaced, on 1 October 2009, by [section 66][1256] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 81 Boundary adjustments
     
@@ -7523,15 +7535,15 @@ Standards, policy statements, and plans
     
     (6) To avoid doubt, giving effect to a policy statement includes giving effect to it by complying with a direction described in [section 55(2)][141].
     
-    Section 82: replaced, on 1 August 2003, by [section 36][1255] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 82: replaced, on 1 August 2003, by [section 36][1257] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 82(3): replaced, on 1 October 2009, by [section 67][1256] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 82(3): replaced, on 1 October 2009, by [section 67][1258] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 82(4): inserted, on 1 October 2009, by [section 67][1256] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 82(4): inserted, on 1 October 2009, by [section 67][1258] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 82(5): inserted, on 1 October 2009, by [section 67][1256] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 82(5): inserted, on 1 October 2009, by [section 67][1258] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 82(6): inserted, on 1 October 2009, by [section 67][1256] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 82(6): inserted, on 1 October 2009, by [section 67][1258] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 82A Dispute relating to review under section 79A
     
@@ -7555,7 +7567,7 @@ Standards, policy statements, and plans
     
     (2) Notwithstanding subsection (1), any person having an interest in land to which any provision or proposed provision of a plan or proposed plan applies, and who considers that the provision or proposed provision would render that interest in land incapable of reasonable use, may challenge that provision or proposed provision on those grounds---
         
-    *   (a) in a submission made under [Part 1][1230] of Schedule 1 in respect of a proposed plan or change to a plan; or
+    *   (a) in a submission made under [Part 1][1232] of Schedule 1 in respect of a proposed plan or change to a plan; or
     
     *   (b) in an application to change a plan made under [clause 21][1140] of Schedule 1\.
     
@@ -7565,23 +7577,23 @@ Standards, policy statements, and plans
     
     *   (b) in the case of a regional coastal plan, report its findings to the applicant, the regional council concerned, and the Minister of Conservation, which report may include a direction to the regional council to modify, delete, or replace the provision.
     
-    (4) Any direction given or report made under subsection (3) shall have effect under this Act as if it were made or given under [clause 15][1257] of Schedule 1\.
+    (4) Any direction given or report made under subsection (3) shall have effect under this Act as if it were made or given under [clause 15][1259] of Schedule 1\.
     
     (5) In subsections (2) and (3), a _provision of a plan or proposed plan_ does not include a designation or a heritage order or a requirement for a designation or heritage order.
     
     (6) In subsections (2) and (3), the term _reasonable use_, in relation to any land, includes the use or potential use of the land for any activity whose actual or potential effects on any aspect of the environment or on any person other than the applicant would not be significant.
     
-    (7) Nothing in subsection (3) limits the powers of the Environment Court under [clause 15][1257] of Schedule 1 on an appeal under [clause 14][1258].
+    (7) Nothing in subsection (3) limits the powers of the Environment Court under [clause 15][1259] of Schedule 1 on an appeal under [clause 14][1260].
     
-    Section 85(2)(a): amended, on 7 July 1993, by [section 43(1)(a)][1259] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 85(2)(a): amended, on 7 July 1993, by [section 43(1)(a)][1261] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 85(2)(b): amended, on 7 July 1993, by [section 43(1)(b)][1259] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 85(2)(b): amended, on 7 July 1993, by [section 43(1)(b)][1261] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 85(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 85(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 85(3): amended, on 7 July 1993, by [section 43(2)][1259] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 85(3): amended, on 7 July 1993, by [section 43(2)][1261] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 85(7): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
@@ -7589,14 +7601,14 @@ Standards, policy statements, and plans
 
 #### Plan must not allow activity that prevents protected customary rights
     
-*   Heading: inserted, on 17 January 2005, by [section 21][1260] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+*   Heading: inserted, on 17 January 2005, by [section 21][1262] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
 *   Heading: amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 ##### 85A Plan or proposed plan must not include certain rules
     
 *   A plan or proposed plan must not include a rule that describes an activity as a permitted activity if that activity will, or is likely to, have an adverse effect that is more than minor on a protected customary right carried out under [Part 3][1103] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
     
-    Section 85A: inserted, on 17 January 2005, by [section 21][1260] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 85A: inserted, on 17 January 2005, by [section 21][1262] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Section 85A: amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -7604,7 +7616,7 @@ Standards, policy statements, and plans
     
 *   (1) If a protected customary rights group considers that a rule in a plan or proposed plan does not comply with [section 85A][193], the holder may---
         
-    *   (a) make a submission to the local authority concerned under [clause 6][1261] of Schedule 1; or
+    *   (a) make a submission to the local authority concerned under [clause 6][1263] of Schedule 1; or
     
     *   (b) request a change under [clause 21][1140] of Schedule 1; or
     
@@ -7622,7 +7634,7 @@ Standards, policy statements, and plans
     
     *   (e) whether the protected customary right can be exercised only in a particular area.
     
-    Section 85B: inserted, on 17 January 2005, by [section 21][1260] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 85B: inserted, on 17 January 2005, by [section 21][1262] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Section 85B(1): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
@@ -7650,7 +7662,7 @@ Standards, policy statements, and plans
 
 #### Legal effect of rules
     
-*   Heading: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 86A Purpose of sections 86B to 86G 
     
@@ -7658,7 +7670,7 @@ Standards, policy statements, and plans
     
     (2) Except to the extent that subsection (1) applies, [sections 86B to 86G][220] do not limit or affect the weight that a consent authority gives to objectives, policies, and other issues, reasons, or methods in plans before the plan becomes operative.
     
-    Section 86A: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 86A: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 86B When rules in proposed plans and changes have legal effect
     
@@ -7700,11 +7712,11 @@ Standards, policy statements, and plans
     
     (6) \[Repealed\]
     
-    Section 86B: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 86B: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 86B(3)(e): replaced, on 1 October 2011, by [section 18(1)][1263] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 86B(3)(e): replaced, on 1 October 2011, by [section 18(1)][1265] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 86B(6): repealed, on 1 October 2011, by [section 18(2)][1263] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 86B(6): repealed, on 1 October 2011, by [section 18(2)][1265] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 86C When rule has legal effect if decision to delay its effect is rescinded
     
@@ -7716,7 +7728,7 @@ Standards, policy statements, and plans
     
     *   (b) the day that a decision on submissions relating to the rule is made and publicly notified under [clause 10(4)][1088] of Schedule 1\.
     
-    Section 86C: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 86C: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 86D Environment Court may order rule to have legal effect from date other than standard date
     
@@ -7734,7 +7746,7 @@ Standards, policy statements, and plans
     
     *   (b) the date of the court order.
     
-    Section 86D: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 86D: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 86E Local authorities must identify rules having early or delayed legal effect
     
@@ -7752,7 +7764,7 @@ Standards, policy statements, and plans
     
     *   (b) may be removed, without any further authority than this subsection, by the local authority once the plan or change becomes operative in accordance with [clause 20][1167] of Schedule 1\.
     
-    Section 86E: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 86E: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 86F When rules in proposed plans must be treated as operative
     
@@ -7764,7 +7776,7 @@ Standards, policy statements, and plans
     
     *   (c) all submissions in opposition have been withdrawn and all appeals withdrawn or dismissed.
     
-    Section 86F: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 86F: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 86G Rule that has not taken legal effect or become operative excluded from references to rule in this Act and regulations made under this Act
     
@@ -7776,7 +7788,7 @@ Standards, policy statements, and plans
     
     (2) Subsection (1) applies subject to any express provision to the contrary in this Act.
     
-    Section 86G: inserted, on 1 October 2009, by [section 68][1262] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 86G: inserted, on 1 October 2009, by [section 68][1264] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ## Part 6  
 Resource consents
@@ -7785,7 +7797,7 @@ Resource consents
     
 *   This Part applies subject to [Part 6A][395].
     
-    Section 87AA: inserted, on 26 March 2002, by [section 7][1264] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
+    Section 87AA: inserted, on 26 March 2002, by [section 7][1266] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
 
 ##### 87 Types of resource consents
     
@@ -7801,9 +7813,9 @@ Resource consents
     
     *   (e) a consent to do something (other than in a coastal marine area) that otherwise would contravene [section 15][32] (in this Act called a _discharge permit_).
     
-    Section 87(c): amended, on 20 August 1998, by [section 17][1265] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 87(c): amended, on 20 August 1998, by [section 17][1267] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 87(c): amended, on 20 August 1998, by [section 11][1266] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 87(c): amended, on 20 August 1998, by [section 11][1268] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 ##### 87A Classes of activities
     
@@ -7815,7 +7827,7 @@ Resource consents
             
         *   (i) [section 106][273] applies; or
         
-        *   (ii) [section 55(2)][1267] of the Marine and Coastal Area (Takutai Moana) Act 2011 applies; and
+        *   (ii) [section 55(2)][1269] of the Marine and Coastal Area (Takutai Moana) Act 2011 applies; and
         
         
     
@@ -7849,13 +7861,13 @@ Resource consents
     
     (7) However, subsection (6) does not apply to a concurrent application lodged under [subpart 4][478] of Part 7A.
     
-    Section 87A: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87A: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 87A(2)(a): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 87A(6): amended, on 1 October 2011, by [section 19(1)][1269] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 87A(6): amended, on 1 October 2011, by [section 19(1)][1271] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 87A(7): inserted, on 1 October 2011, by [section 19(2)][1269] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 87A(7): inserted, on 1 October 2011, by [section 19(2)][1271] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 87B Certain activities to be treated as discretionary activities or prohibited activities
     
@@ -7869,15 +7881,15 @@ Resource consents
     
     (2) Prospecting, exploring, or mining for Crown owned minerals in the internal waters (as defined in [section 4][941] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) of the Coromandel Peninsula must be treated as a prohibited activity.
     
-    (3) Subsection (2) does not apply to prospecting, exploring, or mining activities set out in [section 61(1A)][1270] of the Crown Minerals Act 1991\.
+    (3) Subsection (2) does not apply to prospecting, exploring, or mining activities set out in [section 61(1A)][1272] of the Crown Minerals Act 1991\.
     
-    (4) An activity prohibited by [section 105(2)(b)][1271] of the Historic Places Act 1993 must be treated as a prohibited activity.
+    (4) An activity prohibited by [section 105(2)(b)][1273] of the Historic Places Act 1993 must be treated as a prohibited activity.
     
-    Section 87B: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87B: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Streamlining decision-making on resource consents
     
-*   Heading: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 87C Sections 87D to 87I apply to resource consent applications
     
@@ -7889,7 +7901,7 @@ Resource consents
     
     (2) If the application is called in under [section 142(2)][340], [sections 87D to 87I][211] cease to apply to it.
     
-    Section 87C: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87C: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 87D Request for application to go directly to Environment Court
     
@@ -7903,7 +7915,7 @@ Resource consents
     
     (3) The applicant must make the request electronically or in writing on the prescribed form.
     
-    Section 87D: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87D: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 87E Consent authority's decision on request
     
@@ -7925,7 +7937,7 @@ Resource consents
     
     (9) If the consent authority declines the request under subsection (5) or (6) the applicant may object to the consent authority under [section 357A(1)(e)][794].
     
-    Section 87E: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87E: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 87F Consent authority's subsequent processing
     
@@ -7951,7 +7963,7 @@ Resource consents
     
     *   (b) every person who made a submission on the application.
     
-    Section 87F: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87F: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 87G Environment Court determines application
     
@@ -7999,15 +8011,15 @@ Resource consents
     
     (8) However, in the case of an application for a coastal permit for aquaculture activities, for the purposes of [section 107F(3)(b) or (c)][281], the consent authority must obtain from the Environment Court any additional information, reports, or submissions not previously forwarded or sent under that section and forward or send the information, report, and submissions to the chief executive of the Ministry of Fisheries.
     
-    Section 87G: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87G: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 87G(8): inserted, on 1 October 2011, by [section 20][1272] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 87G(8): inserted, on 1 October 2011, by [section 20][1274] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 87H Residual powers of consent authority
     
 *   The consent authority that would have determined the application had the Environment Court not done so under [section 87G][214] has all the functions, duties, and powers in relation to a resource consent granted by the court as if it had granted the consent itself.
     
-    Section 87H: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87H: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 87I When consent authority must determine application
     
@@ -8027,7 +8039,7 @@ Resource consents
     
     (2) The application must be determined by the consent authority.
     
-    Section 87I: inserted, on 1 October 2009, by [section 69][1268] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 87I: inserted, on 1 October 2009, by [section 69][1270] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Application for resource consent
 
@@ -8049,17 +8061,17 @@ Resource consents
     
     (5) [Sections 357][793] to [358][798] apply to a determination that an application is incomplete.
     
-    Section 88: replaced, on 1 August 2003, by [section 37][1273] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 88: replaced, on 1 August 2003, by [section 37][1275] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 88(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 88(2A): inserted, on 1 October 2011, by [section 21][1274] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 88(2A): inserted, on 1 October 2011, by [section 21][1276] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
     Section 88(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 88(4): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 88(5): amended, on 10 August 2005, by [section 50][1275] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 88(5): amended, on 10 August 2005, by [section 50][1277] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 88A Description of type of activity to remain the same
     
@@ -8083,21 +8095,21 @@ Resource consents
     
     (3) \[Repealed\]
     
-    Section 88A: inserted, on 17 December 1997, by [section 18][1276] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 88A: inserted, on 17 December 1997, by [section 18][1278] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 88A(1): replaced, on 1 August 2003, by [section 38(1)][1277] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 88A(1): replaced, on 1 August 2003, by [section 38(1)][1279] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 88A(1)(a): amended, on 1 October 2009, by [section 70(1)][1278] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88A(1)(a): amended, on 1 October 2009, by [section 70(1)][1280] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 88A(1)(b): amended, on 1 October 2009, by [section 70(2)][1278] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88A(1)(b): amended, on 1 October 2009, by [section 70(2)][1280] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 88A(1)(b)(ii): amended, on 1 October 2009, by [section 70(2)][1278] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88A(1)(b)(ii): amended, on 1 October 2009, by [section 70(2)][1280] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 88A(1A): inserted, on 1 August 2003, by [section 38(1)][1277] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 88A(1A): inserted, on 1 August 2003, by [section 38(1)][1279] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 88A(2): amended, on 1 August 2003, by [section 38(2)][1277] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 88A(2): amended, on 1 August 2003, by [section 38(2)][1279] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 88A(3): repealed, on 1 October 2009, by [section 70(3)][1278] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88A(3): repealed, on 1 October 2009, by [section 70(3)][1280] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 88B Time limits from which time periods are excluded
     
@@ -8131,7 +8143,7 @@ Resource consents
     
     (4) Despite subsection (3), any applicable time periods described in [section 88D(2) and (8)][222] must not be excluded from the time limits in [section 95][241].
     
-    Section 88B: replaced, on 1 October 2009, by [section 71][1279] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88B: replaced, on 1 October 2009, by [section 71][1281] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 88C Excluded time periods relating to provision of further information
     
@@ -8195,7 +8207,7 @@ Resource consents
         
         
     
-    Section 88C: replaced, on 1 October 2009, by [section 71][1279] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88C: replaced, on 1 October 2009, by [section 71][1281] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 88D Excluded time periods relating to direct referral (for resource consents and also for notices of requirement)
     
@@ -8289,7 +8301,7 @@ Resource consents
         
         
     
-    Section 88D: inserted, on 1 October 2009, by [section 71][1279] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88D: inserted, on 1 October 2009, by [section 71][1281] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 88E Excluded time periods relating to other matters
     
@@ -8325,7 +8337,7 @@ Resource consents
         
         
     
-    Section 88E: inserted, on 1 October 2009, by [section 71][1279] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 88E: inserted, on 1 October 2009, by [section 71][1281] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 88F Excluded time relating to pre-request aquaculture agreements
     
@@ -8349,7 +8361,7 @@ Resource consents
         
         
     
-    Section 88F: inserted, on 1 October 2011, by [section 22][1280] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 88F: inserted, on 1 October 2011, by [section 22][1282] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 89 Applications to territorial authorities for resource consents where land is in coastal marine area
     
@@ -8365,11 +8377,11 @@ Resource consents
     
     (3) [Section 116(2)][291] shall apply to every resource consent that is granted in accordance with subsection (2).
     
-    Section 89 heading: amended, on 7 July 1993, by [section 45][1281] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 89 heading: amended, on 7 July 1993, by [section 45][1283] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 89(1): amended, on 7 July 1993, by [section 45(a)][1281] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 89(1): amended, on 7 July 1993, by [section 45(a)][1283] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 89(1): amended, on 7 July 1993, by [section 45(b)][1281] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 89(1): amended, on 7 July 1993, by [section 45(b)][1283] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 89A Applications affecting navigation to be referred to Maritime New Zealand
     
@@ -8409,13 +8421,13 @@ Resource consents
     
     *   (b) take the report into account in its consideration of the application.
     
-    Section 89A: inserted, on 1 October 2009, by [section 72][1282] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 89A: inserted, on 1 October 2009, by [section 72][1284] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 90 Distribution of application to other authorities
     
 *   \[Repealed\]
     
-    Section 90: repealed, on 1 August 2003, by [section 40][1283] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 90: repealed, on 1 August 2003, by [section 40][1285] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 91 Deferral pending application for additional consents
     
@@ -8463,21 +8475,21 @@ Resource consents
     
     (5) \[Repealed\]
     
-    Section 92: replaced, on 1 August 2003, by [section 41][1284] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 92: replaced, on 1 August 2003, by [section 41][1286] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 92 heading: replaced, on 10 August 2005, by [section 52(1)][1285] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 92 heading: replaced, on 10 August 2005, by [section 52(1)][1287] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 92(1): amended, on 10 August 2005, by [section 52(2)][1285] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 92(1): amended, on 10 August 2005, by [section 52(2)][1287] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 92(2): replaced, on 10 August 2005, by [section 52(3)][1285] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 92(2): replaced, on 10 August 2005, by [section 52(3)][1287] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 92(3): replaced, on 10 August 2005, by [section 52(3)][1285] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 92(3): replaced, on 10 August 2005, by [section 52(3)][1287] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 92(3A): inserted, on 10 August 2005, by [section 52(3)][1285] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 92(3A): inserted, on 10 August 2005, by [section 52(3)][1287] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 92(3B): inserted, on 1 October 2009, by [section 73(1)][1286] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92(3B): inserted, on 1 October 2009, by [section 73(1)][1288] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 92(5): repealed, on 1 October 2009, by [section 73(2)][1286] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92(5): repealed, on 1 October 2009, by [section 73(2)][1288] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 92A Responses to request
     
@@ -8509,15 +8521,15 @@ Resource consents
     
     (6) \[Repealed\]
     
-    Section 92A: inserted, on 10 August 2005, by [section 53][1287] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 92A: inserted, on 10 August 2005, by [section 53][1289] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 92A(3): replaced, on 1 October 2009, by [section 74][1288] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92A(3): replaced, on 1 October 2009, by [section 74][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 92A(4): repealed, on 1 October 2009, by [section 74][1288] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92A(4): repealed, on 1 October 2009, by [section 74][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 92A(5): repealed, on 1 October 2009, by [section 74][1288] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92A(5): repealed, on 1 October 2009, by [section 74][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 92A(6): repealed, on 1 October 2009, by [section 74][1288] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92A(6): repealed, on 1 October 2009, by [section 74][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 92B Responses to notification
     
@@ -8535,61 +8547,61 @@ Resource consents
     
     (5) \[Repealed\]
     
-    Section 92B: inserted, on 10 August 2005, by [section 53][1287] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 92B: inserted, on 10 August 2005, by [section 53][1289] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 92B(2): replaced, on 1 October 2009, by [section 75][1289] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92B(2): replaced, on 1 October 2009, by [section 75][1291] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 92B(3): repealed, on 1 October 2009, by [section 75][1289] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92B(3): repealed, on 1 October 2009, by [section 75][1291] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 92B(4): repealed, on 1 October 2009, by [section 75][1289] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92B(4): repealed, on 1 October 2009, by [section 75][1291] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 92B(5): repealed, on 1 October 2009, by [section 75][1289] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 92B(5): repealed, on 1 October 2009, by [section 75][1291] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Notification of applications
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 August 2003, by [section 41][1284] of the Resource Management Amendment Act 2003 (2003 No 23).
+*   Heading: repealed, on 1 August 2003, by [section 41][1286] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 93 When public notification of consent applications is required
     
 *   \[Repealed\]
     
-    Section 93: repealed, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 93: repealed, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 94 When public notification of consent applications is not required
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 94: repealed, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 94A Forming opinion as to whether adverse effects are minor or more than minor
     
 *   \[Repealed\]
     
-    Section 94A: repealed, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 94A: repealed, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 94B Forming opinion as to who may be adversely affected
     
 *   \[Repealed\]
     
-    Section 94B: repealed, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 94B: repealed, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 94C Public notification if applicant requests or if special circumstances exist
     
 *   \[Repealed\]
     
-    Section 94C: repealed, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 94C: repealed, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 94D When public notification and service requirements may be varied
     
 *   \[Repealed\]
     
-    Section 94D: repealed, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 94D: repealed, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Public notification and limited notification of applications
     
-*   Heading: inserted, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 95 Time limit for public notification or limited notification
     
@@ -8599,7 +8611,7 @@ Resource consents
     
     *   (b) notify the application if it decides to do so.
     
-    Section 95: replaced, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 95: replaced, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 95A Public notification of consent application at consent authority's discretion
     
@@ -8621,7 +8633,7 @@ Resource consents
     
     (4) Despite subsection (3), a consent authority may publicly notify an application if it decides that special circumstances exist in relation to the application.
     
-    Section 95A: inserted, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 95A: inserted, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 95B Limited notification of consent application
     
@@ -8633,7 +8645,7 @@ Resource consents
     
     (4) In subsections (1) and (3), the requirements relating to an affected customary marine title group apply only in the case of applications for accommodated activities.
     
-    Section 95B: inserted, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 95B: inserted, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 95B(1): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
@@ -8663,7 +8675,7 @@ Resource consents
     
     (4) This section applies despite any rule or national environmental standard that precludes public or limited notification of the application.
     
-    Section 95C: inserted, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 95C: inserted, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 95D Consent authority decides if adverse effects likely to be more than minor
     
@@ -8685,7 +8697,7 @@ Resource consents
     
     *   (e) must disregard any effect on a person who has given written approval to the relevant application.
     
-    Section 95D: inserted, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 95D: inserted, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 95E Consent authority decides if person is affected person
     
@@ -8705,7 +8717,7 @@ Resource consents
     
     *   (b) it is unreasonable in the circumstances to seek the person's written approval.
     
-    Section 95E: inserted, on 1 October 2009, by [section 76][1290] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 95E: inserted, on 1 October 2009, by [section 76][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 95F Status of protected customary rights group
     
@@ -8721,7 +8733,7 @@ Resource consents
     
 *   A consent authority must decide that a customary marine title group is an affected customary marine title group, in relation to an accommodated activity in the customary marine title area relevant to that group, if---
         
-    *   (a) the activity may have adverse effects on the exercise of the rights applying to a customary marine title group under [subpart 3][1291] of Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
+    *   (a) the activity may have adverse effects on the exercise of the rights applying to a customary marine title group under [subpart 3][1293] of Part 3 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
     
     *   (b) the customary marine title group has not given written approval for the activity in a written notice received by the consent authority before the authority has made a decision under this section.
     
@@ -8755,7 +8767,7 @@ Resource consents
     
     *   (c) it is neutral.
     
-    Section 96: replaced, on 1 October 2009, by [section 77][1292] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 96: replaced, on 1 October 2009, by [section 77][1294] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 97 Time limit for submissions
     
@@ -8769,7 +8781,7 @@ Resource consents
 
 #### Pre-hearing meetings and mediation
     
-*   Heading: amended, on 10 August 2005, by [section 57(1)][1293] of the Resource Management Amendment Act 2005 (2005 No 87).
+*   Heading: amended, on 10 August 2005, by [section 57(1)][1295] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 99 Pre-hearing meetings
     
@@ -8859,7 +8871,7 @@ Resource consents
     
     *   (c) may object under [section 357A][794] against the decision to decline to consider the submission.
     
-    Section 99: replaced, on 10 August 2005, by [section 57(2)][1293] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 99: replaced, on 10 August 2005, by [section 57(2)][1295] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 99A Mediation
     
@@ -8887,7 +8899,7 @@ Resource consents
     
     (4) The person who conducts the mediation must report the outcome of the mediation to the consent authority.
     
-    Section 99A: inserted, on 10 August 2005, by [section 58][1294] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 99A: inserted, on 10 August 2005, by [section 58][1296] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 #### Hearings
 
@@ -8915,7 +8927,7 @@ Resource consents
     
     (4) If the local authority receives a request under subsection (2), it must delegate, under [section 34A(1)][76], its functions, powers, and duties required to hear and decide the application to 1 or more hearings commissioners who are not members of the local authority.
     
-    Section 100A: inserted, on 1 October 2009, by [section 78][1295] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 100A: inserted, on 1 October 2009, by [section 78][1297] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 101 Hearing date and notice
     
@@ -8939,11 +8951,11 @@ Resource consents
     
     (4) Where a joint hearing is to be held under [section 102][260] the consent authorities concerned shall ensure that every applicant and every person who made a submission is aware of the joint hearing.
     
-    Section 101(2): replaced, on 1 October 2009, by [section 79][1296] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 101(2): replaced, on 1 October 2009, by [section 79][1298] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 101(2A): repealed, on 1 October 2009, by [section 79][1296] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 101(2A): repealed, on 1 October 2009, by [section 79][1298] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 101(4): amended, on 7 July 1993, by [section 51(3)][1297] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 101(4): amended, on 7 July 1993, by [section 51(3)][1299] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 102 Joint hearings by 2 or more consent authorities
     
@@ -8977,11 +8989,11 @@ Resource consents
     
     (7) If a consent authority delegates its functions, powers, and duties in relation to a matter to 1 or more hearings commissioners in accordance with [section 100A][258], and a joint hearing under this section includes the matter, then those commissioners must represent the consent authority in the joint hearing in relation to the matter.
     
-    Section 102(4A): inserted, on 7 July 1993, by [section 52(1)][1298] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 102(4A): inserted, on 7 July 1993, by [section 52(1)][1300] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 102(6): inserted, on 7 July 1993, by [section 52(2)][1298] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 102(6): inserted, on 7 July 1993, by [section 52(2)][1300] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 102(7): inserted, on 1 October 2009, by [section 80][1299] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 102(7): inserted, on 1 October 2009, by [section 80][1301] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 103 Combined hearings in respect of 2 or more applications
     
@@ -8995,9 +9007,9 @@ Resource consents
     
     (3) If a consent authority delegates its functions, powers, and duties in relation to a matter to 1 or more hearings commissioners in accordance with [section 100A][258], and the matter is to be heard and decided together with other matters under this section, then all of the matters must be heard and decided by those commissioners.
     
-    Section 103(2): inserted, on 7 July 1993, by [section 53][1300] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 103(2): inserted, on 7 July 1993, by [section 53][1302] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 103(3): inserted, on 1 October 2009, by [section 81][1301] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 103(3): inserted, on 1 October 2009, by [section 81][1303] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 103A Time limit for completion of adjourned hearing
     
@@ -9009,7 +9021,7 @@ Resource consents
     
     (2) The hearing must be concluded no later than 10 working days after the right of reply has been exercised (whether exercised orally or in writing).
     
-    Section 103A: inserted, on 1 October 2009, by [section 82][1302] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 103A: inserted, on 1 October 2009, by [section 82][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Decisions
 
@@ -9043,7 +9055,7 @@ Resource consents
     
     (2B) When considering a resource consent application for an activity in an area within the scope of a planning document, a consent authority must have regard to any resource management matters set out in that planning document.
     
-    (2C) Subsection (2B) applies until such time as the regional council, in the case of a consent authority that is a regional council, has completed its obligations in relation to its regional planning documents under [section 93][1204] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
+    (2C) Subsection (2B) applies until such time as the regional council, in the case of a consent authority that is a regional council, has completed its obligations in relation to its regional planning documents under [section 93][1205] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
     
     (3) A consent authority must not,---
         
@@ -9067,7 +9079,7 @@ Resource consents
         
         *   (iv) wāhi tapu conditions included in a customary marine title order or agreement:
         
-        *   (v) [section 55(2)][1267] of the Marine and Coastal Area (Takutai Moana) Act 2011:
+        *   (v) [section 55(2)][1269] of the Marine and Coastal Area (Takutai Moana) Act 2011:
         
         
     
@@ -9081,31 +9093,31 @@ Resource consents
     
     (7) In making an assessment on the adequacy of the information, the consent authority must have regard to whether any request made of the applicant for further information or reports resulted in further information or any report being available.
     
-    Section 104: replaced, on 1 August 2003, by [section 44][1303] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 104: replaced, on 1 August 2003, by [section 44][1305] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 104(1)(b): replaced, on 1 October 2009, by [section 83(1)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(1)(b): replaced, on 1 October 2009, by [section 83(1)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(2): amended, on 1 October 2009, by [section 83(2)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(2): amended, on 1 October 2009, by [section 83(2)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(2A): inserted, on 10 August 2005, by [section 59][1305] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 104(2A): inserted, on 10 August 2005, by [section 59][1307] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 104(2A): amended, on 1 October 2011, by [section 23(1)][1306] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 104(2A): amended, on 1 October 2011, by [section 23(1)][1308] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
     Section 104(2B): inserted, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
     Section 104(2C): inserted, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 104(3): amended, on 1 October 2009, by [section 83(3)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(3): amended, on 1 October 2009, by [section 83(3)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(3)(a): replaced, on 1 October 2009, by [section 83(4)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(3)(a): replaced, on 1 October 2009, by [section 83(4)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(3)(b): repealed, on 1 October 2009, by [section 83(4)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(3)(b): repealed, on 1 October 2009, by [section 83(4)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(3)(c): replaced, on 17 January 2005, by [section 24][1307] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 104(3)(c): replaced, on 17 January 2005, by [section 24][1309] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
-    Section 104(3)(c)(i): replaced, on 28 September 2008, by [section 6][1308] of the Resource Management Amendment Act 2008 (2008 No 95).
+    Section 104(3)(c)(i): replaced, on 28 September 2008, by [section 6][1310] of the Resource Management Amendment Act 2008 (2008 No 95).
     
-    Section 104(3)(c)(i): amended, on 1 October 2011, by [section 23(2)][1306] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 104(3)(c)(i): amended, on 1 October 2011, by [section 23(2)][1308] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
     Section 104(3)(c)(iv): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
@@ -9113,11 +9125,11 @@ Resource consents
     
     Section 104(3)(d): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(4): replaced, on 1 October 2009, by [section 83(5)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(4): replaced, on 1 October 2009, by [section 83(5)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(6): inserted, on 1 October 2009, by [section 83(6)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(6): inserted, on 1 October 2009, by [section 83(6)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 104(7): inserted, on 1 October 2009, by [section 83(6)][1304] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104(7): inserted, on 1 October 2009, by [section 83(6)][1306] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 104A Determination of applications for controlled activities
     
@@ -9133,11 +9145,11 @@ Resource consents
         
         
     
-    Section 104A: inserted, on 1 August 2003, by [section 44][1303] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 104A: inserted, on 1 August 2003, by [section 44][1305] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 104A(a): replaced, on 10 August 2005, by [section 60][1309] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 104A(a): replaced, on 10 August 2005, by [section 60][1311] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 104A(b): replaced, on 1 October 2009, by [section 84][1310] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104A(b): replaced, on 1 October 2009, by [section 84][1312] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 104B Determination of applications for discretionary or non-complying activities
     
@@ -9147,7 +9159,7 @@ Resource consents
     
     *   (b) if it grants the application, may impose conditions under [section 108][282].
     
-    Section 104B: inserted, on 1 August 2003, by [section 44][1303] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 104B: inserted, on 1 August 2003, by [section 44][1305] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 104C Determination of applications for restricted discretionary activities
     
@@ -9165,7 +9177,7 @@ Resource consents
     
     *   (b) it has restricted the exercise of its discretion in its plan or proposed plan.
     
-    Section 104C: replaced, on 1 October 2009, by [section 85][1311] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 104C: replaced, on 1 October 2009, by [section 85][1313] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 104D Particular restrictions for non-complying activities
     
@@ -9185,7 +9197,7 @@ Resource consents
     
     (2) To avoid doubt, [section 104(2)][264] applies to the determination of an application for a non-complying activity.
     
-    Section 104D: inserted, on 1 August 2003, by [section 44][1303] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 104D: inserted, on 1 August 2003, by [section 44][1305] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 104D(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -9193,7 +9205,7 @@ Resource consents
 
 #### Decisions on applications relating to discharge of greenhouse gases
     
-*   Heading: inserted, on 2 March 2004, by [section 7][1312] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
+*   Heading: inserted, on 2 March 2004, by [section 7][1314] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
 
 ##### 104E Applications relating to discharge of greenhouse gases
     
@@ -9203,7 +9215,7 @@ Resource consents
     
     *   (b) relative to the use and development of non-renewable energy.
     
-    Section 104E: inserted, on 2 March 2004, by [section 7][1312] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
+    Section 104E: inserted, on 2 March 2004, by [section 7][1314] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
 
 ##### 104F Implementation of national environmental standards
     
@@ -9213,15 +9225,15 @@ Resource consents
     
     *   (b) in making its determination, must be no more or less restrictive than is necessary to implement the standard.
     
-    Section 104F: inserted, on 2 March 2004, by [section 7][1312] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
+    Section 104F: inserted, on 2 March 2004, by [section 7][1314] of the Resource Management (Energy and Climate Change) Amendment Act 2004 (2004 No 2).
     
-    Section 104F heading: amended, on 10 August 2005, by [section 61(1)][1313] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 104F heading: amended, on 10 August 2005, by [section 61(1)][1315] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 104F: amended, on 10 August 2005, by [section 61(2)(a)][1313] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 104F: amended, on 10 August 2005, by [section 61(2)(a)][1315] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 104F(a): amended, on 10 August 2005, by [section 61(2)(b)][1313] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 104F(a): amended, on 10 August 2005, by [section 61(2)(b)][1315] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 104F(b): amended, on 10 August 2005, by [section 61(2)(b)][1313] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 104F(b): amended, on 10 August 2005, by [section 61(2)(b)][1315] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 105 Matters relevant to certain applications
     
@@ -9235,7 +9247,7 @@ Resource consents
     
     (2) If an application is for a resource consent for a reclamation, the consent authority must, in addition to the matters in [section 104(1)][264], consider whether an esplanade reserve or esplanade strip is appropriate and, if so, impose a condition under [section 108(2)(g)][282] on the resource consent.
     
-    Section 105: replaced, on 1 August 2003, by [section 44][1303] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 105: replaced, on 1 August 2003, by [section 44][1305] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 106 Consent authority may refuse subdivision consent in certain circumstances
     
@@ -9253,7 +9265,7 @@ Resource consents
     
     *   (b) of a type that could be imposed under [section 108][282].
     
-    Section 106: replaced, on 1 August 2003, by [section 44][1303] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 106: replaced, on 1 August 2003, by [section 44][1305] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 106(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -9291,19 +9303,19 @@ Resource consents
     
     (3) In addition to any other conditions imposed under this Act, a discharge permit or coastal permit may include conditions requiring the holder of the permit to undertake such works in such stages throughout the term of the permit as will ensure that upon the expiry of the permit the holder can meet the requirements of subsection (1) and of any relevant regional rules.
     
-    Section 107(1): amended, on 20 August 1998, by [section 14(2)][1314] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 107(1): amended, on 20 August 1998, by [section 14(2)][1316] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 107(1): amended, on 7 July 1993, by [section 57(1)][1315] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 107(1): amended, on 7 July 1993, by [section 57(1)][1317] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 107(1)(b): replaced, on 20 August 1998, by [section 14(1)][1314] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 107(1)(b): replaced, on 20 August 1998, by [section 14(1)][1316] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 107(1)(ba): inserted, on 20 August 1998, by [section 14(1)][1314] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 107(1)(ba): inserted, on 20 August 1998, by [section 14(1)][1316] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 107(2): replaced, on 17 December 1997, by [section 23(1)][1316] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 107(2): replaced, on 17 December 1997, by [section 23(1)][1318] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 107(2): amended, on 20 August 1998, by [section 14(2)][1314] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 107(2): amended, on 20 August 1998, by [section 14(2)][1316] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 107(3): replaced, on 7 July 1993, by [section 57(4)][1315] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 107(3): replaced, on 7 July 1993, by [section 57(4)][1317] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 107A Restrictions on grant of resource consents
     
@@ -9333,13 +9345,13 @@ Resource consents
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2011, by [section 24][1317] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Heading: repealed, on 1 October 2011, by [section 24][1319] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 107E Decision on application to undertake non-aquaculture activity in aquaculture management area
     
 *   \[Repealed\]
     
-    Section 107E: repealed, on 1 October 2011, by [section 25][1318] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 107E: repealed, on 1 October 2011, by [section 25][1320] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 107F Applications to undertake aquaculture activities
     
@@ -9349,7 +9361,7 @@ Resource consents
         
     *   (a) an area---
             
-        *   (i) that is or was subject to a lease, licence, marine farming permit, or spat catching permit that was deemed under [section 10][1319], [20][1320], or [21][1321] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 to be a coastal permit granted under this Act; and
+        *   (i) that is or was subject to a lease, licence, marine farming permit, or spat catching permit that was deemed under [section 10][1321], [20][1322], or [21][1323] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 to be a coastal permit granted under this Act; and
         
         *   (ii) where, since the date on which the lease, licence, marine farming permit, or spat catching permit was deemed to be a coastal permit, aquaculture activities have been continuously authorised under that permit or another permit granted under this Act; or
         
@@ -9357,7 +9369,7 @@ Resource consents
     
     *   (b) an area that is or was subject to the coastal permit referred to in section 20A of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 and where, since the date the coastal permit was deemed to be granted, aquaculture activities have been continuously authorised under that permit or another permit granted under this Act; or
     
-    *   (c) an area in a gazetted aquaculture area within the meaning of [section 35][1322] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
+    *   (c) an area in a gazetted aquaculture area within the meaning of [section 35][1324] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
     
     (3) The consent authority must take the following actions:
         
@@ -9369,7 +9381,7 @@ Resource consents
     
     (4) For the purposes of subsection (3)(c), in the case of a concurrent application made under [subpart 4][478] of Part 7A that is lodged with the EPA, the copy of submissions required to be sent by the EPA to the chief executive is a copy of only those submissions that relate to the concurrent application and not those that relate to its plan change request.
     
-    Section 107F: inserted, on 1 October 2011, by [section 26][1323] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 107F: inserted, on 1 October 2011, by [section 26][1325] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 108 Conditions of resource consents
     
@@ -9445,37 +9457,37 @@ Resource consents
     
     *   (b) the level of contribution is determined in the manner described in the plan or proposed plan.
     
-    Section 108(1): replaced, on 17 December 1997, by [section 24(1)][1324] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 108(1): replaced, on 17 December 1997, by [section 24(1)][1326] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 108(2): replaced, on 17 December 1997, by [section 24(1)][1324] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 108(2): replaced, on 17 December 1997, by [section 24(1)][1326] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 108(2)(b): replaced, on 1 August 2003, by [section 45(1)][1325] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 108(2)(b): replaced, on 1 August 2003, by [section 45(1)][1327] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 108(2)(f): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 108(2)(h): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 108(3): replaced, on 7 July 1993, by [section 58(6)][1326] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 108(3): replaced, on 7 July 1993, by [section 58(6)][1328] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 108(4): replaced, on 7 July 1993, by [section 58(6)][1326] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 108(4): replaced, on 7 July 1993, by [section 58(6)][1328] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 108(5): replaced, on 7 July 1993, by [section 58(6)][1326] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 108(5): replaced, on 7 July 1993, by [section 58(6)][1328] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 108(6): repealed, on 1 August 2003, by [section 45(3)][1325] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 108(6): repealed, on 1 August 2003, by [section 45(3)][1327] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 108(7): amended, on 17 December 1997, by [section 24(3)][1324] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 108(7): amended, on 17 December 1997, by [section 24(3)][1326] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 108(8): amended, on 20 August 1998, by [section 24(4)(a)][1324] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 108(8): amended, on 20 August 1998, by [section 24(4)(a)][1326] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 108(8): amended, on 17 December 1997, by [section 24(4)(b)][1324] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 108(8): amended, on 17 December 1997, by [section 24(4)(b)][1326] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 108(9): replaced, on 17 December 1997, by [section 24(5)][1324] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 108(9): replaced, on 17 December 1997, by [section 24(5)][1326] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 108(10): inserted, on 17 December 1997, by [section 24(5)][1324] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 108(10): inserted, on 17 December 1997, by [section 24(5)][1326] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 108(10)(a): amended, on 1 August 2003, by [section 45(4)][1325] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 108(10)(a): amended, on 1 August 2003, by [section 45(4)][1327] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 108(10)(b): amended, on 1 August 2003, by [section 45(5)][1325] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 108(10)(b): amended, on 1 August 2003, by [section 45(5)][1327] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 108A Bonds
     
@@ -9505,19 +9517,19 @@ Resource consents
     
     (3) If a consent authority considers that an adverse effect may continue or arise at any time after the expiration of a resource consent granted by it, the consent authority may require that a bond continue for a specified period that the consent authority thinks fit.
     
-    Section 108A: inserted, on 1 August 2003, by [section 46][1327] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 108A: inserted, on 1 August 2003, by [section 46][1329] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 109 Special provisions in respect of bonds or covenants
     
 *   (1) Every bond given under [section 108A][283] in respect of a land use consent or subdivision consent, and any other bond to which this subsection is applied as a condition of the consent, and every covenant given under [section 108(2)(d)][282],---
         
-    *   (a) shall be deemed to be an instrument creating an interest in the land within the meaning of [section 62][1328] of the Land Transfer Act 1952, and may be registered accordingly; and
+    *   (a) shall be deemed to be an instrument creating an interest in the land within the meaning of [section 62][1330] of the Land Transfer Act 1952, and may be registered accordingly; and
     
-    *   (b) when registered under the [Land Transfer Act 1952][962], shall be a covenant running with the land and shall, notwithstanding anything to the contrary in [section 105][1329] of the Land Transfer Act 1952, bind all subsequent owners of the land.
+    *   (b) when registered under the [Land Transfer Act 1952][962], shall be a covenant running with the land and shall, notwithstanding anything to the contrary in [section 105][1331] of the Land Transfer Act 1952, bind all subsequent owners of the land.
     
     (2) Where any such bond or covenant has been registered under the [Land Transfer Act 1952][962] and that bond or covenant is varied, cancelled, or expires, the Registrar-General of Land shall make an appropriate entry in the register and on any relevant instrument of title noting that the bond or covenant has been varied or cancelled or has expired, and the bond or covenant shall take effect as so varied or cease to have any effect, as the case may be.
     
-    (3) Where any bond has been given in respect of the completion of any work, or for the purposes of ascertaining whether the work has been completed to the satisfaction of the consent authority, the consent authority may from time to time, under [section 171][1330] of the Local Government Act 2002, enter on the land where the work is required to be, or is being, or has been, carried out.
+    (3) Where any bond has been given in respect of the completion of any work, or for the purposes of ascertaining whether the work has been completed to the satisfaction of the consent authority, the consent authority may from time to time, under [section 171][1332] of the Local Government Act 2002, enter on the land where the work is required to be, or is being, or has been, carried out.
     
     (4) Where the holder fails, within the period prescribed by the resource consent (or within such further period as the consent authority may allow), to complete, to the satisfaction of the consent authority, any work in respect of which any bond is given (including completion of any interim monitoring required)---
         
@@ -9531,13 +9543,13 @@ Resource consents
     
     Section 109(1): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 109(1): amended, on 17 December 1997, by [section 25(b)][1331] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 109(1): amended, on 17 December 1997, by [section 25(b)][1333] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 109(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 109(3): amended, on 1 July 2003, by [section 262][980] of the Local Government Act 2002 (2002 No 84).
     
-    Section 109(4): amended, on 1 August 2003, by [section 47][1332] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 109(4): amended, on 1 August 2003, by [section 47][1334] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 110 Refund of money and return of land where activity does not proceed
     
@@ -9553,13 +9565,13 @@ Resource consents
     
     (2) A consent authority may retain any portion of a financial contribution or land referred to in subsection (1) of a value equivalent to the costs incurred by the consent authority in relation to the activity and its discontinuance.
     
-    Section 110(1): amended, on 17 December 1997, by [section 26][1333] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 110(1): amended, on 17 December 1997, by [section 26][1335] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 110(1): amended, on 7 July 1993, by [section 59][1334] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 110(1): amended, on 7 July 1993, by [section 59][1336] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 110(1)(a): amended, on 17 December 1997, by [section 26][1333] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 110(1)(a): amended, on 17 December 1997, by [section 26][1335] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 110(1)(a): amended, on 7 July 1993, by [section 59][1334] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 110(1)(a): amended, on 7 July 1993, by [section 59][1336] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 111 Use of financial contributions
     
@@ -9567,9 +9579,9 @@ Resource consents
     
     Section 111: amended, on 1 July 2003, by [section 262][980] of the Local Government Act 2002 (2002 No 84).
     
-    Section 111: amended, on 17 December 1997, by [section 27][1335] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 111: amended, on 17 December 1997, by [section 27][1337] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 111: amended, on 7 July 1993, by [section 60][1336] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 111: amended, on 7 July 1993, by [section 60][1338] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 112 Obligation to pay rent and royalties deemed condition of consent
     
@@ -9589,15 +9601,15 @@ Resource consents
     
     (3) Where an activity specified in subsection (1) or subsection (2) is a permitted activity in a plan, there shall be implied as a condition in the plan that the person undertaking the activity shall at all times throughout the period during which the activity is undertaken pay to the relevant regional council, on behalf of the Crown, any sum of money required to be paid by regulations made under [section 360(1)(c)][800].
     
-    Section 112 heading: amended, on 17 December 1997, by [section 28][1337] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 112 heading: amended, on 17 December 1997, by [section 28][1339] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 112(1)(a): repealed, on 17 December 1997, by [section 28][1337] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 112(1)(a): repealed, on 17 December 1997, by [section 28][1339] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 112(1)(b): amended, on 7 July 1993, by [section 61(1)][1338] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 112(1)(b): amended, on 7 July 1993, by [section 61(1)][1340] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 112(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 112(3): inserted, on 7 July 1993, by [section 61(2)][1338] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 112(3): inserted, on 7 July 1993, by [section 61(2)][1340] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 113 Decisions on applications to be in writing, etc
     
@@ -9649,29 +9661,29 @@ Resource consents
     
     (4) Every decision on an application for a resource consent that is not notified must be in writing and state the reasons for the decision.
     
-    Section 113(1): amended, on 1 October 2009, by [section 86(1)][1339] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 113(1): amended, on 1 October 2009, by [section 86(1)][1341] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 113(1)(aa): inserted, on 10 August 2005, by [section 62][1340] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 113(1)(aa): inserted, on 10 August 2005, by [section 62][1342] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 113(1)(ab): inserted, on 10 August 2005, by [section 62][1340] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 113(1)(ab): inserted, on 10 August 2005, by [section 62][1342] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 113(1)(ab)(i): replaced, on 1 October 2009, by [section 86(2)][1339] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 113(1)(ab)(i): replaced, on 1 October 2009, by [section 86(2)][1341] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 113(1)(ab)(ia): inserted, on 1 October 2009, by [section 86(2)][1339] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 113(1)(ab)(ia): inserted, on 1 October 2009, by [section 86(2)][1341] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 113(1)(ac): inserted, on 10 August 2005, by [section 62][1340] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 113(1)(ac): inserted, on 10 August 2005, by [section 62][1342] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 113(1)(ad): inserted, on 10 August 2005, by [section 62][1340] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 113(1)(ad): inserted, on 10 August 2005, by [section 62][1342] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 113(1)(ae): inserted, on 10 August 2005, by [section 62][1340] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 113(1)(ae): inserted, on 10 August 2005, by [section 62][1342] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 113(1)(ae): amended, on 1 October 2009, by [section 86(3)][1339] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 113(1)(ae): amended, on 1 October 2009, by [section 86(3)][1341] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 113(2): inserted, on 7 July 1993, by [section 62][1341] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 113(2): inserted, on 7 July 1993, by [section 62][1343] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 113(3): inserted, on 1 October 2009, by [section 86(4)][1339] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 113(3): inserted, on 1 October 2009, by [section 86(4)][1341] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 113(4): inserted, on 1 October 2009, by [section 86(4)][1339] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 113(4): inserted, on 1 October 2009, by [section 86(4)][1341] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 114 Notification
     
@@ -9713,9 +9725,9 @@ Resource consents
     
     (5) If a consent authority forwards, at the same time, 2 or more decisions to the chief executive of the Ministry of Fisheries under subsection (4)(c), the consent authority must indicate to the chief executive the order in which the applications to which the decisions relate were received.
     
-    (6) Subsection (4) does not apply if the decision relates to an application for a change or cancellation of the conditions of a consent under [section 127][312], a review of the conditions of a consent initiated under [section 132][1342], or an application referred to in [section 165ZH][475], if---
+    (6) Subsection (4) does not apply if the decision relates to an application for a change or cancellation of the conditions of a consent under [section 127][312], a review of the conditions of a consent initiated under [section 132][1344], or an application referred to in [section 165ZH][475], if---
         
-    *   (a) that consent had conditions specified under [section 186H(3)][1343] of the Fisheries Act 1996; and
+    *   (a) that consent had conditions specified under [section 186H(3)][1345] of the Fisheries Act 1996; and
     
     *   (b) the conditions are contained in the consent the decision relates to, and continue to be specified as not being able to be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
     
@@ -9725,15 +9737,15 @@ Resource consents
     
     *   (b) paragraph (c) of that subsection are to be performed by the consent authority.
     
-    Section 114: replaced, on 1 August 2003, by [section 48][1344] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 114: replaced, on 1 August 2003, by [section 48][1346] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 114(4): inserted, on 1 October 2011, by [section 27][1345] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 114(4): inserted, on 1 October 2011, by [section 27][1347] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 114(5): inserted, on 1 October 2011, by [section 27][1345] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 114(5): inserted, on 1 October 2011, by [section 27][1347] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 114(6): inserted, on 1 October 2011, by [section 27][1345] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 114(6): inserted, on 1 October 2011, by [section 27][1347] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 114(7): inserted, on 1 October 2011, by [section 27][1345] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 114(7): inserted, on 1 October 2011, by [section 27][1347] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 115 Time limits for notification of decision
     
@@ -9747,7 +9759,7 @@ Resource consents
     
     (5) However, if [section 87I][216] applies and a hearing is not held, the notice must be given within 10 working days after the date on which the authority knows that the section applies.
     
-    Section 115: replaced, on 1 October 2009, by [section 87][1346] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 115: replaced, on 1 October 2009, by [section 87][1348] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 116 When a resource consent commences
     
@@ -9789,35 +9801,35 @@ Resource consents
     
     (6) If a resource consent is granted for an activity in a part of the common marine and coastal area where a customary marine title order or agreement is in effect, [section 68(1)][956] of the Marine and Coastal Area (Takutai Moana) Act 2011 applies.
     
-    Section 116(1): amended, on 1 October 2011, by [section 28][1347] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 116(1): amended, on 1 October 2011, by [section 28][1349] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 116(1): amended, on 1 October 2009, by [section 88(1)][1348] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 116(1): amended, on 1 October 2009, by [section 88(1)][1350] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 116(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 116(1): amended, on 7 July 1993, by [section 64(1)(a)][1349] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 116(1): amended, on 7 July 1993, by [section 64(1)(a)][1351] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 116(1): amended, on 7 July 1993, by [section 64(1)(b)][1349] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 116(1): amended, on 7 July 1993, by [section 64(1)(b)][1351] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 116(1)(b): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 116(1A): inserted, on 7 July 1993, by [section 64(2)][1349] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 116(1A): inserted, on 7 July 1993, by [section 64(2)][1351] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 116(1A): amended, on 1 October 2009, by [section 88(2)][1348] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 116(1A): amended, on 1 October 2009, by [section 88(2)][1350] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 116(1A): amended, on 10 August 2005, by [section 63][1350] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 116(1A): amended, on 10 August 2005, by [section 63][1352] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 116(1A): amended, on 1 August 2003, by [section 50(1)][1351] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 116(1A): amended, on 1 August 2003, by [section 50(1)][1353] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 116(1AB): inserted, on 1 August 2003, by [section 50(2)][1351] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 116(1AB): inserted, on 1 August 2003, by [section 50(2)][1353] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 116(1AB): amended, on 10 August 2005, by [section 63][1350] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 116(1AB): amended, on 10 August 2005, by [section 63][1352] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 116(3): repealed, on 1 October 2009, by [section 88(3)][1348] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 116(3): repealed, on 1 October 2009, by [section 88(3)][1350] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 116(4): inserted, on 1 October 2009, by [section 88(4)][1348] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 116(4): inserted, on 1 October 2009, by [section 88(4)][1350] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 116(5): inserted, on 1 October 2009, by [section 88(4)][1348] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 116(5): inserted, on 1 October 2009, by [section 88(4)][1350] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 116(6): inserted, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -9825,13 +9837,13 @@ Resource consents
     
 *   (1) A coastal permit to undertake aquaculture activities in the coastal marine area cannot commence other than in accordance with this section.
     
-    (2) If the chief executive of the Ministry of Fisheries makes a determination in relation to the permit, and has notified the consent authority of that decision in accordance with [section 186H][1343] of the Fisheries Act 1996, the consent authority must, as soon as is reasonably practicable,---
+    (2) If the chief executive of the Ministry of Fisheries makes a determination in relation to the permit, and has notified the consent authority of that decision in accordance with [section 186H][1345] of the Fisheries Act 1996, the consent authority must, as soon as is reasonably practicable,---
         
-    *   (a) amend the permit, if necessary, to note any conditions specified under [section 186H(3)][1343] of the Fisheries Act 1996 that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision:
+    *   (a) amend the permit, if necessary, to note any conditions specified under [section 186H(3)][1345] of the Fisheries Act 1996 that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision:
     
     *   (b) notify the applicant that the permit commences in respect of the area that is the subject of the determination, on the date of notification under this paragraph, or, if the permit specifies a later commencement date, on that date.
     
-    (3) If the chief executive makes a reservation in relation to recreational fishing or customary fishing or commercial fishing in relation to stocks or species not subject to the quota management system and has notified the consent authority of that decision, in accordance with [section 186H][1343] of the Fisheries Act 1996, the consent authority must, as soon as reasonably practicable,---
+    (3) If the chief executive makes a reservation in relation to recreational fishing or customary fishing or commercial fishing in relation to stocks or species not subject to the quota management system and has notified the consent authority of that decision, in accordance with [section 186H][1345] of the Fisheries Act 1996, the consent authority must, as soon as reasonably practicable,---
         
     *   (a) amend the permit to remove the areas affected by the reservation:
     
@@ -9839,7 +9851,7 @@ Resource consents
     
     *   (c) cancel the permit to the extent that it applies to the removed areas by written notice served on the applicant.
     
-    (4) If the chief executive makes a reservation in relation to commercial fishing in relation to stocks or species subject to the quota management system and has notified the consent authority of that decision, in accordance with [section 186H][1343] of the Fisheries Act 1996, the consent authority must, as soon as is reasonably practicable,---
+    (4) If the chief executive makes a reservation in relation to commercial fishing in relation to stocks or species subject to the quota management system and has notified the consent authority of that decision, in accordance with [section 186H][1345] of the Fisheries Act 1996, the consent authority must, as soon as is reasonably practicable,---
         
     *   (a) amend the permit to show the areas affected by the reservation:
     
@@ -9847,13 +9859,13 @@ Resource consents
     
     *   (c) notify the applicant that the permit will not commence in the area affected by the reservation, unless---
             
-        *   (i) an aquaculture agreement is registered in accordance with [section 186ZH][1352] of the Fisheries Act 1996; or
+        *   (i) an aquaculture agreement is registered in accordance with [section 186ZH][1354] of the Fisheries Act 1996; or
         
-        *   (ii) a compensation declaration has been registered under [section 186ZHA][1353] of the Fisheries Act 1996\.
+        *   (ii) a compensation declaration has been registered under [section 186ZHA][1355] of the Fisheries Act 1996\.
         
         
     
-    (5) If subsection (4) applies and the chief executive has notified the consent authority that an aquaculture agreement or compensation declaration has been registered for those stocks under [section 186ZH][1352] or [186ZHA][1353] of the Fisheries Act 1996 (as the case may require), the consent authority must, as soon as reasonably practicable,---
+    (5) If subsection (4) applies and the chief executive has notified the consent authority that an aquaculture agreement or compensation declaration has been registered for those stocks under [section 186ZH][1354] or [186ZHA][1355] of the Fisheries Act 1996 (as the case may require), the consent authority must, as soon as reasonably practicable,---
         
     *   (a) amend the permit so that it no longer shows the areas affected by the reservation:
     
@@ -9863,7 +9875,7 @@ Resource consents
     
     (6) If subsection (5) applies, then for the purposes of [section 125(1)(b)][310] the entire permit, as amended, is to be treated as having commenced on the commencement date notified under subsection (5)(c), unless the permit states a later date.
     
-    (7) If subsection (4) applies and the chief executive has notified the consent authority under [section 186ZK][1354] of the Fisheries Act 1996 that no aquaculture agreement or compensation declaration has been registered, the consent authority must, as soon is as reasonably practicable,---
+    (7) If subsection (4) applies and the chief executive has notified the consent authority under [section 186ZK][1356] of the Fisheries Act 1996 that no aquaculture agreement or compensation declaration has been registered, the consent authority must, as soon is as reasonably practicable,---
         
     *   (a) amend the permit to remove the areas affected by the reservation:
     
@@ -9877,7 +9889,7 @@ Resource consents
     
     (10) In the case of a concurrent application made under [subpart 4][478] of Part 7A that is lodged with and granted by the EPA, the references in this section to the consent authority are to be read as references to the consent authority that otherwise could have granted the application.
     
-    Section 116A: inserted, on 1 October 2011, by [section 29][1355] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 116A: inserted, on 1 October 2011, by [section 29][1357] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### Restricted coastal activities
 
@@ -9899,19 +9911,19 @@ Resource consents
     
     (8) The consent authority must ensure that a notice of its decision on the application is served on the Minister of Conservation under [section 114][289].
     
-    Section 117: replaced, on 1 October 2009, by [section 89][1356] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 117: replaced, on 1 October 2009, by [section 89][1358] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 118 Recommendation of hearing committee
     
 *   \[Repealed\]
     
-    Section 118: repealed, on 1 October 2009, by [section 90][1357] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 118: repealed, on 1 October 2009, by [section 90][1359] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 119 Decision on application for restricted coastal activity
     
 *   \[Repealed\]
     
-    Section 119: repealed, on 1 October 2009, by [section 90][1357] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 119: repealed, on 1 October 2009, by [section 90][1359] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 119A Coastal permit for restricted coastal activity treated as if granted by regional council
     
@@ -9929,7 +9941,7 @@ Resource consents
     
     *   (b) the regional council were the consent authority in relation to the coastal permit on and from the date it was granted.
     
-    Section 119A: replaced, on 1 October 2009, by [section 91][1358] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 119A: replaced, on 1 October 2009, by [section 91][1360] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Appeals
 
@@ -9945,15 +9957,15 @@ Resource consents
     
     (2) This section is in addition to the rights provided for in [sections 357A][794], [357C][796], and [357D][797] (which provide for objections to the consent authority).
     
-    Section 120(1): amended, on 1 October 2009, by [section 92(1)][1359] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 120(1): amended, on 1 October 2009, by [section 92(1)][1361] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 120(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 120(1)(c): inserted, on 1 October 2009, by [section 92(2)][1359] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No  31).
+    Section 120(1)(c): inserted, on 1 October 2009, by [section 92(2)][1361] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No  31).
     
-    Section 120(2): inserted, on 7 July 1993, by [section 68(2)][1360] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 120(2): inserted, on 7 July 1993, by [section 68(2)][1362] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 120(2): amended, on 10 August 2005, by [section 65][1361] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 120(2): amended, on 10 August 2005, by [section 65][1363] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 121 Procedure for appeal
     
@@ -9973,7 +9985,7 @@ Resource consents
     
     Section 121(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 121(3): repealed, on 1 October 2009, by [section 93][1362] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 121(3): repealed, on 1 October 2009, by [section 93][1364] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Nature of resource consent
 
@@ -9987,11 +9999,11 @@ Resource consents
     
     *   (b) on the bankruptcy of an individual who is the holder of a consent, the consent vests in the Official Assignee as if it were personal property, and he or she may deal with the consent to the same extent as the holder would have been able to do; and
     
-    *   (c) a consent shall be treated as property for the purposes of the [Protection of Personal and Property Rights Act 1988][1363].
+    *   (c) a consent shall be treated as property for the purposes of the [Protection of Personal and Property Rights Act 1988][1365].
     
     (3) The holder of a resource consent may grant a charge over that consent as if it were personal property, but the consent may only be transferred to the chargee, or by or on behalf of the chargee, to the same extent as it could be so transferred by the holder.
     
-    (4) Subject to the provisions of this Act, and in particular to subsection (3), the [Personal Property Securities Act 1999][1364] applies in relation to a resource consent as if---
+    (4) Subject to the provisions of this Act, and in particular to subsection (3), the [Personal Property Securities Act 1999][1366] applies in relation to a resource consent as if---
         
     *   (a) the resource consent were goods within the meaning of that Act; and
     
@@ -10017,11 +10029,11 @@ Resource consents
     
     no coastal permit shall be regarded as an authority for the holder to remove sand, shingle, shell, or other natural material as if it were a licence or profit à prendre.
     
-    Section 122(4): replaced, on 1 May 2002, by [section 191(1)][1365] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 122(4): replaced, on 1 May 2002, by [section 191(1)][1367] of the Personal Property Securities Act 1999 (1999 No 126).
     
     Section 122(5)(c): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 122(6): amended, on 7 July 1993, by [section 70][1366] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 122(6): amended, on 7 July 1993, by [section 70][1368] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Duration of consent
 
@@ -10037,7 +10049,7 @@ Resource consents
     
     *   (d) the period for which any other resource consent is granted is the period (not exceeding 35 years from the date of granting) specified in the consent and, if no such period is specified, is 5 years from the date of commencement of the consent under [section 116][291].
     
-    Section 123: amended, on 1 October 2011, by [section 30][1367] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 123: amended, on 1 October 2011, by [section 30][1369] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 123A Duration of consent for aquaculture activities
     
@@ -10053,7 +10065,7 @@ Resource consents
     
     (4) This section applies subject to[section 125][310].
     
-    Section 123A: inserted, on 1 October 2011, by [section 31][1368] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 123A: inserted, on 1 October 2011, by [section 31][1370] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 124 Exercise of resource consent while applying for new consent
     
@@ -10093,9 +10105,9 @@ Resource consents
     
     (4) This section does not apply to an application to which [section 165ZH][475] applies.
     
-    Section 124: replaced, on 10 August 2005, by [section 66][1369] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 124: replaced, on 10 August 2005, by [section 66][1371] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 124(4): inserted, on 1 October 2011, by [section 32][1370] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 124(4): inserted, on 1 October 2011, by [section 32][1372] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 124A When sections 124B and 124C apply and when they do not apply
     
@@ -10121,7 +10133,7 @@ Resource consents
     
     (3) [Sections 124B][308] and [124C][309] do not apply to an application affected by [section 124][306] if, when the application is made, the relevant plan expressly says that sections 124A to 124C do not apply.
     
-    Section 124A: inserted, on 9 August 2008, by [section 67][1371] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 124A: inserted, on 9 August 2008, by [section 67][1373] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 124B Applications by existing holders of resource consents
     
@@ -10159,7 +10171,7 @@ Resource consents
         
         
     
-    Section 124B: inserted, on 9 August 2008, by [section 67][1371] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 124B: inserted, on 9 August 2008, by [section 67][1373] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 124C Applications by persons who are not existing holders of resource consents
     
@@ -10193,7 +10205,7 @@ Resource consents
     
     (6) If the result of the determination of the holder's application and any appeal is that the holder's application affected by [section 124][306] is granted, the application described in subsection (1)(a) lapses to the extent to which the use of the resource has been granted to the holder.
     
-    Section 124C: inserted, on 9 August 2008, by [section 67][1371] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 124C: inserted, on 9 August 2008, by [section 67][1373] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 125 Lapsing of consents
     
@@ -10223,17 +10235,17 @@ Resource consents
     
     (3) This section is subject to [section 150G][403].
     
-    Section 125 heading: amended, on 7 July 1993, by [section 71][1372] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 125 heading: amended, on 7 July 1993, by [section 71][1374] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 125(1): replaced, on 1 October 2011, by [section 33][1373] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 125(1): replaced, on 1 October 2011, by [section 33][1375] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 125(1A): replaced, on 1 October 2011, by [section 33][1373] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 125(1A): replaced, on 1 October 2011, by [section 33][1375] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 125(1B): inserted, on 1 October 2011, by [section 33][1373] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 125(1B): inserted, on 1 October 2011, by [section 33][1375] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 125(2): inserted, on 7 July 1993, by [section 71][1372] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 125(2): inserted, on 7 July 1993, by [section 71][1374] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 125(3): inserted, on 19 March 2004, by [section 4][1374] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
+    Section 125(3): inserted, on 19 March 2004, by [section 4][1376] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
 
 ##### 126 Cancellation of consent
     
@@ -10253,9 +10265,9 @@ Resource consents
     
     (3) [Sections 357A][794] and [357C][796] to [358][798] apply to this section.
     
-    Section 126: replaced, on 1 August 2003, by [section 52][1375] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 126: replaced, on 1 August 2003, by [section 52][1377] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 126(3): amended, on 10 August 2005, by [section 69][1376] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 126(3): amended, on 10 August 2005, by [section 69][1378] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 127 Change or cancellation of consent condition on application by consent holder
     
@@ -10273,7 +10285,7 @@ Resource consents
     
     *   (b) the references to a resource consent and to the activity were references only to the change or cancellation of a condition and the effects of the change or cancellation respectively.
     
-    (3A) If the resource consent is a coastal permit authorising aquaculture activities to be undertaken in the coastal marine area, no aquaculture decision is required in respect of the application if the application is for a change or cancellation of a condition of the consent and does not relate to a condition that has been specified under [section 186H(3)][1343] of the Fisheries Act 1996 as a condition that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
+    (3A) If the resource consent is a coastal permit authorising aquaculture activities to be undertaken in the coastal marine area, no aquaculture decision is required in respect of the application if the application is for a change or cancellation of a condition of the consent and does not relate to a condition that has been specified under [section 186H(3)][1345] of the Fisheries Act 1996 as a condition that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
     
     (4) For the purposes of determining who is adversely affected by the change or cancellation, the consent authority must consider, in particular, every person who---
         
@@ -10281,15 +10293,15 @@ Resource consents
     
     *   (b) may be affected by the change or cancellation.
     
-    Section 127(1): replaced, on 10 August 2005, by [section 70][1377] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 127(1): replaced, on 10 August 2005, by [section 70][1379] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 127(2): repealed, on 10 August 2005, by [section 70][1377] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 127(2): repealed, on 10 August 2005, by [section 70][1379] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 127(3): replaced, on 1 August 2003, by [section 53(2)][1378] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 127(3): replaced, on 1 August 2003, by [section 53(2)][1380] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 127(3A): inserted, on 1 October 2011, by [section 34][1379] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 127(3A): inserted, on 1 October 2011, by [section 34][1381] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 127(4): replaced, on 1 August 2003, by [section 53(2)][1378] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 127(4): replaced, on 1 August 2003, by [section 53(2)][1380] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 127(4): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -10317,27 +10329,27 @@ Resource consents
     
     (2) A consent authority must, in accordance with [section 129][315], serve notice on a consent holder of its intention to review the conditions of a resource consent if required by an order made under [section 339(5)(b)][757].
     
-    (3) A regional council must notify the chief executive of the Ministry of Fisheries as soon as is reasonably practicable if it intends to review a condition of a coastal permit authorising an aquaculture activity to be undertaken in the coastal marine area and the condition has been specified under [section 186H(1A)][1343] of the Fisheries Act 1996 as a condition that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
+    (3) A regional council must notify the chief executive of the Ministry of Fisheries as soon as is reasonably practicable if it intends to review a condition of a coastal permit authorising an aquaculture activity to be undertaken in the coastal marine area and the condition has been specified under [section 186H(1A)][1345] of the Fisheries Act 1996 as a condition that may not be changed or cancelled until the chief executive of the Ministry of Fisheries makes a further aquaculture decision.
     
-    Section 128(1)(a): amended, on 7 July 1993, by [section 73(1)(a)][1380] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 128(1)(a): amended, on 7 July 1993, by [section 73(1)(a)][1382] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 128(1)(a)(ii): amended, on 20 August 1998, by [section 30][1381] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 128(1)(a)(ii): amended, on 20 August 1998, by [section 30][1383] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 128(1)(a)(ii): amended, on 7 July 1993, by [section 73(1)(b)][1380] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 128(1)(a)(ii): amended, on 7 July 1993, by [section 73(1)(b)][1382] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 128(1)(b): replaced, on 7 July 1993, by [section 73(2)][1380] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 128(1)(b): replaced, on 7 July 1993, by [section 73(2)][1382] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 128(1)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 128(1)(ba): inserted, on 1 August 2003, by [section 54][1382] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 128(1)(ba): inserted, on 1 August 2003, by [section 54][1384] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 128(1)(ba): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 128(1)(ba): amended, on 10 August 2005, by [section 71(1)][1383] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 128(1)(ba): amended, on 10 August 2005, by [section 71(1)][1385] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 128(2): replaced, on 1 October 2009, by [section 94][1384] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 128(2): replaced, on 1 October 2009, by [section 94][1386] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 128(3): inserted, on 1 October 2011, by [section 35][1385] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 128(3): inserted, on 1 October 2011, by [section 35][1387] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 129 Notice of review
     
@@ -10365,15 +10377,15 @@ Resource consents
     
     *   (b) 10 working days after the service of the notice (if the consent holder is not invited to propose new conditions).
     
-    Section 129(1)(c): amended, on 1 October 2009, by [section 95][1386] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 129(1)(c): amended, on 1 October 2009, by [section 95][1388] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 129(1)(c): amended, on 1 August 2003, by [section 55(1)][1387] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 129(1)(c): amended, on 1 August 2003, by [section 55(1)][1389] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 129(1)(d): amended, on 10 August 2005, by [section 72(1)][1388] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 129(1)(d): amended, on 10 August 2005, by [section 72(1)][1390] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 129(1)(e): inserted, on 10 August 2005, by [section 72(2)][1388] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 129(1)(e): inserted, on 10 August 2005, by [section 72(2)][1390] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 129(2): replaced, on 1 August 2003, by [section 55(2)][1387] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 129(2): replaced, on 1 August 2003, by [section 55(2)][1389] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 130 Public notification, submissions, and hearing, etc
     
@@ -10413,25 +10425,25 @@ Resource consents
     
     *   (b) request to be heard.
     
-    Section 130(2): replaced, on 1 October 2009, by [section 96(1)][1389] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 130(2): replaced, on 1 October 2009, by [section 96(1)][1391] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 130(3): replaced, on 1 August 2003, by [section 56(1)][1390] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 130(3): replaced, on 1 August 2003, by [section 56(1)][1392] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 130(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 130(4): repealed, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 130(5): replaced, on 1 August 2003, by [section 56(3)][1390] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 130(5): replaced, on 1 August 2003, by [section 56(3)][1392] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 130(5)(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 130(6): inserted, on 7 July 1993, by [section 75(2)][1391] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 130(6): inserted, on 7 July 1993, by [section 75(2)][1393] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 130(6): amended, on 1 October 2009, by [section 96(2)][1389] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 130(6): amended, on 1 October 2009, by [section 96(2)][1391] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 130(7): inserted, on 7 July 1993, by [section 75(2)][1391] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 130(7): inserted, on 7 July 1993, by [section 75(2)][1393] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 130(8): inserted, on 1 August 2003, by [section 56(4)][1390] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 130(8): inserted, on 1 August 2003, by [section 56(4)][1392] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 131 Matters to be considered in review
     
@@ -10453,11 +10465,11 @@ Resource consents
     
     that including that condition is the most efficient and effective means of removing or reducing that adverse effect.
     
-    Section 131(1): amended, on 1 October 2009, by [section 97(1)][1392] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 131(1): amended, on 1 October 2009, by [section 97(1)][1394] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 131(1)(aa): inserted, on 1 October 2009, by [section 97(2)][1392] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 131(1)(aa): inserted, on 1 October 2009, by [section 97(2)][1394] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 131(2): amended, on 20 August 1998, by [section 31][1393] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 131(2): amended, on 20 August 1998, by [section 31][1395] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 132 Decisions on review of consent conditions
     
@@ -10485,17 +10497,17 @@ Resource consents
     
     *   (b) there are significant adverse effects on the environment resulting from the exercise of the consent.
     
-    Section 132(1): amended, on 7 July 1993, by [section 76(1)(a)][1394] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 132(1): amended, on 7 July 1993, by [section 76(1)(a)][1396] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 132(1): amended, on 7 July 1993, by [section 76(1)(b)][1394] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 132(1): amended, on 7 July 1993, by [section 76(1)(b)][1396] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 132(1A): inserted, on 1 October 2011, by [section 36][1395] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 132(1A): inserted, on 1 October 2011, by [section 36][1397] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 132(2): amended, on 1 October 2009, by [section 98(1)][1396] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 132(2): amended, on 1 October 2009, by [section 98(1)][1398] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 132(3): replaced, on 1 October 2009, by [section 98(2)][1396] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 132(3): replaced, on 1 October 2009, by [section 98(2)][1398] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 132(4): replaced, on 1 October 2009, by [section 98(2)][1396] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 132(4): replaced, on 1 October 2009, by [section 98(2)][1398] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 133 Powers under Part 12 not affected
     
@@ -10507,7 +10519,7 @@ Resource consents
     
 *   A consent authority that grants a resource consent may, within 15 working days of the grant, issue an amended consent that corrects minor mistakes or defects in the consent.
     
-    Section 133A: inserted, on 10 August 2005, by [section 73][1397] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 133A: inserted, on 10 August 2005, by [section 73][1399] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 #### Transfer of consents
 
@@ -10533,7 +10545,7 @@ Resource consents
     
     (2) The transfer of the holder's interest in a coastal permit under subsection (1) has no effect until written notice of the transfer is given to the consent authority that granted the permit.
     
-    Section 135(1): replaced, on 7 July 1993, by [section 77][1398] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 135(1): replaced, on 7 July 1993, by [section 77][1400] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 136 Transferability of water permits
     
@@ -10573,11 +10585,11 @@ Resource consents
     
     *   (b) on such conditions as the consent authority determines under subsection (4) (where that subsection applies).
     
-    Section 136(2A): inserted, on 10 August 2005, by [section 74(1)][1399] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 136(2A): inserted, on 10 August 2005, by [section 74(1)][1401] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 136(4)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 136(5): amended, on 10 August 2005, by [section 74(2)][1399] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 136(5): amended, on 10 August 2005, by [section 74(2)][1401] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 137 Transferability of discharge permits
     
@@ -10639,7 +10651,7 @@ Resource consents
     
     *   (b) the interest, or the part of it transferred, is a new permit on the same conditions as the original permit.
     
-    Section 137: replaced, on 10 August 2005, by [section 75][1400] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 137: replaced, on 10 August 2005, by [section 75][1402] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 137(5)(c): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -10697,13 +10709,13 @@ Resource consents
     
     (6) In every coastal permit to do something that would otherwise contravene [section 15A(1)][33], there shall be implied a condition that the holder shall, in the prescribed form and at the cost of the holder in all respects, keep such records and furnish to the Director of Maritime New Zealand such information and returns as may from time to time be required by regulations.
     
-    Section 138A: inserted, on 20 August 1998, by [section 15][1401] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 138A: inserted, on 20 August 1998, by [section 15][1403] of the Resource Management Amendment Act 1994 (1994 No 105).
     
     Section 138A(6): amended, on 1 July 2005, by [section 11(3)][979] of the Maritime Transport Amendment Act 2004 (2004 No 98).
 
 #### Certificates of compliance or existing use
     
-*   Heading: replaced, on 10 August 2005, by [section 76][1402] of the Resource Management Amendment Act 2005 (2005 No 87).
+*   Heading: replaced, on 10 August 2005, by [section 76][1404] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 139 Consent authorities and Environmental Protection Authority to issue certificates of compliance
     
@@ -10761,7 +10773,7 @@ Resource consents
     
     (14) In this section, _activity_ includes a particular proposal.
     
-    Section 139: replaced, on 1 October 2009, by [section 99][1403] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 139: replaced, on 1 October 2009, by [section 99][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 139A Consent authorities to issue existing use certificates
     
@@ -10813,18 +10825,18 @@ Resource consents
     
     (10) [Sections 357A][794] and [357C to 358][796] apply in relation to the issue or revocation of an existing use certificate.
     
-    Section 139A: inserted, on 10 August 2005, by [section 78][1404] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 139A: inserted, on 10 August 2005, by [section 78][1406] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 #### Decisions on proposals of national significance
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: repealed, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ## Part 6AA  
 Proposals of national significance
     
-*   Part 6AA: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Part 6AA: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 140 Outline of this Part
     
@@ -10838,7 +10850,7 @@ Proposals of national significance
     
     (5) If the Minister decides not to make a direction to refer a matter to a board of inquiry or the Environment Court for decision, the matter will be processed by the local authority that, in the normal course of the Act, would be responsible for dealing with it. However, the Minister may still intervene in the process, for example, by making a submission on the matter for the Crown, appointing a project co-ordinator to advise the local authority on any thing relating to the matter, or appointing an additional hearings commissioner.
     
-    Section 140: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 140: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 141 Interpretation
     
@@ -10914,33 +10926,33 @@ Proposals of national significance
     
     *   (i) a notice of requirement to alter a designation or a heritage order.
     
-    Section 141: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 141: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 141A Minister's power to intervene
     
 *   \[Repealed\]
     
-    Section 141A: repealed, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 141A: repealed, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 141B Minister's power to call in matters that are or are part of proposals of national significance
     
 *   \[Repealed\]
     
-    Section 141B: repealed, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 141B: repealed, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 141C Form and effect of Minister's direction
     
 *   \[Repealed\]
     
-    Section 141C: repealed, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 141C: repealed, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ### Subpart 1---Minister may make direction in relation to matter
     
-*   Subpart 1: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Subpart 1: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Matter lodged with local authority
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 142 Minister may call in matter that is or is part of proposal of national significance
     
@@ -11002,25 +11014,25 @@ Proposals of national significance
     
     (7) To avoid doubt, the Minister may make a direction under subsection (2) that differs from the direction recommended by the EPA under [section 144A][343].
     
-    Section 142: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 142: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 142(3): replaced, on 1 July 2011, by [section 10(1)][1406] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 142(3): replaced, on 1 July 2011, by [section 10(1)][1408] of the Resource Management Amendment Act 2011 (2011 No 19).
     
-    Section 142(4)(b): amended, on 1 July 2011, by [section 10(2)][1406] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 142(4)(b): amended, on 1 July 2011, by [section 10(2)][1408] of the Resource Management Amendment Act 2011 (2011 No 19).
     
-    Section 142(4)(c): inserted, on 1 July 2011, by [section 10(2)][1406] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 142(4)(c): inserted, on 1 July 2011, by [section 10(2)][1408] of the Resource Management Amendment Act 2011 (2011 No 19).
     
-    Section 142(7): inserted, on 1 July 2011, by [section 10(3)][1406] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 142(7): inserted, on 1 July 2011, by [section 10(3)][1408] of the Resource Management Amendment Act 2011 (2011 No 19).
 
 ##### 143 Restriction on when local authority may request call in
     
-*   A local authority (whether acting as an applicant or a local authority) may not make a request to the Minister in respect of either of the following matters unless it has complied with the consultation provisions in [clauses 2][1165], [3][1407], and, if relevant, [4][1408] of Schedule 1 in relation to the matter:
+*   A local authority (whether acting as an applicant or a local authority) may not make a request to the Minister in respect of either of the following matters unless it has complied with the consultation provisions in [clauses 2][1165], [3][1409], and, if relevant, [4][1410] of Schedule 1 in relation to the matter:
         
     *   (a) a change to a plan proposed by the local authority under [clause 2][1165] of Schedule 1; or
     
     *   (b) a variation to a proposed plan.
     
-    Section 143: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 143: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 144 Restriction on when Minister may call in matter
     
@@ -11030,7 +11042,7 @@ Proposals of national significance
     
     *   (b) after the local authority gives notice of its decision or recommendation on the matter, if the local authority has decided not to notify the matter.
     
-    Section 144: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 144: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 144A EPA to advise and make recommendations to Minister in relation to call-in
     
@@ -11052,11 +11064,11 @@ Proposals of national significance
     
     (6) The 20-working-day time frame specified in subsection (3) applies subject to [section 149(5) and (6)][350].
     
-    Section 144A: inserted, on 1 July 2011, by [section 11][1409] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 144A: inserted, on 1 July 2011, by [section 11][1411] of the Resource Management Amendment Act 2011 (2011 No 19).
 
 #### Matter lodged with EPA
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 145 Matter lodged with EPA
     
@@ -11100,7 +11112,7 @@ Proposals of national significance
     
     (8) If the matter is a notice of requirement for a heritage order or to alter a heritage order, [section 189][525] applies, except that every reference in that section to a territorial authority must be read as a reference to the EPA.
     
-    (9) If the matter is a request for a change to a plan or the preparation of a regional plan, [clause 22][1410] of Schedule 1 applies, except that every reference in that clause to a local authority must be read as a reference to the EPA.
+    (9) If the matter is a request for a change to a plan or the preparation of a regional plan, [clause 22][1412] of Schedule 1 applies, except that every reference in that clause to a local authority must be read as a reference to the EPA.
     
     (9A) If the matter is a concurrent application lodged with a plan change request made under [subpart 4][478] of Part 7A, [section 107F(3)][281] applies except that the reference to the consent authority in that subsection must be read as a reference to the EPA.
     
@@ -11112,11 +11124,11 @@ Proposals of national significance
     
     *   (b) the applicant or the local authority has requested that the Minister call in the matter.
     
-    Section 145: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 145: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 145(1A): inserted, on 1 October 2011, by [section 37(1)][1411] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 145(1A): inserted, on 1 October 2011, by [section 37(1)][1413] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 145(9A): inserted, on 1 October 2011, by [section 37(2)][1411] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 145(9A): inserted, on 1 October 2011, by [section 37(2)][1413] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 146 EPA to recommend course of action to Minister
     
@@ -11160,9 +11172,9 @@ Proposals of national significance
     
     *   (b) any recommendation made by the EPA under this section must relate to both the plan change request and its concurrent application.
     
-    Section 146: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 146: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 146(5): inserted, on 1 October 2011, by [section 38][1412] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 146(5): inserted, on 1 October 2011, by [section 38][1414] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 147 Minister makes direction after EPA recommendation
     
@@ -11196,13 +11208,13 @@ Proposals of national significance
     
     (7) For the purposes of a plan change request made, and a concurrent application lodged, under [subpart 4][478] of Part 7A, a direction given under this section must relate to both.
     
-    Section 147: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 147: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 147(7): inserted, on 1 October 2011, by [section 39][1413] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 147(7): inserted, on 1 October 2011, by [section 39][1415] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### General provisions for matter lodged with local authority or EPA
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 148 Proposals relating to coastal marine area
     
@@ -11218,7 +11230,7 @@ Proposals of national significance
     
     *   (b) [sections 149Q(3)(e) and (f)][370] and [149R(4)(e) and (f)][371] must be read as 1 paragraph saying ""the Minister and the Minister of Conservation"".
     
-    Section 148: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 148: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149 EPA may request further information or commission report
     
@@ -11264,19 +11276,19 @@ Proposals of national significance
     
     *   (b) refuses to provide the information.
     
-    Section 149: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149(5): amended, on 1 July 2011, by [section 12(1)(a)][1414] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 149(5): amended, on 1 July 2011, by [section 12(1)(a)][1416] of the Resource Management Amendment Act 2011 (2011 No 19).
     
-    Section 149(5): amended, on 1 July 2011, by [section 12(1)(b)][1414] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 149(5): amended, on 1 July 2011, by [section 12(1)(b)][1416] of the Resource Management Amendment Act 2011 (2011 No 19).
     
-    Section 149(6): amended, on 1 July 2011, by [section 12(2)(a)][1414] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 149(6): amended, on 1 July 2011, by [section 12(2)(a)][1416] of the Resource Management Amendment Act 2011 (2011 No 19).
     
-    Section 149(6): amended, on 1 July 2011, by [section 12(2)(b)][1414] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 149(6): amended, on 1 July 2011, by [section 12(2)(b)][1416] of the Resource Management Amendment Act 2011 (2011 No 19).
 
 #### How matter processed if direction made to refer matter to board of inquiry or court
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149A EPA must serve Minister's direction on local authority and applicant
     
@@ -11286,7 +11298,7 @@ Proposals of national significance
     
     *   (b) the applicant.
     
-    Section 149A: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149A: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149B Local authority's obligations if matter called in
     
@@ -11304,7 +11316,7 @@ Proposals of national significance
     
     *   (c) if applicable, the submissions received by the local authority on the matter.
     
-    Section 149B: replaced, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149B: replaced, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149C EPA must give public notice of Minister's direction
     
@@ -11316,7 +11328,7 @@ Proposals of national significance
             
         *   (i) has not yet made a decision on the request under [clause 25][1087] of Schedule 1; or
         
-        *   (ii) has made a decision to accept the request, but has not yet prepared the proposed plan or change under [clause 26(a)][1415] of Schedule 1; or
+        *   (ii) has made a decision to accept the request, but has not yet prepared the proposed plan or change under [clause 26(a)][1417] of Schedule 1; or
         
         *   (iii) has made a decision to adopt the request, but has not yet notified the proposed plan or change under [clause 5][1166] of Schedule 1; or
         
@@ -11352,11 +11364,11 @@ Proposals of national significance
     
     *   (c) if applicable, every person who has made a submission on the matter to the local authority.
     
-    Section 149C: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149C: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149C(2)(d): amended, on 1 October 2011, by [section 40(1)][1416] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149C(2)(d): amended, on 1 October 2011, by [section 40(1)][1418] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 149C(2)(e): inserted, on 1 October 2011, by [section 40(2)][1416] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149C(2)(e): inserted, on 1 October 2011, by [section 40(2)][1418] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 149D Minister may instruct EPA to delay giving public notice pending application for additional consents
     
@@ -11372,7 +11384,7 @@ Proposals of national significance
     
     (4) The Minister may, at any time, rescind an instruction given under subsection (1) and instruct the EPA to give public notice of the direction concerned under [section 149C][354].
     
-    Section 149D: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149D: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149E EPA to receive submissions on matter if public notice of direction has been given
     
@@ -11432,7 +11444,7 @@ Proposals of national significance
     
     (10) Any submissions on the matter received by the local authority before the matter is called in (by a direction being made under [section 142(2)][340]) must be treated as having been made to the EPA under this section.
     
-    Section 149E: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149E: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149F EPA to receive further submissions if matter is request, change, or variation
     
@@ -11476,11 +11488,11 @@ Proposals of national significance
     
     (8) In subsection (1), _request for a change to a plan_, in relation to a plan change request made under [subpart 4][478] of Part 7A, includes the concurrent application that relates to the plan change request.
     
-    Section 149F: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149F: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149F(4): replaced, on 1 October 2011, by [section 41(1)][1417] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149F(4): replaced, on 1 October 2011, by [section 41(1)][1419] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 149F(8): inserted, on 1 October 2011, by [section 41(2)][1417] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149F(8): inserted, on 1 October 2011, by [section 41(2)][1419] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 149G EPA must provide board or court with necessary information
     
@@ -11510,7 +11522,7 @@ Proposals of national significance
     
     *   (c) every person who made a submission on the matter.
     
-    Section 149G: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149G: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149H Local authority may not notify further change or variation in certain circumstances
     
@@ -11522,7 +11534,7 @@ Proposals of national significance
     
     *   (c) a matter that is a request for the preparation of a regional plan or a request for a change to a plan (including a request that has been accepted or adopted by the local authority or accepted by a board of inquiry).
     
-    Section 149H: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149H: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149I Limitation on withdrawal of change or variation
     
@@ -11532,17 +11544,17 @@ Proposals of national significance
     
     (3) If the applicant withdraws a request for a change to the plan that is a plan change request made under [subpart 4][478] of Part 7A, the concurrent application that relates to the plan change request is to be treated as having been withdrawn.
     
-    Section 149I: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149I: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149I(3): inserted, on 1 October 2011, by [section 42][1418] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149I(3): inserted, on 1 October 2011, by [section 42][1420] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ### Subpart 2---How matter decided if direction made to refer matter to board of inquiry or court
     
-*   Subpart 2: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Subpart 2: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Matter decided by board of inquiry 
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149J Minister to appoint board of inquiry
     
@@ -11558,7 +11570,7 @@ Proposals of national significance
     
     (4) A member of a board of inquiry is not liable for anything the member does, or omits to do, in good faith in performing or exercising the functions, duties, and powers of the board.
     
-    Section 149J: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149J: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149K How members appointed
     
@@ -11578,7 +11590,7 @@ Proposals of national significance
     
     *   (d) the local community.
     
-    Section 149K: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149K: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149L Conduct of inquiry
     
@@ -11610,7 +11622,7 @@ Proposals of national significance
     
     *   (c) may permit cross-examination.
     
-    Section 149L: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149L: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149M Process if matter is request for regional plan or change and particular circumstances apply
     
@@ -11628,7 +11640,7 @@ Proposals of national significance
     
     (3) To make a decision under subsection (2), the board---
         
-    *   (a) has all the powers of a local authority under [clauses 23][1419] and [24][1420] of Schedule 1; and
+    *   (a) has all the powers of a local authority under [clauses 23][1421] and [24][1422] of Schedule 1; and
     
     *   (b) must consult the local authority on its views before making its decision.
     
@@ -11660,9 +11672,9 @@ Proposals of national significance
     
     (5) If the board rejects the request, the board must serve notice of its decision on the applicant and the local authority.
     
-    Section 149M: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149M: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149M(4A): inserted, on 1 October 2011, by [section 43][1421] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149M(4A): inserted, on 1 October 2011, by [section 43][1423] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 149N Process if section 149M applies or proposed plan or change not yet prepared
     
@@ -11670,9 +11682,9 @@ Proposals of national significance
         
     *   (a) a board of inquiry has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under [section 149M][366]; or
     
-    *   (b) a local authority has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under [clause 25(2)(b)][1087] of Schedule 1 but, at the time the Minister made the direction under [section 142(2)][340] in relation to the request, the local authority had not yet prepared the proposed plan or change under [clause 26(a)][1415] of Schedule 1\.
+    *   (b) a local authority has accepted a request for the preparation of a regional plan, or a request for a change to a plan, under [clause 25(2)(b)][1087] of Schedule 1 but, at the time the Minister made the direction under [section 142(2)][340] in relation to the request, the local authority had not yet prepared the proposed plan or change under [clause 26(a)][1417] of Schedule 1\.
     
-    (2) The local authority must prepare the proposed plan or change in consultation with the applicant as if [clause 26(a)][1415] of Schedule 1 applied.
+    (2) The local authority must prepare the proposed plan or change in consultation with the applicant as if [clause 26(a)][1417] of Schedule 1 applied.
     
     (3) The local authority must then serve a copy of the proposed plan or change on the EPA,---
         
@@ -11710,13 +11722,13 @@ Proposals of national significance
     
     (9) \[Repealed\]
     
-    Section 149N: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149N: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149N(4): amended, on 1 October 2011, by [section 45(1)][1422] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149N(4): amended, on 1 October 2011, by [section 45(1)][1424] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 149N(8): replaced, on 1 October 2011, by [section 45(2)][1422] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149N(8): replaced, on 1 October 2011, by [section 45(2)][1424] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 149N(9): repealed, on 1 October 2011, by [section 45(2)][1422] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149N(9): repealed, on 1 October 2011, by [section 45(2)][1424] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 149O Public notice and submissions where EPA receives proposed plan or change from local authority under section 149N
     
@@ -11752,9 +11764,9 @@ Proposals of national significance
     
     *   (b) each owner and occupier of any land adjoining any land to which the matter relates.
     
-    Section 149O: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149O: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149O(3): replaced, on 1 October 2011, by [section 46][1423] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149O(3): replaced, on 1 October 2011, by [section 46][1425] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 149P Consideration of matter by board
     
@@ -11830,15 +11842,15 @@ Proposals of national significance
     
     (10) A board of inquiry must decline a concurrent application if, as a result of the board's determination on the plan change request, the aquaculture activity that the concurrent application relates to remains a prohibited activity.
     
-    Section 149P: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149P: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149P(1)(c): amended, on 1 October 2011, by [section 47(1)][1424] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149P(1)(c): amended, on 1 October 2011, by [section 47(1)][1426] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 149P(8): inserted, on 1 October 2011, by [section 47(2)][1424] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149P(8): inserted, on 1 October 2011, by [section 47(2)][1426] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 149P(9): inserted, on 1 October 2011, by [section 47(2)][1424] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149P(9): inserted, on 1 October 2011, by [section 47(2)][1426] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 149P(10): inserted, on 1 October 2011, by [section 47(2)][1424] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149P(10): inserted, on 1 October 2011, by [section 47(2)][1426] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 149Q Board to produce draft report
     
@@ -11886,7 +11898,7 @@ Proposals of national significance
     
     *   (b) do not include comments on the board's decision or its reasons for the decision.
     
-    Section 149Q: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149Q: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149R Board to produce final report
     
@@ -11942,9 +11954,9 @@ Proposals of national significance
     
     (7) The EPA's functions under this section are in addition to the EPA's functions under [section 114(7)(a)][289].
     
-    Section 149R: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149R: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 149R(7): inserted, on 1 October 2011, by [section 44][1425] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 149R(7): inserted, on 1 October 2011, by [section 44][1427] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 149S Minister may extend time by which board must report
     
@@ -11974,11 +11986,11 @@ Proposals of national significance
     
     *   (c) any person who made a submission on the matter.
     
-    Section 149S: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149S: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Matter decided by Environment Court
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149T Matter referred to Environment Court
     
@@ -11998,13 +12010,13 @@ Proposals of national significance
     
     *   (c) tell the Registrar when the documents have been served.
     
-    (4) If the matter is a change to a district plan proposed by a territorial authority under [clause 2][1165] of Schedule 1, or a variation to a proposed district plan, the applicant must also serve a copy of the notice of motion and affidavit on any requiring authority that made a requirement under [clause 4][1408] of Schedule 1 in respect of the change or variation.
+    (4) If the matter is a change to a district plan proposed by a territorial authority under [clause 2][1165] of Schedule 1, or a variation to a proposed district plan, the applicant must also serve a copy of the notice of motion and affidavit on any requiring authority that made a requirement under [clause 4][1410] of Schedule 1 in respect of the change or variation.
     
     (5) The court may at any time direct the applicant to serve a copy of the notice of motion and affidavit on any other person.
     
     (6) [Section 274][657] applies to a notice of motion lodged under this section.
     
-    Section 149T: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149T: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149U Consideration of matter by Environment Court
     
@@ -12072,11 +12084,11 @@ Proposals of national significance
     
     (8) [Part 11][618] applies to proceedings under this section, except if inconsistent with any provision of this section.
     
-    Section 149U: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149U: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Appeals
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149V Appeal from decisions only on question of law
     
@@ -12096,9 +12108,9 @@ Proposals of national significance
     
     (5) No appeal may be made to the Court of Appeal from a determination of the High Court under this section.
     
-    (6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, [sections 12 to 15][1426] of the Supreme Court Act 2003 apply with any necessary modifications.
+    (6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, [sections 12 to 15][1428] of the Supreme Court Act 2003 apply with any necessary modifications.
     
-    (7) If the Supreme Court refuses to give leave for an appeal (on the grounds that exceptional circumstances have not been established under [section 14][1427] of the Supreme Court Act 2003), but considers that a further appeal from the determination of the High Court is justified, the court may remit the proposed appeal to the Court of Appeal.
+    (7) If the Supreme Court refuses to give leave for an appeal (on the grounds that exceptional circumstances have not been established under [section 14][1429] of the Supreme Court Act 2003), but considers that a further appeal from the determination of the High Court is justified, the court may remit the proposed appeal to the Court of Appeal.
     
     (8) No appeal may be made from any appeal determined by the Court of Appeal in accordance with subsection (7).
     
@@ -12108,15 +12120,15 @@ Proposals of national significance
     
     *   (b) the Supreme Court or the Court of Appeal, as the case may be, must determine an application for leave, or an appeal, to which this section applies as a matter of priority and urgency.
     
-    Section 149V: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149V: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ### Subpart 3---Miscellaneous provisions
     
-*   Subpart 3: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Subpart 3: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Process after decision of board of inquiry or court on certain matters
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149W Local authority to implement decision of board or court about proposed regional plan or change or variation
     
@@ -12128,7 +12140,7 @@ Proposals of national significance
     
     (2) As soon as practicable after receiving notice of the decision of the board or the court under [section 149R(4)][371] or [149U][375], as the case may be,---
         
-    *   (a) the local authority must amend the proposed plan, change, or variation under [clause 16(1)][1428] of Schedule 1, and that clause applies accordingly as if the decision were a direction of the Environment Court under [section 293][684]; and
+    *   (a) the local authority must amend the proposed plan, change, or variation under [clause 16(1)][1430] of Schedule 1, and that clause applies accordingly as if the decision were a direction of the Environment Court under [section 293][684]; and
     
     *   (b) if the decision is in respect of a proposed regional plan, or a change or variation to a district or regional plan (other than a regional coastal plan), the local authority must---
             
@@ -12140,7 +12152,7 @@ Proposals of national significance
     
     *   (c) if the decision is in respect of a change or variation to a regional coastal plan, the local authority must---
             
-        *   (i) adopt the change or variation under [clause 18(1)][1429] of Schedule 1; and
+        *   (i) adopt the change or variation under [clause 18(1)][1431] of Schedule 1; and
         
         *   (ii) send the plan to the Minister of Conservation for his or her approval in accordance with [clause 19][1072] of Schedule 1; and
         
@@ -12152,7 +12164,7 @@ Proposals of national significance
     
     (4) A local authority must comply with [section 175][508] if a board of inquiry or the Environment Court confirms a requirement under this Part.
     
-    Section 149W: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149W: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149X Residual powers of local authority
     
@@ -12164,11 +12176,11 @@ Proposals of national significance
     
     (4) The territorial authority concerned has all the functions, duties, and powers in relation to the requirement as if it had dealt with the matter itself.
     
-    Section 149X: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149X: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Minister makes direction to refer matter to local authority
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149Y EPA must refer matter to local authority if direction made by Minister
     
@@ -12188,7 +12200,7 @@ Proposals of national significance
     
     *   (b) inform the local authority that it must process the matter in accordance with [section 149Z][384].
     
-    Section 149Y: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149Y: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149Z Local authority must process referred matter
     
@@ -12230,11 +12242,11 @@ Proposals of national significance
     
     *   (b) lodged on the date that the local authority received notification from the EPA under [section 149Y(3)][383].
     
-    Section 149Z: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149Z: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Minister's powers to intervene in matter
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149ZA Minister's powers to intervene in matter
     
@@ -12260,11 +12272,11 @@ Proposals of national significance
     
     (5) To avoid doubt, if the matter has come before the Minister by way of an application lodged with the EPA, the Minister may exercise the powers under subsection (1) in relation to the matter whether or not the EPA made any recommendations about the matter to the Minister under [section 146(2)][346].
     
-    Section 149ZA: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149ZA: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Process if related matter already subject to direction to refer to board of inquiry or court
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149ZB How EPA must deal with certain applications and notices of requirement
     
@@ -12292,7 +12304,7 @@ Proposals of national significance
     
     (3) In addition to making a recommendation to the Minister under [section 146][346] on whether to make a direction under [section 147(1)(a), (b), or (c)][347] in relation to the application or notice, the EPA must also recommend whether the application or notice should be notified under [sections 95A to 95F][242].
     
-    Section 149ZB: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149ZB: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149ZC Minister to decide whether application or notice of requirement to be notified
     
@@ -12308,11 +12320,11 @@ Proposals of national significance
     
     (6) However, the closing date for making a submission under subsection (5) is 20 working days after the day on which the EPA gives the notice under subsection (4).
     
-    Section 149ZC: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149ZC: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 #### Costs of processes under this Part
     
-*   Heading: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149ZD Costs of processes under this Part recoverable from applicant
     
@@ -12336,11 +12348,11 @@ Proposals of national significance
     
     (7) A person may object under [section 357B][793] to a requirement to pay costs under any of subsections (1) to (4).
     
-    Section 149ZD: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149ZD: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 149ZE Remuneration, allowances, and expenses of boards of inquiry
     
-*   The [Fees and Travelling Allowances Act 1951][1430] applies to a board of inquiry appointed under [section 149J][363] as follows:
+*   The [Fees and Travelling Allowances Act 1951][1432] applies to a board of inquiry appointed under [section 149J][363] as follows:
         
     *   (a) the board is a statutory board within the meaning of the Act; and
     
@@ -12354,24 +12366,24 @@ Proposals of national significance
     
     *   (c) the Act applies to payments under paragraph (b).
     
-    Section 149ZE: inserted, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 149ZE: inserted, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 150 Residual powers of authorities
     
 *   \[Repealed\]
     
-    Section 150: repealed, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 150: repealed, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 150AA Reference to Environment Court
     
 *   \[Repealed\]
     
-    Section 150AA: repealed, on 1 October 2009, by [section 100][1405] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 150AA: repealed, on 1 October 2009, by [section 100][1407] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ## Part 6A  
 Aquaculture moratorium
     
-*   Part 6A: inserted, on 26 March 2002, by [section 9][1431] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
+*   Part 6A: inserted, on 26 March 2002, by [section 9][1433] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
 
 ##### 150A Interpretation
     
@@ -12391,9 +12403,9 @@ Aquaculture moratorium
         
         
     
-    Section 150A: inserted, on 26 March 2002, by [section 9][1431] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
+    Section 150A: inserted, on 26 March 2002, by [section 9][1433] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
     
-    Section 150A **moratorium** paragraph (b)(i): replaced, on 19 March 2004, by [section 5][1432] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
+    Section 150A **moratorium** paragraph (b)(i): replaced, on 19 March 2004, by [section 5][1434] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
 
 ##### 150B Moratorium
     
@@ -12433,7 +12445,7 @@ Aquaculture moratorium
     
     *   (b) the application is for a new coastal permit for the same activities in the same area.
     
-    Section 150B: inserted, on 26 March 2002, by [section 9][1431] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
+    Section 150B: inserted, on 26 March 2002, by [section 9][1433] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
     
     Section 150B(1)(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -12463,11 +12475,11 @@ Aquaculture moratorium
     
     (4) For the purposes of subsection (3), [sections 37][89] and [37A][90] apply, with all necessary modifications, as if the Minister were acting as a consent authority.
     
-    Section 150C: inserted, on 26 March 2002, by [section 9][1431] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
+    Section 150C: inserted, on 26 March 2002, by [section 9][1433] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
     
-    Section 150C(1): amended, on 19 March 2004, by [section 6(1)][1433] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
+    Section 150C(1): amended, on 19 March 2004, by [section 6(1)][1435] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
     
-    Section 150C(3): amended, on 19 March 2004, by [section 6(2)][1433] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
+    Section 150C(3): amended, on 19 March 2004, by [section 6(2)][1435] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
     
     Section 150C(4): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
 
@@ -12475,23 +12487,23 @@ Aquaculture moratorium
     
 *   \[Repealed\]
     
-    Section 150D: repealed, on 1 January 2005, by [section 12][1434] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 150D: repealed, on 1 January 2005, by [section 12][1436] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 150E Transitional provision
     
 *   \[Repealed\]
     
-    Section 150E: repealed, on 1 January 2005, by [section 12][1434] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 150E: repealed, on 1 January 2005, by [section 12][1436] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 150F No compensation
     
 *   No compensation is payable by the Crown to any person for any loss or damage arising from the application of this Part.
     
-    Section 150F: inserted, on 26 March 2002, by [section 9][1431] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
+    Section 150F: inserted, on 26 March 2002, by [section 9][1433] of the Resource Management (Aquaculture Moratorium) Amendment Act 2002 (2002 No 5).
 
 #### Certain coastal permits continued
     
-*   Heading: inserted, on 19 March 2004, by [section 7][1435] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
+*   Heading: inserted, on 19 March 2004, by [section 7][1437] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
 
 ##### 150G Certain coastal permits issued in period from 1 June 1995 to 1 August 2003 continued
     
@@ -12501,11 +12513,11 @@ Aquaculture moratorium
     
     *   (b) for the occupation of an area in the coastal marine area for the purpose of aquaculture activities, and for any activity related to that occupation.
     
-    (2) A coastal permit is given effect to when the holder of the permit applies under [section 67J][1436] or [section 67Q][1437] of the Fisheries Act 1983 to the chief executive of the Ministry of Fisheries for a marine farming permit or a spat catching permit over the same area.
+    (2) A coastal permit is given effect to when the holder of the permit applies under [section 67J][1438] or [section 67Q][1439] of the Fisheries Act 1983 to the chief executive of the Ministry of Fisheries for a marine farming permit or a spat catching permit over the same area.
     
-    (3) A coastal permit that has lapsed under [section 125][310] before 1 August 2003 is deemed not to have lapsed if, before the coastal permit lapsed under [section 125][310], the holder of the coastal permit had applied under [section 67J][1436] or [section 67Q][1437] of the Fisheries Act 1983 to the chief executive of the Ministry of Fisheries for a marine farming permit or a spat catching permit over the same area.
+    (3) A coastal permit that has lapsed under [section 125][310] before 1 August 2003 is deemed not to have lapsed if, before the coastal permit lapsed under [section 125][310], the holder of the coastal permit had applied under [section 67J][1438] or [section 67Q][1439] of the Fisheries Act 1983 to the chief executive of the Ministry of Fisheries for a marine farming permit or a spat catching permit over the same area.
     
-    Section 150G: inserted, on 19 March 2004, by [section 7][1435] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
+    Section 150G: inserted, on 19 March 2004, by [section 7][1437] of the Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004 (2004 No 5).
 
 ## Part 7  
 Coastal tendering
@@ -12514,7 +12526,7 @@ Coastal tendering
     
 *   This Part does not apply to applications for coastal permits to authorise the occupation of a coastal marine area.
     
-    Section 151AA: inserted, on 1 January 2005, by [section 13][1438] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 151AA: inserted, on 1 January 2005, by [section 13][1440] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 151 Interpretation
     
@@ -12566,13 +12578,13 @@ Coastal tendering
     
     Section 152(1): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 152(1): amended, on 1 January 2005, by [section 14(1)(b)][1439] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 152(1): amended, on 1 January 2005, by [section 14(1)(b)][1441] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 152(1)(a): repealed, on 1 January 2005, by [section 14(1)(a)][1439] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 152(1)(a): repealed, on 1 January 2005, by [section 14(1)(a)][1441] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 152(1)(b): amended, on 7 July 1993, by [section 80][1440] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 152(1)(b): amended, on 7 July 1993, by [section 80][1442] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 152(3): amended, on 1 January 2005, by [section 14(2)][1439] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 152(3): amended, on 1 January 2005, by [section 14(2)][1441] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
     Section 152(4): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -12606,17 +12618,17 @@ Coastal tendering
         
         
     
-    Section 153(b)(i): replaced, on 1 August 2003, by [section 59][1441] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 153(b)(i): replaced, on 1 August 2003, by [section 59][1443] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 153(b)(ii): replaced, on 1 August 2003, by [section 59][1441] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 153(b)(ii): replaced, on 1 August 2003, by [section 59][1443] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 153(b)(ii): amended, on 1 January 2005, by [section 15(1)][1442] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 153(b)(ii): amended, on 1 January 2005, by [section 15(1)][1444] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 153(c): amended, on 1 January 2005, by [section 15(2)][1442] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 153(c): amended, on 1 January 2005, by [section 15(2)][1444] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 153(c): amended, on 7 July 1993, by [section 81][1443] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 153(c): amended, on 7 July 1993, by [section 81][1445] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 153(d): replaced, on 17 December 1997, by [section 33(2)][1444] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 153(d): replaced, on 17 December 1997, by [section 33(2)][1446] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 153(e)(ii): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -12640,9 +12652,9 @@ Coastal tendering
     
     *   (c) cause public notice to be given of the making of the Order in Council and its effect.
     
-    Section 154(b)(ii): repealed, on 1 October 2009, by [section 101][1445] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 154(b)(ii): repealed, on 1 October 2009, by [section 101][1447] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 154(b)(iv): amended, on 10 August 2005, by [section 84][1446] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 154(b)(iv): amended, on 10 August 2005, by [section 84][1448] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 155 Particulars of Order in Council to be endorsed on regional coastal plan
     
@@ -12662,11 +12674,11 @@ Coastal tendering
     
     Section 156: amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 156: amended, on 1 January 2005, by [section 16(b)][1447] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 156: amended, on 1 January 2005, by [section 16(b)][1449] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 156(a): repealed, on 1 January 2005, by [section 16(a)][1447] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 156(a): repealed, on 1 January 2005, by [section 16(a)][1449] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 156(b): amended, on 7 July 1993, by [section 82][1448] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 156(b): amended, on 7 July 1993, by [section 82][1450] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 157 Calling of public tenders for authorisations
     
@@ -12692,7 +12704,7 @@ Coastal tendering
     
     (4) The Minister may amend, revoke, or replace any such notice before the time by which tenders must be received expires.
     
-    Section 157(3)(a): repealed, on 1 January 2005, by [section 17][1449] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 157(3)(a): repealed, on 1 January 2005, by [section 17][1451] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 158 Requirements of tender
     
@@ -12722,11 +12734,11 @@ Coastal tendering
     
     *   (b) any additional information specified in the public notice calling for tenders.
     
-    Section 158(1)(b): repealed, on 1 January 2005, by [section 18][1450] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 158(1)(b): repealed, on 1 January 2005, by [section 18][1452] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 158(1)(d)(ii): repealed, on 1 January 2005, by [section 18][1450] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 158(1)(d)(ii): repealed, on 1 January 2005, by [section 18][1452] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 158(1A): repealed, on 1 January 2005, by [section 18][1450] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 158(1A): repealed, on 1 January 2005, by [section 18][1452] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 159 Acceptance of tender, etc
     
@@ -12782,11 +12794,11 @@ Coastal tendering
     
     *   (c) \[Repealed\]
     
-    Section 162(2)(a): replaced, on 1 January 2005, by [section 19][1451] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 162(2)(a): replaced, on 1 January 2005, by [section 19][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 162(2)(b): replaced, on 1 January 2005, by [section 19][1451] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 162(2)(b): replaced, on 1 January 2005, by [section 19][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 162(2)(c): repealed, on 1 January 2005, by [section 19][1451] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 162(2)(c): repealed, on 1 January 2005, by [section 19][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 163 Authorisation transferable
     
@@ -12816,7 +12828,7 @@ Coastal tendering
 
 ##### 165 Tender money
     
-*   (1) Where a person to whom an authorisation has been granted forwarded an initial payment to the Minister pursuant to [section 158(2)][413], the money shall be the property of the Crown, and, on granting the authorisation, the Minister shall cause that money to be paid into a Crown Bank Account in accordance with the [Public Finance Act 1989][1452].
+*   (1) Where a person to whom an authorisation has been granted forwarded an initial payment to the Minister pursuant to [section 158(2)][413], the money shall be the property of the Crown, and, on granting the authorisation, the Minister shall cause that money to be paid into a Crown Bank Account in accordance with the [Public Finance Act 1989][1454].
     
     (2) Where an authorisation granted to a person to whom subsection (1) applies has lapsed pursuant to [section 164][419], the Minister shall cause 80% of the initial payment to be refunded to that person from a Crown Bank Account.
     
@@ -12829,8 +12841,8 @@ Coastal tendering
 ## Part 7A  
 Occupation of common marine and coastal area
     
-*   Part 7A: inserted, on 1 January 2005, by [section 20][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
-*   Part 7A heading: amended, on 1 October 2011, by [section 48][1454] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Part 7A: inserted, on 1 January 2005, by [section 20][1455] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+*   Part 7A heading: amended, on 1 October 2011, by [section 48][1456] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165A Overview
     
@@ -12862,35 +12874,35 @@ Occupation of common marine and coastal area
     
     *   (b) is operative when a concurrent application is lodged.
     
-    Section 165A: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165A: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165AB Establishment of aquaculture management areas
     
 *   \[Repealed\]
     
-    Section 165AB: repealed, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165AB: repealed, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165B Relationship of Part with rest of Act
     
 *   The provisions of this Act that relate to applications for, and the granting of, resource consents apply to applications for, and the granting of, coastal permits to occupy space in the common marine and coastal area subject to the provisions of this Part. 
     
-    Section 165B: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165B: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165BB Some applications for coastal permits must be cancelled
     
 *   \[Repealed\]
     
-    Section 165BB: repealed, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165BB: repealed, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165BC Certain applications not to be processed or determined until aquaculture management area established in regional coastal plan
     
 *   \[Repealed\]
     
-    Section 165BC: repealed, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165BC: repealed, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ### Subpart 1---Managing occupation in common marine and coastal area
     
-*   Subpart 1: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Subpart 1: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165C Interpretation
     
@@ -12904,11 +12916,11 @@ Occupation of common marine and coastal area
     
     _tender_ means any form of tender (whether public or otherwise)
     
-    _trustee_ has the same meaning as in [section 4][1456] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
+    _trustee_ has the same meaning as in [section 4][1458] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
     
     Compare: 1991 No 69 s 165A
     
-    Section 165C: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165C: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165D Power of consent authorities to refuse to receive applications for coastal permits
     
@@ -12916,15 +12928,15 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165B
     
-    Section 165D: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165D: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165E Applications in relation to aquaculture settlement areas
     
-*   (1) No person may apply for a coastal permit authorising occupation of space in an aquaculture settlement area (within the meaning of the [Maori Commercial Aquaculture Claims Settlement Act 2004][1457]), for the purpose of aquaculture activities, unless the person is a holder of an authorisation that---
+*   (1) No person may apply for a coastal permit authorising occupation of space in an aquaculture settlement area (within the meaning of the [Maori Commercial Aquaculture Claims Settlement Act 2004][1459]), for the purpose of aquaculture activities, unless the person is a holder of an authorisation that---
         
     *   (a) relates to that space and activity; and
     
-    *   (b) was provided to the trustee under [section 13][1458] of that Act.
+    *   (b) was provided to the trustee under [section 13][1460] of that Act.
     
     (2) A consent authority may grant a coastal permit authorising any other activity in an aquaculture settlement area, but only---
         
@@ -12938,13 +12950,13 @@ Occupation of common marine and coastal area
     
     *   (b) before the space became an aquaculture settlement area.
     
-    (4) In subsection (2)(b), _iwi_ has the same meaning as in the [Maori Fisheries Act 2004][1459].
+    (4) In subsection (2)(b), _iwi_ has the same meaning as in the [Maori Fisheries Act 2004][1461].
     
-    Section 165E: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165E: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### Regional coastal plan provisions relating to occupation of common marine and coastal area
     
-*   Heading: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Heading: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165F Provisions about occupation of common marine and coastal area
     
@@ -12976,7 +12988,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165D
     
-    Section 165F: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165F: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165G Plan may specify allocation methods
     
@@ -12984,7 +12996,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165H
     
-    Section 165G: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165G: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165H Regional council to have regard to and be satisfied about certain matters before including allocation rule in regional coastal plan or proposed regional coastal plan
     
@@ -13030,7 +13042,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165I
     
-    Section 165H: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165H: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165I Offer of authorisations for activities in common marine and coastal area in accordance with plan
     
@@ -13046,7 +13058,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165F
     
-    Section 165I: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165I: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165J When applications not to be made unless applicant holds authorisation in accordance with plan
     
@@ -13068,7 +13080,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165K
     
-    Section 165J: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165J: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165K Power to give directions relating to allocation of authorisations for space provided for in plan
     
@@ -13100,7 +13112,7 @@ Occupation of common marine and coastal area
     
     (4) If an Order in Council contains a direction under subsection (3)(a), the order must be made before---
         
-    *   (a) the relevant proposed plan is notified under [clause 5][1166] or [26][1415] of Schedule 1; or
+    *   (a) the relevant proposed plan is notified under [clause 5][1166] or [26][1417] of Schedule 1; or
     
     *   (b) the Minister approves the relevant regional coastal plan under [clause 19][1072] of Schedule 1\.
     
@@ -13114,15 +13126,15 @@ Occupation of common marine and coastal area
     
     *   (b) an application for a coastal permit.
     
-    (8) An authorisation allocated in accordance with subsection (3)(d) is a settlement asset for the purposes of the [Maori Commercial Aquaculture Claims Settlement Act 2004][1457].
+    (8) An authorisation allocated in accordance with subsection (3)(d) is a settlement asset for the purposes of the [Maori Commercial Aquaculture Claims Settlement Act 2004][1459].
     
     Compare: 1991 No 69 s 165O
     
-    Section 165K: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165K: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### Ministerial approval of use of method of allocating authorisations
     
-*   Heading: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Heading: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165L Regional council may request use of allocation method
     
@@ -13174,7 +13186,7 @@ Occupation of common marine and coastal area
     
     *   (b) a statement to the effect of [section 165M(2) and (3)][440].
     
-    Section 165L: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165L: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165M Stay on applications following request under section 165L
     
@@ -13190,7 +13202,7 @@ Occupation of common marine and coastal area
     
     (4) Neither this section nor [section 165Q][444] affects any application received by the regional council before the request was made under [section 165L(2)][439] or any application referred to in [section 165ZH][475]. 
     
-    Section 165M: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165M: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165N Minister may approve use of allocation method
     
@@ -13244,7 +13256,7 @@ Occupation of common marine and coastal area
     
     *   (c) the need to facilitate compliance with section 165W:
     
-    *   (d) the ability of the Crown to give effect to its obligations under the [Maori Commercial Aquaculture Claims Settlement Act 2004][1457].
+    *   (d) the ability of the Crown to give effect to its obligations under the [Maori Commercial Aquaculture Claims Settlement Act 2004][1459].
     
     (6) As soon as practicable after deciding whether to approve a request, the Minister must notify the Environmental Protection Authority of his or her decision.
     
@@ -13294,9 +13306,9 @@ Occupation of common marine and coastal area
     
     (9) A provision in a regional coastal plan that relates to the allocation of space to which a _Gazette_ notice under this section relates does not apply during the period of the approval to the extent that it is inconsistent with the terms of the _Gazette_ notice.
     
-    (10) An authorisation allocated in accordance with subsection (7)(b)(viii) is a settlement asset for the purposes of the [Maori Commercial Aquaculture Claims Settlement Act 2004][1457].
+    (10) An authorisation allocated in accordance with subsection (7)(b)(viii) is a settlement asset for the purposes of the [Maori Commercial Aquaculture Claims Settlement Act 2004][1459].
     
-    Section 165N: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165N: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165O Period of approval 
     
@@ -13332,7 +13344,7 @@ Occupation of common marine and coastal area
         
         
     
-    Section 165O: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165O: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165P Offer of authorisations where approved by Minister
     
@@ -13346,7 +13358,7 @@ Occupation of common marine and coastal area
     
     *   (b) the regional council requires further time to carry out the public tender or implement the other approved allocation method.
     
-    Section 165P: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165P: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165Q When applications not to be made or granted unless applicant holds authorisation in accordance with _Gazette_ notice
     
@@ -13354,11 +13366,11 @@ Occupation of common marine and coastal area
     
     (2) During the period that the approval to use public tendering or another allocation method applies, no person may apply for a coastal permit authorising occupation of the space for an activity covered by the approval unless the person is the holder of an authorisation that relates to that space and activity.
     
-    Section 165Q: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165Q: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### Authorisations
     
-*   Heading: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Heading: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165R Authorisation not to confer right to coastal permit
     
@@ -13368,7 +13380,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165L
     
-    Section 165R: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165R: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165S Authorisation transferable
     
@@ -13382,7 +13394,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165M
     
-    Section 165S: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165S: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165T Authorisation lapses in certain circumstances
     
@@ -13426,7 +13438,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165N
     
-    Section 165T: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165T: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165U Public notice of offer of authorisations by regional council
     
@@ -13466,7 +13478,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165P
     
-    Section 165U: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165U: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165V Requirements for offers for authorisations
     
@@ -13494,7 +13506,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165Q
     
-    Section 165V: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165V: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165W Preferential rights of iwi
     
@@ -13502,23 +13514,23 @@ Occupation of common marine and coastal area
     
     (2) Subsection (1) applies to preferential rights conferred by---
         
-    *   (a) [section 316][1460] of the Ngāi Tahu Claims Settlement Act 1998:
+    *   (a) [section 316][1462] of the Ngāi Tahu Claims Settlement Act 1998:
     
-    *   (b) [section 119][1461] of the Ngati Ruanui Claims Settlement Act 2003:
+    *   (b) [section 119][1463] of the Ngati Ruanui Claims Settlement Act 2003:
     
-    *   (c) [section 79][1462] of the Ngati Tama Claims Settlement Act 2003:
+    *   (c) [section 79][1464] of the Ngati Tama Claims Settlement Act 2003:
     
-    *   (d) [section 106][1463] of the Ngaa Rauru Kiitahi Claims Settlement Act 2005:
+    *   (d) [section 106][1465] of the Ngaa Rauru Kiitahi Claims Settlement Act 2005:
     
-    *   (e) [section 118][1464] of the Ngāti Awa Claims Settlement Act 2005:
+    *   (e) [section 118][1466] of the Ngāti Awa Claims Settlement Act 2005:
     
-    *   (f) [section 92][1465] of the Ngāti Mutunga Claims Settlement Act 2006\.
+    *   (f) [section 92][1467] of the Ngāti Mutunga Claims Settlement Act 2006\.
     
     (3) For the purposes of subsection (1), provisions in the Acts referred to in subsection (2) relating to a preferential right that contain references to the Minister of Conservation or [Part 7][404] of this Act apply as if the references were to the regional council and relevant provisions of this Part.
     
     Compare: 1991 No 69 s 165R
     
-    Section 165W: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165W: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165X Acceptance of offer for authorisations
     
@@ -13540,7 +13552,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165S
     
-    Section 165X: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165X: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165Y Grant of authorisation
     
@@ -13548,13 +13560,13 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165T
     
-    Section 165Y: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165Y: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165Z Tender money
     
 *   (1) If the holder of an authorisation obtains a coastal permit authorising the holder to undertake an activity in respect of which the authorisation was granted, the regional council must forward to the Minister 50% of the remuneration received under the tender.
     
-    (2) The Minister must cause the money to be paid into a Crown Bank Account in accordance with the [Public Finance Act 1989][1452].
+    (2) The Minister must cause the money to be paid into a Crown Bank Account in accordance with the [Public Finance Act 1989][1454].
     
     (3) If an authorisation granted to a successful tenderer has lapsed under [section 165T][448], the regional council must, as soon as possible, refund the remuneration to the tenderer.
     
@@ -13562,7 +13574,7 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165U
     
-    Section 165Z: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165Z: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZA Use of tender money
     
@@ -13570,11 +13582,11 @@ Occupation of common marine and coastal area
     
     Compare: 1991 No 69 s 165V
     
-    Section 165ZA: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZA: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### Ministerial powers in relation to applications for coastal permits to undertake aquaculture activities in common marine and coastal area
     
-*   Heading: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Heading: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZB Regional council may request suspension of applications to occupy common marine and coastal area for purposes of aquaculture activities
     
@@ -13622,7 +13634,7 @@ Occupation of common marine and coastal area
     
     (6) To avoid doubt, this section may apply in relation to an aquaculture activity, 1 or more classes of aquaculture activities, or all aquaculture activities.
     
-    Section 165ZB: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZB: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZC Effect on applications of request under section 165ZB
     
@@ -13642,7 +13654,7 @@ Occupation of common marine and coastal area
     
     *   (c) any application made in accordance with an authorisation.
     
-    Section 165ZC: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZC: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZD Minister of Aquaculture may suspend applications to occupy the common marine and coastal area for the purposes of aquaculture activities
     
@@ -13708,7 +13720,7 @@ Occupation of common marine and coastal area
     
     (7) The Minister must notify the Minister of Conservation and the Environmental Protection Authority of a decision to issue a _Gazette_ notice, or to decline a request for a suspension on receipt of applications. 
     
-    Section 165ZD: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZD: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZE Subsequent requests for direction in relation to suspension of receipt of applications
     
@@ -13728,11 +13740,11 @@ Occupation of common marine and coastal area
     
     (2) [Sections 165ZB to 165ZD][457] apply with any necessary modifications to a request for a further suspension of receipt of applications.
     
-    Section 165ZE: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZE: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### Ministerial power to direct applications for coastal permits to undertake aquaculture activities in common marine and coastal area to be processed and heard together
     
-*   Heading: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Heading: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZF Regional council may request direction to process and hear together applications for permits to occupy common marine and coastal area for purpose of aquaculture activities
     
@@ -13758,7 +13770,7 @@ Occupation of common marine and coastal area
     
     *   (b) be accompanied by information about why it would be more efficient and would enable better assessment and management of the cumulative effects of coastal permits to occupy the common marine and coastal area for the purposes of aquaculture activities if the direction were made.
     
-    Section 165ZF: replaced, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZF: replaced, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFA Ministerial power to direct applications to be processed and heard together
     
@@ -13824,7 +13836,7 @@ Occupation of common marine and coastal area
             
             *   (E) in respect of which a notice of motion has been lodged with the Environment Court under [section 87G][214] before the date of the _Gazette_ notice; or
             
-            *   (F) called in by the Minister of Conservation under [section 142][1466] before the date of the _Gazette_ notice; or
+            *   (F) called in by the Minister of Conservation under [section 142][1468] before the date of the _Gazette_ notice; or
             
             *   (G) for which a call-in request has been made by the regional council or the applicant under [section 142(1)(b)][340] before the date of the _Gazette_ notice, unless the request is declined; or
             
@@ -13842,11 +13854,11 @@ Occupation of common marine and coastal area
     
     (9) On and from the date of a _Gazette_ notice under this section, the regional council concerned must process and hear together applications to which the direction in the _Gazette_ notice applies.
     
-    Section 165ZFA: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFA: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 #### Processing and hearing together of applications for coastal permits
     
-*   Heading: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Heading: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFB Application of sections 165ZFC to 165ZFH
     
@@ -13858,7 +13870,7 @@ Occupation of common marine and coastal area
     
     *   (c) a _Gazette_ notice under [section 165ZFA][463].
     
-    Section 165ZFB: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFB: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFC Interpretation
     
@@ -13874,7 +13886,7 @@ Occupation of common marine and coastal area
     
     _PHT requirement_ means a requirement that an application be processed and heard together with another application or applications as provided in a rule or _Gazette_ notice referred to in [section 165ZFB][465].
     
-    Section 165ZFC: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFC: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFD Effect of requirement that applications be processed and heard together on direct referral to Environment Court under sections 87D to 87I
     
@@ -13892,7 +13904,7 @@ Occupation of common marine and coastal area
         
         
     
-    Section 165ZFD: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFD: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFE Processing of affected applications
     
@@ -13946,7 +13958,7 @@ Occupation of common marine and coastal area
     
     (13) [Sections 99][254] and [100][257] apply in respect of any affected application that the regional council is required to process and hear together with other affected applications.
     
-    Section 165ZFE: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFE: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFF Hearing of affected applications
     
@@ -13980,7 +13992,7 @@ Occupation of common marine and coastal area
     
     *   (e) paragraph (d)(i) is subject to [sections 124B][308] and [124C][309].
     
-    Section 165ZFF: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFF: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFG Effect of requirement that applications be processed and heard together on power of Minister to call in applications under section 142
     
@@ -14008,23 +14020,23 @@ Occupation of common marine and coastal area
     
     (2) [Section 165ZFF(a), (d), and (e)][469] apply if the affected applications are heard by the Environment Court or a board of inquiry and, for that purpose, the provisions of [Part 6AA][332] apply in respect of the hearing and determination of the affected applications with any necessary modifications. 
     
-    Section 165ZFG: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFG: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZFH Effect of requirement that applications be processed and heard together on lodgement of applications with EPA
     
 *   On and from the date on which the relevant PHT requirement comes into force, no affected application may be lodged with the Environmental Protection Authority under [section 145][345].
     
-    Section 165ZFH: inserted, on 1 October 2011, by [section 49][1455] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZFH: inserted, on 1 October 2011, by [section 49][1457] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ### Subpart 2---Privately initiated plan changes
 
 \[Repealed\]
     
-*   Subpart 2: repealed, on 1 October 2011, by [section 50][1467] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Subpart 2: repealed, on 1 October 2011, by [section 50][1469] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ### Subpart 3---Order in which applications by existing consent holders are to be processed
     
-*   Subpart 3: inserted, on 1 January 2005, by [section 20][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+*   Subpart 3: inserted, on 1 January 2005, by [section 20][1455] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 165ZG Application
     
@@ -14036,11 +14048,11 @@ Occupation of common marine and coastal area
     
     (2) However, this subpart does not apply to an application for a coastal permit to occupy space in the common marine and coastal area for an aquaculture activity if, at the time the application is made, a regional coastal plan provides for a method of allocating authorisations in respect of the space and activity.
     
-    Section 165ZG: inserted, on 1 January 2005, by [section 20][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 165ZG: inserted, on 1 January 2005, by [section 20][1455] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 165ZG(1)(a): replaced, on 1 October 2011, by [section 51(1)][1468] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZG(1)(a): replaced, on 1 October 2011, by [section 51(1)][1470] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZG(2): replaced, on 1 October 2011, by [section 51(2)][1468] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZG(2): replaced, on 1 October 2011, by [section 51(2)][1470] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZH Processing applications for existing permit holders
     
@@ -14048,7 +14060,7 @@ Occupation of common marine and coastal area
         
     *   (a) a person holds---
             
-        *   (i) a deemed coastal permit under [section 10][1469], [20][1470], 20A, or [21][1471] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
+        *   (i) a deemed coastal permit under [section 10][1471], [20][1472], 20A, or [21][1473] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
         
         *   (ii) a coastal permit to occupy space in the common marine and coastal area for aquaculture activities, granted after the commencement of this Part; and
         
@@ -14100,7 +14112,7 @@ Occupation of common marine and coastal area
         
         
     
-    Section 165ZH: replaced, on 1 October 2011, by [section 52][1472] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZH: replaced, on 1 October 2011, by [section 52][1474] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZI Applications for space already used for aquaculture activities
     
@@ -14128,19 +14140,19 @@ Occupation of common marine and coastal area
     
     (8) However, the application may be processed and determined before the expiry of the 3-month period referred to in subsection (7) if the existing permit holder notifies the consent authority in writing that the holder does not propose to make an application under [section 165ZH(1)(c)][475].
     
-    Section 165ZI: inserted, on 1 January 2005, by [section 20][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 165ZI: inserted, on 1 January 2005, by [section 20][1455] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 165ZI(1): amended, on 1 October 2011, by [section 53(1)][1473] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZI(1): amended, on 1 October 2011, by [section 53(1)][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZI(3): amended, on 1 October 2011, by [section 53(2)][1473] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZI(3): amended, on 1 October 2011, by [section 53(2)][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZI(4)(b): amended, on 1 October 2011, by [section 53(3)][1473] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZI(4)(b): amended, on 1 October 2011, by [section 53(3)][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZI(5): amended, on 1 October 2011, by [section 53(4)(a)][1473] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZI(5): amended, on 1 October 2011, by [section 53(4)(a)][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZI(5): amended, on 1 October 2011, by [section 53(4)(b)][1473] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZI(5): amended, on 1 October 2011, by [section 53(4)(b)][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZI(8): amended, on 1 October 2011, by [section 53(5)][1473] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZI(8): amended, on 1 October 2011, by [section 53(5)][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZJ Additional criteria for considering applications for permits for space already used for aquaculture activities
     
@@ -14164,27 +14176,27 @@ Occupation of common marine and coastal area
     
     *   (d) the subsequent behaviour of the applicant after enforcement action.
     
-    Section 165ZJ: inserted, on 1 January 2005, by [section 20][1453] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 165ZJ: inserted, on 1 January 2005, by [section 20][1455] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 165ZJ(1AA): inserted, on 1 October 2011, by [section 54(1)][1474] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZJ(1AA): inserted, on 1 October 2011, by [section 54(1)][1476] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZJ(1): amended, on 1 October 2011, by [section 54(2)][1474] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZJ(1): amended, on 1 October 2011, by [section 54(2)][1476] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165ZJ(1)(c): repealed, on 1 October 2011, by [section 54(3)][1474] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZJ(1)(c): repealed, on 1 October 2011, by [section 54(3)][1476] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ### Subpart 4---Plan change requests and concurrent applications for coastal permits in relation to aquaculture activities
     
-*   Subpart 4: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Subpart 4: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZK Application
     
 *   This subpart applies only in relation to a rule in a regional coastal plan that,---
         
-    *   (a) at the commencement of [section 55][1475] of the Resource Management Amendment Act (No 2) 2011, provided that an aquaculture activity is a prohibited activity, whether in all or part, of the common marine and coastal area that the plan applies to; and
+    *   (a) at the commencement of [section 55][1477] of the Resource Management Amendment Act (No 2) 2011, provided that an aquaculture activity is a prohibited activity, whether in all or part, of the common marine and coastal area that the plan applies to; and
     
     *   (b) is still operative when a plan change request is made.
     
-    Section 165ZK: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZK: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZL Interpretation
     
@@ -14204,7 +14216,7 @@ Occupation of common marine and coastal area
     
     *   (b) made in conjunction with, or in contemplation of, a concurrent application.
     
-    Section 165ZL: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZL: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZM Other provisions of Act apply subject to this subpart
     
@@ -14216,7 +14228,7 @@ Occupation of common marine and coastal area
     
     (4) The following provisions of [Part 6][204] do not apply to a concurrent application: [sections 88A to 88E][219], [95 to 95G][241], [96(7)][250], [97][251], [99 to 103A][254], [115][290], and [121(1)(c)][300].
     
-    Section 165ZM: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZM: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZN Application for coastal permit to undertake aquaculture activities
     
@@ -14244,7 +14256,7 @@ Occupation of common marine and coastal area
     
     (2) For the purposes of subsection (1)(d), [section 165ZW(1)][491] is to be disregarded.
     
-    Section 165ZN: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZN: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZO Identifying plan change requests and concurrent applications
     
@@ -14256,7 +14268,7 @@ Occupation of common marine and coastal area
     
     *   (b) specify that it is intended to lodge a concurrent application subsequently, if the plan change request is accepted.
     
-    Section 165ZO: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZO: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZP Incomplete concurrent application
     
@@ -14266,7 +14278,7 @@ Occupation of common marine and coastal area
     
     (3) If the application is not lodged again within 20 working days after the date on which the applicant receives the returned application, the application and the plan change request lapse.
     
-    Section 165ZP: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZP: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZQ Additional consents
     
@@ -14278,7 +14290,7 @@ Occupation of common marine and coastal area
     
     (2) If the regional council determines that 1 or more further consents will be required, the regional council is not required to take any further action on the plan change request until the applications for the further consents have been lodged and accepted as complete under [section 88(3)][218].
     
-    Section 165ZQ: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZQ: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZR Concurrent application to be declined or treated as withdrawn if plan change request declined or withdrawn
     
@@ -14286,9 +14298,9 @@ Occupation of common marine and coastal area
     
     (2) If, under [clause 25(2)(b)][1087] of Schedule 1, a regional council accepts a plan change request in part so that the aquaculture activity that the concurrent application relates to remains a prohibited activity, then the regional council must decline the concurrent application as a result of the decision made under clause 25(4) of Schedule 1\.
     
-    (3) If a plan change request is withdrawn or deemed to be withdrawn under [clause 28][1476] of Schedule 1, the concurrent application that relates to the plan change request is to be treated as having been withdrawn.
+    (3) If a plan change request is withdrawn or deemed to be withdrawn under [clause 28][1478] of Schedule 1, the concurrent application that relates to the plan change request is to be treated as having been withdrawn.
     
-    Section 165ZR: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZR: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZS Consideration of plan change request
     
@@ -14300,7 +14312,7 @@ Occupation of common marine and coastal area
     
     (2) If the regional council accepts a plan change request, the person making the plan change request may, within 20 working days after being notified of the council's decision under [clause 25(5)][1087] of Schedule 1,---
         
-    *   (a) if a concurrent application has been lodged with the plan change request and the plan change request has been modified under [clause 24][1420] of Schedule 1,---
+    *   (a) if a concurrent application has been lodged with the plan change request and the plan change request has been modified under [clause 24][1422] of Schedule 1,---
             
         *   (i) amend the concurrent application; or
         
@@ -14310,11 +14322,11 @@ Occupation of common marine and coastal area
     
     *   (b) if a concurrent application has not been lodged with the plan change request, lodge a concurrent application.
     
-    Section 165ZS: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZS: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZT Notification of accepted plan change request
     
-*   (1) For the purposes of publicly notifying an accepted plan change request and its concurrent application under [clause 26(b)(i)][1415] of Schedule 1, the period of 4 months specified in that subparagraph begins on the day as determined in accordance with subsection (2), (3), or (4), as the case may require.
+*   (1) For the purposes of publicly notifying an accepted plan change request and its concurrent application under [clause 26(b)(i)][1417] of Schedule 1, the period of 4 months specified in that subparagraph begins on the day as determined in accordance with subsection (2), (3), or (4), as the case may require.
     
     (2) If a concurrent application has been lodged, the period begins on the day on which the regional council receives written confirmation from the applicant that the applications will not be amended or withdrawn.
     
@@ -14326,25 +14338,25 @@ Occupation of common marine and coastal area
     
     (6) For the purposes of subsection (5), [clause 5][1166] of Schedule 1 applies with all necessary modifications and as if references to a plan or regional coastal plan were references to a plan change request and its related concurrent application and as if the reference to a proposed change in clause 5(3)(b) of that schedule included a reference to its concurrent application.
     
-    Section 165ZT: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZT: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZU Submissions on plan change request and concurrent application
     
 *   (1) The regional council must, in addition to preparing a summary of submissions on the plan change request, prepare a summary of submissions on the concurrent application.
     
-    (2) [Clause 7][1477] of Schedule 1 accordingly applies also to the summary of submissions on the concurrent application.
+    (2) [Clause 7][1479] of Schedule 1 accordingly applies also to the summary of submissions on the concurrent application.
     
-    (3) However, no person may make further submissions under [clause 8][1478] of Schedule 1 on a concurrent application.
+    (3) However, no person may make further submissions under [clause 8][1480] of Schedule 1 on a concurrent application.
     
-    Section 165ZU: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZU: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZV Hearing of submissions
     
-*   (1) The regional council must hear, under [clause 8B][1479] of Schedule 1, any submissions on a plan change request and its concurrent application together.
+*   (1) The regional council must hear, under [clause 8B][1481] of Schedule 1, any submissions on a plan change request and its concurrent application together.
     
-    (2) For the purposes of [clause 8C][1480] of Schedule 1, a hearing is not required if, in addition, no person indicates they wish to be heard, or the request to be heard is withdrawn, in relation to the concurrent application.
+    (2) For the purposes of [clause 8C][1482] of Schedule 1, a hearing is not required if, in addition, no person indicates they wish to be heard, or the request to be heard is withdrawn, in relation to the concurrent application.
     
-    Section 165ZV: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZV: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZW Type of activity in relation to concurrent activities
     
@@ -14352,7 +14364,7 @@ Occupation of common marine and coastal area
     
     (2) The concurrent application must be considered and determined on the basis that the activities for which the application is made are controlled activities, restricted discretionary activities, discretionary activities, or non-complying activities in accordance with the regional council's decision on the plan change request that the concurrent application relates to.
     
-    Section 165ZW: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZW: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZX Consideration of plan change request and concurrent application
     
@@ -14364,13 +14376,13 @@ Occupation of common marine and coastal area
     
     (2) A regional council must decline a concurrent application if, as a result of the council's determination on the plan change request, the aquaculture activity that the concurrent application relates to remains a prohibited activity.
     
-    Section 165ZX: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZX: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZY Regional council's decision on concurrent application
     
 *   The regional council must make and publicly notify its decision on the concurrent application not later than the close of the 20th working day after publicly notifying its decision on the plan change request in accordance with [clause 10(4)][1088] of Schedule 1\.
     
-    Section 165ZY: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZY: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZZ Appeals
     
@@ -14378,7 +14390,7 @@ Occupation of common marine and coastal area
     
     (2) If appeals are lodged against both the decision on the plan change request and the concurrent application, the appeals must be heard together.
     
-    Section 165ZZ: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZZ: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 165ZZA Grant of coastal permit
     
@@ -14386,7 +14398,7 @@ Occupation of common marine and coastal area
     
     (2) If the Minister of Conservation declines to approve the plan change, the regional council must cancel the coastal permit.
     
-    Section 165ZZA: inserted, on 1 October 2011, by [section 55][1475] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 165ZZA: inserted, on 1 October 2011, by [section 55][1477] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ## Part 8  
 Designations and heritage orders
@@ -14397,7 +14409,7 @@ Designations and heritage orders
     
 *   In this Act---
     
-    _designation_ means a provision made in a district plan to give effect to a requirement made by a requiring authority under [section 168][500] or [section 168A][501] or [clause 4][1408] of Schedule 1
+    _designation_ means a provision made in a district plan to give effect to a requirement made by a requiring authority under [section 168][500] or [section 168A][501] or [clause 4][1410] of Schedule 1
     
     _network utility operator_ means a person who---
         
@@ -14411,7 +14423,7 @@ Designations and heritage orders
         
         
     
-    *   (c) is an electricity operator or electricity distributor as defined in [section 2][1481] of the Electricity Act 1992 for the purpose of line function services as defined in that section; or
+    *   (c) is an electricity operator or electricity distributor as defined in [section 2][1483] of the Electricity Act 1992 for the purpose of line function services as defined in that section; or
     
     *   (d) undertakes or proposes to undertake the distribution of water for supply (including irrigation); or
     
@@ -14419,9 +14431,9 @@ Designations and heritage orders
     
     *   (f) constructs, operates, or proposes to construct or operate, a road or railway line; or
     
-    *   (g) is an airport authority as defined by the [Airport Authorities Act 1966][1482] for the purposes of operating an airport as defined by that Act; or
+    *   (g) is an airport authority as defined by the [Airport Authorities Act 1966][1484] for the purposes of operating an airport as defined by that Act; or
     
-    *   (h) is a provider of any approach control service within the meaning of the [Civil Aviation Act 1990][1483]; or
+    *   (h) is a provider of any approach control service within the meaning of the [Civil Aviation Act 1990][1485]; or
     
     *   (i) undertakes or proposes to undertake a project or work prescribed as a network utility operation for the purposes of this definition by regulations made under this Act,---
     
@@ -14435,13 +14447,13 @@ Designations and heritage orders
     
     *   (c) a network utility operator approved as a requiring authority under [section 167][499].
     
-    Section 166 **designation**: amended, on 7 July 1993, by [section 83(1)][1484] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 166 **designation**: amended, on 7 July 1993, by [section 83(1)][1486] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 166 **network utility operator** paragraph (a): amended, on 1 October 2008, by [section 17][985] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 166 **network utility operator** paragraph (b): replaced, on 20 December 2001, by [section 158][1485] of the Telecommunications Act 2001 (2001 No 103).
+    Section 166 **network utility operator** paragraph (b): replaced, on 20 December 2001, by [section 158][1487] of the Telecommunications Act 2001 (2001 No 103).
     
-    Section 166 **network utility operator** paragraph (c): replaced, on 7 July 1993, by [section 83(2)][1484] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 166 **network utility operator** paragraph (c): replaced, on 7 July 1993, by [section 83(2)][1486] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 167 Application to become requiring authority
     
@@ -14475,7 +14487,7 @@ Designations and heritage orders
     
     (6) Upon the revocation of an approval under subsection (5), all functions, powers, and duties of the former requiring authority under this Act in relation to any designation, or any requirement for a designation, shall be deemed to be transferred to the Minister under [section 180][514].
     
-    Section 167: replaced, on 7 July 1993, by [section 84][1486] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 167: replaced, on 7 July 1993, by [section 84][1488] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 168 Notice of requirement to territorial authority
     
@@ -14501,15 +14513,15 @@ Designations and heritage orders
     
     *   (b) notify all persons upon whom the requirement has been served.
     
-    Section 168(1): amended, on 1 August 2003, by [section 60(1)][1487] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 168(1): amended, on 1 August 2003, by [section 60(1)][1489] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 168(2): amended, on 1 August 2003, by [section 60(2)][1487] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 168(2): amended, on 1 August 2003, by [section 60(2)][1489] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 168(2): amended, on 7 July 1993, by [section 85(a)][1488] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 168(2): amended, on 7 July 1993, by [section 85(a)][1490] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 168(2)(a): replaced, on 7 July 1993, by [section 85(b)][1488] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 168(2)(a): replaced, on 7 July 1993, by [section 85(b)][1490] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 168(3): repealed, on 1 August 2003, by [section 60(3)][1487] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 168(3): repealed, on 1 August 2003, by [section 60(3)][1489] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 168A Notice of requirement by territorial authority
     
@@ -14573,23 +14585,23 @@ Designations and heritage orders
     
     (5) [Sections 173][506], [174][507], and [175][508] apply, with all necessary modifications, in respect of a decision made under subsection (4).
     
-    Section 168A: inserted, on 7 July 1993, by [section 86][1489] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 168A: inserted, on 7 July 1993, by [section 86][1491] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 168A(1): replaced, on 1 October 2009, by [section 102][1490] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 168A(1): replaced, on 1 October 2009, by [section 102][1492] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 168A(1A): inserted, on 1 October 2009, by [section 102][1490] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 168A(1A): inserted, on 1 October 2009, by [section 102][1492] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 168A(1B): inserted, on 1 October 2009, by [section 102][1490] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 168A(1B): inserted, on 1 October 2009, by [section 102][1492] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 168A(2): replaced, on 1 October 2009, by [section 102][1490] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 168A(2): replaced, on 1 October 2009, by [section 102][1492] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 168A(2A): inserted, on 1 October 2009, by [section 102][1490] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 168A(2A): inserted, on 1 October 2009, by [section 102][1492] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 168A(3): replaced, on 1 August 2003, by [section 61(3)][1491] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 168A(3): replaced, on 1 August 2003, by [section 61(3)][1493] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 168A(4): replaced, on 1 August 2003, by [section 61(3)][1491] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 168A(4): replaced, on 1 August 2003, by [section 61(3)][1493] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 168A(5): inserted, on 1 August 2003, by [section 61(3)][1491] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 168A(5): inserted, on 1 August 2003, by [section 61(3)][1493] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 169 Further information, notification, submissions, and hearing for notice of requirement to territorial authority
     
@@ -14611,7 +14623,7 @@ Designations and heritage orders
     
     *   (b) as if a reference to a decision on the application for a resource consent were a reference to a recommendation by the territorial authority under [section 171][504].
     
-    Section 169: replaced, on 1 October 2009, by [section 103][1492] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 169: replaced, on 1 October 2009, by [section 103][1494] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 170 Discretion to include requirement in proposed plan
     
@@ -14659,9 +14671,9 @@ Designations and heritage orders
     
     (3) The territorial authority must give reasons for its recommendation under subsection (2).
     
-    Section 171: replaced, on 1 August 2003, by [section 63][1493] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 171: replaced, on 1 August 2003, by [section 63][1495] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 171(1A): inserted, on 1 October 2009, by [section 104][1494] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 171(1A): inserted, on 1 October 2009, by [section 104][1496] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 172 Decision of requiring authority
     
@@ -14687,7 +14699,7 @@ Designations and heritage orders
     
     *   (c) send or provide, on request, a copy of the decision within 3 working days after the request is received.
     
-    Section 173: replaced, on 1 August 2003, by [section 64][1495] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 173: replaced, on 1 August 2003, by [section 64][1497] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 174 Appeals
     
@@ -14721,7 +14733,7 @@ Designations and heritage orders
     
     Section 174(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 174(4): replaced, on 1 October 2009, by [section 105][1496] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 174(4): replaced, on 1 October 2009, by [section 105][1498] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 175 Designation to be provided for in district plan
     
@@ -14747,7 +14759,7 @@ Designations and heritage orders
     
     *   (b) state in its district plan and in any proposed district plan the name of the requiring authority that has the benefit of the designation.
     
-    Section 175: replaced, on 1 October 2009, by [section 106][1497] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 175: replaced, on 1 October 2009, by [section 106][1499] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 176 Effect of designation
     
@@ -14769,15 +14781,15 @@ Designations and heritage orders
     
     (3) This section is subject to [section 177][511].
     
-    Section 176(1): replaced, on 1 August 2003, by [section 65][1498] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 176(1): replaced, on 1 August 2003, by [section 65][1500] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 176(1)(a): amended, on 1 October 2009, by [section 107(1)][1499] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 176(1)(a): amended, on 1 October 2009, by [section 107(1)][1501] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 176(1)(b)(i): amended, on 1 October 2009, by [section 107(2)][1499] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 176(1)(b)(i): amended, on 1 October 2009, by [section 107(2)][1501] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 176(2): amended, on 17 December 1997, by [section 37(2)][1500] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 176(2): amended, on 17 December 1997, by [section 37(2)][1502] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 176(2): amended, on 7 July 1993, by [section 90(2)][1501] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 176(2): amended, on 7 July 1993, by [section 90(2)][1503] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 176A Outline plan
     
@@ -14813,7 +14825,7 @@ Designations and heritage orders
     
     (7) This section applies, with all necessary modifications, to public works, projects, or works to be constructed on designated land by a territorial authority.
     
-    Section 176A: inserted, on 17 December 1997, by [section 38][1502] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 176A: inserted, on 17 December 1997, by [section 38][1504] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 177 Land subject to existing designation or heritage order
     
@@ -14829,15 +14841,15 @@ Designations and heritage orders
     
     *   (b) that in the case of an earlier heritage order, the thing to be done would wholly or partly nullify the effect of the order.
     
-    Section 177(1): amended, on 1 October 2009, by [section 108][1503] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 177(1): amended, on 1 October 2009, by [section 108][1505] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 177(1): amended, on 7 July 1993, by [section 91(a)][1504] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 177(1): amended, on 7 July 1993, by [section 91(a)][1506] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 177(1): amended, on 7 July 1993, by [section 91(b)][1504] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 177(1): amended, on 7 July 1993, by [section 91(b)][1506] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 177(1)(a): amended, on 7 July 1993, by [section 91(c)][1504] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 177(1)(a): amended, on 7 July 1993, by [section 91(c)][1506] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 177(1)(b): amended, on 7 July 1993, by [section 91(c)][1504] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 177(1)(b): amended, on 7 July 1993, by [section 91(c)][1506] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 178 Interim effect of requirements for designations
     
@@ -14849,9 +14861,9 @@ Designations and heritage orders
     
     *   (c) a territorial authority decides to issue a notice of requirement for a designation within its own district under [section 168A][501]:
     
-    *   (d) a requiring authority gives notice of a requirement for a modified designation under [clause 4][1408] of Schedule 1:
+    *   (d) a requiring authority gives notice of a requirement for a modified designation under [clause 4][1410] of Schedule 1:
     
-    *   (e) a territorial authority decides to include a requirement for a designation in its proposed district plan under [clause 4][1408] of Schedule 1\.
+    *   (e) a territorial authority decides to include a requirement for a designation in its proposed district plan under [clause 4][1410] of Schedule 1\.
     
     (2) In the period that starts as described in subsection (3) and ends as described in subsection (4), no person may do anything that would prevent or hinder the public work, project, or work to which the designation relates unless the person has the prior written consent of the requiring authority.
     
@@ -14863,9 +14875,9 @@ Designations and heritage orders
     
     *   (c) for the purposes of subsection (1)(c), on the day on which the territorial authority decides whether to notify the notice of requirement under [section 168A][501]:
     
-    *   (d) for the purposes of subsection (1)(d), on the day on which the requiring authority gives notice of the requirement for the modified designation under [clause 4][1408] of Schedule 1:
+    *   (d) for the purposes of subsection (1)(d), on the day on which the requiring authority gives notice of the requirement for the modified designation under [clause 4][1410] of Schedule 1:
     
-    *   (e) for the purposes of subsection (1)(e), on the day on which the territorial authority decides to include a requirement for a designation in its proposed district plan under [clause 4][1408] of Schedule 1\.
+    *   (e) for the purposes of subsection (1)(e), on the day on which the territorial authority decides to include a requirement for a designation in its proposed district plan under [clause 4][1410] of Schedule 1\.
     
     (4) The period ends on the earliest of the following days:
         
@@ -14879,7 +14891,7 @@ Designations and heritage orders
     
     (6) This section does not prevent an authority responsible for an earlier designation or heritage order from doing anything that is in accordance with the earlier designation or order.
     
-    Section 178: replaced, on 1 October 2009, by [section 109][1505] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 178: replaced, on 1 October 2009, by [section 109][1507] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 179 Appeals relating to sections 176 to 178
     
@@ -14903,15 +14915,15 @@ Designations and heritage orders
     
     and may confirm or reverse the decision appealed against or modify the decision in such manner as the court thinks fit.
     
-    Section 179(1): amended, on 1 October 2009, by [section 110(1)][1506] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 179(1): amended, on 1 October 2009, by [section 110(1)][1508] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 179(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 179(2)(c): amended, on 1 October 2009, by [section 110(2)][1506] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 179(2)(c): amended, on 1 October 2009, by [section 110(2)][1508] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 179(2)(c): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 179(3): replaced, on 7 July 1993, by [section 93][1507] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 179(3): replaced, on 7 July 1993, by [section 93][1509] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 179(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -14921,9 +14933,9 @@ Designations and heritage orders
     
     (2) The requiring authority which transfers responsibility for the designation shall advise the Minister for the Environment and the relevant territorial authority, and, for the purposes of [section 175(2)(b)][508], the transfer shall, without using the process in [Schedule 1][903], be noted in the district plan.
     
-    Section 180: replaced, on 7 July 1993, by [section 94][1508] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 180: replaced, on 7 July 1993, by [section 94][1510] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 180(2): amended, on 1 October 2009, by [section 111][1509] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 180(2): amended, on 1 October 2009, by [section 111][1511] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 180(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -14951,15 +14963,15 @@ Designations and heritage orders
     
     (4) This section shall apply, with all necessary modifications, to a requirement by a territorial authority to alter its own designation or requirement within its own district.
     
-    Section 181(3): amended, on 1 August 2003, by [section 66(1)][1510] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 181(3): amended, on 1 August 2003, by [section 66(1)][1512] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 181(3): amended, on 1 August 2003, by [section 66(3)][1510] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 181(3): amended, on 1 August 2003, by [section 66(3)][1512] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 181(3)(a)(ii): amended, on 1 August 2003, by [section 66(2)][1510] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 181(3)(a)(ii): amended, on 1 August 2003, by [section 66(2)][1512] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 181(4): inserted, on 7 July 1993, by [section 95][1511] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 181(4): inserted, on 7 July 1993, by [section 95][1513] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 181(4): amended, on 1 August 2003, by [section 66(4)][1510] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 181(4): amended, on 1 August 2003, by [section 66(4)][1512] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 182 Removal of designation
     
@@ -14981,7 +14993,7 @@ Designations and heritage orders
     
     (6) A requiring authority may object, under [section 357][793], to any decision to decline removal of part of a designation under subsection (5).
     
-    Section 182: replaced, on 7 July 1993, by [section 96][1512] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 182: replaced, on 7 July 1993, by [section 96][1514] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 182(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -14989,7 +15001,7 @@ Designations and heritage orders
     
 *   \[Repealed\]
     
-    Section 183: repealed, on 7 July 1993, by [section 97][1513] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 183: repealed, on 7 July 1993, by [section 97][1515] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 184 Lapsing of designations which have not been given effect to
     
@@ -15009,9 +15021,9 @@ Designations and heritage orders
     
     (3) A requiring authority may object, under [section 357][793], to a decision not to fix a longer period for the purposes of subsection (1).
     
-    Section 184(1): amended, on 7 July 1993, by [section 98][1514] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 184(1): amended, on 7 July 1993, by [section 98][1516] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 184(3): inserted, on 10 August 2005, by [section 90][1515] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 184(3): inserted, on 10 August 2005, by [section 90][1517] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 184A Lapsing of designations of territorial authority in its own district
     
@@ -15031,7 +15043,7 @@ Designations and heritage orders
     
     *   (b) within 3 months before the expiry of that period, the territorial authority resolves that it has made, and is continuing to make, substantial progress or effort towards giving effect to the designation and fixes a longer period for the purpose of this subsection.
     
-    Section 184A: inserted, on 7 July 1993, by [section 99][1516] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 184A: inserted, on 7 July 1993, by [section 99][1518] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 185 Environment Court may order taking of land
     
@@ -15053,7 +15065,7 @@ Designations and heritage orders
     
     (4) Before making an order under subsection (1) the court may direct the owner to take further action to try to sell the estate or interest in the land.
     
-    (5) If the Environment Court makes an order to take an estate or interest in land under the [Public Works Act 1981][952], the owner of that estate or interest shall be deemed to have entered into an agreement with the requiring authority responsible for the designation or requirement for the purposes of [section 17][1517] of the Public Works Act 1981\.
+    (5) If the Environment Court makes an order to take an estate or interest in land under the [Public Works Act 1981][952], the owner of that estate or interest shall be deemed to have entered into an agreement with the requiring authority responsible for the designation or requirement for the purposes of [section 17][1519] of the Public Works Act 1981\.
     
     (6) Where subsection (5) applies in respect of a requiring authority which is a network utility operator approved under [section 167][499]---
         
@@ -15069,7 +15081,7 @@ Designations and heritage orders
     
     Section 185(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 185(3)(b)(ii): amended, on 26 April 2005, by [section 7][1518] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 185(3)(b)(ii): amended, on 26 April 2005, by [section 7][1520] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 185(4): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -15077,23 +15089,23 @@ Designations and heritage orders
 
 ##### 186 Compulsory acquisition powers
     
-*   (1) A network utility operator that is a requiring authority may apply to the Minister of Lands to have land required for a project or work acquired or taken under [Part 2][1519] of the Public Works Act 1981 as if the project or work were a government work within the meaning of that Act and, if the Minister of Lands agrees, that land may be taken or acquired.
+*   (1) A network utility operator that is a requiring authority may apply to the Minister of Lands to have land required for a project or work acquired or taken under [Part 2][1521] of the Public Works Act 1981 as if the project or work were a government work within the meaning of that Act and, if the Minister of Lands agrees, that land may be taken or acquired.
     
     (2) The effect of any Proclamation taking land for the purposes of subsection (1) shall be to vest the land in the network utility operator instead of the Crown.
     
     (3) Land which is subject to a heritage order shall not be taken without the consent of the heritage protection authority.
     
-    (4) Any land held under any enactment or in any other manner by the Crown or a local authority may, with the consent of the Crown or that authority and on such terms and conditions (including price) as may be agreed, be set apart for a project or work of a network utility operator in the manner provided in [sections 50][1520] and [52][1521] of the Public Works Act 1981 (with the necessary modifications), but the setting apart shall not be subject to [sections 40][1522] and [41][1523] of that Act. Any land so set apart shall vest in the network utility operator.
+    (4) Any land held under any enactment or in any other manner by the Crown or a local authority may, with the consent of the Crown or that authority and on such terms and conditions (including price) as may be agreed, be set apart for a project or work of a network utility operator in the manner provided in [sections 50][1522] and [52][1523] of the Public Works Act 1981 (with the necessary modifications), but the setting apart shall not be subject to [sections 40][1524] and [41][1525] of that Act. Any land so set apart shall vest in the network utility operator.
     
     (5) Any claim for compensation under the [Public Works Act 1981][952] in respect of land acquired or taken in accordance with this section shall be made against the Minister of Lands.
     
     (6) All costs and expenses incurred by the Minister of Lands in respect of the acquisition or taking of land in accordance with this section (including any compensation payable by the Minister) shall be recoverable from the network utility operator as a debt due to the Crown.
     
-    (7) [Sections 40][1522] and [41][1523] of the Public Works Act 1981 shall apply to land acquired or taken in accordance with this section as if the network utility operator concerned were the Crown.
+    (7) [Sections 40][1524] and [41][1525] of the Public Works Act 1981 shall apply to land acquired or taken in accordance with this section as if the network utility operator concerned were the Crown.
     
     (8) For the purposes of this section, an interest in land, including a leasehold interest, may be acquired or taken as if references to land were references to an interest in land.
     
-    Section 186(1): replaced, on 1 August 2003, by [section 67][1524] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 186(1): replaced, on 1 August 2003, by [section 67][1526] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 #### Heritage orders
 
@@ -15119,11 +15131,11 @@ Designations and heritage orders
     
     *   (d) a body corporate that is approved as a heritage protection authority under [section 188][524].
     
-    Section 187 **heritage order**: amended, on 7 July 1993, by [section 100(1)][1525] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 187 **heritage order**: amended, on 7 July 1993, by [section 100(1)][1527] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 187 **heritage protection authority** paragraph (c): amended, on 1 July 1993, pursuant to [section 118(1)][1207] of the Historic Places Act 1993 (1993 No 38).
+    Section 187 **heritage protection authority** paragraph (c): amended, on 1 July 1993, pursuant to [section 118(1)][1208] of the Historic Places Act 1993 (1993 No 38).
     
-    Section 187 **heritage protection authority** paragraph (d): amended, on 7 July 1993, by [section 100(2)][1525] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 187 **heritage protection authority** paragraph (d): amended, on 7 July 1993, by [section 100(2)][1527] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 188 Application to become heritage protection authority
     
@@ -15159,19 +15171,19 @@ Designations and heritage orders
     
     (8) \[Repealed\]
     
-    Section 188 heading: amended, on 7 July 1993, by [section 101][1526] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 188 heading: amended, on 7 July 1993, by [section 101][1528] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 188(3): replaced, on 7 July 1993, by [section 101][1526] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 188(3): replaced, on 7 July 1993, by [section 101][1528] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 188(4): replaced, on 7 July 1993, by [section 101][1526] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 188(4): replaced, on 7 July 1993, by [section 101][1528] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 188(5): replaced, on 7 July 1993, by [section 101][1526] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 188(5): replaced, on 7 July 1993, by [section 101][1528] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 188(6): replaced, on 7 July 1993, by [section 101][1526] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 188(6): replaced, on 7 July 1993, by [section 101][1528] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 188(7): replaced, on 7 July 1993, by [section 101][1526] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 188(7): replaced, on 7 July 1993, by [section 101][1528] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 188(8): repealed, on 7 July 1993, by [section 101][1526] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 188(8): repealed, on 7 July 1993, by [section 101][1528] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 189 Notice of requirement to territorial authority
     
@@ -15245,7 +15257,7 @@ Designations and heritage orders
     
     *   (c) withdraw the requirement.
     
-    Section 189A: replaced, on 1 October 2009, by [section 112][1527] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 189A: replaced, on 1 October 2009, by [section 112][1529] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 190 Further information, notification, submissions, and hearing for notice of requirement to territorial authority
     
@@ -15283,7 +15295,7 @@ Designations and heritage orders
     
     *   (b) as if a reference to a decision on the application for a resource consent were a reference to a recommendation by the territorial authority under [section 191][528].
     
-    Section 190: replaced, on 1 October 2009, by [section 113][1528] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 190: replaced, on 1 October 2009, by [section 113][1530] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 191 Recommendation by territorial authority
     
@@ -15315,11 +15327,11 @@ Designations and heritage orders
     
     (4) The territorial authority shall give reasons for a recommendation made under subsection (2).
     
-    Section 191(1): amended, on 1 October 2009, by [section 114][1529] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 191(1): amended, on 1 October 2009, by [section 114][1531] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 191(1): amended, on 7 July 1993, by [section 104(a)][1530] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 191(1): amended, on 7 July 1993, by [section 104(a)][1532] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 191(1)(e): amended, on 7 July 1993, by [section 104(b)][1530] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 191(1)(e): amended, on 7 July 1993, by [section 104(b)][1532] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 192 Application of other sections
     
@@ -15339,11 +15351,11 @@ Designations and heritage orders
     
     *   (f) \[Repealed\]
     
-    Section 192: amended, on 7 July 1993, by [section 105(1)][1531] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 192: amended, on 7 July 1993, by [section 105(1)][1533] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 192(aa): inserted, on 7 July 1993, by [section 105(2)][1531] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 192(aa): inserted, on 7 July 1993, by [section 105(2)][1533] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 192(f): repealed, on 1 October 2009, by [section 115][1532] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 192(f): repealed, on 1 October 2009, by [section 115][1534] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 193 Effect of heritage order
     
@@ -15373,9 +15385,9 @@ Designations and heritage orders
     
     *   (b) that in the case of an earlier heritage order, the thing to be done would wholly or partly nullify the effect of the order.
     
-    Section 193A: inserted, on 7 July 1993, by [section 106][1533] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 193A: inserted, on 7 July 1993, by [section 106][1535] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 193A(1): amended, on 1 October 2009, by [section 116][1534] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 193A(1): amended, on 1 October 2009, by [section 116][1536] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 194 Interim effect of requirement
     
@@ -15387,7 +15399,7 @@ Designations and heritage orders
     
     *   (c) a territorial authority decides to issue a notice of requirement for a heritage order within its own district under [section 189A][526]:
     
-    *   (d) a territorial authority decides to include a requirement for a heritage order in its proposed district plan under [clause 4][1408] of Schedule 1\.
+    *   (d) a territorial authority decides to include a requirement for a heritage order in its proposed district plan under [clause 4][1410] of Schedule 1\.
     
     (2) In the period that starts as described in subsection (3) and ends as described in subsection (4), no person may do anything that would wholly or partly nullify the effect of the heritage order unless the person has the prior written consent of the heritage protection authority.
     
@@ -15399,7 +15411,7 @@ Designations and heritage orders
     
     *   (c) for the purposes of subsection (1)(c), on the day on which the territorial authority decides whether to notify the notice of requirement under [section 189A][526]:
     
-    *   (d) for the purposes of subsection (1)(d), on the day on which the territorial authority decides to include a requirement for a heritage order in its proposed district plan under [clause 4][1408] of Schedule 1\.
+    *   (d) for the purposes of subsection (1)(d), on the day on which the territorial authority decides to include a requirement for a heritage order in its proposed district plan under [clause 4][1410] of Schedule 1\.
     
     (4) The period ends on the earliest of the following days:
         
@@ -15411,7 +15423,7 @@ Designations and heritage orders
     
     (5) A person who contravenes subsection (2) does not commit an offence against this Act unless the person knew, or could reasonably be expected to have known, of the existence of the requirement.
     
-    Section 194: replaced, on 1 October 2009, by [section 117][1535] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 194: replaced, on 1 October 2009, by [section 117][1537] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 195 Appeals relating to sections 193 and 194
     
@@ -15471,7 +15483,7 @@ Designations and heritage orders
     
     (5) This section applies, with all necessary modifications, to a requirement by a territorial authority to alter its own heritage order or requirement within its own district.
     
-    Section 195A: inserted, on 1 October 2009, by [section 118][1536] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 195A: inserted, on 1 October 2009, by [section 118][1538] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 196 Removal of heritage order
     
@@ -15481,7 +15493,7 @@ Designations and heritage orders
     
     *   (b) a heritage order was a designation, except that the removal of a heritage order from a district plan shall not take effect until 10 working days after notice of removal is received by the territorial authority or after the territorial authority gives notice of the removal of its heritage order in its own district.
     
-    Section 196(b): amended, on 7 July 1993, by [section 108][1537] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 196(b): amended, on 7 July 1993, by [section 108][1539] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 197 Compulsory acquisition powers
     
@@ -15503,7 +15515,7 @@ Designations and heritage orders
     
     (2) Before making an order under subsection (1), the court may direct the owner to take further action to try to sell the estate or interest in the land.
     
-    (3) If the court makes an order to take an estate or interest in land under the [Public Works Act 1981][952], the owner of the land shall be deemed to have entered into an agreement with the heritage protection authority responsible for the heritage order or requirement for the purposes of [section 17][1517] of the Public Works Act 1981\.
+    (3) If the court makes an order to take an estate or interest in land under the [Public Works Act 1981][952], the owner of the land shall be deemed to have entered into an agreement with the heritage protection authority responsible for the heritage order or requirement for the purposes of [section 17][1519] of the Public Works Act 1981\.
     
     (4) Where subsection (3) applies in respect of a heritage protection authority that is neither the Crown nor a local authority---
         
@@ -15517,9 +15529,9 @@ Designations and heritage orders
     
     Section 198(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 198(1): amended, on 7 July 1993, by [section 109][1538] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 198(1): amended, on 7 July 1993, by [section 109][1540] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 198(1)(a): amended, on 26 April 2005, by [section 7][1518] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 198(1)(a): amended, on 26 April 2005, by [section 7][1520] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 198(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -15531,7 +15543,7 @@ Designations and heritage orders
 
 #### Streamlining decision-making on designations and heritage orders
     
-*   Heading: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Heading: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198A Sections 198B to 198G apply to requirements under section 168 or 189
     
@@ -15547,7 +15559,7 @@ Designations and heritage orders
     
     (2) If the notice of requirement is called in under [section 142(2)][340], [sections 198B to 198G][540] cease to apply to it.
     
-    Section 198A: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198A: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198B Requiring authority or heritage protection authority's request
     
@@ -15561,7 +15573,7 @@ Designations and heritage orders
     
     (3) The requiring authority or heritage protection authority must make the request electronically or in writing on the prescribed form.
     
-    Section 198B: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198B: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198C Territorial authority's decision on request
     
@@ -15581,7 +15593,7 @@ Designations and heritage orders
     
     (8) If the territorial authority declines the request under subsection (4) or (5), the requiring authority or heritage protection authority may object to the territorial authority under [section 357][793].
     
-    Section 198C: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198C: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198D Territorial authority's subsequent processing
     
@@ -15607,7 +15619,7 @@ Designations and heritage orders
     
     *   (b) every person who made a submission on the requirement.
     
-    Section 198D: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198D: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198E Environment Court decides
     
@@ -15675,13 +15687,13 @@ Designations and heritage orders
         
         
     
-    Section 198E: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198E: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198F Residual powers of territorial authority
     
 *   The territorial authority that would have dealt with the requirement had the Environment Court not done so under [section 198E][543] has all the functions, duties, and powers in relation to the designation or heritage order resulting from the requirement as if it had dealt with the requirement itself.
     
-    Section 198F: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198F: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198G When territorial authority must deal with requirement
     
@@ -15701,7 +15713,7 @@ Designations and heritage orders
     
     (2) The territorial authority must deal with the requirement.
     
-    Section 198G: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198G: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198H Sections 198I to 198M apply to requirements under section 168A or 189A
     
@@ -15717,7 +15729,7 @@ Designations and heritage orders
     
     (2) If the notice of requirement is called in under [section 142(2)][340], [sections 198I to 198M][547] cease to apply to it.
     
-    Section 198H: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198H: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198I Territorial authority's decision
     
@@ -15729,7 +15741,7 @@ Designations and heritage orders
     
     (2) No submitter has a right to be heard by the territorial authority on a decision under [section 198H][546].
     
-    Section 198I: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198I: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198J Territorial authority's subsequent processing
     
@@ -15749,7 +15761,7 @@ Designations and heritage orders
     
     (4) As soon as is reasonably practicable after the report is prepared, the territorial authority must provide a copy to every person who made a submission on the requirement.
     
-    Section 198J: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198J: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198K Environment Court decides
     
@@ -15805,13 +15817,13 @@ Designations and heritage orders
         
         
     
-    Section 198K: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198K: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198L Residual powers of territorial authority
     
 *   The territorial authority that would have dealt with the requirement had the Environment Court not done so under [section 198K][549] has all the functions, duties, and powers in relation to the designation or heritage order resulting from the requirement as if it had dealt with the requirement itself.
     
-    Section 198L: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198L: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 198M When territorial authority must deal with requirement
     
@@ -15825,7 +15837,7 @@ Designations and heritage orders
     
     (2) The territorial authority must deal with the requirement.
     
-    Section 198M: inserted, on 1 October 2009, by [section 119][1539] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 198M: inserted, on 1 October 2009, by [section 119][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ## Part 9  
 Water conservation orders
@@ -15908,7 +15920,7 @@ Water conservation orders
     
     *   (b) have a chairperson appointed either by the Minister or, if the Minister declines to do so, by the members.
     
-    (2) Every special tribunal shall be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][1430] and there may, if the Minister so directs, be paid to any member of a special tribunal, out of money appropriated by Parliament for the purpose,---
+    (2) Every special tribunal shall be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][1432] and there may, if the Minister so directs, be paid to any member of a special tribunal, out of money appropriated by Parliament for the purpose,---
         
     *   (a) remuneration by way of fees, salary, or allowances in accordance with that Act; and
     
@@ -15918,7 +15930,7 @@ Water conservation orders
     
     (3) A member of a special tribunal is not liable for anything the member does, or omits to do, in good faith in performing or exercising the functions, duties, and powers of the tribunal.
     
-    Section 203(3): inserted, on 1 October 2009, by [section 120][1540] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 203(3): inserted, on 1 October 2009, by [section 120][1542] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 204 Public notification of application
     
@@ -16004,11 +16016,11 @@ Water conservation orders
     
     (7) The closing date for serving submissions on a special tribunal is the 20th working day after notification of the application under [section 204][558] is complete or such later date as is notified under [section 37][89].
     
-    Section 205(2): amended, on 1 October 2009, by [section 121(1)][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 205(2): amended, on 1 October 2009, by [section 121(1)][1543] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 205(2)(b): amended, on 1 October 2009, by [section 121(2)][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 205(2)(b): amended, on 1 October 2009, by [section 121(2)][1543] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 205(2)(c): inserted, on 1 October 2009, by [section 121(2)][1541] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 205(2)(c): inserted, on 1 October 2009, by [section 121(2)][1543] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 206 Conduct of hearing
     
@@ -16024,9 +16036,9 @@ Water conservation orders
     
     (4) Without limiting [sections 39 to 42][95], and [99][254], [100][257], and [101(1), (2), and (3)][259], every inquiry shall be held in public at a place determined by the special tribunal as being near to the water body to which the application relates.
     
-    Section 206(2): repealed, on 1 October 2009, by [section 122(1)][1542] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 206(2): repealed, on 1 October 2009, by [section 122(1)][1544] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 206(3): amended, on 1 October 2009, by [section 122(2)][1542] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 206(3): amended, on 1 October 2009, by [section 122(2)][1544] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 207 Matters to be considered
     
@@ -16038,9 +16050,9 @@ Water conservation orders
     
     *   (c) the relevant provisions of every national policy statement, New Zealand coastal policy statement, regional policy statement, regional plan, district plan, and any proposed plan.
     
-    Section 207: amended, on 7 July 1993, by [section 110(1)][1543] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 207: amended, on 7 July 1993, by [section 110(1)][1545] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 207(c): amended, on 7 July 1993, by [section 110(2)][1543] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 207(c): amended, on 7 July 1993, by [section 110(2)][1545] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 208 Special tribunal to report on application
     
@@ -16120,7 +16132,7 @@ Water conservation orders
     
     *   (e) such other matters as the Environment Court thinks fit.
     
-    Section 212: replaced, on 7 July 1993, by [section 111][1544] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 212: replaced, on 7 July 1993, by [section 111][1546] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 212 heading: amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -16140,7 +16152,7 @@ Water conservation orders
     
     (2) The Environment Court shall ensure that its report is publicly notified in such manner as the Environment Court thinks fit.
     
-    Section 213: replaced, on 7 July 1993, by [section 112][1545] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 213: replaced, on 7 July 1993, by [section 112][1547] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 213 heading: amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -16220,13 +16232,13 @@ Water conservation orders
     
     *   (c) shall, in granting any water permit, coastal permit, or discharge permit to discharge water or contaminants into water, impose such conditions as are necessary to ensure that the provisions of the water conservation order are maintained.
     
-    Section 217(2)(a): amended, on 7 July 1993, by [section 113(1)][1546] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 217(2)(a): amended, on 7 July 1993, by [section 113(1)][1548] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 217(2)(b): amended, on 7 July 1993, by [section 113(2)(a)][1546] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 217(2)(b): amended, on 7 July 1993, by [section 113(2)(a)][1548] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 217(2)(b): amended, on 7 July 1993, by [section 113(2)(b)][1546] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 217(2)(b): amended, on 7 July 1993, by [section 113(2)(b)][1548] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 217(2)(c): amended, on 7 July 1993, by [section 113(3)][1546] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 217(2)(c): amended, on 7 July 1993, by [section 113(3)][1548] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ## Part 10  
 Subdivision and reclamations
@@ -16287,23 +16299,23 @@ Subdivision and reclamations
     
     Section 218(1)(a)(i): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 218(1)(a)(iii): replaced, on 1 August 2003, by [section 69][1547] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 218(1)(a)(iii): replaced, on 1 August 2003, by [section 69][1549] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 218(1)(a)(v): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 218(1)(a)(v): amended, on 7 July 1993, by [section 114(2)][1548] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 218(1)(a)(v): amended, on 7 July 1993, by [section 114(2)][1550] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 218(1)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 218(2)(b)(ii): amended, on 1 July 1994, pursuant to [section 3][1549] of the Land Transfer Amendment Act 1993 (1993 No 124).
+    Section 218(2)(b)(ii): amended, on 1 July 1994, pursuant to [section 3][1551] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 218(4): inserted, on 17 December 1997, by [section 39][1550] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 218(4): inserted, on 17 December 1997, by [section 39][1552] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 219 Information to accompany applications for subdivision consents
     
 *   \[Repealed\]
     
-    Section 219: repealed, on 1 August 2003, by [section 70][1551] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 219: repealed, on 1 August 2003, by [section 70][1553] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 220 Condition of subdivision consents
     
@@ -16347,13 +16359,13 @@ Subdivision and reclamations
     
     (3) Before deciding to grant a subdivision consent on a condition described in subsection (1)(b), the territorial authority shall consult with the Registrar-General of Land as to the practicality of that condition. If the Registrar-General of Land advises the territorial authority that it is not practical to impose a particular condition, the territorial authority shall not grant a subdivision consent subject to that condition, but may if it thinks fit grant a subdivision consent subject to such other conditions under subsection (1)(b) which the Registrar-General of Land advises are practical in the circumstances.
     
-    Section 220(1)(a): replaced, on 7 July 1993, by [section 116][1552] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 220(1)(a): replaced, on 7 July 1993, by [section 116][1554] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 220(1)(aa): inserted, on 7 July 1993, by [section 116][1552] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 220(1)(aa): inserted, on 7 July 1993, by [section 116][1554] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 220(1)(ab): inserted, on 7 July 1993, by [section 116][1552] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 220(1)(ab): inserted, on 7 July 1993, by [section 116][1554] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 220(1)(ac): inserted, on 7 July 1993, by [section 116][1552] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 220(1)(ac): inserted, on 7 July 1993, by [section 116][1554] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 220(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -16373,21 +16385,21 @@ Subdivision and reclamations
     
     (4) Every consent notice shall be deemed---
         
-    *   (a) to be an instrument creating an interest in the land within the meaning of [section 62][1328] of the Land Transfer Act 1952, and may be registered accordingly; and
+    *   (a) to be an instrument creating an interest in the land within the meaning of [section 62][1330] of the Land Transfer Act 1952, and may be registered accordingly; and
     
-    *   (b) to be a covenant running with the land when registered under the [Land Transfer Act 1952][962], and shall, notwithstanding anything to the contrary in [section 105][1329] of the Land Transfer Act 1952, bind all subsequent owners of the land.
+    *   (b) to be a covenant running with the land when registered under the [Land Transfer Act 1952][962], and shall, notwithstanding anything to the contrary in [section 105][1331] of the Land Transfer Act 1952, bind all subsequent owners of the land.
     
     (5) Where a consent notice has been registered under the [Land Transfer Act 1952][962] and any condition in that notice has been varied or cancelled after an application or review under subsection (3) or has expired, the Registrar-General of Land shall, if he or she is satisfied that any condition in that notice has been so varied or cancelled or has expired, make an entry in the register and on any relevant instrument of title noting that the consent notice has been varied or cancelled or has expired, and the condition in the consent notice shall take effect as so varied or cease to have any effect, as the case may be.
     
-    Section 221(2): replaced, on 1 October 2009, by [section 123][1553] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 221(2): replaced, on 1 October 2009, by [section 123][1555] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 221(3): replaced, on 10 August 2005, by [section 92(1)][1554] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 221(3): replaced, on 10 August 2005, by [section 92(1)][1556] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 221(3A): inserted, on 10 August 2005, by [section 92(1)][1554] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 221(3A): inserted, on 10 August 2005, by [section 92(1)][1556] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 221(5): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 221(5): amended, on 10 August 2005, by [section 92(2)][1554] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 221(5): amended, on 10 August 2005, by [section 92(2)][1556] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 222 Completion certificates
     
@@ -16401,13 +16413,13 @@ Subdivision and reclamations
     
     (5) In this section, the term _work_ includes anything, whether in the nature of works or otherwise, required by the territorial authority to be done by the owner as a condition of a subdivision consent; but does not include contributions of money or land (including esplanade reserves and esplanade strips) as a condition of a subdivision consent.
     
-    Section 222(1): amended, on 17 December 1997, by [section 40(a)][1555] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 222(1): amended, on 17 December 1997, by [section 40(a)][1557] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 222(1): amended, on 17 December 1997, by [section 40(b)][1555] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 222(1): amended, on 17 December 1997, by [section 40(b)][1557] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 222(3): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 222(5): amended, on 7 July 1993, by [section 117][1556] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 222(5): amended, on 7 July 1993, by [section 117][1558] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Approval and deposit of survey plans
 
@@ -16445,23 +16457,23 @@ Subdivision and reclamations
         
         
     
-    (5) A certificate under subsection (3) is conclusive evidence that all roads, private roads, reserves, land vested in the authority in lieu of reserves, and private ways shown on the survey plan have been authorised and accepted by the territorial authority under this Act and under the [Local Government Act 1974][1557].
+    (5) A certificate under subsection (3) is conclusive evidence that all roads, private roads, reserves, land vested in the authority in lieu of reserves, and private ways shown on the survey plan have been authorised and accepted by the territorial authority under this Act and under the [Local Government Act 1974][1559].
     
     (6) Nothing in subsection (3) affects any obligation of the subdividing owner under any condition of a subdivision consent or bond entered into relating to the subdivision.
     
-    Section 223(1A): inserted, on 1 August 2003, by [section 71][1558] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 223(1A): inserted, on 1 August 2003, by [section 71][1560] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 223(2): amended, on 7 July 1993, by [section 118][1559] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 223(2): amended, on 7 July 1993, by [section 118][1561] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 223(3): replaced, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 223(3): replaced, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
     Section 223(3): amended, on 1 July 2003, by [section 262][980] of the Local Government Act 2002 (2002 No 84).
     
-    Section 223(4): replaced, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 223(4): replaced, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 223(5): inserted, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 223(5): inserted, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 223(6): inserted, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 223(6): inserted, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 224 Restrictions upon deposit of survey plan
     
@@ -16473,7 +16485,7 @@ Subdivision and reclamations
             
         *   (i) in the case of land subject to the [Land Transfer Act 1952][962], every registered proprietor of an interest, including any encumbrance, in the land; or
         
-        *   (ii) in the case of land not subject to that Act, every person having an interest, including any encumbrance, in the land that is evidenced by an instrument registered under the [Deeds Registration Act 1908][1561]; and
+        *   (ii) in the case of land not subject to that Act, every person having an interest, including any encumbrance, in the land that is evidenced by an instrument registered under the [Deeds Registration Act 1908][1563]; and
         
         
     
@@ -16489,59 +16501,59 @@ Subdivision and reclamations
     
     *   (d) there is lodged for registration with the Registrar-General of Land a consent notice in respect of any conditions of a kind referred to in paragraph (c)(ii); and
     
-    *   (e) in relation to any unit plan, the requirements of the [Unit Titles Act 2010][1562] relating to the deposit of a unit plan have been complied with; and
+    *   (e) in relation to any unit plan, the requirements of the [Unit Titles Act 2010][1564] relating to the deposit of a unit plan have been complied with; and
     
-    *   (f) in the case of a subdivision of land to be effected by the grant of a cross lease or company lease, or by the deposit of a unit plan, the territorial authority is satisfied on reasonable grounds that every existing building or part of an existing building (including any building or part thereof under construction) to which the cross lease, company lease, or unit title plan relates complies with or will comply with the provisions of the building code described in [section 116A][1563] of the Building Act 2004, and a certificate signed by a person authorised by the territorial authority to sign such certificates is lodged with the Registrar-General of Land; and
+    *   (f) in the case of a subdivision of land to be effected by the grant of a cross lease or company lease, or by the deposit of a unit plan, the territorial authority is satisfied on reasonable grounds that every existing building or part of an existing building (including any building or part thereof under construction) to which the cross lease, company lease, or unit title plan relates complies with or will comply with the provisions of the building code described in [section 116A][1565] of the Building Act 2004, and a certificate signed by a person authorised by the territorial authority to sign such certificates is lodged with the Registrar-General of Land; and
     
     *   (g) where land is shown upon the survey plan to be subject to an esplanade strip, there is lodged for registration with the Registrar-General of Land an instrument creating that strip; and
     
     *   (h) less than 3 years has elapsed since the territorial authority approved the plan under [section 223][579].
     
-    Section 224: amended, on 1 October 2009, by [section 124(1)][1564] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 224: amended, on 1 October 2009, by [section 124(1)][1566] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 224(a): repealed, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 224(a): repealed, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
     Section 224(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 224(b)(i): amended, on 7 July 1993, by [section 119(1)(a)][1565] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 224(b)(i): amended, on 7 July 1993, by [section 119(1)(a)][1567] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 224(b)(ii): amended, on 7 July 1993, by [section 119(1)(b)][1565] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 224(b)(ii): amended, on 7 July 1993, by [section 119(1)(b)][1567] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 224(c): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 224(c): amended, on 1 July 2003, by [section 262][980] of the Local Government Act 2002 (2002 No 84).
     
-    Section 224(c): amended, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 224(c): amended, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 224(c): amended, on 7 July 1993, by [section 119(2)(a)][1565] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 224(c): amended, on 7 July 1993, by [section 119(2)(a)][1567] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 224(c)(iii): amended, on 17 December 1997, by [section 42(1)][1566] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 224(c)(iii): amended, on 17 December 1997, by [section 42(1)][1568] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 224(d): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 224(d): amended, on 7 July 1993, by [section 119(2)(b)][1565] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 224(d): amended, on 7 July 1993, by [section 119(2)(b)][1567] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 224(e): amended, on 20 June 2011, by [section 233(1)][988] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 224(e): amended, on 7 July 1993, by [section 119(2)(b)][1565] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 224(e): amended, on 7 July 1993, by [section 119(2)(b)][1567] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 224(f): replaced, on 7 July 1993, by [section 119(3)][1565] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 224(f): replaced, on 7 July 1993, by [section 119(3)][1567] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 224(f): amended, on 1 October 2009, by [section 124(2)][1564] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 224(f): amended, on 1 October 2009, by [section 124(2)][1566] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 224(f): amended, on 14 April 2005, by [section 14(2)][1567] of the Building Amendment Act 2005 (2005 No 31).
+    Section 224(f): amended, on 14 April 2005, by [section 14(2)][1569] of the Building Amendment Act 2005 (2005 No 31).
     
     Section 224(f): amended, on 31 March 2005, by [section 414][1015] of the Building Act 2004 (2004 No 72).
     
-    Section 224(f): amended, on 17 December 1997, by [section 42(2)][1566] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 224(f): amended, on 17 December 1997, by [section 42(2)][1568] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 224(g): inserted, on 7 July 1993, by [section 119(3)][1565] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 224(g): inserted, on 7 July 1993, by [section 119(3)][1567] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 224(g): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 224(g): amended, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 224(g): amended, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 224(h): inserted, on 1 June 2002, by [section 65(4)][1560] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 224(h): inserted, on 1 June 2002, by [section 65(4)][1562] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 225 Agreement to sell land or building before deposit of plan
     
@@ -16561,15 +16573,15 @@ Subdivision and reclamations
         
     *   (a) the plan has been deposited in accordance with [section 224][580] or has been approved by the Chief Surveyor for the purposes of [section 228][585] and the provisions of section 228(2) have been complied with; or
     
-    *   (b) the plan has been deposited in accordance with [section 306][1568] of the Local Government Act 1974 or was a Crown plan to which [section 306(7)][1568] of the Local Government Act 1974 applied; or
+    *   (b) the plan has been deposited in accordance with [section 306][1570] of the Local Government Act 1974 or was a Crown plan to which [section 306(7)][1570] of the Local Government Act 1974 applied; or
     
     *   (ba) the plan has been approved under Part 25 of the Municipal Corporations Act 1954; or
     
-    *   (bb) the plan has been approved under [Part 2][1569] of the Counties Amendment Act 1961; or
+    *   (bb) the plan has been approved under [Part 2][1571] of the Counties Amendment Act 1961; or
     
-    *   (bc) the plan did not require the approval of the Council under [Part 2][1569] of the Counties Amendment Act 1961 and was deposited under the [Land Transfer Act 1952][962] after the said Part 2 came into force; or
+    *   (bc) the plan did not require the approval of the Council under [Part 2][1571] of the Counties Amendment Act 1961 and was deposited under the [Land Transfer Act 1952][962] after the said Part 2 came into force; or
     
-    *   (c) the plan has been deposited in accordance with the [Unit Titles Act 2010][1562]; or
+    *   (c) the plan has been deposited in accordance with the [Unit Titles Act 2010][1564]; or
     
     *   (d) the certificate of title is issued to enable effect to be given to any agreement for sale and purchase or agreement to lease or other contract to create an interest in land or a building or part of a building made before the commencement of this Act; or
     
@@ -16585,19 +16597,19 @@ Subdivision and reclamations
     
     (2) Nothing in [section 11][22] shall apply to the issue of a certificate of title pursuant to subsection (1).
     
-    Section 226 heading: amended, on 7 July 1993, by [section 120][1570] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 226 heading: amended, on 7 July 1993, by [section 120][1572] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 226(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 226(1)(ba): inserted, on 7 July 1993, by [section 120][1570] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 226(1)(ba): inserted, on 7 July 1993, by [section 120][1572] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 226(1)(bb): inserted, on 7 July 1993, by [section 120][1570] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 226(1)(bb): inserted, on 7 July 1993, by [section 120][1572] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 226(1)(bc): inserted, on 7 July 1993, by [section 120][1570] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 226(1)(bc): inserted, on 7 July 1993, by [section 120][1572] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 226(1)(c): amended, on 20 June 2011, by [section 233(1)][988] of the Unit Titles Act 2010 (2010 No 22).
     
-    Section 226(1)(e): amended, on 1 August 2003, by [section 72][1571] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 226(1)(e): amended, on 1 August 2003, by [section 72][1573] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 226A Savings in respect of cross leases, company leases, and retirement village leases
     
@@ -16619,11 +16631,11 @@ Subdivision and reclamations
     
     (3) For the purposes of this section, _retirement village premises_ means premises (including any land and associated buildings) within a complex of premises for occupation as residences predominantly by persons who are retired and any spouses or partners of such persons.
     
-    Section 226A: inserted, on 7 July 1993, by [section 121][1572] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 226A: inserted, on 7 July 1993, by [section 121][1574] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 226A(1)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 226A(1)(c): inserted, on 1 August 2003, by [section 73][1573] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 226A(1)(c): inserted, on 1 August 2003, by [section 73][1575] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 226A(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -16643,9 +16655,9 @@ Subdivision and reclamations
     
     (2) Subsection (1) does not apply to the deposit of a unit plan, or to a survey plan which gives effect to the grant of a lease to which [section 218(1)(a)(iii)][573] applies, or a cross lease or company lease.
     
-    Section 227(1): amended, on 17 December 1997, by [section 43][1574] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 227(1): amended, on 17 December 1997, by [section 43][1576] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 227(2): inserted, on 7 July 1993, by [section 122][1575] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 227(2): inserted, on 7 July 1993, by [section 122][1577] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 228 Subdivision by the Crown
     
@@ -16655,23 +16667,23 @@ Subdivision and reclamations
     
     *   (b) the land is then deemed to be subject to the [Land Transfer Act 1952][962] and, subject to subsection (2), a certificate of title for the land may be issued by the Registrar-General of Land in the name of Her Majesty the Queen at the request of---
             
-        *   (i) the Director-General of Conservation if the land is a conservation area within the meaning of the [Conservation Act 1987][918], or a reserve under the [Reserves Act 1977][931], or a national park under the [National Parks Act 1980][953], or a wildlife sanctuary or wildlife refuge under the [Wildlife Act 1953][1576]; or
+        *   (i) the Director-General of Conservation if the land is a conservation area within the meaning of the [Conservation Act 1987][918], or a reserve under the [Reserves Act 1977][931], or a national park under the [National Parks Act 1980][953], or a wildlife sanctuary or wildlife refuge under the [Wildlife Act 1953][1578]; or
         
         *   (ii) the Surveyor-General or other officer authorised in writing by the Surveyor-General in every other case---
         
-        as if [section 16][1577] of the Land Transfer Act 1952 applied.
+        as if [section 16][1579] of the Land Transfer Act 1952 applied.
     
     (2) [Section 224][580] shall apply, with all necessary modifications, to a survey plan to which this section applies and the Registrar-General of Land shall not issue a certificate of title for any land that is shown as a separate allotment on a survey plan approved by a Chief Surveyor unless [section 224][580] is complied with.
     
-    Section 228(1): amended, on 7 July 1993, by [section 123(1)][1578] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 228(1): amended, on 7 July 1993, by [section 123(1)][1580] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 228(1)(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 228(1)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 228(1)(b)(i): amended, on 7 July 1993, by [section 123(2)][1578] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 228(1)(b)(i): amended, on 7 July 1993, by [section 123(2)][1580] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 228(1)(b)(ii): amended, on 7 July 1993, by [section 123(3)][1578] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 228(1)(b)(ii): amended, on 7 July 1993, by [section 123(3)][1580] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 228(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -16699,7 +16711,7 @@ Subdivision and reclamations
     
     *   (c) to enable public recreational use of the esplanade reserve or esplanade strip and adjacent sea, river, or lake, where the use is compatible with conservation values.
     
-    Section 229: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 229: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 230 Requirement for esplanade reserves or esplanade strips
     
@@ -16713,7 +16725,7 @@ Subdivision and reclamations
     
     (5) If any rule made under [section 77(2)][173] so requires, but subject to any resource consent which waives, or reduces the width of, the esplanade reserve or esplanade strip, where any allotment of 4 hectares or more is created when land is subdivided, an esplanade reserve or esplanade strip shall be set aside or created from that allotment along the mark of mean high water springs of the sea and along the bank of any river and along the margin of any lake, and shall vest in accordance with [section 231][589] or be created in accordance with [section 232][590], as the case may be.
     
-    Section 230: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 230: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 230(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -16729,7 +16741,7 @@ Subdivision and reclamations
     
     (3) Every survey plan submitted to the territorial authority under [section 223][579] shall show the area of land to be so set aside.
     
-    Section 231: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 231: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 232 Creation of esplanade strips
     
@@ -16753,7 +16765,7 @@ Subdivision and reclamations
     
     (4) When deciding under [section 220(1)(a)][575] which matters shall be provided for in the instrument, the territorial authority shall consider---
         
-    *   (a) which provisions in [clauses 2][1580], [3][1581], and [7][1582] of Schedule 10 (if any) to modify (including the imposition of conditions) or to exclude from the instrument; and
+    *   (a) which provisions in [clauses 2][1582], [3][1583], and [7][1584] of Schedule 10 (if any) to modify (including the imposition of conditions) or to exclude from the instrument; and
     
     *   (b) any other matters that the territorial authority considers appropriate to include in the instrument.
     
@@ -16771,7 +16783,7 @@ Subdivision and reclamations
     
     *   (f) the management of any reserve in the vicinity.
     
-    Section 232: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 232: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 232(2)(e): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -16787,7 +16799,7 @@ Subdivision and reclamations
     
     (5) Any person having an interest in land affected by the new esplanade strip created under subsection (1) shall be bound by the instrument applying to that strip.
     
-    Section 233: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 233: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 234 Variation or cancellation of esplanade strips
     
@@ -16821,7 +16833,7 @@ Subdivision and reclamations
     
     (8) The Registrar-General of Land shall make an appropriate entry in the register and on the instrument noting that the instrument has been varied or cancelled, and the instrument shall take effect as so varied or cease to have any effect, as the case may be.
     
-    Section 234: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 234: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 234(7): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -16835,11 +16847,11 @@ Subdivision and reclamations
     
     (2) No instrument for an esplanade strip by agreement may be registered with the Registrar-General of Land unless every person having a registered interest in the land has endorsed his or her consent on the instrument.
     
-    Section 235: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 235: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 235(1): amended, on 1 August 2003, by [section 74][1583] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 235(1): amended, on 1 August 2003, by [section 74][1585] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 235(1): amended, on 17 December 1997, by [section 44][1584] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 235(1): amended, on 17 December 1997, by [section 44][1586] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 235(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -16849,11 +16861,11 @@ Subdivision and reclamations
         
     *   (a) land along the mean high water mark or the mark of mean high water springs of the sea, or along the bank of any river, or along the margin of any lake, has---
             
-        *   (i) been set aside as an esplanade reserve under this Part, or has been reserved for the purpose specified in [section 289][1585] of the Local Government Act 1974, or for public purposes pursuant to [section 29(1)][1586] of the Counties Amendment Act 1961 or section 11 of the Land Subdivision in Counties Act 1946; or
+        *   (i) been set aside as an esplanade reserve under this Part, or has been reserved for the purpose specified in [section 289][1587] of the Local Government Act 1974, or for public purposes pursuant to [section 29(1)][1588] of the Counties Amendment Act 1961 or section 11 of the Land Subdivision in Counties Act 1946; or
         
         *   (ii) been set aside or reserved for public recreation purposes pursuant to any other enactment (whether passed before or after the commencement of this Act and whether or not in force at the commencement of this Act); or
         
-        *   (iii) been reserved from sale or other disposition pursuant to [section 24][1587] of the Conservation Act 1987, or [section 58][1588] of the Land Act 1948, or the corresponding provisions of any former Act; and
+        *   (iii) been reserved from sale or other disposition pursuant to [section 24][1589] of the Conservation Act 1987, or [section 58][1590] of the Land Act 1948, or the corresponding provisions of any former Act; and
         
         
     
@@ -16871,9 +16883,9 @@ Subdivision and reclamations
         
         
     
-    Section 236: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 236: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 236: amended, on 17 December 1997, by [section 45][1589] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 236: amended, on 17 December 1997, by [section 45][1591] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 237 Approval of survey plans where esplanade reserve or esplanade strips required
     
@@ -16897,7 +16909,7 @@ Subdivision and reclamations
     
     (5) Subject to this section, nothing in [section 11][22] or this Part applies to a separate survey plan approved by a territorial authority under this section.
     
-    Section 237: replaced, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237: replaced, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 237(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -16919,7 +16931,7 @@ Subdivision and reclamations
     
     (2) Any requirement to vest the bed under subsection (1)(a)(i) shall be subject to any rule in a district plan or any resource consent which provides otherwise.
     
-    Section 237A: inserted, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237A: inserted, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 237A heading: replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
@@ -16941,7 +16953,7 @@ Subdivision and reclamations
     
     (3) When deciding which matters shall be provided for in the easement, the parties shall consider---
         
-    *   (a) which provisions in [clauses 2][1580], [3][1581], and [7][1582] of Schedule 10 (if any) to modify (including by the imposition of conditions) or to exclude from the easement; and
+    *   (a) which provisions in [clauses 2][1582], [3][1583], and [7][1584] of Schedule 10 (if any) to modify (including by the imposition of conditions) or to exclude from the easement; and
     
     *   (b) any other matters that the local authority and registered proprietor consider appropriate to include in the easement.
     
@@ -16967,7 +16979,7 @@ Subdivision and reclamations
     
     (8) The registered proprietor and the local authority may, by agreement, vary or cancel the easement if the matters in subsection (4) and any change in circumstances have been taken into account; and in any such case the provisions of [section 234(7) and (8)][592] shall apply, with all necessary modifications.
     
-    Section 237B: inserted, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237B: inserted, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 237B(5): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -16979,7 +16991,7 @@ Subdivision and reclamations
     
     (2) The local authority shall ensure, where practicable, that any closure specified in the instrument or easement, or any closure for safety or emergency reasons, is adequately notified (including notification that it is an offence to enter the strip during the period of closure) to the public by signs erected at all entry points to the strip, unless the instrument or easement provides that another person is responsible for such notification.
     
-    Section 237C: inserted, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237C: inserted, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 237D Transfers to the Crown or regional council
     
@@ -16995,9 +17007,9 @@ Subdivision and reclamations
     
     (3) The notice shall be registered in the office of the Registrar-General of Land.
     
-    Section 237D: inserted, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237D: inserted, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 237D(1): amended, on 10 August 2005, by [section 94][1590] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 237D(1): amended, on 10 August 2005, by [section 94][1592] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 237D(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -17007,13 +17019,13 @@ Subdivision and reclamations
     
     (2) Where an esplanade reserve or esplanade strip of a width greater than 20 metres is required to be set aside on an allotment of less than 4 hectares created when land is subdivided, the territorial authority shall pay compensation for the area of the esplanade reserve or esplanade strip above 20 metres, to the registered proprietor of that allotment, unless the registered proprietor agrees otherwise.
     
-    Section 237E: inserted, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237E: inserted, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 237F Compensation for taking of esplanade reserves or strips on allotments of 4 hectares or more
     
 *   Where any esplanade reserve or esplanade strip of any width is required to be set aside or created on an allotment of 4 hectares or more created when land is subdivided, the territorial authority shall pay to the registered proprietor of that allotment compensation for any esplanade reserve or any interest in land taken for any esplanade strip, unless the registered proprietor agrees otherwise.
     
-    Section 237F: inserted, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237F: inserted, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 237G Compensation
     
@@ -17047,13 +17059,13 @@ Subdivision and reclamations
     
     (2) The territorial authority or Crown, as the case may be, or the registered proprietor who is dissatisfied with the determination under subsection (1) may, within 20 working days after service of the determination, object to the determination to the registered valuer in writing, stating the grounds of objection.
     
-    (3) [Sections 34][1591], [35][1592], [36][1593], and [38][1594] of the Rating Valuations Act 1998 (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if---
+    (3) [Sections 34][1593], [35][1594], [36][1595], and [38][1596] of the Rating Valuations Act 1998 (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if---
         
     *   (a) the registered valuer had been appointed by a territorial authority to review the objection; and
     
-    *   (b) the review had been made under [section 34][1591] of that Act; and
+    *   (b) the review had been made under [section 34][1593] of that Act; and
     
-    *   (c) the references to a territorial authority in [sections 34(4)][1591], [35][1592], and [36][1593] of that Act were references to the registered valuer.
+    *   (c) the references to a territorial authority in [sections 34(4)][1593], [35][1594], and [36][1595] of that Act were references to the registered valuer.
     
     (4) For the purposes of this section and of [sections 237E to 237G][600], the amount of compensation shall be equal to---
         
@@ -17063,13 +17075,13 @@ Subdivision and reclamations
     
     and any additional survey costs incurred by reason of the esplanade reserve or esplanade strip, as the case may be, as at the date of the deposit of the survey plan.
     
-    Section 237H: inserted, on 7 July 1993, by [section 124][1579] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 237H: inserted, on 7 July 1993, by [section 124][1581] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 237H(1): amended, on 1 July 1998, by [section 54(1)][1595] of the Ratings Valuations Act 1998 (1998 No 69).
+    Section 237H(1): amended, on 1 July 1998, by [section 54(1)][1597] of the Ratings Valuations Act 1998 (1998 No 69).
     
-    Section 237H(2): replaced, on 1 July 1998, by [section 54(1)][1595] of the Ratings Valuations Act 1998 (1998 No 69).
+    Section 237H(2): replaced, on 1 July 1998, by [section 54(1)][1597] of the Ratings Valuations Act 1998 (1998 No 69).
     
-    Section 237H(3): replaced, on 1 July 1998, by [section 54(1)][1595] of the Ratings Valuations Act 1998 (1998 No 69).
+    Section 237H(3): replaced, on 1 July 1998, by [section 54(1)][1597] of the Ratings Valuations Act 1998 (1998 No 69).
 
 #### Vesting of roads and reserves
 
@@ -17085,9 +17097,9 @@ Subdivision and reclamations
     
     *   (d) in the case of any other road, in the territorial authority.
     
-    (2) This section has effect notwithstanding [section 168][1596] of the Land Transfer Act 1952 (which relates to the dedication of roads for public purposes).
+    (2) This section has effect notwithstanding [section 168][1598] of the Land Transfer Act 1952 (which relates to the dedication of roads for public purposes).
     
-    Section 238: amended, on 7 July 1993, by [section 125][1597] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 238: amended, on 7 July 1993, by [section 125][1599] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 238(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -17105,21 +17117,21 @@ Subdivision and reclamations
     
     (2) Notwithstanding subsection (1), the land may be vested subject to any specified interest which the territorial authority has certified, on the survey plan, shall remain with the land.
     
-    (3) Any land vested in the Crown vests under the [Land Act 1948][1598] unless this Act provides otherwise.
+    (3) Any land vested in the Crown vests under the [Land Act 1948][1600] unless this Act provides otherwise.
     
     Section 239(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 239(1)(a): amended, on 7 July 1993, by [section 126(1)(a)][1599] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 239(1)(a): amended, on 7 July 1993, by [section 126(1)(a)][1601] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 239(1)(b): amended, on 7 July 1993, by [section 126(1)(b)][1599] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 239(1)(b): amended, on 7 July 1993, by [section 126(1)(b)][1601] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 239(1)(b): amended, on 7 July 1993, by [section 126(1)(c)][1599] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 239(1)(b): amended, on 7 July 1993, by [section 126(1)(c)][1601] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 239(1)(c): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
     Section 239(1)(d): inserted, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 239(2): inserted, on 7 July 1993, by [section 126(3)][1599] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 239(2): inserted, on 7 July 1993, by [section 126(3)][1601] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 239(3): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -17143,7 +17155,7 @@ Subdivision and reclamations
     
     (3) Every covenant referred to in subsection (1) shall be in writing, be signed by the owner, be signed by the chief executive or other authorised officer of the territorial authority, and be deemed---
         
-    *   (a) to be an instrument capable of registration under the [Land Transfer Act 1952][962] and, when so registered, to create in favour of the territorial authority an interest in the land in respect of which it is registered, within the meaning of [section 62][1328] of that Act; and
+    *   (a) to be an instrument capable of registration under the [Land Transfer Act 1952][962] and, when so registered, to create in favour of the territorial authority an interest in the land in respect of which it is registered, within the meaning of [section 62][1330] of that Act; and
     
     *   (b) to run with the land and bind subsequent owners.
     
@@ -17161,13 +17173,13 @@ Subdivision and reclamations
     
     Section 240(3): amended, on 1 July 2003, by [section 262][980] of the Local Government Act 2002 (2002 No 84).
     
-    Section 240(3): amended, on 17 December 1997, by [section 46(1)][1600] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 240(3): amended, on 17 December 1997, by [section 46(1)][1602] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 240(4): inserted, on 7 July 1993, by [section 127][1601] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 240(4): inserted, on 7 July 1993, by [section 127][1603] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 240(5): inserted, on 7 July 1993, by [section 127][1601] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 240(5): inserted, on 7 July 1993, by [section 127][1603] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 240(5)(b): replaced, on 17 December 1997, by [section 46(2)][1600] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 240(5)(b): replaced, on 17 December 1997, by [section 46(2)][1602] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 240(5)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -17205,15 +17217,15 @@ Subdivision and reclamations
     
     Section 241(1)(c): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 241(2): amended, on 7 July 1993, by [section 128(1)][1602] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 241(2): amended, on 7 July 1993, by [section 128(1)][1604] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 241(2)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 241(3): inserted, on 7 July 1993, by [section 128(2)][1602] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 241(3): inserted, on 7 July 1993, by [section 128(2)][1604] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 241(4): inserted, on 7 July 1993, by [section 128(2)][1602] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 241(4): inserted, on 7 July 1993, by [section 128(2)][1604] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 241(4)(b): replaced, on 17 December 1997, by [section 47][1603] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 241(4)(b): replaced, on 17 December 1997, by [section 47][1605] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 241(4)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -17245,7 +17257,7 @@ Subdivision and reclamations
     
     Section 242(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 242(3): inserted, on 7 July 1993, by [section 129][1604] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 242(3): inserted, on 7 July 1993, by [section 129][1606] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 242(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -17283,17 +17295,17 @@ Subdivision and reclamations
         
         
     
-    Section 243: amended, on 7 July 1993, by [section 130(1)][1605] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 243: amended, on 7 July 1993, by [section 130(1)][1607] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 243(a)(iii): amended, on 7 July 1993, by [section 130(2)][1605] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 243(a)(iii): amended, on 7 July 1993, by [section 130(2)][1607] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 243(c): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 243(d): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 243(f): replaced, on 7 July 1993, by [section 130(3)][1605] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 243(f): replaced, on 7 July 1993, by [section 130(3)][1607] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 243(f)(ii): replaced, on 17 December 1997, by [section 48][1606] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 243(f)(ii): replaced, on 17 December 1997, by [section 48][1608] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 243(f)(ii): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -17317,7 +17329,7 @@ Subdivision and reclamations
     
 *   (1) The holder of every resource consent granted for a reclamation shall as soon as reasonably practicable after completion of the reclamation, submit to the consent authority for its approval a plan of survey in respect of the land that has been reclaimed.
     
-    (2) The plan of survey referred to in subsection (1) shall be prepared in accordance with regulations made under the [Cadastral Survey Act 2002][1607] relating to survey plans within the meaning of those regulations, and shall show and define---
+    (2) The plan of survey referred to in subsection (1) shall be prepared in accordance with regulations made under the [Cadastral Survey Act 2002][1609] relating to survey plans within the meaning of those regulations, and shall show and define---
         
     *   (a) the area reclaimed, including its location and the position of all new boundaries; and
     
@@ -17355,17 +17367,17 @@ Subdivision and reclamations
     
     Section 245(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 245(2)(b): replaced, on 7 July 1993, by [section 131(1)][1608] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 245(2)(b): replaced, on 7 July 1993, by [section 131(1)][1610] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 245(3): repealed, on 7 July 1993, by [section 131(2)][1608] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 245(3): repealed, on 7 July 1993, by [section 131(2)][1610] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 245(4)(c)(i): amended, on 17 December 1997, by [section 49(a)][1609] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 245(4)(c)(i): amended, on 17 December 1997, by [section 49(a)][1611] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 245(4)(c)(ii): amended, on 17 December 1997, by [section 49(b)][1609] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 245(4)(c)(ii): amended, on 17 December 1997, by [section 49(b)][1611] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 245(5): replaced, on 1 October 2009, by [section 125(1)][1610] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 245(5): replaced, on 1 October 2009, by [section 125(1)][1612] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 245(6): amended, on 1 October 2009, by [section 125(2)][1610] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 245(6): amended, on 1 October 2009, by [section 125(2)][1612] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 246 Restrictions on deposit of plan of survey for reclamation
     
@@ -17379,19 +17391,19 @@ Subdivision and reclamations
     
     (3) On the deposit of a plan of survey under the [Land Transfer Act 1952][962] or by the Registrar-General of Land, the land shown on that plan as esplanade reserve shall be deemed to be set apart and vested in the Crown as local purpose reserve within the meaning of [section 23][932] of the Reserves Act 1977 for the purposes described in [section 229][587] of this Act.
     
-    (4) Subsection (3) shall apply notwithstanding [section 167][1611] of the Land Act 1948\.
+    (4) Subsection (3) shall apply notwithstanding [section 167][1613] of the Land Act 1948\.
     
     Section 246(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 246(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 246(2)(b): amended, on 1 October 2009, by [section 126][1612] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 246(2)(b): amended, on 1 October 2009, by [section 126][1614] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 246(2)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 246(3): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 246(3): amended, on 7 July 1993, by [section 132][1613] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 246(3): amended, on 7 July 1993, by [section 132][1615] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ## Part 11  
 Environment Court
@@ -17458,19 +17470,19 @@ Environment Court
     
     Section 250 heading: amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 250(1): amended, on 20 May 2004, by [section 3(1)][1614] of the Resource Management Amendment Act 2004 (2004 No 46).
+    Section 250(1): amended, on 20 May 2004, by [section 3(1)][1616] of the Resource Management Amendment Act 2004 (2004 No 46).
     
     Section 250(1): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 250(2): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 250(3)(a): amended, on 1 October 2009, by [section 127][1615] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 250(3)(a): amended, on 1 October 2009, by [section 127][1617] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 250(3)(a): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 250(3)(b): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 250(4): inserted, on 20 May 2004, by [section 3(2)][1614] of the Resource Management Amendment Act 2004 (2004 No 46).
+    Section 250(4): inserted, on 20 May 2004, by [section 3(2)][1616] of the Resource Management Amendment Act 2004 (2004 No 46).
 
 ##### 251 Principal Environment Judge
     
@@ -17480,7 +17492,7 @@ Environment Court
     
     Section 251 heading: amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 251(1): amended, on 20 May 2004, by [section 4][1616] of the Resource Management Amendment Act 2004 (2004 No 46).
+    Section 251(1): amended, on 20 May 2004, by [section 4][1618] of the Resource Management Amendment Act 2004 (2004 No 46).
     
     Section 251(1): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -17504,7 +17516,7 @@ Environment Court
     
     *   (b) may for that purpose exercise all the powers of the Principal Environment Judge.
     
-    Section 251A: inserted, on 10 August 2005, by [section 95][1617] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 251A: inserted, on 10 August 2005, by [section 95][1619] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 252 When an alternate Environment Judge may act
     
@@ -17542,13 +17554,13 @@ Environment Court
     
     Section 253 heading: amended, on 2 September 1996, pursuant to [section 6(2)(c)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 253: amended, on 20 September 2007, by [section 4][1618] of the Resource Management Amendment Act 2007 (2007 No 77).
+    Section 253: amended, on 20 September 2007, by [section 4][1620] of the Resource Management Amendment Act 2007 (2007 No 77).
     
     Section 253: amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 253: amended, on 2 September 1996, pursuant to [section 6(2)(c)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 253(da): inserted, on 2 September 1996, by [section 8][1619] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 253(da): inserted, on 2 September 1996, by [section 8][1621] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 254 Appointment of Environment Commissioner or Deputy Environment Commissioner
     
@@ -17562,7 +17574,7 @@ Environment Court
     
     Section 254 heading: amended, on 2 September 1996, pursuant to [section 6(2)(c)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 254(1): amended, on 20 May 2004, by [section 5][1620] of the Resource Management Amendment Act 2004 (2004 No 46).
+    Section 254(1): amended, on 20 May 2004, by [section 5][1622] of the Resource Management Amendment Act 2004 (2004 No 46).
     
     Section 254(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -17570,9 +17582,9 @@ Environment Court
     
     Section 254(2): amended, on 2 September 1996, pursuant to [section 6(2)(c)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 254(3): replaced, on 2 September 1996, by [section 9][1621] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 254(3): replaced, on 2 September 1996, by [section 9][1623] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 254(4): inserted, on 2 September 1996, by [section 9][1621] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 254(4): inserted, on 2 September 1996, by [section 9][1623] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 255 When a Deputy Environment Commissioner may act
     
@@ -17590,7 +17602,7 @@ Environment Court
     
     Section 255(1)(a): amended, on 2 September 1996, pursuant to [section 6(2)(c)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 255(1)(a): amended, on 2 September 1996, by [section 10][1622] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 255(1)(a): amended, on 2 September 1996, by [section 10][1624] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 255(1)(b): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -17614,7 +17626,7 @@ Environment Court
     
 *   An Environment Judge, alternate Environment Judge, Environment Commissioner, or Deputy Environment Commissioner may resign his or her office as such by giving written notice to the Attorney-General.
     
-    Section 257: amended, on 20 May 2004, by [section 6][1623] of the Resource Management Amendment Act 2004 (2004 No 46).
+    Section 257: amended, on 20 May 2004, by [section 6][1625] of the Resource Management Amendment Act 2004 (2004 No 46).
     
     Section 257: amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -17662,7 +17674,7 @@ Environment Court
     
     (2) The Registrar, a Deputy Registrar, and every other person assisting the court shall---
         
-    *   (a) be appointed under the [State Sector Act 1988][1624]; and
+    *   (a) be appointed under the [State Sector Act 1988][1626]; and
     
     *   (b) be officers of the court.
     
@@ -17672,15 +17684,15 @@ Environment Court
     
     Section 260(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 260(1)(aa): inserted, on 10 August 2005, by [section 96(1)][1625] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 260(1)(aa): inserted, on 10 August 2005, by [section 96(1)][1627] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 260(2): amended, on 10 August 2005, by [section 96(2)][1625] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 260(2): amended, on 10 August 2005, by [section 96(2)][1627] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 260(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 260(2)(b): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 260(2A): inserted, on 10 August 2005, by [section 96(3)][1625] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 260(2A): inserted, on 10 August 2005, by [section 96(3)][1627] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 260(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -17692,15 +17704,15 @@ Environment Court
     
 *   (1) No action lies against any member of the Environment Court for anything they say, do, or omit to say or do, while acting in good faith in the performance of their duties.
     
-    (2) In addition, a member of the Environment Court who is a District Court Judge also has the immunities conferred by [section 119][1626] of the District Courts Act 1947 (which confers on District Court Judges, at all times, the same immunities as a Judge of the High Court).
+    (2) In addition, a member of the Environment Court who is a District Court Judge also has the immunities conferred by [section 119][1628] of the District Courts Act 1947 (which confers on District Court Judges, at all times, the same immunities as a Judge of the High Court).
     
     (3) No action lies against the Registrar for anything the Registrar says or does, or omits to say or do, while acting in good faith under [section 278(3)][662], [section 281(5)][665], or [section 281A][666].
     
     Section 261(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 261(2): inserted, on 20 May 2004, by [section 7][1627] of the Resource Management Amendment Act 2004 (2004 No 46).
+    Section 261(2): inserted, on 20 May 2004, by [section 7][1629] of the Resource Management Amendment Act 2004 (2004 No 46).
     
-    Section 261(3): inserted, on 10 August 2005, by [section 97][1628] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 261(3): inserted, on 10 August 2005, by [section 97][1630] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 262 Environment Court members who are ratepayers
     
@@ -17712,7 +17724,7 @@ Environment Court
 
 ##### 263 Remuneration of Environment Commissioners and special advisors
     
-*   There shall be paid, out of money appropriated by Parliament for the purpose, to every Environment Commissioner, Deputy Environment Commissioner, and special advisor, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][1430], and the provisions of that Act shall apply accordingly, and---
+*   There shall be paid, out of money appropriated by Parliament for the purpose, to every Environment Commissioner, Deputy Environment Commissioner, and special advisor, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][1432], and the provisions of that Act shall apply accordingly, and---
         
     *   (a) the court shall be a statutory Board for the purposes of that Act; and
     
@@ -17730,15 +17742,15 @@ Environment Court
     
     (2) The Minister of the Crown who is responsible for the Ministry of Justice shall lay before the House of Representatives each report received by him or her under this section within 10 sitting days of receiving it.
     
-    Section 264(1): amended, on 1 October 2003, pursuant to [section 14(1)][1629] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 264(1): amended, on 1 October 2003, pursuant to [section 14(1)][1631] of the State Sector Amendment Act 2003 (2003 No 41).
     
     Section 264(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 264(1): amended, on 1 July 1995, by [section 10(1)][1630] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 264(1): amended, on 1 July 1995, by [section 10(1)][1632] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 264(2): amended, on 1 October 2003, pursuant to [section 14(1)][1629] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 264(2): amended, on 1 October 2003, pursuant to [section 14(1)][1631] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 264(2): amended, on 1 July 1995, by [section 10(1)][1630] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 264(2): amended, on 1 July 1995, by [section 10(1)][1632] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 #### Constitution of court
     
@@ -17768,7 +17780,7 @@ Environment Court
     
     Section 265(1)(b): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 265(1)(b): amended, on 7 July 1993, by [section 133][1631] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 265(1)(b): amended, on 7 July 1993, by [section 133][1633] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 265(1)(c): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -17856,7 +17868,7 @@ Environment Court
     
     *   (b) the member concerned and the court are satisfied that it is appropriate for him or her to do so.
     
-    Section 268 heading: amended, on 10 August 2005, by [section 98][1632] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 268 heading: amended, on 10 August 2005, by [section 98][1634] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 268(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -17906,7 +17918,7 @@ Environment Court
     
 *   \[Repealed\]
     
-    Section 271A: repealed, on 1 August 2003, by [section 75][1633] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 271A: repealed, on 1 August 2003, by [section 75][1635] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 272 Hearing of proceedings
     
@@ -17934,11 +17946,11 @@ Environment Court
     
     Section 273(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 273(1): amended, on 2 September 1996, by [section 12][1634] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 273(1): amended, on 2 September 1996, by [section 12][1636] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 273(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 273(2): amended, on 2 September 1996, by [section 12][1634] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 273(2): amended, on 2 September 1996, by [section 12][1636] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 274 Representation at proceedings
     
@@ -17956,7 +17968,7 @@ Environment Court
             
         *   (i) it was made about the subject matter of the proceedings; and
         
-        *   (ii) [section 308B(2)][705] and [clauses 6(4)][1261] and [29(1B)][1089] of Schedule 1 were irrelevant to it:
+        *   (ii) [section 308B(2)][705] and [clauses 6(4)][1263] and [29(1B)][1089] of Schedule 1 were irrelevant to it:
         
         
     
@@ -17964,9 +17976,9 @@ Environment Court
             
         *   (i) it was made about the subject matter of the proceedings; and
         
-        *   (ii) [section 308B(2)][705] or [clauses 6(4)][1261] or [29(1B)][1089] of Schedule 1 was relevant to it; and
+        *   (ii) [section 308B(2)][705] or [clauses 6(4)][1263] or [29(1B)][1089] of Schedule 1 was relevant to it; and
         
-        *   (iii) it was made in compliance with whichever of [section 308B(2)][705] or [clauses 6(4)][1261] or [29(1B)][1089] of Schedule 1 was relevant to it.
+        *   (iii) it was made in compliance with whichever of [section 308B(2)][705] or [clauses 6(4)][1263] or [29(1B)][1089] of Schedule 1 was relevant to it.
         
         
     
@@ -18004,23 +18016,23 @@ Environment Court
     
     (7) Subsection (2) is subject to [section 281][665].
     
-    Section 274: replaced, on 1 August 2003, by [section 76][1635] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 274: replaced, on 1 August 2003, by [section 76][1637] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 274(1): replaced, on 1 October 2009, by [section 128(1)][1636] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 274(1): replaced, on 1 October 2009, by [section 128(1)][1638] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 274(2): replaced, on 1 October 2009, by [section 128(1)][1636] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 274(2): replaced, on 1 October 2009, by [section 128(1)][1638] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 274(3)(b): amended, on 1 October 2009, by [section 128(2)][1636] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 274(3)(b): amended, on 1 October 2009, by [section 128(2)][1638] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 274(4): replaced, on 10 August 2005, by [section 99][1637] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 274(4): replaced, on 10 August 2005, by [section 99][1639] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 274(4A): inserted, on 10 August 2005, by [section 99][1637] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 274(4A): inserted, on 10 August 2005, by [section 99][1639] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 274(4B): inserted, on 10 August 2005, by [section 99][1637] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 274(4B): inserted, on 10 August 2005, by [section 99][1639] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 274(4B): amended, on 1 October 2009, by [section 128(3)][1636] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 274(4B): amended, on 1 October 2009, by [section 128(3)][1638] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 274(6): amended, on 1 October 2009, by [section 128(4)][1636] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 274(6): amended, on 1 October 2009, by [section 128(4)][1638] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 275 Personal appearance or by representative
     
@@ -18050,7 +18062,7 @@ Environment Court
     
     Section 276(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 276(1A): inserted, on 10 August 2005, by [section 100][1638] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 276(1A): inserted, on 10 August 2005, by [section 100][1640] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 276(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18060,7 +18072,7 @@ Environment Court
     
 *   A copy of, or extract from, a policy statement or plan, certified to be a true copy by the principal administrative officer or by any other authorised officer of the relevant local authority, is admissible in evidence in legal proceedings to the same extent as the original document.
     
-    Section 276A: inserted, on 1 August 2003, by [section 77][1639] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 276A: inserted, on 1 August 2003, by [section 77][1641] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 277 Hearings and evidence generally to be public
     
@@ -18080,9 +18092,9 @@ Environment Court
 
 ##### 278 Environment Court has powers of a District Court
     
-*   (1) The Environment Court and Environment Judges have the same powers that a District Court has in the exercise of its civil jurisdiction, including, without limitation, the power to commission a report from an independent expert on any matter raised in an appeal, as provided for by [rules 342 to 348][1640] of the District Courts Rules 1992\.
+*   (1) The Environment Court and Environment Judges have the same powers that a District Court has in the exercise of its civil jurisdiction, including, without limitation, the power to commission a report from an independent expert on any matter raised in an appeal, as provided for by [rules 342 to 348][1642] of the District Courts Rules 1992\.
     
-    (1A) Despite [rule 346][1641] of the District Courts Rules 1992, an independent expert from whom a report is commissioned under subsection (1) must be available to be cross-examined by any party.
+    (1A) Despite [rule 346][1643] of the District Courts Rules 1992, an independent expert from whom a report is commissioned under subsection (1) must be available to be cross-examined by any party.
     
     (2) An application for an order for discovery or production of documents may be made only with the leave of an Environment Judge.
     
@@ -18098,21 +18110,21 @@ Environment Court
     
     (5) The Registrar may take a statutory declaration or an affidavit.
     
-    Section 278 heading: amended, on 2 September 1996, by [section 14][1642] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 278 heading: amended, on 2 September 1996, by [section 14][1644] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 278(1): replaced, on 2 September 1996, by [section 14][1642] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 278(1): replaced, on 2 September 1996, by [section 14][1644] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 278(1): amended, on 10 August 2005, by [section 101(1)][1643] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 278(1): amended, on 10 August 2005, by [section 101(1)][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 278(1A): inserted, on 10 August 2005, by [section 101(2)][1643] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 278(1A): inserted, on 10 August 2005, by [section 101(2)][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 278(2): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 278(3): replaced, on 10 August 2005, by [section 101(3)][1643] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 278(3): replaced, on 10 August 2005, by [section 101(3)][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 278(4): inserted, on 10 August 2005, by [section 101(3)][1643] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 278(4): inserted, on 10 August 2005, by [section 101(3)][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 278(5): inserted, on 10 August 2005, by [section 101(3)][1643] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 278(5): inserted, on 10 August 2005, by [section 101(3)][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 279 Powers of Environment Judge sitting alone
     
@@ -18168,7 +18180,7 @@ Environment Court
     
     Section 279 heading: amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 279 heading: amended, on 7 July 1993, by [section 134][1644] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 279 heading: amended, on 7 July 1993, by [section 134][1646] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 279(1): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18176,7 +18188,7 @@ Environment Court
     
     Section 279(1)(f): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 279(1)(fa): inserted, on 7 July 1993, by [section 134][1644] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 279(1)(fa): inserted, on 7 July 1993, by [section 134][1646] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 279(1)(fa): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18218,15 +18230,15 @@ Environment Court
     
     Section 280 heading: amended, on 2 September 1996, pursuant to [section 6(2)(c)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 280(1): replaced, on 10 August 2005, by [section 102][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 280(1): replaced, on 10 August 2005, by [section 102][1647] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 280(1A): replaced, on 10 August 2005, by [section 102][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 280(1A): replaced, on 10 August 2005, by [section 102][1647] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 280(1B): inserted, on 10 August 2005, by [section 102][1645] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 280(1B): inserted, on 10 August 2005, by [section 102][1647] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 280(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 280(2): amended, on 2 September 1996, by [section 15(3)][1646] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 280(2): amended, on 2 September 1996, by [section 15(3)][1648] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 280(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18282,9 +18294,9 @@ Environment Court
     
     Section 281(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 281(1)(a)(ii): replaced, on 1 August 2003, by [section 79][1647] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 281(1)(a)(ii): replaced, on 1 August 2003, by [section 79][1649] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 281(1)(a)(iia): inserted, on 1 August 2003, by [section 79][1647] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 281(1)(a)(iia): inserted, on 1 August 2003, by [section 79][1649] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 281(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18292,7 +18304,7 @@ Environment Court
     
     Section 281(4): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 281(5): inserted, on 10 August 2005, by [section 103][1648] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 281(5): inserted, on 10 August 2005, by [section 103][1650] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 281A Registrar may waive, reduce, or postpone payment of fee
     
@@ -18304,7 +18316,7 @@ Environment Court
     
     *   (b) in the case of proceedings concerning a matter of public interest, the proceedings are unlikely to be commenced or continued if the powers are not exercised.
     
-    Section 281A: inserted, on 10 August 2005, by [section 104][1649] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 281A: inserted, on 10 August 2005, by [section 104][1651] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 281B Review of exercise of power by Registrar
     
@@ -18314,7 +18326,7 @@ Environment Court
     
     (3) The Environment Judge may confirm, modify, or reverse the decision of the Registrar.
     
-    Section 281B: inserted, on 10 August 2005, by [section 104][1649] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 281B: inserted, on 10 August 2005, by [section 104][1651] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 282 Power to commit for contempt
     
@@ -18330,7 +18342,7 @@ Environment Court
     
     (2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
     
-    Section 282(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1650] of the Policing Act 2008 (2008 No 72).
+    Section 282(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1652] of the Policing Act 2008 (2008 No 72).
     
     Section 282(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18352,7 +18364,7 @@ Environment Court
     
     *   (c) refuse to answer any questions put by a member of the court during proceedings before the court.
     
-    (2) A person need not comply with subsection (1) if he or she was not given travelling expenses in accordance with the scale for witnesses in civil cases under the [District Courts Act 1947][1651] either---
+    (2) A person need not comply with subsection (1) if he or she was not given travelling expenses in accordance with the scale for witnesses in civil cases under the [District Courts Act 1947][1653] either---
         
     *   (a) at the time the summons was served; or
     
@@ -18370,7 +18382,7 @@ Environment Court
     
 *   (1) A witness attending the Environment Court in accordance with a summons is entitled to be paid, by the party requiring his or her attendance, expenses for travelling and maintenance while absent from his or her usual residence.
     
-    (2) Payment of expenses shall be made in accordance with the scale of allowances for witnesses in civil cases under the [District Courts Act 1947][1651].
+    (2) Payment of expenses shall be made in accordance with the scale of allowances for witnesses in civil cases under the [District Courts Act 1947][1653].
     
     (3) When a witness is called or evidence is obtained by the court, the court may direct that the expenses incurred---
         
@@ -18386,7 +18398,7 @@ Environment Court
     
 *   \[Repealed\]
     
-    Section 284A: repealed, on 1 October 2009, by [section 129][1652] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 284A: repealed, on 1 October 2009, by [section 129][1654] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 285 Awarding costs
     
@@ -18412,7 +18424,7 @@ Environment Court
     
     (6) The Environment Court may order a party who fails to proceed with a hearing at the time the court arranges, or who fails to give adequate notice of the abandonment of the proceedings, to pay to any other party or to the Crown any of the costs and expenses incurred by the other party or the Crown.
     
-    Section 285: replaced, on 1 October 2009, by [section 130][1653] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 285: replaced, on 1 October 2009, by [section 130][1655] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 286 Enforcing orders for costs
     
@@ -18436,7 +18448,7 @@ Environment Court
     
     Section 287(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 287(2): amended, on 10 August 2005, by [section 105(1)][1654] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 287(2): amended, on 10 August 2005, by [section 105(1)][1656] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 287(2): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18444,11 +18456,11 @@ Environment Court
     
     Section 287(3): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 287(4): amended, on 10 August 2005, by [section 105(2)][1654] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 287(4): amended, on 10 August 2005, by [section 105(2)][1656] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 287(4): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 287(5): replaced, on 10 August 2005, by [section 105(3)][1654] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 287(5): replaced, on 10 August 2005, by [section 105(3)][1656] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 288 Privileges and immunities
     
@@ -18464,7 +18476,7 @@ Environment Court
     
 *   \[Repealed\]
     
-    Section 289: repealed, on 1 October 2009, by [section 131][1655] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 289: repealed, on 1 October 2009, by [section 131][1657] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 290 Powers of court in regard to appeals and inquiries
     
@@ -18488,15 +18500,15 @@ Environment Court
 
 ##### 290AA Powers of court in regard to certain appeals under clause 14 of Schedule 1
     
-*   The Environment Court, when hearing an appeal under [clause 14(1)][1258] of Schedule 1 relating to a matter included in a document under [section 55(2B)][141], may consider only the question of law raised.
+*   The Environment Court, when hearing an appeal under [clause 14(1)][1260] of Schedule 1 relating to a matter included in a document under [section 55(2B)][141], may consider only the question of law raised.
     
-    Section 290AA: inserted, on 1 October 2009, by [section 132][1656] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 290AA: inserted, on 1 October 2009, by [section 132][1658] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 290A Environment Court to have regard to decision that is subject of appeal or inquiry
     
 *   In determining an appeal or inquiry, the Environment Court must have regard to the decision that is the subject of the appeal or inquiry.
     
-    Section 290A: inserted, on 10 August 2005, by [section 106][1657] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 290A: inserted, on 10 August 2005, by [section 106][1659] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 291 Other proceedings before court
     
@@ -18568,19 +18580,19 @@ Environment Court
     
     *   (b) is inconsistent with a relevant regional plan or water conservation order.
     
-    Section 293: replaced, on 10 August 2005, by [section 107][1658] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 293: replaced, on 10 August 2005, by [section 107][1660] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 293 heading: amended, on 1 October 2009, by [section 133(1)][1659] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 293 heading: amended, on 1 October 2009, by [section 133(1)][1661] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 293(1): amended, on 1 October 2009, by [section 133(2)][1659] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 293(1): amended, on 1 October 2009, by [section 133(2)][1661] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 293(1)(a): amended, on 1 October 2009, by [section 133(2)][1659] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 293(1)(a): amended, on 1 October 2009, by [section 133(2)][1661] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 293(3): amended, on 1 October 2009, by [section 133(2)][1659] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 293(3): amended, on 1 October 2009, by [section 133(2)][1661] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 293(4): amended, on 1 October 2009, by [section 133(2)][1659] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 293(4): amended, on 1 October 2009, by [section 133(2)][1661] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 293(5): amended, on 1 October 2009, by [section 133(2)][1659] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 293(5): amended, on 1 October 2009, by [section 133(2)][1661] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 293A Determinations on recognition orders and agreements made under Marine and Coastal Area (Takutai Moana) Act 2011
     
@@ -18598,7 +18610,7 @@ Environment Court
     
     (2) The Environment Court must---
         
-    *   (a) determine the matters referred to in subsection (1) in accordance with [clause 15][1257] of Schedule 1; and
+    *   (a) determine the matters referred to in subsection (1) in accordance with [clause 15][1259] of Schedule 1; and
     
     *   (b) consider the matters set out in [section 85B(2)][194].
     
@@ -18608,7 +18620,7 @@ Environment Court
     
     *   (b) without limiting the discretion as to service under [section 291][681], served on every relevant local authority.
     
-    Section 293A: inserted, on 17 January 2005, by [section 29][1660] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 293A: inserted, on 17 January 2005, by [section 29][1662] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Section 293A heading: replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -18644,7 +18656,7 @@ Environment Court
     
 *   If there is a right to refer any matter for inquiry to the Environment Court or to appeal to the court against a decision of a local authority, consent authority or any person under this Act or under any other Act or regulation---
         
-    *   (a) no application for review under [Part 1][1661] of the Judicature Amendment Act 1972 may be made; and
+    *   (a) no application for review under [Part 1][1663] of the Judicature Amendment Act 1972 may be made; and
     
     *   (b) no proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, may be heard by the High Court---
     
@@ -18676,7 +18688,7 @@ Environment Court
     
     (2) The appeal must be made in accordance with the High Court Rules, except to any extent that those rules are inconsistent with [sections 300 to 307][694].
     
-    Section 299: replaced, on 1 January 2004, by [section 48(1)][1662] of the Supreme Court Act 2003 (2003 No 53).
+    Section 299: replaced, on 1 January 2004, by [section 48(1)][1664] of the Supreme Court Act 2003 (2003 No 53).
     
     Section 299(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -18710,7 +18722,7 @@ Environment Court
     
     Section 300(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 300(2): amended, on 10 August 2005, by [section 109(1)][1663] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 300(2): amended, on 10 August 2005, by [section 109(1)][1665] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 300(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18718,11 +18730,11 @@ Environment Court
     
     Section 300(4)(b): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 300(5)(d): amended, on 2 September 1996, by [section 17(a)][1664] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 300(5)(d): amended, on 2 September 1996, by [section 17(a)][1666] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 300(5)(e): inserted, on 2 September 1996, by [section 17(b)][1664] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 300(5)(e): inserted, on 2 September 1996, by [section 17(b)][1666] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 300(6): amended, on 10 August 2005, by [section 109(2)][1663] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 300(6): amended, on 10 August 2005, by [section 109(2)][1665] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 300(6): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -18742,7 +18754,7 @@ Environment Court
     
     Section 301(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 301(1)(b): amended, on 10 August 2005, by [section 110][1665] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 301(1)(b): amended, on 10 August 2005, by [section 110][1667] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 301(1)(c): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18758,7 +18770,7 @@ Environment Court
     
     *   (b) notice of the date set down for hearing the appeal.
     
-    Section 302(2)(a): amended, on 10 August 2005, by [section 111][1666] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 302(2)(a): amended, on 10 August 2005, by [section 111][1668] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 303 Orders of the High Court
     
@@ -18778,7 +18790,7 @@ Environment Court
     
     (3) The High Court may make an order under subsection (1) only if it is satisfied that a proper determination of a question of law so requires; and the order may be made subject to such conditions as the High Court thinks fit.
     
-    Section 303(1): amended, on 10 August 2005, by [section 112][1667] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 303(1): amended, on 10 August 2005, by [section 112][1669] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 303(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -18814,7 +18826,7 @@ Environment Court
     
     Section 305(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 305(1): amended, on 10 August 2005, by [section 113][1668] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 305(1): amended, on 10 August 2005, by [section 113][1670] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 305(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -18838,20 +18850,20 @@ Environment Court
     
     the appeal is ready for hearing and the Registrar shall arrange a hearing date as soon as practicable.
     
-    Section 307: amended, on 10 August 2005, by [section 114][1669] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 307: amended, on 10 August 2005, by [section 114][1671] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 308 Appeals to the Court of Appeal
     
-*   (1) [Section 144][1670] of the Summary Proceedings Act 1957 applies in respect of a decision of the High Court under [section 299][693] of this Act as if the decision has been made under [section 107][1671] of the Summary Proceedings Act 1957\.
+*   (1) [Section 144][1672] of the Summary Proceedings Act 1957 applies in respect of a decision of the High Court under [section 299][693] of this Act as if the decision has been made under [section 107][1673] of the Summary Proceedings Act 1957\.
     
     (2) Subsection (1) does not apply to appeals against a determination of the High Court under [section 299][693] if that determination related to a decision of the Environment Court under [section 149U][375]. Instead, [section 149V(3) to (7)][377] apply.
     
-    Section 308(2): inserted, on 1 October 2009, by [section 134][1672] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308(2): inserted, on 1 October 2009, by [section 134][1674] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ## Part 11A  
 Act not to be used to oppose trade competitors
     
-*   Part 11A: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Part 11A: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308A Identification of trade competitors and surrogates
     
@@ -18863,7 +18875,7 @@ Act not to be used to oppose trade competitors
     
     *   (c) _person C_ means a person who has knowingly received, is knowingly receiving, or may knowingly receive direct or indirect help from person A to bring an appeal or be a party to an appeal against a decision under this Act in favour of person B.
     
-    Section 308A: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308A: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308B Limit on making submissions
     
@@ -18875,9 +18887,9 @@ Act not to be used to oppose trade competitors
     
     *   (b) does not relate to trade competition or the effects of trade competition.
     
-    (3) Failure to comply with the limits on submissions set in [section 149E][356] or [149O][368] or [clause 6(4)][1261] or [29(1B)][1089] of Schedule 1 is a contravention of this Part.
+    (3) Failure to comply with the limits on submissions set in [section 149E][356] or [149O][368] or [clause 6(4)][1263] or [29(1B)][1089] of Schedule 1 is a contravention of this Part.
     
-    Section 308B: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308B: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308C Limit on representation at appeals
     
@@ -18889,7 +18901,7 @@ Act not to be used to oppose trade competitors
     
     *   (b) does not relate to trade competition or the effects of trade competition.
     
-    Section 308C: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308C: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308D Limit on appealing under this Act
     
@@ -18901,7 +18913,7 @@ Act not to be used to oppose trade competitors
     
     *   (c) deterring person B from engaging in trade competition.
     
-    Section 308D: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308D: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308E Prohibition on using surrogate
     
@@ -18909,7 +18921,7 @@ Act not to be used to oppose trade competitors
     
     (2) Person A must not directly or indirectly help person C to be a party to an appeal for any of the purposes in [section 308D][707] against a decision under this Act in favour of person B.
     
-    Section 308E: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308E: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308F Surrogate must disclose status
     
@@ -18919,7 +18931,7 @@ Act not to be used to oppose trade competitors
     
     *   (b) has knowingly received, is knowingly receiving, or may knowingly receive direct or indirect help from person A to bring the appeal or be a party to the appeal for any of the purposes in [section 308D][707].
     
-    Section 308F: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308F: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308G Declaration that Part contravened
     
@@ -18941,7 +18953,7 @@ Act not to be used to oppose trade competitors
     
     (5) The Environment Court may make the declaration.
     
-    Section 308G: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308G: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308H Costs orders if declaration made
     
@@ -18963,7 +18975,7 @@ Act not to be used to oppose trade competitors
     
     (5) If the court makes a declaration against person C, it must also make an order that person A not directly or indirectly reimburse person C for the costs and expenses that the court has ordered person C to pay.
     
-    Section 308H: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308H: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 308I Proceedings for damages in High Court
     
@@ -18975,7 +18987,7 @@ Act not to be used to oppose trade competitors
     
     (4) The High Court must order the payment of damages for loss suffered by the plaintiff because of the conduct of the defendant that gave rise to the making of the declaration.
     
-    Section 308I: inserted, on 1 October 2009, by [section 135][1673] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 308I: inserted, on 1 October 2009, by [section 135][1675] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ## Part 12  
 Declarations, enforcement, and ancillary powers
@@ -19012,11 +19024,11 @@ Declarations, enforcement, and ancillary powers
     
     Section 309(3)(b): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 309(4): inserted, on 17 January 2005, by [section 30][1674] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 309(4): inserted, on 17 January 2005, by [section 30][1676] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Section 309(4): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 309(5): inserted, on 17 January 2005, by [section 30][1674] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 309(5): inserted, on 17 January 2005, by [section 30][1676] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Section 309(5): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -19046,7 +19058,7 @@ Declarations, enforcement, and ancillary powers
             
         *   (i) contrary to [section 67(3)][158], does not, or is not likely to, give effect to a provision or proposed provision of a national policy statement, New Zealand coastal policy statement, or regional policy statement for the region; or
         
-        *   (ii) contrary to [section 67(4)][158], is, or is likely to be, inconsistent with a water conservation order, any other regional plan for the region, or a determination or reservation of the chief executive of the Ministry of Fisheries made under [section 186E][1675] of the Fisheries Act 1996; or
+        *   (ii) contrary to [section 67(4)][158], is, or is likely to be, inconsistent with a water conservation order, any other regional plan for the region, or a determination or reservation of the chief executive of the Ministry of Fisheries made under [section 186E][1677] of the Fisheries Act 1996; or
         
         
     
@@ -19072,25 +19084,25 @@ Declarations, enforcement, and ancillary powers
     
     Section 310(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 310(b): replaced, on 10 August 2005, by [section 115(1)][1676] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 310(b): replaced, on 10 August 2005, by [section 115(1)][1678] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 310(ba): inserted, on 10 August 2005, by [section 115(1)][1676] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 310(ba): inserted, on 10 August 2005, by [section 115(1)][1678] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 310(bb): inserted, on 10 August 2005, by [section 115(1)][1676] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 310(bb): inserted, on 10 August 2005, by [section 115(1)][1678] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 310(c): amended, on 1 August 2003, by [section 82(2)][1677] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 310(c): amended, on 1 August 2003, by [section 82(2)][1679] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 310(d): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 310(e): amended, on 7 July 1993, by [section 138(1)][1678] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 310(e): amended, on 7 July 1993, by [section 138(1)][1680] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 310(f): inserted, on 7 July 1993, by [section 138(2)][1678] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 310(f): inserted, on 7 July 1993, by [section 138(2)][1680] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 310(g): inserted, on 7 July 1993, by [section 138(2)][1678] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 310(g): inserted, on 7 July 1993, by [section 138(2)][1680] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 310(g): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 310(h): inserted, on 1 August 2003, by [section 82(3)][1677] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 310(h): inserted, on 1 August 2003, by [section 82(3)][1679] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 310(h): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -19108,7 +19120,7 @@ Declarations, enforcement, and ancillary powers
     
     Section 311(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 311(3): amended, on 7 July 1993, by [section 139][1679] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 311(3): amended, on 7 July 1993, by [section 139][1681] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 312 Notification of application
     
@@ -19116,9 +19128,9 @@ Declarations, enforcement, and ancillary powers
     
     (2) Every notice required to be served under this section shall be served within 5 working days after the application is made to the court.
     
-    Section 312(1): amended, on 10 August 2005, by [section 116(1)][1680] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 312(1): amended, on 10 August 2005, by [section 116(1)][1682] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 312(1): amended, on 7 July 1993, by [section 140][1681] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 312(1): amended, on 7 July 1993, by [section 140][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 312(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -19132,7 +19144,7 @@ Declarations, enforcement, and ancillary powers
     
     *   (c) decline to make a declaration.
     
-    Section 313: amended, on 17 December 1997, by [section 50][1682] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 313: amended, on 17 December 1997, by [section 50][1684] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 313: amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -19200,19 +19212,19 @@ Declarations, enforcement, and ancillary powers
     
     Section 314(1)(a)(i): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 314(1)(a)(i): amended, on 7 July 1993, by [section 141(1)][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 314(1)(a)(i): amended, on 7 July 1993, by [section 141(1)][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 314(1)(b): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 314(1)(b)(i): amended, on 7 July 1993, by [section 141(2)][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 314(1)(b)(i): amended, on 7 July 1993, by [section 141(2)][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 314(1)(d): amended, on 7 July 1993, by [section 141(3)(a)][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 314(1)(d): amended, on 7 July 1993, by [section 141(3)(a)][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 314(1)(d): amended, on 7 July 1993, by [section 141(3)(b)][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 314(1)(d): amended, on 7 July 1993, by [section 141(3)(b)][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 314(1)(d)(iii): amended, on 7 July 1993, by [section 141(3)(c)][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 314(1)(d)(iii): amended, on 7 July 1993, by [section 141(3)(c)][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 314(1)(da): inserted, on 7 July 1993, by [section 141(4)][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 314(1)(da): inserted, on 7 July 1993, by [section 141(4)][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 314(1)(da): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -19220,7 +19232,7 @@ Declarations, enforcement, and ancillary powers
     
     Section 314(1)(f): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 314(2): replaced, on 7 July 1993, by [section 141(5)][1683] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 314(2): replaced, on 7 July 1993, by [section 141(5)][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 314(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -19242,11 +19254,11 @@ Declarations, enforcement, and ancillary powers
     
     *   (c) after allowing for any moneys received under paragraph (b), if any, recover the costs and expenses of doing so as a debt due from that person.
     
-    (3) Any costs or expenses which remain unpaid under subsection (2)(c) may be registered under the [Statutory Land Charges Registration Act 1928][1684] as a charge on any land in respect of which an enforcement order is made.
+    (3) Any costs or expenses which remain unpaid under subsection (2)(c) may be registered under the [Statutory Land Charges Registration Act 1928][1686] as a charge on any land in respect of which an enforcement order is made.
     
     (4) Failure to comply with an enforcement order is an offence under [section 338][756].
     
-    Section 315(1): replaced, on 7 July 1993, by [section 142][1685] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 315(1): replaced, on 7 July 1993, by [section 142][1687] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 315(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -19270,7 +19282,7 @@ Declarations, enforcement, and ancillary powers
     
     Section 316(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 316(2): amended, on 7 July 1993, by [section 143][1686] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 316(2): amended, on 7 July 1993, by [section 143][1688] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 316(5): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -19322,9 +19334,9 @@ Declarations, enforcement, and ancillary powers
     
     Section 319(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 319(2): replaced, on 1 August 2003, by [section 83][1687] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 319(2): replaced, on 1 August 2003, by [section 83][1689] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 319(3): inserted, on 1 August 2003, by [section 83][1687] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 319(3): inserted, on 1 August 2003, by [section 83][1689] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 320 Interim enforcement order
     
@@ -19352,7 +19364,7 @@ Declarations, enforcement, and ancillary powers
     
     (6) An interim enforcement order stays in force until an application for an enforcement order under [section 316][723] is determined, or until cancelled by an Environment Judge or a District Court Judge under subsection (5), or cancelled by the Environment Court under [section 321][728].
     
-    Section 320: replaced, on 7 July 1993, by [section 145][1688] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 320: replaced, on 7 July 1993, by [section 145][1690] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 320(2): amended, on 2 September 1996, pursuant to [section 6(2)(b)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -19412,9 +19424,9 @@ Declarations, enforcement, and ancillary powers
     
     (4) An abatement notice shall not be served unless the enforcement officer has reasonable grounds for believing that any of the circumstances in subsection (1) or subsection (2) exist.
     
-    Section 322(1)(b): replaced, on 7 July 1993, by [section 146(1)][1689] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 322(1)(b): replaced, on 7 July 1993, by [section 146(1)][1691] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 322(1)(c)(ii): amended, on 7 July 1993, by [section 146(2)][1689] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 322(1)(c)(ii): amended, on 7 July 1993, by [section 146(2)][1691] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 323 Compliance with abatement notice
     
@@ -19452,9 +19464,9 @@ Declarations, enforcement, and ancillary powers
     
     *   (h) the name and address of the local authority or consent authority whose enforcement officer issued the notice.
     
-    Section 324(d): replaced, on 17 December 1997, by [section 51(1)][1690] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 324(d): replaced, on 17 December 1997, by [section 51(1)][1692] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 324(f): amended, on 17 December 1997, by [section 51(2)][1690] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 324(f): amended, on 17 December 1997, by [section 51(2)][1692] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 325 Appeals
     
@@ -19530,35 +19542,35 @@ Declarations, enforcement, and ancillary powers
     
     Section 325(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 325(2)(c): amended, on 17 December 1997, by [section 52(1)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(2)(c): amended, on 17 December 1997, by [section 52(1)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Section 325(2)(c): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 325(3): replaced, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3): replaced, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3A): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3A): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3B): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3B): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3C): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3C): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3D): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3D): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3E): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3E): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3F): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3F): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3F): amended, on 1 October 2009, by [section 136(1)][1692] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 325(3F): amended, on 1 October 2009, by [section 136(1)][1694] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 325(3G): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3G): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(3H): inserted, on 17 December 1997, by [section 52(2)][1691] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325(3H): inserted, on 17 December 1997, by [section 52(2)][1693] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 325(4): repealed, on 1 October 2009, by [section 136(2)][1692] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 325(4): repealed, on 1 October 2009, by [section 136(2)][1694] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 325(5): replaced, on 1 August 2003, by [section 84][1693] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 325(5): replaced, on 1 August 2003, by [section 84][1695] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 325(6): inserted, on 1 August 2003, by [section 84][1693] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 325(6): inserted, on 1 August 2003, by [section 84][1695] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 325A Cancellation of abatement notice
     
@@ -19576,9 +19588,9 @@ Declarations, enforcement, and ancillary powers
     
     (7) Where the relevant authority, after considering an application made under subsection (4) by a person who is directly affected by an abatement notice, confirms that abatement notice or changes it in a way other than that sought by that person, that person may appeal to the Environment Court in accordance with [section 325(2)][733] against the whole or any part of the abatement notice.
     
-    Section 325A: inserted, on 7 July 1993, by [section 148][1694] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 325A: inserted, on 7 July 1993, by [section 148][1696] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 325A(7): amended, on 10 August 2005, by [section 118][1695] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 325A(7): amended, on 10 August 2005, by [section 118][1697] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 325A(7): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -19586,19 +19598,19 @@ Declarations, enforcement, and ancillary powers
     
 *   (1) No person may apply to the Environment Court for an enforcement order of a kind specified in any of paragraphs (a) to (d) of [section 314(1)][721], and no abatement notice shall be served on any person, in respect of anything done or to be done,---
         
-    *   (a) by or on behalf of the Director of Maritime New Zealand under [section 248][1696] or [section 249][1697] of the Maritime Transport Act 1994; or
+    *   (a) by or on behalf of the Director of Maritime New Zealand under [section 248][1698] or [section 249][1699] of the Maritime Transport Act 1994; or
     
     *   (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that Act; or
     
-    *   (c) by or on behalf of any on-scene commander under [section 305][1698] or [section 311][1699] of that Act or in accordance with a direction given under [section 310][1700] of that Act; or
+    *   (c) by or on behalf of any on-scene commander under [section 305][1700] or [section 311][1701] of that Act or in accordance with a direction given under [section 310][1702] of that Act; or
     
-    *   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][1698] or [section 311][1699] of that Act.
+    *   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][1700] or [section 311][1701] of that Act.
     
     (2) No person (other than the Minister, the Director of Maritime New Zealand, a local authority, or a consent authority) may apply to the Environment Court for an enforcement order to require any person to comply with or cease contravening [section 15B][34] (which imposes restrictions on discharges of harmful substances, contaminants, and water from ships and offshore installations).
     
-    (3) No person may apply for an enforcement order of a kind specified in [section 314(1)(d)][721] in respect of any actual or reasonable costs and expenses, where the costs and expenses which a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][1701] of the Maritime Transport Act 1994) in respect of which the owner of a CLC ship (as so defined) is liable in damages under [Part 25][1702] of that Act; and no order relating to such damage may be made by the Environment Court or any other court in any proceedings (including prosecutions for offences) under this Act.
+    (3) No person may apply for an enforcement order of a kind specified in [section 314(1)(d)][721] in respect of any actual or reasonable costs and expenses, where the costs and expenses which a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][1703] of the Maritime Transport Act 1994) in respect of which the owner of a CLC ship (as so defined) is liable in damages under [Part 25][1704] of that Act; and no order relating to such damage may be made by the Environment Court or any other court in any proceedings (including prosecutions for offences) under this Act.
     
-    Section 325B: inserted, on 20 August 1998, by [section 17][1703] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 325B: inserted, on 20 August 1998, by [section 17][1705] of the Resource Management Amendment Act 1994 (1994 No 105).
     
     Section 325B(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -19608,7 +19620,7 @@ Declarations, enforcement, and ancillary powers
     
     Section 325B(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 325B(3): replaced, on 17 December 1997, by [section 53][1704] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 325B(3): replaced, on 17 December 1997, by [section 53][1706] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 #### Excessive noise
 
@@ -19618,7 +19630,7 @@ Declarations, enforcement, and ancillary powers
         
     *   (a) aircraft being operated during, or immediately before or after, flight; or
     
-    *   (b) vehicle being driven on a road (within the meaning of [section 2(1)][1705] of the Land Transport Act 1998); or
+    *   (b) vehicle being driven on a road (within the meaning of [section 2(1)][1707] of the Land Transport Act 1998); or
     
     *   (c) train, other than when being tested (when stationary), maintained, loaded, or unloaded.
     
@@ -19640,13 +19652,13 @@ Declarations, enforcement, and ancillary powers
         
         
     
-    Section 326(1)(b): amended, on 1 March 1999, by [section 215(1)][1706] of the Land Transport Act 1998 (1998 No 110).
+    Section 326(1)(b): amended, on 1 March 1999, by [section 215(1)][1708] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 326(1)(c): replaced, on 17 December 1997, by [section 54][1707] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 326(1)(c): replaced, on 17 December 1997, by [section 54][1709] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 326(2): replaced, on 1 August 2003, by [section 85][1708] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 326(2): replaced, on 1 August 2003, by [section 85][1710] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 326(2)(a): amended, on 10 August 2005, by [section 119][1709] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 326(2)(a): amended, on 10 August 2005, by [section 119][1711] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 327 Issue and effect of excessive noise direction
     
@@ -19710,15 +19722,15 @@ Declarations, enforcement, and ancillary powers
     
     (7) Any constable may, in exercising any power under this section, use such force as is reasonable in the circumstances.
     
-    Section 328 heading: amended, on 7 July 1993, by [section 149][1710] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 328 heading: amended, on 7 July 1993, by [section 149][1712] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 328(4): replaced, on 17 December 1997, by [section 55][1711] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 328(4): replaced, on 17 December 1997, by [section 55][1713] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 328(5): replaced, on 17 December 1997, by [section 55][1711] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 328(5): replaced, on 17 December 1997, by [section 55][1713] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 328(6): inserted, on 7 July 1993, by [section 149][1710] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 328(6): inserted, on 7 July 1993, by [section 149][1712] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 328(7): inserted, on 7 July 1993, by [section 149][1710] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 328(7): inserted, on 7 July 1993, by [section 149][1712] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Water shortage
 
@@ -19786,17 +19798,17 @@ Declarations, enforcement, and ancillary powers
     
     (4) Nothing in this section shall authorise any person to do anything in relation to an emergency involving a marine oil spill or suspected marine oil spill within the meaning of [section 281][948] of the Maritime Transport Act 1994\.
     
-    Section 330 heading: amended, on 20 August 1998, by [section 18][1712] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 330 heading: amended, on 20 August 1998, by [section 18][1714] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 330(1)(c): amended, on 7 July 1993, by [section 150(1)][1713] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 330(1)(c): amended, on 7 July 1993, by [section 150(1)][1715] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 330(1)(f): amended, on 7 July 1993, by [section 150(2)][1713] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 330(1)(f): amended, on 7 July 1993, by [section 150(2)][1715] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 330(1A): inserted, on 10 August 2005, by [section 120(1)][1714] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 330(1A): inserted, on 10 August 2005, by [section 120(1)][1716] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 330(2A): inserted, on 10 August 2005, by [section 120(2)][1714] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 330(2A): inserted, on 10 August 2005, by [section 120(2)][1716] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 330(4): inserted, on 20 August 1998, by [section 18][1712] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 330(4): inserted, on 20 August 1998, by [section 18][1714] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 ##### 330A Resource consents for emergency works
     
@@ -19806,19 +19818,19 @@ Declarations, enforcement, and ancillary powers
     
     (3) If the application is made within the time stated in subsection (2), the activity may continue until the application for a resource consent and any appeals have been finally determined.
     
-    Section 330A: inserted, on 7 July 1993, by [section 151][1715] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 330A: inserted, on 7 July 1993, by [section 151][1717] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 330A(1): amended, on 10 August 2005, by [section 121(1)(a)][1716] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 330A(1): amended, on 10 August 2005, by [section 121(1)(a)][1718] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 330A(1): amended, on 10 August 2005, by [section 121(1)(b)][1716] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 330A(1): amended, on 10 August 2005, by [section 121(1)(b)][1718] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 330A(2): amended, on 10 August 2005, by [section 121(2)(a)][1716] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 330A(2): amended, on 10 August 2005, by [section 121(2)(a)][1718] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 330A(2): amended, on 10 August 2005, by [section 121(2)(b)][1716] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 330A(2): amended, on 10 August 2005, by [section 121(2)(b)][1718] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 330B Emergency works under Civil Defence Emergency Management Act 2002
     
-*   (1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared under the [Civil Defence Emergency Management Act 2002][1717], the provisions of [sections 9][18], [12][24], [13][28], [14][30], and [15][32] do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
+*   (1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared under the [Civil Defence Emergency Management Act 2002][1719], the provisions of [sections 9][18], [12][24], [13][28], [14][30], and [15][32] do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
     
     (2) If an activity is undertaken to which subsection (1) applies, the person who authorised the activity must advise the appropriate consent authority, within 7 days, that the activity has been undertaken.
     
@@ -19828,7 +19840,7 @@ Declarations, enforcement, and ancillary powers
     
     (5) A person does not commit an offence under [section 338(1)(a)][756] by acting in accordance with this section.
     
-    Section 330B: inserted, on 1 December 2002, by [section 117][1718] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 330B: inserted, on 1 December 2002, by [section 117][1720] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
 
 ##### 331 Reimbursement or compensation for emergency works
     
@@ -19844,13 +19856,13 @@ Declarations, enforcement, and ancillary powers
     
     shall be entitled to compensation from the authority in respect of any damage which did not arise from any failure of that person to abide by his or her duties under the Act.
     
-    (3) Any compensation under subsection (2) shall be claimed and determined in accordance with [Part 5][1719] of the Public Works Act 1981 and the provisions of that Act, so far as they apply and with all necessary modifications, shall apply accordingly.
+    (3) Any compensation under subsection (2) shall be claimed and determined in accordance with [Part 5][1721] of the Public Works Act 1981 and the provisions of that Act, so far as they apply and with all necessary modifications, shall apply accordingly.
     
-    Section 331(1): amended, on 7 July 1993, by [section 152(1)(a)][1720] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 331(1): amended, on 7 July 1993, by [section 152(1)(a)][1722] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 331(1): amended, on 7 July 1993, by [section 152(1)(b)][1720] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 331(1): amended, on 7 July 1993, by [section 152(1)(b)][1722] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 331(1A): inserted, on 7 July 1993, by [section 152(2)][1720] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 331(1A): inserted, on 7 July 1993, by [section 152(2)][1722] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Powers of entry and search
 
@@ -19880,17 +19892,17 @@ Declarations, enforcement, and ancillary powers
     
     Section 332(1)(a): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 332(1)(a): amended, on 7 July 1993, by [section 153(1)][1721] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 332(1)(a): amended, on 7 July 1993, by [section 153(1)][1723] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 332(1)(c): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 332(1)(c): amended, on 1 October 2009, by [section 137][1722] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 332(1)(c): amended, on 1 October 2009, by [section 137][1724] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 332(1)(d): repealed, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 332(2): amended, on 7 July 1993, by [section 153(2)][1721] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 332(2): amended, on 7 July 1993, by [section 153(2)][1723] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 332(2A): inserted, on 7 July 1993, by [section 153(3)][1721] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 332(2A): inserted, on 7 July 1993, by [section 153(3)][1723] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 333 Power of entry for survey
     
@@ -19920,7 +19932,7 @@ Declarations, enforcement, and ancillary powers
 
 ##### 334 Application for warrant for entry for search
     
-*   (1) An issuing officer (within the meaning of [section 3][1723] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][1724] of Part 4 of that Act, is satisfied that there is reasonable ground for believing that there is in, on, under, or over any place or vehicle anything---
+*   (1) An issuing officer (within the meaning of [section 3][1725] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][1726] of Part 4 of that Act, is satisfied that there is reasonable ground for believing that there is in, on, under, or over any place or vehicle anything---
         
     *   (a) in respect of which an offence has been or is suspected of having been committed against this Act or regulations that is punishable by imprisonment; or
     
@@ -19930,17 +19942,17 @@ Declarations, enforcement, and ancillary powers
     
     may issue a warrant authorising the entry and search of any place or vehicle.
     
-    (2) The provisions of [Part 4][1725] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][1727] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 118][1726] and [119][1727] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (3) Despite subsection (2), [sections 118][1728] and [119][1729] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
-    Section 334(1): amended, on 1 October 2012, by [section 300(2)(a)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 334(1): amended, on 1 October 2012, by [section 300(2)(a)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 334(1): amended, on 1 October 2012, by [section 300(2)(b)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 334(1): amended, on 1 October 2012, by [section 300(2)(b)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 334(2): replaced, on 1 October 2012, by [section 300(3)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 334(2): replaced, on 1 October 2012, by [section 300(3)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 334(3): replaced, on 1 October 2012, by [section 300(3)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 334(3): replaced, on 1 October 2012, by [section 300(3)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 335 Direction and execution of warrant for entry for search
     
@@ -19962,33 +19974,33 @@ Declarations, enforcement, and ancillary powers
     
     (5) \[Repealed\]
     
-    Section 335 heading: amended, on 1 October 2012, by [section 300(4)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 335 heading: amended, on 1 October 2012, by [section 300(4)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 335(2): repealed, on 1 October 2012, by [section 300(5)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 335(2): repealed, on 1 October 2012, by [section 300(5)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 335(3): repealed, on 1 October 2012, by [section 300(5)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 335(3): repealed, on 1 October 2012, by [section 300(5)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 335(4): repealed, on 1 October 2012, by [section 300(5)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 335(4): repealed, on 1 October 2012, by [section 300(5)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 335(5): repealed, on 1 October 2012, by [section 300(5)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 335(5): repealed, on 1 October 2012, by [section 300(5)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Return of property
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2012, by [section 300(6)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Heading: repealed, on 1 October 2012, by [section 300(6)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 336 Return of property seized under sections 323 and 328
     
 *   \[Repealed\]
     
-    Section 336: repealed, on 1 October 2012, by [section 300(6)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 336: repealed, on 1 October 2012, by [section 300(6)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 337 Return of property seized under warrant
     
 *   \[Repealed\]
     
-    Section 337: repealed, on 1 October 2012, by [section 300(6)][1728] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 337: repealed, on 1 October 2012, by [section 300(6)][1730] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Offences
 
@@ -20038,19 +20050,19 @@ Declarations, enforcement, and ancillary powers
     
     *   (c) contravenes, or permits a contravention of, any provision (as provided in [Schedule 10][914]) specified in an instrument for the creation of an esplanade strip or in an easement for an access strip, or enters a strip which is closed under [section 237C][598].
     
-    (4) Notwithstanding anything in the [Summary Proceedings Act 1957][1729], any information in respect of any offence against subsection (1), (1A), or (1B) may be laid by any person at any time within 6 months after the time when the contravention giving rise to the information first became known, or should have become known, to the local authority or consent authority.
+    (4) Notwithstanding anything in the [Summary Proceedings Act 1957][1731], any information in respect of any offence against subsection (1), (1A), or (1B) may be laid by any person at any time within 6 months after the time when the contravention giving rise to the information first became known, or should have become known, to the local authority or consent authority.
     
-    Section 338(1A): inserted, on 20 August 1998, by [section 19][1730] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 338(1A): inserted, on 20 August 1998, by [section 19][1732] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 338(1B): inserted, on 20 August 1998, by [section 19][1730] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 338(1B): inserted, on 20 August 1998, by [section 19][1732] of the Resource Management Amendment Act 1994 (1994 No 105).
     
     Section 338(2)(e): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 338(3)(b)(i): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 338(3)(c): inserted, on 7 July 1993, by [section 155][1731] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 338(3)(c): inserted, on 7 July 1993, by [section 155][1733] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 338(4): amended, on 1 October 2009, by [section 138][1732] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 338(4): amended, on 1 October 2009, by [section 138][1734] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 339 Penalties
     
@@ -20066,7 +20078,7 @@ Declarations, enforcement, and ancillary powers
     
     (3) Every person who commits an offence against [section 338(3)][756] is liable on summary conviction to a fine not exceeding $1,500\.
     
-    (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][1733] of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
+    (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][1735] of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
     
     (5) If a person is convicted of an offence against [section 338][756], the court may, instead of or in addition to imposing a fine or a term of imprisonment, make 1 or more of the following orders:
         
@@ -20076,13 +20088,13 @@ Declarations, enforcement, and ancillary powers
     
     (6) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act shall be deemed to be a continuing offence.
     
-    Section 339(1): replaced, on 1 October 2009, by [section 139(1)][1734] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 339(1): replaced, on 1 October 2009, by [section 139(1)][1736] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 339(1A): inserted, on 1 October 2009, by [section 139(1)][1734] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 339(1A): inserted, on 1 October 2009, by [section 139(1)][1736] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 339(4): replaced, on 30 June 2002, by [section 186][1735] of the Sentencing Act 2002 (2002 No 9).
+    Section 339(4): replaced, on 30 June 2002, by [section 186][1737] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 339(5): replaced, on 1 October 2009, by [section 139(2)][1734] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 339(5): replaced, on 1 October 2009, by [section 139(2)][1736] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 339A Protection against imprisonment for dumping and discharge offences involving foreign ships
     
@@ -20098,9 +20110,9 @@ Declarations, enforcement, and ancillary powers
     
     *   (b) the commission of the offence has had or is likely to have a significant or irreversible adverse effect on the coastal marine area.
     
-    (2) In this section, _foreign ship_ has the same meaning as in [section 2(1)][1736] of the Maritime Transport Act 1994\.
+    (2) In this section, _foreign ship_ has the same meaning as in [section 2(1)][1738] of the Maritime Transport Act 1994\.
     
-    Section 339A: inserted, on 20 August 1998, by [section 21][1737] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 339A: inserted, on 20 August 1998, by [section 21][1739] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 ##### 339B Additional penalty for certain offences for commercial gain
     
@@ -20108,7 +20120,7 @@ Declarations, enforcement, and ancillary powers
     
     (2) For the purposes of subsection (1), the value of any gain shall be assessed by the court, and any amount ordered to be paid shall be recoverable in the same manner as a fine.
     
-    Section 339B: inserted, on 20 August 1998, by [section 21][1737] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 339B: inserted, on 20 August 1998, by [section 21][1739] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 ##### 339C Amount of fine or other monetary penalty recoverable by distress and sale of ship or from agent
     
@@ -20128,13 +20140,13 @@ Declarations, enforcement, and ancillary powers
     
     the agent of the ship shall be civilly liable to pay to the Crown or, where a local authority caused the information in respect of that offence to be laid, to that local authority, such amount of that fine or monetary penalty as remains unpaid and the Crown or that local authority may recover that amount from that agent as a debt.
     
-    (3) Every agent of a ship who, under this section, pays the whole or part of any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of [section 4(1)(p)][1738] of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
+    (3) Every agent of a ship who, under this section, pays the whole or part of any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of [section 4(1)(p)][1740] of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
     
     (4) Any District Court shall have jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
     
     (5) This section shall apply notwithstanding any enactment or rule of law.
     
-    Section 339C: inserted, on 20 August 1998, by [section 21][1737] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 339C: inserted, on 20 August 1998, by [section 21][1739] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 ##### 340 Liability of principal for acts of agents
     
@@ -20174,13 +20186,13 @@ Declarations, enforcement, and ancillary powers
     
     *   (b) that he or she knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
     
-    Section 340(1): replaced, on 20 August 1998, by [section 22][1739] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 340(1): replaced, on 20 August 1998, by [section 22][1741] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 340(1)(a): amended, on 17 December 1997, by [section 57(1)][1740] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 340(1)(a): amended, on 17 December 1997, by [section 57(1)][1742] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 340(2): replaced, on 1 October 2009, by [section 140][1741] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 340(2): replaced, on 1 October 2009, by [section 140][1743] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 340(3): replaced, on 1 October 2009, by [section 140][1741] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 340(3): replaced, on 1 October 2009, by [section 140][1743] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 341 Strict liability and defences
     
@@ -20212,7 +20224,7 @@ Declarations, enforcement, and ancillary powers
     
     *   (b) specifying the facts that support his or her reliance on subsection (2).
     
-    Section 341(2)(b): amended, on 7 July 1993, by [section 156][1742] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 341(2)(b): amended, on 7 July 1993, by [section 156][1744] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 341A Liability and defences for dumping and storage of waste or other matter
     
@@ -20234,7 +20246,7 @@ Declarations, enforcement, and ancillary powers
     
     *   (d) was taken or omitted in such a way that the likelihood of damage to human or marine life was minimised.
     
-    Section 341A: inserted, on 20 August 1998, by [section 23][1743] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 341A: inserted, on 20 August 1998, by [section 23][1745] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 ##### 341B Liability and defences for discharging harmful substances
     
@@ -20252,7 +20264,7 @@ Declarations, enforcement, and ancillary powers
         
         
     
-    Section 341B: inserted, on 20 August 1998, by [section 23][1743] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 341B: inserted, on 20 August 1998, by [section 23][1745] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 ##### 342 Fines to be paid to local authority instituting prosecution
     
@@ -20264,7 +20276,7 @@ Declarations, enforcement, and ancillary powers
     
     (4) Subject to subsection (2), an order of the court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay that fine to the local authority entitled to it under the order.
     
-    (5) Nothing in [section 73][1744] of the Public Finance Act 1989 shall apply to any fine ordered to be paid to any local authority under subsection (1).
+    (5) Nothing in [section 73][1746] of the Public Finance Act 1989 shall apply to any fine ordered to be paid to any local authority under subsection (1).
     
     Section 342(2): amended, on 25 January 2005, pursuant to [section 65R(3)][1064] of the Public Finance Act 1989 (1989 No 44).
 
@@ -20272,11 +20284,11 @@ Declarations, enforcement, and ancillary powers
     
 *   \[Repealed\]
     
-    Section 343: repealed, on 20 August 1998, by [section 24][1745] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 343: repealed, on 20 August 1998, by [section 24][1747] of the Resource Management Amendment Act 1994 (1994 No 105).
 
 #### Infringement offences
     
-*   Heading: inserted, on 2 September 1996, by [section 18][1746] of the Resource Management Amendment Act 1996 (1996 No 160).
+*   Heading: inserted, on 2 September 1996, by [section 18][1748] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 343A Infringement offences
     
@@ -20286,23 +20298,23 @@ Declarations, enforcement, and ancillary powers
     
     _infringement offence_ means an offence specified as such in regulations made under [section 360(1)(ba)][800].
     
-    Section 343A: inserted, on 2 September 1996, by [section 18][1746] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 343A: inserted, on 2 September 1996, by [section 18][1748] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 343B Commission of infringement offence
     
 *   Where any person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against for the alleged offence under the [Summary Proceedings Act 1957][1729]; or
+    *   (a) be proceeded against for the alleged offence under the [Summary Proceedings Act 1957][1731]; or
     
     *   (b) be served with an infringement notice as provided for in [section 343C][770].
     
-    Section 343B: inserted, on 2 September 1996, by [section 18][1746] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 343B: inserted, on 2 September 1996, by [section 18][1748] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 343C Infringement notices
     
 *   (1) Where an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
     
-    (2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case, for the purposes of the [Summary Proceedings Act 1957][1729], it (or the copy) shall be deemed to have been served on that person when it was posted.
+    (2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case, for the purposes of the [Summary Proceedings Act 1957][1731], it (or the copy) shall be deemed to have been served on that person when it was posted.
     
     (3) Every infringement notice shall be in the prescribed form and shall contain the following particulars:
         
@@ -20314,7 +20326,7 @@ Declarations, enforcement, and ancillary powers
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][1747] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][1749] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -20326,17 +20338,17 @@ Declarations, enforcement, and ancillary powers
         
     *   (a) a reminder notice must be in the form prescribed under this Act; and
     
-    *   (b) proceedings in respect of the offence to which the infringement notice relates may be commenced in accordance with [section 21][1747] of the Summary Proceedings Act 1957, and the provisions of that section apply with all necessary modifications.
+    *   (b) proceedings in respect of the offence to which the infringement notice relates may be commenced in accordance with [section 21][1749] of the Summary Proceedings Act 1957, and the provisions of that section apply with all necessary modifications.
     
-    Section 343C: inserted, on 2 September 1996, by [section 18][1746] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 343C: inserted, on 2 September 1996, by [section 18][1748] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 343C(4): replaced, on 9 October 2006, by [section 36(1)][1748] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 343C(4): replaced, on 9 October 2006, by [section 36(1)][1750] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 343D Entitlement to infringement fees
     
 *   A local authority shall be entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer of that authority.
     
-    Section 343D: inserted, on 2 September 1996, by [section 18][1746] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 343D: inserted, on 2 September 1996, by [section 18][1748] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ## Part 13  
 Hazards Control Commission
@@ -20434,29 +20446,29 @@ Miscellaneous provisions
     
     (5) Where a notice or other document is sent by post to a person in accordance with subsection (1)(c) or (d), it shall be deemed, in the absence of proof to the contrary, to be received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
     
-    Section 352(1)(b): amended, on 1 October 2009, by [section 141(1)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(1)(b): amended, on 1 October 2009, by [section 141(1)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(1)(ca): repealed, on 1 October 2009, by [section 141(2)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(1)(ca): repealed, on 1 October 2009, by [section 141(2)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(1)(d): replaced, on 1 October 2009, by [section 141(2)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(1)(d): replaced, on 1 October 2009, by [section 141(2)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(1)(e): inserted, on 1 October 2009, by [section 141(2)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(1)(e): inserted, on 1 October 2009, by [section 141(2)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(1)(f): inserted, on 1 October 2009, by [section 141(2)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(1)(f): inserted, on 1 October 2009, by [section 141(2)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(1)(g): inserted, on 1 October 2009, by [section 141(2)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(1)(g): inserted, on 1 October 2009, by [section 141(2)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(1)(h): inserted, on 1 October 2009, by [section 141(2)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(1)(h): inserted, on 1 October 2009, by [section 141(2)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(4A): inserted, on 1 October 2009, by [section 141(3)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(4A): inserted, on 1 October 2009, by [section 141(3)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(5): amended, on 1 October 2009, by [section 141(4)][1749] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 352(5): amended, on 1 October 2009, by [section 141(4)][1751] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 352(5): amended, on 7 July 1993, by [section 157(2)][1750] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 352(5): amended, on 7 July 1993, by [section 157(2)][1752] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 352A Mode of service of summons on master or owner of ship
     
-*   (1) If the master or owner of a ship is a defendant in a prosecution for an offence against [section 338][756] for contravening [sections 15A][33], [15B][34], or [15C][35], service on the defendant of a summons or other document is effected for the purposes of the [Summary Proceedings Act 1957][1729]---
+*   (1) If the master or owner of a ship is a defendant in a prosecution for an offence against [section 338][756] for contravening [sections 15A][33], [15B][34], or [15C][35], service on the defendant of a summons or other document is effected for the purposes of the [Summary Proceedings Act 1957][1731]---
         
     *   (a) if it is delivered personally to the agent of the ship on behalf of the defendant or is brought to the notice of the agent if the agent refuses to accept it on behalf of the defendant; or
     
@@ -20464,7 +20476,7 @@ Miscellaneous provisions
     
     (1A) Subsection (1) applies despite any other enactment.
     
-    (2) However, a District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with [section 24][1751] of the Summary Proceedings Act 1957, where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
+    (2) However, a District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with [section 24][1753] of the Summary Proceedings Act 1957, where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
     
     (3) Unless the contrary is shown, the time at which service shall be deemed to have been effected on the defendant shall be,---
         
@@ -20474,29 +20486,29 @@ Miscellaneous provisions
     
     (4) In this section,---
     
-    _District Court Judge_ means a District Court Judge appointed under the [District Courts Act 1947][1651]
+    _District Court Judge_ means a District Court Judge appointed under the [District Courts Act 1947][1653]
     
-    _Justice_ has the same meaning as in [section 2][1752] of the Justice of the Peace Act 1957
+    _Justice_ has the same meaning as in [section 2][1754] of the Justice of the Peace Act 1957
     
-    _Registrar_ has the same meaning as in [section 2(1)][1753] of the Summary Proceedings Act 1957\.
+    _Registrar_ has the same meaning as in [section 2(1)][1755] of the Summary Proceedings Act 1957\.
     
-    Section 352A: inserted, on 20 August 1998, by [section 25][1754] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 352A: inserted, on 20 August 1998, by [section 25][1756] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 352A(1): replaced, on 10 August 2005, by [section 122(1)][1755] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 352A(1): replaced, on 10 August 2005, by [section 122(1)][1757] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 352A(1A): inserted, on 10 August 2005, by [section 122(1)][1755] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 352A(1A): inserted, on 10 August 2005, by [section 122(1)][1757] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 352A(2): amended, on 10 August 2005, by [section 122(2)][1755] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 352A(2): amended, on 10 August 2005, by [section 122(2)][1757] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 352A(2): amended, on 30 June 1998, by [section 7][1756] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 352A(2): amended, on 30 June 1998, by [section 7][1758] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 352A(4): replaced, on 10 August 2005, by [section 122(3)][1755] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 352A(4): replaced, on 10 August 2005, by [section 122(3)][1757] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 353 Notices and consents in relation to Maori land
     
-*   [Part 10][1757] of Te Ture Whenua Maori Act 1993 shall apply to the service of notices under this Act on owners of Maori land, except that in no case shall the period fixed for anything to be done by the owners be extended by more than 20 working days under [section 181(4)][1758] of that Act, unless otherwise provided by the local authority.
+*   [Part 10][1759] of Te Ture Whenua Maori Act 1993 shall apply to the service of notices under this Act on owners of Maori land, except that in no case shall the period fixed for anything to be done by the owners be extended by more than 20 working days under [section 181(4)][1760] of that Act, unless otherwise provided by the local authority.
     
-    Section 353: replaced, on 7 July 1993, by [section 158][1759] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 353: replaced, on 7 July 1993, by [section 158][1761] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 354 Crown's existing rights to resources to continue
     
@@ -20520,9 +20532,9 @@ Miscellaneous provisions
     
     *   (c) any instrument or order made under an enactment.
     
-    Section 354(1): amended, on 1 November 1999, pursuant to [section 38(1) ][1760]of the Interpretation Act 1999 (1999 No 85).
+    Section 354(1): amended, on 1 November 1999, pursuant to [section 38(1) ][1762]of the Interpretation Act 1999 (1999 No 85).
     
-    Section 354(2): replaced, on 7 July 1993, by [section 159][1761] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 354(2): replaced, on 7 July 1993, by [section 159][1763] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 354(3): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -20564,9 +20576,9 @@ Miscellaneous provisions
     
     Section 355(3): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 355(3): amended, on 25 November 2004, by [section 34(1)][1762] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 355(3): amended, on 25 November 2004, by [section 34(1)][1764] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
-    Section 355(4)(ab): inserted, on 25 November 2004, by [section 34(2)][1762] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Section 355(4)(ab): inserted, on 25 November 2004, by [section 34(2)][1764] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Section 355(4)(c): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -20594,7 +20606,7 @@ Miscellaneous provisions
     
     (2) The provisions of [Part 6][204] apply in respect of any application made under subsection (1).
     
-    Section 355A: inserted, on 17 December 1997, by [section 58][1763] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 355A: inserted, on 17 December 1997, by [section 58][1765] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 355B Enforcement powers against unlawful reclamations
     
@@ -20606,7 +20618,7 @@ Miscellaneous provisions
     
     (4) For the avoidance of doubt, any action taken under subsection (3) to remove any reclaimed land requires a resource consent unless expressly allowed by a rule in a regional coastal plan and any relevant proposed regional coastal plan.
     
-    Section 355B: inserted, on 17 December 1997, by [section 58][1763] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 355B: inserted, on 17 December 1997, by [section 58][1765] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 356 Matters may be determined by arbitration
     
@@ -20638,17 +20650,17 @@ Miscellaneous provisions
     
     Section 356(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 356(2)(b): amended, on 10 August 2005, by [section 123][1764] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 356(2)(b): amended, on 10 August 2005, by [section 123][1766] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 356(3): amended, on 1 August 2003, by [section 86(1)][1765] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 356(3): amended, on 1 August 2003, by [section 86(1)][1767] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 356(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 356(6): repealed, on 1 August 2003, by [section 86(2)][1765] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 356(6): repealed, on 1 August 2003, by [section 86(2)][1767] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 #### Rights of objection
     
-*   Heading: inserted, on 10 August 2005, by [section 124][1766] of the Resource Management Amendment Act 2005 (2005 No 87).
+*   Heading: inserted, on 10 August 2005, by [section 124][1768] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 357 Right of objection against certain decisions
     
@@ -20670,7 +20682,7 @@ Miscellaneous provisions
     
     (9) A person has a right of objection to a regional council about a public notice given by the council under [section 369(11)][814].
     
-    Section 357: replaced, on 1 October 2009, by [section 142][1767] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357: replaced, on 1 October 2009, by [section 142][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 357A Right of objection to consent authority against certain decisions or requirements
     
@@ -20716,27 +20728,27 @@ Miscellaneous provisions
     
     (5) Subsection (1)(f) and (g) apply to an application made under [section 221][576] to vary or cancel a condition specified in a consent notice.
     
-    Section 357A: inserted, on 10 August 2005, by [section 124][1766] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 357A: inserted, on 10 August 2005, by [section 124][1768] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 357A(1)(a)(ii): amended, on 1 October 2011, by [section 56][1768] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 357A(1)(a)(ii): amended, on 1 October 2011, by [section 56][1770] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 357A(1)(b): repealed, on 1 October 2009, by [section 143(1)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(1)(b): repealed, on 1 October 2009, by [section 143(1)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(1)(c): repealed, on 1 October 2009, by [section 143(1)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(1)(c): repealed, on 1 October 2009, by [section 143(1)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(1)(e): replaced, on 1 October 2009, by [section 143(2)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(1)(e): replaced, on 1 October 2009, by [section 143(2)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(1)(f): inserted, on 1 October 2009, by [section 143(2)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(1)(f): inserted, on 1 October 2009, by [section 143(2)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(1)(g): inserted, on 1 October 2009, by [section 143(2)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(1)(g): inserted, on 1 October 2009, by [section 143(2)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(2): replaced, on 1 October 2009, by [section 143(3)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(2): replaced, on 1 October 2009, by [section 143(3)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(3): replaced, on 1 October 2009, by [section 143(3)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(3): replaced, on 1 October 2009, by [section 143(3)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(4): inserted, on 1 October 2009, by [section 143(3)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(4): inserted, on 1 October 2009, by [section 143(3)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357A(5): inserted, on 1 October 2009, by [section 143(3)][1769] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357A(5): inserted, on 1 October 2009, by [section 143(3)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 357B Right of objection in relation to imposition of additional charges or recovery of costs
     
@@ -20748,13 +20760,13 @@ Miscellaneous provisions
     
     *   (b) for a person required by the Minister to pay costs under [section 149ZD(4)][391], to the Minister in respect of that requirement.
     
-    Section 357B: inserted, on 10 August 2005, by [section 124][1766] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 357B: inserted, on 10 August 2005, by [section 124][1768] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 357B(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357B(ab): inserted, on 1 July 2011, by [section 13(1)][1770] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 357B(ab): inserted, on 1 July 2011, by [section 13(1)][1772] of the Resource Management Amendment Act 2011 (2011 No 19).
     
-    Section 357B(b): amended, on 1 July 2011, by [section 13(2)][1770] of the Resource Management Amendment Act 2011 (2011 No 19).
+    Section 357B(b): amended, on 1 July 2011, by [section 13(2)][1772] of the Resource Management Amendment Act 2011 (2011 No 19).
 
 ##### 357C Procedure for making and hearing objection under sections 357 to 357B
     
@@ -20774,13 +20786,13 @@ Miscellaneous provisions
     
     *   (b) give at least 5 working days' written notice to the objector of the date, time, and place for a hearing of the objection.
     
-    Section 357C: inserted, on 10 August 2005, by [section 124][1766] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 357C: inserted, on 10 August 2005, by [section 124][1768] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 357C(1): replaced, on 1 October 2009, by [section 144(1)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357C(1): replaced, on 1 October 2009, by [section 144(1)][1773] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357C(3): amended, on 1 October 2009, by [section 144(2)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357C(3): amended, on 1 October 2009, by [section 144(2)][1773] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357C(4): amended, on 1 October 2009, by [section 144(3)][1771] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357C(4): amended, on 1 October 2009, by [section 144(3)][1773] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 357D Decision on objections made under sections 357 to 357B
     
@@ -20796,11 +20808,11 @@ Miscellaneous provisions
     
     (3) In the case of an objection made under [section 357A(1)(e)][794], if the consent authority upholds the objection in whole or in part, that decision replaces the part of the earlier decision to which the objection relates.
     
-    Section 357D: inserted, on 10 August 2005, by [section 124][1766] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 357D: inserted, on 10 August 2005, by [section 124][1768] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 357D(1): amended, on 1 October 2009, by [section 145(1)][1772] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357D(1): amended, on 1 October 2009, by [section 145(1)][1774] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 357D(2): replaced, on 1 October 2009, by [section 145(2)][1772] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 357D(2): replaced, on 1 October 2009, by [section 145(2)][1774] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 358 Appeals against certain decisions or objections
     
@@ -20812,17 +20824,17 @@ Miscellaneous provisions
     
     (4) This section shall not apply to any person who has already exercised a right of appeal in respect of the same matter under [section 120][299].
     
-    Section 358(1): replaced, on 7 July 1993, by [section 162][1773] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 358(1): replaced, on 7 July 1993, by [section 162][1775] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 358(1): amended, on 1 October 2009, by [section 146(1)][1774] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 358(1): amended, on 1 October 2009, by [section 146(1)][1776] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 358(1): amended, on 1 October 2009, by [section 146(2)][1774] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 358(1): amended, on 1 October 2009, by [section 146(2)][1776] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 358(1): amended, on 10 August 2005, by [section 125(1)][1775] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 358(1): amended, on 10 August 2005, by [section 125(1)][1777] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 358(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 358(2): amended, on 10 August 2005, by [section 125(2)][1775] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 358(2): amended, on 10 August 2005, by [section 125(2)][1777] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Section 358(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -20834,7 +20846,7 @@ Miscellaneous provisions
         
     *   (a) collect and receive from the holders of such resource consents in its region, all such rents, royalties, and other sums of money on behalf of the Crown; and
     
-    *   (b) pay that money into a Crown Bank Account in accordance with the [Public Finance Act 1989][1452].
+    *   (b) pay that money into a Crown Bank Account in accordance with the [Public Finance Act 1989][1454].
     
     Section 359(b): amended, on 25 January 2005, pursuant to [section 65R(3)][1064] of the Public Finance Act 1989 (1989 No 44).
 
@@ -20888,7 +20900,7 @@ Miscellaneous provisions
         
         
     
-    *   (hb) prescribing any substance to be a harmful substance for the purposes of [section 2(1)][1776]:
+    *   (hb) prescribing any substance to be a harmful substance for the purposes of [section 2(1)][1778]:
     
     *   (hc) prescribing any waste or other matter to be toxic or hazardous waste for the purposes of [section 15C][35]:
     
@@ -20940,61 +20952,61 @@ Miscellaneous provisions
     
     (4) Regulations made under this section may incorporate material by reference. [Schedule 1AA][904] applies as if its references to a national environmental standard, national policy statement, or New Zealand coastal policy statement were references to regulations under [section 360][800].
     
-    Section 360(1)(aa): inserted, on 7 July 1993, by [section 163(1)][1777] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 360(1)(aa): inserted, on 7 July 1993, by [section 163(1)][1779] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 360(1)(ab): repealed, on 1 October 2009, by [section 147(1)][1778] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 360(1)(ab): repealed, on 1 October 2009, by [section 147(1)][1780] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 360(1)(ac): inserted, on 1 August 2003, by [section 88(1)][1779] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 360(1)(ac): inserted, on 1 August 2003, by [section 88(1)][1781] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 360(1)(ba): inserted, on 2 September 1996, by [section 19][1780] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 360(1)(ba): inserted, on 2 September 1996, by [section 19][1782] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 360(1)(bb): inserted, on 2 September 1996, by [section 19][1780] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 360(1)(bb): inserted, on 2 September 1996, by [section 19][1782] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 360(1)(bc): inserted, on 9 October 2006, by [section 36(2)][1748] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 360(1)(bc): inserted, on 9 October 2006, by [section 36(2)][1750] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
     Section 360(1)(c): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
     Section 360(1)(f): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 360(1)(h): amended, on 7 July 1993, by [section 163(3)(a)][1777] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 360(1)(h): amended, on 7 July 1993, by [section 163(3)(a)][1779] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 360(1)(h): amended, on 7 July 1993, by [section 163(3)(b)][1777] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 360(1)(h): amended, on 7 July 1993, by [section 163(3)(b)][1779] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 360(1)(ha): inserted, on 1 February 1995, by [section 26(2)][1781] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 360(1)(ha): inserted, on 1 February 1995, by [section 26(2)][1783] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 360(1)(ha)(i): amended, on 1 August 2003, by [section 88(2)][1779] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 360(1)(ha)(i): amended, on 1 August 2003, by [section 88(2)][1781] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 360(1)(hb): inserted, on 1 February 1995, by [section 26(2)][1781] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 360(1)(hb): inserted, on 1 February 1995, by [section 26(2)][1783] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 360(1)(hc): inserted, on 1 February 1995, by [section 26(2)][1781] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 360(1)(hc): inserted, on 1 February 1995, by [section 26(2)][1783] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 360(1)(hd): repealed, on 17 December 1997, by [section 60(1)][1782] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 360(1)(hd): repealed, on 17 December 1997, by [section 60(1)][1784] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 360(1)(he): inserted, on 1 February 1995, by [section 26(2)][1781] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 360(1)(he): inserted, on 1 February 1995, by [section 26(2)][1783] of the Resource Management Amendment Act 1994 (1994 No 105).
     
     Section 360(1)(he): amended, on 1 July 2005, by [section 11(3)][979] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 360(1)(hf): inserted, on 17 December 1997, by [section 60(2)][1782] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 360(1)(hf): inserted, on 17 December 1997, by [section 60(2)][1784] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 360(1)(hg): inserted, on 17 December 1997, by [section 60(2)][1782] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 360(1)(hg): inserted, on 17 December 1997, by [section 60(2)][1784] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 360(1)(hh): inserted, on 17 December 1997, by [section 60(2)][1782] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 360(1)(hh): inserted, on 17 December 1997, by [section 60(2)][1784] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 360(1)(hi): inserted, on 10 August 2005, by [section 127][1783] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 360(1)(hi): inserted, on 10 August 2005, by [section 127][1785] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 360(1)(hj): inserted, on 1 October 2009, by [section 147(2)][1778] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 360(1)(hj): inserted, on 1 October 2009, by [section 147(2)][1780] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 360(1)(hk): inserted, on 1 October 2009, by [section 147(2)][1778] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 360(1)(hk): inserted, on 1 October 2009, by [section 147(2)][1780] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 360(2A): inserted, on 1 February 1995, by [section 26(3)][1781] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 360(2A): inserted, on 1 February 1995, by [section 26(3)][1783] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 360(2B): inserted, on 1 February 1995, by [section 26(3)][1781] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Section 360(2B): inserted, on 1 February 1995, by [section 26(3)][1783] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Section 360(2C): inserted, on 17 December 1997, by [section 60(3)][1782] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 360(2C): inserted, on 17 December 1997, by [section 60(3)][1784] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 360(2D): inserted, on 17 December 1997, by [section 60(3)][1782] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 360(2D): inserted, on 17 December 1997, by [section 60(3)][1784] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 360(4): inserted, on 1 October 2009, by [section 147(3)][1778] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 360(4): inserted, on 1 October 2009, by [section 147(3)][1780] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 360A Regulations amending regional coastal plans in relation to aquaculture activities
     
@@ -21022,7 +21034,7 @@ Miscellaneous provisions
     
     *   (b) adding provisions.
     
-    Section 360A: inserted, on 1 October 2011, by [section 57][1784] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 360A: inserted, on 1 October 2011, by [section 57][1786] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 360B Conditions to be satisfied before regulations made under section 360A
     
@@ -21080,7 +21092,7 @@ Miscellaneous provisions
     
     (4) For the purposes of subsection (2)(b)(iv), the Minister is not required to consult on matters that have already been the subject of consultation if the Minister is satisfied that the previous consultation related to subject matter that is in substance the same as that proposed in the regulations.
     
-    Section 360B: inserted, on 1 October 2011, by [section 57][1784] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 360B: inserted, on 1 October 2011, by [section 57][1786] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 360C Regional council's obligations
     
@@ -21096,7 +21108,7 @@ Miscellaneous provisions
         
         
     
-    Section 360C: inserted, on 1 October 2011, by [section 57][1784] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 360C: inserted, on 1 October 2011, by [section 57][1786] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 361 Repeals and revocations
     
@@ -21149,13 +21161,13 @@ Transitional provisions
         
         *   (vii) any right to dam, divert, take, discharge into, or use water granted under section 3 of the Clutha Development (Clyde Dam) Empowering Act 1982:
         
-        *   (viii) any right to take or use water granted under [sections 4][1785] or [5][1786] of the Whakatane Paper Mills, Limited, Water Supply Empowering Act 1936 and transferred to the Whakatane Board Mills Limited by the [Whakatane Board Mills Limited Water Supply Act 1961][1787] that is in force and is exercisable by that company immediately before the date of commencement of this Act:
+        *   (viii) any right to take or use water granted under [sections 4][1787] or [5][1788] of the Whakatane Paper Mills, Limited, Water Supply Empowering Act 1936 and transferred to the Whakatane Board Mills Limited by the [Whakatane Board Mills Limited Water Supply Act 1961][1789] that is in force and is exercisable by that company immediately before the date of commencement of this Act:
         
         
     
-    *   (e) an approval by a territorial authority, under [section 279][1788] of the Local Government Act 1974, of a scheme plan of subdivision within the meaning of [section 270][1789] of that Act (or the approval of a plan of subdivision under the corresponding provisions of any former enactment).
+    *   (e) an approval by a territorial authority, under [section 279][1790] of the Local Government Act 1974, of a scheme plan of subdivision within the meaning of [section 270][1791] of that Act (or the approval of a plan of subdivision under the corresponding provisions of any former enactment).
     
-    Section 365(d)(v): repealed, on 7 July 1993, by [section 164][1790] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 365(d)(v): repealed, on 7 July 1993, by [section 164][1792] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 366 Effect of this Act on existing schemes, consents, etc
     
@@ -21175,7 +21187,7 @@ Transitional provisions
             
         *   (i) section 24D or section 24G of the Water and Soil Conservation Act 1967:
         
-        *   (ii) [section 35][1791] of the Soil Conservation and Rivers Control Amendment Act 1959:
+        *   (ii) [section 35][1793] of the Soil Conservation and Rivers Control Amendment Act 1959:
         
         
     
@@ -21187,7 +21199,7 @@ Transitional provisions
         
         
     
-    Section 366(d): amended, on 7 July 1993, by [section 165][1792] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 366(d): amended, on 7 July 1993, by [section 165][1794] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 367 Effect of regional planning schemes
     
@@ -21223,17 +21235,17 @@ Transitional provisions
     
     *   (e) any bylaw made under---
             
-        *   (i) [section 149][1793] or [section 150][1794] of the Soil Conservation and Rivers Control Act 1941; or
+        *   (i) [section 149][1795] or [section 150][1796] of the Soil Conservation and Rivers Control Act 1941; or
         
         *   (ii) section 34A of the Water and Soil Conservation Act 1967 or section 4 of the Water and Soil Conservation Amendment Act 1973; or
         
-        *   (iii) [section 50][1795] of the Land Drainage Act 1908; or
+        *   (iii) [section 50][1797] of the Land Drainage Act 1908; or
         
         *   (iv) section 24(2) or section 55A of the Clean Air Act 1972---
         
         to the extent that the subject matter of the bylaw could be the subject matter of a regional rule:
     
-    *   (f) notices under [section 34(2)][1796] of the Soil Conservation and Rivers Control Amendment Act 1959 which were notified on or after the day that is 2 years before the date of commencement of this Act:
+    *   (f) notices under [section 34(2)][1798] of the Soil Conservation and Rivers Control Amendment Act 1959 which were notified on or after the day that is 2 years before the date of commencement of this Act:
     
     *   (g) the Clean Air Zone (Christchurch) Order 1977 (except for clause 5G) and the Clean Air Zones (Canterbury Region) Order 1984 (except for clause 5), and sections 2, 7, 8, 10, 15, 16(1), 16(2), 17, 19, and 20 of, and Schedules 1 and 2 of, the Clean Air Act 1972 and the Clean Air (Smoke) Regulations 1975, in so far as they apply in relation to the clean air zones declared by those orders.
     
@@ -21275,7 +21287,7 @@ Transitional provisions
     
     provided that, if the regional council considers special circumstances exist, it may, in its discretion, require any such application to be notified.
     
-    (9) Where provisions of a notice of the kind referred to in [section 368(2)(f)][813] are deemed to constitute provisions of a regional plan under [section 368(1)][813], the provisions shall cease to be operative on the expiry of 2 years from the date on which the notice was notified under [section 34(2)][1796] of the Soil Conservation and Rivers Control Amendment Act 1959\.
+    (9) Where provisions of a notice of the kind referred to in [section 368(2)(f)][813] are deemed to constitute provisions of a regional plan under [section 368(1)][813], the provisions shall cease to be operative on the expiry of 2 years from the date on which the notice was notified under [section 34(2)][1798] of the Soil Conservation and Rivers Control Amendment Act 1959\.
     
     (10) Where the maximum and minimum levels, minimum standards of quality, minimum acceptable flow, or maximum range of flow of any water fixed under section 20J of the Water and Soil Conservation Act 1967 are deemed to constitute the provisions of a regional plan under [section 368(1)][813], the plan shall be deemed to include---
         
@@ -21293,29 +21305,29 @@ Transitional provisions
     
     (13) [Sections 357 to 358][793] (which deal with rights of objection and appeal against certain decisions) apply, with all necessary modifications, in respect of every public notice under subsection (11).
     
-    Section 369(4): replaced, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(4): replaced, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(4): amended, on 17 December 1997, by [section 61][1798] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 369(4): amended, on 17 December 1997, by [section 61][1800] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 369(5): replaced, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(5): replaced, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(6): replaced, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(6): replaced, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(7): replaced, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(7): replaced, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(8): inserted, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(8): inserted, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(9): inserted, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(9): inserted, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(10): inserted, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(10): inserted, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(11): inserted, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(11): inserted, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(12): inserted, on 7 July 1993, by [section 166][1797] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 369(12): inserted, on 7 July 1993, by [section 166][1799] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 369(13): inserted, on 1 August 2003, by [section 89][1799] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 369(13): inserted, on 1 August 2003, by [section 89][1801] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 369(13): amended, on 10 August 2005, by [section 126][1800] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 369(13): amended, on 10 August 2005, by [section 126][1802] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 #### Transitional regional coastal plans
 
@@ -21349,13 +21361,13 @@ Transitional provisions
     
     (5) However, subsection (4) does not apply to a plan change request made under [subpart 4][478] of Part 7A.
     
-    Section 370(2)(d): inserted, on 7 July 1993, by [section 167(1)][1801] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 370(2)(d): inserted, on 7 July 1993, by [section 167(1)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 370(3): amended, on 7 July 1993, by [section 167(2)][1801] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 370(3): amended, on 7 July 1993, by [section 167(2)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 370(4): replaced, on 7 July 1993, by [section 167(3)][1801] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 370(4): replaced, on 7 July 1993, by [section 167(3)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 370(5): inserted, on 1 October 2011, by [section 58][1802] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 370(5): inserted, on 1 October 2011, by [section 58][1804] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 371 Provisions deemed to be regional rules
     
@@ -21391,17 +21403,17 @@ Transitional provisions
     
     (5) Subsections (1) to (4) shall apply, with all necessary modifications, in respect of a provision of any proposed district scheme or combined scheme or maritime planning scheme, or any change, review, or variation, under the Town and Country Planning Act 1977 that has been publicly notified before the date of commencement of this Act and to any variation, publicly notified under [section 378(1)][826].
     
-    Section 371 heading: amended, on 7 July 1993, by [section 168][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 371 heading: amended, on 7 July 1993, by [section 168][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 371(1)(c): replaced, on 7 July 1993, by [section 168(1)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 371(1)(c): replaced, on 7 July 1993, by [section 168(1)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 371(2A): inserted, on 7 July 1993, by [section 168(2)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 371(2A): inserted, on 7 July 1993, by [section 168(2)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 371(3)(c): replaced, on 7 July 1993, by [section 168(3)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 371(3)(c): replaced, on 7 July 1993, by [section 168(3)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 371(3)(d): inserted, on 7 July 1993, by [section 168(3)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 371(3)(d): inserted, on 7 July 1993, by [section 168(3)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 371(5): inserted, on 7 July 1993, by [section 168(4)][1803] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 371(5): inserted, on 7 July 1993, by [section 168(4)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 372 Power of Minister of Conservation to give directions relating to restricted coastal activities
     
@@ -21453,7 +21465,7 @@ Transitional provisions
     
     (8) Subsections (2) and (3) shall apply to any directions given under subsection (7), except that those directions shall cease to have effect on the date that a proposed regional coastal plan is notified under [clause 5][1166] of Schedule 1\.
     
-    Section 372(3)(c): amended, on 1 August 2003, by [section 90][1804] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 372(3)(c): amended, on 1 August 2003, by [section 90][1806] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 372(4)(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -21479,13 +21491,13 @@ Transitional provisions
     
     in respect of any district, then, for the purposes of this Act every use of land shall be deemed to be a discretionary activity.
     
-    Section 373(2): replaced, on 7 July 1993, by [section 169(1)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 373(2): replaced, on 7 July 1993, by [section 169(1)][1807] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 373(3): repealed, on 7 July 1993, by [section 169(2)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 373(3): repealed, on 7 July 1993, by [section 169(2)][1807] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 373(4): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 373(4): amended, on 7 July 1993, by [section 169(3)][1805] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 373(4): amended, on 7 July 1993, by [section 169(3)][1807] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 374 Provisions deemed to be district rules
     
@@ -21527,11 +21539,11 @@ Transitional provisions
     
     (5) Subsections (1) to (4) shall apply, with all necessary modifications, in respect of a provision of any proposed district scheme or combined scheme or maritime planning scheme, or any change, review, or variation, under the Town and Country Planning Act 1977 that has been publicly notified before the date of commencement of this Act, and to any variation, publicly notified under [section 378(1)][826].
     
-    Section 374(1)(c): replaced, on 7 July 1993, by [section 170(1)][1806] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 374(1)(c): replaced, on 7 July 1993, by [section 170(1)][1808] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 374(4): replaced, on 7 July 1993, by [section 170(2)][1806] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 374(4): replaced, on 7 July 1993, by [section 170(2)][1808] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 374(5): inserted, on 7 July 1993, by [section 170(2)][1806] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 374(5): inserted, on 7 July 1993, by [section 170(2)][1808] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 375 Transitional provisions for public utilities
     
@@ -21567,13 +21579,13 @@ Transitional provisions
     
     (3) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under [section 373][820].
     
-    Section 375(1): amended, on 7 July 1993, by [section 171(1)][1807] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 375(1): amended, on 7 July 1993, by [section 171(1)][1809] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 375(1)(a)(iv): replaced, on 10 August 2005, by [section 128][1808] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Section 375(1)(a)(iv): replaced, on 10 August 2005, by [section 128][1810] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 375(2): replaced, on 7 July 1993, by [section 171(2)][1807] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 375(2): replaced, on 7 July 1993, by [section 171(2)][1809] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 375(3): replaced, on 7 July 1993, by [section 171(2)][1807] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 375(3): replaced, on 7 July 1993, by [section 171(2)][1809] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Provisions relating to all plans
 
@@ -21629,13 +21641,13 @@ Transitional provisions
     
     in respect of any proceedings to which subsection (1) or (2) applies shall continue to have that right, and that right may be exercised as if the enactments repealed by this Act continued in force.
     
-    Section 378(1): replaced, on 7 July 1993, by [section 172][1809] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 378(1): replaced, on 7 July 1993, by [section 172][1811] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 378(1A): inserted, on 7 July 1993, by [section 172][1809] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 378(1A): inserted, on 7 July 1993, by [section 172][1811] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 378(1B): inserted, on 7 July 1993, by [section 172][1809] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 378(1B): inserted, on 7 July 1993, by [section 172][1811] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 378(1C): inserted, on 7 July 1993, by [section 172][1809] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 378(1C): inserted, on 7 July 1993, by [section 172][1811] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 378(1C): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -21647,7 +21659,7 @@ Transitional provisions
     > 
     > 
     
-    Section 379: amended, on 7 July 1993, by [section 173][1810] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 379: amended, on 7 July 1993, by [section 173][1812] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Transitional notices, directions, etc
 
@@ -21673,7 +21685,7 @@ Transitional provisions
         
     *   (a) sections 24D and 24G of the Water and Soil Conservation Act 1967 (which authorises restrictions on and cessation of the exercise of rights relating to water):
     
-    *   (b) [section 35][1791] of the Soil Conservation and Rivers Control Amendment Act 1959 (which authorises requirements relating to soil conservation).
+    *   (b) [section 35][1793] of the Soil Conservation and Rivers Control Amendment Act 1959 (which authorises requirements relating to soil conservation).
     
     (2) Any right of appeal against a notice of a kind referred to in subsection (1) that exists at the date of commencement of this Act shall continue after that date as if the enactment giving that right continued in force.
 
@@ -21685,7 +21697,7 @@ Transitional provisions
     
 *   Any property seized and impounded under the provisions of section 7 or section 11 of the Noise Control Act 1982 which has not been returned to the owner, or person from whom it was seized, at the date of commencement of this Act shall be deemed to be property seized under [section 328][739]; and the provisions of this Act shall apply accordingly.
     
-    Section 382A: inserted, on 7 July 1993, by [section 174][1811] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 382A: inserted, on 7 July 1993, by [section 174][1813] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Transitional resource consents
 
@@ -21707,7 +21719,7 @@ Transitional provisions
     
     (3) Notwithstanding subsection (2), every resource consent deemed to be granted by subsection (1) shall be deemed to include a condition enabling the holder of the consent, at any time within 3 years after the date of commencement of this Act, to apply to the relevant regional council under [section 127(1)][312] to change the permit for the purpose of including, as conditions of that permit, matters that could have been included in a licence, permit, or approval required before 1 October 1991 and of enabling the consent to authorise the activity.
     
-    Section 383A: inserted, on 7 July 1993, by [section 175][1812] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 383A: inserted, on 7 July 1993, by [section 175][1814] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 384 Existing permissions to become coastal permits
     
@@ -21737,11 +21749,11 @@ Transitional provisions
     
     (4) Notwithstanding [section 127][312], any application under that section to change a permit pursuant to subsection (3) shall be notified only to the Minister of Conservation and any other resource consent holder who may be affected by the activity which is the subject of the application.
     
-    (5) This section applies subject to [section 12][1813] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
+    (5) This section applies subject to [section 12][1815] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
     
-    Section 384: replaced, on 7 July 1993, by [section 176][1814] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 384: replaced, on 7 July 1993, by [section 176][1816] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 384(5): inserted, on 1 January 2005, by [section 21][1815] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 384(5): inserted, on 1 January 2005, by [section 21][1817] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 384A Right of port companies to occupy coastal marine area
     
@@ -21765,17 +21777,17 @@ Transitional provisions
     
     *   (b) any disagreements; and
     
-    *   (c) the port company plan approved or determined under [section 22][1816] of the Port Companies Act 1988; and
+    *   (c) the port company plan approved or determined under [section 22][1818] of the Port Companies Act 1988; and
     
     *   (d) any other matter the Minister considers appropriate---
     
-    to determine the extent to which a coastal permit authorising occupation is required to enable the port company to manage and operate the port related commercial undertakings acquired under the [Port Companies Act 1988][1817].
+    to determine the extent to which a coastal permit authorising occupation is required to enable the port company to manage and operate the port related commercial undertakings acquired under the [Port Companies Act 1988][1819].
     
     (6) Before making any determination under subsection (5), the Minister of Transport shall consult with the Minister of Conservation, the appropriate regional council, any territorial authority having jurisdiction in the area adjacent to the coastal marine area concerned, and the port company.
     
     (7) The Minister of Transport shall approve the draft coastal permit and any plan, with or without modification, but the proposed expiry date shall not be altered.
     
-    (8) The Minister of Transport's decision, which shall be a coastal permit, shall be sent to the Minister of Conservation, the appropriate regional council, territorial authority, and port company before 31 March 1994; and that decision shall be final unless an application for review under [Part 1][1661] of the Judicature Amendment Act 1972, or proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, is made.
+    (8) The Minister of Transport's decision, which shall be a coastal permit, shall be sent to the Minister of Conservation, the appropriate regional council, territorial authority, and port company before 31 March 1994; and that decision shall be final unless an application for review under [Part 1][1663] of the Judicature Amendment Act 1972, or proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, is made.
     
     (9) The appropriate regional council shall ensure that a record of the coastal permit, as decided by the Minister of Transport, is available to the public as required under [section 35][77].
     
@@ -21799,11 +21811,11 @@ Transitional provisions
     
     (12) For the purposes of this Act, the consent authority for any coastal permit approved under this section is the regional council whose consent, but for this section, would normally be required.
     
-    Section 384A: inserted, on 7 July 1993, by [section 177][1818] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 384A: inserted, on 7 July 1993, by [section 177][1820] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 384A(11) **occupy**: repealed, on 1 January 2005, by [section 22][1819] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 384A(11) **occupy**: repealed, on 1 January 2005, by [section 22][1821] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 384A(12): inserted, on 2 September 1996, by [section 20][1820] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 384A(12): inserted, on 2 September 1996, by [section 20][1822] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 385 Existing clean air permissions to become discharge permits
     
@@ -21839,11 +21851,11 @@ Transitional provisions
     
     (5) The date of expiry of any discharge permit deemed to be granted by subsection (1) shall be 1 year after the date on which the permission would have expired if this Act had not been passed.
     
-    Section 385(2): replaced, on 7 July 1993, by [section 178(1)][1821] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 385(2): replaced, on 7 July 1993, by [section 178(1)][1823] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 385(3)(a)(i): amended, on 7 July 1993, by [section 178(2)][1821] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 385(3)(a)(i): amended, on 7 July 1993, by [section 178(2)][1823] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 385(3)(b)(i): amended, on 7 July 1993, by [section 178(2)][1821] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 385(3)(b)(i): amended, on 7 July 1993, by [section 178(2)][1823] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 386 Existing rights and authorities under Water and Soil Conservation Act 1967
     
@@ -21911,15 +21923,15 @@ Transitional provisions
     
     (8) Nothing in this section applies in respect of any mining privilege within the meaning of [section 413(1)][878].
     
-    Section 386(1)(a)(iii): amended, on 7 July 1993, by [section 179(1)][1822] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 386(1)(a)(iii): amended, on 7 July 1993, by [section 179(1)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 386(1)(c)(iii): amended, on 7 July 1993, by [section 179(2)][1822] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 386(1)(c)(iii): amended, on 7 July 1993, by [section 179(2)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 386(1)(c)(iv): inserted, on 7 July 1993, by [section 179(3)][1822] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 386(1)(c)(iv): inserted, on 7 July 1993, by [section 179(3)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 386(2): replaced, on 7 July 1993, by [section 179(4)][1822] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 386(2): replaced, on 7 July 1993, by [section 179(4)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 386(3): replaced, on 7 July 1993, by [section 179(4)][1822] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 386(3): replaced, on 7 July 1993, by [section 179(4)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 387 Existing geothermal licences and authorisations deemed to be water permits
     
@@ -21949,23 +21961,23 @@ Transitional provisions
     
     *   (b) all other conditions and provisions, the consent authority concerned.
     
-    (5) Clause 15(2) to (6) of [Schedule 1][1823] of the Crown Minerals Act 1991, with all necessary modifications, shall apply in respect of every water permit or coastal permit to which this section applies, as if references in those subsections to an existing privilege were references to such a water permit or such a coastal permit, as the case may require.
+    (5) Clause 15(2) to (6) of [Schedule 1][1825] of the Crown Minerals Act 1991, with all necessary modifications, shall apply in respect of every water permit or coastal permit to which this section applies, as if references in those subsections to an existing privilege were references to such a water permit or such a coastal permit, as the case may require.
     
     (6) Where a permit resulting from a licence under the Geothermal Energy Act 1953 would, but for this subsection, not expire by the 35th anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the 35th anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
     
     (7) Where a permit resulting from a power or authorisation under section 11 of the Geothermal Energy Act 1953 would, but for this subsection, not expire by the tenth anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the tenth anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
     
-    Section 387(1): amended, on 7 July 1993, by [section 180(1)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 387(1): amended, on 7 July 1993, by [section 180(1)][1826] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 387(4)(aa): inserted, on 2 September 1996, by [section 21][1825] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 387(4)(aa): inserted, on 2 September 1996, by [section 21][1827] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 387(5): replaced, on 1 October 1991, by section 2(2) of the Crown Minerals Amendment Act 1991 (1991 No 102).
     
-    Section 387(5): amended, on 24 May 2013, by [section 65][1826] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 387(5): amended, on 24 May 2013, by [section 65][1828] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 387(6): inserted, on 7 July 1993, by [section 180(2)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 387(6): inserted, on 7 July 1993, by [section 180(2)][1826] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 387(7): inserted, on 7 July 1993, by [section 180(2)][1824] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 387(7): inserted, on 7 July 1993, by [section 180(2)][1826] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 388 Requirement to supply information
     
@@ -22001,7 +22013,7 @@ Transitional provisions
     
     *   (d) an application for a lease or licence under the Marine Farming Act 1971 (to which [section 397][857] applies).
     
-    Section 389: replaced, on 7 July 1993, by [section 181][1827] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 389: replaced, on 7 July 1993, by [section 181][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 390 Application being heard
     
@@ -22009,7 +22021,7 @@ Transitional provisions
     
     (2) Where the effect of any determination under this section is that the permission, licence, or permit is granted, the grant shall constitute the grant of a resource consent of the appropriate kind under this Act; and this Act shall apply accordingly.
     
-    Section 390: replaced, on 7 July 1993, by [section 181][1827] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 390: replaced, on 7 July 1993, by [section 181][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 390A Appeals
     
@@ -22035,7 +22047,7 @@ Transitional provisions
     
     (5) For the purposes of this section, the term _right of appeal_ includes the hearing and determination of the appeal (including an appeal where the notice of appeal was lodged and the date for the lodging of the appeal expired before 1 October 1991).
     
-    Section 390A: inserted, on 7 July 1993, by [section 181][1827] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 390A: inserted, on 7 July 1993, by [section 181][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 390A(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -22051,7 +22063,7 @@ Transitional provisions
     
     (2) Where, in respect of any application to which [section 389(1)][842] applies, the person who was empowered to decide the application by the enactment under which the application was made is no longer the relevant consent authority, that person shall, as soon as practicable, endorse on the application the date on which it was made and refer the application, and all information relevant to it, to the relevant consent authority.
     
-    Section 390B: inserted, on 7 July 1993, by [section 181][1827] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 390B: inserted, on 7 July 1993, by [section 181][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 390C Dealing with applications for permissions
     
@@ -22071,7 +22083,7 @@ Transitional provisions
     
     *   (b) may be appealed against in accordance with this Act.
     
-    Section 390C: inserted, on 7 July 1993, by [section 181][1827] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 390C: inserted, on 7 July 1993, by [section 181][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 390C(1)(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -22083,7 +22095,7 @@ Transitional provisions
     
     (2) Notwithstanding any other provision of this Act, for the purposes of subsection (1) the date of application shall be the date on which the application was lodged with the then appropriate consent authority, and not the date on which it was received by the relevant consent authority under this Act.
     
-    Section 390D: inserted, on 7 July 1993, by [section 181][1827] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 390D: inserted, on 7 July 1993, by [section 181][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 391 Applications for licences and approvals under Clean Air Act 1972
     
@@ -22161,7 +22173,7 @@ Transitional provisions
     
     *   (d) in all other respects the application shall be determined by the consent authority in accordance with the provisions of this Act.
     
-    Section 391A: inserted, on 7 July 1993, by [section 182][1828] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 391A: inserted, on 7 July 1993, by [section 182][1830] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 391A(2)(a): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -22225,57 +22237,57 @@ Transitional provisions
     
     then, notwithstanding anything in this Act, the Governor-General may vest the land in the grantee of the authority to reclaim (or any successor), by Order in Council under the Harbours Act 1950 as if this Act had not been enacted.
     
-    Section 393(1)(b): amended, on 7 July 1993, by [section 184(1)][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 393(1)(b): amended, on 7 July 1993, by [section 184(1)][1831] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 393(1)(e): replaced, on 7 July 1993, by [section 184(2)][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 393(1)(e): replaced, on 7 July 1993, by [section 184(2)][1831] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 393(1)(e): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 393(1)(f): inserted, on 7 July 1993, by [section 184(2)][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 393(1)(f): inserted, on 7 July 1993, by [section 184(2)][1831] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 393(4): inserted, on 7 July 1993, by [section 184(3)][1829] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 393(4): inserted, on 7 July 1993, by [section 184(3)][1831] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 394 Transitional provisions relating to setting aside of esplanade reserves on reclamation
     
 *   \[Repealed\]
     
-    Section 394: repealed, on 7 July 1993, by [section 185][1830] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 394: repealed, on 7 July 1993, by [section 185][1832] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 395 Applications for works, etc, in coastal marine area
     
 *   \[Repealed\]
     
-    Section 395: repealed, on 1 October 2009, by [section 148][1831] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 395: repealed, on 1 October 2009, by [section 148][1833] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 396 Applications for marine farming in coastal marine area
     
 *   \[Repealed\]
     
-    Section 396: repealed, on 1 January 2005, by [section 23][1832] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 396: repealed, on 1 January 2005, by [section 23][1834] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 396A Notification of lapsing, cancellation, or surrender of coastal permit for marine farming
     
 *   \[Repealed\]
     
-    Section 396A: repealed, on 1 January 2005, by [section 24][1833] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 396A: repealed, on 1 January 2005, by [section 24][1835] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 396B Notification of rule change affecting marine farming
     
 *   \[Repealed\]
     
-    Section 396B: repealed, on 1 January 2005, by [section 25][1834] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 396B: repealed, on 1 January 2005, by [section 25][1836] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 397 Existing applications for marine farming leases
     
 *   \[Repealed\]
     
-    Section 397: repealed, on 1 January 2005, by [section 26][1835] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 397: repealed, on 1 January 2005, by [section 26][1837] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 398 Regional councils not to accept applications for coastal permits in areas notified by Minister of Fisheries
     
 *   \[Repealed\]
     
-    Section 398: repealed, on 1 January 2005, by [section 27][1836] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 398: repealed, on 1 January 2005, by [section 27][1838] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 399 Applications received on same day
     
@@ -22289,7 +22301,7 @@ Transitional provisions
     
     the consent authority shall process and determine those applications under this Act in a sequence commencing with the application which, in accordance with any of those provisions, is endorsed with the earliest date, and ending with the application so endorsed with the latest date, and this Act shall apply accordingly.
     
-    Section 399(a): amended, on 7 July 1993, by [section 190][1837] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 399(a): amended, on 7 July 1993, by [section 190][1839] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 400 Applications under Marine Farming Act 1971 for prohibited anchorages, etc
     
@@ -22317,19 +22329,19 @@ Transitional provisions
     
     (4) Where no provision for coastal occupation charges has been made in a regional coastal plan or proposed regional coastal plan by the expiry date, the regional council must, in the first proposed regional coastal plan or change to a regional coastal plan notified on or after the expiry date, include a statement or regime on coastal occupation charges in accordance with [section 64A][155].
     
-    (5) In this section, _expiry date_ means the date that is 3 years after the commencement of [section 59][1838] of the Resource Management Amendment Act (No 2) 2011\.
+    (5) In this section, _expiry date_ means the date that is 3 years after the commencement of [section 59][1840] of the Resource Management Amendment Act (No 2) 2011\.
     
-    Section 401A: inserted, on 17 December 1997, by [section 62][1839] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 401A: inserted, on 17 December 1997, by [section 62][1841] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 401A(1): amended, on 1 January 2005, by [section 28(1)][1840] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 401A(1): amended, on 1 January 2005, by [section 28(1)][1842] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
-    Section 401A(3): amended, on 1 October 2011, by [section 59(1)][1838] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 401A(3): amended, on 1 October 2011, by [section 59(1)][1840] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 401A(4): amended, on 1 October 2011, by [section 59(2)(a)][1838] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 401A(4): amended, on 1 October 2011, by [section 59(2)(a)][1840] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 401A(4): amended, on 1 October 2011, by [section 59(2)(b)][1838] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 401A(4): amended, on 1 October 2011, by [section 59(2)(b)][1840] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 401A(5): inserted, on 1 October 2011, by [section 59(3)][1838] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Section 401A(5): inserted, on 1 October 2011, by [section 59(3)][1840] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 401B Obligation to pay coastal occupation charge deemed condition of consent
     
@@ -22341,9 +22353,9 @@ Transitional provisions
     
     there is implied a condition that the holder must at all times throughout the period of the permit pay to the relevant regional council any sum of money required to be paid (if any) by that regional coastal plan.
     
-    Section 401B: inserted, on 17 December 1997, by [section 62][1839] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 401B: inserted, on 17 December 1997, by [section 62][1841] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 401B(a): amended, on 1 January 2005, by [section 29][1841] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 401B(a): amended, on 1 January 2005, by [section 29][1843] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 #### Subdivision and development
 
@@ -22351,15 +22363,15 @@ Transitional provisions
     
 *   (1) Nothing in [section 11][22] or [Part 10][572] shall apply to any subdivision in respect of which there is in force immediately before the commencement of this Act---
         
-    *   (a) an approval under [section 279][1788] of the Local Government Act 1974 of a scheme plan; or
+    *   (a) an approval under [section 279][1790] of the Local Government Act 1974 of a scheme plan; or
     
-    *   (b) an approval under [section 305][1842] of that Act of a survey plan.
+    *   (b) an approval under [section 305][1844] of that Act of a survey plan.
     
-    (2) [Parts 20][1843] and [21][1844] of the Local Government Act 1974 shall continue to apply to any subdivision referred to in subsection (1) as if this Act had not been enacted.
+    (2) [Parts 20][1845] and [21][1846] of the Local Government Act 1974 shall continue to apply to any subdivision referred to in subsection (1) as if this Act had not been enacted.
     
-    (3) For the purposes of subsection (1), an approval under [section 279][1788] of the Local Government Act 1974 shall be deemed to be in force notwithstanding---
+    (3) For the purposes of subsection (1), an approval under [section 279][1790] of the Local Government Act 1974 shall be deemed to be in force notwithstanding---
         
-    *   (a) that there exists a right of objection under [section 299][1845] of that Act or a right of appeal under [section 300][1846] or [section 301][1847] of that Act; or
+    *   (a) that there exists a right of objection under [section 299][1847] of that Act or a right of appeal under [section 300][1848] or [section 301][1849] of that Act; or
     
     *   (b) that any such right of objection or that any such right of appeal has been exercised by any person.
     
@@ -22369,15 +22381,15 @@ Transitional provisions
     
 *   (1) Nothing in [section 11][22] or [Part 10][572] shall apply to any subdivision in respect of which, before the date of commencement of this Act,---
         
-    *   (a) the territorial authority has refused to approve a scheme plan of subdivision under [sections 274][1848] and [279(1)(f)][1788] of the Local Government Act 1974; and
+    *   (a) the territorial authority has refused to approve a scheme plan of subdivision under [sections 274][1850] and [279(1)(f)][1790] of the Local Government Act 1974; and
     
-    *   (b) a right of objection under [section 299][1845] of that Act, or a right of appeal under [section 300][1846] of that Act, has been exercised by any person in respect of that refusal.
+    *   (b) a right of objection under [section 299][1847] of that Act, or a right of appeal under [section 300][1848] of that Act, has been exercised by any person in respect of that refusal.
     
-    (2) [Parts 20][1843] and [21][1844] of the Local Government Act 1974 shall continue to apply to any subdivision referred to in subsection (1) as if this Act had not been enacted.
+    (2) [Parts 20][1845] and [21][1846] of the Local Government Act 1974 shall continue to apply to any subdivision referred to in subsection (1) as if this Act had not been enacted.
 
 ##### 404 Existing applications for approval
     
-*   Where an application for approval of a scheme plan of subdivision has been made under [section 275][1849] of the Local Government Act 1974 before the commencement of this Act, and the territorial authority has not exercised its powers under [section 279][1788] of that Act in relation to the scheme plan, the application shall be deemed---
+*   Where an application for approval of a scheme plan of subdivision has been made under [section 275][1851] of the Local Government Act 1974 before the commencement of this Act, and the territorial authority has not exercised its powers under [section 279][1790] of that Act in relation to the scheme plan, the application shall be deemed---
         
     *   (a) to be an application for a subdivision consent under this Act and shall be dealt with accordingly; and
     
@@ -22413,15 +22425,15 @@ Transitional provisions
     
     (5) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under [section 373][820].
     
-    Section 405: replaced, on 7 July 1993, by [section 191][1850] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 405: replaced, on 7 July 1993, by [section 191][1852] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 405A Transitional provisions for esplanade reserves where land subdivided or road stopped
     
-*   (1) Subject to subsections (3) and (4) and with the consent of the Minister of Conservation, on any road stopped under the [Local Government Act 1974][1557], and on every application for subdivision consent in respect of any allotment of less than 4 hectares, a territorial authority may impose a condition, that---
+*   (1) Subject to subsections (3) and (4) and with the consent of the Minister of Conservation, on any road stopped under the [Local Government Act 1974][1559], and on every application for subdivision consent in respect of any allotment of less than 4 hectares, a territorial authority may impose a condition, that---
         
-    *   (a) the esplanade reserve required to be set aside under [section 230][588] of this Act or [section 345(3)][1244] of the Local Government Act 1974 along the mark of mean high water springs of the sea, or along the margin of any lake, or along the bank of any river, may be reduced or increased from 20 metres to any width; or
+    *   (a) the esplanade reserve required to be set aside under [section 230][588] of this Act or [section 345(3)][1246] of the Local Government Act 1974 along the mark of mean high water springs of the sea, or along the margin of any lake, or along the bank of any river, may be reduced or increased from 20 metres to any width; or
     
-    *   (b) [section 230][588] of this Act and [section 345(3)][1244] of the Local Government Act 1974 shall not apply in respect of land along the mark of mean high water springs of the sea, or along the margin of any lake, or along the bank of any river, to which the application relates; or
+    *   (b) [section 230][588] of this Act and [section 345(3)][1246] of the Local Government Act 1974 shall not apply in respect of land along the mark of mean high water springs of the sea, or along the margin of any lake, or along the bank of any river, to which the application relates; or
     
     *   (c) that, instead of an esplanade reserve, an esplanade strip of any width specified may be created under [section 232][590].
     
@@ -22439,7 +22451,7 @@ Transitional provisions
     
     (5) The provisions of [Part 10][572] shall apply to any esplanade reserve or esplanade strip required under this section.
     
-    (6) Any declaration or decision under [section 289(7)][1585] of the Local Government Act 1974, or under any corresponding earlier enactment, to exclude the bank of any river from the requirement of an esplanade reserve shall be deemed to be a district rule for the purposes of [section 77][173], where that direction had effect on 30 September 1991\.
+    (6) Any declaration or decision under [section 289(7)][1587] of the Local Government Act 1974, or under any corresponding earlier enactment, to exclude the bank of any river from the requirement of an esplanade reserve shall be deemed to be a district rule for the purposes of [section 77][173], where that direction had effect on 30 September 1991\.
     
     (7) Where any action taken pursuant to a declaration or decision which is deemed to be a district rule under subsection (6) was taken before the commencement of this subsection, that action is hereby validated and declared to have been lawfully carried out.
     
@@ -22447,9 +22459,9 @@ Transitional provisions
     
     (9) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under [section 373][820].
     
-    Section 405A: inserted, on 7 July 1993, by [section 191][1850] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 405A: inserted, on 7 July 1993, by [section 191][1852] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 405A(1): amended, on 17 December 1997, by [section 63][1851] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 405A(1): amended, on 17 December 1997, by [section 63][1853] of the Resource Management Amendment Act 1997 (1997 No 104).
 
 ##### 406 Grounds of refusal of subdivision consent
     
@@ -22475,15 +22487,15 @@ Transitional provisions
     
     (2) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under [section 373][820].
     
-    Section 406(1)(a): amended, on 1 August 2003, by [section 91][1852] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 406(1)(a): amended, on 1 August 2003, by [section 91][1854] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 406(2): inserted, on 7 July 1993, by [section 192][1853] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 406(2): inserted, on 7 July 1993, by [section 192][1855] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 407 Subdivision consent conditions
     
-*   (1) Where an application for a subdivision consent is made in respect of land for which there is no district plan, or where the district plan does not include relevant provisions of the kind contemplated by [section 108(2)(a)][282] or [220(1)(a)][575], the territorial authority may impose, as a condition of the subdivision consent, any condition that could have been imposed under [sections 283][1854], [285][1855], [286][1856], [291][1857], [321A][1858], or [322][1859], as the case may be, of the Local Government Act 1974 if those sections had not been repealed by this Act.
+*   (1) Where an application for a subdivision consent is made in respect of land for which there is no district plan, or where the district plan does not include relevant provisions of the kind contemplated by [section 108(2)(a)][282] or [220(1)(a)][575], the territorial authority may impose, as a condition of the subdivision consent, any condition that could have been imposed under [sections 283][1856], [285][1857], [286][1858], [291][1859], [321A][1860], or [322][1861], as the case may be, of the Local Government Act 1974 if those sections had not been repealed by this Act.
     
-    (2) For the purposes of subsection (1), every reference in [sections 283][1854], [285][1855], [286][1856], [291][1857], [321A][1858], and [322][1859] of the Local Government Act 1974---
+    (2) For the purposes of subsection (1), every reference in [sections 283][1856], [285][1857], [286][1858], [291][1859], [321A][1860], and [322][1861] of the Local Government Act 1974---
         
     *   (a) to an application for the approval of a scheme plan, shall be deemed to be a reference to an application for a resource consent; and
     
@@ -22495,21 +22507,21 @@ Transitional provisions
     
     (5) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under [section 373][820].
     
-    Section 407(1): amended, on 17 December 1997, by [section 64][1860] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 407(1): amended, on 17 December 1997, by [section 64][1862] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 407(3): inserted, on 7 July 1993, by [section 193][1861] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 407(3): inserted, on 7 July 1993, by [section 193][1863] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 407(4): inserted, on 7 July 1993, by [section 193][1861] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 407(4): inserted, on 7 July 1993, by [section 193][1863] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 407(5): inserted, on 7 July 1993, by [section 193][1861] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 407(5): inserted, on 7 July 1993, by [section 193][1863] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 408 Existing approvals for unit plans, cross lease plans, and company lease plans
     
 *   (1) Nothing in [section 11][22] or [Part 10][572] shall apply---
         
-    *   (a) to the deposit of a unit plan, or to the issue of a certificate of title for any unit on such a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under [section 32(2)(a)][1862] of the Unit Titles Act 2010:
+    *   (a) to the deposit of a unit plan, or to the issue of a certificate of title for any unit on such a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under [section 32(2)(a)][1864] of the Unit Titles Act 2010:
     
-    *   (b) to the deposit of a plan to give effect to the registration of a cross lease, or to the issue of a certificate of title for a cross lease in respect of a building or part of a building shown on a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under [section 314][1863] of the Local Government Act 1974:
+    *   (b) to the deposit of a plan to give effect to the registration of a cross lease, or to the issue of a certificate of title for a cross lease in respect of a building or part of a building shown on a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under [section 314][1865] of the Local Government Act 1974:
     
     *   (c) to the deposit of a plan to give effect to the grant of a company lease, or to the registration or issue of a certificate of title for a company lease in respect of a building or part of a building shown on a plan, where the plan is approved by the Chief Surveyor before the date of commencement of this Act.
     
@@ -22523,13 +22535,13 @@ Transitional provisions
     
 *   (1) Subject to [section 410][874], where an application for a resource consent for a development is made in respect of land for which there is no district plan, or where the district plan does not include provisions of the kind contemplated by [section 108(2)(a)][282], the territorial authority may impose, as a condition of the consent,---
         
-    *   (a) any condition described in any of [sections 283][1854], [289][1585], [291][1857], [292][1864], [321A][1858], or [322][1859] of the Local Government Act 1974 that, by virtue of [section 281][1865] or [section 294B][1866] of that Act, could have been imposed in respect of a development if those sections had not been repealed by this Act:
+    *   (a) any condition described in any of [sections 283][1856], [289][1587], [291][1859], [292][1866], [321A][1860], or [322][1861] of the Local Government Act 1974 that, by virtue of [section 281][1867] or [section 294B][1868] of that Act, could have been imposed in respect of a development if those sections had not been repealed by this Act:
     
-    *   (b) any requirement that could have been imposed in respect of a development under [section 294][1867] of the Local Government Act 1974 (if that section had not been repealed by this Act) to pay a reserves contribution or to set aside, as public reserve, any area of land.
+    *   (b) any requirement that could have been imposed in respect of a development under [section 294][1869] of the Local Government Act 1974 (if that section had not been repealed by this Act) to pay a reserves contribution or to set aside, as public reserve, any area of land.
     
     (2) For the purposes of subsection (1)---
         
-    *   (a) every reference in [sections 283][1854], [289][1585], [291][1857], [292][1864], [321A][1858], and [322][1859] of the Local Government Act 1974---
+    *   (a) every reference in [sections 283][1856], [289][1587], [291][1859], [292][1866], [321A][1860], and [322][1861] of the Local Government Act 1974---
             
         *   (i) to an application for the approval of a scheme plan, shall be deemed to be a reference to an application for a resource consent; and
         
@@ -22537,45 +22549,45 @@ Transitional provisions
         
         
     
-    *   (b) every reference in [section 294][1867] of the Local Government Act 1974 to a requirement under [section 293][1868] of that Act to notify the Council of a proposed development, shall be deemed to be a reference to an application for a resource consent.
+    *   (b) every reference in [section 294][1869] of the Local Government Act 1974 to a requirement under [section 293][1870] of that Act to notify the Council of a proposed development, shall be deemed to be a reference to an application for a resource consent.
     
-    (2A) For the purposes of subsection (1)(b), [section 294][1867] of the Local Government Act 1974 shall be read as if that section had not been repealed by this Act and as if section 294(1) of that Act did not contain the words ""and the assessed value of the development is not in excess of $50 million"".
+    (2A) For the purposes of subsection (1)(b), [section 294][1869] of the Local Government Act 1974 shall be read as if that section had not been repealed by this Act and as if section 294(1) of that Act did not contain the words ""and the assessed value of the development is not in excess of $50 million"".
     
-    (3) For the purposes of this section and [sections 410][874] and [411][875], _development_ has the same meaning as in [section 271A][1869] of the Local Government Act 1974 before its repeal by this Act.
+    (3) For the purposes of this section and [sections 410][874] and [411][875], _development_ has the same meaning as in [section 271A][1871] of the Local Government Act 1974 before its repeal by this Act.
     
     (4) Where a district plan or proposed district plan has been deemed to be constituted by [section 373][820] and a provision, expressly or by implication and whether or not subject to conditions, of that plan or proposed plan authorised a development without further consent or approval from the former consent authority being required, then, notwithstanding [section 374(3)(a)][821], such a development is deemed to be a controlled activity only for the purposes of subsections (1) and (2), and any application for a land use consent to which this subsection applies shall not be notified under [sections 95 to 95F][241].
     
     (5) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under [section 373][820].
     
-    Section 409(1): amended, on 17 December 1997, by [section 65][1870] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 409(1): amended, on 17 December 1997, by [section 65][1872] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 409(2A): inserted, on 7 July 1993, by [section 194(1)][1871] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 409(2A): inserted, on 7 July 1993, by [section 194(1)][1873] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 409(4): inserted, on 7 July 1993, by [section 194(2)][1871] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 409(4): inserted, on 7 July 1993, by [section 194(2)][1873] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 409(4): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 409(5): inserted, on 7 July 1993, by [section 194(2)][1871] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 409(5): inserted, on 7 July 1993, by [section 194(2)][1873] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 410 Existing developments
     
-*   [Parts 20][1843] and [21][1844] of the Local Government Act 1974 shall continue to apply to any development that, before the commencement of this Act, is notified to a territorial authority under [section 293(1)][1868] of the Local Government Act 1974 as if this Act had not been enacted.
+*   [Parts 20][1845] and [21][1846] of the Local Government Act 1974 shall continue to apply to any development that, before the commencement of this Act, is notified to a territorial authority under [section 293(1)][1870] of the Local Government Act 1974 as if this Act had not been enacted.
 
 ##### 411 Restriction on imposition of conditions as to financial contributions
     
-*   (1) A consent authority shall not impose a condition of the type contemplated by [section 108(2)(a)][282] on any resource consent where a development levy within the meaning of [section 270][1789] of the Local Government Act 1974 (before its repeal by this Act) has been fixed and is paid or payable in respect of the activity in respect of which the application for the resource consent is made.
+*   (1) A consent authority shall not impose a condition of the type contemplated by [section 108(2)(a)][282] on any resource consent where a development levy within the meaning of [section 270][1791] of the Local Government Act 1974 (before its repeal by this Act) has been fixed and is paid or payable in respect of the activity in respect of which the application for the resource consent is made.
     
-    (2) Where financial contributions under [Part 20][1843] and [21][1844] of the Local Government Act 1974 (including reserves contributions and development levies) have been fixed and have been paid, or are paid or payable in respect of an activity, the consent authority shall deal with the money in accordance with the requirement of [section 223F][1872] of the Local Government Act 1974 and in reasonable accordance with the purposes for which the money was received.
+    (2) Where financial contributions under [Part 20][1845] and [21][1846] of the Local Government Act 1974 (including reserves contributions and development levies) have been fixed and have been paid, or are paid or payable in respect of an activity, the consent authority shall deal with the money in accordance with the requirement of [section 223F][1874] of the Local Government Act 1974 and in reasonable accordance with the purposes for which the money was received.
     
-    Section 411(1): amended, on 17 December 1997, by [section 66][1873] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 411(1): amended, on 17 December 1997, by [section 66][1875] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 411(2): inserted, on 7 July 1993, by [section 195][1874] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 411(2): inserted, on 7 July 1993, by [section 195][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 412 Expiry of certain sections
     
 *   \[Repealed\]
     
-    Section 412: repealed, on 7 July 1993, by [section 196][1875] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 412: repealed, on 7 July 1993, by [section 196][1877] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Current mining privileges relating to water
 
@@ -22647,21 +22659,21 @@ Transitional provisions
     
     (10) Section 18 of the Water and Soil Conservation Amendment Act 1971 shall continue to apply in respect of those deemed permits to which it applied before the date of commencement of this Act as if this Act had not been enacted.
     
-    Section 413(1)(d): amended, on 7 July 1993, by [section 197(1)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(1)(d): amended, on 7 July 1993, by [section 197(1)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 413(1)(e): inserted, on 7 July 1993, by [section 197(2)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(1)(e): inserted, on 7 July 1993, by [section 197(2)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 413(2): amended, on 7 July 1993, by [section 197(3)(a)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(2): amended, on 7 July 1993, by [section 197(3)(a)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 413(2): amended, on 7 July 1993, by [section 197(3)(b)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(2): amended, on 7 July 1993, by [section 197(3)(b)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 413(3): amended, on 7 July 1993, by [section 197(4)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(3): amended, on 7 July 1993, by [section 197(4)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 413(3A): inserted, on 7 July 1993, by [section 197(5)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(3A): inserted, on 7 July 1993, by [section 197(5)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 413(9)(c): replaced, on 7 July 1993, by [section 197(6)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(9)(c): replaced, on 7 July 1993, by [section 197(6)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 413(9)(d): inserted, on 7 July 1993, by [section 197(6)][1876] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 413(9)(d): inserted, on 7 July 1993, by [section 197(6)][1878] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 414 Deemed permits to be subject to regional rules
     
@@ -22755,7 +22767,7 @@ Transitional provisions
     
     *   (b) when determining the amount of compensation payable under the [Public Works Act 1981][952] for any loss, damage, or injurious affection suffered, or for the taking or acquisition of the deemed permit,---
             
-        *   (i) for the purposes of [section 62][1877] of that Act in the case of a claim for injurious affection or damage resulting from a regional rule of the kind referred to in [section 414][879], the specified date shall be the date the regional rule becomes operative; and
+        *   (i) for the purposes of [section 62][1879] of that Act in the case of a claim for injurious affection or damage resulting from a regional rule of the kind referred to in [section 414][879], the specified date shall be the date the regional rule becomes operative; and
         
         *   (ii) for the purposes of that Act, the deemed permit shall be deemed to be due to expire on the 30th anniversary of the specified date.
         
@@ -22779,11 +22791,11 @@ Transitional provisions
     
     *   (c) have endorsed on the certificate or refer to a diagram or plan attached to the certificate (which need not be a survey plan), showing the course of any race and, as the case may be, the site of any dam and the boundaries of any part of the land which the permit specifies as being affected except that, where it is not practicable to show the true course or site or part of the land, it shall be indicated as nearly as possible, and, until the contrary is proved, the course or site or part of the land so indicated shall be deemed to be the true course, site, or boundaries, as the case may be.
     
-    (3) No action shall lie against the Crown under [Part 11][1878] of the Land Transfer Act 1952 by reason of any certificate registered under this section not indicating the true course of any race, the site of any dam, or boundary of any part of the land.
+    (3) No action shall lie against the Crown under [Part 11][1880] of the Land Transfer Act 1952 by reason of any certificate registered under this section not indicating the true course of any race, the site of any dam, or boundary of any part of the land.
     
     (4) Every such certificate shall be deemed---
         
-    *   (a) to be an instrument capable of registration under the [Land Transfer Act 1952][962] and, when so registered, to create in favour of the permit holder an interest in the land in respect of which it is registered, within the meaning of [section 62][1328] of that Act; and
+    *   (a) to be an instrument capable of registration under the [Land Transfer Act 1952][962] and, when so registered, to create in favour of the permit holder an interest in the land in respect of which it is registered, within the meaning of [section 62][1330] of that Act; and
     
     *   (b) when so registered, to be binding on any registered proprietor of an estate in fee simple or leasehold or on any registered licensee, and on any subsequent mortgagee of any land, or of any interest in any land, affected by the certificate notwithstanding the expiration, lapsing, cancellation, surrender, suspension, or transfer of the deemed permit to which it relates.
     
@@ -22793,17 +22805,17 @@ Transitional provisions
     
     (7) Nothing in the [Land Transfer Act 1952][962] shall limit or affect any right, title, or interest held under a deemed permit over land of which the holder of the permit is not the owner before the certificate has been registered and particulars have been entered by the Registrar-General of Land on the instrument of title affected in accordance with subsection (6).
     
-    (8) If the land affected by subsection (1) or any part of it is not subject to the [Land Transfer Act 1952][962], and dealings with the land or part not so subject are not registerable under the [Deeds Registration Act 1908][1561], the person in whose favour the right continues may at any time obtain from the relevant regional council a certificate in terms of subsections (1) and (2), and may lodge a true copy of the certificate in the office of the Chief Surveyor; and the Chief Surveyor shall note the existence of the certificate on the proper plans and records of the land district.
+    (8) If the land affected by subsection (1) or any part of it is not subject to the [Land Transfer Act 1952][962], and dealings with the land or part not so subject are not registerable under the [Deeds Registration Act 1908][1563], the person in whose favour the right continues may at any time obtain from the relevant regional council a certificate in terms of subsections (1) and (2), and may lodge a true copy of the certificate in the office of the Chief Surveyor; and the Chief Surveyor shall note the existence of the certificate on the proper plans and records of the land district.
     
-    Section 417(1): amended, on 7 July 1993, by [section 198(1)][1879] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 417(1): amended, on 7 July 1993, by [section 198(1)][1881] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 417(5): replaced, on 7 July 1993, by [section 198(2)][1879] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 417(5): replaced, on 7 July 1993, by [section 198(2)][1881] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 417(6): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Section 417(7): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 417(8): inserted, on 7 July 1993, by [section 198(3)][1879] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 417(8): inserted, on 7 July 1993, by [section 198(3)][1881] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 #### Existing uses
 
@@ -22829,15 +22841,15 @@ Transitional provisions
     
     [section 9(3) and (4)][18] shall not, unless a district plan or a proposed district plan otherwise provides, apply in respect of any such activity to the extent that the activity is permitted by the licence, permit, or authorisation or exempted from the bylaw.
     
-    Section 417A: inserted, on 7 July 1993, by [section 199][1880] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 417A: inserted, on 7 July 1993, by [section 199][1882] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 417A(1): replaced, on 2 September 1996, by [section 22(1)][1881] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 417A(1): replaced, on 2 September 1996, by [section 22(1)][1883] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 417A(1): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 417A(1A): inserted, on 2 September 1996, by [section 22(1)][1881] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 417A(1A): inserted, on 2 September 1996, by [section 22(1)][1883] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 417A(1B): inserted, on 2 September 1996, by [section 22(1)][1881] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 417A(1B): inserted, on 2 September 1996, by [section 22(1)][1883] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 417A(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -22865,7 +22877,7 @@ Transitional provisions
     
     (3B) Notwithstanding [section 13(1)(a)][28], any use, erection, reconstruction, placement, alteration, extension, removal, or demolition of any structure or part of any structure in, on, under, or over the bed of any river or lake (whether or not commenced or being carried out) which, before 1 October 1991, could have been lawfully commenced and continued without any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, may be continued or commenced at any time after the date of commencement of this Act until a regional plan provides otherwise.
     
-    (3C) For the purposes of this Act, each regional plan under [section 368][813] shall be deemed to include a rule to the effect that every activity described in [section 13(1)(a) or (b)][28], in respect of any line defined in [section 2(1A)][1882] of the Telecommunications Act 1987, is a permitted activity in every case where that activity---
+    (3C) For the purposes of this Act, each regional plan under [section 368][813] shall be deemed to include a rule to the effect that every activity described in [section 13(1)(a) or (b)][28], in respect of any line defined in [section 2(1A)][1884] of the Telecommunications Act 1987, is a permitted activity in every case where that activity---
         
     *   (a) will not cause or contribute to the occurrence of---
             
@@ -22887,11 +22899,11 @@ Transitional provisions
     
     *   (b) heat or energy from the material surrounding any geothermal water---
     
-    was being lawfully taken or used, and such taking or use did not require any licence, permit, or other authorisation under the Geothermal Energy Act 1953, then, notwithstanding [section 14(2)(b) and (c)][1883], such taking or use may be continued until a regional plan provides otherwise.
+    was being lawfully taken or used, and such taking or use did not require any licence, permit, or other authorisation under the Geothermal Energy Act 1953, then, notwithstanding [section 14(2)(b) and (c)][1885], such taking or use may be continued until a regional plan provides otherwise.
     
     (5) For the purposes of this Act, where, immediately before the date of commencement of this Act, any person holds any permit or dispensation granted under---
         
-    *   (a) a bylaw made under [section 149][1793] of the Soil Conservation and Rivers Control Act 1941 (relating to watercourses) or [section 150][1794] of that Act (relating to land utilisation); or
+    *   (a) a bylaw made under [section 149][1795] of the Soil Conservation and Rivers Control Act 1941 (relating to watercourses) or [section 150][1796] of that Act (relating to land utilisation); or
     
     *   (b) a bylaw made under section 34A of the Water and Soil Conservation Act 1967 (relating to dam construction); or
     
@@ -22937,53 +22949,53 @@ Transitional provisions
     
     (9) For the purposes of this Act, [section 14(2)(a)][30] shall not apply in respect of any activity lawfully being carried out in relation to the taking of water from a reservoir for water supply purposes, before 1 October 1991, which did not require any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, until the tenth anniversary of the date of commencement of this Act, unless a regional plan sooner provides otherwise.
     
-    Section 418(1): replaced, on 2 September 1996, by [section 23(1)][1884] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 418(1): replaced, on 2 September 1996, by [section 23(1)][1886] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 418(1A): replaced, on 2 September 1996, by [section 23(1)][1884] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 418(1A): replaced, on 2 September 1996, by [section 23(1)][1886] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 418(1B): replaced, on 17 December 1997, by [section 67(1)][1885] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 418(1B): replaced, on 17 December 1997, by [section 67(1)][1887] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 418(1C): replaced, on 2 September 1996, by [section 23(1)][1884] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 418(1C): replaced, on 2 September 1996, by [section 23(1)][1886] of the Resource Management Amendment Act 1996 (1996 No 160).
     
     Section 418(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 418(3): replaced, on 7 July 1993, by [section 200(2)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(3): replaced, on 7 July 1993, by [section 200(2)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(3A): inserted, on 7 July 1993, by [section 200(2)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(3A): inserted, on 7 July 1993, by [section 200(2)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(3B): inserted, on 7 July 1993, by [section 200(2)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(3B): inserted, on 7 July 1993, by [section 200(2)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(3C): inserted, on 7 July 1993, by [section 200(2)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(3C): inserted, on 7 July 1993, by [section 200(2)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(3C): amended, on 20 December 2001, pursuant to [section 159(8)][1887] of the Telecommunications Act 2001 (2001 No 103).
+    Section 418(3C): amended, on 20 December 2001, pursuant to [section 159(8)][1889] of the Telecommunications Act 2001 (2001 No 103).
     
-    Section 418(3D): inserted, on 7 July 1993, by [section 200(2)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(3D): inserted, on 7 July 1993, by [section 200(2)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 418(4): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 418(4): amended, on 7 July 1993, by [section 200(3)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(4): amended, on 7 July 1993, by [section 200(3)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(5)(b): amended, on 7 July 1993, by [section 200(4)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(5)(b): amended, on 7 July 1993, by [section 200(4)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(6)(a)(ii): amended, on 1 January 2005, by [section 30(1)][1888] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 418(6)(a)(ii): amended, on 1 January 2005, by [section 30(1)][1890] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
     
     Section 418(6)(e): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 418(6A): inserted, on 7 July 1993, by [section 200(5)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(6A): inserted, on 7 July 1993, by [section 200(5)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(6A): amended, on 2 September 1996, by [section 23(3)][1884] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 418(6A): amended, on 2 September 1996, by [section 23(3)][1886] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 418(6B): inserted, on 7 July 1993, by [section 200(5)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(6B): inserted, on 7 July 1993, by [section 200(5)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 418(6C): inserted, on 7 July 1993, by [section 200(5)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(6C): inserted, on 7 July 1993, by [section 200(5)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 418(7): amended, on 1 August 2003, by [section 95][1008] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Section 418(8): inserted, on 7 July 1993, by [section 200(6)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(8): inserted, on 7 July 1993, by [section 200(6)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 418(8): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 418(9): inserted, on 7 July 1993, by [section 200(6)][1886] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 418(9): inserted, on 7 July 1993, by [section 200(6)][1888] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 418(9): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -23037,17 +23049,17 @@ Transitional provisions
     
     (8) Subsection (7) applies whether or not the requirement is the subject of any proceedings before a territorial authority, the Environment Court, or any other court.
     
-    Section 420(2): amended, on 7 July 1993, by [section 201(1)][1889] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 420(2): amended, on 7 July 1993, by [section 201(1)][1891] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 420(2)(b): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 420(3): amended, on 17 December 1997, by [section 68(1)][1890] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 420(3): amended, on 17 December 1997, by [section 68(1)][1892] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 420(4): repealed, on 17 December 1997, by [section 68(2)][1890] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Section 420(4): repealed, on 17 December 1997, by [section 68(2)][1892] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 420(5): replaced, on 7 July 1993, by [section 201(3)][1889] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 420(5): replaced, on 7 July 1993, by [section 201(3)][1891] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 420(5A): inserted, on 7 July 1993, by [section 201(3)][1889] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 420(5A): inserted, on 7 July 1993, by [section 201(3)][1891] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Section 420(8): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -23133,7 +23145,7 @@ Transitional provisions
     
     Section 422(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 422(6)(b): amended, on 1 July 1993, pursuant to [section 118(1)][1207] of the Historic Places Act 1993 (1993 No 38).
+    Section 422(6)(b): amended, on 1 July 1993, pursuant to [section 118(1)][1208] of the Historic Places Act 1993 (1993 No 38).
     
     Section 422(8): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -23199,13 +23211,13 @@ Transitional provisions
     
     *   (b) every bylaw referred to in subsection (3) may from time to time be altered or revoked by the territorial authority---
     
-    for the region or area to which the bylaw relates, in the manner provided in [section 681][1891] of the Local Government Act 1974, as if the bylaw had been made by the regional council, or as the case may be, the territorial authority under that Act.
+    for the region or area to which the bylaw relates, in the manner provided in [section 681][1893] of the Local Government Act 1974, as if the bylaw had been made by the regional council, or as the case may be, the territorial authority under that Act.
     
     (6) The alteration under subsection (5) of any bylaw referred to in subsections (2), (3), and (4) shall not come into force until the alteration has been approved by the Minister of Conservation and the Minister of Transport, jointly, by notice in the _Gazette_.
     
     (7) Sections 233, 234(2), 235, 236, 237, and 239 of the Harbours Act 1950, so far as they are applicable and with all necessary modifications, shall continue to apply to those bylaws referred to in subsections (2), (3), and (4) as if the regional council or, as the case may be, the territorial authority, were the Harbour Board.
     
-    (8) Where, immediately before the date of commencement of this Act, there was in force any bylaw (in this subsection called a _former bylaw_) made pursuant to [section 3][1892] of the Lakes District Waterways (Shotover River) Empowering Act 1985, there shall be deemed to be in force, as from the date of commencement of this Act, in substitution for the former bylaw, a new bylaw on the same terms and conditions and with the same force and effect as the former bylaw; and subsections (3) to (7) and (9) and [section 427][896] shall apply to the new bylaw as if that new bylaw were a bylaw made by a public body (within the meaning of the Harbours Act 1950) under the Harbours Act 1950\.
+    (8) Where, immediately before the date of commencement of this Act, there was in force any bylaw (in this subsection called a _former bylaw_) made pursuant to [section 3][1894] of the Lakes District Waterways (Shotover River) Empowering Act 1985, there shall be deemed to be in force, as from the date of commencement of this Act, in substitution for the former bylaw, a new bylaw on the same terms and conditions and with the same force and effect as the former bylaw; and subsections (3) to (7) and (9) and [section 427][896] shall apply to the new bylaw as if that new bylaw were a bylaw made by a public body (within the meaning of the Harbours Act 1950) under the Harbours Act 1950\.
     
     (9) A local authority that has functions, powers, and duties under any bylaw referred to in any of subsections (2), (3), (4), and (8) may, while the bylaw is in existence, transfer any 1 or more of those functions, powers, or duties to another public authority in accordance with [section 33][74].
     
@@ -23213,23 +23225,23 @@ Transitional provisions
     
     (11) Where a proposed regional coastal plan has been notified and any inconsistencies arise between the provisions of that proposed plan and the bylaws under subsection (2) or subsection (4), the provisions of the proposed regional coastal plan shall prevail.
     
-    Section 424(1)(b): amended, on 7 July 1993, by [section 202(1)][1893] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 424(1)(b): amended, on 7 July 1993, by [section 202(1)][1895] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 424(2): amended, on 2 September 1996, by [section 24(1)][1894] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 424(2): amended, on 2 September 1996, by [section 24(1)][1896] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 424(3): amended, on 2 September 1996, by [section 24(1)][1894] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 424(3): amended, on 2 September 1996, by [section 24(1)][1896] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 424(4): amended, on 2 September 1996, by [section 24(1)][1894] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 424(4): amended, on 2 September 1996, by [section 24(1)][1896] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 424(8): inserted, on 7 July 1993, by [section 202(2)][1893] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 424(8): inserted, on 7 July 1993, by [section 202(2)][1895] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 424(9): inserted, on 7 July 1993, by [section 202(2)][1893] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 424(9): inserted, on 7 July 1993, by [section 202(2)][1895] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 424(10): inserted, on 7 July 1993, by [section 202(2)][1893] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 424(10): inserted, on 7 July 1993, by [section 202(2)][1895] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 424(11): inserted, on 7 July 1993, by [section 202(2)][1893] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 424(11): inserted, on 7 July 1993, by [section 202(2)][1895] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 424(11): amended, on 2 September 1996, by [section 24(2)][1894] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 424(11): amended, on 2 September 1996, by [section 24(2)][1896] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 425 Leases, licences, and other authorities under Harbours Act 1950
     
@@ -23247,11 +23259,11 @@ Transitional provisions
     
     shall, notwithstanding the amendment of that Act by this Act, continue in force after the date of commencement of this Act on the same conditions and with the same effect as if that Act had not been so amended.
     
-    (4) This section applies subject to [section 12][1813] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
+    (4) This section applies subject to [section 12][1815] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
     
-    Section 425(3)(c): amended, on 7 July 1993, by [section 203][1895] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 425(3)(c): amended, on 7 July 1993, by [section 203][1897] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 425(4): inserted, on 1 January 2005, by [section 31][1896] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 425(4): inserted, on 1 January 2005, by [section 31][1898] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 425A Functions and powers in respect of activities on or in Lake Taupo
     
@@ -23271,7 +23283,7 @@ Transitional provisions
     
     (2) The enactments to which subsection (1) applies are as follows:
         
-    *   (a) the [Maori Land Amendment and Maori Land Claims Adjustment Act 1926][1897]:
+    *   (a) the [Maori Land Amendment and Maori Land Claims Adjustment Act 1926][1899]:
     
     *   (b) the Harbours Act 1950:
     
@@ -23293,13 +23305,13 @@ Transitional provisions
     
     (3) For the purposes of this section, _Lake Taupo_ has the same meaning as lake in the Lake Taupo Regulations 1976\.
     
-    Section 425A: inserted, on 7 July 1993, by [section 204][1898] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 425A: inserted, on 7 July 1993, by [section 204][1900] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 426 Leases and licences executed under Marine Farming Act 1971
     
 *   \[Repealed\]
     
-    Section 426: repealed, on 1 January 2005, by [section 32][1899] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
+    Section 426: repealed, on 1 January 2005, by [section 32][1901] of the Resource Management Amendment Act (No 2) 2004 (2004 No 103).
 
 ##### 427 Deemed transfer of powers to former public bodies
     
@@ -23401,7 +23413,7 @@ Transitional provisions
     
     (10) In this section, _public body_ and _public bodies acting jointly_, and _Harbour Board_ have the same meanings as in sections 2(1), 8A(12)(a), and 165(10) of the Harbours Act 1950 before the repeal of those sections by this Act.
     
-    Section 427(2)(a): amended, on 7 July 1993, by [section 206][1900] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 427(2)(a): amended, on 7 July 1993, by [section 206][1902] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 428 Environment Court
     
@@ -23441,9 +23453,9 @@ Transitional provisions
     
     (2) The Minister of Conservation shall not, if he or she complies with subsection (1), be in breach of [section 57][144] during the period from the date of commencement of this Act until the New Zealand coastal policy statement becomes operative.
     
-    Section 431 heading: amended, on 7 July 1993, by [section 207][1901] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 431 heading: amended, on 7 July 1993, by [section 207][1903] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 431(1): amended, on 7 July 1993, by [section 207][1901] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 431(1): amended, on 7 July 1993, by [section 207][1903] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 432 Obligation to prepare regional policy statements and coastal plans within 2 years
     
@@ -23453,9 +23465,9 @@ Transitional provisions
     
     (2) A regional council that complies with subsection (1) shall not be in breach of [section 60][149] or [section 64][154], as the case may be, during the period from the date of commencement of this Act until the policy statement or plan becomes operative.
     
-    Section 432(1): replaced, on 7 July 1993, by [section 208][1902] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 432(1): replaced, on 7 July 1993, by [section 208][1904] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Section 432(1A): inserted, on 7 July 1993, by [section 208][1902] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Section 432(1A): inserted, on 7 July 1993, by [section 208][1904] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 433 Collection of water management charges
     
@@ -23470,106 +23482,106 @@ Preparation, change, and review of policy statements and plans
 
 ## Contents
 
-[Part 1][1230]  
-[Preparation and change of policy statements and plans by local authorities][1230]
+[Part 1][1232]  
+[Preparation and change of policy statements and plans by local authorities][1232]
 
-[1][1903][][1903][Time limits][1903]
+[1][1905][][1905][Time limits][1905]
 
 [2][1165][][1165][Preparation of proposed policy statement or plan][1165]
 
-[3][1407][][1407][Consultation][1407]
+[3][1409][][1409][Consultation][1409]
 
-[3A][1904][][1904][Consultation in relation to policy statements][1904]
+[3A][1906][][1906][Consultation in relation to policy statements][1906]
 
-[3B][1905][][1905][Consultation with iwi authorities][1905]
+[3B][1907][][1907][Consultation with iwi authorities][1907]
 
-[3C][1906][][1906][Previous consultation under other enactments][1906]
+[3C][1908][][1908][Previous consultation under other enactments][1908]
 
-[4][1408][][1408][Requirements to be inserted prior to notification of proposed district plans][1408]
+[4][1410][][1410][Requirements to be inserted prior to notification of proposed district plans][1410]
 
 [5][1166][][1166][Public notice and provision of document to public bodies][1166]
 
-[6][1261][][1261][Making of submissions][1261]
+[6][1263][][1263][Making of submissions][1263]
 
-[7][1477][][1477][Public notice of submissions][1477]
+[7][1479][][1479][Public notice of submissions][1479]
 
-[8][1478][][1478][Certain persons may make further submissions][1478]
+[8][1480][][1480][Certain persons may make further submissions][1480]
 
-[8A][1907][][1907][Service of further submissions][1907]
+[8A][1909][][1909][Service of further submissions][1909]
 
-[8AA][1908][][1908][Resolution of disputes][1908]
+[8AA][1910][][1910][Resolution of disputes][1910]
 
-[8B][1479][][1479][Hearing by local authority][1479]
+[8B][1481][][1481][Hearing by local authority][1481]
 
-[8C][1480][][1480][Hearing not needed][1480]
+[8C][1482][][1482][Hearing not needed][1482]
 
-[8D][1909][][1909][Withdrawal of proposed policy statements and plans][1909]
+[8D][1911][][1911][Withdrawal of proposed policy statements and plans][1911]
 
-[9][1910][][1910][Recommendations and decisions on requirements][1910]
+[9][1912][][1912][Recommendations and decisions on requirements][1912]
 
 [10][1088][][1088][Decisions on provisions and matters raised in submissions][1088]
 
-[11][1911][][1911][Notification of decision][1911]
+[11][1913][][1913][Notification of decision][1913]
 
-[12][1912][][1912][Record of effect of decisions on provisions other than requirements][1912] \[Repealed\]
+[12][1914][][1914][Record of effect of decisions on provisions other than requirements][1914] \[Repealed\]
 
-[13][1913][][1913][Decision of requiring authority or heritage protection authority][1913]
+[13][1915][][1915][Decision of requiring authority or heritage protection authority][1915]
 
-[14][1258][][1258][Appeals to Environment Court][1258]
+[14][1260][][1260][Appeals to Environment Court][1260]
 
-[15][1257][][1257][Hearing by the Environment Court][1257]
+[15][1259][][1259][Hearing by the Environment Court][1259]
 
-[16][1428][][1428][Amendment of proposed policy statement or plan][1428]
+[16][1430][][1430][Amendment of proposed policy statement or plan][1430]
 
 [16A][1168][][1168][Variation of proposed policy statement or plan][1168]
 
-[16B][1914][][1914][Merger with proposed policy statement or plan][1914]
+[16B][1916][][1916][Merger with proposed policy statement or plan][1916]
 
 [17][1099][][1099][Final consideration of policy statements and plans other than regional coastal plans][1099]
 
-[18][1429][][1429][Consideration of a regional coastal plan by regional council][1429]
+[18][1431][][1431][Consideration of a regional coastal plan by regional council][1431]
 
 [19][1072][][1072][Ministerial approval of regional coastal plan][1072]
 
 [20][1167][][1167][Operative date][1167]
 
-[20A][1915][][1915][Correction of operative policy statement or plan][1915]
+[20A][1917][][1917][Correction of operative policy statement or plan][1917]
 
 [Part 2][1170]  
 [Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans][1170]
 
 [21][1140][][1140][Requests][1140]
 
-[22][1410][][1410][Form of request][1410]
+[22][1412][][1412][Form of request][1412]
 
-[23][1419][][1419][Further information may be required][1419]
+[23][1421][][1421][Further information may be required][1421]
 
-[24][1420][][1420][Modification of request][1420]
+[24][1422][][1422][Modification of request][1422]
 
 [25][1087][][1087][Local authority to consider request][1087]
 
-[26][1415][][1415][Notification timeframes][1415]
+[26][1417][][1417][Notification timeframes][1417]
 
-[27][1916][][1916][Appeals][1916]
+[27][1918][][1918][Appeals][1918]
 
-[28][1476][][1476][Withdrawal of requests][1476]
+[28][1478][][1478][Withdrawal of requests][1478]
 
 [29][1089][][1089][Procedure under this Part][1089]
 
 [Part 3][1104]  
 [Incorporation of documents by reference in plans and proposed plans][1104]
 
-[30][1917][][1917][Incorporation of documents by reference in plans and proposed plans][1917]
+[30][1919][][1919][Incorporation of documents by reference in plans and proposed plans][1919]
 
-[31][1918][][1918][Effect of amendments to, or replacement of, material incorporated by reference in plans and proposed plans][1918]
+[31][1920][][1920][Effect of amendments to, or replacement of, material incorporated by reference in plans and proposed plans][1920]
 
-[32][1919][][1919][Proof of material incorporated by reference][1919]
+[32][1921][][1921][Proof of material incorporated by reference][1921]
 
-[33][1920][][1920][Effect of expiry of material incorporated by reference][1920]
+[33][1922][][1922][Effect of expiry of material incorporated by reference][1922]
 
-[34][1921][][1921][Consultation on proposal to incorporate material by reference][1921]
+[34][1923][][1923][Consultation on proposal to incorporate material by reference][1923]
 
-[35][1922][][1922][Access to material incorporated by reference][1922]
+[35][1924][][1924][Access to material incorporated by reference][1924]
 
 ---
 
@@ -23586,11 +23598,11 @@ Preparation and change of policy statements and plans by local authorities
     
     (4) Where, under this schedule, a request for a plan change is to be heard and an application for a resource consent or a requirement for a designation or heritage order has been made in relation to the same proposal, [section 102][260] (joint hearings) and [section 103][261] (combined hearings) may apply.
     
-    Schedule 1 clause 1 heading: amended, on 1 October 2009, by [section 149(2)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 1 heading: amended, on 1 October 2009, by [section 149(2)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 1(1): repealed, on 1 October 2009, by [section 149(3)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 1(1): repealed, on 1 October 2009, by [section 149(3)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 1(4): inserted, on 7 July 1993, by [section 209][1924] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 1(4): inserted, on 7 July 1993, by [section 209][1926] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 2 Preparation of proposed policy statement or plan
     
@@ -23604,7 +23616,7 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (c) any customary marine title group in the region.
     
-    Schedule 1 clause 2(2): replaced, on 17 January 2005, by [section 36(1)][1925] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Schedule 1 clause 2(2): replaced, on 17 January 2005, by [section 36(1)][1927] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Schedule 1 clause 2(2)(c): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -23628,25 +23640,25 @@ Preparation and change of policy statements and plans by local authorities
         
     *   (a) the Minister of Conservation generally as to the content of the plan, and with particular respect to those activities to be described as restricted coastal activities in the proposed plan; and
     
-    *   (b) the Minister of Transport in relation to matters to do with navigation and the Minister's functions under [Parts 18 to 27][1926] of the Maritime Transport Act 1994; and
+    *   (b) the Minister of Transport in relation to matters to do with navigation and the Minister's functions under [Parts 18 to 27][1928] of the Maritime Transport Act 1994; and
     
     *   (c) the Minister of Fisheries in relation to fisheries management, and the management of aquaculture activities.
     
-    (4) In consulting persons for the purposes of subclause (2), a local authority must undertake the consultation in accordance with [section 82][1927] of the Local Government Act 2002\.
+    (4) In consulting persons for the purposes of subclause (2), a local authority must undertake the consultation in accordance with [section 82][1929] of the Local Government Act 2002\.
     
-    Schedule 1 clause 3(1)(d): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 3(1)(d): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 3(1)(d): amended, on 17 January 2005, by [section 36(2)][1925] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
+    Schedule 1 clause 3(1)(d): amended, on 17 January 2005, by [section 36(2)][1927] of the Resource Management (Foreshore and Seabed) Amendment Act 2004 (2004 No 94).
     
     Schedule 1 clause 3(1)(e): replaced, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Schedule 1 clause 3(3)(b): amended, on 20 August 1998, by [section 27][1929] of the Resource Management Amendment Act 1994 (1994 No 105).
+    Schedule 1 clause 3(3)(b): amended, on 20 August 1998, by [section 27][1931] of the Resource Management Amendment Act 1994 (1994 No 105).
     
-    Schedule 1 clause 3(4): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 3(4): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 3A Consultation in relation to policy statements
     
-*   (1) A triennial agreement entered into under [section 15(1)][1930] of the Local Government Act 2002 must include an agreement on the consultation process to be used by the affected local authorities in the course of---
+*   (1) A triennial agreement entered into under [section 15(1)][1932] of the Local Government Act 2002 must include an agreement on the consultation process to be used by the affected local authorities in the course of---
         
     *   (a) preparing a proposed policy statement or a variation to a proposed policy statement; and
     
@@ -23654,13 +23666,13 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (c) reviewing a policy statement.
     
-    (2) If an agreement on the consultation process required by subclause (1) is not reached by the date prescribed in [section 15(1)][1930] of the Local Government Act 2002,---
+    (2) If an agreement on the consultation process required by subclause (1) is not reached by the date prescribed in [section 15(1)][1932] of the Local Government Act 2002,---
         
     *   (a) subclause (1) ceases to apply to that triennial agreement; and
     
     *   (b) 1 or more of the affected local authorities---
             
-        *   (i) must advise the Minister and every affected local authority as soon as is reasonably practicable after the date prescribed in [section 15(1)][1930] of the Local Government Act 2002; and
+        *   (i) must advise the Minister and every affected local authority as soon as is reasonably practicable after the date prescribed in [section 15(1)][1932] of the Local Government Act 2002; and
         
         *   (ii) may submit the matter to mediation.
         
@@ -23692,11 +23704,11 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (b) every territorial authority whose district is wholly or partly in the region of the regional council.
     
-    Schedule 1 clause 3A: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 3A: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 3B Consultation with iwi authorities
     
-*   For the purposes of [clause 3(1)(d)][1407], a local authority is to be treated as having consulted with iwi authorities in relation to those whose details are entered in the record kept under [section 35A][78], if the local authority---
+*   For the purposes of [clause 3(1)(d)][1409], a local authority is to be treated as having consulted with iwi authorities in relation to those whose details are entered in the record kept under [section 35A][78], if the local authority---
         
     *   (a) considers ways in which it may foster the development of their capacity to respond to an invitation to consult; and
     
@@ -23708,15 +23720,15 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (e) indicates how those issues have been or are to be addressed.
     
-    Schedule 1 clause 3B: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 3B: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 3C Previous consultation under other enactments
     
-*   A local authority is not required to comply with [clause 3][1407] to the extent that any matter in a proposed policy statement or plan has been the subject of consultation with the same person, group of persons, or their representative or agent under another enactment within the 36 months preceding public notification of the proposed policy statement or plan that the matter relates to, so long as that person, group of persons, or their representative or agent were advised that the information obtained from that consultation was also to apply in relation to matters under this Act.
+*   A local authority is not required to comply with [clause 3][1409] to the extent that any matter in a proposed policy statement or plan has been the subject of consultation with the same person, group of persons, or their representative or agent under another enactment within the 36 months preceding public notification of the proposed policy statement or plan that the matter relates to, so long as that person, group of persons, or their representative or agent were advised that the information obtained from that consultation was also to apply in relation to matters under this Act.
     
-    Schedule 1 clause 3C: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 3C: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 3C: amended, on 1 October 2009, by [section 149(4)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 3C: amended, on 1 October 2009, by [section 149(4)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 4 Requirements to be inserted prior to notification of proposed district plans
     
@@ -23744,17 +23756,17 @@ Preparation and change of policy statements and plans by local authorities
     
     (10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without using the process in this schedule, amend its proposed district plan accordingly.
     
-    Schedule 1 clause 4: replaced, on 7 July 1993, by [section 210][1931] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 4: replaced, on 7 July 1993, by [section 210][1933] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 4(3): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 4(3): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 4(4): amended, on 1 October 2009, by [section 149(5)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 4(4): amended, on 1 October 2009, by [section 149(5)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 4(7): replaced, on 1 October 2009, by [section 149(6)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 4(7): replaced, on 1 October 2009, by [section 149(6)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 4(9): inserted, on 1 August 2003, by [section 92(1)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 4(9): inserted, on 1 August 2003, by [section 92(1)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Schedule 1 clause 4(10): inserted, on 1 August 2003, by [section 92(1)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 4(10): inserted, on 1 August 2003, by [section 92(1)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Schedule 1 clause 4(10): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -23770,7 +23782,7 @@ Preparation and change of policy statements and plans by local authorities
     
     and shall send a copy of the public notice to any other person who, in the territorial authority's opinion, is directly affected by the plan.
     
-    (1B) Notwithstanding subclause (1A), a territorial authority shall ensure that notice is given of any requirement or modification of a designation or heritage order under [clause 4][1408] to land owners and occupiers who, in the territorial authority's opinion, are likely to be directly affected.
+    (1B) Notwithstanding subclause (1A), a territorial authority shall ensure that notice is given of any requirement or modification of a designation or heritage order under [clause 4][1410] to land owners and occupiers who, in the territorial authority's opinion, are likely to be directly affected.
     
     (1C) A regional council shall, not earlier than 60 working days before public notification or later than 10 working days after public notification, send a copy of the public notice and such further information as the regional council thinks fit relating to the proposed policy statement or plan to any person who, in the regional council's opinion, is likely to be directly affected by the proposed policy statement or plan.
     
@@ -23812,25 +23824,25 @@ Preparation and change of policy statements and plans by local authorities
     
     (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under [section 35][77] (records).
     
-    Schedule 1 clause 5(1): replaced, on 7 July 1993, by [section 211(1)][1933] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 5(1): replaced, on 7 July 1993, by [section 211(1)][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 5(1A): inserted, on 7 July 1993, by [section 211(1)][1933] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 5(1A): inserted, on 7 July 1993, by [section 211(1)][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 5(1A)(a): amended, on 1 October 2009, by [section 149(7)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 5(1A)(a): amended, on 1 October 2009, by [section 149(7)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 5(1A)(a): amended, on 7 July 2004, by [section 13][1934] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Schedule 1 clause 5(1A)(a): amended, on 7 July 2004, by [section 13][1936] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
     
-    Schedule 1 clause 5(1B): inserted, on 7 July 1993, by [section 211(1)][1933] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 5(1B): inserted, on 7 July 1993, by [section 211(1)][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 5(1C): inserted, on 7 July 1993, by [section 211(1)][1933] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 5(1C): inserted, on 7 July 1993, by [section 211(1)][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 5(3)(b): amended, on 7 July 1993, by [section 211(2)][1933] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 5(3)(b): amended, on 7 July 1993, by [section 211(2)][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 5(4)(b): repealed, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 5(4)(b): repealed, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Schedule 1 clause 5(4)(f): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Schedule 1 clause 5(4)(f): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 5(4)(f): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Schedule 1 clause 5(4)(g): repealed, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -23850,7 +23862,7 @@ Preparation and change of policy statements and plans by local authorities
     
     (5) A submission must be in the prescribed form.
     
-    Schedule 1 clause 6: replaced, on 1 October 2009, by [section 149(8)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 6: replaced, on 1 October 2009, by [section 149(8)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 7 Public notice of submissions
     
@@ -23860,7 +23872,7 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (b) where the summary of decisions and the submissions can be inspected; and
     
-    *   (c) the fact that no later than 10 working days after the day on which this public notice is given, the persons described in [clause 8(1)][1478] may make a further submission on the proposed policy statement or plan; and
+    *   (c) the fact that no later than 10 working days after the day on which this public notice is given, the persons described in [clause 8(1)][1480] may make a further submission on the proposed policy statement or plan; and
     
     *   (d) the date of the last day for making further submissions (as calculated under paragraph (c)); and
     
@@ -23868,7 +23880,7 @@ Preparation and change of policy statements and plans by local authorities
     
     (2) The local authority must serve a copy of the public notice on all persons who made submissions.
     
-    Schedule 1 clause 7: replaced, on 1 October 2009, by [section 149(8)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 7: replaced, on 1 October 2009, by [section 149(8)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 8 Certain persons may make further submissions
     
@@ -23880,21 +23892,21 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (c) the local authority itself.
     
-    (2) A further submission must be limited to a matter in support of or in opposition to the relevant submission made under [clause 6][1261].
+    (2) A further submission must be limited to a matter in support of or in opposition to the relevant submission made under [clause 6][1263].
     
-    Schedule 1 clause 8: replaced, on 1 October 2009, by [section 149(8)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 8: replaced, on 1 October 2009, by [section 149(8)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 8A Service of further submissions
     
-*   (1) A person who makes a further submission under [clause 8][1478] must serve a copy of it on---
+*   (1) A person who makes a further submission under [clause 8][1480] must serve a copy of it on---
         
     *   (a) the relevant local authority; and
     
-    *   (b) the person who made the submission under [clause 6][1261] to which the further submission relates.
+    *   (b) the person who made the submission under [clause 6][1263] to which the further submission relates.
     
     (2) The further submission must be served on the person referred to in subclause (1)(b) not later than 5 working days after the day on which the person provides the relevant local authority with the further submission.
     
-    Schedule 1 clause 8A: replaced, on 1 October 2009, by [section 149(8)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 8A: replaced, on 1 October 2009, by [section 149(8)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 8AA Resolution of disputes
     
@@ -23926,51 +23938,51 @@ Preparation and change of policy statements and plans by local authorities
     
     (7) The local authority must have regard to the report in making its decision under [clause 10][1088].
     
-    Schedule 1 clause 8AA: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 8AA: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 8B Hearing by local authority
     
-*   A local authority shall hold a hearing into submissions on its proposed policy statement or plan, and any requirements notified under [clause 4][1408], and give at least 10 working days notice of the dates, times, and place of the hearings to---
+*   A local authority shall hold a hearing into submissions on its proposed policy statement or plan, and any requirements notified under [clause 4][1410], and give at least 10 working days notice of the dates, times, and place of the hearings to---
         
     *   (a) every person who made a submission or further submission, and who requested to be heard (and has not since withdrawn that request); and
     
-    *   (b) in the case of a district plan, every authority which made a requirement under [clause 4][1408].
+    *   (b) in the case of a district plan, every authority which made a requirement under [clause 4][1410].
     
-    Schedule 1 clause 8B: inserted, on 7 July 1993, by [section 212][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 8B: inserted, on 7 July 1993, by [section 212][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 8C Hearing not needed
     
 *   Where submissions are made but no person indicates they wish to be heard, or the request to be heard is withdrawn, the local authority shall consider the submissions along with the other relevant matters, but shall not be required to hold a hearing.
     
-    Schedule 1 clause 8C: inserted, on 7 July 1993, by [section 212][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 8C: inserted, on 7 July 1993, by [section 212][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 8D Withdrawal of proposed policy statements and plans
     
 *   (1) Where a local authority has initiated the preparation of a policy statement or plan, the local authority may withdraw its proposal to prepare, change, or vary the policy statement or plan at any time---
         
-    *   (a) if an appeal has not been made to the Environment Court under [clause 14][1258], or the appeal has been withdrawn, before the policy statement or plan is approved by the local authority; or
+    *   (a) if an appeal has not been made to the Environment Court under [clause 14][1260], or the appeal has been withdrawn, before the policy statement or plan is approved by the local authority; or
     
     *   (b) if an appeal has been made to the Environment Court, before the Environment Court hearing commences.
     
     (2) The local authority shall give public notice of any withdrawal under subclause (1), including the reasons for the withdrawal.
     
-    Schedule 1 clause 8D: inserted, on 7 July 1993, by [section 212][1935] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 8D: inserted, on 7 July 1993, by [section 212][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 8D(1)(a): replaced, on 1 August 2003, by [section 92(2)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 8D(1)(a): replaced, on 1 August 2003, by [section 92(2)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Schedule 1 clause 8D(1)(b): replaced, on 1 August 2003, by [section 92(2)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 8D(1)(b): replaced, on 1 August 2003, by [section 92(2)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 9 Recommendations and decisions on requirements
     
-*   (1) The territorial authority shall make and notify its recommendation in respect of any provision included in the proposed district plan under [clause 4(5)][1408] to the appropriate authority in accordance with [section 171][504] or [section 191][528].
+*   (1) The territorial authority shall make and notify its recommendation in respect of any provision included in the proposed district plan under [clause 4(5)][1410] to the appropriate authority in accordance with [section 171][504] or [section 191][528].
     
-    (2) The territorial authority shall make its decision on provisions included in the proposed district plan under [clause 4(6)][1408] in accordance with [section 168A(3)][501] or [section 189A(3)][526], as the case may be.
+    (2) The territorial authority shall make its decision on provisions included in the proposed district plan under [clause 4(6)][1410] in accordance with [section 168A(3)][501] or [section 189A(3)][526], as the case may be.
     
     (3) Nothing in this clause shall allow the territorial authority to make a recommendation or decision in respect of any existing designations or heritage orders that are included without modification and on which no submissions are received.
     
-    Schedule 1 clause 9: replaced, on 7 July 1993, by [section 213][1936] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 9: replaced, on 7 July 1993, by [section 213][1938] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 9(3): amended, on 1 August 2003, by [section 92(3)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 9(3): amended, on 1 August 2003, by [section 92(3)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 10 Decisions on provisions and matters raised in submissions
     
@@ -24004,7 +24016,7 @@ Preparation and change of policy statements and plans by local authorities
     
     (5) On and from the date the decision is publicly notified, the proposed policy statement or plan is amended in accordance with the decision.
     
-    Schedule 1 clause 10: replaced, on 1 October 2009, by [section 149(9)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 10: replaced, on 1 October 2009, by [section 149(9)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 11 Notification of decision
     
@@ -24014,7 +24026,7 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (b) a statement of the time within which an appeal may be lodged by the person.
     
-    (2) Where a decision has been made under [clause 9(2)][1910], the territorial authority, at the same time as it publicly notifies a decision under [clause 10(4)(b)][1088], must serve a copy of the public notice on landowners and occupiers who, in the territorial authority's opinion, are directly affected by the decision.
+    (2) Where a decision has been made under [clause 9(2)][1912], the territorial authority, at the same time as it publicly notifies a decision under [clause 10(4)(b)][1088], must serve a copy of the public notice on landowners and occupiers who, in the territorial authority's opinion, are directly affected by the decision.
     
     (3) If the local authority serves or provides a copy of the public notice under subclause (1) or (2), it must---
         
@@ -24024,25 +24036,25 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (c) send or provide, on request, a copy of the decision within 3 working days after the request is received.
     
-    Schedule 1 clause 11: replaced, on 7 July 1993, by [section 214(1)][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 11: replaced, on 7 July 1993, by [section 214(1)][1939] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 11(1): replaced, on 1 October 2009, by [section 149(10)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 11(1): replaced, on 1 October 2009, by [section 149(10)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 11(2): replaced, on 1 October 2009, by [section 149(10)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 11(2): replaced, on 1 October 2009, by [section 149(10)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 11(3): inserted, on 1 August 2003, by [section 92(6)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 11(3): inserted, on 1 August 2003, by [section 92(6)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Schedule 1 clause 11(3): amended, on 1 October 2009, by [section 149(11)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 11(3): amended, on 1 October 2009, by [section 149(11)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 12 Record of effect of decisions on provisions other than requirements
     
 *   \[Repealed\]
     
-    Schedule 1 clause 12: repealed, on 7 July 1993, by [section 214(1)][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 12: repealed, on 7 July 1993, by [section 214(1)][1939] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 13 Decision of requiring authority or heritage protection authority
     
-*   (1) A requiring authority or heritage protection authority shall notify the territorial authority whether it accepts or rejects its recommendation in whole or in part within 30 working days after the day on which the territorial authority notifies its recommendation under [clause 9][1910].
+*   (1) A requiring authority or heritage protection authority shall notify the territorial authority whether it accepts or rejects its recommendation in whole or in part within 30 working days after the day on which the territorial authority notifies its recommendation under [clause 9][1912].
     
     (2) A requiring authority and a heritage protection authority may modify a requirement if, and only if, that modification is recommended by the territorial authority, or it is not inconsistent with the requirement as notified.
     
@@ -24060,15 +24072,15 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (c) send, or provide, on request, a copy of the decision within 3 working days after the request is received.
     
-    Schedule 1 clause 13(1): amended, on 7 July 1993, by [section 214(2)][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 13(1): amended, on 7 July 1993, by [section 214(2)][1939] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 13(4): replaced, on 7 July 1993, by [section 214(3)][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 13(4): replaced, on 7 July 1993, by [section 214(3)][1939] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 13(4): amended, on 1 August 2003, by [section 92(7)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 13(4): amended, on 1 August 2003, by [section 92(7)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Schedule 1 clause 13(5): repealed, on 7 July 1993, by [section 214(3)][1937] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 13(5): repealed, on 7 July 1993, by [section 214(3)][1939] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 13(6): inserted, on 1 August 2003, by [section 92(8)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 13(6): inserted, on 1 August 2003, by [section 92(8)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 14 Appeals to Environment Court
     
@@ -24096,15 +24108,15 @@ Preparation and change of policy statements and plans by local authorities
     
     *   (b) the territorial authority.
     
-    (4) Any appeal to the Environment Court under this clause must be in the prescribed form and lodged with the Environment Court within 30 working days of service of the notice of decision of the local authority under [clause 11][1911] or service of the notice of decision of the requiring authority or heritage protection authority under [clause 13][1913], as the case may be.
+    (4) Any appeal to the Environment Court under this clause must be in the prescribed form and lodged with the Environment Court within 30 working days of service of the notice of decision of the local authority under [clause 11][1913] or service of the notice of decision of the requiring authority or heritage protection authority under [clause 13][1915], as the case may be.
     
     (5) The appellant must serve a copy of the notice in the prescribed manner.
     
-    Schedule 1 clause 14: replaced, on 1 August 2003, by [section 92(9)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 14: replaced, on 1 August 2003, by [section 92(9)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Schedule 1 clause 14(2): replaced, on 1 October 2009, by [section 149(12)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 14(2): replaced, on 1 October 2009, by [section 149(12)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 14(2A): inserted, on 1 October 2009, by [section 149(12)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 14(2A): inserted, on 1 October 2009, by [section 149(12)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 15 Hearing by the Environment Court
     
@@ -24122,17 +24134,17 @@ Preparation and change of policy statements and plans by local authorities
     
     Schedule 1 clause 15(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Schedule 1 clause 15(2): replaced, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 15(2): replaced, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 15(3): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 15(3): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 15(3): amended, on 1 August 2003, by [section 92(11)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 15(3): amended, on 1 August 2003, by [section 92(11)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Schedule 1 clause 15(3): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Schedule 1 clause 15(3)(a): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 15(3)(a): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 15(3)(b): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 15(3)(b): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 16 Amendment of proposed policy statement or plan
     
@@ -24142,21 +24154,21 @@ Preparation and change of policy statements and plans by local authorities
     
     (3) \[Repealed\]
     
-    Schedule 1 clause 16: replaced, on 7 July 1993, by [section 215][1938] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 16: replaced, on 7 July 1993, by [section 215][1940] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 16(1): replaced, on 1 October 2009, by [section 149(13)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 16(1): replaced, on 1 October 2009, by [section 149(13)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Schedule 1 clause 16(2): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 16(3): repealed, on 1 October 2009, by [section 149(14)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 16(3): repealed, on 1 October 2009, by [section 149(14)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ##### 16A Variation of proposed policy statement or plan
     
-*   (1) A local authority may initiate variations (being alterations other than those under [clause 16][1428]) to a proposed policy statement or plan, or to a change, at any time before the approval of the policy statement or plan.
+*   (1) A local authority may initiate variations (being alterations other than those under [clause 16][1430]) to a proposed policy statement or plan, or to a change, at any time before the approval of the policy statement or plan.
     
     (2) The provisions of this schedule, with all necessary modifications, shall apply to every variation as if it were a change.
     
-    Schedule 1 clause 16A: inserted, on 7 July 1993, by [section 215][1938] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 16A: inserted, on 7 July 1993, by [section 215][1940] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 16B Merger with proposed policy statement or plan
     
@@ -24166,39 +24178,39 @@ Preparation and change of policy statements and plans by local authorities
     
     (3) Subclause (2) does not apply to a proposed policy statement or plan approved under [clause 17(1A)][1099].
     
-    Schedule 1 clause 16B: inserted, on 7 July 1993, by [section 215][1938] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 16B: inserted, on 7 July 1993, by [section 215][1940] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 16B(2): inserted, on 2 September 1996, by [section 27][1939] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Schedule 1 clause 16B(2): inserted, on 2 September 1996, by [section 27][1941] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Schedule 1 clause 16B(3): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 16B(3): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 17 Final consideration of policy statements and plans other than regional coastal plans
     
-*   (1) A local authority shall approve a proposed policy statement or plan (other than a regional coastal plan) once it has made amendments under [clause 16][1428] or variations under [clause 16A][1168] (if any).
+*   (1) A local authority shall approve a proposed policy statement or plan (other than a regional coastal plan) once it has made amendments under [clause 16][1430] or variations under [clause 16A][1168] (if any).
     
     (1A) However, a local authority may approve a proposed policy statement or plan (other than a regional coastal plan) in respect of which it has initiated a variation.
     
-    (1B) A variation to a proposed policy statement or plan approved under subclause (1A) must be treated as if it were a change to the policy statement or plan unless the variation has merged in and become part of the proposed policy statement or plan under [clause 16B(1)][1914].
+    (1B) A variation to a proposed policy statement or plan approved under subclause (1A) must be treated as if it were a change to the policy statement or plan unless the variation has merged in and become part of the proposed policy statement or plan under [clause 16B(1)][1916].
     
     (2) A local authority may approve part of a policy statement or plan, if all submissions or appeals relating to that part have been disposed of.
     
     (3) Every approval under this clause shall be effected by affixing the seal of the local authority to the proposed policy statement or plan.
     
-    Schedule 1 clause 17(1): amended, on 7 July 1993, by [section 216(1)][1940] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 17(1): amended, on 7 July 1993, by [section 216(1)][1942] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 17(1A): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 17(1A): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 17(1B): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 17(1B): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 17(2): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 17(2): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Schedule 1 clause 17(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Schedule 1 clause 17(3): replaced, on 7 July 1993, by [section 216(2)][1940] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 17(3): replaced, on 7 July 1993, by [section 216(2)][1942] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 18 Consideration of a regional coastal plan by regional council
     
-*   (1) A regional council shall adopt a proposed regional coastal plan for reference to the Minister of Conservation once it has made amendments under [clause 16][1428] or variations under [clause 16A][1168] (if any).
+*   (1) A regional council shall adopt a proposed regional coastal plan for reference to the Minister of Conservation once it has made amendments under [clause 16][1430] or variations under [clause 16A][1168] (if any).
     
     (2) Every adoption of a proposed regional coastal plan under this clause shall be effected by affixing the seal of the regional council to the proposed regional coastal plan.
     
@@ -24206,13 +24218,13 @@ Preparation and change of policy statements and plans by local authorities
     
     (4) A regional council may adopt part of a proposed regional coastal plan if all submissions or inquiries relating to that part have been disposed of.
     
-    Schedule 1 clause 18(1): amended, on 7 July 1993, by [section 217(1)][1941] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 18(1): amended, on 7 July 1993, by [section 217(1)][1943] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 18(2): replaced, on 7 July 1993, by [section 217(2)][1941] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 18(2): replaced, on 7 July 1993, by [section 217(2)][1943] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 18(3): amended, on 7 July 1993, by [section 217(3)][1941] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 18(3): amended, on 7 July 1993, by [section 217(3)][1943] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 18(4): inserted, on 7 July 1993, by [section 217(4)][1941] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 18(4): inserted, on 7 July 1993, by [section 217(4)][1943] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 19 Ministerial approval of regional coastal plan
     
@@ -24228,7 +24240,7 @@ Preparation and change of policy statements and plans by local authorities
     
     Schedule 1 clause 19(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Schedule 1 clause 19(3A): inserted, on 7 July 1993, by [section 218][1942] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 19(3A): inserted, on 7 July 1993, by [section 218][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 20 Operative date
     
@@ -24258,17 +24270,17 @@ Preparation and change of policy statements and plans by local authorities
     
     (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under [section 35][77] (records).
     
-    Schedule 1 clause 20(1): replaced, on 7 July 1993, by [section 219][1943] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 20(1): replaced, on 7 July 1993, by [section 219][1945] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 20(2): replaced, on 7 July 1993, by [section 219][1943] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 20(2): replaced, on 7 July 1993, by [section 219][1945] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 20(3): repealed, on 7 July 1993, by [section 219][1943] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 20(3): repealed, on 7 July 1993, by [section 219][1945] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 20(4)(b): repealed, on 1 October 2009, by [section 149(15)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 20(4)(b): repealed, on 1 October 2009, by [section 149(15)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
     Schedule 1 clause 20(4)(f): amended, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Schedule 1 clause 20(4)(f): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 20(4)(f): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Schedule 1 clause 20(4)(g): repealed, on 1 April 2011, by [section 128][966] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -24276,14 +24288,14 @@ Preparation and change of policy statements and plans by local authorities
     
 *   A local authority may amend, without using the process in this schedule, an operative policy statement or plan to correct any minor errors.
     
-    Schedule 1 clause 20A: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 20A: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Schedule 1 clause 20A: amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 ## Part 2  
 Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans
     
-*   Schedule 1 Part 2: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+*   Schedule 1 Part 2: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 21 Requests
     
@@ -24293,11 +24305,11 @@ Requests for changes to policy statements and plans of local authorities and req
     
     (3) Any Minister of the Crown or any territorial authority in the region may request a change to a policy statement.
     
-    (4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in [Part 1][1230] shall apply.
+    (4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in [Part 1][1232] shall apply.
     
-    Schedule 1 clause 21: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 21: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 21(3): amended, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 21(3): amended, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 22 Form of request
     
@@ -24305,9 +24317,9 @@ Requests for changes to policy statements and plans of local authorities and req
     
     (2) Where environmental effects are anticipated, the request shall describe those effects, taking into account the provisions of [Schedule 4][908], in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
     
-    Schedule 1 clause 22: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 22: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 22(1): amended, on 1 August 2003, by [section 92(13)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 22(1): amended, on 1 August 2003, by [section 92(13)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 23 Further information may be required
     
@@ -24337,19 +24349,19 @@ Requests for changes to policy statements and plans of local authorities and req
     
     (6) To avoid doubt, if the person who made the request declines under subclause (5) to provide the further or additional information, the local authority may at any time reject the request or decide not to approve the plan change requested, if it considers that it has insufficient information to enable it to consider or approve the request.
     
-    Schedule 1 clause 23: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 23: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 23(4): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 23(4): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 23(5): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 23(5): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 23(6): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 23(6): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 24 Modification of request
     
 *   As a result of further or additional information, commissioned reports, or other relevant matters, the local authority may, with the agreement of the person who made the request, modify the request.
     
-    Schedule 1 clause 24: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 24: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 25 Local authority to consider request
     
@@ -24357,9 +24369,9 @@ Requests for changes to policy statements and plans of local authorities and req
         
     *   (a) receiving a request under [clause 21][1140]; or
     
-    *   (b) receiving all required information or any report which was commissioned under [clause 23][1419]; or
+    *   (b) receiving all required information or any report which was commissioned under [clause 23][1421]; or
     
-    *   (c) modifying the request under [clause 24][1420]---
+    *   (c) modifying the request under [clause 24][1422]---
     
     whichever is the latest, decide under which of subclauses (2), (3), and (4), or a combination of subclauses (2) and (4), the request shall be dealt with.
     
@@ -24369,13 +24381,13 @@ Requests for changes to policy statements and plans of local authorities and req
             
         *   (i) the request must be notified in accordance with [clause 5][1166] within 4 months of the local authority adopting the request; and
         
-        *   (ii) the provisions of [Part 1][1230] must apply; and
+        *   (ii) the provisions of [Part 1][1232] must apply; and
         
         *   (iii) the request has legal effect once publicly notified; or
         
         
     
-    *   (b) accept the request, in whole or in part, and proceed to notify the request, or part of the request, under [clause 26][1415].
+    *   (b) accept the request, in whole or in part, and proceed to notify the request, or part of the request, under [clause 26][1417].
     
     (2A) Subclause (2)(a)(iii) is subject to [section 86B][198].
     
@@ -24401,15 +24413,15 @@ Requests for changes to policy statements and plans of local authorities and req
     
     (5) The local authority shall notify the person who made the request, within 10 working days, of its decision under this clause, and the reasons for that decision.
     
-    Schedule 1 clause 25: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 25: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 25(2): replaced, on 17 December 1997, by [section 72][1945] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Schedule 1 clause 25(2): replaced, on 17 December 1997, by [section 72][1947] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Schedule 1 clause 25(2)(a)(iii): amended, on 1 October 2009, by [section 149(16)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 25(2)(a)(iii): amended, on 1 October 2009, by [section 149(16)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 25(2A): inserted, on 1 October 2009, by [section 149(17)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 25(2A): inserted, on 1 October 2009, by [section 149(17)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 25(4)(b): replaced, on 1 October 2011, by [section 60][1946] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+    Schedule 1 clause 25(4)(b): replaced, on 1 October 2011, by [section 60][1948] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ##### 26 Notification timeframes
     
@@ -24421,13 +24433,13 @@ Requests for changes to policy statements and plans of local authorities and req
             
         *   (i) within 4 months of agreeing to accept the request; or
         
-        *   (ii) within the period that the Environment Court directs under [clause 27][1916].
+        *   (ii) within the period that the Environment Court directs under [clause 27][1918].
         
         
     
-    Schedule 1 clause 26: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 26: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 26(b)(i): amended, on 17 December 1997, by [section 73][1947] of the Resource Management Amendment Act 1997 (1997 No 104).
+    Schedule 1 clause 26(b)(i): amended, on 17 December 1997, by [section 73][1949] of the Resource Management Amendment Act 1997 (1997 No 104).
     
     Schedule 1 clause 26(b)(ii): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -24439,7 +24451,7 @@ Requests for changes to policy statements and plans of local authorities and req
         
     *   (a) to adopt or accept the request in part only under [clause 25(2)][1087]:
     
-    *   (b) to reject the request under [clause 23(6)][1419]:
+    *   (b) to reject the request under [clause 23(6)][1421]:
     
     *   (c) to deal with the request under [clause 25(3)][1087]:
     
@@ -24447,11 +24459,11 @@ Requests for changes to policy statements and plans of local authorities and req
     
     (2) The Environment Court may make such decision on any such appeal as it thinks fit.
     
-    Schedule 1 clause 27: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 27: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 27(1): replaced, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 27(1): replaced, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Schedule 1 clause 27(1A): inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 27(1A): inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
     
     Schedule 1 clause 27(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
@@ -24469,11 +24481,11 @@ Requests for changes to policy statements and plans of local authorities and req
     
     (6) The local authority shall ensure that, within 15 working days of receiving a notice of withdrawal under subclause (1) or deeming it to be withdrawn under subclause (4), public notice of the withdrawal, including the reason for the withdrawal, is given, unless the local authority determines to proceed with the request itself.
     
-    Schedule 1 clause 28: replaced, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 28: replaced, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 29 Procedure under this Part
     
-*   (1) Except as provided in subclauses (1A) to (9), [Part 1][1230], with all necessary modifications, shall apply to any plan or change requested under this Part and accepted under [clause 25(2)(b)][1087].
+*   (1) Except as provided in subclauses (1A) to (9), [Part 1][1232], with all necessary modifications, shall apply to any plan or change requested under this Part and accepted under [clause 25(2)(b)][1087].
     
     (1A) Any person may make a submission but, if the person is a trade competitor of the person who made the request, the person's right to make a submission is limited by subclause (1B). 
     
@@ -24485,44 +24497,44 @@ Requests for changes to policy statements and plans of local authorities and req
     
     (2) The local authority shall send copies of all submissions on the plan or change to the person who made the request.
     
-    (3) The person who made the request has the right to appear before the local authority under [clause 8B][1479].
+    (3) The person who made the request has the right to appear before the local authority under [clause 8B][1481].
     
     (4) After considering a plan or change, the local authority may decline, approve, or approve with modifications, the plan or change, and shall give reasons for its decision.
     
-    (5) In addition to those persons covered by [clause 11][1911], the local authority shall serve a copy of its decision on the person who made the request under [clause 21][1140].
+    (5) In addition to those persons covered by [clause 11][1913], the local authority shall serve a copy of its decision on the person who made the request under [clause 21][1140].
     
     (6) The person who made the request, and any person who made submissions on the plan or change, may appeal the decision of the local authority to the Environment Court.
     
-    (7) Where a plan or change has been appealed to the Environment Court, [clauses 14][1258] and [15][1257] shall apply, with all necessary modifications.
+    (7) Where a plan or change has been appealed to the Environment Court, [clauses 14][1260] and [15][1259] shall apply, with all necessary modifications.
     
     (8) Where a plan or change has been appealed to the Environment Court, the person who made the request under [clause 21][1140] has the right to appear before the Environment Court.
     
     (9) With the agreement of the person who made the request, the local authority may, at any time before its decision on the plan or change, initiate a variation under [clause 16A][1168].
     
-    Schedule 1 clause 29: inserted, on 7 July 1993, by [section 220][1944] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 1 clause 29: inserted, on 7 July 1993, by [section 220][1946] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 29(1): amended, on 1 October 2009, by [section 149(18)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 29(1): amended, on 1 October 2009, by [section 149(18)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 29(1A): inserted, on 1 October 2009, by [section 149(19)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 29(1A): inserted, on 1 October 2009, by [section 149(19)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 29(1B): inserted, on 1 October 2009, by [section 149(19)][1923] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Schedule 1 clause 29(1B): inserted, on 1 October 2009, by [section 149(19)][1925] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 29(6): amended, on 1 August 2003, by [section 92(14)(a)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 29(6): amended, on 1 August 2003, by [section 92(14)(a)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Schedule 1 clause 29(6): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Schedule 1 clause 29(7): amended, on 1 August 2003, by [section 92(14)(b)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 29(7): amended, on 1 August 2003, by [section 92(14)(b)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Schedule 1 clause 29(7): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Schedule 1 clause 29(8): amended, on 1 August 2003, by [section 92(14)(c)][1932] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 1 clause 29(8): amended, on 1 August 2003, by [section 92(14)(c)][1934] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Schedule 1 clause 29(8): amended, on 2 September 1996, pursuant to [section 6(2)(a)][982] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ## Part 3  
 Incorporation of documents by reference in plans and proposed plans
     
-*   Schedule 1 Part 3: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+*   Schedule 1 Part 3: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 30 Incorporation of documents by reference in plans and proposed plans
     
@@ -24542,17 +24554,17 @@ Incorporation of documents by reference in plans and proposed plans
     
     (3) Material incorporated by reference in a plan or proposed plan has legal effect as part of the plan or proposed plan.
     
-    Schedule 1 clause 30: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 30: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 31 Effect of amendments to, or replacement of, material incorporated by reference in plans and proposed plans
     
 *   An amendment to, or replacement of, material incorporated by reference in a plan or proposed plan has legal effect as part of the plan or proposed plan only if---
         
-    *   (a) a variation that has merged in and become part of the proposed plan under [Part 1][1230] states that the amendment or replacement has that effect; or
+    *   (a) a variation that has merged in and become part of the proposed plan under [Part 1][1232] states that the amendment or replacement has that effect; or
     
-    *   (b) an approved change made to the plan under [Part 1][1230] states that the amendment or replacement has that effect.
+    *   (b) an approved change made to the plan under [Part 1][1232] states that the amendment or replacement has that effect.
     
-    Schedule 1 clause 31: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 31: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 32 Proof of material incorporated by reference
     
@@ -24564,17 +24576,17 @@ Incorporation of documents by reference in plans and proposed plans
     
     (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the plan or proposed plan of the material.
     
-    Schedule 1 clause 32: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 32: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 33 Effect of expiry of material incorporated by reference
     
 *   Material incorporated by reference in a plan or proposed plan that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the plan or proposed plan only if---
         
-    *   (a) a variation that has merged in and become part of the proposed plan under [Part 1][1230] states that the material ceases to have effect; or
+    *   (a) a variation that has merged in and become part of the proposed plan under [Part 1][1232] states that the material ceases to have effect; or
     
-    *   (b) a change to the plan made and approved under [Part 1][1230] states that the material ceases to have effect.
+    *   (b) a change to the plan made and approved under [Part 1][1232] states that the material ceases to have effect.
     
-    Schedule 1 clause 33: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 33: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 34 Consultation on proposal to incorporate material by reference
     
@@ -24610,7 +24622,7 @@ Incorporation of documents by reference in plans and proposed plans
     
     (5) A failure to comply with this clause does not invalidate a plan or proposed plan that incorporates material by reference.
     
-    Schedule 1 clause 34: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 34: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 35 Access to material incorporated by reference
     
@@ -24642,7 +24654,7 @@ Incorporation of documents by reference in plans and proposed plans
     
     *   (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
     
-    Schedule 1 clause 35: inserted, on 10 August 2005, by [section 129(1)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1 clause 35: inserted, on 10 August 2005, by [section 129(1)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ---
 
@@ -24651,7 +24663,7 @@ Incorporation of documents by reference in national environmental standards, nat
 
 [s 43G][123]
 
-*   Schedule 1AA: inserted, on 10 August 2005, by [section 130][1948] of the Resource Management Amendment Act 2005 (2005 No 87).
+*   Schedule 1AA: inserted, on 10 August 2005, by [section 130][1950] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 1 Incorporation of documents by reference
     
@@ -24671,7 +24683,7 @@ Incorporation of documents by reference in national environmental standards, nat
     
     (3) Material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement has legal effect as part of the standard or statement.
     
-    Schedule 1AA clause 1: inserted, on 10 August 2005, by [section 130][1948] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1AA clause 1: inserted, on 10 August 2005, by [section 130][1950] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 2 Effect of amendments to, or replacement of, material incorporated by reference
     
@@ -24685,7 +24697,7 @@ Incorporation of documents by reference in national environmental standards, nat
     
     (3) Subclause (1) does not apply if the national environmental standard, national policy statement, or New Zealand coastal policy statement expressly says that it does not apply.
     
-    Schedule 1AA clause 2: inserted, on 10 August 2005, by [section 130][1948] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1AA clause 2: inserted, on 10 August 2005, by [section 130][1950] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 3 Proof of material incorporated by reference
     
@@ -24697,7 +24709,7 @@ Incorporation of documents by reference in national environmental standards, nat
     
     (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material in the national environmental standard, national policy statement, or New Zealand coastal policy statement.
     
-    Schedule 1AA clause 3: inserted, on 10 August 2005, by [section 130][1948] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1AA clause 3: inserted, on 10 August 2005, by [section 130][1950] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 4 Effect of expiry of material incorporated by reference
     
@@ -24711,7 +24723,7 @@ Incorporation of documents by reference in national environmental standards, nat
     
     (3) Subclause (1) does not apply if the national environmental standard, national policy statement, or New Zealand coastal policy statement expressly says that it does not apply.
     
-    Schedule 1AA clause 4: inserted, on 10 August 2005, by [section 130][1948] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1AA clause 4: inserted, on 10 August 2005, by [section 130][1950] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 5 Access to material incorporated by reference
     
@@ -24743,7 +24755,7 @@ Incorporation of documents by reference in national environmental standards, nat
     
     *   (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
     
-    Schedule 1AA clause 5: inserted, on 10 August 2005, by [section 130][1948] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 1AA clause 5: inserted, on 10 August 2005, by [section 130][1950] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ---
 
@@ -24754,7 +24766,7 @@ Preparation and change of regional coastal plans providing for aquaculture activ
 
 \[Repealed\]
     
-*   Schedule 1A: repealed, on 1 October 2011, by [section 61][1949] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
+*   Schedule 1A: repealed, on 1 October 2011, by [section 61][1951] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
 
 ---
 
@@ -24765,7 +24777,7 @@ Matters that may be provided for in policy statements and plans
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 August 2003, by [section 93][1950] of the Resource Management Amendment Act 2003 (2003 No 23).
+*   Schedule 2: repealed, on 1 August 2003, by [section 93][1952] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ---
 
@@ -24901,21 +24913,21 @@ Assessment of effects on the environment
     
     *   (i) where the scale or significance of the activity's effect are such that monitoring is required, a description of how, once the proposal is approved, effects will be monitored and by whom.
     
-    Schedule 4 clause 1: amended, on 1 August 2003, by [section 94(a)][1951] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Schedule 4 clause 1: amended, on 1 August 2003, by [section 94(a)][1953] of the Resource Management Amendment Act 2003 (2003 No 23).
     
-    Schedule 4 clause 1(c): repealed, on 7 July 1993, by [section 225][1952] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 4 clause 1(c): repealed, on 7 July 1993, by [section 225][1954] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 4 clause 1(h): replaced, on 10 August 2005, by [section 129(2)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 4 clause 1(h): replaced, on 10 August 2005, by [section 129(2)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 1AA 
     
-*   To avoid doubt, [clause 1(h)][1953] obliges an applicant to report as to the persons identified as being affected by the proposal, but does not---
+*   To avoid doubt, [clause 1(h)][1955] obliges an applicant to report as to the persons identified as being affected by the proposal, but does not---
         
     *   (a) oblige the applicant to consult with any person; or
     
     *   (b) create any ground for expecting that the applicant will consult with any person.
     
-    Schedule 4 clause 1AA: inserted, on 10 August 2005, by [section 129(3)][1928] of the Resource Management Amendment Act 2005 (2005 No 87).
+    Schedule 4 clause 1AA: inserted, on 10 August 2005, by [section 129(3)][1930] of the Resource Management Amendment Act 2005 (2005 No 87).
 
 ##### 1A Matters to be included in assessment of effects on environment
     
@@ -25023,17 +25035,17 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1915 (1915 No 68) (RS Vol 11, p 551)
 
-_Amendment(s) incorporated in the [Act(s)][1954]_.
+_Amendment(s) incorporated in the [Act(s)][1956]_.
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1917 (1917 No 26) (RS Vol 11, p 552)
 
-_Amendment(s) incorporated in the [Act(s)][1955]_.
+_Amendment(s) incorporated in the [Act(s)][1957]_.
 
 ##### Sand Drift Act 1908 (1908 No 169) (RS Vol 11, p 315)
 
 ##### Statutes Amendment Act 1945 (1945 No 40) (RS Vol 11, p 554)
 
-_Amendment(s) incorporated in the [Act(s)][1956]_.
+_Amendment(s) incorporated in the [Act(s)][1958]_.
 
 ##### Town and Country Planning Act 1977 (1977 No 121) (RS Vol 16, p 521)
 
@@ -25142,7 +25154,7 @@ Amendments to Acts
 
 ##### Airport Authorities Act 1966 (1966 No 51) (RS Vol 17, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][1957]._
+_Amendment(s) incorporated in the [Act(s)][1959]._
 
 ##### Atomic Energy Act 1945 (1945 No 41) (RS Vol 1, p 189)
 
@@ -25154,15 +25166,15 @@ _Amendment(s) incorporated in the [Act(s)][918]._
 
 ##### Conservation Law Reform Act 1990 (1990 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][1958]._
+_Amendment(s) incorporated in the [Act(s)][1960]._
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][1959]._
+_Amendment(s) incorporated in the [Act(s)][1961]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][1960]._
+_Amendment(s) incorporated in the [Act(s)][1962]._
 
 ##### Fisheries Act 1983 (1983 No 14)
 
@@ -25170,11 +25182,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52) (RS Vol 23, p 407)
 
-_Amendment(s) incorporated in the [Act(s)][1961]._
+_Amendment(s) incorporated in the [Act(s)][1963]._
 
 ##### Forestry Encouragement Act 1962 (1962 No 20) (RS Vol 17, p 213)
 
-_Amendment(s) incorporated in the [Act(s)][1962]._
+_Amendment(s) incorporated in the [Act(s)][1964]._
 
 ##### Gas Act 1982 (1982 No 27)
 
@@ -25194,27 +25206,27 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Housing Act 1955 (1955 No 51) (RS Vol 7, p 297)
 
-_Amendment(s) incorporated in the [Act(s)][1963]._
+_Amendment(s) incorporated in the [Act(s)][1965]._
 
 ##### Income Tax Act 1976 (1976 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][1964]._
+_Amendment(s) incorporated in the [Act(s)][1966]._
 
 ##### Irrigation Schemes Act 1990 (1990 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1965]._
+_Amendment(s) incorporated in the [Act(s)][1967]._
 
 ##### Lake Wanaka Preservation Act 1973 (1973 No 107) (RS Vol 24, p 363)
 
-_Amendment(s) incorporated in the [Act(s)][1966]._
+_Amendment(s) incorporated in the [Act(s)][1968]._
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][1598]._
+_Amendment(s) incorporated in the [Act(s)][1600]._
 
 ##### Land Drainage Act 1908 (1908 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][1967]._
+_Amendment(s) incorporated in the [Act(s)][1969]._
 
 ##### Land Settlement Promotion and Land Acquisition Act 1952 (1952 No 34)
 
@@ -25234,11 +25246,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][1557]._
+_Amendment(s) incorporated in the [Act(s)][1559]._
 
 ##### Local Government Amendment Act 1978 (1978 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][1968]._
+_Amendment(s) incorporated in the [Act(s)][1970]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
@@ -25258,11 +25270,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ministry of Energy (Abolition) Act 1989 (1989 No 140)
 
-_Amendment(s) incorporated in the [Act(s)][1969]._
+_Amendment(s) incorporated in the [Act(s)][1971]._
 
 ##### National Development Act Repeal Act 1986 (1986 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1970]._
+_Amendment(s) incorporated in the [Act(s)][1972]._
 
 ##### National Parks Act 1980 (1980 No 66)
 
@@ -25270,31 +25282,31 @@ _Amendment(s) incorporated in the [Act(s)][953]._
 
 ##### New Zealand Railways Corporation Act 1981 (1981 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][1971]._
+_Amendment(s) incorporated in the [Act(s)][1973]._
 
 ##### New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][1972]._
+_Amendment(s) incorporated in the [Act(s)][1974]._
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][1973]._
+_Amendment(s) incorporated in the [Act(s)][1975]._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1974]._
+_Amendment(s) incorporated in the [Act(s)][1976]._
 
 ##### Property Law Act 1952 (1952 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1975]._
+_Amendment(s) incorporated in the [Act(s)][1977]._
 
 ##### Public Bodies Leases Act 1969 (1969 No 141) (RS Vol 18, p 621)
 
-_Amendment(s) incorporated in the [Act(s)][1976]._
+_Amendment(s) incorporated in the [Act(s)][1978]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][1452]._
+_Amendment(s) incorporated in the [Act(s)][1454]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
@@ -25310,23 +25322,23 @@ _Amendment(s) incorporated in the [Act(s)][931]._
 
 ##### Reserves and Other Lands Disposal Act 1940 (1940 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][1977]._
+_Amendment(s) incorporated in the [Act(s)][1979]._
 
 ##### River Boards Act 1908 (1908 No 165) (RS Vol 10, p 765)
 
-_Amendment(s) incorporated in the [Act(s)][1978]._
+_Amendment(s) incorporated in the [Act(s)][1980]._
 
 ##### Soil Conservation and Rivers Control Act 1941 (1941 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][1979]._
+_Amendment(s) incorporated in the [Act(s)][1981]._
 
 ##### Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][1980]._
+_Amendment(s) incorporated in the [Act(s)][1982]._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1981]._
+_Amendment(s) incorporated in the [Act(s)][1983]._
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
@@ -25334,7 +25346,7 @@ _Amendment(s) incorporated in the [Act(s)][1019]._
 
 ##### Synthetic Fuels Plant (Effluent Disposal) Empowering Act 1983 (1983 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][1982]._
+_Amendment(s) incorporated in the [Act(s)][1984]._
 
 ##### Tasman Pulp and Paper Company Enabling Act 1954 (1954 No 83)
 
@@ -25342,11 +25354,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][1983]._
+_Amendment(s) incorporated in the [Act(s)][1985]._
 
 ##### Unit Titles Act 1972 (1972 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][1984]._
+_Amendment(s) incorporated in the [Act(s)][1986]._
 
 ##### Valuation of Land Act 1951 (1951 No 19)
 
@@ -25354,14 +25366,14 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Whakatane Paper Mills, Limited, Water-Supply Empowering Act 1936 (1936 No 7 (P))
 
-_Amendment(s) incorporated in the [Act(s)][1985]._
+_Amendment(s) incorporated in the [Act(s)][1987]._
 
 ## Part 2  
 Regulations amended
 
 ##### Geothermal Energy Regulations 1961 (SR 1961/124)
 
-_Amendment(s) incorporated in the [regulations][1986]._
+_Amendment(s) incorporated in the [regulations][1988]._
 
 ##### Geothermal Energy Regulations 1987 (SR 1987/73)
 
@@ -25456,7 +25468,7 @@ Schedule 9 **Judea Land Drainage Board Empowering Act 1921**: repealed, on 1 Jul
 
 Schedule 9 **Kaikoura River Board Validating Act 1953**: repealed, on 1 July 2003, by [section 262][980] of the Local Government Act 2002 (2002 No 84).
 
-Schedule 9 **Lower Clutha River Improvement Act 1938**: repealed, on 16 September 1994, by [section 22(1)(c)][1987] of the Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L)).
+Schedule 9 **Lower Clutha River Improvement Act 1938**: repealed, on 16 September 1994, by [section 22(1)(c)][1989] of the Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L)).
 
 Schedule 9 **Reporoa Drainage Board Empowering Act 1947**: repealed, on 1 July 2003, by [section 262][980] of the Local Government Act 2002 (2002 No 84).
 
@@ -25471,7 +25483,7 @@ Requirements for instruments creating esplanade strips and access strips
 
 [ss 232(2)(a), (4)(a)][590], [237B(2)(c)][597], [237C(1)][598], [338(3)(c)][756]
 
-*   Schedule 10: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+*   Schedule 10: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 1 Prohibitions to be included in instruments
     
@@ -25487,7 +25499,7 @@ Requirements for instruments creating esplanade strips and access strips
     
     (3) For the purposes of this schedule, _owner_ and _occupier_ includes any employees or agents authorised by the owner or occupier.
     
-    Schedule 10 clause 1: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 10 clause 1: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 2 Other prohibitions
     
@@ -25505,11 +25517,11 @@ Requirements for instruments creating esplanade strips and access strips
     
     *   (f) taking any vehicle on to, or driving or having charge or control of any vehicle on, the land (whether the vehicle is motorised or non-motorised):
     
-    *   (g) wilfully damaging or removing any plant (unless acting in accordance with the [Biosecurity Act 1993][1989]):
+    *   (g) wilfully damaging or removing any plant (unless acting in accordance with the [Biosecurity Act 1993][1991]):
     
-    *   (h) laying any poison or setting any snare or trap (unless acting in accordance with the [Biosecurity Act 1993][1989]).
+    *   (h) laying any poison or setting any snare or trap (unless acting in accordance with the [Biosecurity Act 1993][1991]).
     
-    Schedule 10 clause 2: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 10 clause 2: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
     
     Schedule 10 clause 2(g): amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -25519,7 +25531,7 @@ Requirements for instruments creating esplanade strips and access strips
     
 *   The instrument or easement may include any fencing requirements, including gates, stiles, and the repositioning or removal of any fence.
     
-    Schedule 10 clause 3: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 10 clause 3: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 4 Access on esplanade strips for conservation purposes
     
@@ -25533,19 +25545,19 @@ Requirements for instruments creating esplanade strips and access strips
     
     (2) Subclause (1) does not apply to the owner or occupier of the land over which the strip is created.
     
-    Schedule 10 clause 4: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 10 clause 4: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 5 Access on strips for access purposes
     
 *   Where an easement for an access strip or an esplanade strip for access purposes is created, the easement or instrument creating the strip shall specify that any person shall have the right, at any time, to pass and repass over and along the land over which the strip has been created, subject to any other provisions of the easement or instrument.
     
-    Schedule 10 clause 5: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 10 clause 5: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 6 Access on strips created for recreational purposes
     
 *   Where an esplanade strip is created for public recreational use, the instrument creating the strip shall specify that any person shall have the right, at any time, to enter upon the land over which the esplanade strip has been created and remain on that land for any period of time for the purpose of recreation, subject to any other provisions of the instrument.
     
-    Schedule 10 clause 6: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 10 clause 6: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ##### 7 Closure
     
@@ -25553,7 +25565,7 @@ Requirements for instruments creating esplanade strips and access strips
     
     (2) Any instrument or easement may specify who is responsible for notifying the public by signs erected at all entry points to the strip, and any other means agreed, that a strip or easement is closed as a result of closure periods specified in the instrument or easement.
     
-    Schedule 10 clause 7: inserted, on 7 July 1993, by [section 228][1988] of the Resource Management Amendment Act 1993 (1993 No 65).
+    Schedule 10 clause 7: inserted, on 7 July 1993, by [section 228][1990] of the Resource Management Amendment Act 1993 (1993 No 65).
 
 ---
 
@@ -25562,7 +25574,7 @@ Acts that include statutory acknowledgements
 
 [ss 95E][246], [274][657]
 
-*   Schedule 11: inserted, on 1 October 1998, by [section 226][1990] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+*   Schedule 11: inserted, on 1 October 1998, by [section 226][1992] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
 *   Schedule 11 heading: amended, on 1 October 2009, by [section 150][978] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
@@ -25599,6 +25611,8 @@ Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
 
 Ngāti Whare Claims Settlement Act 2012
 
+Ngāti Whātua o Kaipara Claims Settlement Act 2013
+
 Ngāti Whātua Ōrākei Claims Settlement Act 2012
 
 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
@@ -25612,30 +25626,34 @@ Te Arawa Lakes Settlement Act 2006
 Te Roroa Claims Settlement Act 2008
 
 Te Uri o Hau Claims Settlement Act 2002
+
+Waitaha Claims Settlement Act 2013
     
-*   Schedule 11 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008: inserted, on 4 June 2009, by [section 48][1991] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
-*   Schedule 11 Maraeroa A and B Blocks Claims Settlement Act 2012: inserted, on 31 July 2012, by [section 36][1992] of the Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52).
-*   Schedule 11 Ngaa Rauru Kiitahi Claims Settlement Act 2005: inserted, on 28 June 2005, by [section 57][1993] of the Ngaa Rauru Kiitahi Claims Settlement Act 2005 (2005 No 84).
-*   Schedule 11 Ngai Tāmanuhiri Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 40][1994] of the Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55).
-*   Schedule 11 Ngāti Apa (North Island) Claims Settlement Act 2010: inserted, on 16 December 2010, by [section 41][1995] of the Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129).
-*   Schedule 11 Ngāti Awa Claims Settlement Act 2005: inserted, on 25 March 2005, by [section 58][1996] of the Ngāti Awa Claims Settlement Act 2005 (2005 No 28).
-*   Schedule 11 Ngāti Mākino Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 36][1997] of the Ngāti Mākino Claims Settlement Act 2012 (2012 No 53).
-*   Schedule 11 Ngāti Manawa Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 54][1998] of the Ngāti Manawa Claims Settlement Act 2012 (2012 No 27).
-*   Schedule 11 Ngāti Manuhiri Claims Settlement Act 2012: inserted, on 20 November 2012, by [section 41][1999] of the Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90).
-*   Schedule 11 Ngāti Mutunga Claims Settlement Act 2006: inserted, on 22 November 2006, by [section 62][2000] of the Ngāti Mutunga Claims Settlement Act 2006 (2006 No 61).
-*   Schedule 11 Ngāti Pāhauwera Treaty Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 79][2001] of the Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30).
-*   Schedule 11 Ngati Porou Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 56][2002] of the Ngati Porou Claims Settlement Act 2012 (2012 No 31).
-*   Schedule 11 Ngati Ruanui Claims Settlement Act 2003: inserted, on 6 May 2003, by [section 107][2003] of the Ngati Ruanui Claims Settlement Act 2003 (2003 No 20).
-*   Schedule 11 Ngati Tama Claims Settlement Act 2003: inserted, on 26 November 2003, by [section 71][2004] of the Ngati Tama Claims Settlement Act 2003 (2003 No 126).
-*   Schedule 11 Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005: inserted, on 24 May 2005, by [section 63][2005] of the Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005 (2005 No 72).
-*   Schedule 11 Ngāti Whare Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 62][2006] of the Ngāti Whare Claims Settlement Act 2012 (2012 No 28).
-*   Schedule 11 Ngāti Whātua Ōrākei Claims Settlement Act 2012: inserted, on 1 February 2013, by [section 41][2007] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
-*   Schedule 11 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009: inserted, on 5 August 2009, by [section 36][2008] of the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26).
-*   Schedule 11 Pouakani Claims Settlement Act 2000: inserted, on 1 March 2001, by [section 51][2009] of the Pouakani Claims Settlement Act 2000 (2000 No 90).
-*   Schedule 11 Rongowhakaata Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 43][2010] of the Rongowhakaata Claims Settlement Act 2012 (2012 No 54).
-*   Schedule 11 Te Arawa Lakes Settlement Act 2006: inserted, on 26 September 2006, by [section 70][2011] of the Te Arawa Lakes Settlement Act 2006 (2006 No 43).
-*   Schedule 11 Te Roroa Claims Settlement Act 2008: inserted, on 30 September 2008, by [section 81][2012] of the Te Roroa Claims Settlement Act 2008 (2008 No 100).
-*   Schedule 11 Te Uri o Hau Claims Settlement Act 2002: inserted, on 18 October 2002, by [section 74][2009] of Te Uri o Hau Claims Settlement Act 2002 (2002 No 36).
+*   Schedule 11 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008: inserted, on 4 June 2009, by [section 48][1993] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
+*   Schedule 11 Maraeroa A and B Blocks Claims Settlement Act 2012: inserted, on 31 July 2012, by [section 36][1994] of the Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52).
+*   Schedule 11 Ngaa Rauru Kiitahi Claims Settlement Act 2005: inserted, on 28 June 2005, by [section 57][1995] of the Ngaa Rauru Kiitahi Claims Settlement Act 2005 (2005 No 84).
+*   Schedule 11 Ngai Tāmanuhiri Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 40][1996] of the Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55).
+*   Schedule 11 Ngāti Apa (North Island) Claims Settlement Act 2010: inserted, on 16 December 2010, by [section 41][1997] of the Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129).
+*   Schedule 11 Ngāti Awa Claims Settlement Act 2005: inserted, on 25 March 2005, by [section 58][1998] of the Ngāti Awa Claims Settlement Act 2005 (2005 No 28).
+*   Schedule 11 Ngāti Mākino Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 36][1999] of the Ngāti Mākino Claims Settlement Act 2012 (2012 No 53).
+*   Schedule 11 Ngāti Manawa Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 54][2000] of the Ngāti Manawa Claims Settlement Act 2012 (2012 No 27).
+*   Schedule 11 Ngāti Manuhiri Claims Settlement Act 2012: inserted, on 20 November 2012, by [section 41][2001] of the Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90).
+*   Schedule 11 Ngāti Mutunga Claims Settlement Act 2006: inserted, on 22 November 2006, by [section 62][2002] of the Ngāti Mutunga Claims Settlement Act 2006 (2006 No 61).
+*   Schedule 11 Ngāti Pāhauwera Treaty Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 79][2003] of the Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30).
+*   Schedule 11 Ngati Porou Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 56][2004] of the Ngati Porou Claims Settlement Act 2012 (2012 No 31).
+*   Schedule 11 Ngati Ruanui Claims Settlement Act 2003: inserted, on 6 May 2003, by [section 107][2005] of the Ngati Ruanui Claims Settlement Act 2003 (2003 No 20).
+*   Schedule 11 Ngati Tama Claims Settlement Act 2003: inserted, on 26 November 2003, by [section 71][2006] of the Ngati Tama Claims Settlement Act 2003 (2003 No 126).
+*   Schedule 11 Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005: inserted, on 24 May 2005, by [section 63][2007] of the Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005 (2005 No 72).
+*   Schedule 11 Ngāti Whare Claims Settlement Act 2012: inserted, on 6 April 2012, by [section 62][2008] of the Ngāti Whare Claims Settlement Act 2012 (2012 No 28).
+*   Schedule 11 Ngāti Whātua o Kaipara Claims Settlement Act 2013: inserted, on 13 June 2013, by [section 71][2009] of the Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37).
+*   Schedule 11 Ngāti Whātua Ōrākei Claims Settlement Act 2012: inserted, on 1 February 2013, by [section 41][2010] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
+*   Schedule 11 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009: inserted, on 5 August 2009, by [section 36][2011] of the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26).
+*   Schedule 11 Pouakani Claims Settlement Act 2000: inserted, on 1 March 2001, by [section 51][2012] of the Pouakani Claims Settlement Act 2000 (2000 No 90).
+*   Schedule 11 Rongowhakaata Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 43][2013] of the Rongowhakaata Claims Settlement Act 2012 (2012 No 54).
+*   Schedule 11 Te Arawa Lakes Settlement Act 2006: inserted, on 26 September 2006, by [section 70][2014] of the Te Arawa Lakes Settlement Act 2006 (2006 No 43).
+*   Schedule 11 Te Roroa Claims Settlement Act 2008: inserted, on 30 September 2008, by [section 81][2015] of the Te Roroa Claims Settlement Act 2008 (2008 No 100).
+*   Schedule 11 Te Uri o Hau Claims Settlement Act 2002: inserted, on 18 October 2002, by [section 74][2012] of Te Uri o Hau Claims Settlement Act 2002 (2002 No 36).
+*   Schedule 11 Waitaha Claims Settlement Act 2013: inserted, on 13 June 2013, by [section 40][2016] of the Waitaha Claims Settlement Act 2013 (2013 No 38).
 
 ---
 
@@ -25658,7 +25676,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management Amendment Act 2003][2013].
+*   (1) This Act is the [Resource Management Amendment Act 2003][2017].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -25725,7 +25743,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management (Energy and Climate Change) Amendment Act 2004][2014].
+*   (1) This Act is the [Resource Management (Energy and Climate Change) Amendment Act 2004][2018].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -25789,7 +25807,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management (Foreshore and Seabed) Amendment Act 2004][2015].
+*   (1) This Act is the [Resource Management (Foreshore and Seabed) Amendment Act 2004][2019].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -25861,7 +25879,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management Amendment Act 2005][2016].
+*   (1) This Act is the [Resource Management Amendment Act 2005][2020].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -25995,7 +26013,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2017].
+*   This Act is the [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2021].
 
 ##### 2 Commencement
     
@@ -26200,23 +26218,23 @@ Transitional provisions and amendments to other enactments
 
 ###### 1 General
     
-*   This is a reprint of the Resource Management Act 1991\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Resource Management Act 1991\. The reprint incorporates all the amendments to the Act as at 28 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][2018] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][2022] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][2019] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][2023] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][2020] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][2024] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][2021] and [17E][2022] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][2025] and [17E][2026] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -26247,37 +26265,43 @@ Transitional provisions and amendments to other enactments
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1826]
+*   Waitaha Claims Settlement Act 2013 (2013 No 38): [section 40][2016]
     
-    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 41][2007]
+    Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37): [section 71][2009]
     
-    Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90): [section 41][1999]
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1828]
     
-    Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55): [section 40][1994]
+    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 41][2010]
     
-    Rongowhakaata Claims Settlement Act 2012 (2012 No 54): [section 43][2010]
+    Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90): [section 41][2001]
     
-    Ngāti Mākino Claims Settlement Act 2012 (2012 No 53): [section 36][1997]
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 176][1210]
     
-    Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52): [section 36][1992]
+    Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55): [section 40][1996]
     
-    Ngati Porou Claims Settlement Act 2012 (2012 No 31): [section 56][2002]
+    Rongowhakaata Claims Settlement Act 2012 (2012 No 54): [section 43][2013]
     
-    Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30): [section 79][2001]
+    Ngāti Mākino Claims Settlement Act 2012 (2012 No 53): [section 36][1999]
     
-    Ngāti Whare Claims Settlement Act 2012 (2012 No 28): [section 62][2006]
+    Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52): [section 36][1994]
     
-    Ngāti Manawa Claims Settlement Act 2012 (2012 No 27): [section 54][1998]
+    Ngati Porou Claims Settlement Act 2012 (2012 No 31): [section 56][2004]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 300][1728]
+    Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30): [section 79][2003]
     
-    [Resource Management Amendment Act (No 2) 2011][2023] (2011 No 70)
+    Ngāti Whare Claims Settlement Act 2012 (2012 No 28): [section 62][2008]
     
-    [Resource Management Amendment Act 2011][2024] (2011 No 19)
+    Ngāti Manawa Claims Settlement Act 2012 (2012 No 27): [section 54][2000]
+    
+    Search and Surveillance Act 2012 (2012 No 24): [section 300][1730]
+    
+    [Resource Management Amendment Act (No 2) 2011][2027] (2011 No 70)
+    
+    [Resource Management Amendment Act 2011][2028] (2011 No 19)
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][966]
     
-    Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129): [section 41][1995]
+    Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129): [section 41][1997]
     
     Private Security Personnel and Private Investigators Act 2010 (2010 No 115): [section 121(1)][1131]
     
@@ -26287,17 +26311,17 @@ Transitional provisions and amendments to other enactments
     
     Corrections (Use of Court Cells) Amendment Act 2009 (2009 No 60): [section 5][998]
     
-    [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2017] (2009 No 31)
+    [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2021] (2009 No 31)
     
-    Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26): [section 36][2008]
+    Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26): [section 36][2011]
     
-    Te Roroa Claims Settlement Act 2008 (2008 No 100): [section 81][2012]
+    Te Roroa Claims Settlement Act 2008 (2008 No 100): [section 81][2015]
     
-    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 48][1991]
+    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 48][1993]
     
-    [Resource Management Amendment Act 2008][2025] (2008 No 95)
+    [Resource Management Amendment Act 2008][2029] (2008 No 95)
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv)][1650], [130(1)][977]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv)][1652], [130(1)][977]
     
     Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][985]
     
@@ -26305,93 +26329,93 @@ Transitional provisions and amendments to other enactments
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][1029]
     
-    [Resource Management Amendment Act 2007][2026] (2007 No 77)
+    [Resource Management Amendment Act 2007][2030] (2007 No 77)
     
-    Ngāti Mutunga Claims Settlement Act 2006 (2006 No 61): [sections 62][2000], [98][2027]
+    Ngāti Mutunga Claims Settlement Act 2006 (2006 No 61): [sections 62][2002], [98][2031]
     
-    Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 70][2011]
+    Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 70][2014]
     
-    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 36][1748]
+    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 36][1750]
     
-    [Resource Management Amendment Act 2005][2016] (2005 No 87)
+    [Resource Management Amendment Act 2005][2020] (2005 No 87)
     
-    Ngaa Rauru Kiitahi Claims Settlement Act 2005 (2005 No 84): [sections 57][1993], [112][2028]
+    Ngaa Rauru Kiitahi Claims Settlement Act 2005 (2005 No 84): [sections 57][1995], [112][2032]
     
-    Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005 (2005 No 72): [section 63][2005]
+    Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005 (2005 No 72): [section 63][2007]
     
-    Building Amendment Act 2005 (2005 No 31): [section 14(2)][1567]
+    Building Amendment Act 2005 (2005 No 31): [section 14(2)][1569]
     
-    Ngāti Awa Claims Settlement Act 2005 (2005 No 28): [section 58][1996]
+    Ngāti Awa Claims Settlement Act 2005 (2005 No 28): [section 58][1998]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][1518]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][1520]
     
-    [Resource Management Amendment Act (No 2) 2004][2029] (2004 No 103)
+    [Resource Management Amendment Act (No 2) 2004][2033] (2004 No 103)
     
     Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][979]
     
-    [Resource Management (Foreshore and Seabed) Amendment Act 2004][2015] (2004 No 94)
+    [Resource Management (Foreshore and Seabed) Amendment Act 2004][2019] (2004 No 94)
     
     Building Act 2004 (2004 No 72): [section 414][1015]
     
-    Local Government (Rating) Amendment Act 2004 (2004 No 66): [section 13][1934]
+    Local Government (Rating) Amendment Act 2004 (2004 No 66): [section 13][1936]
     
-    [Resource Management Amendment Act 2004][2030] (2004 No 46)
+    [Resource Management Amendment Act 2004][2034] (2004 No 46)
     
-    [Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004][2031] (2004 No 5)
+    [Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004][2035] (2004 No 5)
     
-    [Resource Management (Energy and Climate Change) Amendment Act 2004][2014] (2004 No 2)
+    [Resource Management (Energy and Climate Change) Amendment Act 2004][2018] (2004 No 2)
     
-    Ngati Tama Claims Settlement Act 2003 (2003 No 126): [section 71][2004]
+    Ngati Tama Claims Settlement Act 2003 (2003 No 126): [section 71][2006]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][1662]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][1664]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][1629]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][1631]
     
-    [Resource Management Amendment Act 2003][2013] (2003 No 23)
+    [Resource Management Amendment Act 2003][2017] (2003 No 23)
     
-    Ngati Ruanui Claims Settlement Act 2003 (2003 No 20): [section 107][2003]
+    Ngati Ruanui Claims Settlement Act 2003 (2003 No 20): [section 107][2005]
     
     Local Government Act 2002 (2002 No 84): [sections 262][980], 266
     
-    Te Uri o Hau Claims Settlement Act 2002 (2002 No 36): [section 74][2009]
+    Te Uri o Hau Claims Settlement Act 2002 (2002 No 36): [section 74][2012]
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][1718]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][1720]
     
-    Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 65(4)][1560]
+    Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 65(4)][1562]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][1735]
+    Sentencing Act 2002 (2002 No 9): [section 186][1737]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][986]
     
-    [Resource Management (Aquaculture Moratorium) Amendment Act 2002][2032] (2002 No 5)
+    [Resource Management (Aquaculture Moratorium) Amendment Act 2002][2036] (2002 No 5)
     
-    Telecommunications Act 2001 (2001 No 103): [section 158][1485], [159(8)][1887]
+    Telecommunications Act 2001 (2001 No 103): [section 158][1487], [159(8)][1889]
     
-    Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L)): [section 36][2033]
+    Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L)): [section 36][2037]
     
-    Pouakani Claims Settlement Act 2000 (2000 No 90): [section 51][2009]
+    Pouakani Claims Settlement Act 2000 (2000 No 90): [section 51][2012]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][1365]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][1367]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][1760]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][1762]
     
-    Land Transport Act 1998 (1998 No 110): [section 215(1)][1706]
+    Land Transport Act 1998 (1998 No 110): [section 215(1)][1708]
     
-    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [section 226][1990]
+    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [section 226][1992]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][1756]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][1758]
     
-    Ratings Valuations Act 1998 (1998 No 69): sections 53, [54(1)][1595]
+    Ratings Valuations Act 1998 (1998 No 69): sections 53, [54(1)][1597]
     
-    [Resource Management Amendment Act 1997][2034] (1997 No 104)
+    [Resource Management Amendment Act 1997][2038] (1997 No 104)
     
     Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][1128]
     
     Crown Minerals Amendment Act (No 2) 1997 (1997 No 91): [section 4(2)][984] 
     
-    [Resource Management Amendment Act 1996][2035] (1996 No 160)
+    [Resource Management Amendment Act 1996][2039] (1996 No 160)
     
-    Fisheries Act 1996 (1996 No 88): [section 316(1)][1208]
+    Fisheries Act 1996 (1996 No 88): [section 316(1)][1209]
     
     Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
@@ -26399,19 +26423,19 @@ Transitional provisions and amendments to other enactments
     
     Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][917]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][1630]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][1632]
     
     Foreshore and Seabed Endowment Revesting Amendment Act 1994 (1994 No 113): section 4
     
-    [Resource Management Amendment Act 1994][2036] (1994 No 105)
+    [Resource Management Amendment Act 1994][2040] (1994 No 105)
     
-    Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L)): [section 22(1)(c)][1987]
+    Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L)): [section 22(1)(c)][1989]
     
     Land Transfer Amendment Act 1993 (1993 No 124): [section 4][976]
     
-    [Resource Management Amendment Act 1993][2037] (1993 No 65)
+    [Resource Management Amendment Act 1993][2041] (1993 No 65)
     
-    Historic Places Act 1993 (1993 No 38): [section 118(1), (2)][1207]
+    Historic Places Act 1993 (1993 No 38): [section 118(1), (2)][1208]
     
     Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][1028]
     
@@ -27628,838 +27652,842 @@ Transitional provisions and amendments to other enactments
 [1200]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285935
 [1201]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320754
 [1202]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359987
-[1203]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3597401
-[1204]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3597408
-[1205]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421713
-[1206]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195975
-[1207]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM301645
-[1208]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM399975
-[1209]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218582
-[1210]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195976
-[1211]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303345
-[1212]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959738
-[1213]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421714
-[1214]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195978
-[1215]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359989
-[1216]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303346
-[1217]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421715
-[1218]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359990
-[1219]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195979
-[1220]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218583
-[1221]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359991
-[1222]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959739
-[1223]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195982
-[1224]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421716
-[1225]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303347
-[1226]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341409
-[1227]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359993
-[1228]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285936
-[1229]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959740
-[1230]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM240690
-[1231]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238100
-[1232]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359995
-[1233]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303349
-[1234]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303350
-[1235]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359996
-[1236]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359997
-[1237]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421717
-[1238]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195985
-[1239]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218584
-[1240]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359998
-[1241]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195988
-[1242]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218585
-[1243]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360100
-[1244]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420626
-[1245]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303353
-[1246]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195989
-[1247]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218586
-[1248]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285938
-[1249]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285939
-[1250]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303354
-[1251]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218591
-[1252]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285940
-[1253]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM175699
-[1254]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218593
-[1255]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195997
-[1256]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218595
-[1257]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241267
-[1258]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241261
-[1259]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303355
-[1260]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320765
-[1261]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241221
-[1262]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218596
-[1263]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959742
-[1264]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131366
-[1265]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421721
-[1266]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341410
-[1267]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3213366
-[1268]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218601
-[1269]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959743
-[1270]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM246714
-[1271]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM301623
-[1272]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958902
-[1273]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196300
-[1274]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959744
-[1275]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360103
-[1276]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421722
-[1277]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196302
-[1278]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218611
-[1279]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218614
-[1280]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959745
-[1281]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303359
-[1282]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285958
-[1283]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196305
-[1284]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196306
-[1285]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360107
-[1286]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2231300
-[1287]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360108
-[1288]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218617
-[1289]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218620
-[1290]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218638
-[1291]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3213370
-[1292]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218646
-[1293]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360114
-[1294]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360116
-[1295]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218648
-[1296]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285963
-[1297]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303369
-[1298]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303370
-[1299]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218650
-[1300]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303371
-[1301]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM233822
-[1302]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218652
-[1303]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196317
-[1304]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218654
-[1305]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360118
-[1306]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959747
-[1307]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320771
-[1308]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1629421
-[1309]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360119
-[1310]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218655
-[1311]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218656
-[1312]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238104
-[1313]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360120
-[1314]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341415
-[1315]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303375
-[1316]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421729
-[1317]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959748
-[1318]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959749
-[1319]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324760
-[1320]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324773
-[1321]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324774
-[1322]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324791
-[1323]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959750
-[1324]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421730
-[1325]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196325
-[1326]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303377
-[1327]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196326
-[1328]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM270468
-[1329]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM271007
-[1330]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM173446
-[1331]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421731
-[1332]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196328
-[1333]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421732
-[1334]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303379
-[1335]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421733
-[1336]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303380
-[1337]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421734
-[1338]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303381
-[1339]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218659
-[1340]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360121
-[1341]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303382
-[1342]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM235254
-[1343]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM398301
-[1344]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196329
-[1345]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959752
-[1346]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285964
-[1347]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959753
-[1348]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285966
-[1349]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303384
-[1350]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360122
-[1351]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196333
-[1352]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM398360
-[1353]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4077203
-[1354]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM398366
-[1355]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959754
-[1356]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218661
-[1357]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218663
-[1358]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285967
-[1359]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218664
-[1360]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303388
-[1361]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360124
-[1362]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218665
-[1363]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM126527
-[1364]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM45599
-[1365]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM47639
-[1366]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303390
-[1367]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959758
-[1368]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959759
-[1369]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360125
-[1370]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958903
-[1371]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360127
-[1372]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303391
-[1373]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959761
-[1374]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238650
-[1375]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196335
-[1376]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360132
-[1377]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360133
-[1378]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196337
-[1379]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959762
-[1380]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303393
-[1381]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421736
-[1382]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196338
-[1383]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360134
-[1384]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218666
-[1385]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959763
-[1386]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285969
-[1387]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196339
-[1388]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360135
-[1389]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218667
-[1390]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196340
-[1391]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303395
-[1392]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218668
-[1393]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421737
-[1394]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303396
-[1395]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959764
-[1396]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218669
-[1397]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360136
-[1398]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303397
-[1399]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360138
-[1400]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360139
-[1401]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341416
-[1402]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360141
-[1403]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285970
-[1404]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360143
-[1405]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349300
-[1406]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719718
-[1407]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM240695
-[1408]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241208
-[1409]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719719
-[1410]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241518
-[1411]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958904
-[1412]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958905
-[1413]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958906
-[1414]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719721
-[1415]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241530
-[1416]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958907
-[1417]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958908
-[1418]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958910
-[1419]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241521
-[1420]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241524
-[1421]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958911
-[1422]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959765
-[1423]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958913
-[1424]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958914
-[1425]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958912
-[1426]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214073
-[1427]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214075
-[1428]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241278
-[1429]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241296
-[1430]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM264952
-[1431]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131369
-[1432]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238651
-[1433]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238652
-[1434]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323925
-[1435]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238653
-[1436]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM69750
-[1437]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM69778
-[1438]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323926
-[1439]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323928
-[1440]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303501
-[1441]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196344
-[1442]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323929
-[1443]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303502
-[1444]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421740
-[1445]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218724
-[1446]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360171
-[1447]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323930
-[1448]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303503
-[1449]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323931
-[1450]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323932
-[1451]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323933
-[1452]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM160808
-[1453]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323934
-[1454]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959766
-[1455]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959767
-[1456]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324356
-[1457]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324348
-[1458]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324507
-[1459]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM311463
-[1460]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM430240
-[1461]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM193625
-[1462]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM234513
-[1463]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359740
-[1464]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM340063
-[1465]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM392111
-[1466]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM235402
-[1467]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959928
-[1468]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959929
-[1469]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM324760
-[1470]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM324773
-[1471]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM324774
-[1472]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3931501
-[1473]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959931
-[1474]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959932
-[1475]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958922
-[1476]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241540
-[1477]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241223
-[1478]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241225
-[1479]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241231
-[1480]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241233
-[1481]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM282148
-[1482]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM379823
-[1483]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214686
-[1484]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303505
-[1485]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM127740
-[1486]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303506
-[1487]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196346
-[1488]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303507
-[1489]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303508
-[1490]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218725
-[1491]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196347
-[1492]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286120
-[1493]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196350
-[1494]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218728
-[1495]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196352
-[1496]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349364
-[1497]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286122
-[1498]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196354
-[1499]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218733
-[1500]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421745
-[1501]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303513
-[1502]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421746
-[1503]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218735
-[1504]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303514
-[1505]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286124
-[1506]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286126
-[1507]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303516
-[1508]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303517
-[1509]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349365
-[1510]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196355
-[1511]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303518
-[1512]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303519
-[1513]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303520
-[1514]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303521
-[1515]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360177
-[1516]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303522
-[1517]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM45778
-[1518]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM333795
-[1519]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM45772
-[1520]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46305
-[1521]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46307
-[1522]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46055
-[1523]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46068
-[1524]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196356
-[1525]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303523
-[1526]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303524
-[1527]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218737
-[1528]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286128
-[1529]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218739
-[1530]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303527
-[1531]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303528
-[1532]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286130
-[1533]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303529
-[1534]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218740
-[1535]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286131
-[1536]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286133
-[1537]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303531
-[1538]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303532
-[1539]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286135
-[1540]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218752
-[1541]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218753
-[1542]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218754
-[1543]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303534
-[1544]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303535
-[1545]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303536
-[1546]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303537
-[1547]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196359
-[1548]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303539
-[1549]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM328317
-[1550]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421748
-[1551]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196360
-[1552]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303541
-[1553]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218755
-[1554]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360179
-[1555]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421749
-[1556]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303542
-[1557]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM415531
-[1558]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196361
-[1559]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303543
-[1560]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM141497
-[1561]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM141134
-[1562]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1160400
-[1563]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM306884
-[1564]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218756
-[1565]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303544
-[1566]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421751
-[1567]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM340862
-[1568]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420285
-[1569]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339132
-[1570]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303545
-[1571]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196362
-[1572]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303546
-[1573]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196363
-[1574]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421752
-[1575]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303547
-[1576]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM276813
-[1577]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM270049
-[1578]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303548
-[1579]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303549
-[1580]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242098
-[1581]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242099
-[1582]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242503
-[1583]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196364
-[1584]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421753
-[1585]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420156
-[1586]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339153
-[1587]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM104699
-[1588]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM251718
-[1589]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421754
-[1590]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360181
-[1591]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427676
-[1592]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427678
-[1593]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427681
-[1594]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427686
-[1595]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427717
-[1596]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM271650
-[1597]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303550
-[1598]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM250585
-[1599]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303551
-[1600]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421755
-[1601]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303552
-[1602]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303553
-[1603]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421756
-[1604]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303554
-[1605]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303555
-[1606]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421757
-[1607]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM141994
-[1608]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303556
-[1609]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421758
-[1610]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218757
-[1611]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM252785
-[1612]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218758
-[1613]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303557
-[1614]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294356
-[1615]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218759
-[1616]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294357
-[1617]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360182
-[1618]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM968511
-[1619]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407467
-[1620]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294358
-[1621]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407468
-[1622]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407469
-[1623]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294359
-[1624]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM129109
-[1625]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360184
-[1626]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM244460
-[1627]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294360
-[1628]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360185
-[1629]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM201378
-[1630]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM367235
-[1631]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303559
-[1632]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360186
-[1633]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196366
-[1634]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407471
-[1635]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196367
-[1636]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218760
-[1637]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360187
-[1638]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360188
-[1639]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196369
-[1640]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM157922
-[1641]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM157927
-[1642]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407473
-[1643]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360189
-[1644]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303560
-[1645]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360190
-[1646]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407474
-[1647]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196372
-[1648]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360191
-[1649]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360192
-[1650]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1102349
-[1651]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM242775
-[1652]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218763
-[1653]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218764
-[1654]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360195
-[1655]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218766
-[1656]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218767
-[1657]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360196
-[1658]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360198
-[1659]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218769
-[1660]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320781
-[1661]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM408335
-[1662]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214522
-[1663]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360603
-[1664]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407476
-[1665]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360604
-[1666]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360605
-[1667]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360606
-[1668]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360607
-[1669]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360608
-[1670]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM313122
-[1671]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM312658
-[1672]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218770
-[1673]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218771
-[1674]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320783
-[1675]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM397995
-[1676]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360609
-[1677]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196377
-[1678]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303565
-[1679]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303566
-[1680]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360610
-[1681]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303567
-[1682]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421760
-[1683]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303569
-[1684]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM204851
-[1685]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303570
-[1686]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303571
-[1687]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196378
-[1688]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303573
-[1689]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303574
-[1690]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421761
-[1691]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421762
-[1692]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218784
-[1693]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196379
-[1694]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303576
-[1695]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360612
-[1696]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337335
-[1697]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337336
-[1698]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337689
-[1699]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337696
-[1700]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337694
-[1701]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337864
-[1702]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337863
-[1703]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341418
-[1704]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421763
-[1705]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM434311
-[1706]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM435656
-[1707]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421764
-[1708]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196380
-[1709]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360613
-[1710]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303577
-[1711]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421765
-[1712]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341419
-[1713]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303578
-[1714]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360614
-[1715]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303579
-[1716]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360615
-[1717]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM149788
-[1718]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM151437
-[1719]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46329
-[1720]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303580
-[1721]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303581
-[1722]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349366
-[1723]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136542
-[1724]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136781
-[1725]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136770
-[1726]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136813
-[1727]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136815
-[1728]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2137070
-[1729]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM310742
-[1730]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341420
-[1731]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303583
-[1732]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286141
-[1733]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM135593
-[1734]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218785
-[1735]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM137267
-[1736]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM335304
-[1737]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341422
-[1738]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM411646
-[1739]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341423
-[1740]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421767
-[1741]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286142
-[1742]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303584
-[1743]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341424
-[1744]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM163137
-[1745]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341425
-[1746]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407477
-[1747]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM311346
-[1748]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM372700
-[1749]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218786
-[1750]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303586
-[1751]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM311378
-[1752]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM316197
-[1753]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM310749
-[1754]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341426
-[1755]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360616
-[1756]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427920
-[1757]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM291803
-[1758]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM291805
-[1759]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303587
-[1760]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM31885
-[1761]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303588
-[1762]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320787
-[1763]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421769
-[1764]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360623
-[1765]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196383
-[1766]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360624
-[1767]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286143
-[1768]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959933
-[1769]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218787
-[1770]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719722
-[1771]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349367
-[1772]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349368
-[1773]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303591
-[1774]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218788
-[1775]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360631
-[1776]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM231179
-[1777]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303592
-[1778]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218789
-[1779]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196385
-[1780]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407478
-[1781]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341427
-[1782]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421771
-[1783]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360633
-[1784]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959934
-[1785]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM97208
-[1786]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM97210
-[1787]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM103543
-[1788]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420122
-[1789]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419975
-[1790]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303594
-[1791]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323801
-[1792]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303595
-[1793]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM232486
-[1794]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM232802
-[1795]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM167071
-[1796]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323800
-[1797]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303596
-[1798]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421773
-[1799]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196387
-[1800]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360632
-[1801]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303597
-[1802]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958945
-[1803]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303598
-[1804]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196388
-[1805]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303599
-[1806]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303700
-[1807]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303701
-[1808]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360634
-[1809]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303702
-[1810]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303703
-[1811]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303704
-[1812]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303705
-[1813]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324762
-[1814]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303706
-[1815]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323993
-[1816]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM132174
-[1817]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131682
-[1818]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303707
-[1819]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323994
-[1820]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407479
-[1821]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303708
-[1822]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303709
-[1823]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM247367
-[1824]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303710
-[1825]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407480
-[1826]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5081570
-[1827]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303711
-[1828]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303712
-[1829]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303714
-[1830]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303715
-[1831]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286145
-[1832]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323995
-[1833]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323996
-[1834]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323997
-[1835]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323998
-[1836]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323999
-[1837]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303720
-[1838]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959939
-[1839]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421774
-[1840]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324100
-[1841]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324101
-[1842]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420283
-[1843]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419973
-[1844]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420324
-[1845]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420257
-[1846]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420263
-[1847]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420271
-[1848]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420106
-[1849]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420108
-[1850]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303721
-[1851]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421775
-[1852]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196389
-[1853]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303722
-[1854]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420139
-[1855]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420146
-[1856]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420148
-[1857]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420166
-[1858]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420400
-[1859]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420404
-[1860]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421776
-[1861]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303723
-[1862]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2319251
-[1863]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420320
-[1864]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420170
-[1865]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420133
-[1866]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420198
-[1867]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420178
-[1868]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420172
-[1869]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419984
-[1870]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421777
-[1871]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303724
-[1872]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419619
-[1873]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421778
-[1874]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303725
-[1875]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303726
-[1876]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303727
-[1877]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46358
-[1878]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM271658
-[1879]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303728
-[1880]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303729
-[1881]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407481
-[1882]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM119023
-[1883]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM231974
-[1884]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407482
-[1885]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421779
-[1886]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303730
-[1887]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM127741
-[1888]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324102
-[1889]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303731
-[1890]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421781
-[1891]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM423695
-[1892]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM76716
-[1893]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303732
-[1894]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407483
-[1895]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303734
-[1896]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324103
-[1897]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM202921
-[1898]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303735
-[1899]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324104
-[1900]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303737
-[1901]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303738
-[1902]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303739
-[1903]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM240691
-[1904]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241201
-[1905]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241204
-[1906]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241206
-[1907]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241227
-[1908]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241229
-[1909]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241235
-[1910]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241239
-[1911]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241247
-[1912]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241253
-[1913]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241255
-[1914]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241286
-[1915]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241511
-[1916]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241534
-[1917]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241550
-[1918]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241552
-[1919]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241554
-[1920]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241557
-[1921]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241559
-[1922]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241562
-[1923]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218792
-[1924]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303741
-[1925]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320791
-[1926]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM336953
-[1927]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM172327
-[1928]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360635
-[1929]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341428
-[1930]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM171812
-[1931]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303742
-[1932]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196391
-[1933]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303744
-[1934]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM304049
-[1935]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303745
-[1936]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303746
-[1937]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303747
-[1938]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303748
-[1939]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407486
-[1940]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303749
-[1941]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303750
-[1942]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303751
-[1943]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303752
-[1944]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303753
-[1945]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421787
-[1946]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959941
-[1947]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421788
-[1948]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360637
-[1949]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959942
-[1950]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196393
-[1951]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196394
-[1952]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303758
-[1953]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242009
-[1954]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM188481
-[1955]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM189413
-[1956]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM239207
-[1957]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM379827
-[1958]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM207911
-[1959]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM98974
-[1960]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM432647
-[1961]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM66581
-[1962]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339607
-[1963]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM291039
-[1964]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2474800
-[1965]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM211805
-[1966]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM411130
-[1967]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM160976
-[1968]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM21245
-[1969]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM194753
-[1970]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM97361
-[1971]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM57005
-[1972]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM222630
-[1973]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM64784
-[1974]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM430983
-[1975]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM267064
-[1976]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM394841
-[1977]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM228823
-[1978]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM172771
-[1979]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM230364
-[1980]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323058
-[1981]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM399728
-[1982]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM70596
-[1983]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM173368
-[1984]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM405590
-[1985]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM96690
-[1986]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM15787
-[1987]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM82631
-[1988]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303762
-[1989]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM314622
-[1990]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM430068
-[1991]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1375785
-[1992]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4329092
-[1993]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359653
-[1994]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3947234
-[1995]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2274922
-[1996]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339735
-[1997]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4062829
-[1998]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3277018
-[1999]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4326816
-[2000]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM391771
-[2001]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3562785
-[2002]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3548996
-[2003]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM193390
-[2004]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM234287
-[2005]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM350255
-[2006]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4340130
-[2007]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4326157
-[2008]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1525909
-[2009]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM80024
-[2010]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4321847
-[2011]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM381993
-[2012]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1132566
-[2013]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM194996
-[2014]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM237583
-[2015]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320711
-[2016]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359901
-[2017]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218400
-[2018]: http://www.pco.parliament.govt.nz/reprints/
-[2019]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195439
-[2020]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[2021]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195468
-[2022]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195470
-[2023]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959714
-[2024]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719702
-[2025]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1629437
-[2026]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM968504
-[2027]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM392118
-[2028]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359747
-[2029]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323782
-[2030]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294350
-[2031]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238641
-[2032]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131351
-[2033]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM85797
-[2034]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419391
-[2035]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407454
-[2036]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339995
-[2037]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM302692
+[1203]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3955410
+[1204]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3597401
+[1205]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3597408
+[1206]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421713
+[1207]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195975
+[1208]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM301645
+[1209]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM399975
+[1210]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3956370
+[1211]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218582
+[1212]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195976
+[1213]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303345
+[1214]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959738
+[1215]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421714
+[1216]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195978
+[1217]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359989
+[1218]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303346
+[1219]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421715
+[1220]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359990
+[1221]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195979
+[1222]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218583
+[1223]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359991
+[1224]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959739
+[1225]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195982
+[1226]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421716
+[1227]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303347
+[1228]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341409
+[1229]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359993
+[1230]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285936
+[1231]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959740
+[1232]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM240690
+[1233]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238100
+[1234]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359995
+[1235]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303349
+[1236]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303350
+[1237]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359996
+[1238]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359997
+[1239]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421717
+[1240]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195985
+[1241]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218584
+[1242]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359998
+[1243]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195988
+[1244]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218585
+[1245]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360100
+[1246]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420626
+[1247]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303353
+[1248]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195989
+[1249]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218586
+[1250]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285938
+[1251]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285939
+[1252]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303354
+[1253]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218591
+[1254]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285940
+[1255]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM175699
+[1256]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218593
+[1257]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195997
+[1258]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218595
+[1259]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241267
+[1260]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241261
+[1261]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303355
+[1262]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320765
+[1263]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241221
+[1264]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218596
+[1265]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959742
+[1266]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131366
+[1267]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421721
+[1268]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341410
+[1269]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3213366
+[1270]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218601
+[1271]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959743
+[1272]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM246714
+[1273]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM301623
+[1274]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958902
+[1275]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196300
+[1276]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959744
+[1277]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360103
+[1278]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421722
+[1279]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196302
+[1280]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218611
+[1281]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218614
+[1282]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959745
+[1283]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303359
+[1284]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285958
+[1285]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196305
+[1286]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196306
+[1287]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360107
+[1288]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2231300
+[1289]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360108
+[1290]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218617
+[1291]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218620
+[1292]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218638
+[1293]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3213370
+[1294]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218646
+[1295]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360114
+[1296]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360116
+[1297]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218648
+[1298]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285963
+[1299]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303369
+[1300]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303370
+[1301]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218650
+[1302]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303371
+[1303]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM233822
+[1304]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218652
+[1305]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196317
+[1306]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218654
+[1307]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360118
+[1308]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959747
+[1309]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320771
+[1310]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1629421
+[1311]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360119
+[1312]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218655
+[1313]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218656
+[1314]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238104
+[1315]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360120
+[1316]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341415
+[1317]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303375
+[1318]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421729
+[1319]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959748
+[1320]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959749
+[1321]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324760
+[1322]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324773
+[1323]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324774
+[1324]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324791
+[1325]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959750
+[1326]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421730
+[1327]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196325
+[1328]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303377
+[1329]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196326
+[1330]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM270468
+[1331]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM271007
+[1332]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM173446
+[1333]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421731
+[1334]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196328
+[1335]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421732
+[1336]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303379
+[1337]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421733
+[1338]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303380
+[1339]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421734
+[1340]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303381
+[1341]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218659
+[1342]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360121
+[1343]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303382
+[1344]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM235254
+[1345]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM398301
+[1346]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196329
+[1347]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959752
+[1348]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285964
+[1349]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959753
+[1350]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285966
+[1351]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303384
+[1352]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360122
+[1353]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196333
+[1354]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM398360
+[1355]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4077203
+[1356]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM398366
+[1357]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959754
+[1358]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218661
+[1359]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218663
+[1360]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285967
+[1361]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218664
+[1362]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303388
+[1363]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360124
+[1364]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218665
+[1365]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM126527
+[1366]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM45599
+[1367]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM47639
+[1368]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303390
+[1369]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959758
+[1370]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959759
+[1371]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360125
+[1372]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958903
+[1373]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360127
+[1374]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303391
+[1375]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959761
+[1376]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238650
+[1377]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196335
+[1378]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360132
+[1379]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360133
+[1380]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196337
+[1381]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959762
+[1382]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303393
+[1383]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421736
+[1384]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196338
+[1385]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360134
+[1386]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218666
+[1387]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959763
+[1388]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285969
+[1389]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196339
+[1390]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360135
+[1391]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218667
+[1392]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196340
+[1393]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303395
+[1394]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218668
+[1395]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421737
+[1396]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303396
+[1397]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959764
+[1398]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218669
+[1399]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360136
+[1400]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303397
+[1401]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360138
+[1402]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360139
+[1403]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341416
+[1404]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360141
+[1405]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2285970
+[1406]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360143
+[1407]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349300
+[1408]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719718
+[1409]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM240695
+[1410]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241208
+[1411]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719719
+[1412]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241518
+[1413]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958904
+[1414]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958905
+[1415]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958906
+[1416]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719721
+[1417]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241530
+[1418]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958907
+[1419]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958908
+[1420]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958910
+[1421]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241521
+[1422]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241524
+[1423]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958911
+[1424]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959765
+[1425]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958913
+[1426]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958914
+[1427]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958912
+[1428]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214073
+[1429]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214075
+[1430]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241278
+[1431]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241296
+[1432]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM264952
+[1433]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131369
+[1434]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238651
+[1435]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238652
+[1436]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323925
+[1437]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238653
+[1438]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM69750
+[1439]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM69778
+[1440]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323926
+[1441]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323928
+[1442]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303501
+[1443]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196344
+[1444]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323929
+[1445]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303502
+[1446]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421740
+[1447]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218724
+[1448]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360171
+[1449]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323930
+[1450]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303503
+[1451]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323931
+[1452]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323932
+[1453]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323933
+[1454]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM160808
+[1455]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323934
+[1456]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959766
+[1457]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959767
+[1458]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324356
+[1459]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324348
+[1460]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324507
+[1461]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM311463
+[1462]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM430240
+[1463]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM193625
+[1464]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM234513
+[1465]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359740
+[1466]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM340063
+[1467]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM392111
+[1468]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM235402
+[1469]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959928
+[1470]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959929
+[1471]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM324760
+[1472]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM324773
+[1473]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM324774
+[1474]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3931501
+[1475]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959931
+[1476]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959932
+[1477]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958922
+[1478]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241540
+[1479]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241223
+[1480]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241225
+[1481]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241231
+[1482]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241233
+[1483]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM282148
+[1484]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM379823
+[1485]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214686
+[1486]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303505
+[1487]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM127740
+[1488]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303506
+[1489]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196346
+[1490]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303507
+[1491]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303508
+[1492]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218725
+[1493]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196347
+[1494]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286120
+[1495]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196350
+[1496]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218728
+[1497]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196352
+[1498]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349364
+[1499]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286122
+[1500]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196354
+[1501]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218733
+[1502]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421745
+[1503]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303513
+[1504]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421746
+[1505]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218735
+[1506]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303514
+[1507]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286124
+[1508]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286126
+[1509]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303516
+[1510]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303517
+[1511]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349365
+[1512]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196355
+[1513]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303518
+[1514]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303519
+[1515]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303520
+[1516]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303521
+[1517]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360177
+[1518]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303522
+[1519]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM45778
+[1520]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM333795
+[1521]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM45772
+[1522]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46305
+[1523]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46307
+[1524]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46055
+[1525]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46068
+[1526]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196356
+[1527]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303523
+[1528]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303524
+[1529]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218737
+[1530]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286128
+[1531]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218739
+[1532]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303527
+[1533]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303528
+[1534]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286130
+[1535]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303529
+[1536]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218740
+[1537]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286131
+[1538]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286133
+[1539]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303531
+[1540]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303532
+[1541]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286135
+[1542]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218752
+[1543]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218753
+[1544]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218754
+[1545]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303534
+[1546]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303535
+[1547]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303536
+[1548]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303537
+[1549]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196359
+[1550]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303539
+[1551]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM328317
+[1552]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421748
+[1553]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196360
+[1554]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303541
+[1555]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218755
+[1556]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360179
+[1557]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421749
+[1558]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303542
+[1559]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM415531
+[1560]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196361
+[1561]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303543
+[1562]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM141497
+[1563]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM141134
+[1564]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1160400
+[1565]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM306884
+[1566]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218756
+[1567]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303544
+[1568]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421751
+[1569]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM340862
+[1570]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420285
+[1571]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339132
+[1572]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303545
+[1573]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196362
+[1574]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303546
+[1575]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196363
+[1576]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421752
+[1577]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303547
+[1578]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM276813
+[1579]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM270049
+[1580]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303548
+[1581]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303549
+[1582]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242098
+[1583]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242099
+[1584]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242503
+[1585]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196364
+[1586]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421753
+[1587]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420156
+[1588]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339153
+[1589]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM104699
+[1590]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM251718
+[1591]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421754
+[1592]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360181
+[1593]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427676
+[1594]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427678
+[1595]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427681
+[1596]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427686
+[1597]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427717
+[1598]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM271650
+[1599]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303550
+[1600]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM250585
+[1601]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303551
+[1602]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421755
+[1603]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303552
+[1604]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303553
+[1605]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421756
+[1606]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303554
+[1607]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303555
+[1608]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421757
+[1609]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM141994
+[1610]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303556
+[1611]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421758
+[1612]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218757
+[1613]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM252785
+[1614]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218758
+[1615]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303557
+[1616]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294356
+[1617]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218759
+[1618]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294357
+[1619]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360182
+[1620]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM968511
+[1621]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407467
+[1622]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294358
+[1623]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407468
+[1624]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407469
+[1625]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294359
+[1626]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM129109
+[1627]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360184
+[1628]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM244460
+[1629]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294360
+[1630]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360185
+[1631]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM201378
+[1632]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM367235
+[1633]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303559
+[1634]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360186
+[1635]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196366
+[1636]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407471
+[1637]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196367
+[1638]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218760
+[1639]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360187
+[1640]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360188
+[1641]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196369
+[1642]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM157922
+[1643]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM157927
+[1644]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407473
+[1645]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360189
+[1646]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303560
+[1647]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360190
+[1648]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407474
+[1649]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196372
+[1650]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360191
+[1651]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360192
+[1652]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1102349
+[1653]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM242775
+[1654]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218763
+[1655]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218764
+[1656]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360195
+[1657]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218766
+[1658]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218767
+[1659]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360196
+[1660]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360198
+[1661]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218769
+[1662]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320781
+[1663]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM408335
+[1664]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM214522
+[1665]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360603
+[1666]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407476
+[1667]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360604
+[1668]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360605
+[1669]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360606
+[1670]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360607
+[1671]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360608
+[1672]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM313122
+[1673]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM312658
+[1674]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218770
+[1675]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218771
+[1676]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320783
+[1677]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM397995
+[1678]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360609
+[1679]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196377
+[1680]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303565
+[1681]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303566
+[1682]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360610
+[1683]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303567
+[1684]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421760
+[1685]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303569
+[1686]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM204851
+[1687]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303570
+[1688]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303571
+[1689]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196378
+[1690]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303573
+[1691]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303574
+[1692]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421761
+[1693]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421762
+[1694]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218784
+[1695]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196379
+[1696]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303576
+[1697]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360612
+[1698]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337335
+[1699]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337336
+[1700]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337689
+[1701]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337696
+[1702]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337694
+[1703]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337864
+[1704]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM337863
+[1705]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341418
+[1706]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421763
+[1707]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM434311
+[1708]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM435656
+[1709]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421764
+[1710]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196380
+[1711]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360613
+[1712]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303577
+[1713]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421765
+[1714]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341419
+[1715]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303578
+[1716]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360614
+[1717]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303579
+[1718]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360615
+[1719]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM149788
+[1720]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM151437
+[1721]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46329
+[1722]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303580
+[1723]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303581
+[1724]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349366
+[1725]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136542
+[1726]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136781
+[1727]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136770
+[1728]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136813
+[1729]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2136815
+[1730]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2137070
+[1731]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM310742
+[1732]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341420
+[1733]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303583
+[1734]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286141
+[1735]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM135593
+[1736]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218785
+[1737]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM137267
+[1738]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM335304
+[1739]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341422
+[1740]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM411646
+[1741]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341423
+[1742]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421767
+[1743]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286142
+[1744]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303584
+[1745]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341424
+[1746]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM163137
+[1747]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341425
+[1748]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407477
+[1749]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM311346
+[1750]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM372700
+[1751]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218786
+[1752]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303586
+[1753]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM311378
+[1754]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM316197
+[1755]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM310749
+[1756]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341426
+[1757]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360616
+[1758]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM427920
+[1759]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM291803
+[1760]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM291805
+[1761]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303587
+[1762]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM31885
+[1763]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303588
+[1764]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320787
+[1765]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421769
+[1766]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360623
+[1767]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196383
+[1768]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360624
+[1769]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286143
+[1770]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959933
+[1771]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218787
+[1772]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719722
+[1773]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349367
+[1774]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2349368
+[1775]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303591
+[1776]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218788
+[1777]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360631
+[1778]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM231179
+[1779]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303592
+[1780]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218789
+[1781]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196385
+[1782]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407478
+[1783]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341427
+[1784]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421771
+[1785]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360633
+[1786]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959934
+[1787]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM97208
+[1788]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM97210
+[1789]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM103543
+[1790]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420122
+[1791]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419975
+[1792]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303594
+[1793]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323801
+[1794]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303595
+[1795]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM232486
+[1796]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM232802
+[1797]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM167071
+[1798]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323800
+[1799]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303596
+[1800]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421773
+[1801]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196387
+[1802]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360632
+[1803]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303597
+[1804]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3958945
+[1805]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303598
+[1806]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196388
+[1807]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303599
+[1808]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303700
+[1809]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303701
+[1810]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360634
+[1811]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303702
+[1812]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303703
+[1813]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303704
+[1814]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303705
+[1815]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324762
+[1816]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303706
+[1817]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323993
+[1818]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM132174
+[1819]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131682
+[1820]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303707
+[1821]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323994
+[1822]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407479
+[1823]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303708
+[1824]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303709
+[1825]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM247367
+[1826]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303710
+[1827]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407480
+[1828]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5081570
+[1829]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303711
+[1830]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303712
+[1831]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303714
+[1832]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303715
+[1833]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2286145
+[1834]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323995
+[1835]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323996
+[1836]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323997
+[1837]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323998
+[1838]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323999
+[1839]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303720
+[1840]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959939
+[1841]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421774
+[1842]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324100
+[1843]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324101
+[1844]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420283
+[1845]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419973
+[1846]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420324
+[1847]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420257
+[1848]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420263
+[1849]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420271
+[1850]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420106
+[1851]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420108
+[1852]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303721
+[1853]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421775
+[1854]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196389
+[1855]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303722
+[1856]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420139
+[1857]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420146
+[1858]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420148
+[1859]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420166
+[1860]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420400
+[1861]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420404
+[1862]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421776
+[1863]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303723
+[1864]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2319251
+[1865]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420320
+[1866]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420170
+[1867]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420133
+[1868]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420198
+[1869]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420178
+[1870]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM420172
+[1871]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419984
+[1872]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421777
+[1873]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303724
+[1874]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419619
+[1875]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421778
+[1876]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303725
+[1877]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303726
+[1878]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303727
+[1879]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM46358
+[1880]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM271658
+[1881]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303728
+[1882]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303729
+[1883]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407481
+[1884]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM119023
+[1885]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM231974
+[1886]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407482
+[1887]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421779
+[1888]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303730
+[1889]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM127741
+[1890]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324102
+[1891]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303731
+[1892]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421781
+[1893]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM423695
+[1894]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM76716
+[1895]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303732
+[1896]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407483
+[1897]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303734
+[1898]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324103
+[1899]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM202921
+[1900]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303735
+[1901]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM324104
+[1902]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303737
+[1903]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303738
+[1904]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303739
+[1905]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM240691
+[1906]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241201
+[1907]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241204
+[1908]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241206
+[1909]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241227
+[1910]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241229
+[1911]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241235
+[1912]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241239
+[1913]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241247
+[1914]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241253
+[1915]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241255
+[1916]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241286
+[1917]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241511
+[1918]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241534
+[1919]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241550
+[1920]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241552
+[1921]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241554
+[1922]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241557
+[1923]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241559
+[1924]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM241562
+[1925]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218792
+[1926]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303741
+[1927]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320791
+[1928]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM336953
+[1929]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM172327
+[1930]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360635
+[1931]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM341428
+[1932]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM171812
+[1933]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303742
+[1934]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196391
+[1935]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303744
+[1936]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM304049
+[1937]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303745
+[1938]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303746
+[1939]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303747
+[1940]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303748
+[1941]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407486
+[1942]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303749
+[1943]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303750
+[1944]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303751
+[1945]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303752
+[1946]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303753
+[1947]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421787
+[1948]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959941
+[1949]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM421788
+[1950]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM360637
+[1951]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959942
+[1952]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196393
+[1953]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM196394
+[1954]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303758
+[1955]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM242009
+[1956]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM188481
+[1957]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM189413
+[1958]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM239207
+[1959]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM379827
+[1960]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM207911
+[1961]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM98974
+[1962]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM432647
+[1963]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM66581
+[1964]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339607
+[1965]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM291039
+[1966]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2474800
+[1967]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM211805
+[1968]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM411130
+[1969]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM160976
+[1970]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM21245
+[1971]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM194753
+[1972]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM97361
+[1973]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM57005
+[1974]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM222630
+[1975]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM64784
+[1976]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM430983
+[1977]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM267064
+[1978]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM394841
+[1979]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM228823
+[1980]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM172771
+[1981]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM230364
+[1982]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323058
+[1983]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM399728
+[1984]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM70596
+[1985]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM173368
+[1986]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM405590
+[1987]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM96690
+[1988]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM15787
+[1989]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM82631
+[1990]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM303762
+[1991]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM314622
+[1992]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM430068
+[1993]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1375785
+[1994]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4329092
+[1995]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359653
+[1996]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3947234
+[1997]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2274922
+[1998]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339735
+[1999]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4062829
+[2000]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3277018
+[2001]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4326816
+[2002]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM391771
+[2003]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3562785
+[2004]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3548996
+[2005]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM193390
+[2006]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM234287
+[2007]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM350255
+[2008]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4340130
+[2009]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4653276
+[2010]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4326157
+[2011]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1525909
+[2012]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM80024
+[2013]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4321847
+[2014]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM381993
+[2015]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1132566
+[2016]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4732523
+[2017]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM194996
+[2018]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM237583
+[2019]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320711
+[2020]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359901
+[2021]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218400
+[2022]: http://www.pco.parliament.govt.nz/reprints/
+[2023]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195439
+[2024]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[2025]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195468
+[2026]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM195470
+[2027]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959714
+[2028]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719702
+[2029]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1629437
+[2030]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM968504
+[2031]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM392118
+[2032]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359747
+[2033]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323782
+[2034]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294350
+[2035]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238641
+[2036]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131351
+[2037]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM85797
+[2038]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419391
+[2039]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407454
+[2040]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339995
+[2041]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM302692
