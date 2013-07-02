@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1498,7 +1498,7 @@ Savings, transitional provisions, and related matters (except employment)
     
     (2) On and from 1 November 2010, the policies are deemed to have been made by the Auckland Council.
     
-    (3) Each policy remains in force in the area to which it applied at the close of 31 October 2010 until one of the following occurs:
+    (3) Subject to [section 156][238] of the Land Transport Management Act 2003, each policy remains in force in the area to which it applied at the close of 31 October 2010 until one of the following occurs:
         
     *   (a) the Auckland Council confirms it, in which case the confirmed policy becomes a policy made by the Auckland Council and remains in force until it expires or is revoked:
     
@@ -1506,7 +1506,11 @@ Savings, transitional provisions, and related matters (except employment)
     
     *   (c) the Auckland Council revokes it.
     
-    (4) The Auckland Council must review each policy and confirm, amend, or revoke it before the close of 31 October 2015\.
+    (4) Subject to [section 156][238] of the Land Transport Management Act 2003, the Auckland Council must review each policy and confirm, amend, or revoke it before the close of 31 October 2015\.
+    
+    Section 65(3): amended, on 13 June 2013, by [section 72][239] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 65(4): amended, on 13 June 2013, by [section 72][239] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Statutory warrants
 
@@ -1516,7 +1520,7 @@ Savings, transitional provisions, and related matters (except employment)
         
     *   (a) they relate to the enforcement of transport law:
     
-    *   (b) they were issued under [section 177][238] of the Local Government Act 2002 or [section 208][239] of the Land Transport Act 1998:
+    *   (b) they were issued under [section 177][240] of the Local Government Act 2002 or [section 208][241] of the Land Transport Act 1998:
     
     *   (c) they were issued by an existing local authority to---
             
@@ -1544,7 +1548,7 @@ Savings, transitional provisions, and related matters (except employment)
         
     *   (a) they relate to the enforcement of transport law:
     
-    *   (b) they were issued under [section 177][238] of the Local Government Act 2002 or [section 208][239] of the Land Transport Act 1998:
+    *   (b) they were issued under [section 177][240] of the Local Government Act 2002 or [section 208][241] of the Land Transport Act 1998:
     
     *   (c) they were issued by the Commissioner of Police to---
             
@@ -1646,7 +1650,7 @@ Savings, transitional provisions, and related matters (except employment)
     
 *   (1) On and from 1 November 2010, the chief executive of the Auckland Council holds all the responsibilities, duties, and powers of the Council that the [Resource Management Act 1991][229] allows a local authority to delegate to an officer of the local authority.
     
-    (2) Despite [section 34A(1)(b)][240] of that Act, on and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to---
+    (2) Despite [section 34A(1)(b)][242] of that Act, on and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to---
         
     *   (a) an officer or employee of the Auckland Council:
     
@@ -1694,7 +1698,7 @@ Savings, transitional provisions, and related matters (except employment)
     
     *   (b) ends on the earlier of the following:
             
-        *   (i) the date on which the chief executive, having applied [sections 191 to 197][241] of the Building Act 2004, enters the Council's name in the register:
+        *   (i) the date on which the chief executive, having applied [sections 191 to 197][243] of the Building Act 2004, enters the Council's name in the register:
         
         *   (ii) 31 October 2011\.
         
@@ -1706,17 +1710,17 @@ Savings, transitional provisions, and related matters (except employment)
     
     (5) In this section,---
     
-    _chief executive_ means the chief executive of the Ministry that is responsible for the administration of the [Building Act 2004][242]
+    _chief executive_ means the chief executive of the Ministry that is responsible for the administration of the [Building Act 2004][244]
     
-    _register of building consent authorities_ means the register of building consent authorities kept under [section 273(1)(a)][243] of the Building Act 2004\.
+    _register of building consent authorities_ means the register of building consent authorities kept under [section 273(1)(a)][245] of the Building Act 2004\.
 
 #### Civil defence emergency management
 
 ##### 74 Civil defence emergency management
     
-*   (1) This section applies to the Civil Defence Emergency Management Group established by the existing local authorities under the [Civil Defence Emergency Management Act 2002][244] (_CDEMG_).
+*   (1) This section applies to the Civil Defence Emergency Management Group established by the existing local authorities under the [Civil Defence Emergency Management Act 2002][246] (_CDEMG_).
     
-    (2) The Civil Defence Emergency Management Co-ordinating Executive Group established by the CDEMG under [section 20][245] of the Civil Defence Emergency Management Act 2002 continues to perform its functions as if---
+    (2) The Civil Defence Emergency Management Co-ordinating Executive Group established by the CDEMG under [section 20][247] of the Civil Defence Emergency Management Act 2002 continues to perform its functions as if---
         
     *   (a) section 20(1)(a) said ""the chief executive of the Auckland Council or a person acting on the chief executive's behalf""; and
     
@@ -1724,13 +1728,13 @@ Savings, transitional provisions, and related matters (except employment)
     
     (3) Anything done by the CDEMG in the performance of its functions or the exercise of its powers continues to have effect on and from 1 November 2010 as if the CDEMG had not been dissolved on 1 November 2010\.
     
-    (4) Subsection (3) ceases to have effect when the Civil Defence Emergency Management Group established by the Auckland Council (_ACCDEMG_) under [section 22(2)][246] of the Civil Defence Emergency Management Act 2002 replaces the thing done by the CDEMG in the performance of its functions or the exercise of its powers with a thing done by the ACCDEMG.
+    (4) Subsection (3) ceases to have effect when the Civil Defence Emergency Management Group established by the Auckland Council (_ACCDEMG_) under [section 22(2)][248] of the Civil Defence Emergency Management Act 2002 replaces the thing done by the CDEMG in the performance of its functions or the exercise of its powers with a thing done by the ACCDEMG.
 
 #### Fire authority appointments
 
 ##### 75 Fire authority appointments
     
-*   (1) Subsections (2) and (3) apply to Rural Fire Officers under the [Forest and Rural Fires Act 1977][247] who---
+*   (1) Subsections (2) and (3) apply to Rural Fire Officers under the [Forest and Rural Fires Act 1977][249] who---
         
     *   (a) were appointed by a Fire Authority that was an existing local authority; and
     
@@ -1752,7 +1756,7 @@ Savings, transitional provisions, and related matters (except employment)
     
     *   (c) he or she resigns his or her office.
     
-    (4) Subsections (5) and (6) apply to Rural Fire Officers under the [Forest and Rural Fires Act 1977][247] who---
+    (4) Subsections (5) and (6) apply to Rural Fire Officers under the [Forest and Rural Fires Act 1977][249] who---
         
     *   (a) were appointed by a Fire Authority that was an existing local authority; and
     
@@ -1764,7 +1768,7 @@ Savings, transitional provisions, and related matters (except employment)
     
     (6) Subsection (5) ceases to apply to each officer when the earliest of the following occurs:
         
-    *   (a) the Auckland Council appoints him or her as the Principal Rural Fire Officer for Auckland under [section 13(1)][248] of the Forest and Rural Fires Act 1977:
+    *   (a) the Auckland Council appoints him or her as the Principal Rural Fire Officer for Auckland under [section 13(1)][250] of the Forest and Rural Fires Act 1977:
     
     *   (b) the Auckland Council appoints another person as the Principal Rural Fire Officer for Auckland:
     
@@ -1776,7 +1780,7 @@ Savings, transitional provisions, and related matters (except employment)
 
 ##### 76 Council may direct Principal Rural Fire Officer to also perform functions in other districts
     
-*   Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland under [section 13(1)][248] of the Forest and Rural Fires Act 1977, it may direct a person described in [section 75(4)][106] to also perform the functions of his or her office in the following districts:
+*   Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland under [section 13(1)][250] of the Forest and Rural Fires Act 1977, it may direct a person described in [section 75(4)][106] to also perform the functions of his or her office in the following districts:
         
     *   (a) the district of an existing local authority for which, at the close of 31 October 2010, there is no Principal Rural Fire Officer:
     
@@ -1788,7 +1792,7 @@ Savings, transitional provisions, and related matters (except employment)
 
 ##### 77 Section 81 of Resource Management Act 1991 does not apply to areas included within Auckland
     
-*   (1) [Section 81][249] of the Resource Management Act 1991 does not apply to any area included within Auckland by the boundary adjustment Order.
+*   (1) [Section 81][251] of the Resource Management Act 1991 does not apply to any area included within Auckland by the boundary adjustment Order.
     
     (2) Instead, the relevant parts of [section 78][110] of this Act apply.
 
@@ -1808,19 +1812,19 @@ Savings, transitional provisions, and related matters (except employment)
     
     (7) The first monitoring report required by the Auckland Council under [section 35(2A)][47] is required 5 years from 1 November 2010\.
     
-    (8) For the purposes of [sections 184][250] and [184A][251], every designation included in the district plans of existing local authorities at the close of 31 October 2010 is deemed to have been included in the district plans of the Auckland Council on 1 November 2010\.
+    (8) For the purposes of [sections 184][252] and [184A][253], every designation included in the district plans of existing local authorities at the close of 31 October 2010 is deemed to have been included in the district plans of the Auckland Council on 1 November 2010\.
     
     (9) Subsection (10) of this section applies to a designation included in the district plan of an existing local authority that lapses in the period beginning with the commencement of this Act and ending on the close of 31 October 2010\.
     
     (10) The designation is deemed to continue until 1 November 2015 unless---
         
-    *   (a) the designation is given effect to in accordance with [section 184][250] or [184A][251]; or
+    *   (a) the designation is given effect to in accordance with [section 184][252] or [184A][253]; or
     
-    *   (b) the Auckland Council fixes a longer period under [section 184][250] or [184A][251] before the designation lapses.
+    *   (b) the Auckland Council fixes a longer period under [section 184][252] or [184A][253] before the designation lapses.
     
     (11) Existing designations that are not included in an existing district plan continue for the term for which they were granted by the existing local authority.
     
-    (12) For the purposes of [section 180(2)][252], the Minister for the Environment is deemed to have been notified of all designations to which subsections (8) and (9) of this section apply.
+    (12) For the purposes of [section 180(2)][254], the Minister for the Environment is deemed to have been notified of all designations to which subsections (8) and (9) of this section apply.
     
     (13) In the event of any existing local authorities having transferred any RMA functions, powers, or duties to another public authority, the functions, powers, or duties are deemed to have been transferred by the Auckland Council.
     
@@ -1842,49 +1846,49 @@ Savings, transitional provisions, and related matters (except employment)
     
     *   (b) for which Auckland Transport has assumed financial responsibility by operation of the [Reorganisation Act][163].
     
-    (2) On and from 1 November 2010, the designations are deemed to have been transferred to Auckland Transport for the purposes of [section 180][252] of the Resource Management Act 1991\.
+    (2) On and from 1 November 2010, the designations are deemed to have been transferred to Auckland Transport for the purposes of [section 180][254] of the Resource Management Act 1991\.
     
     (3) In this section,---
     
     _Auckland transport system_ has the same meaning as in [section 37(1)][232] of the Local Government (Auckland Council) Act 2009
     
-    _designation_ has the same meaning as in [section 166][253] of the Resource Management Act 1991
+    _designation_ has the same meaning as in [section 166][255] of the Resource Management Act 1991
     
-    _transport activities_ has the same meaning as the definition of _activity_ in section 5(1) of the [Land Transport Management Act 2003][254].
+    _transport activities_ has the same meaning as the definition of _activity_ in section 5(1) of the [Land Transport Management Act 2003][256].
 
 #### Other planning matters
 
 ##### 80 Auckland regional growth strategy
     
-*   (1) This section applies to the regional growth strategy adopted, before the commencement of this section, by the Auckland Regional Council under [section 37SE][255] of the Local Government Act 1974\.
+*   (1) This section applies to the regional growth strategy adopted, before the commencement of this section, by the Auckland Regional Council under [section 37SE][257] of the Local Government Act 1974\.
     
-    (2) Until the Auckland Council adopts a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009,---
+    (2) Until the Auckland Council adopts a spatial plan under [Part 6][258] of the Local Government (Auckland Council) Act 2009,---
         
-    *   (a) [sections 37SE][255], [37SF][256], and [37SH][257] of the Local Government Act 1974 apply, despite their repeal by this Act, as if the Auckland Council were the Auckland Regional Council; and
+    *   (a) [sections 37SE][257], [37SF][259], and [37SH][260] of the Local Government Act 1974 apply, despite their repeal by this Act, as if the Auckland Council were the Auckland Regional Council; and
     
     *   (b) the Auckland Council is deemed to have adopted the regional growth strategy; and
     
     *   (c) the regional growth strategy remains in effect; and
     
-    *   (d) [section 18][258] of the Waitakere Ranges Heritage Area Act 2008 applies as if it had not been amended by [section 113(1)][160] of this Act.
+    *   (d) [section 18][261] of the Waitakere Ranges Heritage Area Act 2008 applies as if it had not been amended by [section 113(1)][160] of this Act.
     
     (3) The regional growth strategy has no effect once the Auckland Council adopts the spatial plan.
 
 ##### 81 Appeals against change or variation under Local Government (Auckland) Amendment Act 2004
     
-*   (1) This section applies to an appeal under the [Resource Management Act 1991][229], lodged before the commencement of this section, against a change or variation to an Auckland planning document prepared and publicly notified under [sections 39][259] and [40][260] of the Local Government (Auckland) Amendment Act 2004\.
+*   (1) This section applies to an appeal under the [Resource Management Act 1991][229], lodged before the commencement of this section, against a change or variation to an Auckland planning document prepared and publicly notified under [sections 39][262] and [40][263] of the Local Government (Auckland) Amendment Act 2004\.
     
     (2) The appeal must be determined as if---
         
-    *   (a) [sections 38 to 43][261] of the Local Government (Auckland) Amendment Act 2004 had not been repealed by this Act; and
+    *   (a) [sections 38 to 43][264] of the Local Government (Auckland) Amendment Act 2004 had not been repealed by this Act; and
     
-    *   (b) the Auckland Council had not adopted a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009 (so that [section 80(2)(a) to (d)][113] of this Act applies).
+    *   (b) the Auckland Council had not adopted a spatial plan under [Part 6][258] of the Local Government (Auckland Council) Act 2009 (so that [section 80(2)(a) to (d)][113] of this Act applies).
     
     
 
 ##### 82 Existing regional land transport programme and regional land transport strategy for Auckland continue in effect
     
-*   (1) The Auckland regional land transport programme prepared by the Auckland Regional Transport Authority under [Part 2][262] of the Land Transport Management Act 2003 for the 3 financial years commencing 1 July 2009---
+*   (1) The Auckland regional land transport programme prepared by the Auckland Regional Transport Authority under [Part 2][265] of the Land Transport Management Act 2003 for the 3 financial years commencing 1 July 2009---
         
     *   (a) must be treated as the regional land transport programme of Auckland Transport; and
     
@@ -1892,13 +1896,13 @@ Savings, transitional provisions, and related matters (except employment)
     
     (2) Subsection (1) is subject to [section 91][131] of this Act.
     
-    (3) The regional land transport strategy for Auckland prepared and approved under [Schedule 7][263] of the Land Transport Management Act 2003 on 26 April 2010 must be treated as---
+    (3) The regional land transport strategy for Auckland prepared and approved under [Schedule 7][266] of the Land Transport Management Act 2003 on 26 April 2010 must be treated as---
         
     *   (a) the regional land transport strategy for Auckland; and
     
-    *   (b) continuing in effect until 30 June 2016\.
+    *   (b) continuing in effect until 30 June 2015\.
     
-    
+    Section 82(3)(b): amended, on 13 June 2013, by [section 72][239] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Tax
 
@@ -1908,11 +1912,11 @@ Savings, transitional provisions, and related matters (except employment)
     
     (2) In this section,---
         
-    *   (a) _ARTA_ means the Auckland Regional Transport Authority established by [section 7][264] of the Local Government (Auckland) Amendment Act 2004; and
+    *   (a) _ARTA_ means the Auckland Regional Transport Authority established by [section 7][267] of the Local Government (Auckland) Amendment Act 2004; and
     
     *   (b) _council-controlled organisation_ has the meaning given to it by the [Local Government Act 2002][173]; and
     
-    *   (c) _Inland Revenue Acts_ has the meaning given to it by [section 3(1)][265] of the Tax Administration Act 1994; and
+    *   (c) _Inland Revenue Acts_ has the meaning given to it by [section 3(1)][268] of the Tax Administration Act 1994; and
     
     *   (d) other terms defined in the Inland Revenue Acts have the meanings given to them by the Acts.
     
@@ -1952,11 +1956,11 @@ Savings, transitional provisions, and related matters (except employment)
     
     *   (b) person A is treated as having disposed of the depreciable property at the adjusted tax value of the property on the day on which it becomes person B's.
     
-    (13) If a person (_person C_) is treated as associated with another person (_person D_) under [subpart YB][266] of the Income Tax Act 2007 at any time before 1 November 2010 only by virtue of the application of any of the other subsections in this section, person C is not treated as associated with person D at that time under subpart YB for the purposes of [sections CB 6 to CB 15][267] of the Income Tax Act 2007\.
+    (13) If a person (_person C_) is treated as associated with another person (_person D_) under [subpart YB][269] of the Income Tax Act 2007 at any time before 1 November 2010 only by virtue of the application of any of the other subsections in this section, person C is not treated as associated with person D at that time under subpart YB for the purposes of [sections CB 6 to CB 15][270] of the Income Tax Act 2007\.
     
     (14) The voting interests and market value interests of the notional single person in each of the existing local authorities or ARTA or Auckland Regional Holdings become the voting interests and market value interests of the notional single person in the Auckland Council on 1 November 2010\.
     
-    (15) The notional single person holding the voting interests and market value interests in the Auckland Council is deemed for the purposes of [subpart IC][268] of the Income Tax Act 2007 to have held the voting interests and market value interests in any council-controlled organisation established in the reorganisation for any period before 1 November 2010 during which it has had or is deemed to have had 66% or more voting interests and market value interests in any other council-controlled organisation or existing local government organisation.
+    (15) The notional single person holding the voting interests and market value interests in the Auckland Council is deemed for the purposes of [subpart IC][271] of the Income Tax Act 2007 to have held the voting interests and market value interests in any council-controlled organisation established in the reorganisation for any period before 1 November 2010 during which it has had or is deemed to have had 66% or more voting interests and market value interests in any other council-controlled organisation or existing local government organisation.
     
     (16) The proceeds of sale of shares is not assessable income of the Auckland Council or a council-controlled organisation of the Auckland Council if the proceeds become the Council's or the organisation's in the following circumstances:
         
@@ -1982,45 +1986,45 @@ Savings, transitional provisions, and related matters (except employment)
         
         
     
-    (18) The funds, assets, and property described in [clause 5][269] of Schedule 1 of the Local Government (Auckland) Amendment Act 2004 continue not to be dutiable gifts for the purposes of the [Estate and Gift Duties Act 1968][270] despite the dissolution of the Auckland Regional Council and ARTA and the repeal of the [Local Government (Auckland) Amendment Act 2004][271].
+    (18) The funds, assets, and property described in [clause 5][272] of Schedule 1 of the Local Government (Auckland) Amendment Act 2004 continue not to be dutiable gifts for the purposes of the [Estate and Gift Duties Act 1968][273] despite the dissolution of the Auckland Regional Council and ARTA and the repeal of the [Local Government (Auckland) Amendment Act 2004][274].
     
-    (19) If an Order in Council under [section 37(1)][272] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 provides that Watercare Services Limited is liable for a debt to the Auckland Council as at 1 November 2010, for the purposes of the financial arrangements rules as defined in [section YA 1][273] of the Income Tax Act 2007, the Auckland Council is treated as paying to Watercare Services Limited on 1 November 2010 consideration equal to the debt.
+    (19) If an Order in Council under [section 37(1)][275] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 provides that Watercare Services Limited is liable for a debt to the Auckland Council as at 1 November 2010, for the purposes of the financial arrangements rules as defined in [section YA 1][276] of the Income Tax Act 2007, the Auckland Council is treated as paying to Watercare Services Limited on 1 November 2010 consideration equal to the debt.
     
-    (20) If a council-controlled organisation of the Auckland Council is established by the Transition Agency under [section 19B][274] or [19C][275] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 and is liable for a debt to the Auckland Council as at 1 November 2010, for the purposes of the financial arrangements rules as defined in [section YA 1][273] of the Income Tax Act 2007, the Auckland Council is treated as paying to the council-controlled organisation on 1 November 2010 consideration equal to the debt.
+    (20) If a council-controlled organisation of the Auckland Council is established by the Transition Agency under [section 19B][277] or [19C][278] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 and is liable for a debt to the Auckland Council as at 1 November 2010, for the purposes of the financial arrangements rules as defined in [section YA 1][276] of the Income Tax Act 2007, the Auckland Council is treated as paying to the council-controlled organisation on 1 November 2010 consideration equal to the debt.
     
-    Section 83(19): added (with effect from 31 October 2010), on 21 December 2010, by [section 186][276] of the Taxation GST and Remedial Matters Act 2010 (2010 No 130).
+    Section 83(19): added (with effect from 31 October 2010), on 21 December 2010, by [section 186][279] of the Taxation GST and Remedial Matters Act 2010 (2010 No 130).
     
-    Section 83(20): added (with effect from 31 October 2010), on 21 December 2010, by [section 186][276] of the Taxation GST and Remedial Matters Act 2010 (2010 No 130).
+    Section 83(20): added (with effect from 31 October 2010), on 21 December 2010, by [section 186][279] of the Taxation GST and Remedial Matters Act 2010 (2010 No 130).
 
 #### Solid waste
 
 ##### 84 Solid waste
     
-*   (1) Subsection (2) applies to the existing local authorities' waste management and minimisation plans to which [Part 4][277] of the Waste Minimisation Act 2008 applies.
+*   (1) Subsection (2) applies to the existing local authorities' waste management and minimisation plans to which [Part 4][280] of the Waste Minimisation Act 2008 applies.
     
     (2) On and from 1 November 2010, the plans are deemed to be the Auckland Council's waste management and minimisation plan (_ACWMMP_).
     
-    (3) Not later than 1 May 2011, the Auckland Council must consider and decide on proposals prepared for it under [section 13(1)(cb)(iii)][278] of the Reorganisation Act.
+    (3) Not later than 1 May 2011, the Auckland Council must consider and decide on proposals prepared for it under [section 13(1)(cb)(iii)][281] of the Reorganisation Act.
     
-    (4) Not later than 1 July 2012, the Auckland Council must review the ACWMMP in the manner required by the [Waste Minimisation Act 2008][279].
+    (4) Not later than 1 July 2012, the Auckland Council must review the ACWMMP in the manner required by the [Waste Minimisation Act 2008][282].
     
-    (5) For the purposes of the review, the Council may rely on any work carried out by the Transition Agency and the existing local authorities under [section 13(1)(cb)][278] of the Reorganisation Act, to the extent that it satisfies the requirements of [sections 50(2) and 51][280] of the Waste Minimisation Act 2008\.
+    (5) For the purposes of the review, the Council may rely on any work carried out by the Transition Agency and the existing local authorities under [section 13(1)(cb)][281] of the Reorganisation Act, to the extent that it satisfies the requirements of [sections 50(2) and 51][283] of the Waste Minimisation Act 2008\.
     
-    (6) Subsection (7) applies to the Council when, after the review, and in accordance with [section 50(3)][280] of the Waste Minimisation Act 2008, it is acting under [section 44(d) and (e)][281] of that Act.
+    (6) Subsection (7) applies to the Council when, after the review, and in accordance with [section 50(3)][283] of the Waste Minimisation Act 2008, it is acting under [section 44(d) and (e)][284] of that Act.
     
-    (7) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under [section 13(1)(cb)][278] of the Reorganisation Act if their consultation satisfied the requirements of [section 44(d) and (e)][281] of the Waste Minimisation Act 2008\.
+    (7) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under [section 13(1)(cb)][281] of the Reorganisation Act if their consultation satisfied the requirements of [section 44(d) and (e)][284] of the Waste Minimisation Act 2008\.
     
-    (8) Subsection (9) applies to the Council when, after the review, and in accordance with [section 50(3)][280] of the Waste Minimisation Act 2008, it is acting under section 50(3)(b) of that Act.
+    (8) Subsection (9) applies to the Council when, after the review, and in accordance with [section 50(3)][283] of the Waste Minimisation Act 2008, it is acting under section 50(3)(b) of that Act.
     
-    (9) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under [section 13(1)(cb)][278] of the Reorganisation Act if their consultation satisfied the requirements of [section 50(3)(b)][280] of the Waste Minimisation Act 2008\.
+    (9) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under [section 13(1)(cb)][281] of the Reorganisation Act if their consultation satisfied the requirements of [section 50(3)(b)][283] of the Waste Minimisation Act 2008\.
     
-    (10) In relation to the levy money that the Auckland Council receives on or about 20 January 2011 (including the levy money it receives by operation of section 35 of the Reorganisation Act), the Council may spend it under [section 32][282] of the Waste Minimisation Act 2008 without regard to the former boundaries of the existing local authorities.
+    (10) In relation to the levy money that the Auckland Council receives on or about 20 January 2011 (including the levy money it receives by operation of section 35 of the Reorganisation Act), the Council may spend it under [section 32][285] of the Waste Minimisation Act 2008 without regard to the former boundaries of the existing local authorities.
     
     (11) In relation to the levy money that the Auckland Council receives in the period from 20 April 2011 until the date on which it completes its review of the ACWMMP, the Council may spend the money in one or both of the following ways:
         
-    *   (a) under [section 32][282] of the Waste Minimisation Act 2008:
+    *   (a) under [section 32][285] of the Waste Minimisation Act 2008:
     
-    *   (b) for the purposes of making an assessment under [section 51][283] of the Waste Minimisation Act 2008\.
+    *   (b) for the purposes of making an assessment under [section 51][286] of the Waste Minimisation Act 2008\.
     
     (12) [Section 62][85] is also about solid waste.
 
@@ -2084,7 +2088,7 @@ Savings, transitional provisions, and related matters (except employment)
     
     *   (b) the Pacific Peoples Advisory Panel and the Ethnic Peoples Advisory Panel are disestablished.
     
-    (5) Nothing in this section limits or affects the mayor's powers under [section 9(3)(a)][284] of the Local Government (Auckland Council) Act 2009 (which include re-establishing, after 1 November 2013, a Pacific peoples advisory panel or an ethnic peoples advisory panel, or both, in the same or a modified form).
+    (5) Nothing in this section limits or affects the mayor's powers under [section 9(3)(a)][287] of the Local Government (Auckland Council) Act 2009 (which include re-establishing, after 1 November 2013, a Pacific peoples advisory panel or an ethnic peoples advisory panel, or both, in the same or a modified form).
 
 #### Remuneration Authority determination
 
@@ -2092,7 +2096,7 @@ Savings, transitional provisions, and related matters (except employment)
     
 *   (1) This section applies to the Remuneration Authority determination made under section 51 of the Reorganisation Act.
     
-    (2) The determination remains in force for the purposes of payments under [clause 12][285] of Schedule 7 of the Local Government Act 2002 until the Remuneration Authority makes a new determination in relation to the Auckland Council under that Act.
+    (2) The determination remains in force for the purposes of payments under [clause 12][288] of Schedule 7 of the Local Government Act 2002 until the Remuneration Authority makes a new determination in relation to the Auckland Council under that Act.
 
 #### Regional facilities Acts
 
@@ -2100,17 +2104,17 @@ Savings, transitional provisions, and related matters (except employment)
     
 *   (1) In this section, _regional facilities Acts_ means---
         
-    *   (a) the [Auckland War Memorial Museum Act 1996][286] (**AWMMA**); and
+    *   (a) the [Auckland War Memorial Museum Act 1996][289] (**AWMMA**); and
     
-    *   (b) the [Museum of Transport and Technology Act 2000][287] (**MOTATA**); and
+    *   (b) the [Museum of Transport and Technology Act 2000][290] (**MOTATA**); and
     
-    *   (c) the [Auckland Regional Amenities Funding Act 2008][288] (**ARAFA**).
+    *   (c) the [Auckland Regional Amenities Funding Act 2008][291] (**ARAFA**).
     
     (2) The dissolution of the existing local authorities under section 35(1) of the Reorganisation Act has the following consequences for the regional facilities Acts:
         
-    *   (a) no appointments can be made to the Auckland Museum Electoral College constituted by [section 13(1)][289] of the Auckland War Memorial Museum Act 1996; and
+    *   (a) no appointments can be made to the Auckland Museum Electoral College constituted by [section 13(1)][292] of the Auckland War Memorial Museum Act 1996; and
     
-    *   (b) no contributing authorities (as defined in [section 2][290] of AWMMA and [section 3][291] of MOTATA) or contributing authority (as defined in [section 4][292] of ARAFA) separately exist.
+    *   (b) no contributing authorities (as defined in [section 2][293] of AWMMA and [section 3][294] of MOTATA) or contributing authority (as defined in [section 4][295] of ARAFA) separately exist.
     
     (3) Subject to certain exceptions stated in the section, section 35(1) of the Reorganisation Act, transfers the functions, powers, duties, and obligations of contributing authorities (as defined in the regional facilities Acts) to the Auckland Council.
     
@@ -2162,11 +2166,11 @@ Savings, transitional provisions, and related matters (except employment)
     
     *   (c) Waikato Regional Council.
     
-    (2) [Section 95][293] and [Schedule 10][209] of the Local Government Act 2002 apply to the preparation of each annual plan subject to the modifications required by [section 89][129] of this Act.
+    (2) [Section 95][296] and [Schedule 10][209] of the Local Government Act 2002 apply to the preparation of each annual plan subject to the modifications required by [section 89][129] of this Act.
 
 ##### 91 Regional land transport programme
     
-*   (1) This section applies to the Auckland regional land transport programme prepared by the Auckland Regional Transport Authority under [Part 2][262] of the Land Transport Management Act 2003 for the 3 financial years commencing 1 July 2009\.
+*   (1) This section applies to the Auckland regional land transport programme prepared by the Auckland Regional Transport Authority under [Part 2][265] of the Land Transport Management Act 2003 for the 3 financial years commencing 1 July 2009\.
     
     (2) The whole or relevant part of any activities or combinations of activities included in the programme that are to be constructed or undertaken in the part of the former Franklin District that, as a result of the boundary adjustment Order, is now part of the Waikato Region must be treated as part of the regional land transport programme approved by the Waikato Regional Council for the 3 financial years commencing 1 July 2009\.
 
@@ -2182,15 +2186,15 @@ Savings, transitional provisions, and related matters (except employment)
         
     *   (a) its boundaries are affected by the boundary adjustment Order; and
     
-    *   (b) it receives a share of levy money under [section 31][294] of the Waste Minimisation Act 2008\.
+    *   (b) it receives a share of levy money under [section 31][297] of the Waste Minimisation Act 2008\.
     
-    (3) In relation to the levy money that the territorial authority receives on or about 20 January 2011, the authority may spend it under [section 32][282] of the Waste Minimisation Act 2008 without regard to the changes in boundaries.
+    (3) In relation to the levy money that the territorial authority receives on or about 20 January 2011, the authority may spend it under [section 32][285] of the Waste Minimisation Act 2008 without regard to the changes in boundaries.
     
-    (4) In relation to the levy money that a territorial authority receives on or after 20 April 2011, the authority may spend the money only under [section 32][282] of the Waste Minimisation Act 2008\.
+    (4) In relation to the levy money that a territorial authority receives on or after 20 April 2011, the authority may spend the money only under [section 32][285] of the Waste Minimisation Act 2008\.
 
 ##### 93 Section 81 of Resource Management Act 1991 applies 
     
-*   (1) [Section 81][249] of the Resource Management Act 1991 applies to the following changes of area as a result of the boundary adjustment Order:
+*   (1) [Section 81][251] of the Resource Management Act 1991 applies to the following changes of area as a result of the boundary adjustment Order:
         
     *   (a) the inclusion of areas of the former Franklin District in the Hauraki District:
     
@@ -2214,11 +2218,11 @@ Savings, transitional provisions, and related matters (except employment)
 
 ##### 95 Franklin District Council development contributions not transferred to Auckland Council
     
-*   (1) This section applies to development contributions under [subpart 5 of Part 8][223] of the Local Government Act 2002\.
+*   (1) This section applies to development contributions under [subpart 5][223] of Part 8 of the Local Government Act 2002\.
     
     (2) Where the Hauraki District or the Waikato District gains territory from the former Franklin District in accordance with the boundary adjustment Order, any development contributions owing to or required by the former Franklin District Council in respect of that territory are owed to or required by the Hauraki District Council or the Waikato District Council, as the case may be.
     
-    (3) Any subsequent obligation under [section 209][227] or [210][295] of the Local Government Act 2002 to refund a development contribution made or paid to the former Franklin District Council in respect of the territory to which subsection (2) applies becomes an obligation of the Hauraki District Council or the Waikato District Council, as the case may be.
+    (3) Any subsequent obligation under [section 209][227] or [210][298] of the Local Government Act 2002 to refund a development contribution made or paid to the former Franklin District Council in respect of the territory to which subsection (2) applies becomes an obligation of the Hauraki District Council or the Waikato District Council, as the case may be.
 
 ##### 96 Hauraki District Council and Waikato District Council may require schedule development contributions
     
@@ -2245,7 +2249,7 @@ Transitional provisions relating to employment
     
     (4) [Subpart 3][146] provides whether and to what extent employees are entitled to redundancy or other compensation if they decline an offer of a position with a new employer under subpart 2 or their employment is to be terminated or they are offered a position at a different location or at lower remuneration.
     
-    (5) [Subpart 4][152] provides for related matters about the continuity of employment of employees who accept positions with a new employer, and about the application of [Part 6A][296] of the Employment Relations Act 2000 and the [KiwiSaver Act 2006][297].
+    (5) [Subpart 4][152] provides for related matters about the continuity of employment of employees who accept positions with a new employer, and about the application of [Part 6A][299] of the Employment Relations Act 2000 and the [KiwiSaver Act 2006][300].
     
     (6) [Subpart 5][156] provides transitional provisions about collective bargaining and collective agreements. Certain unions and chief executives are authorised to engage in collective bargaining in advance of the new employers and the new employee positions being established on 1 November 2010\. This subpart also provides for the continuation and separate application of collective agreements that do not expire until after 1 November 2010\.
 
@@ -2255,7 +2259,7 @@ Transitional provisions relating to employment
     
     _chief executive_---
         
-    *   (a) means the chief executive of the Auckland Council appointed under [section 17][298] of the Reorganisation Act; and
+    *   (a) means the chief executive of the Auckland Council appointed under [section 17][301] of the Reorganisation Act; and
     
     *   (b) includes the Auckland Transition Agency established by [section 10][172] of that Act if---
             
@@ -2357,9 +2361,9 @@ Transitional provisions relating to employment
     
     (7) To avoid doubt, _terms and conditions_, in relation to employment, include (as appropriate)---
         
-    *   (a) a fixed term included in an employment agreement in accordance with [section 66][299] of the Employment Relations Act 2000:
+    *   (a) a fixed term included in an employment agreement in accordance with [section 66][302] of the Employment Relations Act 2000:
     
-    *   (b) a trial provision included in an employment agreement in accordance with [section 67A][300] of the Employment Relations Act 2000\.
+    *   (b) a trial provision included in an employment agreement in accordance with [section 67A][303] of the Employment Relations Act 2000\.
     
     
 
@@ -2371,7 +2375,7 @@ Transitional provisions relating to employment
 
 ##### 100 Review of employment positions
     
-*   (1) The chief executive must, in accordance with the change management plan developed in accordance with [section 13(2)(b)][278] of the Reorganisation Act,---
+*   (1) The chief executive must, in accordance with the change management plan developed in accordance with [section 13(2)(b)][281] of the Reorganisation Act,---
         
     *   (a) review the position of persons employed by existing employers; and
     
@@ -2443,7 +2447,7 @@ Transitional provisions relating to employment
         
         *   (ii) in accordance with the employee's terms and conditions of employment; or
         
-        *   (iii) because of the application of [section 61(1)(b)][301] of the Employment Relations Act 2000; or
+        *   (iii) because of the application of [section 61(1)(b)][304] of the Employment Relations Act 2000; or
         
         
     
@@ -2451,7 +2455,7 @@ Transitional provisions relating to employment
     
     (5) To avoid doubt, subsections (2) and (3) apply,---
         
-    *   (a) in the case of an employee bound by an applicable collective agreement, subject to [section 61(1)(b)][301] of the Employment Relations Act 2000 and, without limiting this paragraph, subject to an applicable collective agreement or variation of an applicable collective agreement that comes into force on 1 November 2010; and
+    *   (a) in the case of an employee bound by an applicable collective agreement, subject to [section 61(1)(b)][304] of the Employment Relations Act 2000 and, without limiting this paragraph, subject to an applicable collective agreement or variation of an applicable collective agreement that comes into force on 1 November 2010; and
     
     *   (b) in the case of an employee not bound by an applicable collective agreement, subject to any variation in terms and conditions of employment agreed to before 1 November 2010, but to come into force on that date.
     
@@ -2587,7 +2591,7 @@ Transitional provisions relating to employment
 
 ##### 106 Compensation deferred if permanent employee accepts fixed term employment
     
-*   (1) This section applies to an employee who is a permanent employee of an existing employer and accepts a position under this Part with a new employer, but the position is for a fixed term within the meaning of [section 66][299] of the Employment Relations Act 2000\.
+*   (1) This section applies to an employee who is a permanent employee of an existing employer and accepts a position under this Part with a new employer, but the position is for a fixed term within the meaning of [section 66][302] of the Employment Relations Act 2000\.
     
     (2) Any compensation payable to the employee in relation to the employee's permanent employment is not to be paid until the conclusion of his or her fixed term employment.
     
@@ -2619,11 +2623,11 @@ Transitional provisions relating to employment
 
 ##### 109 KiwiSaver Act 2006 does not apply to transferred employee
     
-*   The employment of an employee who becomes an employee of a new employer under this Part does not constitute new employment for the purposes of the [KiwiSaver Act 2006][297].
+*   The employment of an employee who becomes an employee of a new employer under this Part does not constitute new employment for the purposes of the [KiwiSaver Act 2006][300].
 
 ##### 110 Application of Part 6A of Employment Relations Act 2000
     
-*   [Part 6A][296] of the Employment Relations Act 2000---
+*   [Part 6A][299] of the Employment Relations Act 2000---
         
     *   (a) does not apply in relation to a person whose employment is subject to review under section 100; but
     
@@ -2643,7 +2647,7 @@ Transitional provisions relating to employment
     
 *   (1) Subsection (2) applies if---
         
-    *   (a) the employees whose positions are subject to review under [section 100][143] are bound by a collective agreement under the [Employment Relations Act 2000][302] in relation to their employment with their existing employer; and
+    *   (a) the employees whose positions are subject to review under [section 100][143] are bound by a collective agreement under the [Employment Relations Act 2000][305] in relation to their employment with their existing employer; and
     
     *   (b) the union or unions that are parties to the collective agreement and the chief executive or the chief executive of another new employer enter into bargaining to vary or to replace the collective agreement with 1 or more new collective agreements and the variation or new collective agreement or agreements are intended to come into force on 1 November 2010\.
     
@@ -2653,9 +2657,9 @@ Transitional provisions relating to employment
     
     *   (b) their new employer is to be treated as if it were a party to the collective agreement; and
     
-    *   (c) [section 41][303] of the Employment Relations Act 2000 does not apply in relation to the bargaining; and
+    *   (c) [section 41][306] of the Employment Relations Act 2000 does not apply in relation to the bargaining; and
     
-    *   (d) the other provisions of the [Employment Relations Act 2000][302] apply accordingly with any necessary modifications.
+    *   (d) the other provisions of the [Employment Relations Act 2000][305] apply accordingly with any necessary modifications.
     
     (3) For the purposes of ratifying a collective agreement or a variation of a collective agreement, a person is to be treated as an employee only if---
         
@@ -2705,7 +2709,7 @@ Transitional provisions relating to employment
         
         
     
-    *   (b) the employees are bound by a collective agreement under the [Employment Relations Act 2000][302] in relation to their employment with their existing employer; and
+    *   (b) the employees are bound by a collective agreement under the [Employment Relations Act 2000][305] in relation to their employment with their existing employer; and
     
     *   (c) the collective agreement does not expire until after 1 November 2010\.
     
@@ -2719,7 +2723,7 @@ Transitional provisions relating to employment
     
     (3) However, subsection (2) applies subject to the extent that the collective agreement as a separate collective agreement is not replaced or varied on 1 November 2010 by a collective agreement or a variation of a collective agreement negotiated under [section 111][157].
     
-    (4) The union that is a party to a separate collective agreement under this section may, by notice in writing to the new employer that is a party to the agreement, specify a date on which the agreement is to expire, being a date that is earlier than a date on which the agreement would otherwise expire under [section 52(3)][304] of the Employment Relations Act 2000\.
+    (4) The union that is a party to a separate collective agreement under this section may, by notice in writing to the new employer that is a party to the agreement, specify a date on which the agreement is to expire, being a date that is earlier than a date on which the agreement would otherwise expire under [section 52(3)][307] of the Employment Relations Act 2000\.
 
 ## Part 3  
 Amendments and repeals
@@ -2728,13 +2732,13 @@ Amendments and repeals
     
 *   (1) The enactments listed in the [Schedule][162] are amended, repealed, or revoked in the manner indicated in that schedule.
     
-    (2) [Section 6(4)(g)][305] of the Local Government Act 2002 is repealed.
+    (2) [Section 6(4)(g)][308] of the Local Government Act 2002 is repealed.
 
 ##### 114 Repeal of Auckland Metropolitan Drainage Act 1960
     
-*   (1) The [Auckland Metropolitan Drainage Act 1960][306] (1960 No 15 (L)) is repealed.
+*   (1) The [Auckland Metropolitan Drainage Act 1960][309] (1960 No 15 (L)) is repealed.
     
-    (2) Despite subsection (1), [sections 75][307], [77][308], [79][309], [81][310], and [84][311] of that Act continue in force for the purposes of [section 25][34] of this Act until 1 July 2015 as if every reference to the Board were a reference to Watercare Services Limited.
+    (2) Despite subsection (1), [sections 75][310], [77][311], [79][312], [81][313], and [84][314] of that Act continue in force for the purposes of [section 25][34] of this Act until 1 July 2015 as if every reference to the Board were a reference to Watercare Services Limited.
     
     (3) However, if the Auckland Council makes a new trade waste bylaw before 1 July 2015, subsection (2) ceases to apply.
 
@@ -2743,7 +2747,7 @@ Amendments and repeals
 ## Schedule  
 Enactments amended, repealed, or revoked
 
-s 113(1)
+[s 113(1)][160]
 
 ## Part 1  
 Amendments to and repeals of Public Acts
@@ -2754,7 +2758,7 @@ Repeal.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-Paragraph (b)(vii) of the definition of _local authority_ in [section 2(1)][312]: repeal and substitute:
+Paragraph (b)(vii) of the definition of _local authority_ in [section 2(1)][315]: repeal and substitute:
 
 > *   "(vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):".
 > 
@@ -2762,7 +2766,7 @@ Paragraph (b)(vii) of the definition of _local authority_ in [section 2(1)][312]
 
 ##### Government Roading Powers Act 1989 (1989 No 75)
 
-[Section 62][313]: add:
+[Section 62][316]: add:
 
 > *   "(7) In this section, _territorial authority_ includes Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009)."
 > 
@@ -2770,15 +2774,15 @@ Paragraph (b)(vii) of the definition of _local authority_ in [section 2(1)][312]
 
 ##### Hauraki Gulf Marine Park Act 2000 (2000 No 1)
 
-[Section 16(2)][314]: insert after paragraph (c):
+[Section 16(2)][317]: insert after paragraph (c):
 
 > *   "(ca) 7 representatives appointed by the Auckland Council:".
 > 
 > 
 
-[Section 16(2)(d)(i), (ii), (iii), (v), (vii), (viii), and (xii), and (f)][314]: repeal.
+[Section 16(2)(d)(i), (ii), (iii), (v), (vii), (viii), and (xii), and (f)][317]: repeal.
 
-New [section 16(2A)][314]: insert after subsection (2):
+New [section 16(2A)][317]: insert after subsection (2):
 
 > *   "(2A) The representatives appointed in accordance with subsection (2)(ca) must---
 >         
@@ -2796,11 +2800,11 @@ New [section 16(2A)][314]: insert after subsection (2):
 > 
 > 
 
-[Section 16(3)][314]: omit ""(f), or subsection"".
+[Section 16(3)][317]: omit ""(f), or subsection"".
 
-[Section 16(4)][314]: repeal.
+[Section 16(4)][317]: repeal.
 
-[Section 27][315]: repeal and substitute:
+[Section 27][318]: repeal and substitute:
 
 > ##### "27 Powers and obligations of Auckland Council
 >     
@@ -2810,9 +2814,9 @@ New [section 16(2A)][314]: insert after subsection (2):
 
 ##### Income Tax Act 2007 (2007 No 97)
 
-Paragraph (b) of the definition of _council-controlled organisation_ in [section YA 1][273]: omit ""the Auckland Regional Transport Authority (as established by section 7 of the Local Government (Auckland) Amendment Act 2004)"" and substitute ""Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009)"".
+Paragraph (b) of the definition of _council-controlled organisation_ in [section YA 1][276]: omit ""the Auckland Regional Transport Authority (as established by section 7 of the Local Government (Auckland) Amendment Act 2004)"" and substitute ""Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009)"".
 
-Paragraph (b)(vii) of the definition of _local authority_ in [section YA 1][273]: repeal and substitute:
+Paragraph (b)(vii) of the definition of _local authority_ in [section YA 1][276]: repeal and substitute:
 
 > *   "(vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):".
 > 
@@ -2820,9 +2824,9 @@ Paragraph (b)(vii) of the definition of _local authority_ in [section YA 1][273]
 
 ##### Land Transport Management Act 2003 (2003 No 118)
 
-Definitions of _ARTA_, _Auckland local authority_, _Auckland Region_, _Auckland Regional Council_, and _Auckland territorial authority_ in [section 5(1)][316]: repeal.
+Definitions of _ARTA_, _Auckland local authority_, _Auckland Region_, _Auckland Regional Council_, and _Auckland territorial authority_ in [section 5(1)][319]: repeal.
 
-[Section 5(1)][316]: insert in their appropriate alphabetical order:
+[Section 5(1)][319]: insert in their appropriate alphabetical order:
 
 > "_Auckland_ has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
 > 
@@ -2830,7 +2834,7 @@ Definitions of _ARTA_, _Auckland local authority_, _Auckland Region_, _Auckland 
 > 
 > "_Auckland Transport_ means the entity established under section 38 of the Local Government (Auckland Council) Act 2009".
 
-Definition of _public road controlling authority_ in [section 5(1)][316]: repeal and substitute:
+Definition of _public road controlling authority_ in [section 5(1)][319]: repeal and substitute:
 
 > "_public road controlling authority_, in relation to a concession road or a toll road, means the following persons, regardless of whether any other person is also a controlling authority for the road:
 >     
@@ -2842,7 +2846,7 @@ Definition of _public road controlling authority_ in [section 5(1)][316]: repeal
 > 
 > 
 
-Definition of _regional council_ in [section 5(1)][316]: repeal and substitute:
+Definition of _regional council_ in [section 5(1)][319]: repeal and substitute:
 
 > "_regional council_---
 >     
@@ -2858,9 +2862,9 @@ Definition of _regional council_ in [section 5(1)][316]: repeal and substitute:
 > 
 > 
 
-Definition of _regional transport committee_ in [section 5(1)][316]: omit ""or clause 11 of Schedule 7"".
+Definition of _regional transport committee_ in [section 5(1)][319]: omit ""or clause 11 of Schedule 7"".
 
-Definition of _road controlling authority_ in [section 5(1)][316]: repeal and substitute:
+Definition of _road controlling authority_ in [section 5(1)][319]: repeal and substitute:
 
 > "_road controlling authority_,---
 >     
@@ -2870,33 +2874,33 @@ Definition of _road controlling authority_ in [section 5(1)][316]: repeal and su
 > 
 > 
 
-[Section 10(4) and (5)][317]: repeal.
+[Section 10(4) and (5)][320]: repeal.
 
-[Section 10(6)][317]: omit ""Despite subsection (4), the Auckland Regional Council may receive funds directly from the Agency"" and substitute ""The Auckland Council may receive funds from the Agency only"".
+[Section 10(6)][320]: omit ""Despite subsection (4), the Auckland Regional Council may receive funds directly from the Agency"" and substitute ""The Auckland Council may receive funds from the Agency only"".
 
-[Section 10(6)][317]: omit ""the Auckland Region"" and substitute ""Auckland"".
+[Section 10(6)][320]: omit ""the Auckland Region"" and substitute ""Auckland"".
 
-[Section 12(2)][318]: omit ""the Auckland Region, ARTA"" and substitute ""Auckland, Auckland Transport"".
+[Section 12(2)][321]: omit ""the Auckland Region, ARTA"" and substitute ""Auckland, Auckland Transport"".
 
-[Section 13(1)][319]: omit ""the Auckland Region"" and substitute ""Auckland"".
+[Section 13(1)][322]: omit ""the Auckland Region"" and substitute ""Auckland"".
 
-[Section 13(2)][319]: omit ""ARTA (in the case of the Auckland Region)"" and substitute ""Auckland Transport, in the case of Auckland,"".
+[Section 13(2)][322]: omit ""ARTA (in the case of the Auckland Region)"" and substitute ""Auckland Transport, in the case of Auckland,"".
 
-[Section 13(3)][319]: repeal.
+[Section 13(3)][322]: repeal.
 
-[Heading to section 15][320]: omit ""**ARTA**"" and substitute ""**Auckland Transport**"".
+[Heading to section 15][323]: omit ""**ARTA**"" and substitute ""**Auckland Transport**"".
 
-[Section 15][320]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 15][323]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 15(a)(iii)][320]: insert ""and the Auckland regional land transport strategy"" after ""GPS"".
+[Section 15(a)(iii)][323]: insert ""and the Auckland regional land transport strategy"" after ""GPS"".
 
-[Section 15(b)][320]: repeal.
+[Section 15(b)][323]: repeal.
 
-[Heading to section 16][321]: omit ""**Region**"".
+[Heading to section 16][324]: omit ""**Region**"".
 
-[Section 16(1)][321]: omit ""the Auckland Region"" and substitute ""Auckland"".
+[Section 16(1)][324]: omit ""the Auckland Region"" and substitute ""Auckland"".
 
-[Section 17][322]: repeal and substitute:
+[Section 17][325]: repeal and substitute:
 
 > ##### "17 Form and content of Auckland Transport's regional land transport programmes
 >     
@@ -2980,23 +2984,23 @@ Definition of _road controlling authority_ in [section 5(1)][316]: repeal and su
 > 
 > 
 
-[Section 18][323]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 18][326]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 18][323]: insert after paragraph (a):
+[Section 18][326]: insert after paragraph (a):
 
 > *   "(ab) the Auckland Council, if affected; and".
 > 
 > 
 
-[Section 18][323]: add as subsection (2):
+[Section 18][326]: add as subsection (2):
 
 > *   "(2) If consulting the Auckland Council, a regional land transport committee or Auckland Transport must consult both the governing body and each affected local board of the Council."
 > 
 > 
 
-[Section 18A(1)][324]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 18A(1)][327]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 18A(2) and (3)][324]: repeal and substitute:
+[Section 18A(2) and (3)][327]: repeal and substitute:
 
 > *   "(2) A regional transport committee complies with subsection (1) if the required consultation on the regional land transport programme is carried out in conjunction with the relevant regional council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002\.
 > 
@@ -3012,19 +3016,19 @@ Definition of _road controlling authority_ in [section 5(1)][316]: repeal and su
 > 
 > 
 
-Heading to [section 18C][325]: omit ""**ARTA**"" and substitute ""**Auckland Transport**"".
+Heading to [section 18C][328]: omit ""**ARTA**"" and substitute ""**Auckland Transport**"".
 
-[Section 18C][325]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 18C][328]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 18D][326]: omit ""ARTA"" in each place where it appears and substitute in each case ""Auckland Transport"".
+[Section 18D][329]: omit ""ARTA"" in each place where it appears and substitute in each case ""Auckland Transport"".
 
-[Section 18D(3)(b)][326]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
+[Section 18D(3)(b)][329]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
 
-[Section 18E(7)][327]: omit ""the Auckland Region"" and substitute ""Auckland"".
+[Section 18E(7)][330]: omit ""the Auckland Region"" and substitute ""Auckland"".
 
-[Section 18F][328]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 18F][331]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 18F][328]: add as subsection (2):
+[Section 18F][331]: add as subsection (2):
 
 > *   "(2) In addition, Auckland Transport must make available information about the current funding arrangements, or proposed funding arrangements, in respect of each activity or combination of activities included in its regional land transport programme---
 >         
@@ -3036,21 +3040,21 @@ Heading to [section 18C][325]: omit ""**ARTA**"" and substitute ""**Auckland Tra
 > 
 > 
 
-[Section 19D(2)][329]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 19D(2)][332]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 23(4)][330]: omit ""and ARTA"" and substitute ""and Auckland Transport"".
+[Section 23(4)][333]: omit ""and ARTA"" and substitute ""and Auckland Transport"".
 
-[Section 26(da)][331]: repeal and substitute:
+[Section 26(da)][334]: repeal and substitute:
 
 > *   "(da) made from Auckland Transport's land transport disbursement account if the payment is made to the Auckland Council's land transport disbursement account; or".
 > 
 > 
 
-[Section 35][332]: omit ""ARTA,"" and substitute ""Auckland Transport,"".
+[Section 35][335]: omit ""ARTA,"" and substitute ""Auckland Transport,"".
 
-[Section 38(4)][333]: repeal.
+[Section 38(4)][336]: repeal.
 
-New section 38AA: insert after [section 38][333]:
+New section 38AA: insert after [section 38][336]:
 
 > ##### "38AA Duty to co-operate
 >     
@@ -3062,39 +3066,39 @@ New section 38AA: insert after [section 38][333]:
 > 
 > 
 
-[Section 38A(2)][334]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
+[Section 38A(2)][337]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
 
-Paragraph (d) of the definition of _project agency_ in [section 65C][335]: repeal.
+Paragraph (d) of the definition of _project agency_ in [section 65C][338]: repeal.
 
-[Section 65C][335]: insert in its appropriate alphabetical order:
+[Section 65C][338]: insert in its appropriate alphabetical order:
 
 > "_regional transport committee_, in relation to Auckland, means the Auckland Council".
 
-[Section 65D(3)(b)][336]: repeal and substitute:
+[Section 65D(3)(b)][339]: repeal and substitute:
 
 > *   "(b) in relation to Auckland, means Auckland (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009".
 > 
 > 
 
-[Section 65D(4)][336]: repeal.
+[Section 65D(4)][339]: repeal.
 
-[Section 65E(3) to (5)][337]: repeal.
+[Section 65E(3) to (5)][340]: repeal.
 
-[Section 65G(1)(d)(i)][338]: omit ""the Auckland Region"" in each place where it appears and substitute in each case ""Auckland"".
+[Section 65G(1)(d)(i)][341]: omit ""the Auckland Region"" in each place where it appears and substitute in each case ""Auckland"".
 
-[Section 65H(a)][339]: omit ""the Auckland Region includes ARTA"" and substitute ""Auckland, includes Auckland Transport"".
+[Section 65H(a)][342]: omit ""the Auckland Region includes ARTA"" and substitute ""Auckland, includes Auckland Transport"".
 
-Heading to [section 65M][340]: omit ""**Region**"".
+Heading to [section 65M][343]: omit ""**Region**"".
 
-[Section 65M][340]: omit ""the Auckland Region"" in each place where it appears and substitute in each case ""Auckland"".
+[Section 65M][343]: omit ""the Auckland Region"" in each place where it appears and substitute in each case ""Auckland"".
 
-[Section 73(1)][341]: omit ""(for regions other than Auckland)"".
+[Section 73(1)][344]: omit ""(for regions other than Auckland)"".
 
-[Section 73(1)][341]: insert ""(or by the Auckland Council for Auckland)"" after ""relevant regional council"".
+[Section 73(1)][344]: insert ""(or by the Auckland Council for Auckland)"" after ""relevant regional council"".
 
-[Section 74(1)][342]: insert ""except the Auckland Council"" after ""each regional council"".
+[Section 74(1)][345]: insert ""except the Auckland Council"" after ""each regional council"".
 
-[Section 74(2), (3), and (4)][342]: repeal and substitute:
+[Section 74(2), (3), and (4)][345]: repeal and substitute:
 
 > *   "(2) At least once in every 6 financial years, the Auckland Council must prepare and approve a regional land transport strategy for Auckland that covers a period of at least 30 financial years.
 > 
@@ -3110,41 +3114,41 @@ Heading to [section 65M][340]: omit ""**Region**"".
 > 
 > 
 
-[Section 76][343]: omit ""preparing a regional land transport strategy on behalf of a regional council, a regional transport committee"" and substitute ""a regional transport committee or the Auckland Council prepares a regional land transport strategy, it"".
+[Section 76][346]: omit ""preparing a regional land transport strategy on behalf of a regional council, a regional transport committee"" and substitute ""a regional transport committee or the Auckland Council prepares a regional land transport strategy, it"".
 
-[Section 77(l)][344]: insert ""or the Auckland Council"" after ""regional transport committee"".
+[Section 77(l)][347]: insert ""or the Auckland Council"" after ""regional transport committee"".
 
-[Section 77(m)][344]: insert ""or the Auckland Council"" after ""regional transport committee"".
+[Section 77(m)][347]: insert ""or the Auckland Council"" after ""regional transport committee"".
 
-[Section 78(1)][345]: omit ""preparing a proposed regional land transport strategy on behalf of a regional council, a regional transport committee"" and substitute ""a regional transport committee or the Auckland Council prepares a proposed regional land transport strategy, it"".
+[Section 78(1)][348]: omit ""preparing a proposed regional land transport strategy on behalf of a regional council, a regional transport committee"" and substitute ""a regional transport committee or the Auckland Council prepares a proposed regional land transport strategy, it"".
 
-[Section 78(2)][345]: insert ""or the Auckland Council"" after ""regional transport committee"".
+[Section 78(2)][348]: insert ""or the Auckland Council"" after ""regional transport committee"".
 
-[Section 78][345]: insert after subsection (3):
+[Section 78][348]: insert after subsection (3):
 
 > *   "(3A) The Auckland Council complies with subsection (2) if the required consultation on the regional land transport strategy is carried out in conjunction with the Council's consultation on its long-term council community plan or its annual plan under the Local Government Act 2002\."
 > 
 > 
 
-[Section 78(4)][345]: repeal and substitute:
+[Section 78(4)][348]: repeal and substitute:
 
 > *   "(4) When a regional transport committee or the Auckland Council is preparing a regional land transport strategy, an approved organisation and the Agency must assist the committee or the Council by giving it any reasonably requested information that it needs in order to prepare its strategy."
 > 
 > 
 
-[Section 83(1)][346]: insert ""and the Auckland Council"" after ""regional transport committee"".
+[Section 83(1)][349]: insert ""and the Auckland Council"" after ""regional transport committee"".
 
-[Section 83(2)][346]: insert "", or the Auckland Council, as the case may be,"" after ""supply to the regional transport committee"".
+[Section 83(2)][349]: insert "", or the Auckland Council, as the case may be,"" after ""supply to the regional transport committee"".
 
-[Section 83(2)][346]: insert ""or the Auckland Council"" after ""requested by the regional transport committee"".
+[Section 83(2)][349]: insert ""or the Auckland Council"" after ""requested by the regional transport committee"".
 
-[Section 83(3)][346]: insert ""or the Auckland Council"" after ""relevant regional council"".
+[Section 83(3)][349]: insert ""or the Auckland Council"" after ""relevant regional council"".
 
-[Section 103(8)][347]: add ""and, if the road concerned is within Auckland, the Agency must also consult Auckland Transport"".
+[Section 103(8)][350]: add ""and, if the road concerned is within Auckland, the Agency must also consult Auckland Transport"".
 
-[Section 105(11)][348]: omit ""(other than a territorial authority in the Auckland Region)"".
+[Section 105(11)][351]: omit ""(other than a territorial authority in the Auckland Region)"".
 
-[Section 105(14) and (15)][348]: repeal and substitute:
+[Section 105(14) and (15)][351]: repeal and substitute:
 
 > *   "(14) For the purposes of subsection (11), _region_ has the same meaning as in section 5(1) of the Local Government Act 2002\.
 > 
@@ -3152,21 +3156,21 @@ Heading to [section 65M][340]: omit ""**Region**"".
 > 
 > 
 
-[Section 106(2)][349]: omit ""ARTA"" and substitute "", in the case of Auckland, the Auckland Council and Auckland Transport"".
+[Section 106(2)][352]: omit ""ARTA"" and substitute "", in the case of Auckland, the Auckland Council and Auckland Transport"".
 
-[Section 108(3)][350]: omit "", ARTA, or the Auckland regional transport committee"" and substitute ""or Auckland Transport"".
+[Section 108(3)][353]: omit "", ARTA, or the Auckland regional transport committee"" and substitute ""or Auckland Transport"".
 
-[Section 108(4)][350]: omit "", ARTA, or the Auckland regional transport committee (as the case may be)"" and substitute ""or Auckland Transport"".
+[Section 108(4)][353]: omit "", ARTA, or the Auckland regional transport committee (as the case may be)"" and substitute ""or Auckland Transport"".
 
-[Schedule 7][263]: repeal.
+[Schedule 7][266]: repeal.
 
 ##### Litter Act 1979 (1979 No 41)
 
-Definition of _public authority_ in [section 2(1)][351]: omit ""the Auckland Regional Authority,"".
+Definition of _public authority_ in [section 2(1)][354]: omit ""the Auckland Regional Authority,"".
 
 ##### Local Electoral Act 2001 (2001 No 35)
 
-[Section 111(1)(j)][352]: repeal and substitute:
+[Section 111(1)(j)][355]: repeal and substitute:
 
 > *   "(j) exceed $70,000 if any local government area over which the election is held has a population smaller than 1 000 000 and larger than 249 999:
 > 
@@ -3174,7 +3178,7 @@ Definition of _public authority_ in [section 2(1)][351]: omit ""the Auckland Reg
 > 
 > 
 
-[Section 111][352]: insert after subsection (1):
+[Section 111][355]: insert after subsection (1):
 
 > *   "(1A) The sum is---
 >         
@@ -3186,7 +3190,7 @@ Definition of _public authority_ in [section 2(1)][351]: omit ""the Auckland Reg
 > 
 > 
 
-[Section 139(1)][353]: insert after paragraph (h):
+[Section 139(1)][356]: insert after paragraph (h):
 
 > *   "(ha) prescribing the amount for each elector for the purposes of section 111(1A)(a):".
 > 
@@ -3194,27 +3198,27 @@ Definition of _public authority_ in [section 2(1)][351]: omit ""the Auckland Reg
 
 ##### Local Government Act 1974 (1974 No 66)
 
-Heading above [section 37SE][255]: repeal.
+Heading above [section 37SE][257]: repeal.
 
-[Sections 37SE to 37SH][255]: repeal.
+[Sections 37SE to 37SH][257]: repeal.
 
-[Part 44A][354]: repeal.
+[Part 44A][357]: repeal.
 
-[Section 707ZZZR][355]: repeal.
+[Section 707ZZZR][358]: repeal.
 
-[Section 707ZZZS][356]: repeal.
+[Section 707ZZZS][359]: repeal.
 
-[Section 707ZZZU][357]: repeal.
+[Section 707ZZZU][360]: repeal.
 
-Item relating to Auckland in [Schedule 7][358]: omit ""Rodney District"", ""Waitakere City"", ""North Shore City"", ""Auckland City (D)"", ""Manukau City"", ""Papakura District"", and ""Franklin District"" and substitute ""Auckland"".
+Item relating to Auckland in [Schedule 7][361]: omit ""Rodney District"", ""Waitakere City"", ""North Shore City"", ""Auckland City (D)"", ""Manukau City"", ""Papakura District"", and ""Franklin District"" and substitute ""Auckland"".
 
 ##### Local Government Amendment Act 1992 (1992 No 42)
 
-[Section 67(2)][359]: repeal.
+[Section 67(2)][362]: repeal.
 
-[Section 77][360]: repeal.
+[Section 77][363]: repeal.
 
-[Section 89][361]: repeal.
+[Section 89][364]: repeal.
 
 ##### Local Government Amendment Act 1998 (1998 No 89)
 
@@ -3226,9 +3230,9 @@ Repeal.
 
 ##### Local Government Act 2002 (2002 No 84)
 
-Definition of _network assets of Watercare Services Limited_ in [section 5(1)][362]: repeal.
+Definition of _network assets of Watercare Services Limited_ in [section 5(1)][365]: repeal.
 
-Definition of _waterworks_ in [section 5(1)][362]: repeal and substitute:
+Definition of _waterworks_ in [section 5(1)][365]: repeal and substitute:
 
 > "_waterworks_, in relation to the provision of water supply, includes---
 >     
@@ -3246,29 +3250,29 @@ Definition of _waterworks_ in [section 5(1)][362]: repeal and substitute:
 > 
 > 
 
-[Section 23(5)][363]: repeal and substitute:
+[Section 23(5)][366]: repeal and substitute:
 
 > *   "(5) Despite subsection (1), the Auckland Council and the Chatham Islands Council are territorial authorities."
 > 
 > 
 
-Heading to [section 225][364]: omit ""**and network assets of Watercare Services Limited**"".
+Heading to [section 225][367]: omit ""**and network assets of Watercare Services Limited**"".
 
-[Section 225(1)(d)][364]: omit ""; or"".
+[Section 225(1)(d)][367]: omit ""; or"".
 
-[Section 225(1)(e)][364]: repeal.
+[Section 225(1)(e)][367]: repeal.
 
-[Section 226][365]: omit ""or Watercare Services Limited"".
+[Section 226][368]: omit ""or Watercare Services Limited"".
 
-[Section 226][365]: omit ""or the network assets of Watercare Services Limited"".
+[Section 226][368]: omit ""or the network assets of Watercare Services Limited"".
 
-[Section 313][366]: repeal.
+[Section 313][369]: repeal.
 
-[Part 1 of Schedule 2][367]: omit item relating to Auckland Regional Council.
+[Part 1][370] of Schedule 2: omit item relating to Auckland Regional Council.
 
-[Part 2 of Schedule 2][368]: omit items relating to Auckland City Council, Franklin District Council, Manukau City Council, North Shore City Council, Papakura District Council, Rodney District Council, and Waitakere City Council.
+[Part 2][371] of Schedule 2: omit items relating to Auckland City Council, Franklin District Council, Manukau City Council, North Shore City Council, Papakura District Council, Rodney District Council, and Waitakere City Council.
 
-[Part 2 of Schedule 2][368]: insert in its appropriate alphabetical order:
+[Part 2][371] of Schedule 2: insert in its appropriate alphabetical order:
 
 > Auckland Councilsection 6(1) of the Local Government (Auckland Council) Act 2009
 > 
@@ -3276,7 +3280,7 @@ Heading to [section 225][364]: omit ""**and network assets of Watercare Services
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-[Part 2 of Schedule 1][369]: insert in their appropriate alphabetical order:
+[Part 2 of Schedule 1][372]: insert in their appropriate alphabetical order:
 
 > "The board established under Part 7 of the Local Government (Auckland Council) Act 2009
 > 
@@ -3284,51 +3288,51 @@ Heading to [section 225][364]: omit ""**and network assets of Watercare Services
 
 ##### Local Legislation Act 1961 (1961 No 127)
 
-[Section 58][370]: repeal.
+[Section 58][373]: repeal.
 
 ##### Local Legislation Act 1966 (1966 No 108)
 
-[Section 39][371]: repeal.
+[Section 39][374]: repeal.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-[Part 3 of Schedule 1][372]: omit ""The Auckland Regional Authority"".
+[Part 3 of Schedule 1][375]: omit ""The Auckland Regional Authority"".
 
-[Part 3 of Schedule 1][372]: insert ""Auckland Council"" in its appropriate alphabetical order.
+[Part 3 of Schedule 1][375]: insert ""Auckland Council"" in its appropriate alphabetical order.
 
 ##### Orakei Act 1991 (1991 No 122)
 
-[Section 7(2)][373]: omit ""in the Auckland City Council"" and substitute ""in the Auckland Council"".
+[Section 7(2)][376]: omit ""in the Auckland City Council"" and substitute ""in the Auckland Council"".
 
-[Section 7(2)][373]: omit ""by the Auckland City Council"".
+[Section 7(2)][376]: omit ""by the Auckland City Council"".
 
-[Section 7(4)][373]: omit ""City"".
+[Section 7(4)][376]: omit ""City"".
 
-[Section 24][374]: omit ""City"".
+[Section 24][377]: omit ""City"".
 
-[Section 25(1)][375]: omit ""City"".
+[Section 25(1)][378]: omit ""City"".
 
-[Section 25(2)][375]: omit ""City"".
+[Section 25(2)][378]: omit ""City"".
 
-[Section 27(2)][376]: omit ""City"".
+[Section 27(2)][379]: omit ""City"".
 
-[Section 28(4)(b)][377]: omit ""City"".
+[Section 28(4)(b)][380]: omit ""City"".
 
-[Section 30(1)][378]: omit ""City"" in each place where it appears.
+[Section 30(1)][381]: omit ""City"" in each place where it appears.
 
-[Section 30(4)][378]: omit ""City"".
+[Section 30(4)][381]: omit ""City"".
 
-[Section 34(b)][379]: omit ""Auckland City Council or the Auckland Regional Council"" and substitute ""Auckland Council"".
+[Section 34(b)][382]: omit ""Auckland City Council or the Auckland Regional Council"" and substitute ""Auckland Council"".
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-[Schedule 2][380]: insert in its appropriate alphabetical order:
+[Schedule 2][383]: insert in its appropriate alphabetical order:
 
 > "The board established under Part 7 of the Local Government (Auckland Council) Act 2009\."
 
 ##### Public Transport Management Act 2008 (2008 No 87)
 
-Definitions of _ARTA_, _Auckland region_, and _Auckland Regional Council_ in [section 4][381]: repeal.
+Definitions of _ARTA_, _Auckland region_, and _Auckland Regional Council_ in [section 4][384]: repeal.
 
 Section 4: insert in their appropriate alphabetical order:
 
@@ -3338,81 +3342,81 @@ Section 4: insert in their appropriate alphabetical order:
 > 
 > "_Auckland Transport_ has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009".
 
-Paragraph (a)(i) of the definition of _regional council_ in [section 4][381]: repeal and substitute:
+Paragraph (a)(i) of the definition of _regional council_ in [section 4][384]: repeal and substitute:
 
 > *   "(i) Auckland Transport, in relation to Auckland; and".
 > 
 > 
 
-Paragraph (b) of the definition of _regional council_ in [section 4][381]: repeal and substitute:
+Paragraph (b) of the definition of _regional council_ in [section 4][384]: repeal and substitute:
 
 > *   "(b) does not include the Auckland Council".
 > 
 > 
 
-Heading to [section 6][382]: omit ""**ARTA**"" and substitute ""**Auckland Transport**"".
+Heading to [section 6][385]: omit ""**ARTA**"" and substitute ""**Auckland Transport**"".
 
-[Section 6][382]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 6][385]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 8(b)][383]: omit ""the Auckland region, the Auckland Regional"" and substitute ""Auckland, the Auckland"".
+[Section 8(b)][386]: omit ""the Auckland region, the Auckland Regional"" and substitute ""Auckland, the Auckland"".
 
-[Section 9(6)][384]: omit ""(other than a territorial authority in the Auckland region)"".
+[Section 9(6)][387]: omit ""(other than a territorial authority in the Auckland region)"".
 
-[Section 11(1)(c)(i)(F)][385]: omit ""ARTA, the Auckland Regional Council"" and substitute ""Auckland Transport, the Auckland Council"".
+[Section 11(1)(c)(i)(F)][388]: omit ""ARTA, the Auckland Regional Council"" and substitute ""Auckland Transport, the Auckland Council"".
 
-[Section 11(2)][385] and (3): omit ""ARTA"" and substitute in each case ""Auckland Transport"".
+[Section 11(2)][388] and (3): omit ""ARTA"" and substitute in each case ""Auckland Transport"".
 
-[Section 14(3)(d)][386]: omit ""the Auckland region, to the Auckland Regional"" and substitute ""Auckland, to the Auckland"".
+[Section 14(3)(d)][389]: omit ""the Auckland region, to the Auckland Regional"" and substitute ""Auckland, to the Auckland"".
 
-[Section 20(1)(a)][387]: omit ""(and, in the case of ARTA, the Auckland Regional Council)"" and substitute ""(or, in the case of Auckland Transport, the Auckland Council)"".
+[Section 20(1)(a)][390]: omit ""(and, in the case of ARTA, the Auckland Regional Council)"" and substitute ""(or, in the case of Auckland Transport, the Auckland Council)"".
 
-[Section 20(3)(d)][387]: repeal and substitute:
+[Section 20(3)(d)][390]: repeal and substitute:
 
 > *   "(d) in the case of Auckland, to the Auckland Council, in accordance with section 22; or".
 > 
 > 
 
-[Section 20(6)][387]: omit ""ARTA"" and substitute ""Auckland Transport"".
+[Section 20(6)][390]: omit ""ARTA"" and substitute ""Auckland Transport"".
 
-[Section 20(7)][387]: omit ""the Auckland region"" and substitute ""Auckland"".
+[Section 20(7)][390]: omit ""the Auckland region"" and substitute ""Auckland"".
 
-[Section 20(8)][387]: omit ""the Auckland region, ARTA"" and substitute ""Auckland, Auckland Transport"".
+[Section 20(8)][390]: omit ""the Auckland region, ARTA"" and substitute ""Auckland, Auckland Transport"".
 
-[Section 20(8)(a)][387]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
+[Section 20(8)(a)][390]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
 
-[Section 20(8)(b)][387]: omit ""Regional"".
+[Section 20(8)(b)][390]: omit ""Regional"".
 
-[Section 22][388]: omit ""Auckland Regional Council"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 22][391]: omit ""Auckland Regional Council"" in each place where it appears and substitute in each case ""Auckland Council"".
 
-[Section 22][388]: omit ""ARTA"" in each place where it appears and substitute in each case ""Auckland Transport"".
+[Section 22][391]: omit ""ARTA"" in each place where it appears and substitute in each case ""Auckland Transport"".
 
-[Section 22(3)][388]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
+[Section 22(3)][391]: omit ""ARTA's"" and substitute ""Auckland Transport's"".
 
-[Section 22(3)(b)][388]: omit ""Local Government (Auckland) Amendment Act 2004"" and substitute ""Local Government (Auckland Council) Act 2009"".
+[Section 22(3)(b)][391]: omit ""Local Government (Auckland) Amendment Act 2004"" and substitute ""Local Government (Auckland Council) Act 2009"".
 
-[Section 22(7)][388]: omit ""Auckland Regional Council's"" in each place where it appears and substitute in each case ""Auckland Council's"".
+[Section 22(7)][391]: omit ""Auckland Regional Council's"" in each place where it appears and substitute in each case ""Auckland Council's"".
 
-[Section 66(1)][389]: omit ""the Auckland region"" and substitute ""Auckland"".
+[Section 66(1)][392]: omit ""the Auckland region"" and substitute ""Auckland"".
 
-[Section 66(2)][389]: omit ""the Auckland region, ARTA"" and substitute ""Auckland, Auckland Transport"".
+[Section 66(2)][392]: omit ""the Auckland region, ARTA"" and substitute ""Auckland, Auckland Transport"".
 
-[Section 66(2)][389]: omit ""Auckland Regional Council"" and substitute ""Auckland Council"".
+[Section 66(2)][392]: omit ""Auckland Regional Council"" and substitute ""Auckland Council"".
 
-[Section 66(6)][389]: omit ""the Auckland region"" and substitute ""Auckland"".
+[Section 66(6)][392]: omit ""the Auckland region"" and substitute ""Auckland"".
 
-[Section 68][390]: repeal.
+[Section 68][393]: repeal.
 
 ##### Rating Valuations Act 1998 (1998 No 69)
 
-[Sections 60(2)(b)][391] and 61(2): repeal.
+[Sections 60(2)(b)][394] and 61(2): repeal.
 
 ##### Reserves and Other Lands Disposal Act 1952 (1952 No 69)
 
-[Section 38][392]: repeal.
+[Section 38][395]: repeal.
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-[Section 33(2)][393]: repeal and substitute:
+[Section 33(2)][396]: repeal and substitute:
 
 > *   "(2) For the purposes of this section, _public authority_ includes---
 >         
@@ -3434,7 +3438,7 @@ Heading to [section 6][382]: omit ""**ARTA**"" and substitute ""**Auckland Trans
 > 
 > 
 
-[Section 34][394]: insert after subsection (3):
+[Section 34][397]: insert after subsection (3):
 
 > *   "(3A) The Auckland Council may delegate to any local board any of its functions, powers, or duties under this Act in respect of any matter of local significance to that board, other than the approval of a plan or any change to a plan.
 > 
@@ -3442,7 +3446,7 @@ Heading to [section 6][382]: omit ""**ARTA**"" and substitute ""**Auckland Trans
 > 
 > 
 
-[Section 34][394]: add:
+[Section 34][397]: add:
 
 > *   "(11) In subsections (3A) and (3B), _Auckland Council_ and _local board_ have the meanings given in section 4(1) of the Local Government (Auckland Council) Act 2009\."
 > 
@@ -3461,39 +3465,39 @@ Repeal.
 
 ##### Auckland City and Auckland Harbour Board Empowering Act 1914 (1914 No 7 (L))
 
-[Sections 6][395], [8][396], [9][397], [10][398], and [11][399]: repeal.
+[Sections 6][398], [8][399], [9][400], [10][401], and [11][402]: repeal.
 
-[Section 12][400]: insert ""Auckland"" after "lawful for the".
+[Section 12][403]: insert ""Auckland"" after "lawful for the".
 
-[Section 13][401]: insert ""Auckland"" after ""The"".
+[Section 13][404]: insert ""Auckland"" after ""The"".
 
 ##### Auckland City and Auckland Museum Empowering Act 1924 (1924 No 1 (L))
 
-[Sections 3 to 7][402]: repeal.
+[Sections 3 to 7][405]: repeal.
 
-Heading to [section 8][403]: omit ""**Corporation**"" and substitute ""**Auckland Council**"".
+Heading to [section 8][406]: omit ""**Corporation**"" and substitute ""**Auckland Council**"".
 
-[Section 8][403]: omit ""Corporation"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 8][406]: omit ""Corporation"" in each place where it appears and substitute in each case ""Auckland Council"".
 
-[Section 8(2)(e)][403]: insert ""Auckland"" after ""terms and conditions as the"".
+[Section 8(2)(e)][406]: insert ""Auckland"" after ""terms and conditions as the"".
 
-[Section 9][404]: repeal.
+[Section 9][407]: repeal.
 
-Heading to [section 10][405]: omit ""**Corporation**"" and substitute ""**Auckland Council**"".
+Heading to [section 10][408]: omit ""**Corporation**"" and substitute ""**Auckland Council**"".
 
-[Section 10][405]: omit ""Corporation"" and substitute ""Auckland Council"".
+[Section 10][408]: omit ""Corporation"" and substitute ""Auckland Council"".
 
-[Section 12][406]: omit ""Corporation"" in the first three places where it appears and substitute in each case ""Auckland Council"".
+[Section 12][409]: omit ""Corporation"" in the first three places where it appears and substitute in each case ""Auckland Council"".
 
-[Section 12][406]: omit ""Corporation"" in the fifth place where it appears and substitute ""Auckland Council"".
+[Section 12][409]: omit ""Corporation"" in the fifth place where it appears and substitute ""Auckland Council"".
 
-[Section 12][406]: omit ""City of"".
+[Section 12][409]: omit ""City of"".
 
-[Section 13][407]: repeal.
+[Section 13][410]: repeal.
 
-Heading to [section 14][408]: omit ""**Corporation**"" and substitute ""**Auckland Council**"".
+Heading to [section 14][411]: omit ""**Corporation**"" and substitute ""**Auckland Council**"".
 
-[Section 14][408]: omit ""Corporation"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 14][411]: omit ""Corporation"" in each place where it appears and substitute in each case ""Auckland Council"".
 
 ##### Auckland City Council and Auckland Harbour Board Empowering Act 1950 (1950 No 7 (L))
 
@@ -3501,23 +3505,23 @@ Repeal.
 
 ##### Auckland City Council and Motuihi Island Domain Board Empowering Act 1930 (1930 No 17 (L))
 
-[Section 2][409]: omit ""City"".
+[Section 2][412]: omit ""City"".
 
-Heading to [section 4][410]: omit ""**City**"".
+Heading to [section 4][413]: omit ""**City**"".
 
-[Section 4][410]: omit ""by it"" in each place where it appears.
+[Section 4][413]: omit ""by it"" in each place where it appears.
 
-[Section 4][410]: omit ""the City of"".
+[Section 4][413]: omit ""the City of"".
 
 ##### Auckland City Council (Newmarket Land Vesting) Act 1998 (1998 No 1 (L))
 
-[Section 2(2)][411]: omit ""City"".
+[Section 2(2)][414]: omit ""City"".
 
 ##### Auckland City Council (Remuera Shopping Development) Empowering Act 1975 (1975 No 4 (L))
 
-Heading to [section 2][412]: omit ""**the Corporation's**"" and substitute ""**Auckland Council's**"".
+Heading to [section 2][415]: omit ""**the Corporation's**"" and substitute ""**Auckland Council's**"".
 
-[Section 2][412]: omit ""Corporation"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 2][415]: omit ""Corporation"" in each place where it appears and substitute in each case ""Auckland Council"".
 
 ##### Auckland City Council (Reserves Disposal) Empowering Act 1982 (1982 No 8 (L))
 
@@ -3525,7 +3529,7 @@ Repeal.
 
 ##### Auckland City Council (St Heliers Bay Reserve) Act 1995 (1995 No 4 (L))
 
-[Section 6][413]: add as subsection (2):
+[Section 6][416]: add as subsection (2):
 
 > *   "(2) In this section, _Council_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009\."
 > 
@@ -3533,7 +3537,7 @@ Repeal.
 
 ##### Auckland City Council (Workers' Homes) Vesting and Empowering Act 1991 (1991 No 6 (L))
 
-[Section 6][414]: add:
+[Section 6][417]: add:
 
 > *   "(3) In this section, _Council_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009\."
 > 
@@ -3541,21 +3545,21 @@ Repeal.
 
 ##### Auckland City Empowering Act 1932--33 (1932--33 No 8 (L))
 
-[Section 2][415]: repeal.
+[Section 2][418]: repeal.
 
-[Section 3(1)][416]: insert ""Auckland"" after ""be lawful for the"".
+[Section 3(1)][419]: insert ""Auckland"" after ""be lawful for the"".
 
-[Section 3(1)(a)][416]: omit ""Corporation of the City of Auckland"" and substitute ""Auckland Council"".
+[Section 3(1)(a)][419]: omit ""Corporation of the City of Auckland"" and substitute ""Auckland Council"".
 
-[Section 3(1)(c)][416]: repeal.
+[Section 3(1)(c)][419]: repeal.
 
-Heading to [section 4][417]: omit ""**City of Auckland**"" and substitute ""**Auckland Council**"".
+Heading to [section 4][420]: omit ""**City of Auckland**"" and substitute ""**Auckland Council**"".
 
-[Section 6][418]: omit ""the Council"" in each place where it appears and substitute in each case ""the Auckland Council"".
+[Section 6][421]: omit ""the Council"" in each place where it appears and substitute in each case ""the Auckland Council"".
 
-[Section 7][419]: insert ""Auckland"" after ""be lawful for the"".
+[Section 7][422]: insert ""Auckland"" after ""be lawful for the"".
 
-[Section 7][419]: omit ""the City of"" in each place where it appears.
+[Section 7][422]: omit ""the City of"" in each place where it appears.
 
 ##### Auckland Domain Act 1987 (1987 No 7 (L))
 
@@ -3569,25 +3573,25 @@ Repeal.
 
 ##### Auckland Harbour Board and Birkenhead Borough Empowering Act 1907 (1907 No 19 (L))
 
-[Section 3][420]: repeal.
+[Section 3][423]: repeal.
 
-[Section 4][421]: omit ""Birkenhead Borough"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 4][424]: omit ""Birkenhead Borough"" in each place where it appears and substitute in each case ""Auckland Council"".
 
-[Section 6][422]: repeal.
+[Section 6][425]: repeal.
 
-Heading to [section 7][423]: omit ""**Borough**"" and substitute ""**Auckland Council**"".
+Heading to [section 7][426]: omit ""**Borough**"" and substitute ""**Auckland Council**"".
 
-[Section 7][423]: omit ""borough or boroughs for the time being having control of the said land"" and substitute ""Auckland Council"".
+[Section 7][426]: omit ""borough or boroughs for the time being having control of the said land"" and substitute ""Auckland Council"".
 
 ##### Auckland Harbour Board and Devonport Borough Council Empowering Act 1905 (1905 No 18 (L))
 
-[Section 4][424]: omit ""Devonport Borough Council"" and substitute ""Auckland Council"".
+[Section 4][427]: omit ""Devonport Borough Council"" and substitute ""Auckland Council"".
 
 ##### Auckland Harbour Board and Takapuna Borough Council Empowering Act 1923 (1923 No 7 (L))
 
-[Section 5][425]: omit ""The Council"" and substitute ""The Auckland Council"".
+[Section 5][428]: omit ""The Council"" and substitute ""The Auckland Council"".
 
-[Section 6][426]: omit ""the Council"" and substitute ""the Auckland Council"".
+[Section 6][429]: omit ""the Council"" and substitute ""the Auckland Council"".
 
 ##### Auckland Harbour Board (Auckland Regional Authority Pikes Point East Reclamation) Empowering Act 1976 (1976 No 9 (L))
 
@@ -3603,29 +3607,29 @@ Repeal.
 
 ##### Auckland Harbour Board (Half Moon Bay) Vesting and Empowering Act 1968 (1968 No 6 (L))
 
-Definition of _Council_ in [section 2][427]: omit ""Manukau City"" and substitute ""Auckland"".
+Definition of _Council_ in [section 2][430]: omit ""Manukau City"" and substitute ""Auckland"".
 
-Heading to [section 15][428]: omit ""**Manukau City**"" and substitute ""**Auckland**"".
+Heading to [section 15][431]: omit ""**Manukau City**"" and substitute ""**Auckland**"".
 
-[Section 15(1)][428]: omit ""the Manukau City and any such alteration of the boundary or boundaries of the City"" and substitute ""Auckland"".
+[Section 15(1)][431]: omit ""the Manukau City and any such alteration of the boundary or boundaries of the City"" and substitute ""Auckland"".
 
 ##### Auckland Harbour Board (Princes Wharf) Empowering Act 1989 (1989 No 8 (L))
 
-[Section 6(1)][429]: omit ""the district of the City of"".
+[Section 6(1)][432]: omit ""the district of the City of"".
 
-[Section 6(3)][429]: omit ""City"".
+[Section 6(3)][432]: omit ""City"".
 
 ##### Auckland Harbour Board (Reclamation) Empowering Act 1967 (1967 No 8 (L))
 
-Definition of _Auckland Regional Authority_ in [section 2][430]: repeal.
+Definition of _Auckland Regional Authority_ in [section 2][433]: repeal.
 
-[Section 2][430]: insert in its appropriate alphabetical order:
+[Section 2][433]: insert in its appropriate alphabetical order:
 
 > "_Auckland Council_ means the local authority established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-[Section 4(2)][431]: omit ""Regional Authority"" and substitute ""Council"".
+[Section 4(2)][434]: omit ""Regional Authority"" and substitute ""Council"".
 
-[Section 5A][432]: omit ""Regional Authority"" in each place where it appears and substitute in each case ""Council"".
+[Section 5A][435]: omit ""Regional Authority"" in each place where it appears and substitute in each case ""Council"".
 
 ##### Auckland Harbour Board (Tamaki Port Industrial Estate) Vesting and Empowering Act 1967 (1967 No 17 (L))
 
@@ -3633,7 +3637,7 @@ Repeal.
 
 ##### Auckland Improvement Trust Act 1971 (1971 No 9 (L))
 
-Definition of _Council_ in [section 2(1)][433]: add ""and, in sections 4 to 9, includes the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009"".
+Definition of _Council_ in [section 2(1)][436]: add ""and, in sections 4 to 9, includes the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009"".
 
 ##### Auckland Metropolitan Drainage Amendment Act 1951 (1951 No 18 (L))
 
@@ -3641,147 +3645,147 @@ Repeal.
 
 ##### Auckland Regional Amenities Funding Act 2008 (2008 No 3 (P))
 
-[Section 3(2)][434]: omit ""all the territorial authorities in the Auckland region are"" and substitute ""the Auckland Council is"".
+[Section 3(2)][437]: omit ""all the territorial authorities in the Auckland region are"" and substitute ""the Auckland Council is"".
 
-[Section 3(2)][434]: omit ""contribute"" and substitute ""contributes"".
+[Section 3(2)][437]: omit ""contribute"" and substitute ""contributes"".
 
-Definitions of **adjusted revenue from rates**, **contributing authority**, **district**, and **Electoral College** in [section 4][435]: repeal.
+Definitions of **adjusted revenue from rates**, **contributing authority**, **district**, and **Electoral College** in [section 4][438]: repeal.
 
-[Section 4][435]: insert in its appropriate alphabetical order:
+[Section 4][438]: insert in its appropriate alphabetical order:
 
 > "_Auckland Council_ means the local authority established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-Definition of **Auckland region** in [section 4][435]: omit ""region of the Auckland Regional Council"" and substitute ""district of the Auckland Council"".
+Definition of **Auckland region** in [section 4][438]: omit ""region of the Auckland Regional Council"" and substitute ""district of the Auckland Council"".
 
-Paragraph (d) of the definition of **revenue from rates** in [section 4][435]: repeal.
+Paragraph (d) of the definition of **revenue from rates** in [section 4][438]: repeal.
 
-[Section 7(2)][436]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 7(2)][439]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 7(4)][436]: omit ""Electoral College"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 7(4)][439]: omit ""Electoral College"" in each place where it appears and substitute in each case ""Auckland Council"".
 
-[Section 7(6)(a)][436]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
+[Section 7(6)(a)][439]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 7(6)(b)][436]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
+[Section 7(6)(b)][439]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 7(6)(c)][436]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
+[Section 7(6)(c)][439]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 14(1)][437]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 14(1)][440]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 14(1)(h)][437]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 14(1)(h)][440]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 14(1)(i)][437]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 14(1)(i)][440]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 15][438]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 15][441]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 16(1)][439]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 16(1)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 16(3)(b)][439]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 16(3)(b)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 16(4)(a)][439]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 16(4)(a)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 16(4)(b)][439]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 16(4)(b)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 17(1)][440]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 17(1)][443]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 17(3)][440]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 17(3)][443]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Heading to [section 18][441]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
+Heading to [section 18][444]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
 
-[Section 18][441]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 18][444]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Heading to [section 19][442]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
+Heading to [section 19][445]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
 
-[Section 19(4)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 19(4)][445]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 19(5)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 19(5)][445]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 19(6)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 19(6)][445]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 19(6)(a)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 19(6)(a)][445]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 19(6)(d)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 19(6)(d)][445]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 19(7)][442]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 19(7)][445]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 20(1)][443]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 20(1)][446]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 20(2)][443]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 20(2)][446]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 20(2)(b)][443]: omit ""each of the contributing authorities and"".
+[Section 20(2)(b)][446]: omit ""each of the contributing authorities and"".
 
-[Section 21(1)][444]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 21(1)][447]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 21(1)(d)][444]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 21(1)(d)][447]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 21(1)(g)][444]: omit ""maximum total levy"" and substitute ""maximum levy"".
+[Section 21(1)(g)][447]: omit ""maximum total levy"" and substitute ""maximum levy"".
 
-[Section 21(1)(h)][444]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 21(1)(h)][447]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 21(2)][444]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 21(2)][447]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 21(3)][444]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 21(3)][447]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 25(2)(h)][445]: omit ""total"" in each place where it appears.
+[Section 25(2)(h)][448]: omit ""total"" in each place where it appears.
 
-[Section 25(2)(i)][445]: omit ""total"".
+[Section 25(2)(i)][448]: omit ""total"".
 
-[Section 25(4)][445]: omit ""total"".
+[Section 25(4)][448]: omit ""total"".
 
-[Section 26(1)][446]: omit ""chairpersons"" and substitute ""chairperson"".
+[Section 26(1)][449]: omit ""chairpersons"" and substitute ""chairperson"".
 
-Heading to [section 26][446]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
+Heading to [section 26][449]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
 
-[Section 26(1)][446]: omit ""the Electoral College"" and substitute ""a person appointed by the Auckland Council for the purpose"".
+[Section 26(1)][449]: omit ""the Electoral College"" and substitute ""a person appointed by the Auckland Council for the purpose"".
 
-[Section 26(1)(a)][446]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 26(1)(a)][449]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 26(2)][446]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 26(2)][449]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 27(1)(b)][447]: omit ""Electoral College, the specified amenities, and the contributing authorities"" and substitute ""Auckland Council and the specified amenities"".
+[Section 27(1)(b)][450]: omit ""Electoral College, the specified amenities, and the contributing authorities"" and substitute ""Auckland Council and the specified amenities"".
 
-[Section 27(2)][447]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 27(2)][450]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 27(3)][447]: repeal.
+[Section 27(3)][450]: repeal.
 
-[Section 27(6)(c)][447]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 27(6)(c)][450]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 27(6)(d)][447]: omit ""Electoral College's"" and substitute ""Auckland Council's"".
+[Section 27(6)(d)][450]: omit ""Electoral College's"" and substitute ""Auckland Council's"".
 
-[Section 27(6)(d)][447]: omit ""total"".
+[Section 27(6)(d)][450]: omit ""total"".
 
-Heading to [section 28][448]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
+Heading to [section 28][451]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
 
-[Section 28][448]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 28][451]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 28(a)][448]: omit ""total"".
+[Section 28(a)][451]: omit ""total"".
 
-[Section 28(b)][448]: omit ""total"".
+[Section 28(b)][451]: omit ""total"".
 
-Heading to [section 29][449]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
+Heading to [section 29][452]: omit ""**Electoral College**"" and substitute ""**Auckland Council**"".
 
-[Section 29(1)][449]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 29(1)][452]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 29(1)][449]: omit ""total"".
+[Section 29(1)][452]: omit ""total"".
 
-[Section 29(3)(a)][449]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 29(3)(a)][452]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 29(4)(a)][449]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 29(4)(a)][452]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 29(4)(c)][449]: omit ""total"" in each place where it appears.
+[Section 29(4)(c)][452]: omit ""total"" in each place where it appears.
 
-[Section 29(5)][449]: omit ""total"" in each place where it appears.
+[Section 29(5)][452]: omit ""total"" in each place where it appears.
 
-[Section 29(5)][449]: omit ""for the purpose of fixing the individual levies under section 35"".
+[Section 29(5)][452]: omit ""for the purpose of fixing the individual levies under section 35"".
 
-[Section 29(6)][449]: omit ""total"".
+[Section 29(6)][452]: omit ""total"".
 
-[Section 30(3)(c)][450]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 30(3)(c)][453]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-Heading above [section 31][451]: repeal.
+Heading above [section 31][454]: repeal.
 
-[Sections 31 to 33][451]: repeal.
+[Sections 31 to 33][454]: repeal.
 
-[Section 34][452]: repeal and substitute:
+[Section 34][455]: repeal and substitute:
 
 > ##### "34 Maximum levy for financial years after first financial year
 >     
@@ -3809,17 +3813,17 @@ Heading above [section 31][451]: repeal.
 > 
 > 
 
-Heading to [section 35][453]: omit ""**individual levies**"" and substitute ""**levy**"".
+Heading to [section 35][456]: omit ""**individual levies**"" and substitute ""**levy**"".
 
-[Section 35(1)][453]: omit ""first"" and substitute ""second"".
+[Section 35(1)][456]: omit ""first"" and substitute ""second"".
 
-[Section 35(1)(a)(i)][453]: omit ""Electoral College's"" and substitute ""Auckland Council's"".
+[Section 35(1)(a)(i)][456]: omit ""Electoral College's"" and substitute ""Auckland Council's"".
 
-[Section 35(1)(a)(i)][453]: omit ""total"".
+[Section 35(1)(a)(i)][456]: omit ""total"".
 
-[Section 35(1)(a)(ii)][453]: omit ""total"".
+[Section 35(1)(a)(ii)][456]: omit ""total"".
 
-[Section 35(2)][453]: repeal and substitute:
+[Section 35(2)][456]: repeal and substitute:
 
 > *   "(2) The Funding Board must send written notice of the levy to the Auckland Council."
 > 
@@ -3843,51 +3847,51 @@ Section 36: repeal and substitute:
 > 
 > 
 
-[Section 37][454]: repeal.
+[Section 37][457]: repeal.
 
-[Section 40(3)(c)][455]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 40(3)(c)][458]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-Heading to [section 41][456]: omit ""**Contributing authority's**"" and substitute ""**Auckland Council's**"".
+Heading to [section 41][459]: omit ""**Contributing authority's**"" and substitute ""**Auckland Council's**"".
 
-[Section 41][456]: omit ""Every contributing authority"" and substitute ""The Auckland Council"".
+[Section 41][459]: omit ""Every contributing authority"" and substitute ""The Auckland Council"".
 
-[Section 42(3)][457]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
+[Section 42(3)][460]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 43(1)][458]: omit ""City"".
+[Section 43(1)][461]: omit ""City"".
 
-[Section 43(2)(a)(ii)][458]: omit ""City"".
+[Section 43(2)(a)(ii)][461]: omit ""City"".
 
-[Subpart 6][459] of Part 2: repeal.
+[Subpart 6][462] of Part 2: repeal.
 
-[Schedules 2][460] and [3][461]: repeal.
+[Schedules 2][463] and [3][464]: repeal.
 
-Clause 2(1)(a) in [Schedule 4][462]: omit ""body that appointed them"" and substitute ""Amenities Board"".
+Clause 2(1)(a) in [Schedule 4][465]: omit ""body that appointed them"" and substitute ""Amenities Board"".
 
-Clause 2(1)(b) in [Schedule 4][462]: omit ""contributing authorities"" and substitute ""Auckland Council"".
+Clause 2(1)(b) in [Schedule 4][465]: omit ""contributing authorities"" and substitute ""Auckland Council"".
 
-Clause 4(2) in [Schedule 4][462]: omit ""section 44 or"".
+Clause 4(2) in [Schedule 4][465]: omit ""section 44 or"".
 
-Clause 6(1)(d) in [Schedule 4][462]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
+Clause 6(1)(d) in [Schedule 4][465]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
 
-Clause 6(1)(e) in [Schedule 4][462]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
+Clause 6(1)(e) in [Schedule 4][465]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
 
-Clause 6(1)(f) in [Schedule 4][462]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
+Clause 6(1)(f) in [Schedule 4][465]: omit ""a contributing authority"" and substitute ""the Auckland Council"".
 
-Clause 7(1)(a) in [Schedule 4][462]: omit ""Electoral College"" and substitute ""Auckland Council"".
+Clause 7(1)(a) in [Schedule 4][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Clause 10(1) in [Schedule 4][462]: omit ""Electoral College"" and substitute ""Auckland Council"".
+Clause 10(1) in [Schedule 4][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Clause 10(2) in [Schedule 4][462]: omit ""Electoral College"" and substitute ""Auckland Council"".
+Clause 10(2) in [Schedule 4][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Clause 10(3) in [Schedule 4][462]: omit ""Electoral College"" and substitute ""Auckland Council"".
+Clause 10(3) in [Schedule 4][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Clause 10(4) in [Schedule 4][462]: omit ""Electoral College"" and substitute ""Auckland Council"".
+Clause 10(4) in [Schedule 4][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Clause 10(5) in [Schedule 4][462]: omit ""Electoral College"" and substitute ""Auckland Council"".
+Clause 10(5) in [Schedule 4][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Clause 12(2) in [Schedule 4][462]: omit ""Electoral College"" and substitute ""Auckland Council"".
+Clause 12(2) in [Schedule 4][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-Clause 12(2) in [Schedule 4][462]: omit ""one of the contributing authorities"" and substitute ""the Auckland Council"".
+Clause 12(2) in [Schedule 4][465]: omit ""one of the contributing authorities"" and substitute ""the Auckland Council"".
 
 ##### Auckland Regional Authority Act 1963 (1963 No 18 (L))
 
@@ -3907,89 +3911,89 @@ Repeal.
 
 ##### Auckland War Memorial Museum Act 1996 (1996 No 4 (L))
 
-[Section 2][290]: insert in its appropriate alphabetical order:
+[Section 2][293]: insert in its appropriate alphabetical order:
 
 > "_Auckland Council_ means the local authority established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-Definitions of **Auckland Museum Electoral College**, **contributing authorities**, and **Electoral College** in [section 2][290]: repeal.
+Definitions of **Auckland Museum Electoral College**, **contributing authorities**, and **Electoral College** in [section 2][293]: repeal.
 
-[Section 4(1)(a)][463]: omit ""contributing authorities in accordance with section 13 of this Act"" and substitute ""Auckland Council"".
+[Section 4(1)(a)][466]: omit ""contributing authorities in accordance with section 13 of this Act"" and substitute ""Auckland Council"".
 
-[Section 4(3)][463]: omit ""a contributing authority, the principal administrative officer of a contributing authority, an employee of a contributing authority who reports directly to the principal administrative officer"" and substitute ""the Auckland Council, the chief executive of the Auckland Council, an employee of the Auckland Council who reports directly to the chief executive"".
+[Section 4(3)][466]: omit ""a contributing authority, the principal administrative officer of a contributing authority, an employee of a contributing authority who reports directly to the principal administrative officer"" and substitute ""the Auckland Council, the chief executive of the Auckland Council, an employee of the Auckland Council who reports directly to the chief executive"".
 
-[Section 4(4) and (5)][463]: repeal.
+[Section 4(4) and (5)][466]: repeal.
 
-[Section 5(1)][464]: omit ""subsection (4) of this section and"".
+[Section 5(1)][467]: omit ""subsection (4) of this section and"".
 
-[Section 5(4) and (5)][464]: repeal.
+[Section 5(4) and (5)][467]: repeal.
 
-[Section 7(8)(a)][465]: omit ""Electoral College pursuant to section 13 of this Act"" and substitute ""Auckland Council"".
+[Section 7(8)(a)][468]: omit ""Electoral College pursuant to section 13 of this Act"" and substitute ""Auckland Council"".
 
-[Section 7(8)(b)][465]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 7(8)(b)][468]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 12(2)(f)][466]: omit ""contributing authorities"" and substitute ""Auckland Council"".
+[Section 12(2)(f)][469]: omit ""contributing authorities"" and substitute ""Auckland Council"".
 
-[Section 13][289]: repeal.
+[Section 13][292]: repeal.
 
-[Section 18(g)][467]: omit "", and giving administrative support to, the Electoral College"" and substitute ""the Auckland Council"".
+[Section 18(g)][470]: omit "", and giving administrative support to, the Electoral College"" and substitute ""the Auckland Council"".
 
-[Section 22(3)][468]: omit ""the chairperson of the Electoral College"" and substitute ""a person appointed by the Auckland Council for the purpose"".
+[Section 22(3)][471]: omit ""the chairperson of the Electoral College"" and substitute ""a person appointed by the Auckland Council for the purpose"".
 
-[Section 22(3)][468]: omit ""and the Electoral College"" and substitute ""and the Auckland Council"".
+[Section 22(3)][471]: omit ""and the Electoral College"" and substitute ""and the Auckland Council"".
 
-[Section 22(5)][468]: omit ""each of the contributing authorities"" and substitute ""the Auckland Council"".
+[Section 22(5)][471]: omit ""each of the contributing authorities"" and substitute ""the Auckland Council"".
 
-[Section 22(6)][468]: omit ""any contributing authority, the Taumata-a-Iwi, the Institute Council, and the Electoral College"" and substitute ""the Auckland Council, the Taumata-a-Iwi, and the Institute Council"".
+[Section 22(6)][471]: omit ""any contributing authority, the Taumata-a-Iwi, the Institute Council, and the Electoral College"" and substitute ""the Auckland Council, the Taumata-a-Iwi, and the Institute Council"".
 
-[Section 22(7)][468]: repeal.
+[Section 22(7)][471]: repeal.
 
-[Section 22(10)][468]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 22(10)][471]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 22(11)][468]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 22(11)][471]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 22(12)][468]: omit ""Electoral College"" and substitute ""Auckland Council,"".
+[Section 22(12)][471]: omit ""Electoral College"" and substitute ""Auckland Council,"".
 
-[Section 22(13)][468]: omit ""Electoral College"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 22(13)][471]: omit ""Electoral College"" in each place where it appears and substitute in each case ""Auckland Council"".
 
-[Section 22(15)(b)][468]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 22(15)(b)][471]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-Heading to [section 23][469]: omit ""**local authorities**"" and substitute ""**Auckland Council**"".
+Heading to [section 23][472]: omit ""**local authorities**"" and substitute ""**Auckland Council**"".
 
-[Section 23(1)][469]: omit ""contributing authorities"" and substitute ""Auckland Council"".
+[Section 23(1)][472]: omit ""contributing authorities"" and substitute ""Auckland Council"".
 
-[Section 23(2)(a)][469]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 23(2)(a)][472]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 23(2)(b)][469]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 23(2)(b)][472]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 23(3)][469]: repeal.
+[Section 23(3)][472]: repeal.
 
-[Section 23(4)][469]: omit ""against each contributing authority"".
+[Section 23(4)][472]: omit ""against each contributing authority"".
 
-[Section 23(4)][469]: omit ""its district (adjusted as aforesaid) plus 2.5 c per person of the population of its district (adjusted as aforesaid)"" and substitute ""the Auckland Council's district plus 2.5 c per person of the population of the Auckland Council's district"".
+[Section 23(4)][472]: omit ""its district (adjusted as aforesaid) plus 2.5 c per person of the population of its district (adjusted as aforesaid)"" and substitute ""the Auckland Council's district plus 2.5 c per person of the population of the Auckland Council's district"".
 
-[Section 23(5)][469]: omit ""each of the contributing authorities"" in each place where it appears and substitute in each case ""the Auckland Council"".
+[Section 23(5)][472]: omit ""each of the contributing authorities"" in each place where it appears and substitute in each case ""the Auckland Council"".
 
-[Section 23(5)][469]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 23(5)][472]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 23(5)][469]: omit ""revenues of the contributing authority"" and substitute ""revenues of the Auckland Council"".
+[Section 23(5)][472]: omit ""revenues of the contributing authority"" and substitute ""revenues of the Auckland Council"".
 
-[Section 23(6)][469]: repeal.
+[Section 23(6)][472]: repeal.
 
-[Section 27(1)][470]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 27(1)][473]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 27(2)][470]: add ""and as if that section were not repealed by the Local Government Act 2002"".
+[Section 27(2)][473]: add ""and as if that section were not repealed by the Local Government Act 2002"".
 
-[Section 28(5)(b)][471]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 28(5)(b)][474]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-Heading to [section 29][472]: omit ""**Contributing authorities**"" and substitute ""**Auckland Council**"".
+Heading to [section 29][475]: omit ""**Contributing authorities**"" and substitute ""**Auckland Council**"".
 
-[Section 29][472]: omit ""Each contributing authority shall include in its annual report prepared under section 223E of the Local Government Act 1974"" and substitute ""The Auckland Council must include in its annual report prepared under section 98 of the Local Government Act 2002"".
+[Section 29][475]: omit ""Each contributing authority shall include in its annual report prepared under section 223E of the Local Government Act 1974"" and substitute ""The Auckland Council must include in its annual report prepared under section 98 of the Local Government Act 2002"".
 
-[Schedule][473]: repeal.
+[Schedule][476]: repeal.
 
 ##### Auckland War Memorial Museum Site Empowering Act 2003 (2003 No 3 (L))
 
-Definition of _Council_ in [section 4][474]: add ""and includes the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009"".
+Definition of _Council_ in [section 4][477]: add ""and includes the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009"".
 
 ##### Cities of Takapuna and Waitemata (Upper Harbour Bridge) Empowering Act 1976 (1976 No 5 (L))
 
@@ -4005,129 +4009,129 @@ Repeal.
 
 ##### Mount Smart Regional Recreation Centre Act 1985 (1985 No 10 (L))
 
-Definition of _Authority_ in [section 2][475]: repeal.
+Definition of _Authority_ in [section 2][478]: repeal.
 
-[Section 2][475]: insert in its appropriate alphabetical order:
+[Section 2][478]: insert in its appropriate alphabetical order:
 
 > "_Council_ means local authority established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-Heading to [section 3][476]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 3][479]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 3][476]: omit ""Authority"" and substitute ""Council"".
+[Section 3][479]: omit ""Authority"" and substitute ""Council"".
 
-[Section 4][477]: omit ""Authority's"" and substitute ""Council's"".
+[Section 4][480]: omit ""Authority's"" and substitute ""Council's"".
 
-Heading to [section 5][478]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 5][481]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 5][478]: omit ""Authority"" in each place where it appears and substitute in each case ""Council"".
+[Section 5][481]: omit ""Authority"" in each place where it appears and substitute in each case ""Council"".
 
-[Section 6][479]: omit ""Authority"" in each place where it appears and substitute in each case ""Council"".
+[Section 6][482]: omit ""Authority"" in each place where it appears and substitute in each case ""Council"".
 
-Heading to [section 7][480]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 7][483]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 7][480]: omit ""Authority"" and substitute ""Council"".
+[Section 7][483]: omit ""Authority"" and substitute ""Council"".
 
-Heading to [section 8][481]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 8][484]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 8][481]: omit ""Authority"" and substitute ""Council"".
+[Section 8][484]: omit ""Authority"" and substitute ""Council"".
 
-Heading to [section 9][482]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 9][485]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 9][482]: omit ""Authority"" and substitute ""Council"".
+[Section 9][485]: omit ""Authority"" and substitute ""Council"".
 
-Heading to [section 10][483]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 10][486]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 10][483]: omit ""Authority"" and substitute ""Council"".
+[Section 10][486]: omit ""Authority"" and substitute ""Council"".
 
-Heading to [section 12][484]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 12][487]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 12][484]: omit ""Authority"" and substitute ""Council"".
+[Section 12][487]: omit ""Authority"" and substitute ""Council"".
 
-[Section 13][485]: omit ""Authority"" and substitute ""Council"".
+[Section 13][488]: omit ""Authority"" and substitute ""Council"".
 
-[Section 14][486]: omit ""Authority"" in each place where it appears and substitute in each case ""Council"".
+[Section 14][489]: omit ""Authority"" in each place where it appears and substitute in each case ""Council"".
 
-Heading to [section 15][487]: omit ""**Authority**"" and substitute ""**Council**"".
+Heading to [section 15][490]: omit ""**Authority**"" and substitute ""**Council**"".
 
-[Section 15][487]: omit ""Authority"" and substitute ""Council"".
+[Section 15][490]: omit ""Authority"" and substitute ""Council"".
 
 ##### Museum of Transport and Technology Act 2000 (2000 No 1 (P))
 
-[Section 3][291]: insert in its appropriate alphabetical order:
+[Section 3][294]: insert in its appropriate alphabetical order:
 
 > "_Auckland Council_ means the local authority established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-Definitions of **contributing authorities** and **Electoral College** in [section 3][291]: repeal.
+Definitions of **contributing authorities** and **Electoral College** in [section 3][294]: repeal.
 
-[Section 5(1)(a)][488]: omit ""contributing authorities under section 13 of the Auckland War Memorial Museum Act 1996 as if they were members of the Auckland Museum Trust Board appointed under section 4(1)(a) of that Act"" and substitute ""Auckland Council"".
+[Section 5(1)(a)][491]: omit ""contributing authorities under section 13 of the Auckland War Memorial Museum Act 1996 as if they were members of the Auckland Museum Trust Board appointed under section 4(1)(a) of that Act"" and substitute ""Auckland Council"".
 
-[Section 5(3)][488]: omit ""a contributing authority, the principal administrative officer of a contributing authority, an employee of a contributing authority who reports directly to the principal administrative officer"" and substitute ""the Auckland Council, the chief executive of the Auckland Council, an employee of the Auckland Council who reports directly to the chief executive"".
+[Section 5(3)][491]: omit ""a contributing authority, the principal administrative officer of a contributing authority, an employee of a contributing authority who reports directly to the principal administrative officer"" and substitute ""the Auckland Council, the chief executive of the Auckland Council, an employee of the Auckland Council who reports directly to the chief executive"".
 
-[Section 5(4) to (6)][488]: repeal.
+[Section 5(4) to (6)][491]: repeal.
 
-[Section 6(1)][489]: omit ""subsection (4) and"".
+[Section 6(1)][492]: omit ""subsection (4) and"".
 
-[Section 6(4) and (5)][489]: repeal.
+[Section 6(4) and (5)][492]: repeal.
 
-[Section 7(4)][490]: omit ""except as provided in section 5(5) and (6)"".
+[Section 7(4)][493]: omit ""except as provided in section 5(5) and (6)"".
 
-[Section 13(2)(f)][491]: omit ""contributing authorities"" and substitute ""Auckland Council"".
+[Section 13(2)(f)][494]: omit ""contributing authorities"" and substitute ""Auckland Council"".
 
-[Section 16(g)][492]: omit "", and giving administrative support to, the Electoral College"" and substitute ""the Auckland Council"".
+[Section 16(g)][495]: omit "", and giving administrative support to, the Electoral College"" and substitute ""the Auckland Council"".
 
-[Section 20(2)][493]: omit ""the chairperson of the Electoral College"" and substitute ""a person appointed by the Auckland Council for the purpose"".
+[Section 20(2)][496]: omit ""the chairperson of the Electoral College"" and substitute ""a person appointed by the Auckland Council for the purpose"".
 
-[Section 20(2)][493]: omit ""meetings of the Electoral College"" and substitute ""meetings of the Auckland Council"".
+[Section 20(2)][496]: omit ""meetings of the Electoral College"" and substitute ""meetings of the Auckland Council"".
 
-[Section 20(4)][493]: omit ""each of the contributing authorities"" and substitute ""the Auckland Council"".
+[Section 20(4)][496]: omit ""each of the contributing authorities"" and substitute ""the Auckland Council"".
 
-[Section 20(5)][493]: omit ""any contributing authority, the Society, and the Electoral College"" and substitute ""the Auckland Council and the Society"".
+[Section 20(5)][496]: omit ""any contributing authority, the Society, and the Electoral College"" and substitute ""the Auckland Council and the Society"".
 
-[Section 20(6)][493]: repeal.
+[Section 20(6)][496]: repeal.
 
-[Section 20(9)][493]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 20(9)][496]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 20(10)][493]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 20(10)][496]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 20(10)][493]: omit ""37V of the Local Government Act 1974"" and substitute ""28 of the Local Government Act 2002"".
+[Section 20(10)][496]: omit ""37V of the Local Government Act 1974"" and substitute ""28 of the Local Government Act 2002"".
 
-[Section 20(11)][493]: omit ""Electoral College"" and substitute ""Auckland Council"".
+[Section 20(11)][496]: omit ""Electoral College"" and substitute ""Auckland Council"".
 
-[Section 20(12)][493]: omit ""Electoral College"" in each place where it appears and substitute in each case ""Auckland Council"".
+[Section 20(12)][496]: omit ""Electoral College"" in each place where it appears and substitute in each case ""Auckland Council"".
 
-[Section 20(14)(c)][493]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 20(14)(c)][496]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-Heading to [section 21][494]: omit ""**Contributions by local authorities**"" and substitute ""**Contribution by Auckland Council**"".
+Heading to [section 21][497]: omit ""**Contributions by local authorities**"" and substitute ""**Contribution by Auckland Council**"".
 
-[Section 21(1)][494]: omit ""contributing authorities"" and substitute ""Auckland Council"".
+[Section 21(1)][497]: omit ""contributing authorities"" and substitute ""Auckland Council"".
 
-[Section 21(2)][494]: omit ""against each contributing authority must not exceed in any year 1/300 c in the dollar on the total capital value of rateable property in its district (adjusted in accordance with subsection (3)) plus 1.5 c per person of the population of its district (adjusted in accordance with subsection (3))"" and substitute ""must not exceed in any year 1/300 c in the dollar on the total capital value of rateable property in the Auckland Council's district plus 1.5 c per person of the population of the Auckland Council's district"".
+[Section 21(2)][497]: omit ""against each contributing authority must not exceed in any year 1/300 c in the dollar on the total capital value of rateable property in its district (adjusted in accordance with subsection (3)) plus 1.5 c per person of the population of its district (adjusted in accordance with subsection (3))"" and substitute ""must not exceed in any year 1/300 c in the dollar on the total capital value of rateable property in the Auckland Council's district plus 1.5 c per person of the population of the Auckland Council's district"".
 
-[Section 21(3)][494]: repeal.
+[Section 21(3)][497]: repeal.
 
-[Section 21(4)(a)][494]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 21(4)(a)][497]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 21(4)(b)][494]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 21(4)(b)][497]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 21(5)][494]: omit ""each of the contributing authorities"" in each place where it appears and substitute in each case ""the Auckland Council"".
+[Section 21(5)][497]: omit ""each of the contributing authorities"" in each place where it appears and substitute in each case ""the Auckland Council"".
 
-[Section 21(5)][494]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 21(5)][497]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 21(5)][494]: omit ""the contributing authority"" and substitute ""the Auckland Council"".
+[Section 21(5)][497]: omit ""the contributing authority"" and substitute ""the Auckland Council"".
 
-[Section 21(6)][494]: repeal.
+[Section 21(6)][497]: repeal.
 
-[Section 25(5)(c)][495]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
+[Section 25(5)(c)][498]: omit ""each contributing authority"" and substitute ""the Auckland Council"".
 
-Heading to [section 26][496]: omit ""**Contributing authorities**"" and substitute ""**Auckland Council**"".
+Heading to [section 26][499]: omit ""**Contributing authorities**"" and substitute ""**Auckland Council**"".
 
-[Section 26][496]: omit ""Each contributing authority must include in its annual report prepared under section 223E of the Local Government Act 1974"" and substitute ""The Auckland Council must include in its annual report prepared under section 98 of the Local Government Act 2002"".
+[Section 26][499]: omit ""Each contributing authority must include in its annual report prepared under section 223E of the Local Government Act 1974"" and substitute ""The Auckland Council must include in its annual report prepared under section 98 of the Local Government Act 2002"".
 
-[Schedule][497]: repeal.
+[Schedule][500]: repeal.
 
 ##### Newmarket Borough Council (Car Park Development) Empowering Act 1981 (1981 No 2 (L))
 
-[Section 2][498]: add as subsection (4):
+[Section 2][501]: add as subsection (4):
 
 > *   "(4) In this section, _Council_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009\."
 > 
@@ -4139,61 +4143,61 @@ Repeal.
 
 ##### Rodney County Council (Gulf Harbour) Vesting and Empowering Act 1977 (1977 No 6 (L))
 
-Definition of _Council_ in [section 2][499]: repeal and substitute:
+Definition of _Council_ in [section 2][502]: repeal and substitute:
 
 > "_Council_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-[Section 9(1)][500]: omit ""on behalf of the Corporation"".
+[Section 9(1)][503]: omit ""on behalf of the Corporation"".
 
 ##### Rodney County Council (Mahurangi Harbour) Vesting and Empowering Act 1977 (1977 No 16 (L))
 
-Definition of _Council_ in [section 2][501]: repeal and substitute:
+Definition of _Council_ in [section 2][504]: repeal and substitute:
 
 > "_Council_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-[Section 4(3)][502]: omit ""by the Council"".
+[Section 4(3)][505]: omit ""by the Council"".
 
-[Section 12][503]: omit ""the Council"" and substitute ""the Rodney County Council"".
+[Section 12][506]: omit ""the Council"" and substitute ""the Rodney County Council"".
 
 ##### Tamaki River Reclamation Act 1960 (1960 No 14 (L))
 
-[Section 2][504]: omit ""Otahuhu Borough Council"" and substitute ""the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009"".
+[Section 2][507]: omit ""Otahuhu Borough Council"" and substitute ""the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009"".
 
-[Section 5][505]: omit ""Mayor, Councillors, and Citizens of the Borough of Otahuhu"" and substitute ""Auckland Council"".
+[Section 5][508]: omit ""Mayor, Councillors, and Citizens of the Borough of Otahuhu"" and substitute ""Auckland Council"".
 
-[Section 6][506]: repeal.
+[Section 6][509]: repeal.
 
 ##### Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))
 
-[Section 3(2)(e)][507]: omit ""Auckland Regional Council, Rodney District Council, Waitakere City Council,"" and substitute ""the Auckland Council"".
+[Section 3(2)(e)][510]: omit ""Auckland Regional Council, Rodney District Council, Waitakere City Council,"" and substitute ""the Auckland Council"".
 
 Definitions of _ARC_, _local authority_, and _territorial authority_ in section 4(1): repeal.
 
-[Section 4(1)][508]: insert in its appropriate alphabetical order:
+[Section 4(1)][511]: insert in its appropriate alphabetical order:
 
 > "_Council_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-Definition of _Waitakere Ranges Regional Park_ in [section 4(1)][508]: omit ""ARC"" and substitute ""the Council"".
+Definition of _Waitakere Ranges Regional Park_ in [section 4(1)][511]: omit ""ARC"" and substitute ""the Council"".
 
-[Section 6(1)(c)][509]: omit ""ARC and the territorial authority are"" and substitute ""the Council is"".
+[Section 6(1)(c)][512]: omit ""ARC and the territorial authority are"" and substitute ""the Council is"".
 
-[Section 6(3)][509]: omit ""ARC and the territorial authority"" and substitute ""the Council"".
+[Section 6(3)][512]: omit ""ARC and the territorial authority"" and substitute ""the Council"".
 
-[Section 10][510]: omit ""ARC"" in each place where it appears and substitute in each case ""the Council"".
+[Section 10][513]: omit ""ARC"" in each place where it appears and substitute in each case ""the Council"".
 
-[Section 11(1) and (3)][511]: omit ""a territorial authority"" and substitute in each case ""the Council"".
+[Section 11(1) and (3)][514]: omit ""a territorial authority"" and substitute in each case ""the Council"".
 
-[Section 12(1)][512]: omit ""A local authority"" and substitute ""The Council"".
+[Section 12(1)][515]: omit ""A local authority"" and substitute ""The Council"".
 
-[Section 12(2) and (3)(b)][512]: omit ""local authority"" and substitute in each case ""Council"".
+[Section 12(2) and (3)(b)][515]: omit ""local authority"" and substitute in each case ""Council"".
 
-[Section 13(3)][513]: omit ""local authority"" and substitute ""Council"".
+[Section 13(3)][516]: omit ""local authority"" and substitute ""Council"".
 
-[Section 17][514]: omit ""a local authority"" and substitute ""the Council"".
+[Section 17][517]: omit ""a local authority"" and substitute ""the Council"".
 
-[Section 17][514]: omit ""the local authority"" and substitute ""the Council"".
+[Section 17][517]: omit ""the local authority"" and substitute ""the Council"".
 
-[Section 18][258]: repeal and substitute:
+[Section 18][261]: repeal and substitute:
 
 > ##### "18 Auckland spatial plan
 >     
@@ -4203,59 +4207,59 @@ Definition of _Waitakere Ranges Regional Park_ in [section 4(1)][508]: omit ""AR
 > 
 > 
 
-[Section 19(1)][515]: omit ""ARC"" and substitute ""The Council"".
+[Section 19(1)][518]: omit ""ARC"" and substitute ""The Council"".
 
-[Section 19(2) to (4)][515]: omit ""ARC"" in each place where it appears and substitute in each case ""the Council"".
+[Section 19(2) to (4)][518]: omit ""ARC"" in each place where it appears and substitute in each case ""the Council"".
 
-[Section 20][516]: omit ""ARC"" and substitute ""The Council"".
+[Section 20][519]: omit ""ARC"" and substitute ""The Council"".
 
-[Section 21][517]: repeal.
+[Section 21][520]: repeal.
 
-Heading to [section 22][518]: omit ""**Local authority**"" and substitute ""**Council**"".
+Heading to [section 22][521]: omit ""**Local authority**"" and substitute ""**Council**"".
 
-[Section 22][518]: omit ""A local authority"" and substitute ""The Council"".
+[Section 22][521]: omit ""A local authority"" and substitute ""The Council"".
 
-[Section 23(1)][519]: omit ""local authority concerned"" and substitute ""Council"".
+[Section 23(1)][522]: omit ""local authority concerned"" and substitute ""Council"".
 
-[Section 25(1)][520]: repeal and substitute:
+[Section 25(1)][523]: repeal and substitute:
 
 > *   "(1) The Council may prepare and adopt a local area plan for a local area that is within the heritage area."
 > 
 > 
 
-[Section 25(5)][520]: omit ""territorial authority"" and substitute ""Council"".
+[Section 25(5)][523]: omit ""territorial authority"" and substitute ""Council"".
 
-[Section 26][521]: omit ""territorial authority concerned"" and substitute ""Council"".
+[Section 26][524]: omit ""territorial authority concerned"" and substitute ""Council"".
 
-[Section 27(1)][522]: omit ""a territorial authority"" and substitute ""the Council"".
+[Section 27(1)][525]: omit ""a territorial authority"" and substitute ""the Council"".
 
-[Section 27(2)][522]: omit ""territorial authority"" and substitute ""Council"".
+[Section 27(2)][525]: omit ""territorial authority"" and substitute ""Council"".
 
-[Section 27(3)][522]: omit ""a territorial authority"" and substitute ""the Council"".
+[Section 27(3)][525]: omit ""a territorial authority"" and substitute ""the Council"".
 
-[Section 28(1)][523]: omit ""A territorial authority"" and substitute ""The Council"".
+[Section 28(1)][526]: omit ""A territorial authority"" and substitute ""The Council"".
 
-[Section 29(2)][524]: omit ""a local authority"" and substitute ""the Council"".
+[Section 29(2)][527]: omit ""a local authority"" and substitute ""the Council"".
 
-[Section 29(4)(a)(ii)][524]: omit ""local authority"" and substitute ""Council"".
+[Section 29(4)(a)(ii)][527]: omit ""local authority"" and substitute ""Council"".
 
-[Section 29(5)(d)][524]: omit ""local authority concerned"" and substitute ""Council"".
+[Section 29(5)(d)][527]: omit ""local authority concerned"" and substitute ""Council"".
 
-[Section 30(1)][525]: omit ""local authority concerned"" and substitute ""Council"".
+[Section 30(1)][528]: omit ""local authority concerned"" and substitute ""Council"".
 
-[Section 33(1)][526]: omit ""a local authority"" and substitute ""the Council"".
+[Section 33(1)][529]: omit ""a local authority"" and substitute ""the Council"".
 
-[Section 33(1)][526]: omit ""the local authority"" and substitute ""the Council"".
+[Section 33(1)][529]: omit ""the local authority"" and substitute ""the Council"".
 
-[Section 33(2)][526]: omit ""a local authority"" in each place where it appears and substitute in each case ""the Council"".
+[Section 33(2)][529]: omit ""a local authority"" in each place where it appears and substitute in each case ""the Council"".
 
-[Heading to section 34][527]: omit ""**Local authorities**"" and substitute ""**Council**"".
+[Heading to section 34][530]: omit ""**Local authorities**"" and substitute ""**Council**"".
 
-[Section 34(1)][527]: omit ""authorities must jointly"" and substitute ""Council must"".
+[Section 34(1)][530]: omit ""authorities must jointly"" and substitute ""Council must"".
 
-[Section 34(2)][527]: omit ""authorities must jointly produce, and each"" and substitute ""Council must produce, and"".
+[Section 34(2)][530]: omit ""authorities must jointly produce, and each"" and substitute ""Council must produce, and"".
 
-[Section 34(3)][527]: omit ""local authorities"" and substitute ""Council"".
+[Section 34(3)][530]: omit ""local authorities"" and substitute ""Council"".
 
 ##### Waitemata City Council (Lincoln Road) Revesting Act 1987 (1987 No 2 (L))
 
@@ -4269,17 +4273,17 @@ Repeal.
 
 Long Title: omit ""**Waitemata City**"" and substitute ""**Auckland**"".
 
-Definition of _Council_ in [section 2][528]: repeal and substitute:
+Definition of _Council_ in [section 2][531]: repeal and substitute:
 
 > "_Council_ means the Auckland Council".
 
-Definition of _district_ in [section 2][528]: repeal and substitute:
+Definition of _district_ in [section 2][531]: repeal and substitute:
 
 > "_district_ means Auckland".
 
-[Section 6(1)(a)][529]: omit ""the City of Waitemata"" and substitute ""Auckland"".
+[Section 6(1)(a)][532]: omit ""the City of Waitemata"" and substitute ""Auckland"".
 
-[Section 16][530]: omit ""the district of the Council"" in each place where it appears and substitute in each case ""Auckland"".
+[Section 16][533]: omit ""the district of the Council"" in each place where it appears and substitute in each case ""Auckland"".
 
 ##### Waitemata County Council Empowering Act 1966 (1966 No 21 (L))
 
@@ -4287,34 +4291,34 @@ Repeal.
 
 ##### Waitemata County Council Empowering Act 1971 (1971 No 7 (L))
 
-Definition of _Corporation_ in [section 2][531]: repeal and substitute:
+Definition of _Corporation_ in [section 2][534]: repeal and substitute:
 
 > "_Corporation_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-Definition of _Council_ in [section 2][531]: repeal and substitute:
+Definition of _Council_ in [section 2][534]: repeal and substitute:
 
 > "_Council_ means the Auckland Council established by section 6(1) of the Local Government (Auckland Council) Act 2009".
 
-[Heading to section 5][532]: omit ""**Waitemata County**"" and substitute ""**Auckland**"".
+[Heading to section 5][535]: omit ""**Waitemata County**"" and substitute ""**Auckland**"".
 
-[Section 5(1)][532]: omit ""district of the County of Waitemata"" and substitute ""Auckland"".
+[Section 5(1)][535]: omit ""district of the County of Waitemata"" and substitute ""Auckland"".
 
-[Section 5(2)][532]: omit ""County Clerk or other responsible officer of the County Council"" and substitute ""chief executive or other responsible officer of the Council"".
+[Section 5(2)][535]: omit ""County Clerk or other responsible officer of the County Council"" and substitute ""chief executive or other responsible officer of the Council"".
 
 ## Part 3  
 Amendments to and revocations of regulations
 
 ##### Airport Authorities (Auckland City Council) Order 2006 (SR 2006/195)
 
-[Clause 1][533]: omit ""City"".
+[Clause 1][536]: omit ""City"".
 
-[Clause 3][534]: omit ""City"".
+[Clause 3][537]: omit ""City"".
 
 ##### Auckland International Airport By-laws Approval Order 1989 (SR 1989/369)
 
-[Clause 57(1) of the Schedule][535]: omit ""City of Manukau"" and substitute ""Auckland Council"".
+[Clause 57(1) of the Schedule][538]: omit ""City of Manukau"" and substitute ""Auckland Council"".
 
-[Clause 57(2) of the Schedule][535]: omit ""from the Manukau City Council"" and substitute ""under any fire code that applies to the airport"".
+[Clause 57(2) of the Schedule][538]: omit ""from the Manukau City Council"" and substitute ""under any fire code that applies to the airport"".
 
 ##### Citizenship Regulations 2002 (SR 2002/73)
 
@@ -4356,7 +4360,7 @@ Revoke.
 
 ##### Sentencing (Orders of Reparation) Order 2006 (SR 2006/263)
 
-[Schedule][536]: omit the item relating to the Auckland Metropolitan Drainage Act 1960\.
+[Schedule][539]: omit the item relating to the Auckland Metropolitan Drainage Act 1960\.
 
 ---
 
@@ -4374,23 +4378,23 @@ Revoke.
 
 ###### 1 General
     
-*   This is a reprint of the Local Government (Auckland Transitional Provisions) Act 2010\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Local Government (Auckland Transitional Provisions) Act 2010\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][537] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][540] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][538] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][541] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][539] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][542] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][540] and [17E][541] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][543] and [17E][544] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4421,13 +4425,15 @@ Revoke.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Local Government (Auckland Transitional Provisions) Amendment Act 2012][542] (2012 No 109)
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][239]
+    
+    [Local Government (Auckland Transitional Provisions) Amendment Act 2012][545] (2012 No 109)
     
     Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][179]
     
     Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [sections 27(4)][36], [96(6)][136]
     
-    Taxation GST and Remedial Matters Act 2010 (2010 No 130): [section 186][276]
+    Taxation GST and Remedial Matters Act 2010 (2010 No 130): [section 186][279]
     
     Local Government Act 2002 Amendment Act 2010 (2010 No 124): [section 50][181]
     
@@ -4675,308 +4681,311 @@ Revoke.
 [235]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM415531
 [236]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1154635
 [237]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM173412
-[238]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM173454
-[239]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM435637
-[240]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM233006
-[241]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM307390
-[242]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM306035
-[243]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM308255
-[244]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM149788
-[245]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM150711
-[246]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM150713
-[247]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM442946
-[248]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM443294
-[249]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM233822
-[250]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236292
-[251]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236295
-[252]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236280
-[253]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236206
-[254]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM226229
-[255]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM416613
-[256]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM416615
-[257]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM416620
-[258]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076097
-[259]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301395
-[260]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301326
-[261]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301320
-[262]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227127
-[263]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1474985
-[264]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM300977
-[265]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM348353
-[266]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1522997
-[267]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1512414
-[268]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1517715
-[269]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301345
-[270]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM385591
-[271]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM300913
-[272]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3048870
-[273]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1520575
-[274]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3048800
-[275]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3048801
-[276]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3123607
-[277]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1154619
-[278]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2044548
-[279]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM999800
-[280]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1235825
-[281]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1235823
-[282]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1154603
-[283]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1235826
-[284]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2044937
-[285]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM175662
-[286]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83369
-[287]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119384
-[288]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140000
-[289]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83612
-[290]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83375
-[291]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119392
-[292]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140010
-[293]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM172347
-[294]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1154599
-[295]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM173855
-[296]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59172
-[297]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM378371
-[298]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2044552
-[299]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59161
-[300]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1867204
-[301]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59142
-[302]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58316
-[303]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58676
-[304]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59113
-[305]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM171482
-[306]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58546
-[307]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59260
-[308]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59262
-[309]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59264
-[310]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59266
-[311]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59269
-[312]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM81045
-[313]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM175425
-[314]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM53153
-[315]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM53167
-[316]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM226238
-[317]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227138
-[318]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227153
-[319]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227160
-[320]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227164
-[321]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227168
-[322]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227169
-[323]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227170
-[324]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471085
-[325]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471087
-[326]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471088
-[327]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471089
-[328]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471090
-[329]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471453
-[330]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227193
-[331]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227502
-[332]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227525
-[333]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227534
-[334]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472424
-[335]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472447
-[336]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472469
-[337]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472472
-[338]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472474
-[339]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472475
-[340]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472480
-[341]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228002
-[342]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228004
-[343]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228008
-[344]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228010
-[345]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228011
-[346]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228023
-[347]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228055
-[348]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228058
-[349]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228060
-[350]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228062
-[351]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM33087
-[352]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM94762
-[353]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM95311
-[354]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM424331
-[355]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425021
-[356]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425024
-[357]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425032
-[358]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425581
-[359]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM261841
-[360]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM261858
-[361]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM261888
-[362]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM170881
-[363]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM171831
-[364]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174012
-[365]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174014
-[366]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174246
-[367]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174259
-[368]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174261
-[369]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM123625
-[370]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM338416
-[371]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM381157
-[372]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM431685
-[373]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252362
-[374]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252381
-[375]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252382
-[376]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252384
-[377]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252385
-[378]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252387
-[379]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252392
-[380]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM88987
-[381]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1179946
-[382]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180034
-[383]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180037
-[384]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180039
-[385]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465944
-[386]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465948
-[387]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465952
-[388]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465954
-[389]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180111
-[390]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1599068
-[391]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM427725
-[392]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM275616
-[393]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM232593
-[394]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM233000
-[395]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39159
-[396]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39164
-[397]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39165
-[398]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39168
-[399]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39170
-[400]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39171
-[401]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39172
-[402]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43614
-[403]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43622
-[404]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43624
-[405]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43625
-[406]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43629
-[407]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43630
-[408]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43632
-[409]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM47860
-[410]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM47862
-[411]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM84226
-[412]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM71795
-[413]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM82698
-[414]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM80162
-[415]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48591
-[416]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48592
-[417]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48593
-[418]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48596
-[419]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48597
-[420]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32730
-[421]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32731
-[422]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32735
-[423]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32736
-[424]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM30625
-[425]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43600
-[426]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43601
-[427]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM66189
-[428]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM66710
-[429]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM79716
-[430]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM65800
-[431]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM65810
-[432]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM65818
-[433]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM68754
-[434]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140009
-[435]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140130
-[436]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140133
-[437]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140065
-[438]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140066
-[439]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140068
-[440]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140069
-[441]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140070
-[442]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140071
-[443]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140072
-[444]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140075
-[445]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140081
-[446]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140082
-[447]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140083
-[448]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140084
-[449]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140085
-[450]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140086
-[451]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140088
-[452]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140097
-[453]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140103
-[454]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140105
-[455]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140110
-[456]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140111
-[457]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140113
-[458]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140114
-[459]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140116
-[460]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140122
-[461]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140124
-[462]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140126
-[463]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83603
-[464]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83604
-[465]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83606
-[466]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83611
-[467]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83617
-[468]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83623
-[469]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83625
-[470]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83633
-[471]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83634
-[472]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83635
-[473]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83640
-[474]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM87762
-[475]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77353
-[476]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77362
-[477]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77363
-[478]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77364
-[479]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77365
-[480]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77366
-[481]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77367
-[482]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77368
-[483]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77369
-[484]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77371
-[485]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77372
-[486]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77373
-[487]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77374
-[488]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119812
-[489]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119813
-[490]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119814
-[491]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119820
-[492]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119823
-[493]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119829
-[494]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119830
-[495]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119837
-[496]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119838
-[497]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119844
-[498]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM75324
-[499]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73228
-[500]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73241
-[501]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73260
-[502]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73266
-[503]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73274
-[504]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58539
-[505]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58543
-[506]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58544
-[507]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076044
-[508]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076045
-[509]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076074
-[510]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076080
-[511]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076082
-[512]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076084
-[513]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076087
-[514]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076095
-[515]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076101
-[516]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076102
-[517]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076103
-[518]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076106
-[519]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076107
-[520]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076110
-[521]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076111
-[522]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076112
-[523]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076113
-[524]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076115
-[525]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076117
-[526]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1206101
-[527]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076124
-[528]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM74700
-[529]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM74714
-[530]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM74724
-[531]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM68240
-[532]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM68247
-[533]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM397473
-[534]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM397475
-[535]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2763901
-[536]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM406640
-[537]: http://www.pco.parliament.govt.nz/reprints/
-[538]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM195439
-[539]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[540]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM195468
-[541]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM195470
-[542]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM4990505
+[238]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM5285467
+[239]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM4663359
+[240]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM173454
+[241]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM435637
+[242]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM233006
+[243]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM307390
+[244]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM306035
+[245]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM308255
+[246]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM149788
+[247]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM150711
+[248]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM150713
+[249]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM442946
+[250]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM443294
+[251]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM233822
+[252]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236292
+[253]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236295
+[254]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236280
+[255]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM236206
+[256]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM226229
+[257]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM416613
+[258]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3338659
+[259]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM416615
+[260]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM416620
+[261]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076097
+[262]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301395
+[263]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301326
+[264]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301320
+[265]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227127
+[266]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1474985
+[267]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM300977
+[268]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM348353
+[269]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1522997
+[270]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1512414
+[271]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1517715
+[272]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM301345
+[273]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM385591
+[274]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM300913
+[275]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3048870
+[276]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1520575
+[277]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3048800
+[278]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3048801
+[279]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM3123607
+[280]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1154619
+[281]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2044548
+[282]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM999800
+[283]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1235825
+[284]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1235823
+[285]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1154603
+[286]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1235826
+[287]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2044937
+[288]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM175662
+[289]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83369
+[290]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119384
+[291]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140000
+[292]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83612
+[293]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83375
+[294]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119392
+[295]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140010
+[296]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM172347
+[297]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1154599
+[298]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM173855
+[299]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59172
+[300]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM378371
+[301]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2044552
+[302]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59161
+[303]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1867204
+[304]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59142
+[305]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58316
+[306]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58676
+[307]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59113
+[308]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM171482
+[309]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58546
+[310]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59260
+[311]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59262
+[312]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59264
+[313]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59266
+[314]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM59269
+[315]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM81045
+[316]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM175425
+[317]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM53153
+[318]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM53167
+[319]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM226238
+[320]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227138
+[321]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227153
+[322]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227160
+[323]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227164
+[324]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227168
+[325]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227169
+[326]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227170
+[327]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471085
+[328]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471087
+[329]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471088
+[330]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471089
+[331]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471090
+[332]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1471453
+[333]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227193
+[334]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227502
+[335]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227525
+[336]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM227534
+[337]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472424
+[338]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472447
+[339]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472469
+[340]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472472
+[341]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472474
+[342]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472475
+[343]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1472480
+[344]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228002
+[345]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228004
+[346]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228008
+[347]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228010
+[348]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228011
+[349]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228023
+[350]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228055
+[351]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228058
+[352]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228060
+[353]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM228062
+[354]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM33087
+[355]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM94762
+[356]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM95311
+[357]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM424331
+[358]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425021
+[359]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425024
+[360]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425032
+[361]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM425581
+[362]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM261841
+[363]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM261858
+[364]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM261888
+[365]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM170881
+[366]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM171831
+[367]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174012
+[368]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174014
+[369]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174246
+[370]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174259
+[371]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM174261
+[372]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM123625
+[373]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM338416
+[374]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM381157
+[375]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM431685
+[376]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252362
+[377]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252381
+[378]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252382
+[379]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252384
+[380]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252385
+[381]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252387
+[382]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM252392
+[383]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM88987
+[384]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1179946
+[385]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180034
+[386]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180037
+[387]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180039
+[388]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465944
+[389]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465948
+[390]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465952
+[391]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1465954
+[392]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1180111
+[393]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1599068
+[394]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM427725
+[395]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM275616
+[396]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM232593
+[397]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM233000
+[398]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39159
+[399]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39164
+[400]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39165
+[401]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39168
+[402]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39170
+[403]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39171
+[404]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM39172
+[405]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43614
+[406]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43622
+[407]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43624
+[408]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43625
+[409]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43629
+[410]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43630
+[411]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43632
+[412]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM47860
+[413]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM47862
+[414]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM84226
+[415]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM71795
+[416]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM82698
+[417]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM80162
+[418]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48591
+[419]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48592
+[420]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48593
+[421]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48596
+[422]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM48597
+[423]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32730
+[424]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32731
+[425]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32735
+[426]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM32736
+[427]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM30625
+[428]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43600
+[429]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM43601
+[430]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM66189
+[431]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM66710
+[432]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM79716
+[433]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM65800
+[434]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM65810
+[435]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM65818
+[436]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM68754
+[437]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140009
+[438]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140130
+[439]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140133
+[440]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140065
+[441]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140066
+[442]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140068
+[443]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140069
+[444]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140070
+[445]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140071
+[446]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140072
+[447]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140075
+[448]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140081
+[449]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140082
+[450]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140083
+[451]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140084
+[452]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140085
+[453]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140086
+[454]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140088
+[455]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140097
+[456]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140103
+[457]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140105
+[458]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140110
+[459]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140111
+[460]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140113
+[461]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140114
+[462]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140116
+[463]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140122
+[464]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140124
+[465]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1140126
+[466]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83603
+[467]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83604
+[468]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83606
+[469]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83611
+[470]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83617
+[471]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83623
+[472]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83625
+[473]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83633
+[474]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83634
+[475]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83635
+[476]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM83640
+[477]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM87762
+[478]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77353
+[479]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77362
+[480]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77363
+[481]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77364
+[482]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77365
+[483]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77366
+[484]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77367
+[485]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77368
+[486]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77369
+[487]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77371
+[488]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77372
+[489]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77373
+[490]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM77374
+[491]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119812
+[492]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119813
+[493]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119814
+[494]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119820
+[495]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119823
+[496]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119829
+[497]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119830
+[498]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119837
+[499]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119838
+[500]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM119844
+[501]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM75324
+[502]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73228
+[503]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73241
+[504]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73260
+[505]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73266
+[506]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM73274
+[507]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58539
+[508]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58543
+[509]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM58544
+[510]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076044
+[511]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076045
+[512]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076074
+[513]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076080
+[514]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076082
+[515]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076084
+[516]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076087
+[517]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076095
+[518]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076101
+[519]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076102
+[520]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076103
+[521]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076106
+[522]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076107
+[523]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076110
+[524]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076111
+[525]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076112
+[526]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076113
+[527]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076115
+[528]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076117
+[529]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1206101
+[530]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM1076124
+[531]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM74700
+[532]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM74714
+[533]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM74724
+[534]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM68240
+[535]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM68247
+[536]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM397473
+[537]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM397475
+[538]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM2763901
+[539]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM406640
+[540]: http://www.pco.parliament.govt.nz/reprints/
+[541]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM195439
+[542]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[543]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM195468
+[544]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM195470
+[545]: http://www.legislation.govt.nz/act/public/2010/0037/latest/link.aspx?id=DLM4990505
