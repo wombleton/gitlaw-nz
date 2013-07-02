@@ -1,5 +1,5 @@
 Reprint  
-as at 31 October 2011
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,152 +17,152 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purpose and overview][4]
+[3][4][][4][Purpose and overview][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
 [Limitations to application of this Act and certain other Acts][6]
 
-[5][7] [Limits to application of this Act][7]
+[5][7][][7][Limits to application of this Act][7]
 
-[6][8] [Limits to application of Building Act 2004][8]
+[6][8][][8][Limits to application of Building Act 2004][8]
 
-[7][9] [Application for status as major maritime event in relation to certain ancillary events][9]
+[7][9][][9][Application for status as major maritime event in relation to certain ancillary events][9]
 
-[8][10] [Act binds the Crown][10]
+[8][10][][10][Act binds the Crown][10]
 
-[9][11] [Expiry][11]
+[9][11][][11][Expiry][11]
 
 [Part 2][12]  
 [Establishment of Rugby World Cup Authority][12]
 
 [Authority to be established][13]
 
-[10][14] [Establishment of Authority][14]
+[10][14][][14][Establishment of Authority][14]
 
-[11][15] [Functions of Authority][15]
+[11][15][][15][Functions of Authority][15]
 
-[12][16] [Powers of Authority][16]
+[12][16][][16][Powers of Authority][16]
 
-[13][17] [Membership of Authority][17]
+[13][17][][17][Membership of Authority][17]
 
-[14][18] [Chairperson to appoint panels to determine proceedings][18]
+[14][18][][18][Chairperson to appoint panels to determine proceedings][18]
 
-[15][19] [Dissolution of Authority][19]
+[15][19][][19][Dissolution of Authority][19]
 
-[16][20] [Further provisions applying to Authority][20]
+[16][20][][20][Further provisions applying to Authority][20]
 
 [Administrative secretariat][21]
 
-[17][22] [Administrative secretariat to support Authority][22]
+[17][22][][22][Administrative secretariat to support Authority][22]
 
-[18][23] [Deposit to be paid to administrative secretariat][23]
+[18][23][][23][Deposit to be paid to administrative secretariat][23]
 
 [Part 3][24]  
 [Approvals and declarations][24]
 
-[Subpart 1][25]---[Applications to Authority][25]
+[Subpart 1][25][---][25][Applications to Authority][25]
 
-[19][26] [Applications for approvals, declarations, and changes to conditions][26]
+[19][26][][26][Applications for approvals, declarations, and changes to conditions][26]
 
-[20][27] [Applications relating to test events][27]
+[20][27][][27][Applications relating to test events][27]
 
-[21][28] [Method of making application][28]
+[21][28][][28][Method of making application][28]
 
-[22][29] [Information to be supplied with applications for approvals and declarations][29]
+[22][29][][29][Information to be supplied with applications for approvals and declarations][29]
 
-[23][30] [Information to be supplied with applications for test approvals or declarations][30]
+[23][30][][30][Information to be supplied with applications for test approvals or declarations][30]
 
 [Overlapping applications][31]
 
-[24][32] [Procedure in event of overlapping applications to both statutory person or body and Authority for same activity][32]
+[24][32][][32][Procedure in event of overlapping applications to both statutory person or body and Authority for same activity][32]
 
-[Subpart 2][33]---[Jurisdiction, public notification, and making of submissions][33]
+[Subpart 2][33][---][33][Jurisdiction, public notification, and making of submissions][33]
 
 [Preliminary question of jurisdiction][34]
 
-[25][35] [Preliminary consideration of applications][35]
+[25][35][][35][Preliminary consideration of applications][35]
 
-[26][36] [Preliminary consideration of applications relating to tournament venues][36]
+[26][36][][36][Preliminary consideration of applications relating to tournament venues][36]
 
-[27][37] [Notice of preliminary decision][37]
+[27][37][][37][Notice of preliminary decision][37]
 
 [Notification of applications][38]
 
-[28][39] [Authority must give public notice of applications][39]
+[28][39][][39][Authority must give public notice of applications][39]
 
-[29][40] [Contents of public notice ][40]
+[29][40][][40][Contents of public notice ][40]
 
 [Standing to make submissions][41]
 
-[30][42] [Submissions][42]
+[30][42][][42][Submissions][42]
 
-[31][43] [Determination of affected person status][43]
+[31][43][][43][Determination of affected person status][43]
 
-[Subpart 3][44]---[Hearing and determination of applications][44]
+[Subpart 3][44][---][44][Hearing and determination of applications][44]
 
 [Hearing][45]
 
-[32][46] [Persons with right to be heard][46]
+[32][46][][46][Persons with right to be heard][46]
 
-[33][47] [Commencement of any hearing][47]
+[33][47][][47][Commencement of any hearing][47]
 
 [Determination of applications][48]
 
-[34][49] [Determination of applications for approvals][49]
+[34][49][][49][Determination of applications for approvals][49]
 
-[35][50] [Determination of applications for declarations][50]
+[35][50][][50][Determination of applications for declarations][50]
 
-[36][51] [Determination of whether adverse effects are more than minor ][51]
+[36][51][][51][Determination of whether adverse effects are more than minor ][51]
 
-[37][52] [Notice of determination][52]
+[37][52][][52][Notice of determination][52]
 
-[Subpart 4][53]---[Further provisions applying to approvals and declarations][53]
+[Subpart 4][53][---][53][Further provisions applying to approvals and declarations][53]
 
-[38][54] [Commencement of approvals and declarations][54]
+[38][54][][54][Commencement of approvals and declarations][54]
 
-[39][55] [Expiry of approvals and declarations ][55]
+[39][55][][55][Expiry of approvals and declarations ][55]
 
-[40][56] [Effect of approvals and declarations by Authority under this subpart][56]
+[40][56][][56][Effect of approvals and declarations by Authority under this subpart][56]
 
-[41][57] [Continuing effect of approvals after expiry][57]
+[41][57][][57][Continuing effect of approvals after expiry][57]
 
-[Subpart 5][58]---[Enforcement][58]
+[Subpart 5][58][---][58][Enforcement][58]
 
-[42][59] [Monitoring and enforcement under this Part][59]
+[42][59][][59][Monitoring and enforcement under this Part][59]
 
 [Enforcement by interim injunctive orders][60]
 
-[43][61] [Applications for interim injunctive orders][61]
+[43][61][][61][Applications for interim injunctive orders][61]
 
-[44][62] [Making of interim injunctive orders][62]
+[44][62][][62][Making of interim injunctive orders][62]
 
-[45][63] [Procedure in relation to interim injunctive orders][63]
+[45][63][][63][Procedure in relation to interim injunctive orders][63]
 
-[46][64] [Effect and duration of interim injunctive orders][64]
+[46][64][][64][Effect and duration of interim injunctive orders][64]
 
 [Offences and penalties][65]
 
-[47][66] [Offences and penalties][66]
+[47][66][][66][Offences and penalties][66]
 
-[Subpart 6][67]---[Appeal rights][67]
+[Subpart 6][67][---][67][Appeal rights][67]
 
 [Right of appeal on question of law only ][68]
 
-[48][69] [Appeals][69]
+[48][69][][69][Appeals][69]
 
 [Part 4][70]  
 [Procedures available in circumstances of urgency][70]
@@ -171,185 +171,227 @@ This Act is administered by the Ministry of Economic Development.
 
 [Purpose][71]
 
-[49][72] [Purpose of this Part][72] \[Expired\]
+\[Expired\]
 
-[Subpart 1][73]---[Declarations of status as Rugby World Cup permitted activity and grant of urgent approvals][73]
+[49][72][][72][Purpose of this Part][72] \[Expired\]
+
+[Subpart 1][73][---][73][Declarations of status as Rugby World Cup permitted activity and grant of urgent approvals][73]
 
 \[Expired\]
 
 [Applications][74]
 
-[50][75] [Applications for recommendation of Authority][75] \[Expired\]
+\[Expired\]
+
+[50][75][][75][Applications for recommendation of Authority][75] \[Expired\]
 
 [Declaration of status as Rugby World Cup permitted activity][76]
 
-[51][77] [Matters relevant to determination of application][77] \[Expired\]
+\[Expired\]
 
-[52][78] [Power to declare Rugby World Cup permitted activities][78] \[Expired\]
+[51][77][][77][Matters relevant to determination of application][77] \[Expired\]
 
-[53][79] [Contents of regulations][79] \[Expired\]
+[52][78][][78][Power to declare Rugby World Cup permitted activities][78] \[Expired\]
+
+[53][79][][79][Contents of regulations][79] \[Expired\]
 
 [Grant of urgent approvals][80]
 
-[54][81] [Recommendation of Authority][81] \[Expired\]
+\[Expired\]
 
-[55][82] [Granting of urgent approvals ][82] \[Expired\]
+[54][81][][81][Recommendation of Authority][81] \[Expired\]
 
-[Subpart 2][83]---[Miscellaneous provisions][83]
+[55][82][][82][Granting of urgent approvals ][82] \[Expired\]
+
+[Subpart 2][83][---][83][Miscellaneous provisions][83]
 
 \[Expired\]
 
 [Effect of regulations][84]
 
-[56][85] [Effect of declaration made by Order in Council][85] \[Expired\]
+\[Expired\]
+
+[56][85][][85][Effect of declaration made by Order in Council][85] \[Expired\]
 
 [Effect of urgent approval][86]
 
-[57][87] [Effect of urgent approval granted by Minister][87] \[Expired\]
+\[Expired\]
+
+[57][87][][87][Effect of urgent approval granted by Minister][87] \[Expired\]
 
 [Monitoring, enforcement, and appeal rights][88]
 
-[58][89] [Monitoring, enforcement, and appeals][89] \[Expired\]
+\[Expired\]
+
+[58][89][][89][Monitoring, enforcement, and appeals][89] \[Expired\]
 
 [Offences and penalties][90]
 
-[59][91] [Offences and penalties][91] \[Expired\]
+\[Expired\]
+
+[59][91][][91][Offences and penalties][91] \[Expired\]
 
 [Part 5][92]  
 [Rugby World Cup liquor licences][92]
 
 \[Expired\]
 
-[Subpart 1][93]---[Preliminary matters][93]
+[Subpart 1][93][---][93][Preliminary matters][93]
 
 \[Expired\]
 
-[60][94] [Purpose][94] \[Expired\]
+[60][94][][94][Purpose][94] \[Expired\]
 
-[61][95] [Interpretation][95] \[Expired\]
+[61][95][][95][Interpretation][95] \[Expired\]
 
-[Subpart 2][96]---[Rugby World Cup liquor licensing scheme][96]
+[Subpart 2][96][---][96][Rugby World Cup liquor licensing scheme][96]
 
 \[Expired\]
 
 [Purpose and scope][97]
 
-[62][98] [Purpose and scope of Rugby World Cup liquor licence][98] \[Expired\]
+\[Expired\]
+
+[62][98][][98][Purpose and scope of Rugby World Cup liquor licence][98] \[Expired\]
 
 [Applications for Rugby World Cup liquor licences][99]
 
-[63][100] [Who may apply for and hold Rugby World Cup liquor licence][100] \[Expired\]
+\[Expired\]
 
-[64][101] [Applications for Rugby World Cup liquor licences][101] \[Expired\]
+[63][100][][100][Who may apply for and hold Rugby World Cup liquor licence][100] \[Expired\]
 
-[65][102] [Applications under this Part and Part 3 for same activity or approval][102] \[Expired\]
+[64][101][][101][Applications for Rugby World Cup liquor licences][101] \[Expired\]
 
-[66][103] [Applications relating to specified geographic locations][103] \[Expired\]
+[65][102][][102][Applications under this Part and Part 3 for same activity or approval][102] \[Expired\]
 
-[67][104] [Reports to Authority][104] \[Expired\]
+[66][103][][103][Applications relating to specified geographic locations][103] \[Expired\]
+
+[67][104][][104][Reports to Authority][104] \[Expired\]
 
 [Notice][105]
 
-[68][106] [Public notice of applications ][106] \[Expired\]
+\[Expired\]
+
+[68][106][][106][Public notice of applications ][106] \[Expired\]
 
 [Matters relevant to determining applications][107]
 
-[69][108] [Matters relevant to objections and determinations][108] \[Expired\]
+\[Expired\]
+
+[69][108][][108][Matters relevant to objections and determinations][108] \[Expired\]
 
 [Who may object][109]
 
-[70][110] [Objections][110]
+\[Expired\]
+
+[70][110][][110][Objections][110]
 
 [Decisions on applications][111]
 
-[71][112] [Grant of unopposed applications without hearing][112] \[Expired\]
+\[Expired\]
 
-[72][113] [Hearing in case of opposed licence][113] \[Expired\]
+[71][112][][112][Grant of unopposed applications without hearing][112] \[Expired\]
 
-[73][114] [Right to appear and be heard ][114] \[Expired\]
+[72][113][][113][Hearing in case of opposed licence][113] \[Expired\]
 
-[74][115] [Decision on papers][115] \[Expired\]
+[73][114][][114][Right to appear and be heard ][114] \[Expired\]
 
-[75][116] [Decision if hearing held][116] \[Expired\]
+[74][115][][115][Decision on papers][115] \[Expired\]
+
+[75][116][][116][Decision if hearing held][116] \[Expired\]
 
 [Licences issued][117]
 
-[76][118] [Issue of licence][118] \[Expired\]
+\[Expired\]
 
-[Subpart 3][119]---[Conditions of Rugby World Cup liquor licences][119]
+[76][118][][118][Issue of licence][118] \[Expired\]
+
+[Subpart 3][119][---][119][Conditions of Rugby World Cup liquor licences][119]
 
 \[Expired\]
 
-[77][120] [Conditions applying to all licences][120] \[Expired\]
+[77][120][][120][Conditions applying to all licences][120] \[Expired\]
 
-[78][121] [Other conditions of licences][121] \[Expired\]
+[78][121][][121][Other conditions of licences][121] \[Expired\]
 
-[79][122] [Licences under this Part not to affect limitations under Gambling Act 2003][122] \[Expired\]
+[79][122][][122][Licences under this Part not to affect limitations under Gambling Act 2003][122] \[Expired\]
 
-[Subpart 4][123]---[Management ][123]
+[Subpart 4][123][---][123][Management ][123]
 
 \[Expired\]
 
-[80][124] [Responsibility for management and compliance][124] \[Expired\]
+[80][124][][124][Responsibility for management and compliance][124] \[Expired\]
 
-[81][125] [Further application of Sale of Liquor Act 1989][125] \[Expired\]
+[81][125][][125][Further application of Sale of Liquor Act 1989][125] \[Expired\]
 
-[Subpart 5][126]---[Enforcement, offences, penalties, and appeal rights][126]
+[Subpart 5][126][---][126][Enforcement, offences, penalties, and appeal rights][126]
 
 \[Expired\]
 
 [Enforcement][127]
 
-[82][128] [Powers of inspectors and constables in relation to licensed premises or areas][128] \[Expired\]
+\[Expired\]
 
-[83][129] [Variation, suspension, or cancellation of licence][129] \[Expired\]
+[82][128][][128][Powers of inspectors and constables in relation to licensed premises or areas][128] \[Expired\]
 
-[84][130] [Suspension or cancellation of licence without notice][130] \[Expired\]
+[83][129][][129][Variation, suspension, or cancellation of licence][129] \[Expired\]
 
-[85][131] [Suspension of licence for public health or fire precaution requirements][131] \[Expired\]
+[84][130][][130][Suspension or cancellation of licence without notice][130] \[Expired\]
+
+[85][131][][131][Suspension of licence for public health or fire precaution requirements][131] \[Expired\]
 
 [Enforcement of manager's certificate][132]
 
-[86][133] [Suspension or cancellation of manager's certificate][133] \[Expired\]
+\[Expired\]
+
+[86][133][][133][Suspension or cancellation of manager's certificate][133] \[Expired\]
 
 [Offences and penalties][134]
 
-[87][135] [Offence of licensee in respect of manager][135] \[Expired\]
+\[Expired\]
 
-[88][136] [Offences by licensee or manager ][136] \[Expired\]
+[87][135][][135][Offence of licensee in respect of manager][135] \[Expired\]
 
-[89][137] [Offences by persons other than licensee or manager][137] \[Expired\]
+[88][136][][136][Offences by licensee or manager ][136] \[Expired\]
 
-[90][138] [Matters of evidence][138] \[Expired\]
+[89][137][][137][Offences by persons other than licensee or manager][137] \[Expired\]
 
-[91][139] [Other provisions applying to offences and penalties under this Part][139] \[Expired\]
+[90][138][][138][Matters of evidence][138] \[Expired\]
+
+[91][139][][139][Other provisions applying to offences and penalties under this Part][139] \[Expired\]
 
 [Amendment to Sale of Liquor Act 1989][140]
 
-[92][141] [Amendment to Sale of Liquor Act 1989][141] \[Expired\]
+\[Expired\]
+
+[92][141][][141][Amendment to Sale of Liquor Act 1989][141] \[Expired\]
 
 [Infringement offences][142]
 
-[93][143] [Infringement offences under this Part][143] \[Expired\]
+\[Expired\]
+
+[93][143][][143][Infringement offences under this Part][143] \[Expired\]
 
 [Right of appeal on questions of law only][144]
 
-[94][145] [Appeal][145] \[Expired\]
+\[Expired\]
+
+[94][145][][145][Appeal][145] \[Expired\]
 
 [Part 6][146]  
 [Miscellaneous][146]
 
 [Regulations][147]
 
-[95][148] [Regulations][148]
+[95][148][][148][Regulations][148]
 
 [Service][149]
 
-[96][150] [Service of notices and documents][150]
+[96][150][][150][Service of notices and documents][150]
 
 [Consequential amendment][151]
 
-[97][152] [Amendment to Official Information Act 1982][152]
+[97][152][][152][Amendment to Official Information Act 1982][152]
 
 [Schedule 1 ][153]  
 [Further provisions applying to Authority][153]
@@ -572,11 +614,11 @@ Preliminary provisions
     
     *   (e) the [Maritime Transport Act 1994][170]; and
     
-    *   (f) the [Public Transport Management Act 2008][171]; and
+    *   (f) \[Repealed\]
     
     *   (g) the regulations and rules made under any of those Acts.
     
-    
+    Section 5(4)(f): repealed, on 13 June 2013, by [section 72][171] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 6 Limits to application of Building Act 2004
     
@@ -1602,6 +1644,8 @@ Procedures available in circumstances of urgency
 *   Part 4: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Purpose
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1618,6 +1662,8 @@ Procedures available in circumstances of urgency
 *   Subpart 1: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Applications
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1628,6 +1674,8 @@ Procedures available in circumstances of urgency
     Section 50: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Declaration of status as Rugby World Cup permitted activity
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1650,6 +1698,8 @@ Procedures available in circumstances of urgency
     Section 53: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Grant of urgent approvals
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1672,6 +1722,8 @@ Procedures available in circumstances of urgency
 *   Subpart 2: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Effect of regulations
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1682,6 +1734,8 @@ Procedures available in circumstances of urgency
     Section 56: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Effect of urgent approval
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1692,6 +1746,8 @@ Procedures available in circumstances of urgency
     Section 57: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Monitoring, enforcement, and appeal rights
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1702,6 +1758,8 @@ Procedures available in circumstances of urgency
     Section 58: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Offences and penalties
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1743,6 +1801,8 @@ Rugby World Cup liquor licences
 *   Subpart 2: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Purpose and scope
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1753,6 +1813,8 @@ Rugby World Cup liquor licences
     Section 62: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Applications for Rugby World Cup liquor licences
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1787,6 +1849,8 @@ Rugby World Cup liquor licences
     Section 67: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Notice
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1797,6 +1861,8 @@ Rugby World Cup liquor licences
     Section 68: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Matters relevant to determining applications
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1807,6 +1873,8 @@ Rugby World Cup liquor licences
     Section 69: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Who may object
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1815,6 +1883,8 @@ Rugby World Cup liquor licences
 *   Section 70: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Decisions on applications
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1849,6 +1919,8 @@ Rugby World Cup liquor licences
     Section 75: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Licences issued
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1907,6 +1979,8 @@ Rugby World Cup liquor licences
 *   Subpart 5: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Enforcement
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1935,6 +2009,8 @@ Rugby World Cup liquor licences
     Section 85: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Enforcement of manager's certificate
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1945,6 +2021,8 @@ Rugby World Cup liquor licences
     Section 86: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Offences and penalties
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1979,6 +2057,8 @@ Rugby World Cup liquor licences
     Section 91: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Amendment to Sale of Liquor Act 1989
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1989,6 +2069,8 @@ Rugby World Cup liquor licences
     Section 92: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Infringement offences
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -1999,6 +2081,8 @@ Rugby World Cup liquor licences
     Section 93: expired, on 31 October 2011, by [section 9(1)][11].
 
 #### Right of appeal on questions of law only
+
+\[Expired\]
     
 *   Heading: expired, on 31 October 2011, by [section 9(1)][11].
 
@@ -2397,7 +2481,7 @@ Further provisions relating to appeal procedure
 
 ###### 1 General
     
-*   This is a reprint of the Rugby World Cup 2011 (Empowering) Act 2010\. The reprint incorporates all the amendments to the Act as at 31 October 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Rugby World Cup 2011 (Empowering) Act 2010\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][190] ![](/images/external_link.gif).
 
@@ -2409,7 +2493,7 @@ Further provisions relating to appeal procedure
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][192] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][192] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
@@ -2444,7 +2528,9 @@ Further provisions relating to appeal procedure
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123): [section 9(1)][11]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][171]
+    
+    Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123): [section 9(1)][11]
 
 
 
@@ -2619,7 +2705,7 @@ Further provisions relating to appeal procedure
 [168]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM226229
 [169]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM241098
 [170]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM334659
-[171]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM1179938
+[171]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM4663359
 [172]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM306879
 [173]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM306880
 [174]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM306054
