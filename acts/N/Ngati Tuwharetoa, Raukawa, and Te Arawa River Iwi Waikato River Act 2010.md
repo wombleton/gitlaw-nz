@@ -1,7 +1,7 @@
 Reprint  
-as at 25 November 2010
+as at 13 June 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010Public Act2010 No 119
 
@@ -23,166 +23,166 @@ This Act is administered by the Office of Treaty Settlements.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Overarching purpose of Act][4]
+[3][4][][4][Overarching purpose of Act][4]
 
-[4][5] [Purpose of Act][5]
+[4][5][][5][Purpose of Act][5]
 
-[5][6] [Guiding principles of interpretation][6]
+[5][6][][6][Guiding principles of interpretation][6]
 
-[6][7] [How this Act applies to Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi][7]
+[6][7][][7][How this Act applies to Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi][7]
 
-[7][8] [Interpretation][8]
+[7][8][][8][Interpretation][8]
 
-[8][9] [Act binds the Crown][9]
+[8][9][][9][Act binds the Crown][9]
 
 [Part 2][10]  
 [Co-governance of Waikato River][10]
 
-[9][11] [Relationship with Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010][11]
+[9][11][][11][Relationship with Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010][11]
 
 [Recognition of vision and strategy for Waikato River][12]
 
 [Te Ture Whaimana][13]
 
-[10][14] [Scope of vision and strategy][14]
+[10][14][][14][Scope of vision and strategy][14]
 
 [Status][15]
 
-[11][16] [Relationship of sections 12 to 16 with Resource Management Act 1991][16]
+[11][16][][16][Relationship of sections 12 to 16 with Resource Management Act 1991][16]
 
-[12][17] [Vision and strategy is part of Waikato Regional Policy Statement][17]
+[12][17][][17][Vision and strategy is part of Waikato Regional Policy Statement][17]
 
-[13][18] [Effect of vision and strategy on Resource Management Act 1991 planning documents][18]
+[13][18][][18][Effect of vision and strategy on Resource Management Act 1991 planning documents][18]
 
-[14][19] [Updating Resource Management Act 1991 planning documents to conform with reviewed vision and strategy][19]
+[14][19][][19][Updating Resource Management Act 1991 planning documents to conform with reviewed vision and strategy][19]
 
-[15][20] [Effect of vision and strategy on resource consent conditions and designations][20]
+[15][20][][20][Effect of vision and strategy on resource consent conditions and designations][20]
 
-[16][21] [Statement about vision and strategy in Conservation Act 1987 documents and Resource Management Act 1991 planning documents][21]
+[16][21][][21][Statement about vision and strategy in Conservation Act 1987 documents and Resource Management Act 1991 planning documents][21]
 
-[17][22] [Status of vision and strategy for other enactments][22]
+[17][22][][22][Status of vision and strategy for other enactments][22]
 
-[18][23] [Duty to have particular regard to vision and strategy][23]
+[18][23][][23][Duty to have particular regard to vision and strategy][23]
 
 [Reviews][24]
 
-[19][25] [Initial review][25]
+[19][25][][25][Initial review][25]
 
-[20][26] [Subsequent reviews][26]
+[20][26][][26][Subsequent reviews][26]
 
-[21][27] [Purpose and conduct of reviews][27]
+[21][27][][27][Purpose and conduct of reviews][27]
 
 [Amendments][28]
 
-[22][29] [Amendments made by Order in Council][29]
+[22][29][][29][Amendments made by Order in Council][29]
 
 [Establishment of, and granting of functions and powers to, Waikato River Authority][30]
 
-[23][31] [Establishment and purpose of Authority][31]
+[23][31][][31][Establishment and purpose of Authority][31]
 
 [General functions and powers][32]
 
-[24][33] [General functions][33]
+[24][33][][33][General functions][33]
 
-[25][34] [General powers][34]
+[25][34][][34][General powers][34]
 
 [Resource consent functions][35]
 
-[26][36] [Accredited commissioners][36]
+[26][36][][36][Accredited commissioners][36]
 
-[27][37] [Sections 28 to 32 apply to applications for resource consents relating to Waikato River][37]
+[27][37][][37][Sections 28 to 32 apply to applications for resource consents relating to Waikato River][37]
 
-[28][38] [Notice of applications][38]
+[28][38][][38][Notice of applications][38]
 
-[29][39] [Hearing committees][39]
+[29][39][][39][Hearing committees][39]
 
-[30][40] [Call-ins][40]
+[30][40][][40][Call-ins][40]
 
-[31][41] [Section 100A of Resource Management Act 1991][41]
+[31][41][][41][Section 100A of Resource Management Act 1991][41]
 
-[32][42] [Section 147(1)(c) of Resource Management Act 1991][42]
+[32][42][][42][Section 147(1)(c) of Resource Management Act 1991][42]
 
 [Waikato River Clean-up Trust function][43]
 
-[33][44] [Trustee][44]
+[33][44][][44][Trustee][44]
 
 [Administrative provisions][45]
 
-[34][46] [Presentation of annual reports][46]
+[34][46][][46][Presentation of annual reports][46]
 
-[35][47] [Other provisions on Authority][47]
+[35][47][][47][Other provisions on Authority][47]
 
 [Upper Waikato River integrated management plan][48]
 
-[36][49] [Meaning of Upper Waikato River integrated management plan][49]
+[36][49][][49][Meaning of Upper Waikato River integrated management plan][49]
 
-[37][50] [Preparation and approval of plan][50]
+[37][50][][50][Preparation and approval of plan][50]
 
-[38][51] [Effect of components][51]
+[38][51][][51][Effect of components][51]
 
-[39][52] [Review and amendment of plan][52]
+[39][52][][52][Review and amendment of plan][52]
 
-[40][53] [What plan does not do][53]
+[40][53][][53][What plan does not do][53]
 
 [Part 3][54]  
 [Upper Waikato River co-management arrangements][54]
 
 [Environmental plan][55]
 
-[41][56] [Preparation and availability][56]
+[41][56][][56][Preparation and availability][56]
 
-[42][57] [Effect][57]
+[42][57][][57][Effect][57]
 
 [Joint management agreement][58]
 
-[43][59] [Duty to make][59]
+[43][59][][59][Duty to make][59]
 
-[44][60] [Scope][60]
+[44][60][][60][Scope][60]
 
-[45][61] [Contents][61]
+[45][61][][61][Contents][61]
 
-[46][62] [Principles for development and operation][62]
+[46][62][][62][Principles for development and operation][62]
 
-[47][63] [Monitoring and enforcement][63]
+[47][63][][63][Monitoring and enforcement][63]
 
-[48][64] [Preparation, review, change, or variation of Resource Management Act 1991 planning document][64]
+[48][64][][64][Preparation, review, change, or variation of Resource Management Act 1991 planning document][64]
 
-[49][65] [Resource consent process][65]
+[49][65][][65][Resource consent process][65]
 
-[50][66] [Process for finalising][66]
+[50][66][][66][Process for finalising][66]
 
-[51][67] [Suspension][67]
+[51][67][][67][Suspension][67]
 
-[52][68] [Waiver of rights][68]
+[52][68][][68][Waiver of rights][68]
 
-[53][69] [Legal framework][69]
+[53][69][][69][Legal framework][69]
 
-[54][70] [Extension][70]
+[54][70][][70][Extension][70]
 
-[55][71] [Review and amendment][71]
+[55][71][][71][Review and amendment][71]
 
-[56][72] [Other powers not affected][72]
+[56][72][][72][Other powers not affected][72]
 
-[57][73] [Exercise of powers in certain circumstances][73]
+[57][73][][73][Exercise of powers in certain circumstances][73]
 
 [Miscellaneous][74]
 
-[58][75] [Regulations and bylaws][75]
+[58][75][][75][Regulations and bylaws][75]
 
-[59][76] [Limitation on regulations and bylaws][76]
+[59][76][][76][Limitation on regulations and bylaws][76]
 
-[60][77] [Accords][77]
+[60][77][][77][Accords][77]
 
-[61][78] [Rule against perpetuities][78]
+[61][78][][78][Rule against perpetuities][78]
 
-[62][79] [Authority and Trusts: public bodies, entities, and authorities][79]
+[62][79][][79][Authority and Trusts: public bodies, entities, and authorities][79]
 
 [Schedule 1][80]  
 [Vision and strategy for Waikato River][80]
@@ -623,9 +623,11 @@ Co-governance of Waikato River
     
     (13) To the extent to which it affects the Waikato River, a management plan for a foreshore and seabed reserve prepared under [section 44][120] of the Foreshore and Seabed Act 2004 must not be inconsistent with the vision and strategy.
     
-    (14) To the extent to which it affects the Waikato River, a national land transport strategy prepared under [Part 3][121] of the Land Transport Management Act 2003 must take into account the vision and strategy.
+    (14) \[Repealed\]
     
     (15) The vision and strategy prevails over any inconsistent provision in a bylaw made by a local authority, if it is more stringent than the bylaw.
+    
+    Section 17(14): repealed, on 13 June 2013, by [section 72][121] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18 Duty to have particular regard to vision and strategy
     
@@ -2775,7 +2777,7 @@ Upper Waikato River integrated management plan
 
 ###### 1 General
     
-*   This is a reprint of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010\. The reprint incorporates all the amendments to the Act as at 25 November 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][183] ![](/images/external_link.gif).
 
@@ -2822,7 +2824,9 @@ Upper Waikato River integrated management plan
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act and Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act Commencement Order 2010 (SR 2010/379): [clause 2(b)][85]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][121]
+    
+    Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act and Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act Commencement Order 2010 (SR 2010/379): [clause 2(b)][85]
 
 
 
@@ -2947,7 +2951,7 @@ Upper Waikato River integrated management plan
 [118]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM104626
 [119]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM54990
 [120]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM320278
-[121]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM227577
+[121]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM4663359
 [122]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM314622
 [123]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM394191
 [124]: http://www.legislation.govt.nz/act/public/2010/0119/latest/link.aspx?id=DLM255625
