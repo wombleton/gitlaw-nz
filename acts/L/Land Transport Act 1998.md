@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2013
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1180,8 +1180,6 @@ Preliminary provisions
     
     _certificate of loading_ means a certificate of loading issued under the regulations or the rules
     
-    _commercial public transport service_ has the same meaning as in [section 4][511] of the Public Transport Management Act 2008
-    
     _Commissioner_ means the Commissioner of Police
     
     _compulsory impairment test_ means a test, carried out in a manner prescribed by the Minister of Police by notice in the _Gazette_, to determine whether a person's capacity to drive is impaired
@@ -1242,7 +1240,7 @@ Preliminary provisions
     
     *   (d) a local authority, in the case of an infringement offence for which an infringement notice is issued by an employee of the local authority or on behalf of the local authority:
     
-    *   (e) a public road controlling authority that is an enforcement authority for the purposes of an Order in Council made under [section 46][512] of the Land Transport Management Act 2003, in the case of an infringement offence that is a toll offence
+    *   (e) a public road controlling authority that is an enforcement authority for the purposes of an Order in Council made under [section 46][511] of the Land Transport Management Act 2003, in the case of an infringement offence that is a toll offence
     
     _enforcement officer_ means---
         
@@ -1262,13 +1260,13 @@ Preliminary provisions
     
     _fire brigade_ includes---
         
-    *   (a) a volunteer fire brigade, a defence fire brigade, and an industrial fire brigade (as those terms are defined in [section 2][513] of the Fire Service Act 1975); and
+    *   (a) a volunteer fire brigade, a defence fire brigade, and an industrial fire brigade (as those terms are defined in [section 2][512] of the Fire Service Act 1975); and
     
     *   (b) an airport fire brigade; and
     
     *   (c) the employed firefighters or other members of any fire brigade referred to in this definition
     
-    _former enactment_ means a provision of the [Transport Act 1962][514], or of [Part 2][515] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or of the Land Transport Act 1993, repealed by this Act
+    _former enactment_ means a provision of the [Transport Act 1962][513], or of [Part 2][514] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or of the Land Transport Act 1993, repealed by this Act
     
     _goods_ means all kinds of movable personal property; and includes articles sent by post, and animals
     
@@ -1322,7 +1320,7 @@ Preliminary provisions
     
     _gross weight_, in relation to a vehicle or combination of vehicles, means the weight of the vehicle or of the vehicles comprising the combination, together with the load that the vehicle or (as the case may be) the vehicles are for the time being carrying, including equipment and accessories; and, for the purposes of this Act and of the regulations and the rules, and without limiting the methods by which the gross weight of a vehicle may be determined, the gross weight of a vehicle may be determined by adding the weight on its axles or groups of axles
     
-    _health practitioner_ has the same meaning as in [section 5][516] of the Health Practitioners Competence Assurance Act 2003
+    _health practitioner_ has the same meaning as in [section 5][515] of the Health Practitioners Competence Assurance Act 2003
     
     _heavy motor vehicle_ means a motor vehicle (other than a motorcar that is not used, kept, or available for the carriage of passengers for hire or reward) having a gross laden weight exceeding 3 500 kg
     
@@ -1332,7 +1330,7 @@ Preliminary provisions
     
     *   (b) any other traffic declared to be heavy traffic by the Agency by notice in the _Gazette_
     
-    _hospital_ means a hospital care institution within the meaning of [section 58(4)][517] of the Health and Disability Services (Safety) Act 2001
+    _hospital_ means a hospital care institution within the meaning of [section 58(4)][516] of the Health and Disability Services (Safety) Act 2001
     
     _image_, in relation to approved vehicle surveillance equipment, includes a photograph, an electronic form of information storage, and the display and transmission of any pictorial or digital information
     
@@ -1354,11 +1352,11 @@ Preliminary provisions
     
     _land transport_ means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
     
-    _land transport documents_ means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the [Transport Act 1962][514], the [Road User Charges Act 2012][518], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519], the [Government Roading Powers Act 1989][520], or this Act
+    _land transport documents_ means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the [Transport Act 1962][513], the [Road User Charges Act 2012][517], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518], the [Government Roading Powers Act 1989][519], or this Act
     
     _land transport register_ includes---
         
-    *   (a) registers kept under this Act, the [Railways Act 2005][521], or the [Road User Charges Act 2012][518]; and
+    *   (a) registers kept under this Act, the [Railways Act 2005][520], or the [Road User Charges Act 2012][517]; and
     
     *   (b) other information and records relating to vehicle and operator licensing kept by the Agency
     
@@ -1376,7 +1374,7 @@ Preliminary provisions
     
     *   (b) in relation to a vehicle, licensed under [Part 17][444]
     
-    _light rail vehicle_ has the same meaning as in [section 4(1)][522] of the Railways Act 2005
+    _light rail vehicle_ has the same meaning as in [section 4(1)][521] of the Railways Act 2005
     
     _light rental service vehicle_ means a rental service vehicle having a gross laden weight of not more than 3 500 kg
     
@@ -1388,15 +1386,15 @@ Preliminary provisions
     
     *   (c) does not include animal wastes discharged from animals being carried on a vehicle at the time
     
-    _local authority_ means any regional council or territorial authority within the meaning of the [Local Government Act 2002][523]
+    _local authority_ means any regional council or territorial authority within the meaning of the [Local Government Act 2002][522]
     
-    _logbook_ means a logbook that is in a form approved by the Agency in accordance with the rules, and includes any alternative means approved under [section 30ZG][524]
+    _logbook_ means a logbook that is in a form approved by the Agency in accordance with the rules, and includes any alternative means approved under [section 30ZG][523]
     
     _mass_, in relation to a vehicle, means the quantity of material contained in or on that vehicle that, when subjected to acceleration due to gravity, will exert downwards on a level surface a force that can be measured as the weight of the vehicle
     
     _medical expenses_ means the expenses incurred by a medical practitioner or medical officer in taking a blood specimen
     
-    _medical laboratory technologist_ means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by [section 114(1)(a)][525] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
+    _medical laboratory technologist_ means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by [section 114(1)(a)][524] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
     
     _medical officer_ means---
         
@@ -1406,7 +1404,7 @@ Preliminary provisions
     
     *   (c) a medical laboratory technologist
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][525] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][524] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
     
     _member_ means a person appointed as a member of the Agency
     
@@ -1450,7 +1448,7 @@ Preliminary provisions
             
         *   (i) was registered before paragraph (a) came into force; and
         
-        *   (ii) falls within the definition of moped in [section 2(1)][526] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+        *   (ii) falls within the definition of moped in [section 2(1)][525] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
         
         
     
@@ -1494,19 +1492,19 @@ Preliminary provisions
     
     *   (b) an offence in respect of the failure to comply with the directions given by a traffic signal; or
     
-    *   (c) any offence against regulations made under this Act or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] that is declared by regulations under this Act to be a moving vehicle offence for the purposes of this definition; or
+    *   (c) any offence against regulations made under this Act or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] that is declared by regulations under this Act to be a moving vehicle offence for the purposes of this definition; or
     
     *   (d) a toll offence
     
     _novice driver_ has the meaning specified by the rules
     
-    _nurse_ means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by [section 114(1)(a)][525] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
+    _nurse_ means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by [section 114(1)(a)][524] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
     
     _offence against this Act_ includes an offence against or prescribed by the regulations
     
     _operate_, in relation to a vehicle, means to drive or use the vehicle on a road, or to cause or permit the vehicle to be on a road or to be driven on a road, whether or not the person is present with the vehicle; and _operator_ has a corresponding meaning
     
-    _optometrist_ means a health practitioner who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by [section 114(1)(a)][525] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry
+    _optometrist_ means a health practitioner who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by [section 114(1)(a)][524] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry
     
     _organised criminal activity_ means an activity that---
         
@@ -1600,7 +1598,7 @@ Preliminary provisions
     
     *   (c) in the case of any other person, that the proportion of alcohol in the breath of the person who underwent the test exceeds 400 micrograms of alcohol per litre of breath
     
-    _premises_, in [sections 130][306] and [131][307], includes a vehicle, rail vehicle, carriage, box, or receptacle; but does not include a dwelling or Maori reservation constituted by or under the Maori Affairs Act 1953 or [Part 17][527] of Te Ture Whenua Maori Act 1993
+    _premises_, in [sections 130][306] and [131][307], includes a vehicle, rail vehicle, carriage, box, or receptacle; but does not include a dwelling or Maori reservation constituted by or under the Maori Affairs Act 1953 or [Part 17][526] of Te Ture Whenua Maori Act 1993
     
     _prescribed_ means,---
         
@@ -1608,13 +1606,13 @@ Preliminary provisions
     
     *   (b) in relation to a matter prescribed under any other enactment, prescribed in accordance with that enactment
     
-    _prescription medicine_ has the same meaning as in [section 3(3)][528] of the Medicines Act 1981
+    _prescription medicine_ has the same meaning as in [section 3(3)][527] of the Medicines Act 1981
     
     _private analyst_ means a person qualified by academic or technical training in chemical or biochemical analysis; and includes a body corporate or organisation that employs such a person
     
-    _proceedings_, in relation to an infringement offence, means proceedings under the [Summary Proceedings Act 1957][529]; and includes the issue of an infringement notice under [section 139][320]
+    _proceedings_, in relation to an infringement offence, means proceedings under the [Summary Proceedings Act 1957][528]; and includes the issue of an infringement notice under [section 139][320]
     
-    _qualifying bylaw_ means a bylaw made by a road controlling authority under [section 22AB(1)(a)][36] of this Act, or [section 145][530] of the Local Government Act 2002 for the stated purpose of---
+    _qualifying bylaw_ means a bylaw made by a road controlling authority under [section 22AB(1)(a)][36] of this Act, or [section 145][529] of the Local Government Act 2002 for the stated purpose of---
         
     *   (a) restricting or placing conditions on the racing of motor vehicles or any associated activities:
     
@@ -1624,7 +1622,7 @@ Preliminary provisions
         
     *   (a) means any substance, preparation, mixture, or article containing---
             
-        *   (i) a controlled drug specified in [Schedule 1][531], [Schedule 2][532], or Part 1, 4, or 7 of [Schedule 3][533] of the Misuse of Drugs Act 1975; and
+        *   (i) a controlled drug specified in [Schedule 1][530], [Schedule 2][531], or Part 1, 4, or 7 of [Schedule 3][532] of the Misuse of Drugs Act 1975; and
         
         *   (ii) any of the following drugs:
                 
@@ -1702,7 +1700,7 @@ Preliminary provisions
     
     *   (b) includes---
             
-        *   (i) any controlled drug analogue (within the meaning of controlled drug analogue in [section 2(1)][534] of the Misuse of Drugs Act 1975); and
+        *   (i) any controlled drug analogue (within the meaning of controlled drug analogue in [section 2(1)][533] of the Misuse of Drugs Act 1975); and
         
         *   (ii) any prescription medicine; but
         
@@ -1710,13 +1708,13 @@ Preliminary provisions
     
     *   (c) excludes any substance, preparation, mixture, or article specified in paragraph (a) or (b)(i) if it is excluded by regulations made under this Act
     
-    _rail operator_ has the same meaning as in [section 4(1)][522] of the Railways Act 2005
+    _rail operator_ has the same meaning as in [section 4(1)][521] of the Railways Act 2005
     
-    _rail participant_ has the same meaning as in [section 4(1)][522] of the Railways Act 2005
+    _rail participant_ has the same meaning as in [section 4(1)][521] of the Railways Act 2005
     
-    _rail vehicle_ has the same meaning as in [section 4(1)][522] of the Railways Act 2005
+    _rail vehicle_ has the same meaning as in [section 4(1)][521] of the Railways Act 2005
     
-    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][523]
+    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][522]
     
     _register of motor vehicles_ means the register continued and maintained under [section 234][448]
     
@@ -1738,7 +1736,7 @@ Preliminary provisions
     
     _rental service vehicle_ means a vehicle used or available for use in a rental service for letting on hire for the carriage of passengers or goods, or both, to a person who drives the vehicle or provides a driver for the vehicle; but does not include a vehicle specified as an exempt vehicle in this Act or the regulations or the rules
     
-    _responsible clinician_ has the same meaning as it has in [section 2(1)][535] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+    _responsible clinician_ has the same meaning as it has in [section 2(1)][534] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
     
     _rest time_ means all time that---
         
@@ -1770,7 +1768,7 @@ Preliminary provisions
     
     _the rules_ means the ordinary rules and emergency rules made under this Act and the rules referred to in [section 220][429]
     
-    _Science Minister_ means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Research, Science, and Technology Act 2010][536]
+    _Science Minister_ means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Research, Science, and Technology Act 2010][535]
     
     _Secretary_ means the chief executive of the Ministry
     
@@ -1784,9 +1782,9 @@ Preliminary provisions
     
     _small passenger service vehicle_ means any passenger service vehicle that is designed or adapted to carry 12 or fewer persons (including the driver)
     
-    _special vehicle lane_ has the meaning given to it in clause 1.6 of the [Land Transport (Road User) Rule 2004][537]
+    _special vehicle lane_ has the meaning given to it in clause 1.6 of the [Land Transport (Road User) Rule 2004][536]
     
-    _speed limit_ means a speed limit set by or under this Act, the [Local Government Act 1974][538], the [Government Roading Powers Act 1989][520], or the rules
+    _speed limit_ means a speed limit set by or under this Act, the [Local Government Act 1974][537], the [Government Roading Powers Act 1989][519], or the rules
     
     _speeding offence_ means an offence which consists solely of exceeding a speed limit
     
@@ -1814,11 +1812,11 @@ Preliminary provisions
     
     _taxi service_ means a passenger service carried on by means of a taxi or taxis
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][523]
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][522]
     
-    _toll_ has the same meaning as in [section 5][539] of the Land Transport Management Act 2003
+    _toll_ has the same meaning as in [section 5][538] of the Land Transport Management Act 2003
     
-    _toll offence_ means an offence against [section 54(1)][540] of the Land Transport Management Act 2003
+    _toll offence_ means an offence against [section 54(1)][539] of the Land Transport Management Act 2003
     
     _towage fee_, in respect of a parking offence, means an amount specified as the towage fee in respect of that offence by the Secretary by notice in the _Gazette_; and, for the purposes of this definition, the Secretary may prescribe different rates of towage fees in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis
     
@@ -1826,7 +1824,7 @@ Preliminary provisions
         
     *   (a) is propelled by steam power; and
     
-    *   (b) is not a rail vehicle within the meaning of [section 4(1)][522] of the Railways Act 2005; and
+    *   (b) is not a rail vehicle within the meaning of [section 4(1)][521] of the Railways Act 2005; and
     
     *   (c) is not designed for the carriage of goods or persons other than the driver and, if appropriate, other persons involved in its operation
     
@@ -1846,7 +1844,7 @@ Preliminary provisions
     
     *   (b) does not include---
             
-        *   (i) licensed rail participants under the [Railways Act 2005][521]; and
+        *   (i) licensed rail participants under the [Railways Act 2005][520]; and
         
         *   (ii) any service specified as an exempt transport service in the regulations or the rules
         
@@ -1868,7 +1866,7 @@ Preliminary provisions
     
     _transport service vehicle_ means any goods service vehicle, passenger service vehicle, rental service vehicle, or vehicle recovery service vehicle; but does not include---
         
-    *   (a) a rail vehicle under the [Railways Act 2005][521]; or
+    *   (a) a rail vehicle under the [Railways Act 2005][520]; or
     
     *   (b) a vehicle running on self-laying tracks or rollers; or
     
@@ -2000,7 +1998,7 @@ Preliminary provisions
     
     (1A) If a transport service includes the use of vehicles that are specified as exempt vehicles in the regulations or the rules, the operation of those vehicles is not to be treated as part of the operation of the service.
     
-    (2) A notice or replacement notice given by any Minister in the _Gazette_ for any purpose specified in subsection (1) or in [section 75A(5)][177], and a corresponding notice given under any former enactment and continued in force by this Act, is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][541] and may be amended from time to time, or revoked or replaced, by the responsible Minister in the same manner.
+    (2) A notice or replacement notice given by any Minister in the _Gazette_ for any purpose specified in subsection (1) or in [section 75A(5)][177], and a corresponding notice given under any former enactment and continued in force by this Act, is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][540] and may be amended from time to time, or revoked or replaced, by the responsible Minister in the same manner.
     
     (3) A notice or replacement notice under subsection (1) that is given by the Minister of Police in the _Gazette_ for the purposes of approving a kind of device or a test may---
         
@@ -2030,207 +2028,207 @@ Preliminary provisions
     
     *   (b) ends only after a continuous period of rest of at least 10 hours is taken.
     
-    Compare: 1962 No 135 [ss 2][542], [57A][543]
+    Compare: 1962 No 135 [ss 2][541], [57A][542]
     
-    Section 2(1) **Agency**: inserted, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **Agency**: inserted, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **alcohol interlock device**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **alcohol interlock device**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **alcohol interlock licence**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **alcohol interlock licence**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **approved provider**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **approved provider**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **approved taxi organisation**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **approved taxi organisation**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **approved taxi organisation**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **approved taxi organisation**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **Authority**: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **Authority**: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **blood specimen collecting instrument**: inserted, on 5 November 2011, by [section 4(18)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **blood specimen collecting instrument**: inserted, on 5 November 2011, by [section 4(18)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **blood specimen collecting procedure**: inserted, on 5 November 2011, by [section 4(18)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **blood specimen collecting procedure**: inserted, on 5 November 2011, by [section 4(18)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **blood test**: amended, on 1 November 2009, by [section 5(1)][547] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **blood test**: amended, on 1 November 2009, by [section 5(1)][546] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **blood test fee**: amended, on 1 November 2009, by [section 5(2)][547] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **blood test fee**: amended, on 1 November 2009, by [section 5(2)][546] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **Board** and **Transfund**: repealed, on 1 December 2004, by [section 3(1)][548] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 2(1) **Board** and **Transfund**: repealed, on 1 December 2004, by [section 3(1)][547] of the Land Transport Amendment Act 2004 (2004 No 96).
     
-    Section 2(1) **certificate of compliance**: inserted, on 29 December 2001, by [section 4(1)][549] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
+    Section 2(1) **certificate of compliance**: inserted, on 29 December 2001, by [section 4(1)][548] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
     
-    Section 2(1) **commercial public transport service**: inserted, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 2(1) **commercial public transport service**: repealed, on 13 June 2013, by [section 72][549] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 2(1) **compulsory impairment test**: inserted, on 1 November 2009, by [section 5(3)][547] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **compulsory impairment test**: inserted, on 1 November 2009, by [section 5(3)][546] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **conclusive evidential breath-testing device**: repealed, on 29 December 2001, by [section 4(2)][549] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
+    Section 2(1) **conclusive evidential breath-testing device**: repealed, on 29 December 2001, by [section 4(2)][548] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
     
-    Section 2(1) **control**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **control**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **controlled drug**: repealed (without coming into force), on 1 November 2009, by [section 4(2)][551] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 2(1) **controlled drug**: repealed (without coming into force), on 1 November 2009, by [section 4(2)][550] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 2(1) **cruising**: inserted, on 1 December 2009, by [section 4(1)][551] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 2(1) **cruising**: inserted, on 1 December 2009, by [section 4(1)][550] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 2(1) **cumulative work day**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **cumulative work day**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **cumulative work period**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **cumulative work period**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **Director**: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **Director**: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **doctor's surgery**: amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **doctor's surgery**: amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **enforcement authority**: substituted, on 28 June 2006, by [section 4(1)][553] of the Land Transport Amendment Act (No 2) 2006 (2006 No 30).
+    Section 2(1) **enforcement authority**: substituted, on 28 June 2006, by [section 4(1)][552] of the Land Transport Amendment Act (No 2) 2006 (2006 No 30).
     
-    Section 2(1) **enforcement authority**: amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **enforcement authority**: amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **enforcement authority** paragraph (b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **enforcement authority** paragraph (b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **enforcement authority** paragraph (ba): inserted, on 10 May 2011, by [section 4(1)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **enforcement authority** paragraph (ba): inserted, on 10 May 2011, by [section 4(1)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **enforcement authority** paragraph (c): repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **enforcement authority** paragraph (c): repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **enforcement authority** paragraph (d): substituted, on 10 May 2011, by [section 4(2)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **enforcement authority** paragraph (d): substituted, on 10 May 2011, by [section 4(2)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **enforcement officer** paragraph (a): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **enforcement officer** paragraph (a): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 2(1) **enforcement officer** paragraph (b): amended, on 1 October 2008, pursuant to [section 116(d)][555] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **enforcement officer** paragraph (b): amended, on 1 October 2008, pursuant to [section 116(d)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 2(1) **financial year**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **financial year**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **goods service**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **goods service**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **goods service licence**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **goods service licence**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **goods service vehicle**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **goods service vehicle**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **health practitioner**: inserted, on 1 November 2009, by [section 5(3)][547] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **health practitioner**: inserted, on 1 November 2009, by [section 5(3)][546] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **heavy traffic**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **heavy traffic**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **hospital**: substituted, on 10 May 2011, by [section 4(3)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **hospital**: substituted, on 10 May 2011, by [section 4(3)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **infringement offence** paragraph (ab): inserted, on 10 May 2011, by [section 4(4)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **infringement offence** paragraph (ab): inserted, on 10 May 2011, by [section 4(4)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **infringement offence** paragraph (ba): inserted, on 1 October 2007, by [section 4(6)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **infringement offence** paragraph (ba): inserted, on 1 October 2007, by [section 4(6)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **infringement offence** paragraph (c): amended, on 10 May 2011, by [section 4(5)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **infringement offence** paragraph (c): amended, on 10 May 2011, by [section 4(5)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **infringement offence** paragraph (ca): inserted, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 2(1) **infringement offence** paragraph (ca): inserted, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 2(1) **invalid carriage**: repealed, on 22 June 2005, by [section 4(2)][546] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 2(1) **invalid carriage**: repealed, on 22 June 2005, by [section 4(2)][545] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 2(1) **land transport documents**: amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 2(1) **land transport documents**: amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 2(1) **land transport documents**: amended, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 2(1) **land transport documents**: amended, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 2(1) **land transport documents**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **land transport documents**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **land transport register** paragraph (a): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 2(1) **land transport register** paragraph (a): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 2(1) **land transport register** paragraph (a): amended, on 1 October 2007, by [section 4(7)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **land transport register** paragraph (a): amended, on 1 October 2007, by [section 4(7)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
     Section 2(1) **land transport register** paragraph (a): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **land transport register** paragraph (b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **land transport register** paragraph (b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **large passenger service vehicle**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **large passenger service vehicle**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **licensed** paragraph (b): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **licensed** paragraph (b): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 2(1) **light rail vehicle**: inserted, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
     Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][559] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **logbook**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **logbook**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **logbook**: amended, on 1 October 2007, by [section 4(8)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **logbook**: amended, on 1 October 2007, by [section 4(8)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **medical expenses**: inserted, on 1 November 2009, by [section 5(3)][547] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **medical expenses**: inserted, on 1 November 2009, by [section 5(3)][546] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **medical laboratory technologist**: inserted, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical laboratory technologist**: inserted, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 2(1) **medical laboratory technologist**: amended, on 1 August 2011, by [clause 8(2)][560] of the Health Practitioners Competence Assurance (Designation of Anaesthetic Technology Services as Health Profession) Order 2011 (SR 2011/227).
     
-    Section 2(1) **medical officer**: substituted, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical officer**: substituted, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **member**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **member**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 2(1) **member**: amended, on 25 January 2005, by [section 200][561] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **Minister**: substituted, on 1 December 2004, by [section 3(2)][548] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 2(1) **Minister**: substituted, on 1 December 2004, by [section 3(2)][547] of the Land Transport Amendment Act 2004 (2004 No 96).
     
-    Section 2(1) **mobility device**: inserted, on 22 June 2005, by [section 4(4)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **mobility device**: inserted, on 22 June 2005, by [section 4(4)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **mobility device** paragraph (b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **mobility device** paragraph (b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **moped**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **moped**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **motor vehicle** paragraph (c)(ii): repealed, on 22 June 2005, by [section 4(9)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **motor vehicle** paragraph (c)(ii): repealed, on 22 June 2005, by [section 4(9)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **motor vehicle** paragraph (c)(vi): amended, on 22 June 2005, by [section 4(10)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **motor vehicle** paragraph (c)(vi): amended, on 22 June 2005, by [section 4(10)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **motor vehicle** paragraph (c)(vii): added, on 22 June 2005, by [section 4(10)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **motor vehicle** paragraph (c)(vii): added, on 22 June 2005, by [section 4(10)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **motor vehicle** paragraph (c)(vii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **motor vehicle** paragraph (c)(vii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **motor vehicle** paragraph (c)(viii): added, on 22 June 2005, by [section 4(10)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **motor vehicle** paragraph (c)(viii): added, on 22 June 2005, by [section 4(10)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **motorcycle**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **motorcycle**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **moving vehicle offence** paragraph (c): amended, on 10 May 2011, by [section 4(6)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **moving vehicle offence** paragraph (c): amended, on 10 May 2011, by [section 4(6)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **moving vehicle offence** paragraph (c): amended, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118). 
+    Section 2(1) **moving vehicle offence** paragraph (c): amended, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118). 
     
-    Section 2(1) **moving vehicle offence** paragraph (d): added, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 2(1) **moving vehicle offence** paragraph (d): added, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 2(1) **national land transport strategy** or **strategy**: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **national land transport strategy** or **strategy**: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **nurse**: inserted, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **nurse**: inserted, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **optometrist**: inserted, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **optometrist**: inserted, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **organised criminal activity**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **organised criminal activity**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **outputs**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **outputs**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **parking**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **parking**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **parking offence**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **parking offence**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **parking warden**: inserted, on 1 November 2009, by [section 5(3)][547] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **parking warden**: inserted, on 1 November 2009, by [section 5(3)][546] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **parking warden**: amended, on 10 May 2011, by [section 4(7)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **parking warden**: amended, on 10 May 2011, by [section 4(7)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **parking warden** second definition: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **parking warden** second definition: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **passenger service**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **passenger service**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **passenger service** paragraph (b)(iii): amended, on 10 May 2011, by [section 4(8)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **passenger service** paragraph (b)(iii): amended, on 10 May 2011, by [section 4(8)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **passenger service licence**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **passenger service licence**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **passenger service vehicle**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **passenger service vehicle**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **performance agreement**: repealed, on 1 December 2004, by [section 3(1)][548] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 2(1) **performance agreement**: repealed, on 1 December 2004, by [section 3(1)][547] of the Land Transport Amendment Act 2004 (2004 No 96).
     
-    Section 2(1) **permanent speed limit**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **permanent speed limit**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **positive**: inserted, on 7 August 2011, by [section 4(9)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **positive**: inserted, on 7 August 2011, by [section 4(9)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **positive evidential breath test**: repealed, on 7 August 2011, by [section 4(9)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **positive evidential breath test**: repealed, on 7 August 2011, by [section 4(9)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 2(1) **premises**: amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **prescription medicine**: inserted, on 1 November 2009, by [section 5(3)][547] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **prescription medicine**: inserted, on 1 November 2009, by [section 5(3)][546] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **qualifying bylaw**: inserted, on 1 December 2009, by [section 4(1)][551] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 2(1) **qualifying bylaw**: inserted, on 1 December 2009, by [section 4(1)][550] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 2(1) **qualifying bylaw**: amended, on 10 May 2011, by [section 4(10)(a)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **qualifying bylaw**: amended, on 10 May 2011, by [section 4(10)(a)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **qualifying bylaw**: amended, on 10 May 2011, by [section 4(10)(b)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **qualifying bylaw**: amended, on 10 May 2011, by [section 4(10)(b)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **qualifying drug**: inserted, on 1 November 2009, by [section 4(3)][551] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 2(1) **qualifying drug**: inserted, on 1 November 2009, by [section 4(3)][550] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
     Section 2(1) **qualifying drug** paragraph (a)(i): amended, on 9 August 2011, by [section 12(2)][562] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
     
@@ -2246,111 +2244,111 @@ Preliminary provisions
     
     Section 2(1) **regional council**: substituted, on 1 July 2003, by [section 262][559] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **regional land transport strategy**: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **regional land transport strategy**: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **register of motor vehicles**: substituted, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **register of motor vehicles**: substituted, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **registered**: amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2(1) **registered**: amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2(1) **registered medical practitioner**: repealed, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **registered medical practitioner**: repealed, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **registered optometrist**: repealed, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **registered optometrist**: repealed, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **Registrar**: inserted, on 1 December 2009, by [section 4(1)][551] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 2(1) **Registrar**: inserted, on 1 December 2009, by [section 4(1)][550] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 2(1) **rental service**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **rental service**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **rental service licence**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **rental service licence**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **rental service vehicle**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **rental service vehicle**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **rest time**: inserted, on 1 October 2007, by [section 4(5)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **rest time**: inserted, on 1 October 2007, by [section 4(5)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **road** paragraph (e): amended, on 10 May 2011, by [section 4(11)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **road** paragraph (e): amended, on 10 May 2011, by [section 4(11)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 2(1) **Science Minister**: amended, on 1 February 2011, by [section 18][563] of the Research, Science, and Technology Act 2010 (2010 No 131).
     
-    Section 2(1) **service**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **service**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **service charter**: repealed, on 1 December 2004, by [section 3(1)][548] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 2(1) **service charter**: repealed, on 1 December 2004, by [section 3(1)][547] of the Land Transport Amendment Act 2004 (2004 No 96).
     
-    Section 2(1) **small passenger service vehicle**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **small passenger service vehicle**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **special vehicle lane**: inserted, on 28 June 2006, by [section 4(2)][553] of the Land Transport Amendment Act (No 2) 2006 (2006 No 30).
+    Section 2(1) **special vehicle lane**: inserted, on 28 June 2006, by [section 4(2)][552] of the Land Transport Amendment Act (No 2) 2006 (2006 No 30).
     
-    Section 2(1) **speed limit**: amended, on 10 May 2011, by [section 4(12)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **speed limit**: amended, on 10 May 2011, by [section 4(12)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **speed limit**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **speed limit**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **speed limit**: amended, on 19 December 2001, by [section 4(3)][549] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
+    Section 2(1) **speed limit**: amended, on 19 December 2001, by [section 4(3)][548] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
     
-    Section 2(1) **stationary vehicle offence**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **stationary vehicle offence**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **taxi**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **taxi**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **taxi service**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **taxi service**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
     Section 2(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][559] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **toll**: inserted, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 2(1) **toll**: inserted, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 2(1) **toll offence**: inserted, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 2(1) **toll offence**: inserted, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 2(1) **towage fee**: inserted, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **towage fee**: inserted, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **traction engine**: inserted, on 22 June 2005, by section [4(4)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **traction engine**: inserted, on 22 June 2005, by section [4(4)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **traction engine** paragraph (b): substituted, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 2(1) **traction engine** paragraph (b): substituted, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 2(1) **Transit** and **Transit New Zealand**: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **Transit** and **Transit New Zealand**: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **transport service**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **transport service**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **transport service** paragraph (b)(i): substituted, on 10 May 2011, by [section 4(13)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **transport service** paragraph (b)(i): substituted, on 10 May 2011, by [section 4(13)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **transport service driver**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **transport service driver**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **transport service licence**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **transport service licence**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **transport service operator**: inserted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **transport service operator**: inserted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **transport service vehicle**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **transport service vehicle**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **transport service vehicle** paragraph (a): substituted, on 10 May 2011, by [section 4(14)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **transport service vehicle** paragraph (a): substituted, on 10 May 2011, by [section 4(14)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **transport service vehicle** paragraph (f): amended, on 10 May 2011, by [section 4(15)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **transport service vehicle** paragraph (f): amended, on 10 May 2011, by [section 4(15)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **unlicensed**: inserted, on 22 June 2005, by [section 4(4)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **unlicensed**: inserted, on 22 June 2005, by [section 4(4)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **vehicle** paragraph (c)(iv): repealed, on 22 June 2005, by [section 4(11)][546] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 2(1) **vehicle** paragraph (c)(iv): repealed, on 22 June 2005, by [section 4(11)][545] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 2(1) **vehicle** paragraph (c)(viii): amended, on 22 June 2005, by [section 4(12)][546] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 2(1) **vehicle** paragraph (c)(viii): amended, on 22 June 2005, by [section 4(12)][545] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
     Section 2(1) **vehicle** paragraph (c)(x): added, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **vehicle recovery service**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **vehicle recovery service**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **vehicle recovery service** paragraph (b)(vii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 2(1) **vehicle recovery service** paragraph (b)(vii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 2(1) **vehicle recovery service licence**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **vehicle recovery service licence**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **vehicle recovery service vehicle**: substituted, on 1 October 2007, by [section 4(3)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **vehicle recovery service vehicle**: substituted, on 1 October 2007, by [section 4(3)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **work time**: substituted, on 10 May 2011, by [section 4(16)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **work time**: substituted, on 10 May 2011, by [section 4(16)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **zero alcohol licence**: added, on 10 May 2011, by [section 4(17)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **zero alcohol licence**: added, on 10 May 2011, by [section 4(17)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1A): inserted, on 1 October 2007, by [section 4(13)][546] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1A): inserted, on 1 October 2007, by [section 4(13)][545] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(2): amended, on 10 May 2011, by [section 4(19)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(2): amended, on 10 May 2011, by [section 4(19)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(2): amended, on 10 May 2011, by [section 4(20)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(2): amended, on 10 May 2011, by [section 4(20)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(2): amended, on 29 December 2001, by [section 4(4)][549] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
+    Section 2(2): amended, on 29 December 2001, by [section 4(4)][548] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
     
-    Section 2(3): amended, on 10 May 2011, by [section 4(21)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(3): amended, on 10 May 2011, by [section 4(21)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(5): added, on 10 May 2011, by [section 4(22)][545] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(5): added, on 10 May 2011, by [section 4(22)][544] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 3 Act to bind the Crown
     
@@ -2383,7 +2381,7 @@ Primary responsibilities of participants in land transport system
     
     Section 4(3): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
-    Section 4(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 4(4): amended, on 1 October 2007, by [section 5][565] of the Land Transport Amendment Act 2005 (2005 No 77).
 
@@ -2557,11 +2555,11 @@ Primary responsibilities of participants in land transport system
     
     Section 13(1AA): amended, on 10 May 2011, by [section 7][584] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 13(1): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 13(1): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 13(2): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 13(2): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 13(3): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 13(3): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 13(4)(a): amended, on 2 May 2003, by [section 4][585] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
 
@@ -2638,15 +2636,15 @@ Additional responsibilities concerning road transport
     
     Compare: 1986 No 6 [s 45A][593]
     
-    Section 18 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18(1): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 18(1): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 18(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18(2): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 18(2): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 18(3): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 18(3): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 18(4): repealed, on 10 May 2011, by [section 9][594] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
@@ -2682,23 +2680,23 @@ Additional responsibilities concerning road transport
     
     Compare: 1986 No 6 [s 46][599]
     
-    Section 19(1)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19(1)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 19(1)(a): amended, on 1 December 2004, by [section 10][600] of the Land Transport Amendment Act 2004 (2004 No 96). 
     
-    Section 19(3)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19(3)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 19(3)(a): amended, on 1 December 2004, by [section 10][600] of the Land Transport Amendment Act 2004 (2004 No 96). 
     
-    Section 19(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 19(4): amended, on 1 December 2004, by [section 10][600] of the Land Transport Amendment Act 2004 (2004 No 96). 
     
-    Section 19(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 19(5): amended, on 1 December 2004, by [section 10][600] of the Land Transport Amendment Act 2004 (2004 No 96). 
     
-    Section 19(7): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19(7): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 19(7): amended, on 1 December 2004, by [section 10][600] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
@@ -2710,11 +2708,11 @@ Additional responsibilities concerning road transport
     
     Compare: 1962 No 135 [s 76C][601]
     
-    Section 20 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 20(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 20(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 21 Enforcement officers to ameliorate hazards
     
@@ -2990,7 +2988,7 @@ Additional responsibilities concerning road transport
     
     _parking place_ has the same meaning as in [section 591(6)][614] of the Local Government Act 1974
     
-    _railway_ has the same meaning as in [section 4(1)][522] of the Railways Act 2005
+    _railway_ has the same meaning as in [section 4(1)][521] of the Railways Act 2005
     
     _transport station_ has the same meaning as in [section 591(6)][614] of the Local Government Act 1974\.
     
@@ -3229,9 +3227,9 @@ Driver licensing
     
     Compare: 1986 No 6 [s 4][618]
     
-    Section 23(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 23(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 23(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 23(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 24 Agency may issue temporary driver licences
     
@@ -3245,13 +3243,13 @@ Driver licensing
     
     (3) Despite subsection (1), in the case of a person whose licence has expired or been revoked, the Agency may issue a temporary licence, valid for a period not exceeding 1 year as specified on the temporary licence, as necessary to enable the person to continue to drive while his or her fitness to drive is assessed by the Agency or a person authorised by the Agency.
     
-    Section 24 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 24 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 24(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 24(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 24(3): added, on 16 January 2006, by [section 12][619] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 24(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 24(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 24A Authorised persons may request driver licences for certain persons
     
@@ -3347,17 +3345,17 @@ Driver licensing
     
     Section 26: substituted, on 16 January 2006, by [section 13][627] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 26: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 27 Suspension and revocation of licences
     
 *   The Agency may suspend or revoke a driver licence in accordance with the regulations and the rules.
     
-    Section 27: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 28 Photographic driver licence
     
@@ -3427,7 +3425,7 @@ Driver licensing
     
     Section 28(4C): inserted, on 16 January 2006, by [section 14(3)][629] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 28(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 28(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 28A Transitional provisions for photographic driver licences
     
@@ -3537,7 +3535,7 @@ Driver licensing
     
     Section 29A(3): substituted, on 21 March 2006, by [section 4(3)][655] of the Land Transport Amendment Act 2006 (2006 No 2).
     
-    Section 29A(3)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 29A(3)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 29A(3)(b): amended, on 20 September 2007, by [section 4][656] of the Land Transport Amendment Act 2007 (2007 No 66).
     
@@ -3595,15 +3593,15 @@ Driver licensing
     
     Section 29B: substituted, on 21 March 2006, by [section 5(1)][657] of the Land Transport Amendment Act 2006 (2006 No 2).
     
-    Section 29B(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 29B(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 29B(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 29B(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 29B(2)(b)(vi): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 29B(2)(b)(vi): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 29B(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 29B(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 29B(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 29B(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30 Driver licences are property of Agency and are to be surrendered in certain circumstances
     
@@ -3639,33 +3637,33 @@ Driver licensing
     
     *   (d) in the case where a court authorises the issue of a limited licence, issue a limited licence to the person.
     
-    Section 30 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 30 heading: amended, on 22 June 2005, by [section 17(1)][658] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 30(1): amended, on 22 June 2005, by [section 17(2)][658] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 30(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 30(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 30(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 30(3A): inserted, on 20 September 2007, by [section 5(1)][659] of the Land Transport Amendment Act 2007 (2007 No 66).
     
-    Section 30(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 30(4): amended, on 20 September 2007, by [section 5(2)][659] of the Land Transport Amendment Act 2007 (2007 No 66).
     
     Section 30(4A): inserted, on 22 June 2005, by [section 17(3)][658] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30(4A)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(4A)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30(4A)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(4A)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30(4A)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 30(4A)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
     
     Section 30(5): substituted, on 10 May 2011, by [section 14][660] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
@@ -3696,9 +3694,9 @@ Transport services licensing
     
     Section 30A: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30A(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30A(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30A(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30A(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30B Provision of identification information in Braille
     
@@ -3762,15 +3760,15 @@ Transport services licensing
     
     Section 30C: inserted, on 1 October 2007 (with effect on 21 March 2006 for the purposes of section 29B(2)(b)(v)), by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30C(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30C(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30C(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30C(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30C(2)(f): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30C(2)(f): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30C(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30C(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30C(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30C(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30D Additional criteria for small passenger service vehicles and vehicle recovery service
     
@@ -3790,7 +3788,7 @@ Transport services licensing
     
     Section 30D: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30D: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30D: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30E Additional criteria for large passenger service vehicles
     
@@ -3806,7 +3804,7 @@ Transport services licensing
     
     Section 30E: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30E: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30E: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30F Additional criteria for goods service
     
@@ -3820,7 +3818,7 @@ Transport services licensing
     
     Section 30F: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30F: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30F: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Information requirements
     
@@ -3838,11 +3836,11 @@ Transport services licensing
     
     Section 30G: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30G heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30G heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30G: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30G: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30G(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30G(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30H Agency's duties concerning prejudicial information
     
@@ -3852,9 +3850,9 @@ Transport services licensing
     
     Section 30H: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30H heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30H heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30H: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30H: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30I Non-disclosure by Agency of information for safety reasons
     
@@ -3882,11 +3880,11 @@ Transport services licensing
     
     Section 30I: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30I heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30I heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30I(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30I(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30I(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30I(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 3---Licensing of transport services
     
@@ -3940,9 +3938,9 @@ Transport services licensing
     
     Section 30L: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30L(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30L(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30L(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30L(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30M Conditions of transport service licences
     
@@ -3962,7 +3960,7 @@ Transport services licensing
     
     Section 30M: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30M: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30M: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30N Transfer, assignment, or lease of transport service licence prohibited
     
@@ -4006,9 +4004,9 @@ Transport services licensing
     
     Section 30O: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30O(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30O(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30O(4)(d): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30O(4)(d): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30P Agency may grant applications for approved taxi organisations
     
@@ -4024,9 +4022,9 @@ Transport services licensing
     
     Section 30P: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30P heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30P heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30P(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30P(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30Q Circumstances in which Agency must grant applications for approved taxi organisations
     
@@ -4060,9 +4058,9 @@ Transport services licensing
     
     Section 30Q: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30Q heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30Q heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30Q(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30Q(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30R Agency may revoke approval
     
@@ -4100,11 +4098,11 @@ Transport services licensing
     
     Section 30R: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30R heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30R heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30R(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30R(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30R(1)(c): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30R(1)(c): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 4---Revocation of transport service licences
     
@@ -4124,9 +4122,9 @@ Transport services licensing
     
     Section 30S: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30S heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30S heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30S(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30S(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30T Procedure Agency must follow before revoking transport service licence
     
@@ -4140,11 +4138,11 @@ Transport services licensing
     
     Section 30T: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30T heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30T heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30T(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30T(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30T(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30T(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30U Suspension of transport service licence
     
@@ -4158,9 +4156,9 @@ Transport services licensing
     
     Section 30U: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30U(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30U(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30U(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30U(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 5---Adverse decisions
     
@@ -4218,11 +4216,11 @@ Transport services licensing
     
     Section 30V: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30V **adverse decision**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30V **adverse decision**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 30V **adverse decision** paragraph (e)(ii): repealed, on 10 May 2011, by [section 15][681] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 30V **person on the basis of whose character the adverse decision arises**: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30V **person on the basis of whose character the adverse decision arises**: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30W Agency to notify proposal to make adverse decision
     
@@ -4262,19 +4260,19 @@ Transport services licensing
     
     Section 30W: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30W heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30W heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30W(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30W(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30W(1)(c): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30W(1)(c): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30W(1)(d): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30W(1)(d): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30W(1)(e): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30W(1)(e): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30W(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30W(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30W(2)(a)(ii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30W(2)(a)(ii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30X Procedure for consideration of information
     
@@ -4290,11 +4288,11 @@ Transport services licensing
     
     Section 30X: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30X(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30X(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30X(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30X(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30X(c): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30X(c): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30Y Agency's determination
     
@@ -4316,11 +4314,11 @@ Transport services licensing
     
     Section 30Y: inserted, on 1 October 2007, by [section 18][661] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30Y heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30Y heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30Y: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30Y: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30Y(b)(i): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30Y(b)(i): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part 4B  
 Work time and logbooks
@@ -4353,17 +4351,17 @@ Work time and logbooks
     
     Section 30ZA: inserted, on 1 October 2007, by [section 19][682] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30ZA heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZA heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30ZA(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZA(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 30ZA(1)(c): amended, on 7 August 2011, by [section 16][684] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 30ZA(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZA(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30ZA(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZA(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30ZA(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZA(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 1---Work time
     
@@ -4499,7 +4497,7 @@ Work time and logbooks
     
     Section 30ZF: inserted, on 1 October 2007, by [section 19][682] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30ZF(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZF(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30ZG Agency may approve or revoke alternative means of recording matters
     
@@ -4507,9 +4505,9 @@ Work time and logbooks
     
     Section 30ZG: inserted, on 1 October 2007, by [section 19][682] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30ZG heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZG heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30ZG: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30ZG: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 30ZH Duties regarding logbooks
     
@@ -4553,11 +4551,11 @@ Work time and logbooks
     
     Section 30ZH: inserted, on 1 October 2007, by [section 19][682] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 30ZH(1)(a): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 30ZH(1)(a): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 30ZH(1)(b): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 30ZH(1)(b): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 30ZH(1A): inserted, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 30ZH(1A): inserted, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
     Section 30ZH(2)(a): amended, on 1 October 2007, by [section 6][688] of the Land Transport Amendment Act 2007 (2007 No 66).
 
@@ -4610,9 +4608,9 @@ Offences relating to driving (other than alcohol-related offences) and penalties
     
     Section 31(1)(a): substituted, on 22 June 2005, by [section 20(2)][690] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 31(1)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 31(1)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 31(1)(d): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 31(1)(d): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 31(1)(d): amended, on 22 June 2005, by [section 20(3)][690] of the Land Transport Amendment Act 2005 (2005 No 77).
     
@@ -4652,7 +4650,7 @@ Offences relating to driving (other than alcohol-related offences) and penalties
     
     *   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
     
-    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] or the [Transport Act 1962][514] corresponding to an offence specified in subsection (1) is to be treated as a conviction for an offence specified in that subsection.
+    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] or the [Transport Act 1962][513] corresponding to an offence specified in subsection (1) is to be treated as a conviction for an offence specified in that subsection.
     
     (6) The imposition of a mandatory disqualification under this section is subject to [section 81][213].
     
@@ -4662,7 +4660,7 @@ Offences relating to driving (other than alcohol-related offences) and penalties
     
     Section 32(2)(a): amended, on 10 September 2012, by [section 18(2)][694] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 32(2)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(2)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 32(2)(a): amended, on 16 January 2006, by [section 21(1)][695] of the Land Transport Amendment Act 2005 (2005 No 77).
     
@@ -4996,7 +4994,7 @@ Offences relating to driving (other than alcohol-related offences) and penalties
     
     Compare: 1962 No 135 [ss 30][718], [193][719]
     
-    Section 46(1)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 46(1)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 47 Contravention of section 22(2), (3), (4), or (5)
     
@@ -5034,11 +5032,11 @@ Offences relating to driving (other than alcohol-related offences) and penalties
     
     (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000\.
     
-    Section 49(1)(a): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 49(1)(a): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 49(1)(a): amended, on 1 October 2007, by [section 29(1)][722] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 49(1)(b): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 49(1)(b): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 49(1)(b): amended, on 1 October 2007, by [section 29(2)][722] of the Land Transport Amendment Act 2005 (2005 No 77).
 
@@ -5191,13 +5189,13 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     (4A) Subsection (4)(b) does not apply if an order is made under [section 65][157].
     
-    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][514] corresponding to an offence specified in subsection (4) is to be treated as a conviction for an offence specified in that subsection.
+    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][513] corresponding to an offence specified in subsection (4) is to be treated as a conviction for an offence specified in that subsection.
     
     (6) The imposition of a mandatory disqualification under this section is subject to [section 81][213].
     
     Compare: 1962 No 135 [ss 30AB(2)][730], [58(1)(a), (c)][576]
     
-    Section 56(4): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 56(4): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 56(4): amended, on 16 January 2006, by [section 31(1)][731] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
@@ -5277,7 +5275,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     (4) Subsection (3)(b) does not apply if an order is made under [section 65][157].
     
-    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][514] that corresponds to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
+    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][513] that corresponds to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
     
     (6) The imposition of a mandatory disqualification under this section is subject to [section 81][213].
     
@@ -5293,7 +5291,7 @@ Driving offences involving drink or drugs, and penalties and procedures
         
     *   (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
     
-    *   (b) if the person's blood, as ascertained from an analysis of a blood specimen subsequently taken under [section 73][172], contains evidence of the use of a controlled drug specified in [Schedule 1][531] of the Misuse of Drugs Act 1975\.
+    *   (b) if the person's blood, as ascertained from an analysis of a blood specimen subsequently taken under [section 73][172], contains evidence of the use of a controlled drug specified in [Schedule 1][530] of the Misuse of Drugs Act 1975\.
     
     (1A) To avoid doubt, subsection (1)(b) does not limit subsection (1)(a).
     
@@ -5311,7 +5309,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     (3A) Subsection (3)(b) does not apply if an order is made under [section 65][157].
     
-    (4) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][514] corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
+    (4) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][513] corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
     
     (5) The imposition of a mandatory disqualification under this section is subject to [section 81][213].
     
@@ -5323,7 +5321,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 58(1A): inserted, on 1 November 2009, by [section 8][736] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 58(3): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 58(3): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 58(3): amended, on 16 January 2006, by [section 32(1)][737] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
@@ -5393,7 +5391,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     (3A) Subsection (3)(b) does not apply if an order is made under [section 65][157].
     
-    (4) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][514] corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
+    (4) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][513] corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
     
     (5) The imposition of a mandatory disqualification under this section is subject to [section 81][213].
     
@@ -5401,15 +5399,15 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 60 heading: amended, on 1 November 2009, by [section 10(1)][742] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 60(1)(b): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 60(1)(b): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 60(1)(c): amended, on 1 November 2009, by [section 10(2)][742] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 60(1)(c): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 60(1)(c): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 60(1)(d): added, on 1 November 2009, by [section 10(2)][742] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 60(3): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 60(3): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 60(3): amended, on 16 January 2006, by [section 33(1)][743] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
@@ -5429,7 +5427,7 @@ Driving offences involving drink or drugs, and penalties and procedures
         
     *   (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
     
-    *   (b) if the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken under [section 73][172], contains evidence of the use of a controlled drug specified in [Schedule 1][531] of the Misuse of Drugs Act 1975; or
+    *   (b) if the blood of the person in charge, as ascertained from an analysis of a blood specimen subsequently taken under [section 73][172], contains evidence of the use of a controlled drug specified in [Schedule 1][530] of the Misuse of Drugs Act 1975; or
     
     *   (c) if---
             
@@ -5457,7 +5455,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     (3B) Subsection (3A) does not apply if an order is made under [section 65][157].
     
-    (3C) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][514] corresponding to an offence specified in subsection (3A) is to be treated as a conviction for an offence specified in that subsection.
+    (3C) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][513] corresponding to an offence specified in subsection (3A) is to be treated as a conviction for an offence specified in that subsection.
     
     (4) The imposition of a mandatory disqualification under this section is subject to [section 81][213].
     
@@ -5485,7 +5483,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 61(3A): inserted, on 16 January 2006, by [section 34(3)][744] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 61(3A): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 61(3A): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 61(3B): inserted, on 16 January 2006, by [section 34(3)][744] of the Land Transport Amendment Act 2005 (2005 No 77).
     
@@ -5497,7 +5495,7 @@ Driving offences involving drink or drugs, and penalties and procedures
         
     *   (a) while under the influence of drink or a drug, or both; or
     
-    *   (b) if the blood of the person driving, as ascertained from an analysis of a blood specimen subsequently taken under [section 73][172], contains evidence of the use of a controlled drug specified in [Schedule 1][531] of the Misuse of Drugs Act 1975\.
+    *   (b) if the blood of the person driving, as ascertained from an analysis of a blood specimen subsequently taken under [section 73][172], contains evidence of the use of a controlled drug specified in [Schedule 1][530] of the Misuse of Drugs Act 1975\.
     
     (1A) To avoid doubt, subsection (1)(b) does not limit subsection (1)(a).
     
@@ -5609,7 +5607,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Compare: 1962 No 135 [ss 58(6)][576], [58I][750], [63(3)][751]
     
-    Section 64(1): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 64(1): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 64(1A): inserted, on 1 November 2009, by [section 13][752] of the Land Transport Amendment Act 2009 (2009 No 17).
     
@@ -5659,7 +5657,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     *   (b) the 2 or more previous offences were committed within 5 years of the date of the commission of the offence being dealt with by the court.
     
-    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][514] corresponding to an offence to which this section applies is to be treated as a conviction for an offence specified in subsection (1).
+    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][513] corresponding to an offence to which this section applies is to be treated as a conviction for an offence specified in subsection (1).
     
     Compare: 1962 No 135 [s 30A][758]
     
@@ -5669,7 +5667,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 65(4): substituted, on 16 January 2006, by [section 36][759] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 65(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 65(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 65A Alcohol interlock requirements for repeat offences or certain first time offences involving use of alcohol
     
@@ -5773,7 +5771,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 67(1): amended, on 10 May 2011, by [section 31][762] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 67(1): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 67(1): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 67(1): amended, on 1 November 2009, by [section 14(1)][763] of the Land Transport Amendment Act 2009 (2009 No 17).
     
@@ -5977,15 +5975,15 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Compare: 1962 No 135 [s 58C][739]
     
-    Section 72(1): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(1): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 72(1)(b): amended, on 29 December 2001, by [section 7][768] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
     
-    Section 72(1)(d)(i): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(1)(d)(i): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 72(1)(d)(ii): amended, on 1 November 2009, by [section 16(1)][769] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 72(1)(d)(ii): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(1)(d)(ii): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 72(1)(e): added, on 1 November 2009, by [section 16(1)][769] of the Land Transport Amendment Act 2009 (2009 No 17).
     
@@ -5995,17 +5993,17 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 72(1C): inserted, on 1 November 2009, by [section 16(2)][769] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 72(2): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(2): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 72(3): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(3): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 72(4): amended, on 5 November 2011, by [section 33(1)][770] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 72(4)(a): amended, on 5 November 2011, by [section 33(2)][770] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 72(4)(a): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(4)(a): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 72(5)(b): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(5)(b): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 73 Who must give blood specimen in hospital or surgery
     
@@ -6053,25 +6051,25 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Compare: 1962 No 135 [s 58D][771]
     
-    Section 73(1)(a): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(1)(a): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 73(1)(b): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(1)(b): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 73(2)(a): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(2)(a): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 73(2)(b): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(2)(b): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 73(3): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(3): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 73(3)(a): amended, on 5 November 2011, by [section 34(1)][772] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 73(3)(a): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(3)(a): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 73(3)(b): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(3)(b): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 73(4): amended, on 5 November 2011, by [section 34(2)][772] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 73(4): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(4): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 73(5): amended, on 5 November 2011, by [section 34(3)][772] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -6079,7 +6077,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 73(5): amended, on 22 June 2005, by [section 37(b)][773] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 73(5): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(5): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 73(5)(a): substituted, on 1 November 2009, by [section 17][774] of the Land Transport Amendment Act 2009 (2009 No 17).
     
@@ -6153,7 +6151,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 74(3): amended, on 5 November 2011, by [section 35(2)][781] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 74(4): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 74(4): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 74(4)(a): amended, on 5 November 2011, by [section 35(3)][781] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -6243,17 +6241,17 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 75(2): substituted, on 5 November 2011, by [section 36(1)][784] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 75(3): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 75(3): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 75(3)(b): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 75(3)(b): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 75(3)(c): substituted, on 5 November 2011, by [section 36(2)][784] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 75(4): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 75(4): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 75(4)(b): amended, on 5 November 2011, by [section 36(3)][784] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 75(4)(b): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 75(4)(b): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 75(4)(c): substituted, on 5 November 2011, by [section 36(4)][784] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -6307,7 +6305,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Section 76(1)(c): amended, on 5 November 2011, by [section 37][787] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 76(1)(c): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 76(1)(c): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 77 Presumptions relating to alcohol-testing
     
@@ -6405,7 +6403,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
     Compare: 1962 No 135 [s 58H][790]
     
-    Section 79(1): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 79(1): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 79(2): amended, on 1 November 2009, by [section 20(1)][791] of the Land Transport Amendment Act 2009 (2009 No 17).
     
@@ -6454,9 +6452,9 @@ Offences relating to transport services and penalties
     
     Section 79A: inserted, on 1 October 2007, by [section 38][794] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 79A(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 79A(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 79A(8): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 79A(8): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 79B Provision of incorrect information
     
@@ -6466,7 +6464,7 @@ Offences relating to transport services and penalties
     
     Section 79B: inserted, on 1 October 2007, by [section 38][794] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 79B: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 79B: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 79C Failure to present vehicle for inspection
     
@@ -6476,7 +6474,7 @@ Offences relating to transport services and penalties
     
     Section 79C: inserted, on 1 October 2007, by [section 38][794] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 79C(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 79C(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 79D Contravention of section 30K
     
@@ -6598,13 +6596,15 @@ Offences relating to transport services and penalties
     
     (2) The maximum penalty, on summary conviction for an offence against subsection (1), is a fine not exceeding $500\.
     
-    (3) For the purposes of this section, **public transport service** has the same meaning as in [section 4][511] of the Public Transport Management Act 2008\.
+    (3) For the purposes of this section, **public transport service** has the same meaning as in [section 5][538] of the Land Transport Management Act 2003\.
     
     Section 79M: inserted, on 1 October 2007, by [section 38][794] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 79M(1): amended, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 79M(1): amended, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 79M(3): added, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 79M(3): added, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
+    
+    Section 79M(3): amended, on 13 June 2013, by [section 72][549] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ## Part 6B  
 Offences relating to work time and logbooks
@@ -6691,7 +6691,7 @@ Offences relating to work time and logbooks
     
     Section 79O(a)(i)(B): amended, on 7 August 2011, by [section 41(3)][802] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 79O(a)(ii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 79O(a)(ii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 79O(b): amended, on 7 August 2011, by [section 41(4)][802] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -6997,17 +6997,17 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 83(1)(a): substituted, on 16 January 2006, by [section 43(2)][815] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 83(1)(a)(i): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 83(1)(a)(i): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 83(1)(a)(ii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 83(1)(a)(ii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 83(1)(b): amended, on 1 December 2009, by [section 19][816] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 83(1)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 83(1)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 83(1A): inserted, on 16 January 2006, by [section 43(3)][815] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 83(1A): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 83(1A): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 84 New licence to be issued if disqualified driver qualifies for specified vehicle classes
     
@@ -7039,9 +7039,9 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 84(1)(a): amended, on 10 May 2011, by [section 49(2)][817] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 84(1)(b)(ii)(A): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 84(1)(b)(ii)(A): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 84(1)(b)(ii)(B): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 84(1)(b)(ii)(B): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 84(2): substituted, on 10 May 2011, by [section 49(3)][817] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
@@ -7089,7 +7089,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 87 heading: amended, on 10 September 2012, by [section 50(1)][821] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 87 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 87(1): replaced, on 10 September 2012, by [section 50(2)][821] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -7107,7 +7107,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 87A: inserted, on 1 October 2007, by [section 45][822] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 87A: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87A: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 87B Disqualification of holder of transport service licence from holding transport service licence
     
@@ -7119,7 +7119,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 87B: inserted, on 1 October 2007, by [section 45][822] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 87B: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87B: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 87C Procedure for disqualifying person under section 87A or section 87B
     
@@ -7165,9 +7165,9 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 87D(1): amended, on 10 May 2011, by [section 51][825] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 87D(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87D(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 87D(2)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87D(2)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 87E Procedure for suspending persons under section 87D
     
@@ -7203,9 +7203,9 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 87F: inserted, on 1 October 2007, by [section 45][822] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 87F(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87F(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 87F(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87F(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Effect of disqualification or suspension of transport service driver and other persons
     
@@ -7227,9 +7227,9 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 87G: inserted, on 1 October 2007, by [section 45][822] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 87G(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87G(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 87G(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 87G(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Demerit points system
 
@@ -7261,11 +7261,11 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Compare: 1962 No 135 [ss 42A(10)][828], [44][829]
     
-    Section 88 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 88 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 88(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 88(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 88(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 88(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 88(5): substituted, on 23 July 2011, by [section 6][830] of the Land Transport Amendment Act 2011 (2011 No 31). 
     
@@ -7289,7 +7289,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Compare: 1962 No 135 [s 47][831]
     
-    Section 89(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 89(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 90 Suspension of licence or disqualification from driving under demerit points system
     
@@ -7333,11 +7333,11 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Compare: 1962 No 135 [s 46][833]
     
-    Section 91(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 91(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 91(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 91(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 91(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 91(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Other penalties
 
@@ -7365,11 +7365,11 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Compare: 1962 No 135 [s 68][834]
     
-    Section 92(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 92(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 92(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 92(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 92(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 92(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 92(4): replaced, on 10 September 2012, by [section 55][835] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -7399,11 +7399,11 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 93(1): amended, on 10 May 2011, by [section 56(1)][837] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 93(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 93(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 93(3)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 93(3)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 93(3)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 93(3)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 93(4): amended, on 10 May 2011, by [section 56(2)][837] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -7411,7 +7411,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 93(6): amended, on 10 May 2011, by [section 56(4)][837] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 93(6): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 93(6): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 94 Substitution of community-based sentences
     
@@ -7563,7 +7563,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 95(1A)(b): amended, on 16 January 2006, by [section 49(4)][844] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 95(6)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 95(6)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
     
     Section 95(8): added, on 29 December 2001, by [section 10(2)][846] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
     
@@ -7723,7 +7723,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
             
         *   (i) released; or
         
-        *   (ii) seized under the [Summary Proceedings Act 1957][529]; or
+        *   (ii) seized under the [Summary Proceedings Act 1957][528]; or
         
         *   (iii) confiscated under the [Sentencing Act 2002][839].
         
@@ -7781,7 +7781,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 96(2)(a)(iia): inserted, on 2 May 2003 by [section 8(3)][848] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
     
-    Section 96(2)(c): substituted, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 96(2)(c): substituted, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 96(2A): inserted, on 1 December 2009, by [section 22(5)][851] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
@@ -7801,7 +7801,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 96(8)(b): amended, on 16 January 2006, by [section 50(5)][850] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 96(8)(b)(i): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 96(8)(b)(i): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 96(9): added, on 2 May 2003, by [section 8(5)][848] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
 
@@ -7897,7 +7897,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
             
         *   (i) released; or
         
-        *   (ii) seized under the [Summary Proceedings Act 1957][529]; or
+        *   (ii) seized under the [Summary Proceedings Act 1957][528]; or
         
         *   (iii) confiscated under the [Sentencing Act 2002][839].
         
@@ -7913,7 +7913,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 96A(2)(a)(ii): amended, on 1 December 2009, by [section 23(2)][854] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 96A(2)(c): substituted, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 96A(2)(c): substituted, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 96A(2A): inserted, on 1 December 2009, by [section 23(3)][854] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
@@ -7937,7 +7937,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     (3) The fees and charges referred to in subsection (2) are recoverable from the owner of the impounded vehicle by the vehicle recovery service operator or storage provider.
     
-    (3A) The fees and charges referred to in subsection (2) are recoverable from the chief executive of the Ministry of Justice by the vehicle recovery service operator or storage provider if an impounded vehicle is seized or confiscated from impoundment under the [Summary Proceedings Act 1957][529] or the [Sentencing Act 2002][839].
+    (3A) The fees and charges referred to in subsection (2) are recoverable from the chief executive of the Ministry of Justice by the vehicle recovery service operator or storage provider if an impounded vehicle is seized or confiscated from impoundment under the [Summary Proceedings Act 1957][528] or the [Sentencing Act 2002][839].
     
     (4) Nothing in subsection (3) limits or affects any rights against the owner of the vehicle, or in respect of the vehicle, that may be exercised by the vehicle recovery service operator or storage provider.
     
@@ -8047,9 +8047,9 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 98(1): substituted, on 1 December 2009, by [section 25(1)][863] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 98(1): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 98(1): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 98(1)(a)(i): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 98(1)(a)(i): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 98(2): amended, on 1 December 2009, by [section 25(2)][863] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
@@ -8212,7 +8212,7 @@ Mitigation of penalties and rights of appeal
     
     Section 99(1): substituted, on 16 January 2006, by [section 53(2)][870] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 99(1)(b)(via): inserted, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 99(1)(b)(via): inserted, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 99(1)(b)(x): amended, on 1 November 2009, by [section 39(2)][871] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
@@ -8226,7 +8226,7 @@ Mitigation of penalties and rights of appeal
     
     Section 99(3)(c): amended, on 16 January 2006, by [section 53(6)][870] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 99(3)(d): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 99(3)(d): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 99(5): amended, on 16 January 2006, by [section 53(7)][870] of the Land Transport Amendment Act 2005 (2005 No 77).
 
@@ -8238,11 +8238,11 @@ Mitigation of penalties and rights of appeal
     
     Section 99A: inserted, on 16 January 2006, by [section 54][872] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 99A heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 99A heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 99A(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 99A(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 99A(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 99A(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 100 Agency to remove certain disqualifications
     
@@ -8264,19 +8264,19 @@ Mitigation of penalties and rights of appeal
     
     Compare: 1962 No 135 [s 30C][873]
     
-    Section 100 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 100 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 100(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 100(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 100(1)(a)(i): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 100(1)(a)(i): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 100(1)(a)(i): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48)
+    Section 100(1)(a)(i): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48)
     
-    Section 100(1)(a)(ii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 100(1)(a)(ii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 100(1)(b): repealed, on 16 January 2006, by [section 55(1)][874] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 100(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 100(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 100(3): amended, on 16 January 2006, by [section 55(2)][874] of the Land Transport Amendment Act 2005 (2005 No 77). 
 
@@ -8324,15 +8324,15 @@ Mitigation of penalties and rights of appeal
     
     (5) The Agency may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
     
-    Section 101 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 101 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 101(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 101(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 101(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 101(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 101(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 101(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 101(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 101(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 102 Appeal to Police against impoundment of vehicle
     
@@ -8422,7 +8422,7 @@ Mitigation of penalties and rights of appeal
         
         *   (iii) for an offence against [section 33(1)][108] (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
         
-        *   (iv) for an offence against a provision of the [Transport Act 1962][514] that corresponds to an offence specified in any of subparagraphs (i) to (iii)---
+        *   (iv) for an offence against a provision of the [Transport Act 1962][513] that corresponds to an offence specified in any of subparagraphs (i) to (iii)---
         
         committed within 5 years after the commission of any other offence specified in this paragraph and arising from a different incident (whether or not both offences are of the same kind, regardless of when convictions were entered for those offences):
     
@@ -8436,7 +8436,7 @@ Mitigation of penalties and rights of appeal
     
     Compare: 1962 No 135 [s 38(1)--(1B)][879]
     
-    Section 103(2)(d)(ii): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 103(2)(d)(ii): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 103(2)(d)(iii): amended, on 22 June 2005, by [section 57][880] of the Land Transport Amendment Act 2005 (2005 No 77).
     
@@ -8448,7 +8448,7 @@ Mitigation of penalties and rights of appeal
     
 *   (1) No order may be made under [section 105][265] that authorises a person to obtain a limited licence before the expiration of 28 days from the date the order of disqualification takes effect if the person is disqualified on conviction---
         
-    *   (a) for an offence against this Act or the [Transport Act 1962][514] involving driving hours or logbooks; or
+    *   (a) for an offence against this Act or the [Transport Act 1962][513] involving driving hours or logbooks; or
     
     *   (b) for an offence against any of [sections 35][112], [36][113], [38][119], and [39][120] (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident); or
     
@@ -8470,7 +8470,7 @@ Mitigation of penalties and rights of appeal
     
     Compare: 1962 No 135 [s 38(2)(a)--(c)][879]
     
-    Section 104(1)(c): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 104(1)(c): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 104(2): amended, on 10 May 2011, by [section 65][882] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -8550,7 +8550,7 @@ Mitigation of penalties and rights of appeal
     
     Section 105(7)(a): amended, on 23 July 2011, by [section 11(2)][886] of the Land Transport Amendment Act 2011 (2011 No 31).
     
-    Section 105(8): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 105(8): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 105(9): added, on 22 June 2005, by [section 59][887] of the Land Transport Amendment Act 2005 (2005 No 77).
 
@@ -8568,11 +8568,11 @@ Mitigation of penalties and rights of appeal
     
     (5) Subsection (1) does not apply if a right of appeal to a District Court against the decision concerned is conferred by some other section of this Act.
     
-    Section 106(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 106(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 106(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 106(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 106(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 106(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 107 Appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification
     
@@ -8612,7 +8612,7 @@ Mitigation of penalties and rights of appeal
     
     Section 107(2B): inserted, on 22 June 2005, by [section 60][893] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 107(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 107(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 108 Appeal against Agency's refusal to remove disqualification
     
@@ -8630,15 +8630,15 @@ Mitigation of penalties and rights of appeal
     
     *   (b) dismiss the appeal.
     
-    Section 108 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 108(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 108(1)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108(1)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 108(1)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108(1)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 108(2)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108(2)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 109 Appeal against refusal of Agency to remove suspension of driver licence
     
@@ -8652,11 +8652,11 @@ Mitigation of penalties and rights of appeal
     
     *   (b) dismiss the appeal.
     
-    Section 109 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 109 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 109(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 109(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 109(3)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 109(3)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 110 Appeal against refusal of Police to direct release of impounded vehicle
     
@@ -8740,9 +8740,9 @@ Mitigation of penalties and rights of appeal
     
     (3) If a conviction for an offence to which [section 88][234] applies is quashed on an application for judicial review, demerit points may not be recorded for that offence or (if recorded) the Agency must cancel the demerit points recorded and any disqualification imposed for that offence.
     
-    Section 112(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 112(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 112(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 112(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part 9  
 Enforcement of responsibilities
@@ -8753,7 +8753,7 @@ Enforcement of responsibilities
     
 *   (1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of---
         
-    *   (a) the [Local Government Act 1974][538], the [Local Government Act 2002][523], the [Road User Charges Act 2012][518], the [Public Transport Management Act 2008][899], the [Government Roading Powers Act 1989][520], the [Railways Act 2005][521], the [Land Transport Management Act 2003][900], and this Act:
+    *   (a) the [Local Government Act 1974][537], the [Local Government Act 2002][522], the [Road User Charges Act 2012][517], the [Government Roading Powers Act 1989][519], the [Railways Act 2005][520], the [Land Transport Management Act 2003][899], and this Act:
     
     *   (b) regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
     
@@ -8791,27 +8791,29 @@ Enforcement of responsibilities
     
     (4) In paragraphs (c) and (d) of subsection (2), _road_ includes any land vested in or under the control of the Crown or any local authority.
     
-    Compare: 1962 No 135 [s 68B][901]
+    Compare: 1962 No 135 [s 68B][900]
     
-    Section 113(1)(a): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 113(1)(a): amended, on 13 June 2013, by [section 72][549] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 113(1)(a): amended, on 10 May 2011, by [section 67][902] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 113(1)(a): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 113(1)(a): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 113(1)(a): amended, on 10 May 2011, by [section 67][901] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 113(1)(a): amended, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 113(1)(a): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 113(1)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 113(1)(a): amended, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
+    
+    Section 113(1)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 113(1)(a): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37). 
     
-    Section 113(1)(a): amended, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 113(1)(a): amended, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
     Section 113(1)(a): amended, on 1 July 2003, by [section 262][559] of the Local Government Act 2002 (2002 No 84). 
     
-    Section 113(2)(a): amended, on 1 December 2009, by [section 29][903] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 113(2)(a): amended, on 1 December 2009, by [section 29][902] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 113(2)(f): added, on 1 October 2007, by [section 62][904] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 113(2)(f): added, on 1 October 2007, by [section 62][903] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 ##### 113A Power to inspect records
     
@@ -8819,9 +8821,9 @@ Enforcement of responsibilities
     
     (2) The enforcement officer may take extracts from or make copies of any books or records so produced.
     
-    Compare: 1989 No 74 [s 63A][905]
+    Compare: 1989 No 74 [s 63A][904]
     
-    Section 113A: inserted, on 1 October 2007, by [section 63][906] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 113A: inserted, on 1 October 2007, by [section 63][905] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 ##### 114 Power to require driver to stop and give name and address, etc
     
@@ -8855,11 +8857,11 @@ Enforcement of responsibilities
     
     *   (b) given false or misleading information under this section.
     
-    Compare: 1962 No 135 [s 66][907]
+    Compare: 1962 No 135 [s 66][906]
     
-    Section 114(2A): inserted, on 22 June 2005, by [section 64][908] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 114(2A): inserted, on 22 June 2005, by [section 64][907] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 114(3)(b)(i): amended, on 1 December 2009, by [section 30][909] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 114(3)(b)(i): amended, on 1 December 2009, by [section 30][908] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
 
 ##### 115 Enforcement officers may give directions prohibiting driving of vehicles
     
@@ -8907,35 +8909,35 @@ Enforcement of responsibilities
     
     (6) A notice given by the Minister in the _Gazette_ for any purpose specified in this section, and a corresponding notice given under any former enactment and continued in force by this Act, may be amended from time to time, or revoked, by the Minister in the same manner.
     
-    Compare: 1962 No 135 [s 68B(2A)][901]
+    Compare: 1962 No 135 [s 68B(2A)][900]
     
-    Section 115(1): substituted, on 16 January 2006, by [section 65][910] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 115(1): substituted, on 16 January 2006, by [section 65][909] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 115(1)(a): amended, on 7 August 2011, by [section 68(1)][911] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 115(1)(a): amended, on 7 August 2011, by [section 68(1)][910] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 115(1)(b): amended, on 7 August 2011, by [section 68(2)][911] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 115(1)(b): amended, on 7 August 2011, by [section 68(2)][910] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 115(2): substituted, on 16 January 2006, by [section 65][910] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 115(2): substituted, on 16 January 2006, by [section 65][909] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 115(2)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 115(2)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 115(2)(c): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 115(2)(c): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 115(2A): inserted, on 16 January 2006, by [section 65][910] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 115(2A): inserted, on 16 January 2006, by [section 65][909] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 115(3)(a): amended, on 7 August 2011, by [section 68(3)][911] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 115(3)(a): amended, on 7 August 2011, by [section 68(3)][910] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 115(3)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 115(3)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 115(3)(b)(i): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 115(3)(b)(i): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 115(3)(b)(iii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 115(3)(b)(iii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 115(3A): inserted, on 1 December 2009, by [section 31][912] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 115(3A): inserted, on 1 December 2009, by [section 31][911] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 115(3B): inserted, on 1 December 2009, by [section 31][912] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 115(3B): inserted, on 1 December 2009, by [section 31][911] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 115(6): amended, on 7 August 2011, by [section 68(4)][911] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 115(6): amended, on 7 August 2011, by [section 68(4)][910] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 116 Enforcement of directions
     
@@ -8943,7 +8945,7 @@ Enforcement of responsibilities
     
     (2) A person charged with an offence of contravening a prohibition imposed under [section 115(3)][282] does not commit an offence unless the court is satisfied that the enforcement officer had reasonable grounds for believing that in all the circumstances the prohibition was necessary in the interests of the safety of the driver or person in charge of the vehicle or of any other person or of the public.
     
-    Compare: 1962 No 135 [s 68B(1C)][901]
+    Compare: 1962 No 135 [s 68B(1C)][900]
 
 ##### 117 Moved vehicle not to be damaged and to be returned to person entitled to possession
     
@@ -8965,7 +8967,7 @@ Enforcement of responsibilities
     
     must release the vehicle to that person immediately.
     
-    Compare: 1962 No 135 [s 68B(5)][901]
+    Compare: 1962 No 135 [s 68B(5)][900]
 
 ##### 118 Owner or hirer or licence holder to give information as to identity of driver or passenger
     
@@ -8981,17 +8983,17 @@ Enforcement of responsibilities
     
     (6) If the holder of a transport service licence employs any person to drive a vehicle under that licence, the licence holder, on being informed of any offence alleged to have been committed by that person or by a person driving a vehicle being used under the licence, and on being requested to do so by an enforcement officer, must supply in writing the full name and address of the driver.
     
-    Compare: 1962 No 135 [s 67][913]; 1989 No 74 [s 32(1)][914]
+    Compare: 1962 No 135 [s 67][912]; 1989 No 74 [s 32(1)][913]
     
-    Section 118 heading: amended, on 1 October 2007, by [section 66(1)][915] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 118 heading: amended, on 1 October 2007, by [section 66(1)][914] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 118(3): amended, on 1 October 2007, by [section 66(2)(a)][915] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 118(3): amended, on 1 October 2007, by [section 66(2)(a)][914] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 118(3): amended, on 1 October 2007, by [section 66(2)(b)][915] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 118(3): amended, on 1 October 2007, by [section 66(2)(b)][914] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 118(6): added, on 1 October 2007, by [section 66(3)][915] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 118(6): added, on 1 October 2007, by [section 66(3)][914] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 118 compare note: substituted, on 1 October 2007, by [section 66(4)][915] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 118 compare note: substituted, on 1 October 2007, by [section 66(4)][914] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 #### Powers of entry, arrest, immobilisation, and impoundment
 
@@ -9015,7 +9017,7 @@ Enforcement of responsibilities
     
     *   (b) exercising or completing the exercise of any such power in respect of that person (as if the person were in a motor vehicle on a road).
     
-    (2A) The provisions of [Part 4 ][916]of the Search and Surveillance Act 2012 (except [subpart 3][917]) apply in respect of the power in subsection (2).
+    (2A) The provisions of [Part 4 ][915]of the Search and Surveillance Act 2012 (except [subpart 3][916]) apply in respect of the power in subsection (2).
     
     (3) An enforcement officer may, without warrant, enter, by force if necessary, a building or place where a vehicle to which [section 96][246], [96A][247], or [123][292] applies is being stored or kept, and seize and impound the vehicle,---
         
@@ -9033,25 +9035,25 @@ Enforcement of responsibilities
     
     (4) For the purposes of seizing and impounding a vehicle under [section 96][246] or [section 96A][247] or [section 123][292] in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5).
     
-    (5) An enforcement officer may apply, in the manner provided for an application for a search warrant in [subpart 3][917] of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of [section 3][918] of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which [section 96][246] or [section 96A][247] or [section 123][292] applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
+    (5) An enforcement officer may apply, in the manner provided for an application for a search warrant in [subpart 3][916] of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of [section 3][917] of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which [section 96][246] or [section 96A][247] or [section 123][292] applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
     
-    (6) The provisions of [Part 4][916] of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for [subpart 3][917] of that Part in relation to subsection (3)).
+    (6) The provisions of [Part 4][915] of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for [subpart 3][916] of that Part in relation to subsection (3)).
     
     (7) An enforcement officer who enters any premises under this section may not exercise on those premises any power of arrest conferred by this Act other than a power of arrest conferred by any of [sections 68(3)][165], [69(6)][166], and [120][288].
     
-    Compare: 1962 No 135 [s 66A][919]
+    Compare: 1962 No 135 [s 66A][918]
     
-    Section 119(2A): inserted, on 1 October 2012, by [section 268(2)][920] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(2A): inserted, on 1 October 2012, by [section 268(2)][919] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(3): replaced, on 1 October 2012, by [section 268(3)][920] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(3): replaced, on 1 October 2012, by [section 268(3)][919] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(4): amended, on 1 October 2007, by [section 67(2)][921] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 119(4): amended, on 1 October 2007, by [section 67(2)][920] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 119(5): amended, on 1 October 2012, by [section 268(4)][920] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(5): amended, on 1 October 2012, by [section 268(4)][919] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(5): amended, on 1 October 2007, by [section 67(3)][921] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 119(5): amended, on 1 October 2007, by [section 67(3)][920] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 119(6): replaced, on 1 October 2012, by [section 268(5)][920] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(6): replaced, on 1 October 2012, by [section 268(5)][919] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 120 Arrest of persons for alcohol or drug-related offences, or assault on enforcement officer
     
@@ -9071,11 +9073,11 @@ Enforcement of responsibilities
     
     (5) The powers conferred by this section are in addition to any other powers of arrest under this Act.
     
-    Compare: 1962 No 135 [ss 62][922], [62A][923], [62B][924]
+    Compare: 1962 No 135 [ss 62][921], [62A][922], [62B][923]
     
-    Section 120(1A): inserted, on 1 November 2009, by [section 22][925] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 120(1A): inserted, on 1 November 2009, by [section 22][924] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 120(3): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 120(3): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
 
 ##### 121 Enforcement officer may immobilise vehicle, etc, in specified circumstances
     
@@ -9115,11 +9117,11 @@ Enforcement of responsibilities
     
     Compare: 1962 No 135 [s 63][751]
     
-    Section 121 heading: amended, on 10 May 2011, by [section 70][926] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 121 heading: amended, on 10 May 2011, by [section 70][925] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 121(1)(a)(i): substituted, on 1 November 2009, by [section 23][927] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 121(1)(a)(i): substituted, on 1 November 2009, by [section 23][926] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 121(1)(a)(ii): amended, on 1 October 2007, by [section 68][928] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 121(1)(a)(ii): amended, on 1 October 2007, by [section 68][927] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 ##### 121A Enforcement officer may give directions or immobilise vehicle if driver breaches certain licence conditions
     
@@ -9149,7 +9151,7 @@ Enforcement of responsibilities
         
         
     
-    Section 121A: inserted, on 1 December 2009, by [section 32][929] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 121A: inserted, on 1 December 2009, by [section 32][928] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
 
 ##### 122 Enforcement officer may seize and impound vehicle for up to 12 hours in emergency
     
@@ -9177,9 +9179,9 @@ Enforcement of responsibilities
     
     _serious traffic accident_ means an accident involving a vehicle that results in an injury to or the death of a person.
     
-    Section 123(3): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 123(3): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 123(3): amended, on 1 October 2008, pursuant to [section 116(b)][555] of the Policing Act 2008 (2008 No 72).
+    Section 123(3): amended, on 1 October 2008, pursuant to [section 116(b)][554] of the Policing Act 2008 (2008 No 72).
 
 #### Enforcement powers for offences involving certain vehicles
 
@@ -9205,7 +9207,7 @@ Enforcement of responsibilities
     
     *   (b) measure, or require to be measured, the weight of the vehicle or the weight on any of its axles:
     
-    *   (c) direct the driver or person in charge of the vehicle to drive the vehicle to a site and on to a weighing device specified by the enforcement officer for the purpose of enforcing the provisions of this Act or the [Road User Charges Act 2012][518] or any other enactment, even though the driver may not otherwise be permitted to drive the vehicle to that site.
+    *   (c) direct the driver or person in charge of the vehicle to drive the vehicle to a site and on to a weighing device specified by the enforcement officer for the purpose of enforcing the provisions of this Act or the [Road User Charges Act 2012][517] or any other enactment, even though the driver may not otherwise be permitted to drive the vehicle to that site.
     
     (2) The power conferred by subsection (1)(c) is also exercisable in respect of a vehicle an enforcement officer believes to be a heavy motor vehicle or transport service vehicle (other than a light rental service vehicle).
     
@@ -9217,7 +9219,7 @@ Enforcement of responsibilities
     
     (4) The driver of a heavy motor vehicle or goods service vehicle must, whenever directed by a sign displaying the words ""ALL TRUCKS STOP"" or by an enforcement officer, stop the vehicle and keep it stopped so that an enforcement officer may determine whether or not to take any action under subsection (1) or to complete the exercise of any other power conferred on an enforcement officer by this Act.
     
-    Section 125(1)(c): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 125(1)(c): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
 
 ##### 126 Off-loading of overweight vehicle
     
@@ -9257,7 +9259,7 @@ Enforcement of responsibilities
     
     (5) Subsection (4) overrides subsection (3).
     
-    Compare: 1962 No 135 [s 69A(2), (2AA), (2A)][930]
+    Compare: 1962 No 135 [s 69A(2), (2AA), (2A)][929]
 
 ##### 127 Protection against claims resulting from action under section 125 or section 126
     
@@ -9273,9 +9275,9 @@ Enforcement of responsibilities
     
     (2) This section does not apply if the enforcement officer concerned acted without good faith or if his or her omission or neglect is a major departure from the standard of care expected of a reasonable person in the circumstances.
     
-    Compare: 1962 No 135 [s 69A(5)][930]
+    Compare: 1962 No 135 [s 69A(5)][929]
     
-    Section 127(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 127(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
 
 ##### 128 Enforcement officer to order heavy vehicle to stop until load secured
     
@@ -9297,7 +9299,7 @@ Enforcement of responsibilities
     
     Compare: 1989 No 74 [s 37(2)][797]
     
-    Section 128A: inserted, on 1 October 2007, by [section 69][931] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 128A: inserted, on 1 October 2007, by [section 69][930] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 ##### 128B Enforcement officer's powers in respect of non-complying vehicle recovery service vehicles
     
@@ -9305,7 +9307,7 @@ Enforcement of responsibilities
     
     Compare: 1989 No 74 [s 38(2)][798]
     
-    Section 128B: inserted, on 1 October 2007, by [section 69][931] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 128B: inserted, on 1 October 2007, by [section 69][930] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 ##### 128C Enforcement officer's powers in respect of certain motor vehicles subject to service inspection and certification requirements
     
@@ -9325,7 +9327,7 @@ Enforcement of responsibilities
     
     *   (b) complete the exercise of any other power conferred on an enforcement officer by this Act.
     
-    Section 128C: inserted, on 1 December 2009, by [section 33][932] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 128C: inserted, on 1 December 2009, by [section 33][931] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
 
 ##### 128D Appointment of parking wardens
     
@@ -9341,7 +9343,7 @@ Enforcement of responsibilities
     
     *   (b) any directions given or control exercised by any other person over the parking warden in that capacity were directions given or control exercised by the local authority.
     
-    Section 128D: inserted, on 10 May 2011, by [section 71][933] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 128D: inserted, on 10 May 2011, by [section 71][932] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 128E Powers of parking wardens
     
@@ -9389,9 +9391,9 @@ Enforcement of responsibilities
     
     *   (b) fails to deliver possession of the vehicle, as soon as practicable, to a person who produces satisfactory evidence, at any reasonable time, to the effect that the person was lawfully entitled to possession of the vehicle immediately before it was moved.
     
-    Section 128E: inserted, on 10 May 2011, by [section 71][933] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 128E: inserted, on 10 May 2011, by [section 71][932] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 128E(1)(b): replaced, on 1 August 2012, by [section 12][934] of the Land Transport Amendment Act 2011 (2011 No 31).
+    Section 128E(1)(b): replaced, on 1 August 2012, by [section 12][933] of the Land Transport Amendment Act 2011 (2011 No 31).
 
 #### Dangerous goods
 
@@ -9413,7 +9415,7 @@ Enforcement of responsibilities
     
     (3) Nothing in this section limits or affects the privilege against self incrimination.
     
-    Compare: 1962 No 135 [s 70I][935]
+    Compare: 1962 No 135 [s 70I][934]
     
     Section 129(1): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
 
@@ -9449,7 +9451,7 @@ Enforcement of responsibilities
     
     (6) Nothing in this section limits or affects the privilege against self incrimination.
     
-    Compare: 1962 No 135 [s 70IA][936]
+    Compare: 1962 No 135 [s 70IA][935]
     
     Section 130 heading: amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
@@ -9461,7 +9463,7 @@ Enforcement of responsibilities
     
     Section 130(3)(a): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
-    Section 130(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 130(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 131 Power to inspect premises used for loading and unloading of dangerous goods
     
@@ -9489,7 +9491,7 @@ Enforcement of responsibilities
     
     (5) Nothing in this section limits or affects the privilege against self incrimination.
     
-    Compare: 1962 No 135 [s 70IB][937]
+    Compare: 1962 No 135 [s 70IB][936]
     
     Section 131(1)(a)(i): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37). 
     
@@ -9497,7 +9499,7 @@ Enforcement of responsibilities
     
     Section 131(2): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
-    Section 131(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 131(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 132 Inspection powers concerning dangerous goods
     
@@ -9515,7 +9517,7 @@ Enforcement of responsibilities
     
     *   (f) take copies of the documents or information or extracts from those documents or information.
     
-    Compare: 1962 No 135 [ss 70IA][936], [70IB][937]
+    Compare: 1962 No 135 [ss 70IA][935], [70IB][936]
 
 ## Part 10  
 Proceedings enforcing responsibilities
@@ -9526,7 +9528,7 @@ Proceedings enforcing responsibilities
         
     *   (a) the person who allegedly committed the offence:
     
-    *   (b) the person who, at the time of the alleged offence, was registered under [Part 17][444] in respect of the vehicle involved in the offence (or, if the offence is alleged to have been committed before the commencement of [section 242][457], a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of that vehicle in a register kept under [section 18][938] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986):
+    *   (b) the person who, at the time of the alleged offence, was registered under [Part 17][444] in respect of the vehicle involved in the offence (or, if the offence is alleged to have been committed before the commencement of [section 242][457], a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of that vehicle in a register kept under [section 18][937] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986):
     
     *   (c) a person who, at the time of the alleged offence, was lawfully entitled to possession of the vehicle involved in the offence (whether jointly with any other person or not);---
     
@@ -9538,7 +9540,7 @@ Proceedings enforcing responsibilities
     
     *   (b) the acts or omissions of the driver or person in charge of the vehicle at that time were the acts or omissions of the defendant.
     
-    (3) It is a defence to proceedings against a person for a moving vehicle offence or a special vehicle lane offence if another person has, by virtue of an order under the [Summary Proceedings Act 1957][529], become liable to pay a fine or costs, or both, in respect of the offence.
+    (3) It is a defence to proceedings against a person for a moving vehicle offence or a special vehicle lane offence if another person has, by virtue of an order under the [Summary Proceedings Act 1957][528], become liable to pay a fine or costs, or both, in respect of the offence.
     
     (4) It is a defence to proceedings against a person under paragraph (b) or paragraph (c) of subsection (1) if,---
         
@@ -9568,21 +9570,21 @@ Proceedings enforcing responsibilities
     
     (5) In proceedings for a moving vehicle offence or a special vehicle lane offence, a statutory declaration given under subsection (4) is, in the absence of proof to the contrary, sufficient evidence of the matters stated in the declaration; and it is admissible for all purposes of any proceedings under this section.
     
-    Section 133 heading: amended, on 10 May 2011, by [section 72(1)][939] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 133 heading: amended, on 10 May 2011, by [section 72(1)][938] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 133(1): amended, on 10 May 2011, by [section 72(2)][939] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 133(1): amended, on 10 May 2011, by [section 72(2)][938] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 133(1)(b): substituted, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 133(1)(b): substituted, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 133(2): amended, on 10 May 2011, by [section 72(3)][939] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 133(2): amended, on 10 May 2011, by [section 72(3)][938] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 133(2)(a): amended, on 10 May 2011, by [section 72(4)][939] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 133(2)(a): amended, on 10 May 2011, by [section 72(4)][938] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 133(3): amended, on 10 May 2011, by [section 72(5)][939] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 133(3): amended, on 10 May 2011, by [section 72(5)][938] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 133(4)(c)(i): replaced, on 1 August 2012, by [section 13][940] of the Land Transport Amendment Act 2011 (2011 No 31).
+    Section 133(4)(c)(i): replaced, on 1 August 2012, by [section 13][939] of the Land Transport Amendment Act 2011 (2011 No 31).
     
-    Section 133(5): amended, on 10 May 2011, by [section 72(6)][939] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 133(5): amended, on 10 May 2011, by [section 72(6)][938] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 133A Owner liability for stationary vehicle offences
     
@@ -9592,7 +9594,7 @@ Proceedings enforcing responsibilities
     
     *   (b) the person who, at the time of the alleged offence,---
             
-        *   (i) was registered as the owner, or one of the owners, of the vehicle involved in the offence in a register kept under [section 18][938] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
+        *   (i) was registered as the owner, or one of the owners, of the vehicle involved in the offence in a register kept under [section 18][937] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
         
         *   (ii) was the registered person in respect of the vehicle under [Part 17][444] of this Act:
         
@@ -9606,7 +9608,7 @@ Proceedings enforcing responsibilities
     
     *   (b) the acts or omissions of the driver, person in charge, or user of the vehicle at that time were the acts or omissions of the first-mentioned person.
     
-    (3) It is a defence to proceedings taken against a person for a stationary vehicle offence if the person proves that another person has, by virtue of an order under the [Summary Proceedings Act 1957][529], become liable to pay a fine or costs, or both, in respect of the offence.
+    (3) It is a defence to proceedings taken against a person for a stationary vehicle offence if the person proves that another person has, by virtue of an order under the [Summary Proceedings Act 1957][528], become liable to pay a fine or costs, or both, in respect of the offence.
     
     (4) It is a defence to proceedings taken against a person under subsection (1)(b) or (c) if---
         
@@ -9636,11 +9638,11 @@ Proceedings enforcing responsibilities
     
     (5) In the case of any stationary vehicle offence, any defence available under subsection (3) or (4) is in addition to and not in substitution for any defences available under the enactment creating the offence.
     
-    Compare: 1962 No 135 [s 41A][941]
+    Compare: 1962 No 135 [s 41A][940]
     
-    Section 133A: inserted, on 10 May 2011, by [section 73][942] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 133A: inserted, on 10 May 2011, by [section 73][941] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 133A(4)(c): replaced, on 1 August 2012, by [section 14][943] of the Land Transport Amendment Act 2011 (2011 No 31).
+    Section 133A(4)(c): replaced, on 1 August 2012, by [section 14][942] of the Land Transport Amendment Act 2011 (2011 No 31).
 
 ##### 134 Strict liability for offences involving insecure loads and loads falling from vehicles
     
@@ -9672,9 +9674,9 @@ Proceedings enforcing responsibilities
     
     Compare: 1962 No 135 [s 70][573]
     
-    Section 134(4)(a): amended, on 29 June 2009, by [section 24][944] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 134(4)(a): amended, on 29 June 2009, by [section 24][943] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 134(4)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 134(4)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Commencement of proceedings
 
@@ -9688,13 +9690,13 @@ Proceedings enforcing responsibilities
     
     (2) A District Court presided over by 2 or more Justices of the Peace or 1 or more Community Magistrates has jurisdiction in respect of any summary offence under [Part 5][104] or [Part 6][142], or under any regulations made under this Act (other than regulations relating to heavy motor vehicles), that is not punishable by imprisonment.
     
-    Compare: 1962 No 135 [s 194][945]
+    Compare: 1962 No 135 [s 194][944]
     
-    Section 135(1A): inserted, on 1 October 2007, by [section 71][946] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 135(1A): inserted, on 1 October 2007, by [section 71][945] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 135(1A): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 135(1A): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 135(1B): inserted, on 1 October 2007, by [section 71][946] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 135(1B): inserted, on 1 October 2007, by [section 71][945] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 ##### 136 Time for instituting proceedings
     
@@ -9702,7 +9704,7 @@ Proceedings enforcing responsibilities
     
     (2) If a delay in instituting the proceedings has been caused by a change in the address of the defendant, the delay is not an unreasonable delay for the purposes of this section.
     
-    (3) [Section 14][947] of the Summary Proceedings Act 1957 does not apply to a prosecution for---
+    (3) [Section 14][946] of the Summary Proceedings Act 1957 does not apply to a prosecution for---
         
     *   (a) an offence against---
             
@@ -9724,13 +9726,13 @@ Proceedings enforcing responsibilities
         
         
     
-    Compare: 1962 No 135 [s 195][948]
+    Compare: 1962 No 135 [s 195][947]
     
-    Section 136(3)(a): substituted, on 10 May 2011, by [section 74(1)][949] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 136(3)(a): substituted, on 10 May 2011, by [section 74(1)][948] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 136(3)(b): substituted, on 1 October 2007, by [section 72][950] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 136(3)(b): substituted, on 1 October 2007, by [section 72][949] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 136(3)(b)(iia): inserted, on 10 May 2011, by [section 74(2)][949] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 136(3)(b)(iia): inserted, on 10 May 2011, by [section 74(2)][948] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 #### Certain matters not defences
 
@@ -9740,7 +9742,7 @@ Proceedings enforcing responsibilities
     
     (2) It is no defence to a charge of manslaughter that the guilty act or omission proved against the person charged is an offence against this Act.
     
-    Compare: 1962 No 135 [s 54][951]
+    Compare: 1962 No 135 [s 54][950]
 
 #### Infringement offences
 
@@ -9770,7 +9772,7 @@ Proceedings enforcing responsibilities
     
     *   (d) if the person is a holder of a land transport document, by serving it, or a copy of it, by post on that person at his or her last address for service provided for the purposes of that document.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][529],---
+    (3) For the purposes of the [Summary Proceedings Act 1957][528],---
         
     *   (a) an infringement notice attached to a vehicle under paragraph (a) of subsection (2) is to be treated as having been served when it is attached to the vehicle:
     
@@ -9782,21 +9784,21 @@ Proceedings enforcing responsibilities
     
     (6) If a parking warden has reason to believe that the user of a vehicle has committed an infringement offence that may be enforced by a parking warden under [section 128E][303],---
         
-    *   (a) the user of the vehicle may be proceeded against for the alleged offence under the [Summary Proceedings Act 1957][529]; or
+    *   (a) the user of the vehicle may be proceeded against for the alleged offence under the [Summary Proceedings Act 1957][528]; or
     
     *   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
     
-    (7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under [section 9(1)(e) or (g)][952] of the Airport Authorities Act 1966, _enforcement officer_ includes officers appointed by an airport authority.
+    (7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under [section 9(1)(e) or (g)][951] of the Airport Authorities Act 1966, _enforcement officer_ includes officers appointed by an airport authority.
     
     Compare: 1993 No 88 s 32
     
-    Section 139(4): repealed, on 1 August 2012, by [section 15][953] of the Land Transport Amendment Act 2011 (2011 No 31).
+    Section 139(4): repealed, on 1 August 2012, by [section 15][952] of the Land Transport Amendment Act 2011 (2011 No 31).
     
-    Section 139(5): repealed, on 1 August 2012, by [section 15][953] of the Land Transport Amendment Act 2011 (2011 No 31).
+    Section 139(5): repealed, on 1 August 2012, by [section 15][952] of the Land Transport Amendment Act 2011 (2011 No 31).
     
-    Section 139(6): added, on 10 May 2011, by [section 75][954] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 139(6): added, on 10 May 2011, by [section 75][953] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 139(7): added, on 10 May 2011, by [section 75][954] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 139(7): added, on 10 May 2011, by [section 75][953] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 139A Towage fees if parking offences prosecuted
     
@@ -9808,9 +9810,9 @@ Proceedings enforcing responsibilities
     
     (2) If, in proceedings in respect of a parking offence (including proceedings commenced by the filing of a copy of a reminder notice under [section 21(5)][827] of the Summary Proceedings Act 1957 or the provision of particulars of a reminder notice under section 21 of that Act), the defendant is ordered to pay an amount in respect of a towage fee, the amount of the fee recovered must be paid to the enforcement authority that incurred the towage expenses.
     
-    Compare: 1962 No 135 [s 43A][955]
+    Compare: 1962 No 135 [s 43A][954]
     
-    Section 139A: inserted, on 10 May 2011, by [section 76][956] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 139A: inserted, on 10 May 2011, by [section 76][955] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 140 Contents of infringement and reminder notices
     
@@ -9848,7 +9850,7 @@ Proceedings enforcing responsibilities
     
     (3) Different forms of infringement notices and reminder notices may be prescribed for different kinds of infringement offences.
     
-    Section 140: replaced, on 1 August 2012, by [section 16][957] of the Land Transport Amendment Act 2011 (2011 No 31).
+    Section 140: replaced, on 1 August 2012, by [section 16][956] of the Land Transport Amendment Act 2011 (2011 No 31).
 
 ##### 141 Provisions relating to infringement fees
     
@@ -9856,7 +9858,7 @@ Proceedings enforcing responsibilities
     
     (2) If an infringement fee is paid to an enforcement authority other than the Police, the enforcement authority must give the Commissioner the particulars of the infringement and of the payment that the Commissioner requires.
     
-    (3) Subject to subsections (4) and (5), all infringement fees received under this Act by an enforcement authority or recovered under the [Summary Proceedings Act 1957][529] must be paid into a Crown Bank Account, except that the enforcement authority may retain any portion of the fees so received that the Minister of Finance from time to time approves as being the expenses incidental to their collection.
+    (3) Subject to subsections (4) and (5), all infringement fees received under this Act by an enforcement authority or recovered under the [Summary Proceedings Act 1957][528] must be paid into a Crown Bank Account, except that the enforcement authority may retain any portion of the fees so received that the Minister of Finance from time to time approves as being the expenses incidental to their collection.
     
     (4) An enforcement authority that is the Agency or a local authority may retain the portion of the infringement fees received by it under this Act---
         
@@ -9884,7 +9886,7 @@ Proceedings enforcing responsibilities
     
     (8) For the purposes of this section, _road controlling authority_ includes an airport authority.
     
-    Section 141: substituted, on 10 May 2011, by [section 77][958] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 141: substituted, on 10 May 2011, by [section 77][957] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 #### Evidence
 
@@ -9906,15 +9908,15 @@ Proceedings enforcing responsibilities
     
     Compare: 1962 No 135 [s 42A(11)][828]
     
-    Section 142(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 142(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 142(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 142(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 142(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 142(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 142(2)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 142(2)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 142(2)(a): amended, on 1 October 2003, pursuant to [section 14(1)][959] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 142(2)(a): amended, on 1 October 2003, pursuant to [section 14(1)][958] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 143 Evidence of driver licence
     
@@ -9932,19 +9934,19 @@ Proceedings enforcing responsibilities
     
     *   (d) has found a record showing that the person held a licence to drive a vehicle, but not a vehicle of the class referred to in the proceedings, and that, at the date of the alleged offence, the licence had expired.
     
-    Compare: 1986 No 6 [s 39][960]
+    Compare: 1986 No 6 [s 39][959]
     
-    Section 143(2): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 143(2): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 143(2): amended, on 1 October 2008, pursuant to [section 116(d)][555] of the Policing Act 2008 (2008 No 72).
+    Section 143(2): amended, on 1 October 2008, pursuant to [section 116(d)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 143(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 143(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 143(3): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 143(3): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 143(3): amended, on 1 October 2008, pursuant to [section 116(d)][555] of the Policing Act 2008 (2008 No 72).
+    Section 143(3): amended, on 1 October 2008, pursuant to [section 116(d)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 143(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 143(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 144 Evidence in certain proceedings
     
@@ -9958,7 +9960,7 @@ Proceedings enforcing responsibilities
     
     (3) A copy of the _Gazette_ containing an appointment, warrant, order, or other act of authority made under this Act is evidence in all courts that the appointment, warrant, order, or other act has been duly made or performed under the authority of this Act.
     
-    Compare: 1962 No 135 [s 196][961]; 1986 No 6 s 51
+    Compare: 1962 No 135 [s 196][960]; 1986 No 6 s 51
 
 ##### 145 Evidence of approved vehicle surveillance equipment
     
@@ -9968,7 +9970,7 @@ Proceedings enforcing responsibilities
     
     Compare: 1962 No 135 [s 42][728]
     
-    Section 145(1): amended, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 145(1): amended, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 145A Evidence and proof
     
@@ -9982,25 +9984,25 @@ Proceedings enforcing responsibilities
     
     *   (d) it is to be presumed that every certificate purporting to have been certified or given under this section has been certified or given by an officer of the Agency or a Police employee to certify documents or give certificates under this section, until the contrary is proved.
     
-    Compare: 1989 No 74 [s 63][962]
+    Compare: 1989 No 74 [s 63][961]
     
-    Section 145A: inserted, on 1 October 2007, by [section 73][963] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 145A: inserted, on 1 October 2007, by [section 73][962] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 145A(b): amended, on 10 May 2011, by [section 78(1)][964] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 145A(b): amended, on 10 May 2011, by [section 78(1)][963] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 145A(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 145A(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 145A(c): amended, on 10 May 2011, by [section 78(2)][964] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 145A(c): amended, on 10 May 2011, by [section 78(2)][963] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 145A(c): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 145A(c): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 145A(d): amended, on 10 May 2011, by [section 78(3)][964] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 145A(d): amended, on 10 May 2011, by [section 78(3)][963] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 145A(d): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 145A(d): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 146 Evidence of testing and accuracy of speed-measuring devices, etc
     
-*   (1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the [Road User Charges Act 2012][518] (or any regulations made under that Act), the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a constable or Police employee who is not a constable authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Agency, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
+*   (1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the [Road User Charges Act 2012][517] (or any regulations made under that Act), the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a constable or Police employee who is not a constable authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Agency, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
     
     (2) Every document purporting to be a copy of a certificate issued under this section is, in the absence of proof to the contrary, to be presumed to be a true copy.
     
@@ -10012,23 +10014,23 @@ Proceedings enforcing responsibilities
     
     (6) In any proceedings where a certificate has been produced under this section, the court may, on application made not less than 14 days before the hearing of the charge concerned, and if satisfied that there is good cause to do so, set aside the certificate and require the accuracy of the equipment or device to be established by evidence other than the certificate.
     
-    Compare: 1962 No 135 [s 197][965]
+    Compare: 1962 No 135 [s 197][964]
     
-    Section 146(1): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 146(1): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 146(1): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 146(1): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 146(1): amended, on 1 October 2008, pursuant to [section 116(d)][555] of the Policing Act 2008 (2008 No 72).
+    Section 146(1): amended, on 1 October 2008, pursuant to [section 116(d)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 146(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 146(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 146(1): amended, on 22 June 2005, by [section 74][966] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 146(1): amended, on 22 June 2005, by [section 74][965] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 146(1): amended, on 19 December 2001, by [section 11][967] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
+    Section 146(1): amended, on 19 December 2001, by [section 11][966] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
 
 ##### 147 Evidence of accuracy of weighing devices and sites
     
-*   (1) In proceedings for an offence against this Act or an offence against the [Road User Charges Act 2012][518] (or any regulations made under that Act), the production of a certificate (or a document purporting to be a copy of a certificate) purporting to be signed by a constable or Police employee who is not a constable authorised by the Commissioner in that behalf (either generally or in a particular case) to the effect described in subsection (2) is, in the absence of evidence to the contrary, sufficient evidence that the device or site to which the certificate relates has been tested and was accurate on the date of the alleged offence.
+*   (1) In proceedings for an offence against this Act or an offence against the [Road User Charges Act 2012][517] (or any regulations made under that Act), the production of a certificate (or a document purporting to be a copy of a certificate) purporting to be signed by a constable or Police employee who is not a constable authorised by the Commissioner in that behalf (either generally or in a particular case) to the effect described in subsection (2) is, in the absence of evidence to the contrary, sufficient evidence that the device or site to which the certificate relates has been tested and was accurate on the date of the alleged offence.
     
     (2) A certificate referred to in subsection (1) may be to the effect that,---
         
@@ -10036,7 +10038,7 @@ Proceedings enforcing responsibilities
             
         *   (i) an Inspector of Weights and Measures; or
         
-        *   (ii) an accredited person (within the meaning of the [Weights and Measures Act 1987][968]); or
+        *   (ii) an accredited person (within the meaning of the [Weights and Measures Act 1987][967]); or
         
         *   (iii) an employee of a laboratory for the time being approved for the purpose by the Science Minister, by notice in the _Gazette_; or
         
@@ -10062,33 +10064,33 @@ Proceedings enforcing responsibilities
     
     (6) Every certificate issued under this section is, in the absence of evidence to the contrary, to be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for any such certificate to show on its face that the person signing it was so authorised.
     
-    (7) In proceedings for an offence against this Act or an offence against the [Road User Charges Act 2012][518] (or any regulations made under that Act), evidence that---
+    (7) In proceedings for an offence against this Act or an offence against the [Road User Charges Act 2012][517] (or any regulations made under that Act), evidence that---
         
-    *   (a) a weighing device bore the stamp of a mark of verification under the [Weights and Measures Act 1987][968] indicating that the weighing device had been so stamped; or
+    *   (a) a weighing device bore the stamp of a mark of verification under the [Weights and Measures Act 1987][967] indicating that the weighing device had been so stamped; or
     
-    *   (b) at the time of the alleged offence, there was in force in respect of a weighing device a certificate of accuracy issued under the [Weights and Measures Act 1987][968]---
+    *   (b) at the time of the alleged offence, there was in force in respect of a weighing device a certificate of accuracy issued under the [Weights and Measures Act 1987][967]---
     
     is, in the absence of evidence to the contrary, sufficient evidence that the weighing device was accurate on the date of the alleged offence.
     
-    Compare: 1962 No 135 [s 197][965]
+    Compare: 1962 No 135 [s 197][964]
     
-    Section 147(1): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 147(1): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 147(1): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 147(1): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 147(1): amended, on 1 October 2008, pursuant to [section 116(d)][555] of the Policing Act 2008 (2008 No 72).
+    Section 147(1): amended, on 1 October 2008, pursuant to [section 116(d)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 147(1): amended, on 19 December 2001, by [section 12][969] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
+    Section 147(1): amended, on 19 December 2001, by [section 12][968] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
     
-    Section 147(2)(b)(i): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 147(2)(b)(i): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 147(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 147(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 147(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(d)][555] of the Policing Act 2008 (2008 No 72).
+    Section 147(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(d)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 147(7): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 147(7): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 147(7): amended, on 19 December 2001, by [section 12][969] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
+    Section 147(7): amended, on 19 December 2001, by [section 12][968] of the Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104).
 
 ##### 148 Presumptions relating to axle weights and dangerous goods
     
@@ -10110,7 +10112,7 @@ Proceedings enforcing responsibilities
     
     (4) With respect to subsection (3), the definition of load in [section 2(1)][4] must be read as if the references to a vehicle or vehicles in that definition were references to a rail vehicle or rail vehicles, as the case may be.
     
-    Compare: 1962 No 135 [ss 69B(4)][588], [70F(4)][970]
+    Compare: 1962 No 135 [ss 69B(4)][588], [70F(4)][969]
     
     Section 148(3)(a): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
@@ -10136,11 +10138,11 @@ Proceedings enforcing responsibilities
     
     *   (c) relates to the identity of the employer of that driver or a matter that is or ought to be specified in a logbook.
     
-    Compare: 1962 No 135 [s 196A][971]
+    Compare: 1962 No 135 [s 196A][970]
     
-    Section 149(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 149(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 149(2)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 149(2)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 150 Evidence of certain documents
     
@@ -10154,11 +10156,11 @@ Proceedings enforcing responsibilities
     
     (2) An employee of the Agency who certifies such a copy as a true copy is, in the absence of evidence to the contrary, to be presumed to be authorised to certify it.
     
-    Compare: 1962 No 135 [s 196B][972]
+    Compare: 1962 No 135 [s 196B][971]
     
-    Section 150(1): substituted, on 10 May 2011, by [section 79][973] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 150(1): substituted, on 10 May 2011, by [section 79][972] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 150(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 150(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 151 Evidence of rules
     
@@ -10172,9 +10174,9 @@ Proceedings enforcing responsibilities
     
     Compare: 1993 No 88 s 14
     
-    Section 151(a): amended, on 10 May 2011, by [section 80][974] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 151(a): amended, on 10 May 2011, by [section 80][973] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 151(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 151(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part 11  
 Land transport subordinate legislation
@@ -10201,17 +10203,17 @@ Land transport subordinate legislation
         
         *   (ii) the Minister's functions under [section 169A][363]:
         
-        *   (iii) the Agency's objective under [section 94][975] of the Land Transport Management Act 2003:
+        *   (iii) the Agency's objective under [section 94][974] of the Land Transport Management Act 2003:
         
-        *   (iv) the Agency's functions under [section 95][976] of the Land Transport Management Act 2003:
+        *   (iv) the Agency's functions under [section 95][975] of the Land Transport Management Act 2003:
         
         
     
     *   (h) any other matter contemplated by a provision of this Act.
     
-    Section 152: substituted, on 1 December 2004, by [section 4][977] of the Land Transport Amendment Act 2004 (2004 No 96). 
+    Section 152: substituted, on 1 December 2004, by [section 4][976] of the Land Transport Amendment Act 2004 (2004 No 96). 
     
-    Section 152(g): substituted, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 152(g): substituted, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 152A Governor-General may make ordinary rules
     
@@ -10227,13 +10229,13 @@ Land transport subordinate legislation
     
     (6) An Order in Council made under subsection (1)---
         
-    *   (a) is a regulation or an instrument for the purposes of the [Regulations (Disallowance) Act 1989][978]; but
+    *   (a) is a regulation or an instrument for the purposes of the [Regulations (Disallowance) Act 1989][977]; but
     
-    *   (b) is not a regulation or an instrument for the purposes of the [Acts and Regulations Publication Act 1989][541].
+    *   (b) is not a regulation or an instrument for the purposes of the [Acts and Regulations Publication Act 1989][540].
     
-    Compare: 1990 No 98 [s 34A][979]
+    Compare: 1990 No 98 [s 34A][978]
     
-    Section 152A: inserted, on 10 May 2011, by [section 81][980] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 152A: inserted, on 10 May 2011, by [section 81][979] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 153 Rules concerning road user behaviour
     
@@ -10275,9 +10277,9 @@ Land transport subordinate legislation
     
     *   (k) give effect to any international convention concerning the recognition of driver licences and permits issued outside New Zealand and the recognition of international driving permits.
     
-    Compare: 1986 No 6 [ss 48][981], [48A][982]
+    Compare: 1986 No 6 [ss 48][980], [48A][981]
     
-    Section 154(h): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 154(h): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 155 Rules concerning vehicles
     
@@ -10315,9 +10317,9 @@ Land transport subordinate legislation
     
     Compare: 1993 No 88 s 5(d), (e)
     
-    Section 155(ea): inserted, on 16 January 2006, by [section 75][983] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 155(ea): inserted, on 16 January 2006, by [section 75][982] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 155(f): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 155(f): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 156 Rules concerning dangerous goods
     
@@ -10349,7 +10351,7 @@ Land transport subordinate legislation
     
     *   (h) regulate or prohibit the use of reflective material on signs, hoardings, and similar structures that may pose a traffic hazard on any road.
     
-    Section 157(e)(ii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 157(e)(ii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 158 Rules concerning licensing, standard-setting, etc
     
@@ -10451,45 +10453,45 @@ Land transport subordinate legislation
     
     Section 158(a)(ix): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
     
-    Section 158(b)(vi)(A): amended, on 22 June 2005, by [section 76(1)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(vi)(A): amended, on 22 June 2005, by [section 76(1)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(vii): substituted, on 10 May 2011, by [section 82][985] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 158(b)(vii): substituted, on 10 May 2011, by [section 82][984] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 158(b)(viia): inserted, on 10 May 2011, by [section 82][985] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 158(b)(viia): inserted, on 10 May 2011, by [section 82][984] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 158(b)(viib): inserted, on 10 May 2011, by [section 82][985] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 158(b)(viib): inserted, on 10 May 2011, by [section 82][984] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 158(b)(viic): inserted, on 10 May 2011, by [section 82][985] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 158(b)(viic): inserted, on 10 May 2011, by [section 82][984] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 158(b)(viii): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(viii): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(viii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 158(b)(viii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 158(b)(ix): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(ix): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(ix): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 158(b)(ix): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 158(b)(x): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(x): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xi): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xi): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xii): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xii): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xiii): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xiii): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xiv): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xiv): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xv): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xv): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xvi): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xvi): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xvii): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xvii): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xviii): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xviii): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xix): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xix): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 158(b)(xx): added, on 22 June 2005, by [section 76(2)][984] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 158(b)(xx): added, on 22 June 2005, by [section 76(2)][983] of the Land Transport Amendment Act 2005 (2005 No 77).
 
 ##### 159 Rules concerning land transport documents
     
@@ -10525,15 +10527,15 @@ Land transport subordinate legislation
     
     (5) Subject to the rules, a land transport document may be issued or a document may be recognised as a land transport document, as the case may be, by the Agency for such period and subject to such conditions as the Agency considers appropriate in each particular case.
     
-    Compare: 1994 No 104 [s 34][986]
+    Compare: 1994 No 104 [s 34][985]
     
     Section 159(1)(i): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37). 
     
-    Section 159(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 159(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 159(3)(a): amended, on 1 October 2007, by [section 77][987] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 159(3)(a): amended, on 1 October 2007, by [section 77][986] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 159(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 159(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 160 Other provisions concerning ordinary rules
     
@@ -10557,19 +10559,19 @@ Land transport subordinate legislation
     
     *   (f) make transitional and savings provisions for the purposes of implementing any rule; and for the purposes of determining the expiry date of licences under [section 23(4)][45].
     
-    (5) An ordinary rule may incorporate or apply, with any necessary modifications, a regulation or order or notice made or given under the [Transport Act 1962][514] or [Part 2][515] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or [Part 17][444].
+    (5) An ordinary rule may incorporate or apply, with any necessary modifications, a regulation or order or notice made or given under the [Transport Act 1962][513] or [Part 2][514] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or [Part 17][444].
     
-    (6) An ordinary rule is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][978], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][541].
+    (6) An ordinary rule is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][977], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][540].
     
     (7) If a bylaw of a local authority is inconsistent with or repugnant to any ordinary rules in force in the same locality, the rules override the bylaws.
     
-    (8) Despite [section 28][988] of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
+    (8) Despite [section 28][987] of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
     
     Compare: 1993 No 88 s 4
     
-    Section 160(4)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 160(4)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 160(5): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 160(5): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 161 Procedure concerning ordinary rules
     
@@ -10595,11 +10597,11 @@ Land transport subordinate legislation
     
     Compare: 1993 No 88 ss 8, 10
     
-    Section 161(2)(a): substituted, on 10 May 2011, by [section 83(1)][989] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 161(2)(a): substituted, on 10 May 2011, by [section 83(1)][988] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 161(3): amended, on 10 May 2011, by [section 83(2)][989] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 161(3): amended, on 10 May 2011, by [section 83(2)][988] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 161(4): repealed, on 10 May 2011, by [section 83(3)][989] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 161(4): repealed, on 10 May 2011, by [section 83(3)][988] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 #### Emergency rules
 
@@ -10611,17 +10613,17 @@ Land transport subordinate legislation
     
     (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
     
-    (4) Every emergency rule is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][978], but is not a regulation or an instrument for the purposes of the [Acts and Regulations Publication Act 1989][541].
+    (4) Every emergency rule is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][977], but is not a regulation or an instrument for the purposes of the [Acts and Regulations Publication Act 1989][540].
     
     Compare: 1993 No 88 s 7
     
-    Section 162 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 162 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 162(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 162(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 162(2): amended, on 10 May 2011, by [section 84][990] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 162(2): amended, on 10 May 2011, by [section 84][989] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 162(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 162(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 163 Procedure for making emergency rules
     
@@ -10643,11 +10645,11 @@ Land transport subordinate legislation
     
     Compare: 1993 No 88 s 11
     
-    Section 163(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 163(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 163(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 163(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 163(4)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 163(4)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### General provisions concerning making of rules
 
@@ -10687,21 +10689,21 @@ Land transport subordinate legislation
     
     Compare: 1993 No 88 s 9
     
-    Section 164 heading: amended, on 10 May 2011, by [section 85(1)][991] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 164 heading: amended, on 10 May 2011, by [section 85(1)][990] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 164(1): repealed, on 10 May 2011, by [section 85(2)][991] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 164(1): repealed, on 10 May 2011, by [section 85(2)][990] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 164(2): amended, on 10 May 2011, by [section 85(3)][991] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 164(2): amended, on 10 May 2011, by [section 85(3)][990] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 164(2)(d): substituted, on 1 December 2004, by [section 5][992] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 164(2)(d): substituted, on 1 December 2004, by [section 5][991] of the Land Transport Amendment Act 2004 (2004 No 96).
     
-    Section 164(2)(e): substituted, on 1 December 2004, by [section 5][992] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 164(2)(e): substituted, on 1 December 2004, by [section 5][991] of the Land Transport Amendment Act 2004 (2004 No 96).
     
-    Section 164(2)(ea): inserted, on 1 December 2004, by [section 5][992] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 164(2)(ea): inserted, on 1 December 2004, by [section 5][991] of the Land Transport Amendment Act 2004 (2004 No 96).
     
-    Section 164(2)(eb): inserted, on 10 May 2011, by [section 85(4)][991] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 164(2)(eb): inserted, on 10 May 2011, by [section 85(4)][990] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 164(2)(g): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 164(2)(g): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 165 Incorporation by reference
     
@@ -10745,15 +10747,15 @@ Land transport subordinate legislation
     
     (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Agency for inspection by the public free of charge.
     
-    (7) The [Acts and Regulations Publication Act 1989][541] does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+    (7) The [Acts and Regulations Publication Act 1989][540] does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
     
-    (8) Nothing in [section 4][993] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+    (8) Nothing in [section 4][992] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
     
-    (9) Subsections (1) to (8) do not affect the application of [sections 22 to 25][994] of the Standards Act 1988\.
+    (9) Subsections (1) to (8) do not affect the application of [sections 22 to 25][993] of the Standards Act 1988\.
     
-    Compare: 1990 No 98 [s 36][995]
+    Compare: 1990 No 98 [s 36][994]
     
-    Section 165: substituted, on 10 May 2011, by [section 86][996] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 165: substituted, on 10 May 2011, by [section 86][995] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 166 Agency may grant exemptions
     
@@ -10775,15 +10777,15 @@ Land transport subordinate legislation
     
     Compare: 1993 No 88 s 13
     
-    Section 166 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 166 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 166(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 166(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 166(1): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37). 
     
-    Section 166(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 166(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 166(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 166(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Regulations
 
@@ -10837,7 +10839,7 @@ Land transport subordinate legislation
         
         
     
-    *   (i) declaring which offences against any rules, regulations, or bylaws made under this Act or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] are---
+    *   (i) declaring which offences against any rules, regulations, or bylaws made under this Act or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] are---
             
         *   (i) moving vehicle offences:
         
@@ -10903,43 +10905,43 @@ Land transport subordinate legislation
     
     *   (b) is 50 demerit points in the case of any other offence.
     
-    Compare: 1962 No 135 [ss 77][997], [199][998]; 1993 No 88 s 33
+    Compare: 1962 No 135 [ss 77][996], [199][997]; 1993 No 88 s 33
     
-    Section 167(1)(e)(iii): repealed, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 167(1)(e)(iii): repealed, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 167(1)(e)(iv): added, on 22 June 2005, by [section 78(1)][999] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 167(1)(e)(iv): added, on 22 June 2005, by [section 78(1)][998] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 167(1)(fa): inserted, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 167(1)(fa): inserted, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 167(1)(i): substituted, on 10 May 2011, by [section 87(1)][1000] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 167(1)(i): substituted, on 10 May 2011, by [section 87(1)][999] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 167(1)(ia): inserted, on 10 May 2011, by [section 87(1)][1000] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 167(1)(ia): inserted, on 10 May 2011, by [section 87(1)][999] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 167(1)(ib): inserted, on 10 May 2011, by [section 87(1)][1000] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 167(1)(ib): inserted, on 10 May 2011, by [section 87(1)][999] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 167(1)(ma): inserted, on 1 October 2007, by [section 78(2)][999] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 167(1)(ma): inserted, on 1 October 2007, by [section 78(2)][998] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 167(1)(mb): inserted, on 1 October 2007, by [section 78(2)][999] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 167(1)(mb): inserted, on 1 October 2007, by [section 78(2)][998] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 167(1)(mc): inserted, on 1 November 2009, by [section 25][1001] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 167(1)(mc): inserted, on 1 November 2009, by [section 25][1000] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 167(1)(mc): amended, on 1 November 2009, by [section 34][1002] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 167(1)(mc): amended, on 1 November 2009, by [section 34][1001] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 167(2)(a)(ii): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 167(2)(a)(ii): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 167(2)(a)(ii): amended, on 1 November 2009, by [section 39(2)][871] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 167(2)(a)(iv): amended, on 10 May 2011, by [section 87(2)][1000] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 167(2)(a)(iv): amended, on 10 May 2011, by [section 87(2)][999] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 168 Regulations relating to fees and charges for land transport
     
 *   (1) Without limiting the generality of [section 167(1)(j)][356], regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
         
-    *   (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the [Railways Act 2005][521], the [Government Roading Powers Act 1989][520], the [Land Transport Management Act 2003][900], this Act, or any other enactment relating to land transport:
+    *   (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the [Railways Act 2005][520], the [Government Roading Powers Act 1989][519], the [Land Transport Management Act 2003][899], this Act, or any other enactment relating to land transport:
     
     *   (b) to meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport:
     
-    *   (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of commercial public transport services under the [Public Transport Management Act 2008][899].
+    *   (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of exempt services under the [Land Transport Management Act 2003][899].
     
     (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
     
@@ -10965,29 +10967,31 @@ Land transport subordinate legislation
     
     (6) \[Repealed\]
     
-    Section 168(1)(a): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 168(1)(a): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 168(1)(a): amended, on 10 May 2011, by [section 88][1003] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 168(1)(a): amended, on 10 May 2011, by [section 88][1002] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 168(1)(a): amended, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 168(1)(a): amended, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 168(1)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 168(1)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 168(1)(a): amended, on 1 October 2007, by [section 79(1)][1004] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 168(1)(a): amended, on 1 October 2007, by [section 79(1)][1003] of the Land Transport Amendment Act 2005 (2005 No 77).
     
     Section 168(1)(a): amended, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37). 
     
-    Section 168(1)(a): amended, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 168(1)(a): amended, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 168(1)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 168(1)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 168(1)(c): added, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 168(1)(c): added, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 168(2): amended, on 1 October 2007, by [section 79(2)][1004] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 168(1)(c): amended, on 13 June 2013, by [section 72][549] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 168(2): amended, on 1 October 2007, by [section 79(2)][1003] of the Land Transport Amendment Act 2005 (2005 No 77).
     
     Section 168(5): repealed, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37). 
     
-    Section 168(6): repealed, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 168(6): repealed, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
 
 ##### 168A Agency may declare that vehicle is mobility device or is not motor vehicle
     
@@ -11009,25 +11013,25 @@ Land transport subordinate legislation
     
     *   (b) specify those conditions in the notice.
     
-    (5) A notice given under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][978], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][541].
+    (5) A notice given under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][977], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][540].
     
-    Section 168A: inserted, on 22 June 2005, by [section 80][1005] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 168A: inserted, on 22 June 2005, by [section 80][1004] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 168A heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 168A heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 168A(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 168A(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 168A(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 168A(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 168A(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 168A(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 168A(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 168A(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 168B Order in Council for certain land transport revenue
     
 *   \[Repealed\]
     
-    Section 168B: repealed, on 1 May 2011, by [section 35(1)][554] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 168B: repealed, on 1 May 2011, by [section 35(1)][553] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 168C Piloting fees
     
@@ -11039,9 +11043,9 @@ Land transport subordinate legislation
     
     (2) Any fee payable to the Commissioner under subsection (1) constitutes a debt due to the Crown and may be recovered accordingly in any court of competent jurisdiction.
     
-    Compare: 1962 No 135 [s 78A][1006]
+    Compare: 1962 No 135 [s 78A][1005]
     
-    Section 168C: inserted, on 10 May 2011, by [section 89][1007] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 168C: inserted, on 10 May 2011, by [section 89][1006] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ## Part 12  
 The Crown and land transport
@@ -11054,7 +11058,7 @@ The Crown and land transport
     
     *   (b) to ensure that New Zealand's obligations under international agreements relating to land transport are implemented.
     
-    Section 169: substituted, on 1 December 2004, by [section 6][1008] of the Land Transport Amendment Act 2004 (2004 No 96). 
+    Section 169: substituted, on 1 December 2004, by [section 6][1007] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
 ##### 169A Functions of Minister
     
@@ -11066,207 +11070,207 @@ The Crown and land transport
     
     *   (c) to make ordinary rules under this Act.
     
-    Section 169A: inserted, on 1 December 2004, by [section 6][1008] of the Land Transport Amendment Act 2004 (2004 No 96). 
+    Section 169A: inserted, on 1 December 2004, by [section 6][1007] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
 ## Part 13  
 Land transport strategies
 
 \[Repealed\]
     
-*   Part 13: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Part 13: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### National land transport strategy
     
-*   Heading: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 170 National land transport strategy
     
 *   \[Repealed\]
     
-    Section 170: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 170: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 171 Procedure for completing national land transport strategy
     
 *   \[Repealed\]
     
-    Section 171: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 171: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 172 Currency of national land transport strategy
     
 *   \[Repealed\]
     
-    Section 172: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 172: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 173 Amendment or revocation of national land transport strategy
     
 *   \[Repealed\]
     
-    Section 173: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 173: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 174 Effect of national land transport strategy
     
 *   \[Repealed\]
     
-    Section 174: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 174: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Regional land transport strategies
     
-*   Heading: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 175 Regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 175: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 175: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 176 Currency of regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 176: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 176: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 177 Copies of regional land transport strategy to be made available to certain persons
     
 *   \[Repealed\]
     
-    Section 177: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 177: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 178 Regional land transport committees
     
 *   \[Repealed\]
     
-    Section 178: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 178: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 179 Consultation requirements for preparation of regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 179: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 179: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 180 Regional councils to consider contracting out functions under this Act
     
 *   \[Repealed\]
     
-    Section 180: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 180: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 181 Effect of regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 181: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 181: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 182 Annual reports on regional land transport strategy
     
 *   \[Repealed\]
     
-    Section 182: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 182: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 183 Certain territorial authorities to prepare land transport strategy
     
 *   \[Repealed\]
     
-    Section 183: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 183: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part 14  
 Administrative provisions
     
-*   Part 14 heading: substituted, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Part 14 heading: substituted, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 184 Land Transport Safety Authority of New Zealand continued
     
 *   \[Repealed\]
     
-    Section 184: repealed, on 1 December 2004, by [section 11(1)(d)][1009] of the Land Transport Amendment Act 2004 (2004 No 96). 
+    Section 184: repealed, on 1 December 2004, by [section 11(1)(d)][1008] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
 ##### 185 Authority to be Crown entity
     
 *   \[Repealed\]
     
-    Section 185: repealed, on 1 December 2004, by [section 11(1)(d)][1009] of the Land Transport Amendment Act 2004 (2004 No 96). 
+    Section 185: repealed, on 1 December 2004, by [section 11(1)(d)][1008] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
 ##### 186 Director of Land Transport
     
 *   \[Repealed\]
     
-    Section 186: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 186: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 187 Acting Director
     
 *   \[Repealed\]
     
-    Section 187: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 187: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 188 Use of words Land Transport Safety Authority
     
 *   \[Repealed\]
     
-    Section 188: repealed, on 1 December 2004, by [section 11(1)(e)][1009] of the Land Transport Amendment Act 2004 (2004 No 96). 
+    Section 188: repealed, on 1 December 2004, by [section 11(1)(e)][1008] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
 #### Role of Land Transport Safety Authority and Director
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2004, by [section 11(1)(f)][1009] of the Land Transport Amendment Act 2004 (2004 No 96). 
+*   Heading: repealed, on 1 December 2004, by [section 11(1)(f)][1008] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
 ##### 189 Principal objective of Authority
     
 *   \[Repealed\]
     
-    Section 189: repealed, on 1 December 2004, by [section 11(1)(f)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 189: repealed, on 1 December 2004, by [section 11(1)(f)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 190 Functions of Authority
     
 *   \[Repealed\]
     
-    Section 190: repealed, on 1 December 2004, by [section 11(1)(g)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 190: repealed, on 1 December 2004, by [section 11(1)(g)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 191 Authority to comply with policy directions
     
 *   \[Repealed\]
     
-    Section 191: repealed, on 1 December 2004, by [section 11(1)(g)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 191: repealed, on 1 December 2004, by [section 11(1)(g)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 192 Performance agreement
     
 *   \[Repealed\]
     
-    Section 192: repealed, on 1 December 2004, by [section 11(1)(g)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 192: repealed, on 1 December 2004, by [section 11(1)(g)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 193 Minister may determine content of agreement or amendment
     
 *   \[Repealed\]
     
-    Section 193: repealed, on 1 December 2004, by [section 11(1)(g)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 193: repealed, on 1 December 2004, by [section 11(1)(g)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 194 Amendment of agreement
     
 *   \[Repealed\]
     
-    Section 194: repealed, on 1 December 2004, by [section 11(1)(g)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 194: repealed, on 1 December 2004, by [section 11(1)(g)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 195 Service charter
     
 *   \[Repealed\]
     
-    Section 195: repealed, on 1 December 2004, by [section 11(1)(g)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 195: repealed, on 1 December 2004, by [section 11(1)(g)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 #### Powers and additional functions of Authority and Director
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2004, by [section 11(1)(h)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+*   Heading: repealed, on 1 December 2004, by [section 11(1)(h)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 196 Authority to have powers of natural person
     
 *   \[Repealed\]
     
-    Section 196: repealed, on 1 December 2004, by [section 11(1)(h)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 196: repealed, on 1 December 2004, by [section 11(1)(h)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 197 Functions and powers of Director
     
 *   \[Repealed\]
     
-    Section 197: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 197: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 198 Inspections and audits
     
@@ -11278,15 +11282,15 @@ Administrative provisions
     
     (4) A person to whom a requirement is made under this section must comply with that requirement.
     
-    Section 198(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 198(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 198(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 198(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 198(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 198(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 199 Agency to maintain register of driver licences
     
-*   (1) The Agency must continue and maintain the national register of all driver licences that was established under [section 45][1010] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986\.
+*   (1) The Agency must continue and maintain the national register of all driver licences that was established under [section 45][1009] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986\.
     
     (2) The national register must show for each driver licence the following information:
         
@@ -11316,7 +11320,7 @@ Administrative provisions
     
     *   (l) information about any revocation or suspension of a driver licence entitling the holder to drive a transport service vehicle, or a prohibition placed on the holder from driving any such vehicle, under [Part 4A][57]:
     
-    *   (m) information about any order of disqualification made against the holder under [section 83][1011] of the Criminal Justice Act 1985 or [section 124][1012] of the Sentencing Act 2002:
+    *   (m) information about any order of disqualification made against the holder under [section 83][1010] of the Criminal Justice Act 1985 or [section 124][1011] of the Sentencing Act 2002:
     
     *   (n) information about any revocation or suspension under this Act or any former enactment of any driver licence held by the holder:
     
@@ -11348,45 +11352,45 @@ Administrative provisions
     
     (12) For the purposes of this section, _driver licence_ includes (but is not limited to) an alcohol interlock licence, a zero alcohol licence, and a limited licence.
     
-    Compare: 1986 No 6 [s 45][1010]
+    Compare: 1986 No 6 [s 45][1009]
     
-    Section 199 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 199(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 199(2)(a): amended, on 10 May 2011, by [section 90(1)][1013] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 199(2)(a): amended, on 10 May 2011, by [section 90(1)][1012] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 199(2)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199(2)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 199(2)(c): substituted, on 16 January 2006, by [section 82(1)][1014] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 199(2)(c): substituted, on 16 January 2006, by [section 82(1)][1013] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 199(2)(ia): inserted, on 10 May 2011, by [section 90(2)][1013] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 199(2)(ia): inserted, on 10 May 2011, by [section 90(2)][1012] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 199(2)(l): amended, on 1 October 2007, by [section 82(2)][1014] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 199(2)(l): amended, on 1 October 2007, by [section 82(2)][1013] of the Land Transport Amendment Act 2005 (2005 No 77).
     
     Section 199(2)(m): amended, on 30 June 2002, by [section 186][841] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 199(3): amended, on 1 December 2009, by [section 35][1015] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
+    Section 199(3): amended, on 1 December 2009, by [section 35][1014] of the Land Transport (Enforcement Powers) Amendment Act 2009 (2009 No 36).
     
-    Section 199(4): substituted, on 10 May 2011, by [section 90(3)][1013] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 199(4): substituted, on 10 May 2011, by [section 90(3)][1012] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 199(5): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 199(5): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 199(6): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199(6): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 199(6)(b): amended, on 16 January 2006, by [section 82(3)][1014] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 199(6)(b): amended, on 16 January 2006, by [section 82(3)][1013] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 199(7): amended, on 16 January 2006, by [section 82(4)][1014] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 199(7): amended, on 16 January 2006, by [section 82(4)][1013] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 199(7)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199(7)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 199(8): amended, on 16 January 2006, by [section 82(5)][1014] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 199(8): amended, on 16 January 2006, by [section 82(5)][1013] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 199(12): added, on 10 May 2011, by [section 90(4)][1013] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 199(12): added, on 10 May 2011, by [section 90(4)][1012] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 199A Register of transport service licences
     
-*   (1) The Agency must continue and maintain the register of transport service licences that was established under [section 29][1016] of the Transport Services Licensing Act 1989\.
+*   (1) The Agency must continue and maintain the register of transport service licences that was established under [section 29][1015] of the Transport Services Licensing Act 1989\.
     
     (2) The register must show for each licence the following information:
         
@@ -11452,15 +11456,15 @@ Administrative provisions
     
     (6) Information requested under subsection (4) may be given in writing or electronically or orally.
     
-    Compare: 1989 No 74 [s 29][1016]
+    Compare: 1989 No 74 [s 29][1015]
     
-    Section 199A: inserted, on 1 October 2007, by [section 83][1017] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 199A: inserted, on 1 October 2007, by [section 83][1016] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 199A(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199A(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 199A(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199A(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 199A(5)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 199A(5)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 200 Restrictions on access to photographic images of driver licence holders
     
@@ -11476,7 +11480,7 @@ Administrative provisions
         
     *   (a) on production to the Agency of---
             
-        *   (i) a death certificate (within the meaning of [section 2][1018] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the individual; or
+        *   (i) a death certificate (within the meaning of [section 2][1017] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the individual; or
         
         *   (ii) the grant of probate of the will of the individual or of letters of administration to the individual's estate; and
         
@@ -11488,41 +11492,41 @@ Administrative provisions
     
     (4) For the purposes of this section, _next of kin_ includes a spouse, a civil union partner, and a de facto partner.
     
-    Section 200(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 200(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 200(1): amended, on 16 January 2006, by [section 84(1)][1019] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 200(1): amended, on 16 January 2006, by [section 84(1)][1018] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 200(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 200(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 200(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 200(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 200(2A): inserted, on 16 January 2006, by [section 84(2)][1019] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 200(2A): inserted, on 16 January 2006, by [section 84(2)][1018] of the Land Transport Amendment Act 2005 (2005 No 77). 
     
-    Section 200(2A)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 200(2A)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 200(2A)(a)(i): amended, on 24 January 2009, by [section 47][1020] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 200(2A)(a)(i): amended, on 24 January 2009, by [section 47][1019] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 200(2A)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 200(2A)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 200(4): added, on 16 January 2006, by [section 84(3)][1019] of the Land Transport Amendment Act 2005 (2005 No 77). 
+    Section 200(4): added, on 16 January 2006, by [section 84(3)][1018] of the Land Transport Amendment Act 2005 (2005 No 77). 
 
 #### Use of outside agencies in performance of functions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2004, by [section 11(1)(i)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+*   Heading: repealed, on 1 December 2004, by [section 11(1)(i)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 201 Authority to consider delegating or contracting out of functions and powers
     
 *   \[Repealed\]
     
-    Section 201: repealed, on 1 December 2004, by [section 11(1)(i)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 201: repealed, on 1 December 2004, by [section 11(1)(i)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 202 Authority may arrange for services to be provided by outside agencies
     
 *   \[Repealed\]
     
-    Section 202: repealed, on 1 December 2004, by [section 11(1)(j)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 202: repealed, on 1 December 2004, by [section 11(1)(j)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 #### Delegations
 
@@ -11530,25 +11534,25 @@ Administrative provisions
     
 *   \[Repealed\]
     
-    Section 203: repealed, on 1 December 2004, by [section 11(1)(j)][1009] of the Land Transport Amendment Act 2004 (2004 No 96).
+    Section 203: repealed, on 1 December 2004, by [section 11(1)(j)][1008] of the Land Transport Amendment Act 2004 (2004 No 96).
 
 ##### 204 Director may delegate functions or powers to employees of Authority
     
 *   \[Repealed\]
     
-    Section 204: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 204: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 205 Director may delegate functions or powers to persons outside Authority
     
 *   \[Repealed\]
     
-    Section 205: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 205: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 206 General provisions concerning delegations under sections 204 and 205
     
 *   \[Repealed\]
     
-    Section 206: repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 206: repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 207 Delegation of Minister's functions or powers to Agency
     
@@ -11572,13 +11576,13 @@ Administrative provisions
     
     Compare: 1993 No 88 s 26
     
-    Section 207 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 207 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 207(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 207(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 207(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 207(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 207(6): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 207(6): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part 15  
 Miscellaneous provisions
@@ -11591,11 +11595,11 @@ Miscellaneous provisions
             
         *   (i) this Act:
         
-        *   (ii) [Part 2][1021] of the Land Transport Management Act 2003:
+        *   (ii) [Part 2][1020] of the Land Transport Management Act 2003:
         
-        *   (iii) the [Public Transport Management Act 2008][899]:
+        *   (iii) [Part 5][1021] of the Land Transport Management Act 2003; or
         
-        *   (iv) the [Road User Charges Act 2012][518]; or
+        *   (iv) the [Road User Charges Act 2012][517]; or
         
         
     
@@ -11609,7 +11613,9 @@ Miscellaneous provisions
             
         *   (i) any of [Parts 4A][57], [4B][90], [6A][182], and [6B][196], including any rules or regulations made in relation to transport services, or [sections 22B][42], [22C][43], [36B][117], [113(2)(f)][279], [113A][280], [115][282], [118(6)][285], [124][294], [128A][299], [128B][300], [135(1A)][314], [138][319], and [139][320]:
         
-        *   (ii) the [Public Transport Management Act 2008][899]; or
+        *   (ii) [Part 5][1021] of the Land Transport Management Act 2003:
+        
+        *   (iii) any provision in the [Land Transport Management Act 2003][899] relating to tolls; or
         
         
     
@@ -11625,27 +11631,31 @@ Miscellaneous provisions
     
     Compare: 1962 No 135 [ss 6][1022], [70K][1023]
     
-    Section 208(1): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 208(1): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 208(1)(a): substituted, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 208(1)(a): substituted, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 208(1)(a)(iii): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 208(1)(a)(iii): replaced, on 13 June 2013, by [section 72][549] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 208(1)(a)(iv): inserted, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 208(1)(a)(iv): inserted, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 208(2): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][555] of the Policing Act 2008 (2008 No 72).
+    Section 208(2): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][554] of the Policing Act 2008 (2008 No 72).
     
-    Section 208(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 208(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 208(3)(a): substituted, on 1 January 2009, by [section 63(2)][550] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 208(3)(a): substituted, on 1 January 2009, by [section 63(2)][557] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 208(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 208(3)(a)(ii): replaced, on 13 June 2013, by [section 72][549] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 208(5): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 208(3)(a)(iii): inserted, on 13 June 2013, by [section 72][549] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 208(6): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 208(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 208(7): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 208(5): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 208(6): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 208(7): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 209 Taking of blood specimens for statistical or research purposes
     
@@ -11669,7 +11679,7 @@ Miscellaneous provisions
     
     Compare: 1962 No 135 [s 58J][1024]
     
-    Section 209(1): amended, on 18 September 2004, by [section 175(1)][552] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 209(1): amended, on 18 September 2004, by [section 175(1)][551] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 209(2): amended, on 1 August 2007, by [section 216][1025] of the Evidence Act 2006 (2006 No 69).
     
@@ -11701,7 +11711,7 @@ Miscellaneous provisions
 
 ##### 210 Service of notices
     
-*   (1) A notice required to be given to a person for the purposes of this Act, or a request in writing under [section 118][285], may be given or made by causing it to be delivered to that person, or to be left at the person's usual or last known place of residence or business or at the address specified by the person in any application or other document under this Act or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519], or to be posted in a letter addressed to the person at that place of residence or business or address.
+*   (1) A notice required to be given to a person for the purposes of this Act, or a request in writing under [section 118][285], may be given or made by causing it to be delivered to that person, or to be left at the person's usual or last known place of residence or business or at the address specified by the person in any application or other document under this Act or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518], or to be posted in a letter addressed to the person at that place of residence or business or address.
     
     (2) If any such notice or request is sent to a person by post, then, unless the contrary is shown, it is to be treated as having been delivered to him or her when it would have been delivered in the ordinary course of post, and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
     
@@ -11735,7 +11745,7 @@ Miscellaneous provisions
     
     Section 211A: inserted, on 1 October 2007, by [section 86][1034] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 211A: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 211A: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 212 Agency to pay sum to assessment centres
     
@@ -11743,9 +11753,9 @@ Miscellaneous provisions
     
     Compare: 1962 No 135 [s 30B(3)][1035]
     
-    Section 212 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 212 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 212: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 212: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 213 Customs control over imported vehicles
     
@@ -11761,7 +11771,7 @@ Miscellaneous provisions
     
     *   (b) at all other times, extends only to the right of crossing the railway line with all convenient speed, but not to stopping or remaining on it.
     
-    (2) In this section, _level crossing_ has the same meaning as in [section 4(1)][522] of the Railways Act 2005\.
+    (2) In this section, _level crossing_ has the same meaning as in [section 4(1)][521] of the Railways Act 2005\.
     
     Section 213A: inserted, on 20 July 2005, by [section 103(3)][558] of the Railways Act 2005 (2005 No 37).
 
@@ -11782,7 +11792,7 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
 *   (1) The enactments specified in [Schedule 3][502] are amended in the manner indicated in that schedule.
     
-    (2) The [Transport Act 1962][514] is amended by repealing [Parts 1][1038], [2][1039], [5][1040], [7][1041], [8][1042], [9][1043], and [10][1044] of Schedule 2, and substituting the Parts set out in [Schedule 4][503].
+    (2) The [Transport Act 1962][513] is amended by repealing [Parts 1][1038], [2][1039], [5][1040], [7][1041], [8][1042], [9][1043], and [10][1044] of Schedule 2, and substituting the Parts set out in [Schedule 4][503].
 
 ##### 216 Transitional regulations
     
@@ -11790,7 +11800,7 @@ Repeals, amendments to other enactments, and transitional and savings provisions
         
     *   (a) prescribing transitional and savings provisions concerning the coming into force of this Act, which may be in addition to or in place of the transitional and savings provisions of this Part:
     
-    *   (b) to facilitate the bringing into force of any rules under this Act; and to remove any inconsistency between regulations or orders made under the [Transport Act 1962][514]:
+    *   (b) to facilitate the bringing into force of any rules under this Act; and to remove any inconsistency between regulations or orders made under the [Transport Act 1962][513]:
     
     *   (c) providing that subject to such conditions as may be specified in the regulations, during a specified transitional period,---
             
@@ -11854,9 +11864,9 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
     *   (g) the [Transport (Measurement of Weight) Notice 1997][1054] (SR 1997/375).
     
-    (3) The enactments specified in subsection (1) or subsection (2), which were made under the [Transport Act 1962][514] or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519], may be amended from time to time under the corresponding empowering provision (if any) in this Act or (if there is no corresponding empowering provision in this Act) as if this section contained the relevant empowering provision (as it read immediately before the commencement of [section 214][423]).
+    (3) The enactments specified in subsection (1) or subsection (2), which were made under the [Transport Act 1962][513] or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518], may be amended from time to time under the corresponding empowering provision (if any) in this Act or (if there is no corresponding empowering provision in this Act) as if this section contained the relevant empowering provision (as it read immediately before the commencement of [section 214][423]).
     
-    (4) Every regulation prescribing or providing for the fixing of fees and charges under the [Transport Act 1962][514], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519], the [Transport Services Licensing Act 1989][1055], or the [Government Roading Powers Act 1989][520], and is in force immediately before the commencement of this section, continues to have effect and may be amended, revoked, or replaced under [section 167][356].
+    (4) Every regulation prescribing or providing for the fixing of fees and charges under the [Transport Act 1962][513], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518], the [Transport Services Licensing Act 1989][1055], or the [Government Roading Powers Act 1989][519], and is in force immediately before the commencement of this section, continues to have effect and may be amended, revoked, or replaced under [section 167][356].
     
     Section 218(1)(e): repealed, on 29 June 2009, by [section 30(1)][1056] of the Land Transport Amendment Act 2009 (2009 No 17).
     
@@ -11878,9 +11888,9 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
     Section 218(2)(f): repealed, on 29 June 2009, by [section 30(2)][1056] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 218(4): amended, on 1 August 2012, by [section 94][557] of the Road User Charges Act 2012 (2012 No 1).
+    Section 218(4): amended, on 1 August 2012, by [section 94][556] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 218(4): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 218(4): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 219 Expiry of section 218
     
@@ -11896,7 +11906,7 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
 *   (1) \[Repealed\]
     
-    (2) The warrants of traffic officers appointed under the [Transport Act 1962][514] are revoked.
+    (2) The warrants of traffic officers appointed under the [Transport Act 1962][513] are revoked.
     
     (3) Every member of the Board of the Agency who holds office as such immediately before the commencement of [section 184][382] is to continue in office as if appointed under that section and, subject to that section, holds office until his or her appointment would have expired under the Land Transport Act 1993 if this Act had not been passed.
     
@@ -11904,13 +11914,13 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
     (5) Every person who, immediately before the commencement of this section, held office as a hazardous substances enforcement officer under [section 70K][1023] of the Transport Act 1962 is deemed to have been appointed as a dangerous goods enforcement officer under [section 208][412].
     
-    Section 221(1): repealed, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 221(1): repealed, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 221(3): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 221(3): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 222 Saving of certain land transport documents
     
-*   (1) All certificates, permits, licences, warrants of fitness, exemptions, notices, and other documents issued under the [Transport Act 1962][514] (other than those documents to which any other provision of this Part applies) and in force immediately before the commencement of this section have effect for the purposes of this Act as if issued under this Act.
+*   (1) All certificates, permits, licences, warrants of fitness, exemptions, notices, and other documents issued under the [Transport Act 1962][513] (other than those documents to which any other provision of this Part applies) and in force immediately before the commencement of this section have effect for the purposes of this Act as if issued under this Act.
     
     (2) Exemptions granted under section 13 of the Land Transport Act 1993 have effect as if granted under [section 166][354].
 
@@ -11920,9 +11930,9 @@ Repeals, amendments to other enactments, and transitional and savings provisions
         
     *   (a) as an employee of the Agency, is or was engaged principally on duties relating to any 1 or more of the following matters:
             
-        *   (i) the administration of motor vehicle registration and licensing under [Part 1][1058] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or the administration of driver licensing under [Part 2][515] of that Act or under this Act:
+        *   (i) the administration of motor vehicle registration and licensing under [Part 1][1058] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or the administration of driver licensing under [Part 2][514] of that Act or under this Act:
         
-        *   (ii) the administration or enforcement of road user charges under the [Road User Charges Act 1977][1059] or [Part 2][1021] of the Land Transport Management Act 2003:
+        *   (ii) the administration or enforcement of road user charges under the [Road User Charges Act 1977][1059] or [Part 2][1020] of the Land Transport Management Act 2003:
         
         *   (iii) the administration of fuel excise duty refunds under [Part 5][1060] of the Government Roading Powers Act 1989:
         
@@ -11954,27 +11964,27 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
     Section 223 heading: amended, on 10 May 2011, by [section 93][1063] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 223 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 223(1)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223(1)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 223(1)(a)(ii): amended, on 13 November 2003, by [section 90][556] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 223(1)(a)(ii): amended, on 13 November 2003, by [section 90][555] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 223(1)(a)(iii): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223(1)(a)(iii): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 223(1)(a)(iv): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223(1)(a)(iv): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 223(2): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223(2): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 223(2)(a): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223(2)(a): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 223(2)(b): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223(2)(b): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 223(2)(c): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 223(2)(c): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 224 Saving of certain notices issued by enforcement officers
     
-*   A notice issued under subsection (2) or subsection (2A) of section 68B of the [Transport Act 1962][514] and in force immediately before the commencement of this section has effect as if issued under [section 115][282].
+*   A notice issued under subsection (2) or subsection (2A) of section 68B of the [Transport Act 1962][513] and in force immediately before the commencement of this section has effect as if issued under [section 115][282].
 
 ##### 224A Saving of certain directions given by parking wardens
     
@@ -11984,21 +11994,21 @@ Repeals, amendments to other enactments, and transitional and savings provisions
 
 ##### 224B Savings of bylaws made under certain Acts
     
-*   A bylaw made under the [Local Government Act 1974][538] or the [Transport Act 1962][514] that concerns a matter specified in [section 22AB][36] and that is in force immediately before the commencement of this section is to be treated as if it were made under section 22AB.
+*   A bylaw made under the [Local Government Act 1974][537] or the [Transport Act 1962][513] that concerns a matter specified in [section 22AB][36] and that is in force immediately before the commencement of this section is to be treated as if it were made under section 22AB.
     
     Section 224B: inserted, on 10 May 2011, by [section 95][1065] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 225 Savings relating to court orders, proceedings, etc
     
-*   (1) A proceeding, action, or investigation commenced under any provision of the [Transport Act 1962][514] or [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519], that is pending or in progress immediately before the repeal of that provision by this Act, may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
+*   (1) A proceeding, action, or investigation commenced under any provision of the [Transport Act 1962][513] or [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518], that is pending or in progress immediately before the repeal of that provision by this Act, may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
     
-    (2) A certificate given or evidence produced under any provision of the [Transport Act 1962][514] or [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] that is repealed by this Act, and given or produced before the commencement of this section for the purposes of any proceeding, action, or investigation to which subsection (1) applies, continues to be as admissible for the purposes of the proceeding, action, or investigation as it would be if this Act had not been passed.
+    (2) A certificate given or evidence produced under any provision of the [Transport Act 1962][513] or [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] that is repealed by this Act, and given or produced before the commencement of this section for the purposes of any proceeding, action, or investigation to which subsection (1) applies, continues to be as admissible for the purposes of the proceeding, action, or investigation as it would be if this Act had not been passed.
     
     (3) A limited licence issued under [section 38][879] of the Transport Act 1962 and in force immediately before the commencement of this section has effect as if issued under [section 105][265] of this Act.
     
-    (4) A court order made under any provision of the [Transport Act 1962][514] or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] that is repealed by this Act, which order is in force immediately before the repeal of that provision, has effect under the corresponding provision of this Act.
+    (4) A court order made under any provision of the [Transport Act 1962][513] or the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] that is repealed by this Act, which order is in force immediately before the repeal of that provision, has effect under the corresponding provision of this Act.
     
-    (5) In any proceeding, action, or investigation to which subsection (1) applies, service of any document that was effected before the commencement of this section and in accordance with the [Transport Act 1962][514] or [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] (as the case required) is sufficient service for the purposes of the continuation, completion, and enforcement of the proceeding, action, or investigation.
+    (5) In any proceeding, action, or investigation to which subsection (1) applies, service of any document that was effected before the commencement of this section and in accordance with the [Transport Act 1962][513] or [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] (as the case required) is sufficient service for the purposes of the continuation, completion, and enforcement of the proceeding, action, or investigation.
 
 ##### 226 Saving of notices suspending driver licences
     
@@ -12010,7 +12020,7 @@ Repeals, amendments to other enactments, and transitional and savings provisions
 
 ##### 228 Saving of certain applications under Transport Act 1962
     
-*   An application pending under any provision of the [Transport Act 1962][514] that is repealed by this Act, which application is pending immediately before the repeal of that provision, may be determined under the corresponding provision of this Act.
+*   An application pending under any provision of the [Transport Act 1962][513] that is repealed by this Act, which application is pending immediately before the repeal of that provision, may be determined under the corresponding provision of this Act.
 
 ##### 229 Savings relating to rules and land transport strategies
     
@@ -12028,9 +12038,9 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
     (3) The Authority's service charter under section 22 of the Land Transport Act 1993, as it stood immediately before the commencement of [section 195][394] of this Act, has effect as if prepared and made available to the public, or amended, under section 195\.
     
-    Section 230 heading: amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 230 heading: amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 230(1): amended, on 1 August 2008, by [section 50(1)][544] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 230(1): amended, on 1 August 2008, by [section 50(1)][543] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 231 Savings relating to blood specimens taken under Transport Act 1962
     
@@ -12042,27 +12052,27 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
     (4) No analysis under this Act of a blood specimen to which this section applies, and no certificate issued under this Act in respect of such a blood specimen, is invalid on the ground---
         
-    *   (a) that the blood specimen was delivered or posted before the commencement of this section and was addressed to a ministry analyst (within the meaning of the [Transport Act 1962][514]); or
+    *   (a) that the blood specimen was delivered or posted before the commencement of this section and was addressed to a ministry analyst (within the meaning of the [Transport Act 1962][513]); or
     
     *   (b) that the analysis was done or completed, or the certificate was issued, by an approved analyst who was not the ministry analyst to whom the blood specimen was delivered or posted, in accordance with subsection (3) or subsection (4) of [section 58F][780] of the Transport Act 1962, before the commencement of this Act; or
     
-    *   (c) that the person who carried out or completed the analysis or issued the certificate is an approved analyst, regardless of whether or not that person was a ministry analyst (within the meaning of the [Transport Act 1962][514]) at the time the blood specimen was taken.
+    *   (c) that the person who carried out or completed the analysis or issued the certificate is an approved analyst, regardless of whether or not that person was a ministry analyst (within the meaning of the [Transport Act 1962][513]) at the time the blood specimen was taken.
     
     (5) If any person makes an application under [section 74][174] for a part of a blood specimen to which this section applies to be sent to a private analyst,---
         
     *   (a) the approved analyst who for the time being has custody of the blood specimen is deemed, for the purposes of [section 74(5)][174], to be the approved analyst to whom the blood specimen had been delivered or posted in accordance with subsection (3) or subsection (4) of that section; and
     
-    *   (b) the approved analyst having such custody may give a certificate of the kind referred to in [section 75(6)][176], and no certificate so given is invalid on the ground that it was given by an approved analyst and not by a ministry analyst (within the meaning of the [Transport Act 1962][514]).
+    *   (b) the approved analyst having such custody may give a certificate of the kind referred to in [section 75(6)][176], and no certificate so given is invalid on the ground that it was given by an approved analyst and not by a ministry analyst (within the meaning of the [Transport Act 1962][513]).
     
     (6) Where a certificate of the kind referred to in [section 58G(1)(d)][783] of the Transport Act 1962 has been issued for any blood specimen to which this section applies, a certificate under [section 75][176] may, from time to time, after the commencement of this section, be issued in respect of that blood specimen by any approved analyst who has available to him or her the information that is necessary to enable that analyst to fully complete that certificate.
     
-    (7) [Section 58G(1)][783] of the Transport Act 1962 applies in respect of any certificate issued under the authority of subsection (6) as if the certificate had been signed, before the commencement of this Act, by a ministry analyst (within the meaning of the [Transport Act 1962][514]).
+    (7) [Section 58G(1)][783] of the Transport Act 1962 applies in respect of any certificate issued under the authority of subsection (6) as if the certificate had been signed, before the commencement of this Act, by a ministry analyst (within the meaning of the [Transport Act 1962][513]).
 
 ##### 232 Savings relating to blood specimens taken under this Act and posted in accordance with Transport Act 1962
     
 *   (1) This section applies to a blood specimen if that blood specimen---
         
-    *   (a) is taken under [section 72][171] or [section 73][172] and posted by registered post in any package, parcel, or other container that is addressed to a ministry analyst (within the meaning of the [Transport Act 1962][514]); and
+    *   (a) is taken under [section 72][171] or [section 73][172] and posted by registered post in any package, parcel, or other container that is addressed to a ministry analyst (within the meaning of the [Transport Act 1962][513]); and
     
     *   (b) is received by an approved analyst (or person employed by an approved laboratory and approved for the purpose by an approved analyst).
     
@@ -12072,7 +12082,7 @@ Repeals, amendments to other enactments, and transitional and savings provisions
     
     *   (b) that approved analyst is deemed to be the approved analyst notified under section 74(4)(b); and
     
-    *   (c) any certificate of the kind referred to in section 75(4) that certifies that the blood specimen was sent or caused to be sent by registered post to a ministry analyst (within the meaning of the [Transport Act 1962][514]) is deemed to certify that the specimen was sent or caused to be sent to a specified approved analyst in accordance with section 74\.
+    *   (c) any certificate of the kind referred to in section 75(4) that certifies that the blood specimen was sent or caused to be sent by registered post to a ministry analyst (within the meaning of the [Transport Act 1962][513]) is deemed to certify that the specimen was sent or caused to be sent to a specified approved analyst in accordance with section 74\.
     
     
 
@@ -12125,9 +12135,9 @@ Motor vehicle registration and licensing
             
         *   (i) this Part; or
         
-        *   (ii) the [Transport Act 1962][514]; or
+        *   (ii) the [Transport Act 1962][513]; or
         
-        *   (iii) the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519]; and
+        *   (iii) the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518]; and
         
         
     
@@ -12149,7 +12159,7 @@ Motor vehicle registration and licensing
     
     (2) Except in proceedings for an offence against this Part or regulations made under this Part, a question as to whether a motor vehicle is of a particular design or type for the purposes of this Part or of regulations made under this Part must be determined by the Registrar.
     
-    Compare: 1986 No 6 [s 2][526]
+    Compare: 1986 No 6 [s 2][525]
     
     Section 233: added, on 29 June 2009, by [section 32(1)][1067] of the Land Transport Amendment Act 2009 (2009 No 17).
     
@@ -12175,7 +12185,7 @@ Motor vehicle registration and licensing
     
     *   (b) an enforcement authority.
     
-    Compare: 1986 No 6 [s 18][938]
+    Compare: 1986 No 6 [s 18][937]
     
     Section 234: inserted, on 1 May 2011, by [section 32(2)][1067] of the Land Transport Amendment Act 2009 (2009 No 17).
 
@@ -12391,7 +12401,7 @@ Motor vehicle registration and licensing
     
     (3) Subsections (1) and (2) do not override any provisions of this Part or of regulations made under this Part that provide expressly for a motor vehicle to be operated on a road otherwise than in accordance with subsections (1) and (2).
     
-    (4) A motor vehicle that is a registered motor vehicle under the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] or any corresponding former Act immediately before the commencement of this Part is to be treated as if it were registered under this Part.
+    (4) A motor vehicle that is a registered motor vehicle under the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] or any corresponding former Act immediately before the commencement of this Part is to be treated as if it were registered under this Part.
     
     Compare: 1986 No 6 [s 5(1)][569], (1A), (5)
     
@@ -12449,7 +12459,7 @@ Motor vehicle registration and licensing
     
     (3) A licence must not be issued for a motor vehicle that is not registered in accordance with [section 242][457].
     
-    (4) In relation to a vehicle treated by virtue of [section 242(4)][457] as if it were registered under this Part, a licence issued for the vehicle under the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][519] and in force immediately before the commencement of this section continues to have effect as if it had been issued for the vehicle under this Part.
+    (4) In relation to a vehicle treated by virtue of [section 242(4)][457] as if it were registered under this Part, a licence issued for the vehicle under the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][518] and in force immediately before the commencement of this section continues to have effect as if it had been issued for the vehicle under this Part.
     
     Compare: 1986 No 6 [ss 10(1)][1077], (2), [13(1)--(3)][1078]
     
@@ -13025,7 +13035,7 @@ Motor vehicle registration and licensing
         
         
     
-    *   (r) identifying those fees and charges that are land transport revenue for the purposes of the [Land Transport Management Act 2003][900]:
+    *   (r) identifying those fees and charges that are land transport revenue for the purposes of the [Land Transport Management Act 2003][899]:
     
     *   (s) providing for unpaid fees and charges to be recoverable as a debt due to the Crown:
     
@@ -13083,7 +13093,7 @@ Motor vehicle registration and licensing
 
 ##### 270 Fees and charges identified as land transport revenue
     
-*   (1) This section applies to regulations made by Order in Council under [section 269][490] that prescribe fees or charges that are identified as land transport revenue for the purposes of the [Land Transport Management Act 2003][900] (_relevant regulations_).
+*   (1) This section applies to regulations made by Order in Council under [section 269][490] that prescribe fees or charges that are identified as land transport revenue for the purposes of the [Land Transport Management Act 2003][899] (_relevant regulations_).
     
     (2) If relevant regulations are made on or before 30 June in any year, they expire on the close of 31 December of that year except so far as they are expressly confirmed by Act of Parliament passed during that year.
     
@@ -13189,7 +13199,7 @@ Motor vehicle registration and licensing
 
 ##### 274 Land transport revenue to be paid into national land transport fund
     
-*   All fees and charges (excluding applicable refunds and goods and services tax) identified in regulations made under this Part as land transport revenue for the purposes of the [Land Transport Management Act 2003][900] must be paid into a Crown Bank Account and treated as land transport revenue.
+*   All fees and charges (excluding applicable refunds and goods and services tax) identified in regulations made under this Part as land transport revenue for the purposes of the [Land Transport Management Act 2003][899] must be paid into a Crown Bank Account and treated as land transport revenue.
     
     Compare: 1986 No 6 [s 36][1097]
     
@@ -13218,7 +13228,7 @@ Provisions concerning Land Transport Safety Authority of New Zealand
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 December 2004, by [section 11(2)][1009] of the Land Transport Amendment Act 2004 (2004 No 96). 
+*   Schedule 1: repealed, on 1 December 2004, by [section 11(2)][1008] of the Land Transport Amendment Act 2004 (2004 No 96). 
 
 ---
 
@@ -13230,12 +13240,12 @@ Enactments repealed
 ## Part 1  
 Provisions of Transport Act 1962 repealed on 1 March 1999
 
-_Amendment(s) incorporated in the [Act(s)][514]_.
+_Amendment(s) incorporated in the [Act(s)][513]_.
 
 ## Part 2  
 Provisions of Transport (Vehicle and Driver Registration and Licensing) Act 1986 repealed on 1 March 1999
 
-_Amendment(s) incorporated in the [Act(s)][519]_.
+_Amendment(s) incorporated in the [Act(s)][518]_.
 
 ## Part 3  
 Land Transport Acts repealed on 1 March 1999
@@ -13263,7 +13273,7 @@ Land Transport enactments repealed on date or dates appointed by Order in Counci
 
 *   7 [Section 78][1105] (which relates to experimental traffic control signs).
 
-*   8 [Section 78A][1006] (which relates to piloting fees).
+*   8 [Section 78A][1005] (which relates to piloting fees).
 
 *   9 _Amendment(s) incorporated in the [Act(s)][699]_.
 
@@ -13275,7 +13285,7 @@ Land Transport enactments repealed on date or dates appointed by Order in Counci
 
 ##### Provisions of Transport (Vehicle and Driver Registration and Licensing) Act 1986
 
-*   13 _Amendment(s) incorporated in the [Act(s)][519]_.
+*   13 _Amendment(s) incorporated in the [Act(s)][518]_.
 
 ##### Land Transport Amendment Act 1997
 
@@ -13301,7 +13311,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Airport Authorities Act 1966 (1966 No 51) (RS Vol 17, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][952]_.
+_Amendment(s) incorporated in the [Act(s)][951]_.
 
 ##### Animals Protection Act 1960 (1960 No 30) (RS Vol 6, p 1)
 
@@ -13325,7 +13335,7 @@ _Amendment(s) incorporated in the [Act(s)][1112]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][1011]._
+_Amendment(s) incorporated in the [Act(s)][1010]._
 
 ##### Education Act 1964 (1964 No 135) (RS Vol 34, p 355)
 
@@ -13369,7 +13379,7 @@ _Amendment(s) incorporated in the [Act(s)][1121]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][538]._
+_Amendment(s) incorporated in the [Act(s)][537]._
 
 ##### Machinery Act 1950 (1950 No 52) (RS Vol 18, p 409)
 
@@ -13421,11 +13431,11 @@ _Amendment(s) incorporated in the [Act(s)][1059]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][529]._
+_Amendment(s) incorporated in the [Act(s)][528]._
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][520]._
+_Amendment(s) incorporated in the [Act(s)][519]._
 
 ##### Transport Accident Investigation Commission Act 1990 (1990 No 99)
 
@@ -13433,7 +13443,7 @@ _Amendment(s) incorporated in the [Act(s)][1130]._
 
 ##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
 
-_Amendment(s) incorporated in the [Act(s)][514]._
+_Amendment(s) incorporated in the [Act(s)][513]._
 
 ##### Transport Amendment Act 1997 (1997 No 3)
 
@@ -13445,7 +13455,7 @@ _Amendment(s) incorporated in the [Act(s)][1055]._
 
 ##### Transport (Vehicle and Driver Registration and Licensing) Act 1986 (1986 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][519]._
+_Amendment(s) incorporated in the [Act(s)][518]._
 
 ##### Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)
 
@@ -13489,76 +13499,6 @@ Transitional provision and consequential amendments
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][1134].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][1135] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -13573,23 +13513,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Land Transport Act 1998\. The reprint incorporates all the amendments to the Act as at 1 January 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Land Transport Act 1998\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][1136] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][1134] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][1137] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][1135] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][1138] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][1136] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][1139] and [17E][1140] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][1137] and [17E][1138] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -13620,11 +13560,13 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89): [section 103][1071]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][549]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 268][920]
+    Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89): [section 103][1071]
     
-    Road User Charges Act 2012 (2012 No 1): [section 94][557]
+    Search and Surveillance Act 2012 (2012 No 24): [section 268][919]
+    
+    Road User Charges Act 2012 (2012 No 1): [section 94][556]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 393][761]
     
@@ -13632,9 +13574,9 @@ Amendments, repeals, and miscellaneous provisions
     
     Health Practitioners Competence Assurance (Designation of Anaesthetic Technology Services as Health Profession) Order 2011 (SR 2011/227): [clause 8(2)][560]
     
-    [Land Transport Amendment Act 2011][1141] (2011 No 31)
+    [Land Transport Amendment Act 2011][1139] (2011 No 31)
     
-    [Land Transport (Road Safety and Other Matters) Amendment Act 2011][1142] (2011 No 13)
+    [Land Transport (Road Safety and Other Matters) Amendment Act 2011][1140] (2011 No 13)
     
     Research, Science, and Technology Act 2010 (2010 No 131): [section 18][563]
     
@@ -13642,31 +13584,31 @@ Amendments, repeals, and miscellaneous provisions
     
     [Land Transport (Enforcement Powers) Amendment Act 2009][1133] (2009 No 36)
     
-    [Land Transport Amendment Act 2009][1143] (2009 No 17)
+    [Land Transport Amendment Act 2009][1141] (2009 No 17)
     
-    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][550]
+    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][557]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (vii), (b), (d)][555], [124][604], [130(1)][568]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (vii), (b), (d)][554], [124][604], [130(1)][568]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][1020]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][1019]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][544], [clause 40(2) Schedule 2][856]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][543], [clause 40(2) Schedule 2][856]
     
     Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][782]
     
-    [Land Transport Amendment Act 2007][1144] (2007 No 66)
+    [Land Transport Amendment Act 2007][1142] (2007 No 66)
     
     Sentencing Amendment Act 2007 (2007 No 27): [section 58][843]
     
     Evidence Act 2006 (2006 No 69): [section 216][1025]
     
-    [Land Transport Amendment Act (No 2) 2006][1145] (2006 No 30)
+    [Land Transport Amendment Act (No 2) 2006][1143] (2006 No 30)
     
-    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 35][1146]
+    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 35][1144]
     
-    [Land Transport Amendment Act 2006][1147] (2006 No 2)
+    [Land Transport Amendment Act 2006][1145] (2006 No 2)
     
-    [Land Transport Amendment Act 2005][1148] (2005 No 77)
+    [Land Transport Amendment Act 2005][1146] (2005 No 77)
     
     Railways Act 2005 (2005 No 37): [section 103(3)][558]
     
@@ -13674,21 +13616,21 @@ Amendments, repeals, and miscellaneous provisions
     
     Crown Entities Act 2004 (2004 No 115): [section 200][561]
     
-    [Land Transport Amendment Act 2004][1149] (2004 No 96)
+    [Land Transport Amendment Act 2004][1147] (2004 No 96)
     
-    Land Transport Management Act 2003 (2003 No 118): [section 90][556]
+    Land Transport Management Act 2003 (2003 No 118): [section 90][555]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][552]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][551]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][959]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][958]
     
-    [Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003][1150] (2003 No 11)
+    [Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003][1148] (2003 No 11)
     
     Local Government Act 2002 (2002 No 84): [section 262][559]
     
     Sentencing Act 2002 (2002 No 9): [section 186][841]
     
-    [Land Transport (Road Safety Enforcement) Amendment Act 2001][1151] (2001 No 104)
+    [Land Transport (Road Safety Enforcement) Amendment Act 2001][1149] (2001 No 104)
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][775]
     
@@ -14211,53 +14153,53 @@ Amendments, repeals, and miscellaneous provisions
 [508]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM306183
 [509]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014908
 [510]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM228044
-[511]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1179946
-[512]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM227550
-[513]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM432653
-[514]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341189
-[515]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91659
-[516]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM203321
-[517]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM120905
-[518]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3394800
-[519]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM90414
-[520]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM173368
-[521]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341567
-[522]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341575
-[523]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM170872
-[524]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM434630
-[525]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM204329
-[526]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM90420
-[527]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM292880
-[528]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM54687
-[529]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM310742
-[530]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172978
-[531]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436576
-[532]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436586
-[533]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436723
-[534]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436106
-[535]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM262181
-[536]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3166910
-[537]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM302187
-[538]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM415531
-[539]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM226238
-[540]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM227560
-[541]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195097
-[542]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341197
-[543]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343039
-[544]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1313622
-[545]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231111
-[546]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM351797
-[547]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014910
-[548]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321259
-[549]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128654
-[550]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1180107
-[551]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095518
-[552]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM205009
-[553]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM374384
-[554]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2015063
-[555]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1102349
-[556]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM228040
-[557]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3395080
+[511]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM227550
+[512]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM432653
+[513]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341189
+[514]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91659
+[515]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM203321
+[516]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM120905
+[517]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3394800
+[518]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM90414
+[519]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM173368
+[520]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341567
+[521]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341575
+[522]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM170872
+[523]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM434630
+[524]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM204329
+[525]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM90420
+[526]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM292880
+[527]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM54687
+[528]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM310742
+[529]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172978
+[530]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436576
+[531]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436586
+[532]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436723
+[533]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM436106
+[534]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM262181
+[535]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3166910
+[536]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM302187
+[537]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM415531
+[538]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM226238
+[539]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM227560
+[540]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195097
+[541]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM341197
+[542]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343039
+[543]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1313622
+[544]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231111
+[545]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM351797
+[546]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014910
+[547]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321259
+[548]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128654
+[549]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM4663359
+[550]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095518
+[551]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM205009
+[552]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM374384
+[553]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2015063
+[554]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1102349
+[555]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM228040
+[556]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3395080
+[557]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1180107
 [558]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343101
 [559]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM174088
 [560]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3825715
@@ -14599,129 +14541,129 @@ Amendments, repeals, and miscellaneous provisions
 [896]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM242775
 [897]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352946
 [898]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172642
-[899]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1179938
-[900]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM226229
-[901]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343552
-[902]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231243
-[903]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095555
-[904]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352950
-[905]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172803
-[906]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352951
-[907]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343517
-[908]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352953
-[909]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095556
-[910]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352954
-[911]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231244
-[912]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095557
-[913]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343534
-[914]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172143
-[915]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352955
-[916]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2136770
-[917]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2136781
-[918]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2136542
-[919]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343528
-[920]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2137013
-[921]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352956
-[922]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343476
-[923]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343480
-[924]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343486
-[925]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014946
-[926]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231246
-[927]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014947
-[928]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352957
-[929]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095558
-[930]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343589
-[931]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352958
-[932]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095560
-[933]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231247
-[934]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3850900
-[935]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343915
-[936]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343920
-[937]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343923
-[938]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91494
-[939]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231250
-[940]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3556238
-[941]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM342886
-[942]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231251
-[943]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3850901
-[944]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014948
-[945]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344843
-[946]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352963
-[947]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM311191
-[948]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344850
-[949]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231253
-[950]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352964
-[951]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343018
-[952]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM380054
-[953]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3850902
-[954]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231254
-[955]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM342952
-[956]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231256
-[957]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3556239
-[958]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3664107
-[959]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM201378
-[960]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91667
-[961]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344856
-[962]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172699
-[963]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352965
-[964]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231261
-[965]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344869
-[966]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352967
-[967]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128665
-[968]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM102241
-[969]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128666
-[970]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343798
-[971]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344859
-[972]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344864
-[973]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231262
-[974]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231263
-[975]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM228045
-[976]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM228046
-[977]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321264
-[978]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195534
-[979]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3143109
-[980]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231264
-[981]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM92105
-[982]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM92121
-[983]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352969
-[984]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352970
-[985]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231266
-[986]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM335685
-[987]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352971
-[988]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM129507
-[989]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231267
-[990]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231268
-[991]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231269
-[992]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321267
-[993]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195549
-[994]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128740
-[995]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM216372
-[996]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231270
-[997]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343978
-[998]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344887
-[999]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352972
-[1000]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231272
-[1001]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014949
-[1002]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2475709
-[1003]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231273
-[1004]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352973
-[1005]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352974
-[1006]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344233
-[1007]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231274
-[1008]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321268
-[1009]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321276
-[1010]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91687
-[1011]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM78218
-[1012]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM136832
-[1013]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231276
-[1014]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352978
-[1015]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2353706
-[1016]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172134
-[1017]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352979
-[1018]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM359378
-[1019]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352981
-[1020]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1048943
-[1021]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM227127
+[899]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM226229
+[900]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343552
+[901]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231243
+[902]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095555
+[903]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352950
+[904]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172803
+[905]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352951
+[906]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343517
+[907]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352953
+[908]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095556
+[909]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352954
+[910]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231244
+[911]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095557
+[912]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343534
+[913]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172143
+[914]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352955
+[915]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2136770
+[916]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2136781
+[917]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2136542
+[918]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343528
+[919]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2137013
+[920]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352956
+[921]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343476
+[922]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343480
+[923]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343486
+[924]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014946
+[925]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231246
+[926]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014947
+[927]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352957
+[928]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095558
+[929]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343589
+[930]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352958
+[931]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095560
+[932]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231247
+[933]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3850900
+[934]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343915
+[935]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343920
+[936]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343923
+[937]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91494
+[938]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231250
+[939]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3556238
+[940]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM342886
+[941]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231251
+[942]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3850901
+[943]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014948
+[944]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344843
+[945]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352963
+[946]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM311191
+[947]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344850
+[948]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231253
+[949]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352964
+[950]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343018
+[951]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM380054
+[952]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3850902
+[953]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231254
+[954]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM342952
+[955]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231256
+[956]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3556239
+[957]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3664107
+[958]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM201378
+[959]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91667
+[960]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344856
+[961]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172699
+[962]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352965
+[963]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231261
+[964]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344869
+[965]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352967
+[966]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128665
+[967]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM102241
+[968]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128666
+[969]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343798
+[970]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344859
+[971]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344864
+[972]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231262
+[973]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231263
+[974]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM228045
+[975]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM228046
+[976]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321264
+[977]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195534
+[978]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3143109
+[979]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231264
+[980]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM92105
+[981]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM92121
+[982]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352969
+[983]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352970
+[984]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231266
+[985]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM335685
+[986]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352971
+[987]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM129507
+[988]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231267
+[989]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231268
+[990]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231269
+[991]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321267
+[992]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195549
+[993]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128740
+[994]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM216372
+[995]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231270
+[996]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343978
+[997]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344887
+[998]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352972
+[999]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231272
+[1000]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014949
+[1001]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2475709
+[1002]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231273
+[1003]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352973
+[1004]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352974
+[1005]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM344233
+[1006]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231274
+[1007]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321268
+[1008]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321276
+[1009]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM91687
+[1010]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM78218
+[1011]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM136832
+[1012]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231276
+[1013]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352978
+[1014]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2353706
+[1015]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM172134
+[1016]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352979
+[1017]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM359378
+[1018]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM352981
+[1019]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM1048943
+[1020]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM227127
+[1021]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM5285410
 [1022]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM342373
 [1023]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343929
 [1024]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM343443
@@ -14834,21 +14776,19 @@ Amendments, repeals, and miscellaneous provisions
 [1131]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM407915
 [1132]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM411394
 [1133]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2095500
-[1134]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2136500
-[1135]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM4686448
-[1136]: http://www.pco.parliament.govt.nz/reprints/
-[1137]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195439
-[1138]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1139]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195468
-[1140]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195470
-[1141]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3556200
-[1142]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231100
-[1143]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014900
-[1144]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM968368
-[1145]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM374377
-[1146]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM372299
-[1147]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM368283
-[1148]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM351787
-[1149]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321253
-[1150]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM187871
-[1151]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128645
+[1134]: http://www.pco.parliament.govt.nz/reprints/
+[1135]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195439
+[1136]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1137]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195468
+[1138]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM195470
+[1139]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3556200
+[1140]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM3231100
+[1141]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM2014900
+[1142]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM968368
+[1143]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM374377
+[1144]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM372299
+[1145]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM368283
+[1146]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM351787
+[1147]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM321253
+[1148]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM187871
+[1149]: http://www.legislation.govt.nz/act/public/1998/0110/latest/link.aspx?id=DLM128645
