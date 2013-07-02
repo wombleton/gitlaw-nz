@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -122,7 +122,11 @@ This Act is administered by the Department of Internal Affairs.
 [Part 3][48]  
 [Transitional arrangements][48]
 
+\[Repealed\]
+
 [Subpart 1][49][---][49][Local Government Commission][49]
+
+\[Repealed\]
 
 [33][50][][50][Local Government Commission to determine boundaries of Auckland][50] \[Repealed\]
 
@@ -133,6 +137,8 @@ This Act is administered by the Department of Internal Affairs.
 [35A][53][][53][Local Government (Auckland Wards and Local Boards) Determination 2010 amended][53] \[Repealed\]
 
 [Subpart 2][54][---][54][Consequential amendments][54]
+
+\[Repealed\]
 
 [36][55][][55][Amendment to Local Government Act 2002][55] \[Repealed\]
 
@@ -763,7 +769,7 @@ Auckland Council
     
     *   (ca) the decision making of the Auckland Council in relation to the governance of its council-controlled organisations; and
     
-    *   (cb) the decision making of the Auckland Council in relation to transport objectives for Auckland and transport funding for Auckland; and
+    *   (cb) \[Repealed\]
     
     *   (d) the decision making of the Auckland Council in relation to compliance with [section 101][195] of the Local Government Act 2002 (which relates to the financial management of a local authority); and
     
@@ -779,7 +785,7 @@ Auckland Council
     
     Section 15(1)(ca): inserted, on 1 November 2010, by [section 16][196] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 15(1)(cb): inserted, on 1 November 2010, by [section 16][196] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 15(1)(cb): repealed, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 16 Decision-making responsibilities of local boards
     
@@ -793,11 +799,11 @@ Auckland Council
     
     *   (d) the agreement reached with the governing body (as set out in the local board agreement) in respect of local activities for its local board area.
     
-    (2) In carrying out the responsibilities described in this section, a local board must comply with the requirements of [sections 76 to 82][197] of the Local Government Act 2002 as if every reference in those sections to a local authority were a reference to a local board.
+    (2) In carrying out the responsibilities described in this section, a local board must comply with the requirements of [sections 76 to 82][198] of the Local Government Act 2002 as if every reference in those sections to a local authority were a reference to a local board.
     
     (3) In carrying out the responsibilities described in this section, a local board should collaborate and co-operate with 1 or more other local boards in the situations where the interests and preferences of communities within each local board area will be better served by doing so.
     
-    Section 16(3): added, on 1 November 2010, by [section 17][198] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 16(3): added, on 1 November 2010, by [section 17][199] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 17 Principles for allocation of decision-making responsibilities of Auckland Council
     
@@ -827,15 +833,15 @@ Auckland Council
 
 #### Identification of local activities and allocation of funding
     
-*   Heading: inserted, on 1 November 2010, by [section 18][199] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: inserted, on 1 November 2010, by [section 18][200] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 18 Local activities must be identified in LTP and annual plan
     
 *   (1) The LTP and each annual plan must identify the non-regulatory activities of the Auckland Council for which decision-making responsibility is allocated to local boards under [section 17][25].
     
-    (2) For the purposes of [clauses 2 to 5][200] of Schedule 10 of the Local Government Act 2002, the activities must be grouped together (whether in 1 or more groups) separately from any other activity or group of activities of the Council.
+    (2) For the purposes of [clauses 2 to 5][201] of Schedule 10 of the Local Government Act 2002, the activities must be grouped together (whether in 1 or more groups) separately from any other activity or group of activities of the Council.
     
-    (2A) However, each group of activities specified in [clause 2(2)][201] of Schedule 10 of the Local Government Act 2002 must be identified separately from any other activities or group of activities.
+    (2A) However, each group of activities specified in [clause 2(2)][202] of Schedule 10 of the Local Government Act 2002 must be identified separately from any other activities or group of activities.
     
     (3) The matters in subsection (1) must first be identified in the LTP adopted for the period beginning 1 July 2012, and in each subsequent LTP.
     
@@ -881,13 +887,13 @@ Auckland Council
     
     *   (d) the funding amount allocated to each local board under subsection (4).
     
-    (6) For the purposes of adopting a funding policy under subsection (1), [section 102][202] of the Local Government Act 2002 applies, with any necessary modifications, and as if the following paragraph were added to subsection (2) of that section:
+    (6) For the purposes of adopting a funding policy under subsection (1), [section 102][203] of the Local Government Act 2002 applies, with any necessary modifications, and as if the following paragraph were added to subsection (2) of that section:
     
     > *   "(f) a local board's funding policy."
     > 
     > 
     
-    (6A) If the Auckland Council amends its local board's funding policy under [section 93(4)][203] of the Local Government Act 2002, only a significant amendment to the policy is required to be audited in accordance with sections 84(4) and 94 of that Act.
+    (6A) If the Auckland Council amends its local board's funding policy under [section 93(4)][204] of the Local Government Act 2002, only a significant amendment to the policy is required to be audited in accordance with sections 84(4) and 94 of that Act.
     
     (7) The Auckland Council must adopt its first policy under this section no later than the date that the LTP for the period commencing 1 July 2012 is adopted.
     
@@ -907,7 +913,7 @@ Auckland Council
     
     (3) In this section, _local board funding allocation_ means the total funds in respect of which a local board has decision-making discretion, allocated in accordance with the Council's local boards funding policy adopted under [section 19][28].
     
-    Section 19A: inserted, on 1 November 2010, by [section 20][204] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 19A: inserted, on 1 November 2010, by [section 20][205] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 19A heading: amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
@@ -955,13 +961,13 @@ Auckland Council
         
         
     
-    (4) For the purposes of adopting a plan under subsection (1), [section 83][205] of the Local Government Act 2002 applies as if---
+    (4) For the purposes of adopting a plan under subsection (1), [section 83][206] of the Local Government Act 2002 applies as if---
         
     *   (a) the local board were a local authority and the local board area were the district of the local authority; and
     
     *   (b) the statement of proposal referred to in subsection (1)(a) of that section required the inclusion of---
             
-        *   (i) the information that is required by [clauses 4][206] and [5][207] of Schedule 10 of that Act to be included in the LTP---
+        *   (i) the information that is required by [clauses 4][207] and [5][208] of Schedule 10 of that Act to be included in the LTP---
                 
             *   (A) in relation to local activities; and
             
@@ -995,25 +1001,25 @@ Auckland Council
     
     *   (c) any other revenue connected with a local activity.
     
-    Section 20(1)(a): amended, on 1 November 2010, by [section 21(1)][208] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 20(1)(a): amended, on 1 November 2010, by [section 21(1)][209] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 20(2)(d): amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 20(3): substituted, on 1 November 2010, by [section 21(2)][208] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 20(3): substituted, on 1 November 2010, by [section 21(2)][209] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 20(4)(b)(i): amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 20(4)(b)(ii): amended, on 1 November 2010, by [section 21(3)][208] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 20(4)(b)(ii): amended, on 1 November 2010, by [section 21(3)][209] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 20(4)(b)(iii): substituted, on 1 November 2010, by [section 21(4)][208] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 20(4)(b)(iii): substituted, on 1 November 2010, by [section 21(4)][209] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 20(4)(b)(iii): amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
     Section 20(5) **default levels of service**: substituted, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 20(5) **standard levels of service**: repealed, on 1 November 2010, by [section 21(5)][208] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 20(5) **standard levels of service**: repealed, on 1 November 2010, by [section 21(5)][209] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 20(6): added, on 1 November 2010, by [section 21(6) ][208]of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 20(6): added, on 1 November 2010, by [section 21(6) ][209]of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 21 Local board agreements
     
@@ -1041,7 +1047,7 @@ Auckland Council
         
     *   (a) a statement of the intended levels of service provision that specifies---
             
-        *   (i) any performance measures specified in a rule made under [section 261B][209] of the Local Government Act 2002 for each activity described in [clause 2(2)][210] of Schedule 10 of that Act; and
+        *   (i) any performance measures specified in a rule made under [section 261B][210] of the Local Government Act 2002 for each activity described in [clause 2(2)][211] of Schedule 10 of that Act; and
         
         *   (ii) the performance measures that the Auckland Council considers will enable the public to assess the level of service for major aspects of an activity for which performance measures have not been specified under paragraph (a); and
         
@@ -1051,11 +1057,11 @@ Auckland Council
         
         
     
-    *   (b) a funding impact statement in the form prescribed under the Local Government Act 2002 for inclusion in an annual plan under [clause 20(2)][211] of Schedule 10; and
+    *   (b) a funding impact statement in the form prescribed under the Local Government Act 2002 for inclusion in an annual plan under [clause 20(2)][212] of Schedule 10; and
     
     *   (c) a statement of how any expenses in excess of the local board's estimated funding allocation under [section 19A][29] of this Act are to be met (including estimated revenue levels and the other sources of funding).
     
-    Section 21: substituted, on 1 November 2010, by [section 22][212] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 21: substituted, on 1 November 2010, by [section 22][213] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 21(5): substituted, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
@@ -1075,11 +1081,11 @@ Auckland Council
     
     Section 22 heading: amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 22 heading: amended, on 1 November 2010, by [section 23(1)][213] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 22 heading: amended, on 1 November 2010, by [section 23(1)][214] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 22(1): amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 22(4): repealed, on 1 November 2010, by [section 23(2)][213] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 22(4): repealed, on 1 November 2010, by [section 23(2)][214] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 23 Monitoring and reporting
     
@@ -1121,15 +1127,15 @@ Auckland Council
     
     *   (b) does not meet the requirements of subsection (2), it must give written notice of its decision (with reasons) to the local board.
     
-    Section 24(2)(a): substituted, on 1 November 2010, by [section 24][214] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 24(2)(a): substituted, on 1 November 2010, by [section 24][215] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 24(2)(ab): inserted, on 1 November 2010, by [section 24][214] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 24(2)(ab): inserted, on 1 November 2010, by [section 24][215] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 25 Local board must consult on proposed bylaw
     
 *   (1) This section applies if a local board has received notice under [section 24(3)(a)][36] from the governing body in respect of a bylaw that the local board has proposed.
     
-    (2) The local board must confirm the proposed bylaw using the special consultative procedure within the local board area and, for that purpose, [section 156(1)][215] of the Local Government Act 2002 applies, with any necessary modifications, as if the local board were a local authority and the bylaw were a bylaw being made under that Act.
+    (2) The local board must confirm the proposed bylaw using the special consultative procedure within the local board area and, for that purpose, [section 156(1)][216] of the Local Government Act 2002 applies, with any necessary modifications, as if the local board were a local authority and the bylaw were a bylaw being made under that Act.
     
     (3) If, after acting under subsection (2), the local board confirms the proposed bylaw, it must give written notice of its decision to the governing body and the governing body must adopt the bylaw by resolution.
     
@@ -1139,13 +1145,13 @@ Auckland Council
     
     *   (b) if not satisfied that the proposed bylaw meets the requirements of [section 24(2)][36], give notice to the local board under section 24(3)(b).
     
-    (5) Where the Auckland Council adopts under subsection (3) or (4)(a) a bylaw that is made under the [Local Government Act 2002][156], the requirements of [sections 86][216], [155][217], and [156][215] of that Act are deemed to be satisfied in respect of that bylaw.
+    (5) Where the Auckland Council adopts under subsection (3) or (4)(a) a bylaw that is made under the [Local Government Act 2002][156], the requirements of [sections 86][217], [155][218], and [156][216] of that Act are deemed to be satisfied in respect of that bylaw.
     
-    Section 25(3): amended, on 1 November 2010, by [section 25(1)][218] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 25(3): amended, on 1 November 2010, by [section 25(1)][219] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 25(4)(a): amended, on 1 November 2010, by [section 25(2)][218] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 25(4)(a): amended, on 1 November 2010, by [section 25(2)][219] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 25(5): substituted, on 1 November 2010, by [section 25(3)][218] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 25(5): substituted, on 1 November 2010, by [section 25(3)][219] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 26 Local board may propose amendment to bylaw
     
@@ -1181,31 +1187,31 @@ Auckland Council
 
 #### Miscellaneous matters relating to local boards and their members
     
-*   Heading: amended, on 1 November 2010, by [section 26][219] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: amended, on 1 November 2010, by [section 26][220] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 29 Application of Schedule 7 of Local Government Act 2002 to local boards and their members
     
-*   (1) [Part 1][220] of Schedule 7 (except [clauses 15][221] and [32AA to 36][222]) of the Local Government Act 2002 applies to a local board and its members, with any necessary modifications, as if the local board were a local authority and its members were members of the local authority.
+*   (1) [Part 1][221] of Schedule 7 (except [clauses 15][222] and [32AA to 36][223]) of the Local Government Act 2002 applies to a local board and its members, with any necessary modifications, as if the local board were a local authority and its members were members of the local authority.
     
-    (2) To avoid doubt, [section 235][223] of the Local Government Act 2002 (which relates to contraventions of [Schedule 7][224] of that Act) applies to members of local boards as if they were members of a local authority.
+    (2) To avoid doubt, [section 235][224] of the Local Government Act 2002 (which relates to contraventions of [Schedule 7][225] of that Act) applies to members of local boards as if they were members of a local authority.
     
-    Section 29 heading: amended, on 1 November 2010, by [section 27(1)][225] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 29 heading: amended, on 1 November 2010, by [section 27(1)][226] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 29(1): amended, on 1 November 2010, by [section 27(2)][225] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 29(1): amended, on 1 November 2010, by [section 27(2)][226] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 29(1): amended, on 1 November 2010, by [section 27(3)][225] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 29(1): amended, on 1 November 2010, by [section 27(3)][226] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
-    Section 29(2): added, on 1 November 2010, by [section 27(4)][225] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 29(2): added, on 1 November 2010, by [section 27(4)][226] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 30 Code of conduct
     
-*   Each member of each local board must comply with the code of conduct adopted by the governing body under [clause 15][221] of Schedule 7 of the Local Government Act 2002\.
+*   Each member of each local board must comply with the code of conduct adopted by the governing body under [clause 15][222] of Schedule 7 of the Local Government Act 2002\.
 
 ##### 31 Delegations
     
-*   (1) The governing body may delegate to a local board any of its responsibilities, duties, and powers, except the powers described in [clause 32(1)(a) to (f)][226] of Schedule 7 of the Local Government Act 2002\.
+*   (1) The governing body may delegate to a local board any of its responsibilities, duties, and powers, except the powers described in [clause 32(1)(a) to (f)][227] of Schedule 7 of the Local Government Act 2002\.
     
-    (2) However, nothing in subsection (1) restricts the governing body's power to delegate to a local board the power to do anything precedent to the exercise by the governing body of any power referred to in [clause 32(1)(a) to (f)][226] of that schedule.
+    (2) However, nothing in subsection (1) restricts the governing body's power to delegate to a local board the power to do anything precedent to the exercise by the governing body of any power referred to in [clause 32(1)(a) to (f)][227] of that schedule.
     
     (3) In deciding whether to make a delegation, the governing body must weigh the benefits of reflecting local circumstances and preferences (through a delegation) against the importance and benefits of using a single approach across Auckland (through itself retaining the responsibility, duty, or power concerned).
     
@@ -1233,11 +1239,11 @@ Auckland Council
 
 ##### 32A Powers of Minister in relation to local board
     
-*   (1) The Minister may exercise the powers in [Part 10][227] of the Local Government Act 2002 in relation to a local board and, for that purpose, that Part applies, with any necessary modifications, as if a local board were a local authority.
+*   (1) The Minister may exercise the powers in [Part 10][228] of the Local Government Act 2002 in relation to a local board and, for that purpose, that Part applies, with any necessary modifications, as if a local board were a local authority.
     
-    (2) This section applies despite [section 255][228] of that Act.
+    (2) This section applies despite [section 255][229] of that Act.
     
-    Section 32A: inserted, on 1 November 2010, by [section 28][229] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 32A: inserted, on 1 November 2010, by [section 28][230] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 32A(1): amended, on 5 December 2012, by [section 43][175] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
@@ -1245,20 +1251,24 @@ Auckland Council
 
 ##### 32B Application of certain Acts to local boards
     
-*   (1) The [Ombudsmen Act 1975][230] applies to a local board as if the board were listed in [Part 3][231] of Schedule 1 of that Act.
+*   (1) The [Ombudsmen Act 1975][231] applies to a local board as if the board were listed in [Part 3][232] of Schedule 1 of that Act.
     
-    (2) The [Local Government Official Information and Meetings Act 1987][232] applies to a local board as if the board were listed in [Part 1][233] of Schedule 1 of that Act.
+    (2) The [Local Government Official Information and Meetings Act 1987][233] applies to a local board as if the board were listed in [Part 1][234] of Schedule 1 of that Act.
     
-    (3) The [Local Authorities (Members' Interests) Act 1968][234] applies to a local board as if the board were listed in [Part 1][235] of Schedule 1 of that Act.
+    (3) The [Local Authorities (Members' Interests) Act 1968][235] applies to a local board as if the board were listed in [Part 1][236] of Schedule 1 of that Act.
     
-    Section 32B: inserted, on 1 November 2010, by [section 28][229] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 32B: inserted, on 1 November 2010, by [section 28][230] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ## Part 3  
 Transitional arrangements
+
+\[Repealed\]
     
 *   Part 3: repealed, on 5 December 2012, by [section 43][175] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 1---Local Government Commission
+
+\[Repealed\]
     
 *   Subpart 1: repealed, on 5 December 2012, by [section 43][175] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
@@ -1287,6 +1297,8 @@ Transitional arrangements
     Section 35A: repealed, on 5 December 2012, by [section 43][175] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 2---Consequential amendments
+
+\[Repealed\]
     
 *   Subpart 2: repealed, on 5 December 2012, by [section 43][175] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
@@ -1299,7 +1311,7 @@ Transitional arrangements
 ## Part 4  
 Transport management for Auckland
     
-*   Part 4: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Part 4: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 37 Interpretation
     
@@ -1309,9 +1321,9 @@ Transport management for Auckland
         
     *   (a) means---
             
-        *   (i) the roads (as defined in [section 315][237] of the Local Government Act 1974) within Auckland; and
+        *   (i) the roads (as defined in [section 315][238] of the Local Government Act 1974) within Auckland; and
         
-        *   (ii) the public transport services (as defined in [section 4][238] of the Public Transport Management Act 2008) within Auckland; and
+        *   (ii) the public transport services (as defined in [section 5(1)][239] of the Land Transport Management Act 2003) within Auckland; and
         
         *   (iii) the public transport infrastructure owned by the Council; and
         
@@ -1333,17 +1345,21 @@ Transport management for Auckland
     
     _director_ includes the chairperson and the deputy chairperson of the board of directors of Auckland Transport
     
-    _New Zealand Railways Corporation_ means the corporation constituted under [section 4][239] of the New Zealand Railways Corporation Act 1981
+    _New Zealand Railways Corporation_ means the corporation constituted under [section 4][240] of the New Zealand Railways Corporation Act 1981
     
-    _New Zealand Transport Agency_ means the Crown entity established by [section 93][240] of the Land Transport Management Act 2003\.
+    _New Zealand Transport Agency_ means the Crown entity established by [section 93][241] of the Land Transport Management Act 2003\.
     
-    (2) In this Part, unless the context requires another meaning, _land transport_, _regional land transport programme_, and _State highway_ have the same meanings as in [section 5(1)][241] of the Land Transport Management Act 2003\.
+    (2) In this Part, unless the context requires another meaning, _land transport_, _regional land transport plan_, and _State highway_ have the same meanings as in [section 5(1)][239] of the Land Transport Management Act 2003\.
     
-    Section 37: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 37: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    
+    Section 37(1) **Auckland transport system** paragraph (a)(ii): amended, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 37(2): amended, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Auckland Transport
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 38 Establishment of Auckland Transport 
     
@@ -1357,13 +1373,15 @@ Transport management for Auckland
     
     (3) For the purposes of the [Local Government Act 2002][156], the Auckland Council must be treated as if it were the sole shareholder of Auckland Transport.
     
-    Section 38: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 38: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 39 Purpose of Auckland Transport
     
-*   The purpose of Auckland Transport is to contribute to an effective and efficient land transport system to support Auckland's social, economic, environmental, and cultural well-being.
+*   The purpose of Auckland Transport is to contribute to an effective, efficient, and safe Auckland land transport system in the public interest.
     
-    Section 39: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 39: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    
+    Section 39: amended, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 40 Operating principles
     
@@ -1385,7 +1403,7 @@ Transport management for Auckland
     
     *   (e) ensure that it acts in a transparent manner in making decisions under this Act and the [Land Transport Management Act 2003][165].
     
-    Section 40: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 40: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 41 Status and powers of Auckland Transport
     
@@ -1397,7 +1415,7 @@ Transport management for Auckland
     
     (2) Subsection (1) is subject to the rest of this Act.
     
-    Section 41: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 41: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 42 Auckland Transport's status as council-controlled organisation and application of Part 5 of Local Government Act 2002
     
@@ -1417,11 +1435,11 @@ Transport management for Auckland
     > 
     > 
     
-    Section 42: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 42: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Governing body of Auckland Transport
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 43 Governing body of Auckland Transport
     
@@ -1439,7 +1457,7 @@ Transport management for Auckland
     
     (5) The powers and functions of Auckland Transport are not affected by any vacancy in the membership of the board of directors.
     
-    Section 43: substituted, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 43: substituted, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 44 Duties of directors
     
@@ -1457,17 +1475,17 @@ Transport management for Auckland
     
     *   (c) the position of the director and the nature of the responsibilities undertaken by him or her.
     
-    Section 44: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 44: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Functions, powers, etc, of Auckland Transport
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 45 Functions of Auckland Transport
     
 *   The functions of Auckland Transport are to---
         
-    *   (a) prepare the regional land transport programme for Auckland in accordance with the [Land Transport Management Act 2003][165]; and
+    *   (a) prepare the regional land transport plan for Auckland in accordance with the [Land Transport Management Act 2003][165]; and
     
     *   (b) manage and control the Auckland transport system in accordance with this Act, including by---
             
@@ -1487,7 +1505,9 @@ Transport management for Auckland
     
     *   (g) undertake any other functions that are given to it by this Act or any other enactment, or that are incidental and related to, or consequential upon, any of its functions under this Act or any other enactment.
     
-    Section 45: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 45: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    
+    Section 45(a): amended, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 46 Functions and powers of Auckland Transport acting as local authority or other statutory body
     
@@ -1515,9 +1535,9 @@ Transport management for Auckland
     
     *   (h) the functions and powers of a local authority to make and enforce bylaws under [subparts 1][260] and [2][261] of Part 8 of the Local Government Act 2002 (except the power conferred by [section 147][262] of that Act):
     
-    *   (i) the functions and powers of a public road controlling authority under [Part 2][263] of the Land Transport Management Act 2003 in relation to road tolling schemes and concession agreements:
+    *   (i) the functions and powers of a public road controlling authority under [Part 2][263] of the Land Transport Management Act 2003 in relation to road tolling schemes:
     
-    *   (j) the functions and powers of a regional council under the [Public Transport Management Act 2008][264] in relation to public transport planning and regulation within Auckland.
+    *   (j) the functions and powers of a regional council under [Part 5][264] of the Land Transport Management Act 2003 in relation to public transport planning and regulation within Auckland.
     
     (2) For the purposes of subsection (1), the enactments referred to in that subsection apply with any necessary modifications.
     
@@ -1531,11 +1551,15 @@ Transport management for Auckland
     
     (5) Subsection (1)(c) is subject to [section 48][71].
     
-    Section 46: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 46: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 46(1)(a): amended, on 10 May 2011, by [section 100(3)][267] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 46(1)(b): amended, on 10 May 2011, by [section 100(3)][267] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    
+    Section 46(1)(i): amended, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 46(1)(j): amended, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
     Section 46(3): amended, on 10 May 2011, by [section 100(3)][267] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
@@ -1565,11 +1589,11 @@ Transport management for Auckland
     
     (4) The New Zealand Transport Agency and the New Zealand Railways Corporation are prohibited from further transferring any designation that they receive under subsection (3).
     
-    (5) In subsection (2), _activity_ has the same meaning as in [section 5(1)][241] of the Land Transport Management Act 2003\.
+    (5) In subsection (2), _activity_ has the same meaning as in [section 5(1)][239] of the Land Transport Management Act 2003\.
     
     (6) This section is subject to [section 48][71].
     
-    Section 47: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 47: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 48 Limitations on Auckland Transport acting under section 46(1)(c) or 47
     
@@ -1587,11 +1611,11 @@ Transport management for Auckland
     
     (5) Subsection (4) prevails over [sections 185][274] and [186(2) and (4)][273] of the Resource Management Act 1991\.
     
-    Section 48: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 48: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Auckland Council's role in transport matters
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 49 Council may make operating rules for Auckland Transport
     
@@ -1609,7 +1633,7 @@ Transport management for Auckland
     
     (4) Subsections (2) and (3) are for the avoidance of doubt.
     
-    Section 49: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 49: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 50 Council prohibited from performing functions and exercising powers conferred on Auckland Transport under sections 46 and 47
     
@@ -1625,7 +1649,7 @@ Transport management for Auckland
     
     (6) Subsection (5) applies whether the Council is performing the function or exercising the power as the owner of a road or other land, or otherwise.
     
-    Section 50: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 50: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 51 Council's powers under Public Works Act 1981 fettered for works relating to Auckland transport system
     
@@ -1633,19 +1657,19 @@ Transport management for Auckland
     
     (2) In any other case, the Auckland Council may exercise its powers as a local authority under the [Public Works Act 1981][276] to acquire or dispose of land in relation to the Auckland transport system and for any transport-related purpose only if Auckland Transport has agreed to the acquisition or disposal of that land.
     
-    Section 51: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 51: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 52 Council's jurisdiction in respect of roads defined more widely than in Local Government Act 1974
     
-*   (1) Nothing in this Part limits or affects the Auckland Council's jurisdiction in respect of roads within the meaning of [section 2(1)][277] of the Land Transport Act 1998 that are not roads within the meaning of [section 315][237] of the Local Government Act 1974\.
+*   (1) Nothing in this Part limits or affects the Auckland Council's jurisdiction in respect of roads within the meaning of [section 2(1)][277] of the Land Transport Act 1998 that are not roads within the meaning of [section 315][238] of the Local Government Act 1974\.
     
     (2) This section is for the avoidance of doubt.
     
-    Section 52: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 52: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Miscellaneous provisions relating to Auckland Transport
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 53 Validity of directors' acts
     
@@ -1655,13 +1679,15 @@ Transport management for Auckland
     
     *   (b) the occasion for the person's acts, or for his or her appointment, had not arisen or had ended.
     
-    Section 53: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 53: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 54 Delegations
     
 *   (1) Auckland Transport may delegate to a committee or an employee of Auckland Transport, or to the Auckland Council, any of its responsibilities, duties, functions, and powers except---
         
-    *   (a) the power to approve or adopt any policy, plan, or programme that it is required to consult on using the special consultative procedure (for example, the regional land transport programme under the [Land Transport Management Act 2003][165] and the regional public transport plan under the [Public Transport Management Act 2008][264]); and
+    *   (a) the power to approve or adopt any policy or programme that it is required to consult on using the special consultative procedure; and
+    
+    *   (ab) the power to approve or adopt a regional land transport plan or a regional public transport plan under the [Land Transport Management Act 2003][165]; and
     
     *   (b) the power to make a bylaw under any enactment referred to in [section 46(1)][69]; and
     
@@ -1685,26 +1711,30 @@ Transport management for Auckland
     
     (9) The delegation powers in this clause are in addition to any power of delegation Auckland Transport has under any other enactment.
     
-    Section 54: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 54: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    
+    Section 54(1)(a): replaced, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 54(1)(ab): inserted, on 13 June 2013, by [section 72][197] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 55 Restriction on borrowing
     
 *   Auckland Transport must not borrow any funds without the written agreement of the Auckland Council.
     
-    Section 55: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 55: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 56 Auckland Transport's jurisdiction in respect of roads defined more widely than in Local Government Act 1974
     
-*   (1) Nothing in this Part confers jurisdiction on Auckland Transport in respect of roads within the meaning of [section 2(1)][277] of the Land Transport Act 1998 that are not roads within the meaning of [section 315][237] of the Local Government Act 1974\.
+*   (1) Nothing in this Part confers jurisdiction on Auckland Transport in respect of roads within the meaning of [section 2(1)][277] of the Land Transport Act 1998 that are not roads within the meaning of [section 315][238] of the Local Government Act 1974\.
     
     (2) This section is for the avoidance of doubt.
     
-    Section 56: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 56: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ## Part 5  
 Water supply and wastewater services for Auckland
     
-*   Part 5: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Part 5: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 57 Obligations of Auckland water organisation
     
@@ -1720,7 +1750,7 @@ Water supply and wastewater services for Auckland
     
     (2) However, subsection (1)(b) does not prevent an Auckland water organisation from making a taxable bonus issue (as defined in [section YA 1][279] of the Income Tax Act 2007).
     
-    Section 57: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 57: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 58 Auckland water organisation must give effect to LTP and act consistently with other specified plans and strategies of Council
     
@@ -1730,7 +1760,7 @@ Water supply and wastewater services for Auckland
     
     (3) However, nothing in this section or [section 92][128] authorises non-compliance with [section 57][83] by an Auckland water organisation.
     
-    Section 58: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 58: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 58 heading: amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
@@ -1744,7 +1774,7 @@ Water supply and wastewater services for Auckland
     
     (3) In this section, _existing wastewater asset_ means a wastewater asset held by Watercare Services Limited on 1 November 2010\.
     
-    Section 59: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 59: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 60 Status of Auckland water organisation under Public Works Act 1981
     
@@ -1754,11 +1784,11 @@ Water supply and wastewater services for Auckland
     
     *   (b) a work authorised under this Part and undertaken by an Auckland water organisation that is not a local authority is to be treated as if it were a local work.
     
-    Section 60: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 60: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Auckland water organisation may propose bylaws
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 61 Auckland water organisation may propose bylaw
     
@@ -1782,13 +1812,13 @@ Water supply and wastewater services for Auckland
     
     *   (b) does not meet the requirements of subsection (2), it must give written notice of its decision (with reasons) to the organisation.
     
-    Section 61: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 61: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 62 Auckland water organisation must consult on proposed bylaw
     
 *   (1) This section applies if an Auckland water organisation has received notice under [section 61(3)(a)][88] from the governing body of the Auckland Council in respect of a bylaw that the organisation has proposed.
     
-    (2) The organisation must confirm the proposed bylaw using the special consultative procedure and, for that purpose, [section 156(1)][215] of the Local Government Act 2002 applies, with any necessary modifications, as if the organisation were a local authority and the bylaw were a bylaw being made under that Act.
+    (2) The organisation must confirm the proposed bylaw using the special consultative procedure and, for that purpose, [section 156(1)][216] of the Local Government Act 2002 applies, with any necessary modifications, as if the organisation were a local authority and the bylaw were a bylaw being made under that Act.
     
     (3) If, after acting under subsection (2), the organisation confirms the proposed bylaw, it must give written notice of its decision to the governing body of the Auckland Council and the governing body must adopt the bylaw by resolution.
     
@@ -1798,13 +1828,13 @@ Water supply and wastewater services for Auckland
     
     *   (b) if not satisfied that the proposed bylaw meets the requirements of [section 61(2)][88], give notice to the organisation under section 61(3)(b).
     
-    (5) Where the Auckland Council adopts under subsection (3) or (4)(a) a bylaw that is made under the [Local Government Act 2002][156], the requirements of [sections 86][216], [155][217], and [156][215] of that Act are deemed to be satisfied in respect of that bylaw.
+    (5) Where the Auckland Council adopts under subsection (3) or (4)(a) a bylaw that is made under the [Local Government Act 2002][156], the requirements of [sections 86][217], [155][218], and [156][216] of that Act are deemed to be satisfied in respect of that bylaw.
     
-    Section 62: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 62: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Powers of Auckland water organisation
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 63 Powers of Auckland water organisation under Local Government Act 1974
     
@@ -1824,7 +1854,7 @@ Water supply and wastewater services for Auckland
     
     *   (g) [section 468][286] (tree roots obstructing public drains).
     
-    Section 63: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 63: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 64 Powers of Auckland water organisation under Local Government Act 2002
     
@@ -1842,7 +1872,7 @@ Water supply and wastewater services for Auckland
     
     *   (f) [section 186][292] (local authority may execute works if owner or occupier defaults).
     
-    Section 64: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 64: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 65 Construction of works on roads and public land by Auckland water organisation
     
@@ -1856,7 +1886,7 @@ Water supply and wastewater services for Auckland
     
     (2) However, an Auckland water organisation must exercise the powers under subsection (1) in accordance with any reasonable conditions that the person who has jurisdiction over the road or land imposes.
     
-    Section 65: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 65: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 66 Notice requirement
     
@@ -1864,19 +1894,19 @@ Water supply and wastewater services for Auckland
     
     (2) Every notice must specify the location of the proposed work, the nature of the work to be carried out, and the reasons for it.
     
-    Section 66: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 66: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 67 Auckland water organisation to be notified of conditions
     
 *   Not later than 20 working days after receiving written notice of the intention to carry out work, the person who has jurisdiction over the road or land must notify the Auckland water organisation in writing of any conditions imposed under [section 65(2)][93].
     
-    Section 67: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 67: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 68 Failure to notify conditions
     
 *   If the person who has jurisdiction over the road or land fails to notify the Auckland water organisation of any conditions imposed under [section 65(2)][93] within the 20-working day period referred to in [section 67][95], those conditions may not be imposed, and the organisation may commence work.
     
-    Section 68: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 68: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 69 Urgency
     
@@ -1886,7 +1916,7 @@ Water supply and wastewater services for Auckland
     
     *   (b) must give the information required by [section 66(2)][94] to the person who has jurisdiction over the road or land as soon as practicable after commencing the work.
     
-    Section 69: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 69: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 70 Appeals by Auckland water organisation to District Court
     
@@ -1898,7 +1928,7 @@ Water supply and wastewater services for Auckland
     
     (4) The decision of a District Court in the determination of an appeal under this section is final.
     
-    Section 70: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 70: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 71 Council to appoint enforcement officers
     
@@ -1906,11 +1936,11 @@ Water supply and wastewater services for Auckland
     
     (2) Before determining the number of persons to appoint as enforcement officers under that section, the Council must consult each Auckland water organisation that is not a local authority to ensure that sufficient officers are appointed to enable those organisations to perform their functions under this Act.
     
-    Section 71: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 71: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Nuisances created by Auckland water organisation
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 72 Abatement of nuisances created by Auckland water organisation
     
@@ -1928,11 +1958,11 @@ Water supply and wastewater services for Auckland
     
     (5) All expenses reasonably incurred by the Medical Officer of Health in the abatement of a nuisance under subsection (4) are recoverable from the organisation as a debt due to the Crown.
     
-    Section 72: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 72: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Rating of land and assets owned by Auckland water organisation
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 73 Rating of land and assets owned by Auckland water organisation
     
@@ -1942,11 +1972,11 @@ Water supply and wastewater services for Auckland
     
     (3) For the purposes of the [Local Government (Rating) Act 2002][296], a water supply or wastewater services asset that is owned by an Auckland water organisation and is situated in or on any land not owned by the organisation is deemed not to be rateable property.
     
-    Section 73: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 73: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Offences and liability for damage
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 74 Offence not to comply with any of sections 65, 66, and 69
     
@@ -1956,7 +1986,7 @@ Water supply and wastewater services for Auckland
     
     (3) In addition to any penalty imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
     
-    Section 74: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 74: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 75 Offences relating to carrying out work on water supply or wastewater assets of Auckland water organisation without notice
     
@@ -1986,7 +2016,7 @@ Water supply and wastewater services for Auckland
     
     (4) A person who commits an offence under this section may, in addition to or instead of the penalty for the offence, be ordered to pay the cost incurred by the Auckland water organisation in repairing the damage done to the water supply or wastewater asset by the offence.
     
-    Section 75: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 75: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 76 Offences relating to damage to water supply or wastewater assets of Auckland water organisation
     
@@ -2006,7 +2036,7 @@ Water supply and wastewater services for Auckland
     
     (3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with a work or property and is liable on summary conviction to a fine not exceeding $20,000\.
     
-    Section 76: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 76: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 77 Liability for damage by wilful or negligent behaviour towards water supply or wastewater work
     
@@ -2018,11 +2048,11 @@ Water supply and wastewater services for Auckland
     
     *   (c) any loss or expenses incurred by the organisation because of the stoppage, obstruction, or interference.
     
-    Section 77: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 77: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Council must consult other Auckland water organisations when assessing water and other sanitary services
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 78 Council must consult other Auckland water organisations when assessing water and other sanitary services
     
@@ -2030,14 +2060,14 @@ Water supply and wastewater services for Auckland
     
     (2) The Council must consult each Auckland water organisation that is not a local authority in making its assessment.
     
-    Section 78: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 78: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 78(2): amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ## Part 6  
 Spatial planning for Auckland
     
-*   Part 6: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Part 6: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 79 Spatial plan for Auckland
     
@@ -2085,7 +2115,7 @@ Spatial planning for Auckland
     
     *   (f) identify policies, priorities, land allocations, and programmes and investments to implement the strategic direction and specify how resources will be provided to implement the strategic direction.
     
-    Section 79: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 79: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 80 Development, adoption, and implementation of spatial plan
     
@@ -2117,12 +2147,12 @@ Spatial planning for Auckland
     
     (5) The Auckland Council must endeavour to secure and maintain the support and co-operation of central government, infrastructure providers (including network utility operators), the communities of Auckland, the private sector, the rural sector, and other parties (as appropriate) in the implementation of the spatial plan.
     
-    Section 80: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 80: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ## Part 7  
 Board promoting issues of significance for mana whenua groups and mataawaka of Tamaki Makaurau
     
-*   Part 7: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Part 7: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 81 Establishment and purpose of board
     
@@ -2138,7 +2168,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     *   (b) ensuring that the Council acts in accordance with statutory provisions referring to the [Treaty of Waitangi][298].
     
-    Section 81: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 81: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 82 Board independent
     
@@ -2162,7 +2192,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     (4) When members of the board are acting as members of the board, they must act in the interest of achieving the board's purpose and must not act in any other interest.
     
-    Section 82: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 82: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 83 Board's name
     
@@ -2172,7 +2202,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     (3) If the board names itself, or changes its name, it must tell the Minister of Māori Affairs and the Auckland Council the name or the new name as soon as practicable.
     
-    Section 83: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 83: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 84 Board's general functions
     
@@ -2190,7 +2220,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     (2) The board and the Council must meet at least 4 times in each financial year to discuss the board's performance of its functions.
     
-    Section 84: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 84: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 85 Board's specific functions
     
@@ -2208,7 +2238,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     (5) The board must act in accordance with a delegation that it has accepted.
     
-    Section 85: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 85: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 86 Board's powers
     
@@ -2220,7 +2250,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     (4) The board has any other powers that it needs to carry out its purpose and that are consistent with this Part.
     
-    Section 86: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 86: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 87 Auckland Council information provided to board
     
@@ -2228,13 +2258,13 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
         
     *   (a) is known to the board because the Auckland Council provided it to the board; and
     
-    *   (b) is information that the Auckland Council would consider withholding under the [Local Government Official Information and Meetings Act 1987][232] or the [Privacy Act 1993][299] if the Council received a request for it.
+    *   (b) is information that the Auckland Council would consider withholding under the [Local Government Official Information and Meetings Act 1987][233] or the [Privacy Act 1993][299] if the Council received a request for it.
     
     (2) When the board is deciding whether subsection (1)(b) applies to information that the Council provided to the board, it must make its decision on reasonable grounds.
     
     (3) When the Auckland Council decides that subsection (1)(b) applies to information that the Council provided to the board, it must tell the board of its decision and the reasons for its decision.
     
-    Section 87: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 87: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 88 Auckland Council's duties to board
     
@@ -2256,22 +2286,22 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     (3) The Council and the board must meet at least 4 times in each financial year to discuss the Council's performance of its duties.
     
-    Section 88: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 88: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 89 Schedule 2 applies to board
     
 *   [Schedule 2][154] applies to the board.
     
-    Section 89: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 89: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ## Part 8  
 Miscellaneous
     
-*   Part 8: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Part 8: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Substantive council-controlled organisations
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 90 Council must have accountability policy for substantive council-controlled organisations
     
@@ -2297,7 +2327,7 @@ Miscellaneous
     
     *   (c) may be amended only as an amendment to the LTP.
     
-    Section 90: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 90: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 90(3)(a): amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
@@ -2331,7 +2361,7 @@ Miscellaneous
     
     (3) This section does not limit or affect the application of [Part 5][243] of the Local Government Act 2002 to a substantive council-controlled organisation.
     
-    Section 91: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 91: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 92 Substantive council-controlled organisations must give effect to LTP and act consistently with other specified plans and strategies of Council
     
@@ -2339,7 +2369,7 @@ Miscellaneous
     
     (2) Each substantive council-controlled organisation must act consistently with the relevant aspects of any other plan (including a local board plan) or strategy of the Council to the extent specified in writing by the governing body of the Council.
     
-    Section 92: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 92: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 92 heading: amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
@@ -2355,13 +2385,13 @@ Miscellaneous
     
     (2) [Section 43(2)(a)][65] prevails over this section.
     
-    Section 93: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 93: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 94 Director of substantive council-controlled organisation elected to Council or local board must resign before taking up position
     
 *   A director of a substantive council-controlled organisation who is elected to be a member of the governing body of the Council or a local board must resign from his or her position as a director of the council-controlled organisation before taking up his or her position as a member of the governing body of the Council or the local board.
     
-    Section 94: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 94: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 95 Council may appoint chairperson and deputy chairperson of substantive council-controlled organisation
     
@@ -2371,11 +2401,11 @@ Miscellaneous
     
     (3) This section prevails over any provision to the contrary in an organisation's constitution.
     
-    Section 95: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 95: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Council-controlled organisations must hold specified meetings in public
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 96 Council-controlled organisations must hold specified meetings in public
     
@@ -2393,11 +2423,11 @@ Miscellaneous
     
     (5) Meetings held pursuant to this section shall be subject to the rules and requirements that normally apply to the meetings of the board of the council-controlled organisation (including, for example, under its constitution), provided that this section prevails in the event of any conflict between this section and the rules and requirements that normally apply to meetings of the board.
     
-    Section 96: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 96: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Disputes between local boards and governing body
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 97 Disputes about allocation of decision-making responsibilities or proposed bylaws
     
@@ -2417,7 +2447,7 @@ Miscellaneous
     
     (4) An application must be accompanied by copies of all reports, correspondence, and other information held by the local board or boards that are relevant to the matter.
     
-    Section 97: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 97: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 98 Local Government Commission to determine disputes
     
@@ -2457,7 +2487,7 @@ Miscellaneous
     
     (7) The Council must amend the LTP to the extent necessary to give effect to the determination and may do so without further authority than this section.
     
-    Section 98: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 98: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
     
     Section 98(6)(a): amended, on 27 November 2010, by [section 50][162] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
@@ -2473,11 +2503,11 @@ Miscellaneous
     
     (3) Subsection (2) applies subject to any direction given or condition imposed by the Commission.
     
-    Section 99: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 99: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Development contributions
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 100 Development contributions for transport infrastructure
     
@@ -2495,7 +2525,7 @@ Miscellaneous
     
     (5) This section applies despite anything to the contrary in the [Local Government Act 2002][156].
     
-    Section 100: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 100: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 101 Development contributions for assets managed by other parties
     
@@ -2509,21 +2539,21 @@ Miscellaneous
     
     (2) This section is for the avoidance of doubt.
     
-    Section 101: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 101: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Prohibition on establishment of community boards
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 102 Prohibition on establishment of community boards
     
 *   Despite [section 49][303] of the Local Government Act 2002, no community board may be established for any community within Auckland.
     
-    Section 102: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 102: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Review of representation arrangements
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 103 Review of representation arrangements under Local Electoral Act 2001
     
@@ -2555,11 +2585,11 @@ Miscellaneous
     > 
     > 
     
-    Section 103: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 103: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Auditor-General to review Council's service performance 
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 104 Auditor-General to review Council's service performance 
     
@@ -2571,27 +2601,27 @@ Miscellaneous
     
     (4) Nothing in this section limits or affects the powers of the Auditor-General under the [Public Audit Act 2001][307].
     
-    Section 104: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 104: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Council employee elected to local board must resign before taking up position
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 105 Council employee elected to local board must resign before taking up position
     
 *   An employee of the Council who is elected to be a member of a local board must resign from his or her position as an employee of the Council before taking up his or her position as a member of the local board.
     
-    Section 105: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 105: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Representation on port company board
     
-*   Heading: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Heading: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 ##### 106 Representation on port company board
     
 *   For the purposes of [section 6(1)(b)][308] of the Port Companies Act 1988, any council-controlled organisation of the Auckland Council that holds equity securities in a port company (within the meaning of that Act) must be treated as if it were a regional council.
     
-    Section 106: added, on 1 November 2010, by [section 31][236] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    Section 106: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Borrowing in foreign currency
     
@@ -3263,7 +3293,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ###### 1 General
     
-*   This is a reprint of the Local Government (Auckland Council) Act 2009\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Local Government (Auckland Council) Act 2009\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][331] ![](/images/external_link.gif).
 
@@ -3310,7 +3340,9 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Local Government (Auckland Council) Amendment Act 2012][336] (2012 No 108)
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][197]
+    
+    [Local Government (Auckland Council) Amendment Act 2012][336] (2012 No 108)
     
     Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][175]
     
@@ -3521,51 +3553,51 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 [194]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM149788
 [195]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172358
 [196]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016051
-[197]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172319
-[198]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016052
-[199]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016053
-[200]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM176049
-[201]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415594
-[202]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172359
-[203]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172344
-[204]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016055
-[205]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172328
-[206]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415596
-[207]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415597
-[208]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016058
-[209]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415420
-[210]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3419211
-[211]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3419246
-[212]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016063
-[213]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016065
-[214]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016066
-[215]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173404
-[216]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172334
-[217]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173401
-[218]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016067
-[219]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016009
-[220]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM175644
-[221]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM175668
-[222]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM176004
-[223]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM174033
-[224]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM175643
-[225]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016068
-[226]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM176007
-[227]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM174073
-[228]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM174077
-[229]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016069
-[230]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM430983
-[231]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM431685
-[232]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM122241
-[233]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM123618
-[234]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM390002
-[235]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM390062
-[236]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016073
-[237]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM420326
-[238]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM1179946
-[239]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM57605
-[240]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM228044
-[241]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM226238
+[197]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM4663359
+[198]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172319
+[199]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016052
+[200]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016053
+[201]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM176049
+[202]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415594
+[203]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172359
+[204]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172344
+[205]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016055
+[206]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172328
+[207]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415596
+[208]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415597
+[209]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016058
+[210]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3415420
+[211]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3419211
+[212]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3419246
+[213]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016063
+[214]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016065
+[215]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016066
+[216]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173404
+[217]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172334
+[218]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173401
+[219]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016067
+[220]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016009
+[221]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM175644
+[222]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM175668
+[223]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM176004
+[224]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM174033
+[225]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM175643
+[226]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016068
+[227]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM176007
+[228]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM174073
+[229]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM174077
+[230]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016069
+[231]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM430983
+[232]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM431685
+[233]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM122241
+[234]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM123618
+[235]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM390002
+[236]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM390062
+[237]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016073
+[238]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM420326
+[239]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM226238
+[240]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM57605
+[241]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM228044
 [242]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM171881
 [243]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM171874
 [244]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM171883
@@ -3588,7 +3620,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 [261]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173420
 [262]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172980
 [263]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM227127
-[264]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM1179938
+[264]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM5285410
 [265]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173454
 [266]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM170881
 [267]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3231293
