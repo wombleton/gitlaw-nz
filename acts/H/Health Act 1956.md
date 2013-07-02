@@ -1,5 +1,5 @@
 Reprint  
-as at 13 December 2012
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -7151,11 +7151,13 @@ Miscellaneous provisions
     
     _child care centre_ has the same meaning as in section 105(3) of the Children and Young Persons Act 1974
     
-    _private school_ means a school registered under [section 186][579] of the Education Act 1964 and any premises, not being so registered and being neither a child care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
+    _partnership school kura hourua_ has the meaning given by [section 2(1)][579] of the Education Act 1989
     
-    _public school_ means a school established under [Part 3][580] of the Education Act 1964; and includes a kindergarten or other institution providing pre-school education recognised under regulations made pursuant to [section 70][581] of that Act.
+    _private school_ means a school registered under [section 186][580] of the Education Act 1964 and any premises, not being so registered and being neither a child care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
     
-    (2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school or child care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
+    _public school_ means a school established under [Part 3][581] of the Education Act 1964; and includes a kindergarten or other institution providing pre-school education recognised under regulations made pursuant to [section 70][582] of that Act.
+    
+    (2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school, partnership school kura hourua, or child care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
     
     (3) The powers conferred by subsection (2) may be exercised in respect of any private school, and in respect of the children attending there, if application in that behalf is made in writing to the medical officer of health by the controlling authority thereof. Any such application may be revoked in like manner at any time.
     
@@ -7163,7 +7165,11 @@ Miscellaneous provisions
     
     Section 125(1) **child care centre**: amended, on 1 April 1975, pursuant to section 109 of the Children and Young Persons Act 1974 (1974 No 72).
     
-    Section 125(2): amended, on 1 July 1993, by [section 35][582] of the Health Amendment Act 1993 (1993 No 24).
+    Section 125(1) **partnership school kura hourua**: inserted, on 13 June 2013, by [section 44(2)][583] of the Education Amendment Act 2013 (2013 No 34).
+    
+    Section 125(2): amended, on 13 June 2013, by [section 44(3)][583] of the Education Amendment Act 2013 (2013 No 34).
+    
+    Section 125(2): amended, on 1 July 1993, by [section 35][584] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 125(2): amended, on 30 November 1979, by section 8 of the Health Amendment Act 1979 (1979 No 64).
 
@@ -7177,7 +7183,7 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 142; 1940 No 17 s 13
     
-    Section 126(1): amended, on 1 July 1993, by [section 36][583] of the Health Amendment Act 1993 (1993 No 24).
+    Section 126(1): amended, on 1 July 1993, by [section 36][585] of the Health Amendment Act 1993 (1993 No 24).
     
     Section 126(1): amended, on 1 April 1980, pursuant to [section 18(2)][458] of the District Courts Amendment Act 1979 (1979 No 125).
     
@@ -7187,13 +7193,13 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 126A: repealed, on 1 July 1993, by [section 37(1)][584] of the Health Amendment Act 1993 (1993 No 24).
+    Section 126A: repealed, on 1 July 1993, by [section 37(1)][586] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 126B Blood transfusions
     
 *   \[Repealed\]
     
-    Section 126B: repealed, on 1 July 2005, by [section 151][585] of the Care of Children Act 2004 (2004 No 90).
+    Section 126B: repealed, on 1 July 2005, by [section 151][587] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 127 Attendance of medical officer of health at meetings of local authorities
     
@@ -7253,7 +7259,7 @@ Miscellaneous provisions
     
     Section 129(4): amended, on 9 December 1994, by section 3(d) of the Health Amendment Act (No 3) 1994 (1994 No 137).
     
-    Section 129(6): inserted, on 1 July 2008, by [section 9][586] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 129(6): inserted, on 1 July 2008, by [section 9][588] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 130 Expenses of local authorities
     
@@ -7265,9 +7271,9 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 140
     
-    Section 130(2): repealed, on 1 July 2003, by [section 138(1)][587] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 130(2): repealed, on 1 July 2003, by [section 138(1)][589] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 130(3): repealed, on 1 July 2003, by [section 138(1)][587] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 130(3): repealed, on 1 July 2003, by [section 138(1)][589] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 131 Service of documents
     
@@ -7283,11 +7289,11 @@ Miscellaneous provisions
     
     Compare: 1920 No 45 s 136
     
-    Section 131(1): amended, on 26 July 1988, by [section 8][588] of the Health Amendment Act 1988 (1988 No 99).
+    Section 131(1): amended, on 26 July 1988, by [section 8][590] of the Health Amendment Act 1988 (1988 No 99).
     
     Section 131(3): amended, on 1 April 1980, pursuant to [section 12][575] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 131(3A): inserted, on 3 November 1964, by [section 12][589] of the Health Amendment Act 1964 (1964 No 34).
+    Section 131(3A): inserted, on 3 November 1964, by [section 12][591] of the Health Amendment Act 1964 (1964 No 34).
     
     Section 131(4): amended, on 1 April 1980, pursuant to [section 12][575] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -7327,7 +7333,7 @@ Miscellaneous provisions
     
     (7) Nothing in this section shall affect any bursary awarded by or on behalf of the Minister otherwise than pursuant to this section or the validity of any agreement, bond, or acknowledgement, whether executed before or after the commencement of this section, relating to any such bursary.
     
-    Section 132A: inserted, on 1 August 1965, by [section 13(1)][590] of the Health Amendment Act 1964 (1964 No 34).
+    Section 132A: inserted, on 1 August 1965, by [section 13(1)][592] of the Health Amendment Act 1964 (1964 No 34).
 
 ##### 133 Obstruction of officers
     
@@ -7387,7 +7393,7 @@ Miscellaneous provisions
     
     *   (b) forms part of the instrument for all purposes and has legal effect accordingly.
     
-    Section 137A: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137A: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137B Effect of amendments to, or replacement of, material incorporated by reference
     
@@ -7405,7 +7411,7 @@ Miscellaneous provisions
         
         
     
-    Section 137B: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137B: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137C Proof of material incorporated by reference
     
@@ -7417,13 +7423,13 @@ Miscellaneous provisions
     
     (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the instrument of the material.
     
-    Section 137C: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137C: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137D Effect of expiry of material incorporated by reference
     
 *   Material incorporated by reference in this Act or an instrument that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the Act or the instrument only if the Minister or, as appropriate, the Director-General, by notice in the _Gazette_, states that the material ceases to have legal effect.
     
-    Section 137D: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137D: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137E Requirement to consult
     
@@ -7473,7 +7479,7 @@ Miscellaneous provisions
     
     (5) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
     
-    Section 137E: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137E: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137F Access to material incorporated by reference
     
@@ -7507,19 +7513,19 @@ Miscellaneous provisions
     
     (3) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
     
-    Section 137F: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137F: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137G Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
     
 *   The [Acts and Regulations Publication Act 1989][487] does not apply to material incorporated by reference in this Act or in an instrument or to an amendment to, or replacement of, that material.
     
-    Section 137G: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137G: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 137H Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
 *   Nothing in [section 4][556] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in this Act or in an instrument made or issued under this Act to be laid before the House of Representatives.
     
-    Section 137H: inserted, on 1 July 2008, by [section 10][591] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 137H: inserted, on 1 July 2008, by [section 10][593] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 138 Other Acts not affected
     
@@ -7541,13 +7547,13 @@ Miscellaneous provisions
     
     (2) The regulations and notices specified in [Schedule 8][389] are hereby revoked.
     
-    (3) Without limiting the provisions of the [Interpretation Act 1999][592], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+    (3) Without limiting the provisions of the [Interpretation Act 1999][594], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
     (4) \[Repealed\]
     
     (5) Any regulations made under the Social Hygiene Act 1917 and in force at the commencement of this Act shall be deemed to have been made under this Act and shall continue in force accordingly, except so far as any provision of those regulations is inconsistent with any provision of [Part 3][211].
     
-    Section 140(3): amended, on 1 November 1999, pursuant to [section 38(1)][593] of the Interpretation Act 1999 (1999 No 85).
+    Section 140(3): amended, on 1 November 1999, pursuant to [section 38(1)][595] of the Interpretation Act 1999 (1999 No 85).
     
     Section 140(4): repealed, on 1 April 1970, by section 129(1) of the Mental Health Act 1969 (1969 No 16).
 
@@ -7591,26 +7597,26 @@ Typhoid and paratyphoid fever
 
 Yersiniosis
     
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(a)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(b)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(c)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(d)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(e)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(f)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(g)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(h)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(i)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(j)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(k)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(l)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(m)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(n)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(o)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(p)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(q)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(r)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(s)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(2)][594] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(a)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(b)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(c)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(d)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(e)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(f)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(g)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(h)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(i)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(j)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(k)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(l)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(m)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(n)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(o)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(p)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(q)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(r)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(1)(s)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section A: amended, on 6 June 1996, by [clause 2(2)][596] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
 ### Section B---Infectious diseases notifiable to medical officer of health
 
@@ -7682,25 +7688,25 @@ Viral heamorrhagic fevers
 
 Yellow fever
     
-*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(a)][595] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
-*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(b)][595] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
-*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(c)][595] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
-*   Schedule 1 Part 1 Section B: amended, at 4 pm on 29 April 2009, by [clause 3(a)][596] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
-*   Schedule 1 Part 1 Section B: amended, on 16 October 2008, by [clause 3][597] of the Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008 (SR 2008/312).
-*   Schedule 1 Part 1 Section B: amended, on 12 February 2004, by [clause 3][598] of the Infectious and Notifiable Disease (Highly Pathogenic Avian Influenza) Order 2004 (SR 2004/8).
-*   Schedule 1 Part 1 Section B: amended, on 1 April 2003, by [clause 3][599] of the Infectious and Notifiable Disease (SARS) Order 2003 (SR 2003/70).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(a)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(b)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(c)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(d)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(e)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(f)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(g)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(h)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(i)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(j)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(k)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(2)][600] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(a)][597] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(b)][597] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 1 Part 1 Section B: amended, on 13 December 2012, by [clause 3(c)][597] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 1 Part 1 Section B: amended, at 4 pm on 29 April 2009, by [clause 3(a)][598] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
+*   Schedule 1 Part 1 Section B: amended, on 16 October 2008, by [clause 3][599] of the Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008 (SR 2008/312).
+*   Schedule 1 Part 1 Section B: amended, on 12 February 2004, by [clause 3][600] of the Infectious and Notifiable Disease (Highly Pathogenic Avian Influenza) Order 2004 (SR 2004/8).
+*   Schedule 1 Part 1 Section B: amended, on 1 April 2003, by [clause 3][601] of the Infectious and Notifiable Disease (SARS) Order 2003 (SR 2003/70).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(a)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(b)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(c)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(d)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(e)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(f)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(g)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(h)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(i)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(j)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(1)(k)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 1 Section B: amended, on 6 June 1996, by [clause 3(2)][602] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
 ## Part 2  
 Other infectious diseases
@@ -7729,22 +7735,22 @@ Varicella-zoster infection
 
 Venereal granuloma
     
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(a)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(b)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(c)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(d)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(e)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(f)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(g)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(h)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(i)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(j)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(k)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(l)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(m)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(n)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(o)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(2)][601] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(a)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(b)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(c)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(d)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(e)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(f)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(g)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(h)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(i)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(j)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(k)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(l)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(m)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(n)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(1)(o)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 1 Part 2: amended, on 6 June 1996, by [clause 4(2)][603] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
 ## Part 3  
 Quarantinable infectious diseases
@@ -7760,7 +7766,7 @@ Quarantinable infectious diseases
 *   5 non-seasonal influenza (capable of being transmitted between human beings)
 
 *   Schedule 1 Part 3: inserted, on 19 December 2006, by [section 4(3)][405] of the Health Amendment Act 2006 (2006 No 86).
-*   Schedule 1 Part 3: amended, at 4 pm on 29 April 2009, by [clause 3(b)][596] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
+*   Schedule 1 Part 3: amended, at 4 pm on 29 April 2009, by [clause 3(b)][598] of the Health (Non-Seasonal Influenza) Order 2009 (SR 2009/113).
 
 ---
 
@@ -7773,7 +7779,7 @@ Diseases notifiable to medical officer of health (other than notifiable infectio
 
 ### Section A---Conditions arising from occupation
     
-*   Schedule 2 Section A: amended, on 13 December 2012, by [clause 4][602] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
+*   Schedule 2 Section A: amended, on 13 December 2012, by [clause 4][604] of the Infectious and Notifiable Diseases Order 2012 (SR 2012/339).
 
 ### Section B---Other conditions
 
@@ -7789,20 +7795,20 @@ Taeniasis
 
 Trichinosis
     
-*   Schedule 2 Section B: amended, on 3 September 2007, by [clause 3][603] of the Infectious and Notifiable Diseases Order 2007 (SR 2007/202).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(a)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(b)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(c)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(d)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(e)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(f)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(g)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(h)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(i)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(j)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(k)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(l)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
-*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(4)][604] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 3 September 2007, by [clause 3][605] of the Infectious and Notifiable Diseases Order 2007 (SR 2007/202).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(a)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(b)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(c)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(d)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(e)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(f)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(g)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(h)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(i)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(j)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(k)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(3)(l)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
+*   Schedule 2 Section B: amended, on 6 June 1996, by [clause 5(4)][606] of the Infectious and Notifiable Diseases Order 1996 (SR 1996/92).
 
 ---
 
@@ -7851,7 +7857,7 @@ Wool scouring
     
 *   Schedule 3: amended, on 1 April 1974, by section 56(1) of the Clean Air Act 1972 (1972 No 31).
 *   Schedule 3: amended, on 25 October 1960, by section 5(1) of the Health Amendment Act 1960 (1960 No 96).
-*   Schedule 3: amended, on 1 June 1959, by [clause 2][605] of the Offensive Trades Order 1959 (SR 1959/79).
+*   Schedule 3: amended, on 1 June 1959, by [clause 2][607] of the Offensive Trades Order 1959 (SR 1959/79).
 
 ---
 
@@ -7907,7 +7913,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79) 
 
-_Amendment(s) incorporated in the _[Act(s)][606]_._
+_Amendment(s) incorporated in the _[Act(s)][608]_._
 
 ##### Finance Act 1921 (1921 No 5) (1931 Reprint, Vol VI, p 1117)
 
@@ -7951,15 +7957,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1943 (1943 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][607]._
+_Amendment(s) incorporated in the [Act(s)][609]._
 
 ##### Statutes Amendment Act 1945 (1945 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][608]._
+_Amendment(s) incorporated in the [Act(s)][610]._
 
 ##### Statutes Amendment Act 1949 (1949 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][609]._
+_Amendment(s) incorporated in the [Act(s)][611]._
 
 ---
 
@@ -8042,7 +8048,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Health (National Cervical Screening Programme) Amendment Act 2004][610].
+*   (1) This Act is the [Health (National Cervical Screening Programme) Amendment Act 2004][612].
     
     (2) In this Act, the Health Act 1956 is called ""the principal Act"".
 
@@ -8098,7 +8104,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Health (Drinking Water) Amendment Act 2007][611].
+*   This Act is the [Health (Drinking Water) Amendment Act 2007][613].
 
 ##### 2 Commencement
     
@@ -8177,7 +8183,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Human Tissue Act 2008][612].
+*   This Act is the [Human Tissue Act 2008][614].
 
 ##### 2 Commencement
     
@@ -8187,7 +8193,7 @@ Commencementsee section 2
     
     (3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2(3): Human Tissue Act 2008 (except sections 1, 2, 87, 88, 89, and the heading above section 87) brought into force, on 1 November 2008, by the [Human Tissue Act 2008 Commencement Order 2008][613] (SR 2008/311).
+    Section 2(3): Human Tissue Act 2008 (except sections 1, 2, 87, 88, 89, and the heading above section 87) brought into force, on 1 November 2008, by the [Human Tissue Act 2008 Commencement Order 2008][615] (SR 2008/311).
 
 ## Part 3  
 Technical and miscellaneous provisions
@@ -8222,23 +8228,23 @@ Technical and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Health Act 1956\. The reprint incorporates all the amendments to the Act as at 13 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Health Act 1956\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][614] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][616] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][615] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][617] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][616] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][618] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][617] and [17E][618] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][619] and [17E][620] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -8269,7 +8275,9 @@ Technical and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Infectious and Notifiable Diseases Order 2012][619] (SR 2012/339)
+*   Education Amendment Act 2013 (2013 No 34): [section 44][583]
+    
+    [Infectious and Notifiable Diseases Order 2012][621] (SR 2012/339)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 330][515]
     
@@ -8279,31 +8287,31 @@ Technical and miscellaneous provisions
     
     [Health (Deferral of General Application of Sections 69S to 69ZC) Order 2009][477] (SR 2009/176)
     
-    [Health (Non-Seasonal Influenza) Order 2009][620] (SR 2009/113)
+    [Health (Non-Seasonal Influenza) Order 2009][622] (SR 2009/113)
     
     Policing Act 2008 (2008 No 72): [section 116(a)(i), (ii)][440]
     
-    [Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008][621] (SR 2008/312)
+    [Infectious and Notifiable Disease (Invasive Pneumococcal Disease) Order 2008][623] (SR 2008/312)
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][442]
     
     Human Tissue Act 2008 (2008 No 28): [sections 92][445], [93(2)][533]
     
-    [Health (Drinking Water) Amendment Act 2007][611] (2007 No 92)
+    [Health (Drinking Water) Amendment Act 2007][613] (2007 No 92)
     
-    [Infectious and Notifiable Diseases Order 2007][622] (SR 2007/202)
+    [Infectious and Notifiable Diseases Order 2007][624] (SR 2007/202)
     
-    [Health Amendment Act 2006][623] (2006 No 86)
+    [Health Amendment Act 2006][625] (2006 No 86)
     
     Coroners Act 2006 (2006 No 38): [section 146][529]
     
-    [Health Amendment Act 2005][624] (2005 No 34)
+    [Health Amendment Act 2005][626] (2005 No 34)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][532]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][414]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][585]
+    Care of Children Act 2004 (2004 No 90): [section 151][587]
     
     Building Act 2004 (2004 No 72): [section 414][461]
     
@@ -8313,7 +8321,7 @@ Technical and miscellaneous provisions
     
     Infectious and Notifiable Disease (Highly Pathogenic Avian Influenza) Order 2004 (SR 2004/8)
     
-    [Health (National Cervical Screening Programme) Amendment Act 2004][610] (2004 No 3)
+    [Health (National Cervical Screening Programme) Amendment Act 2004][612] (2004 No 3)
     
     Infectious and Notifiable Disease (SARS) Order 2003 (SR 2003/70)
     
@@ -8325,7 +8333,7 @@ Technical and miscellaneous provisions
     
     Sentencing Act 2002 (2002 No 9): [section 186][438]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][587]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][589]
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][395]
     
@@ -8333,11 +8341,11 @@ Technical and miscellaneous provisions
     
     Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][441]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][593]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][595]
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][439]
     
-    [Health Amendment Act 1998][625] (1998 No 86)
+    [Health Amendment Act 1998][627] (1998 No 86)
     
     Health and Disability Services Amendment Act 1998 (1998 No 74): section 5(4)
     
@@ -8359,7 +8367,7 @@ Technical and miscellaneous provisions
     
     Health Amendment Act (No 2) 1993 (1993 No 32)
     
-    [Health Amendment Act 1993][626] (1993 No 24)
+    [Health Amendment Act 1993][628] (1993 No 24)
     
     Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][422]
     
@@ -8373,11 +8381,11 @@ Technical and miscellaneous provisions
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][456]
     
-    [Health Amendment Act 1988][627] (1988 No 99)
+    [Health Amendment Act 1988][629] (1988 No 99)
     
     Health Amendment Act (No 2) 1987 (1987 No 194)
     
-    [Health Amendment Act 1987][628] (1987 No 10)
+    [Health Amendment Act 1987][630] (1987 No 10)
     
     Health Amendment Act 1982 (1982 No 34)
     
@@ -8421,7 +8429,7 @@ Technical and miscellaneous provisions
     
     Health Amendment Act 1960 (1960 No 96)
     
-    Offensive Trades Order 1959 (SR 1959/79): [clause 2][605]
+    Offensive Trades Order 1959 (SR 1959/79): [clause 2][607]
     
     Health Act 1956 (1956 No 65): [section 22J][51]
 
@@ -9006,53 +9014,55 @@ Technical and miscellaneous provisions
 [576]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM139130
 [577]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM264952
 [578]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296633
-[579]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM358887
-[580]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357828
-[581]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357830
-[582]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296634
-[583]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296635
-[584]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296636
-[585]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM317988
-[586]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970030
-[587]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM133501
-[588]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132557
-[589]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352252
-[590]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352253
-[591]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970031
-[592]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31458
-[593]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31885
-[594]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209668
-[595]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865552
-[596]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008606
-[597]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588106
-[598]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM240437
-[599]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM187799
-[600]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209671
-[601]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209672
-[602]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865553
-[603]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443051
-[604]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209673
-[605]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM13647
-[606]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM265254
-[607]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM236440
-[608]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM239141
-[609]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM260074
-[610]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238112
-[611]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969834
-[612]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1152935
-[613]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1608000
-[614]: http://www.pco.parliament.govt.nz/reprints/
-[615]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195439
-[616]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[617]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195468
-[618]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195470
-[619]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865546
-[620]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008600
-[621]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588100
-[622]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443043
-[623]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404611
-[624]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341206
-[625]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428176
-[626]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295786
-[627]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132540
-[628]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101365
+[579]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM175965
+[580]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM358887
+[581]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357828
+[582]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM357830
+[583]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM5138523
+[584]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296634
+[585]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296635
+[586]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM296636
+[587]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM317988
+[588]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970030
+[589]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM133501
+[590]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132557
+[591]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352252
+[592]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM352253
+[593]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM970031
+[594]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31458
+[595]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM31885
+[596]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209668
+[597]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865552
+[598]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008606
+[599]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588106
+[600]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM240437
+[601]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM187799
+[602]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209671
+[603]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209672
+[604]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865553
+[605]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443051
+[606]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM209673
+[607]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM13647
+[608]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM265254
+[609]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM236440
+[610]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM239141
+[611]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM260074
+[612]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM238112
+[613]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM969834
+[614]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1152935
+[615]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1608000
+[616]: http://www.pco.parliament.govt.nz/reprints/
+[617]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195439
+[618]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[619]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195468
+[620]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM195470
+[621]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM4865546
+[622]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM2008600
+[623]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM1588100
+[624]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM443043
+[625]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM404611
+[626]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM341206
+[627]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM428176
+[628]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM295786
+[629]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM132540
+[630]: http://www.legislation.govt.nz/act/public/1956/0065/latest/link.aspx?id=DLM101365
