@@ -1,5 +1,5 @@
 Reprint  
-as at 30 June 2012
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -853,9 +853,11 @@ Settlement redress through legislation
     
     (13) To the extent to which it affects the Waikato River, a management plan for a foreshore and seabed reserve prepared under [section 44][172] of the Foreshore and Seabed Act 2004 must not be inconsistent with the vision and strategy.
     
-    (14) To the extent to which it affects the Waikato River, a national land transport strategy prepared under [Part 3][173] of the Land Transport Management Act 2003 must take into account the vision and strategy.
+    (14) \[Repealed\]
     
     (15) The vision and strategy prevails over any inconsistent provision in a bylaw made by a local authority, if it is more stringent than the bylaw.
+    
+    Section 16(14): repealed, on 13 June 2013, by [section 72][173] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 17 Duty to have particular regard to vision and strategy
     
@@ -4181,7 +4183,7 @@ Consequential amendments
 
 [s 96][123]
 
-## _Amendment to Act_
+## Amendment to Act
 
 ##### Treaty of Waitangi Act 1975 (1975 No 114)
 
@@ -4189,7 +4191,7 @@ Consequential amendments
 
 > "Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010, [section 90(2)][116]."
 
-## _Amendment to regulations_
+## Amendment to regulations
 
 ##### Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434)
 
@@ -4221,7 +4223,7 @@ Consequential amendments
 
 ###### 1 General
     
-*   This is a reprint of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010\. The reprint incorporates all the amendments to the Act as at 30 June 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][268] ![](/images/external_link.gif).
 
@@ -4268,7 +4270,9 @@ Consequential amendments
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][147]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][173]
+    
+    Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][147]
     
     Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act and Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act Commencement Order 2010 (SR 2010/379): [clause 2(a)][133]
     
@@ -4449,7 +4453,7 @@ Consequential amendments
 [170]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM104626
 [171]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM54990
 [172]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM320278
-[173]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM227577
+[173]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM4663359
 [174]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM314622
 [175]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM394191
 [176]: http://www.legislation.govt.nz/act/public/2010/0024/latest/link.aspx?id=DLM255625
