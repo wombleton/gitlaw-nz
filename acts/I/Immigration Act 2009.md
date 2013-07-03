@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 19 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Business, Innovation and Employment.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -44,1192 +44,1208 @@ This Act is administered by the Ministry of Business, Innovation and Employment.
 
 [9][10][][10][Meaning of unlawfully in New Zealand (in relation to person who is not New Zealand citizen)][10]
 
-[10][11][][11][Meaning of deported ][11]
+[9A][11][][11][Meaning of mass arrival group][11]
 
-[11][12][][12][Meaning of absolute discretion of the decision maker][12]
+[10][12][][12][Meaning of deported][12]
 
-[12][13][][13][Act binds the Crown][13]
+[11][13][][13][Meaning of absolute discretion of the decision maker][13]
 
-[Part 2][14]  
-[Core provisions and matters in relation to decision making][14]
+[12][14][][14][Act binds the Crown][14]
 
-[Eligibility to be in or enter New Zealand][15]
+[Part 2][15]  
+[Core provisions and matters in relation to decision making][15]
 
-[13][16][][16][New Zealand citizens may enter and be in New Zealand at any time][16]
+[Eligibility to be in or enter New Zealand][16]
 
-[14][17][][17][Persons other than New Zealand citizens must hold visa to travel to and be in New Zealand][17]
+[13][17][][17][New Zealand citizens may enter and be in New Zealand at any time][17]
 
-[Excluded persons][18]
+[14][18][][18][Persons other than New Zealand citizens must hold visa to travel to and be in New Zealand][18]
 
-[15][19][][19][Certain convicted or deported persons not eligible for visa or entry permission to enter or be in New Zealand][19]
+[Excluded persons][19]
 
-[16][20][][20][Certain other persons not eligible for visa or entry permission][20]
+[15][20][][20][Certain convicted or deported persons not eligible for visa or entry permission to enter or be in New Zealand][20]
 
-[17][21][][21][Exceptions to non-eligibility for visa or entry permission][21]
+[16][21][][21][Certain other persons not eligible for visa or entry permission][21]
 
-[Persons unlawfully in New Zealand][22]
+[17][22][][22][Exceptions to non-eligibility for visa or entry permission][22]
 
-[18][23][][23][Obligation of persons unlawfully in New Zealand to leave New Zealand][23]
+[Persons unlawfully in New Zealand][23]
 
-[19][24][][24][Duty of chief executive to communicate obligation to leave New Zealand][24]
+[18][24][][24][Obligation of persons unlawfully in New Zealand to leave New Zealand][24]
 
-[20][25][][25][No right for person unlawfully in New Zealand to apply for visa][25]
+[19][25][][25][Duty of chief executive to communicate obligation to leave New Zealand][25]
 
-[21][26][][26][No right for person unlawfully in New Zealand to work or study][26]
+[20][26][][26][No right for person unlawfully in New Zealand to apply for visa][26]
 
-[Immigration instructions][27]
+[21][27][][27][No right for person unlawfully in New Zealand to work or study][27]
 
-[22][28][][28][Immigration instructions][28]
+[Immigration instructions][28]
 
-[23][29][][29][Immigration instructions classified as residence instructions, temporary entry instructions, or transit instructions][29]
+[22][29][][29][Immigration instructions][29]
 
-[24][30][][30][Immigration instructions for lapsing of applications for visas][30]
+[23][30][][30][Immigration instructions classified as residence instructions, temporary entry instructions, or transit instructions][30]
 
-[25][31][][31][Publication of immigration instructions][31]
+[24][31][][31][Immigration instructions for lapsing of applications for visas][31]
 
-[Processing claims and applications for visas and entry permission][32]
+[25][32][][32][Publication of immigration instructions][32]
 
-[26][33][][33][How claims and applications for visas and entry permission processed][33]
+[Processing claims and applications for visas and entry permission][33]
 
-[Reasons for decisions][34]
+[26][34][][34][How claims and applications for visas and entry permission processed][34]
 
-[27][35][][35][Reasons for decisions must be given if visa or entry permission refused to certain persons][35]
+[Reasons for decisions][35]
 
-[Automated decision making and biometric information][36]
+[27][36][][36][Reasons for decisions must be given if visa or entry permission refused to certain persons][36]
 
-[28][37][][37][Automated decision making in relation to visas, etc][37]
+[Automated decision making and biometric information][37]
 
-[29][38][][38][Automated decision making in advance passenger processing][38]
+[28][38][][38][Automated decision making in relation to visas, etc][38]
 
-[30][39][][39][Use of biometric information in decision making][39]
+[29][39][][39][Automated decision making in advance passenger processing][39]
 
-[31][40][][40][Collection and storage of biometric information][40]
+[30][40][][40][Use of biometric information in decision making][40]
 
-[32][41][][41][Department to undertake privacy impact assessment][41]
+[31][41][][41][Collection and storage of biometric information][41]
 
-[Reliance on classified information in decision making][42]
+[32][42][][42][Department to undertake privacy impact assessment][42]
 
-[33][43][][43][Classified information relating to security or criminal conduct may be relied on in decision making ][43]
+[Reliance on classified information in decision making][43]
 
-[34][44][][44][Minister may receive briefing][44]
+[33][44][][44][Classified information relating to security or criminal conduct may be relied on in decision making][44]
 
-[35][45][][45][Protection of classified information][45]
+[34][45][][45][Minister may receive briefing][45]
 
-[36][46][][46][Classified information must be balanced][46]
+[35][46][][46][Protection of classified information][46]
 
-[37][47][][47][Withdrawal or updating of classified information][47]
+[36][47][][47][Classified information must be balanced][47]
 
-[38][48][][48][Summary of allegations to be developed][48]
+[37][48][][48][Withdrawal or updating of classified information][48]
 
-[39][49][][49][Reasons, etc, to be given where prejudicial decision made using classified information][49]
+[38][49][][49][Summary of allegations to be developed][49]
 
-[40][50][][50][Where classified information may be relied on without requirement for summary or reasons][50]
+[39][50][][50][Reasons, etc, to be given where prejudicial decision made using classified information][50]
 
-[41][51][][51][Declassification of classified information ][51]
+[40][51][][51][Where classified information may be relied on without requirement for summary or reasons][51]
 
-[42][52][][52][No right of complaint to Inspector-General of Intelligence and Security][52]
+[41][52][][52][Declassification of classified information][52]
 
-[Part 3][53]  
-[Visas][53]
+[42][53][][53][No right of complaint to Inspector-General of Intelligence and Security][53]
 
-[Subpart 1][54][---][54][Visas generally][54]
+[Part 3][54]  
+[Visas][54]
 
-[43][55][][55][Effect of visa][55]
+[Subpart 1][55][---][55][Visas generally][55]
 
-[44][56][][56][Person may hold only 1 current visa][56]
+[43][56][][56][Effect of visa][56]
 
-[45][57][][57][Grant of visa generally matter of discretion][57]
+[44][57][][57][Person may hold only 1 current visa][57]
 
-[46][58][][58][Grant of visa does not guarantee entry permission][58]
+[45][58][][58][Grant of visa generally matter of discretion][58]
 
-[47][59][][59][Grant of visa may be conditional on payment of bond][59]
+[46][59][][59][Grant of visa does not guarantee entry permission][59]
 
-[48][60][][60][Grant of visa may be conditional on sponsorship][60]
+[47][60][][60][Grant of visa may be conditional on payment of bond][60]
 
-[Visa conditions][61]
+[48][61][][61][Grant of visa may be conditional on sponsorship][61]
 
-[49][62][][62][Visas may be subject to conditions][62]
+[Visa conditions][62]
 
-[50][63][][63][Conditions on resident visas][63]
+[49][63][][63][Visas may be subject to conditions][63]
 
-[51][64][][64][Resident visa holder may apply for variation of travel conditions][64]
+[50][64][][64][Conditions on resident visas][64]
 
-[52][65][][65][Conditions on temporary entry class visas (other than those subject to restricted temporary entry instructions)][65]
+[51][65][][65][Resident visa holder may apply for variation of travel conditions][65]
 
-[53][66][][66][Conditions on temporary entry class visas subject to restricted temporary entry instructions][66]
+[52][66][][66][Conditions on temporary entry class visas (other than those subject to restricted temporary entry instructions)][66]
 
-[54][67][][67][Conditions on transit visas][67]
+[53][67][][67][Conditions on temporary entry class visas subject to restricted temporary entry instructions][67]
 
-[55][68][][68][Condition that visa holder have sponsor][68]
+[54][68][][68][Conditions on transit visas][68]
 
-[56][69][][69][Visa holder must comply with conditions][69]
+[55][69][][69][Condition that visa holder have sponsor][69]
 
-[General rules relating to visas][70]
+[56][70][][70][Visa holder must comply with conditions][70]
 
-[57][71][][71][Applications for visas][71]
+[General rules relating to visas][71]
 
-[58][72][][72][Obligation on applicant to inform of all relevant facts, including changed circumstances][72]
+[57][72][][72][Applications for visas][72]
 
-[59][73][][73][Applications by minors][73]
+[58][73][][73][Obligation on applicant to inform of all relevant facts, including changed circumstances][73]
 
-[60][74][][74][Biometric information may be required from visa applicant][74]
+[59][74][][74][Applications by minors][74]
 
-[61][75][][75][Grant of visa in special case][75]
+[60][75][][75][Biometric information may be required from visa applicant][75]
 
-[62][76][][76][Form of visa][76]
+[61][76][][76][Grant of visa in special case][76]
 
-[63][77][][77][Expiry of visa][77]
+[62][77][][77][Form of visa][77]
 
-[64][78][][78][Cancellation of visa on triggering event][78]
+[63][78][][78][Expiry of visa][78]
 
-[65][79][][79][Cancellation of resident visa before holder first arrives in New Zealand as holder of visa][79]
+[64][79][][79][Cancellation of visa on triggering event][79]
 
-[66][80][][80][Cancellation of temporary entry class or transit visa by Minister or immigration officer ][80]
+[65][80][][80][Cancellation of resident visa before holder first arrives in New Zealand as holder of visa][80]
 
-[67][81][][81][Cancellation of visa for administrative error][81]
+[66][81][][81][Cancellation of temporary entry class or transit visa by Minister or immigration officer][81]
 
-[68][82][][82][Grant of further visa where visa granted in error][82]
+[67][82][][82][Cancellation of visa for administrative error][82]
 
-[Waiver of requirement for visa permitting travel to New Zealand in certain cases][83]
+[68][83][][83][Grant of further visa where visa granted in error][83]
 
-[69][84][][84][Waiver of requirement for visa permitting travel to New Zealand in certain cases][84]
+[Waiver of requirement for visa permitting travel to New Zealand in certain cases][84]
 
-[Subpart 2][85][---][85][Classes of visa][85]
+[69][85][][85][Waiver of requirement for visa permitting travel to New Zealand in certain cases][85]
 
-[70][86][][86][Classes of visa][86]
+[Subpart 2][86][---][86][Classes of visa][86]
 
-[Residence class visas][87]
+[70][87][][87][Classes of visa][87]
 
-[71][88][][88][Who may apply for residence class visa][88]
+[Residence class visas][88]
 
-[72][89][][89][Decisions on applications for residence class visa][89]
+[71][89][][89][Who may apply for residence class visa][89]
 
-[73][90][][90][Currency and nature of permanent resident visa][90]
+[72][90][][90][Decisions on applications for residence class visa][90]
 
-[74][91][][91][Currency and nature of resident visa][91]
+[73][91][][91][Currency and nature of permanent resident visa][91]
 
-[75][92][][92][Former New Zealand citizens deemed to hold resident visa][92]
+[74][92][][92][Currency and nature of resident visa][92]
 
-[Temporary entry class visas: provisions applying to all types][93]
+[75][93][][93][Former New Zealand citizens deemed to hold resident visa][93]
 
-[76][94][][94][Decisions on applications for temporary entry class visa][94]
+[Temporary entry class visas: provisions applying to all types][94]
 
-[77][95][][95][Currency and nature of temporary entry class visa][95]
+[76][95][][95][Decisions on applications for temporary entry class visa][95]
 
-[78][96][][96][Deemed extension of temporary entry class visa expiring during epidemic][96]
+[77][96][][96][Currency and nature of temporary entry class visa][96]
 
-[Temporary entry class visas: provisions applying to temporary visas][97]
+[78][97][][97][Deemed extension of temporary entry class visa expiring during epidemic][97]
 
-[79][98][][98][Who may apply for temporary visa][98]
+[Temporary entry class visas: provisions applying to temporary visas][98]
 
-[Temporary entry class visas: provisions applying to interim visas][99]
+[79][99][][99][Who may apply for temporary visa][99]
 
-[80][100][][100][Interim visa][100]
+[Temporary entry class visas: provisions applying to interim visas][100]
 
-[Temporary entry class visas: provisions applying to limited visas][101]
+[80][101][][101][Interim visa][101]
 
-[81][102][][102][Who may apply for limited visa][102]
+[Temporary entry class visas: provisions applying to limited visas][102]
 
-[82][103][][103][Grant of limited visa rather than temporary visa applied for or held][103]
+[81][103][][103][Who may apply for limited visa][103]
 
-[83][104][][104][Grant of limited visa in relation to criminal matters][104]
+[82][104][][104][Grant of limited visa rather than temporary visa applied for or held][104]
 
-[84][105][][105][Currency of limited visa][105]
+[83][105][][105][Grant of limited visa in relation to criminal matters][105]
 
-[85][106][][106][Limitations and conditions on holders of limited visa][106]
+[84][106][][106][Currency of limited visa][106]
 
-[Transit visas][107]
+[85][107][][107][Limitations and conditions on holders of limited visa][107]
 
-[86][108][][108][Who must obtain transit visa][108]
+[Transit visas][108]
 
-[87][109][][109][Transit visa may be granted as exception to immigration instructions][109]
+[86][109][][109][Who must obtain transit visa][109]
 
-[88][110][][110][Currency and nature of transit visa][110]
+[87][110][][110][Transit visa may be granted as exception to immigration instructions][110]
 
-[89][111][][111][Limitations on holders of transit visa][111]
+[88][111][][111][Currency and nature of transit visa][111]
 
-[90][112][][112][Cancellation of transit visa][112]
+[89][112][][112][Limitations on holders of transit visa][112]
 
-[91][113][][113][Expiry of transit period][113]
+[90][113][][113][Cancellation of transit visa][113]
 
-[Invitation to apply for visa][114]
+[91][114][][114][Expiry of transit period][114]
 
-[92][115][][115][Expressions of interest][115]
+[Invitation to apply for visa][115]
 
-[93][116][][116][Obligation to inform of all relevant facts, including changed circumstances][116]
+[92][116][][116][Expressions of interest][116]
 
-[94][117][][117][Invitation to apply for visa][117]
+[93][117][][117][Obligation to inform of all relevant facts, including changed circumstances][117]
 
-[95][118][][118][Issue of invitation to apply for visa matter of discretion][118]
+[94][118][][118][Invitation to apply for visa][118]
 
-[Part 4][119]  
-[Arrivals and departures][119]
+[95][119][][119][Issue of invitation to apply for visa matter of discretion][119]
 
-[Advance passenger processing][120]
+[Part 4][120]  
+[Arrivals and departures][120]
 
-[96][121][][121][Responsibilities of carrier, and person in charge, of commercial craft before it departs from another country to travel to New Zealand][121]
+[Advance passenger processing][121]
 
-[97][122][][122][Chief executive may make decision about person boarding craft for purpose of travelling to New Zealand][122]
+[96][122][][122][Responsibilities of carrier, and person in charge, of commercial craft before it departs from another country to travel to New Zealand][122]
 
-[98][123][][123][Grant of entry permission outside New Zealand ][123]
+[97][123][][123][Chief executive may make decision about person boarding craft for purpose of travelling to New Zealand][123]
 
-[99][124][][124][New Zealand citizen may confirm citizenship before arrival in New Zealand][124]
+[98][124][][124][Grant of entry permission outside New Zealand][124]
 
-[100][125][][125][Collection of biometric information from proposed arrivals][125]
+[99][125][][125][New Zealand citizen may confirm citizenship before arrival in New Zealand][125]
 
-[Obligations in relation to craft coming to New Zealand][126]
+[100][126][][126][Collection of biometric information from proposed arrivals][126]
 
-[101][127][][127][Obligations in relation to craft en route to or arriving in New Zealand][127]
+[Obligations in relation to craft coming to New Zealand][127]
 
-[102][128][][128][Obligations of carriers, and persons in charge, of craft to provide information][128]
+[101][128][][128][Obligations in relation to craft en route to or arriving in New Zealand][128]
 
-[Obligations on persons arriving in New Zealand][129]
+[102][129][][129][Obligations of carriers, and persons in charge, of craft to provide information][129]
 
-[103][130][][130][Obligations on persons arriving in New Zealand][130]
+[Obligations on persons arriving in New Zealand][130]
 
-[104][131][][131][New Zealand citizens arriving in New Zealand to be photographed][131]
+[103][131][][131][Obligations on persons arriving in New Zealand][131]
 
-[105][132][][132][Responsibilities of internationally ticketed passengers travelling by air within New Zealand][132]
+[104][132][][132][New Zealand citizens arriving in New Zealand to be photographed][132]
 
-[106][133][][133][Responsibilities of domestic passengers travelling by air within New Zealand][133]
+[105][133][][133][Responsibilities of internationally ticketed passengers travelling by air within New Zealand][133]
 
-[Entry permission][134]
+[106][134][][134][Responsibilities of domestic passengers travelling by air within New Zealand][134]
 
-[107][135][][135][Effect of entry permission or refusal of entry permission][135]
+[Entry permission][135]
 
-[108][136][][136][Decisions on entry permission in relation to residence class visa holders][136]
+[107][136][][136][Effect of entry permission or refusal of entry permission][136]
 
-[109][137][][137][Decisions on entry permission in relation to temporary entry class visa holders][137]
+[108][137][][137][Decisions on entry permission in relation to residence class visa holders][137]
 
-[110][138][][138][Applicant for entry permission to provide address][138]
+[109][138][][138][Decisions on entry permission in relation to temporary entry class visa holders][138]
 
-[111][139][][139][Applicant for entry permission to allow collection of biometric information][139]
+[110][139][][139][Applicant for entry permission to provide address][139]
 
-[112][140][][140][Obligation to inform of all relevant facts, including changed circumstances ][140]
+[111][140][][140][Applicant for entry permission to allow collection of biometric information][140]
 
-[113][141][][141][Revocation of entry permission for administrative error][141]
+[112][141][][141][Obligation to inform of all relevant facts, including changed circumstances][141]
 
-[Turnaround provisions][142]
+[113][142][][142][Revocation of entry permission for administrative error][142]
 
-[114][143][][143][Person failing to present and apply for entry permission][143]
+[Turnaround provisions][143]
 
-[115][144][][144][Arrest, detention, and turnaround of persons][144]
+[114][144][][144][Person failing to present and apply for entry permission][144]
 
-[116][145][][145][When section 115 ceases to apply to person][145]
+[115][145][][145][Arrest, detention, and turnaround of persons][145]
 
-[117][146][][146][When turnaround ceases to apply to person remanded in custody or imprisoned][146]
+[116][146][][146][When section 115 ceases to apply to person][146]
 
-[Obligations in relation to departure from New Zealand][147]
+[117][147][][147][When turnaround ceases to apply to person remanded in custody or imprisoned][147]
 
-[118][148][][148][Obligations of carriers, and persons in charge, of craft][148]
+[Obligations in relation to departure from New Zealand][148]
 
-[119][149][][149][Obligations of persons leaving New Zealand][149]
+[118][149][][149][Obligations of carriers, and persons in charge, of craft][149]
 
-[120][150][][150][Persons other than New Zealand citizens leaving New Zealand to allow biometric information to be collected][150]
+[119][150][][150][Obligations of persons leaving New Zealand][150]
 
-[Special provision for emergencies, etc][151]
+[120][151][][151][Persons other than New Zealand citizens leaving New Zealand to allow biometric information to be collected][151]
 
-[121][152][][152][Persons deemed not to leave New Zealand in certain circumstances][152]
+[Special provision for emergencies, etc][152]
 
-[122][153][][153][Special provisions relating to persons returning to New Zealand in emergency or other circumstances beyond their control][153]
+[121][153][][153][Persons deemed not to leave New Zealand in certain circumstances][153]
 
-[Protection for carriers, and persons in charge, of craft][154]
+[122][154][][154][Special provisions relating to persons returning to New Zealand in emergency or other circumstances beyond their control][154]
 
-[123][155][][155][Protection for carriers, and persons in charge, of craft][155]
+[Protection for carriers, and persons in charge, of craft][155]
 
-[Part 5][156]  
-[Refugee and protection status determinations][156]
+[123][156][][156][Protection for carriers, and persons in charge, of craft][156]
 
-[124][157][][157][Purpose of Part][157]
+[Part 5][157]  
+[Refugee and protection status determinations][157]
 
-[125][158][][158][Refugee or protection status to be determined under this Act][158]
+[124][158][][158][Purpose of Part][158]
 
-[126][159][][159][Recognition of refugees selected outside New Zealand][159]
+[125][159][][159][Refugee or protection status to be determined under this Act][159]
 
-[127][160][][160][Context for decision making][160]
+[126][160][][160][Recognition of refugees selected outside New Zealand][160]
 
-[128][161][][161][Matter not finally determined until expiry of appeal period or when appeal determined][161]
+[127][161][][161][Context for decision making][161]
 
-[Claims for recognition as refugee or protected person][162]
+[128][162][][162][Matter not finally determined until expiry of appeal period or when appeal determined][162]
 
-[129][163][][163][Recognition as refugee][163]
+[Claims for recognition as refugee or protected person][163]
 
-[130][164][][164][Recognition as protected person under Convention Against Torture][164]
+[129][164][][164][Recognition as refugee][164]
 
-[131][165][][165][Recognition as protected person under Covenant on Civil and Political Rights][165]
+[130][165][][165][Recognition as protected person under Convention Against Torture][165]
 
-[132][166][][166][Claims not to be accepted from certain persons][166]
+[131][166][][166][Recognition as protected person under Covenant on Civil and Political Rights][166]
 
-[133][167][][167][How claim made][167]
+[132][167][][167][Claims not to be accepted from certain persons][167]
 
-[134][168][][168][Whether to accept claim for consideration][168]
+[133][168][][168][How claim made][168]
 
-[135][169][][169][Claimant responsible for establishing claim][169]
+[134][169][][169][Whether to accept claim for consideration][169]
 
-[136][170][][170][How refugee and protection officer to determine claim][170]
+[135][170][][170][Claimant responsible for establishing claim][170]
 
-[137][171][][171][Matters to be determined by refugee and protection officer][171]
+[135A][171][][171][Suspension of determination of claim][171]
 
-[138][172][][172][Decision on claim][172]
+[136][172][][172][How refugee and protection officer to determine claim][172]
 
-[139][173][][173][Minister to decide immigration status of protected person who may have committed certain crimes or been guilty of certain acts][173]
+[137][173][][173][Matters to be determined by refugee and protection officer][173]
 
-[140][174][][174][Limitation on subsequent claims][174]
+[138][174][][174][Decision on claim][174]
 
-[141][175][][175][Procedure on subsequent claims][175]
+[139][175][][175][Minister to decide immigration status of protected person who may have committed certain crimes or been guilty of certain acts][175]
 
-[142][176][][176][Claim treated as withdrawn if claimant leaves New Zealand][176]
+[140][176][][176][Limitation on subsequent claims][176]
 
-[Cessation or cancellation of recognition][177]
+[141][177][][177][Procedure on subsequent claims][177]
 
-[143][178][][178][Cessation of recognition as refugee or protected person][178]
+[142][178][][178][Claim treated as withdrawn if claimant leaves New Zealand][178]
 
-[144][179][][179][Application to Tribunal for cessation of recognition as refugee or protected person][179]
+[Cessation or cancellation of recognition][179]
 
-[145][180][][180][Cancellation of New Zealand citizen's recognition as refugee or protected person][180]
+[143][180][][180][Cessation of recognition as refugee or protected person][180]
 
-[146][181][][181][Cancellation of person's recognition as refugee or protected person (other than New Zealand citizen)][181]
+[144][181][][181][Application to Tribunal for cessation of recognition as refugee or protected person][181]
 
-[147][182][][182][Application to Tribunal for cancellation of New Zealand citizen's recognition as refugee or protected person][182]
+[145][182][][182][Cancellation of New Zealand citizen's recognition as refugee or protected person][182]
 
-[148][183][][183][Procedures to be followed when refugee and protection officer making determination under section 143, 145, or 146][183]
+[146][183][][183][Cancellation of person's recognition as refugee or protected person (other than New Zealand citizen)][183]
 
-[Miscellaneous matters][184]
+[147][184][][184][Application to Tribunal for cancellation of New Zealand citizen's recognition as refugee or protected person][184]
 
-[149][185][][185][Powers of refugee and protection officers][185]
+[148][185][][185][Procedures to be followed when refugee and protection officer making determination under section 143, 145, or 146][185]
 
-[150][186][][186][Special provision relating to claimants granted temporary visas][186]
+[Miscellaneous matters][186]
 
-[151][187][][187][Confidentiality to be maintained in respect of claimants, refugees, and protected persons][187]
+[149][187][][187][Powers of refugee and protection officers][187]
 
-[152][188][][188][Disclosure of information about claimant, refugee, or protected person by government agencies][188]
+[150][188][][188][Special provision relating to claimants granted temporary visas][188]
 
-[Part 6][189]  
-[Deportation][189]
+[151][189][][189][Confidentiality to be maintained in respect of claimants, refugees, and protected persons][189]
 
-[153][190][][190][Purpose of Part][190]
+[152][190][][190][Disclosure of information about claimant, refugee, or protected person by government agencies][190]
 
-[Liability for deportation][191]
+[Part 6][191]  
+[Deportation][191]
 
-[154][192][][192][Deportation liability if person unlawfully in New Zealand ][192]
+[153][192][][192][Purpose of Part][192]
 
-[155][193][][193][Deportation liability if person's visa granted in error ][193]
+[Liability for deportation][193]
 
-[156][194][][194][Deportation liability if visa held under false identity][194]
+[154][194][][194][Deportation liability if person unlawfully in New Zealand][194]
 
-[157][195][][195][Deportation liability of temporary entry class visa holder for cause][195]
+[155][195][][195][Deportation liability if person's visa granted in error][195]
 
-[158][196][][196][Deportation liability of residence class visa holder if visa or citizenship obtained or held by fraud, forgery, etc][196]
+[156][196][][196][Deportation liability if visa held under false identity][196]
 
-[159][197][][197][Deportation liability of resident if visa conditions breached][197]
+[157][197][][197][Deportation liability of temporary entry class visa holder for cause][197]
 
-[160][198][][198][Deportation liability of residence class visa holder if new information as to character becomes available][198]
+[158][198][][198][Deportation liability of residence class visa holder if visa or citizenship obtained or held by fraud, forgery, etc][198]
 
-[161][199][][199][Deportation liability of residence class visa holder convicted of criminal offence][199]
+[159][199][][199][Deportation liability of resident if visa conditions breached][199]
 
-[162][200][][200][Deportation liability if refugee or protection status cancelled under section 146][200]
+[160][200][][200][Deportation liability of residence class visa holder if new information as to character becomes available][200]
 
-[163][201][][201][Deportation liability of persons threatening security][201]
+[161][201][][201][Deportation liability of residence class visa holder convicted of criminal offence][201]
 
-[164][202][][202][Limitation on deportation of persons recognised or claiming recognition as refugee or protected person][202]
+[162][202][][202][Deportation liability if refugee or protection status cancelled under section 146][202]
 
-[165][203][][203][Immigration officer must have regard to certain matters when dealing with claimants, refugees, or protected persons][203]
+[163][203][][203][Deportation liability of persons threatening security][203]
 
-[166][204][][204][Limitation on deportation of diplomats, etc][204]
+[164][204][][204][Limitation on deportation of persons recognised or claiming recognition as refugee or protected person][204]
 
-[167][205][][205][Period of deportation liability][205]
+[165][205][][205][Immigration officer must have regard to certain matters when dealing with claimants, refugees, or protected persons][205]
 
-[168][206][][206][Liability for deportation when person outside New Zealand][206]
+[166][206][][206][Limitation on deportation of diplomats, etc][206]
 
-[169][207][][207][Effect of being liable for deportation][207]
+[167][207][][207][Period of deportation liability][207]
 
-[Notification of liability for deportation][208]
+[168][208][][208][Liability for deportation when person outside New Zealand][208]
 
-[170][209][][209][Deportation liability notice][209]
+[169][209][][209][Effect of being liable for deportation][209]
 
-[171][210][][210][Contents of deportation liability notice][210]
+[Notification of liability for deportation][210]
 
-[Cancellation or suspension of deportation liability][211]
+[170][211][][211][Deportation liability notice][211]
 
-[172][212][][212][Minister may cancel or suspend liability for deportation][212]
+[171][212][][212][Contents of deportation liability notice][212]
 
-[173][213][][213][Right of victims to make submissions on suspension or cancellation of liability for deportation][213]
+[Cancellation or suspension of deportation liability][213]
 
-[174][214][][214][Effect of suspension][214]
+[172][214][][214][Minister may cancel or suspend liability for deportation][214]
 
-[Deportation][215]
+[173][215][][215][Right of victims to make submissions on suspension or cancellation of liability for deportation][215]
 
-[175][216][][216][When deportation order may be served][216]
+[174][216][][216][Effect of suspension][216]
 
-[176][217][][217][Content of deportation order][217]
+[Deportation][217]
 
-[177][218][][218][Deportation order may be cancelled][218]
+[175][218][][218][When deportation order may be served][218]
 
-[178][219][][219][Executing deportation order][219]
+[176][219][][219][Content of deportation order][219]
 
-[179][220][][220][Deported person may not enter New Zealand during period of prohibition on entry ][220]
+[177][220][][220][Deportation order may be cancelled][220]
 
-[180][221][][221][Deported person may not enter New Zealand until costs of deportation repaid][221]
+[178][221][][221][Executing deportation order][221]
 
-[181][222][][222][Consequences for deported person if person enters or attempts to enter New Zealand during period of prohibition on entry][222]
+[179][222][][222][Deported person may not enter New Zealand during period of prohibition on entry][222]
 
-[182][223][][223][Minister may reduce or remove period of prohibition on entry][223]
+[180][223][][223][Deported person may not enter New Zealand until costs of deportation repaid][223]
 
-[Part 7][224]  
-[Appeals, reviews, and other proceedings][224]
+[181][224][][224][Consequences for deported person if person enters or attempts to enter New Zealand during period of prohibition on entry][224]
 
-[183][225][][225][Interpretation][225]
+[182][225][][225][Minister may reduce or remove period of prohibition on entry][225]
 
-[184][226][][226][Purpose of Part][226]
+[Part 7][226]  
+[Appeals, reviews, and other proceedings][226]
 
-[Limited right of reconsideration concerning temporary entry class visas][227]
+[183][227][][227][Interpretation][227]
 
-[185][228][][228][Right of reconsideration if onshore application for further temporary visa declined][228]
+[184][228][][228][Purpose of Part][228]
 
-[Limited right of review in respect of temporary entry class visa decisions][229]
+[Limited right of reconsideration concerning temporary entry class visas][229]
 
-[186][230][][230][Limited right of review in respect of temporary entry class visa decisions][230]
+[185][230][][230][Right of reconsideration if onshore application for further temporary visa declined][230]
 
-[Appeals in relation to residence class visas][231]
+[Limited right of review in respect of temporary entry class visa decisions][231]
 
-[187][232][][232][Rights of appeal in relation to decisions concerning residence class visas][232]
+[186][232][][232][Limited right of review in respect of temporary entry class visa decisions][232]
 
-[188][233][][233][Determination of appeal in relation to residence class visa][233]
+[Appeals in relation to residence class visas][233]
 
-[189][234][][234][Use of further information in appeals under section 187][234]
+[187][234][][234][Rights of appeal in relation to decisions concerning residence class visas][234]
 
-[190][235][][235][Procedure where appeal successful or Tribunal makes recommendation][235]
+[188][235][][235][Determination of appeal in relation to residence class visa][235]
 
-[No appeal or review rights in relation to invitations to apply and transit visas][236]
+[189][236][][236][Use of further information in appeals under section 187][236]
 
-[191][237][][237][No appeal or review rights in relation to invitations to apply][237]
+[190][237][][237][Procedure where appeal successful or Tribunal makes recommendation][237]
 
-[192][238][][238][No appeal or review rights in relation to transit visas][238]
+[No appeal or review rights in relation to invitations to apply and transit visas][238]
 
-[Appeals against decisions relating to refugee or protection status][239]
+[191][239][][239][No appeal or review rights in relation to invitations to apply][239]
 
-[193][240][][240][Tribunal consideration of refugee and protection matters][240]
+[192][240][][240][No appeal or review rights in relation to transit visas][240]
 
-[194][241][][241][Right of appeal in relation to decisions concerning refugee or protection status (other than subsequent claims)][241]
+[Appeals against decisions relating to refugee or protection status][241]
 
-[195][242][][242][Right of appeal in relation to subsequent claims for refugee or protection status][242]
+[193][242][][242][Tribunal consideration of refugee and protection matters][242]
 
-[196][243][][243][Determination of appeal against decision declining to accept for consideration claim in light of international arrangement or agreement][243]
+[194][243][][243][Right of appeal in relation to decisions concerning refugee or protection status (other than subsequent claims)][243]
 
-[197][244][][244][Determination of appeal against decision declining to accept for consideration certain claims for recognition as refugee ][244]
+[195][244][][244][Right of appeal in relation to subsequent claims for refugee or protection status][244]
 
-[198][245][][245][Determination of appeal against declining of claim for recognition, cancellation of recognition, or cessation of recognition][245]
+[196][245][][245][Determination of appeal against decision declining to accept for consideration claim in light of international arrangement or agreement][245]
 
-[199][246][][246][After successful appeal, Minister to decide immigration status of protected person who may have committed certain crimes or been guilty of certain acts][246]
+[197][246][][246][Determination of appeal against decision declining to accept for consideration certain claims for recognition as refugee][246]
 
-[200][247][][247][Determination of appeal against refusal or declining of subsequent claim for recognition as refugee or protected person][247]
+[198][247][][247][Determination of appeal against declining of claim for recognition, cancellation of recognition, or cessation of recognition][247]
 
-[Appeal on facts against liability for deportation][248]
+[199][248][][248][After successful appeal, Minister to decide immigration status of protected person who may have committed certain crimes or been guilty of certain acts][248]
 
-[201][249][][249][Persons who may appeal to Tribunal on facts][249]
+[200][249][][249][Determination of appeal against refusal or declining of subsequent claim for recognition as refugee or protected person][249]
 
-[202][250][][250][Grounds for determining appeal on facts][250]
+[Appeal on facts against liability for deportation][250]
 
-[203][251][][251][Process when entitlement to appeal on facts and humanitarian grounds][251]
+[201][251][][251][Persons who may appeal to Tribunal on facts][251]
 
-[204][252][][252][Special process where refugee or protection status acquired through fraud, etc][252]
+[202][252][][252][Grounds for determining appeal on facts][252]
 
-[205][253][][253][Special process if refugee or protected person liable for deportation under section 161][253]
+[203][253][][253][Process when entitlement to appeal on facts and humanitarian grounds][253]
 
-[Appeal on humanitarian grounds against liability for deportation][254]
+[204][254][][254][Special process where refugee or protection status acquired through fraud, etc][254]
 
-[206][255][][255][Who may appeal to Tribunal on humanitarian grounds][255]
+[205][255][][255][Special process if refugee or protected person liable for deportation under section 161][255]
 
-[207][256][][256][Grounds for determining humanitarian appeal][256]
+[Appeal on humanitarian grounds against liability for deportation][256]
 
-[208][257][][257][Right of victims to make submission on appeal][257]
+[206][257][][257][Who may appeal to Tribunal on humanitarian grounds][257]
 
-[Orders on determination of appeal][258]
+[207][258][][258][Grounds for determining humanitarian appeal][258]
 
-[209][259][][259][Tribunal may make orders considered necessary on allowing appeal against liability for deportation][259]
+[208][259][][259][Right of victims to make submission on appeal][259]
 
-[210][260][][260][Tribunal may order grant of visa on allowing appeal against liability for deportation][260]
+[Orders on determination of appeal][260]
 
-[211][261][][261][Effect of successful appeal against liability for deportation][261]
+[209][261][][261][Tribunal may make orders considered necessary on allowing appeal against liability for deportation][261]
 
-[212][262][][262][Tribunal may suspend liability for deportation on allowing humanitarian appeal][262]
+[210][262][][262][Tribunal may order grant of visa on allowing appeal against liability for deportation][262]
 
-[213][263][][263][Effect of suspension][263]
+[211][263][][263][Effect of successful appeal against liability for deportation][263]
 
-[214][264][][264][Effect of suspension on appeal][264]
+[212][264][][264][Tribunal may suspend liability for deportation on allowing humanitarian appeal][264]
 
-[215][265][][265][Tribunal may reduce or remove period of prohibited entry under deportation order][265]
+[213][265][][265][Effect of suspension][265]
 
-[216][266][][266][Tribunal may make order delaying deportation if appeal unsuccessful][266]
+[214][266][][266][Effect of suspension on appeal][266]
 
-[Immigration and Protection Tribunal][267]
+[215][267][][267][Tribunal may reduce or remove period of prohibited entry under deportation order][267]
 
-[217][268][][268][Immigration and Protection Tribunal][268]
+[216][268][][268][Tribunal may make order delaying deportation if appeal unsuccessful][268]
 
-[218][269][][269][Nature of Tribunal][269]
+[Immigration and Protection Tribunal][269]
 
-[219][270][][270][Membership of Tribunal][270]
+[217][270][][270][Immigration and Protection Tribunal][270]
 
-[220][271][][271][Role of chair of Tribunal][271]
+[218][271][][271][Nature of Tribunal][271]
 
-[221][272][][272][Exercise of jurisdiction][272]
+[219][272][][272][Membership of Tribunal][272]
 
-[222][273][][273][Procedure for determining appeals and matters generally][273]
+[220][273][][273][Role of chair of Tribunal][273]
 
-[223][274][][274][Chair to ensure appeals and matters heard expeditiously][274]
+[221][274][][274][Exercise of jurisdiction][274]
 
-[224][275][][275][Tribunal may dismiss frivolous or vexatious appeal][275]
+[222][275][][275][Procedure for determining appeals and matters generally][275]
 
-[Procedure for appeals and matters][276]
+[223][276][][276][Chair to ensure appeals and matters heard expeditiously][276]
 
-[225][277][][277][How appeal or matter lodged][277]
+[224][277][][277][Tribunal may dismiss frivolous or vexatious appeal][277]
 
-[226][278][][278][Proceedings on appeal or matter][278]
+[Procedure for appeals and matters][278]
 
-[227][279][][279][Minister or Department is party to proceedings][279]
+[225][279][][279][How appeal or matter lodged][279]
 
-[228][280][][280][Information Tribunal may consider][280]
+[226][280][][280][Proceedings on appeal or matter][280]
 
-[229][281][][281][Tribunal may require chief executive to provide information][281]
+[227][281][][281][Minister or Department is party to proceedings][281]
 
-[230][282][][282][Tribunal must disclose prejudicial information][282]
+[228][282][][282][Information Tribunal may consider][282]
 
-[231][283][][283][Findings of credibility and fact][283]
+[229][283][][283][Tribunal may require chief executive to provide information][283]
 
-[232][284][][284][Tribunal may require provision of biometric information][284]
+[230][284][][284][Tribunal must disclose prejudicial information][284]
 
-[233][285][][285][When Tribunal must or may provide oral hearing][285]
+[231][285][][285][Findings of credibility and fact][285]
 
-[234][286][][286][Decision on papers in other circumstances][286]
+[232][286][][286][Tribunal may require provision of biometric information][286]
 
-[235][287][][287][Tribunal may issue single decision when appeals or matters heard together][287]
+[233][287][][287][When Tribunal must or may provide oral hearing][287]
 
-[236][288][][288][Appeals against deportation liability where person serving prison sentence][288]
+[234][288][][288][Decision on papers in other circumstances][288]
 
-[237][289][][289][Procedure][289]
+[235][289][][289][Tribunal may issue single decision when appeals or matters heard together][289]
 
-[238][290][][290][Withdrawal of appeal or matter][290]
+[236][290][][290][Appeals against deportation liability where person serving prison sentence][290]
 
-[239][291][][291][Deemed withdrawal of certain appeals where person leaves New Zealand][291]
+[237][291][][291][Procedure][291]
 
-[Special procedure where classified information involved][292]
+[238][292][][292][Withdrawal of appeal or matter][292]
 
-[240][293][][293][How proceedings involving classified information to be conducted by Tribunal][293]
+[239][293][][293][Deemed withdrawal of certain appeals where person leaves New Zealand][293]
 
-[241][294][][294][Presentation of classified information to Tribunal][294]
+[Special procedure where classified information involved][294]
 
-[242][295][][295][Tribunal to approve summary of allegations][295]
+[240][295][][295][How proceedings involving classified information to be conducted by Tribunal][295]
 
-[243][296][][296][Matters to be considered by Tribunal][296]
+[241][296][][296][Presentation of classified information to Tribunal][296]
 
-[244][297][][297][Tribunal may require mixture of closed and open hearings][297]
+[242][297][][297][Tribunal to approve summary of allegations][297]
 
-[Appeal from Tribunal and judicial review][298]
+[243][298][][298][Matters to be considered by Tribunal][298]
 
-[245][299][][299][Appeal to High Court on point of law by leave][299]
+[244][299][][299][Tribunal may require mixture of closed and open hearings][299]
 
-[246][300][][300][Appeal to Court of Appeal on point of law by leave][300]
+[Appeal from Tribunal and judicial review][300]
 
-[247][301][][301][Special provisions relating to judicial review][301]
+[245][301][][301][Appeal to High Court on point of law by leave][301]
 
-[248][302][][302][Minister, chief executive, or refugee and protection officer may be respondent in review proceedings relating to Tribunal decision][302]
+[246][302][][302][Appeal to Court of Appeal on point of law by leave][302]
 
-[249][303][][303][Restriction on review][303]
+[247][303][][303][Special provisions relating to judicial review][303]
 
-[250][304][][304][Certain appeals and review proceedings to be treated as priority fixture][304]
+[248][304][][304][Minister, chief executive, or refugee and protection officer may be respondent in review proceedings relating to Tribunal decision][304]
 
-[251][305][][305][Relationship with Judicature Act 1908 and Supreme Court Act 2003][305]
+[249][305][][305][Restriction on review][305]
 
-[General provisions relating to proceedings involving classified information][306]
+[250][306][][306][Certain appeals and review proceedings to be treated as priority fixture][306]
 
-[252][307][][307][Proceedings involving classified information may be heard only by nominated Judge][307]
+[251][307][][307][Relationship with Judicature Act 1908 and Supreme Court Act 2003][307]
 
-[253][308][][308][Appeal to High Court or review proceedings involving classified information][308]
+[General provisions relating to proceedings involving classified information][308]
 
-[254][309][][309][Appeal to Court of Appeal or Supreme Court involving classified information][309]
+[252][309][][309][Proceedings involving classified information may be heard only by nominated Judge][309]
 
-[255][310][][310][Appeal period where decision involving classified information to be appealed to Court of Appeal or Supreme Court][310]
+[253][310][][310][Appeal to High Court or review proceedings involving classified information][310]
 
-[256][311][][311][Court to approve summary of allegations][311]
+[254][311][][311][Appeal to Court of Appeal or Supreme Court involving classified information][311]
 
-[257][312][][312][Priority or urgency to be afforded to proceedings involving classified information][312]
+[255][312][][312][Appeal period where decision involving classified information to be appealed to Court of Appeal or Supreme Court][312]
 
-[258][313][][313][Relevant agency entitled to be party to proceedings involving classified information][313]
+[256][313][][313][Court to approve summary of allegations][313]
 
-[259][314][][314][Obligation and powers of Tribunal and courts in relation to classified information ][314]
+[257][314][][314][Priority or urgency to be afforded to proceedings involving classified information][314]
 
-[260][315][][315][Ancillary general practices and procedures to protect classified information][315]
+[258][315][][315][Relevant agency entitled to be party to proceedings involving classified information][315]
 
-[261][316][][316][No disqualification by reason of security briefing][316]
+[259][316][][316][Obligation and powers of Tribunal and courts in relation to classified information][316]
 
-[262][317][][317][Restriction on appeal and review][317]
+[260][317][][317][Ancillary general practices and procedures to protect classified information][317]
 
-[Special advocates][318]
+[261][318][][318][No disqualification by reason of security briefing][318]
 
-[263][319][][319][Role of special advocates][319]
+[262][319][][319][Restriction on appeal and review][319]
 
-[264][320][][320][Recognition of special advocates][320]
+[Special advocates][320]
 
-[265][321][][321][Appointment of special advocate in individual case][321]
+[263][321][][321][Role of special advocates][321]
 
-[266][322][][322][Appointment of special advocate for purposes of Part 9 proceedings][322]
+[264][322][][322][Recognition of special advocates][322]
 
-[267][323][][323][Communication between special advocate and person to whom classified information relates][323]
+[265][323][][323][Appointment of special advocate in individual case][323]
 
-[268][324][][324][Protection of special advocates from liability][324]
+[266][324][][324][Appointment of special advocate for purposes of Part 9 proceedings][324]
 
-[269][325][][325][Tribunal or court may appoint counsel assisting the court][325]
+[267][325][][325][Communication between special advocate and person to whom classified information relates][325]
 
-[270][326][][326][Tribunal or court may appoint special adviser][326]
+[268][326][][326][Protection of special advocates from liability][326]
 
-[271][327][][327][Payment to counsel assisting the court or special adviser][327]
+[269][327][][327][Tribunal or court may appoint counsel assisting the court][327]
 
-[Part 8][328]  
-[Compliance and information][328]
+[270][328][][328][Tribunal or court may appoint special adviser][328]
 
-[272][329][][329][Purpose of Part][329]
+[271][329][][329][Payment to counsel assisting the court or special adviser][329]
 
-[273][330][][330][Meaning of information, document, register, list, etc, in sections 274, 276, 277, and 278][330]
+[Part 8][330]  
+[Compliance and information][330]
 
-[Power to access address information][331]
+[272][331][][331][Purpose of Part][331]
 
-[274][332][][332][Certificate requiring production of address information][332]
+[273][332][][332][Meaning of information, document, register, list, etc, in sections 274, 276, 277, and 278][332]
 
-[275][333][][333][Persons required to provide access to address information][333]
+[Power to access address information][333]
 
-[Powers of entry, inspection, etc][334]
+[274][334][][334][Certificate requiring production of address information][334]
 
-[276][335][][335][Powers of entry and inspection relating to records of accommodation providers][335]
+[275][335][][335][Persons required to provide access to address information][335]
 
-[277][336][][336][Powers of entry and inspection relating to records of employers][336]
+[Powers of entry, inspection, etc][336]
 
-[278][337][][337][Powers of entry and inspection relating to records of education providers][337]
+[276][337][][337][Powers of entry and inspection relating to records of accommodation providers][337]
 
-[Power to require production of documents, etc][338]
+[277][338][][338][Powers of entry and inspection relating to records of employers][338]
 
-[279][339][][339][Powers of immigration officer to require information and documents where offence suspected][339]
+[278][339][][339][Powers of entry and inspection relating to records of education providers][339]
 
-[280][340][][340][Power of immigration officer to request information and documents where liability for deportation or turnaround suspected][340]
+[Power to require production of documents, etc][340]
 
-[281][341][][341][Powers on deportation or turnaround][341]
+[279][341][][341][Powers of immigration officer to require information and documents where offence suspected][341]
 
-[Powers at border][342]
+[280][342][][342][Power of immigration officer to request information and documents where liability for deportation or turnaround suspected][342]
 
-[282][343][][343][Immigration officer's powers to enter immigration control area][343]
+[281][343][][343][Powers on deportation or turnaround][343]
 
-[283][344][][344][Powers at border][344]
+[Powers at border][344]
 
-[284][345][][345][Power of entry and search of craft][345]
+[282][345][][345][Immigration officer's powers to enter immigration control area][345]
 
-[285][346][][346][Power of entry and search at border place][346]
+[283][346][][346][Powers at border][346]
 
-[Powers relating to deportation and turnaround][347]
+[284][347][][347][Power of entry and search of craft][347]
 
-[286][348][][348][Powers of entry and search relating to deportation][348]
+[285][348][][348][Power of entry and search at border place][348]
 
-[287][349][][349][Special powers pending deportation or turnaround][349]
+[Powers relating to deportation and turnaround][349]
 
-[288][350][][350][Immigration officer may require biometric information to determine compliance with Act][350]
+[286][350][][350][Powers of entry and search relating to deportation][350]
 
-[289][351][][351][Application for order authorising collection of biometric information][351]
+[287][351][][351][Special powers pending deportation or turnaround][351]
 
-[290][352][][352][Judge may authorise biometric information to be collected][352]
+[288][352][][352][Immigration officer may require biometric information to determine compliance with Act][352]
 
-[291][353][][353][Further applications for compulsion order][353]
+[289][353][][353][Application for order authorising collection of biometric information][353]
 
-[Powers generally][354]
+[290][354][][354][Judge may authorise biometric information to be collected][354]
 
-[292][355][][355][Immigration officer may have assistance][355]
+[291][355][][355][Further applications for compulsion order][355]
 
-[293][356][][356][Police to have powers of immigration officers][356]
+[Powers generally][356]
 
-[293A][357][][357][Immigration officer may apply for search warrant][357]
+[292][357][][357][Immigration officer may have assistance][357]
 
-[Disclosure of information to or by other agencies, bodies, or persons][358]
+[293][358][][358][Police to have powers of immigration officers][358]
 
-[294][359][][359][Information matching to identify immigration status of person sentenced to imprisonment or community-based sentence][359]
+[293A][359][][359][Immigration officer may apply for search warrant][359]
 
-[295][360][][360][Information matching to locate person in serious default of payment of fine][360]
+[Disclosure of information to or by other agencies, bodies, or persons][360]
 
-[296][361][][361][No Crown liability to third parties for fines enforcement action][361]
+[294][361][][361][Information matching to identify immigration status of person sentenced to imprisonment or community-based sentence][361]
 
-[297][362][][362][Chief executive may supply information concerning specified fines defaulters to commercial carriers][362]
+[295][362][][362][Information matching to locate person in serious default of payment of fine][362]
 
-[298][363][][363][Information matching to verify social security benefit matters][363]
+[296][363][][363][No Crown liability to third parties for fines enforcement action][363]
 
-[299][364][][364][Information matching to recover costs of visa holder's social security benefit from sponsor][364]
+[297][364][][364][Chief executive may supply information concerning specified fines defaulters to commercial carriers][364]
 
-[300][365][][365][Information matching to determine eligibility or liability to pay for publicly funded health and disability support services][365]
+[298][365][][365][Information matching to verify social security benefit matters][365]
 
-[301][366][][366][Disclosure of immigration information to verify eligibility for publicly funded services][366]
+[299][366][][366][Information matching to recover costs of visa holder's social security benefit from sponsor][366]
 
-[302][367][][367][Disclosure of information to enable Department to check identity, character, and status][367]
+[300][367][][367][Information matching to determine eligibility or liability to pay for publicly funded health and disability support services][367]
 
-[303][368][][368][Disclosure of information to enable specified agencies to check identity and character][368]
+[301][368][][368][Disclosure of immigration information to verify eligibility for publicly funded services][368]
 
-[304][369][][369][Disclosure of information to employers][369]
+[302][369][][369][Disclosure of information to enable Department to check identity, character, and status][369]
 
-[305][370][][370][Disclosure of information overseas][370]
+[303][370][][370][Disclosure of information to enable specified agencies to check identity and character][370]
 
-[306][371][][371][Information that may be disclosed under section 305][371]
+[304][371][][371][Disclosure of information to employers][371]
 
-[Part 9][372]  
-[Detention and monitoring][372]
+[305][372][][372][Disclosure of information overseas][372]
 
-[307][373][][373][Purpose of Part][373]
+[306][373][][373][Information that may be disclosed under section 305][373]
 
-[308][374][][374][This Part code for detention and monitoring of person if detention and monitoring under this Act][374]
+[Part 9][374]  
+[Detention and monitoring][374]
 
-[Arrest and detention][375]
+[307][375][][375][Purpose of Part][375]
 
-[309][376][][376][Persons liable to arrest and detention][376]
+[308][376][][376][This Part code for detention and monitoring of person if detention and monitoring under this Act][376]
 
-[310][377][][377][Purpose for which arrest and detention powers may be exercised][377]
+[Arrest and detention][377]
 
-[311][378][][378][Implications of liability to arrest and detention][378]
+[309][378][][378][Persons liable to arrest and detention][378]
 
-[312][379][][379][Limited power of detention for up to 4 hours][379]
+[310][379][][379][Purpose for which arrest and detention powers may be exercised][379]
 
-[313][380][][380][Initial period of detention for up to 96 hours without warrant][380]
+[311][380][][380][Implications of liability to arrest and detention][380]
 
-[314][381][][381][Persons arrested and detained pending making of deportation order][381]
+[312][381][][381][Limited power of detention for up to 4 hours][381]
 
-[315][382][][382][Person may instead agree to residence and reporting requirements][382]
+[313][382][][382][Initial period of detention for up to 96 hours without warrant][382]
 
-[Warrants of commitment][383]
+[314][383][][383][Persons arrested and detained pending making of deportation order][383]
 
-[316][384][][384][Application for warrant of commitment][384]
+[315][384][][384][Person may instead agree to residence and reporting requirements][384]
 
-[317][385][][385][Decision on application for warrant of commitment][385]
+[Warrants of commitment][385]
 
-[318][386][][386][Decision on application for warrant if threat or risk to security][386]
+[316][386][][386][Application for warrant of commitment][386]
 
-[319][387][][387][Warrant of commitment][387]
+[317][387][][387][Decision on application for warrant of commitment][387]
 
-[320][388][][388][Court may instead release person on conditions][388]
+[317A][388][][388][Application for mass arrival warrant][388]
 
-[321][389][][389][Special conditions where threat or risk to security][389]
+[317B][389][][389][Decision on application for mass arrival warrant][389]
 
-[322][390][][390][Persons detained under warrant of commitment or released on conditions pending making of deportation order][390]
+[317C][390][][390][Variation of mass arrival warrant][390]
 
-[323][391][][391][Decisions on warrants of commitment where detention beyond 6 months][391]
+[317D][391][][391][District Court may impose reporting requirements][391]
 
-[324][392][][392][Review of warrant of commitment or release on conditions][392]
+[317E][392][][392][Application for further warrant of commitment in respect of mass arrival group][392]
 
-[Applications under this Part involving classified information][393]
+[318][393][][393][Decision on application for warrant if threat or risk to security][393]
 
-[325][394][][394][Consideration by High Court of application involving classified information][394]
+[319][394][][394][Warrant of commitment][394]
 
-[326][395][][395][Process for High Court to consider application][395]
+[320][395][][395][Court may instead release person on conditions][395]
 
-[Duties of detaining officers][396]
+[321][396][][396][Special conditions where threat or risk to security][396]
 
-[327][397][][397][Duties of detaining officers][397]
+[322][397][][397][Persons detained under warrant of commitment or released on conditions pending making of deportation order][397]
 
-[328][398][][398][Additional powers relating to detention by immigration officer][398]
+[323][398][][398][Decisions on warrants of commitment where detention beyond 6 months][398]
 
-[329][399][][399][Arresting or detaining officer may seek assistance][399]
+[324][399][][399][Review of warrant of commitment or release on conditions][399]
 
-[Form of custody][400]
+[324A][400][][400][Review of mass arrival warrant][400]
 
-[330][401][][401][Approval of premises for purpose of immigration detention][401]
+[Applications under this Part involving classified information][401]
 
-[331][402][][402][Form of custody of persons detained without warrant overnight][402]
+[325][402][][402][Consideration by High Court of application involving classified information][402]
 
-[332][403][][403][Form of custody of persons detained under warrant of commitment][403]
+[326][403][][403][Process for High Court to consider application][403]
 
-[333][404][][404][Special provisions relating to custody][404]
+[Duties of detaining officers][404]
 
-[334][405][][405][Additional provisions relating to custody in approved premises][405]
+[327][405][][405][Duties of detaining officers][405]
 
-[Delivery of person for purpose of deportation][406]
+[328][406][][406][Additional powers relating to detention by immigration officer][406]
 
-[335][407][][407][Delivery of person into custody of immigration officer or police for purposes of deportation][407]
+[329][407][][407][Arresting or detaining officer may seek assistance][407]
 
-[336][408][][408][Person being deported must be returned to custody or conditions reimposed if craft not available as planned][408]
+[Form of custody][408]
 
-[Special provision where epidemic management notice in force][409]
+[330][409][][409][Approval of premises for purpose of immigration detention][409]
 
-[337][410][][410][During epidemic District Court may deal with certain matters on basis of documents only][410]
+[331][410][][410][Form of custody of persons detained without warrant overnight][410]
 
-[338][411][][411][Modification during epidemic of requirements to bring people before District Court Judge][411]
+[332][411][][411][Form of custody of persons detained under warrant of commitment][411]
 
-[339][412][][412][During epidemic certain warrants and extensions to have effect for 28 days][412]
+[333][412][][412][Special provisions relating to custody][412]
 
-[340][413][][413][Application of section 320 during epidemic][413]
+[334][413][][413][Additional provisions relating to custody in approved premises][413]
 
-[341][414][][414][Calculation of consecutive period of detention for purposes of section 323][414]
+[Delivery of person for purpose of deportation][414]
 
-[Part 10][415]  
-[Offences, penalties, and proceedings][415]
+[335][415][][415][Delivery of person into custody of immigration officer or police for purposes of deportation][415]
 
-[Offences][416]
+[336][416][][416][Person being deported must be returned to custody or conditions reimposed if craft not available as planned][416]
 
-[342][417][][417][Provision of false or misleading information][417]
+[Special provision where epidemic management notice in force][417]
 
-[343][418][][418][Aiding and abetting][418]
+[337][418][][418][During epidemic District Court may deal with certain matters on basis of documents only][418]
 
-[344][419][][419][Obstruction or failing to meet requirements][419]
+[338][419][][419][Modification during epidemic of requirements to bring people before District Court Judge][419]
 
-[345][420][][420][Improper dealings with immigration or identity documents][420]
+[339][420][][420][During epidemic certain warrants and extensions to have effect for 28 days][420]
 
-[346][421][][421][Impersonation][421]
+[340][421][][421][Application of section 320 during epidemic][421]
 
-[347][422][][422][Publishing false or misleading information][422]
+[341][422][][422][Calculation of consecutive period of detention for purposes of section 323][422]
 
-[348][423][][423][Alteration of forms][423]
+[Part 10][423]  
+[Offences, penalties, and proceedings][423]
 
-[349][424][][424][Offences relating to carriers, and persons in charge, of craft][424]
+[Offences][424]
 
-[350][425][][425][Offences by employers][425]
+[342][425][][425][Provision of false or misleading information][425]
 
-[351][426][][426][Exploitation of persons not legally entitled to work][426]
+[343][426][][426][Aiding and abetting][426]
 
-[352][427][][427][Offences by education providers][427]
+[344][427][][427][Obstruction or failing to meet requirements][427]
 
-[353][428][][428][Offences in relation to Tribunal][428]
+[345][428][][428][Improper dealings with immigration or identity documents][428]
 
-[354][429][][429][Failure to maintain confidentiality in relation to refugee or protection matters][429]
+[346][429][][429][Impersonation][429]
 
-[Penalties][430]
+[347][430][][430][Publishing false or misleading information][430]
 
-[355][431][][431][Penalties: general][431]
+[348][431][][431][Alteration of forms][431]
 
-[356][432][][432][Penalties: carriers, and persons in charge, of craft][432]
+[349][432][][432][Offences relating to carriers, and persons in charge, of craft][432]
 
-[357][433][][433][Penalties: employers][433]
+[350][433][][433][Offences by employers][433]
 
-[358][434][][434][Penalties: education providers][434]
+[351][434][][434][Exploitation of persons not legally entitled to work][434]
 
-[Infringement offences for carriers, or persons in charge, of craft][435]
+[352][435][][435][Offences by education providers][435]
 
-[359][436][][436][Infringement offences][436]
+[353][436][][436][Offences in relation to Tribunal][436]
 
-[360][437][][437][Proceedings for infringement offences][437]
+[354][437][][437][Failure to maintain confidentiality in relation to refugee or protection matters][437]
 
-[361][438][][438][Immigration officer may require information][438]
+[Penalties][438]
 
-[362][439][][439][Infringement notices][439]
+[355][439][][439][Penalties: general][439]
 
-[363][440][][440][Reminder notices][440]
+[356][440][][440][Penalties: carriers, and persons in charge, of craft][440]
 
-[364][441][][441][Infringement fees][441]
+[357][441][][441][Penalties: employers][441]
 
-[365][442][][442][Revocation of infringement notices][442]
+[358][442][][442][Penalties: education providers][442]
 
-[Evidence in proceedings][443]
+[Infringement offences for carriers, or persons in charge, of craft][443]
 
-[366][444][][444][Evidence in proceedings: certificates in relation to persons][444]
+[359][444][][444][Infringement offences][444]
 
-[367][445][][445][Evidence in proceedings: certificates as to forms, documents, etc][445]
+[360][445][][445][Proceedings for infringement offences][445]
 
-[368][446][][446][Evidence in respect of matters occurring and documents executed outside New Zealand][446]
+[361][446][][446][Immigration officer may require information][446]
 
-[369][447][][447][Presumption that certificates duly authorised][447]
+[362][447][][447][Infringement notices][447]
 
-[Procedural provisions relating to offences][448]
+[363][448][][448][Reminder notices][448]
 
-[370][449][][449][Procedural provisions relating to offences][449]
+[364][449][][449][Infringement fees][449]
 
-[371][450][][450][Presumption of authority][450]
+[365][450][][450][Revocation of infringement notices][450]
 
-[372][451][][451][Time for laying information][451]
+[Evidence in proceedings][451]
 
-[Part 11][452]  
-[Miscellaneous provisions][452]
+[366][452][][452][Evidence in proceedings: certificates in relation to persons][452]
 
-[Matters relating to immigration status of persons born in New Zealand][453]
+[367][453][][453][Evidence in proceedings: certificates as to forms, documents, etc][453]
 
-[373][454][][454][Immigration status of persons born in New Zealand on or after 1 January 2006][454]
+[368][454][][454][Evidence in respect of matters occurring and documents executed outside New Zealand][454]
 
-[374][455][][455][Immigration status of persons whose status depends on immigration status of parent][455]
+[369][455][][455][Presumption that certificates duly authorised][455]
 
-[Minors][456]
+[Procedural provisions relating to offences][456]
 
-[375][457][][457][Minors to have responsible adult to represent their interests][457]
+[370][457][][457][Procedural provisions relating to offences][457]
 
-[376][458][][458][Role and rights of responsible adult][458]
+[371][458][][458][Presumption of authority][458]
 
-[377][459][][459][Views of minor to be considered][459]
+[372][459][][459][Time for laying information][459]
 
-[Special directions][460]
+[Part 11][460]  
+[Miscellaneous provisions][460]
 
-[378][461][][461][Special directions][461]
+[Matters relating to immigration status of persons born in New Zealand][461]
 
-[379][462][][462][Immigration officer to act in accordance with special direction][462]
+[373][462][][462][Immigration status of persons born in New Zealand on or after 1 January 2006][462]
 
-[Delegation of Minister's powers][463]
+[374][463][][463][Immigration status of persons whose status depends on immigration status of parent][463]
 
-[380][464][][464][Delegation of Minister's powers][464]
+[Minors][464]
 
-[Matters relating to chief executive][465]
+[375][465][][465][Minors to have responsible adult to represent their interests][465]
 
-[381][466][][466][Chief executive may approve forms][466]
+[376][466][][466][Role and rights of responsible adult][466]
 
-[382][467][][467][Chief executive to designate immigration control areas][467]
+[377][467][][467][Views of minor to be considered][467]
 
-[383][468][][468][Chief executive may designate places outside New Zealand where entry permission may be granted][468]
+[Special directions][468]
 
-[Endorsement of New Zealand citizenship in foreign passports][469]
+[378][469][][469][Special directions][469]
 
-[384][470][][470][Endorsement in foreign passport][470]
+[379][470][][470][Immigration officer to act in accordance with special direction][470]
 
-[Responsibilities of certain operators of airports and ports][471]
+[Delegation of Minister's powers][471]
 
-[385][472][][472][Certain operators of airports and ports to provide operating areas, accommodation, facilities, etc][472]
+[380][472][][472][Delegation of Minister's powers][472]
 
-[Notice requirements and addresses for communications][473]
+[Matters relating to chief executive][473]
 
-[386][474][][474][Giving notice, service of notice, etc][474]
+[381][474][][474][Chief executive may approve forms][474]
 
-[387][475][][475][New Zealand address][475]
+[382][475][][475][Chief executive to designate immigration control areas][475]
 
-[Immigration officers and refugee and protection officers][476]
+[383][476][][476][Chief executive may designate places outside New Zealand where entry permission may be granted][476]
 
-[388][477][][477][Designation of immigration officers][477]
+[Endorsement of New Zealand citizenship in foreign passports][477]
 
-[389][478][][478][Immigration officers' functions and powers][478]
+[384][478][][478][Endorsement in foreign passport][478]
 
-[390][479][][479][Designation of refugee and protection officers][479]
+[Responsibilities of certain operators of airports and ports][479]
 
-[391][480][][480][Revocation or lapsing of designations][480]
+[385][480][][480][Certain operators of airports and ports to provide operating areas, accommodation, facilities, etc][480]
 
-[Relationship between this Act and Human Rights Act 1993][481]
+[Notice requirements and addresses for communications][481]
 
-[392][482][][482][Relationship between this Act and Human Rights Act 1993][482]
+[386][482][][482][Giving notice, service of notice, etc][482]
 
-[Fees, bonds, levies, etc][483]
+[387][483][][483][New Zealand address][483]
 
-[393][484][][484][Fees and how they may be prescribed for purposes of section 400][484]
+[Immigration officers and refugee and protection officers][484]
 
-[394][485][][485][Other charges][485]
+[388][485][][485][Designation of immigration officers][485]
 
-[395][486][][486][Exemptions and refunds][486]
+[389][486][][486][Immigration officers' functions and powers][486]
 
-[396][487][][487][Imposition of bonds][487]
+[390][487][][487][Designation of refugee and protection officers][487]
 
-[397][488][][488][Refund or forfeiture of bond][488]
+[391][488][][488][Revocation or lapsing of designations][488]
 
-[398][489][][489][Costs of deportation or repatriation][489]
+[Relationship between this Act and Human Rights Act 1993][489]
 
-[399][490][][490][Migrant levy][490]
+[392][490][][490][Relationship between this Act and Human Rights Act 1993][490]
 
-[Regulations][491]
+[Fees, bonds, levies, etc][491]
 
-[400][492][][492][Regulations generally][492]
+[393][492][][492][Fees and how they may be prescribed for purposes of section 400][492]
 
-[401][493][][493][Regulations relating to visas and expressions of interest][493]
+[394][493][][493][Other charges][493]
 
-[402][494][][494][Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand][494]
+[395][494][][494][Exemptions and refunds][494]
 
-[403][495][][495][Regulations in respect of refugee and protection matters][495]
+[396][495][][495][Imposition of bonds][495]
 
-[Part 12][496]  
-[Repeals, transitional provisions, saving provisions, and related matters][496]
+[397][496][][496][Refund or forfeiture of bond][496]
 
-[Subpart 1][497][---][497][Repeals and related matters][497]
+[398][497][][497][Costs of deportation or repatriation][497]
 
-[404][498][][498][Immigration Act 1987 repealed][498]
+[399][498][][498][Migrant levy][498]
 
-[405][499][][499][Regulations made under Immigration Act 1987 revoked][499]
+[Regulations][499]
 
-[406][500][][500][Consequential amendments and repeals][500]
+[400][500][][500][Regulations generally][500]
 
-[407][501][][501][Immigration Act 1987 continues in relation to certain matters and for certain purposes][501]
+[401][501][][501][Regulations relating to visas and expressions of interest][501]
 
-[408][502][][502][Appeals body members not entitled to compensation][502]
+[402][502][][502][Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand][502]
 
-[Subpart 2][503][---][503][Transitional and savings provisions][503]
+[403][503][][503][Regulations in respect of refugee and protection matters][503]
 
-[Government immigration and residence policy][504]
+[Part 12][504]  
+[Repeals, transitional provisions, saving provisions, and related matters][504]
 
-[409][505][][505][Government immigration and Government residence policy under sections 13A and 13B of former Act to be treated as immigration instructions][505]
+[Subpart 1][505][---][505][Repeals and related matters][505]
 
-[410][506][][506][Government policy on lapsing of applications for visas and permits under former Act to be treated as immigration instructions for applications to which section 412 applies][506]
+[404][506][][506][Immigration Act 1987 repealed][506]
 
-[General instructions of chief executive][507]
+[405][507][][507][Regulations made under Immigration Act 1987 revoked][507]
 
-[411][508][][508][General instructions given under section 13BA of former Act treated as general instructions under section 26(4) of this Act][508]
+[406][508][][508][Consequential amendments and repeals][508]
 
-[Existing applications, expressions of interest, and invitations][509]
+[407][509][][509][Immigration Act 1987 continues in relation to certain matters and for certain purposes][509]
 
-[412][510][][510][Existing applications for visas and permits][510]
+[408][510][][510][Appeals body members not entitled to compensation][510]
 
-[413][511][][511][Expressions of interest in residence under section 13D of former Act][511]
+[Subpart 2][511][---][511][Transitional and savings provisions][511]
 
-[414][512][][512][Invitations to apply for residence under section 13E of former Act][512]
+[Government immigration and residence policy][512]
 
-[Existing visas and permits][513]
+[409][513][][513][Government immigration and Government residence policy under sections 13A and 13B of former Act to be treated as immigration instructions][513]
 
-[415][514][][514][Holder of visa or permit under former Act deemed to be holder of visa and (if applicable) granted entry permission under this Act][514]
+[410][514][][514][Government policy on lapsing of applications for visas and permits under former Act to be treated as immigration instructions for applications to which section 412 applies][514]
 
-[416][515][][515][Returning resident's visa held by New Zealand citizen under former Act indication of entitlement][515]
+[General instructions of chief executive][515]
 
-[417][516][][516][Persons exempt from holding permit under former Act deemed to be holders of temporary visa or resident visa][516]
+[411][516][][516][General instructions given under section 13BA of former Act treated as general instructions under section 26(4) of this Act][516]
 
-[Arrivals and departures][517]
+[Existing applications, expressions of interest, and invitations][517]
 
-[418][518][][518][Responsibilities of carrier, and person in charge, of commercial craft before it departs from another country to travel to New Zealand][518]
+[412][518][][518][Existing applications for visas and permits][518]
 
-[419][519][][519][Decision by chief executive about person boarding craft for purpose of travelling to New Zealand][519]
+[413][519][][519][Expressions of interest in residence under section 13D of former Act][519]
 
-[420][520][][520][Information requirements for carrier, and person in charge, of commercial craft][520]
+[414][520][][520][Invitations to apply for residence under section 13E of former Act][520]
 
-[421][521][][521][Reporting obligations of carriers, and persons in charge, of craft leaving New Zealand][521]
+[Existing visas and permits][521]
 
-[422][522][][522][Obligations of carriers of craft leaving New Zealand to provide passage][522]
+[415][522][][522][Holder of visa or permit under former Act deemed to be holder of visa and (if applicable) granted entry permission under this Act][522]
 
-[423][523][][523][Responsibilities of carrier, and person in charge, of craft en route to New Zealand][523]
+[416][523][][523][Returning resident's visa held by New Zealand citizen under former Act indication of entitlement][523]
 
-[Refugee and protection status][524]
+[417][524][][524][Persons exempt from holding permit under former Act deemed to be holders of temporary visa or resident visa][524]
 
-[424][525][][525][Person recognised as refugee under former Act treated as recognised as refugee under this Act][525]
+[Arrivals and departures][525]
 
-[425][526][][526][Existing claim for recognition as refugee to be determined under this Act (other than subsequent claims made under former Act not yet accepted for consideration)][526]
+[418][526][][526][Responsibilities of carrier, and person in charge, of commercial craft before it departs from another country to travel to New Zealand][526]
 
-[426][527][][527][Existing subsequent claim for recognition as refugee made under former Act not yet accepted for consideration][527]
+[419][527][][527][Decision by chief executive about person boarding craft for purpose of travelling to New Zealand][527]
 
-[427][528][][528][Acts or things done by refugee status officer for purposes of claim (including subsequent claim) under former Act not required to be repeated by refugee and protection officer][528]
+[420][528][][528][Information requirements for carrier, and person in charge, of commercial craft][528]
 
-[428][529][][529][Certain persons who under section 129L of former Act cease to be recognised as refugee liable for deportation under this Act][529]
+[421][529][][529][Reporting obligations of carriers, and persons in charge, of craft leaving New Zealand][529]
 
-[429][530][][530][Persons subject to section 129U of former Act][530]
+[422][530][][530][Obligations of carriers of craft leaving New Zealand to provide passage][530]
 
-[Turnaround, revocation of permits, removal, deportation, and monitoring][531]
+[423][531][][531][Responsibilities of carrier, and person in charge, of craft en route to New Zealand][531]
 
-[430][532][][532][Person subject to section 128 or 128B of former Act][532]
+[Refugee and protection status][532]
 
-[431][533][][533][Deportation liability of residence class visa holder convicted of criminal offence][533]
+[424][533][][533][Person recognised as refugee under former Act treated as recognised as refugee under this Act][533]
 
-[432][534][][534][Revocation of permits, removal orders, and deportation orders][534]
+[425][534][][534][Existing claim for recognition as refugee to be determined under this Act (other than subsequent claims made under former Act not yet accepted for consideration)][534]
 
-[433][535][][535][Permit granted prior to commencement of section 404 as result of administrative error][535]
+[426][535][][535][Existing subsequent claim for recognition as refugee made under former Act not yet accepted for consideration][535]
 
-[434][536][][536][Liability for deportation in respect of visa deemed to be held under section 415 or 417 of this Act][536]
+[427][536][][536][Acts or things done by refugee status officer for purposes of claim (including subsequent claim) under former Act not required to be repeated by refugee and protection officer][536]
 
-[435][537][][537][Person released on conditions under former Act][537]
+[428][537][][537][Certain persons who under section 129L of former Act cease to be recognised as refugee liable for deportation under this Act][537]
 
-[436][538][][538][Person subject to residence and reporting requirements under former Act][538]
+[429][538][][538][Persons subject to section 129U of former Act][538]
 
-[437][539][][539][No deportation liability if deportation prohibited under former Act][539]
+[Turnaround, revocation of permits, removal, deportation, and monitoring][539]
 
-[Persons subject to Part 4A of former Act][540]
+[430][540][][540][Person subject to section 128 or 128B of former Act][540]
 
-[438][541][][541][Person subject to Part 4A of former Act][541]
+[431][541][][541][Deportation liability of residence class visa holder convicted of criminal offence][541]
 
-[Detention and monitoring][542]
+[432][542][][542][Revocation of permits, removal orders, and deportation orders][542]
 
-[439][543][][543][Certain persons deemed liable for arrest and detention under Part 9][543]
+[433][543][][543][Permit granted prior to commencement of section 404 as result of administrative error][543]
 
-[440][544][][544][Detention of person liable for turnaround][544]
+[434][544][][544][Liability for deportation in respect of visa deemed to be held under section 415 or 417 of this Act][544]
 
-[441][545][][545][Detention of person beyond 6 months][545]
+[435][545][][545][Person released on conditions under former Act][545]
 
-[442][546][][546][Detention under former Act without warrant][546]
+[436][546][][546][Person subject to residence and reporting requirements under former Act][546]
 
-[443][547][][547][Detention under former Act with warrant][547]
+[437][547][][547][No deportation liability if deportation prohibited under former Act][547]
 
-[Reconsiderations][548]
+[Persons subject to Part 4A of former Act][548]
 
-[444][549][][549][Reconsiderations not determined before former Act repealed][549]
+[438][549][][549][Person subject to Part 4A of former Act][549]
 
-[445][550][][550][Persons eligible for reconsideration before former Act repealed][550]
+[Detention and monitoring][550]
 
-[Appeals and other matters in relation to appellate bodies][551]
+[439][551][][551][Certain persons deemed liable for arrest and detention under Part 9][551]
 
-[446][552][][552][Appeals not determined by appeals body (other than Refugee Status Appeals Authority) before former Act repealed][552]
+[440][552][][552][Detention of person liable for turnaround][552]
 
-[447][553][][553][Persons eligible to appeal to appeals body (other than Refugee Status Appeals Authority) before former Act repealed][553]
+[441][553][][553][Detention of person beyond 6 months][553]
 
-[448][554][][554][Appeals and matters not determined by Refugee Status Appeals Authority before former Act repealed][554]
+[442][554][][554][Detention under former Act without warrant][554]
 
-[449][555][][555][Persons eligible to appeal to Refugee Status Appeals Authority before former Act repealed][555]
+[443][555][][555][Detention under former Act with warrant][555]
 
-[450][556][][556][Appeals not determined by court before former Act repealed][556]
+[Reconsiderations][556]
 
-[451][557][][557][Persons eligible to appeal to court before former Act repealed][557]
+[444][557][][557][Reconsiderations not determined before former Act repealed][557]
 
-[452][558][][558][Appeals against, or review proceedings in respect of, Tribunal decisions under this subpart to be made under Part 7][558]
+[445][558][][558][Persons eligible for reconsideration before former Act repealed][558]
 
-[453][559][][559][No new appeal rights created][559]
+[Appeals and other matters in relation to appellate bodies][559]
 
-[Disclosure of immigration information to other agencies, bodies, or persons][560]
+[446][560][][560][Appeals not determined by appeals body (other than Refugee Status Appeals Authority) before former Act repealed][560]
 
-[454][561][][561][Arrangements under former Act for disclosure of immigration information][561]
+[447][561][][561][Persons eligible to appeal to appeals body (other than Refugee Status Appeals Authority) before former Act repealed][561]
 
-[Offences, evidence, and classified information][562]
+[448][562][][562][Appeals and matters not determined by Refugee Status Appeals Authority before former Act repealed][562]
 
-[455][563][][563][Offences][563]
+[449][563][][563][Persons eligible to appeal to Refugee Status Appeals Authority before former Act repealed][563]
 
-[456][564][][564][Offences by employers][564]
+[450][564][][564][Appeals not determined by court before former Act repealed][564]
 
-[457][565][][565][Evidence in proceedings][565]
+[451][565][][565][Persons eligible to appeal to court before former Act repealed][565]
 
-[458][566][][566][Classified information][566]
+[452][566][][566][Appeals against, or review proceedings in respect of, Tribunal decisions under this subpart to be made under Part 7][566]
 
-[Miscellaneous provisions][567]
+[453][567][][567][No new appeal rights created][567]
 
-[459][568][][568][Children to have responsible adult to represent their interests][568]
+[Disclosure of immigration information to other agencies, bodies, or persons][568]
 
-[460][569][][569][Special directions][569]
+[454][569][][569][Arrangements under former Act for disclosure of immigration information][569]
 
-[461][570][][570][Delegation of powers of Minister][570]
+[Offences, evidence, and classified information][570]
 
-[462][571][][571][Immigration officers][571]
+[455][571][][571][Offences][571]
 
-[463][572][][572][Immigration officers who may make and cancel removal orders under former Act][572]
+[456][572][][572][Offences by employers][572]
 
-[464][573][][573][Acts or things done by immigration officer under former Act not required to be repeated][573]
+[457][573][][573][Evidence in proceedings][573]
 
-[465][574][][574][Exercise of certain powers by customs officers][574]
+[458][574][][574][Classified information][574]
 
-[466][575][][575][Exercise of certain powers by Police][575]
+[Miscellaneous provisions][575]
 
-[467][576][][576][Refugee status officers][576]
+[459][576][][576][Children to have responsible adult to represent their interests][576]
 
-[468][577][][577][Forms][577]
+[460][577][][577][Special directions][577]
 
-[469][578][][578][Bonds imposed under former Act][578]
+[461][578][][578][Delegation of powers of Minister][578]
 
-[470][579][][579][Sponsorship under former Act][579]
+[462][579][][579][Immigration officers][579]
 
-[471][580][][580][Files of appeals bodies][580]
+[463][580][][580][Immigration officers who may make and cancel removal orders under former Act][580]
 
-[472][581][][581][Transitional regulations][581]
+[464][581][][581][Acts or things done by immigration officer under former Act not required to be repeated][581]
 
-[473][582][][582][Transitional immigration instructions][582]
+[465][582][][582][Exercise of certain powers by customs officers][582]
 
-[Exercise of certain powers and functions before commencement of certain provisions of this Act][583]
+[466][583][][583][Exercise of certain powers by Police][583]
 
-[474][584][][584][Exercise of certain powers and functions before commencement of certain provisions of this Act][584]
+[467][584][][584][Refugee status officers][584]
 
-[Part 13][585]  
-[Amendments to Immigration Act 1987][585]
+[468][585][][585][Forms][585]
 
-[475][586][][586][Principal Act amended][586]
+[469][586][][586][Bonds imposed under former Act][586]
 
-[476][587][][587][Cancellation of removal order][587]
+[470][587][][587][Sponsorship under former Act][587]
 
-[477][588][][588][New section 141ABA inserted][588]
+[471][588][][588][Files of appeals bodies][588]
 
-[141ABA][589][][589][Disclosure of information to employers][589]
+[472][589][][589][Transitional regulations][589]
 
-[478][590][][590][Interpretation][590]
+[473][590][][590][Transitional immigration instructions][590]
 
-[Schedule 1][591]  
-[Convention Relating to the Status of Refugees][591]
+[Exercise of certain powers and functions before commencement of certain provisions of this Act][591]
 
-[Schedule 2][592]  
-[Provisions relating to Tribunal][592]
+[474][592][][592][Exercise of certain powers and functions before commencement of certain provisions of this Act][592]
 
-[Schedule 3][593]  
-[Enactments amended][593]
+[Part 13][593]  
+[Amendments to Immigration Act 1987][593]
 
-[Schedule 4][594]  
-[Regulations, rules, and orders amended][594]
+[475][594][][594][Principal Act amended][594]
 
-[Schedule 5][595]  
-[Visas corresponding to visas and permits held under former Act][595]
+[476][595][][595][Cancellation of removal order][595]
+
+[477][596][][596][New section 141ABA inserted][596]
+
+[141ABA][597][][597][Disclosure of information to employers][597]
+
+[478][598][][598][Interpretation][598]
+
+[Schedule 1][599]  
+[Convention Relating to the Status of Refugees][599]
+
+[Schedule 2][600]  
+[Provisions relating to Tribunal][600]
+
+[Schedule 3][601]  
+[Enactments amended][601]
+
+[Schedule 4][602]  
+[Regulations, rules, and orders amended][602]
+
+[Schedule 5][603]  
+[Visas corresponding to visas and permits held under former Act][603]
 
 ---
 
@@ -1241,27 +1257,27 @@ This Act is administered by the Ministry of Business, Innovation and Employment.
     
 *   (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in subsections (2) to (5).
     
-    (2) [Sections 30][39], [31][40], [60][74], [100][125], [104][131], [111][139], [120][150], [149(1)(e)][185], [278][337], [283 to 291][344], [312][379], and [400(l)][492] come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
+    (2) [Sections 30][40], [31][41], [60][75], [100][126], [104][132], [111][140], [120][151], [149(1)(e)][187], [278][339], [283 to 291][346], [312][381], and [400(l)][500] come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
     
-    (3) [Section 477][588] comes into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the second day after the date on which this Act receives the Royal assent).
+    (3) [Section 477][596] comes into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the second day after the date on which this Act receives the Royal assent).
     
-    (4) [Sections 475][586], [476][587], and [478][590] come into force on the day after the date on which this Act receives the Royal assent.
+    (4) [Sections 475][594], [476][595], and [478][598] come into force on the day after the date on which this Act receives the Royal assent.
     
-    (5) [Section 474][584] comes into force on the day after the date on which the [Immigration Act 2009 Amendment Act 2010][596] receives the Royal assent.
+    (5) [Section 474][592] comes into force on the day after the date on which the [Immigration Act 2009 Amendment Act 2010][604] receives the Royal assent.
     
-    Section 2(1): remaining sections not in force immediately before 2 am on 29 November 2010 (except sections 30, 31, 60, 100, 104, 111, 120, 149(1)(e), 278, 283--291, 312, and 400(l)) brought into force, at 2 am on 29 November 2010, by [clause 2(2)][597] of the Immigration Act 2009 Commencement Order 2010 (SR 2010/185).
+    Section 2(1): remaining sections not in force immediately before 2 am on 29 November 2010 (except sections 30, 31, 60, 100, 104, 111, 120, 149(1)(e), 278, 283--291, 312, and 400(l)) brought into force, at 2 am on 29 November 2010, by [clause 2(2)][605] of the Immigration Act 2009 Commencement Order 2010 (SR 2010/185).
     
-    Section 2(1): amended, on 9 April 2010, by [section 4(1)][598] of the Immigration Act 2009 Amendment Act 2010 (2010 No 10).
+    Section 2(1): amended, on 9 April 2010, by [section 4(1)][606] of the Immigration Act 2009 Amendment Act 2010 (2010 No 10).
     
-    Section 2(2): sections 30, 31, and 149(1)(e) brought into force, on 20 December 2010, by [clause 2][599] of the Immigration Act 2009 Commencement Order (No 2) 2010 (SR 2010/410).
+    Section 2(2): sections 30, 31, and 149(1)(e) brought into force, on 20 December 2010, by [clause 2][607] of the Immigration Act 2009 Commencement Order (No 2) 2010 (SR 2010/410).
     
-    Section 2(2): sections 60, 111, 120, and 288--291 brought into force, on 20 October 2011, by [clause 2][600] of the Immigration Act 2009 Commencement Order 2011 (SR 2011/316).
+    Section 2(2): sections 60, 111, 120, and 288--291 brought into force, on 20 October 2011, by [clause 2][608] of the Immigration Act 2009 Commencement Order 2011 (SR 2011/316).
     
-    Section 2(2): sections 278, 283--287, and 312 brought into force, on 3 September 2012, by the [Immigration Act 2009 Commencement Order 2012][601] (SR 2012/197).
+    Section 2(2): sections 278, 283--287, and 312 brought into force, on 3 September 2012, by the [Immigration Act 2009 Commencement Order 2012][609] (SR 2012/197).
     
-    Section 2(3): section 477 brought into force, on 2 August 2010, by [clause 2(1)][597] of the Immigration Act 2009 Commencement Order 2010 (SR 2010/185).
+    Section 2(3): section 477 brought into force, on 2 August 2010, by [clause 2(1)][605] of the Immigration Act 2009 Commencement Order 2010 (SR 2010/185).
     
-    Section 2(5): added, on 9 April 2010, by [section 4(2)][598] of the Immigration Act 2009 Amendment Act 2010 (2010 No 10).
+    Section 2(5): added, on 9 April 2010, by [section 4(2)][606] of the Immigration Act 2009 Amendment Act 2010 (2010 No 10).
 
 ## Part 1  
 Preliminary provisions
@@ -1310,15 +1326,15 @@ Preliminary provisions
     
 *   In this Act, unless the context otherwise requires,---
     
-    _absolute discretion_ has the meaning given to it in [section 11][12]
+    _absolute discretion_ has the meaning given to it in [section 11][13]
     
     _administrative error_, in relation to the granting of a visa or entry permission, has the meaning given to it in [section 8][9]
     
-    _airport_ has the meaning given to it in [section 2][602] of the Airport Authorities Act 1966
+    _airport_ has the meaning given to it in [section 2][610] of the Airport Authorities Act 1966
     
     _appeal on humanitarian grounds_ means an appeal to the Tribunal against liability for deportation on the grounds set out in section 207
     
-    _appeal on the facts_ means an appeal against liability for deportation on a ground set out in [section 202][250]
+    _appeal on the facts_ means an appeal against liability for deportation on a ground set out in [section 202][252]
     
     _appeals body_ means 1 or more of the following bodies established or continued under the former Act, as the case may be:
         
@@ -1332,11 +1348,11 @@ Preliminary provisions
     
     _approved system_ means a system, including an electronic system, approved by the chief executive for the purpose of---
         
-    *   (a) providing information to the chief executive under [section 96][121]; or
+    *   (a) providing information to the chief executive under [section 96][122]; or
     
-    *   (b) notifying a person to whom [section 96][121] applies of a decision of the chief executive under [section 97][122]
+    *   (b) notifying a person to whom [section 96][122] applies of a decision of the chief executive under [section 97][123]
     
-    _arrival hall_ means a place licensed under [section 12][603] of the Customs and Excise Act 1996 for the processing of persons arriving in New Zealand
+    _arrival hall_ means a place licensed under [section 12][611] of the Customs and Excise Act 1996 for the processing of persons arriving in New Zealand
     
     _biometric information_, in relation to a person,---
         
@@ -1352,7 +1368,7 @@ Preliminary provisions
     
     *   (b) includes a record, whether physical or electronic, of any of the above things
     
-    _border requirement_ means a requirement, responsibility, or obligation under any of [sections 103 to 106][130], [119][149], and [120][150]
+    _border requirement_ means a requirement, responsibility, or obligation under any of [sections 103 to 106][131], [119][150], and [120][151]
     
     _carrier_, in relation to a craft,---
         
@@ -1374,7 +1390,7 @@ Preliminary provisions
     
     *   (b) includes---
             
-        *   (i) any emergency travel document or refugee travel document issued under the [Passports Act 1992][604]; and
+        *   (i) any emergency travel document or refugee travel document issued under the [Passports Act 1992][612]; and
         
         *   (ii) any travel document issued by any international organisation for the time being specified by the Minister for the purpose of this definition
         
@@ -1398,17 +1414,17 @@ Preliminary provisions
         
     *   (a) means a person who has made a claim; but
     
-    *   (b) does not include a person whose claim has been finally determined (within the meaning of [section 128][161])
+    *   (b) does not include a person whose claim has been finally determined (within the meaning of [section 128][162])
     
     _classified information_ has the meaning given to it by [section 7(1)][8]
     
     _commercial craft_ means a craft that travels for a commercial purpose or as part of a commercial operation
     
-    _compulsion order_ means an order made by a District Court Judge under [section 290(1)][352] requiring a person to allow the collection of specified biometric information from him or her
+    _compulsion order_ means an order made by a District Court Judge under [section 290(1)][354] requiring a person to allow the collection of specified biometric information from him or her
     
     _compulsory education_ means education that is---
         
-    *   (a) provided at any primary, intermediate, composite, secondary, or special school (within the meaning of the [Education Act 1989][605]), whether state, private, or integrated; and
+    *   (a) provided at any primary, intermediate, composite, secondary, or special school (within the meaning of the [Education Act 1989][613]), whether state, private, or integrated, or at a partnership school kura hourua (within the meaning of [section 2(1)][614] of that Act); and
     
     *   (b) provided to a person at any time during the period beginning on the person's fifth birthday and ending on 1 January following the person's 19th birthday
     
@@ -1416,13 +1432,13 @@ Preliminary provisions
     
     _Convention Against Torture_ means the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment done at New York on 10 December 1984
     
-    _counsel assisting the court_ means a person appointed as counsel assisting the court under [section 269][325]
+    _counsel assisting the court_ means a person appointed as counsel assisting the court under [section 269][327]
     
     _course of study_---
         
     *   (a) means---
             
-        *   (i) any course of tuition or instruction for people entitled to free enrolment and education under [section 3][606] of the Education Act 1989, conducted by any primary, intermediate, composite, secondary, or special school, whether state, private, or integrated; and
+        *   (i) any course of tuition or instruction for people entitled to free enrolment and education under [section 3][615] of the Education Act 1989, conducted by any primary, intermediate, composite, secondary, or special school, whether state, private, or integrated, or by a partnership school kura hourua (within the meaning of [section 2(1)][614] of that Act); and
         
         *   (ii) any other course of tuition or instruction conducted by any school, college, institute, university, or other body or person, and leading to any educational or vocational qualification the attainment of which by any person would be likely to enhance the employment prospects of that person, either generally or in respect of any particular profession or occupation; and
         
@@ -1442,23 +1458,23 @@ Preliminary provisions
     
     *   (b) includes the person in charge of the craft
     
-    _customs officer_ has the meaning given to it by [section 2(1)][607] of the Customs and Excise Act 1996
+    _customs officer_ has the meaning given to it by [section 2(1)][616] of the Customs and Excise Act 1996
     
     _Department_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
-    _departure hall_ means a place licensed under [section 12][603] of the Customs and Excise Act 1996 for the processing of persons departing from New Zealand
+    _departure hall_ means a place licensed under [section 12][611] of the Customs and Excise Act 1996 for the processing of persons departing from New Zealand
     
     _dependent child_, in relation to any person, means a child under 18 years of age who is not married or in a civil union and who is dependent on that person, whether or not the child is a child of that person
     
-    _deportation liability notice_ means a notice that states the matters referred to in [section 171][210]
+    _deportation liability notice_ means a notice that states the matters referred to in [section 171][212]
     
     _deportation order_---
         
-    *   (a) means an order containing the information described in [section 176][217] that, when served on a person in accordance with [section 175][216], authorises the person's deportation to be executed; and
+    *   (a) means an order containing the information described in [section 176][219] that, when served on a person in accordance with [section 175][218], authorises the person's deportation to be executed; and
     
-    *   (b) includes an Order in Council made under [section 163][201]
+    *   (b) includes an Order in Council made under [section 163][203]
     
-    _designated agency_ means the agency designated by the Prime Minister under [section 264(1)][320] for the purpose of recognising lawyers as special advocates
+    _designated agency_ means the agency designated by the Prime Minister under [section 264(1)][322] for the purpose of recognising lawyers as special advocates
     
     _disembarkation_ means the process of physically leaving a craft, whether onto land or otherwise
     
@@ -1466,7 +1482,7 @@ Preliminary provisions
         
     *   (a) in relation to any institution controlled by a board of trustees constituted under Part 9 of the Education Act 1989, means that board:
     
-    *   (b) in relation to any institution controlled by the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of the [Education Act 1989][605], means that chief executive:
+    *   (b) in relation to any institution controlled by the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of the [Education Act 1989][613], means that chief executive:
     
     *   (c) in relation to any university, means the appropriate university council:
     
@@ -1482,23 +1498,23 @@ Preliminary provisions
     
     *   (b) a New Zealand citizen who is a national of 1 or more other countries and who wishes to enter New Zealand other than as a New Zealand citizen
     
-    _epidemic management notice_ means a notice under [section 8(1)][608] of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
+    _epidemic management notice_ means a notice under [section 8(1)][617] of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
     
-    _excluded person_ means a person to whom [section 15][19] or [16][609] applies
+    _excluded person_ means a person to whom [section 15][20] or [16][618] applies
     
-    _exclusive economic zone of New Zealand_ has the same meaning as in [section 9][610] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+    _exclusive economic zone of New Zealand_ has the same meaning as in [section 9][619] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
     
-    _execute_, in relation to a deportation order, has the meaning described in [section 178(2)][219]
+    _execute_, in relation to a deportation order, has the meaning described in [section 178(2)][221]
     
-    _former Act_ means the [Immigration Act 1987][611]
+    _former Act_ means the [Immigration Act 1987][620]
     
     _government agency_---
         
     *   (a) means---
             
-        *   (i) a government department named in [Schedule 1][612] of the State Sector Act 1988; or
+        *   (i) a government department named in [Schedule 1][621] of the State Sector Act 1988; or
         
-        *   (ii) a Crown entity (within the meaning of [section 7(1)][613] of the Crown Entities Act 2004); and
+        *   (ii) a Crown entity (within the meaning of [section 7(1)][622] of the Crown Entities Act 2004); and
         
         
     
@@ -1512,21 +1528,21 @@ Preliminary provisions
     
     *   (b) does not include a person whose visa has expired or been cancelled
     
-    _immigration control area_ means an area or place designated as such under [section 382][467]
+    _immigration control area_ means an area or place designated as such under [section 382][475]
     
     _immigration instructions_---
         
-    *   (a) means immigration instructions certified under [section 22][28]; and
+    *   (a) means immigration instructions certified under [section 22][29]; and
     
     *   (b) includes residence instructions, temporary entry instructions, and transit instructions
     
-    _immigration officer_ means an immigration officer designated under [section 388][477], and includes the chief executive
+    _immigration officer_ means an immigration officer designated under [section 388][485], and includes the chief executive
     
     _immigration status_ means the status of a person under this Act, being whether the person---
         
     *   (a) holds a visa and, if so, what class and type of visa the person holds, and any conditions of the visa; or
     
-    *   (b) is--- 
+    *   (b) is---
             
         *   (i) lawfully in New Zealand and, if so, what class and type of visa the person holds, and any conditions of the visa; or
         
@@ -1536,29 +1552,31 @@ Preliminary provisions
     
     _imprisonment_ means any form of detention or custody whereby a person is deprived of liberty for a continuous period, including home detention, detention or custody in a psychiatric institution or hospital, and military custody; but does not include detention or custody under this Act
     
-    _infringement fee_, in relation to an infringement offence, means the fee set in respect of that offence by regulations made under [section 400][492]
+    _infringement fee_, in relation to an infringement offence, means the fee set in respect of that offence by regulations made under [section 400][500]
     
-    _infringement offence_ has the meaning given to it by [section 359][436]
+    _infringement offence_ has the meaning given to it by [section 359][444]
     
-    _invitation to apply_ means an invitation to apply for a visa, as described in [section 94][117]
+    _invitation to apply_ means an invitation to apply for a visa, as described in [section 94][118]
     
-    _leave New Zealand_ means, except in the circumstances specified in [section 121][152], leave New Zealand for a destination in another country
+    _leave New Zealand_ means, except in the circumstances specified in [section 121][153], leave New Zealand for a destination in another country
+    
+    _mass arrival group_ has the meaning given to it by [section 9A][11]
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
     _New Zealand_ means any land territory within the territorial limits of New Zealand; and includes---
         
-    *   (a) the internal waters of New Zealand (as defined in [section 4][614] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977); and
+    *   (a) the internal waters of New Zealand (as defined in [section 4][623] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977); and
     
     *   (b) the Ross Dependency (including any ice shelf); and
     
-    *   (c) for the purposes of [sections 21(a)][26], [22(1)(c)(ii)][28], [73(d)][90], [74(1)(b)(ii)][91], and [77(4)(a)][95], the territorial sea of New Zealand; and
+    *   (c) for the purposes of [sections 21(a)][27], [22(1)(c)(ii)][29], [73(d)][91], [74(1)(b)(ii)][92], and [77(4)(a)][96], the territorial sea of New Zealand; and
     
-    *   (d) for the purposes of [section 283(2)(a)][344], the area of sea adjacent to New Zealand and bounded by the outer limits of the contiguous zone of New Zealand (as defined in [section 4][614] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
+    *   (d) for the purposes of [section 283(2)(a)][346], the area of sea adjacent to New Zealand and bounded by the outer limits of the contiguous zone of New Zealand (as defined in [section 4][623] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
     
-    _New Zealand address_ has the meaning given to it in [section 387][475]
+    _New Zealand address_ has the meaning given to it in [section 387][483]
     
-    _New Zealand citizen_ means a person who has New Zealand citizenship as provided in the [Citizenship Act 1977][615] or the [Citizenship (Western Samoa) Act 1982][616]
+    _New Zealand citizen_ means a person who has New Zealand citizenship as provided in the [Citizenship Act 1977][624] or the [Citizenship (Western Samoa) Act 1982][625]
     
     _onshore_, in relation to an applicant for a visa, means that the applicant is in New Zealand other than in an immigration control area
     
@@ -1574,9 +1592,9 @@ Preliminary provisions
     
     *   (b) in relation to an airport,---
             
-        *   (i) means a local authority for the time being authorised under [section 3][617] of the Airport Authorities Act 1966 to operate or manage the airport; and
+        *   (i) means a local authority for the time being authorised under [section 3][626] of the Airport Authorities Act 1966 to operate or manage the airport; and
         
-        *   (ii) includes any person or association of persons or airport company authorised under [section 3(3)][617] of the Airport Authorities Act 1966 to exercise the powers or functions of a local authority under that section
+        *   (ii) includes any person or association of persons or airport company authorised under [section 3(3)][626] of the Airport Authorities Act 1966 to exercise the powers or functions of a local authority under that section
         
         
     
@@ -1606,11 +1624,11 @@ Preliminary provisions
     
     _proceedings involving classified information_ has the meaning given to it in [section 7(4)][8]
     
-    _protected person_ means a person recognised as a protected person in New Zealand under [section 130][164] or [131][165]
+    _protected person_ means a person recognised as a protected person in New Zealand under [section 130][165] or [131][166]
     
-    _refugee_ means a person recognised as a refugee in New Zealand under [section 126][159] or [129][163]
+    _refugee_ means a person recognised as a refugee in New Zealand under [section 126][160] or [129][164]
     
-    _refugee and protection officer_ means a person designated under [section 390][479] as a refugee and protection officer
+    _refugee and protection officer_ means a person designated under [section 390][487] as a refugee and protection officer
     
     _Refugee Convention_---
         
@@ -1654,17 +1672,17 @@ Preliminary provisions
     
     _residence class visa_ means a permanent resident visa or a resident visa
     
-    _residence instructions_ means immigration instructions certified under [section 22][28] that relate to the grant of residence class visas
+    _residence instructions_ means immigration instructions certified under [section 22][29] that relate to the grant of residence class visas
     
     _resident_ means the holder of a resident visa
     
-    _responsible adult_ means the adult designated or nominated under [section 375][457]
+    _responsible adult_ means the adult designated or nominated under [section 375][465]
     
     _restricted temporary entry instructions_ means temporary entry instructions that require, in relation to the type of visa to which the instructions relate, that any decision made on an application for that type of visa, or on an application for entry permission in relation to that type of visa, must be made in terms of the temporary entry instructions applicable at the time the application for the visa was made, and any discretion exercised must be in terms of those instructions
     
     _review proceedings_ means proceedings---
         
-    *   (a) by way of an application for review under the [Judicature Amendment Act 1972][618]; or
+    *   (a) by way of an application for review under the [Judicature Amendment Act 1972][627]; or
     
     *   (b) by way of an application for certiorari, mandamus, or prohibition; or
     
@@ -1698,17 +1716,17 @@ Preliminary provisions
     
     *   (b) in an international security context, also includes the safety and stability of the international community, through co-operative measures such as international conventions and other arrangements or agreements between countries
     
-    _special adviser_ means a person appointed as a special adviser under [section 270][326]
+    _special adviser_ means a person appointed as a special adviser under [section 270][328]
     
-    _special advocate_ means a lawyer recognised as a special advocate under [section 264][320]
+    _special advocate_ means a lawyer recognised as a special advocate under [section 264][322]
     
-    _special direction_ means a direction given by the Minister in accordance with [section 378][461]
+    _special direction_ means a direction given by the Minister in accordance with [section 378][469]
     
     _stowaway_ means a person who is carried in or on a craft without the consent of the carrier, or the person in charge, of the craft
     
     _study_ means undertake a course of study
     
-    _subsequent claim_ means a claim (of whatever kind) under [Part 5][156] by a person who has previously made a claim of any kind under that Part (or under [Part 6A][619] of the former Act) that has been finally determined (within the meaning of [section 128][161] of this Act or [section 129B][620] of the former Act, as the case may be)
+    _subsequent claim_ means a claim (of whatever kind) under [Part 5][157] by a person who has previously made a claim of any kind under that Part (or under [Part 6A][628] of the former Act) that has been finally determined (within the meaning of [section 128][162] of this Act or [section 129B][629] of the former Act, as the case may be)
     
     _temporary entry class visa_ means a temporary visa, a limited visa, or an interim visa
     
@@ -1718,17 +1736,17 @@ Preliminary provisions
     
     *   (b) includes restricted temporary entry instructions
     
-    _territorial sea of New Zealand_ has the same meaning as in [section 3][621] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+    _territorial sea of New Zealand_ has the same meaning as in [section 3][630] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
     
     _transit instructions_ means immigration instructions that relate to the grant of transit visas
     
-    _transit period_ means the period prescribed for the purposes of [section 88(1)][110]
+    _transit period_ means the period prescribed for the purposes of [section 88(1)][111]
     
     _travelling to New Zealand_ includes, but is not limited to, travelling to New Zealand from another country in transit to another destination outside New Zealand
     
-    _Tribunal_ means the Immigration and Protection Tribunal established by [section 217][268]
+    _Tribunal_ means the Immigration and Protection Tribunal established by [section 217][270]
     
-    _turnaround_ means to effect, under [section 178(2)][219], the departure from New Zealand of a person to whom [section 115][144] applies, as if the person were a person who had been served with a deportation order
+    _turnaround_ means to effect, under [section 178(2)][221], the departure from New Zealand of a person to whom [section 115][145] applies, as if the person were a person who had been served with a deportation order
     
     _unlawfully in New Zealand_, in relation to a person, has the meaning given to it in [section 9][10]
     
@@ -1738,21 +1756,31 @@ Preliminary provisions
             
         *   (i) made in accordance with section 62; and
         
-        *   (ii) having the effect set out in [section 43][55]; and
+        *   (ii) having the effect set out in [section 43][56]; and
         
         
     
     *   (b) includes---
             
-        *   (i) any visa of a class specified in [section 70][86]; and
+        *   (i) any visa of a class specified in [section 70][87]; and
         
         *   (ii) any visa deemed to be, or treated as being, held under this Act
         
         
     
-    _visa waiver_ means a waiver under [section 69][84] of the requirement to hold a visa permitting travel to New Zealand
+    _visa waiver_ means a waiver under [section 69][85] of the requirement to hold a visa permitting travel to New Zealand
     
-    _warrant of commitment_ means a warrant of commitment issued under [section 317][385] or [318][386]
+    _warrant of commitment_---
+        
+    *   (a) means a warrant of commitment issued under [section 317][387], [318][393], or [323][398]; and
+    
+    *   (b) includes---
+            
+        *   (i) a mass arrival warrant issued under [section 317B][389] (in respect of all or specified members of a mass arrival group); and
+        
+        *   (ii) a further warrant of commitment issued under [section 317E(1)(a)][392] (in respect of all or specified members of a mass arrival group)
+        
+        
     
     _work_---
         
@@ -1760,17 +1788,23 @@ Preliminary provisions
     
     *   (b) does not include an activity excluded, or excluded for a particular purpose, from this definition by immigration instructions.
     
+    Section 4 **compulsory education** paragraph (a): amended, on 13 June 2013, by [section 45(2)][631] of the Education Amendment Act 2013 (2013 No 34).
     
+    Section 4 **course of study** paragraph (a)(i): amended, on 13 June 2013, by [section 45(3)][631] of the Education Amendment Act 2013 (2013 No 34).
+    
+    Section 4 **mass arrival group**: inserted, on 19 June 2013, by [section 4(1)][632] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 4 **warrant of commitment**: replaced, on 19 June 2013, by [section 4(2)][632] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 5 Notifications
     
-*   (1) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to the Minister, it must be served or supplied in accordance with [section 386(1)][474].
+*   (1) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to the Minister, it must be served or supplied in accordance with [section 386(1)][482].
     
-    (2) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to an immigration officer or a refugee and protection officer, it must be served or supplied in accordance with [section 386(2)][474].
+    (2) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to an immigration officer or a refugee and protection officer, it must be served or supplied in accordance with [section 386(2)][482].
     
-    (3) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to any other person, or the person must be notified of any decision, matter, or other thing, it must be served, supplied, or notified in accordance with [section 386(3)][474].
+    (3) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to any other person, or the person must be notified of any decision, matter, or other thing, it must be served, supplied, or notified in accordance with [section 386(3)][482].
     
-    (4) Subsections (1) to (3) are subject to [section 386(8)][474].
+    (4) Subsections (1) to (3) are subject to [section 386(8)][482].
 
 ##### 6 How periods of time to be calculated
     
@@ -1790,7 +1824,7 @@ Preliminary provisions
         
         
     
-    *   (b) if the Department is not the department referred to in [clause 5 of Schedule 2][622], any day that is a public holiday and not a Saturday or Sunday, and---
+    *   (b) if the Department is not the department referred to in [clause 5 of Schedule 2][633], any day that is a public holiday and not a Saturday or Sunday, and---
             
         *   (i) any day in the period beginning on 25 December in a year and ending on 2 January in the following year; and
         
@@ -1800,7 +1834,7 @@ Preliminary provisions
         
         
     
-    (3) Subsections (1) and (2) do not apply for the purposes of calculating working days under [section 194(2)][241] or [195(3)][242].
+    (3) Subsections (1) and (2) do not apply for the purposes of calculating working days under [section 194(2)][243] or [195(3)][244].
 
 ##### 7 Meaning of classified information and proceedings involving classified information
     
@@ -1834,19 +1868,19 @@ Preliminary provisions
     
     *   (b) is first raised or proposed to be raised in the course of an application to the Tribunal or on appeal or in review proceedings; or
     
-    *   (c) is raised in an application under [Part 9][372].
+    *   (c) is raised in an application under [Part 9][374].
     
     (5) A chief executive of a relevant agency must not delegate to any person the ability to certify information as classified information under subsection (1).
     
-    (6) Subsection (5) does not limit [section 40][623] of the State Sector Act 1988\.
+    (6) Subsection (5) does not limit [section 40][634] of the State Sector Act 1988\.
 
 ##### 8 Meaning of granting visa or entry permission as result of administrative error
     
 *   (1) In this Act, a visa is granted as a result of an administrative error if---
         
-    *   (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in [section 13(4)(b)][16]); or
+    *   (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in [section 13(4)(b)][17]); or
     
-    *   (b) it is granted to an excluded person (unless [section 17][21] applies); or
+    *   (b) it is granted to an excluded person (unless [section 17][22] applies); or
     
     *   (c) the person granting it intended to grant a visa of a type other than the one that was actually granted; or
     
@@ -1860,15 +1894,15 @@ Preliminary provisions
         
         *   (ii) immigration instructions (unless the Minister or an immigration officer deliberately and properly granted it as an exception to immigration instructions); or
         
-        *   (iii) an instruction of a kind referred to in [section 378(7)][461].
+        *   (iii) an instruction of a kind referred to in [section 378(7)][469].
         
         
     
     (2) In this Act, entry permission is granted as a result of an administrative error if---
         
-    *   (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in [section 13(4)(b)][16]); or
+    *   (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in [section 13(4)(b)][17]); or
     
-    *   (b) it is granted to an excluded person (unless [section 17][21] applies); or
+    *   (b) it is granted to an excluded person (unless [section 17][22] applies); or
     
     *   (c) it is granted in contravention of---
             
@@ -1888,7 +1922,7 @@ Preliminary provisions
         
         
     
-    Compare: 1987 No 74[ss 19(4)][624], [32(4)][625]
+    Compare: 1987 No 74[ss 19(4)][635], [32(4)][636]
 
 ##### 9 Meaning of unlawfully in New Zealand (in relation to person who is not New Zealand citizen)
     
@@ -1904,7 +1938,7 @@ Preliminary provisions
     
     *   (b) as starting on the day after the date on which the person's visa expired or was cancelled without another visa being granted; or
     
-    *   (c) in accordance with [sections 373][454] and [374][455], if---
+    *   (c) in accordance with [sections 373][462] and [374][463], if---
             
         *   (i) the person was born in New Zealand on or after 1 January 2006; and
         
@@ -1914,7 +1948,21 @@ Preliminary provisions
     
     
 
-##### 10 Meaning of deported 
+##### 9A Meaning of mass arrival group
+    
+*   (1) In this Act, _mass arrival group_ means a group of more than 30 people, each of whom falls within 1 or more of the classes of person described in paragraphs (a) to (f) of [section 115(1)][145], who arrive in New Zealand---
+        
+    *   (a) on board the same craft; or
+    
+    *   (b) on board the same group of craft at the same time; or
+    
+    *   (c) on board the same group of craft and within such a time period or in such circumstances that each person arrived, or intended to arrive, in New Zealand as part of the group.
+    
+    (2) In subsection (1), _craft_ does not include a craft travelling to New Zealand in the course of a scheduled international service (within the meaning of [section 96(4)][122]).
+    
+    Section 9A: inserted, on 19 June 2013, by [section 5][637] of the Immigration Amendment Act 2013 (2013 No 39).
+
+##### 10 Meaning of deported
     
 *   (1) For the purposes of this Act, a person is deported from a country if the person leaves the country (whether or not at the expense of the government of the country) and an order for the person's departure made by the government of the country, an authorised official of the country, or a judicial authority in the country, is in force.
     
@@ -1928,7 +1976,7 @@ Preliminary provisions
         
         *   (ii) after a deportation order has been served on the person; or
         
-        *   (iii) while he or she is subject to a prohibition on entry to New Zealand under [section 179][220] or [180][221]; or
+        *   (iii) while he or she is subject to a prohibition on entry to New Zealand under [section 179][222] or [180][223]; or
         
         
     
@@ -1958,11 +2006,11 @@ Preliminary provisions
             
         *   (i) the decision maker is not obliged to give reasons for any decision relating to the purported application, other than the reason that this section applies; and
         
-        *   (ii) [section 27][35] of this Act and [section 23][626] of the Official Information Act 1982 do not apply in respect of the purported application.
+        *   (ii) [section 27][36] of this Act and [section 23][638] of the Official Information Act 1982 do not apply in respect of the purported application.
         
         
     
-    Compare: 1987 No 74 [ss 7(4)][627], [12(4)][628], [17(2)][629], [25(3)][630], [34B(3)][631], [35A(2)][632], [58(5)][633], [130(6)][634]
+    Compare: 1987 No 74 [ss 7(4)][639], [12(4)][640], [17(2)][641], [25(3)][642], [34B(3)][643], [35A(2)][644], [58(5)][645], [130(6)][646]
 
 ##### 12 Act binds the Crown
     
@@ -1995,11 +2043,11 @@ Core provisions and matters in relation to decision making
         
         *   (ii) wishes to enter New Zealand other than as a New Zealand citizen; and
         
-        *   (iii) has not been granted New Zealand citizenship, been registered as a New Zealand citizen by descent under [section 7(2)][635] of the Citizenship Act 1977, or been issued with an evidentiary certificate under [section 21][636] of the Citizenship Act 1977 confirming that he or she is a New Zealand citizen.
+        *   (iii) has not been granted New Zealand citizenship, been registered as a New Zealand citizen by descent under [section 7(2)][647] of the Citizenship Act 1977, or been issued with an evidentiary certificate under [section 21][648] of the Citizenship Act 1977 confirming that he or she is a New Zealand citizen.
         
         
     
-    Compare: 1987 No 74 [s 3][637]
+    Compare: 1987 No 74 [s 3][649]
 
 ##### 14 Persons other than New Zealand citizens must hold visa to travel to and be in New Zealand
     
@@ -2027,11 +2075,11 @@ Core provisions and matters in relation to decision making
     
     (3) This Act applies subject to---
         
-    *   (a) [sections 90 to 96][638] of the Extradition Act 1999; and
+    *   (a) [sections 90 to 96][650] of the Extradition Act 1999; and
     
-    *   (b) [sections 150 to 155][639] of the International Crimes and International Criminal Court Act 2000\.
+    *   (b) [sections 150 to 155][651] of the International Crimes and International Criminal Court Act 2000\.
     
-    Compare: 1987 No 74 [s 4][640]
+    Compare: 1987 No 74 [s 4][652]
 
 #### Excluded persons
 
@@ -2063,15 +2111,15 @@ Core provisions and matters in relation to decision making
         
     *   (a) has been deported from New Zealand under section 158 of the Shipping and Seamen Act 1952; or
     
-    *   (b) was subject to a removal order under [section 54][641] of the former Act, if the removal order has expired or been cancelled; or
+    *   (b) was subject to a removal order under [section 54][653] of the former Act, if the removal order has expired or been cancelled; or
     
-    *   (c) was deported under this Act, if the relevant prohibition on entry under [section 179][220] or [180][221] has expired; or
+    *   (c) was deported under this Act, if the relevant prohibition on entry under [section 179][222] or [180][223] has expired; or
     
     *   (d) has been deported from New Zealand under section 20 of the Immigration Act 1964 on the grounds of being convicted of an offence against section 14(5) or 15(5) of that Act.
     
-    (4) This section is subject to [section 17][21].
+    (4) This section is subject to [section 17][22].
     
-    Compare: 1987 No 74 [s 7(1)(a)--(d), (2)][627]
+    Compare: 1987 No 74 [s 7(1)(a)--(d), (2)][639]
 
 ##### 16 Certain other persons not eligible for visa or entry permission
     
@@ -2089,21 +2137,21 @@ Core provisions and matters in relation to decision making
         
         
     
-    *   (b) is a member of a terrorist entity designated under the [Terrorism Suppression Act 2002][642].
+    *   (b) is a member of a terrorist entity designated under the [Terrorism Suppression Act 2002][654].
     
-    (2) This section is subject to [section 17][21].
+    (2) This section is subject to [section 17][22].
     
-    Compare: 1987 No 74 [s 7(1)(e)--(i)][627]
+    Compare: 1987 No 74 [s 7(1)(e)--(i)][639]
 
 ##### 17 Exceptions to non-eligibility for visa or entry permission
     
-*   (1) Despite [sections 15][19] and [16][20], a visa and entry permission may be granted to any person---
+*   (1) Despite [sections 15][20] and [16][21], a visa and entry permission may be granted to any person---
         
     *   (a) in accordance with a special direction; or
     
-    *   (b) in accordance with [section 83][104].
+    *   (b) in accordance with [section 83][105].
     
-    (2) Despite [sections 15][19] and [16][20],---
+    (2) Despite [sections 15][20] and [16][21],---
         
     *   (a) entry permission must be granted to---
             
@@ -2115,11 +2163,11 @@ Core provisions and matters in relation to decision making
         
         
     
-    *   (b) a visa and entry permission must be granted to a person who is for the time being entitled to any immunity from jurisdiction by or under the [Diplomatic Privileges and Immunities Act 1968][643] (other than a person referred to in [section 10D(2)(d)][644] of that Act) or the [Consular Privileges and Immunities Act 1971][645].
+    *   (b) a visa and entry permission must be granted to a person who is for the time being entitled to any immunity from jurisdiction by or under the [Diplomatic Privileges and Immunities Act 1968][655] (other than a person referred to in [section 10D(2)(d)][656] of that Act) or the [Consular Privileges and Immunities Act 1971][657].
     
     (3) A decision to grant a visa and entry permission under subsection (1) is in the absolute discretion of the decision maker.
     
-    Compare: 1987 No 74[ss 7(3), (4)][627], [11(1)(a)][646]
+    Compare: 1987 No 74[ss 7(3), (4)][639], [11(1)(a)][658]
 
 #### Persons unlawfully in New Zealand
 
@@ -2129,17 +2177,17 @@ Core provisions and matters in relation to decision making
     
     (2) The obligation under subsection (1) arises whether or not the person is aware of the obligation, or of the implications of not meeting it, and---
         
-    *   (a) that obligation, and any liability of the person to deportation or other action under this Act, is not affected by any failure or alleged failure of the chief executive to communicate the obligation and related implications under [section 19][24]; but
+    *   (a) that obligation, and any liability of the person to deportation or other action under this Act, is not affected by any failure or alleged failure of the chief executive to communicate the obligation and related implications under [section 19][25]; but
     
     *   (b) nothing in paragraph (a) prevents any action from being brought in respect of such a failure or alleged failure in proceedings that are not directed towards preventing the deportation of any person.
     
-    Compare: 1987 No 74 [s 45][647]
+    Compare: 1987 No 74 [s 45][659]
 
 ##### 19 Duty of chief executive to communicate obligation to leave New Zealand
     
 *   (1) The chief executive must communicate to persons who are seeking visas to come to New Zealand or visas to be in New Zealand---
         
-    *   (a) the obligation to leave New Zealand created by [section 18][23]; and
+    *   (a) the obligation to leave New Zealand created by [section 18][24]; and
     
     *   (b) that a person who fails to meet that obligation is liable for deportation.
     
@@ -2157,13 +2205,13 @@ Core provisions and matters in relation to decision making
     
     (4) Any temporary entry class visa granted to any person that is evidenced by an endorsement in the holder's passport or certificate of identity must contain words to the effect that the person must leave New Zealand before expiry of the visa, or face deportation.
     
-    Compare: 1987 No 74 [s 46][648]
+    Compare: 1987 No 74 [s 46][660]
 
 ##### 20 No right for person unlawfully in New Zealand to apply for visa
     
 *   No person who is unlawfully in New Zealand may apply for a visa and, where any such person purports to apply for a visa, it is a matter for the absolute discretion of the Minister.
     
-    Compare: 1987 No 74 [ss 17(2)][629], [25(3)][630]
+    Compare: 1987 No 74 [ss 17(2)][641], [25(3)][642]
 
 ##### 21 No right for person unlawfully in New Zealand to work or study
     
@@ -2171,7 +2219,7 @@ Core provisions and matters in relation to decision making
         
     *   (a) work in New Zealand or in the exclusive economic zone of New Zealand; or
     
-    *   (b) study in New Zealand, except in compulsory education (but subject to the [Education Act 1989][649]).
+    *   (b) study in New Zealand, except in compulsory education (but subject to the [Education Act 1989][661]).
     
     
 
@@ -2197,7 +2245,7 @@ Core provisions and matters in relation to decision making
     
     *   (e) the types of temporary visas that may be granted, and the name and description of each type.
     
-    (2) Immigration instructions take effect from--- 
+    (2) Immigration instructions take effect from---
         
     *   (a) the date they are certified; or
     
@@ -2247,7 +2295,7 @@ Core provisions and matters in relation to decision making
             
         *   (i) include a requirement that persons of that class or category may apply for a visa only if invited to do so by the Minister or an immigration officer:
         
-        *   (ii) stipulate any period for which an expression of interest under [section 92][115] will remain current:
+        *   (ii) stipulate any period for which an expression of interest under [section 92][116] will remain current:
         
         *   (iii) set or indicate rules, criteria, or other relevant matters of the kinds specified in subsection (5)(a) to (g) that will or may apply for the purpose of determining whether an invitation to apply for a visa should be granted to any such person:
         
@@ -2261,9 +2309,9 @@ Core provisions and matters in relation to decision making
         
     *   (a) are statements of government policy:
     
-    *   (b) are not regulations for the purposes of the [Regulations (Disallowance) Act 1989][650] or the [Acts and Regulations Publication Act 1989][651].
+    *   (b) are not regulations for the purposes of the [Regulations (Disallowance) Act 1989][662] or the [Acts and Regulations Publication Act 1989][663].
     
-    Compare: 1987 No 74 [s 13B][652]
+    Compare: 1987 No 74 [s 13B][664]
 
 ##### 23 Immigration instructions classified as residence instructions, temporary entry instructions, or transit instructions
     
@@ -2279,7 +2327,7 @@ Core provisions and matters in relation to decision making
 
 ##### 24 Immigration instructions for lapsing of applications for visas
     
-*   (1) The Minister may certify in accordance with [section 22][28] rules or criteria for the lapsing of applications in respect of which no decision to grant a visa has been made, or is likely to be made,---
+*   (1) The Minister may certify in accordance with [section 22][29] rules or criteria for the lapsing of applications in respect of which no decision to grant a visa has been made, or is likely to be made,---
         
     *   (a) within any stipulated period or by any stipulated date; or
     
@@ -2313,9 +2361,9 @@ Core provisions and matters in relation to decision making
     
     (7) Nothing in this Act or in any other law or enactment entitles a person whose application has lapsed to recover from the Minister or the Department or any immigration officer any costs associated with the application, or any costs, damages, or compensation associated with the lapsing of the application, other than the application fee refundable under subsection (6).
     
-    (8) In this section (except subsections (6) and (7)), _application_ includes an expression of interest under [section 92][115] in obtaining an invitation to apply.
+    (8) In this section (except subsections (6) and (7)), _application_ includes an expression of interest under [section 92][116] in obtaining an invitation to apply.
     
-    Compare: 1987 no 74 [s 13BB][653]
+    Compare: 1987 no 74 [s 13BB][665]
 
 ##### 25 Publication of immigration instructions
     
@@ -2327,9 +2375,9 @@ Core provisions and matters in relation to decision making
     
     *   (b) New Zealand government offices overseas that deal with immigration matters.
     
-    (3) Nothing in subsection (2) requires the making available of information that could properly be withheld in accordance with the provisions of the [Official Information Act 1982][654], were a request to be made for the information under that Act.
+    (3) Nothing in subsection (2) requires the making available of information that could properly be withheld in accordance with the provisions of the [Official Information Act 1982][666], were a request to be made for the information under that Act.
     
-    Compare: 1987 No 74 [s 13A][655]
+    Compare: 1987 No 74 [s 13A][667]
 
 #### Processing claims and applications for visas and entry permission
 
@@ -2340,6 +2388,8 @@ Core provisions and matters in relation to decision making
     (2) Subsection (1) applies unless immigration instructions that particularly relate to the order or manner of processing applications for residence class visas, temporary entry class visas, or transit visas require otherwise.
     
     (3) The order and manner of processing any claim is a matter for the discretion of a refugee and protection officer.
+    
+    (3A) Subsection (3) applies unless regulations made under [section 400][500] require otherwise.
     
     (4) However, the chief executive may give general instructions to immigration officers and refugee and protection officers on the order and manner of processing any application or claim, or specified classes of application or claim, and, if so, an immigration officer or a refugee and protection officer must process an application or claim in accordance with those instructions.
     
@@ -2379,9 +2429,17 @@ Core provisions and matters in relation to decision making
         
     *   (a) general instructions given under this section; or
     
-    *   (b) immigration instructions that particularly relate to the order or manner of processing applications for residence class visas, temporary entry class visas, or transit visas.
+    *   (b) immigration instructions that particularly relate to the order or manner of processing applications for residence class visas, temporary entry class visas, or transit visas; or
     
-    Compare: 1987 No 74 [s 13BA][656]
+    *   (c) regulations made under [section 400][500].
+    
+    Compare: 1987 No 74 [s 13BA][668]
+    
+    Section 26(3A): inserted, on 19 June 2013, by [section 6(1)][669] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 26(10)(b): amended, on 19 June 2013, by [section 6(2)][669] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 26(10)(c): inserted, on 19 June 2013, by [section 6(3)][669] of the Immigration Amendment Act 2013 (2013 No 39).
 
 #### Reasons for decisions
 
@@ -2399,11 +2457,11 @@ Core provisions and matters in relation to decision making
         
     *   (a) be given in writing; and
     
-    *   (b) contain the information required under [section 23][626] of the Official Information Act 1982 as if the reasons were given in response to a request to which that section applies.
+    *   (b) contain the information required under [section 23][638] of the Official Information Act 1982 as if the reasons were given in response to a request to which that section applies.
     
-    (3) Subsection (1) is subject to [section 40(3)(e) and (f)][50].
+    (3) Subsection (1) is subject to [section 40(3)(e) and (f)][51].
     
-    Compare: 1987 No 74 [s 36][657]
+    Compare: 1987 No 74 [s 36][670]
 
 #### Automated decision making and biometric information
 
@@ -2423,13 +2481,13 @@ Core provisions and matters in relation to decision making
     
     (3) Conditions imposed on visas granted by an automated electronic system may only be conditions that are specified in immigration instructions for a visa of the relevant class or type.
     
-    (4) However, nothing in this section prevents an immigration officer or the Minister from imposing further conditions, or varying or cancelling conditions under any of [sections 50 to 55][63], on or in relation to a visa granted by way of an automated electronic system.
+    (4) However, nothing in this section prevents an immigration officer or the Minister from imposing further conditions, or varying or cancelling conditions under any of [sections 50 to 55][64], on or in relation to a visa granted by way of an automated electronic system.
     
     (5) Where a decision to grant or refuse to grant a visa or entry permission, or to issue or refuse to issue an invitation to apply for a visa, is made by way of an automated electronic system, that decision must for all purposes be treated as a decision of an immigration officer who is authorised to make the decision under this Act.
 
 ##### 29 Automated decision making in advance passenger processing
     
-*   The chief executive may make a decision under [section 97(1)][122] by means of an automated electronic system that analyses the information (if any) about a person that is held by the chief executive or to which the chief executive has access using criteria predetermined by the chief executive.
+*   The chief executive may make a decision under [section 97(1)][123] by means of an automated electronic system that analyses the information (if any) about a person that is held by the chief executive or to which the chief executive has access using criteria predetermined by the chief executive.
 
 ##### 30 Use of biometric information in decision making
     
@@ -2451,7 +2509,7 @@ Core provisions and matters in relation to decision making
     
     *   (b) an agent or person on behalf of an immigration officer or a refugee and protection officer.
     
-    (2) Biometric information must be dealt with in accordance with the [Privacy Act 1993][658].
+    (2) Biometric information must be dealt with in accordance with the [Privacy Act 1993][671].
     
     (3) Subsection (2) is for the avoidance of doubt.
 
@@ -2487,21 +2545,21 @@ Core provisions and matters in relation to decision making
         
         
     
-    (5) Nothing in subsection (4) requires the making available of information that could properly be withheld in accordance with the provisions of the [Official Information Act 1982][654], were a request to be made for the information under that Act.
+    (5) Nothing in subsection (4) requires the making available of information that could properly be withheld in accordance with the provisions of the [Official Information Act 1982][666], were a request to be made for the information under that Act.
 
 #### Reliance on classified information in decision making
 
-##### 33 Classified information relating to security or criminal conduct may be relied on in decision making 
+##### 33 Classified information relating to security or criminal conduct may be relied on in decision making
     
 *   (1) Classified information may be relied on in making decisions or determining proceedings under this Act if the Minister determines that the classified information relates to matters of security or criminal conduct.
     
     (2) If subsection (1) applies, the Minister may---
         
-    *   (a) rely on the information to make a decision under [Part 3][53], [4][119], or [6][189]; or
+    *   (a) rely on the information to make a decision under [Part 3][54], [4][120], or [6][191]; or
     
-    *   (b) direct that the information be provided to a refugee and protection officer (who has been authorised by the chief executive to make decisions under [Part 5][156] relying on classified information) so that the officer may rely on it to make---
+    *   (b) direct that the information be provided to a refugee and protection officer (who has been authorised by the chief executive to make decisions under [Part 5][157] relying on classified information) so that the officer may rely on it to make---
             
-        *   (i) a decision under [Part 5][156]; or 
+        *   (i) a decision under [Part 5][157]; or
         
         *   (ii) an application to the Tribunal under that Part; or
         
@@ -2517,11 +2575,11 @@ Core provisions and matters in relation to decision making
         
         
     
-    *   (d) refer the information to the chief executive so that he or she may make an application for a warrant of commitment, or an application or a response to an application for review or release, in accordance with [section 325][394].
+    *   (d) refer the information to the chief executive so that he or she may make an application for a warrant of commitment, or an application or a response to an application for review or release, in accordance with [section 325][402].
     
-    (3) [Sections 34 to 42][44] apply, as appropriate, when decisions are made relying on classified information to which subsection (1) applies.
+    (3) [Sections 34 to 42][45] apply, as appropriate, when decisions are made relying on classified information to which subsection (1) applies.
     
-    (4) [Sections 240 to 244][293] and [252 to 270][307] apply to proceedings involving classified information to which subsection (1) applies.
+    (4) [Sections 240 to 244][295] and [252 to 270][309] apply to proceedings involving classified information to which subsection (1) applies.
 
 ##### 34 Minister may receive briefing
     
@@ -2533,19 +2591,19 @@ Core provisions and matters in relation to decision making
     
     *   (c) the content of the briefing is to be determined by the chief executive of the relevant agency.
     
-    (2) No person may be called to give evidence in any court or tribunal in relation to the content of the briefing or anything coming to his or her knowledge as a result of the briefing (including any record of an oral briefing), except as provided in [sections 241(1)][294] and [259(1)][314].
+    (2) No person may be called to give evidence in any court or tribunal in relation to the content of the briefing or anything coming to his or her knowledge as a result of the briefing (including any record of an oral briefing), except as provided in [sections 241(1)][296] and [259(1)][316].
 
 ##### 35 Protection of classified information
     
-*   (1) Classified information relied on for the purpose of making any decision or determining any proceedings under this Act must be kept confidential and must not be disclosed, except as provided in [sections 241(1)][294], [259(1)][314], [267(4)][323], [269(4)][325], and [270(3)][326].
+*   (1) Classified information relied on for the purpose of making any decision or determining any proceedings under this Act must be kept confidential and must not be disclosed, except as provided in [sections 241(1)][296], [259(1)][316], [267(4)][325], [269(4)][327], and [270(3)][328].
     
     (2) Subsection (1)---
         
-    *   (a) does not limit or affect the application of the [Ombudsmen Act 1975][659], the [Official Information Act 1982][654], or the [Privacy Act 1993][658]; but
+    *   (a) does not limit or affect the application of the [Ombudsmen Act 1975][672], the [Official Information Act 1982][666], or the [Privacy Act 1993][671]; but
     
     *   (b) otherwise applies despite any other enactment or rule of law to the contrary.
     
-    (3) Neither the Tribunal nor any court may require or compel the chief executive of the relevant agency, the Minister, or any other person to disclose any classified information in any proceedings under this Act (but without derogating from [sections 241(1)][294] and [259(1)][314]).
+    (3) Neither the Tribunal nor any court may require or compel the chief executive of the relevant agency, the Minister, or any other person to disclose any classified information in any proceedings under this Act (but without derogating from [sections 241(1)][296] and [259(1)][316]).
 
 ##### 36 Classified information must be balanced
     
@@ -2573,15 +2631,15 @@ Core provisions and matters in relation to decision making
     
     (3) If the Minister determines that the information may be---
         
-    *   (a) relied on before the Minister makes a decision under [Part 3][53], [4][119], or [6][189], the Minister must, if the information is relevant to the decision being made, take that new or updated information into account in making the decision:
+    *   (a) relied on before the Minister makes a decision under [Part 3][54], [4][120], or [6][191], the Minister must, if the information is relevant to the decision being made, take that new or updated information into account in making the decision:
     
-    *   (b) relied on before a refugee and protection officer makes a decision under [Part 5][156], the officer must, if the information is relevant to the decision being made, take the new or updated information into account in making the decision:
+    *   (b) relied on before a refugee and protection officer makes a decision under [Part 5][157], the officer must, if the information is relevant to the decision being made, take the new or updated information into account in making the decision:
     
     *   (c) raised in proceedings involving classified information,---
             
-        *   (i) the Tribunal or court must treat the new or updated information in the same way as classified information originally provided to it under [section 241(1)][294] or [259(1)][314]; and
+        *   (i) the Tribunal or court must treat the new or updated information in the same way as classified information originally provided to it under [section 241(1)][296] or [259(1)][316]; and
         
-        *   (ii) the Tribunal must determine in relation to the new or updated information the matters set out in [section 243(1)(a), (b), and (c)][296].
+        *   (ii) the Tribunal must determine in relation to the new or updated information the matters set out in [section 243(1)(a), (b), and (c)][298].
         
         
     
@@ -2591,7 +2649,7 @@ Core provisions and matters in relation to decision making
     
     *   (b) the decision maker, the Tribunal, or the court must continue to make the decision or determine the proceedings---
             
-        *   (i) without regard to that classified information (but subject to [section 243(2)][296] in the case of the Tribunal); and
+        *   (i) without regard to that classified information (but subject to [section 243(2)][298] in the case of the Tribunal); and
         
         *   (ii) in the case of an appeal, a matter, or review proceedings, as if that information had not been available in making the decision subject to the appeal, matter, or review proceedings.
         
@@ -2601,7 +2659,7 @@ Core provisions and matters in relation to decision making
 
 ##### 38 Summary of allegations to be developed
     
-*   (1) This section and [section 39][49] apply where classified information is to be relied on, or may be relied on, in the making of any decision (a _relevant decision_) in relation to---
+*   (1) This section and [section 39][50] apply where classified information is to be relied on, or may be relied on, in the making of any decision (a _relevant decision_) in relation to---
         
     *   (a) an application for a visa, if the application is for---
             
@@ -2613,7 +2671,7 @@ Core provisions and matters in relation to decision making
     
     *   (b) a person's liability for deportation; or
     
-    *   (c) any matter to which [Part 5][156] applies, if the decision is to be made by a refugee and protection officer.
+    *   (c) any matter to which [Part 5][157] applies, if the decision is to be made by a refugee and protection officer.
     
     (2) Before a relevant decision is made that relies on any classified information that is or may be prejudicial to the person who is the subject of the proposed decision,---
         
@@ -2641,7 +2699,7 @@ Core provisions and matters in relation to decision making
 
 ##### 39 Reasons, etc, to be given where prejudicial decision made using classified information
     
-*   (1) Where a decision of a kind referred to in [section 38(1)][48] has been made relying on classified information, and the decision is prejudicial to the person concerned, then, subject to section 40, the person who is the subject of the decision must be informed of---
+*   (1) Where a decision of a kind referred to in [section 38(1)][49] has been made relying on classified information, and the decision is prejudicial to the person concerned, then, subject to section 40, the person who is the subject of the decision must be informed of---
         
     *   (a) the fact that classified information was relied on in making the decision; and
     
@@ -2655,9 +2713,9 @@ Core provisions and matters in relation to decision making
         
     *   (a) be given in writing; and
     
-    *   (b) contain the information required under [section 23][626] of the Official Information Act 1982 as if the reasons were given in response to a request to which that section applies.
+    *   (b) contain the information required under [section 23][638] of the Official Information Act 1982 as if the reasons were given in response to a request to which that section applies.
     
-    (3) The Minister or a refugee and protection officer, as the case may be, must also prepare a record of the reasons for the decision, including any reasons arising from the classified information, which may not be accessed or disclosed except in accordance with [section 241(1)][294], [259(1)][314], or [267(4)][323] or to the chief executive of the relevant agency.
+    (3) The Minister or a refugee and protection officer, as the case may be, must also prepare a record of the reasons for the decision, including any reasons arising from the classified information, which may not be accessed or disclosed except in accordance with [section 241(1)][296], [259(1)][316], or [267(4)][325] or to the chief executive of the relevant agency.
 
 ##### 40 Where classified information may be relied on without requirement for summary or reasons
     
@@ -2665,15 +2723,15 @@ Core provisions and matters in relation to decision making
         
     *   (a) he or she is making a decision under this Act relying on classified information; and
     
-    *   (b) the decision is not a decision of a kind referred to in [section 38(1)][48].
+    *   (b) the decision is not a decision of a kind referred to in [section 38(1)][49].
     
     (2) The Minister is not required to---
         
     *   (a) provide potentially prejudicial information based on classified information to the person concerned for comment; or
     
-    *   (b) give reasons for the decision, and [section 23][626] of the Official Information Act 1982 and [section 27][35] of this Act do not apply in respect of the decision.
+    *   (b) give reasons for the decision, and [section 23][638] of the Official Information Act 1982 and [section 27][36] of this Act do not apply in respect of the decision.
     
-    (3) Nothing in [section 38][48] or [39][49] requires the making available of any classified information or a summary of the allegations arising from classified information, or the giving of reasons for decisions,---
+    (3) Nothing in [section 38][49] or [39][50] requires the making available of any classified information or a summary of the allegations arising from classified information, or the giving of reasons for decisions,---
         
     *   (a) if the decision concerned is in the absolute discretion of the decision maker; or
     
@@ -2683,13 +2741,13 @@ Core provisions and matters in relation to decision making
     
     *   (d) to applicants for temporary entry class visas who are outside New Zealand; or
     
-    *   (e) in relation to applications for visas made in an immigration control area or in a place designated by the chief executive under [section 383][468]; or
+    *   (e) in relation to applications for visas made in an immigration control area or in a place designated by the chief executive under [section 383][476]; or
     
     *   (f) in relation to applications for entry permission.
     
     
 
-##### 41 Declassification of classified information 
+##### 41 Declassification of classified information
     
 *   (1) Subsection (2) applies to classified information if---
         
@@ -2766,7 +2824,7 @@ Visas
     
     (3) This section applies unless any provision in this Act expressly provides otherwise.
     
-    Compare: 1987 No 74 [ss 8--10][660], [35][661]
+    Compare: 1987 No 74 [ss 8--10][673], [35][674]
 
 ##### 46 Grant of visa does not guarantee entry permission
     
@@ -2782,15 +2840,15 @@ Visas
 
 ##### 47 Grant of visa may be conditional on payment of bond
     
-*   (1) Before granting a visa to an applicant, the Minister or an immigration officer may require that a bond be paid in accordance with [section 396][487].
+*   (1) Before granting a visa to an applicant, the Minister or an immigration officer may require that a bond be paid in accordance with [section 396][495].
     
     (2) A bond required under subsection (1) may be---
         
-    *   (a) forfeited under [section 397(1)][488]; or
+    *   (a) forfeited under [section 397(1)][496]; or
     
     *   (b) refunded in whole or in part under section 397\.
     
-    (3) The fact that a bond is forfeited under [section 397(1)][488] (whether in whole or in part) does not affect other action taken, or that may be taken, in respect of a failure to comply with any conditions imposed on the visa concerned under [sections 49 to 55][62].
+    (3) The fact that a bond is forfeited under [section 397(1)][496] (whether in whole or in part) does not affect other action taken, or that may be taken, in respect of a failure to comply with any conditions imposed on the visa concerned under [sections 49 to 55][63].
 
 ##### 48 Grant of visa may be conditional on sponsorship
     
@@ -2852,7 +2910,7 @@ Visas
     
     *   (d) in the case of transit visas, specified in transit instructions applicable at the time the visa was granted:
     
-    *   (e) imposed by the Minister or an immigration officer under [section 50,][63] [51][64], [52][65], [53][66], [54][67], or [55][68]:
+    *   (e) imposed by the Minister or an immigration officer under [section 50,][64] [51][65], [52][66], [53][67], [54][68], or [55][69]:
     
     *   (f) imposed by or under any other Act.
     
@@ -3002,7 +3060,7 @@ Visas
 
 ##### 55 Condition that visa holder have sponsor
     
-*   (1) This section applies to a visa holder who, when applying for the visa concerned, was required to provide a written undertaking from a sponsor in accordance with [section 48][60].
+*   (1) This section applies to a visa holder who, when applying for the visa concerned, was required to provide a written undertaking from a sponsor in accordance with [section 48][61].
     
     (2) It is a condition of the visa that---
         
@@ -3026,9 +3084,9 @@ Visas
     
     (2) In the case of conditions imposed by or under any other Act, or specified in immigration instructions, the obligation to comply with those conditions arises whether or not the visa holder is aware of the conditions, or of the implications of not complying with them.
     
-    (3) A visa holder must comply with conditions imposed or varied and notified to the holder by the Minister or an immigration officer under [section 50][63], [51][64], [52][65], [53][66], or [54][67].
+    (3) A visa holder must comply with conditions imposed or varied and notified to the holder by the Minister or an immigration officer under [section 50][64], [51][65], [52][66], [53][67], or [54][68].
     
-    (4) It is presumed, in the absence of evidence to the contrary on the balance of probabilities, that a visa holder was notified of any conditions imposed or varied under [section 50][63], [51][64], [52][65], [53][66], or [54][67] if notice of them was given in accordance with [section 386][474].
+    (4) It is presumed, in the absence of evidence to the contrary on the balance of probabilities, that a visa holder was notified of any conditions imposed or varied under [section 50][64], [51][65], [52][66], [53][67], or [54][68] if notice of them was given in accordance with [section 386][482].
 
 #### General rules relating to visas
 
@@ -3060,7 +3118,7 @@ Visas
     
     (4) Without limiting the scope of the expression _material change in circumstances_ in subsection (3), such a change may relate to the applicant or another person included in the application, and may relate to any matter relevant to this Act or immigration instructions.
     
-    (5) Failure to comply with the obligation set out in subsection (3) amounts to _concealment of relevant information_ for the purposes of [sections 157][195] and [158][196].
+    (5) Failure to comply with the obligation set out in subsection (3) amounts to _concealment of relevant information_ for the purposes of [sections 157][197] and [158][198].
     
     (6) It is sufficient ground for the Minister or an immigration officer to decline to grant a visa to a person if the Minister or officer is satisfied that the person,---
         
@@ -3068,13 +3126,13 @@ Visas
     
     *   (b) did not ensure that an immigration officer was informed of any material change in circumstances to which subsection (3) applies between the time of making the application and the time of a decision on the application.
     
-    Compare: 1987 No 74 [ss 17A][662], [25][630], [34B][663], [34G][664]
+    Compare: 1987 No 74 [ss 17A][675], [25][642], [34B][676], [34G][677]
 
 ##### 59 Applications by minors
     
 *   Where an application for a visa is made by or for a person under 18 years of age who is not married or in a civil union, the Minister or an immigration officer may decline the application if the Minister or immigration officer is not satisfied that any parent or guardian of the person consents to the making of the application.
     
-    Compare: 1987 No 74 [s 35(2)][661]
+    Compare: 1987 No 74 [s 35(2)][674]
 
 ##### 60 Biometric information may be required from visa applicant
     
@@ -3082,7 +3140,7 @@ Visas
     
     (2) If the applicant fails to allow the biometric information to be collected, the Minister or an immigration officer may refuse to grant the visa applied for.
     
-    (3) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][492].
+    (3) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][500].
 
 ##### 61 Grant of visa in special case
     
@@ -3094,7 +3152,7 @@ Visas
     
     (2) A decision to grant a visa under subsection (1) is in the Minister's absolute discretion.
     
-    Compare: 1987 No 74 [s 35A][632]
+    Compare: 1987 No 74 [s 35A][644]
 
 ##### 62 Form of visa
     
@@ -3138,7 +3196,7 @@ Visas
     
     *   (d) the beginning of the day that is 3 months after the day on which an epidemic management notice expires, if the visa---
             
-        *   (i) is a temporary entry class visa to which [section 78][96] applies; and
+        *   (i) is a temporary entry class visa to which [section 78][97] applies; and
         
         *   (ii) has not been cancelled earlier.
         
@@ -3170,17 +3228,17 @@ Visas
         
         
     
-    *   (e) if the holder arrived at a place other than an immigration control area, on failing to present himself or herself in the prescribed manner and within the prescribed time as required under [section 103(1)(b)][130]:
+    *   (e) if the holder arrived at a place other than an immigration control area, on failing to present himself or herself in the prescribed manner and within the prescribed time as required under [section 103(1)(b)][131]:
     
     *   (f) on the start date of a further visa granted to its holder:
     
     *   (g) on the grant of New Zealand citizenship to its holder:
     
-    *   (h) on the registration of New Zealand citizenship by descent under [section 7(2)][635] of the Citizenship Act 1977 by its holder:
+    *   (h) on the registration of New Zealand citizenship by descent under [section 7(2)][647] of the Citizenship Act 1977 by its holder:
     
-    *   (i) on the issue of an evidentiary certificate under [section 21][636] of the Citizenship Act 1977 that confirms the holder is a New Zealand citizen.
+    *   (i) on the issue of an evidentiary certificate under [section 21][648] of the Citizenship Act 1977 that confirms the holder is a New Zealand citizen.
     
-    (2) Despite subsection (1)(f), the grant of a temporary entry class visa to the holder of a residence class visa does not cancel the residence class visa unless the grant of the temporary entry class visa was made under [section 68][82].
+    (2) Despite subsection (1)(f), the grant of a temporary entry class visa to the holder of a residence class visa does not cancel the residence class visa unless the grant of the temporary entry class visa was made under [section 68][83].
 
 ##### 65 Cancellation of resident visa before holder first arrives in New Zealand as holder of visa
     
@@ -3190,15 +3248,15 @@ Visas
     
     *   (b) the person no longer meets the rules or criteria of the immigration instructions applicable at the time the application for the visa was made.
     
-    (2) The Minister or an immigration officer must notify a person, in writing, at the address supplied under [section 57(2)][71] if his or her visa is cancelled under this section.
+    (2) The Minister or an immigration officer must notify a person, in writing, at the address supplied under [section 57(2)][72] if his or her visa is cancelled under this section.
 
-##### 66 Cancellation of temporary entry class or transit visa by Minister or immigration officer 
+##### 66 Cancellation of temporary entry class or transit visa by Minister or immigration officer
     
 *   (1) The Minister or an immigration officer may, if the Minister or immigration officer determines there is sufficient reason,---
         
     *   (a) cancel a temporary entry class visa at any time when its holder is outside New Zealand:
     
-    *   (b) cancel a temporary entry class visa that has been extended in accordance with [section 78][96] at any time:
+    *   (b) cancel a temporary entry class visa that has been extended in accordance with [section 78][97] at any time:
     
     *   (c) cancel a transit visa at any time.
     
@@ -3208,13 +3266,13 @@ Visas
     
     *   (b) he or she is outside New Zealand.
     
-    Compare: 1987 No 74 [ss 19][624], [32][625]
+    Compare: 1987 No 74 [ss 19][635], [32][636]
 
 ##### 67 Cancellation of visa for administrative error
     
 *   An immigration officer may cancel a visa that the officer believes on reasonable grounds was granted as a result of an administrative error if---
         
-    *   (a) the visa was granted to a person in a place designated by the chief executive under [section 383][468] and---
+    *   (a) the visa was granted to a person in a place designated by the chief executive under [section 383][476] and---
             
         *   (i) the person is still in the designated place; or
         
@@ -3224,19 +3282,19 @@ Visas
     
     *   (b) the visa was granted to a person in an immigration control area, or an office of the Department, in New Zealand and the person is still in the control area or office; or
     
-    *   (c) advice of the grant of the visa has not been sent or given to the person concerned, in any other case. 
+    *   (c) advice of the grant of the visa has not been sent or given to the person concerned, in any other case.
     
     
 
 ##### 68 Grant of further visa where visa granted in error
     
-*   (1) If the Minister or an immigration officer determines that a visa was granted as a result of an administrative error but the visa was not cancelled under [section 67][81], the Minister or immigration officer may, in his or her absolute discretion,---
+*   (1) If the Minister or an immigration officer determines that a visa was granted as a result of an administrative error but the visa was not cancelled under [section 67][82], the Minister or immigration officer may, in his or her absolute discretion,---
         
     *   (a) offer the holder a visa of such class and type, and subject to such conditions, as the Minister or immigration officer considers appropriate; and
     
     *   (b) if the holder agrees, grant such a visa.
     
-    (2) If the holder does not agree, he or she remains liable for deportation under [section 155(1)][193].
+    (2) If the holder does not agree, he or she remains liable for deportation under [section 155(1)][195].
     
     (3) Subsection (2) is for the avoidance of doubt.
 
@@ -3244,7 +3302,7 @@ Visas
 
 ##### 69 Waiver of requirement for visa permitting travel to New Zealand in certain cases
     
-*   (1) Regulations made under [section 400][492] may waive the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, and provide for any conditions of such a waiver.
+*   (1) Regulations made under [section 400][500] may waive the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, and provide for any conditions of such a waiver.
     
     (2) The Minister may, by special direction,---
         
@@ -3272,13 +3330,13 @@ Visas
     
     *   (b) expires at the end of the period of 3 months (or such shorter period as is specified in the direction) following the day on which the direction was made, unless sooner cancelled by the Minister by a further special direction, or by regulations:
     
-    *   (c) is to be treated for the purposes of the [Regulations (Disallowance) Act 1989][650] (but not for the purposes of the [Acts and Regulations Publication Act 1989][651]) as if it were a regulation within the meaning of that Act.
+    *   (c) is to be treated for the purposes of the [Regulations (Disallowance) Act 1989][662] (but not for the purposes of the [Acts and Regulations Publication Act 1989][663]) as if it were a regulation within the meaning of that Act.
     
     (5) A special direction under subsection (2)(a) or (b) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
     
     (6) A waiver under this section does not of itself entitle a person subject to the waiver to be granted entry permission.
     
-    Compare: 1987 No 74 [ss 11][646], [12][628]
+    Compare: 1987 No 74 [ss 11][658], [12][640]
 
 ### Subpart 2---Classes of visa
 
@@ -3306,7 +3364,7 @@ Visas
     
     *   (c) transit visas.
     
-    Compare: 1987 No 74 [s 14][665]
+    Compare: 1987 No 74 [s 14][678]
 
 #### Residence class visas
 
@@ -3328,7 +3386,7 @@ Visas
     
     *   (c) a person to whom a visa waiver applies, and who falls within a class prescribed by regulations as a person who may apply for a residence class visa---
             
-        *   (i) in a place designated by the chief executive under [section 383][468]; or
+        *   (i) in a place designated by the chief executive under [section 383][476]; or
         
         *   (ii) in an immigration control area; or
         
@@ -3344,7 +3402,7 @@ Visas
     
     (5) However, the Minister, in his or her absolute discretion, may grant a residence class visa to a person to whom subsection (4) applies.
     
-    Compare: 1987 No 74 [s 17][666]
+    Compare: 1987 No 74 [s 17][679]
 
 ##### 72 Decisions on applications for residence class visa
     
@@ -3354,7 +3412,7 @@ Visas
     
     (3) Nothing in this section prevents the Minister, in his or her absolute discretion, from making any decision to grant a residence class visa as an exception to residence instructions in any particular case.
     
-    Compare: 1987 No 74 [ss 13C][667], [17A(2)][662]
+    Compare: 1987 No 74 [ss 13C][680], [17A(2)][675]
 
 ##### 73 Currency and nature of permanent resident visa
     
@@ -3404,7 +3462,7 @@ Visas
     
     *   (b) is deprived of his or her New Zealand citizenship.
     
-    (2) The person is deemed, from the date of renouncing, or being deprived of, his or her citizenship, to hold a resident visa--- 
+    (2) The person is deemed, from the date of renouncing, or being deprived of, his or her citizenship, to hold a resident visa---
         
     *   (a) permitting the person to stay in New Zealand; and
     
@@ -3476,7 +3534,7 @@ Visas
     
     *   (c) the grant of a new visa.
     
-    Compare: 1987 No 74 [s 35AC][668]
+    Compare: 1987 No 74 [s 35AC][681]
 
 #### Temporary entry class visas: provisions applying to temporary visas
 
@@ -3492,7 +3550,7 @@ Visas
             
         *   (i) a person to whom section 150(1) and (2) do not apply; or
         
-        *   (ii) a claimant to whom [section 150(3)][186] applies.
+        *   (ii) a claimant to whom [section 150(3)][188] applies.
         
         
     
@@ -3514,7 +3572,7 @@ Visas
     
     (5) However, the Minister, in his or her absolute discretion, may grant a temporary visa to a person prohibited from applying for a temporary visa under subsection (4).
     
-    Compare: 1987 No 74 [s 25(1)][630]
+    Compare: 1987 No 74 [s 25(1)][642]
 
 #### Temporary entry class visas: provisions applying to interim visas
 
@@ -3544,11 +3602,11 @@ Visas
             
         *   (i) the holder of a current limited visa, if further time is required to achieve the express purpose for which that visa was granted; or
         
-        *   (ii) the holder of a temporary visa (other than a person to whom [section 150][186] applies).
+        *   (ii) the holder of a temporary visa (other than a person to whom [section 150][188] applies).
         
         
     
-    Compare: 1987 No 74 [ss 14DA][669], [34B][663]
+    Compare: 1987 No 74 [ss 14DA][682], [34B][676]
 
 ##### 82 Grant of limited visa rather than temporary visa applied for or held
     
@@ -3578,25 +3636,25 @@ Visas
     
     *   (d) the person agrees to the grant of a limited visa and entry permission on the basis of that visa.
     
-    Compare: 1987 No 74 [s 14DA(2)][669]
+    Compare: 1987 No 74 [s 14DA(2)][682]
 
 ##### 83 Grant of limited visa in relation to criminal matters
     
 *   (1) A limited visa may be granted to a person if---
         
-    *   (a) a certificate has been issued in respect of the person under [section 13][670] or [42(5)][671] of the Mutual Assistance in Criminal Matters Act 1992; and
+    *   (a) a certificate has been issued in respect of the person under [section 13][683] or [42(5)][684] of the Mutual Assistance in Criminal Matters Act 1992; and
     
     *   (b) the limited visa is granted for the sole purpose of enabling the person---
             
-        *   (i) to be in New Zealand for the purposes of giving or providing evidence or assistance pursuant to a request made under [section 12][672] of the Mutual Assistance in Criminal Matters Act 1992; or
+        *   (i) to be in New Zealand for the purposes of giving or providing evidence or assistance pursuant to a request made under [section 12][685] of the Mutual Assistance in Criminal Matters Act 1992; or
         
-        *   (ii) to be transported through New Zealand pursuant to [section 42][671] of that Act.
+        *   (ii) to be transported through New Zealand pursuant to [section 42][684] of that Act.
         
         
     
     (2) A limited visa may also be granted to a person for the sole purpose of enabling the person to return to New Zealand to face any charge in New Zealand or to serve any sentence imposed on the person in New Zealand.
     
-    Compare: 1987 No 74 [s 27A][673]
+    Compare: 1987 No 74 [s 27A][686]
 
 ##### 84 Currency of limited visa
     
@@ -3612,7 +3670,7 @@ Visas
     
     *   (b) the visa then expires on that earlier expiry date.
     
-    Compare: 1987 No 74 [s 34C][674]
+    Compare: 1987 No 74 [s 34C][687]
 
 ##### 85 Limitations and conditions on holders of limited visa
     
@@ -3624,11 +3682,11 @@ Visas
     
     *   (b) while in New Zealand, request a special direction, or a visa under section 61; or
     
-    *   (c) bring any appeal under this Act (other than an appeal under [section 194][241] or [195][242]), whether to a court, the Tribunal, or otherwise.
+    *   (c) bring any appeal under this Act (other than an appeal under [section 194][243] or [195][244]), whether to a court, the Tribunal, or otherwise.
     
     (3) Every limited visa is to be granted subject to conditions relating to its purpose.
     
-    Compare: 1987 No 74 [ss 14DA(4)][669], [34D][675]
+    Compare: 1987 No 74 [ss 14DA(4)][682], [34D][688]
 
 #### Transit visas
 
@@ -3638,7 +3696,7 @@ Visas
     
     (2) Subsection (1) applies to the person unless he or she is classified as a person to whom a transit visa waiver applies---
         
-    *   (a) by regulations made under [section 400][492]; or
+    *   (a) by regulations made under [section 400][500]; or
     
     *   (b) by special direction of the Minister under subsection (4).
     
@@ -3686,7 +3744,7 @@ Visas
         
         
     
-    Compare: 1987 No 74 [s 14E(1)--(2D)][676]
+    Compare: 1987 No 74 [s 14E(1)--(2D)][689]
 
 ##### 87 Transit visa may be granted as exception to immigration instructions
     
@@ -3694,11 +3752,11 @@ Visas
 
 ##### 88 Currency and nature of transit visa
     
-*   (1) Regulations made under [section 400][492] may prescribe the period for which a person may be in New Zealand as the holder of a transit visa.
+*   (1) Regulations made under [section 400][500] may prescribe the period for which a person may be in New Zealand as the holder of a transit visa.
     
     (2) A transit visa is current for the period or until the date specified in it, and may be expressed to be effective for any number of journeys to New Zealand in that period or before that date.
     
-    Compare: 1987 No 74 [s 14E(3)][676]
+    Compare: 1987 No 74 [s 14E(3)][689]
 
 ##### 89 Limitations on holders of transit visa
     
@@ -3706,7 +3764,7 @@ Visas
     
     (2) However, the Minister or an immigration officer, in his or her absolute discretion, may grant to the person a visa of the type and class that the Minister or immigration officer thinks fit.
     
-    Compare: 1987 No 74 [s 14E(4), (5)][676]
+    Compare: 1987 No 74 [s 14E(4), (5)][689]
 
 ##### 90 Cancellation of transit visa
     
@@ -3746,7 +3804,7 @@ Visas
     
     (3) Nothing in subsection (2) prevents the Minister or immigration officer from taking into account any information, evidence, or submissions provided by the person at any time before the decision whether to issue the invitation is made.
     
-    (4) It is also the responsibility of a person expressing an interest in obtaining an invitation to apply for a visa under [section 94][117] to inform the Minister or an immigration officer of any relevant fact, including any material change in circumstances that occurs after the expression of interest is notified, if that fact---
+    (4) It is also the responsibility of a person expressing an interest in obtaining an invitation to apply for a visa under [section 94][118] to inform the Minister or an immigration officer of any relevant fact, including any material change in circumstances that occurs after the expression of interest is notified, if that fact---
         
     *   (a) may affect the decision to issue an invitation to apply; or
     
@@ -3754,9 +3812,9 @@ Visas
     
     (5) Without limiting the scope of the expression **material change in circumstances**, such a change may relate to the person submitting an expression of interest or other person included in the expression of interest, and may relate to any matter relevant to this Act or immigration instructions.
     
-    (6) Failure to comply with the obligation set out in subsection (4) amounts to _concealment of relevant information_ for the purposes of [sections 157][195] and [158][196].
+    (6) Failure to comply with the obligation set out in subsection (4) amounts to _concealment of relevant information_ for the purposes of [sections 157][197] and [158][198].
     
-    Compare: 1987 No 74 [s 13D][677]
+    Compare: 1987 No 74 [s 13D][690]
 
 ##### 94 Invitation to apply for visa
     
@@ -3772,9 +3830,9 @@ Visas
     
     (6) A decision as to whether to issue an invitation to apply for a visa may be made having regard to the immigration instructions applicable at the time of the decision, even if they differ from the immigration instructions applicable at the time of notification of the relevant expression of interest.
     
-    (7) In a case where residence or restricted temporary entry instructions change between the date of issue of an invitation to apply for a residence class visa or visa to which restricted temporary entry instructions apply and the date on which a person's application for the relevant visa is made in response to that invitation, the decision on that application must be made in terms of the immigration instructions applicable at the time the application for the visa was made (and not at the time the invitation was issued), and, subject to [sections 72(3)][89] and [76(3)][94], any discretion exercised must be in terms of those instructions.
+    (7) In a case where residence or restricted temporary entry instructions change between the date of issue of an invitation to apply for a residence class visa or visa to which restricted temporary entry instructions apply and the date on which a person's application for the relevant visa is made in response to that invitation, the decision on that application must be made in terms of the immigration instructions applicable at the time the application for the visa was made (and not at the time the invitation was issued), and, subject to [sections 72(3)][90] and [76(3)][95], any discretion exercised must be in terms of those instructions.
     
-    Compare: 1987 No 74 [s 13E][678]
+    Compare: 1987 No 74 [s 13E][691]
 
 ##### 95 Issue of invitation to apply for visa matter of discretion
     
@@ -3782,7 +3840,7 @@ Visas
     
     (2) The decision whether to issue such an invitation, or to revoke such an invitation once issued, is a matter for the discretion of the Minister or, subject to any special direction, an immigration officer.
     
-    Compare: 1987 No 74 [s 10A][679]
+    Compare: 1987 No 74 [s 10A][692]
 
 ## Part 4  
 Arrivals and departures
@@ -3817,13 +3875,13 @@ Arrivals and departures
     
     (3) The chief executive may, in writing, exempt a carrier or a person to whom this section applies from complying with some or all of the carrier's or the person's responsibilities under this section in all or any specified circumstances.
     
-    (4) In this section, _scheduled international service_ means a series of flights or voyages that are--- 
+    (4) In this section, _scheduled international service_ means a series of flights or voyages that are---
         
     *   (a) performed by a craft for the transport of passengers, cargo, or mail between New Zealand and 1 or more points in any other country or territory, if the flights or voyages are so regular or frequent as to constitute a systematic service, whether or not in accordance with a published timetable; and
     
     *   (b) operated in a manner where each flight or voyage is open to use by members of the public.
     
-    Compare: 1987 No 74 [s 125AA(1), (2), (3)][680]
+    Compare: 1987 No 74 [s 125AA(1), (2), (3)][693]
 
 ##### 97 Chief executive may make decision about person boarding craft for purpose of travelling to New Zealand
     
@@ -3837,7 +3895,7 @@ Arrivals and departures
     
     (2) The chief executive---
         
-    *   (a) must notify a person to whom [section 96][121] applies of a decision made under subsection (1); and
+    *   (a) must notify a person to whom [section 96][122] applies of a decision made under subsection (1); and
     
     *   (b) may do so in any form he or she thinks appropriate, including, but not limited to, by means of an approved system, which may contain code that represents the outcome of the decision; and
     
@@ -3859,9 +3917,9 @@ Arrivals and departures
             
         *   (i) a New Zealand citizen who, before boarding the craft, holds and produces a New Zealand passport; or
         
-        *   (ii) a New Zealand citizen who, before boarding the craft, holds and produces a foreign passport containing an endorsement of a type described in [section 384][470]; or
+        *   (ii) a New Zealand citizen who, before boarding the craft, holds and produces a foreign passport containing an endorsement of a type described in [section 384][478]; or
         
-        *   (iii) a New Zealand citizen who, before boarding the craft, produces a returning resident's visa (within the meaning of [section 2(1)][681] of the former Act) endorsed in a current passport; or
+        *   (iii) a New Zealand citizen who, before boarding the craft, produces a returning resident's visa (within the meaning of [section 2(1)][694] of the former Act) endorsed in a current passport; or
         
         *   (iv) a permanent resident; or
         
@@ -3875,29 +3933,29 @@ Arrivals and departures
     
     *   (b) may bring review proceedings in relation to the decision only on the grounds that he or she is a person in relation to whom that decision should not have been made because he or she is a person to whom subsection (3)(b) applies.
     
-    (5) The chief executive is not obliged to give reasons for a decision made under subsection (1) other than that subsection (1) applies, and [section 23][626] of the Official Information Act 1982 does not apply in respect of the decision.
+    (5) The chief executive is not obliged to give reasons for a decision made under subsection (1) other than that subsection (1) applies, and [section 23][638] of the Official Information Act 1982 does not apply in respect of the decision.
     
-    (6) To avoid doubt, nothing in [section 305][370] applies to the chief executive when he or she is notifying a carrier, or a person in charge, of a commercial craft to whom [section 96][121] applies of a decision made under subsection (1).
+    (6) To avoid doubt, nothing in [section 305][372] applies to the chief executive when he or she is notifying a carrier, or a person in charge, of a commercial craft to whom [section 96][122] applies of a decision made under subsection (1).
     
-    Compare: 1987 No 74 [s 125AB][682]
+    Compare: 1987 No 74 [s 125AB][695]
 
-##### 98 Grant of entry permission outside New Zealand 
+##### 98 Grant of entry permission outside New Zealand
     
 *   (1) An immigration officer may grant entry permission to a person outside New Zealand if the person---
         
     *   (a) is the holder of a visa (other than a transit visa); and
     
-    *   (b) is in a place designated by the chief executive under [section 383][468]; and
+    *   (b) is in a place designated by the chief executive under [section 383][476]; and
     
     *   (c) has applied for entry permission in the prescribed manner.
     
-    (2) If a person outside New Zealand does not apply for entry permission under subsection (1)(c), [section 103][130] applies to the person on his or her arrival in New Zealand.
+    (2) If a person outside New Zealand does not apply for entry permission under subsection (1)(c), [section 103][131] applies to the person on his or her arrival in New Zealand.
 
 ##### 99 New Zealand citizen may confirm citizenship before arrival in New Zealand
     
 *   (1) A New Zealand citizen who intends entering New Zealand as a New Zealand citizen may, before boarding a craft for the purpose of travelling to New Zealand, comply with any requirements prescribed for the purpose of confirming a person's status as a New Zealand citizen.
     
-    (2) Otherwise, the person must fulfil the corresponding responsibility under [section 103(1)(e)][130] on his or her arrival in New Zealand.
+    (2) Otherwise, the person must fulfil the corresponding responsibility under [section 103(1)(e)][131] on his or her arrival in New Zealand.
     
     (3) Subsections (4) and (5) apply to a person who---
         
@@ -3907,21 +3965,21 @@ Arrivals and departures
             
         *   (i) a New Zealand passport; or
         
-        *   (ii) a foreign passport containing an endorsement of a type described in [section 384][470]; or
+        *   (ii) a foreign passport containing an endorsement of a type described in [section 384][478]; or
         
-        *   (iii) a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][681] of the former Act).
+        *   (iii) a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][694] of the former Act).
         
         
     
     (4) The person may, before boarding the craft, allow himself or herself to be photographed to confirm his or her New Zealand citizenship.
     
-    (5) Otherwise, the person must fulfil the corresponding requirement under [section 104][683] on his or her arrival in New Zealand.
+    (5) Otherwise, the person must fulfil the corresponding requirement under [section 104][696] on his or her arrival in New Zealand.
     
     (6) A photograph taken under subsection (4) (including any electronic record of the photograph) may be compared with---
         
     *   (a) information in the person's passport; or
     
-    *   (b) information held by the department of State for the time being responsible for the administration of the [Passports Act 1992][604]; or
+    *   (b) information held by the department of State for the time being responsible for the administration of the [Passports Act 1992][612]; or
     
     *   (c) if the person does not hold a New Zealand passport, information held by the Department.
     
@@ -3933,7 +3991,7 @@ Arrivals and departures
     
 *   (1) A person who is proposing to board a craft for the purposes of travelling to New Zealand must allow biometric information to be collected from him or her.
     
-    (2) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][492].
+    (2) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][500].
     
     (3) If the person fails to allow the biometric information to be collected, the chief executive may decide that the person---
         
@@ -3945,9 +4003,9 @@ Arrivals and departures
         
     *   (a) a New Zealand passport; or
     
-    *   (b) a foreign passport containing an endorsement of a type described in [section 384][470]; or
+    *   (b) a foreign passport containing an endorsement of a type described in [section 384][478]; or
     
-    *   (c) a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][681] of the former Act).
+    *   (c) a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][694] of the former Act).
     
     Section 100: not yet in force.
 
@@ -3967,23 +4025,23 @@ Arrivals and departures
         
         
     
-    *   (c) subject to [section 25][684] of the Customs and Excise Act 1996, where the craft arrives, or is to arrive, in New Zealand elsewhere than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, to make appropriate arrangements for all persons on board the craft to report in the manner and within the time prescribed for the purposes of [section 103(1)(b)][130]:
+    *   (c) subject to [section 25][697] of the Customs and Excise Act 1996, where the craft arrives, or is to arrive, in New Zealand elsewhere than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, to make appropriate arrangements for all persons on board the craft to report in the manner and within the time prescribed for the purposes of [section 103(1)(b)][131]:
     
     *   (d) if a stowaway has been found on the craft, to report that fact to an immigration officer as soon as practicable.
     
-    (2) In addition to any obligations under [section 102][128], the carrier, and the person in charge, of a craft that is en route to New Zealand or that berths, lands, or arrives in New Zealand from another country have the following responsibilities:
+    (2) In addition to any obligations under [section 102][129], the carrier, and the person in charge, of a craft that is en route to New Zealand or that berths, lands, or arrives in New Zealand from another country have the following responsibilities:
         
     *   (a) in the case of a craft that is not a commercial passenger aircraft on a scheduled international service, to supply on demand by an immigration officer a list giving such details as the officer may specify concerning every person (whether a member of the crew or a passenger) who has been on board the craft since its last port of call:
     
     *   (b) in the case of a commercial passenger aircraft on a scheduled international service, to supply such available information as may be required by an immigration officer relating to any person who may have been on board the craft since its last place of call.
     
-    (3) Once a craft that is en route to New Zealand has entered the territorial limits of New Zealand, the person in charge of the craft is, for the purpose of ensuring or facilitating compliance with this Act, responsible for preventing, with such reasonable force as may be necessary, the disembarkation of any person from the craft other than for the purpose of carrying out the person's responsibilities under [section 103][130].
+    (3) Once a craft that is en route to New Zealand has entered the territorial limits of New Zealand, the person in charge of the craft is, for the purpose of ensuring or facilitating compliance with this Act, responsible for preventing, with such reasonable force as may be necessary, the disembarkation of any person from the craft other than for the purpose of carrying out the person's responsibilities under [section 103][131].
     
-    (4) Subsections (1) to (3) are subject to any applicable special direction or to regulations made under [section 400][492].
+    (4) Subsections (1) to (3) are subject to any applicable special direction or to regulations made under [section 400][500].
     
-    (5) In this section, _scheduled international service_ has the meaning given to it in [section 96(4)][121].
+    (5) In this section, _scheduled international service_ has the meaning given to it in [section 96(4)][122].
     
-    Compare: 1987 No 74 [s 125(1), (2)][685]
+    Compare: 1987 No 74 [s 125(1), (2)][698]
 
 ##### 102 Obligations of carriers, and persons in charge, of craft to provide information
     
@@ -3995,9 +4053,9 @@ Arrivals and departures
     
     *   (c) the protection of border security.
     
-    (2) If the circumstances in subsection (3) exist, a person to whom [section 96][121] applies must---
+    (2) If the circumstances in subsection (3) exist, a person to whom [section 96][122] applies must---
         
-    *   (a) provide the chief executive with information of the prescribed kind about a person who intended to board a craft for the purpose of travelling to New Zealand, whether or not he or she did in fact board the craft (including, but not limited to, if he or she did not board the craft as a result of a decision made by the chief executive under [section 97][122]); and
+    *   (a) provide the chief executive with information of the prescribed kind about a person who intended to board a craft for the purpose of travelling to New Zealand, whether or not he or she did in fact board the craft (including, but not limited to, if he or she did not board the craft as a result of a decision made by the chief executive under [section 97][123]); and
     
     *   (b) ensure that the chief executive has access to the information described in paragraph (a).
     
@@ -4011,13 +4069,13 @@ Arrivals and departures
     
     (5) Information collected or accessed by the chief executive under subsections (2) and (4) may be retained by the chief executive only if any of the following circumstances apply:
         
-    *   (a) the chief executive decided under [section 97(1)(b)][122] that the person may not board a craft for the purpose of travelling to New Zealand:
+    *   (a) the chief executive decided under [section 97(1)(b)][123] that the person may not board a craft for the purpose of travelling to New Zealand:
     
     *   (b) the person has been refused a visa and entry permission---
             
         *   (i) on arrival; or
         
-        *   (ii) in a place designated by the chief executive under [section 383][468]:
+        *   (ii) in a place designated by the chief executive under [section 383][476]:
         
         
     
@@ -4031,7 +4089,7 @@ Arrivals and departures
     
     (7) To avoid doubt, information retained under subsection (5) may be further dealt with as permitted under the Privacy Act 1993\.
     
-    Compare: 1987 No 74 [s 125AD][686]
+    Compare: 1987 No 74 [s 125AD][699]
 
 #### Obligations on persons arriving in New Zealand
 
@@ -4049,11 +4107,11 @@ Arrivals and departures
             
         *   (i) the person is a New Zealand citizen and holds and produces a New Zealand passport; or
         
-        *   (ii) the person is a New Zealand citizen and holds and produces a foreign passport containing an endorsement of a type described in [section 384][470]; or
+        *   (ii) the person is a New Zealand citizen and holds and produces a foreign passport containing an endorsement of a type described in [section 384][478]; or
         
-        *   (iii) the person is a New Zealand citizen and holds and produces a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][681] of the former Act); or
+        *   (iii) the person is a New Zealand citizen and holds and produces a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][694] of the former Act); or
         
-        *   (iv) the person is a transit passenger (within the meaning of [section 86(7)][108]):
+        *   (iv) the person is a transit passenger (within the meaning of [section 86(7)][109]):
         
         
     
@@ -4063,7 +4121,7 @@ Arrivals and departures
     
     *   (g) to comply with any other directions of an immigration officer while in an immigration control area.
     
-    (2) However, the obligation in subsection (1)(e) does not apply if the person, before arriving in New Zealand, has already complied with those requirements in accordance with [section 99][124].
+    (2) However, the obligation in subsection (1)(e) does not apply if the person, before arriving in New Zealand, has already complied with those requirements in accordance with [section 99][125].
     
     (3) Where a person arriving in New Zealand is, by reason of age or disability, incapable of complying with any of the requirements of subsection (1), it is the responsibility of the parent or guardian or other person for the time being having the care of that person to comply with those requirements on that person's behalf.
     
@@ -4075,7 +4133,7 @@ Arrivals and departures
     
     (5) To avoid doubt, a New Zealand citizen who is a national of 1 or more other countries and who wishes to enter New Zealand other than as a New Zealand citizen must apply for entry permission in the prescribed manner.
     
-    Compare: 1987 No 74 [s 126(1), (3)][687]
+    Compare: 1987 No 74 [s 126(1), (3)][700]
 
 ##### 104 New Zealand citizens arriving in New Zealand to be photographed
     
@@ -4091,7 +4149,7 @@ Arrivals and departures
         
         *   (ii) a foreign passport containing an endorsement of a type described in section 384; or
         
-        *   (iii) a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][681] of the former Act).
+        *   (iii) a foreign passport containing a returning resident's visa (within the meaning of [section 2(1)][694] of the former Act).
         
         
     
@@ -4101,7 +4159,7 @@ Arrivals and departures
         
     *   (a) information in the person's passport; or
     
-    *   (b) information held by the department of State for the time being responsible for the administration of the [Passports Act 1992][604]; or
+    *   (b) information held by the department of State for the time being responsible for the administration of the [Passports Act 1992][612]; or
     
     *   (c) if the person does not hold a New Zealand passport, information held by the Department.
     
@@ -4111,11 +4169,11 @@ Arrivals and departures
     
     (6) The obligation in subsection (2)---
         
-    *   (a) is in addition to any requirements prescribed for the purposes of [section 103(1)(e)][130] that may apply; but
+    *   (a) is in addition to any requirements prescribed for the purposes of [section 103(1)(e)][131] that may apply; but
     
-    *   (b) is subject to any prescribed exemptions made in accordance with [section 402(l)][494].
+    *   (b) is subject to any prescribed exemptions made in accordance with [section 402(l)][502].
     
-    (7) However, the obligation in subsection (2) does not apply if the person, before arriving in New Zealand, has already allowed himself or herself to be photographed in accordance with [section 99][124].
+    (7) However, the obligation in subsection (2) does not apply if the person, before arriving in New Zealand, has already allowed himself or herself to be photographed in accordance with [section 99][125].
     
     Section 104: not yet in force.
 
@@ -4133,7 +4191,7 @@ Arrivals and departures
     
     (4) In this section and section 106,---
     
-    _customs airport_ means an aerodrome designated as a customs airport under [section 9][688] of the Customs and Excise Act 1996
+    _customs airport_ means an aerodrome designated as a customs airport under [section 9][701] of the Customs and Excise Act 1996
     
     _domestic passenger_---
         
@@ -4155,7 +4213,7 @@ Arrivals and departures
     
     *   (b) began inside New Zealand and is to continue outside New Zealand.
     
-    Compare: 1987 No 74 [s 126A][689]
+    Compare: 1987 No 74 [s 126A][702]
 
 ##### 106 Responsibilities of domestic passengers travelling by air within New Zealand
     
@@ -4175,7 +4233,7 @@ Arrivals and departures
         
         
     
-    *   (b) if the person is unable to produce the specified document or documents, complete a form approved and issued for the purpose by the chief executive under [section 381][466].
+    *   (b) if the person is unable to produce the specified document or documents, complete a form approved and issued for the purpose by the chief executive under [section 381][474].
     
     (3) A demand under subsection (2) may be made of a person only for the purpose of enabling the immigration officer to establish the person's identity or the person's entitlement to air travel for a domestic sector, or both.
     
@@ -4187,7 +4245,7 @@ Arrivals and departures
     
     (5) Nothing in this section limits the exercise by an immigration officer of any power contained in any other provision of this Act.
     
-    Compare: 1987 No 74 [s 126B][690]
+    Compare: 1987 No 74 [s 126B][703]
 
 #### Entry permission
 
@@ -4215,7 +4273,7 @@ Arrivals and departures
     
     (3) The holder of a resident visa granted outside New Zealand must be granted entry permission if it is his or her second or subsequent entry to New Zealand as the holder of the visa.
     
-    (4) If the holder of a resident visa granted outside New Zealand intends travelling to New Zealand for the first time as the holder of the visa and applies for entry permission under [section 98(1)][123],---
+    (4) If the holder of a resident visa granted outside New Zealand intends travelling to New Zealand for the first time as the holder of the visa and applies for entry permission under [section 98(1)][124],---
         
     *   (a) the Minister or, subject to any special direction, an immigration officer may, in his or her discretion,---
             
@@ -4241,7 +4299,7 @@ Arrivals and departures
     
     (6) The Minister's or immigration officer's decision under subsection (4)(a) or (5)(a) must be made, and any discretion exercised, in terms of the residence instructions applicable at the time the person applied for the visa.
     
-    (7) For the purposes of subsections (4) and (5), the following matters are matters for the discretion of the Minister or immigration officer, as the case may be, and, subject to [section 187(1)(c)][232], no appeal lies against his or her decision, whether to a court, the Tribunal, the Minister, or otherwise:
+    (7) For the purposes of subsections (4) and (5), the following matters are matters for the discretion of the Minister or immigration officer, as the case may be, and, subject to [section 187(1)(c)][234], no appeal lies against his or her decision, whether to a court, the Tribunal, the Minister, or otherwise:
         
     *   (a) a decision to grant the visa holder entry permission:
     
@@ -4257,7 +4315,7 @@ Arrivals and departures
         
     *   (a) grant the holder of a temporary entry class visa entry permission on the basis of his or her visa; or
     
-    *   (b) in accordance with [section 82][103], cancel the visa of the holder of a temporary entry class visa, grant a limited visa in its place, and grant the person entry permission on the basis of the limited visa; or
+    *   (b) in accordance with [section 82][104], cancel the visa of the holder of a temporary entry class visa, grant a limited visa in its place, and grant the person entry permission on the basis of the limited visa; or
     
     *   (c) refuse the holder of a temporary entry class visa entry permission.
     
@@ -4303,9 +4361,9 @@ Arrivals and departures
     
     (2) If he or she fails to allow the biometric information to be collected, the Minister or an immigration officer may refuse to grant the person entry permission.
     
-    (3) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][492].
+    (3) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][500].
 
-##### 112 Obligation to inform of all relevant facts, including changed circumstances 
+##### 112 Obligation to inform of all relevant facts, including changed circumstances
     
 *   (1) It is the responsibility of an applicant for entry permission to ensure that all information, evidence, and submissions that the applicant wishes to have considered in support of the application are provided when the application is made.
     
@@ -4319,7 +4377,7 @@ Arrivals and departures
     
     (4) Without limiting the scope of the expression _material change in circumstances_ in subsection (3), such a change may relate to the applicant or another person included in the application, and may relate to any matter relevant to this Act or immigration instructions.
     
-    (5) Failure to comply with the obligation set out in subsection (3) amounts to _concealment of relevant information_ for the purposes of [section 157][195] or [158][196].
+    (5) Failure to comply with the obligation set out in subsection (3) amounts to _concealment of relevant information_ for the purposes of [section 157][197] or [158][198].
     
     (6) It is sufficient grounds for the Minister or an immigration officer to decline to grant entry permission to a person if the Minister or officer is satisfied that the person,---
         
@@ -4337,7 +4395,7 @@ Arrivals and departures
     
     (3) If the person has been granted entry permission outside New Zealand, entry permission may be revoked at any time before---
         
-    *   (a) the person leaves the place designated by the chief executive under [section 383][468] where the error was made; or
+    *   (a) the person leaves the place designated by the chief executive under [section 383][476] where the error was made; or
     
     *   (b) the person leaves the arrival hall of the airport or port at which he or she arrived in New Zealand.
     
@@ -4349,13 +4407,13 @@ Arrivals and departures
     
 *   A constable may arrest a person, and present him or her to an immigration officer for the purposes of making decisions in relation to the person under this Act, if the constable has good cause to suspect that---
         
-    *   (a) the person arrived in New Zealand from another country elsewhere than at an immigration control area or other prescribed place, and did not comply with the requirements of [section 103][130] or any regulations referred to in that section; or
+    *   (a) the person arrived in New Zealand from another country elsewhere than at an immigration control area or other prescribed place, and did not comply with the requirements of [section 103][131] or any regulations referred to in that section; or
     
     *   (b) the person recently arrived in New Zealand from another country elsewhere than at an immigration control area or other prescribed place and will not comply with the requirements of section 103 or any regulations referred to in that section; or
     
     *   (c) the person arrived in New Zealand from another country at an immigration control area or other prescribed place and did not comply with the requirements of section 103 or any regulations referred to in that section.
     
-    Compare: 1987 No 74 [s 126(6)][687]
+    Compare: 1987 No 74 [s 126(6)][700]
 
 ##### 115 Arrest, detention, and turnaround of persons
     
@@ -4367,15 +4425,15 @@ Arrivals and departures
     
     *   (c) holds a visa but---
             
-        *   (i) the visa is subsequently cancelled under [section 64(1)(b), (c), (d), or (e)][78]; or
+        *   (i) the visa is subsequently cancelled under [section 64(1)(b), (c), (d), or (e)][79]; or
         
-        *   (ii) the visa is cancelled under [section 67][81] while the person is in an immigration control area (unless some other visa is granted to the person or the person is a New Zealand citizen); or
+        *   (ii) the visa is cancelled under [section 67][82] while the person is in an immigration control area (unless some other visa is granted to the person or the person is a New Zealand citizen); or
         
         
     
     *   (d) is a stowaway; or
     
-    *   (e) after arriving in New Zealand, is a person whose transit visa is cancelled by an immigration officer under [section 90][112]; or
+    *   (e) after arriving in New Zealand, is a person whose transit visa is cancelled by an immigration officer under [section 90][113]; or
     
     *   (f) is the holder of a transit visa and the transit period concerned has expired.
     
@@ -4385,7 +4443,7 @@ Arrivals and departures
     
     *   (b) does not have any rights of appeal on humanitarian grounds so long as this section applies to the person; and
     
-    *   (c) is liable to be arrested and detained under [Part 9][372]; and
+    *   (c) is liable to be arrested and detained under [Part 9][374]; and
     
     *   (d) is liable for turnaround.
     
@@ -4393,21 +4451,25 @@ Arrivals and departures
 
 ##### 116 When section 115 ceases to apply to person
     
-*   (1) [Section 115][144] ceases to apply to a person upon the earliest of the following:
+*   (1) [Section 115][145] ceases to apply to a person upon the earliest of the following:
         
-    *   (a) the expiry of 72 hours after the person (including a stowaway) first reports or presents to an immigration officer after arriving in New Zealand, unless that person is sooner arrested and detained or otherwise dealt with under [Part 9][372]:
+    *   (a) the expiry of 72 hours after the person (including a stowaway) first reports or presents to an immigration officer after arriving in New Zealand, unless that person is sooner arrested and detained or otherwise dealt with under [Part 9][374]:
     
-    *   (b) in the case of a person whose visa is deemed to be cancelled under [section 64(1)(d)(ii)][78], 72 hours after the time when the person is physically located by an immigration officer or a constable following the person's leaving the immigration control area in contravention of the instruction of an immigration officer, unless the person is sooner arrested and detained or otherwise dealt with under [Part 9][372]:
+    *   (b) in the case of a person whose visa is deemed to be cancelled under [section 64(1)(d)(ii)][79], 72 hours after the time when the person is physically located by an immigration officer or a constable following the person's leaving the immigration control area in contravention of the instruction of an immigration officer, unless the person is sooner arrested and detained or otherwise dealt with under [Part 9][374]:
     
     *   (c) the person being granted a visa and entry permission:
     
-    *   (d) the expiry of a warrant of commitment issued under [section 317][385] or [318][386], unless a further warrant of commitment is issued or the person is released on conditions under [Part 9][372] or agrees to residence and reporting requirements under [section 315][382].
+    *   (d) the expiry of a warrant of commitment issued under [section 317][387] or [318][393], unless a further warrant of commitment is issued or the person is released on conditions under [Part 9][374] or agrees to residence and reporting requirements under [section 315][384]:
     
-    (2) This section is subject to section 117\.
+    *   (e) in the case of a person detained under a mass arrival warrant issued under [section 317B][389], the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under [section 317][387], [317E][392], [318][393], or [323][398] or the person is released on conditions under [Part 9][374], or agrees to residence and reporting requirements under [section 315][384].
+    
+    (2) This section is subject to [section 117][147].
     
     (3) For the purposes of this section, a stowaway is deemed to arrive in New Zealand at the time when the craft on which the stowaway is travelling crosses into the territorial limits of New Zealand.
     
-    Compare: 1987 No 74 [s 128(1)--(5)][691]
+    Compare: 1987 No 74 [s 128(1)--(5)][704]
+    
+    Section 116(1)(e): inserted, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 117 When turnaround ceases to apply to person remanded in custody or imprisoned
     
@@ -4421,13 +4483,17 @@ Arrivals and departures
     
     (3) Subsection (4) applies to a person who is liable for turnaround and who is arrested and detained not later than 72 hours after he or she has been released from custody or imprisonment for suspected criminal offending, or criminal offending.
     
-    (4) The person remains liable for turnaround until the earlier of the following:
+    (4) The person remains liable for turnaround until the earliest of the following:
         
     *   (a) the person is granted a visa and entry permission:
     
-    *   (b) the expiry of a warrant of commitment issued under [section 317][385] or [318][386], unless a further warrant of commitment is issued or the person is released on conditions under [Part 9][372] or agrees to residence and reporting requirements under [section 315][382].
+    *   (b) the expiry of a warrant of commitment issued under [section 317][387] or [318][393], unless a further warrant of commitment is issued or the person is released on conditions under [Part 9][374] or agrees to residence and reporting requirements under [section 315][384]:
     
+    *   (c) in the case of a person detained under a mass arrival warrant issued under [section 317B][389], the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under [section 317][387], [317E][392], [318][393], or [323][398] or the person is released on conditions under [Part 9][374], or agrees to residence and reporting requirements under [section 315][384].
     
+    Section 117(4): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 117(4)(c): inserted, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 #### Obligations in relation to departure from New Zealand
 
@@ -4465,7 +4531,7 @@ Arrivals and departures
     
     *   (b) to pay any costs incurred by the Crown in detaining and maintaining a person described in paragraph (a) pending the person's departure from New Zealand.
     
-    (3) Subsections (1) and (2) are subject to any applicable special direction or to regulations made under [section 400][492].
+    (3) Subsections (1) and (2) are subject to any applicable special direction or to regulations made under [section 400][500].
     
     (4) The responsibility of the carrier and person in charge under subsection (1)(a) is not affected by the class or type of seat available on the craft, but is subject to---
         
@@ -4475,7 +4541,7 @@ Arrivals and departures
     
     *   (c) in relation to a person being deported, an offer to pay the cost of passage having been received.
     
-    Compare: 1987 No 74 [s 125(3), (4), (5)][685]
+    Compare: 1987 No 74 [s 125(3), (4), (5)][698]
 
 ##### 119 Obligations of persons leaving New Zealand
     
@@ -4489,13 +4555,13 @@ Arrivals and departures
     
     (2) Where a person leaving New Zealand is, by reason of age or disability, incapable of complying with any of the requirements of subsection (1), it is the responsibility of the parent or guardian or other person for the time being having the care of that person to comply with those requirements on that person's behalf.
     
-    Compare: 1987 No 74 [s 126(2), (3)][687]
+    Compare: 1987 No 74 [s 126(2), (3)][700]
 
 ##### 120 Persons other than New Zealand citizens leaving New Zealand to allow biometric information to be collected
     
 *   (1) A person leaving New Zealand who is not a New Zealand citizen must allow biometric information to be collected from him or her.
     
-    (2) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][492].
+    (2) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under [section 400(l)][500].
 
 #### Special provision for emergencies, etc
 
@@ -4519,15 +4585,15 @@ Arrivals and departures
     
     an immigration officer must, on application by the person, grant him or her a temporary entry class visa (current until a date not earlier than the 14th day following that return) and entry permission.
     
-    Compare: 1987 No 74 [s 127][692]
+    Compare: 1987 No 74 [s 127][706]
 
 #### Protection for carriers, and persons in charge, of craft
 
 ##### 123 Protection for carriers, and persons in charge, of craft
     
-*   A person who in good faith imposes reasonable measures, including restraint or reasonable force, on another person in accordance with his or her responsibilities under [section 101][127] or [118][148] is not guilty of an offence and is not liable to any civil proceedings in respect of those measures.
+*   A person who in good faith imposes reasonable measures, including restraint or reasonable force, on another person in accordance with his or her responsibilities under [section 101][128] or [118][149] is not guilty of an offence and is not liable to any civil proceedings in respect of those measures.
     
-    Compare: 1987 No 74 [s 125(9)][685]
+    Compare: 1987 No 74 [s 125(9)][698]
 
 ## Part 5  
 Refugee and protection status determinations
@@ -4546,7 +4612,7 @@ Refugee and protection status determinations
         
         
     
-    Compare: 1987 No 74 [s 129A][693]
+    Compare: 1987 No 74 [s 129A][707]
 
 ##### 125 Refugee or protection status to be determined under this Act
     
@@ -4556,9 +4622,9 @@ Refugee and protection status determinations
     
     (3) Every question as to whether a person should continue to be recognised as a refugee in New Zealand or as a protected person in New Zealand must be determined in accordance with this Act.
     
-    (4) Nothing in subsection (1) affects [section 126][159].
+    (4) Nothing in subsection (1) affects [section 126][160].
     
-    Compare: 1987 No 74 [s 129C][694]
+    Compare: 1987 No 74 [s 129C][708]
 
 ##### 126 Recognition of refugees selected outside New Zealand
     
@@ -4568,7 +4634,7 @@ Refugee and protection status determinations
     
     *   (b) brought to New Zealand under a government mandated programme on the basis of that recognition.
     
-    Compare: 1987 No 74 [s 129L(2)][695]
+    Compare: 1987 No 74 [s 129L(2)][709]
 
 ##### 127 Context for decision making
     
@@ -4580,9 +4646,9 @@ Refugee and protection status determinations
     
     *   (b) to the extent that a matter relating to a refugee or a person claiming recognition as a refugee is not dealt with in this Act, in a way that is consistent with New Zealand's obligations under the Refugee Convention.
     
-    (3) The text of the Refugee Convention is set out in [Schedule 1][591].
+    (3) The text of the Refugee Convention is set out in [Schedule 1][599].
     
-    Compare: 1987 No 74 [s 129D][696]
+    Compare: 1987 No 74 [s 129D][710]
 
 ##### 128 Matter not finally determined until expiry of appeal period or when appeal determined
     
@@ -4600,7 +4666,7 @@ Refugee and protection status determinations
     
 *   (1) A person must be recognised as a refugee in accordance with this Act if he or she is a refugee within the meaning of the Refugee Convention.
     
-    (2) A person who has been recognised as a refugee under subsection (1) cannot be deported from New Zealand except in the circumstances set out in [section 164(3)][202].
+    (2) A person who has been recognised as a refugee under subsection (1) cannot be deported from New Zealand except in the circumstances set out in [section 164(3)][204].
 
 ##### 130 Recognition as protected person under Convention Against Torture
     
@@ -4610,7 +4676,7 @@ Refugee and protection status determinations
     
     (3) For the purposes of determining whether there are substantial grounds for belief under subsection (1), the refugee and protection officer concerned must take into account all relevant considerations, including, if applicable, the existence in the country concerned of a consistent pattern of gross, flagrant, or mass violations of human rights.
     
-    (4) A person who has been recognised as a protected person under subsection (1) cannot be deported from New Zealand except in the circumstances set out in [section 164(4)][202].
+    (4) A person who has been recognised as a protected person under subsection (1) cannot be deported from New Zealand except in the circumstances set out in [section 164(4)][204].
     
     (5) In this section, _torture_ has the same meaning as in the Convention Against Torture.
 
@@ -4622,7 +4688,7 @@ Refugee and protection status determinations
     
     (3) For the purposes of determining whether there are substantial grounds for belief under subsection (1), the refugee and protection officer concerned must take into account all relevant considerations, including, if applicable, the existence in the country concerned of a consistent pattern of gross, flagrant, or mass violations of human rights.
     
-    (4) A person who has been recognised as a protected person under subsection (1) cannot be deported from New Zealand except in the circumstances set out in [section 164(4)][202].
+    (4) A person who has been recognised as a protected person under subsection (1) cannot be deported from New Zealand except in the circumstances set out in [section 164(4)][204].
     
     (5) For the purposes of this section,---
         
@@ -4642,13 +4708,13 @@ Refugee and protection status determinations
             
         *   (i) the person has been served with a deportation liability notice; or
         
-        *   (ii) the person is named in an Order in Council made under [section 163][201].
+        *   (ii) the person is named in an Order in Council made under [section 163][203].
         
         
     
-    (2) Nothing in this section affects the power of a refugee and protection officer to re-open a claim for further consideration under any of [sections 143 to 147][178].
+    (2) Nothing in this section affects the power of a refugee and protection officer to re-open a claim for further consideration under any of [sections 143 to 147][180].
     
-    Compare: 1987 No 74 [s 129K][697]
+    Compare: 1987 No 74 [s 129K][711]
 
 ##### 133 How claim made
     
@@ -4666,7 +4732,7 @@ Refugee and protection status determinations
     
     (5) A claimant must provide a refugee and protection officer with a current address in New Zealand to which communications relating to the claim may be sent and a current residential address, and must notify the officer in a timely manner of a change in either of those addresses. The officer may rely on the latest address to which communications may be sent for the purpose of communications under this Part.
     
-    Compare: 1987 No 74 [s 129G(1)--(4)][698]
+    Compare: 1987 No 74 [s 129G(1)--(4)][712]
 
 ##### 134 Whether to accept claim for consideration
     
@@ -4680,7 +4746,7 @@ Refugee and protection status determinations
             
         *   (i) acting otherwise than in good faith; and
         
-        *   (ii) for a purpose of creating grounds for recognition under [section 129][163].
+        *   (ii) for a purpose of creating grounds for recognition under [section 129][164].
         
         
     
@@ -4694,7 +4760,7 @@ Refugee and protection status determinations
         
     *   (a) acting otherwise than in good faith; and
     
-    *   (b) for a purpose of creating grounds for recognition under [section 129][163].
+    *   (b) for a purpose of creating grounds for recognition under [section 129][164].
     
     (4) For the purposes of determining the matter in subsection (3), the refugee and protection officer must not treat the actions of any other person in relation to the claim or the claimant as a mitigating factor.
     
@@ -4714,19 +4780,31 @@ Refugee and protection status determinations
 
 ##### 135 Claimant responsible for establishing claim
     
-*   (1) It is the responsibility of a claimant to establish his or her claim for recognition under [section 129][163], [130][164], or [131][165] as a refugee or a protected person.
+*   (1) It is the responsibility of a claimant to establish his or her claim for recognition under [section 129][164], [130][165], or [131][166] as a refugee or a protected person.
     
     (2) To this end, the claimant must ensure that, before a refugee and protection officer makes a determination on his or her claim, all information, evidence, and submissions---
         
     *   (a) that the claimant wishes to have considered in support of the claim are provided to the refugee and protection officer; and
     
-    *   (b) that the claimant would wish to have considered in support of any other potential claim under [section 129][163], [130][164], or [131][165] are provided to the refugee and protection officer.
+    *   (b) that the claimant would wish to have considered in support of any other potential claim under [section 129][164], [130][165], or [131][166] are provided to the refugee and protection officer.
     
-    Compare: 1987 No 74 [s 129G(5)][698]
+    Compare: 1987 No 74 [s 129G(5)][712]
+
+##### 135A Suspension of determination of claim
+    
+*   (1) This section applies to a claim if the processing of the claim is suspended in accordance with regulations made under [section 400][500].
+    
+    (2) For the duration of the suspension, a refugee and protection officer must not---
+        
+    *   (a) determine the claim in accordance with [sections 136][172] and [137][173]; or
+    
+    *   (b) make a decision on the claim in accordance with [section 138][174].
+    
+    Section 135A: inserted, on 19 June 2013, by [section 7][713] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 136 How refugee and protection officer to determine claim
     
-*   (1) For the purpose of determining a claim, a refugee and protection officer must determine the matters set out in [section 137][171].
+*   (1) For the purpose of determining a claim, a refugee and protection officer must determine the matters set out in [section 137][173].
     
     (2) In doing so, the refugee and protection officer may seek information from any source, but is not obliged to seek any information, evidence, or submissions further to that provided by the claimant.
     
@@ -4740,17 +4818,17 @@ Refugee and protection status determinations
     
     (4) To avoid doubt, the refugee and protection officer may determine the claim on the basis only of the information, evidence, and submissions provided by the claimant concerned.
     
-    Compare: 1987 No 74 [s 129G(6), (7)][698]
+    Compare: 1987 No 74 [s 129G(6), (7)][712]
 
 ##### 137 Matters to be determined by refugee and protection officer
     
 *   (1) For each claim accepted for consideration, a refugee and protection officer must determine, in the following order:
         
-    *   (a) whether to recognise the claimant as a refugee on the ground set out in [section 129][163]; and
+    *   (a) whether to recognise the claimant as a refugee on the ground set out in [section 129][164]; and
     
-    *   (b) whether to recognise the claimant as a protected person on the ground set out in [section 130][164]; and
+    *   (b) whether to recognise the claimant as a protected person on the ground set out in [section 130][165]; and
     
-    *   (c) whether to recognise the claimant as a protected person on the ground set out in [section 131][165].
+    *   (c) whether to recognise the claimant as a protected person on the ground set out in [section 131][166].
     
     (2) For each claim accepted for consideration, a refugee and protection officer must also determine, as part of the process in respect of a determination under subsection 1(b) or (c), whether there are serious reasons for considering that the claimant has---
         
@@ -4766,7 +4844,7 @@ Refugee and protection status determinations
     
     *   (b) is relevant only if the person is recognised as a protected person; and
     
-    *   (c) if answered in the affirmative, requires the Minister to determine the immigration status of the protected person in accordance with [section 139][173].
+    *   (c) if answered in the affirmative, requires the Minister to determine the immigration status of the protected person in accordance with [section 139][175].
     
     (4) For each claim accepted for consideration, a refugee and protection officer must also determine whether the claimant has the protection of another country or has been recognised as a refugee by another country and can be received back and protected there without risk of being returned to a country where he or she would be at risk of circumstances that would give rise to grounds for his or her recognition as a refugee or a protected person in New Zealand.
     
@@ -4774,7 +4852,7 @@ Refugee and protection status determinations
         
     *   (a) in determining the matters specified in this section, may make findings of credibility or fact:
     
-    *   (b) must determine all the matters described in subsections (1), (2), and (4), regardless of whether the claim was made only on 1 or 2 of the 3 grounds set out in [sections 129 to 131][163].
+    *   (b) must determine all the matters described in subsections (1), (2), and (4), regardless of whether the claim was made only on 1 or 2 of the 3 grounds set out in [sections 129 to 131][164].
     
     
 
@@ -4782,35 +4860,35 @@ Refugee and protection status determinations
     
 *   (1) A refugee and protection officer must recognise a person as---
         
-    *   (a) a refugee if satisfied that the grounds for recognition in [section 129][163] have been met:
+    *   (a) a refugee if satisfied that the grounds for recognition in [section 129][164] have been met:
     
-    *   (b) a protected person if satisfied that the grounds for recognition in [section 130][164] or [131][165] (or both) have been met.
+    *   (b) a protected person if satisfied that the grounds for recognition in [section 130][165] or [131][166] (or both) have been met.
     
     (2) Despite subsection (1), a refugee and protection officer may refuse to recognise a person as a refugee or a protected person if he or she is satisfied that the person has the protection of another country or has been recognised as a refugee by another country and can be received back and protected there without risk of being returned to a country where he or she would be at risk of circumstances that would give rise to grounds for his or her recognition as a refugee or a protected person in New Zealand.
     
-    (3) The decision of the refugee and protection officer is final, unless overturned by the Tribunal on appeal under [section 194][241].
+    (3) The decision of the refugee and protection officer is final, unless overturned by the Tribunal on appeal under [section 194][243].
     
     (4) The refugee and protection officer must notify the claimant, in the prescribed manner, of---
         
     *   (a) the officer's decision on the claim; and
     
-    *   (b) the reasons for the decision, which must contain the information required under [section 23][29] of the Official Information Act 1982 as if the decision were a response to a request to which that section applies; and
+    *   (b) the reasons for the decision, which must contain the information required under [section 23][30] of the Official Information Act 1982 as if the decision were a response to a request to which that section applies; and
     
-    *   (c) the officer's determination in relation to [section 137(2)][171]; and
+    *   (c) the officer's determination in relation to [section 137(2)][173]; and
     
     *   (d) the claimant's right of appeal to the Tribunal, where a claim for recognition on any ground has been declined.
     
-    (5) Once a decision on a claim is made and notified to a claimant, any refugee and protection officer may, in his or her absolute discretion, re-open the claim for further consideration under any of [sections 143 to 147][178].
+    (5) Once a decision on a claim is made and notified to a claimant, any refugee and protection officer may, in his or her absolute discretion, re-open the claim for further consideration under any of [sections 143 to 147][180].
     
-    Compare: 1987 No 74 [s 129I][699]
+    Compare: 1987 No 74 [s 129I][714]
 
 ##### 139 Minister to decide immigration status of protected person who may have committed certain crimes or been guilty of certain acts
     
-*   The Minister must make any decision about a protected person's immigration status if a refugee and protection officer has determined under [section 137(2)][171] that there are serious reasons for considering that the person has committed a crime or been guilty of any act described in that section.
+*   The Minister must make any decision about a protected person's immigration status if a refugee and protection officer has determined under [section 137(2)][173] that there are serious reasons for considering that the person has committed a crime or been guilty of any act described in that section.
 
 ##### 140 Limitation on subsequent claims
     
-*   (1) A refugee and protection officer must not consider a subsequent claim for recognition as a refugee unless the officer is satisfied---
+*   (1) A refugee and protection officer must not consider a subsequent claim for recognition as a refugee or a protected person unless the officer is satisfied---
         
     *   (a) that there has been a significant change in circumstances material to the claim since the previous claim was determined; and
     
@@ -4818,7 +4896,7 @@ Refugee and protection status determinations
             
         *   (i) acting otherwise than in good faith; and
         
-        *   (ii) for a purpose of creating grounds for recognition under [section 129][163].
+        *   (ii) for a purpose of creating grounds for recognition under any of [sections 129 to 131][164].
         
         
     
@@ -4828,13 +4906,19 @@ Refugee and protection status determinations
         
     *   (a) is manifestly unfounded or clearly abusive; or
     
-    *   (b) repeats a previous claim.
+    *   (b) repeats any claim previously made (including a subsequent claim).
     
-    Compare: 1987 No 74 [s 129J][700]
+    Compare: 1987 No 74 [s 129J][715]
+    
+    Section 140(1): amended, on 19 June 2013, by [section 8(1)][716] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 140(1)(b)(ii): amended, on 19 June 2013, by [section 8(2)][716] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 140(3)(b): replaced, on 19 June 2013, by [section 8(3)][716] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 141 Procedure on subsequent claims
     
-*   (1) The procedures specified in sections 135 to 139 apply to any subsequent claim accepted for consideration, except that any appeal to the Tribunal must be made under [section 195][242].
+*   (1) The procedures specified in sections 135 to 139 apply to any subsequent claim accepted for consideration, except that any appeal to the Tribunal must be made under [section 195][244].
     
     (2) In a subsequent claim, a claimant may not challenge any finding of credibility or fact made by a refugee and protection officer (or by a refugee status officer under the former Act) or the Tribunal (or by the Refugee Status Appeals Authority under the former Act) in relation to a previous claim by the claimant, and the refugee and protection officer determining the subsequent claim may rely on those findings.
 
@@ -4842,7 +4926,7 @@ Refugee and protection status determinations
     
 *   If a claimant leaves New Zealand, his or her claim (including any subsequent claim) under this Part must be treated as withdrawn.
     
-    Compare: 1987 No 74 [s 129V][701]
+    Compare: 1987 No 74 [s 129V][717]
 
 #### Cessation or cancellation of recognition
 
@@ -4864,9 +4948,9 @@ Refugee and protection status determinations
             
         *   (i) the Refugee Convention has ceased to apply to the person in terms of Article 1C:
         
-        *   (ii) there are no longer substantial grounds for believing that the person, if deported from New Zealand, would be in danger of being subjected to torture (as defined in [section 130(5)][164]):
+        *   (ii) there are no longer substantial grounds for believing that the person, if deported from New Zealand, would be in danger of being subjected to torture (as defined in [section 130(5)][165]):
         
-        *   (iii) there are no longer substantial grounds for believing that the person, if deported from New Zealand, would be in danger of being subjected to arbitrary deprivation of life or cruel treatment (as defined in [section 131(6)][165]).
+        *   (iii) there are no longer substantial grounds for believing that the person, if deported from New Zealand, would be in danger of being subjected to arbitrary deprivation of life or cruel treatment (as defined in [section 131(6)][166]).
         
         
     
@@ -4876,7 +4960,7 @@ Refugee and protection status determinations
     
 *   (1) A refugee and protection officer may apply to the Tribunal for a determination as to whether a person's recognition as a refugee or a protected person should cease if the original determination to recognise the person as a refugee or a protected person was made by the Tribunal (or by the Refugee Status Appeals Authority under the former Act).
     
-    (2) On an application made under subsection (1), the Tribunal may cease to recognise a person as a refugee or a protected person if 1 or more of the circumstances referred to in [section 143(b)][178] apply in respect of the person.
+    (2) On an application made under subsection (1), the Tribunal may cease to recognise a person as a refugee or a protected person if 1 or more of the circumstances referred to in [section 143(b)][180] apply in respect of the person.
 
 ##### 145 Cancellation of New Zealand citizen's recognition as refugee or protected person
     
@@ -4920,13 +5004,13 @@ Refugee and protection status determinations
         
         
     
-    *   (b) 1 or more of the circumstances referred to in [section 145(b)][180] apply in respect of the person; and
+    *   (b) 1 or more of the circumstances referred to in [section 145(b)][182] apply in respect of the person; and
     
     *   (c) the refugee and protection officer has determined that the person is not a refugee or a protected person.
     
     (2) A person whose recognition as a refugee or a protected person is cancelled under this section---
         
-    *   (a) is liable for deportation under [section 162][200]; and
+    *   (a) is liable for deportation under [section 162][202]; and
     
     *   (b) has the rights of appeal set out in subsection (2) of that section.
     
@@ -4958,11 +5042,11 @@ Refugee and protection status determinations
 
 ##### 148 Procedures to be followed when refugee and protection officer making determination under section 143, 145, or 146
     
-*   When making a determination under [section 143][178], [145][180], or [146][181],---
+*   When making a determination under [section 143][180], [145][182], or [146][183],---
         
     *   (a) a refugee and protection officer must notify the person concerned of the matter that is being considered; and
     
-    *   (b) [sections 135][169], [136(3)][170], [138(4)(a), (b), and (d)][172], [138(5)][172], and [149][185] apply, with any necessary modifications, as if the matter being considered were a claim and the person concerned were a claimant.
+    *   (b) [sections 135][170], [136(3)][172], [138(4)(a), (b), and (d)][174], [138(5)][174], and [149][187] apply, with any necessary modifications, as if the matter being considered were a claim and the person concerned were a claimant.
     
     
 
@@ -5000,7 +5084,7 @@ Refugee and protection status determinations
     
     (4) Where a person who is required to attend an interview fails to attend at the appointed time and place, the refugee and protection officer may determine the claim or matter without conducting the interview.
     
-    Compare: 1987 No 74 [s 129H][702]
+    Compare: 1987 No 74 [s 129H][718]
 
 ##### 150 Special provision relating to claimants granted temporary visas
     
@@ -5016,11 +5100,11 @@ Refugee and protection status determinations
     
     *   (b) while in New Zealand, request a special direction or make a request for the grant of a visa under section 61; or
     
-    *   (c) bring any appeal under [section 187][232] to the Tribunal.
+    *   (c) bring any appeal under [section 187][234] to the Tribunal.
     
     (3) Despite subsection (2)(a), a claimant may apply for a further temporary visa for such period as may be required for the claimant to be lawfully in New Zealand while his or her claim is determined.
     
-    (4) Nothing in this section prevents a person from bringing an appeal to the Tribunal under [section 206][255].
+    (4) Nothing in this section prevents a person from bringing an appeal to the Tribunal under [section 206][257].
     
     (5) This section ceases to apply to a person if and when---
         
@@ -5030,11 +5114,11 @@ Refugee and protection status determinations
     
     *   (c) the person is granted a visa (other than a temporary visa granted under the exception referred to in subsection (3)).
     
-    Compare: 1987, No 74 [s 129U][703]
+    Compare: 1987, No 74 [s 129U][719]
 
 ##### 151 Confidentiality to be maintained in respect of claimants, refugees, and protected persons
     
-*   (1) Confidentiality as to the fact that a person is a claimant, a refugee, or a protected person, and as to the particulars relating to the person's claim or status, must at all times during and subsequent to the determination of the claim or other matter be maintained by all persons and, in a particular case, may require confidentiality to be maintained as to the very fact or existence of a claim or case, if disclosure of its fact or existence would--- 
+*   (1) Confidentiality as to the fact that a person is a claimant, a refugee, or a protected person, and as to the particulars relating to the person's claim or status, must at all times during and subsequent to the determination of the claim or other matter be maintained by all persons and, in a particular case, may require confidentiality to be maintained as to the very fact or existence of a claim or case, if disclosure of its fact or existence would---
         
     *   (a) tend to identify the person concerned; or
     
@@ -5054,7 +5138,7 @@ Refugee and protection status determinations
     
     (3) In determining whether information may be released under subsection (2)(e), the person considering whether to disclose the information may have regard to the protections that the person, agency, or body to whom the information is disclosed may apply to the information, including---
         
-    *   (a) any applicable requirements of the [Privacy Act 1993][658]; and
+    *   (a) any applicable requirements of the [Privacy Act 1993][671]; and
     
     *   (b) any orders of the Tribunal or other court; and
     
@@ -5068,11 +5152,11 @@ Refugee and protection status determinations
     
     (5) To avoid doubt,---
         
-    *   (a) a refugee and protection officer may disclose information under subsection (2)(a) when carrying out his or her functions under [section 136(2)][170] or [149(1)(c) or (g)][185]:
+    *   (a) a refugee and protection officer may disclose information under subsection (2)(a) when carrying out his or her functions under [section 136(2)][172] or [149(1)(c) or (g)][187]:
     
-    *   (b) the chief executive may disclose information under subsection (2)(a) when collecting information on behalf of the Tribunal under [section 229][281]:
+    *   (b) the chief executive may disclose information under subsection (2)(a) when collecting information on behalf of the Tribunal under [section 229][283]:
     
-    *   (c) the Tribunal may disclose information under subsection (2)(a) when carrying out its functions under [section 228][280] or [clause 10(1)(b) and (c)][704] of Schedule 2:
+    *   (c) the Tribunal may disclose information under subsection (2)(a) when carrying out its functions under [section 228][282] or [clause 10(1)(b) and (c)][720] of Schedule 2:
     
     *   (d) for the purposes of determining a claim, or cancelling the recognition of, or ceasing to recognise, a person as a refugee or a protected person, information may be disclosed under subsection (2)(a).
     
@@ -5092,9 +5176,9 @@ Refugee and protection status determinations
         
     *   (a) inform the other officer or employee of the requirements of confidentiality in section 151; and
     
-    *   (b) require that officer or employee not to disclose information of the kind described in [section 151(1)][187] to any other agency, body, or person, except as provided for in that section.
+    *   (b) require that officer or employee not to disclose information of the kind described in [section 151(1)][189] to any other agency, body, or person, except as provided for in that section.
     
-    (3) To avoid doubt, a refugee and protection officer or the Tribunal does not breach [section 151][187] when requesting the assistance of a person under subsection (1).
+    (3) To avoid doubt, a refugee and protection officer or the Tribunal does not breach [section 151][189] when requesting the assistance of a person under subsection (1).
 
 ## Part 6  
 Deportation
@@ -5119,7 +5203,7 @@ Deportation
 
 #### Liability for deportation
 
-##### 154 Deportation liability if person unlawfully in New Zealand 
+##### 154 Deportation liability if person unlawfully in New Zealand
     
 *   (1) A person unlawfully in New Zealand is liable for deportation.
     
@@ -5127,7 +5211,7 @@ Deportation
     
     (3) Subsection (2) applies except if subsection (4) applies.
     
-    (4) If the person is unlawfully in New Zealand following an unsuccessful reconsideration under [section 185][228] of a decision to decline his or her visa application, the person may appeal on humanitarian grounds against his or her liability for deportation not later than 42 days after the later of---
+    (4) If the person is unlawfully in New Zealand following an unsuccessful reconsideration under [section 185][230] of a decision to decline his or her visa application, the person may appeal on humanitarian grounds against his or her liability for deportation not later than 42 days after the later of---
         
     *   (a) the day on which the person became unlawfully in New Zealand; or
     
@@ -5135,15 +5219,15 @@ Deportation
     
     
 
-##### 155 Deportation liability if person's visa granted in error 
+##### 155 Deportation liability if person's visa granted in error
     
 *   (1) A person is liable for deportation if---
         
     *   (a) the Minister or an immigration officer determines that the person's visa was granted as a result of an administrative error; and
     
-    *   (b) the visa was not cancelled under [section 67][81]; and
+    *   (b) the visa was not cancelled under [section 67][82]; and
     
-    *   (c) no visa was granted to the person under [section 68][82].
+    *   (c) no visa was granted to the person under [section 68][83].
     
     (2) The holder of a temporary visa or interim visa to whom this section applies has 14 days from the date of service of a deportation liability notice to give good reason why he or she should not be deported.
     
@@ -5237,9 +5321,9 @@ Deportation
         
         
     
-    (2) A former citizen who is deemed by [section 75][92] to hold a resident visa is liable for deportation if---
+    (2) A former citizen who is deemed by [section 75][93] to hold a resident visa is liable for deportation if---
         
-    *   (a) the person was deprived of his or her New Zealand citizenship under [section 17][705] of the Citizenship Act 1977 on the grounds that the grant, or grant requirement, was procured by fraud, false representation, or wilful concealment of relevant information; and
+    *   (a) the person was deprived of his or her New Zealand citizenship under [section 17][721] of the Citizenship Act 1977 on the grounds that the grant, or grant requirement, was procured by fraud, false representation, or wilful concealment of relevant information; and
     
     *   (b) that fraud, false representation, or wilful concealment of relevant information occurred in the context of procuring the immigration status that enabled the person to meet a requirement, or requirements, for the grant of New Zealand citizenship.
     
@@ -5249,7 +5333,7 @@ Deportation
     
     *   (b) on the facts and on humanitarian grounds, if subsection (1)(b) applies.
     
-    (4) If [section 156][194] also applies to a person to whom this section applies, the person's deportation liability must be determined under [section 156][194] and not this section.
+    (4) If [section 156][196] also applies to a person to whom this section applies, the person's deportation liability must be determined under [section 156][196] and not this section.
 
 ##### 159 Deportation liability of resident if visa conditions breached
     
@@ -5279,7 +5363,7 @@ Deportation
     
     (3) A person liable for deportation under this section may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal both on the facts and on humanitarian grounds against his or her liability for deportation.
     
-    (4) For the purposes of subsection (1), the date that a person first held a residence class visa must be calculated in accordance with [section 161(5)][199].
+    (4) For the purposes of subsection (1), the date that a person first held a residence class visa must be calculated in accordance with [section 161(5)][201].
 
 ##### 161 Deportation liability of residence class visa holder convicted of criminal offence
     
@@ -5315,7 +5399,7 @@ Deportation
     
     *   (c) if a person has been convicted of 2 or more offences, and a single sentence has been imposed in respect of those offences, as if that sentence had been imposed in respect of a conviction for a single offence.
     
-    (5) For the purposes of this section and [section 160(1)][198], a person first holds a residence class visa---
+    (5) For the purposes of this section and [section 160(1)][200], a person first holds a residence class visa---
         
     *   (a) on the date on which the person is first granted a residence class visa of any type in New Zealand; or
     
@@ -5329,19 +5413,19 @@ Deportation
         
     *   (a) was exempt from the requirement to hold a permit under the former Act; but
     
-    *   (b) is deemed to hold a residence class visa under [section 417(3)][516] of this Act.
+    *   (b) is deemed to hold a residence class visa under [section 417(3)][524] of this Act.
     
     (7) For the purposes of this section, the person first holds a residence class visa---
         
-    *   (a) on the date he or she first entered New Zealand and was exempt from the requirement to hold a residence permit under the former [Act][611]; or
+    *   (a) on the date he or she first entered New Zealand and was exempt from the requirement to hold a residence permit under the former [Act][620]; or
     
-    *   (b) on the date he or she first re-entered New Zealand and was exempt from the requirement to hold a residence permit under the former [Act][611] following a continuous period of absence from New Zealand of at least 5 years.
+    *   (b) on the date he or she first re-entered New Zealand and was exempt from the requirement to hold a residence permit under the former [Act][620] following a continuous period of absence from New Zealand of at least 5 years.
     
-    Compare: 1987 No 74 [s 91(1), (4), (6)][706]
+    Compare: 1987 No 74 [s 91(1), (4), (6)][722]
 
 ##### 162 Deportation liability if refugee or protection status cancelled under section 146
     
-*   (1) A person who is not a New Zealand citizen and who was previously recognised as a refugee or a protected person is liable for deportation if his or her recognition is cancelled under [section 146][181].
+*   (1) A person who is not a New Zealand citizen and who was previously recognised as a refugee or a protected person is liable for deportation if his or her recognition is cancelled under [section 146][183].
     
     (2) The person may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal against his or her liability for deportation---
         
@@ -5349,7 +5433,7 @@ Deportation
     
     *   (b) on the facts and on humanitarian grounds, in any other case.
     
-    Compare: 1987 No 74 [s 129L(1)(c)][695]
+    Compare: 1987 No 74 [s 129L(1)(c)][709]
 
 ##### 163 Deportation liability of persons threatening security
     
@@ -5359,7 +5443,7 @@ Deportation
     
     (3) The Governor-General may, by Order in Council, revoke an order made under subsection (1).
     
-    Compare: 1987 No 74 [ss 72][707], [73][708]
+    Compare: 1987 No 74 [ss 72][723], [73][724]
 
 ##### 164 Limitation on deportation of persons recognised or claiming recognition as refugee or protected person
     
@@ -5371,19 +5455,19 @@ Deportation
     
     (4) A protected person may be deported to any place other than a place in respect of which there are substantial grounds for believing that the person would be in danger of being subjected to---
         
-    *   (a) torture (as defined in [section 130(5)][164]); or
+    *   (a) torture (as defined in [section 130(5)][165]); or
     
-    *   (b) arbitrary deprivation of life or cruel treatment (as defined in [section 131(6)][165]).
+    *   (b) arbitrary deprivation of life or cruel treatment (as defined in [section 131(6)][166]).
     
-    (5) A refugee and protection officer must determine the matter in subsection (3) or (4), and [section 148][183] applies when making the determination, as if the determination were a determination to which that section applies.
+    (5) A refugee and protection officer must determine the matter in subsection (3) or (4), and [section 148][185] applies when making the determination, as if the determination were a determination to which that section applies.
 
 ##### 165 Immigration officer must have regard to certain matters when dealing with claimants, refugees, or protected persons
     
-*   An immigration officer must have regard to [Part 5][156] and [Schedule 1][591] (being the text of the Refugee Convention) when carrying out his or her functions under this Act in relation to a claimant, a refugee, or a protected person.
+*   An immigration officer must have regard to [Part 5][157] and [Schedule 1][599] (being the text of the Refugee Convention) when carrying out his or her functions under this Act in relation to a claimant, a refugee, or a protected person.
 
 ##### 166 Limitation on deportation of diplomats, etc
     
-*   Despite anything in this Part, no person who is for the time being entitled to any immunity from jurisdiction by or under the [Diplomatic Privileges and Immunities Act 1968][643] (other than a person referred to in [section 10D(2)(d)][644] of that Act) or the [Consular Privileges and Immunities Act 1971][645] may be deported under this Act.
+*   Despite anything in this Part, no person who is for the time being entitled to any immunity from jurisdiction by or under the [Diplomatic Privileges and Immunities Act 1968][655] (other than a person referred to in [section 10D(2)(d)][656] of that Act) or the [Consular Privileges and Immunities Act 1971][657] may be deported under this Act.
 
 ##### 167 Period of deportation liability
     
@@ -5393,13 +5477,13 @@ Deportation
         
     *   (a) any time spent by the person in imprisonment following conviction for any offence:
     
-    *   (b) any period of time when the person's liability for deportation is suspended by the Minister under [section 172][212] or by the Tribunal under [section 212][262].
+    *   (b) any period of time when the person's liability for deportation is suspended by the Minister under [section 172][214] or by the Tribunal under [section 212][264].
     
-    (3) To avoid doubt, a person liable for deportation under [section 154][192] (being a person unlawfully in New Zealand) remains liable for deportation as long as he or she is unlawfully in New Zealand.
+    (3) To avoid doubt, a person liable for deportation under [section 154][194] (being a person unlawfully in New Zealand) remains liable for deportation as long as he or she is unlawfully in New Zealand.
 
 ##### 168 Liability for deportation when person outside New Zealand
     
-*   (1) A person may become liable for deportation under any of [sections 155 to 163][193] when the person is outside New Zealand and, subject to this section, this Part and [Part 7][224] apply as if the person were in New Zealand.
+*   (1) A person may become liable for deportation under any of [sections 155 to 163][195] when the person is outside New Zealand and, subject to this section, this Part and [Part 7][226] apply as if the person were in New Zealand.
     
     (2) Subsection (3) applies to a person who---
         
@@ -5431,7 +5515,7 @@ Deportation
     
     (3) While a person is liable for deportation, the processing of any application by the person for a visa of a different class or type must be suspended.
     
-    (4) While a person is liable for deportation, the processing of any application by the person for the grant of New Zealand citizenship under [section 8][709] of the Citizenship Act 1977 or [section 7(1)(b)(ii)][710] of the Citizenship (Western Samoa) Act 1982 must be suspended.
+    (4) While a person is liable for deportation, the processing of any application by the person for the grant of New Zealand citizenship under [section 8][725] of the Citizenship Act 1977 or [section 7(1)(b)(ii)][726] of the Citizenship (Western Samoa) Act 1982 must be suspended.
 
 #### Notification of liability for deportation
 
@@ -5443,13 +5527,13 @@ Deportation
         
     *   (a) the person is liable for deportation on the grounds of being unlawfully in New Zealand; or
     
-    *   (b) the person is named in a deportation order under [section 163][201].
+    *   (b) the person is named in a deportation order under [section 163][203].
     
     (3) A deportation liability notice may be served on a person by---
         
     *   (a) personal service by an immigration officer (or by another person on behalf of an immigration officer); or
     
-    *   (b) registered post addressed to the person's New Zealand address or an address supplied under [section 57(2)][71].
+    *   (b) registered post addressed to the person's New Zealand address or an address supplied under [section 57(2)][72].
     
     
 
@@ -5479,9 +5563,9 @@ Deportation
     
     *   (g) the requirement to repay any costs to the Crown of deportation:
     
-    *   (h) if applicable, that a refugee and protection officer has determined that deportation of the person is not prohibited under [section 164][202]:
+    *   (h) if applicable, that a refugee and protection officer has determined that deportation of the person is not prohibited under [section 164][204]:
     
-    *   (i) if applicable, the grounds on which liability for deportation has been reactivated under [section 172(3)][212] or [212(3)][262].
+    *   (i) if applicable, the grounds on which liability for deportation has been reactivated under [section 172(3)][214] or [212(3)][264].
     
     
 
@@ -5501,7 +5585,7 @@ Deportation
         
     *   (a) the Minister may reactivate the person's liability for deportation by causing a deportation liability notice to be served on the person that sets out the grounds of the reactivation; and
     
-    *   (b) subject to [section 175(1)(e)][216], the person has 28 days from the date the deportation liability notice is served to leave New Zealand.
+    *   (b) subject to [section 175(1)(e)][218], the person has 28 days from the date the deportation liability notice is served to leave New Zealand.
     
     (4) In the case of a person who has appealed against his or her liability for deportation, the Minister must notify the Tribunal if the person's liability for deportation is cancelled, suspended, or reactivated under subsection (1), (2), or (3)(a).
     
@@ -5523,21 +5607,21 @@ Deportation
     
     (5) Despite subsection (1), the Minister must not have regard to any part of the victim's submissions that is withheld under subsection (4).
     
-    (6) In this section, **victim** means a victim of an offence of a kind referred to in [section 29][711] of the Victims' Rights Act 2002\.
+    (6) In this section, _victim_ means a victim of an offence of a kind referred to in [section 29][727] of the Victims' Rights Act 2002\.
     
-    Compare: 1987 No 74 [s 93A][712]
+    Compare: 1987 No 74 [s 93A][728]
 
 ##### 174 Effect of suspension
     
-*   (1) Where a person's liability for deportation is suspended by the Minister under [section 172][212], during the period of the suspension---
+*   (1) Where a person's liability for deportation is suspended by the Minister under [section 172][214], during the period of the suspension---
         
     *   (a) the person may not apply for a visa of a different class or type; and
     
     *   (b) the processing of any application made by the person for a visa of a different class or type must be suspended; and
     
-    *   (c) subject to [sections 9][713] and [10][714] of the Citizenship Act 1977 and [section 7(1)(b)(i)][710] of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that requires the person to hold a residence class visa.
+    *   (c) subject to [sections 9][729] and [10][730] of the Citizenship Act 1977 and [section 7(1)(b)(i)][726] of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that requires the person to hold a residence class visa.
     
-    (2) If the Minister determines that a person has met the conditions stated by the Minister under [section 172(2)][212] for the period of the suspension, the Minister must---
+    (2) If the Minister determines that a person has met the conditions stated by the Minister under [section 172(2)][214] for the period of the suspension, the Minister must---
         
     *   (a) cancel the person's liability for deportation; and
     
@@ -5569,7 +5653,7 @@ Deportation
         
         *   (iii) the day that is 28 days after the Tribunal determines an appeal against deportation, where the person lodged such an appeal and the liability for deportation was upheld (but subject to subparagraph (iv)):
         
-        *   (iv) where the person has lodged an appeal to the High Court under [section 245][299],---
+        *   (iv) where the person has lodged an appeal to the High Court under [section 245][301],---
                 
             *   (A) if the appeal is withdrawn, the day after the withdrawal:
             
@@ -5579,11 +5663,11 @@ Deportation
         
         
     
-    *   (d) in the case of a person in respect of whom an order is made under [section 163][201], as soon as that order is made:
+    *   (d) in the case of a person in respect of whom an order is made under [section 163][203], as soon as that order is made:
     
-    *   (e) in the case of a person who has breached the conditions stated in a notice or order suspending his or her liability for deportation under [section 172(2)][212] or [212(1)][262], the later of---
+    *   (e) in the case of a person who has breached the conditions stated in a notice or order suspending his or her liability for deportation under [section 172(2)][214] or [212(1)][264], the later of---
             
-        *   (i) 28 days after service of a deportation liability notice on the person under [section 172(3)][212] or [212(3)(a)][262], as the case may be; and
+        *   (i) 28 days after service of a deportation liability notice on the person under [section 172(3)][214] or [212(3)(a)][264], as the case may be; and
         
         *   (ii) any applicable day determined under paragraph (c):
         
@@ -5595,7 +5679,7 @@ Deportation
         
     *   (a) inside New Zealand or, if the person still holds a visa, outside New Zealand; and
     
-    *   (b) by personal service by an immigration officer (or by another person on behalf of an immigration officer) or by registered post addressed to the person's New Zealand address or an address supplied under [section 57(2)][71].
+    *   (b) by personal service by an immigration officer (or by another person on behalf of an immigration officer) or by registered post addressed to the person's New Zealand address or an address supplied under [section 57(2)][72].
     
     (3) A person may be served with a deportation order earlier than otherwise allowed under subsection (1) if the person so requests.
 
@@ -5619,7 +5703,7 @@ Deportation
     
     (2) A deportation order must be signed by---
         
-    *   (a) the Governor-General, if the order is made under [section 163][201]; or
+    *   (a) the Governor-General, if the order is made under [section 163][203]; or
     
     *   (b) an immigration officer, in any other case.
     
@@ -5627,7 +5711,7 @@ Deportation
 
 ##### 177 Deportation order may be cancelled
     
-*   (1) An immigration officer may, in his or her absolute discretion, cancel a deportation order served on a person to whom [section 154][192] applies.
+*   (1) An immigration officer may, in his or her absolute discretion, cancel a deportation order served on a person to whom [section 154][194] applies.
     
     (2) Nothing in subsection (1) gives a person a right to apply for the cancellation of a deportation order. However, an immigration officer must consider cancelling the deportation order of a person who is in New Zealand if the person provides information to the officer concerning his or her personal circumstances, and the information is relevant to New Zealand's international obligations.
     
@@ -5635,9 +5719,9 @@ Deportation
         
     *   (a) may make a decision as he or she thinks fit; and
     
-    *   (b) in doing so, is not under any obligation, whether by implication or otherwise,--- 
+    *   (b) in doing so, is not under any obligation, whether by implication or otherwise,---
             
-        *   (i) to apply any test or any particular test and, in particular, the officer is not obliged to apply the test set out in [section 207][256]; or
+        *   (i) to apply any test or any particular test and, in particular, the officer is not obliged to apply the test set out in [section 207][258]; or
         
         *   (ii) to inquire into the circumstances of, or to make any further inquiry in respect of the information provided by or in respect of, the person who is the subject of the deportation order or any other person.
         
@@ -5647,7 +5731,7 @@ Deportation
         
     *   (a) he or she is not obliged to give reasons for any decision, other than the reason that this subsection applies; and
     
-    *   (b) [section 23][626] of the Official Information Act 1982 does not apply in respect of the decision.
+    *   (b) [section 23][638] of the Official Information Act 1982 does not apply in respect of the decision.
     
     (5) However, to the extent that an immigration officer does have regard to any international obligations, the officer is obliged to record---
         
@@ -5669,37 +5753,37 @@ Deportation
     
     *   (c) ensuring that the person is placed on board a craft and detained there until the person leaves New Zealand.
     
-    (3) A deportation order may be executed in respect of a person who is serving a sentence of imprisonment in a prison only if the Minister has ordered the release of the person in accordance with [section 55][715] of the Parole Act 2002\.
+    (3) A deportation order may be executed in respect of a person who is serving a sentence of imprisonment in a prison only if the Minister has ordered the release of the person in accordance with [section 55][731] of the Parole Act 2002\.
 
-##### 179 Deported person may not enter New Zealand during period of prohibition on entry 
+##### 179 Deported person may not enter New Zealand during period of prohibition on entry
     
 *   (1) A person 18 years of age or over who is deported from New Zealand may not return to New Zealand, or be granted a visa or entry permission, during the period of prohibition on entry that applies to the person as set out in the following table:
     
     **Why person deported****Period of prohibition on entry (calculated from the date of deportation)**
     
-    [Section 155][193] applies (granted a visa as the result of an administrative error and visa not cancelled)none
+    [Section 155][195] applies (granted a visa as the result of an administrative error and visa not cancelled)none
     
-    [Section 154][192] applies (unlawfully in New Zealand), and person is subject to deportation order and deported not more than 12 months after date on which person became unlawfully in New Zealand2 years
+    [Section 154][194] applies (unlawfully in New Zealand), and person is subject to deportation order and deported not more than 12 months after date on which person became unlawfully in New Zealand2 years
     
-    [Section 154][192] applies (unlawfully in New Zealand), and person is subject to deportation order and deported 12 months or more after date on which person became unlawfully in New Zealand5 years
+    [Section 154][194] applies (unlawfully in New Zealand), and person is subject to deportation order and deported 12 months or more after date on which person became unlawfully in New Zealand5 years
     
-    [Section 154][192] applies (unlawfully in New Zealand), and person is subject to deportation order, and it is second or subsequent time that person has been unlawfully in New Zealand5 years
+    [Section 154][194] applies (unlawfully in New Zealand), and person is subject to deportation order, and it is second or subsequent time that person has been unlawfully in New Zealand5 years
     
-    [Section 157][195] applies (sufficient reasons for temporary entry class visa holder to be deported)5 years
+    [Section 157][197] applies (sufficient reasons for temporary entry class visa holder to be deported)5 years
     
-    [Section 159][197] applies (breached resident visa conditions)5 years
+    [Section 159][199] applies (breached resident visa conditions)5 years
     
-    [Section 156][194] applies (visa granted on basis of false identity)permanent prohibition
+    [Section 156][196] applies (visa granted on basis of false identity)permanent prohibition
     
-    [Section 158][196] applies (convicted of gaining residence class visa by fraud, forgery, etc)permanent prohibition
+    [Section 158][198] applies (convicted of gaining residence class visa by fraud, forgery, etc)permanent prohibition
     
-    [Section 160][198] applies (new information as to character becomes available)permanent prohibition
+    [Section 160][200] applies (new information as to character becomes available)permanent prohibition
     
-    [Section 162][200] applies (refugee or protection status cancelled for fraud, forgery, etc)permanent prohibition
+    [Section 162][202] applies (refugee or protection status cancelled for fraud, forgery, etc)permanent prohibition
     
-    [Section 161][199] applies (residence class visa holder convicted of specified offence)permanent prohibition
+    [Section 161][201] applies (residence class visa holder convicted of specified offence)permanent prohibition
     
-    [Section 163][201] applies (certified as person constituting threat or risk to security)permanent prohibition
+    [Section 163][203] applies (certified as person constituting threat or risk to security)permanent prohibition
     
     (2) A person who is unlawfully in New Zealand but leaves New Zealand voluntarily before he or she is served with a deportation order is not subject to any period of prohibition on entry.
 
@@ -5707,7 +5791,7 @@ Deportation
     
 *   (1) A person 18 years of age or over who is deported from New Zealand may not return to New Zealand, or be granted a visa or entry permission, until the person has repaid any debt due to the Crown in respect of the costs of his or her deportation.
     
-    (2) The requirement of this section is in addition to the period of prohibition on entry under [section 179][220].
+    (2) The requirement of this section is in addition to the period of prohibition on entry under [section 179][222].
     
     (3) The Minister may reduce or waive any debt due by a person under subsection (1) in his or her absolute discretion.
 
@@ -5717,7 +5801,7 @@ Deportation
         
     *   (a) is deported from New Zealand; and
     
-    *   (b) on deportation, is subject to a period of prohibition on entry to New Zealand under [section 179][220] or [180(1)][221]; and
+    *   (b) on deportation, is subject to a period of prohibition on entry to New Zealand under [section 179][222] or [180(1)][223]; and
     
     *   (c) attempts to enter or enters New Zealand during the period of prohibition in one of the following ways:
             
@@ -5729,19 +5813,19 @@ Deportation
         
         
     
-    (2) The period of prohibition on entry to which the person is subject under [section 179][220] restarts as from the later of the following dates:
+    (2) The period of prohibition on entry to which the person is subject under [section 179][222] restarts as from the later of the following dates:
         
     *   (a) the date the person attempts to re-enter, if the attempted entry is unsuccessful:
     
     *   (b) the date the person is once again deported from New Zealand, if the attempted re-entry is successful.
     
-    (3) If, despite a prohibition on entry applying to a person, a person re-enters New Zealand and the person becomes subject to a further prohibition on entry, the period of prohibition on entry that applies to the person on the subsequent deportation is the longest prohibition applicable under the table set out in [section 179][220].
+    (3) If, despite a prohibition on entry applying to a person, a person re-enters New Zealand and the person becomes subject to a further prohibition on entry, the period of prohibition on entry that applies to the person on the subsequent deportation is the longest prohibition applicable under the table set out in [section 179][222].
 
 ##### 182 Minister may reduce or remove period of prohibition on entry
     
-*   (1) The Minister may in his or her absolute discretion reduce, or remove altogether, the period of prohibition on entry that would otherwise apply to a person under [section 179(1)][220].
+*   (1) The Minister may in his or her absolute discretion reduce, or remove altogether, the period of prohibition on entry that would otherwise apply to a person under [section 179(1)][222].
     
-    (2) A reduction or removal under subsection (1) remains subject to [section 180(1)][221], unless the Minister determines otherwise.
+    (2) A reduction or removal under subsection (1) remains subject to [section 180(1)][223], unless the Minister determines otherwise.
 
 ## Part 7  
 Appeals, reviews, and other proceedings
@@ -5752,9 +5836,9 @@ Appeals, reviews, and other proceedings
     
     _affected person_ means a person who is---
         
-    *   (a) the subject of an application made by a refugee and protection officer under [section 144][179] or [147][182] to the Tribunal in relation to the cessation or cancellation of recognition of the person as a refugee or a protected person; or
+    *   (a) the subject of an application made by a refugee and protection officer under [section 144][181] or [147][184] to the Tribunal in relation to the cessation or cancellation of recognition of the person as a refugee or a protected person; or
     
-    *   (b) the subject of an application made by the Minister under [section 212(2)][262] to the Tribunal on whether the person has breached the conditions of suspension of his or her liability for deportation
+    *   (b) the subject of an application made by the Minister under [section 212(2)][264] to the Tribunal on whether the person has breached the conditions of suspension of his or her liability for deportation
     
     _closed hearing_, in relation to proceedings in the Tribunal or a court, means proceedings conducted in the absence of all persons other than---
         
@@ -5774,9 +5858,9 @@ Appeals, reviews, and other proceedings
     
     _matter_ means---
         
-    *   (a) an application made by a refugee and protection officer under [section 144][179] or [147][182] to the Tribunal in relation to the cessation or cancellation of recognition of a person as a refugee or a protected person:
+    *   (a) an application made by a refugee and protection officer under [section 144][181] or [147][184] to the Tribunal in relation to the cessation or cancellation of recognition of a person as a refugee or a protected person:
     
-    *   (b) an application made by the Minister under [section 212(2)][262] to the Tribunal on whether a person has breached the conditions of suspension of his or her liability for deportation.
+    *   (b) an application made by the Minister under [section 212(2)][264] to the Tribunal on whether a person has breached the conditions of suspension of his or her liability for deportation.
     
     
 
@@ -5840,7 +5924,7 @@ Appeals, reviews, and other proceedings
     
     (6) The fact that an application for reconsideration has been made under this section does not of itself entitle the applicant to remain in New Zealand after the expiry of the applicant's current temporary visa, but, until the application for reconsideration has been determined or withdrawn, the person may not be deported.
     
-    Compare: 1987 No 74 [s 31][716]
+    Compare: 1987 No 74 [s 31][732]
 
 #### Limited right of review in respect of temporary entry class visa decisions
 
@@ -5848,9 +5932,9 @@ Appeals, reviews, and other proceedings
     
 *   (1) No appeal lies against a decision of the Minister or an immigration officer on any matter in relation to a temporary entry class visa, whether to any court, the Tribunal, the Minister, or otherwise.
     
-    (2) Subsection (1) applies except to the extent that [section 185][228] provides a right of reconsideration for an onshore holder of a temporary visa in the circumstances set out in that section.
+    (2) Subsection (1) applies except to the extent that [section 185][230] provides a right of reconsideration for an onshore holder of a temporary visa in the circumstances set out in that section.
     
-    (3) A person may bring review proceedings in a court in respect of a decision in relation to a temporary entry class visa except if the decision is in relation to the--- 
+    (3) A person may bring review proceedings in a court in respect of a decision in relation to a temporary entry class visa except if the decision is in relation to the---
         
     *   (a) refusal or failure to grant a temporary entry class visa to a person outside New Zealand:
     
@@ -5866,15 +5950,15 @@ Appeals, reviews, and other proceedings
         
     *   (a) an applicant for a residence class visa may appeal against---
             
-        *   (i) a decision of an immigration officer to decline to grant the visa (including in the circumstances described in [section 190(2)(b)][235]):
+        *   (i) a decision of an immigration officer to decline to grant the visa (including in the circumstances described in [section 190(2)(b)][237]):
         
         *   (ii) a decision by the Minister not to grant a residence class visa if classified information has been relied on in making the decision:
         
         
     
-    *   (b) a person outside New Zealand who has been granted a resident visa may appeal against a decision to cancel the visa under [section 65(1)][79]:
+    *   (b) a person outside New Zealand who has been granted a resident visa may appeal against a decision to cancel the visa under [section 65(1)][80]:
     
-    *   (c) a person who has been granted a resident visa may appeal against a decision to refuse to grant the person entry permission (including in the circumstances described in [section 190(2)(b)][235]).
+    *   (c) a person who has been granted a resident visa may appeal against a decision to refuse to grant the person entry permission (including in the circumstances described in [section 190(2)(b)][237]).
     
     (2) However, no appeal lies under this Act in respect of---
         
@@ -5906,7 +5990,7 @@ Appeals, reviews, and other proceedings
     
     (5) An appeal under this section must be brought not later than 42 days after the date the appellant is notified of the decision appealed against.
     
-    (6) For the purposes of subsection (5), a written notice that is sent by post to an address supplied by the appellant under [section 57(2)][71] is treated as having been notified to him or her---
+    (6) For the purposes of subsection (5), a written notice that is sent by post to an address supplied by the appellant under [section 57(2)][72] is treated as having been notified to him or her---
         
     *   (a) 7 days after the date on which the notice was posted, if the address is in New Zealand; or
     
@@ -5920,11 +6004,11 @@ Appeals, reviews, and other proceedings
     
     *   (b) the cancellation of a resident visa granted outside New Zealand before the holder of the visa first arrives in New Zealand as the holder of the visa.
     
-    Compare: 1987 No 74 [s 18C(1)--(3)][717]
+    Compare: 1987 No 74 [s 18C(1)--(3)][733]
 
 ##### 188 Determination of appeal in relation to residence class visa
     
-*   (1) In determining an appeal under [section 187][232], the Tribunal may---
+*   (1) In determining an appeal under [section 187][234], the Tribunal may---
         
     *   (a) confirm the decision appealed against as having been correct in terms of the residence instructions applicable at the time the application for the visa was made by the appellant; or
     
@@ -5946,7 +6030,7 @@ Appeals, reviews, and other proceedings
     
     (2) Where the Tribunal determines to reverse a decision to refuse a visa under subsection (1)(b) or (c), the Tribunal must---
         
-    *   (a) consider whether it is appropriate that conditions should be imposed in accordance with [section 50][63] when a resident visa is granted to the appellant; and
+    *   (a) consider whether it is appropriate that conditions should be imposed in accordance with [section 50][64] when a resident visa is granted to the appellant; and
     
     *   (b) if it considers that imposing conditions is appropriate, direct the Minister to impose under that section the conditions specified in its decision (which may be specified with the degree of generality or particularity that the Tribunal thinks fit); and
     
@@ -5956,13 +6040,13 @@ Appeals, reviews, and other proceedings
     
     (4) The Tribunal must, as soon as practicable, notify the appellant in writing of its decision on the appeal and the reasons for that decision.
     
-    (5) Subject to [section 245][299], the decision of the Tribunal on the appeal is final, and, except where a court otherwise directs, the Tribunal has no jurisdiction to reconsider the appeal after the appellant has been notified of the decision.
+    (5) Subject to [section 245][301], the decision of the Tribunal on the appeal is final, and, except where a court otherwise directs, the Tribunal has no jurisdiction to reconsider the appeal after the appellant has been notified of the decision.
     
-    Compare: 1987 No 74 [s 18D][718]
+    Compare: 1987 No 74 [s 18D][734]
 
 ##### 189 Use of further information in appeals under section 187
     
-*   (1) In determining an appeal under [section 187][232], the Tribunal may not consider any information or evidence adduced by the appellant that was not provided to the Minister or the immigration officer before the time at which the Minister or the officer made the decision that is the subject of the appeal.
+*   (1) In determining an appeal under [section 187][234], the Tribunal may not consider any information or evidence adduced by the appellant that was not provided to the Minister or the immigration officer before the time at which the Minister or the officer made the decision that is the subject of the appeal.
     
     (2) Subsection (1) is subject to subsections (3) to (6).
     
@@ -5978,7 +6062,7 @@ Appeals, reviews, and other proceedings
         
         
     
-    *   (b) the Tribunal considers that it is necessary for it to have the information or evidence for the purpose of considering whether to make a determination under [section 188(1)(f)][233].
+    *   (b) the Tribunal considers that it is necessary for it to have the information or evidence for the purpose of considering whether to make a determination under [section 188(1)(f)][235].
     
     (4) The Tribunal may require the chief executive to arrange for an interview to be conducted with any specified person for any specified purpose and in any specified manner, and for the report of that interview to be provided to the Tribunal, where---
         
@@ -5990,17 +6074,17 @@ Appeals, reviews, and other proceedings
     
     (5) An interview conducted under subsection (4) may not be conducted by any immigration officer who has previously interviewed the person.
     
-    (6) The Tribunal may, if it considers it fair in all the circumstances to do so, determine the appeal in the manner set out in [section 188(1)(d)][233] where---
+    (6) The Tribunal may, if it considers it fair in all the circumstances to do so, determine the appeal in the manner set out in [section 188(1)(d)][235] where---
         
     *   (a) it comes to the attention of the Tribunal that any particular event has occurred after the time at which the Minister or the immigration officer made the decision on the appellant's visa application; and
     
     *   (b) the Tribunal is satisfied that the event materially affects the applicant's eligibility under residence instructions.
     
-    Compare: 1987 No 74 [s 18F(4)--(6)][719]
+    Compare: 1987 No 74 [s 18F(4)--(6)][735]
 
 ##### 190 Procedure where appeal successful or Tribunal makes recommendation
     
-*   (1) The Minister or an immigration officer must grant a residence class visa (and if necessary grant entry permission) to the appellant where the Tribunal reverses a decision under [section 188(1)(b) or (c)][233].
+*   (1) The Minister or an immigration officer must grant a residence class visa (and if necessary grant entry permission) to the appellant where the Tribunal reverses a decision under [section 188(1)(b) or (c)][235].
     
     (2) However, nothing in subsection (1) requires a residence class visa or entry permission to be granted to a person---
         
@@ -6022,17 +6106,17 @@ Appeals, reviews, and other proceedings
     
     (3) Where, in reliance on subsection (2)(a), a residence class visa is not immediately granted to a person who is already in New Zealand, the Minister or an immigration officer must grant a temporary visa to the person, being a visa that is current for a period of not less than 6 months.
     
-    (4) The Minister must not impose any conditions on a resident visa granted under subsection (1), unless the Tribunal has directed the Minister to do so under [section 188(2)(b)][233].
+    (4) The Minister must not impose any conditions on a resident visa granted under subsection (1), unless the Tribunal has directed the Minister to do so under [section 188(2)(b)][235].
     
-    (5) Where the Tribunal makes a recommendation under [section 188(1)(f)][233], the Minister---
+    (5) Where the Tribunal makes a recommendation under [section 188(1)(f)][235], the Minister---
         
     *   (a) must consider whether a residence class visa should be granted to the appellant as an exception to residence instructions; and
     
-    *   (b) may, if he or she grants a resident visa, impose conditions on the visa in accordance with [section 50][63].
+    *   (b) may, if he or she grants a resident visa, impose conditions on the visa in accordance with [section 50][64].
     
-    (6) The Minister is not obliged to give reasons in relation to any decision made as a result of any consideration under subsection (5), and neither [section 27][35] of this Act nor [section 23][626] of the Official Information Act 1982 applies in respect of any such decision.
+    (6) The Minister is not obliged to give reasons in relation to any decision made as a result of any consideration under subsection (5), and neither [section 27][36] of this Act nor [section 23][638] of the Official Information Act 1982 applies in respect of any such decision.
     
-    Compare: 1987 No 74 [s 18E][720]
+    Compare: 1987 No 74 [s 18E][736]
 
 #### No appeal or review rights in relation to invitations to apply and transit visas
 
@@ -6056,7 +6140,7 @@ Appeals, reviews, and other proceedings
     
     (2) Every appeal as to whether a person should continue to be recognised as a refugee or a protected person in New Zealand must be determined in accordance with this Act.
     
-    (3) To the extent that an issue is not dealt with in this Act, the Tribunal, in carrying out its functions in relation to the recognition of a person as a refugee, must act in a way that is consistent with New Zealand's obligations under the Refugee Convention. 
+    (3) To the extent that an issue is not dealt with in this Act, the Tribunal, in carrying out its functions in relation to the recognition of a person as a refugee, must act in a way that is consistent with New Zealand's obligations under the Refugee Convention.
     
     (4) The Tribunal, in carrying out its functions in relation to the recognition of a person as a protected person, must act in a way that is consistent with this Act.
 
@@ -6066,23 +6150,23 @@ Appeals, reviews, and other proceedings
         
     *   (a) to decline to accept for consideration the person's claim to be recognised as a refugee or a protected person on the grounds that---
             
-        *   (i) in light of an international arrangement or agreement (as defined in [section 134(5)][168]), the person may have lodged, or had the opportunity to lodge, a claim for refugee status in another country:
+        *   (i) in light of an international arrangement or agreement (as defined in [section 134(5)][169]), the person may have lodged, or had the opportunity to lodge, a claim for refugee status in another country:
         
-        *   (ii) in light of an international arrangement or agreement (as defined in [section 134(5)][168]), the person may have lodged, or had the opportunity to lodge, a claim for protection in another country:
+        *   (ii) in light of an international arrangement or agreement (as defined in [section 134(5)][169]), the person may have lodged, or had the opportunity to lodge, a claim for protection in another country:
         
         
     
-    *   (b) under [section 134(3)][168] to decline to accept for consideration the person's claim to be recognised as a refugee:
+    *   (b) under [section 134(3)][169] to decline to accept for consideration the person's claim to be recognised as a refugee:
     
-    *   (c) to decline the person's claim to be recognised under any of [sections 129][163], [130][164], and [131][165] as a refugee or a protected person (whether or not the refugee and protection officer recognised the person as a refugee or a protected person under the grounds set out in another of those sections, or both of those other sections):
+    *   (c) to decline the person's claim to be recognised under any of [sections 129][164], [130][165], and [131][166] as a refugee or a protected person (whether or not the refugee and protection officer recognised the person as a refugee or a protected person under the grounds set out in another of those sections, or both of those other sections):
     
-    *   (d) to cease to recognise the person as a refugee or a protected person under [section 143][178]:
+    *   (d) to cease to recognise the person as a refugee or a protected person under [section 143][180]:
     
-    *   (e) to cancel recognition of a New Zealand citizen as a refugee or a protected person on a ground under [section 145(b)][180].
+    *   (e) to cancel recognition of a New Zealand citizen as a refugee or a protected person on a ground under [section 145(b)][182].
     
     (2) An appeal under this section must be brought,---
         
-    *   (a) if the person is in detention under [Part 9][372], not later than 5 working days after the date on which the appellant is notified of the decision to which the appeal relates; or
+    *   (a) if the person is in detention under [Part 9][374], not later than 5 working days after the date on which the appellant is notified of the decision to which the appeal relates; or
     
     *   (b) in any other case, not later than 10 working days after the date on which the appellant is notified of the decision to which the appeal relates.
     
@@ -6122,21 +6206,21 @@ Appeals, reviews, and other proceedings
     
     *   (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
     
-    Compare: 1987 No 74 [s 129O][721]
+    Compare: 1987 No 74 [s 129O][737]
 
 ##### 195 Right of appeal in relation to subsequent claims for refugee or protection status
     
-*   (1) A person may appeal to the Tribunal against a decision by a refugee and protection officer--- 
+*   (1) A person may appeal to the Tribunal against a decision by a refugee and protection officer---
         
-    *   (a) under [section 140(1)][174] to refuse to consider a subsequent claim by the person to be recognised as a refugee:
+    *   (a) under [section 140(1)][176] to refuse to consider a subsequent claim by the person to be recognised as a refugee or a protected person:
     
-    *   (b) under [section 140(3)][174] to refuse to consider a subsequent claim by the person to be recognised as a refugee or a protected person, but only if the person's most recent previous claim was declined under [Part 6A][619] of the former Act.
+    *   (b) under [section 140(3)][176] to refuse to consider a subsequent claim by the person to be recognised as a refugee or a protected person, but only if the person's most recent previous claim was declined under [Part 6A][628] of the former Act.
     
-    (2) A person may appeal to the Tribunal against a decision by a refugee and protection officer to decline a subsequent claim by the person to be recognised under any of [sections 129][163], [130][164], and [131][165] as a refugee or a protected person (whether or not the refugee and protection officer recognised the person as a refugee or a protected person under the grounds set out in another of those sections, or both of those other sections).
+    (2) A person may appeal to the Tribunal against a decision by a refugee and protection officer to decline a subsequent claim by the person to be recognised under any of [sections 129][164], [130][165], and [131][166] as a refugee or a protected person (whether or not the refugee and protection officer recognised the person as a refugee or a protected person under the grounds set out in another of those sections, or both of those other sections).
     
     (3) An appeal under this section must be brought,---
         
-    *   (a) if the person is in detention under [Part 9][372], not later than 5 working days after the date on which the appellant is notified of the decision to which the appeal relates; or
+    *   (a) if the person is in detention under [Part 9][374], not later than 5 working days after the date on which the appellant is notified of the decision to which the appeal relates; or
     
     *   (b) in any other case, not later than 10 working days after the date on which the appellant was notified of the decision to which the appeal relates.
     
@@ -6168,15 +6252,17 @@ Appeals, reviews, and other proceedings
     
     *   (c) becomes liable for deportation for any reason at some future date.
     
-    (10) In subsection (3), _working day_ has the meaning given to it in [section 194(9)][241].
+    (10) In subsection (3), _working day_ has the meaning given to it in [section 194(9)][243].
+    
+    Section 195(1)(a): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 196 Determination of appeal against decision declining to accept for consideration claim in light of international arrangement or agreement
     
-*   (1) Where an appeal is brought under [section 194(1)(a)][241], the Tribunal must---
+*   (1) Where an appeal is brought under [section 194(1)(a)][243], the Tribunal must---
         
     *   (a) determine the matter de novo; and
     
-    *   (b) determine whether, in light of any international arrangement or agreement (as defined in [section 134(5)][168]) the claimant may have lodged, or had the opportunity to lodge,---
+    *   (b) determine whether, in light of any international arrangement or agreement (as defined in [section 134(5)][169]) the claimant may have lodged, or had the opportunity to lodge,---
             
         *   (i) a claim for refugee status in another country:
         
@@ -6190,13 +6276,13 @@ Appeals, reviews, and other proceedings
         
     *   (a) it must refer the claim back to a refugee and protection officer for consideration; and
     
-    *   (b) if the decision relates to a person to whom [section 194(5)][241] applies, it must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with [section 194(6)(a)][241].
+    *   (b) if the decision relates to a person to whom [section 194(5)][243] applies, it must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with [section 194(6)(a)][243].
     
     (4) To avoid doubt, nothing in subsection (1) requires the Tribunal to seek any information, evidence, or submissions further to those provided by the appellant.
 
-##### 197 Determination of appeal against decision declining to accept for consideration certain claims for recognition as refugee 
+##### 197 Determination of appeal against decision declining to accept for consideration certain claims for recognition as refugee
     
-*   (1) Where an appeal is brought under [section 194(1)(b)][241], the Tribunal must---
+*   (1) Where an appeal is brought under [section 194(1)(b)][243], the Tribunal must---
         
     *   (a) determine the matter de novo; and
     
@@ -6204,7 +6290,7 @@ Appeals, reviews, and other proceedings
             
         *   (i) acting otherwise than in good faith; and
         
-        *   (ii) for a purpose of creating grounds for recognition under [section 129][163].
+        *   (ii) for a purpose of creating grounds for recognition under [section 129][164].
         
         
     
@@ -6216,23 +6302,23 @@ Appeals, reviews, and other proceedings
         
     *   (a) it must refer the claim back to a refugee and protection officer for consideration; and
     
-    *   (b) if the decision relates to a person to whom [section 194(5)][241] applies, it must, in accordance with [section 194(6)(a)][241], dispense with its consideration of any humanitarian appeal lodged by the person.
+    *   (b) if the decision relates to a person to whom [section 194(5)][243] applies, it must, in accordance with [section 194(6)(a)][243], dispense with its consideration of any humanitarian appeal lodged by the person.
     
     (5) To avoid doubt, nothing in subsection (1) requires the Tribunal to seek any information, evidence, or submissions further to those provided by the appellant.
 
 ##### 198 Determination of appeal against declining of claim for recognition, cancellation of recognition, or cessation of recognition
     
-*   (1) Where an appeal is brought under [section 194(1)(c) or (d)][241], the Tribunal must---
+*   (1) Where an appeal is brought under [section 194(1)(c) or (d)][243], the Tribunal must---
         
     *   (a) determine the matter de novo; and
     
     *   (b) determine, in the following order:
             
-        *   (i) whether to recognise the person as a refugee on the ground set out in [section 129][163]; and
+        *   (i) whether to recognise the person as a refugee on the ground set out in [section 129][164]; and
         
-        *   (ii) whether to recognise the person as a protected person on the ground set out in [section 130][164]; and
+        *   (ii) whether to recognise the person as a protected person on the ground set out in [section 130][165]; and
         
-        *   (iii) whether to recognise the person as a protected person on the ground set out in [section 131][165]; and
+        *   (iii) whether to recognise the person as a protected person on the ground set out in [section 131][166]; and
         
         
     
@@ -6246,11 +6332,11 @@ Appeals, reviews, and other proceedings
         
         
     
-    (2) Where an appeal is brought under [section 194(1)(e)][241] (being an appeal against a decision by a refugee and protection officer to cancel recognition of a New Zealand citizen as a refugee or a protected person on a ground under [section 145(b)][180]), the Tribunal must---
+    (2) Where an appeal is brought under [section 194(1)(e)][243] (being an appeal against a decision by a refugee and protection officer to cancel recognition of a New Zealand citizen as a refugee or a protected person on a ground under [section 145(b)][182]), the Tribunal must---
         
     *   (a) determine the matter de novo; and
     
-    *   (b) except if the appeal relates to a ground under [section 145(b)(ii)][180], determine whether---
+    *   (b) except if the appeal relates to a ground under [section 145(b)(ii)][182], determine whether---
             
         *   (i) recognition of the person as a refugee or a protected person may have been procured by fraud, forgery, false or misleading representation, or concealment of relevant information:
         
@@ -6262,11 +6348,11 @@ Appeals, reviews, and other proceedings
     
     (3) The Tribunal may uphold or reverse the decision of the refugee and protection officer, but may not refer the claim back to a refugee and protection officer for reconsideration.
     
-    (4) If the Tribunal reverses a decision in relation to a person to whom [section 194(5)][241] applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with [section 194(6)(a)][241].
+    (4) If the Tribunal reverses a decision in relation to a person to whom [section 194(5)][243] applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with [section 194(6)(a)][243].
     
     (5) To avoid doubt, nothing in subsection (1) requires the Tribunal to seek any information, evidence, or submissions further to those provided by the appellant.
     
-    Compare: 1987 No 74 [s 129P(5), (6)][722]
+    Compare: 1987 No 74 [s 129P(5), (6)][738]
 
 ##### 199 After successful appeal, Minister to decide immigration status of protected person who may have committed certain crimes or been guilty of certain acts
     
@@ -6274,13 +6360,13 @@ Appeals, reviews, and other proceedings
         
     *   (a) the person is a protected person; and
     
-    *   (b) there are serious reasons under [section 198(1)(c)][245] for considering that the person has committed a crime, or been guilty of any act, described in that paragraph.
+    *   (b) there are serious reasons under [section 198(1)(c)][247] for considering that the person has committed a crime, or been guilty of any act, described in that paragraph.
     
     
 
 ##### 200 Determination of appeal against refusal or declining of subsequent claim for recognition as refugee or protected person
     
-*   (1) Where an appeal is brought under [section 195(1)(a)][242], the Tribunal must first consider---
+*   (1) Where an appeal is brought under [section 195(1)(a)][244], the Tribunal must first consider---
         
     *   (a) whether there has been a significant change in circumstances material to the appellant's claim since the previous claim was determined; and
     
@@ -6288,7 +6374,7 @@ Appeals, reviews, and other proceedings
             
         *   (i) acting otherwise than in good faith; and
         
-        *   (ii) for a purpose of creating grounds for recognition under [section 129][163].
+        *   (ii) for a purpose of creating grounds for recognition under any of [sections 129 to 131][164].
         
         
     
@@ -6300,11 +6386,11 @@ Appeals, reviews, and other proceedings
             
         *   (i) acting otherwise than in good faith; and
         
-        *   (ii) for a purpose of creating grounds for recognition under [section 129][163].
+        *   (ii) for a purpose of creating grounds for recognition under any of [sections 129 to 131][164].
         
         
     
-    (3) The Tribunal must consider the claim for recognition in accordance with [section 198(1)][245] if it---
+    (3) The Tribunal must consider the claim for recognition in accordance with [section 198(1)][247] if it---
         
     *   (a) determines that there is a significant change in circumstances; and
     
@@ -6312,19 +6398,25 @@ Appeals, reviews, and other proceedings
             
         *   (i) acting otherwise than in good faith; and
         
-        *   (ii) for a purpose of creating grounds for recognition under [section 129][163].
+        *   (ii) for a purpose of creating grounds for recognition under any of [sections 129 to 131][164].
         
         
     
-    (4) Where an appeal is brought under [section 195(1)(b)][242], the Tribunal must first consider whether the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim.
+    (4) Where an appeal is brought under [section 195(1)(b)][244], the Tribunal must first consider whether the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim.
     
     (5) If the Tribunal determines that the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim, it must dismiss the appeal.
     
-    (6) If the Tribunal does not determine that the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim, it must consider the claim for recognition in accordance with [section 198(1)][245].
+    (6) If the Tribunal does not determine that the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim, it must consider the claim for recognition in accordance with [section 198(1)][247].
     
-    (7) Where an appeal is brought under [section 195(2)][242], the Tribunal must determine the matter in accordance with [section 198(1)][245], as if the appeal were an appeal to which that section applied.
+    (7) Where an appeal is brought under [section 195(2)][244], the Tribunal must determine the matter in accordance with [section 198(1)][247], as if the appeal were an appeal to which that section applied.
     
-    (8) If the Tribunal reverses a decision in relation to a person to whom [section 195(6)][242] applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged in accordance with [section 195(7)(a)][242] by the person.
+    (8) If the Tribunal reverses a decision in relation to a person to whom [section 195(6)][244] applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged in accordance with [section 195(7)(a)][244] by the person.
+    
+    Section 200(1)(b)(ii): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 200(2)(b)(ii): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 200(3)(b)(ii): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 #### Appeal on facts against liability for deportation
 
@@ -6332,19 +6424,19 @@ Appeals, reviews, and other proceedings
     
 *   (1) The following persons may appeal to the Tribunal on the facts against their liability for deportation:
         
-    *   (a) residents whose liability for deportation arises under [section 155][193], [156(1)(b)][194], [158(1)(b)][196], [159][197], or [160][198]:
+    *   (a) residents whose liability for deportation arises under [section 155][195], [156(1)(b)][196], [158(1)(b)][198], [159][199], or [160][200]:
     
-    *   (b) permanent residents whose liability for deportation arises under [section 155][193], [156(1)(b)][194], [158(1)(b)][196], or [160][198]:
+    *   (b) permanent residents whose liability for deportation arises under [section 155][195], [156(1)(b)][196], [158(1)(b)][198], or [160][200]:
     
-    *   (c) persons recognised as refugees or protected persons whose liability for deportation arises under [section 162(1)][200], other than persons described in subsection (2)(b).
+    *   (c) persons recognised as refugees or protected persons whose liability for deportation arises under [section 162(1)][202], other than persons described in subsection (2)(b).
     
     (2) The following persons may not appeal to the Tribunal on the facts against their liability for deportation:
         
-    *   (a) residents or permanent residents whose liability for deportation arises under [section 156(1)(a)][194], [158(1)(a)][196], 158(2), or [161][199]:
+    *   (a) residents or permanent residents whose liability for deportation arises under [section 156(1)(a)][196], [158(1)(a)][198], 158(2), or [161][201]:
     
-    *   (b) persons whose liability for deportation arises under [section 162(1)][200] and who have been convicted of an offence where it is established that the person acquired recognition as a refugee or a protected person by fraud, forgery, false or misleading representation, or concealment of relevant information:
+    *   (b) persons whose liability for deportation arises under [section 162(1)][202] and who have been convicted of an offence where it is established that the person acquired recognition as a refugee or a protected person by fraud, forgery, false or misleading representation, or concealment of relevant information:
     
-    *   (c) persons whose liability for deportation arises by way of a deportation order under [section 163][201].
+    *   (c) persons whose liability for deportation arises by way of a deportation order under [section 163][203].
     
     
 
@@ -6352,11 +6444,11 @@ Appeals, reviews, and other proceedings
     
 *   The Tribunal must allow an appeal against liability for deportation on the facts where,---
         
-    *   (a) in the case of an appellant liable for deportation under [section 155][193], the Tribunal is satisfied, on the balance of probabilities, that the resident visa or permanent resident visa was not granted as a result of an administrative error:
+    *   (a) in the case of an appellant liable for deportation under [section 155][195], the Tribunal is satisfied, on the balance of probabilities, that the resident visa or permanent resident visa was not granted as a result of an administrative error:
     
-    *   (b) in the case of an appellant liable for deportation under [section 156(1)(b)][194], the Tribunal is satisfied, on the balance of probabilities, that the resident visa or permanent resident visa was not granted to the person in a false identity:
+    *   (b) in the case of an appellant liable for deportation under [section 156(1)(b)][196], the Tribunal is satisfied, on the balance of probabilities, that the resident visa or permanent resident visa was not granted to the person in a false identity:
     
-    *   (c) in the case of an appellant liable for deportation under [section 158(1)(b)][196], the Tribunal is satisfied, on the balance of probabilities, that---
+    *   (c) in the case of an appellant liable for deportation under [section 158(1)(b)][198], the Tribunal is satisfied, on the balance of probabilities, that---
             
         *   (i) the resident visa or permanent resident visa or entry permission concerned was not procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
         
@@ -6364,7 +6456,7 @@ Appeals, reviews, and other proceedings
         
         
     
-    *   (d) in the case of an appellant liable for deportation under [section 159][197], the Tribunal is satisfied, on the balance of probabilities, that---
+    *   (d) in the case of an appellant liable for deportation under [section 159][199], the Tribunal is satisfied, on the balance of probabilities, that---
             
         *   (i) the conditions of the resident visa were met; or
         
@@ -6372,7 +6464,7 @@ Appeals, reviews, and other proceedings
         
         
     
-    *   (e) in the case of an appellant liable for deportation under [section 160][198], the Tribunal is satisfied, on the balance of probabilities, that---
+    *   (e) in the case of an appellant liable for deportation under [section 160][200], the Tribunal is satisfied, on the balance of probabilities, that---
             
         *   (i) the new information was not material to the applicant's character as at the time the visa was granted; or
         
@@ -6380,7 +6472,7 @@ Appeals, reviews, and other proceedings
         
         
     
-    *   (f) in the case of an appellant liable for deportation under [section 162][200], the Tribunal is not satisfied that---
+    *   (f) in the case of an appellant liable for deportation under [section 162][202], the Tribunal is not satisfied that---
             
         *   (i) the person's recognition as a refugee or a protected person may have been procured by fraud, forgery, false or misleading representation, or concealment of relevant information; or
         
@@ -6400,39 +6492,39 @@ Appeals, reviews, and other proceedings
     
     *   (b) may dispense with its consideration of the humanitarian appeal if the appellant's appeal on the facts is successful.
     
-    (3) This section is subject to s[ections 194(6)][241] and [195(7)][242].
+    (3) This section is subject to s[ections 194(6)][243] and [195(7)][244].
 
 ##### 204 Special process where refugee or protection status acquired through fraud, etc
     
-*   (1) Subject to subsections (2) and (3), where a person who is liable for deportation under [section 162][200] appeals against liability for deportation, the Tribunal must, in addition to considering the appeal on the facts (if any) or on humanitarian grounds (if lodged), determine whether the person is currently a refugee or a protected person in terms of [sections 129 to 131][163].
+*   (1) Subject to subsections (2) and (3), where a person who is liable for deportation under [section 162][202] appeals against liability for deportation, the Tribunal must, in addition to considering the appeal on the facts (if any) or on humanitarian grounds (if lodged), determine whether the person is currently a refugee or a protected person in terms of [sections 129 to 131][164].
     
-    (2) If the Tribunal has allowed an appeal on the facts under [section 202(f)][250], the Tribunal need not consider---
+    (2) If the Tribunal has allowed an appeal on the facts under [section 202(f)][252], the Tribunal need not consider---
         
     *   (a) whether the person is currently a refugee or a protected person; or
     
     *   (b) any humanitarian appeal brought by the person.
     
-    (3) If the Tribunal does not allow an appeal on the facts under [section 202(f)][250], the Tribunal must---
+    (3) If the Tribunal does not allow an appeal on the facts under [section 202(f)][252], the Tribunal must---
         
-    *   (a) first determine whether to recognise the person as a refugee or a protected person in terms of [sections 129][163], [130][164], and [131][165]; and
+    *   (a) first determine whether to recognise the person as a refugee or a protected person in terms of [sections 129][164], [130][165], and [131][166]; and
     
     *   (b) if it does not recognise the person as a refugee or a protected person, then determine any humanitarian appeal by the person.
     
-    (4) When determining whether to recognise a person as a refugee or a protected person for the purposes of this section, the Tribunal must determine the matter in accordance with [section 198(1)][245].
+    (4) When determining whether to recognise a person as a refugee or a protected person for the purposes of this section, the Tribunal must determine the matter in accordance with [section 198(1)][247].
 
 ##### 205 Special process if refugee or protected person liable for deportation under section 161
     
 *   (1) This section applies if---
         
-    *   (a) a refugee or a protected person is liable for deportation under [section 161][199]; and
+    *   (a) a refugee or a protected person is liable for deportation under [section 161][201]; and
     
-    *   (b) a refugee and protection officer has determined that the deportation of the person is not prohibited under [section 164][202]; and
+    *   (b) a refugee and protection officer has determined that the deportation of the person is not prohibited under [section 164][204]; and
     
-    *   (c) the person appeals against that determination under [section 161(2)(b)][199].
+    *   (c) the person appeals against that determination under [section 161(2)(b)][201].
     
     (2) The Tribunal must---
         
-    *   (a) first determine whether the deportation of the person is prohibited under [section 164][202]; and
+    *   (a) first determine whether the deportation of the person is prohibited under [section 164][204]; and
     
     *   (b) if it determines that the deportation of the person is not prohibited, then determine any appeal on humanitarian grounds brought by the person.
     
@@ -6444,21 +6536,21 @@ Appeals, reviews, and other proceedings
     
 *   (1) The following persons may appeal to the Tribunal on humanitarian grounds against their liability for deportation:
         
-    *   (a) a person liable for deportation under [section 154][192] on the grounds of being unlawfully in New Zealand:
+    *   (a) a person liable for deportation under [section 154][194] on the grounds of being unlawfully in New Zealand:
     
-    *   (b) a temporary visa holder or interim visa holder liable for deportation under [section 155][193], [156][194], or [157][195]:
+    *   (b) a temporary visa holder or interim visa holder liable for deportation under [section 155][195], [156][196], or [157][197]:
     
-    *   (c) a resident or permanent resident liable for deportation under [section 155][193], [156][194], [158][196], [159][197], [160][198], or [161][199]:
+    *   (c) a resident or permanent resident liable for deportation under [section 155][195], [156][196], [158][198], [159][199], [160][200], or [161][201]:
     
-    *   (d) a person liable for deportation under [section 162][200].
+    *   (d) a person liable for deportation under [section 162][202].
     
     (2) No person may appeal to the Tribunal on humanitarian grounds---
         
     *   (a) against any liability for deportation arising from the expiry or cancellation of a limited visa; or
     
-    *   (b) if he or she is a person to whom [section 210(2)][249] or [216(2)][266] applies; or
+    *   (b) if he or she is a person to whom [section 210(2)][251] or [216(2)][268] applies; or
     
-    *   (c) whose liability for deportation arises by way of a deportation order under [section 163][201].
+    *   (c) whose liability for deportation arises by way of a deportation order under [section 163][203].
     
     (3) No person may appeal to the Tribunal on humanitarian grounds against his or her liability for deportation if the person has---
         
@@ -6476,33 +6568,33 @@ Appeals, reviews, and other proceedings
     
     *   (b) it would not in all the circumstances be contrary to the public interest to allow the appellant to remain in New Zealand.
     
-    (2) In determining whether it would be unjust or unduly harsh to deport from New Zealand an appellant who became liable for deportation under [section 161][199], and whether it would be contrary to the public interest to allow the appellant to remain in New Zealand, the Tribunal must have regard to any submissions of a victim made in accordance with [section 208][257].
+    (2) In determining whether it would be unjust or unduly harsh to deport from New Zealand an appellant who became liable for deportation under [section 161][201], and whether it would be contrary to the public interest to allow the appellant to remain in New Zealand, the Tribunal must have regard to any submissions of a victim made in accordance with [section 208][259].
     
-    Compare: 1987 No 74 [ss 47(3)][723], [105(1A)][724]
+    Compare: 1987 No 74 [ss 47(3)][739], [105(1A)][740]
 
 ##### 208 Right of victims to make submission on appeal
     
-*   (1) In determining a humanitarian appeal by a person who becomes liable for deportation under [section 161][199], the Tribunal must have regard to---
+*   (1) In determining a humanitarian appeal by a person who becomes liable for deportation under [section 161][201], the Tribunal must have regard to---
         
     *   (a) any written submissions made to it by a victim of an offence or offences of which the appellant has been convicted and from which the liability for deportation arose; and
     
-    *   (b) any relevant written submissions made by a victim to the Minister under [section 173][213].
+    *   (b) any relevant written submissions made by a victim to the Minister under [section 173][215].
     
     (2) In addition to, or instead of, making written submissions under this section, the victim may, with the leave of the Tribunal, make oral submissions to the Tribunal at the hearing.
     
-    (3) The Tribunal must make available to a lawyer or agent acting for the appellant, on a request by the appellant, a copy of all written submissions made by the victim under [section 173][213] or this section.
+    (3) The Tribunal must make available to a lawyer or agent acting for the appellant, on a request by the appellant, a copy of all written submissions made by the victim under [section 173][215] or this section.
     
-    (4) The Tribunal, or a lawyer or agent acting for the appellant, must, on a request for the purpose, show the appellant a copy of all written submissions made by the victim under [section 173][213] or this section. However, the appellant may not keep a copy of any of those submissions.
+    (4) The Tribunal, or a lawyer or agent acting for the appellant, must, on a request for the purpose, show the appellant a copy of all written submissions made by the victim under [section 173][215] or this section. However, the appellant may not keep a copy of any of those submissions.
     
     (5) Despite subsections (3) and (4), the Tribunal may withhold from the appellant and every lawyer or agent acting for the appellant (if any) either or both of the following if, in the Tribunal's opinion, that withholding is necessary to protect the physical safety or security of the victim concerned:
         
-    *   (a) any part of the victim's written submissions under [section 173][213], whether or not that part was withheld by the Minister under section 173(4):
+    *   (a) any part of the victim's written submissions under [section 173][215], whether or not that part was withheld by the Minister under section 173(4):
     
     *   (b) any part of the victim's written submissions under this section.
     
     (6) Despite subsection (1), the Tribunal must not have regard to any part of the victim's submissions that is withheld under subsection (5).
     
-    (7) In this section, _victim_ means a victim of an offence of a kind referred to in [section 29][711] of the Victims' Rights Act 2002\.
+    (7) In this section, _victim_ means a victim of an offence of a kind referred to in [section 29][727] of the Victims' Rights Act 2002\.
 
 #### Orders on determination of appeal
 
@@ -6522,19 +6614,19 @@ Appeals, reviews, and other proceedings
     
     (3) The Tribunal may order the imposition of any condition on the grant of a resident visa that it thinks fit, having regard to the reasons why the appellant was able to demonstrate exceptional circumstances of a humanitarian nature or why it was not contrary to the public interest to allow the appellant to remain in New Zealand, whether or not the condition is of a kind authorised by residence instructions.
     
-    (4) To avoid doubt, the Tribunal may order an immigration officer to grant a visa, and the officer must grant the visa, even though the person would normally be prohibited from being granted a visa under [section 15][19] or [16][20].
+    (4) To avoid doubt, the Tribunal may order an immigration officer to grant a visa, and the officer must grant the visa, even though the person would normally be prohibited from being granted a visa under [section 15][20] or [16][21].
     
     (5) If the Tribunal orders the imposition of any condition on a visa,---
         
-    *   (a) the condition must be treated as if it were a condition imposed by the Minister under [section 50][63] or [52][65] (as the case may be); and
+    *   (a) the condition must be treated as if it were a condition imposed by the Minister under [section 50][64] or [52][66] (as the case may be); and
     
     *   (b) the condition must be notified to the visa holder in writing; and
     
-    *   (c) [section 56(1)][69] requires the holder to comply with the conditions of the visa.
+    *   (c) [section 56(1)][70] requires the holder to comply with the conditions of the visa.
     
     (6) The chief executive must ensure that the terms of an order given under this section are complied with.
     
-    Compare: 1987 No 74 [s 52][725]
+    Compare: 1987 No 74 [s 52][741]
 
 ##### 211 Effect of successful appeal against liability for deportation
     
@@ -6542,9 +6634,9 @@ Appeals, reviews, and other proceedings
     
     (2) If the appellant is in custody under this Act, an immigration officer must immediately notify, in writing, the manager or other person in charge of the prison or other premises in which the appellant is detained that the appellant's liability for deportation is cancelled, and the appellant must be immediately released.
     
-    (3) If the appellant is subject to residence or reporting requirements under [section 315][382], an immigration officer must immediately notify, in writing, the appellant (and, if applicable, his or her guarantor) that the appellant's liability for deportation is cancelled, and the appellant ceases to be subject to those requirements.
+    (3) If the appellant is subject to residence or reporting requirements under [section 315][384], an immigration officer must immediately notify, in writing, the appellant (and, if applicable, his or her guarantor) that the appellant's liability for deportation is cancelled, and the appellant ceases to be subject to those requirements.
     
-    (4) If the appellant has been released on conditions under [section 320][388], an immigration officer must immediately notify, in writing, the appellant that his or her liability for deportation is cancelled, and the appellant ceases to be subject to those conditions.
+    (4) If the appellant has been released on conditions under [section 320][395], an immigration officer must immediately notify, in writing, the appellant that his or her liability for deportation is cancelled, and the appellant ceases to be subject to those conditions.
     
     (5) Subsection (1) applies unless---
         
@@ -6552,9 +6644,9 @@ Appeals, reviews, and other proceedings
     
     *   (b) the appellant is a resident or a permanent resident; and
     
-    *   (c) the Tribunal instead suspends the appellant's liability for deportation under [section 212][262].
+    *   (c) the Tribunal instead suspends the appellant's liability for deportation under [section 212][264].
     
-    (6) Nothing in this section limits [section 209][259].
+    (6) Nothing in this section limits [section 209][261].
     
     Compare: 1987 No 74 s 107
 
@@ -6576,7 +6668,7 @@ Appeals, reviews, and other proceedings
 
 ##### 213 Effect of suspension
     
-*   (1) If a person's liability for deportation is suspended by the Tribunal under [section 212][262], during the period of the suspension---
+*   (1) If a person's liability for deportation is suspended by the Tribunal under [section 212][264], during the period of the suspension---
         
     *   (a) subsection (2), (3), or (4) applies, as the case may be; and
     
@@ -6584,17 +6676,17 @@ Appeals, reviews, and other proceedings
     
     *   (c) the processing of any application made by the person for a visa of a different class or type must be suspended; and
     
-    *   (d) subject to [sections 9][713] and [10][714] of the Citizenship Act 1977 and [section 7(1)(b)(i)][710] of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that the person hold a residence class visa.
+    *   (d) subject to [sections 9][729] and [10][730] of the Citizenship Act 1977 and [section 7(1)(b)(i)][726] of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that the person hold a residence class visa.
     
     (2) If the person is in custody under this Act, an immigration officer must immediately notify, in writing, the manager or other person in charge of the prison or other premises in which the person is detained that the person's liability for deportation is suspended, and the person must be immediately released.
     
-    (3) If the person is subject to residence or reporting requirements under [section 315][382], an immigration officer must immediately notify, in writing, the person and the person's guarantor (if applicable) that the person's liability for deportation is suspended, and the person ceases to be subject to those requirements.
+    (3) If the person is subject to residence or reporting requirements under [section 315][384], an immigration officer must immediately notify, in writing, the person and the person's guarantor (if applicable) that the person's liability for deportation is suspended, and the person ceases to be subject to those requirements.
     
-    (4) If the person has been released on conditions under [section 320][388], an immigration officer must immediately notify, in writing, the person that his or her liability for deportation is suspended, and the person ceases to be subject to those conditions.
+    (4) If the person has been released on conditions under [section 320][395], an immigration officer must immediately notify, in writing, the person that his or her liability for deportation is suspended, and the person ceases to be subject to those conditions.
     
-    (5) If the Minister determines that a person has met any conditions imposed by the Tribunal under [section 212(1)][262] for the duration of the suspension, the Minister must cancel the person's liability for deportation and notify the Tribunal accordingly.
+    (5) If the Minister determines that a person has met any conditions imposed by the Tribunal under [section 212(1)][264] for the duration of the suspension, the Minister must cancel the person's liability for deportation and notify the Tribunal accordingly.
     
-    (6) If the Tribunal did not impose conditions on the person under [section 212(1)][262] and the period of suspension has expired, the Minister must cancel the person's liability for deportation and notify the person and the Tribunal accordingly.
+    (6) If the Tribunal did not impose conditions on the person under [section 212(1)][264] and the period of suspension has expired, the Minister must cancel the person's liability for deportation and notify the person and the Tribunal accordingly.
 
 ##### 214 Effect of suspension on appeal
     
@@ -6602,17 +6694,17 @@ Appeals, reviews, and other proceedings
     
     (2) If the person does not withdraw the appeal, the Tribunal may, on the application of the person, adjourn any appeal on humanitarian grounds lodged by the person.
     
-    (3) If the person's liability for deportation is cancelled under [section 172][212] or [174(2)][214], the Tribunal may dispense with its consideration of any aspects of the appeal that have not been determined at that point.
+    (3) If the person's liability for deportation is cancelled under [section 172][214] or [174(2)][216], the Tribunal may dispense with its consideration of any aspects of the appeal that have not been determined at that point.
     
-    (4) If the person is served with a deportation liability notice under [section 172(3)][212], the Tribunal must then continue to determine any aspects of the person's appeal that have not yet been determined.
+    (4) If the person is served with a deportation liability notice under [section 172(3)][214], the Tribunal must then continue to determine any aspects of the person's appeal that have not yet been determined.
     
     (5) To avoid doubt, a suspension of liability for deportation does not affect any time limit by which an appeal must be lodged under this Act.
 
 ##### 215 Tribunal may reduce or remove period of prohibited entry under deportation order
     
-*   (1) On declining an appeal against liability for deportation, the Tribunal may in its absolute discretion order the reduction, or removal altogether, of the period of any prohibition on entry to New Zealand that would otherwise apply under [section 179][220] following the person's deportation from New Zealand.
+*   (1) On declining an appeal against liability for deportation, the Tribunal may in its absolute discretion order the reduction, or removal altogether, of the period of any prohibition on entry to New Zealand that would otherwise apply under [section 179][222] following the person's deportation from New Zealand.
     
-    (2) A reduction or removal under subsection (1) remains subject to [section 180(1)][221], unless the Tribunal otherwise orders.
+    (2) A reduction or removal under subsection (1) remains subject to [section 180(1)][223], unless the Tribunal otherwise orders.
 
 ##### 216 Tribunal may make order delaying deportation if appeal unsuccessful
     
@@ -6652,11 +6744,11 @@ Appeals, reviews, and other proceedings
         
         *   (ii) made by refugee and protection officers in relation to the cancellation of recognition of a New Zealand citizen as a refugee or a protected person, if the recognition was originally determined by the Tribunal (or by the Refugee Status Appeals Authority under the former Act):
         
-        *   (iii) made by the Minister under [section 212(2)][262] on whether a person has failed to meet his or her conditions of suspension of liability for deportation:
+        *   (iii) made by the Minister under [section 212(2)][264] on whether a person has failed to meet his or her conditions of suspension of liability for deportation:
         
         
     
-    *   (c) to deal with certain transitional matters arising from the repeal of the [Immigration Act 1987][611], in accordance with [Part 12][496] of this Act.
+    *   (c) to deal with certain transitional matters arising from the repeal of the [Immigration Act 1987][620], in accordance with [Part 12][504] of this Act.
     
     
 
@@ -6684,7 +6776,7 @@ Appeals, reviews, and other proceedings
     
     *   (c) a representative of the United Nations High Commissioner for Refugees, to serve as an ex officio member in relation to matters relating to refugees:
     
-    *   (d) a District Court Judge seconded to the Tribunal under [section 240][293] to exercise the jurisdiction of the Tribunal in relation to proceedings involving classified information.
+    *   (d) a District Court Judge seconded to the Tribunal under [section 240][295] to exercise the jurisdiction of the Tribunal in relation to proceedings involving classified information.
     
     (2) The chair of the Tribunal is appointed by the Governor-General on the advice of the Attorney-General, given after consultation with the Minister of Justice and the Minister.
     
@@ -6746,7 +6838,7 @@ Appeals, reviews, and other proceedings
     
     (3) Where a case before the Tribunal relates to a refugee or a claimant for refugee status,---
         
-    *   (a) the ex officio member referred to in [section 219(1)(c)][270] may hear and be involved in the determination of the case; but
+    *   (a) the ex officio member referred to in [section 219(1)(c)][272] may hear and be involved in the determination of the case; but
     
     *   (b) this is in addition to the other member or members of the Tribunal required under subsection (1) or (2).
     
@@ -6762,7 +6854,7 @@ Appeals, reviews, and other proceedings
     
     (4) The Tribunal may regulate its procedures as it sees fit, subject to this Act and any regulations made under this Act.
     
-    (5) This section is subject to [section 257][312].
+    (5) This section is subject to [section 257][314].
 
 ##### 223 Chair to ensure appeals and matters heard expeditiously
     
@@ -6818,7 +6910,7 @@ Appeals, reviews, and other proceedings
         
     *   (a) provide the Tribunal with---
             
-        *   (i) a current address in New Zealand to which communications relating to the appeal or matter may be sent or, in the case of an appeal under [section 187][232] by a person who is outside New Zealand, an address to which communications relating to the appeal may be sent; and
+        *   (i) a current address in New Zealand to which communications relating to the appeal or matter may be sent or, in the case of an appeal under [section 187][234] by a person who is outside New Zealand, an address to which communications relating to the appeal may be sent; and
         
         *   (ii) if applicable, the appellant's or the affected person's current residential address in New Zealand (if any); and
         
@@ -6842,7 +6934,7 @@ Appeals, reviews, and other proceedings
     
     (3) The Minister, the chief executive, or a refugee and protection officer may also, in the time allowed by the Tribunal for the purpose, lodge with the Tribunal any other information, evidence, or submissions in relation to the appeal or matter as he or she thinks fit.
     
-    Compare: 1987 No 74 [ss 18F(3)][719], [129P(1)][722]
+    Compare: 1987 No 74 [ss 18F(3)][735], [129P(1)][738]
 
 ##### 227 Minister or Department is party to proceedings
     
@@ -6854,19 +6946,19 @@ Appeals, reviews, and other proceedings
     
     (2) However, the Tribunal is not obliged to seek any information, evidence, or submissions further to those provided by the appellant or the affected person and the Minister, the chief executive, or a refugee and protection officer (as the case may be), and may determine the appeal or matter only on the basis of the information, evidence, and submissions provided by those persons.
     
-    Compare: 1987 No 74[ss 18F(2)][719], [129P(2)][722], [129S][726]
+    Compare: 1987 No 74[ss 18F(2)][735], [129P(2)][738], [129S][742]
 
 ##### 229 Tribunal may require chief executive to provide information
     
 *   (1) The Tribunal may require the chief executive to seek and provide information relevant to an appeal or matter, and the chief executive must comply, to the extent practicable, with such a requirement.
     
-    (2) Where the chief executive provides information to the Tribunal under subsection (1), the chief executive must be treated as an agent of the Tribunal for the purposes of the [Official Information Act 1982][654] and the [Privacy Act 1993][658].
+    (2) Where the chief executive provides information to the Tribunal under subsection (1), the chief executive must be treated as an agent of the Tribunal for the purposes of the [Official Information Act 1982][666] and the [Privacy Act 1993][671].
     
     (3) No party to the appeal or matter may request the Tribunal to exercise its powers under this section.
     
-    (4) This section is subject to [section 35(3)][45].
+    (4) This section is subject to [section 35(3)][46].
     
-    Compare: 1987 No 74 [ss 18F(3)][719], [129P(4)][722]
+    Compare: 1987 No 74 [ss 18F(3)][735], [129P(4)][738]
 
 ##### 230 Tribunal must disclose prejudicial information
     
@@ -6884,11 +6976,11 @@ Appeals, reviews, and other proceedings
         
     *   (a) the disclosure would be likely to endanger the safety of any person; or
     
-    *   (b) it is classified information that the Tribunal must keep confidential and must not disclose under [section 259][314].
+    *   (b) it is classified information that the Tribunal must keep confidential and must not disclose under [section 259][316].
     
     (4) The Tribunal must, however, notify the appellant or affected person of the fact of any non-disclosure on the grounds specified in subsection (3).
     
-    Compare: 1987 No 74 [s 18F(7)--(9)][719]
+    Compare: 1987 No 74 [s 18F(7)--(9)][735]
 
 ##### 231 Findings of credibility and fact
     
@@ -6900,9 +6992,9 @@ Appeals, reviews, and other proceedings
     
     (2) A person may not challenge any finding of credibility or fact that may be relied on by the Tribunal under subsection (1).
     
-    (3) For the purposes of subsection (1)(b), _matter_ includes an application by a refugee status officer under [section 129L(1)(f)][695] of the former Act.
+    (3) For the purposes of subsection (1)(b), _matter_ includes an application by a refugee status officer under [section 129L(1)(f)][709] of the former Act.
     
-    Compare: 1987 No 74 [s 129P(9)][722]
+    Compare: 1987 No 74 [s 129P(9)][738]
 
 ##### 232 Tribunal may require provision of biometric information
     
@@ -6912,33 +7004,43 @@ Appeals, reviews, and other proceedings
     
 *   (1) The Tribunal must provide an oral hearing in the case of an appeal against liability for deportation by a resident or permanent resident.
     
-    (2) The Tribunal must also provide an oral hearing in the case of an appellant or affected person currently or previously recognised as a refugee or a protected person, or a claimant for such recognition, unless---
+    (2) The Tribunal may, in its absolute discretion, provide an oral hearing in any other appeal against liability for deportation.
+    
+    (3) The Tribunal must provide an oral hearing in the case of an appellant or affected person currently or previously recognised as a refugee or a protected person, or a claimant for such recognition, unless---
         
     *   (a) the person was interviewed by a refugee and protection officer (or a refugee status officer under the former Act) in the course of determining the relevant issue at first instance or, having been given an opportunity to be interviewed, failed to take that opportunity; and
     
-    *   (b) the Tribunal considers that the appeal or other contention of the person is prima facie manifestly unfounded or clearly abusive, or repeats a previous claim.
+    *   (b) the Tribunal considers that the appeal or other contention of the person---
+            
+        *   (i) is prima facie manifestly unfounded or clearly abusive; or
+        
+        *   (ii) relates to a subsequent claim for refugee or protection status.
+        
+        
     
-    (3) The Tribunal may, in its absolute discretion, provide an oral hearing in any other appeal against liability for deportation.
+    (4) The Tribunal may, in its absolute discretion, provide an oral hearing in the case of an appeal that relates to a subsequent claim for refugee or protection status.
+    
+    Section 233: replaced, on 19 June 2013, by [section 9][743] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 234 Decision on papers in other circumstances
     
-*   (1) Despite [section 233][285], the Tribunal may determine an appeal or matter without an oral hearing if the appellant or affected person fails without reasonable excuse to attend a hearing notified by the Tribunal.
+*   (1) Despite [section 233][287], the Tribunal may determine an appeal or matter without an oral hearing if the appellant or affected person fails without reasonable excuse to attend a hearing notified by the Tribunal.
     
-    (2) Except as otherwise provided in [section 233][285] (as subject to subsection (1) of this section), the Tribunal must determine an appeal or matter on the papers.
+    (2) Except as otherwise provided in [section 233][287] (as subject to subsection (1) of this section), the Tribunal must determine an appeal or matter on the papers.
 
 ##### 235 Tribunal may issue single decision when appeals or matters heard together
     
-*   In any proceedings in which more than 1 appeal or matter is heard together, the Tribunal may issue a single decision in respect of the appeals or matters. 
+*   In any proceedings in which more than 1 appeal or matter is heard together, the Tribunal may issue a single decision in respect of the appeals or matters.
 
 ##### 236 Appeals against deportation liability where person serving prison sentence
     
 *   (1) Where a person appealing against his or her liability for deportation is serving a sentence of imprisonment in a prison, the Tribunal must, with a view to determining the appeal before the person's release, consider and determine any appeal on humanitarian grounds as close as practicable to the date of the person's parole eligibility date or (in the case of a person serving a short-term sentence) statutory release date.
     
-    (2) In this section, _parole eligibility date_, _short-term sentence_, and _statutory release date_ have the meanings given in [section 4][727] of the Parole Act 2002\.
+    (2) In this section, _parole eligibility date_, _short-term sentence_, and _statutory release date_ have the meanings given in [section 4][744] of the Parole Act 2002\.
 
 ##### 237 Procedure
     
-*   [Schedule 2][592] applies in relation to the proceedings of the Tribunal.
+*   [Schedule 2][600] applies in relation to the proceedings of the Tribunal.
 
 ##### 238 Withdrawal of appeal or matter
     
@@ -6954,19 +7056,19 @@ Appeals, reviews, and other proceedings
     
 *   (1) A person's appeal to the Tribunal is deemed to be withdrawn when the person leaves New Zealand if the appeal is---
         
-    *   (a) an appeal against liability for deportation, if the appeal is brought by a person liable for deportation under any of [sections 154 to 158][192], [161][199], and [162][200]; or
+    *   (a) an appeal against liability for deportation, if the appeal is brought by a person liable for deportation under any of [sections 154 to 158][194], [161][201], and [162][202]; or
     
     *   (b) an appeal against a decision to decline recognition as a refugee or a protected person; or
     
     *   (c) an appeal against a decision to cease to recognise a person as a refugee or a protected person.
     
-    (2) Subsection (1) does not apply if--- 
+    (2) Subsection (1) does not apply if---
         
-    *   (a) the person's liability for deportation has been suspended under [section 172(2)][212]; and
+    *   (a) the person's liability for deportation has been suspended under [section 172(2)][214]; and
     
     *   (b) the person leaves New Zealand during the suspension period.
     
-    (3) In determining whether a person has left New Zealand, the Tribunal may rely on a certificate made under [section 366(2)(17)][444].
+    (3) In determining whether a person has left New Zealand, the Tribunal may rely on a certificate made under [section 366(2)(17)][452].
 
 #### Special procedure where classified information involved
 
@@ -6990,7 +7092,7 @@ Appeals, reviews, and other proceedings
     
     *   (b) a District Court Judge (other than the chair of the Tribunal) nominated by the Chief District Court Judge to be seconded to the Tribunal to exercise its jurisdiction in relation to proceedings involving classified information.
     
-    (4) For the purposes of subsection (2)(b), the Chief District Court Judge may nominate a maximum of 2 District Court Judges (other than himself or herself) at any one time. 
+    (4) For the purposes of subsection (2)(b), the Chief District Court Judge may nominate a maximum of 2 District Court Judges (other than himself or herself) at any one time.
 
 ##### 241 Presentation of classified information to Tribunal
     
@@ -7002,13 +7104,13 @@ Appeals, reviews, and other proceedings
     
     (2) Before holding a substantive hearing on the appeal or matter, the Tribunal must hold a closed hearing at which the chief executive of the relevant agency makes a presentation on the classified information (a _preliminary hearing_).
     
-    (3) The purpose of the preliminary hearing is not to enable the Tribunal to consider or determine the matters in [section 243][296], but to enable the Tribunal, the special advocate, and counsel assisting the court and the special adviser (if any and if relevant) to understand the classified information and to question---
+    (3) The purpose of the preliminary hearing is not to enable the Tribunal to consider or determine the matters in [section 243][298], but to enable the Tribunal, the special advocate, and counsel assisting the court and the special adviser (if any and if relevant) to understand the classified information and to question---
         
     *   (a) the chief executive of the relevant agency about the information; or
     
     *   (b) if necessary, any other person from the relevant agency about the information.
     
-    (4) The preliminary hearing may not occur before the date that is 28 days after the appellant or affected person is provided with the names of possible special advocates under [section 265(2)][321].
+    (4) The preliminary hearing may not occur before the date that is 28 days after the appellant or affected person is provided with the names of possible special advocates under [section 265(2)][323].
     
     (5) The content of the presentation is to be determined by the chief executive of the relevant agency.
 
@@ -7120,21 +7222,21 @@ Appeals, reviews, and other proceedings
     
     *   (c) make such other orders in relation to the matter as it thinks fit.
     
-    (5) Subject to subsection (2), every appeal under this section must be dealt with in accordance with the rules of the court, with any modifications necessary to reflect the provisions of this Act, including any ancillary general practices and procedures developed under [section 260][315].
+    (5) Subject to subsection (2), every appeal under this section must be dealt with in accordance with the rules of the court, with any modifications necessary to reflect the provisions of this Act, including any ancillary general practices and procedures developed under [section 260][317].
     
-    Compare: 1987 No 74[s 115][728]
+    Compare: 1987 No 74[s 115][745]
 
 ##### 246 Appeal to Court of Appeal on point of law by leave
     
-*   (1) Any party to an appeal under [section 245][299] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the Court of Appeal. [Section 66][729] of the Judicature Act 1908 applies to any such appeal.
+*   (1) Any party to an appeal under [section 245][301] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the Court of Appeal. [Section 66][746] of the Judicature Act 1908 applies to any such appeal.
     
     (2) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to whether the question of law involved in the appeal is one that by reason of its general or public importance or for any other reason ought to be submitted to the Court of Appeal for its decision.
     
     (3) The court granting leave under this section may in its discretion impose such conditions as it thinks fit, whether as to costs or otherwise.
     
-    (4) Every appeal under this section must be dealt with in accordance with the rules of the court, with any modifications necessary to reflect the provisions of this Act, including any ancillary general practices and procedures developed under [section 260][315].
+    (4) Every appeal under this section must be dealt with in accordance with the rules of the court, with any modifications necessary to reflect the provisions of this Act, including any ancillary general practices and procedures developed under [section 260][317].
     
-    Compare: 1987 No 74 [s 116][730]
+    Compare: 1987 No 74 [s 116][747]
 
 ##### 247 Special provisions relating to judicial review
     
@@ -7146,11 +7248,11 @@ Appeals, reviews, and other proceedings
     
     *   (b) the High Court must endeavour to hear both matters together, unless it considers it impracticable in the particular circumstances of the case to do so.
     
-    (3) In this section, _statutory power of decision_ has the same meaning as in [section 3][731] of the Judicature Amendment Act 1972\.
+    (3) In this section, _statutory power of decision_ has the same meaning as in [section 3][748] of the Judicature Amendment Act 1972\.
     
     (4) Nothing in this section limits the time for bringing review proceedings challenging the vires of any regulations made under this Act.
     
-    Compare: 1987 No 74 [s 146A][732]
+    Compare: 1987 No 74 [s 146A][749]
 
 ##### 248 Minister, chief executive, or refugee and protection officer may be respondent in review proceedings relating to Tribunal decision
     
@@ -7158,9 +7260,27 @@ Appeals, reviews, and other proceedings
 
 ##### 249 Restriction on review
     
-*   (1) No review proceedings may be brought in any court in respect of a decision if the decision, or the effect of the decision, may be subject to an appeal to the Tribunal under this Act.
+*   (1) No review proceedings may be brought in any court in respect of a decision where the decision (or the effect of the decision) may be subject to an appeal to the Tribunal under this Act unless an appeal is made and the Tribunal issues final determinations on all aspects of the appeal.
+    
+    (1A) No review proceedings may be brought in any court in respect of any matter before the Tribunal unless the Tribunal has issued final determinations in respect of the matter.
+    
+    (1B) Review proceedings may then only be brought in respect of a decision or matter described in subsection (1) or (1A) if the High Court has granted leave to bring the proceedings or, if the High Court has refused to do so, the Court of Appeal has granted leave.
+    
+    (1C) In determining whether to grant leave for the purposes of this section, the court to which the application for leave is made must have regard to---
+        
+    *   (a) whether review proceedings would involve issues that could not be adequately dealt with in an appeal against the final determination of the Tribunal; and
+    
+    *   (b) if paragraph (a) applies, whether those issues are, by reason of their general or public importance or for any other reason, issues that ought to be submitted to the High Court for review.
     
     (2) Nothing in this section limits any other provision of this Act that affects or restricts the ability to bring review proceedings.
+    
+    Section 249(1): replaced, on 19 June 2013, by [section 10][750] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 249(1A): inserted, on 19 June 2013, by [section 10][750] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 249(1B): inserted, on 19 June 2013, by [section 10][750] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 249(1C): inserted, on 19 June 2013, by [section 10][750] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 250 Certain appeals and review proceedings to be treated as priority fixture
     
@@ -7174,7 +7294,7 @@ Appeals, reviews, and other proceedings
 
 ##### 251 Relationship with Judicature Act 1908 and Supreme Court Act 2003
     
-*   The Judicature Act 1908 and the Supreme Court Act 2003 are subject to [sections 247][301], [248][302], [249][303], [250][304], and[262][317].
+*   The Judicature Act 1908 and the Supreme Court Act 2003 are subject to [sections 247][303], [248][304], [249][305], [250][306], and[262][319].
 
 #### General provisions relating to proceedings involving classified information
 
@@ -7182,13 +7302,13 @@ Appeals, reviews, and other proceedings
     
 *   (1) Where proceedings involving classified information are to be heard by the High Court, the proceedings must be heard by 1 or more nominated Judges.
     
-    (2) In this section and [section 253][308], _nominated Judge_ means---
+    (2) In this section and [section 253][310], _nominated Judge_ means---
         
     *   (a) the Chief High Court Judge:
     
     *   (b) a High Court Judge nominated by the Chief High Court Judge to hear and determine proceedings involving classified information.
     
-    (3) For the purposes of subsection (2)(b), the Chief High Court Judge may nominate a maximum of 2 High Court Judges (other than himself or herself) at any one time. 
+    (3) For the purposes of subsection (2)(b), the Chief High Court Judge may nominate a maximum of 2 High Court Judges (other than himself or herself) at any one time.
 
 ##### 253 Appeal to High Court or review proceedings involving classified information
     
@@ -7196,23 +7316,23 @@ Appeals, reviews, and other proceedings
     
     (2) Where a party raises classified information in an appeal or review proceedings, the nominated Judge must consider the information and any submissions made in relation to it in order to determine whether it is relevant to the appeal or review proceedings.
     
-    (3) Where the court determines that the classified information is relevant to the appeal or review proceedings, [sections 252][307] and [255 to 270][310] apply.
+    (3) Where the court determines that the classified information is relevant to the appeal or review proceedings, [sections 252][309] and [255 to 270][312] apply.
     
-    (4) Where the nominated Judge determines that the classified information is not relevant to the appeal or review proceedings, [section 259(3) to (8)][314] applies to the classified information raised.
+    (4) Where the nominated Judge determines that the classified information is not relevant to the appeal or review proceedings, [section 259(3) to (8)][316] applies to the classified information raised.
 
 ##### 254 Appeal to Court of Appeal or Supreme Court involving classified information
     
 *   (1) This section applies where classified information is relied on in a decision (whether on appeal, review, or otherwise) that is subject to appeal to---
         
-    *   (a) the Court of Appeal, whether under [section 246][300] or otherwise; or
+    *   (a) the Court of Appeal, whether under [section 246][302] or otherwise; or
     
     *   (b) the Supreme Court.
     
     (2) Where a party raises classified information in an appeal or review proceedings, the court must consider the information and any submissions made in relation to it in order to determine whether it is relevant to the appeal or review proceedings.
     
-    (3) Where the court determines that the classified information is relevant to the appeal or review proceedings, [sections 255 to 270][310] apply.
+    (3) Where the court determines that the classified information is relevant to the appeal or review proceedings, [sections 255 to 270][312] apply.
     
-    (4) Where the court determines that the classified information is not relevant to the appeal or review proceedings, [section 259(3) to (8)][314] apply to the classified information raised.
+    (4) Where the court determines that the classified information is not relevant to the appeal or review proceedings, [section 259(3) to (8)][316] apply to the classified information raised.
 
 ##### 255 Appeal period where decision involving classified information to be appealed to Court of Appeal or Supreme Court
     
@@ -7266,9 +7386,9 @@ Appeals, reviews, and other proceedings
     
     (2) A court must treat with urgency proceedings involving classified information in relation to a person---
         
-    *   (a) whose deportation has been ordered under [section 163][201]; or
+    *   (a) whose deportation has been ordered under [section 163][203]; or
     
-    *   (b) who is being detained under [Part 9][372].
+    *   (b) who is being detained under [Part 9][374].
     
     (3) Nothing in this section prevents a party to proceedings in the Tribunal or a court from requesting urgency in any other case.
 
@@ -7278,7 +7398,7 @@ Appeals, reviews, and other proceedings
     
     (2) The chief executive of the Department must notify the chief executive of the relevant agency about any proceedings involving classified information.
 
-##### 259 Obligation and powers of Tribunal and courts in relation to classified information 
+##### 259 Obligation and powers of Tribunal and courts in relation to classified information
     
 *   (1) The Minister or a refugee and protection officer (as appropriate) must provide to the Tribunal or a court (as appropriate) classified information---
         
@@ -7322,13 +7442,13 @@ Appeals, reviews, and other proceedings
     
     *   (c) if it is made permanently, may be reviewed by the Tribunal or the court at any time.
     
-    (8) Nothing in this section limits [section 27][733] of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
+    (8) Nothing in this section limits [section 27][751] of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
     
-    Compare: 1987 No 74 [s 82(1), (3)][734]
+    Compare: 1987 No 74 [s 82(1), (3)][752]
 
 ##### 260 Ancillary general practices and procedures to protect classified information
     
-*   (1) Any general practices and procedures that may be necessary to implement the procedures specified in [sections 240 to 244][293], [252 to 270][304], 325, and [326][395] or to ensure that classified information is protected in all proceedings involving classified information must be agreed between---
+*   (1) Any general practices and procedures that may be necessary to implement the procedures specified in [sections 240 to 244][295], [252 to 270][306], 325, and [326][403] or to ensure that classified information is protected in all proceedings involving classified information must be agreed between---
         
     *   (a) the chair of the Tribunal and the Attorney-General, in relation to proceedings involving classified information heard by the Tribunal; and
     
@@ -7352,29 +7472,29 @@ Appeals, reviews, and other proceedings
     
 *   (1) No appeal or review proceedings may be brought in respect of the use of classified information for the purposes of this Act except as provided for in this Act.
     
-    (2) To avoid doubt and without limiting subsection (1) or [section 249][303], no appeal lies and no review proceedings may be brought in respect of---
+    (2) To avoid doubt and without limiting subsection (1) or [section 249][305], no appeal lies and no review proceedings may be brought in respect of---
         
-    *   (a) a determination of the Minister under [section 33][43] that classified information may be relied on in making a decision under this Act:
+    *   (a) a determination of the Minister under [section 33][44] that classified information may be relied on in making a decision under this Act:
     
-    *   (b) the form or content of a summary prepared and provided under [section 38][48] (including any updated summary):
+    *   (b) the form or content of a summary prepared and provided under [section 38][49] (including any updated summary):
     
-    *   (c) the form or content of information provided under [section 39][49]:
+    *   (c) the form or content of information provided under [section 39][50]:
     
-    *   (d) the form or content of a presentation made by the chief executive of a relevant agency under [section 241][735]:
+    *   (d) the form or content of a presentation made by the chief executive of a relevant agency under [section 241][753]:
     
-    *   (e) the form or content of a summary developed, provided, and approved under [section 242][31] or [256][304] (including any updated summary), including the decision whether to modify, and the nature of any modifications to, the summary:
+    *   (e) the form or content of a summary developed, provided, and approved under [section 242][32] or [256][306] (including any updated summary), including the decision whether to modify, and the nature of any modifications to, the summary:
     
     *   (f) a decision to withdraw, update, or add to classified information.
     
-    (3) No appeal under [section 245][299] may be brought in relation to any proceedings involving classified information that are before the Tribunal unless the Tribunal has issued final determinations on all matters subject to the proceedings.
+    (3) No appeal under [section 245][301] may be brought in relation to any proceedings involving classified information that are before the Tribunal unless the Tribunal has issued final determinations on all matters subject to the proceedings.
     
-    (4) No review proceedings may be brought in relation to any appeal or matter before the Tribunal to which subsection (3) or [sections 240 to 244][293] apply unless the Tribunal has issued final determinations on all matters subject to the appeal or matter.
+    (4) No review proceedings may be brought in relation to any appeal or matter before the Tribunal to which subsection (3) or [sections 240 to 244][295] apply unless the Tribunal has issued final determinations on all matters subject to the appeal or matter.
 
 #### Special advocates
 
 ##### 263 Role of special advocates
     
-*   (1) The role of a special advocate is to represent a person who is the subject of--- 
+*   (1) The role of a special advocate is to represent a person who is the subject of---
         
     *   (a) a decision made involving classified information; or
     
@@ -7412,7 +7532,7 @@ Appeals, reviews, and other proceedings
 
 ##### 264 Recognition of special advocates
     
-*   (1) A special advocate is a lawyer (as defined in [section 6][736] of the Lawyers and Conveyancers Act 2006) who has been recognised as a special advocate by an agency designated for the purpose by the Prime Minister.
+*   (1) A special advocate is a lawyer (as defined in [section 6][754] of the Lawyers and Conveyancers Act 2006) who has been recognised as a special advocate by an agency designated for the purpose by the Prime Minister.
     
     (2) The designated agency may recognise a lawyer as a special advocate if---
         
@@ -7426,11 +7546,11 @@ Appeals, reviews, and other proceedings
         
     *   (a) ceases to hold an appropriate security clearance; or
     
-    *   (b) is suspended from practice as a barrister, a solicitor, or both, under the [Lawyers and Conveyancers Act 2006][737]; or
+    *   (b) is suspended from practice as a barrister, a solicitor, or both, under the [Lawyers and Conveyancers Act 2006][755]; or
     
     *   (c) is struck off the roll of barristers and solicitors of the High Court.
     
-    (5) The designated agency must, in addition to recording the persons recognised by it as special advocates, maintain a list of special advocates who may represent persons in proceedings under [Part 9][372], to cover the situation where---
+    (5) The designated agency must, in addition to recording the persons recognised by it as special advocates, maintain a list of special advocates who may represent persons in proceedings under [Part 9][374], to cover the situation where---
         
     *   (a) a person has not yet appointed a special advocate to represent him or her in any appeal, matter, or review proceedings involving classified information; and
     
@@ -7446,7 +7566,7 @@ Appeals, reviews, and other proceedings
     
     *   (b) may be subject to appeal.
     
-    (2) The designated agency must provide the names of no fewer than 3 possible special advocates to a person who is the subject of a decision under this Act (other than a decision on appeal to, or in relation to a matter before, the Tribunal)--- 
+    (2) The designated agency must provide the names of no fewer than 3 possible special advocates to a person who is the subject of a decision under this Act (other than a decision on appeal to, or in relation to a matter before, the Tribunal)---
         
     *   (a) if the decision relies on classified information and a person subject to the decision appeals it; and
     
@@ -7454,7 +7574,7 @@ Appeals, reviews, and other proceedings
     
     (3) The designated agency must not provide the name of a special advocate unless the special advocate is reasonably available, having regard to the time frames in this Part.
     
-    (4) The chief executive or the Minister (as appropriate) must notify the designated agency if--- 
+    (4) The chief executive or the Minister (as appropriate) must notify the designated agency if---
         
     *   (a) classified information is first raised or proposed to be raised in the course of an appeal to, or a matter before, the Tribunal; or
     
@@ -7476,33 +7596,33 @@ Appeals, reviews, and other proceedings
         
     *   (a) has not appointed a special advocate to represent him or her in any appeal, matter, or review proceedings involving classified information; and
     
-    *   (b) is the subject of an application under [Part 9][372] in which classified information may be relied on in determining the application.
+    *   (b) is the subject of an application under [Part 9][374] in which classified information may be relied on in determining the application.
     
-    (2) If the person has been arrested and detained under [Part 9][372], the Department must contact the designated agency as soon as practicable after the person is arrested and detained and make arrangements for a special advocate to whom [section 264(5)][320] applies to be available, on behalf of the person, for the warrant of commitment hearing.
+    (2) If the person has been arrested and detained under [Part 9][374], the Department must contact the designated agency as soon as practicable after the person is arrested and detained and make arrangements for a special advocate to whom [section 264(5)][322] applies to be available, on behalf of the person, for the warrant of commitment hearing.
     
-    (3) If the person has been detained under a warrant of commitment, or released on conditions under [section 320][388], the Department must contact the designated agency as soon as practicable after it becomes apparent that this section applies to the person and make arrangements for a special advocate to whom [section 264(5)][320] applies to be available, on behalf of the person, for the hearing of the application.
+    (3) If the person has been detained under a warrant of commitment, or released on conditions under [section 320][395], the Department must contact the designated agency as soon as practicable after it becomes apparent that this section applies to the person and make arrangements for a special advocate to whom [section 264(5)][322] applies to be available, on behalf of the person, for the hearing of the application.
     
     (4) If an application on a matter to which subsection (2) or (3) applies is made directly to the High Court, or is transferred to the High Court, the special advocate concerned must be provided with access to the classified information provided to the High Court before the application is heard (and he or she may not unreasonably refuse to be provided with access to the classified information).
     
-    (5) The designated agency must not provide the name of a special advocate unless the special advocate is reasonably available, having regard to the time frames in [Part 9][372].
+    (5) The designated agency must not provide the name of a special advocate unless the special advocate is reasonably available, having regard to the time frames in [Part 9][374].
 
 ##### 267 Communication between special advocate and person to whom classified information relates
     
 *   (1) In this section (other than subsection (4)), _person A_ means---
         
-    *   (a) a person who has appointed a special advocate under [section 265(6)][321]; or
+    *   (a) a person who has appointed a special advocate under [section 265(6)][323]; or
     
-    *   (b) a person to whom a special advocate has been made available under [section 265(7)][321] or [266][322].
+    *   (b) a person to whom a special advocate has been made available under [section 265(7)][323] or [266][324].
     
     (2) In subsection (4), _person A_ means---
         
-    *   (a) a person who has appointed a special advocate under [section 265(6)][321]; or
+    *   (a) a person who has appointed a special advocate under [section 265(6)][323]; or
     
-    *   (b) a person to whom a special advocate has been made available under section [265(7)][321].
+    *   (b) a person to whom a special advocate has been made available under section [265(7)][323].
     
     (3) A special advocate may communicate with person A or person A's representative on an unlimited basis until the special advocate has been provided with access to the classified information concerned, but once he or she has been provided with access to the classified information, he or she may not communicate with any person about any matter connected with the proceedings involving the classified information except in accordance with this section.
     
-    (4) The Minister or a refugee and protection officer (as appropriate) must provide the special advocate with access to the classified information on any date that is 29 days or more after the date on which person A was provided with the names of possible special advocates under [section 265(2) or (5)][321] or, as the case may be, had a special advocate made available to him or her under section 265(7).
+    (4) The Minister or a refugee and protection officer (as appropriate) must provide the special advocate with access to the classified information on any date that is 29 days or more after the date on which person A was provided with the names of possible special advocates under [section 265(2) or (5)][323] or, as the case may be, had a special advocate made available to him or her under section 265(7).
     
     (5) A special advocate may not unreasonably refuse to be provided with access to the classified information after the date after which access may be provided under subsection (4).
     
@@ -7516,7 +7636,7 @@ Appeals, reviews, and other proceedings
     
     *   (d) the chief executive of the relevant agency, or that chief executive's security-cleared representative:
     
-    *   (e) the chief executive of the Department, if the proceedings relate to an application to which [section 325][394] applies:
+    *   (e) the chief executive of the Department, if the proceedings relate to an application to which [section 325][402] applies:
     
     *   (f) any other person, except for person A or his or her representative, with whom it is necessary for administrative purposes for the special advocate to communicate about matters not connected with the substance of the proceedings.
     
@@ -7562,11 +7682,11 @@ Appeals, reviews, and other proceedings
     
 *   (1) To the extent that a special advocate is acting in accordance with the requirements of this Act, he or she is not guilty of---
         
-    *   (a) misconduct within the meaning of [section 9][738] of the Lawyers and Conveyancers Act 2006; or
+    *   (a) misconduct within the meaning of [section 9][756] of the Lawyers and Conveyancers Act 2006; or
     
-    *   (b) unsatisfactory conduct within the meaning of [section 12][739] of that Act.
+    *   (b) unsatisfactory conduct within the meaning of [section 12][757] of that Act.
     
-    (2) To avoid doubt, the provisions of this Act apply despite the requirements of any practice rules made and approved under the [Lawyers and Conveyancers Act 2006][737].
+    (2) To avoid doubt, the provisions of this Act apply despite the requirements of any practice rules made and approved under the [Lawyers and Conveyancers Act 2006][755].
     
     (3) No person is personally liable for any act done or omitted to be done in good faith, in his or her capacity as a special advocate, in accordance with the requirements or provisions of this Act or of any regulations made under this Act.
 
@@ -7606,11 +7726,11 @@ Appeals, reviews, and other proceedings
     
 *   (1) The Tribunal or the court concerned may make the order it thinks just for payment to---
         
-    *   (a) counsel assisting the court appointed for any proceedings under [section 269][325]; and
+    *   (a) counsel assisting the court appointed for any proceedings under [section 269][327]; and
     
-    *   (b) a special adviser appointed for any proceedings under [section 270][326].
+    *   (b) a special adviser appointed for any proceedings under [section 270][328].
     
-    (2) The Registrar of the Tribunal or the court must send a copy of the order to the chief executive of the department of State referred to in [clause 5 of Schedule 2][622], who must then make the payment out of money appropriated by Parliament for that purpose.
+    (2) The Registrar of the Tribunal or the court must send a copy of the order to the chief executive of the department of State referred to in [clause 5 of Schedule 2][633], who must then make the payment out of money appropriated by Parliament for that purpose.
 
 ## Part 8  
 Compliance and information
@@ -7643,7 +7763,7 @@ Compliance and information
 
 ##### 273 Meaning of information, document, register, list, etc, in sections 274, 276, 277, and 278
     
-*   In [sections 274][332], [276][335], [277][336], and [278][337], any reference to information or a document, register, list, wages and time record, or record includes a reference to an electronic version of the information, document, register, list, wages and time record, or record.
+*   In [sections 274][334], [276][337], [277][338], and [278][339], any reference to information or a document, register, list, wages and time record, or record includes a reference to an electronic version of the information, document, register, list, wages and time record, or record.
 
 #### Power to access address information
 
@@ -7657,7 +7777,7 @@ Compliance and information
     
     (2) A certificate prepared under subsection (1)(a) may, where the officer believes that the person concerned may be using 1 or more aliases, include any such alias.
     
-    (3) On being provided with a certificate prepared under subsection (1), any person referred to in [section 275][333], or any officer or employee of any department, agency, or body referred to in that section, must produce for inspection by the officer and provide a copy of, or allow the officer to copy, any record or other information held by and reasonably available to that person, department, agency, or other body that may help to establish,---
+    (3) On being provided with a certificate prepared under subsection (1), any person referred to in [section 275][335], or any officer or employee of any department, agency, or body referred to in that section, must produce for inspection by the officer and provide a copy of, or allow the officer to copy, any record or other information held by and reasonably available to that person, department, agency, or other body that may help to establish,---
         
     *   (a) in the case of a certificate prepared under subsection (1)(a), the present whereabouts of the person named in the certificate or that person's whereabouts at any time in the past; or
     
@@ -7665,11 +7785,11 @@ Compliance and information
     
     (4) Subsection (3) applies despite any enactment or rule of law to the contrary, and no person who provides a record or information in compliance with that subsection is liable in any civil or criminal proceedings in respect of that action.
     
-    Compare: 1987 No 74 [s 64][740]
+    Compare: 1987 No 74 [s 64][758]
 
 ##### 275 Persons required to provide access to address information
     
-*   The persons and bodies who may be required by certificate under [section 274][332] to provide access to address or identity information are as follows:
+*   The persons and bodies who may be required by certificate under [section 274][334] to provide access to address or identity information are as follows:
         
     *   (a) the following government agencies:
             
@@ -7715,7 +7835,7 @@ Compliance and information
     
     *   (l) in relation to a person whose location is being sought, the person's employer or former employer.
     
-    Compare: 1987 No 74 [s 64][740] and [Schedule 1][741]
+    Compare: 1987 No 74 [s 64][758] and [Schedule 1][759]
 
 #### Powers of entry, inspection, etc
 
@@ -7735,7 +7855,7 @@ Compliance and information
     
     (4) In this section, _accommodation provider_ means the operator of any hotel, motel, guesthouse, motor camp, or other premises in which accommodation is offered for valuable consideration to any member of the public.
     
-    Compare: 1987 No 74 [s 138][742]
+    Compare: 1987 No 74 [s 138][760]
 
 ##### 277 Powers of entry and inspection relating to records of employers
     
@@ -7777,7 +7897,7 @@ Compliance and information
     
     (4) An immigration officer may exercise the powers in subsection (3) at any reasonable time during which work is being carried out on the premises or the premises are open for business, whether by day or by night, without a warrant or any other authority than this section.
     
-    Compare: 1987 No 74[s 138][742]
+    Compare: 1987 No 74[s 138][760]
 
 ##### 278 Powers of entry and inspection relating to records of education providers
     
@@ -7815,7 +7935,7 @@ Compliance and information
     
     (5) An immigration officer may exercise the powers in subsection (4) at any reasonable time during which the education provider is open for business, whether by day or by night, without a warrant or any other authority other than this section.
     
-    Compare: 1987 No 74[s 138][742]
+    Compare: 1987 No 74[s 138][760]
 
 #### Power to require production of documents, etc
 
@@ -7839,9 +7959,9 @@ Compliance and information
         
     *   (a) inform the person that he or she suspects that the person has committed an offence against this Act; and
     
-    *   (b) warn the person that if the person fails without reasonable excuse to comply with his or her request, the person may be charged with an offence against [section 344(b)][419].
+    *   (b) warn the person that if the person fails without reasonable excuse to comply with his or her request, the person may be charged with an offence against [section 344(b)][427].
     
-    Compare: 1987 No 74 [s 136(1)][743]
+    Compare: 1987 No 74 [s 136(1)][761]
 
 ##### 280 Power of immigration officer to request information and documents where liability for deportation or turnaround suspected
     
@@ -7865,15 +7985,15 @@ Compliance and information
     
     *   (b) warn the person that if the person fails without reasonable excuse to comply with his or her request, the person is liable to arrest and detention under this Act.
     
-    Compare: 1987 No 74[s 138A(1), (2)][744]
+    Compare: 1987 No 74[s 138A(1), (2)][762]
 
 ##### 281 Powers on deportation or turnaround
     
 *   (1) Where a person is liable for deportation or turnaround,---
         
-    *   (a) in addition to the powers referred to in [section 280][340], an immigration officer may---
+    *   (a) in addition to the powers referred to in [section 280][342], an immigration officer may---
             
-        *   (i) require the person to give to the officer written authority to obtain from any other person documents or other things of a kind referred to in [section 280(1)(b), (c), or (d)][340] held by or on behalf of the person; and
+        *   (i) require the person to give to the officer written authority to obtain from any other person documents or other things of a kind referred to in [section 280(1)(b), (c), or (d)][342] held by or on behalf of the person; and
         
         *   (ii) require the person to produce and surrender any travel tickets or cash or security in lieu of travel tickets, held by or on behalf of the person; and
         
@@ -7881,7 +8001,7 @@ Compliance and information
     
     *   (b) any documents or other things surrendered or obtained may be used by the Crown towards effecting the person's deportation or departure from New Zealand.
     
-    (2) To the extent that any documents or things surrendered or obtained under subsection (1) or [section 280(1)][340] are not used or required for the person's deportation or departure, they must be returned to the person---
+    (2) To the extent that any documents or things surrendered or obtained under subsection (1) or [section 280(1)][342] are not used or required for the person's deportation or departure, they must be returned to the person---
         
     *   (a) on the person's departure from New Zealand or on the person being granted a visa and entry permission; or
     
@@ -7985,7 +8105,7 @@ Compliance and information
     
     *   (b) serve the notice or execute the deportation order.
     
-    Compare: 1987 No 74 [s 137(1)][745]
+    Compare: 1987 No 74 [s 137(1)][763]
 
 ##### 287 Special powers pending deportation or turnaround
     
@@ -7995,7 +8115,7 @@ Compliance and information
     
     *   (b) the power to take the person's fingerprints, palm-prints, or footprints, or a scan of the person's irises.
     
-    Compare: 1987 No 74 [s 141][746]
+    Compare: 1987 No 74 [s 141][764]
 
 ##### 288 Immigration officer may require biometric information to determine compliance with Act
     
@@ -8027,7 +8147,7 @@ Compliance and information
         
         
     
-    *   (b) the person has refused to allow biometric information to be collected from him or her in response to a requirement to do so by an immigration officer under [section 288(2)][350].
+    *   (b) the person has refused to allow biometric information to be collected from him or her in response to a requirement to do so by an immigration officer under [section 288(2)][352].
     
     (2) Every application under subsection (1) must be made by an immigration officer, in writing and on oath, and must set out the following particulars:
         
@@ -8047,11 +8167,11 @@ Compliance and information
     
 *   (1) On the hearing of an application for a compulsion order, a District Court Judge may make a compulsion order requiring the respondent to allow specified biometric information to be collected from him or her, if the Judge is satisfied that---
         
-    *   (a) there is good cause to suspect that any matter in [section 289(1)(a)][351] applies to the respondent; and
+    *   (a) there is good cause to suspect that any matter in [section 289(1)(a)][353] applies to the respondent; and
     
-    *   (b) there are reasonable grounds to believe that biometric information collected from the respondent would tend to confirm or disprove that any matter in [section 289(1)(a)][351] applies to the person; and
+    *   (b) there are reasonable grounds to believe that biometric information collected from the respondent would tend to confirm or disprove that any matter in [section 289(1)(a)][353] applies to the person; and
     
-    *   (c) the person has refused to allow biometric information to be collected from him or her in response to a requirement to do so by an immigration officer under [section 288(2)][350]; and
+    *   (c) the person has refused to allow biometric information to be collected from him or her in response to a requirement to do so by an immigration officer under [section 288(2)][352]; and
     
     *   (d) in all the circumstances, it is reasonable to make the order.
     
@@ -8067,7 +8187,7 @@ Compliance and information
     
 *   (1) The fact that a compulsion order has previously been sought or made in respect of a matter, whether or not the previous application or order related to the same person, does not prohibit---
         
-    *   (a) the making of an application under [section 289][351] for a compulsion order in respect of a matter; or
+    *   (a) the making of an application under [section 289][353] for a compulsion order in respect of a matter; or
     
     *   (b) a Judge from making a compulsion order in respect of a matter.
     
@@ -8081,25 +8201,25 @@ Compliance and information
 
 ##### 293 Police to have powers of immigration officers
     
-*   For the purposes of this Act, a constable has all the powers of an immigration officer under [sections 276 to 292][335].
+*   For the purposes of this Act, a constable has all the powers of an immigration officer under [sections 276 to 292][337].
 
 ##### 293A Immigration officer may apply for search warrant
     
-*   An immigration officer may, in carrying out the immigration officer's functions under this Act, apply for a search warrant under [section 198][747] of the Summary Proceedings Act 1957\.
+*   An immigration officer may, in carrying out the immigration officer's functions under this Act, apply for a search warrant under [section 198][765] of the Summary Proceedings Act 1957\.
     
-    Section 293A: inserted, on 1 October 2012, by [section 259(2)][748] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 293A: inserted, on 1 October 2012, by [section 259(2)][766] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Disclosure of information to or by other agencies, bodies, or persons
 
 ##### 294 Information matching to identify immigration status of person sentenced to imprisonment or community-based sentence
     
-*   (1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the [Corrections Act 2004][749] (the _responsible department_) to enable the responsible department to identify the immigration status of any person who has been sentenced to imprisonment or who has received a community-based sentence.
+*   (1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the [Corrections Act 2004][767] (the _responsible department_) to enable the responsible department to identify the immigration status of any person who has been sentenced to imprisonment or who has received a community-based sentence.
     
-    (2) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, make arrangements between them in writing for the disclosure of information under this section and, in accordance with those arrangements, the chief executive of the responsible department may supply to the chief executive of the Department any identifying information--- 
+    (2) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, make arrangements between them in writing for the disclosure of information under this section and, in accordance with those arrangements, the chief executive of the responsible department may supply to the chief executive of the Department any identifying information---
         
     *   (a) about a person who has been sentenced to imprisonment; or
     
-    *   (b) if authorised by regulations made under the [Corrections Act 2004][749], about a person who has received a community-based sentence.
+    *   (b) if authorised by regulations made under the [Corrections Act 2004][767], about a person who has received a community-based sentence.
     
     (3) The chief executive of the Department may compare any information he or she receives under subsection (2) with any information held by the Department that relates to the person and, if the Department has immigration information about the person, the chief executive of the Department may, in accordance with the arrangements made under subsection (2), supply to an authorised officer the following information relating to the person:
         
@@ -8145,7 +8265,7 @@ Compliance and information
     
     *   (h) alias or aliases.
     
-    Compare: 1987 No 74 [s 141AC][750]
+    Compare: 1987 No 74 [s 141AC][768]
 
 ##### 295 Information matching to locate person in serious default of payment of fine
     
@@ -8183,21 +8303,21 @@ Compliance and information
     
     (4) In this section and section 296, unless the context otherwise requires,---
     
-    _amount of reparation_ has the same meaning as in [section 79][751] of the Summary Proceedings Act 1957
+    _amount of reparation_ has the same meaning as in [section 79][769] of the Summary Proceedings Act 1957
     
     _authorised officer_ means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to supply information to or receive information from the chief executive of the Department in accordance with this section
     
     _fine_ means---
         
-    *   (a) a fine within the meaning of [section 79][751] of the Summary Proceedings Act 1957:
+    *   (a) a fine within the meaning of [section 79][769] of the Summary Proceedings Act 1957:
     
-    *   (b) a fine to which [section 19][752] of the Crimes Act 1961 applies:
+    *   (b) a fine to which [section 19][770] of the Crimes Act 1961 applies:
     
-    *   (c) a fine to which [section 43][753] or [45][754] of the Misuse of Drugs Amendment Act 1978 applies:
+    *   (c) a fine to which [section 43][771] or [45][772] of the Misuse of Drugs Amendment Act 1978 applies:
     
-    *   (d) a fine to which [section 28I][755] of the District Courts Act 1947 applies:
+    *   (d) a fine to which [section 28I][773] of the District Courts Act 1947 applies:
     
-    *   (e) any amount payable under [section 138A(1)][756] of the Sentencing Act 2002
+    *   (e) any amount payable under [section 138A(1)][774] of the Sentencing Act 2002
     
     _fines enforcement action_ includes the execution of a warrant to arrest a person in respect of the non-payment of the whole or any part of any fine
     
@@ -8217,13 +8337,13 @@ Compliance and information
     
     *   (c) the warrant has not been withdrawn or executed.
     
-    Compare: 1987 No 74 [ss 141AD][757], [141AE][758]
+    Compare: 1987 No 74 [ss 141AD][775], [141AE][776]
     
-    Section 295(4) **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][759] of the Immigration Amendment Act 2011 (2011 No 39).
+    Section 295(4) **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][777] of the Immigration Amendment Act 2011 (2011 No 39).
     
-    Section 295(4) **fine**: replaced, on 13 February 2012, by [section 4(1)][759] of the Immigration Amendment Act 2011 (2011 No 39).
+    Section 295(4) **fine**: replaced, on 13 February 2012, by [section 4(1)][777] of the Immigration Amendment Act 2011 (2011 No 39).
     
-    Section 295(4) **reparation**: repealed, on 13 February 2012, by [section 4(2)][759] of the Immigration Amendment Act 2011 (2011 No 39).
+    Section 295(4) **reparation**: repealed, on 13 February 2012, by [section 4(2)][777] of the Immigration Amendment Act 2011 (2011 No 39).
 
 ##### 296 No Crown liability to third parties for fines enforcement action
     
@@ -8237,11 +8357,11 @@ Compliance and information
     
     (3) Nothing in subsection (2) applies to or affects any question of the liability of the Crown to the alleged defaulter.
     
-    Compare: 1987 No 74[s 141AF][760]
+    Compare: 1987 No 74[s 141AF][778]
 
 ##### 297 Chief executive may supply information concerning specified fines defaulters to commercial carriers
     
-*   (1) This section applies to the chief executive of the Department if he or she is supplied with information about a specified fines defaulter (within the meaning of [section 280F(3)][761] of the Customs and Excise Act 1996) under section 280F(1) of that Act.
+*   (1) This section applies to the chief executive of the Department if he or she is supplied with information about a specified fines defaulter (within the meaning of [section 280F(3)][779] of the Customs and Excise Act 1996) under section 280F(1) of that Act.
     
     (2) The chief executive of the Department may supply the information to a commercial carrier---
         
@@ -8257,13 +8377,13 @@ Compliance and information
     
     *   (b) the agent of a person described in paragraph (a)
     
-    _specified fines defaulter_ has the meaning given by [section 280F][761] of the Customs and Excise Act 1996\.
+    _specified fines defaulter_ has the meaning given by [section 280F][779] of the Customs and Excise Act 1996\.
     
-    Compare: 1987 No 74 [s 141AG][762]
+    Compare: 1987 No 74 [s 141AG][780]
 
 ##### 298 Information matching to verify social security benefit matters
     
-*   (1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the [Social Security Act 1964][763] (the _responsible department_) for the purposes of verifying---
+*   (1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the [Social Security Act 1964][781] (the _responsible department_) for the purposes of verifying---
         
     *   (a) the entitlement or eligibility of any person to or for any benefit; or
     
@@ -8281,7 +8401,7 @@ Compliance and information
         
     *   (a) is a person who the chief executive of the Department believes is unlawfully in New Zealand; or
     
-    *   (b) is a person on whom an immigration officer or a constable may serve a deportation order under [section 175(1)][216]; or
+    *   (b) is a person on whom an immigration officer or a constable may serve a deportation order under [section 175(1)][218]; or
     
     *   (c) is a person who is lawfully in New Zealand, but only by virtue of being the holder of a temporary entry class visa; or
     
@@ -8341,11 +8461,11 @@ Compliance and information
     
     _authorised officer_ means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to receive information from the chief executive of the Department in accordance with this section
     
-    _benefit_ has the same meaning as in [section 3(1)][764] of the Social Security Act 1964 but includes---
+    _benefit_ has the same meaning as in [section 3(1)][782] of the Social Security Act 1964 but includes---
         
-    *   (a) a lump sum payable under any of [sections 61DB][765], [61DC][766], and [61DD][767] of that Act; and
+    *   (a) a lump sum payable under any of [sections 61DB][783], [61DC][784], and [61DD][785] of that Act; and
     
-    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d)][768] of that Act
+    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d)][786] of that Act
     
     _identifying information_, in relation to a person, includes---
         
@@ -8357,13 +8477,13 @@ Compliance and information
     
     *   (d) the person's address.
     
-    Compare: 1987 No 74 [s 141A][769]
+    Compare: 1987 No 74 [s 141A][787]
 
 ##### 299 Information matching to recover costs of visa holder's social security benefit from sponsor
     
-*   (1) The purpose of this section is to facilitate the disclosure of information between the department of State for the time being responsible for the administration of the Social Security Act 1964 (the _responsible department_) and the Department for the purpose of enabling the Department to recover from a sponsor (as defined in [section 48][60] of this Act) the costs of any benefit paid to a person that are recoverable under an undertaking given by the sponsor under that section in accordance with [section 55][68].
+*   (1) The purpose of this section is to facilitate the disclosure of information between the department of State for the time being responsible for the administration of the Social Security Act 1964 (the _responsible department_) and the Department for the purpose of enabling the Department to recover from a sponsor (as defined in [section 48][61] of this Act) the costs of any benefit paid to a person that are recoverable under an undertaking given by the sponsor under that section in accordance with [section 55][69].
     
-    (2) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, make arrangements between them in writing for the disclosure of information under this section and, in accordance with those arrangements, the chief executive of the Department may supply to the chief executive of the responsible department identifying information about any person in respect of whom an undertaking relating to the payment of a benefit has been given under [section 48][60] of this Act.
+    (2) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, make arrangements between them in writing for the disclosure of information under this section and, in accordance with those arrangements, the chief executive of the Department may supply to the chief executive of the responsible department identifying information about any person in respect of whom an undertaking relating to the payment of a benefit has been given under [section 48][61] of this Act.
     
     (3) The chief executive of the responsible department may---
         
@@ -8401,11 +8521,11 @@ Compliance and information
     
     _authorised officer_ means an officer, employee, or agent of the Department who is authorised by the chief executive of the Department to receive information from the chief executive of the responsible department in accordance with this section
     
-    _benefit_ has the same meaning as in [section 3(1)][764] of the Social Security Act 1964 but includes---
+    _benefit_ has the same meaning as in [section 3(1)][782] of the Social Security Act 1964 but includes---
         
-    *   (a) a lump sum payable under any of [sections 61DB][765], [61DC][766], and [61DD][767] of that Act; and
+    *   (a) a lump sum payable under any of [sections 61DB][783], [61DC][784], and [61DD][785] of that Act; and
     
-    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d)][768] of that Act
+    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d)][786] of that Act
     
     _identifying information_, in relation to a person, includes---
         
@@ -8463,11 +8583,11 @@ Compliance and information
     
     *   (c) the date or dates on which the person leaves or has left New Zealand:
     
-    *   (d) the start date of any permit granted to the person under the former [Act][611]:
+    *   (d) the start date of any permit granted to the person under the former [Act][620]:
     
-    *   (e) the expiry date of any permit granted to the person under the former [Act][611]:
+    *   (e) the expiry date of any permit granted to the person under the former [Act][620]:
     
-    *   (f) if the person was exempt from the requirement to hold a permit under the former [Act][611], the period of the exemption.
+    *   (f) if the person was exempt from the requirement to hold a permit under the former [Act][620], the period of the exemption.
     
     (7) The information is also, if it is relevant to the matter to be determined by the responsible department,---
         
@@ -8489,17 +8609,17 @@ Compliance and information
     
     *   (b) the date or dates on which the associated person leaves or has left New Zealand:
     
-    *   (c) the start date of any permit granted to the associated person under the former [Act][611]:
+    *   (c) the start date of any permit granted to the associated person under the former [Act][620]:
     
-    *   (d) the expiry date of any permit granted to the associated person under the former [Act][611]:
+    *   (d) the expiry date of any permit granted to the associated person under the former [Act][620]:
     
-    *   (e) if the associated person was exempt from the requirement to hold a permit under the former [Act][611], the period of that exemption.
+    *   (e) if the associated person was exempt from the requirement to hold a permit under the former [Act][620], the period of that exemption.
     
     (8) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, determine by agreement between them---
         
     *   (a) the frequency with which information may be supplied; and
     
-    *   (b) the form in which the information may be supplied; and 
+    *   (b) the form in which the information may be supplied; and
     
     *   (c) the method by which the information may be supplied.
     
@@ -8509,9 +8629,9 @@ Compliance and information
     
     _identifying information_ means information that identifies a person, such as the person's full name, date or place of birth, gender, or alias or a unique identifying number used for the person
     
-    _publicly funded health and disability support services_ means health services and disability support services funded under the [New Zealand Public Health and Disability Act 2000][770]
+    _publicly funded health and disability support services_ means health services and disability support services funded under the [New Zealand Public Health and Disability Act 2000][788]
     
-    _responsible department_ means the department of State for the time being responsible for the administration of the [New Zealand Public Health and Disability Act 2000][770].
+    _responsible department_ means the department of State for the time being responsible for the administration of the [New Zealand Public Health and Disability Act 2000][788].
 
 ##### 301 Disclosure of immigration information to verify eligibility for publicly funded services
     
@@ -8551,11 +8671,11 @@ Compliance and information
     
     *   (c) the date or dates on which the person leaves or has left New Zealand:
     
-    *   (d) the start date of any permit granted to the person under the former [Act][611]:
+    *   (d) the start date of any permit granted to the person under the former [Act][620]:
     
-    *   (e) the expiry date of any permit granted to the person under the former [Act][611]:
+    *   (e) the expiry date of any permit granted to the person under the former [Act][620]:
     
-    *   (f) if the person was exempt from the requirement to hold a permit under the former [Act][611], the period of that exemption:
+    *   (f) if the person was exempt from the requirement to hold a permit under the former [Act][620], the period of that exemption:
     
     *   (g) if relevant to the matter to be determined by the service provider,---
             
@@ -8577,11 +8697,11 @@ Compliance and information
         
         *   (ii) the date or dates on which the associated person leaves or has left New Zealand:
         
-        *   (iii) the start date of any permit granted to the associated person under the former [Act][611]:
+        *   (iii) the start date of any permit granted to the associated person under the former [Act][620]:
         
-        *   (iv) the expiry date of any permit granted to the associated person under the former [Act][611]:
+        *   (iv) the expiry date of any permit granted to the associated person under the former [Act][620]:
         
-        *   (v) if the associated person was exempt from the requirement to hold a permit under the former [Act][611], the period of that exemption.
+        *   (v) if the associated person was exempt from the requirement to hold a permit under the former [Act][620], the period of that exemption.
         
         
     
@@ -8671,7 +8791,7 @@ Compliance and information
     
     *   (f) a person who travels to New Zealand, including as a member of the crew of a craft, and does not enter New Zealand as a New Zealand citizen:
     
-    *   (g) a person about whom the chief executive has received and retained information under [section 96][121] or [102][128] and who does not enter New Zealand as a New Zealand citizen:
+    *   (g) a person about whom the chief executive has received and retained information under [section 96][122] or [102][129] and who does not enter New Zealand as a New Zealand citizen:
     
     *   (h) a person liable for turnaround or who the chief executive of the Department suspects is liable for turnaround:
     
@@ -8785,15 +8905,15 @@ Compliance and information
     
     _specified agency_ means---
         
-    *   (a) the New Zealand Police: 
+    *   (a) the New Zealand Police:
     
     *   (b) the Ministry of Justice:
     
-    *   (c) the department of State responsible for the administration of the [Biosecurity Act 1993][771]:
+    *   (c) the department of State responsible for the administration of the [Biosecurity Act 1993][789]:
     
-    *   (d) the department of State responsible for the administration of the [Corrections Act 2004][749]:
+    *   (d) the department of State responsible for the administration of the [Corrections Act 2004][767]:
     
-    *   (e) the department of State responsible for the administration of the [Customs and Excise Act 1996][772].
+    *   (e) the department of State responsible for the administration of the [Customs and Excise Act 1996][790].
     
     
 
@@ -8807,7 +8927,7 @@ Compliance and information
     
     (2) For the purposes of this section, the chief executive of the specified agency may supply identifying information about the following persons to the chief executive of the Department:
         
-    *   (a) a person in New Zealand who the chief executive of the specified agency believes is not a New Zealand citizen: 
+    *   (a) a person in New Zealand who the chief executive of the specified agency believes is not a New Zealand citizen:
     
     *   (b) a person outside New Zealand who the chief executive of the specified agency believes---
             
@@ -8933,15 +9053,15 @@ Compliance and information
     
     _specified agency_ means---
         
-    *   (a) the New Zealand Police: 
+    *   (a) the New Zealand Police:
     
     *   (b) the Ministry of Justice:
     
-    *   (c) the department of State responsible for the administration of the [Biosecurity Act 1993][771]:
+    *   (c) the department of State responsible for the administration of the [Biosecurity Act 1993][789]:
     
-    *   (d) the department of State responsible for the administration of the [Corrections Act 2004][749]:
+    *   (d) the department of State responsible for the administration of the [Corrections Act 2004][767]:
     
-    *   (e) the department of State responsible for the administration of the [Customs and Excise Act 1996][772].
+    *   (e) the department of State responsible for the administration of the [Customs and Excise Act 1996][790].
     
     
 
@@ -8969,11 +9089,11 @@ Compliance and information
         
         
     
-    (5) Where the chief executive discloses information under this section to an employer, the employer must be informed of the requirement to comply with the [Privacy Act 1993][658] in relation to that information.
+    (5) Where the chief executive discloses information under this section to an employer, the employer must be informed of the requirement to comply with the [Privacy Act 1993][671] in relation to that information.
 
 ##### 305 Disclosure of information overseas
     
-*   (1) The chief executive may disclose any information specified in [section 306][371] to an overseas agency, body, or person whose functions include---
+*   (1) The chief executive may disclose any information specified in [section 306][373] to an overseas agency, body, or person whose functions include---
         
     *   (a) the prevention, detection, investigation, prosecution, or punishment of immigration or other offences; or
     
@@ -9067,11 +9187,11 @@ Compliance and information
     
     *   (b) in any other case, to a suspected violation of the law of the state concerned.
     
-    Compare: 1987 No 74 [s 141AA][773]
+    Compare: 1987 No 74 [s 141AA][791]
 
 ##### 306 Information that may be disclosed under section 305
     
-*   (1) The information that may be disclosed under [section 305][370] is---
+*   (1) The information that may be disclosed under [section 305][372] is---
         
     *   (a) airline passenger and crew lists:
     
@@ -9099,22 +9219,30 @@ Compliance and information
     
     *   (m) details of any visa held by a person.
     
-    (2) [Section 305][370] does not prevent or limit any disclosure of information otherwise than under that section that may be required or authorised by or under law, or any treaty, agreement, or arrangement concluded by the Government of New Zealand.
+    (2) [Section 305][372] does not prevent or limit any disclosure of information otherwise than under that section that may be required or authorised by or under law, or any treaty, agreement, or arrangement concluded by the Government of New Zealand.
     
-    Compare: 1987 No 74 [s 141AB][774]
+    Compare: 1987 No 74 [s 141AB][792]
 
 ## Part 9  
 Detention and monitoring
 
 ##### 307 Purpose of Part
     
-*   The purpose of this Part is to establish a tiered detention and monitoring regime in order to ensure---
+*   (1) The purpose of this Part is to establish a tiered detention and monitoring regime in order to ensure---
         
     *   (a) the integrity of the immigration system through providing for the management of persons who are liable for deportation or turnaround; and
     
     *   (b) the safety and security of New Zealand where a person who is liable for deportation may constitute or be suspected of constituting a threat or risk to security.
     
+    (2) The purposes of the warrant of commitment regime for members of a mass arrival group under this Part are---
+        
+    *   (a) to provide a practicable and administratively workable time period within which arrival processing of the mass arrival group can be completed; and
     
+    *   (b) to provide a practicable and administratively workable time period within which any threat or risk to security or to the public arising from, or that may arise from, the members of the mass arrival group, whether collectively or individually, may be properly assessed; and
+    
+    *   (c) to avoid disrupting the efficient functioning of the Department, the courts, or any prison or premises identified in a relevant warrant of commitment.
+    
+    Section 307(2): inserted, on 19 June 2013, by [section 11][793] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 308 This Part code for detention and monitoring of person if detention and monitoring under this Act
     
@@ -9128,7 +9256,7 @@ Detention and monitoring
         
     *   (a) persons who are liable for turnaround:
     
-    *   (b) persons who are liable for deportation (including persons recognised as refugees or protected persons but whose deportation is not prohibited under [section 164(3) or (4)][202]):
+    *   (b) persons who are liable for deportation (including persons recognised as refugees or protected persons but whose deportation is not prohibited under [section 164(3) or (4)][204]):
     
     *   (c) persons who are suspected by an immigration officer or a constable to be liable for deportation or turnaround and who fail to supply satisfactory evidence of their identity when requested under section 280:
     
@@ -9136,9 +9264,9 @@ Detention and monitoring
     
     (2) The following persons are not liable to arrest and detention under this Part:
         
-    *   (a) persons who are recognised as refugees, except those whose deportation is not prohibited under [section 164(3)][202]:
+    *   (a) persons who are recognised as refugees, except those whose deportation is not prohibited under [section 164(3)][204]:
     
-    *   (b) persons who are recognised as protected persons, except those whose deportation is not prohibited under [section 164(4)][202].
+    *   (b) persons who are recognised as protected persons, except those whose deportation is not prohibited under [section 164(4)][204].
     
     
 
@@ -9156,17 +9284,17 @@ Detention and monitoring
         
         
     
-    *   (c) in the case of a person who is suspected by an immigration officer or a constable to be liable for deportation or turnaround and who fails to supply satisfactory evidence of his or her identity when requested under [section 280][340], to detain the person pending satisfactory establishment of the person's identity:
+    *   (c) in the case of a person who is suspected by an immigration officer or a constable to be liable for deportation or turnaround and who fails to supply satisfactory evidence of his or her identity when requested under [section 280][342], to detain the person pending satisfactory establishment of the person's identity:
     
     *   (d) in the case of a person---
             
         *   (i) who is suspected of constituting a threat or risk to security, to detain the person pending the making of a deportation order; or
         
-        *   (ii) who is subject to a deportation order under [section 163][201], to deport the person by placing him or her on the first available craft leaving New Zealand:
+        *   (ii) who is subject to a deportation order under [section 163][203], to deport the person by placing him or her on the first available craft leaving New Zealand:
         
         
     
-    *   (e) in the case of a person who has breached residence and reporting requirements agreed under [section 315][382] or conditions imposed under section 320, to detain the person pending a determination by a District Court Judge under [section 317][385], [318][386], or [320][388].
+    *   (e) in the case of a person who has breached residence and reporting requirements agreed under [section 315][384] or conditions imposed under section 320, to detain the person pending a determination by a District Court Judge under [section 317][387], [318][393], or [320][395].
     
     
 
@@ -9174,23 +9302,23 @@ Detention and monitoring
     
 *   Where a person is liable to arrest and detention under this Part,---
         
-    *   (a) the person may be subject to the 4-hour limited detention by an immigration officer provided for in [section 312][379]:
+    *   (a) the person may be subject to the 4-hour limited detention by an immigration officer provided for in [section 312][381]:
     
-    *   (b) the person may be arrested and detained without warrant for a period not exceeding 96 hours by a constable in accordance with [section 313][380]:
+    *   (b) the person may be arrested and detained without warrant for a period not exceeding 96 hours by a constable in accordance with [section 313][382]:
     
-    *   (c) an immigration officer may agree to residence and reporting requirements with the person in accordance with [section 315][382]:
+    *   (c) an immigration officer may agree to residence and reporting requirements with the person in accordance with [section 315][384]:
     
-    *   (d) the person may be detained in custody under a warrant of commitment issued under [section 317][385] or [318][386]:
+    *   (d) the person may be detained in custody under a warrant of commitment:
     
-    *   (e) the person may be released on conditions under [section 320][388].
+    *   (e) the person may be released on conditions under [section 320][395].
     
-    
+    Section 311(d): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 312 Limited power of detention for up to 4 hours
     
-*   A person liable to arrest and detention under this Part may be detained by an immigration officer for a purpose set out in [section 310][377] until the earliest of---
+*   A person liable to arrest and detention under this Part may be detained by an immigration officer for a purpose set out in [section 310][379] until the earliest of---
         
-    *   (a) the exercise by a constable of the power of arrest and detention under [section 313][380]; or
+    *   (a) the exercise by a constable of the power of arrest and detention under [section 313][382]; or
     
     *   (b) the delivery of the person into custody under this Act; or
     
@@ -9200,27 +9328,27 @@ Detention and monitoring
     
     *   (e) the elapsing of 4 hours since the detention commenced.
     
-    Compare: 2004 No 50 [s 103][775]
+    Compare: 2004 No 50 [s 103][794]
 
 ##### 313 Initial period of detention for up to 96 hours without warrant
     
-*   (1) Where a person is liable to arrest and detention under this Part, a constable may, and if requested by an immigration officer must, for a purpose set out in [section 310][377] arrest the person without warrant and place him or her in custody.
+*   (1) Where a person is liable to arrest and detention under this Part, a constable may, and if requested by an immigration officer must, for a purpose set out in [section 310][379] arrest the person without warrant and place him or her in custody.
     
     (2) A person arrested and detained under this section may be detained only as long as is necessary to achieve the purpose of the arrest and detention without further authority than this section, but must not be detained for a period longer than 96 hours.
     
-    (3) The period of 96 hours in subsection (2) is to be determined inclusive of any time during which the person was detained by an immigration officer under [section 312][379].
+    (3) The period of 96 hours in subsection (2) is to be determined inclusive of any time during which the person was detained by an immigration officer under [section 312][381].
 
 ##### 314 Persons arrested and detained pending making of deportation order
     
-*   (1) This section applies in the case of a person arrested and detained under [section 313][380] on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security.
+*   (1) This section applies in the case of a person arrested and detained under [section 313][382] on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security.
     
-    (2) If subsection (1) applies, a constable must as soon as is practicable refer the case to the Minister to determine whether to certify, under [section 163][201], that the person constitutes a threat or risk to security.
+    (2) If subsection (1) applies, a constable must as soon as is practicable refer the case to the Minister to determine whether to certify, under [section 163][203], that the person constitutes a threat or risk to security.
     
-    Compare: 1987 No 74 [s 75][776]
+    Compare: 1987 No 74 [s 75][795]
 
 ##### 315 Person may instead agree to residence and reporting requirements
     
-*   (1) Rather than causing a person who is liable for arrest and detention to be arrested under [section 313][380], or making an application for a warrant of commitment under [section 316][384], an immigration officer and the person liable for arrest and detention may agree that the person will do all or any of the following things:
+*   (1) Rather than causing a person who is liable for arrest and detention to be arrested under [section 313][382], or making an application for a warrant of commitment under [section 316][386], an immigration officer and the person liable for arrest and detention may agree that the person will do all or any of the following things:
         
     *   (a) reside at a specified place:
     
@@ -9246,11 +9374,11 @@ Detention and monitoring
         
     *   (a) list any requirements agreed under subsection (1) or (3); and
     
-    *   (b) include a warning that, if the person fails to comply with any agreed requirement, the person may be detained under [section 312][379] or arrested and detained under [section 313][380].
+    *   (b) include a warning that, if the person fails to comply with any agreed requirement, the person may be detained under [section 312][381] or arrested and detained under [section 313][382].
     
     (5) An immigration officer may at any time, in the officer's absolute discretion, decide to end any agreement made under subsection (1).
     
-    (6) A person may be detained under [section 312][379] or arrested and detained under [section 313][380]---
+    (6) A person may be detained under [section 312][381] or arrested and detained under [section 313][382]---
         
     *   (a) if an immigration officer determines that the person, without reasonable excuse,---
             
@@ -9266,7 +9394,7 @@ Detention and monitoring
     
     (7) An agreement under this section lapses and the person ceases to be bound by it when the person leaves New Zealand or otherwise ceases to be liable to arrest and detention under this Part.
     
-    Compare: 1987 No 74 [s 98][777]
+    Compare: 1987 No 74 [s 98][796]
 
 #### Warrants of commitment
 
@@ -9290,9 +9418,9 @@ Detention and monitoring
     
     *   (c) may include any other supporting evidence.
     
-    (3) The Judge must determine the application under [section 317][385], [318][386], or [323][391], as appropriate.
+    (3) The Judge must determine the application under [section 317][387], [318][393], or [323][398], as appropriate.
     
-    Compare: 1987 No 74 [s 128(8)][691]
+    Compare: 1987 No 74 [s 128(8)][704]
 
 ##### 317 Decision on application for warrant of commitment
     
@@ -9304,7 +9432,7 @@ Detention and monitoring
             
         *   (i) issue a warrant of commitment in the prescribed form authorising the person's detention, in a place named in the warrant, for a period of up to 28 days, if satisfied of the matters in subsections (2) and (3) (and having taken into account the matters in subsections (4) and (5)); or
         
-        *   (ii) order the person's release from custody on conditions under [section 320][388], if the Judge is not satisfied that detention is warranted.
+        *   (ii) order the person's release from custody on conditions under [section 320][395], if the Judge is not satisfied that detention is warranted.
         
         
     
@@ -9344,15 +9472,197 @@ Detention and monitoring
         
         
     
-    Compare: 1987 No 74 [s 60][778]
+    Compare: 1987 No 74 [s 60][797]
+
+##### 317A Application for mass arrival warrant
+    
+*   (1) An immigration officer may apply to a District Court Judge for a warrant of commitment authorising the detention, for a period of not more than 6 months, of the members of a mass arrival group (a _mass arrival warrant_) if---
+        
+    *   (a) the warrant is necessary---
+            
+        *   (i) to effectively manage the mass arrival group; or
+        
+        *   (ii) to manage any threat or risk to security or to the public arising from, or that may arise from, 1 or more members of the mass arrival group; or
+        
+        *   (iii) to uphold the integrity or efficiency of the immigration system; or
+        
+        *   (iv) to avoid disrupting the efficient functioning of the District Court, including the warrant of commitment application procedure; and
+        
+        
+    
+    *   (b) the members of the mass arrival group are detained in custody under this Part; and
+    
+    *   (c) it becomes apparent that, before the expiry of the period for which detention is authorised, 1 or more of the circumstances described in paragraphs (a) to (d) of [section 316(1)][386] will apply to each member of the mass arrival group.
+    
+    (2) Every application under this section must---
+        
+    *   (a) be made on oath; and
+    
+    *   (b) include---
+            
+        *   (i) the number of persons to whom the warrant is to apply; and
+        
+        *   (ii) identity information in respect of each of the persons; and
+        
+        *   (iii) particulars of the craft, or of each of the group of craft, on which the persons arrived (if known); and
+        
+        *   (iv) a description of the circumstances in which the craft, or the group of craft, arrived; and
+        
+        
+    
+    *   (c) include a statement of---
+            
+        *   (i) why the warrant is necessary in terms of subsection (1)(a); and
+        
+        *   (ii) how subsection (1)(c) relates to each person to whom the warrant is to apply.
+        
+        
+    
+    (3) An application under this section may, but is not required to, include any other supporting evidence or information relating to the members of the mass arrival group.
+    
+    (4) The Judge must determine an application under [section 317B][389].
+    
+    (5) Nothing in this section permits an immigration officer to include a person under 18 years of age in an application for a mass arrival warrant unless the person has a parent, guardian, or relative who is a member of the mass arrival group.
+    
+    (6) In subsection (2)(b)(ii), _identity information_ means 1 or more of the following:
+        
+    *   (a) a name of the person (which may be the name that the person is known by or a name assigned to the person):
+    
+    *   (b) biometric information in relation to the person:
+    
+    *   (c) a physical description of the person.
+    
+    Section 317A: inserted, on 19 June 2013, by [section 12][798] of the Immigration Amendment Act 2013 (2013 No 39).
+
+##### 317B Decision on application for mass arrival warrant
+    
+*   (1) On an application for a mass arrival warrant under [section 317A][388], a District Court Judge must,---
+        
+    *   (a) if satisfied of the matters in subsection (2), grant the application and act under subsection (3); or
+    
+    *   (b) if not satisfied of the matters in subsection (2), refuse the application and act under subsection (4).
+    
+    (2) The matters are that---
+        
+    *   (a) the application relates to a mass arrival group; and
+    
+    *   (b) the warrant is necessary for 1 or more of the reasons stated in [section 317A(1)(a)][388]; and
+    
+    *   (c) 1 or more of the circumstances described in paragraphs (a) to (d) of [section 316(1)][386] will apply in respect of each member of the mass arrival group; and
+    
+    *   (d) the requirements of [section 317A(2)(a) to (c)][388] have been met.
+    
+    (3) The Judge must issue the warrant in the prescribed form authorising the detention of each member of the mass arrival group in a place or the places named in the warrant---
+        
+    *   (a) for the period sought in the application; or
+    
+    *   (b) for a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,---
+            
+        *   (i) the reasons for the necessity of the warrant in terms of [section 317A(1)(a)][388] will no longer apply; or
+        
+        *   (ii) the circumstances described in paragraphs (a) to (d) of [section 316(1)][386] will no longer apply in respect of each member of the mass arrival group.
+        
+        
+    
+    (4) The Judge must---
+        
+    *   (a) treat the application as if it were applications made under [section 316][386] in respect of each member of the mass arrival group; and
+    
+    *   (b) determine the applications in accordance with subsection (3) of that section.
+    
+    Section 317B: inserted, on 19 June 2013, by [section 12][798] of the Immigration Amendment Act 2013 (2013 No 39).
+
+##### 317C Variation of mass arrival warrant
+    
+*   (1) If a mass arrival warrant is issued under [section 317B][389], an immigration officer may subsequently apply for a variation of the warrant to include 1 or more persons who are members of the mass arrival group but who were not known to the immigration officer who made the application under [section 317A][388] at the time the application was made.
+    
+    (2) Every application under this section must---
+        
+    *   (a) be made on oath; and
+    
+    *   (b) include---
+            
+        *   (i) a copy of the original application and warrant; and
+        
+        *   (ii) identity information (within the meaning of [section 317A(6)][388]) in respect of each person to be included in the warrant; and
+        
+        *   (iii) a statement of how [section 317A(1)(c)][388] relates to each person to be included in the warrant.
+        
+        
+    
+    (3) On an application under this section, a District Court Judge must,---
+        
+    *   (a) if satisfied of the matters in subsection (4), grant the application and act under subsection (5); or
+    
+    *   (b) if not satisfied of the matters in subsection (4), refuse the application and act under subsection (6).
+    
+    (4) The matters are that---
+        
+    *   (a) the persons are members of the mass arrival group; and
+    
+    *   (b) 1 or more of the circumstances described in paragraphs (a) to (d) of [section 316(1)][386] will apply in respect of each of those persons; and
+    
+    *   (c) the requirements of subsection (2) have been met.
+    
+    (5) The Judge must vary the existing warrant to include the persons specified in the application, but must not extend the period of the warrant.
+    
+    (6) The Judge must---
+        
+    *   (a) treat the application as if it were applications made under [section 316][386] in respect of each person the immigration officer has sought to be included in the mass arrival warrant; and
+    
+    *   (b) determine the applications in accordance with subsection (3) of that section.
+    
+    (7) Nothing in this section permits an immigration officer to include a person under 18 years of age in an application for a variation of a mass arrival warrant unless the person has a parent, guardian, or relative who is a member of the mass arrival group.
+    
+    Section 317C: inserted, on 19 June 2013, by [section 12][798] of the Immigration Amendment Act 2013 (2013 No 39).
+
+##### 317D District Court may impose reporting requirements
+    
+*   (1) When issuing a mass arrival warrant under [section 317B][389] or varying a mass arrival warrant under [section 317C][390], a District Court Judge may order an immigration officer to report to the court, on a day or days determined by the Judge, but no more than once every 28 days for the duration of the warrant, on the continuing applicability of the reasons for the necessity of the warrant in terms of [section 317A(1)(a)][388].
+    
+    (2) A District Court Judge may shorten the period of a mass arrival warrant or a varied mass arrival warrant, and vary the warrant accordingly, if, after receiving a report, he or she is satisfied that those reasons will no longer apply after the expiry of the shortened period.
+    
+    Section 317D: inserted, on 19 June 2013, by [section 12][798] of the Immigration Amendment Act 2013 (2013 No 39).
+
+##### 317E Application for further warrant of commitment in respect of mass arrival group
+    
+*   (1) An immigration officer may apply to a District Court Judge for a further warrant of commitment authorising the continued detention of---
+        
+    *   (a) all or specified members of a mass arrival group, as members of a mass arrival group; or
+    
+    *   (b) 1 or more members of a mass arrival group as individuals.
+    
+    (2) An application for a further warrant of commitment under subsection (1)(a) may be for a period of not more than 28 days and must---
+        
+    *   (a) comply with [section 317A(2)][388], and that section applies with any necessary modifications; and
+    
+    *   (b) be determined by a District Court Judge in accordance with [section 317B][389], and that section applies with any necessary modifications.
+    
+    (3) An application for a further warrant of commitment under subsection (1)(b) must be made under [section 316][386] and determined by a District Court Judge in accordance with subsection (3) of that section.
+    
+    (4) If a member of a mass arrival group is dealt with under subsection (3),---
+        
+    *   (a) he or she---
+            
+        *   (i) is no longer to be treated as a member of a mass arrival group for the purposes of this Act; and
+        
+        *   (ii) must, from the time of the Judge's determination, be dealt with under this Act as any other individual would be; and
+        
+        
+    
+    *   (b) the Judge must consequentially amend the warrant of commitment relating to the mass arrival group to exclude the member from the warrant.
+    
+    (5) Subsection (4)(a) is for the avoidance of doubt.
+    
+    Section 317E: inserted, on 19 June 2013, by [section 12][798] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 318 Decision on application for warrant if threat or risk to security
     
 *   (1) This section applies where an immigration officer applies for a warrant of commitment to authorise the detention of a person---
         
-    *   (a) who was arrested and detained under [section 313][380] on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security; or
+    *   (a) who was arrested and detained under [section 313][382] on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security; or
     
-    *   (b) whose deportation has been ordered under [section 163][201].
+    *   (b) whose deportation has been ordered under [section 163][203].
     
     (2) A District Court Judge must, if satisfied on the balance of probabilities that the person is not the person named in the application for the warrant of commitment, order that the person be released from custody immediately.
     
@@ -9360,7 +9670,7 @@ Detention and monitoring
         
     *   (a) issue a warrant of commitment in the prescribed form authorising the person's detention, in a place named in the warrant, for a period of up to 28 days; or
     
-    *   (b) if satisfied that the release of the person would not be contrary to the public interest, order that the person be released on conditions under [section 320][388] pending the person's deportation from New Zealand.
+    *   (b) if satisfied that the release of the person would not be contrary to the public interest, order that the person be released on conditions under [section 320][395] pending the person's deportation from New Zealand.
     
     
 
@@ -9380,11 +9690,11 @@ Detention and monitoring
     
     (2) The period for which detention is authorised by a warrant of commitment must be calculated exclusive of any period commencing on the date on which the person to whom the warrant relates escapes from lawful custody and ending 96 hours after the date on which the person is again taken into custody under this Act.
     
-    Compare: 1987 No 74 [s 128][691]
+    Compare: 1987 No 74 [s 128][704]
 
 ##### 320 Court may instead release person on conditions
     
-*   (1) Where a District Court Judge orders a person's release under [section 317(1)(b)(ii)][385], [318(3)(b)][386], or [323(3)][391] on conditions, the conditions imposed on release may be any conditions that the Judge thinks fit to impose in the circumstances, including all or any of the following:
+*   (1) Where a District Court Judge orders a person's release under [section 317(1)(b)(ii)][387], [318(3)(b)][393], [323(3)][398], or [324A(6)(b)][400] on conditions, the conditions imposed on release may be any conditions that the Judge thinks fit to impose in the circumstances, including all or any of the following:
         
     *   (a) a condition that the released person must reside at a specified place:
     
@@ -9406,11 +9716,11 @@ Detention and monitoring
         
     *   (a) the conditions must be notified in writing to the person before his or her release, and take effect on release; and
     
-    *   (b) the notice of conditions must include a warning that, if the person fails to comply with any condition, the person may be detained under [section 312][379] or arrested and detained under [section 313][380].
+    *   (b) the notice of conditions must include a warning that, if the person fails to comply with any condition, the person may be detained under [section 312][381] or arrested and detained under [section 313][382].
     
     (3) Conditions imposed under this section may be varied at any time---
         
-    *   (a) by a District Court Judge on the application of the person released or an immigration officer under [section 324][392]:
+    *   (a) by a District Court Judge on the application of the person released or an immigration officer under [section 324][399]:
     
     *   (b) by consent between the released person and an immigration officer, if---
             
@@ -9426,21 +9736,23 @@ Detention and monitoring
     
     *   (b) must be put in writing, and notified to the released person, as soon as practicable.
     
-    (5) A person may be detained under [section 312][379] or arrested and detained under [section 313][380]---
+    (5) A person may be detained under [section 312][381] or arrested and detained under [section 313][382]---
         
     *   (a) if an immigration officer determines that the person, without reasonable excuse, has failed to comply with any conditions imposed under subsection (1) or varied under subsection (3); or
     
-    *   (b) if an immigration officer makes an application under [section 324(2)][392] for an order that the person be detained under a warrant of commitment; or
+    *   (b) if an immigration officer makes an application under [section 324(2)][399] for an order that the person be detained under a warrant of commitment; or
     
     *   (c) to execute a deportation order or place the person on the first available craft leaving New Zealand.
     
     (6) Conditions imposed under this section lapse, and the person ceases to be bound by them, when the person leaves New Zealand or otherwise ceases to be liable to arrest and detention under this Part.
     
-    Compare: 1987 No 74 [ss 79][779], [128AB][780]
+    Compare: 1987 No 74 [ss 79][799], [128AB][800]
+    
+    Section 320(1): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 321 Special conditions where threat or risk to security
     
-*   Where a District Court Judge determines to order the release of a person to whom [section 318][386] applies on conditions in accordance with subsection (3)(b) of that section, the conditions imposed under [section 320][388] may also include 1 or both of the following:
+*   Where a District Court Judge determines to order the release of a person to whom [section 318][393] applies on conditions in accordance with subsection (3)(b) of that section, the conditions imposed under [section 320][395] may also include 1 or both of the following:
         
     *   (a) a condition that the person not have access to or use specified communication devices or facilities (such as a telephone, the Internet, or email):
     
@@ -9452,21 +9764,23 @@ Detention and monitoring
     
 *   (1) This section applies in the case of a person who was arrested and detained on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security and who---
         
-    *   (a) is being detained pursuant to a warrant of commitment issued under [section 317][385] or [318][386]; or
+    *   (a) is being detained pursuant to a warrant of commitment; or
     
-    *   (b) has been released on conditions under [section 320][388].
+    *   (b) has been released on conditions under [section 320][395].
     
-    (2) If the Minister decides not to certify that a person to whom this section applies constitutes a threat or risk to security, or fails to make a certification not later than 14 days after the initial arrest under [section 313][380],---
+    (2) If the Minister decides not to certify that a person to whom this section applies constitutes a threat or risk to security, or fails to make a certification not later than 14 days after the initial arrest under [section 313][382],---
         
     *   (a) the person ceases to be liable to arrest and detention under this Part; and
     
     *   (b) in the case of a person being detained under a warrant of commitment, an immigration officer must notify that fact in writing to the manager or other person in charge of the prison or premises identified in the warrant.
     
-    Compare: 1987 No 74 [s 79][779]
+    Compare: 1987 No 74 [s 79][799]
+    
+    Section 322(1)(a): amended, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 323 Decisions on warrants of commitment where detention beyond 6 months
     
-*   (1) This section applies where a person would, upon a successful application for a further warrant of commitment under [section 316][384], be detained under consecutive warrants of commitment for a continuous period of more than 6 months following---
+*   (1) This section applies where a person would, upon a successful application for a further warrant of commitment under [section 316][386], be detained under consecutive warrants of commitment for a continuous period of more than 6 months following---
         
     *   (a) the person's initial detention under a warrant of commitment, where the person has exhausted all appeal rights under this Act at the time of that initial detention, or had no such appeal rights; or
     
@@ -9478,7 +9792,7 @@ Detention and monitoring
         
         
     
-    *   (c) the date when a claim for recognition as a refugee or a protected person is finally determined (within the meaning of [section 128][161]), if the claim was made only after the person---
+    *   (c) the date when a claim for recognition as a refugee or a protected person is finally determined (within the meaning of [section 128][162]), if the claim was made only after the person---
             
         *   (i) was served with a deportation liability notice or order; or
         
@@ -9492,7 +9806,7 @@ Detention and monitoring
     
     *   (b) that no exceptional circumstances exist that would warrant release.
     
-    (3) If the Judge is not so satisfied, the Judge must order the person's release on conditions under [section 320][388].
+    (3) If the Judge is not so satisfied, the Judge must order the person's release on conditions under [section 320][395].
     
     (4) An application for a further warrant of commitment in a case to which this section applies---
         
@@ -9506,7 +9820,7 @@ Detention and monitoring
     
     (6) The period of 6 months referred to in subsection (1) must be calculated exclusive of any period commencing on the date on which the person to whom the warrant relates escapes from lawful custody and ending 96 hours after the date on which the person is again taken into custody under this Act.
     
-    (7) This section does not apply to a person whose deportation has been ordered under [section 163][201].
+    (7) This section does not apply to a person whose deportation has been ordered under [section 163][203].
     
     (8) To avoid doubt, if a person to whom subsection (1)(c) applies makes a subsequent claim, the 6-month period must be treated as starting on the date the subsequent claim is finally determined.
     
@@ -9520,25 +9834,31 @@ Detention and monitoring
     
     *   (b) the refugee and protection appeals associated with any claim made before the person was served with a deportation liability notice or arrested and detained for the purpose of deportation or turnaround.
     
-    (10) For the purposes of subsection (2), **exceptional circumstances** do not include---
+    (10) For the purposes of subsection (2), _exceptional circumstances_ do not include---
         
     *   (a) the period of time that a person has already been detained under this Part; or
     
     *   (b) the possibility that the person's deportation or departure may continue to be prevented by some action or inaction of the person.
     
-    Compare: 1987 No 74 [s 60(6)(b)][778]
+    Compare: 1987 No 74 [s 60(6)(b)][797]
 
 ##### 324 Review of warrant of commitment or release on conditions
     
-*   (1) At any stage during the currency of a warrant of commitment an immigration officer may apply to a District Court Judge for---
+*   (1AA) In this section, _warrant of commitment_ does not include---
+        
+    *   (a) a mass arrival warrant issued under [section 317B][389] (in respect of all or specified members of a mass arrival group); or
+    
+    *   (b) a further warrant of commitment issued under [section 317E(1)(a)][392] (in respect of all or specified members of a mass arrival group).
+    
+    (1) At any stage during the currency of a warrant of commitment an immigration officer may apply to a District Court Judge for---
         
     *   (a) a variation of the warrant of commitment; or
     
-    *   (b) an order that the person who is detained under the warrant be released on conditions under [section 320][388]; or
+    *   (b) an order that the person who is detained under the warrant be released on conditions under [section 320][395]; or
     
     *   (c) an order that the person be released from custody.
     
-    (2) At any stage when a person is released on conditions under [section 320][388] an immigration officer may apply to a District Court Judge for---
+    (2) At any stage when a person is released on conditions under [section 320][395] an immigration officer may apply to a District Court Judge for---
         
     *   (a) an order that the person who is released on conditions be detained under a warrant of commitment; or
     
@@ -9548,7 +9868,7 @@ Detention and monitoring
         
     *   (a) a variation of the warrant of commitment; or
     
-    *   (b) an order that the person be released on conditions under [section 320][388].
+    *   (b) an order that the person be released on conditions under [section 320][395].
     
     (4) Subject to subsection (5), a person released on conditions may apply to a District Court Judge seeking a variation of those conditions.
     
@@ -9558,13 +9878,85 @@ Detention and monitoring
     
     *   (b) was unavailable at the time the warrant of commitment or the decision to release on conditions was made.
     
-    (6) An application for a review of a warrant of commitment or release on conditions must be considered in accordance with [section 317][385], [318][386], or [323][391], as appropriate.
+    (6) An application for a review of a warrant of commitment or release on conditions must be considered having regard to [section 317][387], [318][393], or [323][398], as appropriate.
+    
+    Section 324(1AA): inserted, on 19 June 2013, by [section 13(1)][801] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 324(6): amended, on 19 June 2013, by [section 13(2)][801] of the Immigration Amendment Act 2013 (2013 No 39).
+
+##### 324A Review of mass arrival warrant
+    
+*   (1) In this section, _warrant of commitment_ means---
+        
+    *   (a) a mass arrival warrant issued under [section 317B][389] (in respect of all or specified members of a mass arrival group); and
+    
+    *   (b) a further warrant of commitment issued under [section 317E(1)(a)][392] (in respect of all or specified members of a mass arrival group).
+    
+    (2) At any stage during the currency of a warrant of commitment, an immigration officer may apply to a District Court Judge for a variation of the warrant for either or both of the following reasons:
+        
+    *   (a) to shorten the period that the warrant applies:
+    
+    *   (b) to provide for 1 or more persons detained under the warrant to be detained in a place or places other than the place or places currently specified in the warrant for those persons.
+    
+    (3) An application made under subsection (2) must---
+        
+    *   (a) be made on oath; and
+    
+    *   (b) include---
+            
+        *   (i) a copy of the warrant to be varied; and
+        
+        *   (ii) a statement of the reasons for the application.
+        
+        
+    
+    (4) On an application under subsection (2)(a), a District Court Judge must vary the period of the warrant of commitment---
+        
+    *   (a) to the period sought in the application; or
+    
+    *   (b) to a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,---
+            
+        *   (i) the reasons for the necessity of the warrant in terms of [section 317A(1)(a)][388] will no longer apply; or
+        
+        *   (ii) the circumstances described in paragraphs (a) to (d) of [section 316(1)][386] will no longer apply in respect of each person subject to the varied warrant.
+        
+        
+    
+    (5) On an application under subsection (2)(b), a District Court Judge may vary the warrant of commitment, but only to authorise the detention of the persons in a place or places other than the place or places currently specified in the warrant for those persons.
+    
+    (6) At any stage during the currency of a warrant of commitment, an immigration officer may, in respect of a particular individual detained under the warrant, apply to a District Court Judge for---
+        
+    *   (a) a warrant of commitment for the individual as an individual; or
+    
+    *   (b) an order that the individual be released on conditions under [section 320][395]; or
+    
+    *   (c) an order that the individual be released.
+    
+    (7) An application for a warrant of commitment under subsection (6)(a) must be made under [section 316][386] and determined by a District Court Judge in accordance with subsection (3) of that section.
+    
+    (8) An application for release on conditions under subsection (6)(b) must be considered having regard to [section 317][387], [318][393], or [323][398], as appropriate.
+    
+    (9) If a member of a mass arrival group is dealt with under subsection (6),---
+        
+    *   (a) he or she---
+            
+        *   (i) is no longer to be treated as a member of a mass arrival group for the purposes of this Act; and
+        
+        *   (ii) must, from the time of the Judge's determination, be dealt with under this Act as any other individual would be; and
+        
+        
+    
+    *   (b) the Judge must consequentially amend the warrant of commitment relating to the mass arrival group to exclude the member from the warrant.
+    
+    (10) Subsection (9)(a) is for the avoidance of doubt.
+    
+    Section 324A: inserted, on 19 June 2013, by [section 14][802] of the Immigration Amendment Act 2013 (2013 No 39).
 
 #### Applications under this Part involving classified information
 
 ##### 325 Consideration by High Court of application involving classified information
     
-*   (1) This section and [section 326][395] apply to an application made under [section 316][384] or [324(1), (2), (3), or (4)][392], if the application is made in respect of a person subject to a decision made, or proposed to be made, relying on classified information.
+*   (1) This section and [section 326][403] apply to an application made under [section 316][386] or [324(1), (2), (3), or (4)][399], if the application is made in respect of a person subject to a decision made, or proposed to be made, relying on classified information.
     
     (2) In such a case---
         
@@ -9572,13 +9964,13 @@ Detention and monitoring
     
     *   (b) the District Court Judge must not be provided with access to any classified information.
     
-    (3) If the District Court Judge considering the application considers that it is necessary to access classified information in order to make a decision in relation to an application under [section 316][384] or [324][392], the Judge must immediately transfer the application to the High Court for consideration by a nominated Judge (as defined in [section 252(2)][307]).
+    (3) If the District Court Judge considering the application considers that it is necessary to access classified information in order to make a decision in relation to an application under [section 316][386] or [324][399], the Judge must immediately transfer the application to the High Court for consideration by a nominated Judge (as defined in [section 252(2)][309]).
     
-    (4) If the chief executive considers that it will be necessary for a Judge to access classified information in order to make a decision in relation to an application under [section 316][384] or [324][392], the chief executive may make the application directly to the High Court for consideration by a nominated Judge.
+    (4) If the chief executive considers that it will be necessary for a Judge to access classified information in order to make a decision in relation to an application under [section 316][386] or [324][399], the chief executive may make the application directly to the High Court for consideration by a nominated Judge.
     
     (5) If this section applies, the person may continue to be detained---
         
-    *   (a) without warrant under [section 313][380], until a determination is made on the application, as long as the application for a warrant of commitment is made not later than 96 hours after the person's arrest and detention (inclusive of any time during which the person was detained by an immigration officer under [section 312][379]); or
+    *   (a) without warrant under [section 313][382], until a determination is made on the application, as long as the application for a warrant of commitment is made not later than 96 hours after the person's arrest and detention (inclusive of any time during which the person was detained by an immigration officer under [section 312][381]); or
     
     *   (b) under an existing warrant of commitment, until a determination is made on the application, as long as the application is made before the expiry of the existing warrant of commitment.
     
@@ -9586,13 +9978,13 @@ Detention and monitoring
 
 ##### 326 Process for High Court to consider application
     
-*   (1) Where an application is transferred or made directly to the High Court under [section 325][394], [sections 252][307], [257 to 259][312], and [261 to 270][316] apply, with the necessary modifications.
+*   (1) Where an application is transferred or made directly to the High Court under [section 325][402], [sections 252][309], [257 to 259][314], and [261 to 270][318] apply, with the necessary modifications.
     
     (2) In determining the application,---
         
-    *   (a) [sections 317][385], [318][386], [320][388], [321][389], [323][391], and [324][392] apply as appropriate, with the necessary modifications; and
+    *   (a) [sections 317][387], [318][393], [320][395], [321][396], [323][398], and [324][399] apply as appropriate, with the necessary modifications; and
     
-    *   (b) it is not the role of the nominated Judge to determine the matters described in [section 243(1)][296]; and
+    *   (b) it is not the role of the nominated Judge to determine the matters described in [section 243(1)][298]; and
     
     *   (c) the classified information must be treated as accurate.
     
@@ -9602,7 +9994,7 @@ Detention and monitoring
 
 ##### 327 Duties of detaining officers
     
-*   (1) It is the duty of an immigration officer when detaining any person under [section 312][379]---
+*   (1) It is the duty of an immigration officer when detaining any person under [section 312][381]---
         
     *   (a) to inform the person at the time of the detention of the reason for the detention (unless in all the circumstances it is impracticable to do so); and
     
@@ -9612,7 +10004,7 @@ Detention and monitoring
     
     *   (d) to inform the person of the maximum duration of the detention.
     
-    (2) It is the duty of every constable when arresting and detaining any person without warrant under [section 313][380]---
+    (2) It is the duty of every constable when arresting and detaining any person without warrant under [section 313][382]---
         
     *   (a) to inform the person at the time of the arrest, unless in all the circumstances it is impracticable to do so, of the reason for the arrest, and that the arrest does not relate to a criminal matter; and
     
@@ -9626,11 +10018,11 @@ Detention and monitoring
     
     (4) A failure to fulfil any of the duties mentioned in subsections (1) and (2) does not of itself deprive the immigration officer or the constable, or any assistant, of protection from criminal responsibility.
     
-    Compare: 1987 No 74 [s 134][781]
+    Compare: 1987 No 74 [s 134][803]
 
 ##### 328 Additional powers relating to detention by immigration officer
     
-*   (1) Where an immigration officer is exercising the power of detention under [section 312][379], the immigration officer may use such physical force as the officer has reasonable grounds for believing is reasonably necessary---
+*   (1) Where an immigration officer is exercising the power of detention under [section 312][381], the immigration officer may use such physical force as the officer has reasonable grounds for believing is reasonably necessary---
         
     *   (a) to prevent the detained person from harming any person; or
     
@@ -9640,7 +10032,7 @@ Detention and monitoring
     
     *   (d) to recapture the person, if the person is fleeing, having escaped from detention.
     
-    (2) Where an immigration officer has detained a person under [section 312][379], an immigration officer may search that person if the officer has reasonable grounds to believe that---
+    (2) Where an immigration officer has detained a person under [section 312][381], an immigration officer may search that person if the officer has reasonable grounds to believe that---
         
     *   (a) the person has an item hidden or in clear view on or about his or her person; and
     
@@ -9660,11 +10052,11 @@ Detention and monitoring
     
 *   (1) Where a constable is arresting any person under this Act, the constable may call upon any person in the vicinity for assistance.
     
-    (2) Where an immigration officer is detaining any person under [section 312][379], the officer may call upon any person in the vicinity for assistance.
+    (2) Where an immigration officer is detaining any person under [section 312][381], the officer may call upon any person in the vicinity for assistance.
     
     (3) Every person so called upon is justified in assisting, and he or she has all the protection and privileges of an immigration officer when giving his or her assistance, unless that person knows that there is no reasonable ground for the arrest.
     
-    Compare: 1987 No 74 [s 135][782]
+    Compare: 1987 No 74 [s 135][804]
 
 #### Form of custody
 
@@ -9674,11 +10066,11 @@ Detention and monitoring
 
 ##### 331 Form of custody of persons detained without warrant overnight
     
-*   Every person who is placed in custody under [section 313][380] and is to be detained overnight must be detained,---
+*   Every person who is placed in custody under [section 313][382] and is to be detained overnight must be detained,---
         
     *   (a) in the case of a person under 18 years of age, in---
             
-        *   (i) a residence (within the meaning of [section 2(1)][783] of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][784]; or
+        *   (i) a residence (within the meaning of [section 2(1)][805] of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][806]; or
         
         *   (ii) if the person is not married or in a civil union, any other premises agreed to by an immigration officer and the person's parent, guardian, or responsible adult; or
         
@@ -9686,13 +10078,13 @@ Detention and monitoring
     
     *   (b) in any other case, in---
             
-        *   (i) premises approved by the chief executive under [section 330][401]; or
+        *   (i) premises approved by the chief executive under [section 330][409]; or
         
         *   (ii) a police station.
         
         
     
-    Compare: 1987 No 74 [s 128(6)][691]
+    Compare: 1987 No 74 [s 128(6)][704]
 
 ##### 332 Form of custody of persons detained under warrant of commitment
     
@@ -9700,11 +10092,11 @@ Detention and monitoring
         
     *   (a) in the case of a person under 18 years of age, in a place approved for the purpose by the District Court Judge before whom the person is brought, being---
             
-        *   (i) a residence (within the meaning of [section 2(1)][783] of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][784]; or
+        *   (i) a residence (within the meaning of [section 2(1)][805] of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][806]; or
         
-        *   (ii) if the person is not married or in a civil union, any other premises agreed to by an immigration officer and the person's parent, guardian, or responsible adult; or 
+        *   (ii) if the person is not married or in a civil union, any other premises agreed to by an immigration officer and the person's parent, guardian, or responsible adult; or
         
-        *   (iii) premises approved by the chief executive under [section 330][401]; or
+        *   (iii) premises approved by the chief executive under [section 330][409]; or
         
         
     
@@ -9712,11 +10104,11 @@ Detention and monitoring
             
         *   (i) in a prison; or
         
-        *   (ii) in other premises approved for the purpose by the Judge, being premises approved by the chief executive under [section 330][401].
+        *   (ii) in other premises approved for the purpose by the Judge, being premises approved by the chief executive under [section 330][409].
         
         
     
-    Compare: 1987 No 74 [s 62][785]
+    Compare: 1987 No 74 [s 62][807]
 
 ##### 333 Special provisions relating to custody
     
@@ -9724,19 +10116,19 @@ Detention and monitoring
     
     (2) Where any person (the _detainee_) is held in custody under this Act (whether pursuant to a warrant of commitment or otherwise), the person responsible for the detainee's custody must---
         
-    *   (a) inform the detainee of the detainee's right to contact a lawyer or any responsible adult nominated by or in respect of the detainee under [section 375][457] (or, where the detainee is under 18 years of age, a parent or guardian of the detainee); and
+    *   (a) inform the detainee of the detainee's right to contact a lawyer or any responsible adult nominated by or in respect of the detainee under [section 375][465] (or, where the detainee is under 18 years of age, a parent or guardian of the detainee); and
     
     *   (b) on request by the detainee, any lawyer or agent acting for the detainee, or, where appropriate, any responsible adult, parent, or guardian, take all such reasonable steps as may be practicable to enable the lawyer or agent, or the responsible adult, parent, or guardian, to visit the detainee and communicate with the detainee in private.
     
-    (3) Where a person is detained under this Act in a prison, that person must be treated in accordance with the [Corrections Act 2004][749] and any regulations made under that Act regulating the treatment of prisoners detained in prisons under this Act.
+    (3) Where a person is detained under this Act in a prison, that person must be treated in accordance with the [Corrections Act 2004][767] and any regulations made under that Act regulating the treatment of prisoners detained in prisons under this Act.
     
     (4) A person to whom a warrant of commitment is addressed may take such reasonable measures as are necessary to give effect to the warrant.
     
-    Compare: 1987 No 74 [s 140][786]
+    Compare: 1987 No 74 [s 140][808]
 
 ##### 334 Additional provisions relating to custody in approved premises
     
-*   (1) Without limiting [section 333(4)][404], a person who is in charge of premises approved under [section 330][401] and any person acting under the authority of that person may, for the purpose of giving effect to a warrant of commitment or detention under [section 313][380], use such physical force as the person has reasonable grounds for believing is reasonably necessary---
+*   (1) Without limiting [section 333(4)][412], a person who is in charge of premises approved under [section 330][409] and any person acting under the authority of that person may, for the purpose of giving effect to a warrant of commitment or detention under [section 313][382], use such physical force as the person has reasonable grounds for believing is reasonably necessary---
         
     *   (a) to prevent the person to whom the warrant or detention applies (the _detainee_) from harming any person; or
     
@@ -9764,27 +10156,27 @@ Detention and monitoring
     
     *   (b) the Judge may either confirm the existing warrant of commitment or amend the warrant by altering the place of detention specified in it (and, if appropriate, the person to whom it is addressed).
     
-    (5) If a detainee is delivered into the custody of a constable under subsection (3) and he or she is detained under [section 313][380], an immigration officer must as soon as practicable apply under [section 316][384] for a warrant of commitment in respect of the person (unless the immigration officer agrees with the person to residence and reporting requirements under [section 315][382]).
+    (5) If a detainee is delivered into the custody of a constable under subsection (3) and he or she is detained under [section 313][382], an immigration officer must as soon as practicable apply under [section 316][386] for a warrant of commitment in respect of the person (unless the immigration officer agrees with the person to residence and reporting requirements under [section 315][384]).
     
-    (6) The Judge may also issue a further warrant of commitment in accordance with the relevant provisions of this Part where an immigration officer makes a contemporaneous application for a further warrant under [section 316][384].
+    (6) The Judge may also issue a further warrant of commitment in accordance with the relevant provisions of this Part where an immigration officer makes a contemporaneous application for a further warrant under [section 316][386].
     
-    (7) A person who is delivered into the custody of a constable under this section and is to be detained overnight must be detained in the manner provided by [section 332][403].
+    (7) A person who is delivered into the custody of a constable under this section and is to be detained overnight must be detained in the manner provided by [section 332][411].
     
-    (8) For the avoidance of doubt, nothing in this section limits or affects any provision of the [Crimes Act 1961][787], or any rule of law, that renders any circumstances---
+    (8) For the avoidance of doubt, nothing in this section limits or affects any provision of the [Crimes Act 1961][809], or any rule of law, that renders any circumstances---
         
     *   (a) a justification or excuse for the use of force; or
     
     *   (b) a defence to a charge involving the use of force.
     
-    Compare: 1987 No 74 [s 140A][788]
+    Compare: 1987 No 74 [s 140A][810]
 
 #### Delivery of person for purpose of deportation
 
 ##### 335 Delivery of person into custody of immigration officer or police for purposes of deportation
     
-*   (1) Where a person is being held in custody pursuant to a warrant of commitment issued under this Part, an immigration officer or a constable may request the manager or other person in charge of the prison or other premises in which that person is held in custody to deliver the person into the custody of a constable for arrest and detention under [section 313][380] or an immigration officer for detention under [section 312][379] for the purpose of executing the person's deportation or effecting the person's departure from New Zealand, and the manager or other person must deliver the person accordingly.
+*   (1) Where a person is being held in custody pursuant to a warrant of commitment issued under this Part, an immigration officer or a constable may request the manager or other person in charge of the prison or other premises in which that person is held in custody to deliver the person into the custody of a constable for arrest and detention under [section 313][382] or an immigration officer for detention under [section 312][381] for the purpose of executing the person's deportation or effecting the person's departure from New Zealand, and the manager or other person must deliver the person accordingly.
     
-    (2) Where a person is in prison undergoing imprisonment, an immigration officer or a constable may, on the date that the person is due to be released from imprisonment, request that, instead of releasing the person from custody, the manager or other officer in charge deliver the person into the custody of a constable for arrest and detention under [section 313][380] or an immigration officer for detention under [section 312][379] for the purpose of executing the person's deportation or effecting the person's departure from New Zealand, and the manager or other person must deliver the person accordingly.
+    (2) Where a person is in prison undergoing imprisonment, an immigration officer or a constable may, on the date that the person is due to be released from imprisonment, request that, instead of releasing the person from custody, the manager or other officer in charge deliver the person into the custody of a constable for arrest and detention under [section 313][382] or an immigration officer for detention under [section 312][381] for the purpose of executing the person's deportation or effecting the person's departure from New Zealand, and the manager or other person must deliver the person accordingly.
 
 ##### 336 Person being deported must be returned to custody or conditions reimposed if craft not available as planned
     
@@ -9804,9 +10196,9 @@ Detention and monitoring
         
     *   (a) a person who was released from custody pursuant to a warrant of commitment must be returned to the custody of the person to whom the warrant of commitment was addressed, and for that purpose the warrant remains in full force and effect:
     
-    *   (b) a person who has been subject to residence and reporting conditions under [section 315][382], or released on conditions under [section 320][388], may once again be released on those conditions:
+    *   (b) a person who has been subject to residence and reporting conditions under [section 315][384], or released on conditions under [section 320][395], may once again be released on those conditions:
     
-    *   (c) in any other case, an application may be made under [section 316][384] for a warrant of commitment authorising the further detention of the person.
+    *   (c) in any other case, an application may be made under [section 316][386] for a warrant of commitment authorising the further detention of the person.
     
     
 
@@ -9820,7 +10212,7 @@ Detention and monitoring
     
     (3) If the notice applies to only stated parts of New Zealand, subsection (1) applies within those parts only.
     
-    Compare: 1987 No 74 [s 129ZC][789]
+    Compare: 1987 No 74 [s 129ZC][811]
 
 ##### 338 Modification during epidemic of requirements to bring people before District Court Judge
     
@@ -9830,7 +10222,7 @@ Detention and monitoring
     
     (3) If the notice applies to only stated parts of New Zealand, subsection (2) applies within those parts only.
     
-    Compare: 1987 No 74 [s 129ZD][790]
+    Compare: 1987 No 74 [s 129ZD][812]
 
 ##### 339 During epidemic certain warrants and extensions to have effect for 28 days
     
@@ -9838,13 +10230,17 @@ Detention and monitoring
     
     (2) Subsection (1) overrides every provision of this Act to the contrary.
     
+    (3) In subsection (1), _warrant of commitment_ does not include a mass arrival warrant issued under [section 317B][389] (in respect of all or specified members of a mass arrival group) for a period of more than 28 days.
+    
     (3) If the notice applies to only stated parts of New Zealand, subsections (1) and (2) apply within those parts only.
     
-    Compare: 1987 No 74 [s 129ZE][791]
+    Compare: 1987 No 74 [s 129ZE][813]
+    
+    Section 339 first subsection (3): inserted, on 19 June 2013, by [section 17][705] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 340 Application of section 320 during epidemic
     
-*   (1) While an epidemic management notice is in force, an immigration officer and a released person may agree in writing to vary a condition imposed under [section 320][388]---
+*   (1) While an epidemic management notice is in force, an immigration officer and a released person may agree in writing to vary a condition imposed under [section 320][395]---
         
     *   (a) whether or not the order containing it provides for them to do so; and
     
@@ -9854,7 +10250,7 @@ Detention and monitoring
 
 ##### 341 Calculation of consecutive period of detention for purposes of section 323
     
-*   (1) In calculating for the purposes of [section 323][391] the consecutive period for which a person has been detained under 1 or more warrants of commitment under this Part,---
+*   (1) In calculating for the purposes of [section 323][398] the consecutive period for which a person has been detained under 1 or more warrants of commitment under this Part,---
         
     *   (a) no account is to be taken of any periods of detention occurring while an epidemic management notice is in force; but
     
@@ -9883,11 +10279,11 @@ Offences, penalties, and proceedings
     
     *   (b) produces or surrenders any document or supplies any information to an immigration officer or a refugee and protection officer knowing that it is false or misleading in any material respect; or
     
-    *   (c) completes any document required as part of a border requirement in a manner that the person knows to be false or misleading in any particular, or fails to comply with any of his or her other responsibilities under [section 103][130].
+    *   (c) completes any document required as part of a border requirement in a manner that the person knows to be false or misleading in any particular, or fails to comply with any of his or her other responsibilities under [section 103][131].
     
     (2) To avoid doubt, no proceedings under subsection (1)(b) may be brought if the documents or information are supplied in the circumstances to which Article 31.1 of the Refugee Convention applies.
     
-    Compare: 1987 No 74 [ss 126(4)][687], [142(1)(a), (c)][792]
+    Compare: 1987 No 74 [ss 126(4)][700], [142(1)(a), (c)][814]
 
 ##### 343 Aiding and abetting
     
@@ -9895,7 +10291,7 @@ Offences, penalties, and proceedings
         
     *   (a) for a material benefit, aids, abets, incites, counsels, or procures any other person to be or to remain unlawfully in New Zealand or to breach any condition of a visa granted to the other person; or
     
-    *   (b) whether in or outside New Zealand, and whether or not the other person in fact enters New Zealand, aids, abets, incites, counsels, or procures any other person to unlawfully enter New Zealand (by arriving in New Zealand in a manner that does not comply with [section 103][130] or by arriving in New Zealand without holding a visa where the other person requires a visa to travel to New Zealand),---
+    *   (b) whether in or outside New Zealand, and whether or not the other person in fact enters New Zealand, aids, abets, incites, counsels, or procures any other person to unlawfully enter New Zealand,---
             
         *   (i) knowing that the other person's entry into New Zealand is or would be unlawful; or
         
@@ -9905,7 +10301,7 @@ Offences, penalties, and proceedings
     
     *   (c) whether in or outside New Zealand, aids, abets, incites, counsels, or procures any other person to complete a document in a manner that the person aiding or assisting knows to be false or misleading in any particular, being a document required for the purposes of---
             
-        *   (i) [section 98][123] or [103][130]; or
+        *   (i) [section 98][124] or [103][131]; or
         
         *   (ii) any application or request (whether by that person or by another person) for a visa or entry permission, or any expression of interest in a visa; or
         
@@ -9917,9 +10313,49 @@ Offences, penalties, and proceedings
     
     *   (d) aids, abets, incites, counsels, or procures any other person to be or to remain unlawfully in New Zealand or to breach any condition of a visa granted to the other person under this Act.
     
-    (2) In subsection (1)(a), _for a material benefit_ has the same meaning as in [section 2(1)][793] of the Crimes Act 1961\.
+    (2) In subsection (1)(a), _for a material benefit_ has the same meaning as in [section 2(1)][815] of the Crimes Act 1961\.
     
-    Compare: 1987 No 74 [s 142(1)(ea), (eb), (ec), (f)][792]
+    (3) For the purposes of subsection (1)(b), a person unlawfully enters New Zealand if the person---
+        
+    *   (a) arrives in New Zealand in a manner that does not comply with [section 103][131]; or
+    
+    *   (b) arrives in New Zealand without holding a visa, if the person requires a visa to travel to New Zealand; or
+    
+    *   (c) arrives in New Zealand as the holder of a visa but the visa was---
+            
+        *   (i) granted in a false identity; or
+        
+        *   (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+        
+        
+    
+    *   (d) is granted a visa on arrival in New Zealand but the visa is---
+            
+        *   (i) granted in a false identity; or
+        
+        *   (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+        
+        
+    
+    *   (e) is granted entry permission but the entry permission is---
+            
+        *   (i) granted on the basis of a visa granted in a false identity; or
+        
+        *   (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+        
+        
+    
+    *   (f) enters New Zealand in any other manner and, in doing so, does not comply with the requirements of this Act.
+    
+    (4) To avoid doubt, a person unlawfully enters New Zealand within the meaning of subsection (3) whether or not any action has been taken under this Act in relation to the visa or entry permission used by the person for the purpose of entering (for example, conviction of the person for procuring a visa by fraud or revocation of the person's entry permission).
+    
+    Compare: 1987 No 74 [s 142(1)(ea), (eb), (ec), (f)][814]
+    
+    Section 343(1)(b): amended, on 19 June 2013, by [section 15(1)][816] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 343(3): inserted, on 19 June 2013, by [section 15(2)][816] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 343(4): inserted, on 19 June 2013, by [section 15(2)][816] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ##### 344 Obstruction or failing to meet requirements
     
@@ -9927,17 +10363,17 @@ Offences, penalties, and proceedings
         
     *   (a) without reasonable excuse, refuses or fails to produce or surrender any document, or to supply any information, when required to do so by an immigration officer or a refugee and protection officer in accordance with any of the provisions of this Act; or
     
-    *   (b) after being warned in accordance with [section 279][339], refuses or fails without reasonable excuse to comply with any requirement of an immigration officer under that section; or
+    *   (b) after being warned in accordance with [section 279][341], refuses or fails without reasonable excuse to comply with any requirement of an immigration officer under that section; or
     
     *   (c) fails to remain in an immigration control area when required to do so, or to follow an immigration officer's instructions while in an immigration control area; or
     
     *   (d) resists or intentionally obstructs any immigration officer, refugee and protection officer, or constable in the exercise of the powers of that officer or constable under this Act; or
     
-    *   (e) refuses or fails to provide biometric information under [section 104][131], [111][139], or [120][150]; or
+    *   (e) refuses or fails to provide biometric information under [section 104][132], [111][140], or [120][151]; or
     
     *   (f) refuses or fails to provide biometric information in accordance with a compulsion order.
     
-    Compare: 1987 No 74 [s 142(1)(b), (g)][792]
+    Compare: 1987 No 74 [s 142(1)(b), (g)][814]
 
 ##### 345 Improper dealings with immigration or identity documents
     
@@ -9947,13 +10383,13 @@ Offences, penalties, and proceedings
     
     *   (b) knowing the document to be forged or to have been obtained fraudulently.
     
-    (2) Every person commits an offence against this Act who, whether in or outside New Zealand, sells, hires, lends, gives, or otherwise disposes of an immigration or identity document relating to the person to any other person (the **receiver**) knowing that the receiver intends to do 1 or more of the following (but without necessarily knowing which of the following the receiver will do):
+    (2) Every person commits an offence against this Act who, whether in or outside New Zealand, sells, hires, lends, gives, or otherwise disposes of an immigration or identity document relating to the person to any other person (the _receiver_) knowing that the receiver intends to do 1 or more of the following (but without necessarily knowing which of the following the receiver will do):
         
     *   (a) produce it or pass it off as relating to the receiver or some other person; or
     
     *   (b) sell, hire, lend, give, or otherwise dispose of it.
     
-    (3) Every person commits an offence against this Act who, whether in or outside New Zealand, sells, hires, lends, gives, or otherwise disposes of an immigration or identity document relating to the person to any other person (the **receiver**) intending the receiver to do 1 or more of the following (but without necessarily intending which of the following the receiver will do):
+    (3) Every person commits an offence against this Act who, whether in or outside New Zealand, sells, hires, lends, gives, or otherwise disposes of an immigration or identity document relating to the person to any other person (the _receiver_) intending the receiver to do 1 or more of the following (but without necessarily intending which of the following the receiver will do):
         
     *   (a) produce it or pass it off as relating to the receiver or some other person; or
     
@@ -9965,7 +10401,7 @@ Offences, penalties, and proceedings
     
     *   (b) a certificate of identity; or
     
-    *   (c) an endorsement in a passport of the type described in [section 384][470]; or
+    *   (c) an endorsement in a passport of the type described in [section 384][478]; or
     
     *   (d) evidence of a visa; or
     
@@ -9975,19 +10411,19 @@ Offences, penalties, and proceedings
     
     *   (g) anything purporting to be a document described in any of paragraphs (a) to (f).
     
-    Compare: 1987 No 74 [s 142(1)(d), (e)][792]
+    Compare: 1987 No 74 [s 142(1)(d), (e)][814]
 
 ##### 346 Impersonation
     
 *   Every person commits an offence against this Act who, not being an immigration officer or a refugee and protection officer, personates or pretends to be an immigration officer or a refugee and protection officer.
     
-    Compare: 1987 No 74 [s 142(1)(h)][792]
+    Compare: 1987 No 74 [s 142(1)(h)][814]
 
 ##### 347 Publishing false or misleading information
     
 *   Every person commits an offence against this Act who, for the purpose of encouraging, inducing, deterring, or preventing immigration to New Zealand of any person or class of persons, publishes, disseminates, or causes or procures the publication of any information or representation knowing that the information or representation is false or misleading.
     
-    Compare: 1987 No 74 [s 142(1)(i)][792]
+    Compare: 1987 No 74 [s 142(1)(i)][814]
 
 ##### 348 Alteration of forms
     
@@ -10013,33 +10449,33 @@ Offences, penalties, and proceedings
         
         
     
-    Compare: 1987 No 74 [s 142(2)][792]
+    Compare: 1987 No 74 [s 142(2)][814]
 
 ##### 349 Offences relating to carriers, and persons in charge, of craft
     
 *   (1) Every carrier, or person in charge, of a commercial craft commits an offence who---
         
-    *   (a) fails without reasonable excuse to comply with any of the carrier's or the person's responsibilities under [section 96(2)][121]; or
+    *   (a) fails without reasonable excuse to comply with any of the carrier's or the person's responsibilities under [section 96(2)][122]; or
     
-    *   (b) allows a person to travel to New Zealand before a decision has been made by the chief executive under [section 97(1)][122]; or
+    *   (b) allows a person to travel to New Zealand before a decision has been made by the chief executive under [section 97(1)][123]; or
     
-    *   (c) having been notified under [section 97(2)][122] of a decision made by the chief executive under [section 97(1)(b) or (c)][122], without reasonable excuse fails to ensure that the person to whom the decision relates complies with it; or
+    *   (c) having been notified under [section 97(2)][123] of a decision made by the chief executive under [section 97(1)(b) or (c)][123], without reasonable excuse fails to ensure that the person to whom the decision relates complies with it; or
     
-    *   (d) fails without reasonable excuse to provide the chief executive with information under [section 102(2)(a)][128]; or
+    *   (d) fails without reasonable excuse to provide the chief executive with information under [section 102(2)(a)][129]; or
     
-    *   (e) fails without reasonable excuse to ensure the chief executive has access to information under [section 102(2)(b)][794].
+    *   (e) fails without reasonable excuse to ensure the chief executive has access to information under [section 102(2)(b)][817].
     
     (2) Every carrier, or person in charge, of a craft commits an offence who fails without reasonable excuse to comply with any of the requirements of---
         
-    *   (a) [section 101(1)(a)][127]; or
+    *   (a) [section 101(1)(a)][128]; or
     
-    *   (b) [section 118(1)(a)][148]; or
+    *   (b) [section 118(1)(a)][149]; or
     
-    *   (c) [sections 101(1)(b)][127], (c), and (d),[101(2)][795], and [118(1)(b) and (c)][148].
+    *   (c) [sections 101(1)(b)][128], (c), and (d),[101(2)][818], and [118(1)(b) and (c)][149].
     
-    (3) Every person in charge of a craft commits an offence who fails without reasonable excuse to comply with [section 101(3)][127].
+    (3) Every person in charge of a craft commits an offence who fails without reasonable excuse to comply with [section 101(3)][128].
     
-    (4) Every carrier of a craft commits an offence who fails to comply with [section 118(2)][148].
+    (4) Every carrier of a craft commits an offence who fails to comply with [section 118(2)][149].
     
     (5) To avoid doubt, proceedings in respect of an offence against subsection (1), (2), or (3) may be taken---
         
@@ -10047,7 +10483,7 @@ Offences, penalties, and proceedings
     
     *   (b) whether the offence occurred in or outside New Zealand.
     
-    Compare: 1987 No 74 [ss 125AA(4)][680], [125AC(1), (2)][796], [125AE(1), (2)][797], [125(6)--(8)][685]
+    Compare: 1987 No 74 [ss 125AA(4)][693], [125AC(1), (2)][819], [125AE(1), (2)][820], [125(6)--(8)][698]
 
 ##### 350 Offences by employers
     
@@ -10073,7 +10509,7 @@ Offences, penalties, and proceedings
     
     (7) No employer is liable for an offence against this section in respect of any period during which the employer continues to allow any person to work in the employer's service in compliance with the minimum requirements of any employment agreement (within the meaning of the Employment Relations Act 2000) relating to the giving of notice on termination of employment.
     
-    Compare: 1987 No 74 [s 39][798]
+    Compare: 1987 No 74 [s 39][821]
 
 ##### 351 Exploitation of persons not legally entitled to work
     
@@ -10081,11 +10517,11 @@ Offences, penalties, and proceedings
         
     *   (a) while allowing an unlawful employee to work in the employer's service,---
             
-        *   (i) is responsible for a serious failure to pay to the employee money payable under the [Holidays Act 2003][799]; or
+        *   (i) is responsible for a serious failure to pay to the employee money payable under the [Holidays Act 2003][822]; or
         
-        *   (ii) is in serious default under the [Minimum Wage Act 1983][800] in respect of the employee; or
+        *   (ii) is in serious default under the [Minimum Wage Act 1983][823] in respect of the employee; or
         
-        *   (iii) is responsible for a serious contravention of the [Wages Protection Act 1983][801] in respect of the employee; or
+        *   (iii) is responsible for a serious contravention of the [Wages Protection Act 1983][824] in respect of the employee; or
         
         
     
@@ -10103,11 +10539,11 @@ Offences, penalties, and proceedings
     
     (2) For the purposes of subsection (1)(a), the following are questions of fact:
         
-    *   (a) whether a failure to pay to a person money payable under the [Holidays Act 2003][799] is serious:
+    *   (a) whether a failure to pay to a person money payable under the [Holidays Act 2003][822] is serious:
     
-    *   (b) whether a default under the [Minimum Wage Act 1983][800] in respect of a person is serious:
+    *   (b) whether a default under the [Minimum Wage Act 1983][823] in respect of a person is serious:
     
-    *   (c) whether a contravention of the [Wages Protection Act 1983][801] in respect of a person is serious.
+    *   (c) whether a contravention of the [Wages Protection Act 1983][824] in respect of a person is serious.
     
     (3) For the purposes of subsection (1)(a), the following matters may be taken into account in deciding whether a failure, default, or contravention is serious:
         
@@ -10147,7 +10583,7 @@ Offences, penalties, and proceedings
         
         
     
-    *   (c) preventing or hindering a labour inspector (within the meaning of the [Employment Relations Act 2000][802]) from entering or having access to any place or premises to which he or she is entitled to have access under any enactment.
+    *   (c) preventing or hindering a labour inspector (within the meaning of the [Employment Relations Act 2000][825]) from entering or having access to any place or premises to which he or she is entitled to have access under any enactment.
     
     (5) Subsection (4) does not limit subsection (1)(b).
     
@@ -10157,7 +10593,7 @@ Offences, penalties, and proceedings
     
     (8) In this section, _unlawful employee_, in relation to an employer, means a person who the employer knows is not entitled under this Act to work in the employer's service.
     
-    Compare: 1987 No 74 [s 39A][803]
+    Compare: 1987 No 74 [s 39A][826]
 
 ##### 352 Offences by education providers
     
@@ -10185,7 +10621,7 @@ Offences, penalties, and proceedings
     
     (8) For the purposes of this section, a person is treated as knowing that another person is not entitled under this Act to study in New Zealand if, at any time in the preceding 12 months (whether before or after the commencement of this section), the person has been informed of that fact in writing by an immigration officer.
     
-    Compare: 1987 No 74 [s 40][804]
+    Compare: 1987 No 74 [s 40][827]
 
 ##### 353 Offences in relation to Tribunal
     
@@ -10199,41 +10635,41 @@ Offences, penalties, and proceedings
     
     (2) Every person commits an offence who---
         
-    *   (a) intentionally obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under [clause 10(1)(a) of Schedule 2][704]; or
+    *   (a) intentionally obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under [clause 10(1)(a) of Schedule 2][720]; or
     
-    *   (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under [clause 10(1)(b) or (c)][704] of Schedule 2; or
+    *   (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under [clause 10(1)(b) or (c)][720] of Schedule 2; or
     
-    *   (c) without sufficient cause, acts in contravention of or fails to comply with any order made by the Tribunal under [clause 10(3) of Schedule 2][704] or any term or condition of the order.
+    *   (c) without sufficient cause, acts in contravention of or fails to comply with any order made by the Tribunal under [clause 10(3) of Schedule 2][720] or any term or condition of the order.
     
-    (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which the person was required to attend, there was made to the person a payment or tender of the amount determined under [clause 16 of Schedule 2][805].
+    (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which the person was required to attend, there was made to the person a payment or tender of the amount determined under [clause 16 of Schedule 2][828].
     
-    Compare: 1908 No 25[s 9][806]
+    Compare: 1908 No 25[s 9][829]
 
 ##### 354 Failure to maintain confidentiality in relation to refugee or protection matters
     
 *   Every person commits an offence who, without reasonable excuse,---
         
-    *   (a) contravenes [section 151(1)][187]; or
+    *   (a) contravenes [section 151(1)][189]; or
     
-    *   (b) publishes information released in contravention of [section 151(1)][187].
+    *   (b) publishes information released in contravention of [section 151(1)][189].
     
-    Compare: 1987 No 74 [s 129T(5)][807]
+    Compare: 1987 No 74 [s 129T(5)][830]
 
 #### Penalties
 
 ##### 355 Penalties: general
     
-*   (1) A person convicted of an offence against [section 342(1)(b)][417], [343(1)(a)][418], [345][420], or [348][423] is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
+*   (1) A person convicted of an offence against [section 342(1)(b)][425], [343(1)(a)][426], [345][428], or [348][431] is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
     
-    (2) A person convicted of an offence against [section 343(1)(b) or (c)(i)][418] is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, for each person in respect of whom the offence was committed.
+    (2) A person convicted of an offence against [section 343(1)(b) or (c)(i)][426] is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, for each person in respect of whom the offence was committed.
     
-    (3) A person convicted of an offence against [section 342(1)(c)][417],[343(1)(d)][418], [344(c) or (d)][419], or [354][429] is liable to imprisonment for a term not exceeding 3 months, a fine not exceeding $10,000, or both.
+    (3) A person convicted of an offence against [section 342(1)(c)][425],[343(1)(d)][426], [344(c) or (d)][427], or [354][437] is liable to imprisonment for a term not exceeding 3 months, a fine not exceeding $10,000, or both.
     
-    (4) A person convicted of an offence against [section 346][421] is liable to imprisonment for a term not exceeding 12 months, a fine not exceeding $15,000, or both.
+    (4) A person convicted of an offence against [section 346][429] is liable to imprisonment for a term not exceeding 12 months, a fine not exceeding $15,000, or both.
     
-    (5) A person convicted of an offence against this Act or against any regulations made under this Act for which no penalty is provided elsewhere than in this section or in [section 356][432], [357][433], or [358][434] is liable to a fine not exceeding $5,000\.
+    (5) A person convicted of an offence against this Act or against any regulations made under this Act for which no penalty is provided elsewhere than in this section or in [section 356][440], [357][441], or [358][442] is liable to a fine not exceeding $5,000\.
     
-    (6) Where any person is convicted of an offence against [section 343(1)(d)][418] in respect of any person who is or was unlawfully in New Zealand, the court may, instead of or in addition to any other sentence that it may impose in respect of the offence, order that the offender pay the whole or any specified portion of the costs incurred or likely to be incurred in deporting the person in relation to whom the offence was committed.
+    (6) Where any person is convicted of an offence against [section 343(1)(d)][426] in respect of any person who is or was unlawfully in New Zealand, the court may, instead of or in addition to any other sentence that it may impose in respect of the offence, order that the offender pay the whole or any specified portion of the costs incurred or likely to be incurred in deporting the person in relation to whom the offence was committed.
     
     (7) For the purposes of subsection (6), the costs incurred or likely to be incurred in deporting a person include---
         
@@ -10243,49 +10679,49 @@ Offences, penalties, and proceedings
     
     *   (c) external travel costs for the person.
     
-    Compare: 1987 No 74 [s 144][808]
+    Compare: 1987 No 74 [s 144][831]
 
 ##### 356 Penalties: carriers, and persons in charge, of craft
     
-*   (1) A person convicted of an offence against [section 349][424] (except section 349(2)(b)) is liable,---
+*   (1) A person convicted of an offence against [section 349][432] (except section 349(2)(b)) is liable,---
         
     *   (a) in the case of a carrier of a craft, to imprisonment for a term not exceeding 3 months, a fine not exceeding $50,000, or both:
     
     *   (b) in the case of a person in charge of a craft, to imprisonment for a term not exceeding 3 months, a fine not exceeding $25,000, or both.
     
-    (2) A person convicted of an offence against [section 349(2)(b)][424] is liable,---
+    (2) A person convicted of an offence against [section 349(2)(b)][432] is liable,---
         
     *   (a) in the case of a carrier of a craft, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $20,000:
     
     *   (b) in the case of a person in charge of a craft, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000\.
     
-    Compare: 1987 No 74 [ss 125AA(4)][680], [125AC(3)][796], [125AE(3)][797], [125(6), (7)][685]
+    Compare: 1987 No 74 [ss 125AA(4)][693], [125AC(3)][819], [125AE(3)][820], [125(6), (7)][698]
 
 ##### 357 Penalties: employers
     
-*   (1) A person convicted of an offence against [section 350(1)(a)][425] is liable to a fine not exceeding $50,000\.
+*   (1) A person convicted of an offence against [section 350(1)(a)][433] is liable to a fine not exceeding $50,000\.
     
-    (2) A person convicted of an offence against [section 350(1)(b)][425] is liable to a fine not exceeding $10,000\.
+    (2) A person convicted of an offence against [section 350(1)(b)][433] is liable to a fine not exceeding $10,000\.
     
-    (3) A person convicted of an offence against [section 351(1)][426] is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
+    (3) A person convicted of an offence against [section 351(1)][434] is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
     
-    Compare: 1987 No 74 [ss 39(5)][798], [39A(8)][803]
+    Compare: 1987 No 74 [ss 39(5)][821], [39A(8)][826]
 
 ##### 358 Penalties: education providers
     
-*   (1) A person convicted of an offence against [section 352(1)(a)][427] is liable to a fine not exceeding $50,000\.
+*   (1) A person convicted of an offence against [section 352(1)(a)][435] is liable to a fine not exceeding $50,000\.
     
-    (2) A person convicted of an offence against [section 352(1)(b)][427] is liable to a fine not exceeding $30,000\.
+    (2) A person convicted of an offence against [section 352(1)(b)][435] is liable to a fine not exceeding $30,000\.
 
 #### Infringement offences for carriers, or persons in charge, of craft
 
 ##### 359 Infringement offences
     
-*   In this Act, **infringement offence** means---
+*   In this Act, _infringement offence_ means---
         
-    *   (a) an offence against [section 349(1) or 349(2)(a)][424]:
+    *   (a) an offence against [section 349(1) or 349(2)(a)][432]:
     
-    *   (b) an offence prescribed as an infringement offence for the purposes of this Act by regulations made under [section 400][492].
+    *   (b) an offence prescribed as an infringement offence for the purposes of this Act by regulations made under [section 400][500].
     
     
 
@@ -10293,9 +10729,9 @@ Offences, penalties, and proceedings
     
 *   If a person who is a carrier, or a person in charge, of any craft is alleged to have committed an infringement offence, that person may be either---
         
-    *   (a) proceeded against under the [Summary Proceedings Act 1957][809]; or
+    *   (a) proceeded against under the [Summary Proceedings Act 1957][832]; or
     
-    *   (b) served with an infringement notice under [section 362][439].
+    *   (b) served with an infringement notice under [section 362][447].
     
     
 
@@ -10329,7 +10765,7 @@ Offences, penalties, and proceedings
     
     *   (d) the time within which the infringement fee must be paid:
     
-    *   (e) a summary of the provisions of [section 21(10)][810] of the Summary Proceedings Act 1957:
+    *   (e) a summary of the provisions of [section 21(10)][833] of the Summary Proceedings Act 1957:
     
     *   (f) a statement that the person has a right to request a hearing:
     
@@ -10343,13 +10779,13 @@ Offences, penalties, and proceedings
     
     *   (b) by sending it by post to the last known place of residence or business of the carrier, or person in charge, of the craft.
     
-    (4) For the purposes of the [Summary Proceedings Act 1957][809], an infringement notice sent by post is deemed to have been served on the carrier, or the person in charge, of the craft on the date it was posted.
+    (4) For the purposes of the [Summary Proceedings Act 1957][832], an infringement notice sent by post is deemed to have been served on the carrier, or the person in charge, of the craft on the date it was posted.
     
-    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][810] of the Summary Proceedings Act 1957 and, in that case, the provisions of that section apply with all necessary modifications.
+    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][833] of the Summary Proceedings Act 1957 and, in that case, the provisions of that section apply with all necessary modifications.
 
 ##### 363 Reminder notices
     
-*   Regulations made under [section 400][492] may prescribe the form of reminder notices to be used in relation to infringement offences under this Act.
+*   Regulations made under [section 400][500] may prescribe the form of reminder notices to be used in relation to infringement offences under this Act.
 
 ##### 364 Infringement fees
     
@@ -10367,7 +10803,7 @@ Offences, penalties, and proceedings
         
     *   (a) the infringement fee is paid; or
     
-    *   (b) an order for payment of a fine is made by a court under [section 21][810] of the Summary Proceedings Act 1957\.
+    *   (b) an order for payment of a fine is made by a court under [section 21][833] of the Summary Proceedings Act 1957\.
     
     
 
@@ -10423,7 +10859,7 @@ Offences, penalties, and proceedings
     
     *   (17) the person is or is not in New Zealand, or has or has not left New Zealand, or was or was not in New Zealand, or had or had not left New Zealand at any particular time or for or during any particular period; or
     
-    *   (18) the person has or has not lodged an appeal under any stated provision of [Part 7][224]; or
+    *   (18) the person has or has not lodged an appeal under any stated provision of [Part 7][226]; or
     
     *   (19) a certain document or application was received by an immigration officer or a refugee and protection officer on a certain date; or
     
@@ -10433,9 +10869,9 @@ Offences, penalties, and proceedings
     
     *   (22) the person did or did not travel to New Zealand before a decision was made by the chief executive under section 97(1); or
     
-    *   (23) the person travelled to New Zealand contrary to a decision made by the chief executive under [section 97(1)(b) or (c)][122]; or
+    *   (23) the person travelled to New Zealand contrary to a decision made by the chief executive under [section 97(1)(b) or (c)][123]; or
     
-    *   (24) the person did not provide or supply access to information requested by the chief executive under [section 102][128]; or
+    *   (24) the person did not provide or supply access to information requested by the chief executive under [section 102][129]; or
     
     *   (25) the person has or has not, at any material time,---
             
@@ -10453,9 +10889,9 @@ Offences, penalties, and proceedings
     
     *   (26) the person, while in New Zealand, produced or surrendered to an immigration officer or a refugee and protection officer any passport, certificate of identity, or other document that was forged or obtained fraudulently; or
     
-    *   (27) a matter is or is not before a refugee and protection officer under [section 143][178], [145][180], or [146][181]; or
+    *   (27) a matter is or is not before a refugee and protection officer under [section 143][180], [145][182], or [146][183]; or
     
-    *   (28) a matter is or is not before the Tribunal under [section 144][179] or [147][182].
+    *   (28) a matter is or is not before the Tribunal under [section 144][181] or [147][184].
     
     (3) A certificate under this section may, in relation to a person, state that---
         
@@ -10475,7 +10911,7 @@ Offences, penalties, and proceedings
     
     *   (h) the person was or was not employed in a particular position (by a particular employer if appropriate) under a particular name in a particular country.
     
-    Compare: 1987 No 74 [s 143(1), (1A)][811]
+    Compare: 1987 No 74 [s 143(1), (1A)][834]
 
 ##### 367 Evidence in proceedings: certificates as to forms, documents, etc
     
@@ -10487,43 +10923,43 @@ Offences, penalties, and proceedings
     
     *   (c) a certificate signed by the Minister or an immigration officer and containing a statement to the effect that any specified document did or did not express immigration instructions applicable on any date or dates specified in the certificate is sufficient evidence of the fact that the document did or did not express immigration instructions applicable on that date or those dates:
     
-    *   (d) a document purporting to be a deportation liability notice or deportation order made under [Part 6][189], or a copy of such a notice or order that is certified to be such by the Minister or an immigration officer, is sufficient evidence of the fact that such a deportation liability notice or deportation order was made under this Act in respect of the person named, and on the date specified, in the notice or order:
+    *   (d) a document purporting to be a deportation liability notice or deportation order made under [Part 6][191], or a copy of such a notice or order that is certified to be such by the Minister or an immigration officer, is sufficient evidence of the fact that such a deportation liability notice or deportation order was made under this Act in respect of the person named, and on the date specified, in the notice or order:
     
     *   (e) a certificate signed by the chief executive stating that a particular place is or was an immigration control area is sufficient evidence of the fact that that place is or was an immigration control area.
     
-    Compare: 1987 No 74 [s 143(3)--(4B), (6)][811]
+    Compare: 1987 No 74 [s 143(3)--(4B), (6)][834]
 
 ##### 368 Evidence in respect of matters occurring and documents executed outside New Zealand
     
 *   (1) The court, Tribunal, or other person or body conducting or in charge of any proceedings under this Act may, if it considers it fair and equitable to do so, receive as evidence any statement, document, or information tendered in respect of a document executed outside New Zealand, whether or not it would be normally admissible in a court of law.
     
-    (2) Where a certificate under [section 366][444] contains a statement as to any matter specified in [section 366(2)(15) or (3)][444], the court, Tribunal, or other person or body conducting or in charge of the proceedings may receive as evidence any statement, document, or information tendered by or on behalf of the person named in the certificate in rebuttal of that statement, whether or not it would be otherwise admissible in a court of law.
+    (2) Where a certificate under [section 366][452] contains a statement as to any matter specified in [section 366(2)(15) or (3)][452], the court, Tribunal, or other person or body conducting or in charge of the proceedings may receive as evidence any statement, document, or information tendered by or on behalf of the person named in the certificate in rebuttal of that statement, whether or not it would be otherwise admissible in a court of law.
     
     (3) Where a statement, document, or information is received as evidence under subsection (1) or (2), the court, Tribunal, or other person or body conducting or in charge of the proceedings may determine the credibility or weight (if any) to be given in the proceedings to the document, statement, or information concerned.
     
-    Compare: 1987 No 74 [s 143(2), (7)][811]
+    Compare: 1987 No 74 [s 143(2), (7)][834]
 
 ##### 369 Presumption that certificates duly authorised
     
-*   Every person signing a certificate under [section 366][444] or [367][445] must, in the absence of proof to the contrary, be presumed to be duly authorised to sign the certificate.
+*   Every person signing a certificate under [section 366][452] or [367][453] must, in the absence of proof to the contrary, be presumed to be duly authorised to sign the certificate.
     
-    Compare: 1987 No 74 [s 143(5)][811]
+    Compare: 1987 No 74 [s 143(5)][834]
 
 #### Procedural provisions relating to offences
 
 ##### 370 Procedural provisions relating to offences
     
-*   (1) An offence against [section 342(1)(b)][417], [343(1)(a), (b), or (c)(i)][418], [345][420], [348][423], or [351][426] is punishable on indictment.
+*   (1) An offence against [section 342(1)(b)][425], [343(1)(a), (b), or (c)(i)][426], [345][428], [348][431], or [351][434] is punishable on indictment.
     
     (2) All other offences against this Act or any regulations made under it are punishable on summary conviction.
     
     (3) A prosecution for an offence against this Act or any regulations made under it cannot be commenced except on the information of an immigration officer, a constable, or some other person authorised for that purpose by the Minister.
     
-    Compare: 1987 No 74[s 145(1)--(3)][812]
+    Compare: 1987 No 74[s 145(1)--(3)][835]
 
 ##### 371 Presumption of authority
     
-*   For the purposes of [section 370(3)][449], or any other proceedings under this Act, it is unnecessary to prove that---
+*   For the purposes of [section 370(3)][457], or any other proceedings under this Act, it is unnecessary to prove that---
         
     *   (a) a person is an immigration officer, a constable, or any other authorised person; or
     
@@ -10533,15 +10969,15 @@ Offences, penalties, and proceedings
 
 ##### 372 Time for laying information
     
-*   (1) Despite [section 14][813] of the Summary Proceedings Act 1957, an information for an offence against this Act punishable on summary conviction may be laid at any time within 2 years after the earlier of---
+*   (1) Despite [section 14][836] of the Summary Proceedings Act 1957, an information for an offence against this Act punishable on summary conviction may be laid at any time within 2 years after the earlier of---
         
     *   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an immigration officer; or
     
     *   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an immigration officer.
     
-    (2) To avoid doubt, [section 14][813] of the Summary Proceedings Act 1957 and subsection (1) of this section do not apply to an offence referred to in [section 370(1)][449], whether the information for that offence is laid indictably or summarily.
+    (2) To avoid doubt, [section 14][836] of the Summary Proceedings Act 1957 and subsection (1) of this section do not apply to an offence referred to in [section 370(1)][457], whether the information for that offence is laid indictably or summarily.
     
-    Compare: 1987 No 74 [s 145(4), (5)][812]
+    Compare: 1987 No 74 [s 145(4), (5)][835]
 
 ## Part 11  
 Miscellaneous provisions
@@ -10556,17 +10992,17 @@ Miscellaneous provisions
     
     *   (b) is not a New Zealand citizen.
     
-    (2) From birth, the person is deemed to have the most favourable immigration status of either of his or her parents at the time that he or she was born, as determined under [section 374][455], and the provisions of this Act that apply to a person of that immigration status apply to the person accordingly until either---
+    (2) From birth, the person is deemed to have the most favourable immigration status of either of his or her parents at the time that he or she was born, as determined under [section 374][463], and the provisions of this Act that apply to a person of that immigration status apply to the person accordingly until either---
         
     *   (a) the person leaves New Zealand; or
     
     *   (b) the person is accorded a different immigration status under, or by the operation of, this Act.
     
-    Compare: 1987 No 74 [s 4A][814]
+    Compare: 1987 No 74 [s 4A][837]
 
 ##### 374 Immigration status of persons whose status depends on immigration status of parent
     
-*   (1) A person's immigration status for the purposes of [section 373][454] is to be determined as follows:
+*   (1) A person's immigration status for the purposes of [section 373][462] is to be determined as follows:
         
     *   (a) if both parents are recorded on the person's original birth record, whichever of the following is applicable:
             
@@ -10600,19 +11036,19 @@ Miscellaneous provisions
     
     (2) Where a person is deemed to hold a visa under this section, the visa expires on the person's departure from New Zealand, unless it has already expired.
     
-    (3) In this section, _unexpired period_, in relation to a visa, means the period of time remaining before the date or event on the occurrence of which the visa will expire, or the period after which the visa will expire, as calculated in accordance with [section 63][77].
+    (3) In this section, _unexpired period_, in relation to a visa, means the period of time remaining before the date or event on the occurrence of which the visa will expire, or the period after which the visa will expire, as calculated in accordance with [section 63][78].
     
-    Compare: 1987 No 74[s 4A(4)][814]
+    Compare: 1987 No 74[s 4A(4)][837]
 
 #### Minors
 
 ##### 375 Minors to have responsible adult to represent their interests
     
-*   (1) In any matters of the kind referred to in subsection (2) that relate to a person who is under 18 years of age and who is not married or in a civil union (in this section and [sections 376][458] and [377][459] referred to as a _minor_),---
+*   (1) In any matters of the kind referred to in subsection (2) that relate to a person who is under 18 years of age and who is not married or in a civil union (in this section and [sections 376][466] and [377][467] referred to as a _minor_),---
         
     *   (a) the minor's interests are to be represented by the minor's parent; and
     
-    *   (b) the parent is the responsible adult for the minor for the purposes of this section and [sections 376][458] and [377][459].
+    *   (b) the parent is the responsible adult for the minor for the purposes of this section and [sections 376][466] and [377][467].
     
     (2) If a minor does not have a responsible adult to represent the minor's interests by virtue of subsection (1), a responsible adult must be nominated in accordance with this section to represent the minor's interests in relation to any of the following matters under this Act:
         
@@ -10640,7 +11076,7 @@ Miscellaneous provisions
         
         *   (iii) any other person having responsibility for the minor or who is otherwise suitable to represent the minor's interests; or
         
-        *   (iv) if no appropriate person is otherwise available under this subsection, a person designated by the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][784]; and
+        *   (iv) if no appropriate person is otherwise available under this subsection, a person designated by the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][806]; and
         
         
     
@@ -10656,7 +11092,7 @@ Miscellaneous provisions
     
     (7) A responsible adult who is representing the interests of a minor in any matter of a kind referred to in subsection (2) must supply to an immigration officer, a refugee and protection officer, or the Tribunal, as the case may require, an address in New Zealand at which any communication relating to the minor may be notified to that adult.
     
-    Compare: 1987 No 74 [s 141B][815]
+    Compare: 1987 No 74 [s 141B][838]
 
 ##### 376 Role and rights of responsible adult
     
@@ -10664,9 +11100,9 @@ Miscellaneous provisions
         
     *   (a) the responsible adult may, on the minor's behalf,---
             
-        *   (i) appeal to the Tribunal under [Part 7][224]; or
+        *   (i) appeal to the Tribunal under [Part 7][226]; or
         
-        *   (ii) appeal to the High Court under [section 245][299]; or
+        *   (ii) appeal to the High Court under [section 245][301]; or
         
         *   (iii) bring review proceedings in the High Court in accordance with this Act:
         
@@ -10680,17 +11116,17 @@ Miscellaneous provisions
     
     *   (e) any document required to be served on or notified to the minor is instead to be served on or notified to the responsible adult, and such service or notification is deemed to be service on or notification to the minor.
     
-    Compare: 1987 No 74 [s 141C][816]
+    Compare: 1987 No 74 [s 141C][839]
 
 ##### 377 Views of minor to be considered
     
-*   In any proceedings or process of a kind referred to in [section 375(2)][457] in relation to a minor,---
+*   In any proceedings or process of a kind referred to in [section 375(2)][465] in relation to a minor,---
         
     *   (a) an opportunity must be given, so far as practicable, for the minor to express his or her views on the matter, whether personally or through a responsible adult; and
     
     *   (b) due weight is to be given to those views having regard to the age and level of maturity and understanding of the minor.
     
-    Compare: 1987 No 74 [s 141D][817]
+    Compare: 1987 No 74 [s 141D][840]
 
 #### Special directions
 
@@ -10704,13 +11140,13 @@ Miscellaneous provisions
     
     (2) The Minister may give in writing a special direction---
         
-    *   (a) waiving the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, in accordance with [section 69(2)(a)][84]:
+    *   (a) waiving the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, in accordance with [section 69(2)(a)][85]:
     
-    *   (b) suspending, under [section 69(2)(b)][84], a visa waiver made in accordance with [section 69(1)][84]:
+    *   (b) suspending, under [section 69(2)(b)][85], a visa waiver made in accordance with [section 69(1)][85]:
     
-    *   (c) classifying persons to whom a transit visa waiver applies, in accordance with [section 86(4)(a)][108]:
+    *   (c) classifying persons to whom a transit visa waiver applies, in accordance with [section 86(4)(a)][109]:
     
-    *   (d) suspending, under [section 86(4)(b)][108], a transit visa waiver made in accordance with section 86(2)(a).
+    *   (d) suspending, under [section 86(4)(b)][109], a transit visa waiver made in accordance with section 86(2)(a).
     
     (3) A special direction comes into force on the day on which it is made, or any later date specified in the direction.
     
@@ -10724,7 +11160,7 @@ Miscellaneous provisions
     
     (8) The decision whether to grant a special direction is in the absolute discretion of the Minister.
     
-    Compare: 1987 No 74 [s 130][634]
+    Compare: 1987 No 74 [s 130][646]
 
 ##### 379 Immigration officer to act in accordance with special direction
     
@@ -10744,17 +11180,17 @@ Miscellaneous provisions
         
     *   (a) this power of delegation; and
     
-    *   (b) the power to certify immigration instructions under [section 22][28]; and
+    *   (b) the power to certify immigration instructions under [section 22][29]; and
     
-    *   (c) the powers referred to in [section 33(1) and (2)][43] (which relate to the use of classified information); and
+    *   (c) the powers referred to in [section 33(1) and (2)][44] (which relate to the use of classified information); and
     
-    *   (d) the power to make a special direction under [section 69(2)(a) or (b)][84] (which relates to waiving the requirement for classes of persons to hold a visa permitting travel to New Zealand); and
+    *   (d) the power to make a special direction under [section 69(2)(a) or (b)][85] (which relates to waiving the requirement for classes of persons to hold a visa permitting travel to New Zealand); and
     
-    *   (e) the power to make a special direction under [section 86(4)][108] in relation to transit visas; and
+    *   (e) the power to make a special direction under [section 86(4)][109] in relation to transit visas; and
     
-    *   (f) the power to certify under [section 163(1)][201] that a person constitutes a threat or risk to security; and
+    *   (f) the power to certify under [section 163(1)][203] that a person constitutes a threat or risk to security; and
     
-    *   (g) the power to make a decision of a kind referred to in [section 139][173] or [199][246] in relation to a protected person who has committed certain crimes or been guilty of certain acts.
+    *   (g) the power to make a decision of a kind referred to in [section 139][175] or [199][248] in relation to a protected person who has committed certain crimes or been guilty of certain acts.
     
     (2) The immigration officer to whom a delegation may be made may be an officer referred to by name or the officer who for the time being holds a specified position.
     
@@ -10768,7 +11204,7 @@ Miscellaneous provisions
     
     (7) The fact that any immigration officer exercises any power of the Minister, other than a power referred to in subsection (1), is, in the absence of proof to the contrary, sufficient evidence that the officer has been authorised to do so by a delegation under this section.
     
-    Compare: 1987 No 74 [s 131][818]
+    Compare: 1987 No 74 [s 131][841]
 
 #### Matters relating to chief executive
 
@@ -10778,13 +11214,13 @@ Miscellaneous provisions
     
     (2) Every document purporting to be in a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive, an immigration officer, or a refugee and protection officer otherwise certifies.
     
-    (3) The chief executive referred to in [clause 5(2)][622] of Schedule 2 may approve and issue forms relating to appeals---
+    (3) The chief executive referred to in [clause 5(2)][633] of Schedule 2 may approve and issue forms relating to appeals---
         
     *   (a) that he or she considers necessary for the purposes of this Act; and
     
     *   (b) for which no forms are currently prescribed.
     
-    (4) Every document purporting to be in a form approved and issued by the chief executive referred to in [clause 5(2)][622] of Schedule 2 under this section is deemed to have been so approved and issued unless that chief executive otherwise certifies.
+    (4) Every document purporting to be in a form approved and issued by the chief executive referred to in [clause 5(2)][633] of Schedule 2 under this section is deemed to have been so approved and issued unless that chief executive otherwise certifies.
 
 ##### 382 Chief executive to designate immigration control areas
     
@@ -10852,19 +11288,19 @@ Miscellaneous provisions
         
         
     
-    (5) The chief executive may cancel an endorsement given under subsection (1) if the person is deprived of, or renounces, his or her citizenship under the [Citizenship Act 1977][615].
+    (5) The chief executive may cancel an endorsement given under subsection (1) if the person is deprived of, or renounces, his or her citizenship under the [Citizenship Act 1977][624].
 
 #### Responsibilities of certain operators of airports and ports
 
 ##### 385 Certain operators of airports and ports to provide operating areas, accommodation, facilities, etc
     
-*   (1) The operator of an airport or a port that is subject to a designation under [section 382][467] must provide and maintain the operating areas, accommodation, facilities, buildings, equipment, and storage in the airport or port as the chief executive determines is reasonably necessary and suitable for carrying out immigration functions in relation to people arriving in and departing from New Zealand.
+*   (1) The operator of an airport or a port that is subject to a designation under [section 382][475] must provide and maintain the operating areas, accommodation, facilities, buildings, equipment, and storage in the airport or port as the chief executive determines is reasonably necessary and suitable for carrying out immigration functions in relation to people arriving in and departing from New Zealand.
     
     (2) The operator of the airport or port may impose a reasonable charge or charges on the Department for providing the operating areas, accommodation, facilities, buildings, equipment, and storage required by the chief executive under subsection (1), but no charge may be imposed on the Department in respect of any operating area used for the processing of persons arriving in or departing from New Zealand (including any area used for the purposes of ensuring that a person is placed on the first available craft leaving New Zealand).
     
-    (3) Subsection (2) applies despite anything to the contrary in the [Airport Authorities Act 1966][819].
+    (3) Subsection (2) applies despite anything to the contrary in the [Airport Authorities Act 1966][842].
     
-    Compare: 1996 No 27 [s 18(1), (2), (3)(a)][820]
+    Compare: 1996 No 27 [s 18(1), (2), (3)(a)][843]
 
 #### Notice requirements and addresses for communications
 
@@ -10882,7 +11318,7 @@ Miscellaneous provisions
     
     *   (c) by service on the person's lawyer or agent in accordance with subsection (4); or
     
-    *   (d) at the address supplied under [section 57(2)][71], if it relates to an application for a visa.
+    *   (d) at the address supplied under [section 57(2)][72], if it relates to an application for a visa.
     
     (4) If a lawyer or agent represents that he or she is authorised to accept service of any notice or document on behalf of any person, it is sufficient service to deliver the notice or document to the lawyer or agent if he or she signs a memorandum stating that he or she accepts service of the notice or document on behalf of the person.
     
@@ -10890,41 +11326,41 @@ Miscellaneous provisions
     
     (6) Except in a case to which subsection (5) applies, if under this Act any notice or other document is to be given to, served on, or supplied to any person in New Zealand by registered post, the notice or other document is treated as having been given, served on, or received by that person 7 days after the date on which it was posted unless the person proves that, otherwise than through fault on the person's part, the notice or other document was not so given, served, or received.
     
-    (7) If a notice or other document is to be given to, served on, or supplied to a person by registered post addressed to an address supplied under [section 57(2)][71] and that address is outside New Zealand, the notice or document must be treated as having been given to, served on, or received by the person 14 days after the date on which it was posted unless the person proves that, otherwise than through fault on the person's part, the notice or other document was not so given, served, or received.
+    (7) If a notice or other document is to be given to, served on, or supplied to a person by registered post addressed to an address supplied under [section 57(2)][72] and that address is outside New Zealand, the notice or document must be treated as having been given to, served on, or received by the person 14 days after the date on which it was posted unless the person proves that, otherwise than through fault on the person's part, the notice or other document was not so given, served, or received.
     
     (8) This section applies unless a provision in this Act expressly provides otherwise.
     
-    Compare: 1987 No 74 [s 146][821]
+    Compare: 1987 No 74 [s 146][844]
 
 ##### 387 New Zealand address
     
 *   (1) In this Act, _New Zealand address_, in relation to a person who holds a visa and is in New Zealand, means the last known of the following addresses:
         
-    *   (a) the address for the time being nominated by the person under [section 57(2)][71], if that address is within New Zealand:
+    *   (a) the address for the time being nominated by the person under [section 57(2)][72], if that address is within New Zealand:
     
-    *   (b) the address for the time being nominated by the person under [section 110][138] (or under [section 37][822] of the former Act):
+    *   (b) the address for the time being nominated by the person under [section 110][139] (or under [section 37][845] of the former Act):
     
     *   (c) if applicable, the person's New Zealand address within the meaning of subsection (2), (3), (4), (5), or (6).
     
-    (2) In this Act, _New Zealand address_, in relation to a person who is a claimant under [Part 5][156], means the last known of the following addresses:
+    (2) In this Act, _New Zealand address_, in relation to a person who is a claimant under [Part 5][157], means the last known of the following addresses:
         
-    *   (a) the latest address supplied by the person under [section 133(5)][167] (or under [section 129G(4)][698] of the former Act):
+    *   (a) the latest address supplied by the person under [section 133(5)][168] (or under [section 129G(4)][712] of the former Act):
     
     *   (b) if applicable, the person's New Zealand address within the meaning of subsection (1), (3), (4), (5), or (6).
     
     (3) In this Act, _New Zealand address_, in relation to a person who has appealed to the Tribunal under Part 7, means the last known of the following addresses:
         
-    *   (a) the address supplied to the Tribunal under [section 225(2)(a)(i)][277]:
+    *   (a) the address supplied to the Tribunal under [section 225(2)(a)(i)][279]:
     
     *   (b) if applicable, the person's New Zealand address within the meaning of subsection (1), (2), (4), (5), or (6).
     
-    (4) In this Act, _New Zealand address_, in relation to a person who is subject to any residence or reporting requirement under [section 315][382] or [320][388], means the last known of the following addresses:
+    (4) In this Act, _New Zealand address_, in relation to a person who is subject to any residence or reporting requirement under [section 315][384] or [320][395], means the last known of the following addresses:
         
     *   (a) the address at which the person has currently agreed or been required to reside under the section concerned:
     
     *   (b) if applicable, the person's New Zealand address within the meaning of subsection (1), (2), (3), or (6).
     
-    (5) In this Act, _New Zealand address_, in relation to a person who is in custody under [Part 9][372] (or pursuant to a warrant of commitment issued under the former Act), means the last known of the following addresses:
+    (5) In this Act, _New Zealand address_, in relation to a person who is in custody under [Part 9][374] (or pursuant to a warrant of commitment issued under the former Act), means the last known of the following addresses:
         
     *   (a) the place where the person is held in custody:
     
@@ -10934,7 +11370,7 @@ Miscellaneous provisions
         
     *   (a) if the person is named as a dependent child of another person named in the notice, the New Zealand address of the other person:
     
-    *   (b) if a responsible adult has been determined or nominated under [section 375][457] (or under [section 141B ][815]of the former Act), to represent the person's interests, the latest address supplied by the responsible adult under [section 375(7)][457] (or under [section 141B(7)][815] of the former Act).
+    *   (b) if a responsible adult has been determined or nominated under [section 375][465] (or under [section 141B ][838]of the former Act), to represent the person's interests, the latest address supplied by the responsible adult under [section 375(7)][465] (or under [section 141B(7)][838] of the former Act).
     
     
 
@@ -10958,19 +11394,19 @@ Miscellaneous provisions
     
     (3) An immigration officer authorised to exercise 1 or more of the following powers must be issued with a warrant of designation, signed by the chief executive, specifying which of those powers the officer may exercise:
         
-    *   (a) the power to deport a person under [section 178][219]:
+    *   (a) the power to deport a person under [section 178][221]:
     
-    *   (b) the power of entry and inspection under [sections 276][335], [277][336], and [278][337]:
+    *   (b) the power of entry and inspection under [sections 276][337], [277][338], and [278][339]:
     
-    *   (c) the powers under [sections 279][339], [280][340], [281][341], and [288][350] to require information or documents for the purpose of ensuring compliance with this Act:
+    *   (c) the powers under [sections 279][341], [280][342], [281][343], and [288][352] to require information or documents for the purpose of ensuring compliance with this Act:
     
-    *   (d) the powers under [sections 282][343], [283][344], [284][345], and [285][346] at a border:
+    *   (d) the powers under [sections 282][345], [283][346], [284][347], and [285][348] at a border:
     
-    *   (e) the power of entry and search under [section 286][348]:
+    *   (e) the power of entry and search under [section 286][350]:
     
-    *   (f) the power to obtain certain information pending a person's deportation under [section 287][349]:
+    *   (f) the power to obtain certain information pending a person's deportation under [section 287][351]:
     
-    *   (g) the power to detain a person under [section 312][379].
+    *   (g) the power to detain a person under [section 312][381].
     
     (4) A warrant is sufficient evidence of the officer's designation as an immigration officer, and the officer's authorisation to perform the functions and exercise the powers specified in it.
     
@@ -10988,7 +11424,7 @@ Miscellaneous provisions
     
     (9) It is sufficient compliance with subsections (7)(a) and (8) if, in the case of a constable, he or she is in uniform or produces his or her badge or other evidence of being a constable.
     
-    Compare: 1987 No 74 [s 133][823]
+    Compare: 1987 No 74 [s 133][846]
 
 ##### 389 Immigration officers' functions and powers
     
@@ -10996,13 +11432,13 @@ Miscellaneous provisions
     
     (2) Without limiting the way in which functions and powers are classified under subsection (1), functions and powers may be classified as follows:
         
-    *   (a) visa decision-making functions and powers, being the functions and powers set out in [Part 3][53]:
+    *   (a) visa decision-making functions and powers, being the functions and powers set out in [Part 3][54]:
     
-    *   (b) entry permission decision-making functions and powers, being the functions and powers set out in [Part 4][119]:
+    *   (b) entry permission decision-making functions and powers, being the functions and powers set out in [Part 4][120]:
     
-    *   (c) compliance and enforcement functions and powers, being the functions and powers set out in [Part 8][328]:
+    *   (c) compliance and enforcement functions and powers, being the functions and powers set out in [Part 8][330]:
     
-    *   (d) the power of detention, being the power set out in [section 312][379].
+    *   (d) the power of detention, being the power set out in [section 312][381].
     
     
 
@@ -11012,7 +11448,7 @@ Miscellaneous provisions
     
     (2) A person designated as a refugee and protection officer may perform all the functions and exercise all the powers of a refugee and protection officer.
     
-    (3) Subsection (2) is subject to [section 33(2)(b)][43].
+    (3) Subsection (2) is subject to [section 33(2)(b)][44].
 
 ##### 391 Revocation or lapsing of designations
     
@@ -11030,13 +11466,13 @@ Miscellaneous provisions
     
     (5) A person whose designation has lapsed or been revoked must immediately surrender the warrant of designation to the chief executive.
     
-    Compare: 1987 No 74[s 133A][824]
+    Compare: 1987 No 74[s 133A][847]
 
 #### Relationship between this Act and Human Rights Act 1993
 
 ##### 392 Relationship between this Act and Human Rights Act 1993
     
-*   (1) The Human Rights Commission may perform, in relation to immigration matters, all of its functions (as described in [section 5][825] of the Human Rights Act 1993), including---
+*   (1) The Human Rights Commission may perform, in relation to immigration matters, all of its functions (as described in [section 5][848] of the Human Rights Act 1993), including---
         
     *   (a) making public statements in relation to any matter affecting human rights:
     
@@ -11046,33 +11482,33 @@ Miscellaneous provisions
     
     *   (d) reporting to the Prime Minister on any matter affecting human rights.
     
-    (2) However, despite anything in the [Human Rights Act 1993][826],---
+    (2) However, despite anything in the [Human Rights Act 1993][849],---
         
     *   (a) no complaint may be made under that Act in respect of---
             
         *   (i) the content or application of this Act or any regulations made under this Act; or
         
-        *   (ii) the content or application of any immigration instructions made in accordance with [section 22][28]:
+        *   (ii) the content or application of any immigration instructions made in accordance with [section 22][29]:
         
         
     
     *   (b) the Human Rights Commission may not, in relation to any matter referred to in paragraph (a),---
             
-        *   (i) bring any proceedings of a kind referred to in [section 5(2)(i)][825] of the Human Rights Act 1993; or
+        *   (i) bring any proceedings of a kind referred to in [section 5(2)(i)][848] of the Human Rights Act 1993; or
         
-        *   (ii) exercise in relation to any proceedings the powers conferred by [section 5(2)(j)][825] of that Act (which relates to applications to a court or tribunal to be appointed as intervener or counsel, or taking part in proceedings in any other way).
+        *   (ii) exercise in relation to any proceedings the powers conferred by [section 5(2)(j)][848] of that Act (which relates to applications to a court or tribunal to be appointed as intervener or counsel, or taking part in proceedings in any other way).
         
         
     
     (3) This section recognises that immigration matters inherently involve different treatment on the basis of personal characteristics.
     
-    Compare: 1987 No 74 [ss 149C][827], [149D][828]
+    Compare: 1987 No 74 [ss 149C][850], [149D][851]
 
 #### Fees, bonds, levies, etc
 
 ##### 393 Fees and how they may be prescribed for purposes of section 400
     
-*   (1) Without limiting the power to prescribe fees set out in [section 400][492],---
+*   (1) Without limiting the power to prescribe fees set out in [section 400][500],---
         
     *   (a) fees may be prescribed under that section in relation to any matter or service under or arising from this Act,---
             
@@ -11130,11 +11566,11 @@ Miscellaneous provisions
     
     (10) All fees prescribed under this Act and received by the Department or any other government department must be paid into a Crown Bank Account.
     
-    Compare: 1987 No 74 [s 148A][829]
+    Compare: 1987 No 74 [s 148A][852]
 
 ##### 394 Other charges
     
-*   (1) Nothing in [section 393][484] or [396][487] prevents the Department from charging persons for any of the services the Department provides in relation to the administration of this Act, other than services to which a fee applies under the other provisions of this Act.
+*   (1) Nothing in [section 393][492] or [396][495] prevents the Department from charging persons for any of the services the Department provides in relation to the administration of this Act, other than services to which a fee applies under the other provisions of this Act.
     
     (2) Subsection (1) is subject to subsection (7).
     
@@ -11160,9 +11596,9 @@ Miscellaneous provisions
     
     (5) Nothing in subsection (1) or (3)(g) authorises the charging of any person who operates a place that is, or contains, an immigration control area for services provided in relation to immigration or refugee or protection matters.
     
-    (6) Nothing in subsection (3)(g) affects the ability to recover costs under [section 398][489].
+    (6) Nothing in subsection (3)(g) affects the ability to recover costs under [section 398][497].
     
-    (7) If the Department is not the department referred to in [clause 5][622] of Schedule 2, the department that is referred to in that clause may, in relation to appeals to or matters before the Tribunal,---
+    (7) If the Department is not the department referred to in [clause 5][633] of Schedule 2, the department that is referred to in that clause may, in relation to appeals to or matters before the Tribunal,---
         
     *   (a) charge persons for the cost of mailing or couriering information to them (including information that is transcripts or recordings of hearings):
     
@@ -11176,7 +11612,7 @@ Miscellaneous provisions
     
     (8) All charges received by a department under subsection (7) must be paid into a Crown Bank Account.
     
-    Compare: 1987 No 74 [s 148C][830]
+    Compare: 1987 No 74 [s 148C][853]
 
 ##### 395 Exemptions and refunds
     
@@ -11184,7 +11620,7 @@ Miscellaneous provisions
     
     (2) The Minister may by special direction provide for an exemption from or refund of any prescribed fee or charge in whole or in part.
     
-    Compare: 1987 No 74[s 149][831]
+    Compare: 1987 No 74[s 149][854]
 
 ##### 396 Imposition of bonds
     
@@ -11242,11 +11678,11 @@ Miscellaneous provisions
     
     (9) No bond may be imposed on any claimant for any matter relating to recognition as a refugee or a protected person, and any bond imposed upon a person before that person became a claimant must be refunded if the person is subsequently recognised as a refugee or a protected person.
     
-    Compare: 1987 No 74[s 148B][832]
+    Compare: 1987 No 74[s 148B][855]
 
 ##### 398 Costs of deportation or repatriation
     
-*   (1) Subject to this section and to any order of a court under [section 355(6)][431], all costs incurred by the Crown in deporting or repatriating any person from New Zealand may be paid from a Crown Bank Account.
+*   (1) Subject to this section and to any order of a court under [section 355(6)][439], all costs incurred by the Crown in deporting or repatriating any person from New Zealand may be paid from a Crown Bank Account.
     
     (2) Subsection (3) applies if---
         
@@ -11276,13 +11712,13 @@ Miscellaneous provisions
     
     (7) Any costs recovered under this section must be paid into a Crown Bank Account.
     
-    (8) Nothing in this section or in [section 55][68], [118][148], or [355][431] authorises the Crown to recover any particular cost more than once.
+    (8) Nothing in this section or in [section 55][69], [118][149], or [355][439] authorises the Crown to recover any particular cost more than once.
     
-    Compare: 1987 No 74 [s 148][833]
+    Compare: 1987 No 74 [s 148][856]
 
 ##### 399 Migrant levy
     
-*   (1) Any regulations made under [section 400][492] may provide for the imposition and collection of a migrant levy on persons who are granted a visa.
+*   (1) Any regulations made under [section 400][500] may provide for the imposition and collection of a migrant levy on persons who are granted a visa.
     
     (2) The purpose of the levy is to fund, or contribute to the funding of,---
         
@@ -11312,7 +11748,7 @@ Miscellaneous provisions
     
     (6) The Minister must present the report to the House of Representatives not later than 15 sitting days after its receipt.
     
-    Compare: 1987 No 74[s 149B][834]
+    Compare: 1987 No 74[s 149B][857]
 
 #### Regulations
 
@@ -11322,15 +11758,15 @@ Miscellaneous provisions
         
     *   (a) prescribing the manner of application and any procedural matters in relation to any applications for visas or other applications under this Act:
     
-    *   (b) prescribing other matters in respect of visas or expressions of interest, including matters provided for in [section 401][493]:
+    *   (b) prescribing other matters in respect of visas or expressions of interest, including matters provided for in [section 401][501]:
     
-    *   (c) prescribing requirements and procedures in respect of arrivals in and departures from New Zealand, including matters provided for in [section 402][494]:
+    *   (c) prescribing requirements and procedures in respect of arrivals in and departures from New Zealand, including matters provided for in [section 402][502]:
     
-    *   (d) prescribing procedures to be followed for the purposes of [Part 5][156], or such other matters as are contemplated by or necessary for giving full effect to the Refugee Convention, including matters provided for in [section 403][495]:
+    *   (d) prescribing procedures to be followed for the purposes of [Part 5][157], or such other matters as are contemplated by or necessary for giving full effect to the Refugee Convention, including matters provided for in [section 403][503]:
     
-    *   (e) prescribing procedures and other matters in respect of reconsiderations, appeals, and reviews under [Part 7][224]:
+    *   (e) prescribing procedures and other matters in respect of reconsiderations, appeals, and reviews under [Part 7][226]:
     
-    *   (f) prescribing fees and charges in respect of any matters under this Act, and providing for exemptions from or refunds of any fees and charges, including matters provided for in [sections 393][484] and [395][486]:
+    *   (f) prescribing fees and charges in respect of any matters under this Act, and providing for exemptions from or refunds of any fees and charges, including matters provided for in [sections 393][492] and [395][494]:
     
     *   (g) prescribing infringement offences against this Act in the case of carriers, or persons in charge, of craft:
     
@@ -11350,7 +11786,7 @@ Miscellaneous provisions
     
     *   (j) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made for the purposes of this Act, and the maximum amounts of fines that may be imposed in respect of those offences (which maximum amounts may not exceed $2,000):
     
-    *   (k) providing for transitional and related matters, as provided in [section 472][581]:
+    *   (k) providing for transitional and related matters, as provided in [section 472][589]:
     
     *   (l) exempting classes of persons from the requirement to allow biometric data to be collected from them:
     
@@ -11360,61 +11796,61 @@ Miscellaneous provisions
 
 ##### 401 Regulations relating to visas and expressions of interest
     
-*   Without limiting [section 400][492], regulations made under that section may---
+*   Without limiting [section 400][500], regulations made under that section may---
         
     *   (a) prescribe the situations under which a visa of a particular class and type is deemed under this Act to be granted to a person:
     
     *   (b) prescribe who may apply for a residence class visa---
             
-        *   (i) at a place designated by the chief executive under [section 383][468]; or
+        *   (i) at a place designated by the chief executive under [section 383][476]; or
         
         *   (ii) on arrival in New Zealand at an immigration control area or other prescribed place:
         
         
     
-    *   (c) classify persons to whom a transit visa waiver applies for the purposes of [section 86][108]:
+    *   (c) classify persons to whom a transit visa waiver applies for the purposes of [section 86][109]:
     
-    *   (d) prescribe the period for which a person may be in New Zealand as the holder of a transit visa for the purposes of [section 88(1)][110]:
+    *   (d) prescribe the period for which a person may be in New Zealand as the holder of a transit visa for the purposes of [section 88(1)][111]:
     
-    *   (e) prescribe the manner in which an expression of interest must be made for the purposes of [section 92(1)][115].
+    *   (e) prescribe the manner in which an expression of interest must be made for the purposes of [section 92(1)][116].
     
     
 
 ##### 402 Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand
     
-*   Without limiting the generality of [section 400][492], regulations made under that section may---
+*   Without limiting the generality of [section 400][500], regulations made under that section may---
         
-    *   (a) prescribe the information that must be obtained for the purposes of [section 96(2)(a)][121] from every person who intends to board a commercial craft for the purposes of travelling to New Zealand:
+    *   (a) prescribe the information that must be obtained for the purposes of [section 96(2)(a)][122] from every person who intends to board a commercial craft for the purposes of travelling to New Zealand:
     
     *   (b) prescribe the information that must be provided to the chief executive for the purposes of section 96(2)(b):
     
-    *   (c) exempt carriers, and persons in charge, of craft from any of the obligations under [section 101][127] in relation to craft en route to or arriving in New Zealand, and specify any requirements that apply in relation to an exemption:
+    *   (c) exempt carriers, and persons in charge, of craft from any of the obligations under [section 101][128] in relation to craft en route to or arriving in New Zealand, and specify any requirements that apply in relation to an exemption:
     
     *   (d) prescribe the documentation that persons en route to New Zealand must have for the purposes of section 101(1)(a):
     
     *   (e) prescribe the documents that may be required to be produced to an immigration officer under section 101(1)(b)(i):
     
-    *   (f) prescribe the information that must be provided for the purposes of [section 102(2)][128]:
+    *   (f) prescribe the information that must be provided for the purposes of [section 102(2)][129]:
     
     *   (g) prescribe the manner and place in which, and the time within which, a person must present himself or herself on arrival in New Zealand:
     
-    *   (h) exempt persons arriving in New Zealand from any of the obligations under [section 103][130], and specify any requirements that apply in relation to an exemption:
+    *   (h) exempt persons arriving in New Zealand from any of the obligations under [section 103][131], and specify any requirements that apply in relation to an exemption:
     
     *   (i) prescribe the manner of application for entry permission, including the provision of any information, documents, or other details (if any) required:
     
     *   (j) prescribe the situations under which entry permission is deemed under this Act to be granted to a person:
     
-    *   (k) prescribe requirements as to the establishment of a person's identity as a New Zealand citizen for the purposes of [section 99][124] or 103:
+    *   (k) prescribe requirements as to the establishment of a person's identity as a New Zealand citizen for the purposes of [section 99][125] or 103:
     
     *   (l) exempt New Zealand citizens from the requirement to allow a photograph to be taken in any class of case:
     
-    *   (m) prescribe documents that may be demanded by an immigration officer for the purposes of [section 106][133]:
+    *   (m) prescribe documents that may be demanded by an immigration officer for the purposes of [section 106][134]:
     
-    *   (n) exempt carriers, and persons in charge, of craft from any of the obligations under [section 118][148] in relation to craft leaving New Zealand, and specify any requirements that apply in relation to an exemption:
+    *   (n) exempt carriers, and persons in charge, of craft from any of the obligations under [section 118][149] in relation to craft leaving New Zealand, and specify any requirements that apply in relation to an exemption:
     
     *   (o) prescribe classes of persons in respect of whom details must be reported for the purposes of section 118(1)(c):
     
-    *   (p) exempt persons leaving New Zealand from any of the obligations under [section 119][149], and specify any requirements that apply in relation to an exemption:
+    *   (p) exempt persons leaving New Zealand from any of the obligations under [section 119][150], and specify any requirements that apply in relation to an exemption:
     
     *   (q) prescribe the place at which a person leaving New Zealand must present himself or herself:
     
@@ -11424,17 +11860,17 @@ Miscellaneous provisions
 
 ##### 403 Regulations in respect of refugee and protection matters
     
-*   Without limiting the generality of [section 400][492], regulations made under that section may, in relation to refugee and protection matters,---
+*   (1) Without limiting the generality of [section 400][500], regulations made under that section may, in relation to refugee and protection matters,---
         
     *   (a) specify the manner in which any claim, appeal, or application is to be made:
     
-    *   (b) provide for the manner of service of notices and documents, which may differ from the requirements of [section 386][474], and provide for when they will be treated as having been received:
+    *   (b) provide for the manner of service of notices and documents, which may differ from the requirements of [section 386][482], and provide for when they will be treated as having been received:
     
     *   (c) provide for the availability and use of interpreters:
     
     *   (d) provide for matters relating to communications with claimants or other persons concerned:
     
-    *   (e) specify the information that must be supplied to claimants or other persons concerned, including information concerning their rights and concerning procedures under [Part 5][156]:
+    *   (e) specify the information that must be supplied to claimants or other persons concerned, including information concerning their rights and concerning procedures under [Part 5][157]:
     
     *   (f) make provision for the representation of minors:
     
@@ -11448,11 +11884,41 @@ Miscellaneous provisions
     
     *   (k) specify the manner in which a claim or other matter may be withdrawn:
     
+    *   (ka) specify, by reference to 1 or both of the following matters, the claims that a refugee and protection officer must not process or determine or make a decision on under [sections 136 to 138][172]:
+            
+        *   (i) common circumstances or common characteristics of the claims:
+        
+        *   (ii) common circumstances or common characteristics of the claimants making the claims:
+        
+        
+    
     *   (l) provide for any special matters relating to the handling of claims, appeals, or other matters when the claimant or other person concerned is in custody:
     
     *   (m) specify the procedures to be followed in relation to claims, appeals, and other matters not completed before the commencement of this section.
     
+    (2) No regulations may be made under [section 400][500] in respect of the matters specified in subsection (1)(ka) of this section unless the Minister---
+        
+    *   (a) has recommended the making of the regulations to the Governor-General; and
     
+    *   (b) before doing so, is satisfied that the regulations are necessary for 1 or both of the following reasons:
+            
+        *   (i) there are problems in accessing information or assessing information that is relevant to determining or making a decision on the claims to be specified in the regulations:
+        
+        *   (ii) the circumstances to which the claims to be specified in the regulations relate, or the circumstances of the claimants making those claims, are otherwise of a nature, or subject to such a degree of change or uncertainty, that determination or decision of the claims under [sections 136 to 138][172] is unlikely to produce a robust outcome.
+        
+        
+    
+    (3) Regulations made under [section 400][500] in respect of the matters specified in subsection (1)(ka) of this section---
+        
+    *   (a) are deemed to be revoked on the date that is 6 months after their commencement or on any earlier date specified in the regulations; and
+    
+    *   (b) have no continuing effect after the date on which they expire.
+    
+    Section 403(1)(ka): inserted, on 19 June 2013, by [section 16(1)][858] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 403(2): inserted, on 19 June 2013, by [section 16(2)][858] of the Immigration Amendment Act 2013 (2013 No 39).
+    
+    Section 403(3): inserted, on 19 June 2013, by [section 16(2)][858] of the Immigration Amendment Act 2013 (2013 No 39).
 
 ## Part 12  
 Repeals, transitional provisions, saving provisions, and related matters
@@ -11461,45 +11927,45 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 404 Immigration Act 1987 repealed
     
-*   The [Immigration Act 1987][611] (1987 No 74) is repealed.
+*   The [Immigration Act 1987][620] (1987 No 74) is repealed.
 
 ##### 405 Regulations made under Immigration Act 1987 revoked
     
 *   The following regulations are revoked:
         
-    *   (a) [Immigration (Refugee Processing) Regulations 1999][835] (SR 1999/285):
+    *   (a) [Immigration (Refugee Processing) Regulations 1999][859] (SR 1999/285):
     
-    *   (b) [Immigration Regulations 1999][836] (SR 1999/284):
+    *   (b) [Immigration Regulations 1999][860] (SR 1999/284):
     
-    *   (c) [Immigration (Special Regularisation) Regulations 2000][837] (SR 2000/187):
+    *   (c) [Immigration (Special Regularisation) Regulations 2000][861] (SR 2000/187):
     
-    *   (d) [Immigration (Transit Visas) Regulations 2008][838] (SR 2008/38).
+    *   (d) [Immigration (Transit Visas) Regulations 2008][862] (SR 2008/38).
     
     
 
 ##### 406 Consequential amendments and repeals
     
-*   (1) The enactments listed in [Schedule 3][593] are amended in the manner indicated in that schedule.
+*   (1) The enactments listed in [Schedule 3][601] are amended in the manner indicated in that schedule.
     
-    (2) The regulations, rules, and orders listed in [Schedule 4][594] are amended in the manner indicated in that schedule.
+    (2) The regulations, rules, and orders listed in [Schedule 4][602] are amended in the manner indicated in that schedule.
     
     (3) The following Acts are repealed:
         
-    *   (a) [Air Facilitation Act 1993][839] (1993 No 6):
+    *   (a) [Air Facilitation Act 1993][863] (1993 No 6):
     
-    *   (b) [Air Facilitation (Domestic Passengers and Cargo) Act 1994][840] (1994 No 100).
+    *   (b) [Air Facilitation (Domestic Passengers and Cargo) Act 1994][864] (1994 No 100).
     
     
 
 ##### 407 Immigration Act 1987 continues in relation to certain matters and for certain purposes
     
-*   (1) To avoid doubt, despite the repeal of the former Act by [section 404][498] of this Act, [sections 17][841], [18][842], and [19][843] of the Interpretation Act 1999---
+*   (1) To avoid doubt, despite the repeal of the former Act by [section 404][506] of this Act, [sections 17][865], [18][866], and [19][867] of the Interpretation Act 1999---
         
     *   (a) provide that the repeal of the former Act does not affect certain matters; and
     
-    *   (b) continue the application of the former Act for certain purposes, subject to any provision in [subpart 2][503] of this Part that expressly provides otherwise.
+    *   (b) continue the application of the former Act for certain purposes, subject to any provision in [subpart 2][511] of this Part that expressly provides otherwise.
     
-    (2) Accordingly, but without limiting [subpart 2][503] of this Part, in relation to an immigration matter, a person who, immediately before the commencement of [section 404][498] of this Act,---
+    (2) Accordingly, but without limiting [subpart 2][511] of this Part, in relation to an immigration matter, a person who, immediately before the commencement of [section 404][506] of this Act,---
         
     *   (a) is unlawfully in New Zealand continues to have an obligation to leave New Zealand:
     
@@ -11513,7 +11979,7 @@ Repeals, transitional provisions, saving provisions, and related matters
     
 *   Nothing in this Act entitles a member of an appeals body to any compensation---
         
-    *   (a) in respect of the repeal of the former Act by [section 404][498] of this Act; or
+    *   (a) in respect of the repeal of the former Act by [section 404][506] of this Act; or
     
     *   (b) for any fees or allowances that would otherwise be payable for the remainder of the member's term of appointment affected by the repeal.
     
@@ -11525,21 +11991,21 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 409 Government immigration and Government residence policy under sections 13A and 13B of former Act to be treated as immigration instructions
     
-*   (1) On and from the commencement of [section 404][498] of this Act, Government immigration policy published under [section 13A][655] of the former Act that is in force immediately before that commencement must be treated as immigration instructions for the purposes of this Act, and this Act applies accordingly with any necessary modifications.
+*   (1) On and from the commencement of [section 404][506] of this Act, Government immigration policy published under [section 13A][667] of the former Act that is in force immediately before that commencement must be treated as immigration instructions for the purposes of this Act, and this Act applies accordingly with any necessary modifications.
     
-    (2) On and from the commencement of [section 404][498] of this Act, Government immigration policy published under [section 13A][655] of the former Act and relating to the issue of temporary visas or limited purpose visas, or the granting of temporary permits or limited purpose permits, that is in force immediately before that commencement must be treated as temporary entry instructions for the purposes of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) On and from the commencement of [section 404][506] of this Act, Government immigration policy published under [section 13A][667] of the former Act and relating to the issue of temporary visas or limited purpose visas, or the granting of temporary permits or limited purpose permits, that is in force immediately before that commencement must be treated as temporary entry instructions for the purposes of this Act, and this Act applies accordingly with any necessary modifications.
     
     (3) Subsection (2) applies regardless of whether the policy would affect eligibility for, or otherwise relate to, the issuing of a residence visa or the granting of a residence permit.
     
-    (4) On and from the commencement of [section 404][498] of this Act, Government immigration policy published under [section 13A][655] of the former Act and relating to the issue of transit visas that is in force immediately before that commencement must be treated as transit instructions, and this Act applies accordingly with any necessary modifications.
+    (4) On and from the commencement of [section 404][506] of this Act, Government immigration policy published under [section 13A][667] of the former Act and relating to the issue of transit visas that is in force immediately before that commencement must be treated as transit instructions, and this Act applies accordingly with any necessary modifications.
     
-    (5) On and from the commencement of [section 404][498] of this Act, Government residence policy under [section 13B][652] of the former Act that is in force immediately before that commencement must be treated as residence instructions for the purposes of this Act, and this Act applies accordingly with any necessary modifications.
+    (5) On and from the commencement of [section 404][506] of this Act, Government residence policy under [section 13B][664] of the former Act that is in force immediately before that commencement must be treated as residence instructions for the purposes of this Act, and this Act applies accordingly with any necessary modifications.
     
     (6) Without limiting subsections (1) to (5),---
         
     *   (a) a reference to a visa in Government immigration policy or Government residence policy to which this section applies must be read as a reference to a visa that allows the person to travel to New Zealand; and
     
-    *   (b) a reference to a permit in Government immigration policy or Government residence policy to which this section applies must be read as a reference--- 
+    *   (b) a reference to a permit in Government immigration policy or Government residence policy to which this section applies must be read as a reference---
             
         *   (i) to a visa that allows a person to stay in New Zealand; and
         
@@ -11551,17 +12017,17 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 410 Government policy on lapsing of applications for visas and permits under former Act to be treated as immigration instructions for applications to which section 412 applies
     
-*   (1) On and from the commencement of [section 404][498] of this Act, Government policy published under [section 13A(2)][655] of the former Act and relating to rules and criteria for the lapsing of applications (as described in [section 13BB][653] of the former Act) that is in force immediately before that commencement must be treated as immigration instructions certified under [section 24][30] of this Act for the purposes of determining whether an application made before the commencement of section 404 has lapsed, and this Act applies accordingly with any necessary modifications.
+*   (1) On and from the commencement of [section 404][506] of this Act, Government policy published under [section 13A(2)][667] of the former Act and relating to rules and criteria for the lapsing of applications (as described in [section 13BB][665] of the former Act) that is in force immediately before that commencement must be treated as immigration instructions certified under [section 24][31] of this Act for the purposes of determining whether an application made before the commencement of section 404 has lapsed, and this Act applies accordingly with any necessary modifications.
     
-    (2) Without limiting subsection (1), any relevant time periods specified in the immigration instructions must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act.
+    (2) Without limiting subsection (1), any relevant time periods specified in the immigration instructions must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act.
 
 #### General instructions of chief executive
 
 ##### 411 General instructions given under section 13BA of former Act treated as general instructions under section 26(4) of this Act
     
-*   On and from the commencement of [section 404][498] of this Act, general instructions given by the chief executive under [section 13BA][656] of the former Act that are in force immediately before that commencement---
+*   On and from the commencement of [section 404][506] of this Act, general instructions given by the chief executive under [section 13BA][668] of the former Act that are in force immediately before that commencement---
         
-    *   (a) must be treated for the purposes of this Act as general instructions given by the chief executive under [section 26(4)][33] of this Act, and this Act applies accordingly with any necessary modifications; and
+    *   (a) must be treated for the purposes of this Act as general instructions given by the chief executive under [section 26(4)][34] of this Act, and this Act applies accordingly with any necessary modifications; and
     
     *   (b) continue in force according to their general tenor, subject to any necessary modifications.
     
@@ -11571,7 +12037,7 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 412 Existing applications for visas and permits
     
-*   (1) An application for a visa or a permit of a type described in the first column of the following table (the _former type_) that was made under the former Act but not determined before the commencement of [section 404][498] of this Act must be treated as an application made under this Act for a visa of the type described opposite the former type in the second column of the following table:
+*   (1) An application for a visa or a permit of a type described in the first column of the following table (the _former type_) that was made under the former Act but not determined before the commencement of [section 404][506] of this Act must be treated as an application made under this Act for a visa of the type described opposite the former type in the second column of the following table:
     
     **Application under former Act** **To be treated as application under this Act**
     
@@ -11593,11 +12059,11 @@ Repeals, transitional provisions, saving provisions, and related matters
     
     Transit visa Transit visa
     
-    Temporary permit to which section 27A of the former Act applied Limited visa to which [section 83][104] applies
+    Temporary permit to which section 27A of the former Act applied Limited visa to which [section 83][105] applies
     
-    Returning resident visa by person other than New Zealand citizen Variation of travel conditions of resident visa under [section 51][64]
+    Returning resident visa by person other than New Zealand citizen Variation of travel conditions of resident visa under [section 51][65]
     
-    Returning resident visa by New Zealand citizen Endorsement under [section 384(4)][470]
+    Returning resident visa by New Zealand citizen Endorsement under [section 384(4)][478]
     
     (2) For the purposes of subsection (1), this Act applies accordingly with any necessary modifications, unless---
         
@@ -11605,49 +12071,49 @@ Repeals, transitional provisions, saving provisions, and related matters
     
     *   (b) any special direction directs otherwise; or
     
-    *   (c) any regulations made under [section 472][581] or immigration instructions made under [section 473][582] require otherwise.
+    *   (c) any regulations made under [section 472][589] or immigration instructions made under [section 473][590] require otherwise.
     
     
 
 ##### 413 Expressions of interest in residence under section 13D of former Act
     
-*   (1) An expression of interest submitted under [section 13D][677] of the former Act before the commencement of [section 404][498] of this Act but in relation to which no decision has been made as at the date of that commencement on whether to issue an invitation to apply must be treated as if it were an expression of interest made under [section 92][115] of this Act for a visa of the appropriate type (as set out in the table in [section 412(1)][510]), and this Act applies accordingly, with any necessary modifications.
+*   (1) An expression of interest submitted under [section 13D][690] of the former Act before the commencement of [section 404][506] of this Act but in relation to which no decision has been made as at the date of that commencement on whether to issue an invitation to apply must be treated as if it were an expression of interest made under [section 92][116] of this Act for a visa of the appropriate type (as set out in the table in [section 412(1)][518]), and this Act applies accordingly, with any necessary modifications.
     
-    (2) For the purposes of determining whether an expression of interest to which subsection (1) applies is no longer current, the period of time concerned must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act.
+    (2) For the purposes of determining whether an expression of interest to which subsection (1) applies is no longer current, the period of time concerned must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act.
 
 ##### 414 Invitations to apply for residence under section 13E of former Act
     
-*   (1) An invitation to apply under section 13E of the former Act that was made before the commencement of [section 404][498] of this Act and is current immediately before that commencement must be treated as if it were an invitation to apply made under [section 94][117] of this Act for a visa of the appropriate type (as set out in the table in [section 412(1)][510]), and this Act applies accordingly, with any necessary modifications.
+*   (1) An invitation to apply under section 13E of the former Act that was made before the commencement of [section 404][506] of this Act and is current immediately before that commencement must be treated as if it were an invitation to apply made under [section 94][118] of this Act for a visa of the appropriate type (as set out in the table in [section 412(1)][518]), and this Act applies accordingly, with any necessary modifications.
     
-    (2) For the purposes of determining whether a residence application has been made in the stipulated time frame following the issue of an invitation to apply to which subsection (1) applies, the period of time must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act.
+    (2) For the purposes of determining whether a residence application has been made in the stipulated time frame following the issue of an invitation to apply to which subsection (1) applies, the period of time must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act.
 
 #### Existing visas and permits
 
 ##### 415 Holder of visa or permit under former Act deemed to be holder of visa and (if applicable) granted entry permission under this Act
     
-*   (1) A person who, immediately before the commencement of [section 404][498] of this Act, held a visa or permit under the former Act (or was deemed to hold a permit under the former Act) of a type described in the first column of [Schedule 5][595] is deemed on and from the commencement of section 404 of this Act to hold a visa under this Act of the corresponding type described in the second column of Schedule 5 for the duration and subject to the conditions (if any) described in the second column, and this Act applies accordingly with any necessary modifications.
+*   (1) A person who, immediately before the commencement of [section 404][506] of this Act, held a visa or permit under the former Act (or was deemed to hold a permit under the former Act) of a type described in the first column of [Schedule 5][603] is deemed on and from the commencement of section 404 of this Act to hold a visa under this Act of the corresponding type described in the second column of Schedule 5 for the duration and subject to the conditions (if any) described in the second column, and this Act applies accordingly with any necessary modifications.
     
-    (2) In addition, a person who, immediately before the commencement of [section 404][498],--- 
+    (2) In addition, a person who, immediately before the commencement of [section 404][506],---
         
     *   (a) held a permit under the former Act (or was deemed to hold a permit under the former Act) is deemed on and from that commencement to have been granted entry permission under this Act, and this Act applies accordingly with any necessary modifications:
     
-    *   (b) held a visa (other than a transit visa) and a permit under the former Act is deemed on and from that commencement to hold under this Act a single visa (as determined under [Schedule 5][595]) for the duration and subject to the conditions (if any) of the visa and the permit combined, and this Act applies accordingly with any necessary modifications.
+    *   (b) held a visa (other than a transit visa) and a permit under the former Act is deemed on and from that commencement to hold under this Act a single visa (as determined under [Schedule 5][603]) for the duration and subject to the conditions (if any) of the visa and the permit combined, and this Act applies accordingly with any necessary modifications.
     
     (3) Without limiting subsection (1) or (2),---
         
-    *   (a) the period of currency of a visa deemed to be held under this Act by this section must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act:
+    *   (a) the period of currency of a visa deemed to be held under this Act by this section must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act:
     
-    *   (b) the transit period for any person deemed to hold a transit visa under subsection (1) must be calculated including any time that has elapsed in which the person was in New Zealand before the commencement of [section 404][498] of this Act.
+    *   (b) the transit period for any person deemed to hold a transit visa under subsection (1) must be calculated including any time that has elapsed in which the person was in New Zealand before the commencement of [section 404][506] of this Act.
     
-    (4) Nothing in this section applies to a person to whom [section 432][534] or [438][541] of this Act applies.
+    (4) Nothing in this section applies to a person to whom [section 432][542] or [438][549] of this Act applies.
 
 ##### 416 Returning resident's visa held by New Zealand citizen under former Act indication of entitlement
     
-*   Despite [section 404][498] of this Act, an immigration officer may treat a returning resident's visa (within the meaning of [section 2(1)][681] of the former Act) held by a New Zealand citizen as an indication that the person is entitled to travel and enter New Zealand as a New Zealand citizen until the expiry of the passport in which the visa is endorsed.
+*   Despite [section 404][506] of this Act, an immigration officer may treat a returning resident's visa (within the meaning of [section 2(1)][694] of the former Act) held by a New Zealand citizen as an indication that the person is entitled to travel and enter New Zealand as a New Zealand citizen until the expiry of the passport in which the visa is endorsed.
 
 ##### 417 Persons exempt from holding permit under former Act deemed to be holders of temporary visa or resident visa
     
-*   (1) A person in New Zealand who immediately before the commencement of [section 404][498] of this Act was exempt from the requirement to hold a permit under [section 11][646] of the former Act is deemed, on and from that commencement, to---
+*   (1) A person in New Zealand who immediately before the commencement of [section 404][506] of this Act was exempt from the requirement to hold a permit under [section 11][658] of the former Act is deemed, on and from that commencement, to---
         
     *   (a) hold a temporary visa under this Act---
             
@@ -11657,15 +12123,15 @@ Repeals, transitional provisions, saving provisions, and related matters
         
         
     
-    *   (b) have been granted entry permission on the basis of the temporary visa. 
+    *   (b) have been granted entry permission on the basis of the temporary visa.
     
-    (2) A person in New Zealand who immediately before the commencement of [section 404][498] of this Act was exempt from the requirement to hold a permit by special direction under [section 12(2)][628] of the former Act is deemed, on and from that commencement, to---
+    (2) A person in New Zealand who immediately before the commencement of [section 404][506] of this Act was exempt from the requirement to hold a permit by special direction under [section 12(2)][640] of the former Act is deemed, on and from that commencement, to---
         
     *   (a) hold a temporary visa under this Act for the period (calculated including any time that has elapsed before the commencement of section 404 of this Act) and subject to the conditions (if any) specified in the special direction; and
     
-    *   (b) have been granted entry permission on the basis of the temporary visa. 
+    *   (b) have been granted entry permission on the basis of the temporary visa.
     
-    (3) A person in New Zealand who immediately before the commencement of [section 404][498] of this Act was exempt from the requirement to hold a permit under [Part 2][844] of Schedule 1 of the Immigration Regulations 1999 is deemed on and from that commencement to hold a resident visa under this Act allowing stay in New Zealand only.
+    (3) A person in New Zealand who immediately before the commencement of [section 404][506] of this Act was exempt from the requirement to hold a permit under [Part 2][868] of Schedule 1 of the Immigration Regulations 1999 is deemed on and from that commencement to hold a resident visa under this Act allowing stay in New Zealand only.
     
     (4) For the purposes of this section, this Act applies accordingly with any necessary modifications.
 
@@ -11673,45 +12139,45 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 418 Responsibilities of carrier, and person in charge, of commercial craft before it departs from another country to travel to New Zealand
     
-*   (1) On and from the commencement of [section 404][498] of this Act, a notification to a carrier, or a person in charge, of a commercial craft by the chief executive under [section 125AA(1)][680] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as a notification by the chief executive under [section 96(1)][121] of this Act, and this Act applies accordingly with any necessary modifications.
+*   (1) On and from the commencement of [section 404][506] of this Act, a notification to a carrier, or a person in charge, of a commercial craft by the chief executive under [section 125AA(1)][693] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as a notification by the chief executive under [section 96(1)][122] of this Act, and this Act applies accordingly with any necessary modifications.
     
-    (2) On and from the commencement of [section 404][498] of this Act, an exemption under [section 125AA(3)][680] of the former Act that is in force immediately before that commencement continues in force for the purposes of [section 96(3)][121] of this Act, according to its tenor, until revoked by the chief executive.
+    (2) On and from the commencement of [section 404][506] of this Act, an exemption under [section 125AA(3)][693] of the former Act that is in force immediately before that commencement continues in force for the purposes of [section 96(3)][122] of this Act, according to its tenor, until revoked by the chief executive.
     
-    (3) On and from the commencement of [section 404][498] of this Act, a system approved under [section 125AA(5)][680] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as an approved system (within the meaning of [section 4][5] of this Act), and this Act applies accordingly with any necessary modifications.
+    (3) On and from the commencement of [section 404][506] of this Act, a system approved under [section 125AA(5)][693] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as an approved system (within the meaning of [section 4][5] of this Act), and this Act applies accordingly with any necessary modifications.
 
 ##### 419 Decision by chief executive about person boarding craft for purpose of travelling to New Zealand
     
-*   (1) On and from the commencement of [section 404][498] of this Act, a decision made by the chief executive under [section 125AB][682] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as a decision made by the chief executive under [section 97(1)][122] of this Act, and this Act applies accordingly with any necessary modifications.
+*   (1) On and from the commencement of [section 404][506] of this Act, a decision made by the chief executive under [section 125AB][695] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as a decision made by the chief executive under [section 97(1)][123] of this Act, and this Act applies accordingly with any necessary modifications.
     
-    (2) On and from the commencement of [section 404][498] of this Act, a notification to a carrier, or a person in charge, of a commercial craft by the chief executive under [section 125AB(2)][682] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as a notification by the chief executive under [section 97(2)][122] of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) On and from the commencement of [section 404][506] of this Act, a notification to a carrier, or a person in charge, of a commercial craft by the chief executive under [section 125AB(2)][695] of the former Act that is in force immediately before that commencement must be treated for the purposes of this Act as a notification by the chief executive under [section 97(2)][123] of this Act, and this Act applies accordingly with any necessary modifications.
 
 ##### 420 Information requirements for carrier, and person in charge, of commercial craft
     
-*   (1) This section applies to a person to whom [section 125AA][680] of the former Act applies if, before the commencement of [section 404][498] of this Act,---
+*   (1) This section applies to a person to whom [section 125AA][693] of the former Act applies if, before the commencement of [section 404][506] of this Act,---
         
-    *   (a) the chief executive made a request to the person for information under [section 125AD][686] of the former Act; and
+    *   (a) the chief executive made a request to the person for information under [section 125AD][699] of the former Act; and
     
     *   (b) the 24-hour period referred to in subsection (4) of that section had not expired.
     
-    (2) The obligations under [section 125AD(3) and (4)][686] of the former Act continue to apply to the person until the end of the 24-hour period referred to in subsection (1)(b) as if those provisions had not been repealed by [section 404][498] of this Act.
+    (2) The obligations under [section 125AD(3) and (4)][699] of the former Act continue to apply to the person until the end of the 24-hour period referred to in subsection (1)(b) as if those provisions had not been repealed by [section 404][506] of this Act.
     
-    (3) To avoid doubt, the chief executive may also request information from the person under [section 102][128] of this Act if the craft in fact arrives after the commencement of [section 404][498] of this Act.
+    (3) To avoid doubt, the chief executive may also request information from the person under [section 102][129] of this Act if the craft in fact arrives after the commencement of [section 404][506] of this Act.
 
 ##### 421 Reporting obligations of carriers, and persons in charge, of craft leaving New Zealand
     
 *   (1) This section applies in respect of a person if,---
         
-    *   (a) before the commencement of [section 404][498] of this Act, the person was on board a craft when it arrived in New Zealand; and
+    *   (a) before the commencement of [section 404][506] of this Act, the person was on board a craft when it arrived in New Zealand; and
     
-    *   (b) on arrival, the person was exempt under [section 11(1)(c), (d), or (e)][646] of the former Act from the requirement to hold a permit to be in New Zealand; and
+    *   (b) on arrival, the person was exempt under [section 11(1)(c), (d), or (e)][658] of the former Act from the requirement to hold a permit to be in New Zealand; and
     
     *   (c) on or after the commencement of section 404 of this Act, the person is not aboard the craft when the craft is leaving New Zealand.
     
-    (2) The obligations of the carrier, and the person in charge, of the craft to report to an immigration officer under [section 118(1)(c)][148] of this Act apply in respect of a person described in subsection (1) as if the person were a member of the crew or a person of a class prescribed for the purposes of that section, as the case may be.
+    (2) The obligations of the carrier, and the person in charge, of the craft to report to an immigration officer under [section 118(1)(c)][149] of this Act apply in respect of a person described in subsection (1) as if the person were a member of the crew or a person of a class prescribed for the purposes of that section, as the case may be.
 
 ##### 422 Obligations of carriers of craft leaving New Zealand to provide passage
     
-*   (1) This section applies to a carrier of a craft if, before the commencement of [section 404][498] of this Act,---
+*   (1) This section applies to a carrier of a craft if, before the commencement of [section 404][506] of this Act,---
         
     *   (a) a person,---
             
@@ -11723,63 +12189,63 @@ Repeals, transitional provisions, saving provisions, and related matters
     
     *   (b) the person has not left New Zealand.
     
-    (2) On and from the commencement of [section 404][498] of this Act, the obligations of the carrier under [section 118(2)(a)][148] of this Act to provide passage from New Zealand at the cost in all respects of the carrier, or to bear the cost of passage from New Zealand by any other carrier, apply in respect of the person as if the person were a person described in section 118(2)(a) of this Act.
+    (2) On and from the commencement of [section 404][506] of this Act, the obligations of the carrier under [section 118(2)(a)][149] of this Act to provide passage from New Zealand at the cost in all respects of the carrier, or to bear the cost of passage from New Zealand by any other carrier, apply in respect of the person as if the person were a person described in section 118(2)(a) of this Act.
     
-    (3) On and from the commencement of [section 404][498] of this Act, the obligations of the carrier under [section 118(2)(b)][148] of this Act to pay all costs incurred by the Crown in detaining and maintaining a person pending the person's departure from New Zealand apply in respect of a person described in subsection (1) as if the person were a person described in section 118(2)(a) of this Act, and regardless of whether the Crown incurred the costs before or after the commencement of section 404 of this Act.
+    (3) On and from the commencement of [section 404][506] of this Act, the obligations of the carrier under [section 118(2)(b)][149] of this Act to pay all costs incurred by the Crown in detaining and maintaining a person pending the person's departure from New Zealand apply in respect of a person described in subsection (1) as if the person were a person described in section 118(2)(a) of this Act, and regardless of whether the Crown incurred the costs before or after the commencement of section 404 of this Act.
 
 ##### 423 Responsibilities of carrier, and person in charge, of craft en route to New Zealand
     
-*   (1) On and from the commencement of [section 404][498] of this Act, a demand by an immigration officer under [section 125(2)(c)][685] of the former Act for a list giving specified details that has not been complied with as at the date of that commencement must be treated for the purposes of this Act as a demand by an immigration officer for a list under [section 101(2)(a)][127] of this Act.
+*   (1) On and from the commencement of [section 404][506] of this Act, a demand by an immigration officer under [section 125(2)(c)][698] of the former Act for a list giving specified details that has not been complied with as at the date of that commencement must be treated for the purposes of this Act as a demand by an immigration officer for a list under [section 101(2)(a)][128] of this Act.
     
-    (2) On and from the commencement of [section 404][498] of this Act, information required by an immigration officer under [section 125(2)(d)][685] of the former Act that has not been provided as at the date of that commencement must be treated for the purposes of this Act as information required by an immigration officer under [section 101(2)(b)][127] of this Act.
+    (2) On and from the commencement of [section 404][506] of this Act, information required by an immigration officer under [section 125(2)(d)][698] of the former Act that has not been provided as at the date of that commencement must be treated for the purposes of this Act as information required by an immigration officer under [section 101(2)(b)][128] of this Act.
     
-    (3) For the purposes of this section, if a craft arrives, or is to arrive, in New Zealand otherwise than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, the prescribed time referred to in [section 101(1)(c)][127] of this Act must be calculated including any time that has elapsed between the arrival of the craft and the commencement of [section 404][498] of this Act.
+    (3) For the purposes of this section, if a craft arrives, or is to arrive, in New Zealand otherwise than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, the prescribed time referred to in [section 101(1)(c)][128] of this Act must be calculated including any time that has elapsed between the arrival of the craft and the commencement of [section 404][506] of this Act.
 
 #### Refugee and protection status
 
 ##### 424 Person recognised as refugee under former Act treated as recognised as refugee under this Act
     
-*   On and from the commencement of [section 404][498], any person who was recognised as a refugee in New Zealand under [Part 6A][619] of the former Act, or before 1 October 1999, or any person who was recognised as a refugee outside New Zealand and travelled to New Zealand as a mandated refugee, must be treated for the purposes of this Act as a person recognised as a refugee in New Zealand under this Act, and this Act applies accordingly with any necessary modifications.
+*   On and from the commencement of [section 404][506], any person who was recognised as a refugee in New Zealand under [Part 6A][628] of the former Act, or before 1 October 1999, or any person who was recognised as a refugee outside New Zealand and travelled to New Zealand as a mandated refugee, must be treated for the purposes of this Act as a person recognised as a refugee in New Zealand under this Act, and this Act applies accordingly with any necessary modifications.
 
 ##### 425 Existing claim for recognition as refugee to be determined under this Act (other than subsequent claims made under former Act not yet accepted for consideration)
     
-*   (1) On and from the commencement of [section 404][498] of this Act, a claim by a person for recognition as a refugee that was made but not yet determined before the date of that commencement must be treated as if it had been made under [Part 5][156] of this Act, and this Act applies accordingly, with any necessary modifications.
+*   (1) On and from the commencement of [section 404][506] of this Act, a claim by a person for recognition as a refugee that was made but not yet determined before the date of that commencement must be treated as if it had been made under [Part 5][157] of this Act, and this Act applies accordingly, with any necessary modifications.
     
-    (2) Subsection (3) applies to a subsequent claim (within the meaning of [section 129B][620] of the former Act) for recognition as a refugee---
+    (2) Subsection (3) applies to a subsequent claim (within the meaning of [section 129B][629] of the former Act) for recognition as a refugee---
         
-    *   (a) made, and accepted for consideration, before the commencement of [section 404][498] of this Act; but
+    *   (a) made, and accepted for consideration, before the commencement of [section 404][506] of this Act; but
     
     *   (b) not determined before the date of that commencement.
     
-    (3) The subsequent claim must be determined as if it were a claim accepted for consideration under [Part 5][156] of this Act, and this Act applies accordingly, with any necessary modifications.
+    (3) The subsequent claim must be determined as if it were a claim accepted for consideration under [Part 5][157] of this Act, and this Act applies accordingly, with any necessary modifications.
     
-    (4) To avoid doubt, an appeal against a decision to decline recognition as a refugee (or a protected person) by a person to whom this section applies must be made under [section 194][241] of this Act.
+    (4) To avoid doubt, an appeal against a decision to decline recognition as a refugee (or a protected person) by a person to whom this section applies must be made under [section 194][243] of this Act.
     
-    (5) Nothing in this section applies to a subsequent claim (within the meaning of [section 129B][620] of the former Act) by a person for recognition as a refugee that was made before the commencement of [section 404][498] of this Act, if the decision as to whether to consider the claim has not yet been determined.
+    (5) Nothing in this section applies to a subsequent claim (within the meaning of [section 129B][629] of the former Act) by a person for recognition as a refugee that was made before the commencement of [section 404][506] of this Act, if the decision as to whether to consider the claim has not yet been determined.
 
 ##### 426 Existing subsequent claim for recognition as refugee made under former Act not yet accepted for consideration
     
-*   (1) Subsection (2) applies to a subsequent claim (within the meaning of [section 129B][620] of the former Act) for recognition as a refugee if---
+*   (1) Subsection (2) applies to a subsequent claim (within the meaning of [section 129B][629] of the former Act) for recognition as a refugee if---
         
-    *   (a) the claim was made before the commencement of [section 404][498] of this Act; but
+    *   (a) the claim was made before the commencement of [section 404][506] of this Act; but
     
     *   (b) no decision has been made before that commencement as to whether to consider the claim.
     
-    (2) Despite [section 404][498] of this Act, [section 129J][700] of the former Act continues to apply to the subsequent claim but,---
+    (2) Despite [section 404][506] of this Act, [section 129J][715] of the former Act continues to apply to the subsequent claim but,---
         
     *   (a) references in that section to a refugee status officer must be read as references to a refugee and protection officer; and
     
-    *   (b) if the claim is accepted for consideration, it must be determined as if it were a claim accepted for consideration under [Part 5][156] of this Act, and this Act applies accordingly, with any necessary modifications; and
+    *   (b) if the claim is accepted for consideration, it must be determined as if it were a claim accepted for consideration under [Part 5][157] of this Act, and this Act applies accordingly, with any necessary modifications; and
     
-    *   (c) if the claim is not accepted for consideration, any appeal by the person must be made in accordance with the provisions of the former Act, but the Tribunal must consider the appeal in accordance with [section 449(4)][555] of this Act.
+    *   (c) if the claim is not accepted for consideration, any appeal by the person must be made in accordance with the provisions of the former Act, but the Tribunal must consider the appeal in accordance with [section 449(4)][563] of this Act.
     
     
 
 ##### 427 Acts or things done by refugee status officer for purposes of claim (including subsequent claim) under former Act not required to be repeated by refugee and protection officer
     
-*   For the purposes of determining a claim (including a subsequent claim), or determining whether to consider a subsequent claim, to which [section 425][526] or [426][527] of this Act applies, a refugee and protection officer---
+*   For the purposes of determining a claim (including a subsequent claim), or determining whether to consider a subsequent claim, to which [section 425][534] or [426][535] of this Act applies, a refugee and protection officer---
         
-    *   (a) is not required to repeat any act or thing already done by a refugee status officer in relation to the claim before the commencement of [section 404][498] of this Act; and
+    *   (a) is not required to repeat any act or thing already done by a refugee status officer in relation to the claim before the commencement of [section 404][506] of this Act; and
     
     *   (b) may rely on any act or thing done by a refugee status officer in relation to the claim before the commencement of section 404 of this Act, including any finding of fact, or decision or determination made, by the refugee status officer.
     
@@ -11789,9 +12255,9 @@ Repeals, transitional provisions, saving provisions, and related matters
     
 *   (1) This section applies to a person if the person is not a New Zealand citizen and,---
         
-    *   (a) before the commencement of [section 404][498] of this Act,---
+    *   (a) before the commencement of [section 404][506] of this Act,---
             
-        *   (i) a refugee status officer had determined under [section 129L(1)(b)][695] of the former Act that the person should cease to be recognised as a refugee and the person did not appeal against that determination within the time set out in [section 129O(3)][721] of the former Act (calculated including any time that has elapsed before the commencement of section 404 of this Act); or
+        *   (i) a refugee status officer had determined under [section 129L(1)(b)][709] of the former Act that the person should cease to be recognised as a refugee and the person did not appeal against that determination within the time set out in [section 129O(3)][737] of the former Act (calculated including any time that has elapsed before the commencement of section 404 of this Act); or
         
         *   (ii) a refugee status officer had determined under section 129L(1)(c) of the former Act that the person should be excluded from the protection of the Refugee Convention and the person did not appeal against that determination within the time set out in section 129O(3) of the former Act (calculated including any time that has elapsed before the commencement of section 404 of this Act); or
         
@@ -11799,27 +12265,27 @@ Repeals, transitional provisions, saving provisions, and related matters
         
         
     
-    *   (b) after the commencement of section 404 of this Act, the person ceases to be recognised as a refugee, or his or her refugee status is cancelled, by the Tribunal in accordance with [section 448(5)][554] of this Act.
+    *   (b) after the commencement of section 404 of this Act, the person ceases to be recognised as a refugee, or his or her refugee status is cancelled, by the Tribunal in accordance with [section 448(5)][562] of this Act.
     
-    (2) On and from the commencement of [section 404][498] of this Act or the date on which subsection (1)(b) applies, as the case may be, the person must be treated as being liable for deportation under [section 162][200] of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) On and from the commencement of [section 404][506] of this Act or the date on which subsection (1)(b) applies, as the case may be, the person must be treated as being liable for deportation under [section 162][202] of this Act, and this Act applies accordingly with any necessary modifications.
     
-    (3) Despite subsection (2), the Tribunal must not determine whether the person is currently a refugee or a protected person in terms of [sections 129][163] to [131][165] of this Act, if the person appeals against his or her liability for deportation.
+    (3) Despite subsection (2), the Tribunal must not determine whether the person is currently a refugee or a protected person in terms of [sections 129][164] to [131][166] of this Act, if the person appeals against his or her liability for deportation.
 
 ##### 429 Persons subject to section 129U of former Act
     
-*   A person who, immediately before the commencement of [section 404][498] of this Act, was a person to whom [section 129U][703] of the former Act applied must, on and from the date of that commencement, be treated as a person to whom [section 150][186] of this Act applies, and this Act applies accordingly with any necessary modifications.
+*   A person who, immediately before the commencement of [section 404][506] of this Act, was a person to whom [section 129U][719] of the former Act applied must, on and from the date of that commencement, be treated as a person to whom [section 150][188] of this Act applies, and this Act applies accordingly with any necessary modifications.
 
 #### Turnaround, revocation of permits, removal, deportation, and monitoring
 
 ##### 430 Person subject to section 128 or 128B of former Act
     
-*   (1) A person who, immediately before the commencement of [section 404][498] of this Act, was a person to whom [section 128][691] or [128B][845] of the former Act applied must be treated on and from the date of that commencement as a person to whom [section 115][144] of this Act applies, and this Act applies accordingly with any necessary modifications.
+*   (1) A person who, immediately before the commencement of [section 404][506] of this Act, was a person to whom [section 128][704] or [128B][869] of the former Act applied must be treated on and from the date of that commencement as a person to whom [section 115][145] of this Act applies, and this Act applies accordingly with any necessary modifications.
     
     (2) Without limiting subsection (1),---
         
-    *   (a) in determining (under [section 116][145] of this Act) whether [section 115][144] of this Act ceases to apply to the person, any period of time must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act:
+    *   (a) in determining (under [section 116][146] of this Act) whether [section 115][145] of this Act ceases to apply to the person, any period of time must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act:
     
-    *   (b) a person must be treated as if he or she were arrested and detained under [Part 9][372] of this Act if he or she was already detained on the commencement of section 404 of this Act.
+    *   (b) a person must be treated as if he or she were arrested and detained under [Part 9][374] of this Act if he or she was already detained on the commencement of section 404 of this Act.
     
     
 
@@ -11827,17 +12293,17 @@ Repeals, transitional provisions, saving provisions, and related matters
     
 *   (1) Subsection (2) applies to a person if he or she---
         
-    *   (a) was exempt from the requirement to hold a permit under [Part 2][844] of Schedule 1 of the Immigration Regulations 1999; and
+    *   (a) was exempt from the requirement to hold a permit under [Part 2][868] of Schedule 1 of the Immigration Regulations 1999; and
     
-    *   (b) was outside New Zealand immediately before the commencement of [section 404][498] of this Act; and
+    *   (b) was outside New Zealand immediately before the commencement of [section 404][506] of this Act; and
     
     *   (c) on or after the commencement of section 404 of this Act is granted a residence class visa following a continuous period of absence from New Zealand of less than 5 years.
     
-    (2) For the purposes of [section 161][199] of this Act, the person first holds a residence class visa on the date he or she first entered New Zealand and was exempt from the requirement to hold a permit under [Part 2][844] of Schedule 1 of the Immigration Regulations 1999\.
+    (2) For the purposes of [section 161][201] of this Act, the person first holds a residence class visa on the date he or she first entered New Zealand and was exempt from the requirement to hold a permit under [Part 2][868] of Schedule 1 of the Immigration Regulations 1999\.
 
 ##### 432 Revocation of permits, removal orders, and deportation orders
     
-*   (1) Despite [section 404][498] of this Act, the former Act continues to apply in relation to a person---
+*   (1) Despite [section 404][506] of this Act, the former Act continues to apply in relation to a person---
         
     *   (a) whose visa or permit has been revoked by the Minister under the former Act, whether or not notice of the revocation has been served on the person; or
     
@@ -11847,15 +12313,15 @@ Repeals, transitional provisions, saving provisions, and related matters
     
     (2) Subsection (1) is subject to subsections (3) to (6).
     
-    (3) [Section 446][552] of this Act applies to the completion of any appeal lodged by a person to whom subsection (1) applies if the appeal---
+    (3) [Section 446][560] of this Act applies to the completion of any appeal lodged by a person to whom subsection (1) applies if the appeal---
         
     *   (a) was lodged with an appeals body (other than the Refugee Status Appeals Authority) under the former Act; but
     
-    *   (b) was not determined before the commencement of [section 404][498] of this Act.
+    *   (b) was not determined before the commencement of [section 404][506] of this Act.
     
-    (4) [Section 447][553] of this Act applies to any appeal by a person to whom subsection (1) applies if---
+    (4) [Section 447][561] of this Act applies to any appeal by a person to whom subsection (1) applies if---
         
-    *   (a) immediately before the commencement of [section 404][498] of this Act, the person was eligible to appeal to an appeals body (other than the Refugee Status Appeals Authority) under the former Act; and
+    *   (a) immediately before the commencement of [section 404][506] of this Act, the person was eligible to appeal to an appeals body (other than the Refugee Status Appeals Authority) under the former Act; and
     
     *   (b) the person has not yet lodged an appeal.
     
@@ -11863,9 +12329,9 @@ Repeals, transitional provisions, saving provisions, and related matters
         
     *   (a) the removal or deportation must be effected as if it were a deportation being executed under this Act, and this Act applies accordingly with any necessary modifications; and
     
-    *   (b) the person is liable for arrest and detention under [Part 9][372] of this Act pending his or her deportation being executed.
+    *   (b) the person is liable for arrest and detention under [Part 9][374] of this Act pending his or her deportation being executed.
     
-    (6) For the purposes of this section, any time periods specified in the former Act must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act.
+    (6) For the purposes of this section, any time periods specified in the former Act must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act.
 
 ##### 433 Permit granted prior to commencement of section 404 as result of administrative error
     
@@ -11873,11 +12339,11 @@ Repeals, transitional provisions, saving provisions, and related matters
         
     *   (a) a person has been granted a permit under the former Act; and
     
-    *   (b) an immigration officer determines, whether before or after the commencement of [section 404][498] of this Act, that the permit was granted as a result of an administrative error (within the meaning of [section 19][624] or [32][625] of the former Act); and
+    *   (b) an immigration officer determines, whether before or after the commencement of [section 404][506] of this Act, that the permit was granted as a result of an administrative error (within the meaning of [section 19][635] or [32][636] of the former Act); and
     
     *   (c) the permit was not revoked in the arrival hall, or office of the Department, in which the error was made and discovered, before the commencement of section 404 of this Act.
     
-    (2) The Minister or an immigration officer may, in his or her absolute discretion, and, instead of determining that the person is liable for deportation under [section 155][193] of this Act,---
+    (2) The Minister or an immigration officer may, in his or her absolute discretion, and, instead of determining that the person is liable for deportation under [section 155][195] of this Act,---
         
     *   (a) offer the person a visa of a class and type, and subject to the conditions, that the Minister or the immigration officer considers appropriate; and
     
@@ -11887,15 +12353,15 @@ Repeals, transitional provisions, saving provisions, and related matters
         
     *   (a) a person has been granted a permit under the former Act; and
     
-    *   (b) an immigration officer determines that the permit was granted as a result of an administrative error (within the meaning of [section 19][624] or [32][625] of the former Act); and
+    *   (b) an immigration officer determines that the permit was granted as a result of an administrative error (within the meaning of [section 19][635] or [32][636] of the former Act); and
     
-    *   (c) the person to whom the permit was granted is, after the commencement of [section 404][498] of this Act, still in the arrival hall or office of the Department in which the permit was granted.
+    *   (c) the person to whom the permit was granted is, after the commencement of [section 404][506] of this Act, still in the arrival hall or office of the Department in which the permit was granted.
     
-    (4) An immigration officer may, under [section 67][81] of this Act, cancel the permit (being the visa deemed to be held by the person under [section 415][514] of this Act) as if it were granted under this Act, and this Act applies accordingly with any necessary modifications.
+    (4) An immigration officer may, under [section 67][82] of this Act, cancel the permit (being the visa deemed to be held by the person under [section 415][522] of this Act) as if it were granted under this Act, and this Act applies accordingly with any necessary modifications.
     
     (5) In this section, _arrival hall_ means both---
         
-    *   (a) an arrival hall within the meaning of [section 2(1)][681] of the former Act; and
+    *   (a) an arrival hall within the meaning of [section 2(1)][694] of the former Act; and
     
     *   (b) an immigration control area within the meaning of [section 4][5] of this Act.
     
@@ -11903,61 +12369,61 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 434 Liability for deportation in respect of visa deemed to be held under section 415 or 417 of this Act
     
-*   (1) A person may become liable for deportation under [Part 6][189] of this Act in respect of a visa deemed to be held by the person under [section 415][514] or [417][516] of this Act whether the reason for the liability arose before or after the person was deemed to hold the visa.
+*   (1) A person may become liable for deportation under [Part 6][191] of this Act in respect of a visa deemed to be held by the person under [section 415][522] or [417][524] of this Act whether the reason for the liability arose before or after the person was deemed to hold the visa.
     
-    (2) For the purposes of subsection (1), any time periods specified in this Act that relate to liability for deportation must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act during which the person held the permit or visa, or was subject to the exemption, that corresponds with the visa deemed to be held under this Act.
+    (2) For the purposes of subsection (1), any time periods specified in this Act that relate to liability for deportation must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act during which the person held the permit or visa, or was subject to the exemption, that corresponds with the visa deemed to be held under this Act.
 
 ##### 435 Person released on conditions under former Act
     
-*   (1) This section applies if, immediately before the commencement of [section 404][498] of this Act, a person has been released on conditions under the former Act.
+*   (1) This section applies if, immediately before the commencement of [section 404][506] of this Act, a person has been released on conditions under the former Act.
     
     (2) The person remains subject to the relevant conditions, and the former Act continues to apply in respect of that person's release, until---
         
     *   (a) the person leaves New Zealand; or
     
-    *   (b) in the case of a person to whom [section 128AA][846] of the former Act applies, the date on which the order for the person's conditional release from custody expires, or the occurrence of the event upon which it expires.
+    *   (b) in the case of a person to whom [section 128AA][870] of the former Act applies, the date on which the order for the person's conditional release from custody expires, or the occurrence of the event upon which it expires.
     
     (3) If subsection (2)(b) applies, the person must deliver himself or herself to an immigration officer at the location stated in the order, and an immigration officer may---
         
-    *   (a) detain the person under [section 312][379] of this Act or cause the person to be arrested and detained under [section 313][380] of this Act, and this Act then applies accordingly; or
+    *   (a) detain the person under [section 312][381] of this Act or cause the person to be arrested and detained under [section 313][382] of this Act, and this Act then applies accordingly; or
     
-    *   (b) agree to residence and reporting requirements under [section 315][382] of this Act, and this Act then applies accordingly.
+    *   (b) agree to residence and reporting requirements under [section 315][384] of this Act, and this Act then applies accordingly.
     
-    (4) If subsection (2)(b) applies and the person fails to deliver himself or herself to an immigration officer as required, the person may be detained under [section 312][379] of this Act or arrested and detained under [section 313][380] of this Act, and this Act then applies accordingly.
+    (4) If subsection (2)(b) applies and the person fails to deliver himself or herself to an immigration officer as required, the person may be detained under [section 312][381] of this Act or arrested and detained under [section 313][382] of this Act, and this Act then applies accordingly.
     
-    (5) To avoid doubt, an immigration officer may apply for a warrant of commitment or a further warrant of commitment under [section 316][384] of this Act in respect of a person to whom this section applies.
+    (5) To avoid doubt, an immigration officer may apply for a warrant of commitment or a further warrant of commitment under [section 316][386] of this Act in respect of a person to whom this section applies.
 
 ##### 436 Person subject to residence and reporting requirements under former Act
     
-*   (1) Any residence and reporting requirements imposed on a person under [section 98][777] of the former Act that were in force immediately before the commencement of [section 404][498] of this Act remain in force and, subject to subsection (2), the former Act continues to apply as if it had not been repealed in respect of those requirements, until the person leaves New Zealand.
+*   (1) Any residence and reporting requirements imposed on a person under [section 98][796] of the former Act that were in force immediately before the commencement of [section 404][506] of this Act remain in force and, subject to subsection (2), the former Act continues to apply as if it had not been repealed in respect of those requirements, until the person leaves New Zealand.
     
-    (2) If [section 98(4)][777] of the former Act applies to a person, the person may be detained under [section 312][379] of this Act or arrested and detained under [section 313][380] of this Act as if the person were a person who had failed to comply with an agreement made under [section 315][382] of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) If [section 98(4)][796] of the former Act applies to a person, the person may be detained under [section 312][381] of this Act or arrested and detained under [section 313][382] of this Act as if the person were a person who had failed to comply with an agreement made under [section 315][384] of this Act, and this Act applies accordingly with any necessary modifications.
     
-    (3) To avoid doubt, an immigration officer may apply for a warrant of commitment or further warrant of commitment under [section 316][384] of this Act in respect of a person to whom this section applies.
+    (3) To avoid doubt, an immigration officer may apply for a warrant of commitment or further warrant of commitment under [section 316][386] of this Act in respect of a person to whom this section applies.
 
 ##### 437 No deportation liability if deportation prohibited under former Act
     
-*   Nothing in this Act authorises the deportation of a person if the deportation of the person was prohibited under [section 93][847] of the former Act.
+*   Nothing in this Act authorises the deportation of a person if the deportation of the person was prohibited under [section 93][871] of the former Act.
 
 #### Persons subject to Part 4A of former Act
 
 ##### 438 Person subject to Part 4A of former Act
     
-*   (1) Despite [section 404][498] of this Act, [Part 4A][848] of the former Act continues to apply to a person in relation to whom a security risk certificate has been provided to the Minister under [section 114D][849] of the former Act.
+*   (1) Despite [section 404][506] of this Act, [Part 4A][872] of the former Act continues to apply to a person in relation to whom a security risk certificate has been provided to the Minister under [section 114D][873] of the former Act.
     
-    (2) If the Minister directs the chief executive to act in reliance on a certificate under [section 114K(1)][850] of the former Act, and the direction requires the making of a removal order or deportation order in respect of the person, the order must be made under the former Act. However,---
+    (2) If the Minister directs the chief executive to act in reliance on a certificate under [section 114K(1)][874] of the former Act, and the direction requires the making of a removal order or deportation order in respect of the person, the order must be made under the former Act. However,---
         
     *   (a) the removal or deportation of the person must be effected as if it were a deportation being executed under this Act, and this Act applies accordingly with any necessary modifications; and
     
-    *   (b) [section 439][543] of this Act applies pending the person's deportation being executed.
+    *   (b) [section 439][551] of this Act applies pending the person's deportation being executed.
     
-    (3) If the Minister directs the chief executive to act in reliance on a certificate under [section 114K(1)][850] of the former Act, and the direction requires the revocation or cancellation of any visa the person holds, the revocation or the cancellation must be made under the former Act. However,---
+    (3) If the Minister directs the chief executive to act in reliance on a certificate under [section 114K(1)][874] of the former Act, and the direction requires the revocation or cancellation of any visa the person holds, the revocation or the cancellation must be made under the former Act. However,---
         
     *   (a) the removal or deportation of the person must be effected as if it were a deportation being executed under this Act, and this Act applies accordingly with any necessary modifications; and
     
-    *   (b) [section 439][543] of this Act applies pending the person's deportation being executed.
+    *   (b) [section 439][551] of this Act applies pending the person's deportation being executed.
     
-    (4) However, if [section 114L][851] of the former Act applies, the resumption of the person's immigration processing must be undertaken in accordance with this Act, including in accordance with any applicable provisions of this Part.
+    (4) However, if [section 114L][875] of the former Act applies, the resumption of the person's immigration processing must be undertaken in accordance with this Act, including in accordance with any applicable provisions of this Part.
     
     (5) This section overrides any provision to the contrary in this Part.
 
@@ -11965,23 +12431,23 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 439 Certain persons deemed liable for arrest and detention under Part 9
     
-*   (1) On and from the commencement of [section 404][498] of this Act, the following persons must be treated as being liable for arrest and detention under this Act:
+*   (1) On and from the commencement of [section 404][506] of this Act, the following persons must be treated as being liable for arrest and detention under this Act:
         
-    *   (a) a person subject to a removal order under [section 54][641] of the former Act:
+    *   (a) a person subject to a removal order under [section 54][653] of the former Act:
     
-    *   (b) a person subject to a deportation order under [section 72][707], [73][708], [91][706], or [92][852] of the former Act.
+    *   (b) a person subject to a deportation order under [section 72][723], [73][724], [91][722], or [92][876] of the former Act.
     
     (2) Without limiting subsection (1),---
         
-    *   (a) a warrant under [Part 9][372] of this Act must be obtained at the appropriate time in order to continue to detain a person who---
+    *   (a) a warrant under [Part 9][374] of this Act must be obtained at the appropriate time in order to continue to detain a person who---
             
-        *   (i) immediately before the commencement of [section 404][498] of this Act is detained without warrant; and
+        *   (i) immediately before the commencement of [section 404][506] of this Act is detained without warrant; and
         
         *   (ii) is a person described in subsection (1):
         
         
     
-    *   (b) a warrant under [Part 9][372] of this Act (being a further warrant under that Part) must be obtained at the appropriate time in order to continue to detain a person who--- 
+    *   (b) a warrant under [Part 9][374] of this Act (being a further warrant under that Part) must be obtained at the appropriate time in order to continue to detain a person who---
             
         *   (i) immediately before the commencement of section 404 of this Act is detained under warrant; and
         
@@ -11989,47 +12455,47 @@ Repeals, transitional provisions, saving provisions, and related matters
         
         
     
-    *   (c) a person described in subsection (1) but not yet detained may be detained under [section 312][379] of this Act or arrested and detained under [section 313][380] of this Act and, if applicable, an application for a warrant of commitment may be made under [section 316][384] of this Act in relation to the person.
+    *   (c) a person described in subsection (1) but not yet detained may be detained under [section 312][381] of this Act or arrested and detained under [section 313][382] of this Act and, if applicable, an application for a warrant of commitment may be made under [section 316][386] of this Act in relation to the person.
     
-    (3) This section is subject to [sections 440 to 443][544] of this Act.
+    (3) This section is subject to [sections 440 to 443][552] of this Act.
 
 ##### 440 Detention of person liable for turnaround
     
-*   [Section 117][146] of this Act applies only in respect of persons to whom [section 115][144] of this Act first applies after the commencement of [section 404][498] of this Act.
+*   [Section 117][147] of this Act applies only in respect of persons to whom [section 115][145] of this Act first applies after the commencement of [section 404][506] of this Act.
 
 ##### 441 Detention of person beyond 6 months
     
-*   [Section 323][391] of this Act applies to a person regardless of whether the person was initially detained before or after the commencement of [section 404][498] of this Act.
+*   [Section 323][398] of this Act applies to a person regardless of whether the person was initially detained before or after the commencement of [section 404][506] of this Act.
 
 ##### 442 Detention under former Act without warrant
     
-*   (1) This section applies to a person who, immediately before the commencement of [section 404][498] of this Act, was being detained without warrant under the former Act.
+*   (1) This section applies to a person who, immediately before the commencement of [section 404][506] of this Act, was being detained without warrant under the former Act.
     
-    (2) Despite [section 404][498] of this Act, the person may continue to be detained without warrant under the relevant section of the former Act for the time period allowed under that section (calculated including any time that has elapsed before the commencement of section 404 of this Act). However, any application for a warrant of commitment authorising the continued or further detention of the person must be made under [section 316][384] of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) Despite [section 404][506] of this Act, the person may continue to be detained without warrant under the relevant section of the former Act for the time period allowed under that section (calculated including any time that has elapsed before the commencement of section 404 of this Act). However, any application for a warrant of commitment authorising the continued or further detention of the person must be made under [section 316][386] of this Act, and this Act applies accordingly with any necessary modifications.
 
 ##### 443 Detention under former Act with warrant
     
-*   (1) This section applies to a person who, immediately before the commencement of [section 404][498] of this Act, was being detained under a warrant of commitment issued under the former Act.
+*   (1) This section applies to a person who, immediately before the commencement of [section 404][506] of this Act, was being detained under a warrant of commitment issued under the former Act.
     
-    (2) Despite [section 404][498] of this Act, a warrant of commitment issued under the former Act remains in force for the time period for which it was issued in respect of the person (calculated including any time that has elapsed before the commencement of section 404 of this Act). However, any application for a further warrant of commitment must be made under [section 316][384] of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) Despite [section 404][506] of this Act, a warrant of commitment issued under the former Act remains in force for the time period for which it was issued in respect of the person (calculated including any time that has elapsed before the commencement of section 404 of this Act). However, any application for a further warrant of commitment must be made under [section 316][386] of this Act, and this Act applies accordingly with any necessary modifications.
 
 #### Reconsiderations
 
 ##### 444 Reconsiderations not determined before former Act repealed
     
-*   (1) An application for the reconsideration of a decision to decline an application for a further temporary permit under [section 31][716] of the former Act not determined before the commencement of [section 404][498] of this Act must be determined in accordance with section 31 of the former Act.
+*   (1) An application for the reconsideration of a decision to decline an application for a further temporary permit under [section 31][732] of the former Act not determined before the commencement of [section 404][506] of this Act must be determined in accordance with section 31 of the former Act.
     
-    (2) If, after reconsideration, the Minister or an immigration officer grants a visa to the person to whom the application relates, the person must be granted the equivalent visa, and entry permission, under this Act as determined under [section 412][510] of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) If, after reconsideration, the Minister or an immigration officer grants a visa to the person to whom the application relates, the person must be granted the equivalent visa, and entry permission, under this Act as determined under [section 412][518] of this Act, and this Act applies accordingly with any necessary modifications.
 
 ##### 445 Persons eligible for reconsideration before former Act repealed
     
 *   (1) Subsection (2) applies to a person if---
         
-    *   (a) the person was, immediately before the commencement of [section 404][498] of this Act, eligible to apply for reconsideration of a decision to decline his or her application for a further temporary permit under [section 31][716] of the former Act; and
+    *   (a) the person was, immediately before the commencement of [section 404][506] of this Act, eligible to apply for reconsideration of a decision to decline his or her application for a further temporary permit under [section 31][732] of the former Act; and
     
     *   (b) the person is lawfully in New Zealand.
     
-    (2) The person may apply for reconsideration of the decision as if the application were an application for reconsideration of a decision to decline a temporary visa under [section 185][228] of this Act, and this Act applies accordingly with any necessary modifications.
+    (2) The person may apply for reconsideration of the decision as if the application were an application for reconsideration of a decision to decline a temporary visa under [section 185][230] of this Act, and this Act applies accordingly with any necessary modifications.
 
 #### Appeals and other matters in relation to appellate bodies
 
@@ -12039,13 +12505,13 @@ Repeals, transitional provisions, saving provisions, and related matters
         
     *   (a) lodged with an appeals body under the former Act (except an appeal lodged with the Refugee Status Appeals Authority); but
     
-    *   (b) not determined before the commencement of [section 404][498] of this Act.
+    *   (b) not determined before the commencement of [section 404][506] of this Act.
     
-    (2) Despite [section 404][498] of this Act,---
+    (2) Despite [section 404][506] of this Act,---
         
     *   (a) an appeal must be determined by the Tribunal in accordance with the relevant provisions of the former Act; and
     
-    *   (b) for that purpose, the Tribunal is deemed to have all the necessary powers and functions of the appeals body under the former Act. 
+    *   (b) for that purpose, the Tribunal is deemed to have all the necessary powers and functions of the appeals body under the former Act.
     
     (3) If the appeal has already been set down for hearing by the Deportation Review Tribunal, the matter must be completed by its 3 members (and, for this purpose only, the members are deemed to be members of the Tribunal and each have all the powers and functions of a member of the Tribunal that are necessary to determine the appeal).
     
@@ -12071,11 +12537,11 @@ Repeals, transitional provisions, saving provisions, and related matters
     
 *   (1) This section applies to any appeal by a person who,---
         
-    *   (a) immediately before the commencement of [section 404][498] of this Act, was eligible to appeal to an appeals body (other than the Refugee Status Appeals Authority) under the former Act; and
+    *   (a) immediately before the commencement of [section 404][506] of this Act, was eligible to appeal to an appeals body (other than the Refugee Status Appeals Authority) under the former Act; and
     
     *   (b) has not yet lodged an appeal.
     
-    (2) Despite [section 404][498] of this Act,---
+    (2) Despite [section 404][506] of this Act,---
         
     *   (a) the person must lodge the appeal in accordance with the time frames specified for an appeal of that type under the former Act; and
     
@@ -12097,9 +12563,9 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 448 Appeals and matters not determined by Refugee Status Appeals Authority before former Act repealed
     
-*   (1) Subsection (2) applies to the completion of an appeal lodged with the Refugee Status Appeals Authority under the former Act but not determined before the commencement of [section 404][498] of this Act.
+*   (1) Subsection (2) applies to the completion of an appeal lodged with the Refugee Status Appeals Authority under the former Act but not determined before the commencement of [section 404][506] of this Act.
     
-    (2) The Tribunal must determine the appeal as if it were an appeal to the Tribunal under [section 194(1)][241] or [195][242] of this Act, as the case may be.
+    (2) The Tribunal must determine the appeal as if it were an appeal to the Tribunal under [section 194(1)][243] or [195][244] of this Act, as the case may be.
     
     (3) Subsection (2) applies---
         
@@ -12107,9 +12573,9 @@ Repeals, transitional provisions, saving provisions, and related matters
     
     *   (b) subject to subsections (7) and (8).
     
-    (4) Subsection (5) applies to an application by a refugee status officer under [section 129L(1)(f)][695] of the former Act to the Refugee Status Appeals Authority made but not determined before the commencement of [section 404][498] of this Act.
+    (4) Subsection (5) applies to an application by a refugee status officer under [section 129L(1)(f)][709] of the former Act to the Refugee Status Appeals Authority made but not determined before the commencement of [section 404][506] of this Act.
     
-    (5) The Tribunal must determine the application as if it were an application to the Tribunal under [section 144][179] or [147][182] of this Act, as the case may be.
+    (5) The Tribunal must determine the application as if it were an application to the Tribunal under [section 144][181] or [147][184] of this Act, as the case may be.
     
     (6) Subsection (5) applies---
         
@@ -12117,9 +12583,9 @@ Repeals, transitional provisions, saving provisions, and related matters
     
     *   (b) subject to subsections (7) and (8).
     
-    (7) Subsection (8) applies if the appeal is in respect of a decision by a refugee status officer to refuse to consider a subsequent claim (within the meaning of [section 129B][620] of the former Act) on the grounds that the circumstances in the person concerned's home country have not changed to such an extent that the subsequent claim is based on significantly different grounds to a previous claim.
+    (7) Subsection (8) applies if the appeal is in respect of a decision by a refugee status officer to refuse to consider a subsequent claim (within the meaning of [section 129B][629] of the former Act) on the grounds that the circumstances in the person concerned's home country have not changed to such an extent that the subsequent claim is based on significantly different grounds to a previous claim.
     
-    (8) The Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal, in addition to its powers and functions under this Act, is deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under [section 194(1)(c)][241] of this Act.
+    (8) The Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal, in addition to its powers and functions under this Act, is deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under [section 194(1)(c)][243] of this Act.
     
     (9) If an appeal to which this section applies has already been allocated to a member of the Refugee Status Appeals Authority before the commencement of this section, the matter must be completed by that member and, for this purpose only, the member is deemed to be a member of the Tribunal and has all the powers and functions of a member of the Tribunal that are necessary to determine the appeal.
     
@@ -12129,23 +12595,23 @@ Repeals, transitional provisions, saving provisions, and related matters
     
 *   (1) Subsection (2) applies to a person if,---
         
-    *   (a) immediately before the commencement of [section 404][498] of this Act, the person was eligible to appeal to the Refugee Status Appeals Authority under the former Act; and
+    *   (a) immediately before the commencement of [section 404][506] of this Act, the person was eligible to appeal to the Refugee Status Appeals Authority under the former Act; and
     
     *   (b) the person exercises the right on or after the date of that commencement.
     
-    (2) Despite [section 404][498] of this Act, the person's appeal must be---
+    (2) Despite [section 404][506] of this Act, the person's appeal must be---
         
     *   (a) lodged in accordance with the time frames specified for an appeal of that type under the former Act; but
     
-    *   (b) determined by the Tribunal as if it were an appeal to the Tribunal under [section 194(1)][241] or [195][242], as the case may be.
+    *   (b) determined by the Tribunal as if it were an appeal to the Tribunal under [section 194(1)][243] or [195][244], as the case may be.
     
     (3) Subsection (2) is subject to subsection (4).
     
-    (4) If the person's appeal is in respect of a decision by a refugee status officer to refuse to consider a subsequent claim (within the meaning of [section 129B][620] of the former Act) on the grounds that the circumstances in the person's home country have not changed to such an extent that the subsequent claim is based on significantly different grounds to a previous claim, the Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal is, in addition to its powers and functions under this Act, deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under [section 194(1)(c)][241] of this Act.
+    (4) If the person's appeal is in respect of a decision by a refugee status officer to refuse to consider a subsequent claim (within the meaning of [section 129B][629] of the former Act) on the grounds that the circumstances in the person's home country have not changed to such an extent that the subsequent claim is based on significantly different grounds to a previous claim, the Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal is, in addition to its powers and functions under this Act, deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under [section 194(1)(c)][243] of this Act.
 
 ##### 450 Appeals not determined by court before former Act repealed
     
-*   (1) Despite [section 404][498] of this Act, an appeal lodged under the former Act with a court but not determined before the commencement of that section must be determined by the court in accordance with the relevant provisions of the former Act.
+*   (1) Despite [section 404][506] of this Act, an appeal lodged under the former Act with a court but not determined before the commencement of that section must be determined by the court in accordance with the relevant provisions of the former Act.
     
     (2) On completion of the appeal, the court may do 1 or more of the following things:
         
@@ -12159,17 +12625,17 @@ Repeals, transitional provisions, saving provisions, and related matters
         
     *   (a) the removal or deportation must be effected as if it were a deportation being executed under this Act, and this Act applies accordingly with any necessary modifications; and
     
-    *   (b) the person is liable for arrest and detention under [Part 9][372] of this Act pending his or her deportation being executed.
+    *   (b) the person is liable for arrest and detention under [Part 9][374] of this Act pending his or her deportation being executed.
     
     (4) If the matter is remitted to the Tribunal, the Tribunal must deal with it in the same way as an appeal or matter of the same type is dealt with under this Part.
     
-    (5) For the purposes of this section, any time periods specified in the former Act must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act.
+    (5) For the purposes of this section, any time periods specified in the former Act must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act.
 
 ##### 451 Persons eligible to appeal to court before former Act repealed
     
-*   (1) Subsection (2) applies if, immediately before the commencement of [section 404][498] of this Act, a person was eligible to appeal under the former Act to a court.
+*   (1) Subsection (2) applies if, immediately before the commencement of [section 404][506] of this Act, a person was eligible to appeal under the former Act to a court.
     
-    (2) Despite [section 404][498] of this Act, the person's appeal must be---
+    (2) Despite [section 404][506] of this Act, the person's appeal must be---
         
     *   (a) lodged in accordance with the time frames specified for an appeal of that type under the former Act; and
     
@@ -12187,7 +12653,7 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 452 Appeals against, or review proceedings in respect of, Tribunal decisions under this subpart to be made under Part 7
     
-*   Any appeal against, or review proceedings in respect of, a decision of the Tribunal made under this subpart must be made in accordance with [Part 7][224] of this Act.
+*   Any appeal against, or review proceedings in respect of, a decision of the Tribunal made under this subpart must be made in accordance with [Part 7][226] of this Act.
 
 ##### 453 No new appeal rights created
     
@@ -12199,11 +12665,11 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 454 Arrangements under former Act for disclosure of immigration information
     
-*   (1) This section applies if, before the commencement of [section 404][498] of this Act, the chief executive or the Secretary of Labour has made an arrangement or entered into an agreement with any department, organisation, or other entity or person under any of [sections 141AA][773], [141AC][750], [141AE][758], or [141A][769] of the former Act in respect of the disclosure of information, and the arrangement is in force immediately before that commencement.
+*   (1) This section applies if, before the commencement of [section 404][506] of this Act, the chief executive or the Secretary of Labour has made an arrangement or entered into an agreement with any department, organisation, or other entity or person under any of [sections 141AA][791], [141AC][768], [141AE][776], or [141A][787] of the former Act in respect of the disclosure of information, and the arrangement is in force immediately before that commencement.
     
     (2) An arrangement described in subsection (1)---
         
-    *   (a) must be treated as an arrangement between the chief executive and the chief executive (or other appropriate person as the case may be) of the department of State, organisation, entity, or person made under the relevant provisions of [sections 294 to 306][359] of this Act, and this Act applies accordingly with any necessary modifications; and
+    *   (a) must be treated as an arrangement between the chief executive and the chief executive (or other appropriate person as the case may be) of the department of State, organisation, entity, or person made under the relevant provisions of [sections 294 to 306][361] of this Act, and this Act applies accordingly with any necessary modifications; and
     
     *   (b) continues in force according to its general tenor, subject to any necessary modifications.
     
@@ -12213,13 +12679,13 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 455 Offences
     
-*   (1) A person commits an offence against this Act under [section 343(1)(d)][418] whether the condition concerned was---
+*   (1) A person commits an offence against this Act under [section 343(1)(d)][426] whether the condition concerned was---
         
     *   (a) imposed (or deemed to be imposed) under this Act; or
     
     *   (b) imposed under the former Act (whether as a requirement or a condition).
     
-    (2) A person commits an offence against [section 344(a)][419] of this Act whether the document or information was required by an immigration officer---
+    (2) A person commits an offence against [section 344(a)][427] of this Act whether the document or information was required by an immigration officer---
         
     *   (a) under this Act; or
     
@@ -12229,67 +12695,67 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 456 Offences by employers
     
-*   (1) Subsection (2) applies if, before the commencement of [section 404][498] of this Act,---
+*   (1) Subsection (2) applies if, before the commencement of [section 404][506] of this Act,---
         
     *   (a) an employer allowed a person to undertake employment in the employer's service; and
     
-    *   (b) at the time that the person commenced employment in the employer's service, the employer had a reasonable excuse under [section 39(1B)][798] of the former Act for allowing the person to undertake that employment; and
+    *   (b) at the time that the person commenced employment in the employer's service, the employer had a reasonable excuse under [section 39(1B)][821] of the former Act for allowing the person to undertake that employment; and
     
     *   (c) the person is not entitled under this Act to undertake that employment.
     
-    (2) No employer to whom subsection (1) applies is liable for an offence against [section 350(1)(b)][425] of this Act in respect of any period after the commencement of [section 404][498] of this Act during which the employer continues to employ the employee, unless, at any time in the preceding 12 months, the employer has been informed in writing by an immigration officer (under either Act) that the employee is not entitled to undertake that employment.
+    (2) No employer to whom subsection (1) applies is liable for an offence against [section 350(1)(b)][433] of this Act in respect of any period after the commencement of [section 404][506] of this Act during which the employer continues to employ the employee, unless, at any time in the preceding 12 months, the employer has been informed in writing by an immigration officer (under either Act) that the employee is not entitled to undertake that employment.
 
 ##### 457 Evidence in proceedings
     
-*   In any proceedings relating to any matter under this Act, whether before the Tribunal or a court, a certificate signed by an immigration officer and containing a statement in relation to any person to the effect of 1 or more of the matters described in [section 143(1)][811] of the former Act is deemed to be proof of the truth of the statement, in the absence of proof to the contrary established on the balance of probabilities.
+*   In any proceedings relating to any matter under this Act, whether before the Tribunal or a court, a certificate signed by an immigration officer and containing a statement in relation to any person to the effect of 1 or more of the matters described in [section 143(1)][834] of the former Act is deemed to be proof of the truth of the statement, in the absence of proof to the contrary established on the balance of probabilities.
 
 ##### 458 Classified information
     
-*   A decision may be made relying on classified information in accordance with this Act regardless of whether the application, claim, or other matter concerned arose before or after the commencement of [section 404][498] of this Act.
+*   A decision may be made relying on classified information in accordance with this Act regardless of whether the application, claim, or other matter concerned arose before or after the commencement of [section 404][506] of this Act.
 
 #### Miscellaneous provisions
 
 ##### 459 Children to have responsible adult to represent their interests
     
-*   For the purposes of this Act, any person who has been nominated as a responsible adult for a minor under [section 141B][815] of the former Act must be treated as a person who has been nominated as a responsible adult under [section 375][457] of this Act, and this Act applies accordingly with any necessary modifications.
+*   For the purposes of this Act, any person who has been nominated as a responsible adult for a minor under [section 141B][838] of the former Act must be treated as a person who has been nominated as a responsible adult under [section 375][465] of this Act, and this Act applies accordingly with any necessary modifications.
 
 ##### 460 Special directions
     
-*   (1) A special direction made in accordance with [section 130][634] of the former Act and in force immediately before the commencement of [section 404][498] of this Act remains in force on and from the date of that commencement according to its tenor and with any necessary modifications.
+*   (1) A special direction made in accordance with [section 130][646] of the former Act and in force immediately before the commencement of [section 404][506] of this Act remains in force on and from the date of that commencement according to its tenor and with any necessary modifications.
     
-    (2) A special direction saved by subsection (1) may be revoked or amended by further special direction given under [section 378][461] of this Act.
+    (2) A special direction saved by subsection (1) may be revoked or amended by further special direction given under [section 378][469] of this Act.
 
 ##### 461 Delegation of powers of Minister
     
-*   (1) A delegation made by the Minister under [section 131][818] of the former Act and in force immediately before the commencement of [section 404][498] of this Act remains in force on and from the date of that commencement according to its tenor and with any necessary modifications.
+*   (1) A delegation made by the Minister under [section 131][841] of the former Act and in force immediately before the commencement of [section 404][506] of this Act remains in force on and from the date of that commencement according to its tenor and with any necessary modifications.
     
-    (2) A delegation saved by subsection (1) may be revoked by the Minister under [section 380(3)][464] of this Act.
+    (2) A delegation saved by subsection (1) may be revoked by the Minister under [section 380(3)][472] of this Act.
 
 ##### 462 Immigration officers
     
-*   (1) On and from the commencement of [section 404][498] of this Act, immigration officers designated under [section 133][823] of the former Act, including customs officers and other persons designated as immigration officers in accordance with paragraphs (b) and (c) of the definition of immigration officer in [section 2(1)][681] of the former Act, must be treated as immigration officers designated under [section 388][477] of this Act who are authorised to exercise visa and entry permission decision-making powers.
+*   (1) On and from the commencement of [section 404][506] of this Act, immigration officers designated under [section 133][846] of the former Act, including customs officers and other persons designated as immigration officers in accordance with paragraphs (b) and (c) of the definition of immigration officer in [section 2(1)][694] of the former Act, must be treated as immigration officers designated under [section 388][485] of this Act who are authorised to exercise visa and entry permission decision-making powers.
     
-    (2) On and from the commencement of [section 404][498] of this Act, visa officers designated in accordance with paragraphs (b) and (c) of the definition of visa officer in [section 2(1)][681] of the former Act must be treated as immigration officers designated under [section 388][477] of this Act who are authorised to make decisions relating to visas outside New Zealand.
+    (2) On and from the commencement of [section 404][506] of this Act, visa officers designated in accordance with paragraphs (b) and (c) of the definition of visa officer in [section 2(1)][694] of the former Act must be treated as immigration officers designated under [section 388][485] of this Act who are authorised to make decisions relating to visas outside New Zealand.
     
-    (3) A designation deemed to continue by subsection (1) or (2) may be revoked by the chief executive under [section 391][480] of this Act.
+    (3) A designation deemed to continue by subsection (1) or (2) may be revoked by the chief executive under [section 391][488] of this Act.
     
     (4) Subsections (1) and (2) are subject to any condition imposed on the designation under the former Act.
 
 ##### 463 Immigration officers who may make and cancel removal orders under former Act
     
-*   (1) Despite [section 462(1)][571] of this Act, an immigration officer designated by the chief executive for the purpose of [section 54][641] of the former Act---
+*   (1) Despite [section 462(1)][579] of this Act, an immigration officer designated by the chief executive for the purpose of [section 54][653] of the former Act---
         
     *   (a) may continue to make removal orders under that section if the making of an order is necessary for the purposes of completing any matter to which this Part applies; and
     
-    *   (b) may continue to cancel removal orders under [section 58][633] of the former Act if the cancelling of an order is necessary for the purposes of completing any matter to which this Part applies.
+    *   (b) may continue to cancel removal orders under [section 58][645] of the former Act if the cancelling of an order is necessary for the purposes of completing any matter to which this Part applies.
     
-    (2) To avoid doubt, this section applies to an immigration officer only if his or her designation is current immediately before the commencement of [section 404][498] of this Act.
+    (2) To avoid doubt, this section applies to an immigration officer only if his or her designation is current immediately before the commencement of [section 404][506] of this Act.
 
 ##### 464 Acts or things done by immigration officer under former Act not required to be repeated
     
 *   For the purposes of completing any matter to which this Part applies, an immigration officer---
         
-    *   (a) is not required to repeat any act or thing already done by an immigration officer in relation to the matter before the commencement of [section 404][498] of this Act; and
+    *   (a) is not required to repeat any act or thing already done by an immigration officer in relation to the matter before the commencement of [section 404][506] of this Act; and
     
     *   (b) may rely on any act or thing done by an immigration officer in relation to the matter before the commencement of section 404 of this Act, including any finding of fact, or decision or determination made, by an immigration officer.
     
@@ -12297,45 +12763,45 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 465 Exercise of certain powers by customs officers
     
-*   (1) Despite [section 2(2)][2] of this Act, a customs officer undertaking immigration duties may exercise the powers in [sections 283][344], [284][345], and [285][346] of this Act on and from the date referred to in [section 2(4)][2] of this Act until the date those sections are brought into force, and sections 283, 284, and 285 of this Act apply accordingly, as if references to an immigration officer were references to a customs officer.
+*   (1) Despite [section 2(2)][2] of this Act, a customs officer undertaking immigration duties may exercise the powers in [sections 283][346], [284][347], and [285][348] of this Act on and from the date referred to in [section 2(4)][2] of this Act until the date those sections are brought into force, and sections 283, 284, and 285 of this Act apply accordingly, as if references to an immigration officer were references to a customs officer.
     
-    (2) It is sufficient compliance with [section 327(1)(b)][397] of this Act if the officer exercising powers in accordance with this section produces his or her identity card or other means of identification provided for in [section 7][853] of the Customs and Excise Act 1996\.
+    (2) It is sufficient compliance with [section 327(1)(b)][405] of this Act if the officer exercising powers in accordance with this section produces his or her identity card or other means of identification provided for in [section 7][877] of the Customs and Excise Act 1996\.
 
 ##### 466 Exercise of certain powers by Police
     
-*   Despite [section 2(2)][2] of this Act, a constable may exercise the powers in [sections 278][337] and [283 to 287][344] of this Act on and from the date referred to in [section 2(4)][2] of this Act, and this Act applies accordingly as if a reference to an immigration officer were a reference to a constable.
+*   Despite [section 2(2)][2] of this Act, a constable may exercise the powers in [sections 278][339] and [283 to 287][346] of this Act on and from the date referred to in [section 2(4)][2] of this Act, and this Act applies accordingly as if a reference to an immigration officer were a reference to a constable.
 
 ##### 467 Refugee status officers
     
-*   (1) On and from the commencement of [section 404][498] of this Act, a person designated as a refugee status officer under [section 129E][854] of the former Act must be treated as a refugee and protection officer designated under [section 390][479] of this Act.
+*   (1) On and from the commencement of [section 404][506] of this Act, a person designated as a refugee status officer under [section 129E][878] of the former Act must be treated as a refugee and protection officer designated under [section 390][487] of this Act.
     
-    (2) A designation deemed to continue by subsection (1) may be revoked by the chief executive under [section 391][480] of this Act.
+    (2) A designation deemed to continue by subsection (1) may be revoked by the chief executive under [section 391][488] of this Act.
 
 ##### 468 Forms
     
-*   On and from the commencement of [section 404][498] of this Act, a form approved under [section 132][855] of the former Act for which the approval is current immediately before the date of that commencement must be treated as if it had been approved under [section 381][466] of this Act, and must be read with the necessary modifications.
+*   On and from the commencement of [section 404][506] of this Act, a form approved under [section 132][879] of the former Act for which the approval is current immediately before the date of that commencement must be treated as if it had been approved under [section 381][474] of this Act, and must be read with the necessary modifications.
 
 ##### 469 Bonds imposed under former Act
     
-*   (1) On and from the commencement of [section 404][498] of this Act, a bond imposed under the former Act may be refunded or forfeited in accordance with [section 397][488] of this Act as if it had been imposed under this Act, and this Act applies accordingly with any necessary modifications.
+*   (1) On and from the commencement of [section 404][506] of this Act, a bond imposed under the former Act may be refunded or forfeited in accordance with [section 397][496] of this Act as if it had been imposed under this Act, and this Act applies accordingly with any necessary modifications.
     
-    (2) The period during which a person must apply for a refund of the bond under [section 397(3)][488] of this Act must be calculated including any time that has elapsed before the commencement of [section 404][498] of this Act.
+    (2) The period during which a person must apply for a refund of the bond under [section 397(3)][496] of this Act must be calculated including any time that has elapsed before the commencement of [section 404][506] of this Act.
 
 ##### 470 Sponsorship under former Act
     
 *   (1) This section applies to an undertaking if---
         
-    *   (a) a person has supplied a written undertaking relating to the employment, accommodation, maintenance, or repatriation of an applicant for a visa or permit under the former Act (whether under [section 28][856] of that Act or otherwise); and
+    *   (a) a person has supplied a written undertaking relating to the employment, accommodation, maintenance, or repatriation of an applicant for a visa or permit under the former Act (whether under [section 28][880] of that Act or otherwise); and
     
-    *   (b) the undertaking is in force immediately before the commencement of [section 404][498] of this Act.
+    *   (b) the undertaking is in force immediately before the commencement of [section 404][506] of this Act.
     
-    (2) The undertaking must be treated as an undertaking to which [section 55][68] of this Act applies, and this Act applies accordingly with any necessary modifications.
+    (2) The undertaking must be treated as an undertaking to which [section 55][69] of this Act applies, and this Act applies accordingly with any necessary modifications.
     
-    (3) Despite subsection (2), nothing in [section 55(3)(b)][68] applies to an undertaking to which this section applies.
+    (3) Despite subsection (2), nothing in [section 55(3)(b)][69] applies to an undertaking to which this section applies.
 
 ##### 471 Files of appeals bodies
     
-*   As from the commencement of this section, the department of State referred to in [clause 5][622] of Schedule 2 is the owner of, and responsible for, all the files of the appeals bodies. 
+*   As from the commencement of this section, the department of State referred to in [clause 5][633] of Schedule 2 is the owner of, and responsible for, all the files of the appeals bodies.
 
 ##### 472 Transitional regulations
     
@@ -12359,7 +12825,7 @@ Repeals, transitional provisions, saving provisions, and related matters
 
 ##### 473 Transitional immigration instructions
     
-*   Immigration instructions certified under [section 22][28] of this Act may make any appropriate or necessary provision for facilitating or ensuring an orderly transition from the application of provisions and Government immigration policy (including Government residence policy) under the former Act to the application of the provisions of this Act and immigration instructions made under it.
+*   Immigration instructions certified under [section 22][29] of this Act may make any appropriate or necessary provision for facilitating or ensuring an orderly transition from the application of provisions and Government immigration policy (including Government residence policy) under the former Act to the application of the provisions of this Act and immigration instructions made under it.
 
 #### Exercise of certain powers and functions before commencement of certain provisions of this Act
 
@@ -12367,68 +12833,68 @@ Repeals, transitional provisions, saving provisions, and related matters
     
 *   (1) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the Governor-General may exercise the following powers under the following sections of this Act:
         
-    *   (a) to appoint members, including the chair, to the Tribunal under [section 219(2) and (3)][270]:
+    *   (a) to appoint members, including the chair, to the Tribunal under [section 219(2) and (3)][272]:
     
-    *   (b) to make regulations under [sections 400 to 403][492]:
+    *   (b) to make regulations under [sections 400 to 403][500]:
     
-    *   (c) to make transitional regulations under [section 472][581].
+    *   (c) to make transitional regulations under [section 472][589].
     
-    (2) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the Prime Minister may designate an agency under [section 264(1)][320] of this Act.
+    (2) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the Prime Minister may designate an agency under [section 264(1)][322] of this Act.
     
     (3) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the Minister may exercise or perform the following powers or functions under the following sections of this Act:
         
-    *   (a) to certify immigration instructions under [section 22(1)][28] and to classify them under [section 23(1)][29]:
+    *   (a) to certify immigration instructions under [section 22(1)][29] and to classify them under [section 23(1)][30]:
     
     *   (b) to certify transitional immigration instructions under section 22(1) and to classify them under section 23(1):
     
-    *   (c) to delegate his or her powers to immigration officers under [section 380(1)][464].
+    *   (c) to delegate his or her powers to immigration officers under [section 380(1)][472].
     
     (4) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chief executive may exercise or perform the following powers or functions under the following sections of this Act:
         
-    *   (a) to publish immigration instructions under [section 25(1)][31]:
+    *   (a) to publish immigration instructions under [section 25(1)][32]:
     
-    *   (b) to give general instructions under [section 26(4)][33]:
+    *   (b) to give general instructions under [section 26(4)][34]:
     
-    *   (c) to make arrangements with the relevant persons for the disclosure or exchange of information under [sections 294 to 306][359]:
+    *   (c) to make arrangements with the relevant persons for the disclosure or exchange of information under [sections 294 to 306][361]:
     
-    *   (d) to approve premises for the purpose of detention under [section 330][401]:
+    *   (d) to approve premises for the purpose of detention under [section 330][409]:
     
-    *   (e) to designate certain places as immigration control areas under [section 382(1)][467]:
+    *   (e) to designate certain places as immigration control areas under [section 382(1)][475]:
     
-    *   (f) to designate under [section 383][468] places outside New Zealand where an immigration officer may grant entry permission to a person before the person travels to New Zealand:
+    *   (f) to designate under [section 383][476] places outside New Zealand where an immigration officer may grant entry permission to a person before the person travels to New Zealand:
     
-    *   (g) to approve and issue forms under [section 381(1)][466]:
+    *   (g) to approve and issue forms under [section 381(1)][474]:
     
-    *   (h) to designate immigration officers under [section 388(1)][477] and authorise their functions and powers under that section and [section 389][478]:
+    *   (h) to designate immigration officers under [section 388(1)][485] and authorise their functions and powers under that section and [section 389][486]:
     
-    *   (i) to designate refugee and protection officers under [section 390(1)][479] and, for each officer, designate whether he or she is an officer for the purposes of making decisions relying on classified information under [section 33(2)(b)][43].
+    *   (i) to designate refugee and protection officers under [section 390(1)][487] and, for each officer, designate whether he or she is an officer for the purposes of making decisions relying on classified information under [section 33(2)(b)][44].
     
-    (5) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chief executive referred to in [clause 5(2) ][622]of Schedule 2 may approve and issue forms under [section 381(3)][466].
+    (5) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chief executive referred to in [clause 5(2) ][633]of Schedule 2 may approve and issue forms under [section 381(3)][474].
     
-    (6) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chair of the Tribunal may undertake 1 or more of the matters described in [section 220][271] of this Act.
+    (6) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chair of the Tribunal may undertake 1 or more of the matters described in [section 220][273] of this Act.
     
-    (7) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chair of the Tribunal and the Attorney-General may agree on any general practices and procedures that may be necessary under [section 260(1)(a)][315] of this Act.
+    (7) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chair of the Tribunal and the Attorney-General may agree on any general practices and procedures that may be necessary under [section 260(1)(a)][317] of this Act.
     
-    (8) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the Chief Justice and the Attorney-General may agree on any general practices and procedures that may be necessary under [section 260(1)(b)][315] of this Act before that section comes into force or takes effect.
+    (8) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the Chief Justice and the Attorney-General may agree on any general practices and procedures that may be necessary under [section 260(1)(b)][317] of this Act before that section comes into force or takes effect.
     
-    (9) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, an agency designated by the Prime Minister under [section 264(1)][320] of this Act may recognise persons as special advocates.
+    (9) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, an agency designated by the Prime Minister under [section 264(1)][322] of this Act may recognise persons as special advocates.
     
-    (10) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chief executive of a department of State or other relevant person may make arrangements with the chief executive of the Department for the disclosure or exchange of information under [sections 294 to 306][359] of this Act.
+    (10) Despite [section 2(1)][2] of this Act, on and from the commencement of this section, the chief executive of a department of State or other relevant person may make arrangements with the chief executive of the Department for the disclosure or exchange of information under [sections 294 to 306][361] of this Act.
     
     (11) Subsections (1) to (10) apply as if the provision under which the power or function is exercised or performed and any other provision of this Act that relates to the provision that is not in force when the power or function is exercised or performed were in force when the power or function is exercised.
     
-    (12) This section does not limit [section 11][857] of the Interpretation Act 1999\.
+    (12) This section does not limit [section 11][881] of the Interpretation Act 1999\.
 
 ## Part 13  
 Amendments to Immigration Act 1987
 
 ##### 475 Principal Act amended
     
-*   This Part amends the [Immigration Act 1987][611].
+*   This Part amends the [Immigration Act 1987][620].
 
 ##### 476 Cancellation of removal order
     
-*   [Section 58][633] is amended by repealing subsection (5) and substituting the following subsections:
+*   [Section 58][645] is amended by repealing subsection (5) and substituting the following subsections:
     
     > *   "(5) Nothing in this section gives a person a right to apply to an immigration officer for the cancellation of a removal order. However, an immigration officer must consider cancelling the removal order of a person who is in New Zealand if the person provides information to the officer concerning his or her personal circumstances, and the information is relevant to New Zealand's international obligations.
     > 
@@ -12468,7 +12934,7 @@ Amendments to Immigration Act 1987
 
 ##### 477 New section 141ABA inserted
     
-*   The following section is inserted after [section 141A][769]:
+*   The following section is inserted after [section 141A][787]:
     
     > ##### "141ABA Disclosure of information to employers
     >     
@@ -12502,7 +12968,7 @@ Amendments to Immigration Act 1987
 
 ##### 478 Interpretation
     
-*   The definition of _fine_ in [section 141AD][757] is amended by adding the following paragraph:
+*   The definition of _fine_ in [section 141AD][775] is amended by adding the following paragraph:
     
     > *   "(d) any levy payable under the Sentencing Act 2002".
     > 
@@ -12515,9 +12981,9 @@ Amendments to Immigration Act 1987
 ## Schedule 1  
 Convention Relating to the Status of Refugees
 
-[ss 127(3)][160], [165][203]
+[ss 127(3)][161], [165][205]
 
-## Done at Geneva on 28 July 1951[1][858]
+## Done at Geneva on 28 July 1951[1][882]
 
 Entry into force: 22 April 1954, in accordance with Article 43
 
@@ -12541,11 +13007,9 @@ _Noting_ that the United Nations High Commissioner for Refugees is charged with 
 
 _Have agreed as follows:_
 
-#### CHAPTER I   
-GENERAL PROVISIONS
+#### CHAPTER I GENERAL PROVISIONS
 
-#### Article 1   
-Definition of the term ""Refugee""
+#### Article 1 Definition of the term ""Refugee""
     
 *   A. For the purposes of the present Convention, the term ""refugee"" shall apply to any person who:
 
@@ -12563,7 +13027,7 @@ Definition of the term ""Refugee""
     
     *   (b) ""events occurring in Europe or elsewhere before 1 January 1951"",
     
-    and each Contracting State shall make a declaration at the time of signature, ratification or accession, specifying which of these meanings it applies for the purpose of its obligations under this Convention.[2][859]
+    and each Contracting State shall make a declaration at the time of signature, ratification or accession, specifying which of these meanings it applies for the purpose of its obligations under this Convention.[2][883]
 
 *   (2) Any Contracting State which has adopted alternative _(a)_ may at any time extend its obligations by adopting alternative _(b)_ by means of a notification addressed to the Secretary-General of the United Nations.
 
@@ -12601,33 +13065,27 @@ Definition of the term ""Refugee""
     
     
 
-#### Article 2   
-General obligations
+#### Article 2 General obligations
 
 Every refugee has duties to the country in which he finds himself, which require in particular that he conform to its laws and regulations as well as to measures taken for the maintenance of public order.
 
-#### Article 3   
-Non-discrimination
+#### Article 3 Non-discrimination
 
 The Contracting States shall apply the provisions of this Convention to refugees without discrimination as to race, religion or country of origin.
 
-#### Article 4   
-Religion
+#### Article 4 Religion
 
 The Contracting States shall accord to refugees within their territories treatment at least as favourable as that accorded to their nationals with respect to freedom to practise their religion and freedom as regards the religious education of their children.
 
-#### Article 5   
-Rights granted apart from this Convention
+#### Article 5 Rights granted apart from this Convention
 
 Nothing in this Convention shall be deemed to impair any rights and benefits granted by a Contracting State to refugees apart from this Convention.
 
-#### Article 6   
-The term ""in the same circumstances""
+#### Article 6 The term ""in the same circumstances""
 
 For the purpose of this Convention, the term ""in the same circumstances"" implies that any requirements (including requirements as to length and conditions of sojourn or residence) which the particular individual would have to fulfil for the enjoyment of the right in question, if he were not a refugee, must be fulfilled by him, with the exception of requirements which by their nature a refugee is incapable of fulfilling.
 
-#### Article 7   
-Exemption from reciprocity
+#### Article 7 Exemption from reciprocity
     
 *   1\. Except where this Convention contains more favourable provisions, a Contracting State shall accord to refugees the same treatment as is accorded to aliens generally.
 
@@ -12639,54 +13097,45 @@ Exemption from reciprocity
 
 *   5\. The provisions of paragraphs 2 and 3 apply both to the rights and benefits referred to in Articles 13, 18, 19, 21 and 22 of this Convention and to rights and benefits for which this Convention does not provide.
 
-#### Article 8   
-Exemption from exceptional measures
+#### Article 8 Exemption from exceptional measures
 
 With regard to exceptional measures which may be taken against the person, property or interests of nationals of a foreign State, the Contracting States shall not apply such measures to a refugee who is formally a national of the said State solely on account of such nationality. Contracting States which, under their legislation, are prevented from applying the general principle expressed in this Article, shall, in appropriate cases, grant exemptions in favour of such refugees.
 
-#### Article 9   
-Provisional measures
+#### Article 9 Provisional measures
 
 Nothing in this Convention shall prevent a Contracting State, in time of war or other grave and exceptional circumstances, from taking provisionally measures which it considers to be essential to the national security in the case of a particular person, pending a determination by the Contracting State that that person is in fact a refugee and that the continuance of such measures is necessary in his case in the interests of national security.
 
-#### Article 10   
-Continuity of residence
+#### Article 10 Continuity of residence
     
 *   1\. Where a refugee has been forcibly displaced during the Second World War and removed to the territory of a Contracting State, and is resident there, the period of such enforced sojourn shall be considered to have been lawful residence within that territory.
 
 *   2\. Where a refugee has been forcibly displaced during the Second World War from the territory of a Contracting State and has, prior to the date of entry into force of this Convention, returned there for the purpose of taking up residence, the period of residence before and after such enforced displacement shall be regarded as one uninterrupted period for any purposes for which uninterrupted residence is required.
 
-#### Article 11   
-Refugee seamen
+#### Article 11 Refugee seamen
 
 In the case of refugees regularly serving as crew members on board a ship flying the flag of a Contracting State, that State shall give sympathetic consideration to their establishment on its territory and the issue of travel documents to them or their temporary admission to its territory particularly with a view to facilitating their establishment in another country.
 
 #### CHAPTER II JURIDICAL STATUS
 
-#### Article 12   
-Personal status
+#### Article 12 Personal status
     
 *   1\. The personal status of a refugee shall be governed by the law of the country of his domicile or, if he has no domicile, by the law of the country of his residence.
 
 *   2\. Rights previously acquired by a refugee and dependent on personal status, more particularly rights attaching to marriage, shall be respected by a Contracting State, subject to compliance, if this be necessary, with the formalities required by the law of that State, provided that the right in question is one which would have been recognized by the law of that State had he not become a refugee.
 
-#### Article 13   
-Movable and immovable property
+#### Article 13 Movable and immovable property
 
 The Contracting States shall accord to a refugee treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, as regards the acquisition of movable and immovable property and other rights pertaining thereto, and to leases and other contracts relating to movable and immovable property.
 
-#### Article 14   
-Artistic rights and industrial property
+#### Article 14 Artistic rights and industrial property
 
 In respect of the protection of industrial property, such as inventions, designs or models, trade marks, trade names, and of rights in literary, artistic and scientific works, a refugee shall be accorded in the country in which he has his habitual residence the same protection as is accorded to nationals of that country. In the territory of any other Contracting State, he shall be accorded the same protection as is accorded in that territory to nationals of the country in which he has his habitual residence.
 
-#### Article 15   
-Right of association
+#### Article 15 Right of association
 
 As regards non-political and non-profit-making associations and trade unions the Contracting States shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country, in the same circumstances.
 
-#### Article 16   
-Access to courts
+#### Article 16 Access to courts
     
 *   1\. A refugee shall have free access to the courts of law on the territory of all Contracting States.
 
@@ -12694,11 +13143,9 @@ Access to courts
 
 *   3\. A refugee shall be accorded in the matters referred to in paragraph 2 in countries other than that in which he has his habitual residence the treatment granted to a national of the country of his habitual residence.
 
-#### CHAPTER III   
-GAINFUL EMPLOYMENT
+#### CHAPTER III GAINFUL EMPLOYMENT
 
-#### Article 17   
-Wage-earning employment
+#### Article 17 Wage-earning employment
     
 *   1\. The Contracting State shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country in the same circumstances, as regards the right to engage in wage-earning employment.
 
@@ -12714,45 +13161,37 @@ Wage-earning employment
 
 *   3\. The Contracting States shall give sympathetic consideration to assimilating the rights of all refugees with regard to wage-earning employment to those of nationals, and in particular of those refugees who have entered their territory pursuant to programmes of labour recruitment or under immigration schemes.
 
-#### Article 18   
-Self-employment
+#### Article 18 Self-employment
 
 The Contracting States shall accord to a refugee lawfully in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, as regards the right to engage on his own account in agriculture, industry, handicrafts and commerce and to establish commercial and industrial companies.
 
-#### Article 19   
-Liberal professions
+#### Article 19 Liberal professions
     
 *   1\. Each Contracting State shall accord to refugees lawfully staying in their territory who hold diplomas recognized by the competent authorities of that State, and who are desirous of practising a liberal profession, treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
 
 *   2\. The Contracting States shall use their best endeavours consistently with their laws and constitutions to secure the settlement of such refugees in the territories, other than the metropolitan territory, for whose international relations they are responsible.
 
-#### CHAPTER IV   
-WELFARE
+#### CHAPTER IV WELFARE
 
-#### Article 20   
-Rationing
+#### Article 20 Rationing
 
 Where a rationing system exists, which applies to the population at large and regulates the general distribution of products in short supply, refugees shall be accorded the same treatment as nationals.
 
-#### Article 21   
-Housing
+#### Article 21 Housing
 
 As regards housing, the Contracting States, in so far as the matter is regulated by laws or regulations or is subject to the control of public authorities, shall accord to refugees lawfully staying in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
 
-#### Article 22   
-Public education
+#### Article 22 Public education
     
 *   1\. The Contracting States shall accord to refugees the same treatment as is accorded to nationals with respect to elementary education.
 
 *   2\. The Contracting States shall accord to refugees treatment as favourable as possible, and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, with respect to education other than elementary education and, in particular, as regards access to studies, the recognition of foreign school certificates, diplomas and degrees, the remission of fees and charges and the award of scholarships.
 
-#### Article 23   
-Public relief
+#### Article 23 Public relief
 
 The Contracting States shall accord to refugees lawfully staying in their territory the same treatment with respect to public relief and assistance as is accorded to their nationals.
 
-#### Article 24   
-Labour legislation and social security
+#### Article 24 Labour legislation and social security
     
 *   1\. The Contracting States shall accord to refugees lawfully staying in their territory the same treatment as is accorded to nationals in respect of the following matters:
         
@@ -12768,17 +13207,15 @@ Labour legislation and social security
     
     
 
-*   2\. The right to compensation for the death of a refugee resulting from employment injury or from occupational disease shall not be affected by the fact that the residence of the beneficiary is outside the territory of the Contracting State.[3][860]
+*   2\. The right to compensation for the death of a refugee resulting from employment injury or from occupational disease shall not be affected by the fact that the residence of the beneficiary is outside the territory of the Contracting State.[3][884]
 
 *   3\. The Contracting States shall extend to refugees the benefits of agreements concluded between them, or which may be concluded between them in the future, concerning the maintenance of acquired rights and rights in the process of acquisition in regard to social security, subject only to the conditions which apply to nationals of the States signatory to the agreements in question.
 
 *   4\. The Contracting States will give sympathetic consideration to extending to refugees so far as possible the benefits of similar agreements which may at any time be in force between such Contracting States and non-contracting States.
 
-#### CHAPTER V   
-ADMINISTRATIVE MEASURES
+#### CHAPTER V ADMINISTRATIVE MEASURES
 
-#### Article 25   
-Administrative assistance
+#### Article 25 Administrative assistance
     
 *   1\. When the exercise of a right by a refugee would normally require the assistance of authorities of a foreign country to whom he cannot have recourse, the Contracting States in whose territory he is residing shall arrange that such assistance be afforded to him by their own authorities or by an international authority.
 
@@ -12790,46 +13227,39 @@ Administrative assistance
 
 *   5\. The provisions of this Article shall be without prejudice to Articles 27 and 28\.
 
-#### Article 26   
-Freedom of movement
+#### Article 26 Freedom of movement
 
 Each Contracting State shall accord to refugees lawfully in its territory the right to choose their place of residence and to move freely within its territory, subject to any regulations applicable to aliens generally in the same circumstances.
 
-#### Article 27   
-Identity papers
+#### Article 27 Identity papers
 
 The Contracting States shall issue identity papers to any refugee in their territory who does not possess a valid travel document.
 
-#### Article 28   
-Travel documents
+#### Article 28 Travel documents
     
 *   1\. The Contracting States shall issue to refugees lawfully staying in their territory travel documents for the purpose of travel outside their territory unless compelling reasons of national security or public order otherwise require, and the provisions of the Schedule to this Convention shall apply with respect to such documents. The Contracting States may issue such a travel document to any other refugee in their territory; they shall in particular give sympathetic consideration to the issue of such a travel document to refugees in their territory who are unable to obtain a travel document from the country of their lawful residence.
 
 *   2\. Travel documents issued to refugees under previous international agreements by parties thereto shall be recognized and treated by the Contracting States in the same way as if they had been issued pursuant to this article.
 
-#### Article 29   
-Fiscal charges
+#### Article 29 Fiscal charges
     
 *   1\. The Contracting States shall not impose upon refugees duties, charges or taxes, of any description whatsoever, other or higher than those which are or may be levied on their nationals in similar situations.
 
 *   2\. Nothing in the above paragraph shall prevent the application to refugees of the laws and regulations concerning charges in respect of the issue to aliens of administrative documents including identity papers.
 
-#### Article 30   
-Transfer of assets
+#### Article 30 Transfer of assets
     
 *   1\. A Contracting State shall, in conformity with its laws and regulations, permit refugees to transfer assets which they have brought into its territory, to another country where they have been admitted for the purposes of resettlement.
 
 *   2\. A Contracting State shall give sympathetic consideration to the application of refugees for permission to transfer assets wherever they may be and which are necessary for their resettlement in another country to which they have been admitted.
 
-#### Article 31   
-Refugees unlawfully in the country of refuge
+#### Article 31 Refugees unlawfully in the country of refuge
     
 *   1\. The Contracting States shall not impose penalties, on account of their illegal entry or presence, on refugees who, coming directly from a territory where their life or freedom was threatened in the sense of Article 1, enter or are present in their territory without authorization, provided they present themselves without delay to the authorities and show good cause for their illegal entry or presence.
 
 *   2\. The Contracting States shall not apply to the movements of such refugees restrictions other than those which are necessary and such restrictions shall only be applied until their status in the country is regularized or they obtain admission into another country. The Contracting States shall allow such refugees a reasonable period and all the necessary facilities to obtain admission into another country.
 
-#### Article 32   
-Expulsion
+#### Article 32 Expulsion
     
 *   1\. The Contracting States shall not expel a refugee lawfully in their territory save on grounds of national security or public order.
 
@@ -12837,22 +13267,19 @@ Expulsion
 
 *   3\. The Contracting States shall allow such a refugee a reasonable period within which to seek legal admission into another country. The Contracting States reserve the right to apply during that period such internal measures as they may deem necessary.
 
-#### Article 33   
-Prohibition of expulsion or return (""refoulement"")
+#### Article 33 Prohibition of expulsion or return (""refoulement"")
     
 *   1\. No Contracting State shall expel or return (""refouler"") a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion.
 
 *   2\. The benefit of the present provision may not, however, be claimed by a refugee whom there are reasonable grounds for regarding as a danger to the security of the country in which he is, or who, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of that country.
 
-#### Article 34   
-Naturalization
+#### Article 34 Naturalization
 
 The Contracting States shall as far as possible facilitate the assimilation and naturalization of refugees. They shall in particular make every effort to expedite naturalization proceedings and to reduce as far as possible the charges and costs of such proceedings.
 
 #### CHAPTER VI EXECUTORY AND TRANSITORY PROVISIONS
 
-#### Article 35   
-Co-operation of the national authorities with the United Nations
+#### Article 35 Co-operation of the national authorities with the United Nations
     
 *   1\. The Contracting States undertake to co-operate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of this Convention.
 
@@ -12866,26 +13293,21 @@ Co-operation of the national authorities with the United Nations
     
     
 
-#### Article 36   
-Information on national legislation
+#### Article 36 Information on national legislation
 
 The Contracting States shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of this Convention.
 
-#### Article 37   
-Relation to previous Conventions
+#### Article 37 Relation to previous Conventions
 
 Without prejudice to Article 28, paragraph 2, of this Convention, this Convention replaces, as between parties to it, the Arrangements of 5 July 1922, 31 May 1924, 12 May 1926, 30 June 1928 and 30 July 1935, the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 and the Agreement of 15 October 1946\.
 
-#### CHAPTER VII   
-FINAL CLAUSES
+#### CHAPTER VII FINAL CLAUSES
 
-#### Article 38   
-Settlement of disputes
+#### Article 38 Settlement of disputes
 
 Any dispute between parties to this Convention relating to its interpretation or application, which cannot be settled by other means, shall be referred to the International Court of Justice at the request of any one of the parties to the dispute.
 
-#### Article 39   
-Signature, ratification and accession
+#### Article 39 Signature, ratification and accession
     
 *   1\. This Convention shall be opened for signature at Geneva on 28 July 1951 and shall thereafter be deposited with the Secretary-General of the United Nations. It shall be open for signature at the European Office of the United Nations from 28 July to 31 August 1951 and shall be re-opened for signature at the Headquarters of the United Nations from 17 September 1951 to 31 December 1952\.
 
@@ -12893,8 +13315,7 @@ Signature, ratification and accession
 
 *   3\. This Convention shall be open from 28 July 1951 for accession by the States referred to in paragraph 2 of this Article. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
-#### Article 40   
-Territorial application clause
+#### Article 40 Territorial application clause
     
 *   1\. Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the State concerned.
 
@@ -12902,8 +13323,7 @@ Territorial application clause
 
 *   3\. With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject, where necessary for constitutional reasons, to the consent of the governments of such territories.
 
-#### Article 41   
-Federal clause
+#### Article 41 Federal clause
 
 In the case of a Federal or non-unitary State, the following provisions shall apply:
     
@@ -12913,22 +13333,19 @@ In the case of a Federal or non-unitary State, the following provisions shall ap
 
 *   (c) A Federal State Party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention showing the extent to which effect has been given to that provision by legislative or other action.
 
-#### Article 42   
-Reservations
+#### Article 42 Reservations
     
 *   1\. At the time of signature, ratification or accession, any State may make reservations to articles of the Convention other than to Articles 1, 3, 4, 16 (1), 33, 36--46 inclusive.
 
 *   2\. Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw the reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
 
-#### Article 43   
-Entry into force
+#### Article 43 Entry into force
     
 *   1\. This Convention shall come into force on the ninetieth day following the day of deposit of the sixth instrument of ratification or accession.
 
 *   2\. For each State ratifying or acceding to the Convention after the deposit of the sixth instrument of ratification or accession, the Convention shall enter into force on the ninetieth day following the date of deposit by such State of its instrument of ratification or accession.
 
-#### Article 44   
-Denunciation
+#### Article 44 Denunciation
     
 *   1\. Any Contracting State may denounce this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
 
@@ -12936,15 +13353,13 @@ Denunciation
 
 *   3\. Any State which has made a declaration or notification under Article 40 may, at any time thereafter, by a notification to the Secretary-General of the United Nations, declare that the Convention shall cease to extend to such territory one year after the date of receipt of the notification by the Secretary-General.
 
-#### Article 45   
-Revision
+#### Article 45 Revision
     
 *   1\. Any Contracting State may request revision of this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
 
 *   2\. The General Assembly of the United Nations shall recommend the steps, if any, to be taken in respect of such request.
 
-#### Article 46   
-Notifications by the Secretary-General of the United Nations
+#### Article 46 Notifications by the Secretary-General of the United Nations
 
 The Secretary-General of the United Nations shall inform all Members of the United Nations and non-member States referred to in Article 39:
     
@@ -12966,7 +13381,7 @@ IN FAITH WHEREOF the undersigned, duly authorized, have signed this Convention o
 
 DONE AT GENEVA, this twenty-eighth day of July, one thousand nine hundred and fifty-one, in a single copy, of which the English and French texts are equally authentic and which shall remain deposited in the archives of the United Nations, and certified true copies of which shall be delivered to all Members of the United Nations and to the non-member States referred to in Article 39\.
 
-#### III PROTOCOL RELATING TO THE STATUS OF REFUGEES OF 31 JANUARY 1967[4][861]
+#### III PROTOCOL RELATING TO THE STATUS OF REFUGEES OF 31 JANUARY 1967[4][885]
 
 Entry into force: 4 October 1967, in accordance with Article VIII
 
@@ -12982,17 +13397,15 @@ _Considering_ that it is desirable that equal status should be enjoyed by all re
 
 _Have agreed_ as follows:
 
-#### Article I   
-General provision
+#### Article I General provision
     
 *   1\. The States Parties to the present Protocol undertake to apply Articles 2 to 34 inclusive of the Convention to refugees as hereinafter defined.
 
 *   2\. For the purpose of the present Protocol, the term ""refugee"" shall, except as regards the application of paragraph 3 of this Article, mean any person within the definition of Article 1 of the Convention as if the words ""As a result of events occurring before 1 January 1951 and ..."" and the words ""... as a result of such events"", in Article 1 A (2) were omitted.
 
-*   3\. The present Protocol shall be applied by the States Parties hereto without any geographic limitation, save that existing declarations made by States already Parties to the Convention in accordance with Article 1 B (1) _(a)_ of the Convention, shall, unless extended under Article 1 B (2) thereof, apply also under the present Protocol.[5][862]
+*   3\. The present Protocol shall be applied by the States Parties hereto without any geographic limitation, save that existing declarations made by States already Parties to the Convention in accordance with Article 1 B (1) _(a)_ of the Convention, shall, unless extended under Article 1 B (2) thereof, apply also under the present Protocol.[5][886]
 
-#### Article II   
-Co-operation of the national authorities with the United Nations
+#### Article II Co-operation of the national authorities with the United Nations
     
 *   1\. The States Parties to the present Protocol undertake to cooperate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of the present Protocol.
 
@@ -13006,23 +13419,19 @@ Co-operation of the national authorities with the United Nations
     
     
 
-#### Article III   
-Information on national legislation
+#### Article III Information on national legislation
 
 The States Parties to the present Protocol shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of the present Protocol.
 
-#### Article IV   
-Settlement of disputes
+#### Article IV Settlement of disputes
 
 Any dispute between States Parties to the present Protocol which relates to its interpretation or application and which cannot be settled by other means shall be referred to the International Court of Justice at the request of any one of the parties to the dispute.
 
-#### Article V   
-Accession
+#### Article V Accession
 
 The present Protocol shall be open for accession on behalf of all States Parties to the Convention and of any other State Member of the United Nations or member of any of the specialized agencies or to which an invitation to accede may have been addressed by the General Assembly of the United Nations. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
-#### Article VI   
-Federal clause
+#### Article VI Federal clause
 
 In the case of a Federal or non-unitary State, the following provisions shall apply:
     
@@ -13032,8 +13441,7 @@ In the case of a Federal or non-unitary State, the following provisions shall ap
 
 *   (c) A Federal State Party to the present Protocol shall, at the request of any other State Party hereto transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention to be applied in accordance with Article I, paragraph 1, of the present Protocol, showing the extent to which effect has been given to that provision by legislative or other action.
 
-#### Article VII   
-Reservations and declarations
+#### Article VII Reservations and declarations
     
 *   1\. At the time of accession, any State may make reservations in respect of Article IV of the present Protocol and in respect of the application in accordance with Article I of the present Protocol of any provisions of the Convention other than those contained in Articles 1, 3, 4, 16 (1) and 33 thereof, provided that in the case of a State Party to the Convention reservations made under this Article shall not extend to refugees in respect of whom the Convention applies.
 
@@ -13043,36 +13451,32 @@ Reservations and declarations
 
 *   4\. Declarations made under Article 40, paragraphs 1 and 2, of the Convention by a State Party thereto which accedes to the present Protocol shall be deemed to apply in respect of the present Protocol, unless upon accession a notification to the contrary is addressed by the State Party concerned to the Secretary-General of the United Nations. The provisions of Article 40, paragraphs 2 and 3, and of Article 44, paragraph 3, of the Convention shall be deemed to apply _mutatis mutandis_ to the present Protocol.
 
-#### Article VIII   
-Entry into force
+#### Article VIII Entry into force
     
 *   1\. The present Protocol shall come into force on the day of deposit of the sixth instrument of accession.
 
 *   2\. For each State acceding to the Protocol after the deposit of the sixth instrument of accession, the Protocol shall come into force on the date of deposit by such State of its instrument of accession.
 
-#### Article IX   
-Denunciation
+#### Article IX Denunciation
     
 *   1\. Any State Party hereto may denounce this Protocol at any time by a notification addressed to the Secretary-General of the United Nations.
 
 *   2\. Such denunciation shall take effect for the State Party concerned one year from the date on which it is received by the Secretary-General of the United Nations.
 
-#### Article X   
-Notifications by the Secretary-General of the United Nations
+#### Article X Notifications by the Secretary-General of the United Nations
 
 The Secretary-General of the United Nations shall inform the States referred to in Article V above of the date of entry into force, accessions, reservations and withdrawals of reservations to and denunciations of the present Protocol, and of declarations and notifications relating hereto.
 
-#### Article XI   
-Deposit in the archives of the Secretariat of the United Nations
+#### Article XI Deposit in the archives of the Secretariat of the United Nations
 
-A copy of the present Protocol, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, signed by the President of the General Assembly and by the Secretary-General of the United Nations, shall be deposited in the archives of the Secretariat of the United Nations. The Secretary-General will transmit certified copies thereof to all States Members of the United Nations and to the other States referred to in Article V above. 
+A copy of the present Protocol, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, signed by the President of the General Assembly and by the Secretary-General of the United Nations, shall be deposited in the archives of the Secretariat of the United Nations. The Secretary-General will transmit certified copies thereof to all States Members of the United Nations and to the other States referred to in Article V above.
 
 ---
 
 ## Schedule 2  
 Provisions relating to Tribunal
 
-[s 237][289]
+[s 237][291]
 
 ##### 1 Term of office of members
     
@@ -13102,11 +13506,11 @@ Provisions relating to Tribunal
 
 ##### 4 Remuneration
     
-*   (1) The remuneration of the District Court Judge who is chair of the Tribunal, and of any other member who is a District Court Judge, is that set under the [Remuneration Authority Act 1977][863].
+*   (1) The remuneration of the District Court Judge who is chair of the Tribunal, and of any other member who is a District Court Judge, is that set under the [Remuneration Authority Act 1977][887].
     
-    (2) The other members of the Tribunal must be paid remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the [Fees and Travelling Allowances Act 1951][864], and that Act applies as if the members were members of a statutory Board within the meaning of that Act.
+    (2) The other members of the Tribunal must be paid remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the [Fees and Travelling Allowances Act 1951][888], and that Act applies as if the members were members of a statutory Board within the meaning of that Act.
 
-##### 5 Administration, staffing, and other resources 
+##### 5 Administration, staffing, and other resources
     
 *   (1) The administration services, staffing, and other resources necessary to enable the Tribunal to carry out its functions under this Act are to be provided by the department of State for the time being designated for the purpose by the Prime Minister.
     
@@ -13116,7 +13520,7 @@ Provisions relating to Tribunal
     
 *   No member of the Tribunal is personally liable for any act done or omitted to be done by the Tribunal or any member of it in good faith in pursuance or intended pursuance of the powers and functions of the Tribunal.
     
-    Compare: 1987 No 74 [Schedule 3C cl 10][865]
+    Compare: 1987 No 74 [Schedule 3C cl 10][889]
 
 ##### 7 Proceedings to continue on change in Tribunal
     
@@ -13130,7 +13534,7 @@ Provisions relating to Tribunal
     
 *   (1) The Tribunal may receive as evidence any statement, document, information, or matter that in its opinion may assist it to deal effectively with the subject of the proceedings before it, whether or not it would be admissible in a court of law.
     
-    (2) Subject to subclause (1) and [section 368(1)][446], the [Evidence Act 2006][866] applies to the Tribunal as if it were a court.
+    (2) Subject to subclause (1) and [section 368(1)][454], the [Evidence Act 2006][890] applies to the Tribunal as if it were a court.
 
 ##### 9 Tribunal may take evidence on oath
     
@@ -13152,7 +13556,7 @@ Provisions relating to Tribunal
     
     (3) For the purposes of its proceedings, the Tribunal may of its own motion, or on application, order that any information or particulars, or a copy of the whole or any part of any paper, document, or record, provided or produced to it, be supplied to any person appearing before the Tribunal, and may in the order impose such terms and conditions as it thinks fit in respect of such supply and of the use that is to be made of the information, particulars, or copy.
     
-    (4) This clause is subject to [section 35(3)][45].
+    (4) This clause is subject to [section 35(3)][46].
 
 ##### 11 Power to summon witnesses
     
@@ -13162,7 +13566,7 @@ Provisions relating to Tribunal
     
     (3) If a summons is issued by the Tribunal in respect of a person detained in custody, the manager or other person in charge of the relevant prison or other premises, or the other person having custody of the detained person, must produce or allow the production of the person as directed in the summons.
     
-    (4) This clause is subject to [section 35(3)][45].
+    (4) This clause is subject to [section 35(3)][46].
 
 ##### 12 Service of summons
     
@@ -13204,7 +13608,7 @@ Provisions relating to Tribunal
 
 ##### 16 Witnesses' fees, allowances, and expenses
     
-*   (1) A witness appearing before the Tribunal under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Summary Proceedings Act 1957][809].
+*   (1) A witness appearing before the Tribunal under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Summary Proceedings Act 1957][832].
     
     (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served, or at some other reasonable time before the hearing.
 
@@ -13222,7 +13626,7 @@ Provisions relating to Tribunal
     
     (6) A decision of the Tribunal is final once notified to the appellant or affected person.
     
-    Compare: 1987 No 74 [s 129Q][867]
+    Compare: 1987 No 74 [s 129Q][891]
 
 ##### 18 Public access to hearings
     
@@ -13234,7 +13638,7 @@ Provisions relating to Tribunal
     
     (4) The Tribunal may make an order prohibiting the publication of any evidence received by it, or any report or description of the proceedings or of any part of the proceedings, in respect of any appeal or matter before the Tribunal.
     
-    (5) This clause is subject to [section 259][314].
+    (5) This clause is subject to [section 259][316].
 
 ##### 19 Publication of decisions
     
@@ -13256,7 +13660,7 @@ Provisions relating to Tribunal
     
     (4) The Tribunal may, in any other case, edit the decision in such a way as to remove the name of the appellant or any other person, and any particulars likely to lead to the identification of the appellant or other person, before publishing it to persons other than persons involved in the appeal or involved in the administration of this Act.
     
-    (5) This clause is subject to [section 259][314].
+    (5) This clause is subject to [section 259][316].
 
 ##### 20 Correction of errors
     
@@ -13281,33 +13685,33 @@ Provisions relating to Tribunal
 ## Schedule 3  
 Enactments amended
 
-[s 406(1)][500]
+[s 406(1)][508]
 
 ##### Aviation Crimes Act 1972 (1972 No 137)
 
-[Section 21][868]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 21][892]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16)
 
-[Section 9(1)(b)][869]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 9(1)(b)][893]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-Paragraph (b) of the definition of _eligible person_ in [section 21][870]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+Paragraph (b) of the definition of _eligible person_ in [section 21][894]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-Paragraph (a)(iii) of the definition of _eligible adult_ in [section 27A][871]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+Paragraph (a)(iii) of the definition of _eligible adult_ in [section 27A][895]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-Paragraph (a)(iii) of the definition of _eligible child_ in [section 27A][871]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+Paragraph (a)(iii) of the definition of _eligible child_ in [section 27A][895]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 78D(4)(b)][872]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 78D(4)(b)][896]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-Item relating to Department of Labour in [Schedule 1A][873]: omit from the item relating to Death information ""limited term permits or"" and substitute ""temporary entry class"".
+Item relating to Department of Labour in [Schedule 1A][897]: omit from the item relating to Death information ""limited term permits or"" and substitute ""temporary entry class"".
 
 ##### Care of Children Act 2004 (2004 No 90)
 
-[Section 106(2)(a)][874]: omit ""political refugees or political asylum"" and substitute ""refugees or protected persons"".
+[Section 106(2)(a)][898]: omit ""political refugees or political asylum"" and substitute ""refugees or protected persons"".
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-[Section 244][875]: repeal and substitute:
+[Section 244][899]: repeal and substitute:
 
 > ##### "244 Immigration Act 2009 (other than sections 342 to 354) not affected
 >     
@@ -13317,35 +13721,35 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 
 ##### Citizenship Act 1977 (1977 No 61)
 
-[Section 3(2B)(a) and (b)][876]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
+[Section 3(2B)(a) and (b)][900]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
 
-[Section 6(1)(b)(ii) and (6)(b)][877]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
+[Section 6(1)(b)(ii) and (6)(b)][901]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
 
-[Section 8(2)(a) and (b)][709]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
+[Section 8(2)(a) and (b)][725]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
 
-[Section 8(3)(a)][709]: repeal and substitute:
+[Section 8(3)(a)][725]: repeal and substitute:
 
 > *   "(a) conditions have been imposed under the Immigration Act 2009 on the person's entitlement to reside in New Zealand indefinitely; and".
 > 
 > 
 
-[Section 8(3)(b)][709]: omit ""requirements"" and substitute ""conditions"".
+[Section 8(3)(b)][725]: omit ""requirements"" and substitute ""conditions"".
 
-[Section 8(7)(a)(ii)][709]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 8(7)(a)(ii)][725]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 26B(1)][878]: omit ""Department of Labour"" and substitute ""department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009"".
+[Section 26B(1)][902]: omit ""Department of Labour"" and substitute ""department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009"".
 
-[Section 26B(1)][878]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 26B(1)][902]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Citizenship Amendment Act 2005 (2005 No 43)
 
-[Section 17(2)(d)(i)][879]: repeal and substitute:
+[Section 17(2)(d)(i)][903]: repeal and substitute:
 
 > *   "(i) includes time spent in New Zealand before the commencement of the Immigration Act 2009 while holding a valid immigration permit or being exempt from the requirement to hold a permit, and time spent in New Zealand after the commencement of that Act while holding a valid visa; but".
 > 
 > 
 
-[Section 17(3)(b)][879]: repeal and substitute:
+[Section 17(3)(b)][903]: repeal and substitute:
 
 > *   "(b) became so entitled on or after the date of commencement of this Act pursuant to an application made under the Immigration Act 1987 or the Immigration Act 2009\."
 > 
@@ -13353,49 +13757,49 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 
 ##### Citizenship (Western Samoa) Act 1982 (1982 No 11)
 
-[Section 7(1)(b)(ii)][710]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 7(1)(b)(ii)][726]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 8(2)][880]: omit ""section 7 of the Immigration Act 1987"" and substitute ""section 15 of the Immigration Act 2009"".
+[Section 8(2)][904]: omit ""section 7 of the Immigration Act 1987"" and substitute ""section 15 of the Immigration Act 2009"".
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-[Section 53A(1)(b)][881]: omit ""a permanent resident of"" and substitute ""normally resident in"".
+[Section 53A(1)(b)][905]: omit ""a permanent resident of"" and substitute ""normally resident in"".
 
 ##### Corrections Act 2004 (2004 No 50)
 
-[Section 3(1)][882]: omit ""Immigration Act 1987"" from paragraph (c)(ii) of the definition of _offender_ and substitute ""Immigration Act 2009"".
+[Section 3(1)][906]: omit ""Immigration Act 1987"" from paragraph (c)(ii) of the definition of _offender_ and substitute ""Immigration Act 2009"".
 
-[Section 66(1) and (2)][883]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
+[Section 66(1) and (2)][907]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
 
-[Section 181(1)][884]: repeal and substitute:
+[Section 181(1)][908]: repeal and substitute:
 
 > *   "(1) The purpose of this section is to facilitate the disclosure of information by the department to the department of State for the time being responsible for the administration of the Immigration Act 2009 (the _responsible department_), for the purpose of assisting the Minister of Immigration or an immigration officer to exercise any power conferred by that Act to determine whether a person is liable for deportation or to deport any person."
 > 
 > 
 
-[Section 181(2), (4), and (5)][884]: omit ""Department of Labour"" in each place where it appears and substitute in each case ""responsible department"".
+[Section 181(2), (4), and (5)][908]: omit ""Department of Labour"" in each place where it appears and substitute in each case ""responsible department"".
 
-[Section 203(a)][885]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 203(a)][909]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980 (1980 No 44)
 
-[Section 17][886]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 17][910]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Crimes of Torture Act 1989 (1989 No 106)
 
-[Section 16][887]: omit ""Immigration Act 1987"" from paragraph (g) of the definition of _place of detention_ and substitute ""Immigration Act 2009"".
+[Section 16][911]: omit ""Immigration Act 1987"" from paragraph (g) of the definition of _place of detention_ and substitute ""Immigration Act 2009"".
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-[Section 32B][888]: omit ""Immigration Act 1987"" in each place where it appears and substitute in each case ""Immigration Act 2009"".
+[Section 32B][912]: omit ""Immigration Act 1987"" in each place where it appears and substitute in each case ""Immigration Act 2009"".
 
-[Section 175C(1)(b)(iv)][889]: repeal and substitute:
+[Section 175C(1)(b)(iv)][913]: repeal and substitute:
 
 > *   "(iv) section 342(1)(c) or 345(1) of the Immigration Act 2009:".
 > 
 > 
 
-[Section 280(4)][890]: repeal and substitute:
+[Section 280(4)][914]: repeal and substitute:
 
 > *   "(4) Nothing in subsection (3) applies in respect of persons who are exempted by regulations or a special direction made under the Immigration Act 2009 from, as the case may require, the requirement to---
 >         
@@ -13409,7 +13813,7 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 
 ##### Education Act 1964 (1964 No 135)
 
-[Section 2(1)][891]: repeal the definition of _domestic student_ and substitute:
+[Section 2(1)][915]: repeal the definition of _domestic student_ and substitute:
 
 > "_domestic student_, at any time, means a person who is then---
 >     
@@ -13423,7 +13827,7 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 
 ##### Education Act 1989 (1989 No 80)
 
-[Section 2(1)][892]: repeal the definition of _domestic student_ and substitute:
+[Section 2(1)][614]: repeal the definition of _domestic student_ and substitute:
 
 > "_domestic student_, at any time, means a person who is then---
 >     
@@ -13435,9 +13839,9 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 > 
 > 
 
-[Section 2(4)][892]: omit ""residence permit under the Immigration Act 1987"" and substitute ""residence class visa granted under the Immigration Act 2009"".
+[Section 2(4)][614]: omit ""residence permit under the Immigration Act 1987"" and substitute ""residence class visa granted under the Immigration Act 2009"".
 
-[Section 60][893]: repeal the definition of _foreign student_ and substitute:
+[Section 60][916]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -13449,7 +13853,7 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 > 
 > 
 
-[Section 103(1)(e)][894]: repeal and substitute:
+[Section 103(1)(e)][917]: repeal and substitute:
 
 > *   "(e) is not a New Zealand citizen, and is---
 >         
@@ -13463,7 +13867,7 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 > 
 > 
 
-[Section 159(1)][895]: repeal the definition of _domestic student_ and substitute:
+[Section 159(1)][918]: repeal the definition of _domestic student_ and substitute:
 
 > "_domestic student_, at any time, means a person who is then---
 >     
@@ -13475,13 +13879,13 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 > 
 > 
 
-[Section 159(4)][895]: omit ""residence permit under the Immigration Act 1987"" and substitute ""residence class visa granted under the Immigration Act 2009"".
+[Section 159(4)][918]: omit ""residence permit under the Immigration Act 1987"" and substitute ""residence class visa granted under the Immigration Act 2009"".
 
-[Section 236B(1)][896]: omit ""paragraph (a) of the definition of that term in section 2(1) of the Immigration Act 1987"" and substitute ""section 4 of the Immigration Act 2009"".
+[Section 236B(1)][919]: omit ""paragraph (a) of the definition of that term in section 2(1) of the Immigration Act 1987"" and substitute ""section 4 of the Immigration Act 2009"".
 
 ##### Electoral Act 1993 (1993 No 87)
 
-[Section 73(a) and (b)][897]: repeal and substitute:
+[Section 73(a) and (b)][920]: repeal and substitute:
 
 > *   "(a) resides in New Zealand; and
 > 
@@ -13497,7 +13901,7 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 > 
 > 
 
-[Section 263A][898]: repeal and substitute:
+[Section 263A][921]: repeal and substitute:
 
 > ##### "263A Disclosure of immigration information for matching purposes
 >     
@@ -13559,7 +13963,7 @@ Item relating to Department of Labour in [Schedule 1A][873]: omit from the item 
 
 ##### Electronic Transactions Act 2002 (2002 No 35)
 
-Item (14) in [Part 4][899] of the Schedule: repeal and substitute:
+Item (14) in [Part 4][922] of the Schedule: repeal and substitute:
 
 > *   "(14) the Refugee Status Appeals Authority, the Removal Review Authority, and the Residence Review Board continued by, and the Immigration and Protection Tribunal established under, the Immigration Act 2009:".
 > 
@@ -13567,55 +13971,55 @@ Item (14) in [Part 4][899] of the Schedule: repeal and substitute:
 
 ##### Extradition Act 1999 (1999 No 55)
 
-[Section 91][900]: omit ""**permit**"" and substitute ""**visa**"" in the section heading.
+[Section 91][923]: omit ""**permit**"" and substitute ""**visa**"" in the section heading.
 
-[Section 91(1)][900]: omit ""permit under the Immigration Act 1987"" and substitute ""visa under the Immigration Act 2009"".
+[Section 91(1)][923]: omit ""permit under the Immigration Act 1987"" and substitute ""visa under the Immigration Act 2009"".
 
-[Section 91(2)][900]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 91(2)][923]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 94(3)][901]: repeal and substitute:
+[Section 94(3)][924]: repeal and substitute:
 
 > *   "(3) If the Minister issues a certificate, the Minister may, if he or she thinks fit, refer the person's case to the Minister of Immigration for consideration under section 61 of the Immigration Act 2009, and in that case that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand."
 > 
 > 
 
-[Section 94(4)][901]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 94(4)][924]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 94(5)(a)][901]: omit ""permit"" and substitute ""visa"".
+[Section 94(5)(a)][924]: omit ""permit"" and substitute ""visa"".
 
-[Section 96(8)][902]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 96(8)][925]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 107][903]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the section heading.
+[Section 107][926]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the section heading.
 
-[Section 107][903]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 107][926]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Fisheries Act 1996 (1996 No 88)
 
-[Section 57G(1)(e)][904]: repeal and substitute:
+[Section 57G(1)(e)][927]: repeal and substitute:
 
 > *   "(e) none of the individuals with control of the relevant overseas person are individuals of the kind referred to in section 15 or 16 of the Immigration Act 2009 (which list certain persons not eligible for visas or entry permission under that Act):".
 > 
 > 
 
-[Section 57I][905]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the section heading.
+[Section 57I][928]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the section heading.
 
-[Section 57I(2)][905]: repeal and substitute:
+[Section 57I(2)][928]: repeal and substitute:
 
 > *   "(2) For the purposes of section 57G(1)(e), an individual is not an individual of the kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)(a) of that Act has been made permitting a visa and entry permission to be granted to that individual under that Act."
 > 
 > 
 
-[Section 103(5)(a)][906]: omit ""a work permit under the Immigration Act 1987"" and substitute ""a temporary entry class visa with conditions that allow the person to work under the Immigration Act 2009"".
+[Section 103(5)(a)][929]: omit ""a work permit under the Immigration Act 1987"" and substitute ""a temporary entry class visa with conditions that allow the person to work under the Immigration Act 2009"".
 
 ##### Government Communications Security Bureau Act 2003 (2003 No 9)
 
-[Section 4][907]: omit ""residence permit under the Immigration Act 1987"" from the definition of _permanent resident_ and substitute ""residence class visa under the Immigration Act 2009"".
+[Section 4][930]: omit ""residence permit under the Immigration Act 1987"" from the definition of _permanent resident_ and substitute ""residence class visa under the Immigration Act 2009"".
 
 ##### Habeas Corpus Act 2001 (2001 No 31)
 
-[Section 8(b)][908]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 8(b)][931]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 8(c)][908]: repeal and substitute:
+[Section 8(c)][931]: repeal and substitute:
 
 > *   "(c) the chief executive of the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009, if the detained person is alleged to be illegally detained in custody following the exercise of powers under that Act; or".
 > 
@@ -13623,11 +14027,11 @@ Item (14) in [Part 4][899] of the Schedule: repeal and substitute:
 
 ##### Health Act 1956 (1956 No 65)
 
-[Section 99(1)(b)][909]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 99(1)(b)][932]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Immigration Advisers Licensing Act 2007 (2007 No 15)
 
-[Section 5][910]: repeal the definitions of _immigration application or request_ and _immigration matter_ and substitute:
+[Section 5][933]: repeal the definitions of _immigration application or request_ and _immigration matter_ and substitute:
 
 > "_immigration application or request_ means the putting forward of any application, request, claim, appeal, or other approach seeking to have the Minister, the Department, the Immigration and Protection Tribunal, or an immigration officer or a refugee and protection officer deal with an immigration matter
 > 
@@ -13647,23 +14051,23 @@ Item (14) in [Part 4][899] of the Schedule: repeal and substitute:
 > 
 > 
 
-[Section 5][910]: repeal the definition of _permit_.
+[Section 5][933]: repeal the definition of _permit_.
 
-[Section 5][910]: insert ""protected persons,"" after ""refugees,"" in the definition of _settlement services_ (twice).
+[Section 5][933]: insert ""protected persons,"" after ""refugees,"" in the definition of _settlement services_ (twice).
 
-[Section 5][910]: repeal the definition of _visa_ and substitute:
+[Section 5][933]: repeal the definition of _visa_ and substitute:
 
 > "_visa_ means a visa granted under the Immigration Act 2009".
 
-[Section 7(b)(ii)][911]: repeal and substitute:
+[Section 7(b)(ii)][934]: repeal and substitute:
 
 > *   "(ii) directing a person to the Minister or the Department, or to an immigration officer or a refugee and protection officer (within the meaning of the Immigration Act 2009), or to a list of licensed immigration advisers; or".
 > 
 > 
 
-[Section 9(2)][912]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 9(2)][935]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 11(h)][913]: omit and substitute:
+[Section 11(h)][936]: omit and substitute:
 
 > *   "(h) persons who provide---
 >         
@@ -13675,7 +14079,7 @@ Item (14) in [Part 4][899] of the Schedule: repeal and substitute:
 > 
 > 
 
-[Section 15(1)(c) and (d)][914]: repeal and substitute:
+[Section 15(1)(c) and (d)][937]: repeal and substitute:
 
 > *   "(c) has been convicted of an offence against the Immigration Act 2009, the Immigration Act 1987, or the Immigration Act 1964; or
 > 
@@ -13683,19 +14087,19 @@ Item (14) in [Part 4][899] of the Schedule: repeal and substitute:
 > 
 > 
 
-[Section 15(2)][914]: add:
+[Section 15(2)][937]: add:
 
 > *   "(c) any immigration officer or refugee and protection officer (as defined in the Immigration Act 2009)."
 > 
 > 
 
-[Section 91][915]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 91][938]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Income Tax Act 2007 (2007 No 97)
 
-Paragraph (d) of the definition of **non-resident crew member** in [section CW 21(2)][916]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+Paragraph (d) of the definition of **non-resident crew member** in [section CW 21(2)][939]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][917]: repeal and substitute:
+Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][940]: repeal and substitute:
 
 > *   "(c) does not include being lawfully resident in New Zealand only because of holding a temporary entry class visa".
 > 
@@ -13703,7 +14107,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-[Section 17(1)(b)][918]: repeal and substitute:
+[Section 17(1)(b)][941]: repeal and substitute:
 
 > *   "(b) is in 1 of the following categories:
 >         
@@ -13717,11 +14121,11 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 17(5)][918]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 17(5)][941]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 127(2)][919]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 127(2)][942]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 286(5)(g)][920]: repeal and substitute:
+[Section 286(5)(g)][943]: repeal and substitute:
 
 > *   "(g) Immigration Act 2009:".
 > 
@@ -13729,43 +14133,43 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### International Crimes and International Criminal Court Act 2000 (2000 No 26)
 
-[Section 150(3)][639]: repeal and substitute:
+[Section 150(3)][651]: repeal and substitute:
 
 > *   "(3) If the Minister issues a certificate, the Minister may refer the person's case to the Minister of Immigration for consideration under section 61 of the Immigration Act 2009, and, in that case, that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand."
 > 
 > 
 
-[Section 150(4)][639]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 150(4)][651]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Section 151(a)(i)][921]: omit and substitute:
+[Section 151(a)(i)][944]: omit and substitute:
 
 > *   "(i) the Minister of Immigration declines to grant a visa under the Immigration Act 2009; and".
 > 
 > 
 
-[Section 155][922]: omit ""**permit**"" and substitute ""**visa**"" in the section heading.
+[Section 155][945]: omit ""**permit**"" and substitute ""**visa**"" in the section heading.
 
-[Section 155][922]: omit ""permit under the Immigration Act 1987"" and substitute ""visa under the Immigration Act 2009"".
+[Section 155][945]: omit ""permit under the Immigration Act 1987"" and substitute ""visa under the Immigration Act 2009"".
 
 ##### International War Crimes Tribunals Act 1995 (1995 No 27)
 
-[Section 34(4)][923]: omit ""temporary permit under the Immigration Act 1987"" and substitute ""limited visa under the Immigration Act 2009"".
+[Section 34(4)][946]: omit ""temporary permit under the Immigration Act 1987"" and substitute ""limited visa under the Immigration Act 2009"".
 
 ##### Judicature Act 1908 (1908 No 89)
 
-[Section 56CA][924]: repeal.
+[Section 56CA][947]: repeal.
 
 ##### KiwiSaver Act 2006 (2006 No 40)
 
-[Section 6(1)(b)][925]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 6(1)(b)][948]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Lawyers and Conveyancers Act 2006 (2006 No 1)
 
-[Section 335(b) and (c)][926]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
+[Section 335(b) and (c)][949]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-[Section 7(1)(j), (k), (l), and (m)][927]: repeal and substitute:
+[Section 7(1)(j), (k), (l), and (m)][950]: repeal and substitute:
 
 > *   "(j) proceedings before the Immigration and Protection Tribunal, as established by the Immigration Act 2009, in respect of appeals against decisions to decline to grant recognition as a refugee or a protected person, or decisions to cease to recognise a person as a refugee or a protected person, as provided in sections 194(1) and 195 of that Act, or against liability for deportation arising under section 162 of that Act:
 > 
@@ -13779,7 +14183,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 7(4)(f) and (g)][927]: repeal and substitute:
+[Section 7(4)(f) and (g)][950]: repeal and substitute:
 
 > *   "(f) any appeal to the Immigration and Protection Tribunal against a decision concerning a residence class visa under section 187 of the Immigration Act 2009 (or any appeal to the Residence Appeal Authority under section 18C of the Immigration Act 1987):
 > 
@@ -13787,7 +14191,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 10(1) and (2)][928]: repeal and substitute:
+[Section 10(1) and (2)][951]: repeal and substitute:
 
 > *   "(1) Subject to subsection (2), the Agency may not grant legal aid in respect of---
 >         
@@ -13829,7 +14233,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Lincoln University Act 1961 (1961 No 52)
 
-[Section 2(1)][929]: repeal the definition of _foreign student_ and substitute:
+[Section 2(1)][952]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -13843,7 +14247,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Maritime Crimes Act 1999 (1999 No 56)
 
-[Section 19][930]: repeal and substitute:
+[Section 19][953]: repeal and substitute:
 
 > ##### "19 Immigration Act 2009 not limited
 >     
@@ -13853,7 +14257,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Maritime Security Act 2004 (2004 No 16)
 
-[Section 59(1)(a)(ii)(D)][931]: repeal and substitute:
+[Section 59(1)(a)(ii)(D)][954]: repeal and substitute:
 
 > *   "(D) the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the Immigration Act 2009; and".
 > 
@@ -13861,7 +14265,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Massey University Act 1963 (1963 No 7)
 
-[Section 2(1)][932]: repeal the definition of _foreign student_ and substitute:
+[Section 2(1)][955]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -13875,21 +14279,21 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Mutual Assistance in Criminal Matters Act 1992 (1992 No 86)
 
-[Section 13(1)][670]: omit ""temporary permit under the Immigration Act 1987"" and substitute ""temporary visa under the Immigration Act 2009"".
+[Section 13(1)][683]: omit ""temporary permit under the Immigration Act 1987"" and substitute ""temporary visa under the Immigration Act 2009"".
 
-[Section 42(5)][671]: omit ""temporary permit under the Immigration Act 1987"" and substitute ""temporary visa under the Immigration Act 2009"".
+[Section 42(5)][684]: omit ""temporary permit under the Immigration Act 1987"" and substitute ""temporary visa under the Immigration Act 2009"".
 
 ##### New Zealand Security Intelligence Service Act 1969 (1969 No 24)
 
-[Section 2][933]: repeal the definition of _permanent resident_ and substitute:
+[Section 2][956]: repeal the definition of _permanent resident_ and substitute:
 
 > "_permanent resident_ means a person who is in New Zealand and who is the holder, or is deemed to be the holder, of a residence class visa under the Immigration Act 2009".
 
-[Section 4(1)(bc)][934]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 4(1)(bc)][957]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Official Information Act 1982 (1982 No 156)
 
-[Section 2][935]: repeal the definition of _permanent resident of New Zealand_ and substitute:
+[Section 2][958]: repeal the definition of _permanent resident of New Zealand_ and substitute:
 
 > "_permanent resident of New Zealand_ means a person who---
 >     
@@ -13909,27 +14313,27 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Overseas Investment Act 2005 (2005 No 82)
 
-[Section 6(2)(a)][936]: repeal and substitute:
+[Section 6(2)(a)][959]: repeal and substitute:
 
 > *   "(a) holds a residence class visa granted under the Immigration Act 2009; and".
 > 
 > 
 
-[Section 16(1)(d)][937]: repeal and substitute:
+[Section 16(1)(d)][960]: repeal and substitute:
 
 > *   "(d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act):".
 > 
 > 
 
-[Section 18(1)(d)][938]: repeal and substitute:
+[Section 18(1)(d)][961]: repeal and substitute:
 
 > *   "(d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act)."
 > 
 > 
 
-[Section 19][939]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the section heading.
+[Section 19][962]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the section heading.
 
-[Section 19(2)][939]: repeal and substitute:
+[Section 19(2)][962]: repeal and substitute:
 
 > *   "(2) For the purposes of sections 16(1)(d) and 18(1)(d), an individual is not an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)(a) of that Act has been made permitting a visa or entry permission to be granted to that individual."
 > 
@@ -13937,7 +14341,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Parole Act 2002 (2002 No 10)
 
-[Section 55][715]: repeal and substitute:
+[Section 55][731]: repeal and substitute:
 
 > ##### "55 Offenders may be released early for deportation
 >     
@@ -13999,7 +14403,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 >     
 >     "(2) The offender must be returned to the custody of the manager if the circumstances in section 336(1) of the Immigration Act 2009 arise.
 >     
->     "(3) The warrant by which an offender was originally committed to the prison is deemed to be still in force for the purpose of his or her return to custody under subsection (2). 
+>     "(3) The warrant by which an offender was originally committed to the prison is deemed to be still in force for the purpose of his or her return to custody under subsection (2).
 >     
 >     "(4) This section applies to an offender returned to custody under subsection (2) until he or she is finally deported.
 > 
@@ -14017,7 +14421,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Passports Act 1992 (1992 No 92)
 
-[Section 2][940]: repeal the definition of _refugee_ and substitute:
+[Section 2][963]: repeal the definition of _refugee_ and substitute:
 
 > "_refugee_ means a person who---
 >     
@@ -14041,7 +14445,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Pitcairn Trials Act 2002 (2002 No 83)
 
-[Section 10][941]: repeal and substitute:
+[Section 10][964]: repeal and substitute:
 
 > ##### "10 Limited visas under Immigration Act 2009 for certain participants in trials
 >     
@@ -14065,7 +14469,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 13][942]: repeal and substitute:
+[Section 13][965]: repeal and substitute:
 
 > ##### "13 Expiry of limited visa and liability for deportation may be effective immediately upon giving or service of notice
 >     
@@ -14081,19 +14485,19 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 14(1)(b)][943]: repeal and substitute:
+[Section 14(1)(b)][966]: repeal and substitute:
 
 > *   "(b) Immigration Act 2009:".
 > 
 > 
 
-[Section 62(5)(b) and (7)][944]: omit ""Immigration Act 1987"" and substitute in each case ""Immigration Act 2009"".
+[Section 62(5)(b) and (7)][967]: omit ""Immigration Act 1987"" and substitute in each case ""Immigration Act 2009"".
 
-[Section 66(4) and (5)][945]: omit ""Immigration Act 1987"" in each place where it appears and substitute in each case ""Immigration Act 2009"".
+[Section 66(4) and (5)][968]: omit ""Immigration Act 1987"" in each place where it appears and substitute in each case ""Immigration Act 2009"".
 
 ##### Privacy Act 1993 (1993 No 28)
 
-[Section 2][946]: repeal the definition of _permanent resident of New Zealand_ and substitute:
+[Section 2][969]: repeal the definition of _permanent resident of New Zealand_ and substitute:
 
 > "_permanent resident of New Zealand_ means a person who---
 >     
@@ -14111,13 +14515,13 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 97][947]: repeal paragraph (g) of the definition of _adverse action_ and substitute:
+[Section 97][970]: repeal paragraph (g) of the definition of _adverse action_ and substitute:
 
 > *   "(g) to make a deportation order in relation to the individual, to serve the individual with a deportation liability notice, or to deport the individual from New Zealand".
 > 
 > 
 
-[Schedule 3][948]: omit the item relating to the Immigration Act 1987 and substitute:
+[Schedule 3][971]: omit the item relating to the Immigration Act 1987 and substitute:
 
 > Immigration Act 2009Sections 294, 295, 298, 299, and 300
 > 
@@ -14125,7 +14529,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Prostitution Reform Act 2003 (2003 No 28)
 
-[Section 19][949]: repeal and substitute:
+[Section 19][972]: repeal and substitute:
 
 > ##### "19 Application of Immigration Act 2009
 >     
@@ -14155,11 +14559,11 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 
 ##### Ship Registration Act 1992 (1992 No 89)
 
-[Section 8(2)(ba) and (c)][950]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
+[Section 8(2)(ba) and (c)][973]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"" in each case.
 
 ##### Social Security Act 1964 (1964 No 136)
 
-[Section 74AA(1)][951]: repeal and substitute:
+[Section 74AA(1)][974]: repeal and substitute:
 
 > *   "(1) A person who applies for a benefit of a kind stated in subsection (2) after 27 May 2007 is not eligible for it unless he or she---
 >         
@@ -14173,7 +14577,7 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 74A(1)][952]: repeal and substitute:
+[Section 74A(1)][975]: repeal and substitute:
 
 > *   "(1) A person is not entitled to receive a benefit who is---
 >         
@@ -14195,13 +14599,13 @@ Paragraph (c) of the definition of **New Zealand resident** in [section MA 8][91
 > 
 > 
 
-[Section 74A(3)(b)(ii)][952]: omit ""one of the permits listed in paragraph (b) of subsection (1)"" and substitute ""holding a temporary entry class visa"".
+[Section 74A(3)(b)(ii)][975]: omit ""one of the permits listed in paragraph (b) of subsection (1)"" and substitute ""holding a temporary entry class visa"".
 
-[Section 74A(4)][952]: omit ""any of paragraphs (c), (d), or (e) of subsection (1)"" and substitute ""subsection (1A)"".
+[Section 74A(4)][975]: omit ""any of paragraphs (c), (d), or (e) of subsection (1)"" and substitute ""subsection (1A)"".
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 and substitute:
+Schedule 1, [Part 2][976]: omit the item relating to the Immigration Act 1987 and substitute:
 
 > **Title of Act****Section of Act****Offence**
 > 
@@ -14221,15 +14625,15 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
-[Section 24I(4)][954]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Section 24I(4)][977]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-[Section 28(1)][955]: omit ""or permanent resident or intending resident"" and substitute "", person resident in New Zealand, or person intending to reside in New Zealand"".
+[Section 28(1)][978]: omit ""or permanent resident or intending resident"" and substitute "", person resident in New Zealand, or person intending to reside in New Zealand"".
 
 ##### University of Auckland Act 1961 (1961 No 50)
 
-[Section 2(1)][956]: repeal the definition of _foreign student_ and substitute:
+[Section 2(1)][979]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -14243,7 +14647,7 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 
 ##### University of Canterbury Act 1961 (1961 No 49)
 
-[Section 2(1)][957]: repeal the definition of _foreign student_ and substitute:
+[Section 2(1)][980]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -14257,7 +14661,7 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 
 ##### University of Otago Amendment Act 1961 (1961 No 48)
 
-[Section 2(1)][958]: repeal the definition of _foreign student_ and substitute:
+[Section 2(1)][981]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -14271,7 +14675,7 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 
 ##### University of Waikato Act 1963 (1963 No 8)
 
-[Section 2(1)][959]: repeal the definition of _foreign student_ and substitute:
+[Section 2(1)][982]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -14285,7 +14689,7 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 
 ##### Victims' Rights Act 2002 (2002 No 39)
 
-[Section 39][960]: repeal and substitute:
+[Section 39][983]: repeal and substitute:
 
 > ##### "39 Notice of proposal to cancel or suspend liability for deportation
 >     
@@ -14333,7 +14737,7 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 > 
 > 
 
-[Section 48][961]: repeal and substitute:
+[Section 48][984]: repeal and substitute:
 
 > ##### "48 Victim may make submission on consideration of cancellation or suspension of liability for deportation, or offender's appeal against deportation
 >     
@@ -14343,7 +14747,7 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 
 ##### Victoria University of Wellington Act 1961 (1961 No 51)
 
-[Section 2(1)][962]: repeal the definition of _foreign student_ and substitute:
+[Section 2(1)][985]: repeal the definition of _foreign student_ and substitute:
 
 > "_foreign student_ means a person who is not a New Zealand citizen and is---
 >     
@@ -14360,45 +14764,45 @@ Schedule 1, [Part 2][953]: omit the item relating to the Immigration Act 1987 an
 ## Schedule 4  
 Regulations, rules, and orders amended
 
-[s 406(2)][500]
+[s 406(2)][508]
 
 ##### Corrections Regulations 2005 (SR 2005/53)
 
-[Regulation 70(6)][963]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Regulation 70(6)][986]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Regulation 184][964]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the regulation heading.
+[Regulation 184][987]: omit ""**Immigration Act 1987**"" and substitute ""**Immigration Act 2009**"" in the regulation heading.
 
-[Regulation 184][964]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Regulation 184][987]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Regulation 188(2)][965]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
+[Regulation 188(2)][988]: omit ""Immigration Act 1987"" and substitute ""Immigration Act 2009"".
 
-[Regulation 193(1)(c) and (2)][966]: omit ""Immigration Act 1987"" and substitute in each case ""Immigration Act 2009"".
+[Regulation 193(1)(c) and (2)][989]: omit ""Immigration Act 1987"" and substitute in each case ""Immigration Act 2009"".
 
 ##### Customs and Excise Regulations 1996 (SR 1996/232)
 
-[Regulation 2][967]: revoke the definition of _certificate of identity_ and substitute:
+[Regulation 2][990]: revoke the definition of _certificate of identity_ and substitute:
 
 > "_certificate of identity_ has the same meaning as in section 4 of the Immigration Act 2009".
 
 ##### Diplomatic Privileges (EC) Order 2004 (SR 2004/56)
 
-[Clause 3(1)][968]: revoke paragraph (a) of the definition of _New Zealand national_ and substitute:
+[Clause 3(1)][991]: revoke paragraph (a) of the definition of _New Zealand national_ and substitute:
 
 > *   "(a) a New Zealand citizen or the holder of a residence class visa under the Immigration Act 2009; and".
 > 
 > 
 
-[Clause 3(1)][968]: revoke the definition of _permanent resident_.
+[Clause 3(1)][991]: revoke the definition of _permanent resident_.
 
 ##### Diplomatic Privileges (International Criminal Court) Order 2004 (SR 2004/79)
 
-[Clause 3][969]: revoke the definition of _permanent resident_ and substitute:
+[Clause 3][992]: revoke the definition of _permanent resident_ and substitute:
 
 > "_permanent resident_ means a person who is the holder of a residence class visa under the Immigration Act 2009".
 
 ##### Health Entitlement Cards Regulations 1993 (SR 1993/169)
 
-[Regulation 2(1)][970]: revoke the definition of _ordinarily resident in New Zealand_ and substitute:
+[Regulation 2(1)][993]: revoke the definition of _ordinarily resident in New Zealand_ and substitute:
 
 > "_ordinarily resident in New Zealand_, in relation to any person, includes a person who the Director-General is satisfied is in the process of claiming recognition as a refugee or a protected person in New Zealand; but does not include any other person---
 >     
@@ -14410,11 +14814,11 @@ Regulations, rules, and orders amended
 
 ##### Health (Quarantine) Regulations 1983 (SR 1983/52)
 
-[Regulation 27][971]: omit ""Immigration Act 1964"" and substitute ""Immigration Act 2009"".
+[Regulation 27][994]: omit ""Immigration Act 1964"" and substitute ""Immigration Act 2009"".
 
 ##### Land Transport (Driver Licensing) Rule 1999 (SR 1999/100)
 
-[Rule 10(1)(f)][972]: omit ""section 2(1) of the Immigration Act 1987"" and substitute ""section 4 of the Immigration Act 2009"".
+[Rule 10(1)(f)][995]: omit ""section 2(1) of the Immigration Act 1987"" and substitute ""section 4 of the Immigration Act 2009"".
 
 ##### Land Transport Rule 32006/1: Frontal Impact 2001
 
@@ -14430,7 +14834,7 @@ Definition of _Immigrant's vehicle_ in Part 2: revoke and substitute:
 
 Definition of _New Zealand resident_ in Part 2: revoke and substitute:
 
-> "_New Zealand resident_ means a person who holds a residence class visa under the [Immigration Act 2009][973]".
+> "_New Zealand resident_ means a person who holds a residence class visa under the [Immigration Act 2009][996]".
 
 Clause 2(a) of Schedule 1: revoke and substitute:
 
@@ -14446,21 +14850,21 @@ Clause 3(a) of Schedule 1: revoke and substitute:
 
 ##### Sale of Liquor Regulations 1990 (SR 1990/61)
 
-[Regulation 21C(f)][974]: omit ""section 2(1) of the Immigration Act 1987"" and substitute ""section 4 of the Immigration Act 2009"".
+[Regulation 21C(f)][997]: omit ""section 2(1) of the Immigration Act 1987"" and substitute ""section 4 of the Immigration Act 2009"".
 
-[Regulation 21C(g)][974]: revoke.
+[Regulation 21C(g)][997]: revoke.
 
 ##### Social Security (SuperGold Card) Regulations 2007 (SR 2007/209)
 
-[Regulation 9(b)][975]: revoke and substitute:
+[Regulation 9(b)][998]: revoke and substitute:
 
-> *   "(b) is the holder of a residence class visa granted under the [Immigration Act 2009][973]."
+> *   "(b) is the holder of a residence class visa granted under the [Immigration Act 2009][996]."
 > 
 > 
 
 ##### Social Security (Temporary Additional Support) Regulations 2005 (SR 2005/334)
 
-[Regulation 10A][976]: revoke and substitute:
+[Regulation 10A][999]: revoke and substitute:
 
 > ##### "10A Variation of upper limit for persons awaiting decision on refugee or protected person claims, refugees and protected persons, and certain applicants for residence class visas
 >     
@@ -14484,7 +14888,7 @@ Clause 3(a) of Schedule 1: revoke and substitute:
 
 ##### Student Allowances Regulations 1998 (SR 1998/277)
 
-[Regulation 12(1)(a)][977]: revoke and substitute:
+[Regulation 12(1)(a)][1000]: revoke and substitute:
 
 > *   "(a) he or she---
 >         
@@ -14500,17 +14904,17 @@ Clause 3(a) of Schedule 1: revoke and substitute:
 
 ##### United Nations Sanctions (Al-Qaida and Taliban) Regulations 2007 (SR 2007/356)
 
-[Regulation 13(2) and (3)][978]: revoke and substitute:
+[Regulation 13(2) and (3)][1001]: revoke and substitute:
 
 > *   "(2) A visa may be granted under the Immigration Act 2009 to a person who is a specified entity only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
-> *   "(3) This regulation operates in addition to the requirements of the [Immigration Act 2009][973] and any regulations made under that Act."
+> *   "(3) This regulation operates in addition to the requirements of the [Immigration Act 2009][996] and any regulations made under that Act."
 > 
 > 
 
 ##### United Nations Sanctions (Côte d'Ivoire) Regulations 2005 (SR 2005/339)
 
-[Regulation 13(3) and (4)][979]: revoke and substitute:
+[Regulation 13(3) and (4)][1002]: revoke and substitute:
 
 > *   "(3) A visa may be granted under the Immigration Act 2009 to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
@@ -14520,7 +14924,7 @@ Clause 3(a) of Schedule 1: revoke and substitute:
 
 ##### United Nations Sanctions (Democratic People's Republic of Korea) Regulations 2006 (SR 2006/382)
 
-[Regulation 17(3) and (4)][980]: revoke and substitute:
+[Regulation 17(3) and (4)][1003]: revoke and substitute:
 
 > *   "(3) A visa may be granted under the Immigration Act 2009 to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
@@ -14530,37 +14934,37 @@ Clause 3(a) of Schedule 1: revoke and substitute:
 
 ##### United Nations Sanctions (Democratic Republic of the Congo) Regulations 2004 (SR 2004/465)
 
-[Regulation 12D(4) and (5)][981]: revoke and substitute:
+[Regulation 12D(4) and (5)][1004]: revoke and substitute:
 
 > *   "(4) A visa may be granted under the Immigration Act 2009 to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
-> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][973] and any regulations made under that Act."
+> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][996] and any regulations made under that Act."
 > 
 > 
 
 ##### United Nations Sanctions (Iran) Regulations 2007 (SR 2007/74)
 
-[Regulation 16B(4) and (5)][982]: revoke and substitute:
+[Regulation 16B(4) and (5)][1005]: revoke and substitute:
 
 > *   "(4) A visa may be granted under the Immigration Act 2009 to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
-> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][973] and any regulations made under that Act."
+> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][996] and any regulations made under that Act."
 > 
 > 
 
 ##### United Nations Sanctions (Lebanon) Regulations 2008 (SR 2008/262)
 
-[Regulation 17(4) and (5)][983]: revoke and substitute:
+[Regulation 17(4) and (5)][1006]: revoke and substitute:
 
-> *   "(4) A visa may be granted under the [Immigration Act 2009][973] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
+> *   "(4) A visa may be granted under the [Immigration Act 2009][996] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
-> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][973] and any regulations made under that Act."
+> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][996] and any regulations made under that Act."
 > 
 > 
 
 ##### United Nations Sanctions (Liberia) Regulations 2001 (SR 2001/134)
 
-[Regulation 16(2) and (3)][984]: revoke and substitute:
+[Regulation 16(2) and (3)][1007]: revoke and substitute:
 
 > *   "(2) A visa may be granted under the Immigration Act 2009 to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
@@ -14570,31 +14974,31 @@ Clause 3(a) of Schedule 1: revoke and substitute:
 
 ##### United Nations Sanctions (Sierra Leone) Regulations 1997 (SR 1997/281)
 
-[Regulation 11(3A) and (4)][985]: revoke and substitute:
+[Regulation 11(3A) and (4)][1008]: revoke and substitute:
 
-> *   "(3A) A visa may be granted under the [Immigration Act 2009][973] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
+> *   "(3A) A visa may be granted under the [Immigration Act 2009][996] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
-> *   "(4) This regulation operates in addition to the requirements of the [Immigration Act 2009][973] and any regulations made under that Act."
+> *   "(4) This regulation operates in addition to the requirements of the [Immigration Act 2009][996] and any regulations made under that Act."
 > 
 > 
 
 ##### United Nations Sanctions (Somalia) Regulations 1992 (SR 1992/42)
 
-[Regulation 10F(4) and (5)][986]: revoke and substitute:
+[Regulation 10F(4) and (5)][1009]: revoke and substitute:
 
-> *   "(4) A visa may be granted under the [Immigration Act 2009][973] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
+> *   "(4) A visa may be granted under the [Immigration Act 2009][996] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
-> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][973] and any regulations made under that Act."
+> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][996] and any regulations made under that Act."
 > 
 > 
 
 ##### United Nations Sanctions (Sudan) Regulations 2004 (SR 2004/466)
 
-[Regulation 13D(4) and (5)][987]: revoke and substitute:
+[Regulation 13D(4) and (5)][1010]: revoke and substitute:
 
-> *   "(4) A visa may be granted under the [Immigration Act 2009][973] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
+> *   "(4) A visa may be granted under the [Immigration Act 2009][996] to a designated person only on the advice of the Secretary of Foreign Affairs and Trade that the visa is consistent with subclause (1).
 > 
-> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][973] and any regulations made under that Act."
+> *   "(5) This regulation operates in addition to the requirements of the [Immigration Act 2009][996] and any regulations made under that Act."
 > 
 > 
 
@@ -14603,7 +15007,7 @@ Clause 3(a) of Schedule 1: revoke and substitute:
 ## Schedule 5  
 Visas corresponding to visas and permits held under former Act
 
-[s 415][514]
+[s 415][522]
 
 ## Part 1  
 Visas corresponding to visas held under former Act by persons who are outside New Zealand
@@ -14628,7 +15032,7 @@ Residence visa---
 
 *   (b) of limited duration; and
 
-*   (c) that specifies requirements are to be imposed under [section 18A][988] of the former Act on grant of permit
+*   (c) that specifies requirements are to be imposed under [section 18A][1011] of the former Act on grant of permit
 
 Resident visa---
     
@@ -14664,7 +15068,7 @@ Resident visa---
 
 *   (c) allowing the holder to stay in New Zealand
 
-Returning resident's visa of limited duration that specifies requirements are to be imposed under [section 18A][988] of the former Act on grant of permit 
+Returning resident's visa of limited duration that specifies requirements are to be imposed under [section 18A][1011] of the former Act on grant of permit 
 
 Resident visa---
     
@@ -14762,7 +15166,7 @@ Temporary visa granted for the purpose of the Mutual Assistance in Criminal Matt
 
 Limited visa---
     
-*   (a) deemed to be granted under [section 72][89] of this Act; and
+*   (a) deemed to be granted under [section 72][90] of this Act; and
 
 *   (b) allowing travel to New Zealand within the period or until the date specified in the temporary visa issued under the former Act; and
 
@@ -14777,9 +15181,9 @@ Residence permit only
 
 Resident visa allowing stay in New Zealand
 
-Residence permit subject to requirements imposed under [section 18A][988] of the former Act 
+Residence permit subject to requirements imposed under [section 18A][1011] of the former Act 
 
-Resident visa allowing stay in New Zealand subject to conditions equivalent to the requirements imposed under [section 18A][988] of the former Act
+Resident visa allowing stay in New Zealand subject to conditions equivalent to the requirements imposed under [section 18A][1011] of the former Act
 
 Residence permit and returning resident's visa of limited duration 
 
@@ -14791,13 +15195,13 @@ Resident visa---
 
 *   (c) allowing entry to New Zealand within the period or until the date specified in the returning resident's visa issued under the former Act
 
-Residence permit subject to requirements imposed under [section 18A][988] of the former Act and returning resident's visa of limited duration 
+Residence permit subject to requirements imposed under [section 18A][1011] of the former Act and returning resident's visa of limited duration 
 
 Resident visa---
     
 *   (a) allowing stay in New Zealand; and
 
-*   (b) subject to conditions equivalent to the requirements imposed under [section 18A][988] of the former Act; and
+*   (b) subject to conditions equivalent to the requirements imposed under [section 18A][1011] of the former Act; and
 
 *   (c) allowing travel to New Zealand for an unlimited number of journeys within the period or until the date specified in the returning resident's visa issued under the former Act; and
 
@@ -14919,87 +15323,17 @@ Limited visa---
     
     
 
-Temporary permit granted for the purposes of the [Mutual Assistance in Criminal Matters Act 1992][989] 
+Temporary permit granted for the purposes of the [Mutual Assistance in Criminal Matters Act 1992][1012] 
 
 Limited visa---
     
-*   (a) deemed to be granted under [section 72][89] of this Act; and
+*   (a) deemed to be granted under [section 72][90] of this Act; and
 
 *   (b) allowing stay in New Zealand only for the period or until the date specified in the temporary permit granted under the former Act; and
 
 *   (c) for the purpose for which the temporary permit granted under the former Act was granted; and
 
 *   (d) subject to conditions equivalent to the conditions of the temporary permit granted under the former Act
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][990].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][991] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ---
 
@@ -15017,23 +15351,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Immigration Act 2009\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Immigration Act 2009\. The reprint incorporates all the amendments to the Act as at 19 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][992] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][1013] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][993] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][1014] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][994] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][1015] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][995] and [17E][996] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][1016] and [17E][1017] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -15064,24 +15398,28 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Immigration Act 2009 Commencement Order 2012][601] (SR 2012/197)
+*   [Immigration Amendment Act 2013][1018] (2013 No 39)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 259][748]
+    Education Amendment Act 2013 (2013 No 34): [section 45][631]
     
-    [Immigration Amendment Act 2011][997] (2011 No 39)
+    [Immigration Act 2009 Commencement Order 2012][609] (SR 2012/197)
     
-    [Immigration Act 2009 Commencement Order 2011][998] (SR 2011/316)
+    Search and Surveillance Act 2012 (2012 No 24): [section 259][766]
     
-    [Immigration Act 2009 Commencement Order (No 2) 2010][999] (SR 2010/410)
+    [Immigration Amendment Act 2011][1019] (2011 No 39)
     
-    [Immigration Act 2009 Commencement Order 2010][1000] (SR 2010/185)
+    [Immigration Act 2009 Commencement Order 2011][1020] (SR 2011/316)
     
-    [Immigration Act 2009 Amendment Act 2010][596] (2010 No 10)
+    [Immigration Act 2009 Commencement Order (No 2) 2010][1021] (SR 2010/410)
+    
+    [Immigration Act 2009 Commencement Order 2010][1022] (SR 2010/185)
+    
+    [Immigration Act 2009 Amendment Act 2010][604] (2010 No 10)
 
 ---
 
 *   1 The Convention was adopted by the United Nations Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons held at Geneva from 2 to 25 July 1951\. The Conference was convened pursuant to resolution 429 (V) adopted by the General Assembly of the United Nations on 14 December 1950\. For the text of this resolution, see Official Records of the General Assembly, Fifth Session, Supplement No 20 (A/1775) p 48\.
-*   2 On acceding to the Convention on 30 June 1960 the New Zealand Government declared, in accordance with Section B (1) of Article 1 of the Convention, that ""for the purposes of the New Zealand Government's obligations under the Convention, the words "'events occurring before 1 January 1951'" in Section A of Article 1 shall be understood to mean "'events occurring in Europe or elsewhere before 1 January 1951'""". See also Article I of the 1967 Protocol Relating to the Status of Refugees, as included in this schedule.
+*   2 On acceding to the Convention on 30 June 1960 the New Zealand Government declared, in accordance with Section B (1) of Article 1 of the Convention, that ""for the purposes of the New Zealand Government's obligations under the Convention, the words "'events occurring before 1 January 1951'" in Section A of Article 1 shall be understood to mean "'events occurring in Europe or elsewhere before 1 January 1951' """. See also Article I of the 1967 Protocol Relating to the Status of Refugees, as included in this schedule.
 *   3 On acceding to the Convention on 20 June 1960 the New Zealand Government entered a reservation to Article 24 (2) in the following terms: ""the Government of New Zealand can only undertake to give effect to the provisions contained in paragraph (2) of Article 24 of the Convention so far as the law of New Zealand allows"".
 *   4 The Protocol was signed by the President of the General Assembly and by the Secretary-General on 31 January 1967\.
 *   5 For New Zealand's declaration, see footnote to Article 1 B (1) of the Convention as it appears in this schedule.
@@ -15099,993 +15437,1015 @@ Amendments, repeals, and miscellaneous provisions
 [8]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440582
 [9]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440586
 [10]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440587
-[11]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440589
-[12]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440590
-[13]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440592
-[14]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440593
-[15]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440594
-[16]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440595
-[17]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440596
-[18]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440597
-[19]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440598
-[20]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440599
-[21]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440600
-[22]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440601
-[23]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440602
-[24]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440603
-[25]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440604
-[26]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440605
-[27]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440612
-[28]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440613
-[29]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440614
-[30]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440616
-[31]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440618
-[32]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440619
-[33]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440620
-[34]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440621
-[35]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440622
-[36]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440625
-[37]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440626
-[38]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440627
-[39]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440628
-[40]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440629
-[41]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440630
-[42]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440631
-[43]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440632
-[44]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440633
-[45]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440634
-[46]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440635
-[47]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440636
-[48]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440637
-[49]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440639
-[50]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440640
-[51]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440641
-[52]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386200
-[53]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440643
-[54]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440644
-[55]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440646
-[56]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440647
-[57]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440648
-[58]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440649
-[59]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386201
-[60]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386202
-[61]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440650
-[62]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440651
-[63]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440653
-[64]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440655
-[65]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440656
-[66]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440657
-[67]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440658
-[68]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386204
-[69]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440661
-[70]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440665
-[71]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440666
-[72]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440667
-[73]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440670
-[74]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440671
-[75]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440673
-[76]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440674
-[77]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386205
-[78]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440676
-[79]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440677
-[80]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440678
-[81]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440679
-[82]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440680
-[83]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440681
-[84]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440682
-[85]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440683
-[86]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440684
-[87]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440685
-[88]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440686
-[89]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440687
-[90]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440688
-[91]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440689
-[92]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440691
-[93]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440692
-[94]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440693
-[95]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440694
-[96]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440695
-[97]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440696
-[98]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440699
-[99]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440700
-[100]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440701
-[101]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440702
-[102]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440703
-[103]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440704
-[104]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440705
-[105]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440706
-[106]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440707
-[107]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440708
-[108]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440709
-[109]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386206
-[110]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440712
-[111]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440714
-[112]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440716
-[113]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440717
-[114]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440718
-[115]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440719
-[116]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440720
-[117]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440722
-[118]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440723
-[119]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440724
-[120]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440729
-[121]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440730
-[122]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440731
-[123]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386208
-[124]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386209
-[125]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440732
-[126]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440733
-[127]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440734
-[128]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440735
-[129]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440737
-[130]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440738
-[131]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440739
-[132]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440740
-[133]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440741
-[134]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440742
-[135]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440743
-[136]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440745
-[137]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440746
-[138]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440748
-[139]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440750
-[140]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440754
-[141]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440757
-[142]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440758
-[143]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440759
-[144]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440760
-[145]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440761
-[146]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440764
-[147]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440765
-[148]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440766
-[149]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440767
-[150]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440768
-[151]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440769
-[152]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440770
-[153]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440771
-[154]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440772
-[155]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440773
-[156]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440774
-[157]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440775
-[158]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440793
-[159]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440794
-[160]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440795
-[161]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440796
-[162]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440797
-[163]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440799
-[164]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440802
-[165]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440804
-[166]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440808
-[167]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440809
-[168]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440811
-[169]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440813
-[170]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440814
-[171]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440815
-[172]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440816
-[173]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440817
-[174]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440818
-[175]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440819
-[176]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440820
-[177]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440821
-[178]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440823
-[179]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440824
-[180]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440825
-[181]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440826
-[182]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440827
-[183]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440830
-[184]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440832
-[185]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440833
-[186]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440834
-[187]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440836
-[188]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440837
-[189]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440838
-[190]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2388700
-[191]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440840
-[192]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440841
-[193]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440842
-[194]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440843
-[195]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440844
-[196]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440846
-[197]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440847
-[198]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440848
-[199]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440849
-[200]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440850
-[201]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440851
-[202]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440853
-[203]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440854
-[204]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440855
-[205]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440856
-[206]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440857
-[207]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440859
-[208]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440860
-[209]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440862
-[210]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440863
-[211]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440864
-[212]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440865
-[213]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440866
-[214]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440867
-[215]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440869
-[216]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440870
-[217]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440871
-[218]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2388701
-[219]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440872
-[220]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440874
-[221]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440876
-[222]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440877
-[223]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440878
-[224]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440879
-[225]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440880
-[226]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440888
-[227]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440889
-[228]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440890
-[229]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440892
-[230]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440893
-[231]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440894
-[232]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440895
-[233]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440896
-[234]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440897
-[235]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440898
-[236]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440899
-[237]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440900
-[238]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440901
-[239]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440902
-[240]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440903
-[241]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440904
-[242]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440906
-[243]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440908
-[244]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390000
-[245]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440909
-[246]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440910
-[247]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440911
-[248]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440912
-[249]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440914
-[250]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440915
-[251]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440916
-[252]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440917
-[253]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440918
-[254]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440919
-[255]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440920
-[256]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440921
-[257]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440922
-[258]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440924
-[259]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440925
-[260]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440926
-[261]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390001
-[262]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440928
-[263]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440929
-[264]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440930
-[265]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440931
-[266]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440932
-[267]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440933
-[268]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440934
-[269]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440936
-[270]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440937
-[271]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440938
-[272]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440939
-[273]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440940
-[274]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440941
-[275]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440942
-[276]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440943
-[277]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440944
-[278]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440945
-[279]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440946
-[280]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390002
-[281]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440948
-[282]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440949
-[283]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440951
-[284]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440953
-[285]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440954
-[286]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440955
-[287]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440956
-[288]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440957
-[289]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440961
-[290]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440962
-[291]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440963
-[292]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440964
-[293]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440967
-[294]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440969
-[295]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440971
-[296]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440972
-[297]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440973
-[298]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440975
-[299]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440976
-[300]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440978
-[301]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440979
-[302]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440981
-[303]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440982
-[304]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440983
-[305]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390003
-[306]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440984
-[307]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440985
-[308]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440987
-[309]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440988
-[310]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440989
-[311]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440990
-[312]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440991
-[313]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440992
-[314]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440994
-[315]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440995
-[316]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440996
-[317]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440997
-[318]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440998
-[319]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441000
-[320]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441001
-[321]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441002
-[322]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441004
-[323]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441005
-[324]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441007
-[325]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441008
-[326]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391000
-[327]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391001
-[328]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441009
-[329]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441010
-[330]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441011
-[331]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441012
-[332]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441013
-[333]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441014
-[334]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441015
-[335]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441016
-[336]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441018
-[337]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441019
-[338]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441020
-[339]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441021
-[340]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441022
-[341]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441023
-[342]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441024
-[343]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441025
-[344]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441026
-[345]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441027
-[346]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441028
-[347]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441030
-[348]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441031
-[349]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441032
-[350]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441033
-[351]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441034
-[352]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441035
-[353]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441037
-[354]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441038
-[355]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441039
-[356]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441040
-[357]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM4844000
-[358]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441041
-[359]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441042
-[360]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441050
-[361]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441064
-[362]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441066
-[363]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441073
-[364]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441080
-[365]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391009
-[366]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441086
-[367]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391020
-[368]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391029
-[369]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441093
-[370]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441094
-[371]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441095
-[372]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441096
-[373]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441097
-[374]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441098
-[375]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441099
-[376]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441100
-[377]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441101
-[378]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441102
-[379]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441103
-[380]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441104
-[381]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441105
-[382]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441106
-[383]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441107
-[384]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441108
-[385]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441109
-[386]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441110
-[387]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441111
-[388]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441112
-[389]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441113
-[390]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441114
-[391]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441115
-[392]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441118
-[393]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441119
-[394]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441120
-[395]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441121
-[396]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441122
-[397]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441123
-[398]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441124
-[399]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441125
-[400]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441126
-[401]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441127
-[402]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441128
-[403]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441129
-[404]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441130
-[405]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441132
-[406]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441134
-[407]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441135
-[408]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441137
-[409]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441138
-[410]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441139
-[411]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441140
-[412]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441141
-[413]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441142
-[414]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441143
-[415]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441144
-[416]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441145
-[417]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441146
-[418]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441147
-[419]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441149
-[420]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391042
-[421]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441153
-[422]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441154
-[423]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441155
-[424]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441156
-[425]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441157
-[426]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441158
-[427]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441160
-[428]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441161
-[429]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441162
-[430]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441163
-[431]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441164
-[432]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441165
-[433]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441166
-[434]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441167
-[435]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441168
-[436]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441169
-[437]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441170
-[438]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441171
-[439]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441172
-[440]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441173
-[441]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441174
-[442]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441175
-[443]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441176
-[444]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441177
-[445]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441178
-[446]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441179
-[447]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441180
-[448]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441181
-[449]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441182
-[450]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441183
-[451]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441184
-[452]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441185
-[453]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441186
-[454]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441187
-[455]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441188
-[456]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441189
-[457]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441190
-[458]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441192
-[459]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441193
-[460]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441194
-[461]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441195
-[462]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441196
-[463]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441197
-[464]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441198
-[465]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441199
-[466]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441200
-[467]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441201
-[468]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391801
-[469]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441202
-[470]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441203
-[471]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441204
-[472]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441205
-[473]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441207
-[474]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441208
-[475]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441209
-[476]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441216
-[477]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441217
-[478]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441218
-[479]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441219
-[480]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441220
-[481]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441221
-[482]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441222
-[483]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441223
-[484]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441224
-[485]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441225
-[486]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441226
-[487]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441227
-[488]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441228
-[489]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441230
-[490]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441231
-[491]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441232
-[492]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441233
-[493]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441234
-[494]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441235
-[495]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441236
-[496]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441343
-[497]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441344
-[498]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441345
-[499]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441346
-[500]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441347
-[501]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441348
-[502]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2392200
-[503]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441350
-[504]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441351
-[505]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441352
-[506]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441353
-[507]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441354
-[508]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441355
-[509]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441356
-[510]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441357
-[511]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441359
-[512]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441360
-[513]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441361
-[514]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441362
-[515]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441363
-[516]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441364
-[517]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441365
-[518]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441366
-[519]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441367
-[520]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441368
-[521]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441369
-[522]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441370
-[523]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441371
-[524]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441372
-[525]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441373
-[526]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441374
-[527]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441375
-[528]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441376
-[529]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441377
-[530]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441378
-[531]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441379
-[532]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441380
-[533]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441381
-[534]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441382
-[535]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441383
-[536]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441385
-[537]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441386
-[538]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441387
-[539]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441388
-[540]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441389
-[541]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441390
-[542]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441391
-[543]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441392
-[544]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441393
-[545]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441394
-[546]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441395
-[547]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441396
-[548]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441397
-[549]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441398
-[550]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441399
-[551]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441400
-[552]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441401
-[553]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2392204
-[554]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441403
-[555]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441404
-[556]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441405
-[557]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441406
-[558]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2392206
-[559]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441407
-[560]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441408
-[561]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441409
-[562]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441410
-[563]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441411
-[564]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441412
-[565]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441413
-[566]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441414
-[567]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441415
-[568]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441417
-[569]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441418
-[570]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441419
-[571]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441420
-[572]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441421
-[573]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441422
-[574]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441423
-[575]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393700
-[576]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441425
-[577]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441426
-[578]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441427
-[579]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441428
-[580]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393701
-[581]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441429
-[582]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441430
-[583]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441431
-[584]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441432
-[585]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393702
-[586]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393703
-[587]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393704
-[588]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393705
-[589]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393706
-[590]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2465800
-[591]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441433
-[592]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441512
-[593]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441536
-[594]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441673
-[595]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393729
-[596]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2847300
-[597]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3052005
-[598]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2847308
-[599]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3345705
-[600]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3985600
-[601]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4613920
-[602]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379829
-[603]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378164
-[604]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM277432
-[605]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM175958
-[606]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM177440
-[607]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM377342
-[608]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM404486
-[609]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440599
-[610]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM442682
-[611]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM108017
-[612]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM130706
-[613]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM329641
-[614]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM442667
-[615]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443683
-[616]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM59015
-[617]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379882
-[618]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM408329
-[619]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113031
-[620]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113035
-[621]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM442665
-[622]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441518
-[623]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM129562
-[624]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110464
-[625]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111115
-[626]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM65628
-[627]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109739
-[628]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109767
-[629]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110423
-[630]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110490
-[631]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111124
-[632]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111156
-[633]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111368
-[634]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113626
-[635]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443848
-[636]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM444003
-[637]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109727
-[638]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26779
-[639]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64975
-[640]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109730
-[641]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111351
-[642]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM151490
-[643]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM387495
-[644]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM388064
-[645]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM397288
-[646]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109760
-[647]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111317
-[648]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111319
-[649]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM175959
-[650]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195534
-[651]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195097
-[652]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109774
-[653]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109784
-[654]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64784
-[655]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109772
-[656]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109781
-[657]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111185
-[658]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296638
-[659]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM430983
-[660]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109745
-[661]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111147
-[662]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110428
-[663]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111129
-[664]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111141
-[665]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109795
-[666]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440600
-[667]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109786
-[668]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111161
-[669]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110411
-[670]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM274057
-[671]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM274453
-[672]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM274056
-[673]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111102
-[674]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111131
-[675]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111133
-[676]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110413
-[677]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109790
-[678]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109792
-[679]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109757
-[680]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112822
-[681]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM108024
-[682]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112832
-[683]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440739
-[684]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378209
-[685]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112841
-[686]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112836
-[687]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112851
-[688]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378158
-[689]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112859
-[690]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112864
-[691]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112868
-[692]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112867
-[693]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113033
-[694]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113051
-[695]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113073
-[696]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113053
-[697]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113070
-[698]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113060
-[699]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113066
-[700]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113068
-[701]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113099
-[702]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113062
-[703]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113096
-[704]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441524
-[705]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443892
-[706]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111585
-[707]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111549
-[708]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111550
-[709]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443855
-[710]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM59027
-[711]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM157893
-[712]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111594
-[713]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443867
-[714]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443876
-[715]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM138868
-[716]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111111
-[717]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110441
-[718]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110447
-[719]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110455
-[720]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110451
-[721]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113080
-[722]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113082
-[723]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111323
-[724]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112313
-[725]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111339
-[726]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113091
-[727]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM137641
-[728]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112398
-[729]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147320
-[730]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112808
-[731]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM408337
-[732]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114082
-[733]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM261978
-[734]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111561
-[735]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440617
-[736]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364948
-[737]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364938
-[738]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365708
-[739]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365712
-[740]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111520
-[741]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114323
-[742]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113652
-[743]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113643
-[744]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113656
-[745]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113644
-[746]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113671
-[747]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM314010
-[748]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4356315
-[749]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM294848
-[750]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113679
-[751]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM311866
-[752]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM328088
-[753]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM24025
-[754]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM24040
-[755]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM243605
-[756]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2602799
-[757]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113682
-[758]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113698
-[759]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3556900
-[760]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114000
-[761]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM380126
-[762]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114003
-[763]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM359106
-[764]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM359124
-[765]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM362709
-[766]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM362736
-[767]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM362759
-[768]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365476
-[769]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114009
-[770]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM80050
-[771]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM314622
-[772]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM377336
-[773]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113675
-[774]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113677
-[775]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296044
-[776]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111552
-[777]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112301
-[778]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111377
-[779]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111556
-[780]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113000
-[781]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113641
-[782]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113642
-[783]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147094
-[784]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147087
-[785]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111392
-[786]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113660
-[787]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM327381
-[788]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113669
-[789]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113616
-[790]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113618
-[791]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113620
-[792]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114024
-[793]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM327394
-[794]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440735
-[795]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440734
-[796]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112834
-[797]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112839
-[798]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111193
-[799]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM236386
-[800]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM74092
-[801]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM74807
-[802]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM58316
-[803]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111300
-[804]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111305
-[805]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441530
-[806]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM139167
-[807]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113094
-[808]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114070
-[809]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM310742
-[810]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM311346
-[811]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114045
-[812]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114078
-[813]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM311191
-[814]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109732
-[815]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114013
-[816]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114019
-[817]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114022
-[818]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113631
-[819]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379823
-[820]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378170
-[821]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114080
-[822]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111187
-[823]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113636
-[824]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113639
-[825]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM304276
-[826]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM304211
-[827]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114309
-[828]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114311
-[829]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114089
-[830]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114093
-[831]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114095
-[832]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114091
-[833]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114086
-[834]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114305
-[835]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM292796
-[836]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM291949
-[837]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM8257
-[838]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1228100
-[839]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM293032
-[840]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM334626
-[841]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31486
-[842]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31487
-[843]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31488
-[844]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM292701
-[845]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113015
-[846]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112897
-[847]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111593
-[848]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112338
-[849]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112360
-[850]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112375
-[851]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112378
-[852]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111589
-[853]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378152
-[854]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113056
-[855]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113635
-[856]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111104
-[857]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31478
-[858]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441437
-[859]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441443
-[860]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441470
-[861]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441497
-[862]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441501
-[863]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM15636
-[864]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM264952
-[865]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114920
-[866]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM393462
-[867]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113086
-[868]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM409221
-[869]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364101
-[870]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364133
-[871]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1805783
-[872]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1806407
-[873]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364792
-[874]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317929
-[875]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM152967
-[876]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443820
-[877]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443841
-[878]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM444022
-[879]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM346767
-[880]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM59030
-[881]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM216969
-[882]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM294857
-[883]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM295485
-[884]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296574
-[885]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM297125
-[886]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM36762
-[887]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM192871
-[888]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378225
-[889]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379504
-[890]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379989
-[891]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM356737
-[892]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM175965
-[893]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM179206
-[894]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM180586
-[895]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM182904
-[896]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM185763
-[897]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM308824
-[898]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM310476
-[899]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM154875
-[900]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26780
-[901]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26783
-[902]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26786
-[903]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM27324
-[904]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM396314
-[905]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM396318
-[906]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM396970
-[907]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM187185
-[908]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM91782
-[909]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM307482
-[910]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM406954
-[911]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407307
-[912]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407310
-[913]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407312
-[914]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407316
-[915]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407605
-[916]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1513194
-[917]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1518423
-[918]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM100661
-[919]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM101806
-[920]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM103412
-[921]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64976
-[922]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64981
-[923]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365910
-[924]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM146684
-[925]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147300
-[926]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM367825
-[927]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM71928
-[928]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM71943
-[929]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM336501
-[930]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM28256
-[931]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM241855
-[932]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM345367
-[933]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM391611
-[934]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM391804
-[935]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64790
-[936]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM356891
-[937]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM358027
-[938]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM358029
-[939]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM358030
-[940]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM277439
-[941]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170232
-[942]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170235
-[943]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170237
-[944]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170809
-[945]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170815
-[946]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296645
-[947]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM297916
-[948]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM298748
-[949]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM197871
-[950]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM275946
-[951]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM363796
-[952]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM363798
-[953]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM314314
-[954]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1252635
-[955]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM146566
-[956]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM334961
-[957]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM334453
-[958]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM332455
-[959]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM347780
-[960]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM158532
-[961]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM158548
-[962]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM335475
-[963]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM316217
-[964]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317068
-[965]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317072
-[966]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317081
-[967]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM220035
-[968]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM248664
-[969]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM251522
-[970]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM176257
-[971]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM85456
-[972]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM281326
-[973]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440300
-[974]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM135959
-[975]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443931
-[976]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM363266
-[977]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM260337
-[978]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1035182
-[979]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364515
-[980]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM422038
-[981]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1748408
-[982]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1616308
-[983]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1471812
-[984]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM48869
-[985]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM240961
-[986]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2028634
-[987]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1751426
-[988]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110434
-[989]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM273056
-[990]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2136500
-[991]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4686448
-[992]: http://www.pco.parliament.govt.nz/reprints/
-[993]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195439
-[994]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[995]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195468
-[996]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195470
-[997]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3556906
-[998]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3985495
-[999]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3345700
-[1000]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3052000
+[11]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5296608
+[12]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440589
+[13]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440590
+[14]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440592
+[15]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440593
+[16]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440594
+[17]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440595
+[18]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440596
+[19]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440597
+[20]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440598
+[21]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440599
+[22]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440600
+[23]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440601
+[24]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440602
+[25]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440603
+[26]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440604
+[27]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440605
+[28]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440612
+[29]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440613
+[30]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440614
+[31]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440616
+[32]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440618
+[33]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440619
+[34]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440620
+[35]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440621
+[36]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440622
+[37]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440625
+[38]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440626
+[39]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440627
+[40]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440628
+[41]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440629
+[42]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440630
+[43]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440631
+[44]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440632
+[45]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440633
+[46]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440634
+[47]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440635
+[48]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440636
+[49]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440637
+[50]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440639
+[51]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440640
+[52]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440641
+[53]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386200
+[54]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440643
+[55]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440644
+[56]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440646
+[57]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440647
+[58]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440648
+[59]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440649
+[60]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386201
+[61]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386202
+[62]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440650
+[63]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440651
+[64]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440653
+[65]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440655
+[66]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440656
+[67]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440657
+[68]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440658
+[69]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386204
+[70]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440661
+[71]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440665
+[72]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440666
+[73]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440667
+[74]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440670
+[75]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440671
+[76]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440673
+[77]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440674
+[78]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386205
+[79]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440676
+[80]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440677
+[81]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440678
+[82]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440679
+[83]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440680
+[84]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440681
+[85]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440682
+[86]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440683
+[87]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440684
+[88]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440685
+[89]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440686
+[90]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440687
+[91]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440688
+[92]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440689
+[93]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440691
+[94]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440692
+[95]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440693
+[96]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440694
+[97]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440695
+[98]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440696
+[99]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440699
+[100]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440700
+[101]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440701
+[102]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440702
+[103]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440703
+[104]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440704
+[105]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440705
+[106]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440706
+[107]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440707
+[108]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440708
+[109]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440709
+[110]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386206
+[111]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440712
+[112]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440714
+[113]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440716
+[114]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440717
+[115]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440718
+[116]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440719
+[117]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440720
+[118]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440722
+[119]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440723
+[120]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440724
+[121]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440729
+[122]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440730
+[123]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440731
+[124]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386208
+[125]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2386209
+[126]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440732
+[127]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440733
+[128]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440734
+[129]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440735
+[130]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440737
+[131]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440738
+[132]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440739
+[133]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440740
+[134]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440741
+[135]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440742
+[136]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440743
+[137]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440745
+[138]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440746
+[139]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440748
+[140]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440750
+[141]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440754
+[142]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440757
+[143]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440758
+[144]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440759
+[145]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440760
+[146]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440761
+[147]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440764
+[148]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440765
+[149]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440766
+[150]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440767
+[151]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440768
+[152]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440769
+[153]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440770
+[154]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440771
+[155]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440772
+[156]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440773
+[157]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440774
+[158]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440775
+[159]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440793
+[160]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440794
+[161]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440795
+[162]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440796
+[163]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440797
+[164]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440799
+[165]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440802
+[166]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440804
+[167]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440808
+[168]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440809
+[169]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440811
+[170]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440813
+[171]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5296619
+[172]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440814
+[173]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440815
+[174]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440816
+[175]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440817
+[176]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440818
+[177]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440819
+[178]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440820
+[179]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440821
+[180]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440823
+[181]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440824
+[182]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440825
+[183]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440826
+[184]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440827
+[185]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440830
+[186]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440832
+[187]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440833
+[188]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440834
+[189]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440836
+[190]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440837
+[191]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440838
+[192]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2388700
+[193]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440840
+[194]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440841
+[195]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440842
+[196]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440843
+[197]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440844
+[198]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440846
+[199]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440847
+[200]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440848
+[201]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440849
+[202]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440850
+[203]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440851
+[204]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440853
+[205]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440854
+[206]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440855
+[207]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440856
+[208]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440857
+[209]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440859
+[210]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440860
+[211]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440862
+[212]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440863
+[213]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440864
+[214]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440865
+[215]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440866
+[216]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440867
+[217]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440869
+[218]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440870
+[219]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440871
+[220]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2388701
+[221]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440872
+[222]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440874
+[223]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440876
+[224]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440877
+[225]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440878
+[226]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440879
+[227]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440880
+[228]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440888
+[229]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440889
+[230]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440890
+[231]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440892
+[232]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440893
+[233]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440894
+[234]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440895
+[235]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440896
+[236]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440897
+[237]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440898
+[238]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440899
+[239]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440900
+[240]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440901
+[241]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440902
+[242]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440903
+[243]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440904
+[244]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440906
+[245]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440908
+[246]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390000
+[247]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440909
+[248]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440910
+[249]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440911
+[250]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440912
+[251]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440914
+[252]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440915
+[253]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440916
+[254]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440917
+[255]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440918
+[256]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440919
+[257]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440920
+[258]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440921
+[259]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440922
+[260]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440924
+[261]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440925
+[262]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440926
+[263]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390001
+[264]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440928
+[265]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440929
+[266]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440930
+[267]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440931
+[268]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440932
+[269]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440933
+[270]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440934
+[271]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440936
+[272]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440937
+[273]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440938
+[274]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440939
+[275]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440940
+[276]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440941
+[277]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440942
+[278]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440943
+[279]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440944
+[280]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440945
+[281]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440946
+[282]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390002
+[283]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440948
+[284]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440949
+[285]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440951
+[286]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440953
+[287]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440954
+[288]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440955
+[289]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440956
+[290]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440957
+[291]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440961
+[292]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440962
+[293]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440963
+[294]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440964
+[295]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440967
+[296]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440969
+[297]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440971
+[298]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440972
+[299]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440973
+[300]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440975
+[301]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440976
+[302]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440978
+[303]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440979
+[304]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440981
+[305]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440982
+[306]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440983
+[307]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2390003
+[308]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440984
+[309]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440985
+[310]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440987
+[311]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440988
+[312]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440989
+[313]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440990
+[314]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440991
+[315]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440992
+[316]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440994
+[317]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440995
+[318]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440996
+[319]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440997
+[320]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440998
+[321]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441000
+[322]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441001
+[323]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441002
+[324]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441004
+[325]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441005
+[326]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441007
+[327]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441008
+[328]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391000
+[329]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391001
+[330]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441009
+[331]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441010
+[332]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441011
+[333]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441012
+[334]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441013
+[335]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441014
+[336]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441015
+[337]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441016
+[338]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441018
+[339]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441019
+[340]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441020
+[341]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441021
+[342]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441022
+[343]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441023
+[344]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441024
+[345]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441025
+[346]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441026
+[347]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441027
+[348]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441028
+[349]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441030
+[350]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441031
+[351]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441032
+[352]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441033
+[353]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441034
+[354]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441035
+[355]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441037
+[356]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441038
+[357]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441039
+[358]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441040
+[359]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM4844000
+[360]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441041
+[361]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441042
+[362]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441050
+[363]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441064
+[364]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441066
+[365]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441073
+[366]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441080
+[367]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391009
+[368]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441086
+[369]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391020
+[370]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391029
+[371]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441093
+[372]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441094
+[373]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441095
+[374]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441096
+[375]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441097
+[376]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441098
+[377]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441099
+[378]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441100
+[379]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441101
+[380]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441102
+[381]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441103
+[382]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441104
+[383]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441105
+[384]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441106
+[385]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441107
+[386]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441108
+[387]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441109
+[388]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5296635
+[389]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5296637
+[390]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5296638
+[391]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5296639
+[392]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5296640
+[393]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441110
+[394]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441111
+[395]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441112
+[396]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441113
+[397]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441114
+[398]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441115
+[399]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441118
+[400]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM5297329
+[401]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441119
+[402]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441120
+[403]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441121
+[404]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441122
+[405]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441123
+[406]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441124
+[407]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441125
+[408]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441126
+[409]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441127
+[410]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441128
+[411]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441129
+[412]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441130
+[413]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441132
+[414]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441134
+[415]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441135
+[416]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441137
+[417]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441138
+[418]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441139
+[419]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441140
+[420]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441141
+[421]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441142
+[422]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441143
+[423]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441144
+[424]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441145
+[425]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441146
+[426]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441147
+[427]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441149
+[428]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391042
+[429]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441153
+[430]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441154
+[431]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441155
+[432]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441156
+[433]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441157
+[434]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441158
+[435]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441160
+[436]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441161
+[437]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441162
+[438]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441163
+[439]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441164
+[440]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441165
+[441]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441166
+[442]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441167
+[443]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441168
+[444]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441169
+[445]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441170
+[446]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441171
+[447]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441172
+[448]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441173
+[449]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441174
+[450]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441175
+[451]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441176
+[452]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441177
+[453]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441178
+[454]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441179
+[455]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441180
+[456]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441181
+[457]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441182
+[458]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441183
+[459]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441184
+[460]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441185
+[461]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441186
+[462]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441187
+[463]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441188
+[464]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441189
+[465]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441190
+[466]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441192
+[467]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441193
+[468]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441194
+[469]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441195
+[470]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441196
+[471]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441197
+[472]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441198
+[473]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441199
+[474]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441200
+[475]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441201
+[476]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2391801
+[477]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441202
+[478]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441203
+[479]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441204
+[480]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441205
+[481]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441207
+[482]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441208
+[483]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441209
+[484]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441216
+[485]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441217
+[486]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441218
+[487]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441219
+[488]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441220
+[489]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441221
+[490]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441222
+[491]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441223
+[492]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441224
+[493]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441225
+[494]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441226
+[495]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441227
+[496]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441228
+[497]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441230
+[498]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441231
+[499]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441232
+[500]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441233
+[501]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441234
+[502]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441235
+[503]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441236
+[504]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441343
+[505]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441344
+[506]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441345
+[507]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441346
+[508]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441347
+[509]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441348
+[510]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2392200
+[511]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441350
+[512]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441351
+[513]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441352
+[514]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441353
+[515]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441354
+[516]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441355
+[517]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441356
+[518]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441357
+[519]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441359
+[520]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441360
+[521]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441361
+[522]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441362
+[523]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441363
+[524]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441364
+[525]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441365
+[526]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441366
+[527]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441367
+[528]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441368
+[529]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441369
+[530]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441370
+[531]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441371
+[532]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441372
+[533]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441373
+[534]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441374
+[535]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441375
+[536]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441376
+[537]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441377
+[538]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441378
+[539]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441379
+[540]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441380
+[541]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441381
+[542]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441382
+[543]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441383
+[544]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441385
+[545]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441386
+[546]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441387
+[547]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441388
+[548]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441389
+[549]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441390
+[550]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441391
+[551]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441392
+[552]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441393
+[553]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441394
+[554]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441395
+[555]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441396
+[556]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441397
+[557]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441398
+[558]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441399
+[559]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441400
+[560]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441401
+[561]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2392204
+[562]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441403
+[563]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441404
+[564]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441405
+[565]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441406
+[566]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2392206
+[567]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441407
+[568]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441408
+[569]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441409
+[570]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441410
+[571]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441411
+[572]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441412
+[573]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441413
+[574]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441414
+[575]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441415
+[576]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441417
+[577]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441418
+[578]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441419
+[579]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441420
+[580]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441421
+[581]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441422
+[582]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441423
+[583]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393700
+[584]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441425
+[585]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441426
+[586]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441427
+[587]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441428
+[588]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393701
+[589]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441429
+[590]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441430
+[591]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441431
+[592]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441432
+[593]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393702
+[594]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393703
+[595]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393704
+[596]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393705
+[597]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393706
+[598]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2465800
+[599]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441433
+[600]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441512
+[601]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441536
+[602]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441673
+[603]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM2393729
+[604]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2847300
+[605]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3052005
+[606]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2847308
+[607]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3345705
+[608]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3985600
+[609]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4613920
+[610]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379829
+[611]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378164
+[612]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM277432
+[613]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM175958
+[614]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM175965
+[615]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM177440
+[616]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM377342
+[617]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM404486
+[618]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440599
+[619]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM442682
+[620]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM108017
+[621]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM130706
+[622]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM329641
+[623]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM442667
+[624]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443683
+[625]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM59015
+[626]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379882
+[627]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM408329
+[628]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113031
+[629]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113035
+[630]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM442665
+[631]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM5138526
+[632]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439217
+[633]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441518
+[634]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM129562
+[635]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110464
+[636]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111115
+[637]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439223
+[638]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM65628
+[639]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109739
+[640]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109767
+[641]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110423
+[642]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110490
+[643]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111124
+[644]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111156
+[645]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111368
+[646]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113626
+[647]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443848
+[648]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM444003
+[649]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109727
+[650]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26779
+[651]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64975
+[652]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109730
+[653]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111351
+[654]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM151490
+[655]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM387495
+[656]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM388064
+[657]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM397288
+[658]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109760
+[659]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111317
+[660]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111319
+[661]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM175959
+[662]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195534
+[663]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195097
+[664]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109774
+[665]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109784
+[666]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64784
+[667]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109772
+[668]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109781
+[669]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439227
+[670]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111185
+[671]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296638
+[672]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM430983
+[673]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109745
+[674]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111147
+[675]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110428
+[676]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111129
+[677]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111141
+[678]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109795
+[679]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440600
+[680]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109786
+[681]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111161
+[682]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110411
+[683]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM274057
+[684]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM274453
+[685]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM274056
+[686]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111102
+[687]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111131
+[688]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111133
+[689]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110413
+[690]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109790
+[691]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109792
+[692]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109757
+[693]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112822
+[694]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM108024
+[695]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112832
+[696]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440739
+[697]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378209
+[698]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112841
+[699]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112836
+[700]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112851
+[701]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378158
+[702]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112859
+[703]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112864
+[704]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112868
+[705]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439248
+[706]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112867
+[707]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113033
+[708]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113051
+[709]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113073
+[710]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113053
+[711]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113070
+[712]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113060
+[713]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439228
+[714]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113066
+[715]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113068
+[716]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439230
+[717]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113099
+[718]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113062
+[719]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113096
+[720]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441524
+[721]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443892
+[722]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111585
+[723]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111549
+[724]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111550
+[725]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443855
+[726]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM59027
+[727]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM157893
+[728]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111594
+[729]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443867
+[730]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443876
+[731]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM138868
+[732]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111111
+[733]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110441
+[734]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110447
+[735]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110455
+[736]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110451
+[737]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113080
+[738]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113082
+[739]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111323
+[740]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112313
+[741]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111339
+[742]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113091
+[743]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439231
+[744]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM137641
+[745]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112398
+[746]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147320
+[747]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112808
+[748]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM408337
+[749]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114082
+[750]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439233
+[751]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM261978
+[752]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111561
+[753]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1440617
+[754]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364948
+[755]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364938
+[756]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365708
+[757]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365712
+[758]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111520
+[759]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114323
+[760]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113652
+[761]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113643
+[762]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113656
+[763]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113644
+[764]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113671
+[765]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM314010
+[766]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4356315
+[767]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM294848
+[768]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113679
+[769]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM311866
+[770]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM328088
+[771]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM24025
+[772]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM24040
+[773]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM243605
+[774]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2602799
+[775]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113682
+[776]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113698
+[777]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3556900
+[778]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114000
+[779]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM380126
+[780]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114003
+[781]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM359106
+[782]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM359124
+[783]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM362709
+[784]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM362736
+[785]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM362759
+[786]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365476
+[787]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114009
+[788]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM80050
+[789]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM314622
+[790]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM377336
+[791]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113675
+[792]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113677
+[793]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439234
+[794]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296044
+[795]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111552
+[796]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112301
+[797]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111377
+[798]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439235
+[799]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111556
+[800]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113000
+[801]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439241
+[802]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439243
+[803]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113641
+[804]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113642
+[805]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147094
+[806]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147087
+[807]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111392
+[808]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113660
+[809]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM327381
+[810]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113669
+[811]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113616
+[812]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113618
+[813]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113620
+[814]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114024
+[815]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM327394
+[816]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM5217900
+[817]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440735
+[818]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440734
+[819]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112834
+[820]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112839
+[821]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111193
+[822]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM236386
+[823]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM74092
+[824]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM74807
+[825]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM58316
+[826]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111300
+[827]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111305
+[828]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441530
+[829]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM139167
+[830]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113094
+[831]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114070
+[832]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM310742
+[833]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM311346
+[834]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114045
+[835]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114078
+[836]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM311191
+[837]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM109732
+[838]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114013
+[839]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114019
+[840]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114022
+[841]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113631
+[842]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379823
+[843]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378170
+[844]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114080
+[845]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111187
+[846]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113636
+[847]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113639
+[848]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM304276
+[849]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM304211
+[850]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114309
+[851]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114311
+[852]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114089
+[853]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114093
+[854]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114095
+[855]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114091
+[856]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114086
+[857]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114305
+[858]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439246
+[859]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM292796
+[860]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM291949
+[861]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM8257
+[862]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1228100
+[863]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM293032
+[864]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM334626
+[865]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31486
+[866]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31487
+[867]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31488
+[868]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM292701
+[869]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113015
+[870]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112897
+[871]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111593
+[872]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112338
+[873]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112360
+[874]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112375
+[875]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM112378
+[876]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111589
+[877]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378152
+[878]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113056
+[879]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113635
+[880]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM111104
+[881]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM31478
+[882]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441437
+[883]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441443
+[884]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441470
+[885]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441497
+[886]: http://www.legislation.govt.nz/act/public/2009/0051/latest/whole.html#DLM1441501
+[887]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM15636
+[888]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM264952
+[889]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM114920
+[890]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM393462
+[891]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM113086
+[892]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM409221
+[893]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364101
+[894]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364133
+[895]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1805783
+[896]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1806407
+[897]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364792
+[898]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317929
+[899]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM152967
+[900]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443820
+[901]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443841
+[902]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM444022
+[903]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM346767
+[904]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM59030
+[905]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM216969
+[906]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM294857
+[907]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM295485
+[908]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296574
+[909]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM297125
+[910]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM36762
+[911]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM192871
+[912]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM378225
+[913]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379504
+[914]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM379989
+[915]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM356737
+[916]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM179206
+[917]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM180586
+[918]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM182904
+[919]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM185763
+[920]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM308824
+[921]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM310476
+[922]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM154875
+[923]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26780
+[924]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26783
+[925]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM26786
+[926]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM27324
+[927]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM396314
+[928]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM396318
+[929]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM396970
+[930]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM187185
+[931]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM91782
+[932]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM307482
+[933]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM406954
+[934]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407307
+[935]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407310
+[936]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407312
+[937]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407316
+[938]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM407605
+[939]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1513194
+[940]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1518423
+[941]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM100661
+[942]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM101806
+[943]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM103412
+[944]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64976
+[945]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64981
+[946]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM365910
+[947]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM146684
+[948]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM147300
+[949]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM367825
+[950]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM71928
+[951]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM71943
+[952]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM336501
+[953]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM28256
+[954]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM241855
+[955]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM345367
+[956]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM391611
+[957]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM391804
+[958]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM64790
+[959]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM356891
+[960]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM358027
+[961]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM358029
+[962]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM358030
+[963]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM277439
+[964]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170232
+[965]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170235
+[966]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170237
+[967]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170809
+[968]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM170815
+[969]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM296645
+[970]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM297916
+[971]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM298748
+[972]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM197871
+[973]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM275946
+[974]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM363796
+[975]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM363798
+[976]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM314314
+[977]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1252635
+[978]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM146566
+[979]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM334961
+[980]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM334453
+[981]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM332455
+[982]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM347780
+[983]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM158532
+[984]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM158548
+[985]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM335475
+[986]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM316217
+[987]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317068
+[988]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317072
+[989]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM317081
+[990]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM220035
+[991]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM248664
+[992]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM251522
+[993]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM176257
+[994]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM85456
+[995]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM281326
+[996]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1440300
+[997]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM135959
+[998]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM443931
+[999]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM363266
+[1000]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM260337
+[1001]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1035182
+[1002]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM364515
+[1003]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM422038
+[1004]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1748408
+[1005]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1616308
+[1006]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1471812
+[1007]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM48869
+[1008]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM240961
+[1009]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM2028634
+[1010]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM1751426
+[1011]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM110434
+[1012]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM273056
+[1013]: http://www.pco.parliament.govt.nz/reprints/
+[1014]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195439
+[1015]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1016]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195468
+[1017]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM195470
+[1018]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM4439205
+[1019]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3556906
+[1020]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3985495
+[1021]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3345700
+[1022]: http://www.legislation.govt.nz/act/public/2009/0051/latest/link.aspx?id=DLM3052000
