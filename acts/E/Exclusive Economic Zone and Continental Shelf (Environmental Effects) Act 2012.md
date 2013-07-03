@@ -1,5 +1,5 @@
 Reprint  
-as at 24 May 2013
+as at 28 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,81 +23,81 @@ This Act is administered by the Ministry for the Environment.
 
 ## Contents
 
-[1 ][1][][1][Title][1]
+[1][1][][1][Title][1]
 
-[2 ][2][][2][Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
 [Subpart 1][4][---][4][Outline, definitions, and application][4]
 
-[3 ][5][][5][Outline of Act][5]
+[3][5][][5][Outline of Act][5]
 
-[4 ][6][][6][Interpretation][6]
+[4][6][][6][Interpretation][6]
 
-[5 ][7][][7][Successors][7]
+[5][7][][7][Successors][7]
 
-[6 ][8][][8][Meaning of effect][8]
+[6][8][][8][Meaning of effect][8]
 
-[7 ][9][][9][Meaning of marine management regime][9]
+[7][9][][9][Meaning of marine management regime][9]
 
-[8 ][10][][10][Act binds the Crown][10]
+[8][10][][10][Act binds the Crown][10]
 
-[9 ][11][][11][Application to ships and aircraft of New Zealand Defence Force and foreign States][11]
+[9][11][][11][Application to ships and aircraft of New Zealand Defence Force and foreign States][11]
 
 [Subpart 2][12][---][12][Purpose and principles][12]
 
-[10 ][13][][13][Purpose][13]
+[10][13][][13][Purpose][13]
 
-[11 ][14][][14][International obligations][14]
+[11][14][][14][International obligations][14]
 
-[12 ][15][][15][Treaty of Waitangi][15]
+[12][15][][15][Treaty of Waitangi][15]
 
 [Subpart 3][16][---][16][Functions, duties, and powers][16]
 
-[Functions, duties, and powers ][17]
+[Functions, duties, and powers][17]
 
-[13 ][18][][18][Functions of Environmental Protection Authority][18]
+[13][18][][18][Functions of Environmental Protection Authority][18]
 
-[14 ][19][][19][Restriction on ministerial direction to Environmental Protection Authority][19]
+[14][19][][19][Restriction on ministerial direction to Environmental Protection Authority][19]
 
-[15 ][20][][20][Powers of Environmental Protection Authority][20]
+[15][20][][20][Powers of Environmental Protection Authority][20]
 
-[16 ][21][][21][Restriction on Environmental Protection Authority's power to delegate][21]
+[16][21][][21][Restriction on Environmental Protection Authority's power to delegate][21]
 
-[17 ][22][][22][Environmental Protection Authority to keep records][22]
+[17][22][][22][Environmental Protection Authority to keep records][22]
 
 [Māori Advisory Committee][23]
 
-[18 ][24][][24][Function of Māori Advisory Committee][24]
+[18][24][][24][Function of Māori Advisory Committee][24]
 
 [Power of Minister of Conservation][25]
 
-[19 ][26][][26][Power of Minister of Conservation to declare threatened species][26]
+[19][26][][26][Power of Minister of Conservation to declare threatened species][26]
 
 [Part 2][27]  
 [Duties and restrictions][27]
 
-[20 ][28][][28][Restrictions on activities in exclusive economic zone and in or on continental shelf][28]
+[20][28][][28][Restrictions on activities in exclusive economic zone and in or on continental shelf][28]
 
 [Existing activities and planned petroleum activities][29]
 
-[21 ][30][][30][Certain existing activities may continue][30]
+[21][30][][30][Certain existing activities may continue][30]
 
-[22 ][31][][31][Planned petroleum activities may commence and continue][31]
+[22][31][][31][Planned petroleum activities may commence and continue][31]
 
-[23 ][32][][32][Certain existing activities that become prohibited may continue][32]
+[23][32][][32][Certain existing activities that become prohibited may continue][32]
 
 [Unauthorised activities][33]
 
-[24 ][34][][34][Unauthorised activities must stop][34]
+[24][34][][34][Unauthorised activities must stop][34]
 
 [General matters][35]
 
-[25 ][36][][36][Duty of persons operating in exclusive economic zone or on continental shelf][36]
+[25][36][][36][Duty of persons operating in exclusive economic zone or on continental shelf][36]
 
-[26 ][37][][37][Relationship with other legal requirements][37]
+[26][37][][37][Relationship with other legal requirements][37]
 
 [Part 3][38]  
 [Requirements and consents][38]
@@ -106,187 +106,187 @@ This Act is administered by the Ministry for the Environment.
 
 [Regulation of activities and environment of exclusive economic zone and continental shelf][40]
 
-[27 ][41][][41][Regulations prescribing standards, methods, or requirements][41]
+[27][41][][41][Regulations prescribing standards, methods, or requirements][41]
 
-[28 ][42][][42][Regulations classifying areas of exclusive economic zone or continental shelf][42]
+[28][42][][42][Regulations classifying areas of exclusive economic zone or continental shelf][42]
 
-[29 ][43][][43][Regulations classifying activities][43]
+[29][43][][43][Regulations classifying activities][43]
 
 [Regulations generally][44]
 
-[30 ][45][][45][Regulations][45]
+[30][45][][45][Regulations][45]
 
 [Provisions applying to all regulations][46]
 
-[31 ][47][][47][Application of regulations][47]
+[31][47][][47][Application of regulations][47]
 
-[32 ][48][][48][Process for developing or amending regulations][48]
+[32][48][][48][Process for developing or amending regulations][48]
 
-[33 ][49][][49][Matters to be considered for regulations][49]
+[33][49][][49][Matters to be considered for regulations][49]
 
-[34 ][50][][50][Information principles][50]
+[34][50][][50][Information principles][50]
 
 [Types of activity][51]
 
-[35 ][52][][52][Permitted activities][52]
+[35][52][][52][Permitted activities][52]
 
-[36 ][53][][53][Discretionary activities][53]
+[36][53][][53][Discretionary activities][53]
 
-[37 ][54][][54][Prohibited activities][54]
+[37][54][][54][Prohibited activities][54]
 
 [Subpart 2][55][---][55][Marine consents][55]
 
 [Application for marine consent][56]
 
-[38 ][57][][57][Application for marine consent][57]
+[38][57][][57][Application for marine consent][57]
 
-[39 ][58][][58][Impact assessment ][58]
+[39][58][][58][Impact assessment][58]
 
-[40 ][59][][59][Obligation to deal with application promptly][59]
+[40][59][][59][Obligation to deal with application promptly][59]
 
-[41 ][60][][60][Environmental Protection Authority may return incomplete application][60]
+[41][60][][60][Environmental Protection Authority may return incomplete application][60]
 
-[42 ][61][][61][Request for further information][61]
+[42][61][][61][Request for further information][61]
 
-[43 ][62][][62][Response to request][62]
+[43][62][][62][Response to request][62]
 
-[44 ][63][][63][Environmental Protection Authority may obtain advice][63]
+[44][63][][63][Environmental Protection Authority may obtain advice][63]
 
-[45 ][64][][64][Public notice of consent applications][64]
+[45][64][][64][Public notice of consent applications][64]
 
 [Submissions][65]
 
-[46 ][66][][66][Making of submissions][66]
+[46][66][][66][Making of submissions][66]
 
-[47 ][67][][67][Time limit for submissions][67]
+[47][67][][67][Time limit for submissions][67]
 
-[48 ][68][][68][Advice of submissions to applicant][68]
+[48][68][][68][Advice of submissions to applicant][68]
 
-[49 ][69][][69][Meetings and mediation to resolve matters before decision][69]
+[49][69][][69][Meetings and mediation to resolve matters before decision][69]
 
 [Hearings][70]
 
-[50 ][71][][71][Obligation to hold hearing][71]
+[50][71][][71][Obligation to hold hearing][71]
 
-[51 ][72][][72][Hearing date and notice][72]
+[51][72][][72][Hearing date and notice][72]
 
-[52 ][73][][73][Time limit for hearing][73]
+[52][73][][73][Time limit for hearing][73]
 
-[53 ][74][][74][Hearings to be public and without unnecessary formality][74]
+[53][74][][74][Hearings to be public and without unnecessary formality][74]
 
-[54 ][75][][75][Persons who may be heard at hearings][75]
+[54][75][][75][Persons who may be heard at hearings][75]
 
-[55 ][76][][76][Provisions relating to hearings][76]
+[55][76][][76][Provisions relating to hearings][76]
 
-[56 ][77][][77][Control of hearings][77]
+[56][77][][77][Control of hearings][77]
 
-[57 ][78][][78][Directions to provide evidence within time limits][78]
+[57][78][][78][Directions to provide evidence within time limits][78]
 
-[58 ][79][][79][Directions before or at hearings][79]
+[58][79][][79][Directions before or at hearings][79]
 
 [Decisions][80]
 
-[59 ][81][][81][Environmental Protection Authority's consideration of application][81]
+[59][81][][81][Environmental Protection Authority's consideration of application][81]
 
-[60 ][82][][82][Matters to be considered in deciding extent of adverse effects on existing interests][82]
+[60][82][][82][Matters to be considered in deciding extent of adverse effects on existing interests][82]
 
-[61 ][83][][83][Information principles][83]
+[61][83][][83][Information principles][83]
 
-[62 ][84][][84][Decisions on applications for marine consents][84]
+[62][84][][84][Decisions on applications for marine consents][84]
 
-[63 ][85][][85][Conditions of marine consents][85]
+[63][85][][85][Conditions of marine consents][85]
 
-[64 ][86][][86][Adaptive management approach][86]
+[64][86][][86][Adaptive management approach][86]
 
-[65 ][87][][87][Bonds][87]
+[65][87][][87][Bonds][87]
 
-[66 ][88][][88][Monitoring conditions][88]
+[66][88][][88][Monitoring conditions][88]
 
-[67 ][89][][89][Observers][89]
+[67][89][][89][Observers][89]
 
-[68 ][90][][90][Time limits for Environmental Protection Authority's decision][90]
+[68][90][][90][Time limits for Environmental Protection Authority's decision][90]
 
-[69 ][91][][91][Decision of Environmental Protection Authority to be in writing][91]
+[69][91][][91][Decision of Environmental Protection Authority to be in writing][91]
 
-[70 ][92][][92][Notification of Environmental Protection Authority's decision][92]
+[70][92][][92][Notification of Environmental Protection Authority's decision][92]
 
-[71 ][93][][93][When marine consent commences][93]
+[71][93][][93][When marine consent commences][93]
 
 [Nature of consent][94]
 
-[72 ][95][][95][Consents neither real nor personal property][95]
+[72][95][][95][Consents neither real nor personal property][95]
 
 [Duration of marine consent][96]
 
-[73 ][97][][97][Duration of marine consent][97]
+[73][97][][97][Duration of marine consent][97]
 
-[74 ][98][][98][Exercise of marine consent while applying for new consent][98]
+[74][98][][98][Exercise of marine consent while applying for new consent][98]
 
 [Transfer of marine consents][99]
 
-[75 ][100][][100][Transfer of consents][100]
+[75][100][][100][Transfer of consents][100]
 
 [Review of duration and conditions of marine consent][101]
 
-[76 ][102][][102][Environmental Protection Authority may review duration and conditions ][102]
+[76][102][][102][Environmental Protection Authority may review duration and conditions][102]
 
-[77 ][103][][103][Contents of notice of review][103]
+[77][103][][103][Contents of notice of review][103]
 
-[78 ][104][][104][Notice of review to consent holder and public notice][104]
+[78][104][][104][Notice of review to consent holder and public notice][104]
 
-[79 ][105][][105][Further information, advice, submissions, and hearing][105]
+[79][105][][105][Further information, advice, submissions, and hearing][105]
 
-[80 ][106][][106][Matters to be considered in review][106]
+[80][106][][106][Matters to be considered in review][106]
 
-[81 ][107][][107][Decisions on review of consent conditions][107]
+[81][107][][107][Decisions on review of consent conditions][107]
 
-[82 ][108][][108][Decision on review of duration of consent][108]
+[82][108][][108][Decision on review of duration of consent][108]
 
-[83 ][109][][109][Process for minor changes to consent conditions][109]
+[83][109][][109][Process for minor changes to consent conditions][109]
 
-[84 ][110][][110][Minor corrections of marine consents][110]
+[84][110][][110][Minor corrections of marine consents][110]
 
 [Cancellation of marine consents][111]
 
-[85 ][112][][112][Lapsing of consent if not exercised][112]
+[85][112][][112][Lapsing of consent if not exercised][112]
 
-[86 ][113][][113][Cancellation of consent if not exercised][113]
+[86][113][][113][Cancellation of consent if not exercised][113]
 
-[87 ][114][][114][Change or cancellation of consent conditions on application by consent holder][114]
+[87][114][][114][Change or cancellation of consent conditions on application by consent holder][114]
 
 [Subpart 3][115][---][115][Marine consents for cross-boundary activities][115]
 
-[88 ][116][][116][Interpretation ][116]
+[88][116][][116][Interpretation][116]
 
-[89 ][117][][117][Application of this subpart][117]
+[89][117][][117][Application of this subpart][117]
 
 [EPA may decide whether joint or separate applications for consent required][118]
 
-[90 ][119][][119][Application for consent for cross-boundary activity][119]
+[90][119][][119][Application for consent for cross-boundary activity][119]
 
-[91 ][120][][120][Joint application for consent for cross-boundary activity][120]
+[91][120][][120][Joint application for consent for cross-boundary activity][120]
 
-[92 ][121][][121][Separate applications for consents for cross-boundary activity][121]
+[92][121][][121][Separate applications for consents for cross-boundary activity][121]
 
-[93 ][122][][122][Environmental Protection Authority may require joint application][122]
+[93][122][][122][Environmental Protection Authority may require joint application][122]
 
-[94 ][123][][123][Decision to separate joint application for consent][123]
+[94][123][][123][Decision to separate joint application for consent][123]
 
 [Processing of joint application][124]
 
-[95 ][125][][125][Application of sections 96 and 97][125]
+[95][125][][125][Application of sections 96 and 97][125]
 
-[96 ][126][][126][Environmental Protection Authority to administer process][126]
+[96][126][][126][Environmental Protection Authority to administer process][126]
 
-[97 ][127][][127][Relevant consent authority and EPA to share information][127]
+[97][127][][127][Relevant consent authority and EPA to share information][127]
 
-[98 ][128][][128][Separate decisions on marine consent and resource consent applications][128]
+[98][128][][128][Separate decisions on marine consent and resource consent applications][128]
 
 [Nationally significant cross-boundary activities][129]
 
-[99 ][130][][130][Application for consent for nationally significant cross-boundary activity referred to board of inquiry][130]
+[99][130][][130][Application for consent for nationally significant cross-boundary activity referred to board of inquiry][130]
 
-[100 ][131][][131][EPA must provide board of inquiry with necessary information][131]
+[100][131][][131][EPA must provide board of inquiry with necessary information][131]
 
 [Part 4][132]  
 [Objections, appeals, and enforcement][132]
@@ -295,101 +295,101 @@ This Act is administered by the Ministry for the Environment.
 
 [Objections][134]
 
-[101 ][135][][135][Right of objection to Environmental Protection Authority against certain decisions][135]
+[101][135][][135][Right of objection to Environmental Protection Authority against certain decisions][135]
 
-[102 ][136][][136][Procedure for making or hearing objection][136]
+[102][136][][136][Procedure for making or hearing objection][136]
 
-[103 ][137][][137][Decision on objection][137]
+[103][137][][137][Decision on objection][137]
 
-[104 ][138][][138][Appeals against decisions on objections][138]
+[104][138][][138][Appeals against decisions on objections][138]
 
 [Appeal to High Court on question of law][139]
 
-[105 ][140][][140][Appeals on question of law][140]
+[105][140][][140][Appeals on question of law][140]
 
-[106 ][141][][141][Notice of appeal][141]
+[106][141][][141][Notice of appeal][141]
 
-[107 ][142][][142][Right to appear and be heard on appeal][142]
+[107][142][][142][Right to appear and be heard on appeal][142]
 
-[108 ][143][][143][Parties to appeal][143]
+[108][143][][143][Parties to appeal][143]
 
-[109 ][144][][144][Representation at proceedings][144]
+[109][144][][144][Representation at proceedings][144]
 
-[110 ][145][][145][Dismissal of appeal][145]
+[110][145][][145][Dismissal of appeal][145]
 
-[111 ][146][][146][Date of hearing][146]
+[111][146][][146][Date of hearing][146]
 
-[112 ][147][][147][Application of High Court Rules][147]
+[112][147][][147][Application of High Court Rules][147]
 
 [Appeal to Court of Appeal][148]
 
-[113 ][149][][149][Appeal to Court of Appeal][149]
+[113][149][][149][Appeal to Court of Appeal][149]
 
 [Subpart 2][150][---][150][Enforcement][150]
 
-[114 ][151][][151][Proceedings to be heard by Environment Judge][151]
+[114][151][][151][Proceedings to be heard by Environment Judge][151]
 
 [Enforcement order][152]
 
-[115 ][153][][153][Enforcement order][153]
+[115][153][][153][Enforcement order][153]
 
-[116 ][154][][154][Application for enforcement order][154]
+[116][154][][154][Application for enforcement order][154]
 
-[117 ][155][][155][Notice of application for enforcement order][155]
+[117][155][][155][Notice of application for enforcement order][155]
 
-[118 ][156][][156][Right to be heard][156]
+[118][156][][156][Right to be heard][156]
 
-[119 ][157][][157][Decision on application for enforcement order][157]
+[119][157][][157][Decision on application for enforcement order][157]
 
-[120 ][158][][158][Interim enforcement order][158]
+[120][158][][158][Interim enforcement order][158]
 
-[121 ][159][][159][Application to change or cancel interim enforcement order][159]
+[121][159][][159][Application to change or cancel interim enforcement order][159]
 
-[122 ][160][][160][Compliance with enforcement order][160]
+[122][160][][160][Compliance with enforcement order][160]
 
-[123 ][161][][161][Change or cancellation of enforcement order][161]
+[123][161][][161][Change or cancellation of enforcement order][161]
 
-[124 ][162][][162][Restriction on certain applications for enforcement orders][162]
+[124][162][][162][Restriction on certain applications for enforcement orders][162]
 
 [Abatement notices][163]
 
-[125 ][164][][164][Abatement notices][164]
+[125][164][][164][Abatement notices][164]
 
-[126 ][165][][165][Compliance with abatement notice][165]
+[126][165][][165][Compliance with abatement notice][165]
 
-[127 ][166][][166][Form and content of abatement notice][166]
+[127][166][][166][Form and content of abatement notice][166]
 
-[128 ][167][][167][Cancellation of abatement notice][167]
+[128][167][][167][Cancellation of abatement notice][167]
 
-[129 ][168][][168][Appeals][168]
+[129][168][][168][Appeals][168]
 
-[130 ][169][][169][Restrictions on certain abatement notices][169]
+[130][169][][169][Restrictions on certain abatement notices][169]
 
-[131 ][170][][170][Proceedings in Environment Court][170]
+[131][170][][170][Proceedings in Environment Court][170]
 
 [Offences and penalties][171]
 
-[132 ][172][][172][Offences][172]
+[132][172][][172][Offences][172]
 
-[133 ][173][][173][Penalties][173]
+[133][173][][173][Penalties][173]
 
-[134 ][174][][174][Strict liability and defences][174]
+[134][174][][174][Strict liability and defences][174]
 
-[135 ][175][][175][Liability of principal for acts of agents][175]
+[135][175][][175][Liability of principal for acts of agents][175]
 
-[136 ][176][][176][Commencement of offence proceedings][176]
+[136][176][][176][Commencement of offence proceedings][176]
 
-[137 ][177][][177][Limitation period][177]
+[137][177][][177][Limitation period][177]
 
 [Appointment and powers of enforcement officers][178]
 
-[138 ][179][][179][Enforcement officers][179]
+[138][179][][179][Enforcement officers][179]
 
-[139 ][180][][180][Exercise of powers][180]
+[139][180][][180][Exercise of powers][180]
 
-[140 ][181][][181][Power to require certain information][181]
+[140][181][][181][Power to require certain information][181]
 
-[141 ][182][][182][Power of entry for inspection][182]
+[141][182][][182][Power of entry for inspection][182]
 
 [Part 5][183]  
 [Miscellaneous, transitional provisions, and consequential amendments][183]
@@ -398,87 +398,87 @@ This Act is administered by the Ministry for the Environment.
 
 [Protection of the Crown and others][185]
 
-[142 ][186][][186][Protection of the Crown and others][186]
+[142][186][][186][Protection of the Crown and others][186]
 
 [Cost recovery][187]
 
-[143 ][188][][188][Principles of cost recovery][188]
+[143][188][][188][Principles of cost recovery][188]
 
-[144 ][189][][189][Methods of cost recovery][189]
+[144][189][][189][Methods of cost recovery][189]
 
-[145 ][190][][190][Cost recovery to relate generally to financial year][190]
+[145][190][][190][Cost recovery to relate generally to financial year][190]
 
-[146 ][191][][191][Charges to be prescribed by regulations][191]
+[146][191][][191][Charges to be prescribed by regulations][191]
 
-[147 ][192][][192][Charges constitute debt due to Environmental Protection Authority][192]
+[147][192][][192][Charges constitute debt due to Environmental Protection Authority][192]
 
 [Service of documents][193]
 
-[148 ][194][][194][Service of documents][194]
+[148][194][][194][Service of documents][194]
 
-[149 ][195][][195][Service on master or owner of ship][195]
+[149][195][][195][Service on master or owner of ship][195]
 
 [Incorporation by reference][196]
 
-[150 ][197][][197][Incorporation by reference of written material in regulations][197]
+[150][197][][197][Incorporation by reference of written material in regulations][197]
 
-[151 ][198][][198][Effect of amendments to, or replacement of, material incorporated by reference in regulations][198]
+[151][198][][198][Effect of amendments to, or replacement of, material incorporated by reference in regulations][198]
 
-[152 ][199][][199][Proof of material incorporated by reference][199]
+[152][199][][199][Proof of material incorporated by reference][199]
 
-[153 ][200][][200][Effect of expiry of material incorporated by reference][200]
+[153][200][][200][Effect of expiry of material incorporated by reference][200]
 
-[154 ][201][][201][Access to material incorporated by reference][201]
+[154][201][][201][Access to material incorporated by reference][201]
 
-[155 ][202][][202][Application of Standards Act 1988 not affected][202]
+[155][202][][202][Application of Standards Act 1988 not affected][202]
 
-[156 ][203][][203][Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference][203]
+[156][203][][203][Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference][203]
 
-[157 ][204][][204][Application of Regulations (Disallowance) Act 1989][204]
+[157][204][][204][Application of Regulations (Disallowance) Act 1989][204]
 
 [Protection of sensitive information][205]
 
-[158 ][206][][206][Protection of sensitive information][206]
+[158][206][][206][Protection of sensitive information][206]
 
 [Waivers and extension of time limits][207]
 
-[159 ][208][][208][Power of waiver and extension of time limits][208]
+[159][208][][208][Power of waiver and extension of time limits][208]
 
-[160 ][209][][209][Requirements for waivers and extensions][209]
+[160][209][][209][Requirements for waivers and extensions][209]
 
 [Subpart 2][210][---][210][Transitional provisions][210]
 
 [Existing activities][211]
 
-[161 ][212][][212][Existing petroleum activities that become discretionary][212]
+[161][212][][212][Existing petroleum activities that become discretionary][212]
 
-[162 ][213][][213][Existing petroleum mining activities involving structures or pipelines][213]
+[162][213][][213][Existing petroleum mining activities involving structures or pipelines][213]
 
-[163 ][214][][214][Other existing activities that become discretionary][214]
+[163][214][][214][Other existing activities that become discretionary][214]
 
-[164 ][215][][215][Existing activities that become prohibited][215]
+[164][215][][215][Existing activities that become prohibited][215]
 
 [Mineral prospecting and exploration under Continental Shelf Act 1964][216]
 
-[165 ][217][][217][Mineral prospecting and exploration may commence and continue][217]
+[165][217][][217][Mineral prospecting and exploration may commence and continue][217]
 
 [Planned petroleum activities][218]
 
-[166 ][219][][219][Planned petroleum activities that become discretionary][219]
+[166][219][][219][Planned petroleum activities that become discretionary][219]
 
 [Unauthorised activities][220]
 
-[167 ][221][][221][Unauthorised activities must stop][221]
+[167][221][][221][Unauthorised activities must stop][221]
 
 [Subpart 3][222][---][222][Amendments to other Acts][222]
 
 [Consequential amendments to Biosecurity Act 1993][223]
 
-[168 ][224][][224][Biosecurity Act 1993 amended][224]
+[168][224][][224][Biosecurity Act 1993 amended][224]
 
-[169 ][225][][225][Relationship with other enactments][225]
+[169][225][][225][Relationship with other enactments][225]
 
-[170 ][226][][226][Section 7A replaced (Relationship with Resource Management Act 1991)][226]
+[170][226][][226][Section 7A replaced (Relationship with Resource Management Act 1991)][226]
 
 [7A][227][][227][Relationship with Resource Management Act 1991][227]
 
@@ -490,31 +490,31 @@ This Act is administered by the Ministry for the Environment.
 
 [Amendment to Continental Shelf Act 1964][231]
 
-[171 ][232][][232][Amendment to Continental Shelf Act 1964][232]
+[171][232][][232][Amendment to Continental Shelf Act 1964][232]
 
 [Amendments to Crown Organisations (Criminal Liability) Act 2002][233]
 
-[172 ][234][][234][Amendments to Crown Organisations (Criminal Liability) Act 2002][234]
+[172][234][][234][Amendments to Crown Organisations (Criminal Liability) Act 2002][234]
 
 [Amendment to Environment Act 1986][235]
 
-[173 ][236][][236][Amendment to Environment Act 1986][236]
+[173][236][][236][Amendment to Environment Act 1986][236]
 
 [Amendment to Environmental Protection Authority Act 2011][237]
 
-[174 ][238][][238][Amendment to Environmental Protection Authority Act 2011][238]
+[174][238][][238][Amendment to Environmental Protection Authority Act 2011][238]
 
 [Amendment to Fisheries Act 1996][239]
 
-[175 ][240][][240][Amendment to Fisheries Act 1996][240]
+[175][240][][240][Amendment to Fisheries Act 1996][240]
 
 [Amendments to Resource Management Act 1991][241]
 
-[176 ][242][][242][Amendments to Resource Management Act 1991][242]
+[176][242][][242][Amendments to Resource Management Act 1991][242]
 
 [Amendment to Search and Surveillance Act 2012][243]
 
-[177 ][244][][244][Amendment to Search and Surveillance Act 2012][244]
+[177][244][][244][Amendment to Search and Surveillance Act 2012][244]
 
 ---
 
@@ -529,6 +529,8 @@ The Parliament of New Zealand enacts as follows:
 *   (1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
     
     (2) Any provision that has not earlier been brought into force comes into force on 1 July 2014\.
+    
+    Section 2(1): this Act brought into force, on 28 June 2013, by the [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act Commencement Order 2013][245] (SR 2013/282).
 
 ## Part 1  
 Preliminary provisions
@@ -651,9 +653,9 @@ Preliminary provisions
     
     _consent holder_ or _holder_, in relation to a consent, means the person who has been granted a consent under [section 62][84] or to whom a consent has been transferred under [section 75][100]
     
-    _continental shelf_ has the same meaning as in [section 2(1)][245] of the Continental Shelf Act 1964
+    _continental shelf_ has the same meaning as in [section 2(1)][246] of the Continental Shelf Act 1964
     
-    _Crown organisation_ has the same meaning as in [section 4][246] of the Crown Organisations (Criminal Liability) Act 2002
+    _Crown organisation_ has the same meaning as in [section 4][247] of the Crown Organisations (Criminal Liability) Act 2002
     
     _department_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -675,9 +677,9 @@ Preliminary provisions
     
     *   (d) the waters beyond the exclusive economic zone and above and beyond the continental shelf
     
-    _Environmental Protection Authority_ or _EPA_ means the Environmental Protection Authority established by [section 7][247] of the Environmental Protection Authority Act 2011
+    _Environmental Protection Authority_ or _EPA_ means the Environmental Protection Authority established by [section 7][248] of the Environmental Protection Authority Act 2011
     
-    _exclusive economic zone_ means the exclusive economic zone of New Zealand as defined in [section 9][248] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+    _exclusive economic zone_ means the exclusive economic zone of New Zealand as defined in [section 9][249] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
     
     _existing interest_ means, in relation to New Zealand, the exclusive economic zone, or the continental shelf (as applicable), the interest a person has in---
         
@@ -685,13 +687,13 @@ Preliminary provisions
     
     *   (b) any activity that may be undertaken under the authority of an existing marine consent granted under [section 62][84]:
     
-    *   (c) any activity that may be undertaken under the authority of an existing resource consent granted under the [Resource Management Act 1991][249]:
+    *   (c) any activity that may be undertaken under the authority of an existing resource consent granted under the [Resource Management Act 1991][250]:
     
-    *   (d) the settlement of a historical claim under the [Treaty of Waitangi Act 1975][250]:
+    *   (d) the settlement of a historical claim under the [Treaty of Waitangi Act 1975][251]:
     
-    *   (e) the settlement of a contemporary claim under the Treaty of Waitangi as provided for in an Act, including the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][251]:
+    *   (e) the settlement of a contemporary claim under the Treaty of Waitangi as provided for in an Act, including the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][252]:
     
-    *   (f) a protected customary right or customary marine title recognised under the [Marine and Coastal Area (Takutai Moana) Act 2011][252]
+    *   (f) a protected customary right or customary marine title recognised under the [Marine and Coastal Area (Takutai Moana) Act 2011][253]
     
     _impact assessment_ means the impact assessment described in [section 39][58]
     
@@ -699,7 +701,7 @@ Preliminary provisions
     
     _information principles_ means the information principles set out in [sections 34][50] and [61][83]
     
-    _Māori Advisory Committee_ means the committee established under [section 18][253] of the Environmental Protection Authority Act 2011
+    _Māori Advisory Committee_ means the committee established under [section 18][254] of the Environmental Protection Authority Act 2011
     
     _marine consent_ or _consent_ means a consent granted under [section 62][84]
     
@@ -735,9 +737,9 @@ Preliminary provisions
     
     _regional council_---
         
-    *   (a) has the same meaning as in [section 5][254] of the Local Government Act 2002; and 
+    *   (a) has the same meaning as in [section 5][255] of the Local Government Act 2002; and
     
-    *   (b) includes a unitary authority within the meaning of that [Act][255]
+    *   (b) includes a unitary authority within the meaning of that Act
     
     _regulations_ means regulations made under this Act
     
@@ -757,7 +759,7 @@ Preliminary provisions
         
     *   (a) means any building, equipment, or device; and
     
-    *   (b) includes--- 
+    *   (b) includes---
             
         *   (i) an offshore installation, artificial island, or floating platform; and
         
@@ -849,7 +851,7 @@ Preliminary provisions
     
     *   (g) [Hauraki Gulf Marine Park Act 2000][268]:
     
-    *   (h) [Marine and Coastal Area (Takutai Moana) Act 2011][252]:
+    *   (h) [Marine and Coastal Area (Takutai Moana) Act 2011][253]:
     
     *   (i) [Marine Mammals Protection Act 1978][269]:
     
@@ -857,7 +859,7 @@ Preliminary provisions
     
     *   (k) [Maritime Transport Act 1994][269]:
     
-    *   (l) [Resource Management Act 1991][249]:
+    *   (l) [Resource Management Act 1991][250]:
     
     *   (m) [Submarine Cables and Pipelines Protection Act 1996][270]:
     
@@ -947,7 +949,7 @@ Preliminary provisions
     
     (3) In order to achieve the purpose, decision-makers must---
         
-    *   (a) take into account decision-making criteria specified in relation to particular decisions; and 
+    *   (a) take into account decision-making criteria specified in relation to particular decisions; and
     
     *   (b) apply the information principles to the development of regulations and the consideration of applications for marine consent.
     
@@ -979,7 +981,7 @@ Preliminary provisions
 
 ### Subpart 3---Functions, duties, and powers
 
-#### Functions, duties, and powers 
+#### Functions, duties, and powers
 
 ##### 13 Functions of Environmental Protection Authority
     
@@ -1158,7 +1160,7 @@ Duties and restrictions
         
     *   (a) the activity was classified as a permitted activity by regulations; and
     
-    *   (b) new regulations come into force that amend or replace the regulations described in paragraph (a) (the _new regulations_); and 
+    *   (b) new regulations come into force that amend or replace the regulations described in paragraph (a) (the _new regulations_); and
     
     *   (c) the activity requires a marine consent as a result of the amendment or replacement of the regulations described in paragraph (a).
     
@@ -1216,7 +1218,7 @@ Duties and restrictions
     
 *   (1) This section applies to an activity authorised to continue by [section 21][30], [22][31], or [23][32] once the activity is no longer authorised to continue by one of those sections.
     
-    (2) The person undertaking the activity must--- 
+    (2) The person undertaking the activity must---
         
     *   (a) stop the activity; and
     
@@ -1411,7 +1413,7 @@ Requirements and consents
     
     *   (c) the effects on human health that may arise from effects on the environment; and
     
-    *   (d) the importance of protecting the biological diversity and integrity of marine species, ecosystems, and processes; and 
+    *   (d) the importance of protecting the biological diversity and integrity of marine species, ecosystems, and processes; and
     
     *   (e) the importance of protecting rare and vulnerable ecosystems and the habitats of threatened species; and
     
@@ -1499,7 +1501,7 @@ Requirements and consents
     
     
 
-##### 39 Impact assessment 
+##### 39 Impact assessment
     
 *   (1) An impact assessment must---
         
@@ -1847,7 +1849,7 @@ Requirements and consents
     
     *   (c) the effects on human health that may arise from effects on the environment; and
     
-    *   (d) the importance of protecting the biological diversity and integrity of marine species, ecosystems, and processes; and 
+    *   (d) the importance of protecting the biological diversity and integrity of marine species, ecosystems, and processes; and
     
     *   (e) the importance of protecting rare and vulnerable ecosystems and the habitats of threatened species; and
     
@@ -2053,7 +2055,7 @@ Requirements and consents
 
 ##### 70 Notification of Environmental Protection Authority's decision
     
-*   (1) The Environmental Protection Authority must--- 
+*   (1) The Environmental Protection Authority must---
         
     *   (a) give a copy of its decision on an application for a marine consent to---
             
@@ -2115,7 +2117,7 @@ Requirements and consents
 
 ##### 73 Duration of marine consent
     
-*   (1) The duration of a marine consent is--- 
+*   (1) The duration of a marine consent is---
         
     *   (a) 35 years after the date of the granting of the consent; or
     
@@ -2137,7 +2139,7 @@ Requirements and consents
         
     *   (a) a marine consent is due to expire; and
     
-    *   (b) the holder of the consent applies to the Environmental Protection Authority for a new consent for the same activity; and 
+    *   (b) the holder of the consent applies to the Environmental Protection Authority for a new consent for the same activity; and
     
     *   (c) the application is made at least 6 months before the expiry of the existing consent.
     
@@ -2145,7 +2147,7 @@ Requirements and consents
         
     *   (a) a marine consent is due to expire; and
     
-    *   (b) the holder of the consent applies to the Environmental Protection Authority for a new consent for the same activity; and 
+    *   (b) the holder of the consent applies to the Environmental Protection Authority for a new consent for the same activity; and
     
     *   (c) the application is made in the period that---
             
@@ -2179,7 +2181,7 @@ Requirements and consents
 
 #### Review of duration and conditions of marine consent
 
-##### 76 Environmental Protection Authority may review duration and conditions 
+##### 76 Environmental Protection Authority may review duration and conditions
     
 *   (1) The Environmental Protection Authority may serve notice on a consent holder of its intention to review the duration of a marine consent or the conditions of the consent---
         
@@ -2269,7 +2271,7 @@ Requirements and consents
         
     *   (a) must---
             
-        *   (i) consider the matters in [sections 59][81] and [60][82] as provided for in those sections; and 
+        *   (i) consider the matters in [sections 59][81] and [60][82] as provided for in those sections; and
         
         *   (ii) comply with [section 61][83]; and
         
@@ -2403,7 +2405,7 @@ Requirements and consents
 
 ### Subpart 3---Marine consents for cross-boundary activities
 
-##### 88 Interpretation 
+##### 88 Interpretation
     
 *   In this subpart, unless the context otherwise requires,---
     
@@ -2415,7 +2417,7 @@ Requirements and consents
     
     _cross-boundary activity_ means an activity that is carried out partly in the exclusive economic zone or in or on the continental shelf and partly in New Zealand
     
-    _joint application for consent_ or _joint application _means an application that comprises both an application for a resource consent under the [Resource Management Act 1991][249] and an application for a marine consent under this Act
+    _joint application for consent_ or _joint application _means an application that comprises both an application for a resource consent under the [Resource Management Act 1991][250] and an application for a marine consent under this Act
     
     _relevant consent authority_ means---
         
@@ -2439,13 +2441,13 @@ Requirements and consents
 
 ##### 90 Application for consent for cross-boundary activity
     
-*   A person who intends to undertake a cross-boundary activity may--- 
+*   A person who intends to undertake a cross-boundary activity may---
         
     *   (a) prepare a joint application for consent that complies with the requirements of---
             
         *   (i) this Act and any regulations in relation to the part of the activity that relates to the exclusive economic zone or the continental shelf; and
         
-        *   (ii) the [Resource Management Act 1991][249], and any regulations, national environmental standards, or regional or district plans made under that Act, in relation to the part of the activity that relates to New Zealand; or
+        *   (ii) the [Resource Management Act 1991][250], and any regulations, national environmental standards, or regional or district plans made under that Act, in relation to the part of the activity that relates to New Zealand; or
         
         
     
@@ -2497,7 +2499,7 @@ Requirements and consents
         
     *   (a) the EPA and the relevant consent authority agree that the applications are sufficiently unrelated that a joint process is not necessary; or
     
-    *   (b) the application for resource consent does not require public notification under the [Resource Management Act 1991][249]; or
+    *   (b) the application for resource consent does not require public notification under the [Resource Management Act 1991][250]; or
     
     *   (c) a hearing is required for one application but not the other; or
     
@@ -2505,7 +2507,7 @@ Requirements and consents
     
     (3) In any case described in subsection (1),---
         
-    *   (a) the relevant consent authority must resume processing the application for resource consent under the [Resource Management Act 1991][249]; and
+    *   (a) the relevant consent authority must resume processing the application for resource consent under the [Resource Management Act 1991][250]; and
     
     *   (b) the EPA must resume processing the application for a marine consent under [subpart 2][55].
     
@@ -2585,7 +2587,7 @@ Requirements and consents
         
     *   (a) the EPA must process and the board of inquiry must decide the application for a marine consent together with the associated application for a resource consent; and
     
-    *   (b) the provisions of the [Resource Management Act 1991][249] specified in subsection (5) apply to the processing of the application for marine consent as if the application for a marine consent were a matter lodged with the EPA under [section 145(1)(a)][298] of the Resource Management Act 1991\.
+    *   (b) the provisions of the [Resource Management Act 1991][250] specified in subsection (5) apply to the processing of the application for marine consent as if the application for a marine consent were a matter lodged with the EPA under [section 145(1)(a)][298] of the Resource Management Act 1991\.
     
     (4) If subsection (3) applies, the EPA must---
         
@@ -2802,7 +2804,7 @@ Objections, appeals, and enforcement
         
     *   (a) the Attorney-General, representing a relevant aspect of the public interest:
     
-    *   (b) the relevant consent authority in relation to proceedings affecting a cross-boundary activity to which [subpart 3 of Part 3][115] applies.
+    *   (b) the relevant consent authority in relation to proceedings affecting a cross-boundary activity to which [subpart 3][115] of Part 3 applies.
     
     (2) A person described in subsection (1) may become a party to the proceedings by giving notice to the High Court and to all other parties within 15 working days after---
         
@@ -3022,7 +3024,7 @@ Objections, appeals, and enforcement
         
     *   (a) by or on behalf of the Director of Maritime New Zealand under [section 248][315] or [249][316] of the Maritime Transport Act 1994; or
     
-    *   (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that [Act][281]; or
+    *   (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that Act; or
     
     *   (c) by or on behalf of any on-scene commander under [section 305][317] or [311][318] of that Act or in accordance with a direction given under [section 310][319] of that Act; or
     
@@ -3030,7 +3032,7 @@ Objections, appeals, and enforcement
     
     (2) No person may apply for an enforcement order of a kind specified in [section 115(1)(c)][153] in respect of any actual or reasonable costs where---
         
-    *   (a) the costs that a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][320] of the Maritime Transport Act 1994); and 
+    *   (a) the costs that a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][320] of the Maritime Transport Act 1994); and
     
     *   (b) in respect of those costs, the person is liable in damages under [Part 25][321] of that Act.
     
@@ -3086,7 +3088,7 @@ Objections, appeals, and enforcement
     
     (2) A person who is directly affected by an abatement notice may apply in writing to the EPA to change or cancel the abatement notice.
     
-    (3) The EPA must consider the application as soon as practicable and may confirm, change, or cancel the abatement notice. 
+    (3) The EPA must consider the application as soon as practicable and may confirm, change, or cancel the abatement notice.
     
     (4) In deciding an application, the EPA must have regard to---
         
@@ -3222,7 +3224,7 @@ Objections, appeals, and enforcement
 
 ##### 135 Liability of principal for acts of agents
     
-*   (1) The consequence specified in subsection (2) applies if a person (the _agent_) commits an offence against this Act while--- 
+*   (1) The consequence specified in subsection (2) applies if a person (the _agent_) commits an offence against this Act while---
         
     *   (a) acting as an agent (including a contractor) or employee of another person (the _principal_); or
     
@@ -3443,7 +3445,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
 *   (1) Any regulations that prescribe a charge that applies in any financial year---
         
-    *   (a) must have been made before the start of the financial year; but 
+    *   (a) must have been made before the start of the financial year; but
     
     *   (b) apply in that year and all subsequent years until revoked or replaced, except as the regulations may otherwise provide.
     
@@ -3507,7 +3509,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     *   (e) leaving it at a document exchange for direction to the document exchange box number that the person has specified as an address for service; or
     
-    *   (f) sending it to the fax number that the person has specified as an address for service; or 
+    *   (f) sending it to the fax number that the person has specified as an address for service; or
     
     *   (g) sending it to the email address that the person has specified as an address for service.
     
@@ -3515,7 +3517,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     (3) A Minister of the Crown may be served by service on the chief executive of the appropriate department of State.
     
-    (4) A body corporate or an unincorporated body may be served by service on an officer, or at the registered office, of the body. 
+    (4) A body corporate or an unincorporated body may be served by service on an officer, or at the registered office, of the body.
     
     (5) A partnership may be served by service on any of the partners or at the registered office of the partnership.
     
@@ -3769,7 +3771,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     *   (b) any change in the character, intensity, or scale of the activity described in subsection (1) made on or after the date on which this Act comes into force; or
     
-    *   (c) the alteration, extension, removal, or demolition of an existing structure or existing submarine pipeline associated with the activity described in subsection (1). 
+    *   (c) the alteration, extension, removal, or demolition of an existing structure or existing submarine pipeline associated with the activity described in subsection (1).
     
     (4) The activity to which this section applies may continue without a marine consent for the term of the permit or privilege as it was on the day before this Act comes into force.
     
@@ -3893,7 +3895,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
 *   (1) This section applies to an activity once the activity is no longer authorised by this subpart to continue, unless the activity is a permitted activity or authorised by a marine consent.
     
-    (2) The person undertaking the activity must--- 
+    (2) The person undertaking the activity must---
         
     *   (a) stop the activity; and
     
@@ -4011,7 +4013,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     >     
     >     "(2) The responsible Minister must not make a recommendation for the purposes of subsection (1) unless he or she considers that it is necessary to continue the action to attempt to eradicate or manage the organism beyond the duration of the exemption.
     >     
-    >     "(3) Regulations made under this section come into force on the date of notification in the _Gazette_, or at the time specified in the regulations, whichever is the later. 
+    >     "(3) Regulations made under this section come into force on the date of notification in the _Gazette_, or at the time specified in the regulations, whichever is the later.
     >     
     >     "(4) The regulations expire on the day that is 2 years after the date on which the regulations come into force unless they are revoked earlier."
     > 
@@ -4085,7 +4087,7 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ##### 176 Amendments to Resource Management Act 1991
     
-*   (1) This section amends the [Resource Management Act 1991][249].
+*   (1) This section amends the [Resource Management Act 1991][250].
     
     (2) [Section 61(2)][348] is amended by adding ""; and"" and also by adding the following paragraph after paragraph (b):
     
@@ -4135,7 +4137,7 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ###### 1 General
     
-*   This is a reprint of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012\. The reprint incorporates all the amendments to the Act as at 28 June 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][352] ![](/images/external_link.gif).
 
@@ -4147,7 +4149,7 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][354] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][354] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
@@ -4182,7 +4184,9 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][284]
+*   [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act Commencement Order 2013][245] (SR 2013/282)
+    
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][284]
 
 
 
@@ -4431,17 +4435,17 @@ Miscellaneous, transitional provisions, and consequential amendments
 [242]: http://www.legislation.govt.nz/act/public/2012/0072/latest/whole.html#DLM3956370
 [243]: http://www.legislation.govt.nz/act/public/2012/0072/latest/whole.html#DLM4670823
 [244]: http://www.legislation.govt.nz/act/public/2012/0072/latest/whole.html#DLM4670824
-[245]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM351644
-[246]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156449
-[247]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366850
-[248]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM442682
-[249]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM230264
-[250]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM435367
-[251]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM281432
-[252]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3213102
-[253]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366865
-[254]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM170881
-[255]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM170872
+[245]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5266200
+[246]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM351644
+[247]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156449
+[248]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366850
+[249]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM442682
+[250]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM230264
+[251]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM435367
+[252]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM281432
+[253]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3213102
+[254]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366865
+[255]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM170881
 [256]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM375809
 [257]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM314629
 [258]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM300516
