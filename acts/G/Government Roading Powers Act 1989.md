@@ -1,5 +1,5 @@
 Reprint  
-as at 10 May 2011
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,40 +25,38 @@ This Act is administered by the Ministry of Transport.
 
 ## Contents
 
-[Title][2]
+[Title][2] \[Repealed\]
 
-\[Repealed\]
+[1][3][][3][Short Title and commencement][3]
 
-[1][3] [Short Title and commencement][3]
+[2][4][][4][Interpretation][4]
 
-[2][4] [Interpretation][4]
-
-[3][5] [Act to bind the Crown][5]
+[3][5][][5][Act to bind the Crown][5]
 
 [Part 1A][6]  
 [Transfund New Zealand][6]
 
 \[Repealed\]
 
-[3A][7] [Constitution of Transfund New Zealand][7] \[Repealed\]
+[3A][7][][7][Constitution of Transfund New Zealand][7] \[Repealed\]
 
-[3B][8] [Principal objective of Board][8] \[Repealed\]
+[3B][8][][8][Principal objective of Board][8] \[Repealed\]
 
-[3C][9] [Functions and powers of Board][9] \[Repealed\]
+[3C][9][][9][Functions and powers of Board][9] \[Repealed\]
 
-[3D][10] [Functions and powers of Board in relation to alternative forms of transport][10] \[Repealed\]
+[3D][10][][10][Functions and powers of Board in relation to alternative forms of transport][10] \[Repealed\]
 
-[3E][11] [Board to have powers of natural person][11] \[Repealed\]
+[3E][11][][11][Board to have powers of natural person][11] \[Repealed\]
 
-[3F][12] [Board to comply with policy directions][12] \[Repealed\]
+[3F][12][][12][Board to comply with policy directions][12] \[Repealed\]
 
-[3G][13] [Use of words Transfund New Zealand][13] \[Repealed\]
+[3G][13][][13][Use of words Transfund New Zealand][13] \[Repealed\]
 
-[3H][14] [Board to consider delegating or contracting out functions and powers][14] \[Repealed\]
+[3H][14][][14][Board to consider delegating or contracting out functions and powers][14] \[Repealed\]
 
-[3I][15] [Delegation of Board's functions or powers to employees of Board][15] \[Repealed\]
+[3I][15][][15][Delegation of Board's functions or powers to employees of Board][15] \[Repealed\]
 
-[3J][16] [Delegation of Board's functions or powers to persons outside Board][16] \[Repealed\]
+[3J][16][][16][Delegation of Board's functions or powers to persons outside Board][16] \[Repealed\]
 
 [Part 1][17]  
 [Transfund and Transit][17]
@@ -67,29 +65,29 @@ This Act is administered by the Ministry of Transport.
 
 [Overview][18]
 
-[4][19] [Overview][19] \[Repealed\]
+[4][19][][19][Overview][19] \[Repealed\]
 
 [Governance][20]
 
-[5][21] [Transfund][21] \[Repealed\]
+[5][21][][21][Transfund][21] \[Repealed\]
 
-[6][22] [Transit][22] \[Repealed\]
+[6][22][][22][Transit][22] \[Repealed\]
 
-[7][23] [Functions, duties, and powers][23] \[Repealed\]
+[7][23][][23][Functions, duties, and powers][23] \[Repealed\]
 
-[7A][24] [Authority to have powers of natural person][24] \[Repealed\]
+[7A][24][][24][Authority to have powers of natural person][24] \[Repealed\]
 
-[7B][25] [Completion of performance agreements by Board and Authority][25] \[Repealed\]
+[7B][25][][25][Completion of performance agreements by Board and Authority][25] \[Repealed\]
 
-[7C][26] [Authority to consider delegating or contracting out functions and powers][26] \[Repealed\]
+[7C][26][][26][Authority to consider delegating or contracting out functions and powers][26] \[Repealed\]
 
-[7D][27] [Delegation of Authority's functions or powers to employees of Authority][27] \[Repealed\]
+[7D][27][][27][Delegation of Authority's functions or powers to employees of Authority][27] \[Repealed\]
 
-[7E][28] [Delegation of Authority's functions or powers to persons outside Authority][28] \[Repealed\]
+[7E][28][][28][Delegation of Authority's functions or powers to persons outside Authority][28] \[Repealed\]
 
 [Land transport funding][29]
 
-[8][30] [Funding system][30] \[Repealed\]
+[8][30][][30][Funding system][30] \[Repealed\]
 
 [Part 2][31]  
 [Funding of capital projects and outputs][31]
@@ -98,75 +96,75 @@ This Act is administered by the Ministry of Transport.
 
 [Land transport funding][32]
 
-[9][33] [Payment of roading revenue to Crown Bank Account][33] \[Repealed\]
+[9][33][][33][Payment of roading revenue to Crown Bank Account][33] \[Repealed\]
 
-[10][34] [Crown's authority to incur certain land transport expenditure][34] \[Repealed\]
+[10][34][][34][Crown's authority to incur certain land transport expenditure][34] \[Repealed\]
 
-[11][35] [Payment of roading revenue into Crown Bank Account][35] \[Repealed\]
+[11][35][][35][Payment of roading revenue into Crown Bank Account][35] \[Repealed\]
 
-[12][36] [Payment of roading revenue from Crown Bank Account][36] \[Repealed\]
+[12][36][][36][Payment of roading revenue from Crown Bank Account][36] \[Repealed\]
 
 [National Roads Account][37]
 
-[13][38] [Board to operate National Roads Account][38] \[Repealed\]
+[13][38][][38][Board to operate National Roads Account][38] \[Repealed\]
 
-[14][39] [Management and investment of National Roads Account][39] \[Repealed\]
+[14][39][][39][Management and investment of National Roads Account][39] \[Repealed\]
 
-[15][40] [Payments from National Roads Account][40] \[Repealed\]
+[15][40][][40][Payments from National Roads Account][40] \[Repealed\]
 
-[16][41] [Payments by Board][41] \[Repealed\]
+[16][41][][41][Payments by Board][41] \[Repealed\]
 
-[17][42] [Board may approve outputs and capital projects][42] \[Repealed\]
+[17][42][][42][Board may approve outputs and capital projects][42] \[Repealed\]
 
-[18][43] [Approved projects to form part of national roading programme][43] \[Repealed\]
+[18][43][][43][Approved projects to form part of national roading programme][43] \[Repealed\]
 
 [Payments from National Roads Account to Authority][44]
 
-[19][45] [Payments to Authority][45] \[Repealed\]
+[19][45][][45][Payments to Authority][45] \[Repealed\]
 
-[20][46] [Authority to operate State Highways Account][46] \[Repealed\]
+[20][46][][46][Authority to operate State Highways Account][46] \[Repealed\]
 
-[20A][47] [Special provisions relating to minor and ancillary road works, and in-house professional services][47] \[Repealed\]
+[20A][47][][47][Special provisions relating to minor and ancillary road works, and in-house professional services][47] \[Repealed\]
 
-[21][48] [Management and investment of State Highways Account][48] \[Repealed\]
+[21][48][][48][Management and investment of State Highways Account][48] \[Repealed\]
 
-[21A][49] [Recovery of incorrect payments][49] \[Repealed\]
+[21A][49][][49][Recovery of incorrect payments][49] \[Repealed\]
 
-[22][50] [Payments from State Highways Account][50] \[Repealed\]
+[22][50][][50][Payments from State Highways Account][50] \[Repealed\]
 
 [Payments from National Roads Account to local authorities][51]
 
-[23][52] [Payments to local authorities][52] \[Repealed\]
+[23][52][][52][Payments to local authorities][52] \[Repealed\]
 
-[24][53] [Local authorities to operate Land Transport Disbursement Accounts][53] \[Repealed\]
+[24][53][][53][Local authorities to operate Land Transport Disbursement Accounts][53] \[Repealed\]
 
 [Restrictions on payments from State Highways Account and Land Transport Disbursement Accounts][54]
 
-[25][55] [Interpretation][55] \[Repealed\]
+[25][55][][55][Interpretation][55] \[Repealed\]
 
-[26][56] [Competitive pricing procedure][56] \[Repealed\]
+[26][56][][56][Competitive pricing procedure][56] \[Repealed\]
 
-[27][57] [Expenditure subject to competitive pricing procedure][57] \[Repealed\]
+[27][57][][57][Expenditure subject to competitive pricing procedure][57] \[Repealed\]
 
-[27A][58] [Regional land transport committees][58] \[Repealed\]
+[27A][58][][58][Regional land transport committees][58] \[Repealed\]
 
-[28][59] [Special provisions relating to in-house professional services][59] \[Repealed\]
+[28][59][][59][Special provisions relating to in-house professional services][59] \[Repealed\]
 
-[29][60] [Special provisions relating to minor and ancillary works during 1997 and 1998][60] \[Repealed\]
+[29][60][][60][Special provisions relating to minor and ancillary works during 1997 and 1998][60] \[Repealed\]
 
-[30][61] [Certain payments for minor and ancillary works deemed to comply with section 27][61] \[Repealed\]
+[30][61][][61][Certain payments for minor and ancillary works deemed to comply with section 27][61] \[Repealed\]
 
-[31][62] [Information to be provided by local authority in respect of certain payments][62] \[Repealed\]
+[31][62][][62][Information to be provided by local authority in respect of certain payments][62] \[Repealed\]
 
-[32][63] [Determinations by Minister][63] \[Repealed\]
+[32][63][][63][Determinations by Minister][63] \[Repealed\]
 
-[33][64] [Board may reduce payments in certain cases][64] \[Repealed\]
+[33][64][][64][Board may reduce payments in certain cases][64] \[Repealed\]
 
-[34][65] [Board may require certain information from Authority and local authorities][65] \[Repealed\]
+[34][65][][65][Board may require certain information from Authority and local authorities][65] \[Repealed\]
 
-[35][66] [Payments may be conditional on projects being carried out to satisfactory standard][66] \[Repealed\]
+[35][66][][66][Payments may be conditional on projects being carried out to satisfactory standard][66] \[Repealed\]
 
-[36][67] [Certain payments prohibited][67] \[Repealed\]
+[36][67][][67][Certain payments prohibited][67] \[Repealed\]
 
 [Part 3][68]  
 [Safety (administration) and roading programmes][68]
@@ -175,230 +173,230 @@ This Act is administered by the Ministry of Transport.
 
 [Safety (administration) programme][69]
 
-[37][70] [Safety (administration) programme][70] \[Repealed\]
+[37][70][][70][Safety (administration) programme][70] \[Repealed\]
 
-[38][71] [Approval of safety (administration) programme][71] \[Repealed\]
+[38][71][][71][Approval of safety (administration) programme][71] \[Repealed\]
 
-[39][72] [Agencies to adhere to safety (administration) programme][72] \[Repealed\]
+[39][72][][72][Agencies to adhere to safety (administration) programme][72] \[Repealed\]
 
-[40][73] [Secretary to make safety (administration) programme available to public][73] \[Repealed\]
+[40][73][][73][Secretary to make safety (administration) programme available to public][73] \[Repealed\]
 
-[41][74] [Secretary may submit supplementary safety (administration) programme][74] \[Repealed\]
+[41][74][][74][Secretary may submit supplementary safety (administration) programme][74] \[Repealed\]
 
-[42][75] [Minister may approve supplementary safety (administration) programme][75] \[Repealed\]
+[42][75][][75][Minister may approve supplementary safety (administration) programme][75] \[Repealed\]
 
 [National roading programme][76]
 
-[42A][77] [National roading programme][77] \[Repealed\]
+[42A][77][][77][National roading programme][77] \[Repealed\]
 
-[42B][78] [Agencies to adhere to national roading programme][78] \[Repealed\]
+[42B][78][][78][Agencies to adhere to national roading programme][78] \[Repealed\]
 
-[42C][79] [Board to make national roading programme available to public][79] \[Repealed\]
+[42C][79][][79][Board to make national roading programme available to public][79] \[Repealed\]
 
 [State highways, regional, and district roading programmes][80]
 
-[42D][81] [State highways programme][81] \[Repealed\]
+[42D][81][][81][State highways programme][81] \[Repealed\]
 
-[42E][82] [Consultation concerning State highways programme][82] \[Repealed\]
+[42E][82][][82][Consultation concerning State highways programme][82] \[Repealed\]
 
-[42F][83] [Regional programmes][83] \[Repealed\]
+[42F][83][][83][Regional programmes][83] \[Repealed\]
 
-[42G][84] [Consultation concerning regional programmes][84] \[Repealed\]
+[42G][84][][84][Consultation concerning regional programmes][84] \[Repealed\]
 
-[42H][85] [District roading programmes][85] \[Repealed\]
+[42H][85][][85][District roading programmes][85] \[Repealed\]
 
-[42I][86] [Consultation concerning district roading programmes][86] \[Repealed\]
+[42I][86][][86][Consultation concerning district roading programmes][86] \[Repealed\]
 
-[42J][87] [Provision of information][87] \[Repealed\]
+[42J][87][][87][Provision of information][87] \[Repealed\]
 
-[42K][88] [Needs of transport disadvantaged to be considered][88] \[Repealed\]
+[42K][88][][88][Needs of transport disadvantaged to be considered][88] \[Repealed\]
 
-[42L][89] [Maori interests to be considered][89] \[Repealed\]
+[42L][89][][89][Maori interests to be considered][89] \[Repealed\]
 
 [Miscellaneous provisions][90]
 
-[42M][91] [Agreements regarding passenger transport operations][91] \[Repealed\]
+[42M][91][][91][Agreements regarding passenger transport operations][91] \[Repealed\]
 
-[42N][92] [Reports on projects and programmes][92] \[Repealed\]
+[42N][92][][92][Reports on projects and programmes][92] \[Repealed\]
 
 [Part 4][93]  
 [Roading][93]
 
-[43][94] [Interpretation][94]
+[43][94][][94][Interpretation][94]
 
 [Roads][95]
 
-[44][96] [Certain roads vested in Crown][96]
+[44][96][][96][Certain roads vested in Crown][96]
 
-[45][97] [Provisions relating to construction of motorways to apply to roads constructed pursuant to middle line][97] \[Repealed\]
+[45][97][][97][Provisions relating to construction of motorways to apply to roads constructed pursuant to middle line][97] \[Repealed\]
 
-[46][98] [Minister may make roads and declare Government or district roads][98]
+[46][98][][98][Minister may make roads and declare Government or district roads][98]
 
-[47][99] [Roads in areas where no territorial authority exists, etc][99]
+[47][99][][99][Roads in areas where no territorial authority exists, etc][99]
 
-[48][100] [Powers of Minister over roads under Minister's control][100]
+[48][100][][100][Powers of Minister over roads under Minister's control][100]
 
-[49][101] [Powers of Minister in regard to swing gates and cattle stops on roads][101]
+[49][101][][101][Powers of Minister in regard to swing gates and cattle stops on roads][101]
 
-[50][102] [Owner or occupier of land not to cause damage to bridge by removal of stone, etc][102]
+[50][102][][102][Owner or occupier of land not to cause damage to bridge by removal of stone, etc][102]
 
-[51][103] [Penalties for damage to roads, bridges, etc][103]
+[51][103][][103][Penalties for damage to roads, bridges, etc][103]
 
-[52][104] [Notice to be given of local authority works][104]
+[52][104][][104][Notice to be given of local authority works][104]
 
-[53][105] [Poles, etc, on roads to be adjacent to boundaries][105]
+[53][105][][105][Poles, etc, on roads to be adjacent to boundaries][105]
 
-[54][106] [Removal of roadside structures][106]
+[54][106][][106][Removal of roadside structures][106]
 
-[55][107] [Removal of trees, hedges, etc, that obscure visibility or interfere with public work][107]
+[55][107][][107][Removal of trees, hedges, etc, that obscure visibility or interfere with public work][107]
 
-[56][108] [Service of notice][108]
+[56][108][][108][Service of notice][108]
 
-[57][109] [Emergency work on trees, etc][109]
+[57][109][][109][Emergency work on trees, etc][109]
 
 [Access ways and service lanes][110]
 
-[58][111] [Minister may construct access ways and service lanes][111]
+[58][111][][111][Minister may construct access ways and service lanes][111]
 
-[59][112] [Control and management may be vested in territorial authority][112]
+[59][112][][112][Control and management may be vested in territorial authority][112]
 
 [State highways][113]
 
-[60][114] [Authority may declare State highways][114] \[Repealed\]
+[60][114][][114][Authority may declare State highways][114] \[Repealed\]
 
-[61][115] [Powers and duties of Agency in relation to State highways][115]
+[61][115][][115][Powers and duties of Agency in relation to State highways][115]
 
-[61A][116] [Controlling authority may grant lease, etc, of certain land][116]
+[61A][116][][116][Controlling authority may grant lease, etc, of certain land][116]
 
-[62][117] [Delegation of powers and duties to territorial authorities][117]
+[62][117][][117][Delegation of powers and duties to territorial authorities][117]
 
-[63][118] [Delegations][118]
+[63][118][][118][Delegations][118]
 
-[64][119] [Territorial authority may surrender delegated powers and duties][119]
+[64][119][][119][Territorial authority may surrender delegated powers and duties][119]
 
-[65][120] [Agency may require territorial authority to relinquish property in State highway][120]
+[65][120][][120][Agency may require territorial authority to relinquish property in State highway][120]
 
-[66][121] [State highway policy to remain with Agency][121]
+[66][121][][121][State highway policy to remain with Agency][121]
 
-[67][122] [Whole cost of construction and maintenance of State highways to be paid out of State Highways Account][122] \[Repealed\]
+[67][122][][122][Whole cost of construction and maintenance of State highways to be paid out of State Highways Account][122] \[Repealed\]
 
-[68][123] [Provision of other facilities][123]
+[68][123][][123][Provision of other facilities][123]
 
-[69][124] [Classification of State highways and roads][124]
+[69][124][][124][Classification of State highways and roads][124]
 
-[70][125] [Bylaws][125]
+[70][125][][125][Bylaws][125]
 
 [Motorways][126]
 
-[71][127] [Governor-General may authorise and declare motorways][127]
+[71][127][][127][Governor-General may authorise and declare motorways][127]
 
-[72][128] [Middle line procedures][128] \[Repealed\]
+[72][128][][128][Middle line procedures][128] \[Repealed\]
 
-[73][129] [Power to construct motorways][129]
+[73][129][][129][Power to construct motorways][129]
 
-[74][130] [Land may be temporarily occupied][130]
+[74][130][][130][Land may be temporarily occupied][130]
 
-[75][131] [Compensation where road interfered with or wholly closed][131]
+[75][131][][131][Compensation where road interfered with or wholly closed][131]
 
-[76][132] [Access to land cut off from road or separated by motorway][132]
+[76][132][][132][Access to land cut off from road or separated by motorway][132]
 
-[77][133] [Alterations to roads, drains, etc][133]
+[77][133][][133][Alterations to roads, drains, etc][133]
 
-[78][134] [Restrictions on poles, etc, on motorways][134]
+[78][134][][134][Restrictions on poles, etc, on motorways][134]
 
-[78A][135] [Response to requests for access to motorway][135]
+[78A][135][][135][Response to requests for access to motorway][135]
 
-[79][136] [Availability for traffic][136]
+[79][136][][136][Availability for traffic][136]
 
-[80][137] [Maintenance and control of motorways][137]
+[80][137][][137][Maintenance and control of motorways][137]
 
-[81][138] [Cost of motorways][138]
+[81][138][][138][Cost of motorways][138]
 
-[82][139] [Restrictions on use of motorways][139]
+[82][139][][139][Restrictions on use of motorways][139]
 
-[83][140] [Vehicles which may be operated on motorways][140]
+[83][140][][140][Vehicles which may be operated on motorways][140]
 
-[84][141] [Restrictions on access to motorways][141]
+[84][141][][141][Restrictions on access to motorways][141]
 
-[85][142] [Motorway deemed to be road][142]
+[85][142][][142][Motorway deemed to be road][142]
 
-[86][143] [Application of Impounding Act 1955][143]
+[86][143][][143][Application of Impounding Act 1955][143]
 
-[87][144] [Offences and penalties][144]
+[87][144][][144][Offences and penalties][144]
 
 [Limited access roads][145]
 
-[88][146] [Creation and revocation of limited access roads][146]
+[88][146][][146][Creation and revocation of limited access roads][146]
 
-[89][147] [Provisions of Acts relating to roads to apply to limited access roads][147]
+[89][147][][147][Provisions of Acts relating to roads to apply to limited access roads][147]
 
-[90][148] [Access to and from land][148]
+[90][148][][148][Access to and from land][148]
 
-[91][149] [Authorisation of crossing places][149]
+[91][149][][149][Authorisation of crossing places][149]
 
-[92][150] [Restricting movement to or from limited access road][150]
+[92][150][][150][Restricting movement to or from limited access road][150]
 
-[93][151] [Limited access road not a road for certain purposes][151]
+[93][151][][151][Limited access road not a road for certain purposes][151]
 
-[94][152] [Requirements relating to declaration of limited access road][152]
+[94][152][][152][Requirements relating to declaration of limited access road][152]
 
-[95][153] [Certificate of land affected to be forwarded to District Land Registrar][153]
+[95][153][][153][Certificate of land affected to be forwarded to District Land Registrar][153]
 
-[96][154] [Administration of limited access roads][154]
+[96][154][][154][Administration of limited access roads][154]
 
-[97][155] [Offences][155]
+[97][155][][155][Offences][155]
 
-[98][156] [Compensation][156]
+[98][156][][156][Compensation][156]
 
 [Part 5][157]  
 [Excise duty][157]
 
 \[Repealed\]
 
-[99][158] [Interpretation][158] \[Repealed\]
+[99][158][][158][Interpretation][158] \[Repealed\]
 
-[100][159] [Apportionment of excise duty][159] \[Repealed\]
+[100][159][][159][Apportionment of excise duty][159] \[Repealed\]
 
-[100A][160] [Apportionment of excise duty after 30 June 1992][160] \[Repealed\]
+[100A][160][][160][Apportionment of excise duty after 30 June 1992][160] \[Repealed\]
 
-[101][161] [Refund of excise duty][161] \[Repealed\]
+[101][161][][161][Refund of excise duty][161] \[Repealed\]
 
-[102][162] [Procedure for obtaining refund][162] \[Repealed\]
+[102][162][][162][Procedure for obtaining refund][162] \[Repealed\]
 
-[103][163] [Amount of excise duty and refunds may be altered by Order in Council][163] \[Repealed\]
+[103][163][][163][Amount of excise duty and refunds may be altered by Order in Council][163] \[Repealed\]
 
 [Part 6][164]  
 [Miscellaneous provisions][164]
 
-[104][165] [Special purpose roads][165] \[Repealed\]
+[104][165][][165][Special purpose roads][165] \[Repealed\]
 
-[104A][166] [Grants from Infrastructure Auckland][166] \[Repealed\]
+[104A][166][][166][Grants from Infrastructure Auckland][166] \[Repealed\]
 
-[105][167] [Public availability of documents][167]
+[105][167][][167][Public availability of documents][167]
 
-[106][168] [Power of Agency to direct roading work][168]
+[106][168][][168][Power of Agency to direct roading work][168]
 
-[107][169] [Application of Act to Chatham Islands][169]
+[107][169][][169][Application of Act to Chatham Islands][169]
 
-[108][170] [Supply of information][170]
+[108][170][][170][Supply of information][170]
 
-[109][171] [Penalty for breach of bylaws][171]
+[109][171][][171][Penalty for breach of bylaws][171]
 
-[110][172] [Regulations][172]
+[110][172][][172][Regulations][172]
 
-[111][173] [Abolition of National Roads Board and Urban Transport Council, etc][173]
+[111][173][][173][Abolition of National Roads Board and Urban Transport Council, etc][173]
 
-[112][174] [Matters pending to lapse][174]
+[112][174][][174][Matters pending to lapse][174]
 
-[113][175] [Transitional provision in respect of loans by Urban Transport Council or National Roads Board][175]
+[113][175][][175][Transitional provision in respect of loans by Urban Transport Council or National Roads Board][175]
 
-[114][176] [Transitional financial provisions][176] \[Repealed\]
+[114][176][][176][Transitional financial provisions][176] \[Repealed\]
 
-[115][177] [Regional advisory committees][177] \[Repealed\]
+[115][177][][177][Regional advisory committees][177] \[Repealed\]
 
-[116][178] [Repeals, savings, and consequential amendments][178]
+[116][178][][178][Repeals, savings, and consequential amendments][178]
 
-[117][179] [Confirmation of Order in Council fixing refunds of excise duty][179]
+[117][179][][179][Confirmation of Order in Council fixing refunds of excise duty][179]
 
 [Schedule 1A][180]  
 [Provisions relating to Transfund New Zealand][180]
@@ -427,9 +425,7 @@ This Act is administered by the Ministry of Transport.
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
 *   Title: repealed, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -1178,15 +1174,17 @@ Roading
 
 ##### 44 Certain roads vested in Crown
     
-*   All Government roads declared as such under this Act, the [Public Works Act 1981][205], or any former Public Works Act and, subject to [section 316][208] of the Local Government Act 1974, all roads outside urban areas declared as State highways under the National Roads Act 1953, and all roads outside urban areas declared as State highways under this Act, and the soil thereof, are hereby declared to be vested in the Crown, together with all materials and things of which such roads are composed, or which are capable of being used for the purposes thereof, and which are constructed, placed, or laid upon any such road.
+*   All Government roads declared as such under this Act, the [Public Works Act 1981][205], or any former Public Works Act and, subject to [section 316][208] of the Local Government Act 1974, all roads outside urban areas declared as State highways under the National Roads Act 1953, all roads outside urban areas declared as State highways under this Act, and all roads outside urban areas declared as State highways under the [Land Transport Management Act 2003][195], and the soil thereof, are hereby declared to be vested in the Crown, together with all materials and things of which such roads are composed, or which are capable of being used for the purposes thereof, and which are constructed, placed, or laid upon any such road.
     
     Compare: 1981 No 35 [s 122][209]
+    
+    Section 44: amended, on 13 June 2013, by [section 72][210] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 45 Provisions relating to construction of motorways to apply to roads constructed pursuant to middle line
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 45: repealed, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 46 Minister may make roads and declare Government or district roads
     
@@ -1200,7 +1198,7 @@ Roading
     
     (5) The Minister shall have the full power of control of all Government roads.
     
-    Compare: 1981 No 35 [s 124][211]
+    Compare: 1981 No 35 [s 124][212]
     
     Section 46(3): amended, on 1 July 2003, by [section 262][198] of the Local Government Act 2002 (2002 No 84).
 
@@ -1210,17 +1208,17 @@ Roading
     
     (2) Nothing in subsection (1) shall apply to any road under the control of a Harbour Board.
     
-    Compare: 1981 No 35 [s 125][212]
+    Compare: 1981 No 35 [s 125][213]
 
 ##### 48 Powers of Minister over roads under Minister's control
     
-*   (1) All rights and powers vested in any local authority under [sections 331][213], [332][214], [334][215], [335][216], [337 to 341][217], and [353][218] of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may, in respect of any Government road, be exercised by the Minister.
+*   (1) All rights and powers vested in any local authority under [sections 331][214], [332][215], [334][216], [335][217], [337 to 341][218], and [353][219] of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may, in respect of any Government road, be exercised by the Minister.
     
-    (2) The Minister may from time to time, by notice in the _Gazette_, make bylaws with respect to any Government road on the subject matters referred to in paragraphs (13) to (20) and (38) to (41A) of [section 684(1)][219] of the Local Government Act 1974\.
+    (2) The Minister may from time to time, by notice in the _Gazette_, make bylaws with respect to any Government road on the subject matters referred to in paragraphs (13) to (20) and (38) to (41A) of [section 684(1)][220] of the Local Government Act 1974\.
     
     (3) The Minister shall have power to do all things necessary to construct and maintain in good repair any road under the Minister's control, and in particular, but without limiting any power conferred on the Minister elsewhere in this Act, to do the following things:
         
-    *   (a) to alter the line of any road, but a new line of road shall not be laid out by the Minister without the written consent of those persons whose written consent would be required under [section 114(2)][220] of the Public Works Act 1981 if the land were to be declared to be a road:
+    *   (a) to alter the line of any road, but a new line of road shall not be laid out by the Minister without the written consent of those persons whose written consent would be required under [section 114(2)][221] of the Public Works Act 1981 if the land were to be declared to be a road:
     
     *   (b) to increase or diminish the width of any road:
     
@@ -1280,25 +1278,25 @@ Roading
     
     (8) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the [Resource Management Act 1991][204].
     
-    Compare: 1981 No 35 [s 126][221]
+    Compare: 1981 No 35 [s 126][222]
     
-    Section 48(3A): inserted, on 6 August 2010, by [section 22][222] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 48(3A): inserted, on 6 August 2010, by [section 22][223] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
     Section 48(5): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 48(8): amended, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 48(8): amended, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 49 Powers of Minister in regard to swing gates and cattle stops on roads
     
-*   For the purpose of erecting or removing any swing gate or cattle stop across any Government road, the provisions of [section 344][223] of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Minister.
+*   For the purpose of erecting or removing any swing gate or cattle stop across any Government road, the provisions of [section 344][224] of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Minister.
     
-    Compare: 1981 No 35 [s 127][224]
+    Compare: 1981 No 35 [s 127][225]
 
 ##### 50 Owner or occupier of land not to cause damage to bridge by removal of stone, etc
     
 *   (1) The Agency (in the case of a bridge or culvert under its control) and the Minister (in the case of a bridge or culvert under the Minister's control) may give to the owner or to the occupier of any land situated within 200 metres of any such bridge or culvert and abutting upon any river or stream, notice in writing not to remove or permit to be removed any stone, earth, or other material from any part of his or her land in such manner as may be likely to cause damage to the bridge or culvert.
     
-    (2) Nothing in subsection (1) shall apply in respect of any mining operations carried out pursuant to a mining permit within the meaning of the [Crown Minerals Act 1991][225].
+    (2) Nothing in subsection (1) shall apply in respect of any mining operations carried out pursuant to a mining permit within the meaning of the [Crown Minerals Act 1991][226].
     
     (3) Any person dissatisfied with the requirements of any such notice may, within 10 working days after receiving it, appeal against the requirements to a District Court.
     
@@ -1308,11 +1306,11 @@ Roading
     
     (6) Any person who fails to comply with the requirements of a notice given under this section commits an offence and is liable on summary conviction to a fine not exceeding $500\.
     
-    Compare: 1981 No 35 [s 128][226]
+    Compare: 1981 No 35 [s 128][227]
     
     Section 50(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 50(2): substituted, on 1 October 1991, by [section 121][227] of the Crown Minerals Act 1991 (1991 No 70).
+    Section 50(2): substituted, on 1 October 1991, by [section 121][228] of the Crown Minerals Act 1991 (1991 No 70).
     
     Section 50(4): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -1360,15 +1358,15 @@ Roading
     
     (5) Any permission under this section may be given subject to such conditions and payment of rent as the Agency or Minister thinks fit, and unless otherwise agreed may be revoked without compensation on not less than 3 months' notice in writing.
     
-    Compare: 1981 No 35 [s 129][228]
+    Compare: 1981 No 35 [s 129][229]
     
     Section 51(2): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 51(2): amended, on 29 July 1995, by [section 6(1)][229] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 51(2): amended, on 29 July 1995, by [section 6(1)][230] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
     Section 51(3): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 51(4): substituted, on 29 July 1995, by [section 6(2)][229] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 51(4): substituted, on 29 July 1995, by [section 6(2)][230] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
     Section 51(4)(a): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -1396,17 +1394,17 @@ Roading
     
     *   (b) the immediate repair to or reconstruction of any work if that repair or reconstruction is required as a result of an earthquake, flood, landslide, or other emergency.
     
-    (4) This section does not prevail over any provision in the [Electricity Act 1992][230], the [Gas Act 1992][231], or the [Telecommunications Act 2001][232] that relates to works or maintenance on, under, or over a road.
+    (4) This section does not prevail over any provision in the [Electricity Act 1992][231], the [Gas Act 1992][232], or the [Telecommunications Act 2001][233] that relates to works or maintenance on, under, or over a road.
     
-    Compare: 1981 No 35 [s 130][233]
+    Compare: 1981 No 35 [s 130][234]
     
     Section 52(1)(a): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 52(2): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 52(2A): inserted, on 6 August 2010, by [section 23(1)][234] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 52(2A): inserted, on 6 August 2010, by [section 23(1)][235] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
-    Section 52(4): added, on 6 August 2010, by [section 23(2)][234] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 52(4): added, on 6 August 2010, by [section 23(2)][235] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 53 Poles, etc, on roads to be adjacent to boundaries
     
@@ -1428,7 +1426,7 @@ Roading
     
     *   (c) if, because of technical difficulties or disproportionate costs, it is not practicable to re-erect a pole or tower otherwise than in its previous position.
     
-    Compare: 1981 No 35 [s 131][235]
+    Compare: 1981 No 35 [s 131][236]
     
     Section 53(2)(a): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -1444,7 +1442,7 @@ Roading
         
     *   (a) any part of a bridge or culvert:
     
-    *   (b) any fence, gate, or cattle stop erected in accordance with this Act or the [Local Government Act 1974][236]:
+    *   (b) any fence, gate, or cattle stop erected in accordance with this Act or the [Local Government Act 1974][237]:
     
     *   (c) anything provided for the assistance or control of traffic:
     
@@ -1484,13 +1482,13 @@ Roading
     
     (8) If the utility authority, after receiving notice under subsection (2), fails within the period so determined to remove the structure that is the subject of the notice, the controlling authority, after giving 10 working days' further notice of its intention to do so, may apply to a District Court for an order requiring the utility authority to remove the structure within such period as may be specified in the order; and in any such case, if the District Court orders the removal of the structure, the whole cost of carrying out the removal and re-erection of the structure shall be borne by the utility authority and shall be recoverable from it by the controlling authority as a debt.
     
-    (9) Nothing in the [Limitation Act 2010][237] or in any other Act or any rule of law shall cause or be deemed to have caused the right or title of the controlling authority of the road or of the authority in which the road is vested to be extinguished by reason of the road being occupied by any structure, and nothing in this or in any other Act or any rule of law shall entitle any utility authority to compensation otherwise than under this section for the removal of any structure from any road or in respect of the re-erection of any such structure (or equivalent structure), or in respect of any alteration of any road that necessitates any such removal or re-erection.
+    (9) Nothing in the [Limitation Act 2010][238] or in any other Act or any rule of law shall cause or be deemed to have caused the right or title of the controlling authority of the road or of the authority in which the road is vested to be extinguished by reason of the road being occupied by any structure, and nothing in this or in any other Act or any rule of law shall entitle any utility authority to compensation otherwise than under this section for the removal of any structure from any road or in respect of the re-erection of any such structure (or equivalent structure), or in respect of any alteration of any road that necessitates any such removal or re-erection.
     
-    Compare: 1981 No 35 [s 132][238]
+    Compare: 1981 No 35 [s 132][239]
     
     Section 54(1) **controlling authority**: amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 54(9): amended, on 1 January 2011, by [section 58][239] of the Limitation Act 2010 (2010 No 110).
+    Section 54(9): amended, on 1 January 2011, by [section 58][240] of the Limitation Act 2010 (2010 No 110).
 
 ##### 55 Removal of trees, hedges, etc, that obscure visibility or interfere with public work
     
@@ -1544,15 +1542,15 @@ Roading
     
     (9) The power of entry conferred by subsection (7) may be exercised in addition to or instead of the laying of an information for an offence under that subsection.
     
-    Compare: 1981 No 35 [s 133][240]
+    Compare: 1981 No 35 [s 133][241]
 
 ##### 56 Service of notice
     
-*   (1) If, under the provisions of [section 55][107], a requirement is made by a responsible authority, the requirement shall be by notice in writing signed by any person appointed either generally or specially by the responsible authority for the purpose of giving such notices and shall be served in accordance with [section 4][241] of the Public Works Act 1981\.
+*   (1) If, under the provisions of [section 55][107], a requirement is made by a responsible authority, the requirement shall be by notice in writing signed by any person appointed either generally or specially by the responsible authority for the purpose of giving such notices and shall be served in accordance with [section 4][242] of the Public Works Act 1981\.
     
     (2) If the notice is served by being published in a newspaper, the responsible authority shall also affix a copy of the notice upon a conspicuous part of the property in respect of which the notice is issued, or on some public road adjacent to it.
     
-    Compare: 1981 No 35 [s 134][242]
+    Compare: 1981 No 35 [s 134][243]
 
 ##### 57 Emergency work on trees, etc
     
@@ -1564,13 +1562,13 @@ Roading
     
     (4) All costs and expenses incurred by a responsible authority in lawfully carrying out any work under this section may be recovered as a debt due to the responsible authority from the person who would have been liable to pay if the work had been done under [section 55][107].
     
-    Compare: 1981 No 35 [s 135][243]
+    Compare: 1981 No 35 [s 135][244]
 
 #### Access ways and service lanes
 
 ##### 58 Minister may construct access ways and service lanes
     
-*   (1) Subject to subsection (2) the Minister may, in accordance with the provisions of [Part 21][244] of the Local Government Act 1974, from time to time lay out and construct proposed access ways and service lanes on land belonging to the Crown, and may in respect of such access ways and service lanes exercise all the powers, rights, duties, and authorities conferred on a council under that Part.
+*   (1) Subject to subsection (2) the Minister may, in accordance with the provisions of [Part 21][245] of the Local Government Act 1974, from time to time lay out and construct proposed access ways and service lanes on land belonging to the Crown, and may in respect of such access ways and service lanes exercise all the powers, rights, duties, and authorities conferred on a council under that Part.
     
     (2) An access way or service lane shall not be laid out or constructed on any land under subsection (1) without the written consent of---
         
@@ -1594,13 +1592,13 @@ Roading
     
     that authority shall be deemed to include power to take, purchase, accept dedication of, or otherwise acquire, land for an access way or service lane, to declare land as an access way or service lane, or to stop or close an access way or service lane, as the case may be.
     
-    Compare: 1981 No 35 [s 136][245]
+    Compare: 1981 No 35 [s 136][246]
 
 ##### 59 Control and management may be vested in territorial authority
     
 *   The Minister may, by notice in the _Gazette_, declare that any access way or service lane constructed or controlled by the Minister within a district shall be under the control and management of the territorial authority of that district, and such access way or service lane shall thereupon be vested in that territorial authority.
     
-    Compare: 1981 No 35 [s 137][246]
+    Compare: 1981 No 35 [s 137][247]
 
 #### State highways
 
@@ -1614,17 +1612,17 @@ Roading
     
 *   (1) Subject to [section 62][117], the Agency shall have the sole powers of control for all purposes, including construction and maintenance, of all State highways under this Act, and any such powers shall be exercisable only pursuant to this Act.
     
-    (2) All rights and powers vested in any local authority under [sections 331][213], [332][214], [334][215], [335][216], [337 to 341][217], and [353][218] of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may in respect of any State highway be exercised by the Agency.
+    (2) All rights and powers vested in any local authority under [sections 331][214], [332][215], [334][216], [335][217], [337 to 341][218], and [353][219] of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may in respect of any State highway be exercised by the Agency.
     
-    (2A) For the purpose of erecting any swing gate or cattle stop across any State highway, the provisions of [section 344][223] of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Agency.
+    (2A) For the purpose of erecting any swing gate or cattle stop across any State highway, the provisions of [section 344][224] of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Agency.
     
     (2B) Any pilot of an overweight or over dimension vehicle for which a permit has been issued by the Agency under regulations or rules made under the [Land Transport Act 1998][194], who is authorised for the purpose by that permit, may stop other vehicles on any State highway under the control of the Agency where such action is necessary for the purposes of safety.
     
-    (3) The Agency may from time to time, by notice in the _Gazette_, make bylaws with respect to any State highway on the subject matters referred to in paragraphs (13) to (20), and (38) to (41A) of [section 684(1)][219] of the Local Government Act 1974\.
+    (3) The Agency may from time to time, by notice in the _Gazette_, make bylaws with respect to any State highway on the subject matters referred to in paragraphs (13) to (20), and (38) to (41A) of [section 684(1)][220] of the Local Government Act 1974\.
     
     (4) The Agency shall have power to do all things necessary to construct and maintain in good repair any State highway, and in particular, but without limiting any power conferred on the Agency elsewhere in this Act, to do the following things:
         
-    *   (a) to alter the line of any State highway, but a new line shall not be laid out by the Agency without the written consent of those persons whose written consent would be required under [section 114(2)][220] of the Public Works Act 1981 if the land were to be declared to be a road:
+    *   (a) to alter the line of any State highway, but a new line shall not be laid out by the Agency without the written consent of those persons whose written consent would be required under [section 114(2)][221] of the Public Works Act 1981 if the land were to be declared to be a road:
     
     *   (b) to increase or diminish the width of any State highway:
     
@@ -1686,7 +1684,7 @@ Roading
     
     (11) Nothing in this section shall divest any territorial authority of the property in any road that may form part of a State highway.
     
-    Compare: 1953 No 118 s 13; 1981 No 35 [s 126][221]
+    Compare: 1953 No 118 s 13; 1981 No 35 [s 126][222]
     
     Section 61 heading: amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -1694,13 +1692,13 @@ Roading
     
     Section 61(2): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 61(2A): inserted, on 29 July 1995, by [section 7][247] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 61(2A): inserted, on 29 July 1995, by [section 7][248] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
     Section 61(2A): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 61(2B): inserted, on 29 July 1995, by [section 7][247] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 61(2B): inserted, on 29 July 1995, by [section 7][248] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
-    Section 61(2B): amended, on 10 May 2011, by [section 100(3)][248] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 61(2B): amended, on 10 May 2011, by [section 100(3)][249] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 61(2B): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -1720,13 +1718,13 @@ Roading
     
     Section 61(5): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 61(5A): inserted, on 6 August 2010, by [section 24][249] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 61(5A): inserted, on 6 August 2010, by [section 24][250] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
     Section 61(7): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 61(8): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 61(10): amended, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 61(10): amended, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 61A Controlling authority may grant lease, etc, of certain land
     
@@ -1746,15 +1744,15 @@ Roading
     
     as the case may require.
     
-    (5) The Minister for the time being responsible for the administration of [section 45][250] of the Public Works Act 1981 or the controlling authority may at any time accept the surrender of any lease, tenancy, or licence to occupy granted under this section.
+    (5) The Minister for the time being responsible for the administration of [section 45][251] of the Public Works Act 1981 or the controlling authority may at any time accept the surrender of any lease, tenancy, or licence to occupy granted under this section.
     
-    Section 61A: inserted, on 29 July 1995, by [section 8(1)][251] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 61A: inserted, on 29 July 1995, by [section 8(1)][252] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
 
 ##### 62 Delegation of powers and duties to territorial authorities
     
 *   (1) All or any of the functions, duties, and powers of construction, maintenance, and control conferred on the Agency by this Act with respect to any State highway or portion of a State highway may be delegated by the Agency to the territorial authority in whose district the State highway or portion of it is situated, or, where the boundary between the districts of any territorial authorities runs along any State highway, be delegated by the Agency to such of those territorial authorities as the Agency decides, as if the State highway were wholly in the district of that territorial authority.
     
-    (2) Any activity relating to a State highway or part of it that is the subject of a delegation under subsection (1) may be proposed for inclusion in the relevant regional land transport programme by the territorial authority to which a delegation has been made under this section, and included in the programme as if it were a State highway activity.
+    (2) Any activity relating to a State highway or part of it that is the subject of a delegation under subsection (1) may be proposed for inclusion in the relevant regional land transport plan by the territorial authority to which a delegation has been made under this section, and included in the plan as if it were a State highway activity.
     
     (3) Any delegation under subsection (1) may be made only with the consent of the territorial authority concerned.
     
@@ -1764,7 +1762,7 @@ Roading
     
     (6) \[Repealed\]
     
-    (7) In this section, _territorial authority_ includes Auckland Transport (as established by [section 38][252] of the Local Government (Auckland Council) Act 2009).
+    (7) In this section, _territorial authority_ includes Auckland Transport (as established by [section 38][253] of the Local Government (Auckland Council) Act 2009).
     
     Compare: 1953 No 118 s 13
     
@@ -1772,13 +1770,15 @@ Roading
     
     Section 62(2): substituted, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 62(4): repealed, on 29 July 1995, by [section 9][253] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 62(2): amended, on 13 June 2013, by [section 72][210] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 62(5): repealed, on 29 July 1995, by [section 9][253] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 62(4): repealed, on 29 July 1995, by [section 9][254] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
-    Section 62(6): repealed, on 29 July 1995, by [section 9][253] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 62(5): repealed, on 29 July 1995, by [section 9][254] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
-    Section 62(7): added, on 1 November 2010, by [section 113(1)][254] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 62(6): repealed, on 29 July 1995, by [section 9][254] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    
+    Section 62(7): added, on 1 November 2010, by [section 113(1)][255] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 63 Delegations
     
@@ -1856,9 +1856,9 @@ Roading
     
     (2) Notwithstanding anything to the contrary in this Act, the Agency may lease or let, or grant a licence in respect of, any such parking place, parking building, building, facility, amenity, or service for such period, at such rental, and on such terms and conditions as it thinks fit.
     
-    (3) Any land may be acquired for the purposes of this section under [Part 2][255] of the Public Works Act 1981 as for a public work, and any land so acquired shall be held for a public work.
+    (3) Any land may be acquired for the purposes of this section under [Part 2][256] of the Public Works Act 1981 as for a public work, and any land so acquired shall be held for a public work.
     
-    Compare: 1981 No 35 [s 149][256]
+    Compare: 1981 No 35 [s 149][257]
     
     Section 68(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -1892,9 +1892,9 @@ Roading
     
     (2) Every Order in Council under this section may in the same manner from time to time be amended or revoked.
     
-    (3) No request may be made under subsection (1) that affects or is likely to affect Māori land, land registered in the name of Pootatau Te Wherowhero under [section 19][257] of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Māori claims settlement Act, or Māori historical, cultural, or spiritual interests, unless the Agency has consulted,---
+    (3) No request may be made under subsection (1) that affects or is likely to affect Māori land, land registered in the name of Pootatau Te Wherowhero under [section 19][258] of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Māori claims settlement Act, or Māori historical, cultural, or spiritual interests, unless the Agency has consulted,---
         
-    *   (a) in the case of land registered in the name of Pootatau Te Wherowhero or interests relating to that land, the land holding trustee (as defined in [section 7][258] of the Waikato Raupatu Claims Settlement Act 1995):
+    *   (a) in the case of land registered in the name of Pootatau Te Wherowhero or interests relating to that land, the land holding trustee (as defined in [section 7][259] of the Waikato Raupatu Claims Settlement Act 1995):
     
     *   (b) if any other Māori claims settlement Act requires consultation about the request, in accordance with that Act:
     
@@ -1926,7 +1926,7 @@ Roading
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 72: repealed, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 73 Power to construct motorways
     
@@ -1954,17 +1954,17 @@ Roading
     
     *   (k) exercise the powers, rights, duties, and liabilities vested in or imposed on the Minister as if the motorway were a Government road for the purposes of [section 48][100].
     
-    Compare: 1981 No 35 [s 140][259]
+    Compare: 1981 No 35 [s 140][260]
     
     Section 73: amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 73(b): amended, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 73(b): amended, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 73(d): amended, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 73(d): amended, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 73(e): amended, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 73(e): amended, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 73(f): amended, on 1 October 1991, by [section 362][210] of the Resource Management Act 1991 (1991 No 69).
+    Section 73(f): amended, on 1 October 1991, by [section 362][211] of the Resource Management Act 1991 (1991 No 69).
     
     Section 73(h): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -1972,7 +1972,7 @@ Roading
     
     Section 73(j): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 73(k): amended, on 29 July 1995, by [section 10][260] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 73(k): amended, on 29 July 1995, by [section 10][261] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
 
 ##### 74 Land may be temporarily occupied
     
@@ -2010,15 +2010,15 @@ Roading
     
     and all persons concerned shall be bound by any such order.
     
-    Compare: 1981 No 35 [s 141][261]
+    Compare: 1981 No 35 [s 141][262]
     
     Section 74(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 75 Compensation where road interfered with or wholly closed
     
-*   (1) Except as provided in [section 63][262] of the Public Works Act 1981, compensation shall not be payable to any person in respect of---
+*   (1) Except as provided in [section 63][263] of the Public Works Act 1981, compensation shall not be payable to any person in respect of---
         
-    *   (a) any road being wholly closed under the powers conferred by [section 37][263] of the Public Works Act 1981; or
+    *   (a) any road being wholly closed under the powers conferred by [section 37][264] of the Public Works Act 1981; or
     
     *   (b) the use or occupation of any road for any motorway; or
     
@@ -2030,7 +2030,7 @@ Roading
     
     (3) If no such agreement is reached, all claims for compensation in respect of the matters referred to in subsection (1) shall be determined in the manner provided by the [Public Works Act 1981][205], but no compensation shall be awarded if in the opinion of the Land Valuation Tribunal other reasonable and sufficient access is so available.
     
-    Compare: 1981 No 35 [s 142][264]
+    Compare: 1981 No 35 [s 142][265]
     
     Section 75(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2056,7 +2056,7 @@ Roading
     
     (4) If the owner or occupier of the land to which subsection (1) applies objects to any decision of the Agency under this section, the Agency shall appoint a competent person to confer with the owner and, if possible, to agree with the owner as to the matter in dispute; and if no agreement can be reached between the parties the matter shall be referred to the nearest District Court, and the decision of the court thereon shall be final.
     
-    Compare: 1981 No 35 [s 143][265]
+    Compare: 1981 No 35 [s 143][266]
     
     Section 76(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2064,7 +2064,7 @@ Roading
     
     Section 76(4): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 76(4): amended, on 1 January 2004, by [section 76][266] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+    Section 76(4): amended, on 1 January 2004, by [section 76][267] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
 
 ##### 77 Alterations to roads, drains, etc
     
@@ -2082,13 +2082,13 @@ Roading
     
     (5) In any emergency or danger the Agency may carry out forthwith all such works as appear to it to be necessary, and shall as soon as possible give notice of doing so to such local authority or owner.
     
-    Compare: 1981 No 35 [s 144][267]
+    Compare: 1981 No 35 [s 144][268]
     
     Section 77(2): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 77(3): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 77(3): amended, on 1 January 2004, by [section 76][266] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+    Section 77(3): amended, on 1 January 2004, by [section 76][267] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
     
     Section 77(4): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2098,7 +2098,7 @@ Roading
     
 *   Neither the Crown nor any local authority nor any other person shall place any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under any motorway or on, over, or under any land that has been taken, purchased, set apart, or acquired for the purpose of constructing a motorway, without the prior written consent of the Agency.
     
-    Compare: 1981 No 35 [s 145][268]
+    Compare: 1981 No 35 [s 145][269]
     
     Section 78: amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -2108,7 +2108,7 @@ Roading
     
     (2) The requests to which subsection (1) applies are those from local authorities, or owners of any pipe, line, or other works associated with wastewater or the supply of water, electricity, gas, or telecommunications, for access to a motorway for the purpose of constructing, maintaining, or in any other way altering any such pipe, line, or other works, or any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under the motorway.
     
-    Section 78A: inserted, on 6 August 2010, by [section 25][269] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 78A: inserted, on 6 August 2010, by [section 25][270] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 79 Availability for traffic
     
@@ -2126,7 +2126,7 @@ Roading
     
     *   (b) a motorway for the purposes of any regulations in force under this Act relating to motorways.
     
-    Compare: 1981 No 35 [s 146][270]
+    Compare: 1981 No 35 [s 146][271]
     
     Section 79(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2136,11 +2136,11 @@ Roading
     
     Section 79(4): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 79(5)(a): amended, on 10 May 2011, by [section 100(3)][248] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 79(5)(a): amended, on 10 May 2011, by [section 100(3)][249] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 79(5)(a): amended, on 1 March 1999, by [section 215(1)][201] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 79(5)(b): amended, on 10 May 2011, by [section 100(3)][248] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 79(5)(b): amended, on 10 May 2011, by [section 100(3)][249] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 80 Maintenance and control of motorways
     
@@ -2148,7 +2148,7 @@ Roading
     
     (2) For the avoidance of doubt it is declared that all the provisions of [section 62][117], shall apply in respect of any motorway that is not a State highway.
     
-    Compare: 1981 No 35 [s 147][271]
+    Compare: 1981 No 35 [s 147][272]
     
     Section 80(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2210,7 +2210,7 @@ Roading
     
     (3) The owner or person in charge of any animal or thing which is on a motorway in breach of subsection (2) shall be liable for any damage that may result from collision with or attempted avoidance of the animal or thing, unless the owner or person proves that the presence of the animal or thing on the motorway in breach of that subsection was not due to any negligence on his or her part.
     
-    Compare: 1981 No 35 [s 148][272]
+    Compare: 1981 No 35 [s 148][273]
     
     Section 82(1)(c): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2224,7 +2224,7 @@ Roading
         
     *   (a) the vehicle, or each vehicle of the combination, is supported by pneumatic tyres while it is being operated, and---
             
-        *   (i) is registered under [Part 17][273] of the Land Transport Act 1998 or is a vehicle that is exempt from registration under that Part; and
+        *   (i) is registered under [Part 17][274] of the Land Transport Act 1998 or is a vehicle that is exempt from registration under that Part; and
         
         *   (ii) in the case of a vehicle or combination of vehicles which may not be operated on a motorway without a permit issued under regulations in force under this or any other Act, such a permit is in force; or
         
@@ -2232,9 +2232,9 @@ Roading
     
     *   (b) the vehicle is a cycle being operated on a part of the motorway where such operation is approved.
     
-    Compare: 1981 No 35 [s 148A][272]
+    Compare: 1981 No 35 [s 148A][273]
     
-    Section 83(a)(i): substituted, on 1 May 2011, by [section 35(4)][274] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 83(a)(i): substituted, on 1 May 2011, by [section 35(4)][275] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 84 Restrictions on access to motorways
     
@@ -2242,7 +2242,7 @@ Roading
     
     (2) Notwithstanding subsection (1), the Agency may, in writing, subject to such conditions (whether as to payment or otherwise) as it thinks fit, authorise the construction and use of a special access to any property or any part of a property adjoining the motorway to which access is not reasonably available from another road.
     
-    Compare: 1981 No 35 [s 148B][272]
+    Compare: 1981 No 35 [s 148B][273]
     
     Section 84(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2254,13 +2254,13 @@ Roading
     
     (2) A motorway shall be deemed not to be a road for the purposes of the exercise of any right involving the subdivision or use of land if that right is conditional upon the land having a frontage or access to a road or is in any other way conditional upon the existence of a road.
     
-    Compare: 1981 No 35 [s 150][275]
+    Compare: 1981 No 35 [s 150][276]
 
 ##### 86 Application of Impounding Act 1955
     
-*   The engineer in charge of the construction or maintenance of any motorway shall be deemed to be the occupier of it for the purposes of the [Impounding Act 1955][276]; and any act, matter, or thing permitted or required under that Act to be performed or done by the occupier of land as defined in that Act may be performed or done in respect of any such motorway by that engineer or by any person authorised generally or particularly by that engineer for that purpose.
+*   The engineer in charge of the construction or maintenance of any motorway shall be deemed to be the occupier of it for the purposes of the [Impounding Act 1955][277]; and any act, matter, or thing permitted or required under that Act to be performed or done by the occupier of land as defined in that Act may be performed or done in respect of any such motorway by that engineer or by any person authorised generally or particularly by that engineer for that purpose.
     
-    Compare: 1981 No 35 [s 151][277]
+    Compare: 1981 No 35 [s 151][278]
 
 ##### 87 Offences and penalties
     
@@ -2288,7 +2288,7 @@ Roading
     
     (3) Every limited access road in existence under section 4(4) of the Public Works Amendment Act 1963 immediately before the commencement of the [Public Works Act 1981][205] shall be deemed to be a road and State highway in addition, and shall be deemed to have been declared a limited access road under this Act.
     
-    (4) Every limited access road declared as such by the National Roads Board under [section 153][278] of the Public Works Act 1981 and having that status immediately before the commencement of this Act shall be deemed to have been declared to be a limited access road under this Act.
+    (4) Every limited access road declared as such by the National Roads Board under [section 153][279] of the Public Works Act 1981 and having that status immediately before the commencement of this Act shall be deemed to have been declared to be a limited access road under this Act.
     
     (5) The Agency may from time to time, by notice in the _Gazette_ and publicly notified, revoke the status of limited access road from any State highway or part of it---
         
@@ -2298,9 +2298,9 @@ Roading
     
     *   (c) whose administration has passed to the Agency under [section 96(2)][154].
     
-    (6) Where any land becomes State highway by virtue of [section 238(1)(c)][279] of the Resource Management Act 1991 and [section 60][114], and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
+    (6) Where any land becomes State highway by virtue of [section 238(1)(c)][280] of the Resource Management Act 1991 and [section 60][114], and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
     
-    Compare: 1981 No 35 [s 153][278]
+    Compare: 1981 No 35 [s 153][279]
     
     Section 88(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2316,11 +2316,11 @@ Roading
     
 *   Subject to the provisions of this Part, the provisions of this Act and of every other enactment relating to roads shall, so far as they are applicable and with the necessary modifications, apply to---
         
-    *   (a) all limited access roads, whether declared under [section 88(1)][146], or purchased, set apart, acquired, or declared pursuant to section 88(2), or created as such under section 4 of the Public Works Amendment Act 1963 or [section 153][278] of the Public Works Act 1981, or whose administration has passed to the Agency under [section 96(2)][154]; and
+    *   (a) all limited access roads, whether declared under [section 88(1)][146], or purchased, set apart, acquired, or declared pursuant to section 88(2), or created as such under section 4 of the Public Works Amendment Act 1963 or [section 153][279] of the Public Works Act 1981, or whose administration has passed to the Agency under [section 96(2)][154]; and
     
     *   (b) the purchase and acquisition of land for limited access road, and the setting apart or declaring of land as limited access road.
     
-    Compare: 1981 No 35 [s 154][280]
+    Compare: 1981 No 35 [s 154][281]
     
     Section 89(a): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -2330,7 +2330,7 @@ Roading
     
     (2) In this section and in [section 91][149], the expression _parcel of land_ means a parcel of land that can legally be transferred to a person other than an owner of adjoining land without the dedication of any further land as public road and without the deposit of any further plan, but the Agency may deem 2 or more adjoining parcels of land in the same certificate of title to be a parcel of land for the purposes of this section and of section 91\.
     
-    Compare: 1981 No 35 [s 155][281]
+    Compare: 1981 No 35 [s 155][282]
     
     Section 90(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2354,7 +2354,7 @@ Roading
     
     *   (b) construct any road or service lane that it may be expedient to construct to give access, whether additional or not, to any land adjoining or near the limited access road.
     
-    (2) Any notice given by the Agency under this section may be registered by the Agency under the [Land Transfer Act 1952][282] against every certificate of title, provisional register, or other instrument of title registered or lodged in the District Land Registrar's office that is affected by the notice by lodging with the District Land Registrar 2 copies of the notice.
+    (2) Any notice given by the Agency under this section may be registered by the Agency under the [Land Transfer Act 1952][283] against every certificate of title, provisional register, or other instrument of title registered or lodged in the District Land Registrar's office that is affected by the notice by lodging with the District Land Registrar 2 copies of the notice.
     
     (3) Each copy of any notice given under this section shall identify the land to which it relates, including the certificate of title reference for the land affected by the notice.
     
@@ -2368,27 +2368,27 @@ Roading
     
     *   (d) return the remaining copy to the Agency.
     
-    (5) The entry by the District Land Registrar on a certificate of title, provisional register, or other instrument of title registered or lodged in his or her office of the particulars of a notice is evidence of the existence of the notice but does not create any estate or interest under the [Land Transfer Act 1952][282].
+    (5) The entry by the District Land Registrar on a certificate of title, provisional register, or other instrument of title registered or lodged in his or her office of the particulars of a notice is evidence of the existence of the notice but does not create any estate or interest under the [Land Transfer Act 1952][283].
     
     (6) Any notice entered by the District Land Registrar under subsection (4)(c) may be cancelled or varied upon production by the Agency of a notice of cancellation or notice of variation.
     
-    Compare: 1981 No 35 [s 156][283]
+    Compare: 1981 No 35 [s 156][284]
     
     Section 91(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 91(2): added, on 29 July 1995, by [section 11][284] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 91(2): added, on 29 July 1995, by [section 11][285] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
     Section 91(2): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 91(3): added, on 29 July 1995, by [section 11][284] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 91(3): added, on 29 July 1995, by [section 11][285] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
-    Section 91(4): added, on 29 July 1995, by [section 11][284] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 91(4): added, on 29 July 1995, by [section 11][285] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
     Section 91(4)(d): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 91(5): added, on 29 July 1995, by [section 11][284] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 91(5): added, on 29 July 1995, by [section 11][285] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
-    Section 91(6): added, on 29 July 1995, by [section 11][284] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 91(6): added, on 29 July 1995, by [section 11][285] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
     Section 91(6): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -2402,7 +2402,7 @@ Roading
     
     *   (c) at a crossing place authorised and specified by the Agency and subject to such conditions as are for the time being imposed by the Agency in accordance with [section 91][149].
     
-    Compare: 1981 No 35 [s 157][285]
+    Compare: 1981 No 35 [s 157][286]
     
     Section 92(b): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2410,25 +2410,27 @@ Roading
 
 ##### 93 Limited access road not a road for certain purposes
     
-*   (1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the District Land Registrar by the Minister at the request of the Agency.
+*   (1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the Registrar-General of Lands by the Agency.
     
     (2) Any person aggrieved at---
         
-    *   (a) the refusal of the Agency to request the Minister to issue a notice under subsection (1) or at the refusal of the Minister to issue such a notice; or
+    *   (a) the refusal of the Agency to issue a notice under subsection (1); or
     
     *   (b) any condition subject to which any such notice is issued---
     
     may object in writing to the Environment Court within 30 days after being notified of such refusal or conditions.
     
-    (3) The provisions of [section 24][286] of the Public Works Act 1981 shall, so far as they are applicable and with the necessary modifications, apply to the hearing of any objection under this section.
+    (3) The provisions of [section 24][287] of the Public Works Act 1981 shall, so far as they are applicable and with the necessary modifications, apply to the hearing of any objection under this section.
     
-    Compare: 1981 No 35 [s 158][287]
+    Compare: 1981 No 35 [s 158][288]
+    
+    Section 93(1): amended, on 13 June 2013, by [section 72][210] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
     Section 93(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 93(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][207] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 93(2)(a): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 93(2)(a): replaced, on 13 June 2013, by [section 72][210] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 94 Requirements relating to declaration of limited access road
     
@@ -2458,7 +2460,7 @@ Roading
     
     *   (f) the Agency shall cause a copy of the declaration as published in the _Gazette_ to be served on the owners and occupiers of all land which is affected by the declaration, so far as they can be ascertained.
     
-    Compare: 1981 No 35 [s 159][288]
+    Compare: 1981 No 35 [s 159][289]
     
     Section 94(c): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2490,7 +2492,7 @@ Roading
     
     *   (d) the owner and occupier of each parcel of land so described.
     
-    Compare: 1981 No 35 [s 160][289]
+    Compare: 1981 No 35 [s 160][290]
     
     Section 95(1): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2498,11 +2500,11 @@ Roading
 
 ##### 96 Administration of limited access roads
     
-*   (1) If any limited access road which is a State highway ceases to be a State highway, it shall thereupon be deemed to be a limited access road created under the [Local Government Act 1974][236]; and the administration of that road shall pass to the territorial authority responsible for the control of roads in the district.
+*   (1) If any limited access road which is a State highway ceases to be a State highway, it shall thereupon be deemed to be a limited access road created under the [Local Government Act 1974][237]; and the administration of that road shall pass to the territorial authority responsible for the control of roads in the district.
     
     (2) If any limited access road which is not a State highway becomes a State highway, it shall thereupon be deemed to be a limited access road created under this Part and the administration of that road shall pass to the Agency.
     
-    Compare: 1981 No 35 [s 161][290]
+    Compare: 1981 No 35 [s 161][291]
     
     Section 96(2): amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -2518,32 +2520,32 @@ Roading
     
     and is liable on summary conviction to a fine not exceeding $500\.
     
-    Compare: 1981 No 35 [s 162][291]
+    Compare: 1981 No 35 [s 162][292]
 
 ##### 98 Compensation
     
-*   Every person having an estate or interest in land which is injuriously affected by the creation of a limited access road under [section 88][146] shall, notwithstanding [section 60][292] of the Public Works Act 1981, be entitled to full compensation from the Crown under [Part 5][293] of that Act.
+*   Every person having an estate or interest in land which is injuriously affected by the creation of a limited access road under [section 88][146] shall, notwithstanding [section 60][293] of the Public Works Act 1981, be entitled to full compensation from the Crown under [Part 5][294] of that Act.
     
-    Compare: 1981 No 35 [s 163][294]
+    Compare: 1981 No 35 [s 163][295]
 
 ## Part 5  
 Excise duty
 
 \[Repealed\]
     
-*   Part 5: repealed, on 9 September 2004, by [section 44][295] of the Land Transport Management Act 2003 (2003 No 118).
+*   Part 5: repealed, on 9 September 2004, by [section 44][296] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 99 Interpretation
     
 *   \[Repealed\]
     
-    Section 99: repealed, on 9 September 2004, by [section 44][295] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 99: repealed, on 9 September 2004, by [section 44][296] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 100 Apportionment of excise duty
     
 *   \[Repealed\]
     
-    Section 100: repealed, on 9 September 2004, by [section 44][295] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 100: repealed, on 9 September 2004, by [section 44][296] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 100A Apportionment of excise duty after 30 June 1992
     
@@ -2555,13 +2557,13 @@ Excise duty
     
 *   \[Repealed\]
     
-    Section 101: repealed, on 9 September 2004, by [section 44][295] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 101: repealed, on 9 September 2004, by [section 44][296] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 102 Procedure for obtaining refund
     
 *   \[Repealed\]
     
-    Section 102: repealed, on 9 September 2004, by [section 44][295] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 102: repealed, on 9 September 2004, by [section 44][296] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 103 Amount of excise duty and refunds may be altered by Order in Council
     
@@ -2576,7 +2578,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 104: repealed, on 13 November 2003, by [section 91(2)][296] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 104: repealed, on 13 November 2003, by [section 91(2)][297] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 104A Grants from Infrastructure Auckland
     
@@ -2608,7 +2610,7 @@ Miscellaneous provisions
     
     (2) In the event of the Agency or the territorial authority not undertaking the work as required and within the period specified in the notice under subsection (1)(b), the Agency itself may arrange for the work to be carried out and may recover the costs of that work from the Agency or the territorial authority, either as a debt due to the Agency or by deducting the amount from payments then due or becoming due to the Agency or the territorial authority from the National Roads Account.
     
-    Section 106: substituted, on 1 July 1996, by [section 25][297] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
+    Section 106: substituted, on 1 July 1996, by [section 25][298] of the Transit New Zealand Amendment Act 1995 (1995 No 42).
     
     Section 106 heading: amended, on 1 August 2008, by [section 50(1)][0] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2722,7 +2724,7 @@ Miscellaneous provisions
 
 ##### 117 Confirmation of Order in Council fixing refunds of excise duty
     
-*   The Transport (Refunds of Excise Duty) Order 1989 (SR 1989/140) (as made pursuant to [section 191][298] of the Transport Act 1962 and revoked by [section 116(2)][178]) is hereby confirmed.
+*   The Transport (Refunds of Excise Duty) Order 1989 (SR 1989/140) (as made pursuant to [section 191][299] of the Transport Act 1962 and revoked by [section 116(2)][178]) is hereby confirmed.
 
 ---
 
@@ -2776,7 +2778,7 @@ Enactments repealed
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][299]_.
+_Amendment(s) incorporated in the [Act(s)][300]_.
 
 ##### Customs Amendment Act 1988 (1988 No 17)
 
@@ -2784,7 +2786,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Finance Act 1989 (1989 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][300]_.
+_Amendment(s) incorporated in the [Act(s)][301]_.
 
 ##### Goods and Services Tax Amendment Act 1986 (1986 No 43)
 
@@ -2796,7 +2798,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 20, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][236]Act(s)_.
+_Amendment(s) incorporated in the [Act(s)][237]Act(s)_.
 
 ##### Local Government Amendment Act (No 2) 1977 (1977 No 109) (RS Vol 20, p 645)
 
@@ -2804,7 +2806,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Government Amendment Act 1979 (1979 No 59) (RS Vol 20, p 664)
 
-_Amendment(s) incorporated in the [Act(s)][301]_.
+_Amendment(s) incorporated in the [Act(s)][302]_.
 
 ##### Local Government Amendment Act (No 2) 1982 (1982 No 166)
 
@@ -2838,7 +2840,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][302]_.
+_Amendment(s) incorporated in the [Act(s)][303]_.
 
 ##### Public Works Act 1981 (1981 No 35)
 
@@ -2862,15 +2864,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Road User Charges Act 1977 (1977 No 124) (RS Vol 21, p 759)
 
-_Amendment(s) incorporated in the [Act(s)][303]_.
+_Amendment(s) incorporated in the [Act(s)][304]_.
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][304]_.
+_Amendment(s) incorporated in the [Act(s)][305]_.
 
 ##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
 
-_Amendment(s) incorporated in the [Act(s)][305]_.
+_Amendment(s) incorporated in the [Act(s)][306]_.
 
 ##### Transport Amendment Act (No 2) 1983 (1983 No 33)
 
@@ -2901,7 +2903,7 @@ Enactments amended
 
 ##### Christchurch-Lyttelton Road Tunnel Authority Dissolution Act 1978 (1978 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][306]_.
+_Amendment(s) incorporated in the [Act(s)][307]_.
 
 ##### Environment Act 1986 (1986 No 127)
 
@@ -2909,15 +2911,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141) (RS Vol 19, p 369)
 
-_Amendment(s) incorporated in the [Act(s)][307]_.
+_Amendment(s) incorporated in the [Act(s)][308]_.
 
 ##### Hutt Road Act 1939 (1939 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][308]_.
+_Amendment(s) incorporated in the [Act(s)][309]_.
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 20, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][236]_.
+_Amendment(s) incorporated in the [Act(s)][237]_.
 
 ##### Ministry of Transport Act 1968 (1968 No 39) (RS Vol 18, p 531)
 
@@ -2925,7 +2927,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][309]_.
+_Amendment(s) incorporated in the [Act(s)][310]_.
 
 ##### Petroleum Act 1937 (1937 No 27) (RS Vol 7, p 647)
 
@@ -2941,11 +2943,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
 
-_Amendment(s) incorporated in the [Act(s)][305]_.
+_Amendment(s) incorporated in the [Act(s)][306]_.
 
 ##### Wildlife Act 1953 (1953 No 31) (RS Vol 7, p 819)
 
-_Amendment(s) incorporated in the [Act(s)][310]_.
+_Amendment(s) incorporated in the [Act(s)][311]_.
 
 ---
 
@@ -2963,23 +2965,23 @@ _Amendment(s) incorporated in the [Act(s)][310]_.
 
 ###### 1 General
     
-*   This is a reprint of the Government Roading Powers Act 1989\. The reprint incorporates all the amendments to the Act as at 10 May 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Government Roading Powers Act 1989\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][311] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][312] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][312] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][313] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][313] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][314] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][314] and [17E][315] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][315] and [17E][316] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3010,25 +3012,27 @@ _Amendment(s) incorporated in the [Act(s)][310]_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][248]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][210]
     
-    Limitation Act 2010 (2010 No 110): [section 58][239]
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][249]
     
-    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 22--25][222]
+    Limitation Act 2010 (2010 No 110): [section 58][240]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][254]
+    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 22--25][223]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][274]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][255]
+    
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][275]
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][0]
     
     Land Transport Management Amendment Act 2004 (2004 No 97): [section 19(1)][199]
     
-    Land Transport Management Act 2003 (2003 No 118): [sections 44][295], [90][197], [91(2)][296]
+    Land Transport Management Act 2003 (2003 No 118): [sections 44][296], [90][197], [91(2)][297]
     
     Local Government Act 2002 (2002 No 84): [section 262][198]
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][266]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][267]
     
     Land Transport Act 1998 (1998 No 110): [section 215(1)][201]
     
@@ -3036,15 +3040,15 @@ _Amendment(s) incorporated in the [Act(s)][310]_.
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][200]
     
-    [Transit New Zealand Amendment Act 1995][316] (1995 No 42)
+    [Transit New Zealand Amendment Act 1995][317] (1995 No 42)
     
     Land Transport Act 1993 (1993 No 88): section 35(1)
     
     Transit New Zealand Amendment Act (No 2) 1992 (1992 No 73)
     
-    Crown Minerals Act 1991 (1991 No 70): [section 121][227]
+    Crown Minerals Act 1991 (1991 No 70): [section 121][228]
     
-    Resource Management Act 1991 (1991 No 69): [section 362][210]
+    Resource Management Act 1991 (1991 No 69): [section 362][211]
     
     Transit New Zealand Amendment Act 1990 (1990 No 122)
 
@@ -3260,110 +3264,111 @@ _Amendment(s) incorporated in the [Act(s)][310]_.
 [207]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM407465
 [208]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420361
 [209]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47341
-[210]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM239393
-[211]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47346
-[212]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47348
-[213]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420447
-[214]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420453
-[215]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420459
-[216]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420465
-[217]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420487
-[218]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420693
-[219]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM423807
-[220]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47315
-[221]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47351
-[222]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924936
-[223]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420620
-[224]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47353
-[225]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM242535
-[226]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47356
-[227]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM247364
-[228]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47358
-[229]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368088
-[230]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM281857
-[231]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM285411
-[232]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM124960
-[233]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47360
-[234]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924937
-[235]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47362
-[236]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM415531
-[237]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2033100
-[238]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47364
-[239]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2033287
-[240]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47366
-[241]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM45738
-[242]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47374
-[243]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47375
-[244]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420324
-[245]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47377
-[246]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47383
-[247]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368089
-[248]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM3231293
-[249]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924938
-[250]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46096
-[251]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368090
-[252]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2044961
-[253]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368091
-[254]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM3016880
-[255]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM45772
-[256]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47711
-[257]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM370572
-[258]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM370508
-[259]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47393
-[260]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368092
-[261]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47395
-[262]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46362
-[263]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46045
-[264]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47397
-[265]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47399
-[266]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM145126
-[267]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47701
-[268]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47703
-[269]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924939
-[270]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47705
-[271]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47707
-[272]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47709
-[273]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2214226
-[274]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2015063
-[275]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47713
-[276]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM293863
-[277]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47715
-[278]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47722
-[279]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM237298
-[280]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47724
-[281]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47726
-[282]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM269031
-[283]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47728
-[284]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368093
-[285]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47730
-[286]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM45797
-[287]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47732
-[288]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47734
-[289]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47736
-[290]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47738
-[291]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47740
-[292]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46353
-[293]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46329
-[294]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47742
-[295]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM227546
-[296]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM228041
-[297]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368380
-[298]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM344824
-[299]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM103609
-[300]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM145345
-[301]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM34653
-[302]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM431296
-[303]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM18599
-[304]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM97376
-[305]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM341189
-[306]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM22107
-[307]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM81034
-[308]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM226923
-[309]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM431205
-[310]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM278704
-[311]: http://www.pco.parliament.govt.nz/reprints/
-[312]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM195439
-[313]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[314]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM195468
-[315]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM195470
-[316]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368074
+[210]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM4663359
+[211]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM239393
+[212]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47346
+[213]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47348
+[214]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420447
+[215]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420453
+[216]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420459
+[217]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420465
+[218]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420487
+[219]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420693
+[220]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM423807
+[221]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47315
+[222]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47351
+[223]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924936
+[224]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420620
+[225]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47353
+[226]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM242535
+[227]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47356
+[228]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM247364
+[229]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47358
+[230]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368088
+[231]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM281857
+[232]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM285411
+[233]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM124960
+[234]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47360
+[235]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924937
+[236]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47362
+[237]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM415531
+[238]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2033100
+[239]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47364
+[240]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2033287
+[241]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47366
+[242]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM45738
+[243]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47374
+[244]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47375
+[245]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM420324
+[246]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47377
+[247]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47383
+[248]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368089
+[249]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM3231293
+[250]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924938
+[251]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46096
+[252]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368090
+[253]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2044961
+[254]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368091
+[255]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM3016880
+[256]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM45772
+[257]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47711
+[258]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM370572
+[259]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM370508
+[260]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47393
+[261]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368092
+[262]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47395
+[263]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46362
+[264]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46045
+[265]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47397
+[266]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47399
+[267]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM145126
+[268]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47701
+[269]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47703
+[270]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2924939
+[271]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47705
+[272]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47707
+[273]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47709
+[274]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2214226
+[275]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM2015063
+[276]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47713
+[277]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM293863
+[278]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47715
+[279]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47722
+[280]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM237298
+[281]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47724
+[282]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47726
+[283]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM269031
+[284]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47728
+[285]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368093
+[286]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47730
+[287]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM45797
+[288]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47732
+[289]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47734
+[290]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47736
+[291]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47738
+[292]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47740
+[293]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46353
+[294]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM46329
+[295]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM47742
+[296]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM227546
+[297]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM228041
+[298]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368380
+[299]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM344824
+[300]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM103609
+[301]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM145345
+[302]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM34653
+[303]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM431296
+[304]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM18599
+[305]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM97376
+[306]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM341189
+[307]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM22107
+[308]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM81034
+[309]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM226923
+[310]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM431205
+[311]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM278704
+[312]: http://www.pco.parliament.govt.nz/reprints/
+[313]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM195439
+[314]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[315]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM195468
+[316]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM195470
+[317]: http://www.legislation.govt.nz/act/public/1989/0075/latest/link.aspx?id=DLM368074
