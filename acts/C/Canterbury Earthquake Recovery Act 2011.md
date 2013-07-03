@@ -1,5 +1,5 @@
 Reprint  
-as at 1 August 2012
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -729,23 +729,23 @@ Functions and powers to assist recovery and rebuilding
         
     *   (a) annual plans, long-term plans, and triennial agreements under the [Local Government Act 2002][142], except a funding impact statement in an annual plan or a long-term plan:
     
-    *   (b) regional land transport strategies and regional land transport programmes under the [Land Transport Management Act 2003][143]:
+    *   (b) regional land transport plans under the [Land Transport Management Act 2003][143]:
     
     *   (c) the New Zealand Transport Agency's recommendations under [section 18I][144] of the Land Transport Management Act 2003:
     
-    *   (d) regional public transport plans adopted under [section 9][145] of the Public Transport Management Act 2008:
+    *   (d) regional public transport plans adopted under [section 119][145] of the Land Transport Management Act 2003 or [section 9][146] of the Public Transport Management Act 2008:
     
     *   (e) all or any of the following:
             
-        *   (i) general policies approved under [section 17B][146] of the Conservation Act 1987 and general policies approved under [section 15A][147] of the Reserves Act 1977:
+        *   (i) general policies approved under [section 17B][147] of the Conservation Act 1987 and general policies approved under [section 15A][148] of the Reserves Act 1977:
         
-        *   (ii) conservation management strategies approved under [section 17F][148] of the Conservation Act 1987 and [section 40A][149] of the Reserves Act 1977:
+        *   (ii) conservation management strategies approved under [section 17F][149] of the Conservation Act 1987 and [section 40A][150] of the Reserves Act 1977:
         
-        *   (iii) conservation management plans approved under [section 17G][150] of the Conservation Act 1987 and conservation management plans approved under [section 40B][151] of the Reserves Act 1977:
+        *   (iii) conservation management plans approved under [section 17G][151] of the Conservation Act 1987 and conservation management plans approved under [section 40B][152] of the Reserves Act 1977:
         
-        *   (iv) management plans approved under [section 41][152] of the Reserves Act 1977:
+        *   (iv) management plans approved under [section 41][153] of the Reserves Act 1977:
         
-        *   (v) conservation management plans approved under [section 14E][153] of the Wildlife Act 1953:
+        *   (v) conservation management plans approved under [section 14E][154] of the Wildlife Act 1953:
         
         *   (vi) any other management plan for a reserve under any other enactment.
         
@@ -760,6 +760,10 @@ Functions and powers to assist recovery and rebuilding
     (4) If required by a Recovery Plan, the responsible entity must amend the instrument to give effect to the provisions of the Recovery Plan.
     
     (5) A responsible entity must make the amendments referred to in subsection (4) in accordance with a process (if any) determined by the Minister.
+    
+    Section 26(2)(b): replaced, on 13 June 2013, by [section 72][155] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 26(2)(d): replaced, on 13 June 2013, by [section 72][155] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Provisions affecting councils and others
 
@@ -771,19 +775,19 @@ Functions and powers to assist recovery and rebuilding
     
     *   (b) a plan or policy of a council under the [Local Government Act 2002][142], except a funding impact statement in an annual plan or a long-term plan:
     
-    *   (c) a regional land transport strategy or regional land transport programme under the [Land Transport Management Act 2003][143]:
+    *   (c) a regional land transport plan under the [Land Transport Management Act 2003][143]:
     
     *   (d) all or any of the following:
             
-        *   (i) general policies approved under [section 17B][146] of the Conservation Act 1987 and general policies approved under [section 15A][147] of the Reserves Act 1977:
+        *   (i) general policies approved under [section 17B][147] of the Conservation Act 1987 and general policies approved under [section 15A][148] of the Reserves Act 1977:
         
-        *   (ii) conservation management strategies approved under [section 17F][148] of the Conservation Act 1987 and [section 40A][149] of the Reserves Act 1977:
+        *   (ii) conservation management strategies approved under [section 17F][149] of the Conservation Act 1987 and [section 40A][150] of the Reserves Act 1977:
         
-        *   (iii) conservation management plans approved under [section 17G][150] of the Conservation Act 1987 and conservation management plans approved under [section 40B][151] of the Reserves Act 1977:
+        *   (iii) conservation management plans approved under [section 17G][151] of the Conservation Act 1987 and conservation management plans approved under [section 40B][152] of the Reserves Act 1977:
         
-        *   (iv) management plans approved under [section 41][152] of the Reserves Act 1977:
+        *   (iv) management plans approved under [section 41][153] of the Reserves Act 1977:
         
-        *   (v) conservation management plans approved under [section 14E][153] of the Wildlife Act 1953:
+        *   (v) conservation management plans approved under [section 14E][154] of the Wildlife Act 1953:
         
         *   (vi) any other management plan for a reserve under any other enactment:
         
@@ -795,7 +799,7 @@ Functions and powers to assist recovery and rebuilding
         
     *   (a) any resource consent:
     
-    *   (b) any use protected or allowed under [section 10][154], [10A][155], or [10B][156] of the Resource Management Act 1991:
+    *   (b) any use protected or allowed under [section 10][156], [10A][157], or [10B][158] of the Resource Management Act 1991:
     
     *   (c) any certificate of compliance under that Act.
     
@@ -803,7 +807,7 @@ Functions and powers to assist recovery and rebuilding
     
     (4) The Minister may, by public notice,---
         
-    *   (a) revoke any changes or variations approved to a plan under the [Conservation Act 1987][157], the [Land Transport Management Act 2003][143], the [Local Government Act 2002][142], the [Reserves Act 1977][158], or the [Wildlife Act 1953][159]; or
+    *   (a) revoke any changes or variations approved to a plan under the [Conservation Act 1987][159], the [Land Transport Management Act 2003][143], the [Local Government Act 2002][142], the [Reserves Act 1977][160], or the [Wildlife Act 1953][161]; or
     
     *   (b) impose a moratorium on further changes or variations for a specified period.
     
@@ -811,11 +815,13 @@ Functions and powers to assist recovery and rebuilding
         
     *   (a) the person who held the resource consent remains liable for the performance of any conditions under the consent; and
     
-    *   (b) the whole or part of any bond paid under [section 108][160] of the Resource Management Act 1991 must be retained.
+    *   (b) the whole or part of any bond paid under [section 108][162] of the Resource Management Act 1991 must be retained.
     
     (6) The Minister may, by public notice, vary or revoke a notice given under subsection (1), (2), or (4).
     
     (7) No compensation is payable under this Act in respect of any action taken under this section.
+    
+    Section 27(1)(c): replaced, on 13 June 2013, by [section 72][155] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 28 Council contracts that require chief executive's consent
     
@@ -841,13 +847,13 @@ Functions and powers to assist recovery and rebuilding
     
     *   (b) capable of being provided without unreasonable difficulty or expense.
     
-    (3) Nothing in this section overrides legal professional privilege or affects any privilege recognised by [sections 54 to 64][161] of the Evidence Act 2006\.
+    (3) Nothing in this section overrides legal professional privilege or affects any privilege recognised by [sections 54 to 64][163] of the Evidence Act 2006\.
 
 ##### 30 Dissemination of information
     
 *   (1) The chief executive may disseminate information and advice on matters relating to work and activities under this Act.
     
-    (2) Before exercising the power conferred by subsection (1), the chief executive must consider the privacy principles under the [Privacy Act 1993][162] and the value of protecting confidential and commercially sensitive information.
+    (2) Before exercising the power conferred by subsection (1), the chief executive must consider the privacy principles under the [Privacy Act 1993][164] and the value of protecting confidential and commercially sensitive information.
 
 ##### 31 Commissioning reports
     
@@ -887,15 +893,15 @@ Functions and powers to assist recovery and rebuilding
 
 ##### 35 Approval of cadastral survey datasets
     
-*   (1) The chief executive may direct the chief executive of Land Information New Zealand to approve a cadastral survey dataset for the purposes of the [Cadastral Survey Act 2002][163], and any other enactment that refers to the approval of a cadastral survey dataset or survey plan.
+*   (1) The chief executive may direct the chief executive of Land Information New Zealand to approve a cadastral survey dataset for the purposes of the [Cadastral Survey Act 2002][165], and any other enactment that refers to the approval of a cadastral survey dataset or survey plan.
     
     (2) Before making a direction under subsection (1), the chief executive must consult the Surveyor-General.
     
-    (3) Compliance with a direction under subsection (1) is deemed to be compliance for the purposes of [section 9(a)][164] of the Cadastral Survey Act 2002 and any other enactment that refers to the approval of a cadastral survey dataset or survey plan.
+    (3) Compliance with a direction under subsection (1) is deemed to be compliance for the purposes of [section 9(a)][166] of the Cadastral Survey Act 2002 and any other enactment that refers to the approval of a cadastral survey dataset or survey plan.
     
     (4) The Surveyor-General must comply with a direction under subsection (1) in relation to a reference in any other enactment to approval of a cadastral survey dataset and that compliance is deemed to be compliance for the purposes of that enactment.
     
-    (5) A cadastral surveyor carrying out work to which subsection (1) applies is not liable for any non-compliance with standards set under [section 49][165] of the Cadastral Survey Act 2002, to the extent that the non-compliance was necessary for the purposes of this Act.
+    (5) A cadastral surveyor carrying out work to which subsection (1) applies is not liable for any non-compliance with standards set under [section 49][167] of the Cadastral Survey Act 2002, to the extent that the non-compliance was necessary for the purposes of this Act.
 
 ##### 36 New surveys
     
@@ -903,7 +909,7 @@ Functions and powers to assist recovery and rebuilding
         
     *   (a) the chief executive gives a direction under [section 35(1)][47]; or
     
-    *   (b) in any other case, there is a legal requirement to notify any adjoining owners that a cadastral survey dataset is to be deposited under [section 167][166] of the Land Transfer Act 1952\.
+    *   (b) in any other case, there is a legal requirement to notify any adjoining owners that a cadastral survey dataset is to be deposited under [section 167][168] of the Land Transfer Act 1952\.
     
     (2) The chief executive may direct the Registrar-General of Land to seek the consent of the adjoining landowners to the new survey definition.
     
@@ -911,9 +917,9 @@ Functions and powers to assist recovery and rebuilding
     
     (4) If an adjoining owner fails to respond within 10 working days (or any further period allowed by the chief executive) after the date of service of the request for consent or refuses to consent, the chief executive may direct the Registrar-General of Land to issue a new computer register limited as to parcels upon deposit of the cadastral survey dataset.
     
-    (5) [Section 167(3)][166] of the Land Transfer Act 1952 (application of the provisions of [Part 12][167] of that Act relating to computer registers that are limited as to parcels) applies to any computer register issued and limited as to parcels in accordance with a direction under subsection (4).
+    (5) [Section 167(3)][168] of the Land Transfer Act 1952 (application of the provisions of [Part 12][169] of that Act relating to computer registers that are limited as to parcels) applies to any computer register issued and limited as to parcels in accordance with a direction under subsection (4).
     
-    (6) The chief executive may direct the Registrar-General of Land to disapply the application of [section 205(4)][168] of the Land Transfer Act 1952 in respect of any computer register issued and limited as to parcels in accordance with subsection (4), and the Registrar-General of Land must remove the limitation as to parcels from the relevant computer register.
+    (6) The chief executive may direct the Registrar-General of Land to disapply the application of [section 205(4)][170] of the Land Transfer Act 1952 in respect of any computer register issued and limited as to parcels in accordance with subsection (4), and the Registrar-General of Land must remove the limitation as to parcels from the relevant computer register.
     
     (7) Subsection (6) is subject to any relevant determination by a court under [subpart 6][84].
 
@@ -921,7 +927,7 @@ Functions and powers to assist recovery and rebuilding
     
 *   (1) If an adjoining owner wishes to dispute a survey definition determined under [section 36][48], the dispute must be heard and determined in accordance with [section 69][86] and treated as an appeal against a direction under section 36(6).
     
-    (2) Any dispute against the lodgement of a caveat under [section 205(4)][168] of the Land Transfer Act 1952 against a computer register that is issued limited as to parcels in accordance with a direction under [section 36(4)][48] must be heard and determined in accordance with [section 69][86] and treated as an appeal.
+    (2) Any dispute against the lodgement of a caveat under [section 205(4)][170] of the Land Transfer Act 1952 against a computer register that is issued limited as to parcels in accordance with a direction under [section 36(4)][48] must be heard and determined in accordance with [section 69][86] and treated as an appeal.
     
     (3) However, the requirement in [section 69(6)][86] that an appeal be brought within 10 working days after the decision appealed against is given does not apply to an appeal under subsection (2).
 
@@ -979,9 +985,9 @@ Functions and powers to assist recovery and rebuilding
     
     *   (b) every occupier of the building or land; and
     
-    *   (c) every person who has an interest in the land on which the works are situated that is registered under the [Land Transfer Act 1952][169]; and
+    *   (c) every person who has an interest in the land on which the works are situated that is registered under the [Land Transfer Act 1952][171]; and
     
-    *   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under [section 137][170] of the Land Transfer Act 1952\.
+    *   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under [section 137][172] of the Land Transfer Act 1952\.
     
     (4) If it is necessary to enter any land to carry out any work, any notice under subsection (2)(d) to the occupier must be given not less than 24 hours in advance.
     
@@ -1041,7 +1047,7 @@ Functions and powers to assist recovery and rebuilding
     
 *   (1) The chief executive may subdivide, resubdivide, amalgamate, improve, and develop all or any land acquired by the Crown under this Act.
     
-    (2) Nothing in [section 11][171] or [Part 10][172] of the Resource Management Act 1991 applies to any subdivision under this clause.
+    (2) Nothing in [section 11][173] or [Part 10][174] of the Resource Management Act 1991 applies to any subdivision under this clause.
 
 ##### 44 Temporary buildings
     
@@ -1067,7 +1073,7 @@ Functions and powers to assist recovery and rebuilding
     
     (3) The chief executive may, by giving public notice or in any other manner that he or she determines, stop any road or part of a road in greater Christchurch.
     
-    (4) The stopping of a road under subsection (3) has effect as if the road had been stopped in accordance with [section 342][173] and [Schedule 10][174] of the Local Government Act 1974 and as if the chief executive were a council within the meaning of that section.
+    (4) The stopping of a road under subsection (3) has effect as if the road had been stopped in accordance with [section 342][175] and [Schedule 10][176] of the Local Government Act 1974 and as if the chief executive were a council within the meaning of that section.
     
     (5) The chief executive must consult the relevant road controlling authority---
         
@@ -1079,7 +1085,7 @@ Functions and powers to assist recovery and rebuilding
         
     *   (a) there is no right of appeal or objection against a decision made under subsection (3):
     
-    *   (b) nothing in [section 345][175] of the Local Government Act 1974 applies to the disposal of land resulting from a stopping of a road under this section.
+    *   (b) nothing in [section 345][177] of the Local Government Act 1974 applies to the disposal of land resulting from a stopping of a road under this section.
     
     
 
@@ -1105,7 +1111,7 @@ Functions and powers to assist recovery and rebuilding
         
     *   (a) a resource consent that is current or has expired, whether or not the consent has been or is being exercised; or
     
-    *   (b) [section 9][176] or [124][177] of the Resource Management Act 1991; or
+    *   (b) [section 9][178] or [124][179] of the Resource Management Act 1991; or
     
     *   (c) an abatement notice or enforcement order; or
     
@@ -1115,11 +1121,11 @@ Functions and powers to assist recovery and rebuilding
     
     *   (f) a certificate of compliance under that Act; or
     
-    *   (g) an existing use protected or allowed under [section 10][154], [10A][155], or [10B][156] of that Act.
+    *   (g) an existing use protected or allowed under [section 10][156], [10A][157], or [10B][158] of that Act.
     
     (3) Despite subsection (1), the Minister must not direct any council to---
         
-    *   (a) set a rate under [section 23][178] of the Local Government (Rating) Act 2002; or
+    *   (a) set a rate under [section 23][180] of the Local Government (Rating) Act 2002; or
     
     *   (b) take any action or make any decision in relation to rates described in a funding impact statement included in an annual plan or a long-term plan under the [Local Government Act 2002][142].
     
@@ -1131,7 +1137,7 @@ Functions and powers to assist recovery and rebuilding
     
     (2) However, a notice under subsection (1) must not apply to any responsibilities, duties, or powers of a council---
         
-    *   (a) under [section 23][178] of the Local Government (Rating) Act 2002; or
+    *   (a) under [section 23][180] of the Local Government (Rating) Act 2002; or
     
     *   (b) in relation to rates described in a funding impact statement included in an annual plan or long-term plan under the [Local Government Act 2002][142].
     
@@ -1167,13 +1173,13 @@ Functions and powers to assist recovery and rebuilding
     
     (2) Subsection (3) applies if land acquired by the chief executive is no longer required for that purpose and is available for disposal.
     
-    (3) To avoid doubt, nothing in [sections 40 to 42][179] of the Public Works Act 1981 applies to the disposal of land to which this subsection applies, whether by sale, exchange, or otherwise, except as provided in [section 58][73].
+    (3) To avoid doubt, nothing in [sections 40 to 42][181] of the Public Works Act 1981 applies to the disposal of land to which this subsection applies, whether by sale, exchange, or otherwise, except as provided in [section 58][73].
     
-    (4) The Minister may, by notice in the _Gazette_, declare land held under this Act to be set apart for a Government work in terms of the [Public Works Act 1981][180].
+    (4) The Minister may, by notice in the _Gazette_, declare land held under this Act to be set apart for a Government work in terms of the [Public Works Act 1981][182].
     
-    (5) The Minister may, by notice in the _Gazette_, declare land held for a public work in terms of the [Public Works Act 1981][180] to be held under this Act.
+    (5) The Minister may, by notice in the _Gazette_, declare land held for a public work in terms of the [Public Works Act 1981][182] to be held under this Act.
     
-    (6) To avoid doubt, any requirements to offer land back under the [Public Works Act 1981][180] continue to apply to any land declared under subsection (5) to be held under this Act.
+    (6) To avoid doubt, any requirements to offer land back under the [Public Works Act 1981][182] continue to apply to any land declared under subsection (5) to be held under this Act.
 
 ##### 54 Notice of intention to take land
     
@@ -1203,7 +1209,7 @@ Functions and powers to assist recovery and rebuilding
     
 *   (1) If the Minister considers that land should be taken in the name of the Crown, the land intended to be taken may be taken in accordance with this section.
     
-    (2) If necessary, a cadastral survey dataset showing accurately the position and extent of the land to be taken must be prepared and be lodged with the chief executive of Land Information New Zealand for the purposes of the [Cadastral Survey Act 2002][163].
+    (2) If necessary, a cadastral survey dataset showing accurately the position and extent of the land to be taken must be prepared and be lodged with the chief executive of Land Information New Zealand for the purposes of the [Cadastral Survey Act 2002][165].
     
     (3) So long as the relevant notice in the _Gazette_ has been registered in accordance with [section 54(3)][69], the Minister may recommend that the Governor-General issue a Proclamation taking the land.
     
@@ -1225,11 +1231,11 @@ Functions and powers to assist recovery and rebuilding
     
 *   (1) The Minister must lodge every Proclamation with the Registrar-General of Land, who must register it without fee against the computer register to the land.
     
-    (2) If the land is not subject to the [Land Transfer Act 1952][169], the Registrar-General of Land must enter the Proclamation in the index book of the Deeds Register Office and upon such registration the land becomes subject to the Land Transfer Act 1952\.
+    (2) If the land is not subject to the [Land Transfer Act 1952][171], the Registrar-General of Land must enter the Proclamation in the index book of the Deeds Register Office and upon such registration the land becomes subject to the Land Transfer Act 1952\.
     
     (3) An error in any Proclamation does not of itself prevent registration in respect of titles to land validly affected.
     
-    (4) If land is not subject to the [Land Transfer Act 1952][169] and dealings with it are not registrable under the [Deeds Registration Act 1908][181], the Proclamation must be lodged with the Surveyor-General to be recorded in the cadastre.
+    (4) If land is not subject to the [Land Transfer Act 1952][171] and dealings with it are not registrable under the [Deeds Registration Act 1908][183], the Proclamation must be lodged with the Surveyor-General to be recorded in the cadastre.
     
     (5) To avoid doubt, the registration of a Proclamation does not result in the cancellation of the title affected.
 
@@ -1253,15 +1259,15 @@ Functions and powers to assist recovery and rebuilding
     
     *   (b) the land is to be set apart for a Government work under [section 53(4)][68].
     
-    (4) [Section 40(2A), (4), and (5)][179] of the Public Works Act 1981 applies with all necessary modifications to an offer back under this section.
+    (4) [Section 40(2A), (4), and (5)][181] of the Public Works Act 1981 applies with all necessary modifications to an offer back under this section.
     
     (5) If any offer to sell land under subsection (2) has not been accepted within 20 working days of the receipt of the offer, the chief executive may dispose of the land on any terms and conditions that he or she thinks fit.
 
 ##### 59 Application of Ngāi Tahu Claims Settlement Act 1998
     
-*   (1) Nothing in this Act affects the operation of the [Ngāi Tahu Claims Settlement Act 1998][182].
+*   (1) Nothing in this Act affects the operation of the [Ngāi Tahu Claims Settlement Act 1998][184].
     
-    (2) To avoid doubt, if the chief executive wishes to exercise his or her power under this Act to dispose of land to which that Act applies, he or she must do so in accordance with the [Ngāi Tahu Claims Settlement Act 1998][182].
+    (2) To avoid doubt, if the chief executive wishes to exercise his or her power under this Act to dispose of land to which that Act applies, he or she must do so in accordance with the [Ngāi Tahu Claims Settlement Act 1998][184].
 
 ### Subpart 5---Compensation under this Act
 
@@ -1331,7 +1337,7 @@ Functions and powers to assist recovery and rebuilding
     
     *   (b) in any other case, as at the date of the notice of demolition or the date of the loss or damage, as the case may be.
     
-    (3) For compensation for the compulsory acquisition of land, the Minister must determine compensation having regard to its current market value as determined by a valuation carried out by a registered valuer; and so far as practicable, the Minister must determine compensation in accordance with the relevant provisions of [Part 5][183] of the Public Works Act 1981\.
+    (3) For compensation for the compulsory acquisition of land, the Minister must determine compensation having regard to its current market value as determined by a valuation carried out by a registered valuer; and so far as practicable, the Minister must determine compensation in accordance with the relevant provisions of [Part 5][185] of the Public Works Act 1981\.
     
     (4) Before making a final determination under subsection (1), the Minister must give a claimant a reasonable opportunity to appear before the Minister or the Minister's delegate to make representations as to the nature of the claim and the amount of compensation payable.
     
@@ -1349,7 +1355,7 @@ Functions and powers to assist recovery and rebuilding
     
 *   (1) Nothing in this Act, apart from this subpart or [section 40][53] or [41][54], confers any right to compensation or is to be relied on in any proceedings as a basis for any claim to compensation.
     
-    (2) Nothing in [section 185][184] of the Resource Management Act 1991 applies in relation to any matter to which this subpart applies.
+    (2) Nothing in [section 185][186] of the Resource Management Act 1991 applies in relation to any matter to which this subpart applies.
 
 ### Subpart 6---Appeal rights
 
@@ -1359,7 +1365,7 @@ Functions and powers to assist recovery and rebuilding
     
     (2) A proceeding must not be brought, and a court must not hear any proceeding, that is in breach of this section.
     
-    (3) Despite anything to the contrary in the [Resource Management Act 1991][127], while this Act is in force nothing in [section 16][185] or [17][186] or [Part 12][187] of the Resource Management Act 1991 applies to an activity or use that has been the subject of a decision of a type described in [section 69(1)(c) or (d)][86] in relation to that matter.
+    (3) Despite anything to the contrary in the [Resource Management Act 1991][127], while this Act is in force nothing in [section 16][187] or [17][188] or [Part 12][189] of the Resource Management Act 1991 applies to an activity or use that has been the subject of a decision of a type described in [section 69(1)(c) or (d)][86] in relation to that matter.
     
     (4) Despite anything to the contrary in the [Resource Management Act 1991][127], while this Act is in force there is no right of appeal under the Resource Management Act 1991 against a decision of a type described in section 69(1)(c) or (d), except as provided in [sections 69][86] and [70][87].
     
@@ -1417,7 +1423,7 @@ Functions and powers to assist recovery and rebuilding
     
     (3) The decision of the Court of Appeal is final in the case of any appeal referred to in [section 69(1)(b) to (f)][86].
     
-    (4) In the case of an appeal referred to in [section 69(1)(a)][86], an appeal from the Court of Appeal to the Supreme Court may be brought against a decision of the Court of Appeal on a question of law with the leave of the Supreme Court given under the [Supreme Court Act 2003][188].
+    (4) In the case of an appeal referred to in [section 69(1)(a)][86], an appeal from the Court of Appeal to the Supreme Court may be brought against a decision of the Court of Appeal on a question of law with the leave of the Supreme Court given under the [Supreme Court Act 2003][190].
 
 ### Subpart 7---Delegated legislation
 
@@ -1429,51 +1435,51 @@ Functions and powers to assist recovery and rebuilding
     
     (3) The enactments that may be the subject of an Order in Council that does anything referred to in subsection (2) include (without limitation) the following:
         
-    *   (a) the [Building Act 2004][189]:
+    *   (a) the [Building Act 2004][191]:
     
-    *   (b) the [Cadastral Survey Act 2002][163]:
+    *   (b) the [Cadastral Survey Act 2002][165]:
     
-    *   (c) the [Civil Defence Emergency Management Act 2002][190]:
+    *   (c) the [Civil Defence Emergency Management Act 2002][192]:
     
-    *   (d) the [Commerce Act 1986][191]:
+    *   (d) the [Commerce Act 1986][193]:
     
-    *   (e) the [Earthquake Commission Act 1993][192]:
+    *   (e) the [Earthquake Commission Act 1993][194]:
     
-    *   (f) the [Health Act 1956][193]:
+    *   (f) the [Health Act 1956][195]:
     
-    *   (g) the [Health and Disability Services (Safety) Act 2001][194]:
+    *   (g) the [Health and Disability Services (Safety) Act 2001][196]:
     
-    *   (h) the [Historic Places Act 1993][195]:
+    *   (h) the [Historic Places Act 1993][197]:
     
-    *   (i) the [Land Transport Act 1998][196]:
+    *   (i) the [Land Transport Act 1998][198]:
     
     *   (j) the [Land Transport Management Act 2003][143]:
     
-    *   (k) the [Local Government Act 1974][197]:
+    *   (k) the [Local Government Act 1974][199]:
     
     *   (l) the [Local Government Act 2002][142]:
     
-    *   (m) the [Local Government Official Information and Meetings Act 1987][198]:
+    *   (m) the [Local Government Official Information and Meetings Act 1987][200]:
     
-    *   (n) the [Local Government (Rating) Act 2002][199]:
+    *   (n) the [Local Government (Rating) Act 2002][201]:
     
-    *   (o) the [Public Works Act 1981][180]:
+    *   (o) the [Public Works Act 1981][182]:
     
-    *   (p) the [Rating Valuations Act 1998][200]:
+    *   (p) the [Rating Valuations Act 1998][202]:
     
-    *   (q) the [Reserves Act 1977][158]:
+    *   (q) the [Reserves Act 1977][160]:
     
     *   (r) the [Resource Management Act 1991][127]:
     
-    *   (s) the [Road User Charges Act 2012][201]:
+    *   (s) the [Road User Charges Act 2012][203]:
     
-    *   (t) the [Social Security Act 1964][202]:
+    *   (t) the [Social Security Act 1964][204]:
     
-    *   (u) the [Soil Conservation and Rivers Control Act 1941][203]:
+    *   (u) the [Soil Conservation and Rivers Control Act 1941][205]:
     
-    *   (v) the [Transport Act 1962][204]:
+    *   (v) the [Transport Act 1962][206]:
     
-    *   (w) the [Waste Minimisation Act 2008][205].
+    *   (w) the [Waste Minimisation Act 2008][207].
     
     (4) An exemption from, modification of, or extension of a provision may be---
         
@@ -1511,19 +1517,19 @@ Functions and powers to assist recovery and rebuilding
     
     *   (b) grant an exemption from or modify a restriction on keeping a person in custody or detention; or
     
-    *   (c) grant an exemption from or modify a requirement or restriction imposed by the [Bill of Rights 1688][206], the [Constitution Act 1986][207], the [Electoral Act 1993][208], the [Judicature Amendment Act 1972][209], or the [New Zealand Bill of Rights Act 1990][210]; or
+    *   (c) grant an exemption from or modify a requirement or restriction imposed by the [Bill of Rights 1688][208], the [Constitution Act 1986][209], the [Electoral Act 1993][210], the [Judicature Amendment Act 1972][211], or the [New Zealand Bill of Rights Act 1990][212]; or
     
     *   (d) contain any provision having the effect of amending this section or [section 3][4], [6][9], [72 to 76][91], or [93][115].
     
     (7) Subsections (2) to (5) do not limit subsection (1).
     
-    Section 71(3)(s): replaced, on 1 August 2012, by [section 94][211] of the Road User Charges Act 2012 (2012 No 1).
+    Section 71(3)(s): replaced, on 1 August 2012, by [section 94][213] of the Road User Charges Act 2012 (2012 No 1).
 
 #### Canterbury Earthquake Recovery Review Panel
 
 ##### 72 Canterbury Earthquake Recovery Review Panel
     
-*   (1) The Minister must appoint a Canterbury Earthquake Recovery Review Panel of 4 persons with relevant expertise or appropriate skills, 1 of whom must be a former or retired Judge of the High Court or a lawyer (as defined in [section 6][212] of the Lawyers and Conveyancers Act 2006).
+*   (1) The Minister must appoint a Canterbury Earthquake Recovery Review Panel of 4 persons with relevant expertise or appropriate skills, 1 of whom must be a former or retired Judge of the High Court or a lawyer (as defined in [section 6][214] of the Lawyers and Conveyancers Act 2006).
     
     (2) A member of the Canterbury Earthquake Recovery Review Panel must be appointed by notice of appointment in writing that---
         
@@ -1589,7 +1595,7 @@ Functions and powers to assist recovery and rebuilding
 
 ##### 76 Regulations (Disallowance) Act 1989 applies
     
-*   Despite [section 75(5)][94], the [Regulations (Disallowance) Act 1989][213] applies to an Order in Council made under [section 71][89].
+*   Despite [section 75(5)][94], the [Regulations (Disallowance) Act 1989][215] applies to an Order in Council made under [section 71][89].
 
 ### Subpart 8---Miscellaneous provisions
 
@@ -1667,15 +1673,15 @@ Functions and powers to assist recovery and rebuilding
 
 ##### 84 Actions of emergency management personnel
     
-*   (1) Every action taken or decision made or purportedly taken or made under the [Civil Defence Emergency Management Act 2002][190] by the National Controller, the Director, or any person acting under the authority of the National Controller or the Director, if taken or made or purportedly taken or made while the state of national emergency was in force in respect of Christchurch in 2011, is declared to be and always to have been valid.
+*   (1) Every action taken or decision made or purportedly taken or made under the [Civil Defence Emergency Management Act 2002][192] by the National Controller, the Director, or any person acting under the authority of the National Controller or the Director, if taken or made or purportedly taken or made while the state of national emergency was in force in respect of Christchurch in 2011, is declared to be and always to have been valid.
     
-    (2) Subsection (1) does not apply in respect of any action or decision that is taken or made in bad faith or with gross negligence or that is inconsistent with any provision of the [New Zealand Bill of Rights Act 1990][210].
+    (2) Subsection (1) does not apply in respect of any action or decision that is taken or made in bad faith or with gross negligence or that is inconsistent with any provision of the [New Zealand Bill of Rights Act 1990][212].
 
 ##### 85 Continuation of emergency management measures
     
 *   (1) This section applies to every authorisation, direction, requirement, restriction, or prohibition that---
         
-    *   (a) was given, made, or issued under the [Civil Defence Emergency Management Act 2002][190] by the National Controller or the Director while the state of national emergency was in force in respect of Christchurch in 2011; and
+    *   (a) was given, made, or issued under the [Civil Defence Emergency Management Act 2002][192] by the National Controller or the Director while the state of national emergency was in force in respect of Christchurch in 2011; and
     
     *   (b) had effect immediately before the commencement of this Act.
     
@@ -1683,7 +1689,7 @@ Functions and powers to assist recovery and rebuilding
 
 ##### 86 Civil defence emergency management not affected by this Act if further emergency occurs
     
-*   Nothing in this Act affects the operation of the [Civil Defence Emergency Management Act 2002][190] in relation to any emergency in greater Christchurch that occurs after the commencement of this Act.
+*   Nothing in this Act affects the operation of the [Civil Defence Emergency Management Act 2002][192] in relation to any emergency in greater Christchurch that occurs after the commencement of this Act.
 
 ##### 87 Transfer of Crown contracts, etc
     
@@ -1721,7 +1727,7 @@ Functions and powers to assist recovery and rebuilding
     
     (3) The repeal of that Act does not affect any act, decision, or thing done under that Act or done under any Order in Council made under that Act, and those acts, decisions, or things are validated.
     
-    (4) Despite the repeal of that Act, [section 19][214] of that Act is deemed to continue to apply to any act, decision, or thing referred to in subsection (3).
+    (4) Despite the repeal of that Act, [section 19][216] of that Act is deemed to continue to apply to any act, decision, or thing referred to in subsection (3).
 
 ##### 90 Orders in Council amended
     
@@ -1729,9 +1735,9 @@ Functions and powers to assist recovery and rebuilding
 
 ##### 91 Commission dissolved
     
-*   (1) The Canterbury Earthquake Recovery Commission established by [section 9][215] of the Canterbury Earthquake Response and Recovery Act 2010 is dissolved.
+*   (1) The Canterbury Earthquake Recovery Commission established by [section 9][217] of the Canterbury Earthquake Response and Recovery Act 2010 is dissolved.
     
-    (2) Despite the repeal of that Act by [section 89][111], [section 18][216] of that Act is deemed to continue to apply to acts done or omitted by any commissioner in good faith in the performance or intended performance of his or her functions, responsibilities, or duties as a commissioner, or in the exercise or intended exercise of his or her powers as a commissioner.
+    (2) Despite the repeal of that Act by [section 89][111], [section 18][218] of that Act is deemed to continue to apply to acts done or omitted by any commissioner in good faith in the performance or intended performance of his or her functions, responsibilities, or duties as a commissioner, or in the exercise or intended exercise of his or her powers as a commissioner.
 
 ##### 92 Annual reviews of Act
     
@@ -1800,35 +1806,35 @@ Orders in Council amended
 
 [s 90][112]
 
-##### [Canterbury Earthquake (Cadastral Survey Act) Order 2010][217] (SR 2010/467)
+##### [Canterbury Earthquake (Cadastral Survey Act) Order 2010][219] (SR 2010/467)
 
-[Clause 3][218]: omit ""16 December 2011"" and substitute ""31 December 2012"".
+[Clause 3][220]: omit ""16 December 2011"" and substitute ""31 December 2012"".
 
-[Clause 5][219]: add:
+[Clause 5][221]: add:
 
 > *   "(4) Rules made under this clause have effect while this order is in force."
 > 
 > 
 
-##### [Canterbury Earthquake (Historic Places Act) Order 2010][220] (SR 2010/333)
+##### [Canterbury Earthquake (Historic Places Act) Order 2010][222] (SR 2010/333)
 
-[Clause 3][221]: omit ""close of 31 March 2011"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
+[Clause 3][223]: omit ""close of 31 March 2011"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
 
-##### [Canterbury Earthquake (Local Government Act 2002) Order 2010][222] (SR 2010/317)
+##### [Canterbury Earthquake (Local Government Act 2002) Order 2010][224] (SR 2010/317)
 
-[Clause 3][223]: omit ""30 June 2011"" and substitute ""31 December 2011"".
+[Clause 3][225]: omit ""30 June 2011"" and substitute ""31 December 2011"".
 
-##### [Canterbury Earthquake (Resource Management Act) Order 2010][224] (SR 2010/318)
-
-[Clause 3][225]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
-
-##### [Canterbury Earthquake (Resource Management Act) Order 2011][226] (SR 2011/34)
+##### [Canterbury Earthquake (Resource Management Act) Order 2010][226] (SR 2010/318)
 
 [Clause 3][227]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
 
-##### [Canterbury Earthquake (Resource Management Act Permitted Activities) Order 2011][228] (SR 2011/36)
+##### [Canterbury Earthquake (Resource Management Act) Order 2011][228] (SR 2011/34)
 
 [Clause 3][229]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
+
+##### [Canterbury Earthquake (Resource Management Act Permitted Activities) Order 2011][230] (SR 2011/36)
+
+[Clause 3][231]: omit ""close of 31 March 2012"" and substitute ""expiry of the Canterbury Earthquake Recovery Act 2011"".
 
 ---
 
@@ -1846,23 +1852,23 @@ Orders in Council amended
 
 ###### 1 General
     
-*   This is a reprint of the Canterbury Earthquake Recovery Act 2011\. The reprint incorporates all the amendments to the Act as at 1 August 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Canterbury Earthquake Recovery Act 2011\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][230] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][232] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][231] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][233] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][232] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][234] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][233] and [17E][234] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][235] and [17E][236] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1893,7 +1899,9 @@ Orders in Council amended
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Road User Charges Act 2012 (2012 No 1): [section 94][211]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][155]
+    
+    Road User Charges Act 2012 (2012 No 1): [section 94][213]
     
     Canterbury Earthquake (Building Act) Order 2011 (SR 2011/311): [clause 20][128]
 
@@ -2044,93 +2052,95 @@ Orders in Council amended
 [142]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM170872
 [143]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM226229
 [144]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM1471094
-[145]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM1180039
-[146]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM104294
-[147]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444488
-[148]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM104608
-[149]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444675
-[150]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM104611
-[151]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444677
-[152]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444680
-[153]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM277277
-[154]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231927
-[155]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231936
-[156]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231938
-[157]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM103609
-[158]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444304
-[159]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM276813
-[160]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM234810
-[161]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM393659
-[162]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM296638
-[163]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM141994
-[164]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM142453
-[165]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM142600
-[166]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271641
-[167]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271699
-[168]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271940
-[169]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM269031
-[170]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271228
-[171]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231942
-[172]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM236786
-[173]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM420607
-[174]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM425592
-[175]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM420626
-[176]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231918
-[177]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM235206
-[178]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM132238
-[179]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM46055
-[180]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM45426
-[181]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM141134
-[182]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM429089
-[183]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM46329
-[184]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM236297
-[185]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231995
-[186]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM232500
-[187]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM238504
-[188]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM214027
-[189]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM306035
-[190]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM149788
-[191]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM87622
-[192]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM305967
-[193]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM305839
-[194]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM119974
-[195]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM300510
-[196]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM433612
-[197]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM415531
-[198]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM122241
-[199]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM131393
-[200]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM427296
-[201]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3394800
-[202]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM359106
-[203]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM230364
-[204]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM341189
-[205]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM999800
-[206]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM10992
-[207]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM94203
-[208]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM307518
-[209]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM408329
-[210]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM224791
-[211]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3395080
-[212]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM364948
-[213]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195534
-[214]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233049
-[215]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233039
-[216]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233048
-[217]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424211
-[218]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424217
-[219]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424205
-[220]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3256374
-[221]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3256380
-[222]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240817
-[223]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240823
-[224]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240400
-[225]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240406
-[226]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3588900
-[227]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3588906
-[228]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3587800
-[229]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3587806
-[230]: http://www.pco.parliament.govt.nz/reprints/
-[231]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195439
-[232]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[233]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195468
-[234]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195470
+[145]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM5285418
+[146]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM1180039
+[147]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM104294
+[148]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444488
+[149]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM104608
+[150]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444675
+[151]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM104611
+[152]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444677
+[153]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444680
+[154]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM277277
+[155]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM4663359
+[156]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231927
+[157]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231936
+[158]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231938
+[159]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM103609
+[160]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM444304
+[161]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM276813
+[162]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM234810
+[163]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM393659
+[164]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM296638
+[165]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM141994
+[166]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM142453
+[167]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM142600
+[168]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271641
+[169]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271699
+[170]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271940
+[171]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM269031
+[172]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM271228
+[173]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231942
+[174]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM236786
+[175]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM420607
+[176]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM425592
+[177]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM420626
+[178]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231918
+[179]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM235206
+[180]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM132238
+[181]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM46055
+[182]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM45426
+[183]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM141134
+[184]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM429089
+[185]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM46329
+[186]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM236297
+[187]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM231995
+[188]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM232500
+[189]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM238504
+[190]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM214027
+[191]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM306035
+[192]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM149788
+[193]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM87622
+[194]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM305967
+[195]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM305839
+[196]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM119974
+[197]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM300510
+[198]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM433612
+[199]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM415531
+[200]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM122241
+[201]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM131393
+[202]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM427296
+[203]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3394800
+[204]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM359106
+[205]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM230364
+[206]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM341189
+[207]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM999800
+[208]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM10992
+[209]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM94203
+[210]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM307518
+[211]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM408329
+[212]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM224791
+[213]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3395080
+[214]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM364948
+[215]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195534
+[216]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233049
+[217]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233039
+[218]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3233048
+[219]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424211
+[220]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424217
+[221]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3424205
+[222]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3256374
+[223]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3256380
+[224]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240817
+[225]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240823
+[226]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240400
+[227]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3240406
+[228]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3588900
+[229]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3588906
+[230]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3587800
+[231]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM3587806
+[232]: http://www.pco.parliament.govt.nz/reprints/
+[233]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195439
+[234]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[235]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195468
+[236]: http://www.legislation.govt.nz/act/public/2011/0012/latest/link.aspx?id=DLM195470
