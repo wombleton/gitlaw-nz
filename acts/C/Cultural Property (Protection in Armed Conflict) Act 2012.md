@@ -1,3 +1,6 @@
+Reprint  
+as at 1 July 2013
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Cultural Property (Protection in Armed Conflict) Act 2012Public Act2012 No 118
@@ -6,153 +9,165 @@ Date of assent11 December 2012
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+
+A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+
+This Act is administered by the Ministry for Culture and Heritage.
+
+---
+
 ## Contents
 
-[1][0][][0][Title][0]
+[1][1][][1][Title][1]
 
-[2][1][][1][Commencement][1]
+[2][2][][2][Commencement][2]
 
-[Part 1][2]  
-[Preliminary provisions][2]
+[Part 1][3]  
+[Preliminary provisions][3]
 
-[3][3][][3][Interpretation][3]
+[3][4][][4][Interpretation][4]
 
-[4][4][][4][Meaning of cultural property and enhanced protection property][4]
+[4][5][][5][Meaning of cultural property and enhanced protection property][5]
 
-[5][5][][5][Occupation of territory][5]
+[5][6][][6][Occupation of territory][6]
 
-[6][6][][6][Act binds the Crown][6]
+[6][7][][7][Act binds the Crown][7]
 
-[Part 2][7]  
-[Serious violations of Second Protocol][7]
+[Part 2][8]  
+[Serious violations of Second Protocol][8]
 
-[Offences][8]
+[Offences][9]
 
-[7][9][][9][Serious violation offences][9]
+[7][10][][10][Serious violation offences][10]
 
-[8][10][][10][Acts ancillary to serious violation offences][10]
+[8][11][][11][Acts ancillary to serious violation offences][11]
 
-[9][11][][11][Jurisdiction in relation to offences outside New Zealand][11]
+[9][12][][12][Jurisdiction in relation to offences outside New Zealand][12]
 
-[10][12][][12][Superior orders][12]
+[10][13][][13][Superior orders][13]
 
-[11][13][][13][Offences by commanders and superiors][13]
+[11][14][][14][Offences by commanders and superiors][14]
 
-[Penalties][14]
+[Penalties][15]
 
-[12][15][][15][Penalties for Part 2 offences][15]
+[12][16][][16][Penalties for Part 2 offences][16]
 
-[Extradition][16]
+[Extradition][17]
 
-[13][17][][17][Extradition][17]
+[13][18][][18][Extradition][18]
 
-[Part 3][18]  
-[Cultural property removed from occupied territory][18]
+[Part 3][19]  
+[Cultural property removed from occupied territory][19]
 
-[Interpretation][19]
+[Interpretation][20]
 
-[14][20][][20][Interpretation of Part 3][20]
+[14][21][][21][Interpretation of Part 3][21]
 
-[Offences][21]
+[Offences][22]
 
-[15][22][][22][Removal of cultural property from occupied territory][22]
+[15][23][][23][Removal of cultural property from occupied territory][23]
 
-[16][23][][23][Acts ancillary to removal offences][23]
+[16][24][][24][Acts ancillary to removal offences][24]
 
-[17][24][][24][Dealing in smuggled property][24]
+[17][25][][25][Dealing in smuggled property][25]
 
-[Penalties][25]
+[Penalties][26]
 
-[18][26][][26][Penalties for Part 3 offences][26]
+[18][27][][27][Penalties for Part 3 offences][27]
 
-[Search, seizure, and forfeiture][27]
+[Search, seizure, and forfeiture][28]
 
-[19][28][][28][Liability to forfeiture][28]
+[19][29][][29][Liability to forfeiture][29]
 
-[20][29][][29][Application of Customs and Excise Act 1996][29]
+[20][30][][30][Application of Customs and Excise Act 1996][30]
 
-[21][30][][30][Police powers of entry and search][30]
+[21][31][][31][Police powers of entry and search][31]
 
-[22][31][][31][Application for search warrant][31]
+[22][32][][32][Application for search warrant][32]
 
-[23][32][][32][Form and content of search warrant][32]
+[23][33][][33][Form and content of search warrant][33]
 
-[24][33][][33][Powers exercisable under search warrant][33]
+[24][34][][34][Powers exercisable under search warrant][34]
 
-[25][34][][34][Duty to announce entry and search][34]
+[25][35][][35][Duty to announce entry and search][35]
 
-[26][35][][35][Duty to give documents to occupier][35]
+[26][36][][36][Duty to give documents to occupier][36]
 
-[27][36][][36][Inventory of items seized][36]
+[27][37][][37][Inventory of items seized][37]
 
-[28][37][][37][Deferral of or dispensation from notice obligations][37]
+[28][38][][38][Deferral of or dispensation from notice obligations][38]
 
-[29][38][][38][Seizure to be treated as seizure under Customs and Excise Act 1996][38]
+[29][39][][39][Seizure to be treated as seizure under Customs and Excise Act 1996][39]
 
-[30][39][][39][Relationship with other powers][39]
+[30][40][][40][Relationship with other powers][40]
 
-[Retention of seized property][40]
+[Retention of seized property][41]
 
-[31][41][][41][Retention by Ministry][41]
+[31][42][][42][Retention by Ministry][42]
 
-[Compensation][42]
+[Compensation][43]
 
-[32][43][][43][Application for compensation][43]
+[32][44][][44][Application for compensation][44]
 
-[33][44][][44][Application in event of non-payment][44]
+[33][45][][45][Application in event of non-payment][45]
 
-[Return][45]
+[Return][46]
 
-[34][46][][46][Return of cultural property][46]
+[34][47][][47][Return of cultural property][47]
 
-[Part 4][47]  
-[Convention emblem][47]
+[Part 4][48]  
+[Convention emblem][48]
 
-[35][48][][48][Meaning of Convention emblem][48]
+[35][49][][49][Meaning of Convention emblem][49]
 
-[36][49][][49][Unauthorised use of emblem][49]
+[36][50][][50][Unauthorised use of emblem][50]
 
-[37][50][][50][Exceptions and defences][50]
+[37][51][][51][Exceptions and defences][51]
 
-[38][51][][51][Penalties for Part 4 offences][51]
+[38][52][][52][Penalties for Part 4 offences][52]
 
-[Part 5][52]  
-[Miscellaneous][52]
+[Part 5][53]  
+[Miscellaneous][53]
 
-[Prosecution of offences][53]
+[Prosecution of offences][54]
 
-[39][54][][54][Attorney-General's consent required for prosecutions][54]
+[39][55][][55][Attorney-General's consent required for prosecutions][55]
 
-[40][55][][55][Liability of directors and officers of bodies corporate][55]
+[40][56][][56][Liability of directors and officers of bodies corporate][56]
 
-[41][56][][56][Evidence][56]
+[41][57][][57][Evidence][57]
 
-[Other enactments, etc][57]
+[Other enactments, etc][58]
 
-[42][58][][58][Relationship with other enactments, etc][58]
+[42][59][][59][Relationship with other enactments, etc][59]
 
-[Regulations][59]
+[Regulations][60]
 
-[43][60][][60][Regulations][60]
+[43][61][][61][Regulations][61]
 
-[Consequential amendments][61]
+[Consequential amendments][62]
 
-[44][62][][62][Consequential amendments to sections 12, 18, and 38][62]
+[44][63][][63][Consequential amendments to sections 12, 18, and 38][63]
 
-[45][63][][63][Amendment to Extradition Act 1999][63]
+[45][64][][64][Amendment to Extradition Act 1999][64]
 
-[46][64][][64][Amendment to Flags, Emblems, and Names Protection Act 1981][64]
+[46][65][][65][Amendment to Flags, Emblems, and Names Protection Act 1981][65]
 
-[47][65][][65][Amendment to Mutual Assistance in Criminal Matters Act 1992][65]
+[47][66][][66][Amendment to Mutual Assistance in Criminal Matters Act 1992][66]
 
-[Schedule 1 ][66]  
-[Convention for the Protection of Cultural Property in the Event of Armed Conflict][66]
+[Schedule 1][67]  
+[Convention for the Protection of Cultural Property in the Event of Armed Conflict][67]
 
-[Schedule 2 ][67]  
-[Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict 1954][67]
+[Schedule 2][68]  
+[Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict 1954][68]
 
-[Schedule 3 ][68]  
-[Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict 1999][68]
+[Schedule 3][69]  
+[Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict 1999][69]
 
 ---
 
@@ -167,6 +182,8 @@ The Parliament of New Zealand enacts as follows:
 *   (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
     (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions and for different purposes.
+    
+    Section 2(1): this Act brought into force, on 1 July 2013, by the [Cultural Property (Protection in Armed Conflict) Act Commencement Order 2013][70] (SR 2013/192).
 
 ## Part 1  
 Preliminary provisions
@@ -181,7 +198,7 @@ Preliminary provisions
     
     _First Protocol Party_ means a party to the First Protocol and includes a state that accepts and applies the provisions of that Protocol in accordance with its terms (but only to the extent that it accepts and applies them)
     
-    _grave violation offence_ means an offence against [section 7][9] where the act done is one mentioned in subsection (2)(a), (b), or (c) of that section
+    _grave violation offence_ means an offence against [section 7][10] where the act done is one mentioned in subsection (2)(a), (b), or (c) of that section
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -191,15 +208,15 @@ Preliminary provisions
     
     *   (b) a body corporate established by or under the law of New Zealand
     
-    _Second Protocol_ means the Second Protocol to the Convention, done at The Hague on 26 March 1999, a copy of the English text of which is set out in [Schedule 3][68]
+    _Second Protocol_ means the Second Protocol to the Convention, done at The Hague on 26 March 1999, a copy of the English text of which is set out in [Schedule 3][69]
     
     _Second Protocol Party_ means a party to the Second Protocol and includes a state that accepts and applies the provisions of that Protocol in accordance with its terms (but only to the extent that it accepts and applies them)
     
-    _serious violation offence_ means an offence against [section 7][9].
+    _serious violation offence_ means an offence against [section 7][10].
     
     (2) Reference in this Act to a territory includes a reference to any part of a territory.
     
-    (3) To avoid doubt, reference in this Act to New Zealand, in relation to the place of any act or omission amounting to the commission of an offence, includes a reference to the waters within the outer limits of the territorial sea of New Zealand (as defined by [section 3][69] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977).
+    (3) To avoid doubt, reference in this Act to New Zealand, in relation to the place of any act or omission amounting to the commission of an offence, includes a reference to the waters within the outer limits of the territorial sea of New Zealand (as defined by [section 3][71] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977).
 
 ##### 4 Meaning of cultural property and enhanced protection property
     
@@ -324,17 +341,17 @@ Serious violations of Second Protocol
 
 ##### 9 Jurisdiction in relation to offences outside New Zealand
     
-*   (1) No proceedings for an offence against [section 7][9] or [8][10] committed outside New Zealand may be brought under this Act unless the person to be charged---
+*   (1) No proceedings for an offence against [section 7][10] or [8][11] committed outside New Zealand may be brought under this Act unless the person to be charged---
         
     *   (a) is a New Zealand national; or
     
-    *   (b) is a person who is subject to the [Armed Forces Discipline Act 1971][70]; or
+    *   (b) is a person who is subject to the [Armed Forces Discipline Act 1971][72]; or
     
     *   (c) has been found in New Zealand, has not been extradited, and is to be charged with, or in relation to, a grave violation offence.
     
     (2) To avoid doubt---
         
-    *   (a) [sections 8][71] and [400][72] of the Crimes Act 1961 (which relate to crimes on ships or aircraft beyond New Zealand) do not apply to proceedings that may be brought under subsection (1); but
+    *   (a) [sections 8][73] and [400][74] of the Crimes Act 1961 (which relate to crimes on ships or aircraft beyond New Zealand) do not apply to proceedings that may be brought under subsection (1); but
     
     *   (b) paragraph (a) does not affect the application of those sections in cases where proceedings are excluded by subsection (1).
     
@@ -396,7 +413,7 @@ Serious violations of Second Protocol
 
 ##### 12 Penalties for Part 2 offences
     
-*   (1) A person who commits an offence mentioned in subsection (2) is liable on conviction on indictment,---
+*   (1) A person who commits an offence mentioned in subsection (2) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 14 years:
     
@@ -406,9 +423,9 @@ Serious violations of Second Protocol
         
     *   (a) a grave violation offence:
     
-    *   (b) an offence against [section 8(1)][10] where the offence aided, abetted, incited, counselled, or procured is a grave violation offence.
+    *   (b) an offence against [section 8(1)][11] where the offence aided, abetted, incited, counselled, or procured is a grave violation offence.
     
-    (3) A person who commits an offence mentioned in subsection (4) is liable on conviction on indictment,---
+    (3) A person who commits an offence mentioned in subsection (4) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 7 years:
     
@@ -418,23 +435,27 @@ Serious violations of Second Protocol
         
     *   (a) a serious violation offence other than a grave violation offence:
     
-    *   (b) an offence against [section 8(1)][10] where the offence aided, abetted, incited, counselled, or procured is a serious violation offence other than a grave violation offence:
+    *   (b) an offence against [section 8(1)][11] where the offence aided, abetted, incited, counselled, or procured is a serious violation offence other than a grave violation offence:
     
-    *   (c) an offence against [section 8(2)(a)][10].
+    *   (c) an offence against [section 8(2)(a)][11].
     
-    (5) A person who commits an offence against [section 8(2)(b) or (c)][10] is liable on conviction on indictment,---
+    (5) A person who commits an offence against [section 8(2)(b) or (c)][11] is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding half the maximum term to which the individual would have been liable if he or she had committed the serious violation offence in question:
     
     *   (b) in the case of a body corporate, to a fine not exceeding half the maximum fine to which the body would have been liable if it had committed the serious violation offence in question.
     
+    Section 12(1): amended, on 1 July 2013, by [section 44(2)][75].
     
+    Section 12(3): amended, on 1 July 2013, by [section 44(2)][75].
+    
+    Section 12(5): amended, on 1 July 2013, by [section 44(2)][75].
 
 #### Extradition
 
 ##### 13 Extradition
     
-*   (1) For the purposes of the [Extradition Act 1999][73] and any Order in Council in force under [section 15][74] or [104][75] of that Act, each grave violation offence is deemed to be an offence described in any extradition treaty that---
+*   (1) For the purposes of the [Extradition Act 1999][76] and any Order in Council in force under [section 15][77] or [104][78] of that Act, each grave violation offence is deemed to be an offence described in any extradition treaty that---
         
     *   (a) was concluded before commencement of this Part; and
     
@@ -452,7 +473,7 @@ Serious violations of Second Protocol
         
         
     
-    (3) If a grave violation offence is deemed under subsection (1) to be an offence described in an extradition treaty, no person may be surrendered for that offence in accordance with the provisions of the [Extradition Act 1999][73] if the alleged act or omission occurred before commencement of this Part.
+    (3) If a grave violation offence is deemed under subsection (1) to be an offence described in an extradition treaty, no person may be surrendered for that offence in accordance with the provisions of the [Extradition Act 1999][76] if the alleged act or omission occurred before commencement of this Part.
     
     (4) In this section, _country_ includes any territory for whose international relations the government of the country is responsible and to which the extradition treaty and the Second Protocol extend.
 
@@ -471,7 +492,7 @@ Cultural property removed from occupied territory
         
     *   (a) a Judge:
     
-    *   (b) a Justice of the Peace, Community Magistrate, or Registrar who is for the time being authorised to act as an issuing officer under [section 108][76] of the Search and Surveillance Act 2012
+    *   (b) a Justice of the Peace, Community Magistrate, or Registrar who is for the time being authorised to act as an issuing officer under [section 108][79] of the Search and Surveillance Act 2012
     
     _Judge_ means a District Court Judge or a Judge of the High Court
     
@@ -483,7 +504,7 @@ Cultural property removed from occupied territory
     
     _remove_ means export or otherwise remove
     
-    _search warrant_ has the meaning given by [section 21(3)][30]
+    _search warrant_ has the meaning given by [section 21(3)][31]
     
     _seized_, in relation to smuggled property or property suspected of being smuggled property, means seized in exercise of powers arising by virtue of this Part (including powers arising under any other enactment by virtue of the creation of an offence under this Part)
     
@@ -545,7 +566,7 @@ Cultural property removed from occupied territory
         
     *   (a) a New Zealand national; or
     
-    *   (b) a person subject to the [Armed Forces Discipline Act 1971][70].
+    *   (b) a person subject to the [Armed Forces Discipline Act 1971][72].
     
     
 
@@ -571,7 +592,7 @@ Cultural property removed from occupied territory
     
     (4) A person does not commit an offence against subsection (1) or (2) unless the person is a person who could be liable for the removal offence in question.
     
-    (5) In this section, _removal offence_ means an offence against [section 15(1) or (2)][22].
+    (5) In this section, _removal offence_ means an offence against [section 15(1) or (2)][23].
 
 ##### 17 Dealing in smuggled property
     
@@ -603,7 +624,7 @@ Cultural property removed from occupied territory
     
     (4) Subsections (1) and (2) do not apply to property imported into New Zealand before commencement of this Part.
     
-    (5) Nothing in this Act affects the application of [Part 4][77] of the Crimes Act 1961 (which relates to parties to the commission of offences) to an offence against this section.
+    (5) Nothing in this Act affects the application of [Part 4][80] of the Crimes Act 1961 (which relates to parties to the commission of offences) to an offence against this section.
     
     (6) In this section,---
     
@@ -617,7 +638,7 @@ Cultural property removed from occupied territory
 
 ##### 18 Penalties for Part 3 offences
     
-*   (1) A person who commits an enhanced protection offence is liable on conviction on indictment,---
+*   (1) A person who commits an enhanced protection offence is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
     
@@ -625,13 +646,13 @@ Cultural property removed from occupied territory
     
     (2) An _enhanced protection offence_ is---
         
-    *   (a) an offence against [section 15(1)][22] or [17(1)][24]; or
+    *   (a) an offence against [section 15(1)][23] or [17(1)][25]; or
     
-    *   (b) an offence against [section 16(1)][23] where the offence aided, abetted, incited, counselled, or procured is an offence against [section 15(1)][22]; or
+    *   (b) an offence against [section 16(1)][24] where the offence aided, abetted, incited, counselled, or procured is an offence against [section 15(1)][23]; or
     
-    *   (c) an offence against [section 16(2)(a)][23] where the offence that the person conspired to commit is an offence against [section 15(1)][22].
+    *   (c) an offence against [section 16(2)(a)][24] where the offence that the person conspired to commit is an offence against [section 15(1)][23].
     
-    (3) A person who commits a non-enhanced protection offence is liable on conviction on indictment,---
+    (3) A person who commits a non-enhanced protection offence is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
     
@@ -639,13 +660,19 @@ Cultural property removed from occupied territory
     
     (4) A _non-enhanced protection offence_ is---
         
-    *   (a) an offence against [section 15(2)][22] or [17(2)][24]; or
+    *   (a) an offence against [section 15(2)][23] or [17(2)][25]; or
     
-    *   (b) an offence against [section 16(1)][23] where the offence aided, abetted, incited, counselled, or procured is an offence against [section 15(2)][22]; or
+    *   (b) an offence against [section 16(1)][24] where the offence aided, abetted, incited, counselled, or procured is an offence against [section 15(2)][23]; or
     
-    *   (c) an offence against [section 16(2)(a)][23] where the offence that the person conspired to commit is an offence against [section 15(2)][22].
+    *   (c) an offence against [section 16(2)(a)][24] where the offence that the person conspired to commit is an offence against [section 15(2)][23].
     
-    (5) A person who commits an offence against [section 16(2)(b) or (c)][23] is liable on conviction on indictment to not more than half the maximum punishment to which the person would have been liable if the person had committed the removal offence in question.
+    (5) A person who commits an offence against [section 16(2)(b) or (c)][24] is liable on conviction to not more than half the maximum punishment to which the person would have been liable if the person had committed the removal offence in question.
+    
+    Section 18(1): amended, on 1 July 2013, by [section 44(3)][75].
+    
+    Section 18(3): amended, on 1 July 2013, by [section 44(3)][75].
+    
+    Section 18(5): amended, on 1 July 2013, by [section 44(3)][75].
 
 #### Search, seizure, and forfeiture
 
@@ -659,23 +686,23 @@ Cultural property removed from occupied territory
 
 ##### 20 Application of Customs and Excise Act 1996
     
-*   (1) The provisions of the [Customs and Excise Act 1996][78] apply to smuggled property, or property suspected of being smuggled property, as they apply to goods forfeited, or goods suspected of being forfeited, under that Act.
+*   (1) The provisions of the [Customs and Excise Act 1996][81] apply to smuggled property, or property suspected of being smuggled property, as they apply to goods forfeited, or goods suspected of being forfeited, under that Act.
     
     (2) However, the following provisions of that Act do not apply to such property:
         
-    *   (a) [section 229][79] (which relates to delivery of goods seized on deposit of value):
+    *   (a) [section 229][82] (which relates to delivery of goods seized on deposit of value):
     
-    *   (b) [sections 231(3)(b)][80], [233(1)(c)][81], [234][82], [235][83], and [235C(b)(ii)][84] (which relate to the grant of relief):
+    *   (b) [sections 231(3)(b)][83], [233(1)(c)][84], [234][85], [235][86], and [235C(b)(ii)][87] (which relate to the grant of relief):
     
-    *   (c) [section 236(2) to (4)][85] (which relate to orders for the restoration of goods forfeited):
+    *   (c) [section 236(2) to (4)][88] (which relate to orders for the restoration of goods forfeited):
     
-    *   (d) [section 237][86] (which relates to the disposal of forfeited goods).
+    *   (d) [section 237][89] (which relates to the disposal of forfeited goods).
     
-    (3) Subsection (2) has effect whether or not the property is unlawfully imported, or unlawfully exported, within the meaning of the [Customs and Excise Act 1996][78].
+    (3) Subsection (2) has effect whether or not the property is unlawfully imported, or unlawfully exported, within the meaning of the [Customs and Excise Act 1996][81].
     
     (4) The provisions applied by subsection (1) have effect subject to the following modifications:
         
-    *   (a) [section 226][87] has effect as if---
+    *   (a) [section 226][90] has effect as if---
             
         *   (i) subsection (3) read ""Property liable to seizure by virtue of Part 3 of the Cultural Property (Protection in Armed Conflict) Act 2012 may be seized at any time after it becomes so liable.""; and
         
@@ -683,13 +710,13 @@ Cultural property removed from occupied territory
         
         
     
-    *   (b) [section 227(1)][88] has effect as if for ""prescribed form"" there were substituted ""the form prescribed by regulations made under the Cultural Property (Protection in Armed Conflict) Act 2012"":
+    *   (b) [section 227(1)][91] has effect as if for ""prescribed form"" there were substituted ""the form prescribed by regulations made under the Cultural Property (Protection in Armed Conflict) Act 2012"":
     
-    *   (c) [section 231(1)][80] has effect as if for ""section 226"" there were substituted ""Part 3 of the Cultural Property (Protection in Armed Conflict) Act 2012"":
+    *   (c) [section 231(1)][83] has effect as if for ""section 226"" there were substituted ""Part 3 of the Cultural Property (Protection in Armed Conflict) Act 2012"":
     
-    *   (d) [section 236(1)][85] has effect as if for the words from the beginning to ""that offence"" there were substituted ""The conviction of any person for an offence against section 17 of the Cultural Property (Protection in Armed Conflict) Act 2012"".
+    *   (d) [section 236(1)][88] has effect as if for the words from the beginning to ""that offence"" there were substituted ""The conviction of any person for an offence against section 17 of the Cultural Property (Protection in Armed Conflict) Act 2012"".
     
-    (5) The provisions of the [Customs and Excise Act 1996][78] relating to the issue and execution of warrants (including emergency warrants) apply to property that is liable to seizure by virtue of subsection (1) as they apply to things that are liable to seizure under that Act.
+    (5) The provisions of the [Customs and Excise Act 1996][81] relating to the issue and execution of warrants (including emergency warrants) apply to property that is liable to seizure by virtue of subsection (1) as they apply to things that are liable to seizure under that Act.
 
 ##### 21 Police powers of entry and search
     
@@ -713,7 +740,7 @@ Cultural property removed from occupied territory
         
     *   (a) 14 days from the date of issue; or
     
-    *   (b) such longer period (not exceeding 30 days from the date of issue) as the issuing officer considers necessary for execution of the warrant. 
+    *   (b) such longer period (not exceeding 30 days from the date of issue) as the issuing officer considers necessary for execution of the warrant.
     
     (8) A search warrant may only be executed on 1 occasion during the period in which it is in force unless the issuing officer authorises it to be executed on more than 1 occasion.
     
@@ -831,7 +858,7 @@ Cultural property removed from occupied territory
     
     *   (b) exclude any person from the place or thing, or any area within it, or give any other reasonable direction to such a person, if the person executing the warrant has reasonable grounds to believe that the person will obstruct or hinder execution of the warrant.
     
-    (4) [Section 130][89] of the Search and Surveillance Act 2012 (which relates to the duty of persons with knowledge of a computer system, other data storage devices, or an Internet site to assist access) applies to the execution of a warrant issued under this Part as it applies to the execution of a warrant under [subpart 3][90] of Part 4 of that Act.
+    (4) [Section 130][92] of the Search and Surveillance Act 2012 (which relates to the duty of persons with knowledge of a computer system, other data storage devices, or an Internet site to assist access) applies to the execution of a warrant issued under this Part as it applies to the execution of a warrant under [subpart 3][93] of Part 4 of that Act.
     
     (5) This section has effect subject to any conditions specified in the search warrant.
 
@@ -897,7 +924,7 @@ Cultural property removed from occupied territory
     
     *   (b) a person who the person executing the warrant has reasonable grounds to believe is not the occupier.
     
-    (5) Reference in this section and in [section 27][36] to an occupier is to be read, in relation to a thing, as a reference to the person in charge of that thing.
+    (5) Reference in this section and in [section 27][37] to an occupier is to be read, in relation to a thing, as a reference to the person in charge of that thing.
 
 ##### 27 Inventory of items seized
     
@@ -951,17 +978,17 @@ Cultural property removed from occupied territory
     
     (7) A _relevant notice requirement_ is a requirement to provide a notice (and a copy of the warrant) under---
         
-    *   (a) [section 26(2)][35]; or
+    *   (a) [section 26(2)][36]; or
     
-    *   (b) [section 27][36].
+    *   (b) [section 27][37].
     
     
 
 ##### 29 Seizure to be treated as seizure under Customs and Excise Act 1996
     
-*   (1) Any item seized in the execution of a search warrant is to be treated for the purposes of [Part 14][91] of the Customs and Excise Act 1996 as having been seized under [section 226][87] of that Act (as applied by this Act).
+*   (1) Any item seized in the execution of a search warrant is to be treated for the purposes of [Part 14][94] of the Customs and Excise Act 1996 as having been seized under [section 226][90] of that Act (as applied by this Act).
     
-    (2) A notice provided under [section 27][36] is to be treated for those purposes as having been given under [section 227][88] of that Act.
+    (2) A notice provided under [section 27][37] is to be treated for those purposes as having been given under [section 227][91] of that Act.
 
 ##### 30 Relationship with other powers
     
@@ -1068,7 +1095,7 @@ Convention emblem
     
     (4) For the purposes of this section, use is authorised if it is authorised---
         
-    *   (a) by regulations made under [section 43][60]; or
+    *   (a) by regulations made under [section 43][61]; or
     
     *   (b) by specific authority given by the Minister or a person acting on behalf of the Minister.
     
@@ -1084,13 +1111,13 @@ Convention emblem
     
     *   (c) may be withdrawn by the Minister or a person acting on behalf of the Minister.
     
-    (8) In the case of use authorised by regulations made under [section 43][60], display of a notice referencing the regulations in question is sufficient for the purposes of subsection (3)(c).
+    (8) In the case of use authorised by regulations made under [section 43][61], display of a notice referencing the regulations in question is sufficient for the purposes of subsection (3)(c).
     
     (9) In this section, _use_ includes display, exhibit, or otherwise use.
 
 ##### 37 Exceptions and defences
     
-*   (1) [Section 36(1)][49] does not apply to use of the Convention emblem if---
+*   (1) [Section 36(1)][50] does not apply to use of the Convention emblem if---
         
     *   (a) the use occurs by reason only of using a registered trade mark; and
     
@@ -1098,9 +1125,9 @@ Convention emblem
     
     *   (c) the trade mark was registered in relation to those goods or services before the commencement of this Part.
     
-    (2) In any proceedings for an offence against [section 36(1)][49], it is a defence that the defendant used the Convention emblem for a purpose for which the defendant lawfully used it before the commencement of this Part.
+    (2) In any proceedings for an offence against [section 36(1)][50], it is a defence that the defendant used the Convention emblem for a purpose for which the defendant lawfully used it before the commencement of this Part.
     
-    (3) In any proceedings for an offence against [section 36(1)][49], it is a defence that---
+    (3) In any proceedings for an offence against [section 36(1)][50], it is a defence that---
         
     *   (a) use of the Convention emblem was on goods; and
     
@@ -1114,17 +1141,17 @@ Convention emblem
         
         
     
-    (4) _Registered trade mark_ has the meaning given by [section 5(1)][92] of the Trade Marks Act 2002\.
+    (4) _Registered trade mark_ has the meaning given by [section 5(1)][95] of the Trade Marks Act 2002\.
 
 ##### 38 Penalties for Part 4 offences
     
-*   A person who commits an offence against [section 36(1) or (3)][49] is liable on summary conviction,---
+*   A person who commits an offence against [section 36(1) or (3)][50] is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $5,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    
+    Section 38: amended, on 1 July 2013, by [section 44(4)][75].
 
 ## Part 5  
 Miscellaneous
@@ -1173,15 +1200,15 @@ Miscellaneous
     
 *   The Governor-General may from time to time, by Order in Council, make regulations---
         
-    *   (a) prescribing the form mentioned in [section 20(4)(b)][29]:
+    *   (a) prescribing the form mentioned in [section 20(4)(b)][30]:
     
-    *   (b) prescribing the form of a search warrant for the purposes of [section 23][32]:
+    *   (b) prescribing the form of a search warrant for the purposes of [section 23][33]:
     
-    *   (c) prescribing the form of a notice for the purposes of [section 27][36]:
+    *   (c) prescribing the form of a notice for the purposes of [section 27][37]:
     
     *   (d) illustrating the form of the distinctive emblem of the Convention (as described in the Convention):
     
-    *   (e) authorising use of the Convention emblem for the purposes of [section 36][49]:
+    *   (e) authorising use of the Convention emblem for the purposes of [section 36][50]:
     
     *   (f) providing for such other matters as are contemplated by or necessary for giving full effect to this Act or for its due administration.
     
@@ -1191,21 +1218,21 @@ Miscellaneous
 
 ##### 44 Consequential amendments to sections 12, 18, and 38
     
-*   (1) The purpose of this section is to make consequential amendments to [sections 12][15], [18][26], and [38][51] on the date when the [Criminal Procedure Act 2011][93] comes fully into force.
+*   (1) The purpose of this section is to make consequential amendments to [sections 12][16], [18][27], and [38][52] on the date when the [Criminal Procedure Act 2011][96] comes fully into force.
     
-    (2) In [section 12(1), (3), and (5)][15], delete ""on indictment"".
+    (2) In [section 12(1), (3), and (5)][16], delete ""on indictment"".
     
-    (3) In [section 18(1), (3), and (5)][26], delete ""on indictment"".
+    (3) In [section 18(1), (3), and (5)][27], delete ""on indictment"".
     
-    (4) In [section 38][51], delete ""summary"".
+    (4) In [section 38][52], delete ""summary"".
     
-    (5) This section expires and is repealed on the close of the day when the [Criminal Procedure Act 2011][93] comes fully into force.
+    (5) This section expires and is repealed on the close of the day when the [Criminal Procedure Act 2011][96] comes fully into force.
 
 ##### 45 Amendment to Extradition Act 1999
     
-*   (1) This section amends the [Extradition Act 1999][73].
+*   (1) This section amends the [Extradition Act 1999][76].
     
-    (2) [Section 101A(2)][94] is amended by adding the following paragraph:
+    (2) [Section 101A(2)][97] is amended by adding the following paragraph:
     
     > *   "(j) section 13 of the Cultural Property (Protection in Armed Conflict) Act 2012\."
     > 
@@ -1215,9 +1242,9 @@ Miscellaneous
 
 ##### 46 Amendment to Flags, Emblems, and Names Protection Act 1981
     
-*   (1) This section amends the [Flags, Emblems, and Names Protection Act 1981][95].
+*   (1) This section amends the [Flags, Emblems, and Names Protection Act 1981][98].
     
-    (2) [Schedule 3][96] is amended by adding the following item:
+    (2) [Schedule 3][99] is amended by adding the following item:
     
     > Cultural Property (Protection in Armed Conflict) Act 2012: section 36\. distinctive emblem of the Convention for the Protection of Cultural Property in the Event of Armed Conflict.
     > 
@@ -1227,15 +1254,15 @@ Miscellaneous
 
 ##### 47 Amendment to Mutual Assistance in Criminal Matters Act 1992
     
-*   (1) This section amends the [Mutual Assistance in Criminal Matters Act 1992][97].
+*   (1) This section amends the [Mutual Assistance in Criminal Matters Act 1992][100].
     
-    (2) The [Schedule][98] is amended by adding the following item:
+    (2) The [Schedule][101] is amended by adding the following item:
     
     > 31 
     > 
     > The Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 26 March 1999\. 
     > 
-    > An offence against the following section of the [Cultural Property (Protection in Armed Conflict) Act 2012][99]:
+    > An offence against the following section of the [Cultural Property (Protection in Armed Conflict) Act 2012][102]:
     > 
     > _section_ _subject matter_
     > 
@@ -1247,24 +1274,24 @@ Miscellaneous
 
 ---
 
-## Schedule 1   
+## Schedule 1  
 Convention for the Protection of Cultural Property in the Event of Armed Conflict
 
-[s 3(1)][3]
+[s 3(1)][4]
 
 The High Contracting Parties,
 
-**Recognizing** that cultural property has suffered grave damage during recent armed conflicts and that, by reason of the developments in the technique of warfare, it is in increasing danger of destruction; 
+**Recognizing** that cultural property has suffered grave damage during recent armed conflicts and that, by reason of the developments in the technique of warfare, it is in increasing danger of destruction;
 
-**Being convinced** that damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind, since each people makes its contribution to the culture of the world; 
+**Being convinced** that damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind, since each people makes its contribution to the culture of the world;
 
-**Considering** that the preservation of the cultural heritage is of great importance for all peoples of the world and that it is important that this heritage should receive international protection; 
+**Considering** that the preservation of the cultural heritage is of great importance for all peoples of the world and that it is important that this heritage should receive international protection;
 
-**Guided** by the principles concerning the protection of cultural property during armed conflict, as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington Pact of 15 April, 1935; 
+**Guided** by the principles concerning the protection of cultural property during armed conflict, as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington Pact of 15 April, 1935;
 
-**Being of the opinion** that such protection cannot be effective unless both national and international measures have been taken to organize it in time of peace; 
+**Being of the opinion** that such protection cannot be effective unless both national and international measures have been taken to organize it in time of peace;
 
-**Being determined** to take all possible steps to protect cultural property; 
+**Being determined** to take all possible steps to protect cultural property;
 
 Have agreed upon the following provisions:
 
@@ -1580,11 +1607,11 @@ The Director-General of the United Nations Educational, Scientific and Cultural 
 
 ##### Article 40\. Registration
 
-In accordance with Article 102 of the Charter of the United Nations, the present Convention shall be registered with the Secretariat of the United Nations at the request of the Director-General of the United Nations Educational, Scientific and Cultural Organization. 
+In accordance with Article 102 of the Charter of the United Nations, the present Convention shall be registered with the Secretariat of the United Nations at the request of the Director-General of the United Nations Educational, Scientific and Cultural Organization.
 
-In faith whereof the undersigned, duly authorized, have signed the present Convention. 
+In faith whereof the undersigned, duly authorized, have signed the present Convention.
 
-Done at The Hague, this fourteenth day of May, 1954, in a single copy which shall be deposited in the archives of the United Nations Educational, Scientific and Cultural Organization, and certified true copies of which shall be delivered to all the States referred to in Articles 30 and 32 as well as to the United Nations. 
+Done at The Hague, this fourteenth day of May, 1954, in a single copy which shall be deposited in the archives of the United Nations Educational, Scientific and Cultural Organization, and certified true copies of which shall be delivered to all the States referred to in Articles 30 and 32 as well as to the United Nations.
 
 ### **Regulations for the Execution of the Convention for the Protection of Cultural Property in the Event of Armed Conflict**
 
@@ -1592,11 +1619,11 @@ Done at The Hague, this fourteenth day of May, 1954, in a single copy which shal
 
 ##### Article 1\. International list of persons
 
-On the entry into force of the Convention, the Director-General of the United Nations Educational, Scientific and Cultural Organization shall compile an international list consisting of all persons nominated by the High Contracting Parties as qualified to carry out the functions of Commissioner-General for Cultural Property. On the initiative of the Director-General of the United Nations Educational, Scientific and Cultural Organization, this list shall be periodically revised on the basis of requests formulated by the High Contracting Parties. 
+On the entry into force of the Convention, the Director-General of the United Nations Educational, Scientific and Cultural Organization shall compile an international list consisting of all persons nominated by the High Contracting Parties as qualified to carry out the functions of Commissioner-General for Cultural Property. On the initiative of the Director-General of the United Nations Educational, Scientific and Cultural Organization, this list shall be periodically revised on the basis of requests formulated by the High Contracting Parties.
 
 ##### Article 2\. Organization of control
 
-As soon as any High Contracting Party is engaged in an armed conflict to which Article 18 of the Convention applies: 
+As soon as any High Contracting Party is engaged in an armed conflict to which Article 18 of the Convention applies:
     
 *   (a) It shall appoint a representative for cultural property situated in its territory; if it is in occupation of another territory, it shall appoint a special representative for cultural property situated in that territory;
 
@@ -1684,7 +1711,7 @@ The remuneration and expenses of the Commissioner-General for Cultural Property,
         
     *   (a) the property is not cultural property;
     
-    *   (b) the property does not comply with the conditions mentioned in Article 8 of the Convention. 
+    *   (b) the property does not comply with the conditions mentioned in Article 8 of the Convention.
     
     
 
@@ -1730,9 +1757,9 @@ The remuneration and expenses of the Commissioner-General for Cultural Property,
     
 *   1\. The request mentioned in paragraph 1 of Article 12 of the Convention shall be addressed to the Commissioner-General for Cultural Property. It shall mention the reasons on which it is based and specify the approximate number and the importance of the objects to be transferred, their present location, the location now envisaged, the means of transport to be used, the route to be followed, the date proposed for the transfer, and any other relevant information.
 
-*   2\. If the Commissioner-General, after taking such opinions as he deems fit, considers that such transfer is justified, he shall consult those delegates of the Protecting Powers who are concerned, on the measures proposed for carrying it out. Following such consultation, he shall notify the Parties to the conflict concerned of the transfer, including in such notification all useful information. 
+*   2\. If the Commissioner-General, after taking such opinions as he deems fit, considers that such transfer is justified, he shall consult those delegates of the Protecting Powers who are concerned, on the measures proposed for carrying it out. Following such consultation, he shall notify the Parties to the conflict concerned of the transfer, including in such notification all useful information.
 
-*   3\. The Commissioner-General shall appoint one or more inspectors, who shall satisfy themselves that only the property stated in the request is to be transferred and that the transport is to be by the approved methods and bears the distinctive emblem. The inspector or inspectors shall accompany the property to its destination. 
+*   3\. The Commissioner-General shall appoint one or more inspectors, who shall satisfy themselves that only the property stated in the request is to be transferred and that the transport is to be by the approved methods and bears the distinctive emblem. The inspector or inspectors shall accompany the property to its destination.
 
 ##### Article 18\. Transport abroad
 
@@ -1776,10 +1803,10 @@ Whenever a High Contracting Party occupying territory of another High Contractin
 
 ---
 
-## Schedule 2   
+## Schedule 2  
 Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict 1954
 
-[s 3(1)][3]
+[s 3(1)][4]
 
 The High Contracting Parties are agreed as follows:
 
@@ -1847,10 +1874,10 @@ Done at The Hague, this fourteenth day of May, 1954, in English, French, Russian
 
 ---
 
-## Schedule 3   
+## Schedule 3  
 Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict 1999
 
-[s 3(1)][3]
+[s 3(1)][4]
 
 The Parties,
 
@@ -2124,7 +2151,7 @@ The Parties to a conflict shall ensure the immunity of cultural property under e
 
 ##### Article 21 Measures regarding other violations
 
-Without prejudice to Article 28 of the Convention, each Party shall adopt such legislative, administrative or disciplinary measures as may be necessary to suppress the following acts when committed intentionally: 
+Without prejudice to Article 28 of the Convention, each Party shall adopt such legislative, administrative or disciplinary measures as may be necessary to suppress the following acts when committed intentionally:
     
 *   (a) any use of cultural property in violation of the Convention or this Protocol;
 
@@ -2380,127 +2407,184 @@ The Director-General shall inform all High Contracting Parties as well as the Un
 
 In conformity with Article 102 of the Charter of the United Nations, this Protocol shall be registered with the Secretariat of the United Nations at the request of the Director-General.
 
-In faith whereof the undersigned, duly authorized, have signed the present Protocol. 
+In faith whereof the undersigned, duly authorized, have signed the present Protocol.
 
 Done at The Hague, this twenty-sixth day of March 1999, in a single copy which shall be deposited in the archives of the UNESCO, and certified true copies of which shall be delivered to all the High Contracting Parties.
 
 ---
 
-## Legislative history
-
-26 August 2008Introduction (Bill 275--1)
-
-2 September 2008First reading and referral to Government Administration Committee
-
-29 May 2009Reported from Government Administration Committee (Bill 275--2)
-
-20 August 2009Second reading
-
-5 December 2012Committee stage and third reading
-
-11 December 2012Royal assent
+#### Contents
+    
+*   1General
+*   2Status of reprints
+*   3How reprints are prepared
+*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
+*   5List of amendments incorporated in this reprint (most recent first)
 
 ---
 
-This Act is administered by the Ministry for Culture and Heritage.
+##### Notes
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559810
-[1]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559811
-[2]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559812
-[3]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559813
-[4]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559832
-[5]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559835
-[6]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559836
-[7]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559837
-[8]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559838
-[9]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559839
-[10]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559845
-[11]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM2104403
-[12]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559846
-[13]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559847
-[14]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559849
-[15]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559850
-[16]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559851
-[17]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559852
-[18]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559854
-[19]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559855
-[20]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559856
-[21]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559869
-[22]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559870
-[23]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559871
-[24]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559873
-[25]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559881
-[26]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559882
-[27]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559885
-[28]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559886
-[29]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559887
-[30]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559888
-[31]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559891
-[32]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559892
-[33]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559893
-[34]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559894
-[35]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559895
-[36]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559896
-[37]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559897
-[38]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559899
-[39]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559900
-[40]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559901
-[41]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559902
-[42]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559904
-[43]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559905
-[44]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559907
-[45]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559908
-[46]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559909
-[47]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559910
-[48]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559911
-[49]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559913
-[50]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559915
-[51]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559917
-[52]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559918
-[53]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559919
-[54]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559920
-[55]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559921
-[56]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559922
-[57]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559924
-[58]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559925
-[59]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559926
-[60]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559927
-[61]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559928
-[62]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM4916306
-[63]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559929
-[64]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559930
-[65]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559932
-[66]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559934
-[67]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1560011
-[68]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1560018
-[69]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM442665
-[70]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM401062
-[71]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM328038
-[72]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM332165
-[73]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM25627
-[74]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM26205
-[75]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM27321
-[76]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM2136800
-[77]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM328505
-[78]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM377336
-[79]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379923
-[80]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379926
-[81]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379928
-[82]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379930
-[83]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379933
-[84]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM2382449
-[85]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379936
-[86]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379937
-[87]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379920
-[88]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379921
-[89]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM4355803
-[90]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM2136781
-[91]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379910
-[92]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM164249
-[93]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM3359902
-[94]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM27300
-[95]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM51357
-[96]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM52294
-[97]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM273056
-[98]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM275002
-[99]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM1559800
+###### 1 General
+    
+*   This is a reprint of the Cultural Property (Protection in Armed Conflict) Act 2012\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][103] ![](/images/external_link.gif).
+
+###### 2 Status of reprints
+    
+*   Under [section 16D][104] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+    
+    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+
+###### 3 How reprints are prepared
+    
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][105] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+
+###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+    
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][106] and [17E][107] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+    
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    
+    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+        
+    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   •typeface and type size (Times Roman, generally in 11.5 point)
+    *   •layout of provisions, including:
+            
+        *   •indentation
+        *   •position of section headings (eg, the number and heading now appear above the section)
+        
+    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   •position of the date of assent (it now appears on the front page of each Act)
+    *   •punctuation (eg, colons are not used after definitions)
+    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   •case and appearance of letters and words, including:
+            
+        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   •small capital letters in section and subsection references are now capital letters
+        
+    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   •running heads (the information that appears at the top of each page)
+    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    
+    
+
+###### 5 List of amendments incorporated in this reprint (most recent first)
+    
+*   [Cultural Property (Protection in Armed Conflict) Act Commencement Order 2013][70] (SR 2013/192)
+    
+    Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118): [section 44(2)--(4)][63]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559810
+[2]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559811
+[3]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559812
+[4]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559813
+[5]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559832
+[6]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559835
+[7]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559836
+[8]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559837
+[9]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559838
+[10]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559839
+[11]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559845
+[12]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM2104403
+[13]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559846
+[14]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559847
+[15]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559849
+[16]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559850
+[17]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559851
+[18]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559852
+[19]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559854
+[20]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559855
+[21]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559856
+[22]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559869
+[23]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559870
+[24]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559871
+[25]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559873
+[26]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559881
+[27]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559882
+[28]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559885
+[29]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559886
+[30]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559887
+[31]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559888
+[32]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559891
+[33]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559892
+[34]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559893
+[35]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559894
+[36]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559895
+[37]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559896
+[38]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559897
+[39]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559899
+[40]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559900
+[41]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559901
+[42]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559902
+[43]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559904
+[44]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559905
+[45]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559907
+[46]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559908
+[47]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559909
+[48]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559910
+[49]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559911
+[50]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559913
+[51]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559915
+[52]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559917
+[53]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559918
+[54]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559919
+[55]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559920
+[56]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559921
+[57]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559922
+[58]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559924
+[59]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559925
+[60]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559926
+[61]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559927
+[62]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559928
+[63]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM4916306
+[64]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559929
+[65]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559930
+[66]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559932
+[67]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1559934
+[68]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1560011
+[69]: http://www.legislation.govt.nz/act/public/2012/0118/latest/whole.html#DLM1560018
+[70]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM5192200
+[71]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM442665
+[72]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM401062
+[73]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM328038
+[74]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM332165
+[75]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM4916306
+[76]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM25627
+[77]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM26205
+[78]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM27321
+[79]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM2136800
+[80]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM328505
+[81]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM377336
+[82]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379923
+[83]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379926
+[84]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379928
+[85]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379930
+[86]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379933
+[87]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM2382449
+[88]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379936
+[89]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379937
+[90]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379920
+[91]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379921
+[92]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM4355803
+[93]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM2136781
+[94]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379910
+[95]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM164249
+[96]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM3359902
+[97]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM27300
+[98]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM51357
+[99]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM52294
+[100]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM273056
+[101]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM275002
+[102]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM1559800
+[103]: http://www.pco.parliament.govt.nz/reprints/
+[104]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195439
+[105]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[106]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195468
+[107]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195470
