@@ -284,7 +284,7 @@ This Act is administered by the Ministry of Justice.
 
 [78C][125][][125][Questions of law in relation to espionage or wrongful communication of information][125]
 
-[78D][126][][126][Search without warrant][126]
+[78D][126][][126][Search without warrant][126] \[Repealed\]
 
 [79][127][][127][Sabotage][127]
 
@@ -3037,6 +3037,8 @@ Crimes against public order
     Section 78C: inserted, on 1 July 1983, by section 2(1) of the Crimes Amendment Act (No 2) 1982 (1982 No 157).
 
 ##### 78D Search without warrant
+
+\[Repealed\]
     
 *   Section 78D: repealed, on 1 October 2012, by [section 325(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
 
@@ -5759,7 +5761,7 @@ Crimes against personal privacy
     
     Section 216B(1): amended, on 1 October 2003, by [section 10(2)][828] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216B(1): amended, on 1 October 2003, by [section 10(3)][828] of the Crimes Amendment Act 2003 (2003 No 39) 
+    Section 216B(1): amended, on 1 October 2003, by [section 10(3)][828] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 216B(1): amended, on 14 October 1999, by section 10(1) of the Penal Institutions Amendment Act 1999 (1999 No 114).
     
@@ -8741,7 +8743,7 @@ Procedure
 
 ##### 365 Question to accused when undefended
     
-*   Where any accused person is not defended by counsel, then, on the completion of the examination of the witnesses on the part of the prosecution, the following question, or words to the like effect, shall be addressed to him by or under the direction of the court, that is to say: 
+*   Where any accused person is not defended by counsel, then, on the completion of the examination of the witnesses on the part of the prosecution, the following question, or words to the like effect, shall be addressed to him by or under the direction of the court, that is to say:
     
     ""Do you wish to give or call evidence?""
     
@@ -10389,7 +10391,7 @@ The said ............. further charges that .............\]
 
 *   (c) A obtained by false pretences from B a motorcar, at \[_place_\], on \[_date_\].
 
-*   (d) A committed perjury with intent to procure the conviction of B for an offence punishable with imprisonment for 3 years or upwards, namely, robbery, by swearing on the trial of B for the robbery of C at the sittings of the \[_name of court_\] Court held at \[_place_\] on \[_date_\]: 
+*   (d) A committed perjury with intent to procure the conviction of B for an offence punishable with imprisonment for 3 years or upwards, namely, robbery, by swearing on the trial of B for the robbery of C at the sittings of the \[_name of court_\] Court held at \[_place_\] on \[_date_\]:
     
     First, that he, A, saw B at \[_place_\] on \[_date_\]; secondly, that B asked A to lend B money on a watch belonging to C; thirdly, etc.
 
@@ -11354,51 +11356,6 @@ Commencementsee section 2
     (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
     
     (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-##### 346 Transitional provision relating to Part 11A of Crimes Act 1961
-    
-*   (1) Despite the repeal of Part 11A of the Crimes Act 1961 by this Act,---
-        
-    *   (a) where an application has been made under that Part before 18 April 2012, and the application is not finally determined before that date, that Part continues to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
-    
-    *   (b) that Part (except for section 312F) continues to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
-    
-    *   (c) section 312M of that Act continues to apply to private communications intercepted before 18 April 2012 in all respects as if this Act (other than this section) had not been enacted.
-    
-    (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under Part 11A of the Crimes Act 1961---
-        
-    *   (a) before 18 April 2012; or 
-    
-    *   (b) on or after that date on an application made before that date. 
-    
-    
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][822].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
     
     Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][972] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
 
@@ -11424,29 +11381,23 @@ Amendments, repeals, and miscellaneous provisions
 
 #### Transitional provisions
 
-##### 351 Transitional provision relating to provisions brought into force under section 2
+##### 346 Transitional provision relating to Part 11A of Crimes Act 1961
     
-*   (1) Despite any amendment in Part 5 of this Act,---
+*   (1) Despite the repeal of Part 11A of the Crimes Act 1961 by this Act,---
         
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+    *   (a) where an application has been made under that Part before 18 April 2012, and the application is not finally determined before that date, that Part continues to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+    *   (b) that Part (except for section 312F) continues to apply to a continuing warrant or permit and to any matter or obligation relating to the continuing warrant or permit in all respects as if this Act (other than this section) had not been enacted; and
     
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+    *   (c) section 312M of that Act continues to apply to private communications intercepted before 18 April 2012 in all respects as if this Act (other than this section) had not been enacted.
     
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
+    (2) In this section, _continuing warrant or permit_ means an interception warrant or emergency permit issued under Part 11A of the Crimes Act 1961---
         
-    *   (a) before the relevant commencement; or
+    *   (a) before 18 April 2012; or
     
-    *   (b) on or after that date on an application made before that date
+    *   (b) on or after that date on an application made before that date.
     
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+    
 
 ---
 
