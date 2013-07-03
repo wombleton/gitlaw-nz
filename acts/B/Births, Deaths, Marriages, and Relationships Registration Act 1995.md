@@ -1,5 +1,5 @@
 Reprint  
-as at 27 February 2013
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3447,7 +3447,7 @@ To verify the identity of a person to establish---
 
 Death information To identify deceased taxpayers and verify their details
 
-Ministry of Education Birth information, name change information, and death information To verify and update student information on the National Student Index
+Ministry of Education Birth information, name change information, and death information To verify and update information on the National Student Index
 
 Ministry of Health Birth information, name change information, and death information To verify and update health information on the National Health Index
 
@@ -3481,8 +3481,9 @@ Marriage information and civil union information To verify the name change of th
 
 Death information To identify deceased holders of driver licences
 
+*   Schedule 1A : amended, on 13 June 2013, by [section 43][302] of the Education Amendment Act 2013 (2013 No 34).
 *   Schedule 1A: amended, at 2 am on 29 November 2010, by [section 406(1)][192] of the Immigration Act 2009 (2009 No 51).
-*   Schedule 1A: amended, on 24 January 2009, pursuant to [section 50(1)][302] of the Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1A: amended, on 24 January 2009, pursuant to [section 50(1)][303] of the Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -3493,23 +3494,23 @@ Consequential amendments
 
 ##### Adoption Act 1955 (1955 No 93) (RS Vol 1, p 35)
 
-_Amendment(s) incorporated in the [Act(s)][303]_.
+_Amendment(s) incorporated in the [Act(s)][304]_.
 
 ##### Adult Adoption Information Act 1985 (1985 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][304]_.
+_Amendment(s) incorporated in the [Act(s)][305]_.
 
 ##### Burial and Cremation Act 1964 (1964 No 75) (RS Vol 16, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][305]_.
+_Amendment(s) incorporated in the [Act(s)][306]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][306]_.
+_Amendment(s) incorporated in the [Act(s)][307]_.
 
 ##### Status of Children Act 1969 (1969 No 18) (RS Vol 4, p 893)
 
-_Amendment(s) incorporated in the [Act(s)][307]_.
+_Amendment(s) incorporated in the [Act(s)][308]_.
 
 ---
 
@@ -3520,7 +3521,7 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][308]_.
+_Amendment(s) incorporated in the [Act(s)][309]_.
 
 ##### Births and Deaths Registration Act 1951 (1951 No 22) (RS Vol 1, p 333)
 
@@ -3552,15 +3553,15 @@ _Amendment(s) incorporated in the [Act(s)][308]_.
 
 ##### Citizenship Act 1977 (1977 No 61) (RS Vol 31, p 45)
 
-_Amendment(s) incorporated in the [Act(s)][309]_.
+_Amendment(s) incorporated in the [Act(s)][310]_.
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][310]_.
+_Amendment(s) incorporated in the [Act(s)][311]_.
 
 ##### Marriage Act 1955 (1955 No 92) (RS Vol 10, p 39)
 
-_Amendment(s) incorporated in the [Act(s)][311]_.
+_Amendment(s) incorporated in the [Act(s)][312]_.
 
 ##### Marriage Amendment Act 1959 (1959 No 11)
 
@@ -3570,11 +3571,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Marriage Amendment Act 1976 (1976 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][312]_.
+_Amendment(s) incorporated in the [Act(s)][313]_.
 
 ##### Marriage Amendment Act 1982 (1982 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][313]_.
+_Amendment(s) incorporated in the [Act(s)][314]_.
 
 ##### Marriage Amendment Act 1991 (1991 No 129)
 
@@ -3582,7 +3583,7 @@ _Amendment(s) incorporated in the [Act(s)][313]_.
 
 ##### Status of Children Act 1969 (1969 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][314]_.
+_Amendment(s) incorporated in the [Act(s)][315]_.
 
 ---
 
@@ -3623,23 +3624,23 @@ Amendments to principal Act
 
 ###### 1 General
     
-*   This is a reprint of the Births, Deaths, Marriages, and Relationships Registration Act 1995\. The reprint incorporates all the amendments to the Act as at 27 February 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Births, Deaths, Marriages, and Relationships Registration Act 1995\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][315] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][316] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][316] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][317] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][317] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][318] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][318] and [17E][319] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][319] and [17E][320] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3670,19 +3671,21 @@ Amendments to principal Act
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013][320] (2013 No 3)
+*   Education Amendment Act 2013 (2013 No 34): [section 43][302]
+    
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013][321] (2013 No 3)
     
     Identity Information Confirmation Act 2012 (2012 No 124): [section 22][276]
     
-    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010][321] (2010 No 49)
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010][322] (2010 No 49)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][192]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][322]
+    Policing Act 2008 (2008 No 72): [section 130(1)][323]
     
     [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][274] ![](/images/external_link.gif) (2008 No 48)
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][302]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][303]
     
     Human Tissue Act 2008 (2008 No 28): [section 92][225]
     
@@ -3706,11 +3709,11 @@ Amendments to principal Act
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][172]
     
-    [Births, Deaths, and Marriages Registration Amendment Act 2001][323] (2001 No 56)
+    [Births, Deaths, and Marriages Registration Amendment Act 2001][324] (2001 No 56)
     
     Adoption (Intercountry) Act 1997 (1997 No 109): [section 30][216]
     
-    [Births, Deaths, and Marriages Registration Amendment Act 1997][324] (1997 No 35)
+    [Births, Deaths, and Marriages Registration Amendment Act 1997][325] (1997 No 35)
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][278]
 
@@ -4018,26 +4021,27 @@ Amendments to principal Act
 [299]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250746
 [300]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292377
 [301]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048940
-[302]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1313622
-[303]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM293189
-[304]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80518
-[305]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM355842
-[306]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM298477
-[307]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391005
-[308]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM396810
-[309]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM444029
-[310]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM42220
-[311]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292059
-[312]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM437925
-[313]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM59717
-[314]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM390653
-[315]: http://www.pco.parliament.govt.nz/reprints/
-[316]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195439
-[317]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[318]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195468
-[319]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195470
-[320]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020520
-[321]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040100
-[322]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102349
-[323]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110955
-[324]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409945
+[302]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5138522
+[303]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1313622
+[304]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM293189
+[305]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80518
+[306]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM355842
+[307]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM298477
+[308]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391005
+[309]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM396810
+[310]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM444029
+[311]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM42220
+[312]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292059
+[313]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM437925
+[314]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM59717
+[315]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM390653
+[316]: http://www.pco.parliament.govt.nz/reprints/
+[317]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195439
+[318]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[319]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195468
+[320]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195470
+[321]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020520
+[322]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040100
+[323]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102349
+[324]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110955
+[325]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409945
