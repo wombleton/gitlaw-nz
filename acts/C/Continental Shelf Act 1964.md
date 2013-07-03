@@ -1,5 +1,5 @@
 Reprint  
-as at 24 May 2013
+as at 28 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -251,9 +251,9 @@ An Act to make provision as to the exploration and exploitation of the continent
     
 *   (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
         
-    *   (a) regulating the construction, erection, or use of installations or devices in, on, or above the continental shelf, or any specified part thereof, in connection with the exploration of the shelf or that part thereof or the exploitation of its natural resources:
+    *   (a) \[Repealed\]
     
-    *   (b) prohibiting the construction, erection, placing, or use of installations or devices in, on, or above the continental shelf in places where they could cause interference with the use of recognised sea lanes essential to coastwise or international navigation:
+    *   (b) \[Repealed\]
     
     *   (c) establishing safety zones, extending to a distance not exceeding 500 metres measured from each point of the outer edge of the installation or device, around any such installations or devices in, on, or above the continental shelf:
     
@@ -261,21 +261,33 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     *   (e) regulating or prohibiting the entry of ships into any such safety zone:
     
-    *   (f) prescribing measures to be taken in any such safety zone for the protection of the living resources of the sea and the natural resources of the continental shelf from harmful agents:
+    *   (f) \[Repealed\]
     
-    *   (g) prescribing the notice to be given of the construction, erection, or placing of installations or devices in, on, or above the continental shelf:
+    *   (g) \[Repealed\]
     
     *   (h) prescribing the permanent means to be installed for the purpose of giving warning to shipping and aircraft of the presence of installations or devices in, on, or above the continental shelf:
     
-    *   (i) providing for the removal of installations or devices constructed, erected, or placed in, on, or above the continental shelf which have been abandoned or become disused:
+    *   (i) \[Repealed\]
     
-    *   (j) prohibiting or restricting any exploration of the continental shelf or any specified part thereof or any exploitation of its natural resources which in the opinion of the Governor-General could result in an unjustifiable interference with navigation, fishing, or the conservation of the living resources of the sea, or could interfere with national defence or with oceanographic or other scientific research or with submarine cables or pipelines:
+    *   (j) \[Repealed\]
     
     *   (k) providing for such matters as are necessary for giving full effect to the provisions of this Act and for the due administration thereof:
     
     *   (l) prescribing penalties for breaches of the regulations, not exceeding a fine of £500\.
     
     (2) In this section the term _continental shelf_ includes the seabed and subsoil of the submarine areas within the territorial limits of New Zealand.
+    
+    Section 8(1)(a): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    
+    Section 8(1)(b): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    
+    Section 8(1)(f): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    
+    Section 8(1)(g): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    
+    Section 8(1)(i): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    
+    Section 8(1)(j): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
 
 ##### 9 Act in force in Cook Islands
     
@@ -291,11 +303,11 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Section 9(2)(b): amended, on 1 April 1978, by section 25 of the Ministry of Energy Act 1977 (1977 No 33).
     
-    Section 9(2)(b): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(c)][31] of the Niue Amendment Act 1974 (1974 No 43).
+    Section 9(2)(b): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(c)][32] of the Niue Amendment Act 1974 (1974 No 43).
     
-    Section 9(2)(b): amended, at 10.30 pm on 4 August 1965, pursuant to [section 57(3)][32] of the Cook Islands Amendment Act 1964 (1964 No 70).
+    Section 9(2)(b): amended, at 10.30 pm on 4 August 1965, pursuant to [section 57(3)][33] of the Cook Islands Amendment Act 1964 (1964 No 70).
     
-    Section 9(2)(c): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(d)][31] of the Niue Amendment Act 1974 (1974 No 43).
+    Section 9(2)(c): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(d)][32] of the Niue Amendment Act 1974 (1974 No 43).
 
 ---
 
@@ -313,23 +325,23 @@ An Act to make provision as to the exploration and exploitation of the continent
 
 ###### 1 General
     
-*   This is a reprint of the Continental Shelf Act 1964\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Continental Shelf Act 1964\. The reprint incorporates all the amendments to the Act as at 28 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][33] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][34] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][35] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][36] and [17E][37] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -360,9 +372,11 @@ An Act to make provision as to the exploration and exploitation of the continent
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Continental Shelf Amendment Act 2013][38] (2013 No 16)
+*   Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 171][31]
     
-    [Continental Shelf Amendment Act 2005][39] (2005 No 96)
+    [Continental Shelf Amendment Act 2013][39] (2013 No 16)
+    
+    [Continental Shelf Amendment Act 2005][40] (2005 No 96)
     
     Continental Shelf Amendment Act 1996 (1996 No 71)
     
@@ -374,7 +388,7 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Petroleum Amendment Act 1975 (1975 No 43): section 9
     
-    Niue Amendment Act 1974 (1974 No 43): [section 2(2)(c), (d)][31]
+    Niue Amendment Act 1974 (1974 No 43): [section 2(2)(c), (d)][32]
     
     Ministry of Transport Amendment Act 1972 (1972 No 4): section 6(1)
     
@@ -382,7 +396,7 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Territorial Sea and Fishing Zone Act 1965 (1965 No 11): section 11
     
-    Cook Islands Amendment Act 1964 (1964 No 70): [section 57(3)][32]
+    Cook Islands Amendment Act 1964 (1964 No 70): [section 57(3)][33]
 
 
 
@@ -417,12 +431,13 @@ An Act to make provision as to the exploration and exploitation of the continent
 [28]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM246328
 [29]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5226925
 [30]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138011
-[31]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM413764
-[32]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM355058
-[33]: http://www.pco.parliament.govt.nz/reprints/
-[34]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195439
-[35]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[36]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195468
-[37]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195470
-[38]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138003
-[39]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM361159
+[31]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM3956359
+[32]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM413764
+[33]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM355058
+[34]: http://www.pco.parliament.govt.nz/reprints/
+[35]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195439
+[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[37]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195468
+[38]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195470
+[39]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138003
+[40]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM361159
