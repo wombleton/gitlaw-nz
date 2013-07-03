@@ -1,5 +1,5 @@
 Reprint  
-as at 2 April 2013
+as at 13 June 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1153,7 +1153,7 @@ The Parliament of New Zealand enacts as follows:
     
     *   (b) [sections 60 to 65][75], [115(2)][158], [116][159], [245][331], [252][338], [388][516], and [389][517] (which relate to sentence indications):
     
-    *   (c) [subpart 3 of Part 5][261], and [sections 390 to 393][519] (which relate to public access and restrictions on reporting):
+    *   (c) [subpart 3][261] of Part 5, and [sections 390 to 393][519] (which relate to public access and restrictions on reporting):
     
     *   (d) [sections 386][512], [387][513], [408][539], and [409][540] (which are powers to make rules and regulations):
     
@@ -1436,7 +1436,7 @@ Preliminary provisions
     
     *   (c) an offence punishable by a community-based sentence and not punishable by a term of imprisonment
     
-    _category 3 offence_ means an offence, other than an offence listed in [Schedule 1][549],--- 
+    _category 3 offence_ means an offence, other than an offence listed in [Schedule 1][549],---
         
     *   (a) that is punishable by imprisonment for life or by imprisonment for 2 years or more; or
     
@@ -2430,7 +2430,7 @@ Procedure before trial
     
     (4) The place of trial is,---
         
-    *   (a) if the trial court is the High Court, the High Court at the place nearest to the court that is dealing with the proceeding under subpart 3 of this Part:
+    *   (a) if the trial court is the High Court, the High Court at the place nearest to the court that is dealing with the proceeding under [subpart 3][67] of this Part:
     
     *   (b) if the trial court is a District Court, the court that is dealing with the proceeding under [subpart 3][67] of this Part.
     
@@ -3014,7 +3014,7 @@ Procedure before trial
         
     *   (a) the provisions of this subpart apply before the trial, with any necessary modifications; and
     
-    *   (b) [subpart 1 of Part 4][135] applies to the conduct of the trial.
+    *   (b) [subpart 1][135] of Part 4 applies to the conduct of the trial.
     
     
 
@@ -3043,7 +3043,7 @@ Trial
     
     (4) Unless the court directs otherwise, neither party may---
         
-    *   (a) make submissions on the facts; or 
+    *   (a) make submissions on the facts; or
     
     *   (b) address the court on the evidence given by either party.
     
@@ -3270,7 +3270,7 @@ General provisions
         
         *   (ii) case review, where the Registrar is exercising the power of the court under [section 57(4)][71] and the defendant is in custody:
         
-        *   (iii) an alternative way of giving evidence under [subpart 5 of Part 3][649] of the Evidence Act 2006:
+        *   (iii) an alternative way of giving evidence under [subpart 5][649] of Part 3 of the Evidence Act 2006:
         
         *   (iv) whether 2 or more charges are to be tried together, or whether the charges against 1 defendant are to be tried with charges against 1 or more other defendants:
         
@@ -3836,7 +3836,7 @@ General provisions
 
 ##### 149 Attempt proved when offence is charged
     
-*   Where the commission of the offence charged is not proved, but the evidence establishes an attempt to commit the offence, the defendant may be convicted of the attempt. 
+*   Where the commission of the offence charged is not proved, but the evidence establishes an attempt to commit the offence, the defendant may be convicted of the attempt.
     
     Compare: 1961 No 43 [s 337][660]
 
@@ -4076,7 +4076,7 @@ General provisions
 
 ##### 158 Attendance of witness at substitute court
     
-*   (1) If a proceeding is transferred under [section 157][212], the Registrar of the court that transfers the proceeding must ensure that any witness summoned to attend the proceeding is given notice of the transfer. 
+*   (1) If a proceeding is transferred under [section 157][212], the Registrar of the court that transfers the proceeding must ensure that any witness summoned to attend the proceeding is given notice of the transfer.
     
     (2) The notice given under subsection (1) has the same effect as if it were a summons to attend the court to which the proceeding is transferred.
     
@@ -4810,7 +4810,7 @@ General provisions
     
     *   (e) conspiring with any person to commit any such offence.
     
-    Compare: 1961 No 43, [s 375A ][716]
+    Compare: 1961 No 43, [s 375A][716]
 
 #### Suppression of names
 
@@ -4902,7 +4902,7 @@ General provisions
     
     (3) Subsection (1) applies whether or not the court has made an order under [section 200][272] suppressing the identity of the defendant.
     
-    (4) An order under subsection (1) suppressing the identity of a witness, victim, or connected person may not prevent publication of the name of the defendant (which may be prohibited only by an order made under [section 200][272]) or the nature of the charge. 
+    (4) An order under subsection (1) suppressing the identity of a witness, victim, or connected person may not prevent publication of the name of the defendant (which may be prohibited only by an order made under [section 200][272]) or the nature of the charge.
     
     Compare: 1985 No 120 [ss 138(2)(b)][715], [140(1)][718]
 
@@ -5449,7 +5449,7 @@ Appeals
     
 *   (1) This section applies if---
         
-    *   (a) a first appeal court allows a convicted person's appeal against conviction for one offence (_offence A_); and 
+    *   (a) a first appeal court allows a convicted person's appeal against conviction for one offence (_offence A_); and
     
     *   (b) the sentencing court took the sentence it imposed for offence A into account in imposing sentence for a conviction for a different offence (_offence B_) and the convicted person remains convicted of offence B.
     
@@ -6501,9 +6501,9 @@ Appeals
     
     (2) In subsection (1)(d), _suppression decision_ means a decision---
         
-    *   (a) to make or refuse to make a suppression order within the meaning of section 282; or 
+    *   (a) to make or refuse to make a suppression order within the meaning of section 282; or
     
-    *   (b) to renew, vary, or revoke a suppression order under [section 208][283]. 
+    *   (b) to renew, vary, or revoke a suppression order under [section 208][283].
     
     Compare: 1961 No 43 [s 384A(1)][754]
 
@@ -6755,7 +6755,7 @@ Appeals
 
 ##### 335 Special powers of appeal courts in appeal involving conviction, sentence, or contempt
     
-*   (1) This section applies to an appeal or application for leave to appeal under [subpart 3][310], [4][328], or [5][347]. 
+*   (1) This section applies to an appeal or application for leave to appeal under [subpart 3][310], [4][328], or [5][347].
     
     (2) For the purposes of an appeal or application for leave to appeal, an appeal court may, if it thinks it necessary or expedient in the interests of justice,---
         
@@ -6833,7 +6833,7 @@ Appeals
     
     (6) The relevant appeal court must determine an appeal under this section by either---
         
-    *   (a) dismissing the appeal; or 
+    *   (a) dismissing the appeal; or
     
     *   (b) allowing the appeal and remitting the matter to the court appealed from with any directions it considers appropriate.
     
@@ -6913,13 +6913,13 @@ Appeals
     
     (2) A sentence to which subsection (1) applies, as imposed by the court appealed from or as varied by the appeal court, as the case may be, is resumed from the date on which---
         
-    *   (a) the appeal is dismissed or abandoned; or 
+    *   (a) the appeal is dismissed or abandoned; or
     
-    *   (b) leave to appeal is refused; or 
+    *   (b) leave to appeal is refused; or
     
     *   (c) the appeal is decided, if neither the sentence nor the conviction on which it was made is set aside.
     
-    Compare: 1961 No 43 [s 399(3)--(4B) ][769]
+    Compare: 1961 No 43 [s 399(3)--(4B)][769]
 
 ##### 346 Registrar to notify resumption of sentence
     
@@ -6945,9 +6945,9 @@ Appeals
     
     (2) The period of non-association as imposed by the court appealed from or as varied by the appeal court, as the case may be, resumes from the date on which---
         
-    *   (a) the appeal is dismissed or abandoned; or 
+    *   (a) the appeal is dismissed or abandoned; or
     
-    *   (b) leave to appeal is refused; or 
+    *   (b) leave to appeal is refused; or
     
     *   (c) the appeal is decided, if neither the non-association order nor the conviction on which it was imposed is set aside.
     
@@ -7032,7 +7032,7 @@ Provisions concerning jurisdiction of District Courts
     
     (2) Only a District Court at a place appointed under [section 4(2A)][782] of the District Courts Act 1947 has jurisdiction to conduct a jury trial.
     
-    (3) Only a District Court presided over by a District Court Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials has jurisdiction to conduct the jury trial or exercise any of the powers of the court under [subpart 8 of Part 3][101] in relation to the proceeding.
+    (3) Only a District Court presided over by a District Court Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials has jurisdiction to conduct the jury trial or exercise any of the powers of the court under [subpart 8][101] of Part 3 in relation to the proceeding.
     
     Compare: 1947 No 16 [ss 28A][783], [28B][784]
 
@@ -7150,7 +7150,7 @@ Provisions concerning jurisdiction of District Courts
     
 *   A District Court presided over by 1 or more Community Magistrates has, in exercising any power conferred on it by [section 357][477] or [358][478],---
         
-    *   (a) power to make any suppression order under [subpart 3 of Part 5][261]:
+    *   (a) power to make any suppression order under [subpart 3][261] of Part 5:
     
     *   (b) power to make an order under [section 4(3)][816] of the Costs in Criminal Cases Act 1967:
     
@@ -7186,13 +7186,13 @@ Provisions concerning jurisdiction of District Courts
     
     *   (b) the power in [section 359(a)][479].
     
-    (2) On a first appearance in court by a defendant, a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under [subpart 3 of Part 5][261].
+    (2) On a first appearance in court by a defendant, a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under [subpart 3][261] of Part 5\.
     
-    (3) On a subsequent appearance in court by a defendant, a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under [subpart 3 of Part 5][261] if both parties agree to the making of the order.
+    (3) On a subsequent appearance in court by a defendant, a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, may make a suppression order under [subpart 3][261] of Part 5 if both parties agree to the making of the order.
     
-    (4) Despite [section 208][283], a suppression order made by a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates in the exercise of its jurisdiction under this section may only have effect for a limited period of up to 28 days from the date on which the order is made. 
+    (4) Despite [section 208][283], a suppression order made by a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates in the exercise of its jurisdiction under this section may only have effect for a limited period of up to 28 days from the date on which the order is made.
     
-    (5) In this section, _suppression order_ has the meaning given to it in [section 194][263]. 
+    (5) In this section, _suppression order_ has the meaning given to it in [section 194][263].
 
 #### Transfer to District Court presided over by District Court Judge
 
@@ -7629,7 +7629,7 @@ Miscellaneous and transitional provisions
     
 *   (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
         
-    *   (a) providing that proceedings with specified features, or in relation to particular offences, or particular categories or classes of offence, are Crown prosecutions for the purposes of [subpart 2 of Part 5][251]:
+    *   (a) providing that proceedings with specified features, or in relation to particular offences, or particular categories or classes of offence, are Crown prosecutions for the purposes of [subpart 2][251] of Part 5:
     
     *   (b) prescribing, for the purpose of [section 187(1)][254], the time or stage in a proceeding at which the Solicitor-General must assume responsibility for a Crown prosecution, and regulations under this paragraph may prescribe different times or stages for the assumption of that responsibility in different classes of proceeding:
     
@@ -7733,9 +7733,9 @@ Miscellaneous and transitional provisions
 
 ##### 392 Transitional provision regarding appeals by members of media
     
-*   (1) This section applies in relation to a proceeding for an offence that was commenced after the commencement of [subpart 3 of Part 5][261] and before the commencement of [subpart 7 of Part 6][375].
+*   (1) This section applies in relation to a proceeding for an offence that was commenced after the commencement of [subpart 3][261] of Part 5 and before the commencement of [subpart 7][375] of Part 6\.
     
-    (2) Until the commencement of [subpart 7 of Part 6][375], a person described in [section 210(1)][285] may appeal against a decision or order made under [subpart 3 of Part 5][261] to which any of the following enactments apply:
+    (2) Until the commencement of [subpart 7][375] of Part 6, a person described in [section 210(1)][285] may appeal against a decision or order made under [subpart 3][261] of Part 5 to which any of the following enactments apply:
         
     *   (a) [section 379A(1)(ba)][729] or [383(1)(b)][731] of the Crimes Act 1961:
     
@@ -8019,13 +8019,13 @@ Category 4 offences
 
 ##### Anti-Personnel Mines Prohibition Act 1998
 
-**Section ****Offence**
+**Section****Offence**
 
 [Section 7][885]Using, etc, an anti-personnel mine
 
 ##### Aviation Crimes Act 1972
 
-**Section ****Offence**
+**Section****Offence**
 
 [Section 3][886]Hijacking
 
@@ -8035,7 +8035,7 @@ Category 4 offences
 
 ##### Chemical Weapons (Prohibition) Act 1996
 
-**Section ****Offence**
+**Section****Offence**
 
 [Section 6][889]Chemical weapons
 
@@ -8043,7 +8043,7 @@ Category 4 offences
 
 ##### Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980
 
-**Section ****Offence**
+**Section****Offence**
 
 [Section 3][891]Crimes against persons
 
@@ -8055,19 +8055,19 @@ Category 4 offences
 
 ##### Crimes of Torture Act 1989
 
-**Section ****Offence**
+**Section****Offence**
 
 [Section 3][895]Acts of torture
 
 ##### Geneva Conventions Act 1958
 
-**Section ****Offence**
+**Section****Offence**
 
 [Section 3(1)][896]Grave breaches of Conventions or First Protocol
 
 ##### International Crimes and International Criminal Court Act 2000
 
-**Section ****Offence**
+**Section****Offence**
 
 [Section 9][897]Genocide
 
@@ -8878,7 +8878,7 @@ Definition of _conviction on indictment_ in [section 2(1)][1088]: repeal.
 
 [Section 389(1)][1151]: omit ""laid the information"" and substitute ""commenced the proceedings"".
 
-Section 389(6): omit ""information for the offence has been laid"" and substitute ""proceedings for the offence were commenced"".
+[Section 389(6)][1151]: omit ""information for the offence has been laid"" and substitute ""proceedings for the offence were commenced"".
 
 [Section 394(4)(c)][1152]: omit ""between the informant and"" and substitute ""with"".
 
@@ -8908,7 +8908,7 @@ Section 389(6): omit ""information for the offence has been laid"" and substitut
 
 [Section 29(5)][1162]: omit ""on indictment"" in each place where it appears.
 
-[Section 87(2)(a) and (b) and (3)][1163]: insert ""on conviction"" after ""liable"". 
+[Section 87(2)(a) and (b) and (3)][1163]: insert ""on conviction"" after ""liable"".
 
 [Section 89(3)][1164]: insert ""on conviction"" after ""liable"".
 
@@ -8918,7 +8918,7 @@ Section 389(6): omit ""information for the offence has been laid"" and substitut
 
 [Section 136][1167]: insert ""on conviction"" after ""liable"".
 
-[Section 122A(7), (8), and (9)][1168]: insert ""on conviction"" after ""liable"". 
+[Section 122A(7), (8), and (9)][1168]: insert ""on conviction"" after ""liable"".
 
 [Section 94(1)][1169]: omit ""summary"".
 
@@ -9016,139 +9016,139 @@ Section 389(6): omit ""information for the offence has been laid"" and substitut
 
 ##### [Care of Children Act 2004][1199] (2004 No 90)
 
-[Section 69(2)][1200]: omit ""Section 20(1) to (3) and (5) of the Summary Proceedings Act 1957 applies"" and substitute ""[Section 159][1201] of the Criminal Procedure Act 2011 applies"".
+[Section 69(2)][1200]: omit ""Section 20(1) to (3) and (5) of the Summary Proceedings Act 1957 applies"" and substitute ""Section 159 of the Criminal Procedure Act 2011 applies"".
 
-[Section 78(1)][1202]: omit ""summary"".
+[Section 78(1)][1201]: omit ""summary"".
 
-[Section 79][1203]: omit ""summary"".
+[Section 79][1202]: omit ""summary"".
 
-[Section 80][1204]: omit ""summary"".
+[Section 80][1203]: omit ""summary"".
 
-[Section 129(5)][1205]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Section 129(5)][1204]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
-##### [Care of Children Amendment Act 2008][1206] (2008 No 74)
+##### [Care of Children Amendment Act 2008][1205] (2008 No 74)
 
-[Section 8][1207]: new section 46ZE(3): omit ""Section 20(1) to (3) and (5) of the Summary Proceedings Act 1957"" and substitute ""Section 159 of the Criminal Procedure Act 2011"".
+[Section 8][1206]: new section 46ZE(3): omit ""Section 20(1) to (3) and (5) of the Summary Proceedings Act 1957"" and substitute ""Section 159 of the Criminal Procedure Act 2011"".
 
-[Section 8][1207]: new section 46ZF(3): omit ""summary"".
+[Section 8][1206]: new section 46ZF(3): omit ""summary"".
 
-##### [Charitable Trusts Act 1957][1208] (1957 No 18)
+##### [Charitable Trusts Act 1957][1207] (1957 No 18)
 
-[Section 23(3)][1209]: omit ""summary"".
+[Section 23(3)][1208]: omit ""summary"".
 
-[Section 58(3)][1210]: omit ""summary"".
+[Section 58(3)][1209]: omit ""summary"".
 
-##### [Charities Act 2005][1211] (2005 No 39)
+##### [Charities Act 2005][1210] (2005 No 39)
 
-[Section 38(1)][1212]: omit ""summary"".
+[Section 38(1)][1211]: omit ""summary"".
 
-[Section 38(2)][1212]: repeal and substitute:
+[Section 38(2)][1211]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 2 years after the date on which the matter giving rise to the contravention was discovered or ought reasonably to have been discovered."
 > 
 > 
 
-[Section 52(2)][1213]: omit ""summary"".
+[Section 52(2)][1212]: omit ""summary"".
 
-[Section 52(3)][1213]: repeal and substitute:
+[Section 52(3)][1212]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (2) ends on the date that is 6 months after the date on which the matter giving rise to the contravention was discovered or ought reasonably to have been discovered."
 > 
 > 
 
-[Section 74(1)][1214]: omit ""An information in respect of an offence against this Act must be laid"" and substitute ""Proceedings in respect of an offence against this Act must be commenced"".
+[Section 74(1)][1213]: omit ""An information in respect of an offence against this Act must be laid"" and substitute ""Proceedings in respect of an offence against this Act must be commenced"".
 
-[Section 74(2)][1214]: omit ""an information in respect of an offence against the Act is laid"" and substitute ""a charging document in respect of an offence against this Act is filed"".
+[Section 74(2)][1213]: omit ""an information in respect of an offence against the Act is laid"" and substitute ""a charging document in respect of an offence against this Act is filed"".
 
-[Section 74(3)][1214]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 74(3)][1213]: omit ""lay an information"" and substitute ""file a charging document"".
 
-##### [Chartered Professional Engineers of New Zealand Act 2002][1215] (2002 No 17)
+##### [Chartered Professional Engineers of New Zealand Act 2002][1214] (2002 No 17)
 
-[Section 7(3)][1216]: omit ""summary"".
+[Section 7(3)][1215]: omit ""summary"".
 
-[Section 31(1)][1217]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 31(1)][1216]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 32(2)][1218]: omit ""summary"".
+[Section 32(2)][1217]: omit ""summary"".
 
-[Section 38(1)][1219]: omit ""by way of case stated for the opinion of that court"".
+[Section 38(1)][1218]: omit ""by way of case stated for the opinion of that court"".
 
-[Section 38(3)][1219]: repeal and substitute:
+[Section 38(3)][1218]: repeal and substitute:
 
 > *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
 > 
 > 
 
-[Section 77(2)][1220]: omit ""summary"".
+[Section 77(2)][1219]: omit ""summary"".
 
-##### [Chateau Companies Act 1977][1221] (1977 No 4)
+##### [Chateau Companies Act 1977][1220] (1977 No 4)
 
-[Section 14(2)][1222]: omit ""summary"".
+[Section 14(2)][1221]: omit ""summary"".
 
-[Section 19(1)][1223]: omit ""on indictment"".
+[Section 19(1)][1222]: omit ""on indictment"".
 
-[Section 19][1223]: insert the following subsection after subsection (2):
+[Section 19][1222]: insert the following subsection after subsection (2):
 
 > *   "(2A) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document in respect of an offence against this section may be filed at any time."
 > 
 > 
 
-##### [Chatham Islands Council Act 1995][1224] (1995 No 41)
+##### [Chatham Islands Council Act 1995][1223] (1995 No 41)
 
-[Section 16(7)][1225]: omit ""summary"".
+[Section 16(7)][1224]: omit ""summary"".
 
-[Section 20(3)][1226]: omit ""summary"".
+[Section 20(3)][1225]: omit ""summary"".
 
-[Section 22][1227]: omit ""summary"".
+[Section 22][1226]: omit ""summary"".
 
-[Section 23(2)][1228]: omit ""summary"".
+[Section 23(2)][1227]: omit ""summary"".
 
-##### [Chemical Weapons (Prohibition) Act 1996][1229] (1996 No 37)
+##### [Chemical Weapons (Prohibition) Act 1996][1228] (1996 No 37)
 
 Section 6(1): omit ""on indictment"".
 
 [Section 8][890]: omit ""on indictment"".
 
-[Section 9(1)][1230]: omit ""summary"".
+[Section 9(1)][1229]: omit ""summary"".
 
-[Section 10(3)][1231]: omit ""summary"".
+[Section 10(3)][1230]: omit ""summary"".
 
-[Section 13(3)][1232]: omit ""summary"".
+[Section 13(3)][1231]: omit ""summary"".
 
-[Section 14(4)][1233]: omit ""summary"".
+[Section 14(4)][1232]: omit ""summary"".
 
-[Section 15][1234]: omit ""summary"".
+[Section 15][1233]: omit ""summary"".
 
-[Section 20(2)][1235]: omit ""summary"".
+[Section 20(2)][1234]: omit ""summary"".
 
-[Section 26(1)][1236]: omit ""summary"".
+[Section 26(1)][1235]: omit ""summary"".
 
-[Section 27(3)][1237]: omit ""summary"".
+[Section 27(3)][1236]: omit ""summary"".
 
-[Section 29(1)(b)][1238]: omit ""summary"".
+[Section 29(1)(b)][1237]: omit ""summary"".
 
-##### [Child Support Act 1991][1239] (1991 No 142)
+##### [Child Support Act 1991][1238] (1991 No 142)
 
-[Section 89X(3)][1240]: omit ""summary"".
+[Section 89X(3)][1239]: omit ""summary"".
 
-[Section 96P(3)][1241]: omit ""summary"".
+[Section 96P(3)][1240]: omit ""summary"".
 
-[Section 96ZF(3)][1242]: omit ""summary"".
+[Section 96ZF(3)][1241]: omit ""summary"".
 
-[Section 190(1)][1243]: omit ""undergoing a sentence of detention, as defined in the Summary Proceedings Act 1957"" and substitute ""undergoing a custodial sentence, as defined in section 4 of the Criminal Records (Clean Slate) Act 2004"".
+[Section 190(1)][1242]: omit ""undergoing a sentence of detention, as defined in the Summary Proceedings Act 1957"" and substitute ""undergoing a custodial sentence, as defined in section 4 of the Criminal Records (Clean Slate) Act 2004"".
 
-[Section 192(3)][1244]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 192(3)][1243]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 194(6)][1245]: omit ""sections 46 to 49A of the Summary Proceedings Act 1957 shall apply"" and substitute ""sections 168 and 206 of the Criminal Procedure Act 2011 apply"".
+[Section 194(6)][1244]: omit ""sections 46 to 49A of the Summary Proceedings Act 1957 shall apply"" and substitute ""sections 168 and 206 of the Criminal Procedure Act 2011 apply"".
 
-[Section 196(8)][1246]: omit ""on an information"".
+[Section 196(8)][1245]: omit ""on an information"".
 
-[Section 196(9)][1246]: omit ""on an information"".
+[Section 196(9)][1245]: omit ""on an information"".
 
-[Section 199(4)][1247]: omit ""summary"".
+[Section 199(4)][1246]: omit ""summary"".
 
-[Section 210(4)][1248]: insert ""on conviction"" after ""liable"".
+[Section 210(4)][1247]: insert ""on conviction"" after ""liable"".
 
-[Section 211][1249]: repeal and substitute:
+[Section 211][1248]: repeal and substitute:
 
 > ##### "211 Proceedings must be commenced by Commissioner
 >     
@@ -9156,7 +9156,7 @@ Section 6(1): omit ""on indictment"".
 > 
 > 
 
-[Section 212][1250]: repeal and substitute:
+[Section 212][1249]: repeal and substitute:
 
 > ##### "212 Charging document may charge several offences
 >     
@@ -9168,7 +9168,7 @@ Section 6(1): omit ""on indictment"".
 > 
 > 
 
-[Section 213][1251]: repeal and substitute:
+[Section 213][1250]: repeal and substitute:
 
 > ##### "213 Charging document may be filed within 10 years
 >     
@@ -9176,105 +9176,105 @@ Section 6(1): omit ""on indictment"".
 > 
 > 
 
-[Section 229(5)][1252]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Section 229(5)][1251]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
-[Section 240(2)(a)][1253]: omit ""indictable or summary"".
+[Section 240(2)(a)][1252]: omit ""indictable or summary"".
 
-[Section 240(7)][1253]: omit ""summary"".
+[Section 240(7)][1252]: omit ""summary"".
 
-##### [Children's Commissioner Act 2003][1254] (2003 No 121)
+##### [Children's Commissioner Act 2003][1253] (2003 No 121)
 
-[Section 21(3)][1255]: omit ""summary"".
+[Section 21(3)][1254]: omit ""summary"".
 
-##### [Children's Health Camps Board Dissolution Act 1999][1256] (1999 No 141)
+##### [Children's Health Camps Board Dissolution Act 1999][1255] (1999 No 141)
 
-[Section 14(3)][1257]: omit ""summary"".
+[Section 14(3)][1256]: omit ""summary"".
 
-##### [Christchurch-Lyttelton Road Tunnel Authority Dissolution Act 1978][1258] (1978 No 51)
+##### [Christchurch-Lyttelton Road Tunnel Authority Dissolution Act 1978][1257] (1978 No 51)
 
-[Section 8(5)][1259]: omit ""summary"".
+[Section 8(5)][1258]: omit ""summary"".
 
-##### [Citizens Initiated Referenda Act 1993][1260] (1993 No 101)
+##### [Citizens Initiated Referenda Act 1993][1259] (1993 No 101)
 
-[Section 42][1261]: omit ""summary"".
+[Section 42][1260]: omit ""summary"".
 
-[Section 43(3)][1262]: omit ""summary"".
+[Section 43(3)][1261]: omit ""summary"".
 
-[Section 43(4)][1262]: omit ""on indictment"" in each place where it appears.
+[Section 43(4)][1261]: omit ""on indictment"" in each place where it appears.
 
-[Section 52(1)][1263]: omit ""summary"".
+[Section 52(1)][1262]: omit ""summary"".
 
-[Section 54(2) and (3)][1264]: omit ""summary"".
+[Section 54(2) and (3)][1263]: omit ""summary"".
 
-##### [Citizenship Act 1977][1265] (1977 No 61)
+##### [Citizenship Act 1977][1264] (1977 No 61)
 
-[Section 27][1266]: omit ""on indictment"" in each place where it appears.
+[Section 27][1265]: omit ""on indictment"" in each place where it appears.
 
-##### [Civil Aviation Act 1990][1267] (1990 No 98)
+##### [Civil Aviation Act 1990][1266] (1990 No 98)
 
-[Section 43(2)][1268]: insert ""on conviction"" after ""liable"".
+[Section 43(2)][1267]: insert ""on conviction"" after ""liable"".
 
-[Section 43A(2)][1269]: insert ""on conviction"" after ""liable"".
+[Section 43A(2)][1268]: insert ""on conviction"" after ""liable"".
 
-[Section 44(3)][1270]: insert ""on conviction"" after ""liable"".
+[Section 44(3)][1269]: insert ""on conviction"" after ""liable"".
 
-[Section 44A(2)][1271]: insert ""on conviction"" after ""liable"".
+[Section 44A(2)][1270]: insert ""on conviction"" after ""liable"".
 
-[Section 46(2)][1272]: insert ""on conviction"" after ""liable"".
+[Section 46(2)][1271]: insert ""on conviction"" after ""liable"".
 
-[Section 46A(2)][1273]: insert ""on conviction"" after ""liable"".
+[Section 46A(2)][1272]: insert ""on conviction"" after ""liable"".
 
-[Section 46B(2)][1274]: insert ""on conviction"" after ""liable"".
+[Section 46B(2)][1273]: insert ""on conviction"" after ""liable"".
 
-[Section 46C(2)][1275]: insert ""on conviction"" after ""liable"".
+[Section 46C(2)][1274]: insert ""on conviction"" after ""liable"".
 
-[Section 46D(2)][1276]: insert ""on conviction"" after ""liable"".
+[Section 46D(2)][1275]: insert ""on conviction"" after ""liable"".
 
-[Section 46E(2)][1277]: insert ""on conviction"" after ""liable"".
+[Section 46E(2)][1276]: insert ""on conviction"" after ""liable"".
 
-[Section 48(2)][1278]: insert ""on conviction"" after ""liable"".
+[Section 48(2)][1277]: insert ""on conviction"" after ""liable"".
 
-[Section 49(2)][1279]: insert ""on conviction"" after ""liable"".
+[Section 49(2)][1278]: insert ""on conviction"" after ""liable"".
 
-[Section 49A(2)][1280]: insert ""on conviction"" after ""liable"".
+[Section 49A(2)][1279]: insert ""on conviction"" after ""liable"".
 
-[Section 49B(2)][1281]: insert ""on conviction"" after ""liable"".
+[Section 49B(2)][1280]: insert ""on conviction"" after ""liable"".
 
-[Section 50(1)][1282]: insert ""on conviction"" after ""liable"".
+[Section 50(1)][1281]: insert ""on conviction"" after ""liable"".
 
-[Section 50A(2)][1283]: insert ""on conviction"" after ""liable"".
+[Section 50A(2)][1282]: insert ""on conviction"" after ""liable"".
 
-[Section 51][1284]: insert ""on conviction"" after ""liable"".
+[Section 51][1283]: insert ""on conviction"" after ""liable"".
 
-[Section 52(2)][1285]: insert ""on conviction"" after ""liable"".
+[Section 52(2)][1284]: insert ""on conviction"" after ""liable"".
 
-[Section 52A][1286]: insert ""on conviction"" after ""liable"".
+[Section 52A][1285]: insert ""on conviction"" after ""liable"".
 
-[Section 52B(2)][1287]: insert ""on conviction"" after ""liable"".
+[Section 52B(2)][1286]: insert ""on conviction"" after ""liable"".
 
-[Section 52C(2)][1288]: insert ""on conviction"" after ""liable"".
+[Section 52C(2)][1287]: insert ""on conviction"" after ""liable"".
 
-[Section 53][1289]: insert ""on conviction"" after ""liable"".
+[Section 53][1288]: insert ""on conviction"" after ""liable"".
 
-[Section 54(2)(a) and (b)][1290]: insert ""on conviction"" after ""liable"".
+[Section 54(2)(a) and (b)][1289]: insert ""on conviction"" after ""liable"".
 
-[Section 55(2)][1291]: insert ""on conviction"" after ""liable"".
+[Section 55(2)][1290]: insert ""on conviction"" after ""liable"".
 
-[Section 56(2)][1292]: insert ""on conviction"" after ""liable"".
+[Section 56(2)][1291]: insert ""on conviction"" after ""liable"".
 
-[Section 56A(2)][1293]: insert ""on conviction"" after ""liable"".
+[Section 56A(2)][1292]: insert ""on conviction"" after ""liable"".
 
-[Section 57(2)(a)][1294]: repeal and substitute:
+[Section 57(2)(a)][1293]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 58(3)][1295]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 58(3)][1294]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 64(1)][1296]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 64(1)][1295]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 64(2) and (3)][1296]: repeal and substitute:
+[Section 64(2) and (3)][1295]: repeal and substitute:
 
 > *   "(2) Any person who is disqualified by an order of a District Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal against the refusal to the High Court in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 > 
@@ -9282,11 +9282,11 @@ Section 6(1): omit ""on indictment"".
 > 
 > 
 
-[Heading above section 65][1297]: repeal and substitute:
+[Heading above section 65][1296]: repeal and substitute:
 
 > #### "Charging documents and burden of proof".
 
-[Section 65][1298]: repeal and substitute:
+[Section 65][1297]: repeal and substitute:
 
 > ##### "65 Time for filing charging document
 >     
@@ -9304,21 +9304,21 @@ Section 6(1): omit ""on indictment"".
 > 
 > 
 
-[Section 65E(1) and (2)][1299]: repeal.
+[Section 65E(1) and (2)][1298]: repeal.
 
-[Section 65E(3)][1299]: repeal and substitute:
+[Section 65E(3)][1298]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 the limitation period in respect of the offences specified in this Part (except sections 65F and 65G(1)(d)) ends on the date that is 12 months after the date on which the offence was committed."
 > 
 > 
 
-[Section 65F(2)][1300]: insert ""on conviction"" after ""liable"".
+[Section 65F(2)][1299]: insert ""on conviction"" after ""liable"".
 
-[Section 65G(2) and (3)][1301]: insert ""on conviction"" after ""liable"".
+[Section 65G(2) and (3)][1300]: insert ""on conviction"" after ""liable"".
 
-[Section 65H(2)][1302]: insert ""on conviction"" after ""liable"".
+[Section 65H(2)][1301]: insert ""on conviction"" after ""liable"".
 
-[Section 65I(1)][1303]: insert after subsection (1):
+[Section 65I(1)][1302]: insert after subsection (1):
 
 > *   "(1A) In proceedings for an offence against subsection (1),---
 >         
@@ -9330,35 +9330,35 @@ Section 6(1): omit ""on indictment"".
 > 
 > 
 
-[Section 65I(2)(a) and (b)][1303]: insert ""on conviction"" after ""liable"".
+[Section 65I(2)(a) and (b)][1302]: insert ""on conviction"" after ""liable"".
 
-[Section 65J(2)][1304]: insert ""on conviction"" after ""liable"".
+[Section 65J(2)][1303]: insert ""on conviction"" after ""liable"".
 
-[Section 65K(2)][1305]: insert ""on conviction"" after ""liable"".
+[Section 65K(2)][1304]: insert ""on conviction"" after ""liable"".
 
-[Section 65L(2)][1306]: insert ""on conviction"" after ""liable"".
+[Section 65L(2)][1305]: insert ""on conviction"" after ""liable"".
 
-[Section 65M(2)][1307]: insert ""on conviction"" after ""liable"".
+[Section 65M(2)][1306]: insert ""on conviction"" after ""liable"".
 
-[Section 65N(2)][1308]: insert ""on conviction"" after ""liable"".
+[Section 65N(2)][1307]: insert ""on conviction"" after ""liable"".
 
-[Section 65O(2)][1309]: insert ""on conviction"" after ""liable"".
+[Section 65O(2)][1308]: insert ""on conviction"" after ""liable"".
 
-[Section 65P(2)(a)][1310]: omit and substitute:
+[Section 65P(2)(a)][1309]: omit and substitute:
 
 > *   "(a) the defendant may be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 65P(6)][1310]: omit ""summary"".
+[Section 65P(6)][1309]: omit ""summary"".
 
-[Section 77H(2)][1311]: omit ""summary"".
+[Section 77H(2)][1310]: omit ""summary"".
 
-[Section 77I(2)][1312]: omit ""summary"".
+[Section 77I(2)][1311]: omit ""summary"".
 
-[Section 80H(3)][1313]: omit ""summary"".
+[Section 80H(3)][1312]: omit ""summary"".
 
-[Section 80H][1313]: add:
+[Section 80H][1312]: add:
 
 > *   "(4) In proceedings for an offence against subsection (3),---
 >         
@@ -9370,13 +9370,13 @@ Section 6(1): omit ""on indictment"".
 > 
 > 
 
-[Section 96(2)(b)][1314]: omit ""summary"".
+[Section 96(2)(b)][1313]: omit ""summary"".
 
-[Section 96(3)][1314]: insert ""on conviction"" after ""liable"".
+[Section 96(3)][1313]: insert ""on conviction"" after ""liable"".
 
-[Section 96B(4)][1315]: insert ""on conviction"" after ""liable"".
+[Section 96B(4)][1314]: insert ""on conviction"" after ""liable"".
 
-[Section 99C(3) and (4)][1316]: insert ""on conviction"" after ""liable"".
+[Section 99C(3) and (4)][1315]: insert ""on conviction"" after ""liable"".
 
 New section 100A: insert after section 100:
 
@@ -9394,31 +9394,31 @@ New section 100A: insert after section 100:
 > 
 > 
 
-##### [Civil Defence Emergency Management Act 2002][1317] (2002 No 33)
+##### [Civil Defence Emergency Management Act 2002][1316] (2002 No 33)
 
-[Section 104][1318]: omit ""summary"".
+[Section 104][1317]: omit ""summary"".
 
-##### [Civil Union Act 2004][1319] (2004 No 102)
+##### [Civil Union Act 2004][1318] (2004 No 102)
 
-[Section 30][1320]: omit ""on indictment"" in each place where it appears.
+[Section 30][1319]: omit ""on indictment"" in each place where it appears.
 
-[Section 31][1321]: omit ""on indictment"".
+[Section 31][1320]: omit ""on indictment"".
 
-[Section 32][1322]: omit ""on indictment"".
+[Section 32][1321]: omit ""on indictment"".
 
-##### [Climate Change Response Act 2002][1323] (2002 No 40)
+##### [Climate Change Response Act 2002][1322] (2002 No 40)
 
-[Section 129(2)][1324]: omit ""summary"".
+[Section 129(2)][1323]: omit ""summary"".
 
-[Section 130][1325]: omit ""summary"".
+[Section 130][1324]: omit ""summary"".
 
-[Section 131(2)][1326]: omit ""summary"".
+[Section 131(2)][1325]: omit ""summary"".
 
-[Section 132(2)][1327]: omit ""summary"".
+[Section 132(2)][1326]: omit ""summary"".
 
-[Section 133(2)][1328]: omit ""on indictment"".
+[Section 133(2)][1327]: omit ""on indictment"".
 
-[Section 142][1329]: repeal and substitute:
+[Section 142][1328]: repeal and substitute:
 
 > ##### "142 Limitation period for commencement of proceedings
 >     
@@ -9432,57 +9432,57 @@ New section 100A: insert after section 100:
 > 
 > 
 
-##### [Cluster Munitions Prohibition Act 2009][1330] (2009 No 68)
+##### [Cluster Munitions Prohibition Act 2009][1329] (2009 No 68)
 
-[Section 10(4)][1331]: omit ""on indictment"".
+[Section 10(4)][1330]: omit ""on indictment"".
 
-[Section 17(4)][1332]: omit ""summary"".
+[Section 17(4)][1331]: omit ""summary"".
 
-[Section 19(1)(c)][1333]: omit ""summary"".
+[Section 19(1)(c)][1332]: omit ""summary"".
 
-##### [Commerce Act 1986][1334] (1986 No 5)
+##### [Commerce Act 1986][1333] (1986 No 5)
 
-[Section 80E(3)][1335]: repeal.
+[Section 80E(3)][1334]: repeal.
 
-[Section 86B(2)][1336]: omit ""summary"".
+[Section 86B(2)][1335]: omit ""summary"".
 
-[Section 86B(3)][1336]: repeal.
+[Section 86B(3)][1335]: repeal.
 
-[Section 87B(2)][1337]: omit ""summary"".
+[Section 87B(2)][1336]: omit ""summary"".
 
-[Section 87B(3)][1337]: repeal.
+[Section 87B(3)][1336]: repeal.
 
-[Section 99A(3)][1338]: omit ""summary"".
+[Section 99A(3)][1337]: omit ""summary"".
 
-[Section 100(4)][1339]: omit ""summary"".
+[Section 100(4)][1338]: omit ""summary"".
 
-[Section 103(4)][1340]: omit ""summary"".
+[Section 103(4)][1339]: omit ""summary"".
 
-##### [Commissions of Inquiry Act 1908][1341] (1908 No 25)
+##### [Commissions of Inquiry Act 1908][1340] (1908 No 25)
 
-[Section 7(1)][1342]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 7(1)][1341]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 9(3)][1343]: omit ""summary"".
+[Section 9(3)][1342]: omit ""summary"".
 
-[Section 13A(2)(b)][1344]: omit ""(which warrant shall be in a form similar to that of the form prescribed for the purposes of section 39 of the Summary Proceedings Act 1957)"" and substitute ""(which warrant must contain the information prescribed for the purposes of section 165 of the Criminal Procedure Act 2011"".
+[Section 13A(2)(b)][1343]: omit ""(which warrant shall be in a form similar to that of the form prescribed for the purposes of section 39 of the Summary Proceedings Act 1957)"" and substitute ""(which warrant must contain the information prescribed for the purposes of section 165 of the Criminal Procedure Act 2011"".
 
-[Section 13C][1345]: omit ""section 384 of the Crimes Act 1961"" and substitute ""subpart 5 of Part 6 of the Criminal Procedure Act 2011"".
+[Section 13C][1344]: omit ""section 384 of the Crimes Act 1961"" and substitute ""subpart 5 of Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Commodity Levies Act 1990][1346] (1990 No 127)
+##### [Commodity Levies Act 1990][1345] (1990 No 127)
 
-[Section 24(1)][1347]: omit ""summary"".
+[Section 24(1)][1346]: omit ""summary"".
 
-##### [Commonwealth Games Symbol Protection Act 1974][1348] (1974 No 23)
+##### [Commonwealth Games Symbol Protection Act 1974][1347] (1974 No 23)
 
-[Section 3(4)][1349]: omit ""summary"".
+[Section 3(4)][1348]: omit ""summary"".
 
-##### [Companies Act 1993][1350] (1993 No 105)
+##### [Companies Act 1993][1349] (1993 No 105)
 
-[Section 77(4)][1351]: insert ""on conviction"" after ""liable"".
+[Section 77(4)][1350]: insert ""on conviction"" after ""liable"".
 
-[Section 375(1) and (2)][1352]: repeal.
+[Section 375(1) and (2)][1351]: repeal.
 
-[Section 375(3)][1352]: repeal and substitute:
+[Section 375(3)][1351]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,---
 >         
@@ -9494,177 +9494,177 @@ New section 100A: insert after section 100:
 > 
 > 
 
-[Section 382(1)(a)][1353]: omit ""on indictment"" and substitute ""under any of subparagraphs (g) to (j) of section 373(4)"".
+[Section 382(1)(a)][1352]: omit ""on indictment"" and substitute ""under any of subparagraphs (g) to (j) of section 373(4)"".
 
-[Section 383(1)(a)][1354]: omit ""on indictment"" and substitute ""under section 373(4)"".
+[Section 383(1)(a)][1353]: omit ""on indictment"" and substitute ""under section 373(4)"".
 
-[Section 386A(2)][1355]: omit ""on indictment"".
+[Section 386A(2)][1354]: omit ""on indictment"".
 
-##### [Companies (Bondholders Incorporation) Act 1934--35][1356] (1934--35 No 39)
+##### [Companies (Bondholders Incorporation) Act 1934--35][1355] (1934--35 No 39)
 
-[Section 3(3)][1357]: omit ""summary"".
+[Section 3(3)][1356]: omit ""summary"".
 
-[Section 14(2)][1358]: omit ""summary"".
+[Section 14(2)][1357]: omit ""summary"".
 
-[Section 16(3)][1359]: omit ""summary"".
+[Section 16(3)][1358]: omit ""summary"".
 
-##### [Companies Reregistration Act 1993][1360] (1993 No 121)
+##### [Companies Reregistration Act 1993][1359] (1993 No 121)
 
-[Section 17(1) and (2)][1361]: omit ""summary"".
+[Section 17(1) and (2)][1360]: omit ""summary"".
 
-##### [Conservation Act 1987][1362] (1987 No 65)
+##### [Conservation Act 1987][1361] (1987 No 65)
 
-[Section 26ZZP][1363]: omit ""summary"".
+[Section 26ZZP][1362]: omit ""summary"".
 
-[Section 26ZZQ(2)][1364]: omit ""summary"".
+[Section 26ZZQ(2)][1363]: omit ""summary"".
 
-[Section 26ZZR(2)][1365]: omit ""summary"".
+[Section 26ZZR(2)][1364]: omit ""summary"".
 
-[Section 43(1)][1366]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 43(1)][1365]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 43(2)][1366]: repeal and substitute:
+[Section 43(2)][1365]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed."
 > 
 > 
 
-[Section 46(7A)][1367]: omit ""on the information of"" and substitute ""by"".
+[Section 46(7A)][1366]: omit ""on the information of"" and substitute ""by"".
 
-##### [Conservation Law Reform Act 1990][1368] (1990 No 31)
+##### [Conservation Law Reform Act 1990][1367] (1990 No 31)
 
-[Section 62(4)][1369]: omit ""summary"".
+[Section 62(4)][1368]: omit ""summary"".
 
-[Section 63(4)][1370]: omit ""summary"".
+[Section 63(4)][1369]: omit ""summary"".
 
-##### [Continental Shelf Act 1964][1371] (1964 No 28)
+##### [Continental Shelf Act 1964][1370] (1964 No 28)
 
-[Section 5(7)][1372]: omit ""summary"".
+[Section 5(7)][1371]: omit ""summary"".
 
-##### [Contraception, Sterilisation, and Abortion Act 1977][1373] (1977 No 112)
+##### [Contraception, Sterilisation, and Abortion Act 1977][1372] (1977 No 112)
 
-[Section 6(2)][1374]: omit ""summary"".
+[Section 6(2)][1373]: omit ""summary"".
 
-[Section 8(3)][1375]: omit ""summary"".
+[Section 8(3)][1374]: omit ""summary"".
 
-[Section 37(1)][1376]: omit ""summary"".
+[Section 37(1)][1375]: omit ""summary"".
 
-[Section 44(1)][1377]: omit ""summary"".
+[Section 44(1)][1376]: omit ""summary"".
 
-##### [Cook Islands Act 1915][1378] (1915 No 40)
+##### [Cook Islands Act 1915][1377] (1915 No 40)
 
-[Section 155(1)][1379]: omit ""indictable"".
+[Section 155(1)][1378]: omit ""indictable"".
 
-[Section 155(1)][1379]: add ""that are within the jurisdiction of the High Court of New Zealand"".
+[Section 155(1)][1378]: add ""that are within the jurisdiction of the High Court of New Zealand"".
 
-[Section 155(3)][1379]: omit ""indictable"" and substitute ""such"".
+[Section 155(3)][1378]: omit ""indictable"" and substitute ""such"".
 
-[Section 155(3A)][1379]: omit ""information"" and substitute ""charging document"", and omit ""informant"" and substitute ""prosecutor"".
+[Section 155(3A)][1378]: omit ""information"" and substitute ""charging document"", and omit ""informant"" and substitute ""prosecutor"".
 
-##### [Co-operative Companies Act 1996][1380] (1996 No 24)
+##### [Co-operative Companies Act 1996][1379] (1996 No 24)
 
-[Section 10(8) and (9)][1381]: omit ""summary"".
+[Section 10(8) and (9)][1380]: omit ""summary"".
 
-[Section 18(6)][1382]: omit ""summary"".
+[Section 18(6)][1381]: omit ""summary"".
 
-[Section 21(7)][1383]: omit ""summary"".
+[Section 21(7)][1382]: omit ""summary"".
 
-##### [Copyright Act 1994][1384] (1994 No 143)
+##### [Copyright Act 1994][1383] (1994 No 143)
 
-[Section 131A][1385]: repeal.
+[Section 131A][1384]: repeal.
 
-[Section 198(4)][1386]: omit ""summary"".
+[Section 198(4)][1385]: omit ""summary"".
 
-[Section 200(2)][1387]: omit ""summary"".
+[Section 200(2)][1386]: omit ""summary"".
 
-[Section 213(6)][1388]: omit ""summary"".
+[Section 213(6)][1387]: omit ""summary"".
 
-[Section 218(1)][1389]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 218(1)][1388]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 220(2)][1390]: omit ""summary"".
+[Section 220(2)][1389]: omit ""summary"".
 
-[Section 221(1)][1391]: omit ""summary"".
+[Section 221(1)][1390]: omit ""summary"".
 
-[Section 226C(4)][1392]: omit ""on indictment"".
+[Section 226C(4)][1391]: omit ""on indictment"".
 
-[Section 226J(2)][1393]: omit ""on indictment"".
+[Section 226J(2)][1392]: omit ""on indictment"".
 
-[Section 227(1)][1394]: omit ""summary"".
+[Section 227(1)][1393]: omit ""summary"".
 
-[Section 234(q)][1395]: omit ""summary"".
+[Section 234(q)][1394]: omit ""summary"".
 
-##### [Coroners Act 2006][1396] (2006 No 38)
+##### [Coroners Act 2006][1395] (2006 No 38)
 
-[Section 117(1) and (5)][1397]: omit ""Summary Proceedings Act 1957"" and substitute in each case ""Criminal Procedure Act 2011"".
+[Section 117(1) and (5)][1396]: omit ""Summary Proceedings Act 1957"" and substitute in each case ""Criminal Procedure Act 2011"".
 
-[Section 134][1398]: omit ""summary"".
+[Section 134][1397]: omit ""summary"".
 
-[Section 135(1)][1399]: omit ""summary"".
+[Section 135(1)][1398]: omit ""summary"".
 
-[Section 136][1400]: omit ""summary"".
+[Section 136][1399]: omit ""summary"".
 
-[Section 137][1401]: omit ""summary"".
+[Section 137][1400]: omit ""summary"".
 
-[Section 138][1402]: omit ""on indictment"".
+[Section 138][1401]: omit ""on indictment"".
 
-[Section 139][1403]: omit ""summary"".
+[Section 139][1402]: omit ""summary"".
 
-##### [Corporations (Investigation and Management) Act 1989][1404] (1989 No 11)
+##### [Corporations (Investigation and Management) Act 1989][1403] (1989 No 11)
 
-[Section 43(2)][1405]: omit ""on indictment"".
+[Section 43(2)][1404]: omit ""on indictment"".
 
-[Section 67(2)][1406]: omit ""summary"".
+[Section 67(2)][1405]: omit ""summary"".
 
-[Section 68(1)][1407]: omit ""on indictment"".
+[Section 68(1)][1406]: omit ""on indictment"".
 
-[Section 70][1408]: omit ""on indictment"".
+[Section 70][1407]: omit ""on indictment"".
 
 ##### [Costs in Criminal Cases Act 1967][725] (1967 No 129)
 
 [Section 4(3)][816]: omit ""informant or"".
 
-[Section 5(1)][1409]: omit ""information charging him with an offence"" and substitute ""charge"".
+[Section 5(1)][1408]: omit ""information charging him with an offence"" and substitute ""charge"".
 
-[Section 5(1)][1409]: omit ""or where he is discharged under section 184F of the Summary Proceedings Act 1957"".
+[Section 5(1)][1408]: omit ""or where he is discharged under section 184F of the Summary Proceedings Act 1957"".
 
-[Section 5(2)(e)][1409]: omit ""information"" and substitute ""charge"".
+[Section 5(2)(e)][1408]: omit ""information"" and substitute ""charge"".
 
-[Section 5(2)(f)][1409]: omit ""information"" and substitute ""charge"".
+[Section 5(2)(f)][1408]: omit ""information"" and substitute ""charge"".
 
-[Section 5(4)][1409]: omit ""discharged or that any information charging him with an offence"" and substitute ""that any charge"".
+[Section 5(4)][1408]: omit ""discharged or that any information charging him with an offence"" and substitute ""that any charge"".
 
-[Section 7(1)(b)][1410]: omit ""informant"" and substitute ""person who commenced the proceedings"".
+[Section 7(1)(b)][1409]: omit ""informant"" and substitute ""person who commenced the proceedings"".
 
-[Section 7(1)(b)][1410]: omit ""as if it were an order made under Part 2 of the Summary Proceedings Act 1957"" and substitute ""as if it were a fine"".
+[Section 7(1)(b)][1409]: omit ""as if it were an order made under Part 2 of the Summary Proceedings Act 1957"" and substitute ""as if it were a fine"".
 
-[Section 8(1)][1411]: omit ""the Summary Proceedings Act 1957 or the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 8(1)][1410]: omit ""the Summary Proceedings Act 1957 or the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 8(4)][1411]: repeal and substitute:
+[Section 8(4)][1410]: repeal and substitute:
 
 > *   "(4) No Judge, Justice, or Community Magistrate is liable to costs just because an appeal is filed against a determination by that judicial officer."
 > 
 > 
 
-[Section 9(1)][1412]: repeal and substitute:
+[Section 9(1)][1411]: repeal and substitute:
 
 > *   "(1) If a notice of appeal is given under Part 6 of the Criminal Procedure Act 2011 but the appeal is abandoned under that Part, the court appealed to may, subject to any regulations made under this Act, allow the respondent any costs that it thinks fit."
 > 
 > 
 
-[Section 10(1)][1413]: omit ""Part 4 of the Summary Proceedings Act 1957, be included in the certificate of the decision transmitted in accordance with section 134 of that Act"" and substitute ""Part 6 of the Criminal Procedure Act 2011, be included in the notice of the decision sent in accordance with section 342 of that Act"".
+[Section 10(1)][1412]: omit ""Part 4 of the Summary Proceedings Act 1957, be included in the certificate of the decision transmitted in accordance with section 134 of that Act"" and substitute ""Part 6 of the Criminal Procedure Act 2011, be included in the notice of the decision sent in accordance with section 342 of that Act"".
 
-[Section 11][1414]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 11][1413]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Courts Security Act 1999][1415] (1999 No 115)
+##### [Courts Security Act 1999][1414] (1999 No 115)
 
-[Section 30(2)][1416]: omit ""summary"".
+[Section 30(2)][1415]: omit ""summary"".
 
-##### [Credit Contracts and Consumer Finance Act 2003][1417] (2003 No 52)
+##### [Credit Contracts and Consumer Finance Act 2003][1416] (2003 No 52)
 
-[Section 103(1) and (3)][1418]: omit ""summary"".
+[Section 103(1) and (3)][1417]: omit ""summary"".
 
-[Section 103(2)][1418]: omit ""on indictment"".
+[Section 103(2)][1417]: omit ""on indictment"".
 
-[Section 105][1419]: repeal and substitute:
+[Section 105][1418]: repeal and substitute:
 
 > ##### "105 When proceedings may be commenced for certain offences
 >     
@@ -9678,15 +9678,15 @@ New section 100A: insert after section 100:
 > 
 > 
 
-[Section 116(1)(a)][1420]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 116(1)(a)][1419]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Credit (Repossession) Act 1997][1421] (1997 No 85)
+##### [Credit (Repossession) Act 1997][1420] (1997 No 85)
 
-[Section 16(2)][1422]: omit ""summary"".
+[Section 16(2)][1421]: omit ""summary"".
 
-[Section 19][1423]: omit ""summary"".
+[Section 19][1422]: omit ""summary"".
 
-[Section 41][1424]: repeal and substitute:
+[Section 41][1423]: repeal and substitute:
 
 > ##### "41 Time for filing charging document
 >     
@@ -9694,9 +9694,9 @@ New section 100A: insert after section 100:
 > 
 > 
 
-##### [Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980][1425] (1980 No 44)
+##### [Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980][1424] (1980 No 44)
 
-Definition of _conviction on indictment_ in [section 2(1)][1426]: repeal.
+Definition of _conviction on indictment_ in [section 2(1)][1425]: repeal.
 
 [Section 3(2)][891]: omit ""on indictment"".
 
@@ -9704,33 +9704,33 @@ Definition of _conviction on indictment_ in [section 2(1)][1426]: repeal.
 
 [Section 5(2)][893]: omit ""on indictment"".
 
-[Section 6(2)][1427]: omit ""on indictment"".
+[Section 6(2)][1426]: omit ""on indictment"".
 
 [Section 8(3)][894]: omit ""on indictment"".
 
-##### [Crimes of Torture Act 1989][1428] (1989 No 106)
+##### [Crimes of Torture Act 1989][1427] (1989 No 106)
 
-Definition of _conviction on indictment_ in [section 2(1)][1429]: repeal.
+Definition of _conviction on indictment_ in [section 2(1)][1428]: repeal.
 
 [Section 3(1)][895]: omit ""on indictment"".
 
 [Section 3(2)][895]: omit ""on indictment"".
 
-##### [Criminal Investigations (Bodily Samples) Act 1995][1430] (1995 No 55)
+##### [Criminal Investigations (Bodily Samples) Act 1995][1429] (1995 No 55)
 
-Definition of _charged_ in [section 2(1)][1431]: omit ""an information"" and substitute ""a charging document"".
+Definition of _charged_ in [section 2(1)][1430]: omit ""an information"" and substitute ""a charging document"".
 
-Paragraph (c) of the definition of _conviction_ in [section 2(1)][1431]: omit ""an information"" and substitute ""a charge"".
+Paragraph (c) of the definition of _conviction_ in [section 2(1)][1430]: omit ""an information"" and substitute ""a charge"".
 
-Definition of _indictable offence_ in [section 2(1)][1431]: repeal.
+Definition of _indictable offence_ in [section 2(1)][1430]: repeal.
 
-[Section 8(1A)][1432]: repeal and substitute:
+[Section 8(1A)][1431]: repeal and substitute:
 
 > *   "(1A) However, a suspect who is a child, or was a child at the time the offence is alleged to have been committed, may consent to the taking of a buccal sample as a result of a Part 2A request if, in accordance with section 272 of the Children, Young Persons, and Their Families Act 1989, he or she may not be lawfully prosecuted under the Criminal Procedure Act 2011 for that offence."
 > 
 > 
 
-[Section 24C][1433]: repeal and substitute:
+[Section 24C][1432]: repeal and substitute:
 
 > ##### "24C Authority to obtain buccal sample from suspect
 >     
@@ -9746,27 +9746,27 @@ Definition of _indictable offence_ in [section 2(1)][1431]: repeal.
 > 
 > 
 
-[Section 24D(a)][1434]: omit ""indictable"".
+[Section 24D(a)][1433]: omit ""indictable"".
 
-[Section 24F(b)(i)][1435]: omit ""indictable"".
+[Section 24F(b)(i)][1434]: omit ""indictable"".
 
-[Section 26(ac)(i)][1436]: omit ""information"" and substitute ""charge"".
+[Section 26(ac)(i)][1435]: omit ""information"" and substitute ""charge"".
 
-[Section 26A(3)(b)][1437]: omit ""information"" and substitute ""charge"".
+[Section 26A(3)(b)][1436]: omit ""information"" and substitute ""charge"".
 
-[Section 77(1) and (3)][1438]: omit ""summary"".
+[Section 77(1) and (3)][1437]: omit ""summary"".
 
-[Section 77(2)][1438]: omit ""on indictment"".
+[Section 77(2)][1437]: omit ""on indictment"".
 
-##### [Criminal Proceeds (Recovery) Act 2009][1439] (2009 No 8)
+##### [Criminal Proceeds (Recovery) Act 2009][1438] (2009 No 8)
 
-Paragraph (b)(ii) of the definition of _prosecutor_ in [section 5][1440]: omit ""laid the information in the proceedings"" and substitute ""commenced the proceedings"".
+Paragraph (b)(ii) of the definition of _prosecutor_ in [section 5][1439]: omit ""laid the information in the proceedings"" and substitute ""commenced the proceedings"".
 
-Paragraph (b)(iii) of the definition of _prosecutor_ in [section 5][1440]: omit ""laid the information"" and substitute ""commenced the proceedings"".
+Paragraph (b)(iii) of the definition of _prosecutor_ in [section 5][1439]: omit ""laid the information"" and substitute ""commenced the proceedings"".
 
-[Section 10(2)][1441]: omit ""the Summary Proceedings Act 1957 or the Crimes Act 1961, as the case requires"" and substitute ""subpart 4 of Part 6 of the Criminal Procedure Act 2011"".
+[Section 10(2)][1440]: omit ""the Summary Proceedings Act 1957 or the Crimes Act 1961, as the case requires"" and substitute ""subpart 4 of Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 20(b)][1442]: repeal and substitute:
+[Section 20(b)][1441]: repeal and substitute:
 
 > *   "(b) in the case of an application made under section 26,---
 >         
@@ -9778,289 +9778,289 @@ Paragraph (b)(iii) of the definition of _prosecutor_ in [section 5][1440]: omit 
 > 
 > 
 
-[Section 78(2)(a)][1443]: repeal and substitute:
+[Section 78(2)(a)][1442]: repeal and substitute:
 
 > *   "(a) subpart 6 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications:".
 > 
 > 
 
-[Section 78(2)(b)][1443]: repeal.
+[Section 78(2)(b)][1442]: repeal.
 
-[Section 101(4)][1444]: omit ""an information has been laid"" and substitute ""a charging document has been filed"".
+[Section 101(4)][1443]: omit ""an information has been laid"" and substitute ""a charging document has been filed"".
 
-[Section 101(5)][1444]: omit ""an information"" in each place where it appears and substitute in each case ""a charging document"".
+[Section 101(5)][1443]: omit ""an information"" in each place where it appears and substitute in each case ""a charging document"".
 
-[Section 101(5)][1444]: omit ""laid"" in each place where it appears and substitute in each case ""filed"".
+[Section 101(5)][1443]: omit ""laid"" in each place where it appears and substitute in each case ""filed"".
 
-[Section 150(2)][1445]: omit ""on indictment"".
+[Section 150(2)][1444]: omit ""on indictment"".
 
-[Section 151(2)][1446]: omit ""on indictment"".
+[Section 151(2)][1445]: omit ""on indictment"".
 
-[Section 152(3)][1446]: omit ""indictment"" and substitute ""conviction"".
+[Section 152(3)][1445]: omit ""indictment"" and substitute ""conviction"".
 
-[Section 154][1447]: omit ""indictment"" and substitute ""conviction"".
+[Section 154][1446]: omit ""indictment"" and substitute ""conviction"".
 
-[Section 155][1448]: omit ""indictment"" and substitute ""conviction"".
+[Section 155][1447]: omit ""indictment"" and substitute ""conviction"".
 
-##### [Criminal Records (Clean Slate) Act 2004][1449] (2004 No 36)
+##### [Criminal Records (Clean Slate) Act 2004][1448] (2004 No 36)
 
-Definition of _offence_ in [section 4][1450]: repeal.
+Definition of _offence_ in [section 4][1449]: repeal.
 
-[Section 13(4)][1451]: omit ""summary"".
+[Section 13(4)][1450]: omit ""summary"".
 
-[Section 17(2)][1452]: omit ""summary"".
+[Section 17(2)][1451]: omit ""summary"".
 
-[Section 18(2)][1453]: omit ""summary"".
+[Section 18(2)][1452]: omit ""summary"".
 
-[Section 21(1)(a)][1454]: omit ""section 71(4) of the Summary Proceedings Act 1957"" and substitute ""section 184 of the Criminal Procedure Act 2011"".
+[Section 21(1)(a)][1453]: omit ""section 71(4) of the Summary Proceedings Act 1957"" and substitute ""section 184 of the Criminal Procedure Act 2011"".
 
-##### [Crown Entities Act 2004][1455] (2004 No 115)
+##### [Crown Entities Act 2004][1454] (2004 No 115)
 
-[Section 172(1) and (2)][1456]: omit ""summary"".
+[Section 172(1) and (2)][1455]: omit ""summary"".
 
-##### [Crown Grants Act 1908][1457] (1908 No 33)
+##### [Crown Grants Act 1908][1456] (1908 No 33)
 
-[Section 45(4) and (5)][1458]: repeal.
+[Section 45(4) and (5)][1457]: repeal.
 
-[Schedule 2][1459], Form 2: repeal.
+[Schedule 2][1458], Form 2: repeal.
 
-##### [Crown Minerals Act 1991][1460] (1991 No 70)
+##### [Crown Minerals Act 1991][1459] (1991 No 70)
 
-[Section 100(4)][1461]: repeal and substitute:
+[Section 100(4)][1460]: repeal and substitute:
 
 > *   "(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 12 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the Secretary."
 > 
 > 
 
-[Section 101(1), (2), and (3)][1462]: omit ""summary"".
+[Section 101(1), (2), and (3)][1461]: omit ""summary"".
 
-##### [Crown Organisations (Criminal Liability) Act 2002][1463] (2002 No 37)
+##### [Crown Organisations (Criminal Liability) Act 2002][1462] (2002 No 37)
 
 [Section 6(1)][556]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 8(5)][1464]: omit ""sections 77A and 115A of the Summary Proceedings Act 1957"" and substitute ""sections 176 and 246 of the Criminal Procedure Act 2011"".
+[Section 8(5)][1463]: omit ""sections 77A and 115A of the Summary Proceedings Act 1957"" and substitute ""sections 176 and 246 of the Criminal Procedure Act 2011"".
 
-##### [Crown Proceedings Act 1950][1465] (1950 No 54)
+##### [Crown Proceedings Act 1950][1464] (1950 No 54)
 
-[Section 15(1I)][1466]: omit ""summary"".
+[Section 15(1I)][1465]: omit ""summary"".
 
-##### [Customs and Excise Act 1996][1467] (1996 No 27)
+##### [Customs and Excise Act 1996][1466] (1996 No 27)
 
-[Section 130(e)][1468]: omit ""an information for an offence against this Act has been laid"" and substitute ""a charging document for an offence against this Act has been filed"".
+[Section 130(e)][1467]: omit ""an information for an offence against this Act has been laid"" and substitute ""a charging document for an offence against this Act has been filed"".
 
-[Section 166(5)(a)][1469]: omit ""the Summary Proceedings Act 1957 or, as the case may require, the time prescribed by the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 166(5)(a)][1468]: omit ""the Summary Proceedings Act 1957 or, as the case may require, the time prescribed by the Crimes Act 1961"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 166D(3)(a)][1470]: omit ""an information is laid"" and substitute ""a charging document is filed"".
+[Section 166D(3)(a)][1469]: omit ""an information is laid"" and substitute ""a charging document is filed"".
 
-[Section 174(4)][1471]: repeal and substitute:
+[Section 174(4)][1470]: repeal and substitute:
 
 > *   "(4) If the person so delivered into custody is issued with a summons pursuant to sections 28 and 30 of the Criminal Procedure Act 2011, the duties under section 31 of that Act relating to the filing of a charging document are the duties of a Customs officer and not of a constable."
 > 
 > 
 
-[Section 182(2)][1472]: omit ""on indictment"".
+[Section 182(2)][1471]: omit ""on indictment"".
 
-[Section 183(2)][1473]: omit ""on indictment"".
+[Section 183(2)][1472]: omit ""on indictment"".
 
-[Section 205(6)][1474]: omit ""on indictment"".
+[Section 205(6)][1473]: omit ""on indictment"".
 
-[Section 209(5)][1475]: omit ""on indictment"".
+[Section 209(5)][1474]: omit ""on indictment"".
 
-[Section 220][1476]: repeal.
+[Section 220][1475]: repeal.
 
-[Heading to section 221][1477]: omit and substitute ""**Filing of charging document**"".
+[Heading to section 221][1476]: omit and substitute ""**Filing of charging document**"".
 
-[Section 221(1)][1477]: omit ""Every information under the Summary Proceedings Act 1957 for any offence against this Act (other than one for an offence against section 216 of this Act) must be laid by"" and substitute ""Proceedings for any offence against this Act (other than for an offence against section 216) must be commenced by"".
+[Section 221(1)][1476]: omit ""Every information under the Summary Proceedings Act 1957 for any offence against this Act (other than one for an offence against section 216 of this Act) must be laid by"" and substitute ""Proceedings for any offence against this Act (other than for an offence against section 216) must be commenced by"".
 
-[Section 221(3)][1477]: omit ""An information under the Summary Proceedings Act 1957 for an offence against section 216 of this Act must be laid by"" and substitute ""Proceedings for an offence against section 216 of this Act must be commenced by"".
+[Section 221(3)][1476]: omit ""An information under the Summary Proceedings Act 1957 for an offence against section 216 of this Act must be laid by"" and substitute ""Proceedings for an offence against section 216 of this Act must be commenced by"".
 
-[Section 221(4)][1477]: repeal and substitute:
+[Section 221(4)][1476]: repeal and substitute:
 
 > *   "(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 5 years after the date on which the offence was committed."
 > 
 > 
 
-[Section 223(2)][1478]: omit ""an information has been laid"" and substitute ""a charging document has been filed"".
+[Section 223(2)][1477]: omit ""an information has been laid"" and substitute ""a charging document has been filed"".
 
-[Section 239(1)][1479]: omit ""indictable offence"" and substitute ""offence against section 182(2), 183(2), 205(6), or 209(5)"".
+[Section 239(1)][1478]: omit ""indictable offence"" and substitute ""offence against section 182(2), 183(2), 205(6), or 209(5)"".
 
-[Section 239(1)][1479]: omit ""information"" and substitute ""charge"".
+[Section 239(1)][1478]: omit ""information"" and substitute ""charge"".
 
-[Section 240][1480]: omit ""indictable offence"" and substitute ""offence against section 182(1), 183(1), 205(5), or 209(1A)"".
+[Section 240][1479]: omit ""indictable offence"" and substitute ""offence against section 182(1), 183(1), 205(5), or 209(1A)"".
 
-[Section 265(1)][1481]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 265(1)][1480]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-Paragraph (d) of the definition of _fine_ in [section 280C][1482]: repeal.
+Paragraph (d) of the definition of _fine_ in [section 280C][1481]: repeal.
 
-##### [Dairy Industry Restructuring Act 2001][1483] (2001 No 51)
+##### [Dairy Industry Restructuring Act 2001][1482] (2001 No 51)
 
-[Section 31(1) and (2)][1484]: omit ""summary"".
+[Section 31(1) and (2)][1483]: omit ""summary"".
 
-[Section 33(2)][1485]: omit ""informant"" and substitute ""prosecutor"".
+[Section 33(2)][1484]: omit ""informant"" and substitute ""prosecutor"".
 
-[Section 35(2)][1486]: omit ""summary"".
+[Section 35(2)][1485]: omit ""summary"".
 
-[Section 41(3)][1487]: omit ""summary"".
+[Section 41(3)][1486]: omit ""summary"".
 
-[Section 67(3) and (4)][1488]: omit ""summary"".
+[Section 67(3) and (4)][1487]: omit ""summary"".
 
-[Section 118(3) and (4)][1489]: omit ""summary"".
+[Section 118(3) and (4)][1488]: omit ""summary"".
 
-##### [Defence Act 1990][1490] (1990 No 28)
+##### [Defence Act 1990][1489] (1990 No 28)
 
-[Section 82][1491]: omit ""summary"".
+[Section 82][1490]: omit ""summary"".
 
-[Section 83][1492]: omit ""summary"".
+[Section 83][1491]: omit ""summary"".
 
-[Section 84][1493]: omit ""summary"".
+[Section 84][1492]: omit ""summary"".
 
-[Section 85][1494]: omit ""summary"".
+[Section 85][1493]: omit ""summary"".
 
-[Section 86(1)][1495]: omit ""summary"".
+[Section 86(1)][1494]: omit ""summary"".
 
-[Section 87(2) and (3)][1496]: omit ""summary"".
+[Section 87(2) and (3)][1495]: omit ""summary"".
 
-[Section 88][1497]: omit ""summary"".
+[Section 88][1496]: omit ""summary"".
 
-[Section 89(1)][1498]: omit ""summary"".
+[Section 89(1)][1497]: omit ""summary"".
 
-[Section 93(2)(h)][1499]: omit ""summary"".
+[Section 93(2)(h)][1498]: omit ""summary"".
 
-[Section 101(1)(gc)][1500]: omit ""summary"".
+[Section 101(1)(gc)][1499]: omit ""summary"".
 
-##### [Designs Act 1953][1501] (1953 No 65)
+##### [Designs Act 1953][1500] (1953 No 65)
 
-[Section 42(1)][1502]: omit ""on indictment"".
+[Section 42(1)][1501]: omit ""on indictment"".
 
-[Section 42][1502]: add:
+[Section 42][1501]: add:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under subsection (1)."
 > 
 > 
 
-[Section 43(1)][1503]: omit ""on indictment"".
+[Section 43(1)][1502]: omit ""on indictment"".
 
-[Section 43][1503]: add as subsection (2):
+[Section 43][1502]: add as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under subsection (1)."
 > 
 > 
 
-[Section 44(1) and (2)][1504]: omit ""summary"".
+[Section 44(1) and (2)][1503]: omit ""summary"".
 
-##### [Disputes Tribunals Act 1988][1505] (1988 No 110)
+##### [Disputes Tribunals Act 1988][1504] (1988 No 110)
 
-[Section 56(1)][1506]: omit ""summary"".
+[Section 56(1)][1505]: omit ""summary"".
 
-[Section 58(1)][1507]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
+[Section 58(1)][1506]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
 
-##### [Dog Control Act 1996][1508] (1996 No 13)
+##### [Dog Control Act 1996][1507] (1996 No 13)
 
-[Section 18][1509]: omit ""summary"".
+[Section 18][1508]: omit ""summary"".
 
-[Section 19(2)][1510]: omit ""summary"".
+[Section 19(2)][1509]: omit ""summary"".
 
-[Section 19A(2)][1511]: omit ""summary"".
+[Section 19A(2)][1510]: omit ""summary"".
 
-[Section 20(5)][1512]: omit ""summary"".
+[Section 20(5)][1511]: omit ""summary"".
 
-[Section 21(3)(a)][1513]: repeal and substitute:
-
-> *   "(a) that person has been ordered to pay a fine and costs under section 375 of the Criminal Procedure Act 2011, or is deemed to have been so ordered under section 21(5) of the Summary Proceedings Act 1957; or".
-> 
-> 
-
-[Section 23A(2)][1514]: omit ""summary"".
-
-[Section 24(5)][1515]: omit ""summary"".
-
-[Section 25(2)(a)][1516]: repeal and substitute:
+[Section 21(3)(a)][1512]: repeal and substitute:
 
 > *   "(a) that person has been ordered to pay a fine and costs under section 375 of the Criminal Procedure Act 2011, or is deemed to have been so ordered under section 21(5) of the Summary Proceedings Act 1957; or".
 > 
 > 
 
-[Section 28(5)][1517]: omit ""summary"".
+[Section 23A(2)][1513]: omit ""summary"".
 
-[Section 30(1)(a)][1518]: omit ""section 78A(1) of the Summary Proceedings Act 1957, and of every order deemed to have been made under section 21(5) of that Act"" and substitute ""section 375 of the Criminal Procedure Act 2011, and of every order deemed to have been made under section 21(5) of the Summary Proceedings Act 1957"".
+[Section 24(5)][1514]: omit ""summary"".
 
-[Section 30(1)(a)(i)][1518]: omit ""an information was laid by"" and substitute ""a charging document was filed in the name of"".
+[Section 25(2)(a)][1515]: repeal and substitute:
 
-[Section 30A(4)][1519]: omit ""summary"".
+> *   "(a) that person has been ordered to pay a fine and costs under section 375 of the Criminal Procedure Act 2011, or is deemed to have been so ordered under section 21(5) of the Summary Proceedings Act 1957; or".
+> 
+> 
 
-[Section 32(2) and (4)][1520]: omit ""summary"".
+[Section 28(5)][1516]: omit ""summary"".
 
-[Section 33EC(1)][1521]: omit ""summary"".
+[Section 30(1)(a)][1517]: omit ""section 78A(1) of the Summary Proceedings Act 1957, and of every order deemed to have been made under section 21(5) of that Act"" and substitute ""section 375 of the Criminal Procedure Act 2011, and of every order deemed to have been made under section 21(5) of the Summary Proceedings Act 1957"".
 
-[Section 33F(3)][1522]: omit ""summary"".
+[Section 30(1)(a)(i)][1517]: omit ""an information was laid by"" and substitute ""a charging document was filed in the name of"".
 
-[Section 35(5)(a)][1523]: omit ""information or complaint"" and substitute ""charge"".
+[Section 30A(4)][1518]: omit ""summary"".
 
-[Section 36A(6)][1524]: omit ""summary"".
+[Section 32(2) and (4)][1519]: omit ""summary"".
 
-[Section 41][1525]: omit ""summary"".
+[Section 33EC(1)][1520]: omit ""summary"".
 
-[Section 41A][1526]: omit ""summary"".
+[Section 33F(3)][1521]: omit ""summary"".
 
-[Section 42(1)][1527]: omit ""summary"".
+[Section 35(5)(a)][1522]: omit ""information or complaint"" and substitute ""charge"".
 
-[Section 46(4)][1528]: omit ""summary"".
+[Section 36A(6)][1523]: omit ""summary"".
 
-[Section 48(3)][1529]: omit ""summary"".
+[Section 41][1524]: omit ""summary"".
 
-[Section 49(4)][1530]: omit ""summary"".
+[Section 41A][1525]: omit ""summary"".
 
-[Section 51(1)][1531]: omit ""summary"".
+[Section 42(1)][1526]: omit ""summary"".
 
-[Section 52A(3)][1532]: omit ""summary"".
+[Section 46(4)][1527]: omit ""summary"".
 
-[Section 53(1)][1533]: omit ""summary"".
+[Section 48(3)][1528]: omit ""summary"".
 
-[Section 54(2)][1534]: omit ""summary"".
+[Section 49(4)][1529]: omit ""summary"".
 
-[Section 54A(2)][1535]: omit ""summary"".
+[Section 51(1)][1530]: omit ""summary"".
 
-[Section 55(7)][1536]: omit ""summary"".
+[Section 52A(3)][1531]: omit ""summary"".
 
-[Section 57(2)][1537]: omit ""summary"".
+[Section 53(1)][1532]: omit ""summary"".
 
-[Section 57A(2)(a)][1538]: omit ""summary"".
+[Section 54(2)][1533]: omit ""summary"".
 
-[Section 61(2)][1539]: omit ""summary"".
+[Section 54A(2)][1534]: omit ""summary"".
 
-[Section 62(4) and (5)][1540]: omit ""summary"".
+[Section 55(7)][1535]: omit ""summary"".
 
-[Section 64(6)][1541]: omit ""summary"".
+[Section 57(2)][1536]: omit ""summary"".
 
-[Section 65(2)(a)][1542]: repeal and substitute:
+[Section 57A(2)(a)][1537]: omit ""summary"".
+
+[Section 61(2)][1538]: omit ""summary"".
+
+[Section 62(4) and (5)][1539]: omit ""summary"".
+
+[Section 64(6)][1540]: omit ""summary"".
+
+[Section 65(2)(a)][1541]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 66(3)][1543]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 66(3)][1542]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 72(2)][1544]: omit ""summary"".
+[Section 72(2)][1543]: omit ""summary"".
 
-[Section 77][1545]: omit ""informant"" and substitute ""person who commenced the proceedings"".
+[Section 77][1544]: omit ""informant"" and substitute ""person who commenced the proceedings"".
 
-[Section 78(3)][1546]: omit ""summary"".
+[Section 78(3)][1545]: omit ""summary"".
 
 ##### [Domestic Violence Act 1995][850] (1995 No 86)
 
-[Section 49(3)][1547]: omit ""on indictment"".
+[Section 49(3)][1546]: omit ""on indictment"".
 
-[Section 49A(2)][1548]: omit ""summary"".
+[Section 49A(2)][1547]: omit ""summary"".
 
-[Section 82(4)][1549]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Section 82(4)][1548]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
 Section 124I(2)(a): omit ""summary"".
 
-##### [Door to Door Sales Act 1967][1550] (1967 No 126)
+##### [Door to Door Sales Act 1967][1549] (1967 No 126)
 
-[Section 14(1) and (2)][1551]: omit ""summary"".
+[Section 14(1) and (2)][1550]: omit ""summary"".
 
-[Section 15][1552]: repeal and substitute:
+[Section 15][1551]: repeal and substitute:
 
 > ##### "15 Time for filing charging document
 >     
@@ -10068,275 +10068,275 @@ Section 124I(2)(a): omit ""summary"".
 > 
 > 
 
-##### [Driftnet Prohibition Act 1991][1553] (1991 No 18)
+##### [Driftnet Prohibition Act 1991][1552] (1991 No 18)
 
-[Section 14(2)(b)][1554]: repeal and substitute:
+[Section 14(2)(b)][1553]: repeal and substitute:
 
 > *   "(b) if the person so delivered into custody is issued with a summons pursuant to sections 28 to 30 of the Criminal Procedure Act 2011, the duties under section 31 of that Act are the duties of an enforcement officer and not of a constable."
 > 
 > 
 
-[Section 16(2)][1555]: omit ""lay any information or"" and substitute ""file any"".
+[Section 16(2)][1554]: omit ""lay any information or"" and substitute ""file any"".
 
-[Section 26(2)][1556]: repeal.
+[Section 26(2)][1555]: repeal.
 
-[Section 26(3)][1556]: repeal and substitute:
+[Section 26(3)][1555]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed."
 > 
 > 
 
-##### [Earthquake Commission Act 1993][1557] (1993 No 84)
+##### [Earthquake Commission Act 1993][1556] (1993 No 84)
 
-[Section 35(1) and (2)][1558]: omit ""summary"".
+[Section 35(1) and (2)][1557]: omit ""summary"".
 
-##### [Education Act 1964][1559] (1964 No 135)
+##### [Education Act 1964][1558] (1964 No 135)
 
-[Section 162(3)][1560]: omit ""summary"".
+[Section 162(3)][1559]: omit ""summary"".
 
-##### [Education Act 1989][1561] (1989 No 80)
+##### [Education Act 1989][1560] (1989 No 80)
 
-[Section 9(3)][1562]: omit ""summary"".
+[Section 9(3)][1561]: omit ""summary"".
 
-[Section 24(1)][1563]: omit ""summary"".
+[Section 24(1)][1562]: omit ""summary"".
 
-[Section 28(3)][1564]: omit ""summary"".
+[Section 28(3)][1563]: omit ""summary"".
 
-[Section 29(1)][1565]: omit ""summary"".
+[Section 29(1)][1564]: omit ""summary"".
 
-[Section 30(2)][1566]: omit ""summary"".
+[Section 30(2)][1565]: omit ""summary"".
 
-[Section 31(6)][1567]: omit ""summary"".
+[Section 31(6)][1566]: omit ""summary"".
 
-[Section 31(7)][1567]: omit ""lay informations"" and substitute ""file charging documents"".
+[Section 31(7)][1566]: omit ""lay informations"" and substitute ""file charging documents"".
 
-[Section 35R(4)][1568]: omit ""summary"".
+[Section 35R(4)][1567]: omit ""summary"".
 
-[Section 137(1) and (2)][1569]: omit ""summary"".
+[Section 137(1) and (2)][1568]: omit ""summary"".
 
 Section 139AO(1): omit ""summary"".
 
-[Section 139AY(3)][1570]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 139AY(3)][1569]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 139AZ(1) and (2)][1571]: omit ""summary"".
+[Section 139AZ(1) and (2)][1570]: omit ""summary"".
 
-[Section 139C(1)][1572]: omit ""summary"".
+[Section 139C(1)][1571]: omit ""summary"".
 
-[Section 144C(1)(c) and (e)(vii)][1573]: omit ""summary"".
+[Section 144C(1)(c) and (e)(vii)][1572]: omit ""summary"".
 
-[Section 144D(4)][1574]: omit ""summary"".
+[Section 144D(4)][1573]: omit ""summary"".
 
-[Section 226B(1)][1575]: omit ""summary"".
+[Section 226B(1)][1574]: omit ""summary"".
 
 Section 238C(1): omit ""summary"".
 
-[Section 292(11)][1576]: omit ""summary"".
+[Section 292(11)][1575]: omit ""summary"".
 
-[Section 307AA(1), (2), and (2A)][1577]: omit ""summary"".
+[Section 307AA(1), (2), and (2A)][1576]: omit ""summary"".
 
-[Section 307AA(3)][1577]: repeal and substitute:
+[Section 307AA(3)][1576]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section ends on the date that is 12 months after the date on which the offence was brought to the Ministry's attention."
 > 
 > 
 
-[Section 315(3)][1578]: omit ""summary"".
+[Section 315(3)][1577]: omit ""summary"".
 
-[Section 317(2)(j)][1579]: omit ""summary"".
+[Section 317(2)(j)][1578]: omit ""summary"".
 
-[Section 319G][1580]: omit ""summary"".
+[Section 319G][1579]: omit ""summary"".
 
-[Section 319H][1581]: omit ""summary"".
+[Section 319H][1580]: omit ""summary"".
 
-[Section 346(1) and (2)][1582]: omit ""summary"".
+[Section 346(1) and (2)][1581]: omit ""summary"".
 
-##### [Electoral Act 1993][1583] (1993 No 87)
+##### [Electoral Act 1993][1582] (1993 No 87)
 
-[Section 30][1584]: omit ""any indictable offence"" and substitute ""an offence punishable by imprisonment for life or by 2 or more years' imprisonment"".
+[Section 30][1583]: omit ""any indictable offence"" and substitute ""an offence punishable by imprisonment for life or by 2 or more years' imprisonment"".
 
-[Section 48][1585]: omit ""summary"".
+[Section 48][1584]: omit ""summary"".
 
-[Section 55(1)(d)][1586]: omit ""a crime punishable by imprisonment for a term of 2 years or upwards"" and substitute ""an offence punishable by imprisonment for life or by 2 or more years' imprisonment"".
+[Section 55(1)(d)][1585]: omit ""a crime punishable by imprisonment for a term of 2 years or upwards"" and substitute ""an offence punishable by imprisonment for life or by 2 or more years' imprisonment"".
 
-[Section 56(5)][1587]: omit ""summary"".
+[Section 56(5)][1586]: omit ""summary"".
 
-[Section 57(1)][1588]: omit ""a crime punishable by imprisonment for a term of 2 years or upwards"" and substitute ""an offence punishable by imprisonment for life or by 2 or more years' imprisonment"".
+[Section 57(1)][1587]: omit ""a crime punishable by imprisonment for a term of 2 years or upwards"" and substitute ""an offence punishable by imprisonment for life or by 2 or more years' imprisonment"".
 
-[Section 57(2)][1588]: omit ""summary"".
+[Section 57(2)][1587]: omit ""summary"".
 
-[Section 58(2)][1589]: omit ""summary"".
+[Section 58(2)][1588]: omit ""summary"".
 
-[Section 82(8)][1590]: omit ""summary"".
+[Section 82(8)][1589]: omit ""summary"".
 
-[Section 90(4)][1591]: omit ""summary"".
+[Section 90(4)][1590]: omit ""summary"".
 
-[Section 116(2)][1592]: omit ""summary"".
+[Section 116(2)][1591]: omit ""summary"".
 
-[Section 117(4) and (6)][1593]: omit ""summary"".
+[Section 117(4) and (6)][1592]: omit ""summary"".
 
-[Section 117A(2)][1594]: omit ""summary"".
+[Section 117A(2)][1593]: omit ""summary"".
 
-[Section 118][1595]: omit ""summary"".
+[Section 118][1594]: omit ""summary"".
 
-[Section 119][1596]: omit ""summary"".
+[Section 119][1595]: omit ""summary"".
 
-[Section 121][1597]: omit ""summary"".
+[Section 121][1596]: omit ""summary"".
 
-[Section 154(2)][1598]: omit ""summary"".
+[Section 154(2)][1597]: omit ""summary"".
 
-[Section 162(3) and (4)][1599]: omit ""summary"".
+[Section 162(3) and (4)][1598]: omit ""summary"".
 
-[Section 165(2)][1600]: omit ""summary"".
+[Section 165(2)][1599]: omit ""summary"".
 
-[Section 166(3) and (4)][1601]: omit ""summary"".
+[Section 166(3) and (4)][1600]: omit ""summary"".
 
-[Section 167(4)][1602]: omit ""summary"".
+[Section 167(4)][1601]: omit ""summary"".
 
-[Section 170(5)][1603]: omit ""summary"".
+[Section 170(5)][1602]: omit ""summary"".
 
-[Section 174G(1)][1604]: omit ""summary"".
+[Section 174G(1)][1603]: omit ""summary"".
 
-[Section 196(4)][1605]: omit ""summary"".
+[Section 196(4)][1604]: omit ""summary"".
 
-[Section 196A(1) and (2)][1606]: omit ""summary"".
+[Section 196A(1) and (2)][1605]: omit ""summary"".
 
-[Section 197(1)][1607]: omit ""summary"".
+[Section 197(1)][1606]: omit ""summary"".
 
-[Section 200][1608]: omit ""summary"".
+[Section 200][1607]: omit ""summary"".
 
-[Section 201][1609]: omit ""on indictment"" in each place where it appears.
+[Section 201][1608]: omit ""on indictment"" in each place where it appears.
 
-[Section 204E(4)][1610]: omit ""summary"".
+[Section 204E(4)][1609]: omit ""summary"".
 
-[Section 205N(1)][1611]: omit ""summary"".
+[Section 205N(1)][1610]: omit ""summary"".
 
-[Section 205O(2)][1612]: omit ""summary"".
+[Section 205O(2)][1611]: omit ""summary"".
 
-[Section 206N(1)][1613]: omit ""summary"".
+[Section 206N(1)][1612]: omit ""summary"".
 
-[Section 206O(2)][1614]: omit ""summary"".
+[Section 206O(2)][1613]: omit ""summary"".
 
-[Section 206ZE(1)][1615]: omit ""summary"".
+[Section 206ZE(1)][1614]: omit ""summary"".
 
-[Section 206ZF(2)][1616]: omit ""summary"".
+[Section 206ZF(2)][1615]: omit ""summary"".
 
-[Section 207D][1617]: omit ""summary"".
+[Section 207D][1616]: omit ""summary"".
 
-[Section 207F][1618]: omit ""summary"".
+[Section 207F][1617]: omit ""summary"".
 
-[Section 207H][1619]: omit ""summary"".
+[Section 207H][1618]: omit ""summary"".
 
-[Section 207M(2)][1620]: omit ""summary"".
+[Section 207M(2)][1619]: omit ""summary"".
 
-[Section 207N(2)][1621]: omit ""summary"".
+[Section 207N(2)][1620]: omit ""summary"".
 
-[Section 209B(1)][1622]: omit ""summary"".
+[Section 209B(1)][1621]: omit ""summary"".
 
-[Section 209C(2)][1623]: omit ""summary"".
+[Section 209C(2)][1622]: omit ""summary"".
 
-[Section 210D(1)][1624]: omit ""summary"".
+[Section 210D(1)][1623]: omit ""summary"".
 
-[Section 210E(2)][1625]: omit ""summary"".
+[Section 210E(2)][1624]: omit ""summary"".
 
-[Section 224][1626]: omit ""on indictment"" in each place where it appears.
+[Section 224][1625]: omit ""on indictment"" in each place where it appears.
 
-[Section 226(1), (1A), and (2)][1627]: omit ""A"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a"".
+[Section 226(1), (1A), and (2)][1626]: omit ""A"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a"".
 
-[Section 227][1628]: omit ""summary"".
+[Section 227][1627]: omit ""summary"".
 
-##### [Electoral Referendum Act 2010][1629] (2010 No 139)
+##### [Electoral Referendum Act 2010][1628] (2010 No 139)
 
-[Section 28][1630]: omit ""A"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a"".
+[Section 28][1629]: omit ""A"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a"".
 
-[Section 67][1631]: omit ""summary"".
+[Section 67][1630]: omit ""summary"".
 
-[Section 68(1)][1632]: omit ""summary"".
+[Section 68(1)][1631]: omit ""summary"".
 
-[Section 71(1)][1633]: omit ""on indictment"".
+[Section 71(1)][1632]: omit ""on indictment"".
 
-[Section 71(2)][1633]: omit ""on indictment"".
+[Section 71(2)][1632]: omit ""on indictment"".
 
-[Section 72(1)][1633]: omit ""A"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a"".
+[Section 72(1)][1632]: omit ""A"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a"".
 
-[Section 82][1634] and heading above section 82: repeal.
+[Section 82][1633] and heading above section 82: repeal.
 
-##### [Electricity Act 1992][1635] (1992 No 122)
+##### [Electricity Act 1992][1634] (1992 No 122)
 
-[Section 12(1)][1636]: omit ""by way of case stated for the opinion of that Court"".
+[Section 12(1)][1635]: omit ""by way of case stated for the opinion of that Court"".
 
-[Section 12(3)][1636]: repeal and substitute:
+[Section 12(3)][1635]: repeal and substitute:
 
 > *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
 > 
 > 
 
-[Section 12(4)][1636]: omit "", or until a District Court Judge certifies that the appeal has not been prosecuted, or the Registrar of the High Court has certified that the appeal has been dismissed for non-prosecution, whichever occurs first"" and substitute ""or abandoned"".
+[Section 12(4)][1635]: omit "", or until a District Court Judge certifies that the appeal has not been prosecuted, or the Registrar of the High Court has certified that the appeal has been dismissed for non-prosecution, whichever occurs first"" and substitute ""or abandoned"".
 
-[Section 13(2)][1637]: omit ""summary"".
+[Section 13(2)][1636]: omit ""summary"".
 
-[Section 20][1638]: omit ""summary"".
+[Section 20][1637]: omit ""summary"".
 
-[Section 26(1)][1639]: omit ""summary"".
+[Section 26(1)][1638]: omit ""summary"".
 
-[Section 29(1)][1640]: omit ""by way of case stated for the opinion of that Court"".
+[Section 29(1)][1639]: omit ""by way of case stated for the opinion of that Court"".
 
-[Section 29(3)][1640]: repeal and substitute:
-
-> *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
-> 
-> 
-
-[Section 62(5)][1641]: omit ""summary"".
-
-[Section 130(3)][1642]: omit ""summary"".
-
-[Section 131(3)][1643]: omit ""summary"".
-
-[Section 147A(3)][1644]: omit ""summary"".
-
-[Section 147B(2)][1645]: omit ""summary"".
-
-[Section 147F(2)][1646]: omit ""summary"".
-
-[Section 147ZF(2)][1647]: omit ""summary"".
-
-[Section 147ZH(1)][1648]: omit ""by way of case stated for the opinion of that Court"".
-
-[Section 147ZH(3)][1648]: repeal and substitute:
+[Section 29(3)][1639]: repeal and substitute:
 
 > *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
 > 
 > 
 
-[Section 153(7)][1649]: omit ""summary"".
+[Section 62(5)][1640]: omit ""summary"".
 
-[Section 160][1650]: omit ""summary"".
+[Section 130(3)][1641]: omit ""summary"".
 
-[Section 161][1651]: omit ""summary"".
+[Section 131(3)][1642]: omit ""summary"".
 
-[Section 162][1652]: omit ""summary"".
+[Section 147A(3)][1643]: omit ""summary"".
 
-[Section 163][1653]: omit ""summary"".
+[Section 147B(2)][1644]: omit ""summary"".
 
-[Section 163A][1654]: omit ""summary"".
+[Section 147F(2)][1645]: omit ""summary"".
 
-[Section 163B][1655]: omit ""summary"".
+[Section 147ZF(2)][1646]: omit ""summary"".
 
-[Section 163C(3)][1656]: omit ""on indictment"".
+[Section 147ZH(1)][1647]: omit ""by way of case stated for the opinion of that Court"".
 
-[Section 163C][1656]: add:
+[Section 147ZH(3)][1647]: repeal and substitute:
+
+> *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
+> 
+> 
+
+[Section 153(7)][1648]: omit ""summary"".
+
+[Section 160][1649]: omit ""summary"".
+
+[Section 161][1650]: omit ""summary"".
+
+[Section 162][1651]: omit ""summary"".
+
+[Section 163][1652]: omit ""summary"".
+
+[Section 163A][1653]: omit ""summary"".
+
+[Section 163B][1654]: omit ""summary"".
+
+[Section 163C(3)][1655]: omit ""on indictment"".
+
+[Section 163C][1655]: add:
 
 > *   "(6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under this section."
 > 
 > 
 
-[Section 163D(1) and (2)][1657]: omit ""summary"".
+[Section 163D(1) and (2)][1656]: omit ""summary"".
 
-[Section 163D(3)][1657]: omit ""An information must not be laid"" and substitute ""A charging document must not be filed"".
+[Section 163D(3)][1656]: omit ""An information must not be laid"" and substitute ""A charging document must not be filed"".
 
-[Section 164(2)][1658]: omit ""summary"".
+[Section 164(2)][1657]: omit ""summary"".
 
-[Section 165][1659]: repeal and substitute:
+[Section 165][1658]: repeal and substitute:
 
 > ##### "165 Time for filing charging document
 >     
@@ -10344,7 +10344,7 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 165A][1660]: repeal and substitute:
+[Section 165A][1659]: repeal and substitute:
 
 > ##### "165A Infringement offences
 >     
@@ -10358,89 +10358,89 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 165B(4)(a)(i)][1661]: omit ""laying of an information"" and substitute ""filing of a charging document"".
+[Section 165B(4)(a)(i)][1660]: omit ""laying of an information"" and substitute ""filing of a charging document"".
 
-[Section 165B(4)(b)][1661]: omit ""laying of an information"" and substitute ""filing of a charging document"".
+[Section 165B(4)(b)][1660]: omit ""laying of an information"" and substitute ""filing of a charging document"".
 
-[Section 165C(3)][1662]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 165C(3)][1661]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Electricity Industry Act 2010][1663] (2010 No 116)
+##### [Electricity Industry Act 2010][1662] (2010 No 116)
 
-[Section 31(1) and (2)][1664]: omit ""summary"".
+[Section 31(1) and (2)][1663]: omit ""summary"".
 
-[Section 57][1665]: omit ""summary"".
+[Section 57][1664]: omit ""summary"".
 
-[Section 60][1666]: omit ""summary"".
+[Section 60][1665]: omit ""summary"".
 
-[Section 77(6)][1667]: omit ""summary"".
+[Section 77(6)][1666]: omit ""summary"".
 
-[Section 78(5)][1668]: omit ""summary"".
+[Section 78(5)][1667]: omit ""summary"".
 
-[Section 79(5)][1669]: omit ""summary"".
+[Section 79(5)][1668]: omit ""summary"".
 
-[Section 88(6)][1670]: omit ""summary"".
+[Section 88(6)][1669]: omit ""summary"".
 
-[Section 89(4)][1671]: omit ""summary"".
+[Section 89(4)][1670]: omit ""summary"".
 
-[Section 96(2)][1672]: omit ""summary"".
+[Section 96(2)][1671]: omit ""summary"".
 
-[Section 98(1)][1673]: omit ""summary"".
+[Section 98(1)][1672]: omit ""summary"".
 
-[Section 104(2)][1674]: omit ""summary"".
+[Section 104(2)][1673]: omit ""summary"".
 
-[Section 105(4)][1675]: omit ""summary"".
+[Section 105(4)][1674]: omit ""summary"".
 
-[Section 112(1)(k)][1676]: omit ""summary"".
+[Section 112(1)(k)][1675]: omit ""summary"".
 
-[Section 113(2)(g)][1677]: omit ""summary"".
+[Section 113(2)(g)][1676]: omit ""summary"".
 
-##### [Electronic Identity Verification Act 2012][1678] (2012 No 123)
+##### [Electronic Identity Verification Act 2012][1677] (2012 No 123)
 
-[Section 7][1679]: omit the definition of _conviction on indictment_.
+[Section 7][1678]: omit the definition of _conviction on indictment_.
 
-[Section 60(3)][1680]: omit ""on indictment"".
+[Section 60(3)][1679]: omit ""on indictment"".
 
-[Section 61(2)][1681]: omit ""on indictment"".
+[Section 61(2)][1680]: omit ""on indictment"".
 
-[Section 62(4)][1682]: omit ""on indictment"".
+[Section 62(4)][1681]: omit ""on indictment"".
 
-[Section 63(2)][1683]: omit ""on indictment"".
+[Section 63(2)][1682]: omit ""on indictment"".
 
-##### [Employment Relations Act 2000][1684] (2000 No 24)
+##### [Employment Relations Act 2000][1683] (2000 No 24)
 
-[Section 176(1)][1685]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""Sections 4B to 4F of the Justices of the Peace Act 1957"".
+[Section 176(1)][1684]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""Sections 4B to 4F of the Justices of the Peace Act 1957"".
 
-[Section 217][1686]: omit ""an information"" and substitute ""a charge"".
+[Section 217][1685]: omit ""an information"" and substitute ""a charge"".
 
-[Schedule 2][1687], clause 6(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 2][1686], clause 6(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Schedule 2][1687], clause 8(2): omit ""indictment"" and substitute ""charge"".
+[Schedule 2][1686], clause 8(2): omit ""indictment"" and substitute ""charge"".
 
-[Schedule 3][1688], clause 7(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 3][1687], clause 7(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Schedule 3][1689], clause 9(2): omit ""indictment"" and substitute ""charge"".
+[Schedule 3][1688], clause 9(2): omit ""indictment"" and substitute ""charge"".
 
-##### [Energy Companies Act 1992][1690] (1992 No 56)
+##### [Energy Companies Act 1992][1689] (1992 No 56)
 
-[Section 6(4)][1691]: omit ""summary"".
+[Section 6(4)][1690]: omit ""summary"".
 
-##### [Energy Efficiency and Conservation Act 2000][1692] (2000 No 14)
+##### [Energy Efficiency and Conservation Act 2000][1691] (2000 No 14)
 
-[Section 39][1693]: omit ""summary"".
+[Section 39][1692]: omit ""summary"".
 
-##### [Energy (Fuels, Levies, and References) Act 1989][1694] (1989 No 140)
+##### [Energy (Fuels, Levies, and References) Act 1989][1693] (1989 No 140)
 
-[Section 37(2)][1695]: omit ""summary"".
+[Section 37(2)][1694]: omit ""summary"".
 
-##### [Energy Resources Levy Act 1976][1696] (1976 No 71)
+##### [Energy Resources Levy Act 1976][1695] (1976 No 71)
 
-[Section 21(2)][1697]: omit ""summary"".
+[Section 21(2)][1696]: omit ""summary"".
 
-[Section 22(1)][1698]: omit ""information"" and substitute ""charging document"".
+[Section 22(1)][1697]: omit ""information"" and substitute ""charging document"".
 
-[Section 22(2)][1698]: omit ""information"" in each place where it appears and substitute in each case ""charging document"".
+[Section 22(2)][1697]: omit ""information"" in each place where it appears and substitute in each case ""charging document"".
 
-[Section 23][1699]: omit and substitute:
+[Section 23][1698]: omit and substitute:
 
 > ##### "23 Charging document may be filed within 10 years
 >     
@@ -10448,21 +10448,21 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-##### [Engineering Associates Act 1961][1700] (1961 No 70)
+##### [Engineering Associates Act 1961][1699] (1961 No 70)
 
-[Section 17(5)][1701]: omit ""summary"".
+[Section 17(5)][1700]: omit ""summary"".
 
-[Section 34][1702]: omit ""summary"".
+[Section 34][1701]: omit ""summary"".
 
-##### [Environment Act 1986][1703] (1986 No 127)
+##### [Environment Act 1986][1702] (1986 No 127)
 
-[Section 19(7)][1704]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 19(7)][1703]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 24][1705]: omit ""summary"".
+[Section 24][1704]: omit ""summary"".
 
-##### [Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010][1706] (2010 No 12)
+##### [Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010][1705] (2010 No 12)
 
-[Section 55][1707]: repeal and substitute:
+[Section 55][1706]: repeal and substitute:
 
 > ##### "55 Appeal to Court of Appeal
 >     
@@ -10470,19 +10470,19 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-##### [Equal Pay Act 1972][1708] (1972 No 118)
+##### [Equal Pay Act 1972][1707] (1972 No 118)
 
-[Section 18(2)][1709]: omit ""summary"".
+[Section 18(2)][1708]: omit ""summary"".
 
-##### [Extradition Act 1999][1710] (1999 No 55)
+##### [Extradition Act 1999][1709] (1999 No 55)
 
-[Section 22][1711]: add:
+[Section 22][1710]: add:
 
 > *   "(4) The enactments (other than this Act, its provisions, Parts, and regulations made under it) specified in this section must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011\."
 > 
 > 
 
-[Section 23][1712]: add:
+[Section 23][1711]: add:
 
 > *   "(5) In subsection (3),---
 >         
@@ -10494,7 +10494,7 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 26][1713]: add:
+[Section 26][1712]: add:
 
 > *   "(5) Enactments other than this Act and its provisions that are specified in subsection (1)(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011\.
 > 
@@ -10508,7 +10508,7 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 28][1714]: add:
+[Section 28][1713]: add:
 
 > *   "(7) Enactments other than this Act and its provisions that are specified in subsection (2)(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011\.
 > 
@@ -10522,7 +10522,7 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 43][1715]: repeal and substitute: 
+[Section 43][1714]: repeal and substitute:
 
 > ##### "43 Powers of court
 >     
@@ -10548,17 +10548,17 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 44(3)][1716]: omit ""subsection (1) of section 31"" and substitute ""section 30(1), (2), and (4)"".
+[Section 44(3)][1715]: omit ""subsection (1) of section 31"" and substitute ""section 30(1), (2), and (4)"".
 
-[Section 46(1)(a)][1717]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
+[Section 46(1)(a)][1716]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
 
-[Section 46(3)][1717]: omit ""subsections (1) to (3) of section 31 of the Bail Act 2000 (as applied by section 52 of that Act)"" and substitute ""section 30(1), (2), and (4) of the Bail Act 2000"".
+[Section 46(3)][1716]: omit ""subsections (1) to (3) of section 31 of the Bail Act 2000 (as applied by section 52 of that Act)"" and substitute ""section 30(1), (2), and (4) of the Bail Act 2000"".
 
-[Section 53(2)(b)(i)][1718]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
+[Section 53(2)(b)(i)][1717]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
 
-[Section 54(2)(a)][1719]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
+[Section 54(2)(a)][1718]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
 
-[Section 68][1720]: repeal and substitute:
+[Section 68][1719]: repeal and substitute:
 
 > ##### "68 Appeal on question of law only
 >     
@@ -10570,7 +10570,7 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 69][1721]: repeal and substitute:
+[Section 69][1720]: repeal and substitute:
 
 > ##### "69 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
 >     
@@ -10580,7 +10580,7 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 79][1722]: repeal and substitute:
+[Section 79][1721]: repeal and substitute:
 
 > ##### "79 Evidence taken in New Zealand for use overseas
 >     
@@ -10592,89 +10592,89 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-##### [Fair Trading Act 1986][1723] (1986 No 121)
+##### [Fair Trading Act 1986][1722] (1986 No 121)
 
-[Section 40(1) and (1A)][1724]: omit ""summary"".
+[Section 40(1) and (1A)][1723]: omit ""summary"".
 
-[Section 40(3)][1724]: repeal.
+[Section 40(3)][1723]: repeal.
 
-[Section 44(3) and (6)][1725]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
+[Section 44(3) and (6)][1724]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
 
-[Section 47F][1726]: omit ""summary"".
+[Section 47F][1725]: omit ""summary"".
 
-[Section 47J(2)][1727]: omit ""summary"".
+[Section 47J(2)][1726]: omit ""summary"".
 
-[Section 47J(3)][1727]: repeal.
+[Section 47J(3)][1726]: repeal.
 
-##### [Family Benefits (Home Ownership) Act 1964][1728] (1964 No 32)
+##### [Family Benefits (Home Ownership) Act 1964][1727] (1964 No 32)
 
-[Section 26(2) and (3)][1729]: omit ""summary"".
+[Section 26(2) and (3)][1728]: omit ""summary"".
 
-##### [Family Courts Act 1980][1730] (1980 No 161)
+##### [Family Courts Act 1980][1729] (1980 No 161)
 
-[Section 11B(6)][1731]: omit ""summary"".
+[Section 11B(6)][1730]: omit ""summary"".
 
-[Section 16(4)][1732]: omit ""78A"" and substitute ""78"".
+[Section 16(4)][1731]: omit ""78A"" and substitute ""78"".
 
-##### [Family Proceedings Act 1980][1733] (1980 No 94)
+##### [Family Proceedings Act 1980][1732] (1980 No 94)
 
-[Section 17(2)][1734]: omit ""Subsections (1) to (3) and (5) of section 20 of the Summary Proceedings Act 1957 shall apply"" and substitute ""Section 159 of the Criminal Procedure Act 2011 applies"".
+[Section 17(2)][1733]: omit ""Subsections (1) to (3) and (5) of section 20 of the Summary Proceedings Act 1957 shall apply"" and substitute ""Section 159 of the Criminal Procedure Act 2011 applies"".
 
-[Section 18(3)][1735]: omit ""summary"".
+[Section 18(3)][1734]: omit ""summary"".
 
-[Section 53][1736]: omit ""summary"".
+[Section 53][1735]: omit ""summary"".
 
-[Section 59][1737]: omit ""summary"".
+[Section 59][1736]: omit ""summary"".
 
-[Section 165(5)][1738]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Section 165(5)][1737]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
-##### [Farm Ownership Savings Act 1974][1739] (1974 No 45)
+##### [Farm Ownership Savings Act 1974][1738] (1974 No 45)
 
-[Section 16(2)][1740]: omit ""summary"".
+[Section 16(2)][1739]: omit ""summary"".
 
-[Section 17(2)(c)][1741]: omit ""summary"".
+[Section 17(2)(c)][1740]: omit ""summary"".
 
-##### [Fencing of Swimming Pools Act 1987][1742] (1987 No 178)
+##### [Fencing of Swimming Pools Act 1987][1741] (1987 No 178)
 
-[Section 9(1)][1743]: omit ""summary"".
+[Section 9(1)][1742]: omit ""summary"".
 
-##### [Films, Videos, and Publications Classification Act 1993][1744] (1993 No 94)
+##### [Films, Videos, and Publications Classification Act 1993][1743] (1993 No 94)
 
-[Section 117(1)][1745]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 117(1)][1744]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 120(5)][1746]: insert ""on conviction"" after ""liable"".
+[Section 120(5)][1745]: insert ""on conviction"" after ""liable"".
 
-[Section 121(2)][1747]: insert ""on conviction"" after ""liable"".
+[Section 121(2)][1746]: insert ""on conviction"" after ""liable"".
 
-[Section 123(2)][1748]: insert ""on conviction"" after ""liable"".
+[Section 123(2)][1747]: insert ""on conviction"" after ""liable"".
 
-[Section 124(2)][1749]: insert ""on conviction"" after ""liable"".
+[Section 124(2)][1748]: insert ""on conviction"" after ""liable"".
 
-[Section 125(2)][1750]: insert ""on conviction"" after ""liable"".
+[Section 125(2)][1749]: insert ""on conviction"" after ""liable"".
 
-[Section 126(2)][1751]: insert ""on conviction"" after ""liable"".
+[Section 126(2)][1750]: insert ""on conviction"" after ""liable"".
 
-[Section 127(2) and (5)][1752]: insert ""on conviction"" after ""liable"".
+[Section 127(2) and (5)][1751]: insert ""on conviction"" after ""liable"".
 
-[Section 129(2A) and (4)][1753]: insert ""on conviction"" after ""liable"".
+[Section 129(2A) and (4)][1752]: insert ""on conviction"" after ""liable"".
 
-[Section 130(2)][1754]: insert ""on conviction"" after ""liable"".
+[Section 130(2)][1753]: insert ""on conviction"" after ""liable"".
 
-[Section 131(2)][1755]: insert ""on conviction"" after ""liable"".
+[Section 131(2)][1754]: insert ""on conviction"" after ""liable"".
 
-[Section 131A(2)][1756]: insert ""on conviction"" after ""liable"".
+[Section 131A(2)][1755]: insert ""on conviction"" after ""liable"".
 
-[Section 133][1757]: insert ""on conviction"" after ""liable"".
+[Section 133][1756]: insert ""on conviction"" after ""liable"".
 
-[Section 134][1758]: insert ""on conviction"" after ""liable"".
+[Section 134][1757]: insert ""on conviction"" after ""liable"".
 
-[Section 135][1759]: insert ""on conviction"" after ""liable"".
+[Section 135][1758]: insert ""on conviction"" after ""liable"".
 
-[Section 141A][1760]: repeal.
+[Section 141A][1759]: repeal.
 
-[Section 142][1761]: repeal.
+[Section 142][1760]: repeal.
 
-[Section 143][1762]: repeal and substitute:
+[Section 143][1761]: repeal and substitute:
 
 > ##### "143 Time for filing charging document
 >     
@@ -10684,91 +10684,91 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 147(5)][1763]: insert ""on conviction"" after ""liable"".
+[Section 147(5)][1762]: insert ""on conviction"" after ""liable"".
 
-[Section 149(o)][1764]: omit ""summary"".
+[Section 149(o)][1763]: omit ""summary"".
 
-##### [Finance Act (No 2) 1948][1765] (1948 No 78)
+##### [Finance Act (No 2) 1948][1764] (1948 No 78)
 
-[Section 57(2)(b)][1766]: omit ""Offences punishable on summary conviction under that Act"" and substitute ""Offences under that Act, other than offences against sections 7, 10, and 15,"".
+[Section 57(2)(b)][1765]: omit ""Offences punishable on summary conviction under that Act"" and substitute ""Offences under that Act, other than offences against sections 7, 10, and 15,"".
 
-##### [Financial Advisers Act 2008][1767] (2008 No 91)
+##### [Financial Advisers Act 2008][1766] (2008 No 91)
 
-[Section 111(1)][1768]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 111(1)][1767]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 114(1) and (2)][1769]: omit ""summary"".
+[Section 114(1) and (2)][1768]: omit ""summary"".
 
-[Section 115][1770]: omit ""summary"".
+[Section 115][1769]: omit ""summary"".
 
-[Section 116(1) and (2)][1771]: omit ""summary"".
+[Section 116(1) and (2)][1770]: omit ""summary"".
 
-[Section 117][1772]: omit ""summary"".
+[Section 117][1771]: omit ""summary"".
 
-[Section 118][1773]: omit ""summary"".
+[Section 118][1772]: omit ""summary"".
 
-[Section 119][1774]: omit ""summary"".
+[Section 119][1773]: omit ""summary"".
 
-[Section 120][1775]: omit ""summary"".
+[Section 120][1774]: omit ""summary"".
 
-[Section 121][1776]: omit ""summary"".
+[Section 121][1775]: omit ""summary"".
 
-[Section 126][1777]: omit ""summary"".
+[Section 126][1776]: omit ""summary"".
 
-[Section 127][1778]: omit ""summary"".
+[Section 127][1777]: omit ""summary"".
 
-[Section 128][1779]: omit ""summary"".
+[Section 128][1778]: omit ""summary"".
 
-[Section 129(1) and (2)][1780]: omit ""summary"".
+[Section 129(1) and (2)][1779]: omit ""summary"".
 
-[Section 130(1) and (2)][1781]: omit ""summary"".
+[Section 130(1) and (2)][1780]: omit ""summary"".
 
-[Section 131(1) and (2)][1782]: omit ""summary"".
+[Section 131(1) and (2)][1781]: omit ""summary"".
 
-[Section 132][1783]: omit ""summary"".
+[Section 132][1782]: omit ""summary"".
 
-[Section 133][1784]: omit ""summary"".
+[Section 133][1783]: omit ""summary"".
 
-[Section 134][1785]: omit ""summary"".
+[Section 134][1784]: omit ""summary"".
 
-[Section 134B][1786]: omit ""summary"".
+[Section 134B][1785]: omit ""summary"".
 
-[Section 134C][1787]: omit ""summary"".
+[Section 134C][1786]: omit ""summary"".
 
-[Section 134D][1788]: omit ""summary"".
+[Section 134D][1787]: omit ""summary"".
 
-[Section 134E][1789]: omit ""summary"".
+[Section 134E][1788]: omit ""summary"".
 
-[Section 134F][1790]: omit ""summary"".
+[Section 134F][1789]: omit ""summary"".
 
-[Section 134G][1791]: omit ""summary"".
+[Section 134G][1790]: omit ""summary"".
 
-[Section 135][1792]: omit ""summary"".
+[Section 135][1791]: omit ""summary"".
 
-[Section 136(2)][1793]: omit ""summary"".
+[Section 136(2)][1792]: omit ""summary"".
 
-[Section 137(2)][1794]: omit ""summary"".
+[Section 137(2)][1793]: omit ""summary"".
 
-[Section 137E][1795]: omit ""on indictment"".
+[Section 137E][1794]: omit ""on indictment"".
 
-[Section 137E][1795]: add as subsection (2):
-
-> *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section."
-> 
-> 
-
-[Section 137J][1796]: omit ""on indictment"".
-
-[Section 137J][1796]: add as subsection (2):
+[Section 137E][1794]: add as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section."
 > 
 > 
 
-[Section 137S(1)][1797]: omit ""summary"".
+[Section 137J][1795]: omit ""on indictment"".
 
-[Section 146(3)][1798]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 137J][1795]: add as subsection (2):
 
-[Section 160][1799]: repeal and substitute:
+> *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section."
+> 
+> 
+
+[Section 137S(1)][1796]: omit ""summary"".
+
+[Section 146(3)][1797]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+
+[Section 160][1798]: repeal and substitute:
 
 > ##### "160 Time for filing charging document
 >     
@@ -10782,53 +10782,53 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-##### [Financial Markets Authority Act 2011][1800] (2011 No 5)
+##### [Financial Markets Authority Act 2011][1799] (2011 No 5)
 
-[Section 51(3)][1801]: omit ""summary"".
+[Section 51(3)][1800]: omit ""summary"".
 
-[Section 54(2)][1802]: omit ""summary"".
+[Section 54(2)][1801]: omit ""summary"".
 
-[Section 60(4)][1803]: omit ""summary"".
+[Section 60(4)][1802]: omit ""summary"".
 
-[Section 61(3)][1804]: omit ""summary"".
+[Section 61(3)][1803]: omit ""summary"".
 
-[Schedule 2][1805], clause 10(2): omit ""section 204 of the Summary Proceedings Act 1957 does not"" and substitute ""neither section 379 of the Criminal Procedure Act 2011 nor section 204 of the Summary Proceedings Act 1957"".
+[Schedule 2][1804], clause 10(2): omit ""section 204 of the Summary Proceedings Act 1957 does not"" and substitute ""neither section 379 of the Criminal Procedure Act 2011 nor section 204 of the Summary Proceedings Act 1957"".
 
-[Schedule 2][1805], clause 37(1)(a): omit ""Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Schedule 2][1804], clause 37(1)(a): omit ""Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Schedule 2][1805], clause 41: omit ""summary"".
+[Schedule 2][1804], clause 41: omit ""summary"".
 
-[Schedule 2][1805], clause 42: omit ""summary"".
+[Schedule 2][1804], clause 42: omit ""summary"".
 
-##### [Financial Reporting Act 1993][1806] (1993 No 106)
+##### [Financial Reporting Act 1993][1805] (1993 No 106)
 
-[Section 36(1) and (2)][1807]: omit ""summary"".
+[Section 36(1) and (2)][1806]: omit ""summary"".
 
-[Section 36A(3)][1808]: omit ""summary conviction"" and substitute ""conviction"".
+[Section 36A(3)][1807]: omit ""summary conviction"" and substitute ""conviction"".
 
-[Section 37][1809]: omit ""summary"".
+[Section 37][1808]: omit ""summary"".
 
-[Section 38][1810]: omit ""summary"".
+[Section 38][1809]: omit ""summary"".
 
-[Section 39][1811]: omit ""summary"".
+[Section 39][1810]: omit ""summary"".
 
-[Section 41(1)][1812]: omit ""on indictment"".
+[Section 41(1)][1811]: omit ""on indictment"".
 
-[Section 41A(1)(a)][1813]: repeal and substitute:
+[Section 41A(1)(a)][1812]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 41A(2)][1813]: repeal and substitute:
+[Section 41A(2)][1812]: repeal and substitute:
 
 > *   "(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Registrar commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011\."
 > 
 > 
 
-[Section 41C(2)][1814]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 41C(2)][1813]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 42][1815]: repeal and substitute:
+[Section 42][1814]: repeal and substitute:
 
 > ##### "42 Time for filing charging document for offence against section 37
 >     
@@ -10838,55 +10838,55 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-##### [Financial Service Providers (Registration and Dispute Resolution) Act 2008][1816] (2008 No 97)
+##### [Financial Service Providers (Registration and Dispute Resolution) Act 2008][1815] (2008 No 97)
 
-[Section 11(2)][1817]: omit ""summary"".
+[Section 11(2)][1816]: omit ""summary"".
 
-[Section 12(2)][1818]: omit ""summary"".
+[Section 12(2)][1817]: omit ""summary"".
 
-[Section 17(3) and (4)][1819]: omit ""summary"".
+[Section 17(3) and (4)][1818]: omit ""summary"".
 
-[Section 37(7) and (8)][1820]: omit ""summary"".
+[Section 37(7) and (8)][1819]: omit ""summary"".
 
-[Section 38(3)][1821]: omit ""summary"".
+[Section 38(3)][1820]: omit ""summary"".
 
-[Section 41(2)][1822]: omit ""summary"".
+[Section 41(2)][1821]: omit ""summary"".
 
-[Section 49G(1)][1823]: omit ""summary"".
+[Section 49G(1)][1822]: omit ""summary"".
 
-##### [Financial Transactions Reporting Act 1996][1824] (1996 No 9)
+##### [Financial Transactions Reporting Act 1996][1823] (1996 No 9)
 
-[Section 13(2)][1825]: insert ""on conviction"" after ""liable"".
+[Section 13(2)][1824]: insert ""on conviction"" after ""liable"".
 
-[Section 22(2), (3), (6), (7), and (8)][1826]: insert ""on conviction"" after ""liable"".
+[Section 22(2), (3), (6), (7), and (8)][1825]: insert ""on conviction"" after ""liable"".
 
-[Section 36(2)][1827]: insert ""on conviction"" after ""liable"".
+[Section 36(2)][1826]: insert ""on conviction"" after ""liable"".
 
-[Section 52][1828]: repeal.
+[Section 52][1827]: repeal.
 
-##### [Fire Service Act 1975][1829] (1975 No 42)
+##### [Fire Service Act 1975][1828] (1975 No 42)
 
-[Section 89(1) and (2)][1830]: omit ""summary"".
+[Section 89(1) and (2)][1829]: omit ""summary"".
 
-[Section 92(2)(o)][1831]: omit ""summary"".
+[Section 92(2)(o)][1830]: omit ""summary"".
 
-##### [Fisheries Act 1983][1832] (1983 No 14)
+##### [Fisheries Act 1983][1831] (1983 No 14)
 
-[Section 3(3)][1833]: omit ""summary"".
+[Section 3(3)][1832]: omit ""summary"".
 
-##### [Fisheries Act 1996][1834] (1996 No 88)
+##### [Fisheries Act 1996][1833] (1996 No 88)
 
-[Section 88(1)(b)][1835]: omit ""information or charge has been laid"" and substitute ""charge has been filed"".
+[Section 88(1)(b)][1834]: omit ""information or charge has been laid"" and substitute ""charge has been filed"".
 
-[Section 88(4)(b)][1835]: omit ""laying of any information or charge"" and substitute ""filing of any charging document"".
+[Section 88(4)(b)][1834]: omit ""laying of any information or charge"" and substitute ""filing of any charging document"".
 
-[Section 88(10)][1835]: omit ""summary"".
+[Section 88(10)][1834]: omit ""summary"".
 
-[Section 88(11)][1835]: omit ""information or charge may be laid"" and substitute ""charging document may be filed"".
+[Section 88(11)][1834]: omit ""information or charge may be laid"" and substitute ""charging document may be filed"".
 
-[Section 105][1836]: add:
+[Section 105][1835]: add:
 
-> *   "(7) In proceedings for an offence relating to a contravention of subsection (1),--- 
+> *   "(7) In proceedings for an offence relating to a contravention of subsection (1),---
 >         
 >     *   "(a) the prosecutor need not assert in the charging document that the exceptions set out in paragraphs (b) to (d) do not apply; and
 >     
@@ -10896,9 +10896,9 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 113][1837]: add:
+[Section 113][1836]: add:
 
-> *   "(5) In proceedings for an offence relating to a contravention of subsection (1),--- 
+> *   "(5) In proceedings for an offence relating to a contravention of subsection (1),---
 >         
 >     *   "(a) the prosecutor need not assert in the charging document that the exceptions set out in paragraphs (a) to (c) do not apply; and
 >     
@@ -10908,15 +10908,15 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 113ZA(3)(a)][1838]: omit ""laying of an information or charge"" and substitute ""filing of a charging document"".
+[Section 113ZA(3)(a)][1837]: omit ""laying of an information or charge"" and substitute ""filing of a charging document"".
 
-[Section 113ZC(4)][1839]: omit ""summary"".
+[Section 113ZC(4)][1838]: omit ""summary"".
 
-[Section 113ZC(5)][1839]: omit ""information or charge may be laid"" and substitute ""charging document may be filed"".
+[Section 113ZC(5)][1838]: omit ""information or charge may be laid"" and substitute ""charging document may be filed"".
 
-[Section 191][1840]: insert after subsection (6):
+[Section 191][1839]: insert after subsection (6):
 
-> *   "(7) In proceedings for an offence relating to a contravention of subsection (1),--- 
+> *   "(7) In proceedings for an offence relating to a contravention of subsection (1),---
 >         
 >     *   "(a) the prosecutor need not assert in the charging document that any exception or excuse in subsection (2) or (5) does not apply; and
 >     
@@ -10926,9 +10926,9 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 192][1841]: insert after subsection (6):
+[Section 192][1840]: insert after subsection (6):
 
-> *   "(6A) In proceedings for an offence relating to a contravention of any of subsections (1) to (5),--- 
+> *   "(6A) In proceedings for an offence relating to a contravention of any of subsections (1) to (5),---
 >         
 >     *   "(a) the prosecutor need not assert in the charging document that any exception or excuse in those subsections does not apply; and
 >     
@@ -10938,9 +10938,9 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 192A][1842]: insert after subsection (5):
+[Section 192A][1841]: insert after subsection (5):
 
-> *   "(6) In proceedings for an offence relating to a contravention of subsection (1),--- 
+> *   "(6) In proceedings for an offence relating to a contravention of subsection (1),---
 >         
 >     *   "(a) the prosecutor need not assert in the charging document that the exceptions set out in paragraphs (a) to (c) do not apply; and
 >     
@@ -10950,17 +10950,17 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 203(5)(b)][1843]: repeal and substitute:
+[Section 203(5)(b)][1842]: repeal and substitute:
 
 > *   "(b) if the person so delivered into custody is issued with a summons pursuant to sections 28 and 30 of the Criminal Procedure Act 2011, the duties under section 31 of that Act must be carried out by a fishery officer and not a constable."
 > 
 > 
 
-[Section 213(2)][1844]: omit ""lay an information or charge"" and substitute ""file a charging document"".
+[Section 213(2)][1843]: omit ""lay an information or charge"" and substitute ""file a charging document"".
 
-[Section 214(8)][1845]: omit ""lay an information or charge"" and substitute ""file a charging document"".
+[Section 214(8)][1844]: omit ""lay an information or charge"" and substitute ""file a charging document"".
 
-[Section 236(2)][1846]: repeal and substitute:
+[Section 236(2)][1845]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act---
 >         
@@ -10972,11 +10972,11 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 237(1)][1847]: omit ""section 24 of the Summary Proceedings Act 1957"" and substitute ""rules made under the Criminal Procedure Act 2011"".
+[Section 237(1)][1846]: omit ""section 24 of the Summary Proceedings Act 1957"" and substitute ""rules made under the Criminal Procedure Act 2011"".
 
-[Heading to section 238][1848]: omit ""**Informations**"" and substitute ""**Charges**"".
+[Heading to section 238][1847]: omit ""**Informations**"" and substitute ""**Charges**"".
 
-[Section 238(1)][1848]: repeal and substitute:
+[Section 238(1)][1847]: repeal and substitute:
 
 > *   "(1) If 2 or more charging documents charging a defendant with any offence against this Act have been filed, the court may, despite any other enactment or rule of law, order that any specified charges be tried together, if satisfied that---
 >         
@@ -10994,29 +10994,29 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 238(2)][1848]: omit ""information"" and substitute ""charge"".
+[Section 238(2)][1847]: omit ""information"" and substitute ""charge"".
 
-[Section 238(3)][1848]: omit ""informations"" in each place where it appears and substitute in each case ""charges"".
+[Section 238(3)][1847]: omit ""informations"" in each place where it appears and substitute in each case ""charges"".
 
-[Section 238(3)][1848]: omit ""information"" in each place where it appears and substitute in each case ""charge"".
+[Section 238(3)][1847]: omit ""information"" in each place where it appears and substitute in each case ""charge"".
 
-[Heading to section 239][1849]: omit ""**Information**"" and substitute ""**Charging document**"".
+[Heading to section 239][1848]: omit ""**Information**"" and substitute ""**Charging document**"".
 
-[Section 239(1)][1849]: omit ""information may, notwithstanding section 16 of the Summary Proceedings Act 1957"" and substitute ""charging document may, notwithstanding section 17 of the Criminal Procedure Act 2011"".
+[Section 239(1)][1848]: omit ""information may, notwithstanding section 16 of the Summary Proceedings Act 1957"" and substitute ""charging document may, notwithstanding section 17 of the Criminal Procedure Act 2011"".
 
-[Section 239(2)][1849]: omit ""information"" in each place where it appears and substitute in each case ""charging document"".
+[Section 239(2)][1848]: omit ""information"" in each place where it appears and substitute in each case ""charging document"".
 
-[Section 241(3)][1850]: omit ""informant"" and substitute ""prosecutor"".
+[Section 241(3)][1849]: omit ""informant"" and substitute ""prosecutor"".
 
-[Section 250][1851]: omit ""an information or indictment"" and substitute ""a charge"".
+[Section 250][1850]: omit ""an information or indictment"" and substitute ""a charge"".
 
-[Section 251][1852]: omit ""informant"" and substitute ""prosecutor"".
+[Section 251][1851]: omit ""informant"" and substitute ""prosecutor"".
 
-[Section 252(1)][1853]: omit ""on indictment"".
+[Section 252(1)][1852]: omit ""on indictment"".
 
-[Section 253(2)][1854]: omit ""summary"".
+[Section 253(2)][1853]: omit ""summary"".
 
-[Section 255B(1)(b)][1855]: repeal and substitute:
+[Section 255B(1)(b)][1854]: repeal and substitute:
 
 > *   "(b) where---
 >         
@@ -11028,51 +11028,51 @@ Section 238C(1): omit ""summary"".
 > 
 > 
 
-[Section 260][1856] and heading above section 260: repeal.
+[Section 260][1855] and heading above section 260: repeal.
 
-[Section 260A(1)(a)][1857]: omit ""laying an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
+[Section 260A(1)(a)][1856]: omit ""laying an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
 
-[Section 260A(2)][1857]: repeal and substitute:
+[Section 260A(2)][1856]: repeal and substitute:
 
 > *   "(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if a fishery officer proceeds with an infringement offence by filing a charging document under section 14 of the Criminal Procedure Act 2011\."
 > 
 > 
 
-[Section 260A(4)][1857]: omit ""for the purposes of the Summary Proceedings Act 1957"".
+[Section 260A(4)][1856]: omit ""for the purposes of the Summary Proceedings Act 1957"".
 
-##### [Fishing Vessel Ownership Savings Act 1977][1858] (1977 No 62)
+##### [Fishing Vessel Ownership Savings Act 1977][1857] (1977 No 62)
 
-[Section 27(2)][1859]: omit ""summary"".
+[Section 27(2)][1858]: omit ""summary"".
 
-[Section 28(2)(c)][1860]: omit ""summary"".
+[Section 28(2)(c)][1859]: omit ""summary"".
 
-##### [Flags, Emblems, and Names Protection Act 1981][1861] (1981 No 47)
+##### [Flags, Emblems, and Names Protection Act 1981][1860] (1981 No 47)
 
-[Section 24][1862]: omit ""summary"".
+[Section 24][1861]: omit ""summary"".
 
-[Section 25][1863]: omit ""information"" and substitute ""charging document"".
+[Section 25][1862]: omit ""information"" and substitute ""charging document"".
 
-[Section 25][1863]: omit ""shall be laid"" and substitute ""may be filed"".
+[Section 25][1862]: omit ""shall be laid"" and substitute ""may be filed"".
 
-##### [Food Act 1981][1864] (1981 No 45)
+##### [Food Act 1981][1863] (1981 No 45)
 
-[Section 8ZQ(2) and (3)][1865]: insert ""on conviction"" after ""liable"".
+[Section 8ZQ(2) and (3)][1864]: insert ""on conviction"" after ""liable"".
 
-[Section 8ZR(4) and (5)][1866]: insert ""on conviction"" after ""liable"".
+[Section 8ZR(4) and (5)][1865]: insert ""on conviction"" after ""liable"".
 
-[Section 8ZZE(2) and (3)][1867]: insert ""on conviction"" after ""liable"".
+[Section 8ZZE(2) and (3)][1866]: insert ""on conviction"" after ""liable"".
 
-[Section 9(5) and (6)][1868]: insert ""on conviction"" after ""liable"".
+[Section 9(5) and (6)][1867]: insert ""on conviction"" after ""liable"".
 
-[Section 10(2) and (3)][1869]: insert ""on conviction"" after ""liable"".
+[Section 10(2) and (3)][1868]: insert ""on conviction"" after ""liable"".
 
-[Section 11(3) and (4)][1870]: insert ""on conviction"" after ""liable"".
+[Section 11(3) and (4)][1869]: insert ""on conviction"" after ""liable"".
 
-[Section 11AA(2)][1871]: omit ""on indictment"".
+[Section 11AA(2)][1870]: omit ""on indictment"".
 
-[Section 11Q(1) and (2)][1872]: insert ""on conviction"" after ""liable"".
+[Section 11Q(1) and (2)][1871]: insert ""on conviction"" after ""liable"".
 
-[Section 11ZE(2) and (3)][1873]: insert ""on conviction"" after ""liable"".
+[Section 11ZE(2) and (3)][1872]: insert ""on conviction"" after ""liable"".
 
 Section 27: repeal and substitute:
 
@@ -11084,13 +11084,13 @@ Section 27: repeal and substitute:
 > 
 > 
 
-[Section 28][1874]: insert ""on conviction"" after ""liable"".
+[Section 28][1873]: insert ""on conviction"" after ""liable"".
 
-##### [Forest and Rural Fires Act 1977][1875] (1977 No 52)
+##### [Forest and Rural Fires Act 1977][1874] (1977 No 52)
 
-[Section 61(2), (3), and (4)][1876]: omit ""summary"".
+[Section 61(2), (3), and (4)][1875]: omit ""summary"".
 
-[Section 61(5)][1876]: omit ""informant"" and substitute ""prosecutor"".
+[Section 61(5)][1875]: omit ""informant"" and substitute ""prosecutor"".
 
 Section 62: Repeal and substitute:
 
@@ -11100,131 +11100,131 @@ Section 62: Repeal and substitute:
 > 
 > 
 
-##### [Forests Act 1949][1877] (1949 No 19)
+##### [Forests Act 1949][1876] (1949 No 19)
 
-[Section 54][1878]: omit ""summary"".
+[Section 54][1877]: omit ""summary"".
 
-[Section 61][1879]: omit ""summary"".
+[Section 61][1878]: omit ""summary"".
 
-[Section 67U(1) and (2)][1880]: omit ""summary"".
+[Section 67U(1) and (2)][1879]: omit ""summary"".
 
-[Section 72(1)(c)][1881]: omit ""summary"".
+[Section 72(1)(c)][1880]: omit ""summary"".
 
-##### [Freedom Camping Act 2011][1882] (2011 No 61)
+##### [Freedom Camping Act 2011][1881] (2011 No 61)
 
-[Section 25(1)][1883]: omit ""laying an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
+[Section 25(1)][1882]: omit ""laying an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
 
-[Section 25(2)(b)][1883]: omit ""laying an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
+[Section 25(2)(b)][1882]: omit ""laying an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
 
-##### [Friendly Societies and Credit Unions Act 1982][1884] (1982 No 118)
+##### [Friendly Societies and Credit Unions Act 1982][1883] (1982 No 118)
 
-[Section 8(4), (5), and (6)][1885]: omit ""summary"".
+[Section 8(4), (5), and (6)][1884]: omit ""summary"".
 
-[Section 133(5)][1886]: omit ""summary"".
+[Section 133(5)][1885]: omit ""summary"".
 
-[Section 150(1) and (2)][1887]: omit ""summary"".
+[Section 150(1) and (2)][1886]: omit ""summary"".
 
-[Section 153(4)][1888]: omit ""summary"".
+[Section 153(4)][1887]: omit ""summary"".
 
-[Section 153(5)][1888]: repeal and substitute:
+[Section 153(5)][1887]: repeal and substitute:
 
 > *   "(5) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was actually brought to the knowledge of the Registrar; but no charging document may be filed after the expiration of 3 years after the date on which the offence was committed."
 > 
 > 
 
-[Section 154][1889]: omit ""summary"".
+[Section 154][1888]: omit ""summary"".
 
-##### [Gambling Act 2003][1890] (2003 No 51)
+##### [Gambling Act 2003][1889] (2003 No 51)
 
-[Section 15(2)][1891]: omit ""summary"".
+[Section 15(2)][1890]: omit ""summary"".
 
-[Section 16(3)][1892]: omit ""summary"".
+[Section 16(3)][1891]: omit ""summary"".
 
-[Section 19(2) and (3)][1893]: omit ""summary"".
+[Section 19(2) and (3)][1892]: omit ""summary"".
 
-[Section 82(4)][1894]: omit ""summary"".
+[Section 82(4)][1893]: omit ""summary"".
 
-[Section 83(2)][1895]: omit ""summary"".
+[Section 83(2)][1894]: omit ""summary"".
 
-[Section 84(2)][1896]: omit ""summary"".
+[Section 84(2)][1895]: omit ""summary"".
 
-[Section 104(4)][1897]: omit ""summary"".
+[Section 104(4)][1896]: omit ""summary"".
 
-[Section 105(4)][1898]: omit ""summary"".
+[Section 105(4)][1897]: omit ""summary"".
 
-[Section 106(2)][1899]: omit ""summary"".
+[Section 106(2)][1898]: omit ""summary"".
 
-[Section 110(5)][1900]: omit ""summary"".
+[Section 110(5)][1899]: omit ""summary"".
 
-[Section 111(2)][1901]: omit ""summary"".
+[Section 111(2)][1900]: omit ""summary"".
 
-[Section 113(2) and (3)][1902]: omit ""summary"".
+[Section 113(2) and (3)][1901]: omit ""summary"".
 
-[Section 115(2)][1903]: omit ""summary"".
+[Section 115(2)][1902]: omit ""summary"".
 
-[Section 117(5)][1904]: omit ""summary"".
+[Section 117(5)][1903]: omit ""summary"".
 
-[Section 118(5)][1905]: omit ""summary"".
+[Section 118(5)][1904]: omit ""summary"".
 
-[Section 121(5)][1906]: omit ""summary"".
+[Section 121(5)][1905]: omit ""summary"".
 
-[Section 169(2)][1907]: omit ""summary"".
+[Section 169(2)][1906]: omit ""summary"".
 
-[Section 170(2)][1908]: omit ""summary"".
+[Section 170(2)][1907]: omit ""summary"".
 
-[Section 172(2)][1909]: omit ""summary"".
+[Section 172(2)][1908]: omit ""summary"".
 
-[Section 175(3)][1910]: omit ""summary"".
+[Section 175(3)][1909]: omit ""summary"".
 
-[Section 176(6)][1911]: omit ""summary"".
+[Section 176(6)][1910]: omit ""summary"".
 
-[Section 179(2)][1912]: omit ""summary"".
+[Section 179(2)][1911]: omit ""summary"".
 
-[Section 180(2)][1913]: omit ""summary"".
+[Section 180(2)][1912]: omit ""summary"".
 
-[Section 189(2)][1914]: omit ""summary"".
+[Section 189(2)][1913]: omit ""summary"".
 
-[Section 191(4)][1915]: omit ""summary"".
+[Section 191(4)][1914]: omit ""summary"".
 
-[Section 203(6)][1916]: omit ""summary"".
+[Section 203(6)][1915]: omit ""summary"".
 
-[Section 211(5)][1917]: omit ""summary"".
+[Section 211(5)][1916]: omit ""summary"".
 
-[Section 213(5)][1918]: omit ""summary"".
+[Section 213(5)][1917]: omit ""summary"".
 
-[Section 251(3)][1919]: omit ""summary"".
+[Section 251(3)][1918]: omit ""summary"".
 
-[Section 267(3)][1920]: omit ""summary"".
+[Section 267(3)][1919]: omit ""summary"".
 
-[Section 268(2)][1921]: omit ""summary"".
+[Section 268(2)][1920]: omit ""summary"".
 
-[Section 301(6)(a) and (b)][1922]: omit ""summary"".
+[Section 301(6)(a) and (b)][1921]: omit ""summary"".
 
-[Section 302(7)(a), (b), and (c)][1923]: omit ""summary"".
+[Section 302(7)(a), (b), and (c)][1922]: omit ""summary"".
 
-[Section 303(5)(a) and (b)][1924]: omit ""summary"".
+[Section 303(5)(a) and (b)][1923]: omit ""summary"".
 
-[Section 304(5)][1925]: omit ""summary"".
+[Section 304(5)][1924]: omit ""summary"".
 
-[Section 308(5)][1926]: omit ""summary"".
+[Section 308(5)][1925]: omit ""summary"".
 
-[Section 312(4)(a) and (b)][1927]: omit ""summary"".
+[Section 312(4)(a) and (b)][1926]: omit ""summary"".
 
-[Section 331(5)][1928]: omit ""summary"".
+[Section 331(5)][1927]: omit ""summary"".
 
-[Section 346(2)][1929]: omit ""summary"".
+[Section 346(2)][1928]: omit ""summary"".
 
-[Section 347(3)(a)][1930]: omit ""summary"".
+[Section 347(3)(a)][1929]: omit ""summary"".
 
-[Section 348(3)][1931]: omit ""summary"".
+[Section 348(3)][1930]: omit ""summary"".
 
-[Section 351(2)][1932]: omit ""summary"".
+[Section 351(2)][1931]: omit ""summary"".
 
-[Section 352(2)][1933]: omit ""summary"".
+[Section 352(2)][1932]: omit ""summary"".
 
-[Section 353(4)][1934]: omit ""on indictment"" in each place where it appears.
+[Section 353(4)][1933]: omit ""on indictment"" in each place where it appears.
 
-[Section 355][1935]: repeal and substitute:
+[Section 355][1934]: repeal and substitute:
 
 > ##### "355 Proceedings for offences
 >     
@@ -11234,7 +11234,7 @@ Section 62: Repeal and substitute:
 > 
 > 
 
-[Section 356][1936]: repeal and substitute:
+[Section 356][1935]: repeal and substitute:
 
 > ##### "356 Infringement offences
 >     
@@ -11248,57 +11248,57 @@ Section 62: Repeal and substitute:
 > 
 > 
 
-[Section 357(3)][1937]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 357(3)][1936]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Gas Act 1992][1938] (1992 No 124)
+##### [Gas Act 1992][1937] (1992 No 124)
 
-[Section 13(1)][1939]: omit ""by way of case stated for the opinion of that Court"".
+[Section 13(1)][1938]: omit ""by way of case stated for the opinion of that Court"".
 
-[Section 13(3)][1939]: repeal and substitute:
-
-> *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
-> 
-> 
-
-[Section 13(4)][1939]: omit "", or until a District Court Judge certifies that the appeal has not been prosecuted, or the Registrar of the High Court has certified that the appeal has been dismissed for non-prosecution, whichever occurs first"" and substitute ""or abandoned"".
-
-[Section 14(2)][1940]: omit ""summary"".
-
-[Section 21][1941]: omit ""summary"".
-
-[Section 27(1)][1942]: omit ""summary"".
-
-[Section 30(1)][1943]: omit ""by way of case stated for the opinion of that Court"".
-
-[Section 30(3)][1943]: repeal and substitute:
+[Section 13(3)][1938]: repeal and substitute:
 
 > *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
 > 
 > 
 
-[Section 43EA(2)][1944]: omit ""summary"".
+[Section 13(4)][1938]: omit "", or until a District Court Judge certifies that the appeal has not been prosecuted, or the Registrar of the High Court has certified that the appeal has been dismissed for non-prosecution, whichever occurs first"" and substitute ""or abandoned"".
 
-[Section 43EC(1)][1945]: omit ""summary"".
+[Section 14(2)][1939]: omit ""summary"".
 
-[Section 43H(5)][1946]: omit ""summary"".
+[Section 21][1940]: omit ""summary"".
 
-[Section 43T][1947]: omit ""summary"".
+[Section 27(1)][1941]: omit ""summary"".
 
-[Section 46B][1948]: omit ""summary"".
+[Section 30(1)][1942]: omit ""by way of case stated for the opinion of that Court"".
 
-[Section 52][1949]: omit ""summary"".
+[Section 30(3)][1942]: repeal and substitute:
 
-[Section 56B(3)][1950]: omit ""on indictment"".
+> *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
+> 
+> 
 
-[Section 56B][1950]: add:
+[Section 43EA(2)][1943]: omit ""summary"".
+
+[Section 43EC(1)][1944]: omit ""summary"".
+
+[Section 43H(5)][1945]: omit ""summary"".
+
+[Section 43T][1946]: omit ""summary"".
+
+[Section 46B][1947]: omit ""summary"".
+
+[Section 52][1948]: omit ""summary"".
+
+[Section 56B(3)][1949]: omit ""on indictment"".
+
+[Section 56B][1949]: add:
 
 > *   "(6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section."
 > 
 > 
 
-[Section 57(3) and (4)][1951]: omit ""summary"".
+[Section 57(3) and (4)][1950]: omit ""summary"".
 
-[Section 57A][1952]: repeal and substitute:
+[Section 57A][1951]: repeal and substitute:
 
 > ##### "57A Time for filing charging document
 >     
@@ -11306,7 +11306,7 @@ Section 62: Repeal and substitute:
 > 
 > 
 
-[Section 57B][1953]: repeal and substitute:
+[Section 57B][1952]: repeal and substitute:
 
 > ##### "57B Infringement offences
 >     
@@ -11320,67 +11320,67 @@ Section 62: Repeal and substitute:
 > 
 > 
 
-[Section 57C(4)(a)(i)][1954]: omit ""laying of an information"" and substitute ""filing of a charging document"".
+[Section 57C(4)(a)(i)][1953]: omit ""laying of an information"" and substitute ""filing of a charging document"".
 
-[Section 57D(3)][1955]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 57D(3)][1954]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Geneva Conventions Act 1958][1956] (1958 No 19)
+##### [Geneva Conventions Act 1958][1955] (1958 No 19)
 
 [Section 3(1)][896]: omit ""indictable"".
 
-[Section 8(2)][1957]: omit ""summary"".
+[Section 8(2)][1956]: omit ""summary"".
 
-[Section 10(5)][1958]: omit ""For the purposes of this subsection, subsection (1) of section 3 of this Act shall apply as if the word "'indictable'" were omitted.""
+[Section 10(5)][1957]: omit ""For the purposes of this subsection, subsection (1) of section 3 of this Act shall apply as if the word "'indictable'" were omitted.""
 
-##### [Government Communications Security Bureau Act 2003][1959] (2003 No 9)
+##### [Government Communications Security Bureau Act 2003][1958] (2003 No 9)
 
-Paragraph (a) of the definition of _serious crime_ in [section 4][1960]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+Paragraph (a) of the definition of _serious crime_ in [section 4][1959]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-Paragraph (b) of the definition of _serious crime_ in [section 4][1960]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+Paragraph (b) of the definition of _serious crime_ in [section 4][1959]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-[Section 11(2)][1961]: omit ""summary"".
+[Section 11(2)][1960]: omit ""summary"".
 
-[Section 23(2)][1962]: omit ""summary"".
+[Section 23(2)][1961]: omit ""summary"".
 
-##### [Government Roading Powers Act 1989][1963] (1989 No 75)
+##### [Government Roading Powers Act 1989][1962] (1989 No 75)
 
-[Section 50(6)][1964]: omit ""summary"".
+[Section 50(6)][1963]: omit ""summary"".
 
-[Section 51(2)][1965]: omit ""summary"".
+[Section 51(2)][1964]: omit ""summary"".
 
-[Section 51(4)][1965]: omit ""information or complaint is laid"" and substitute ""charging document is filed"".
+[Section 51(4)][1964]: omit ""information or complaint is laid"" and substitute ""charging document is filed"".
 
-[Section 55(7)][1966]: omit ""summary"".
+[Section 55(7)][1965]: omit ""summary"".
 
-[Section 55(9)][1966]: omit ""laying of an information"" and substitute ""filing of a charging document"".
+[Section 55(9)][1965]: omit ""laying of an information"" and substitute ""filing of a charging document"".
 
-[Section 87(1)][1967]: omit ""summary"".
+[Section 87(1)][1966]: omit ""summary"".
 
-[Section 97][1968]: omit ""summary"".
+[Section 97][1967]: omit ""summary"".
 
-##### [Government Superannuation Fund Act 1956][1969] (1956 No 47)
+##### [Government Superannuation Fund Act 1956][1968] (1956 No 47)
 
-[Section 96][1970]: omit ""summary"".
+[Section 96][1969]: omit ""summary"".
 
-##### [Harassment Act 1997][1971] (1997 No 92)
+##### [Harassment Act 1997][1970] (1997 No 92)
 
-[Section 8(2)][1972]: omit ""summary"".
+[Section 8(2)][1971]: omit ""summary"".
 
-[Section 25(2) and (3)][1973]: omit ""summary"".
+[Section 25(2) and (3)][1972]: omit ""summary"".
 
-[Section 27][1974]: omit ""summary"".
+[Section 27][1973]: omit ""summary"".
 
-[Section 41(2)][1975]: omit ""summary"".
+[Section 41(2)][1974]: omit ""summary"".
 
-##### [Hawke's Bay Earthquake Relief Funds Act 1931][1976] (1931 No 29)
+##### [Hawke's Bay Earthquake Relief Funds Act 1931][1975] (1931 No 29)
 
-[Section 7(2)][1977]: omit ""summary"".
+[Section 7(2)][1976]: omit ""summary"".
 
-[Section 12][1978]: omit ""summary"".
+[Section 12][1977]: omit ""summary"".
 
-##### [Hazardous Substances and New Organisms Act 1996][1979] (1996 No 30)
+##### [Hazardous Substances and New Organisms Act 1996][1978] (1996 No 30)
 
-[Section 109A][1980]: repeal and substitute:
+[Section 109A][1979]: repeal and substitute:
 
 > ##### "109A Time for filing charging document
 >     
@@ -11396,29 +11396,29 @@ Paragraph (b) of the definition of _serious crime_ in [section 4][1960]: omit ""
 > 
 > 
 
-[Heading to section 109B][1981]: omit ""**laying information**"" and substitute ""**filing charging document**"".
+[Heading to section 109B][1980]: omit ""**laying information**"" and substitute ""**filing charging document**"".
 
-[Section 109B(1)][1981]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 109B(1)][1980]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 109B(3)(a)][1981]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 109B(3)(a)][1980]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 109B(3)(c)][1981]: omit ""an information is able to be laid"" and substitute ""a charging document is able to be filed"".
+[Section 109B(3)(c)][1980]: omit ""an information is able to be laid"" and substitute ""a charging document is able to be filed"".
 
-[Section 109B(3)(d)][1981]: omit ""laying the information"" and substitute ""filing the charging document"".
+[Section 109B(3)(d)][1980]: omit ""laying the information"" and substitute ""filing the charging document"".
 
-[Section 111(a)][1982]: repeal and substitute:
+[Section 111(a)][1981]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 112(2)][1983]: omit ""for the purpose of the Summary Proceedings Act 1957,"".
+[Section 112(2)][1982]: omit ""for the purpose of the Summary Proceedings Act 1957,"".
 
-[Section 114(1), (2), and (3)][1984]: omit ""summary"".
+[Section 114(1), (2), and (3)][1983]: omit ""summary"".
 
-[Section 118(1)][1985]: omit ""information for that offence was laid"" and substitute ""charging document for that offence was filed"".
+[Section 118(1)][1984]: omit ""information for that offence was laid"" and substitute ""charging document for that offence was filed"".
 
-[Section 134][1986]: repeal and substitute:
+[Section 134][1985]: repeal and substitute:
 
 > ##### "134 Appeals to Court of Appeal
 >     
@@ -11426,39 +11426,39 @@ Paragraph (b) of the definition of _serious crime_ in [section 4][1960]: omit ""
 > 
 > 
 
-##### [Hazardous Substances and New Organisms Amendment Act 2010][1987] (2010 No 18)
+##### [Hazardous Substances and New Organisms Amendment Act 2010][1986] (2010 No 18)
 
-[Heading to section 38][1988]: omit ""**laying information**"" and substitute ""**filing charging document**"".
+[Heading to section 38][1987]: omit ""**laying information**"" and substitute ""**filing charging document**"".
 
-[Section 38(1)][1988]: omit ""an information"" and substitute ""a charge"".
+[Section 38(1)][1987]: omit ""an information"" and substitute ""a charge"".
 
-[Section 38(2)][1988]: omit ""information must be laid"" and substitute ""charging document must be filed"".
+[Section 38(2)][1987]: omit ""information must be laid"" and substitute ""charging document must be filed"".
 
-[Section 38(3)][1988]: omit ""an information"" and substitute ""a charge"".
+[Section 38(3)][1987]: omit ""an information"" and substitute ""a charge"".
 
-[Section 38(4)][1988]: omit ""information must be laid"" and substitute ""charging document must be filed"".
+[Section 38(4)][1987]: omit ""information must be laid"" and substitute ""charging document must be filed"".
 
-[Section 38(4)(a)][1988]: omit ""matter of the information arose"" and substitute ""offence was committed"".
+[Section 38(4)(a)][1987]: omit ""matter of the information arose"" and substitute ""offence was committed"".
 
-##### [Health Act 1956][1989] (1956 No 65)
+##### [Health Act 1956][1988] (1956 No 65)
 
-[Section 39(2)][1990]: insert ""on conviction"" after ""liable"".
+[Section 39(2)][1989]: insert ""on conviction"" after ""liable"".
 
-[Section 54(6)][1991]: insert ""on conviction"" after ""liable"".
+[Section 54(6)][1990]: insert ""on conviction"" after ""liable"".
 
-[Section 58(4)][1992]: insert ""on conviction"" after ""liable"".
+[Section 58(4)][1991]: insert ""on conviction"" after ""liable"".
 
-[Section 60(1) and (2)][1993]: insert ""on conviction"" after ""liable"".
+[Section 60(1) and (2)][1992]: insert ""on conviction"" after ""liable"".
 
-[Section 66(1)][1994]: insert ""on conviction"" after ""liable"".
+[Section 66(1)][1993]: insert ""on conviction"" after ""liable"".
 
-[Section 69ZZT(2)][1995]: insert ""on conviction"" after ""liable"".
+[Section 69ZZT(2)][1994]: insert ""on conviction"" after ""liable"".
 
-[Section 69ZZO(2)][1996]: omit ""on indictment"".
+[Section 69ZZO(2)][1995]: omit ""on indictment"".
 
-[Section 69ZZQ(3)][1997]: omit ""summary"".
+[Section 69ZZQ(3)][1996]: omit ""summary"".
 
-[Section 69ZZU][1998]: repeal and substitute:
+[Section 69ZZU][1997]: repeal and substitute:
 
 > ##### "69ZZU Time for filing charging document
 >     
@@ -11466,65 +11466,65 @@ Paragraph (b) of the definition of _serious crime_ in [section 4][1960]: omit ""
 > 
 > 
 
-[Section 69ZZV(1), (2), and (3)][1999]: omit ""summary"".
+[Section 69ZZV(1), (2), and (3)][1998]: omit ""summary"".
 
-[Section 71(3)][2000]: omit ""summary"".
+[Section 71(3)][1999]: omit ""summary"".
 
-[Section 72][2001]: insert ""on conviction"" after ""liable"".
+[Section 72][2000]: insert ""on conviction"" after ""liable"".
 
-[Section 74AA(3)(b)][2002]: insert ""on conviction"" after ""liable"".
+[Section 74AA(3)(b)][2001]: insert ""on conviction"" after ""liable"".
 
-[Section 91][2002]: omit ""summary"".
+[Section 91][2001]: omit ""summary"".
 
-[Section 92][2003]: omit ""summary"".
+[Section 92][2002]: omit ""summary"".
 
-[Section 102(5) and (6)][2004]: insert ""on conviction"" after ""liable"".
+[Section 102(5) and (6)][2003]: insert ""on conviction"" after ""liable"".
 
-[Section 109(3)(b)][2005]: insert ""on conviction"" after ""liable"".
+[Section 109(3)(b)][2004]: insert ""on conviction"" after ""liable"".
 
-[Section 110(3)(a)][2006]: insert ""on conviction"" after ""liable"".
+[Section 110(3)(a)][2005]: insert ""on conviction"" after ""liable"".
 
-[Section 112(1), (2), and (3)][2007]: omit ""summary"".
+[Section 112(1), (2), and (3)][2006]: omit ""summary"".
 
-[Section 112ZP(3)][2008]: omit ""summary"".
+[Section 112ZP(3)][2007]: omit ""summary"".
 
-[Section 136][2009]: insert ""on conviction"" after ""liable"".
+[Section 136][2008]: insert ""on conviction"" after ""liable"".
 
-[Section 137][2010]: repeal.
+[Section 137][2009]: repeal.
 
-##### [Health and Disability Commissioner Act 1994][2011] (1994 No 88)
+##### [Health and Disability Commissioner Act 1994][2010] (1994 No 88)
 
-[Section 61(4)(c)][2012]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 61(4)(c)][2011]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 63(4)(a)][2013]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 63(4)(a)][2012]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 73][2014]: omit ""summary"".
+[Section 73][2013]: omit ""summary"".
 
-##### [Health and Disability Services (Safety) Act 2001][2015] (2001 No 93)
+##### [Health and Disability Services (Safety) Act 2001][2014] (2001 No 93)
 
-[Section 54(1) and (2)][2016]: omit ""summary"".
+[Section 54(1) and (2)][2015]: omit ""summary"".
 
-##### [Health and Safety in Employment Act 1992][2017] (1992 No 96)
+##### [Health and Safety in Employment Act 1992][2016] (1992 No 96)
 
-Definition of _enforcement action_ in [section 2(1)][2018] paragraphs (a)(i) and (b)(i): repeal and substitute in each case:
+Definition of _enforcement action_ in [section 2(1)][2017] paragraphs (a)(i) and (b)(i): repeal and substitute in each case:
 
 > *   "(i) the filing of a charging document under this Act; or".
 > 
 > 
 
-[Section 50(1) and (2)][2019]: omit ""summary"".
+[Section 50(1) and (2)][2018]: omit ""summary"".
 
-[Heading to section 54A][2020]: omit and substitute ""**Filing charging document**"".
+[Heading to section 54A][2019]: omit and substitute ""**Filing charging document**"".
 
-[Section 54A(1)][2020]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 54A(1)][2019]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 54A(2)][2020]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 54A(2)][2019]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 54A(3)][2020]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 54A(3)][2019]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 54A(3)(a)][2020]: omit ""lay the information"" and substitute ""file the charging document"".
+[Section 54A(3)(a)][2019]: omit ""lay the information"" and substitute ""file the charging document"".
 
-[Section 54B][2021]: repeal and substitute:
+[Section 54B][2020]: repeal and substitute:
 
 > ##### "54B Time limit for filing charging document
 >     
@@ -11538,65 +11538,65 @@ Definition of _enforcement action_ in [section 2(1)][2018] paragraphs (a)(i) and
 > 
 > 
 
-[Heading to section 54C][2022]: omit ""**lay information**"" and substitute ""**file charging document**"".
+[Heading to section 54C][2021]: omit ""**lay information**"" and substitute ""**file charging document**"".
 
-[Section 54C(2)][2022]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 54C(2)][2021]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 54C(4)(a)][2022]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 54C(4)(a)][2021]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 54C(5)(c)][2022]: omit ""an information should be laid"" and substitute ""a charging document should be filed"".
+[Section 54C(5)(c)][2021]: omit ""an information should be laid"" and substitute ""a charging document should be filed"".
 
-[Heading to section 54D][2023]: omit ""**lay information**"" and substitute ""**file charging document**"".
+[Heading to section 54D][2022]: omit ""**lay information**"" and substitute ""**file charging document**"".
 
-[Section 54D(1)][2023]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 54D(1)][2022]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 54D(2)][2023]: omit ""laying an information"" and substitute ""filing a charging document"".
+[Section 54D(2)][2022]: omit ""laying an information"" and substitute ""filing a charging document"".
 
-[Section 54D(4)(a)][2023]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 54D(4)(a)][2022]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 54D(4)(c)][2023]: omit ""an information is able to be laid"" and substitute ""a charging document is able to be filed"".
+[Section 54D(4)(c)][2022]: omit ""an information is able to be laid"" and substitute ""a charging document is able to be filed"".
 
-[Section 54D(4)(d)][2023]: omit ""laying the information"" and substitute ""filing the charging document"".
+[Section 54D(4)(d)][2022]: omit ""laying the information"" and substitute ""filing the charging document"".
 
-[Section 54D(5)(c)][2023]: omit ""an information should be laid"" and substitute ""a charging document should be filed"".
+[Section 54D(5)(c)][2022]: omit ""an information should be laid"" and substitute ""a charging document should be filed"".
 
-[Section 55(1)][2024]: repeal and substitute:
+[Section 55(1)][2023]: repeal and substitute:
 
 > *   "(1) A proceeding commenced by an inspector in respect of any offence against this Act may be proceeded with and conducted by that inspector, any other inspector, or any other person permitted by the court to proceed with and conduct it."
 > 
 > 
 
-[Section 55(2)(b)][2024]: omit ""an information was laid"" and substitute ""proceedings were commenced"".
+[Section 55(2)(b)][2023]: omit ""an information was laid"" and substitute ""proceedings were commenced"".
 
-[Section 55(3)][2024]: omit ""indictment or information"" and substitute ""charge"".
+[Section 55(3)][2023]: omit ""indictment or information"" and substitute ""charge"".
 
-[Section 55(5)][2024]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 55(5)][2023]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 56E(3)][2025]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 56E(3)][2024]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Health Practitioners Competence Assurance Act 2003][2026] (2003 No 48)
+##### [Health Practitioners Competence Assurance Act 2003][2025] (2003 No 48)
 
-[Section 7(5)][2027]: omit ""summary"".
+[Section 7(5)][2026]: omit ""summary"".
 
-[Section 9(6)][2028]: omit ""summary"".
+[Section 9(6)][2027]: omit ""summary"".
 
-[Section 33(3)][2029]: omit ""summary"".
+[Section 33(3)][2028]: omit ""summary"".
 
-[Section 44(3)][2030]: omit ""summary"".
+[Section 44(3)][2029]: omit ""summary"".
 
-[Section 59(6)][2031]: omit ""summary"".
+[Section 59(6)][2030]: omit ""summary"".
 
-[Section 78(4)][2032]: omit ""summary"".
+[Section 78(4)][2031]: omit ""summary"".
 
-[Section 95(7)][2033]: omit ""summary"".
+[Section 95(7)][2032]: omit ""summary"".
 
-[Section 98(5)][2034]: omit ""summary"".
+[Section 98(5)][2033]: omit ""summary"".
 
-[Section 113(4)][2035]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 113(4)][2034]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 172][2036]: omit ""summary"".
+[Section 172][2035]: omit ""summary"".
 
-[Section 173][2037]: repeal and substitute:
+[Section 173][2036]: repeal and substitute:
 
 > ##### "173 Time for filing charging document
 >     
@@ -11604,41 +11604,41 @@ Definition of _enforcement action_ in [section 2(1)][2018] paragraphs (a)(i) and
 > 
 > 
 
-[Schedule 1][2038], clause 10(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 1][2037], clause 10(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Schedule 1][2038], clause 12(3): omit ""summary"".
+[Schedule 1][2037], clause 12(3): omit ""summary"".
 
-[Schedule 1][2038], clause 13(1): omit ""summary"".
+[Schedule 1][2037], clause 13(1): omit ""summary"".
 
-##### [Heavy Engineering Research Levy Act 1978][2039] (1978 No 81)
+##### [Heavy Engineering Research Levy Act 1978][2038] (1978 No 81)
 
-[Section 18(1) and (2)][2040]: omit ""summary"".
+[Section 18(1) and (2)][2039]: omit ""summary"".
 
-[Section 19(1)][2041]: omit ""summary"".
+[Section 19(1)][2040]: omit ""summary"".
 
-##### [Historic Places Act 1993][2042] (1993 No 38)
+##### [Historic Places Act 1993][2041] (1993 No 38)
 
-[Section 65][2043]: omit ""summary"".
+[Section 65][2042]: omit ""summary"".
 
-[Section 97(2)][2044]: omit ""summary"".
+[Section 97(2)][2043]: omit ""summary"".
 
-[Section 98(2)][2045]: omit ""summary"".
+[Section 98(2)][2044]: omit ""summary"".
 
-[Section 99(2)][2046]: omit ""summary"".
+[Section 99(2)][2045]: omit ""summary"".
 
-[Section 100][2047]: omit ""summary"".
+[Section 100][2046]: omit ""summary"".
 
-[Section 101][2048]: omit ""summary"".
+[Section 101][2047]: omit ""summary"".
 
-[Section 102(1) and (2)][2049]: omit ""summary"".
+[Section 102(1) and (2)][2048]: omit ""summary"".
 
-[Section 103(2)][2050]: omit ""summary"".
+[Section 103(2)][2049]: omit ""summary"".
 
-[Section 104][2051]: omit ""summary"".
+[Section 104][2050]: omit ""summary"".
 
-[Section 107(3)][2052]: omit ""summary"".
+[Section 107(3)][2051]: omit ""summary"".
 
-[Section 108][2053]: repeal and substitute:
+[Section 108][2052]: repeal and substitute:
 
 > ##### "108 Time for filing charging document
 >     
@@ -11646,111 +11646,111 @@ Definition of _enforcement action_ in [section 2(1)][2018] paragraphs (a)(i) and
 > 
 > 
 
-##### [Home Ownership Savings Act 1974][2054] (1974 No 51)
+##### [Home Ownership Savings Act 1974][2053] (1974 No 51)
 
-[Section 16(2)][2055]: omit ""summary"".
+[Section 16(2)][2054]: omit ""summary"".
 
-[Section 17(2)(c)][2056]: omit ""summary"".
+[Section 17(2)(c)][2055]: omit ""summary"".
 
-##### [Hotel Association of New Zealand Act 1969][2057] (1969 No 139)
+##### [Hotel Association of New Zealand Act 1969][2056] (1969 No 139)
 
-[Section 14(3)][2058]: omit ""summary"".
+[Section 14(3)][2057]: omit ""summary"".
 
-##### [Housing Act 1955][2059] (1955 No 51)
+##### [Housing Act 1955][2058] (1955 No 51)
 
-[Section 29(7)][2060]: omit ""summary"".
+[Section 29(7)][2059]: omit ""summary"".
 
-##### [Housing Corporation Act 1974][2061] (1974 No 19)
+##### [Housing Corporation Act 1974][2060] (1974 No 19)
 
-[Section 43(3)][2062]: omit ""summary"".
+[Section 43(3)][2061]: omit ""summary"".
 
-##### [Human Assisted Reproductive Technology Act 2004][2063] (2004 No 92)
+##### [Human Assisted Reproductive Technology Act 2004][2062] (2004 No 92)
 
-[Section 8(4)][2064]: omit ""on indictment"".
+[Section 8(4)][2063]: omit ""on indictment"".
 
-[Section 9(5) and (6)][2065]: omit ""summary"".
+[Section 9(5) and (6)][2064]: omit ""summary"".
 
-[Section 10(9)][2066]: omit ""summary"".
+[Section 10(9)][2065]: omit ""summary"".
 
-[Section 11(2)][2067]: omit ""summary"".
+[Section 11(2)][2066]: omit ""summary"".
 
-[Section 12(2)][2068]: omit ""summary"".
+[Section 12(2)][2067]: omit ""summary"".
 
-[Section 13(2)][2069]: omit ""summary"".
+[Section 13(2)][2068]: omit ""summary"".
 
-[Section 14(5)][2070]: omit ""summary"".
+[Section 14(5)][2069]: omit ""summary"".
 
-[Section 15(3)][2071]: omit ""summary"".
+[Section 15(3)][2070]: omit ""summary"".
 
-[Section 16(2)][2072]: omit ""summary"".
+[Section 16(2)][2071]: omit ""summary"".
 
-[Section 26(2)][2073]: omit ""summary"".
+[Section 26(2)][2072]: omit ""summary"".
 
-[Section 75(2)][2074]: omit ""summary"".
+[Section 75(2)][2073]: omit ""summary"".
 
-##### [Human Rights Act 1993][2075] (1993 No 82)
+##### [Human Rights Act 1993][2074] (1993 No 82)
 
-[Section 107(4)][2076]: omit ""summary"".
+[Section 107(4)][2075]: omit ""summary"".
 
-[Section 111(1)][2077]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 111(1)][2076]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 113(2)][2078]: omit ""summary"".
+[Section 113(2)][2077]: omit ""summary"".
 
-[Section 121(2)][2079]: omit ""summary"".
+[Section 121(2)][2078]: omit ""summary"".
 
-[Section 128(4)(a)][2080]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 128(4)(a)][2079]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 131(1)][2078]: omit ""summary conviction"" and substitute ""conviction"".
+[Section 131(1)][2077]: omit ""summary conviction"" and substitute ""conviction"".
 
-[Section 134(2)][2081]: omit ""summary"".
+[Section 134(2)][2080]: omit ""summary"".
 
-[Section 143][2082]: omit ""summary"".
+[Section 143][2081]: omit ""summary"".
 
-##### [Human Tissue Act 2008][2083] (2008 No 28)
+##### [Human Tissue Act 2008][2082] (2008 No 28)
 
-[Section 22(1)][2084]: omit ""summary"".
+[Section 22(1)][2083]: omit ""summary"".
 
-[Section 23][2085]: omit ""summary"".
+[Section 23][2084]: omit ""summary"".
 
-[Section 24][2086]: omit ""summary"".
+[Section 24][2085]: omit ""summary"".
 
-[Section 47(3)][2087]: omit ""summary"".
+[Section 47(3)][2086]: omit ""summary"".
 
-[Section 48(3)][2088]: omit ""summary"".
+[Section 48(3)][2087]: omit ""summary"".
 
-[Section 49(3)][2089]: omit ""summary"".
+[Section 49(3)][2088]: omit ""summary"".
 
-[Section 50(4)][2090]: omit ""summary"".
+[Section 50(4)][2089]: omit ""summary"".
 
-[Section 51(2)][2091]: omit ""summary"".
+[Section 51(2)][2090]: omit ""summary"".
 
-[Section 52(2)][2092]: omit ""summary"".
+[Section 52(2)][2091]: omit ""summary"".
 
-[Section 56(2)][2093]: omit ""summary"".
+[Section 56(2)][2092]: omit ""summary"".
 
-[Section 57(2)][2094]: omit ""summary"".
+[Section 57(2)][2093]: omit ""summary"".
 
-[Section 58(2)][2095]: omit ""summary"".
+[Section 58(2)][2094]: omit ""summary"".
 
-[Section 59(2)][2096]: omit ""summary"".
+[Section 59(2)][2095]: omit ""summary"".
 
-[Section 61(2)][2097]: omit ""summary"".
+[Section 61(2)][2096]: omit ""summary"".
 
-[Section 66(3)][2098]: omit ""summary"".
+[Section 66(3)][2097]: omit ""summary"".
 
-[Section 73][2099]: omit ""summary"".
+[Section 73][2098]: omit ""summary"".
 
-##### [Immigration Act 2009][2100] (2009 No 51)
+##### [Immigration Act 2009][2099] (2009 No 51)
 
-Paragraph (d) of the definition of _fine_ in [section 295(4)][2101]: repeal.
+Paragraph (d) of the definition of _fine_ in [section 295(4)][2100]: repeal.
 
-[Section 350(5)][2102]: omit ""An information"" and substitute ""A charge"".
+[Section 350(5)][2101]: omit ""An information"" and substitute ""A charge"".
 
-[Section 351(6)][2103]: omit ""An information"" and substitute ""A charge"".
+[Section 351(6)][2102]: omit ""An information"" and substitute ""A charge"".
 
-[Section 352(6)][2104]: omit ""An information"" and substitute ""A charge"".
+[Section 352(6)][2103]: omit ""An information"" and substitute ""A charge"".
 
-[Section 360][2105]: repeal and substitute:
+[Section 360][2104]: repeal and substitute:
 
 > ##### "360 Proceedings for infringement offences
 >     
@@ -11764,19 +11764,19 @@ Paragraph (d) of the definition of _fine_ in [section 295(4)][2101]: repeal.
 > 
 > 
 
-[Section 362(4)][2106]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 362(4)][2105]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 370(1) and (2)][2107]: repeal.
+[Section 370(1) and (2)][2106]: repeal.
 
-[Section 370(3)][2107]: repeal and substitute:
+[Section 370(3)][2106]: repeal and substitute:
 
 > *   "(3) Only an immigration officer, a constable, or some other person authorised for the purpose by the Minister, may commence a proceeding for an offence against this Act or any regulations made under it."
 > 
 > 
 
-[Section 371(b)][2108]: omit ""an information was laid"" and substitute ""proceedings were commenced"".
+[Section 371(b)][2107]: omit ""an information was laid"" and substitute ""proceedings were commenced"".
 
-[Section 372][2109]: repeal and substitute:
+[Section 372][2108]: repeal and substitute:
 
 > ##### "372 Time for filing charging document
 >     
@@ -11790,11 +11790,11 @@ Paragraph (d) of the definition of _fine_ in [section 295(4)][2101]: repeal.
 > 
 > 
 
-[Schedule 2][2110], clause 16(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 2][2109], clause 16(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Immigration Advisers Licensing Act 2007][2111] (2007 No 15)
+##### [Immigration Advisers Licensing Act 2007][2110] (2007 No 15)
 
-[Section 75][2112]: repeal and substitute:
+[Section 75][2111]: repeal and substitute:
 
 > ##### "75 Time for filing charging document
 >     
@@ -11814,81 +11814,81 @@ Paragraph (d) of the definition of _fine_ in [section 295(4)][2101]: repeal.
 > 
 > 
 
-[Section 85(3)][2113]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 85(3)][2112]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 97][2114]: repeal.
+[Section 97][2113]: repeal.
 
 Schedule, clause 7: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Schedule][2115], clause 8(2): omit ""indictment for"" and substitute ""charge of"".
+[Schedule][2114], clause 8(2): omit ""indictment for"" and substitute ""charge of"".
 
-##### [Imports and Exports (Restrictions) Act 1988][2116] (1988 No 157)
+##### [Imports and Exports (Restrictions) Act 1988][2115] (1988 No 157)
 
-[Section 4(7)][2117]: repeal.
+[Section 4(7)][2116]: repeal.
 
-[Section 4(8)][2117]: repeal and substitute:
+[Section 4(8)][2116]: repeal and substitute:
 
 > *   "(8) Proceedings for an offence against this section or against any Order in Council made under section 3 or 3A of this Act must be commenced by the chief executive."
 > 
 > 
 
-[Section 4(9)][2117]: repeal and substitute:
+[Section 4(9)][2116]: repeal and substitute:
 
 > *   "(9) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section or against any Order in Council made under section 3 or 3A ends on the date that is 3 years after the date on which the offence was committed."
 > 
 > 
 
-##### [Impounding Act 1955][2118] (1955 No 108)
+##### [Impounding Act 1955][2117] (1955 No 108)
 
-[Section 31(3) and (4)][2119]: insert ""on conviction"" after ""liable"".
+[Section 31(3) and (4)][2118]: insert ""on conviction"" after ""liable"".
 
-[Section 33(1)][2120]: insert ""on conviction"" after ""liable"".
+[Section 33(1)][2119]: insert ""on conviction"" after ""liable"".
 
-[Section 57(1) and (2)][2121]: insert ""on conviction"" after ""liable"".
+[Section 57(1) and (2)][2120]: insert ""on conviction"" after ""liable"".
 
-[Section 58(1) and (2)][2122]: insert ""on conviction"" after ""liable"".
+[Section 58(1) and (2)][2121]: insert ""on conviction"" after ""liable"".
 
-[Section 60][2123]: insert ""on conviction"" after ""liable"".
+[Section 60][2122]: insert ""on conviction"" after ""liable"".
 
-[Section 61][2124]: repeal.
+[Section 61][2123]: repeal.
 
-##### [Imprisonment for Debt Limitation Act 1908][2125] (1908 No 80)
+##### [Imprisonment for Debt Limitation Act 1908][2124] (1908 No 80)
 
-[Section 3(2)(b)][2126]: omit ""summarily before a District Court Judge or Justice or Justices"" and substitute ""before a District Court"".
+[Section 3(2)(b)][2125]: omit ""summarily before a District Court Judge or Justice or Justices"" and substitute ""before a District Court"".
 
-##### [Incorporated Societies Act 1908][2127] (1908 No 212)
+##### [Incorporated Societies Act 1908][2126] (1908 No 212)
 
-[Section 11A(2)][2128]: omit ""summary"".
+[Section 11A(2)][2127]: omit ""summary"".
 
-[Section 23A(4)][2129]: omit ""summary"".
+[Section 23A(4)][2128]: omit ""summary"".
 
-[Section 23B(4) and (5)][2130]: omit ""summary"".
+[Section 23B(4) and (5)][2129]: omit ""summary"".
 
-##### [Incorporated Societies Amendment Act 1953][2131] (1953 No 80)
+##### [Incorporated Societies Amendment Act 1953][2130] (1953 No 80)
 
-[Section 3][2132]: omit ""summary"".
+[Section 3][2131]: omit ""summary"".
 
-##### [Independent Police Conduct Authority Act 1988][2133] (1988 No 2)
+##### [Independent Police Conduct Authority Act 1988][2132] (1988 No 2)
 
-[Section 25(5)(a)][2134]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 25(5)(a)][2133]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 37][2135]: omit ""summary"".
+[Section 37][2134]: omit ""summary"".
 
-##### [Industrial and Provident Societies Act 1908][2136] (1908 No 81)
+##### [Industrial and Provident Societies Act 1908][2135] (1908 No 81)
 
-[Section 5A(2)][2137]: omit ""summary"".
+[Section 5A(2)][2136]: omit ""summary"".
 
-[Section 7(f)][2138]: omit ""indictable"".
+[Section 7(f)][2137]: omit ""indictable"".
 
-[Section 7][2138]: add as subsection (2):
+[Section 7][2137]: add as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section."
 > 
 > 
 
-[Section 10(i)][2139]: repeal.
+[Section 10(i)][2138]: repeal.
 
-Insert after [section 10][2139]:
+Insert after [section 10][2138]:
 
 > ##### "10AA Offences in relation to property of societies
 >     
@@ -11914,83 +11914,83 @@ Insert after [section 10][2139]:
 > 
 > 
 
-[Section 10A(4)][2140]: omit ""summary"".
+[Section 10A(4)][2139]: omit ""summary"".
 
-[Section 10B(4) and (5)][2141]: omit ""summary"".
+[Section 10B(4) and (5)][2140]: omit ""summary"".
 
-[Section 15(c)(iii)][2142]: omit ""indictable"".
+[Section 15(c)(iii)][2141]: omit ""indictable"".
 
-[Section 15][2142]: add as subsection (2):
+[Section 15][2141]: add as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under subsection (1)(c)(iii)."
 > 
 > 
 
-[Section 16(d)][2143]: repeal.
+[Section 16(d)][2142]: repeal.
 
-[Section 17(2)][2144]: omit ""information or complaint"" and substitute ""charging document"".
+[Section 17(2)][2143]: omit ""information or complaint"" and substitute ""charging document"".
 
-##### [Inferior Courts Procedure Act 1909][2145] (1909 No 13)
+##### [Inferior Courts Procedure Act 1909][2144] (1909 No 13)
 
-[Section 10][2146]: omit ""an information"" and substitute ""a charging document"".
+[Section 10][2145]: omit ""an information"" and substitute ""a charging document"".
 
-[Section 12(1) and (1A)][2147]: omit ""Summary Proceedings Act 1957"" in each place where it appears and substitute in each case ""Criminal Procedure Act 2011"".
+[Section 12(1) and (1A)][2146]: omit ""Summary Proceedings Act 1957"" in each place where it appears and substitute in each case ""Criminal Procedure Act 2011"".
 
-##### [Insolvency Act 2006][2148] (2006 No 55)
+##### [Insolvency Act 2006][2147] (2006 No 55)
 
-[Section 169(3)][2149]: omit ""summary"".
+[Section 169(3)][2148]: omit ""summary"".
 
-[Section 248(2)][2150]: omit ""on indictment"".
+[Section 248(2)][2149]: omit ""on indictment"".
 
-[Section 360(3)][2151]: omit ""summary"".
+[Section 360(3)][2150]: omit ""summary"".
 
-[Section 360(4)][2151]: repeal.
+[Section 360(4)][2150]: repeal.
 
-[Section 371(3)][2152]: omit ""summary"".
+[Section 371(3)][2151]: omit ""summary"".
 
-[Section 371(4)][2152]: repeal.
+[Section 371(4)][2151]: repeal.
 
-[Heading above section 419][2153]: omit.
+[Heading above section 419][2152]: omit.
 
-[Heading to section 428][2154]: omit ""**indictable offences by bankrupt**"" and substitute ""**offences under sections 419 to 426 by bankrupt**"".
+[Heading to section 428][2153]: omit ""**indictable offences by bankrupt**"" and substitute ""**offences under sections 419 to 426 by bankrupt**"".
 
-[Section 428][2154]: omit ""on indictment"".
+[Section 428][2153]: omit ""on indictment"".
 
-[Section 428][2154]: add as subsection (2):
+[Section 428][2153]: add as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against any of sections 419 to 426\."
 > 
 > 
 
-[Section 429(2)][2155]: repeal and substitute:
+[Section 429(2)][2154]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period for filing a charging document against a bankrupt in respect of an offence under this section ends on the date that is 2 years after the date of his or her adjudication."
 > 
 > 
 
-[Section 430][2156]: add as subsection (2):
+[Section 430][2155]: add as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section."
 > 
 > 
 
-[Section 431(1)][2157]: omit ""summary"".
+[Section 431(1)][2156]: omit ""summary"".
 
-[Section 431(2)][2157]: omit ""on indictment"".
+[Section 431(2)][2156]: omit ""on indictment"".
 
-[Heading above section 433][2158]: omit and substitute:
+[Heading above section 433][2157]: omit and substitute:
 
 > #### "Offences in relation to Assignee".
 
-[Heading to section 433][2158]: omit and substitute ""**Offences in relation to Assignee**"".
+[Heading to section 433][2157]: omit and substitute ""**Offences in relation to Assignee**"".
 
-[Section 433(1)(f)(ii)][2158]: omit ""; or"".
+[Section 433(1)(f)(ii)][2157]: omit ""; or"".
 
-[Section 433(1)(g)][2158]: repeal.
+[Section 433(1)(g)][2157]: repeal.
 
-[Section 433(2)][2158]: repeal.
+[Section 433(2)][2157]: repeal.
 
-Insert after [section 433][2158]:
+Insert after [section 433][2157]:
 
 > ##### "433A Offence in relation to obtaining credit
 >     
@@ -12004,13 +12004,13 @@ Insert after [section 433][2158]:
 > 
 > 
 
-[Heading to section 434][2159]: omit ""**summary offences**"" and substitute ""**offence**"".
+[Heading to section 434][2158]: omit ""**summary offences**"" and substitute ""**offence**"".
 
-[Section 434(1)][2159]: omit ""433(1)(g)(i)"" and substitute ""433A(a)"".
+[Section 434(1)][2158]: omit ""433(1)(g)(i)"" and substitute ""433A(a)"".
 
-[Section 434(2)][2159]: omit ""433(1)(g)(ii)"" and substitute ""433A(b)"".
+[Section 434(2)][2158]: omit ""433(1)(g)(ii)"" and substitute ""433A(b)"".
 
-Insert after [section 434][2159]:
+Insert after [section 434][2158]:
 
 > ##### "434A Limitation period for offences against section 433 or 433A
 >     
@@ -12018,7 +12018,7 @@ Insert after [section 434][2159]:
 > 
 > 
 
-[Section 435][2160]: repeal and substitute:
+[Section 435][2159]: repeal and substitute:
 
 > ##### "435 Penalty for offences under sections 433 and 433A
 >     
@@ -12026,13 +12026,13 @@ Insert after [section 434][2159]:
 > 
 > 
 
-[Section 436(2)][2161]: repeal and substitute:
+[Section 436(2)][2160]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (1) ends on the date that is 2 years after the date on which the offence was committed."
 > 
 > 
 
-[Section 437][2162]: repeal and substitute:
+[Section 437][2161]: repeal and substitute:
 
 > ##### "437 Penalties for offence in relation to management of companies
 >     
@@ -12040,161 +12040,161 @@ Insert after [section 434][2159]:
 > 
 > 
 
-[Section 438(2)][2163]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 438(2)][2162]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 440(2)][2164]: omit ""summary"".
+[Section 440(2)][2163]: omit ""summary"".
 
-##### [Inspector-General of Intelligence and Security Act 1996][2165] (1996 No 47)
+##### [Inspector-General of Intelligence and Security Act 1996][2164] (1996 No 47)
 
-[Section 23(6)][2166]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 23(6)][2165]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 23(8)][2166]: omit ""summary"".
+[Section 23(8)][2165]: omit ""summary"".
 
-[Section 28(3)][2167]: omit ""on indictment"".
+[Section 28(3)][2166]: omit ""on indictment"".
 
-[Section 29(4)][2168]: omit ""summary"".
+[Section 29(4)][2167]: omit ""summary"".
 
-##### [Insurance Companies (Ratings and Inspections) Act 1994][2169] (1994 No 117)
+##### [Insurance Companies (Ratings and Inspections) Act 1994][2168] (1994 No 117)
 
-[Section 5(3)][2170]: omit ""summary"".
+[Section 5(3)][2169]: omit ""summary"".
 
-[Section 6(5)][2171]: omit ""summary"".
+[Section 6(5)][2170]: omit ""summary"".
 
-[Section 8(4)][2172]: omit ""summary"".
+[Section 8(4)][2171]: omit ""summary"".
 
-[Section 20(2)][2173]: omit ""summary"".
+[Section 20(2)][2172]: omit ""summary"".
 
-[Section 26(4), (5)(a), (5)(b), and (6)][2174]: omit ""summary"".
+[Section 26(4), (5)(a), (5)(b), and (6)][2173]: omit ""summary"".
 
-[Section 27(4)][2175]: omit ""summary"".
+[Section 27(4)][2174]: omit ""summary"".
 
-[Section 33(3)(a) and (b)][2176]: omit ""summary"".
+[Section 33(3)(a) and (b)][2175]: omit ""summary"".
 
-##### [Insurance Companies' Deposits Act 1953][2177] (1953 No 50)
+##### [Insurance Companies' Deposits Act 1953][2176] (1953 No 50)
 
-[Section 15(2)][2178]: omit ""summary"".
+[Section 15(2)][2177]: omit ""summary"".
 
 Section 17: omit ""summary"".
 
-[Section 20(1)][2179]: omit ""summary"".
+[Section 20(1)][2178]: omit ""summary"".
 
-[Section 20A(2)][2180]: omit ""summary"".
+[Section 20A(2)][2179]: omit ""summary"".
 
-[Section 22(1)][2181]: omit ""summary"".
+[Section 22(1)][2180]: omit ""summary"".
 
-##### [Insurance Intermediaries Act 1994][2182] (1994 No 41)
+##### [Insurance Intermediaries Act 1994][2181] (1994 No 41)
 
-[Section 8(4)][2183]: omit ""summary"".
+[Section 8(4)][2182]: omit ""summary"".
 
-[Section 13(4)][2184]: omit ""summary"".
+[Section 13(4)][2183]: omit ""summary"".
 
-[Section 14(6)][2185]: omit ""summary"".
+[Section 14(6)][2184]: omit ""summary"".
 
-[Section 15(7)][2186]: omit ""summary"".
+[Section 15(7)][2185]: omit ""summary"".
 
-##### [Insurance Law Reform Act 1977][2187] (1977 No 14)
+##### [Insurance Law Reform Act 1977][2186] (1977 No 14)
 
 Section 112A(3)(a) and (b): omit ""summary"".
 
-##### [Insurance (Prudential Supervision) Act 2010][2188] (2010 No 111)
+##### [Insurance (Prudential Supervision) Act 2010][2187] (2010 No 111)
 
-[Section 15(2)][2189]: omit ""summary"".
+[Section 15(2)][2188]: omit ""summary"".
 
-[Section 16(2)][2190]: omit ""summary"".
+[Section 16(2)][2189]: omit ""summary"".
 
-[Section 17(4)][2191]: omit ""summary"".
+[Section 17(4)][2190]: omit ""summary"".
 
-[Section 23][2192]: omit ""summary"".
+[Section 23][2191]: omit ""summary"".
 
-[Section 24(2)][2193]: omit ""summary"".
+[Section 24(2)][2192]: omit ""summary"".
 
-[Section 29][2194]: omit ""summary"".
+[Section 29][2193]: omit ""summary"".
 
-[Section 31(5)][2195]: omit ""summary"".
+[Section 31(5)][2194]: omit ""summary"".
 
-[Section 34(6)][2196]: omit ""summary"".
+[Section 34(6)][2195]: omit ""summary"".
 
-[Section 37(6)][2197]: omit ""summary"".
+[Section 37(6)][2196]: omit ""summary"".
 
-[Section 41(2)][2198]: omit ""summary"".
+[Section 41(2)][2197]: omit ""summary"".
 
-[Section 44(4)][2199]: omit ""summary"".
+[Section 44(4)][2198]: omit ""summary"".
 
-[Section 50][2200]: omit ""summary"".
+[Section 50][2199]: omit ""summary"".
 
-[Section 57][2201]: omit ""summary"".
+[Section 57][2200]: omit ""summary"".
 
-[Section 60(4)][2202]: omit ""summary"".
+[Section 60(4)][2201]: omit ""summary"".
 
-[Section 64(5)][2203]: omit ""summary"".
+[Section 64(5)][2202]: omit ""summary"".
 
-[Section 65(5)][2204]: omit ""summary"".
+[Section 65(5)][2203]: omit ""summary"".
 
-[Section 71][2205]: omit ""summary"".
+[Section 71][2204]: omit ""summary"".
 
-[Section 72(2)][2206]: omit ""summary"".
+[Section 72(2)][2205]: omit ""summary"".
 
-[Section 75][2207]: omit ""summary"".
+[Section 75][2206]: omit ""summary"".
 
-[Section 77(5)][2208]: omit ""summary"".
+[Section 77(5)][2207]: omit ""summary"".
 
-[Section 80(2) and (4)][2209]: omit ""summary"".
+[Section 80(2) and (4)][2208]: omit ""summary"".
 
-[Section 81(6)][2210]: omit ""summary"".
+[Section 81(6)][2209]: omit ""summary"".
 
-[Section 118(1)][2211]: omit ""summary"".
+[Section 118(1)][2210]: omit ""summary"".
 
-[Section 121(6)][2212]: omit ""summary"".
+[Section 121(6)][2211]: omit ""summary"".
 
-[Section 123(2)][2213]: omit ""summary"".
+[Section 123(2)][2212]: omit ""summary"".
 
-[Section 124(4)][2214]: omit ""summary"".
+[Section 124(4)][2213]: omit ""summary"".
 
-[Section 125(2)][2215]: omit ""summary"".
+[Section 125(2)][2214]: omit ""summary"".
 
-[Section 126(4)][2216]: omit ""summary"".
+[Section 126(4)][2215]: omit ""summary"".
 
-[Section 130(3)][2217]: omit ""summary"".
+[Section 130(3)][2216]: omit ""summary"".
 
-[Section 133(2)][2218]: omit ""summary"".
+[Section 133(2)][2217]: omit ""summary"".
 
-[Section 135(5)][2219]: omit ""summary"".
+[Section 135(5)][2218]: omit ""summary"".
 
-[Section 136(2)][2220]: omit ""summary"".
+[Section 136(2)][2219]: omit ""summary"".
 
-[Section 142][2221]: omit ""summary"".
+[Section 142][2220]: omit ""summary"".
 
-[Section 148(3)][2222]: omit ""summary"".
+[Section 148(3)][2221]: omit ""summary"".
 
-[Section 150(5)][2223]: omit ""summary"".
+[Section 150(5)][2222]: omit ""summary"".
 
-[Section 156(2)][2224]: omit ""summary"".
+[Section 156(2)][2223]: omit ""summary"".
 
-[Section 157(2)][2225]: omit ""summary"".
+[Section 157(2)][2224]: omit ""summary"".
 
-[Section 180(b)][2226]: omit ""summary"".
+[Section 180(b)][2225]: omit ""summary"".
 
-[Section 200(2)][2227]: omit ""summary"".
+[Section 200(2)][2226]: omit ""summary"".
 
-[Section 201(4)][2228]: omit ""summary"".
+[Section 201(4)][2227]: omit ""summary"".
 
-[Section 207(3)][2229]: omit ""summary"".
+[Section 207(3)][2228]: omit ""summary"".
 
-[Section 214(2)][2230]: omit ""summary"".
+[Section 214(2)][2229]: omit ""summary"".
 
-[Section 215(2)][2231]: omit ""summary"".
+[Section 215(2)][2230]: omit ""summary"".
 
-[Section 218(3)][2232]: omit ""summary"".
+[Section 218(3)][2231]: omit ""summary"".
 
-[Section 219(3)][2233]: omit ""summary"".
+[Section 219(3)][2232]: omit ""summary"".
 
-[Section 228][2234]: omit ""summary"".
+[Section 228][2233]: omit ""summary"".
 
-##### [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][2235] (2003 No 116)
+##### [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][2234] (2003 No 116)
 
-[Section 71(3)][2236]: omit ""section 142A of the Criminal Justice Act 1985"" and substitute ""section 34A of the Corrections Act 2004"".
+[Section 71(3)][2235]: omit ""section 142A of the Criminal Justice Act 1985"" and substitute ""section 34A of the Corrections Act 2004"".
 
-[Section 105(2)(a) and (b)][2237]: repeal and substitute:
+[Section 105(2)(a) and (b)][2236]: repeal and substitute:
 
 > *   "(a) if the Judge considers the accused is capable of being tried on the charge, direct that the accused be brought before the appropriate court; or
 > 
@@ -12202,15 +12202,15 @@ Section 112A(3)(a) and (b): omit ""summary"".
 > 
 > 
 
-[Section 128(4)][2238]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Section 128(4)][2237]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
-##### [Intelligence and Security Committee Act 1996][2239] (1996 No 46)
+##### [Intelligence and Security Committee Act 1996][2238] (1996 No 46)
 
-[Section 20(2)][2240]: omit ""on indictment"".
+[Section 20(2)][2239]: omit ""on indictment"".
 
-##### [International Crimes and International Criminal Court Act 2000][2241] (2000 No 26)
+##### [International Crimes and International Criminal Court Act 2000][2240] (2000 No 26)
 
-[Section 4(2)(a)][2242]: repeal.
+[Section 4(2)(a)][2241]: repeal.
 
 [Section 9(1)][897]: omit ""is liable on conviction on indictment"" and substitute ""commits an offence and is liable on conviction"".
 
@@ -12234,21 +12234,21 @@ Section 112A(3)(a) and (b): omit ""summary"".
 
 [Section 21][906]: omit ""is liable on conviction on indictment"" and substitute ""commits an offence and is liable on conviction"".
 
-[Section 39(3)][2243]: omit ""section 31(1) to (3) of the Bail Act 2000 (as applied by section 49 of that Act)"" and substitute ""section 30(1), (2), and (4) of the Bail Act 2000"".
+[Section 39(3)][2242]: omit ""section 31(1) to (3) of the Bail Act 2000 (as applied by section 49 of that Act)"" and substitute ""section 30(1), (2), and (4) of the Bail Act 2000"".
 
-[Section 41(1)(a)][2244]: omit ""summary"" and substitute ""category 1 or 2"".
+[Section 41(1)(a)][2243]: omit ""summary"" and substitute ""category 1 or 2"".
 
-[Section 41(1)(b)(i)][2244]: omit ""Part 2 and sections 203, 204, and 206 of the Summary Proceedings Act 1957"" and substitute ""subparts 1 and 3 of Part 4, Part 5, and sections 365 and 379 of the Criminal Procedure Act 2011"".
+[Section 41(1)(b)(i)][2243]: omit ""Part 2 and sections 203, 204, and 206 of the Summary Proceedings Act 1957"" and substitute ""subparts 1 and 3 of Part 4, Part 5, and sections 365 and 379 of the Criminal Procedure Act 2011"".
 
-[Section 41(2)][2244]: omit ""Despite section 4 of the Summary Proceedings Act 1957"" and substitute ""In accordance with section 355 of the Criminal Procedure Act 2011"".
+[Section 41(2)][2243]: omit ""Despite section 4 of the Summary Proceedings Act 1957"" and substitute ""In accordance with section 355 of the Criminal Procedure Act 2011"".
 
-[Section 41(3)][2244]: omit ""subsections (1) and (2) of section 46 of the Summary Proceedings Act 1957"" and substitute ""section 168(1) and (2) of the Criminal Procedure Act 2011"".
+[Section 41(3)][2243]: omit ""subsections (1) and (2) of section 46 of the Summary Proceedings Act 1957"" and substitute ""section 168(1) and (2) of the Criminal Procedure Act 2011"".
 
-[Section 41(5)][2244]: omit ""Section 184T of the Summary Proceedings Act 1957 and sections 52 and 54"" and substitute ""Section 169 of the Criminal Procedure Act 2011 and sections 27, 30 to 33, 35, 37 to 39, 44, 45, and 52"".
+[Section 41(5)][2243]: omit ""Section 184T of the Summary Proceedings Act 1957 and sections 52 and 54"" and substitute ""Section 169 of the Criminal Procedure Act 2011 and sections 27, 30 to 33, 35, 37 to 39, 44, 45, and 52"".
 
-[Section 46(2)(a)][2245]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
+[Section 46(2)(a)][2244]: omit ""section 184T(3) of the Summary Proceedings Act 1957"" and substitute ""section 169 of the Criminal Procedure Act 2011"".
 
-[Section 67][2246]: repeal and substitute:
+[Section 67][2245]: repeal and substitute:
 
 > ##### "67 Appeal on question of law only
 >     
@@ -12260,7 +12260,7 @@ Section 112A(3)(a) and (b): omit ""summary"".
 > 
 > 
 
-[Section 68][2247]: repeal and substitute:
+[Section 68][2246]: repeal and substitute:
 
 > ##### "68 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
 >     
@@ -12270,85 +12270,85 @@ Section 112A(3)(a) and (b): omit ""summary"".
 > 
 > 
 
-##### [International Energy Agreement Act 1976][2248] (1976 No 155)
+##### [International Energy Agreement Act 1976][2247] (1976 No 155)
 
-[Section 6(6)][2249]: omit ""summary"".
+[Section 6(6)][2248]: omit ""summary"".
 
-[Section 7(3) and (4)][2250]: omit ""summary"".
+[Section 7(3) and (4)][2249]: omit ""summary"".
 
-##### [International Terrorism (Emergency Powers) Act 1987][2251] (1987 No 179)
+##### [International Terrorism (Emergency Powers) Act 1987][2250] (1987 No 179)
 
-[Section 21(2) and (3)][2252]: omit ""summary"".
+[Section 21(2) and (3)][2251]: omit ""summary"".
 
-##### [International War Crimes Tribunals Act 1995][2253] (1995 No 27)
+##### [International War Crimes Tribunals Act 1995][2252] (1995 No 27)
 
-[Section 9(3)][2254]: omit ""sections 45, 45A, 46, and 47 of the Summary Proceedings Act 1957, and sections 28 to 38"" and substitute ""sections 167 to 169 of the Criminal Procedure Act 2011 and sections 28, 30 to 32, 34 and 35, and 37 to 39"".
+[Section 9(3)][2253]: omit ""sections 45, 45A, 46, and 47 of the Summary Proceedings Act 1957, and sections 28 to 38"" and substitute ""sections 167 to 169 of the Criminal Procedure Act 2011 and sections 28, 30 to 32, 34 and 35, and 37 to 39"".
 
-[Section 40(3)][2255]: omit ""on indictment"".
+[Section 40(3)][2254]: omit ""on indictment"".
 
-##### [Interpretation Act 1999][2256] (1999 No 85)
+##### [Interpretation Act 1999][2255] (1999 No 85)
 
-Definition of _committed for trial_ in [section 29][2257]: repeal.
+Definition of _committed for trial_ in [section 29][2256]: repeal.
 
-Definition of _summary conviction_ in [section 29][2257]: repeal.
+Definition of _summary conviction_ in [section 29][2256]: repeal.
 
-##### [Joint Family Homes Act 1964][2258] (1964 No 45)
+##### [Joint Family Homes Act 1964][2257] (1964 No 45)
 
-[Section 8(4)(a) and (b)][2259]: omit ""summary"".
+[Section 8(4)(a) and (b)][2258]: omit ""summary"".
 
-[Section 12(2)(a) and (b)][2260]: omit ""summary"".
+[Section 12(2)(a) and (b)][2259]: omit ""summary"".
 
-##### [Judicature Act 1908][2261] (1908 No 89)
+##### [Judicature Act 1908][2260] (1908 No 89)
 
-[Section 51B(1)][2262]: insert after ""District Courts Act 1947"" ""and the Criminal Procedure Act 2011"".
+[Section 51B(1)][2261]: insert after ""District Courts Act 1947"" ""and the Criminal Procedure Act 2011"".
 
-[Section 56A(3)][2263]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 56A(3)][2262]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 56O(2)][2264]: omit ""on indictment"".
+[Section 56O(2)][2263]: omit ""on indictment"".
 
-[Section 58A(4)][2265]: repeal and substitute:
+[Section 58A(4)][2264]: repeal and substitute:
 
 > *   "(4) For the purposes of this section, _criminal proceeding_ means an appeal or application to the Court of Appeal under Part 6 of the Criminal Procedure Act 2011\."
 > 
 > 
 
-[Schedule 2][2266] (High Court Rules), Rule 20.1(1)(a) and (2): omit ""Summary Proceedings Act 1957"" in each place where it appears and substitute in each case ""Criminal Procedure Act 2011"".
+[Schedule 2][2265] (High Court Rules), Rule 20.1(1)(a) and (2): omit ""Summary Proceedings Act 1957"" in each place where it appears and substitute in each case ""Criminal Procedure Act 2011"".
 
-##### [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][2267] (2004 No 38)
+##### [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][2266] (2004 No 38)
 
-[Section 30(6)][2268]: omit ""summary"".
+[Section 30(6)][2267]: omit ""summary"".
 
-##### [KiwiSaver Act 2006][2269] (2006 No 40)
+##### [KiwiSaver Act 2006][2268] (2006 No 40)
 
-[Section 197(1)][2270]: omit ""summary"".
+[Section 197(1)][2269]: omit ""summary"".
 
-[Section 198(1)][2271]: omit ""summary"".
+[Section 198(1)][2270]: omit ""summary"".
 
-##### [Land Act 1948][2272] (1948 No 64)
+##### [Land Act 1948][2271] (1948 No 64)
 
-[Section 24(3)][2273]: omit ""informant"" and substitute ""prosecutor"".
+[Section 24(3)][2272]: omit ""informant"" and substitute ""prosecutor"".
 
-[Section 176(3)][2274]: repeal and substitute:
+[Section 176(3)][2273]: repeal and substitute:
 
 > *   "(3) Only the Commissioner, or some person appointed in writing by the Commissioner, may file a charging document for an offence under this section."
 > 
 > 
 
-[Section 182(1)][2275]: omit ""summary"".
+[Section 182(1)][2274]: omit ""summary"".
 
-[Section 182(2)][2275]: repeal and substitute:
+[Section 182(2)][2274]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed."
 > 
 > 
 
-##### [Land Drainage Act 1908][2276] (1908 No 96)
+##### [Land Drainage Act 1908][2275] (1908 No 96)
 
-[Section 26][2277]: omit ""before any Justice or Community Magistrate in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 26][2276]: omit ""before any Justice or Community Magistrate in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-[Section 45(3)][2278]: omit ""in a summary way"".
+[Section 45(3)][2277]: omit ""in a summary way"".
 
-[Section 63(a) and (b)][2279]: repeal and substitute:
+[Section 63(a) and (b)][2278]: repeal and substitute:
 
 > *   "(a) the ratepayer may apply to a District Court for an order requiring the council to comply with the notice:
 > 
@@ -12356,33 +12356,33 @@ Definition of _summary conviction_ in [section 29][2257]: repeal.
 > 
 > 
 
-[Proviso to section 63][2279]: repeal and substitute as subsection (2):
+[Proviso to section 63][2278]: repeal and substitute as subsection (2):
 
 > *   "(2) Any order made by the local authority pursuant to the District Court's decision is subject to appeal as provided in section 62\."
 > 
 > 
 
-[Section 82][2280]: omit ""is liable on indictment"" and substitute ""commits an offence and is liable on conviction"".
+[Section 82][2279]: omit ""is liable on indictment"" and substitute ""commits an offence and is liable on conviction"".
 
-[Section 84][2281]: omit "", and all fines imposed by this Act shall be recoverable in a summary way before 2 Justices or one or more Community Magistrates in the manner provided by"" and substitute ""before 2 Justices and 1 or more Community Magistrates in accordance with the Criminal Procedure Act 2011, and all fines are to be recovered in accordance with Part 3 of"".
+[Section 84][2280]: omit "", and all fines imposed by this Act shall be recoverable in a summary way before 2 Justices or one or more Community Magistrates in the manner provided by"" and substitute ""before 2 Justices and 1 or more Community Magistrates in accordance with the Criminal Procedure Act 2011, and all fines are to be recovered in accordance with Part 3 of"".
 
-##### [Land Transfer Act 1952][2282] (1952 No 52)
+##### [Land Transfer Act 1952][2281] (1952 No 52)
 
-[Section 121B(2)(a) and (b)][2283]: omit ""summary"".
+[Section 121B(2)(a) and (b)][2282]: omit ""summary"".
 
-[Section 121G(7)(a) and (b)][2284]: omit ""summary"".
+[Section 121G(7)(a) and (b)][2283]: omit ""summary"".
 
-[Section 121K(5)(a) and (b)][2285]: omit ""summary"".
+[Section 121K(5)(a) and (b)][2284]: omit ""summary"".
 
-[Section 164(3)][2286]: omit ""summary"".
+[Section 164(3)][2285]: omit ""summary"".
 
-[Section 189(2)][2287]: omit ""summary"".
+[Section 189(2)][2286]: omit ""summary"".
 
-[Section 212][2288]: omit ""summary"".
+[Section 212][2287]: omit ""summary"".
 
-[Section 225(1)][2289]: omit ""on indictment"".
+[Section 225(1)][2288]: omit ""on indictment"".
 
-[Section 226][2290]: omit ""on indictment"".
+[Section 226][2289]: omit ""on indictment"".
 
 ##### [Land Transport Act 1998][817] (1998 No 110)
 
@@ -12400,11 +12400,11 @@ Definition of _proceedings_ in [section 2(1)][588]: insert ""the Criminal Proced
 > 
 > 
 
-[Section 36(1)][2291]: omit ""indictable"".
+[Section 36(1)][2290]: omit ""indictable"".
 
-[Section 36AA(1)][2292]: omit ""indictable"".
+[Section 36AA(1)][2291]: omit ""indictable"".
 
-[Section 36A(2) and (3)][2293]: repeal and substitute:
+[Section 36A(2) and (3)][2292]: repeal and substitute:
 
 > *   "(2) A person who commits an offence against subsection (1)(a) or (c) and by that act or omission causes an injury to another person---
 >         
@@ -12424,11 +12424,11 @@ Definition of _proceedings_ in [section 2(1)][588]: insert ""the Criminal Proced
 > 
 > 
 
-[Section 36A(4)][2293]: omit ""that is not an indictable offence is liable"" and substitute ""but does not, by that act or omission, cause injury to, or the death of, another person is liable on conviction"".
+[Section 36A(4)][2292]: omit ""that is not an indictable offence is liable"" and substitute ""but does not, by that act or omission, cause injury to, or the death of, another person is liable on conviction"".
 
-[Section 36A(5)][2293]: insert ""on conviction"" after ""liable"".
+[Section 36A(5)][2292]: insert ""on conviction"" after ""liable"".
 
-[Section 39(1)][2294]: omit ""indictable"".
+[Section 39(1)][2293]: omit ""indictable"".
 
 [Section 56(4)][807]: repeal and substitute:
 
@@ -12442,7 +12442,7 @@ Definition of _proceedings_ in [section 2(1)][588]: insert ""the Criminal Proced
 > 
 > 
 
-[Section 57A(3)][2295]: repeal and substitute:
+[Section 57A(3)][2294]: repeal and substitute:
 
 > *   "(3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), 60(1), 61(1), and 61(2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),---
 >         
@@ -12478,43 +12478,43 @@ Definition of _proceedings_ in [section 2(1)][588]: insert ""the Criminal Proced
 > 
 > 
 
-[Section 61(1) and (2)][2296]: omit ""indictable"".
+[Section 61(1) and (2)][2295]: omit ""indictable"".
 
-[Section 62(1) and (1B)][2297]: omit ""indictable"".
+[Section 62(1) and (1B)][2296]: omit ""indictable"".
 
-[Section 74(7)(a)(ii)][2298]: omit ""section 19 or section 150 of the Summary Proceedings Act 1957"" and substitute ""section 34 of the Criminal Procedure Act 2011"".
+[Section 74(7)(a)(ii)][2297]: omit ""section 19 or section 150 of the Summary Proceedings Act 1957"" and substitute ""section 34 of the Criminal Procedure Act 2011"".
 
-[Section 75A(2)][2299]: omit ""or defended hearing"".
+[Section 75A(2)][2298]: omit ""or defended hearing"".
 
-[Section 79A(3)][2300]: omit ""summary"".
+[Section 79A(3)][2299]: omit ""summary"".
 
-[Section 79B][2301]: omit ""summary"".
+[Section 79B][2300]: omit ""summary"".
 
-[Section 79M(2)][2302]: omit ""summary"".
+[Section 79M(2)][2301]: omit ""summary"".
 
-[Section 88(6)(b)][2303]: omit ""summary"".
+[Section 88(6)(b)][2302]: omit ""summary"".
 
-[Section 99(1)(b)(iv)][2304]: insert ""or (3)"" after ""36A(2)"".
+[Section 99(1)(b)(iv)][2303]: insert ""or (3)"" after ""36A(2)"".
 
-[Section 107(2)][2305]: omit ""section 107 or section 115 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 107(2)][2304]: omit ""section 107 or section 115 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 107(2B)][2305]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Subpart 2 of Part 6 of the Criminal Procedure Act 2011"".
+[Section 107(2B)][2304]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Subpart 2 of Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 107(3)][2305]: omit ""subsections (3) to (5) of section 379A of the Crimes Act 1961 apply"" and substitute ""subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies"".
+[Section 107(3)][2304]: omit ""subsections (3) to (5) of section 379A of the Crimes Act 1961 apply"" and substitute ""subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies"".
 
-[Section 128E(2)][2306]: insert ""on conviction"" after ""liable"".
+[Section 128E(2)][2305]: insert ""on conviction"" after ""liable"".
 
-[Section 128E(5)][2306]: insert ""on conviction"" after ""liable"".
+[Section 128E(5)][2305]: insert ""on conviction"" after ""liable"".
 
-[Section 133(3)][2307]: insert ""the Criminal Procedure Act 2011 or"" after ""under"".
+[Section 133(3)][2306]: insert ""the Criminal Procedure Act 2011 or"" after ""under"".
 
-[Section 133A(3)][2308]: insert ""the Criminal Procedure Act 2011 or"" after ""under"".
+[Section 133A(3)][2307]: insert ""the Criminal Procedure Act 2011 or"" after ""under"".
 
-[Heading to section 135][2309]: omit and substitute: ""**Commencing proceedings, and jurisdiction, for offences**"".
+[Heading to section 135][2308]: omit and substitute: ""**Commencing proceedings, and jurisdiction, for offences**"".
 
-[Section 135(1)][2309]: repeal.
+[Section 135(1)][2308]: repeal.
 
-[Section 135(1A) and (1B)][2309]: repeal and substitute:
+[Section 135(1A) and (1B)][2308]: repeal and substitute:
 
 > *   "(1A) Proceedings for an offence against Part 6A or 6B must be commenced by the Agency or an enforcement officer.
 > 
@@ -12522,13 +12522,13 @@ Definition of _proceedings_ in [section 2(1)][588]: insert ""the Criminal Proced
 > 
 > 
 
-[Section 135(2)][2309]: omit ""summary"" and substitute ""category 1"" and omit "", that is not punishable by imprisonment"".
+[Section 135(2)][2308]: omit ""summary"" and substitute ""category 1"" and omit "", that is not punishable by imprisonment"".
 
-[Section 136(1)][2310]: omit ""an offence punishable on summary conviction against this Act, the court may dismiss the information"" and substitute ""a category 1 or 2 offence against this Act, the court may dismiss the charge"".
+[Section 136(1)][2309]: omit ""an offence punishable on summary conviction against this Act, the court may dismiss the information"" and substitute ""a category 1 or 2 offence against this Act, the court may dismiss the charge"".
 
-[Section 136(3)][2310]: omit ""Section 14 of the Summary Proceedings Act 1957"" and substitute ""Section 25 of the Criminal Procedure Act 2011"".
+[Section 136(3)][2309]: omit ""Section 14 of the Summary Proceedings Act 1957"" and substitute ""Section 25 of the Criminal Procedure Act 2011"".
 
-[Section 138][2311]: repeal and substitute:
+[Section 138][2310]: repeal and substitute:
 
 > ##### "138 Infringement offences
 >     
@@ -12542,7 +12542,7 @@ Definition of _proceedings_ in [section 2(1)][588]: insert ""the Criminal Proced
 > 
 > 
 
-[Section 139(3)][2312]: repeal and substitute:
+[Section 139(3)][2311]: repeal and substitute:
 
 > *   "(3) An infringement notice that---
 >         
@@ -12554,27 +12554,27 @@ Definition of _proceedings_ in [section 2(1)][588]: insert ""the Criminal Proced
 > 
 > 
 
-[Section 139(6)(a)][2312]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 139(6)(a)][2311]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Land Transport (Road Safety and Other Matters) Amendment Act 2011][2313] (2011 No 13)
+##### [Land Transport (Road Safety and Other Matters) Amendment Act 2011][2312] (2011 No 13)
 
-New [section 57AA(1) and (2)][2314] in [section 26][2315]: omit ""a summary"" and substitute ""an"".
+New [section 57AA(1) and (2)][2313] in [section 26][2314]: omit ""a summary"" and substitute ""an"".
 
-New [section 57AA(4) and (5)][2314] in [section 26][2315]: omit ""indictable"".
+New [section 57AA(4) and (5)][2313] in [section 26][2314]: omit ""indictable"".
 
-##### [Land Transport Management Act 2003][2316] (2003 No 118)
+##### [Land Transport Management Act 2003][2315] (2003 No 118)
 
-[Section 43(2][2317]): omit ""summary"".
+[Section 43(2][2316]): omit ""summary"".
 
-[Section 43(3)][2317]: repeal and substitute:
+[Section 43(3)][2316]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 3 years after the date on which the offence was committed."
 > 
 > 
 
-[Section 54(4)][2318]: omit ""summary"".
+[Section 54(4)][2317]: omit ""summary"".
 
-[Section 65(2)(c)][2319]: repeal and substitute:
+[Section 65(2)(c)][2318]: repeal and substitute:
 
 > *   "(c) the following provisions apply accordingly:
 >         
@@ -12586,17 +12586,9 @@ New [section 57AA(4) and (5)][2314] in [section 26][2315]: omit ""indictable"".
 > 
 > 
 
-[Section 65ZD(3)][2320]: omit ""summary"".
-
-[Section 65ZD(4)][2320]: repeal and substitute:
-
-> *   "(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) or (2) ends on the date that is 3 years after the date on which the offence was committed."
-> 
-> 
-
 ##### [Lawyers and Conveyancers Act 2006][558] (2006 No 1)
 
-[Section 28(1)][2321]: repeal and substitute:
+[Section 28(1)][2319]: repeal and substitute:
 
 > *   "(1) A charging document in respect of an offence against any provision of sections 21 to 24 may be filed only---
 >         
@@ -12608,7 +12600,7 @@ New [section 57AA(4) and (5)][2314] in [section 26][2315]: omit ""indictable"".
 > 
 > 
 
-[Section 34(1)][2322]: repeal and substitute:
+[Section 34(1)][2320]: repeal and substitute:
 
 > *   "(1) A charging document in respect of an offence against section 32 or 33 may be filed only---
 >         
@@ -12622,31 +12614,31 @@ New [section 57AA(4) and (5)][2314] in [section 26][2315]: omit ""indictable"".
 > 
 > 
 
-[Section 46][2323]: omit ""summary"".
+[Section 46][2321]: omit ""summary"".
 
-[Section 47(k)][2324]: repeal and substitute:
+[Section 47(k)][2322]: repeal and substitute:
 
 > *   "(k) section 10 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 110(4)][2325]: omit ""summary"".
+[Section 110(4)][2323]: omit ""summary"".
 
-[Section 111(2)][2326]: omit ""summary"".
+[Section 111(2)][2324]: omit ""summary"".
 
-[Section 112(3)][2327]: omit ""summary"".
+[Section 112(3)][2325]: omit ""summary"".
 
-[Section 171(2)][2328]: omit ""summary"".
+[Section 171(2)][2326]: omit ""summary"".
 
-[Section 251(1)][2329]: omit ""summary"".
+[Section 251(1)][2327]: omit ""summary"".
 
-[Section 261(3)][2330]: omit ""summary"".
+[Section 261(3)][2328]: omit ""summary"".
 
-[Section 262(3)][2331]: omit ""summary"".
+[Section 262(3)][2329]: omit ""summary"".
 
-[Section 263(2)][2332]: omit ""summary"".
+[Section 263(2)][2330]: omit ""summary"".
 
-[Section 265][2333]: repeal and substitute:
+[Section 265][2331]: repeal and substitute:
 
 > ##### "265 Time for filing charging document
 >     
@@ -12654,19 +12646,19 @@ New [section 57AA(4) and (5)][2314] in [section 26][2315]: omit ""indictable"".
 > 
 > 
 
-[Section 319][2334]: omit ""summary"".
+[Section 319][2332]: omit ""summary"".
 
-[Section 337(5)][2335]: omit ""summary"".
+[Section 337(5)][2333]: omit ""summary"".
 
-[Schedule 4][2336], clause 7(4): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 4][2334], clause 7(4): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Layby Sales Act 1971][2337] (1971 No 80)
+##### [Layby Sales Act 1971][2335] (1971 No 80)
 
-[Section 7(4)][2338]: omit ""summary"".
+[Section 7(4)][2336]: omit ""summary"".
 
 ##### [Legal Services Act 2011][593] (2011 No 4)
 
-[Section 60][2339]: repeal and substitute:
+[Section 60][2337]: repeal and substitute:
 
 > ##### "60 Appeals to Court of Appeal and Supreme Court
 >     
@@ -12674,155 +12666,155 @@ New [section 57AA(4) and (5)][2314] in [section 26][2315]: omit ""indictable"".
 > 
 > 
 
-[Section 111(1)][2340]: omit ""summary"".
+[Section 111(1)][2338]: omit ""summary"".
 
-[Section 111(3)][2340]: repeal and substitute:
+[Section 111(3)][2338]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this section ends on the date that is 2 years after the date on which the offence was committed."
 > 
 > 
 
-[Section 112][2341]: omit ""summary"".
+[Section 112][2339]: omit ""summary"".
 
-[Section 113][2342]: omit ""summary"".
+[Section 113][2340]: omit ""summary"".
 
-##### [Legislature Act 1908][2343] (1908 No 101)
+##### [Legislature Act 1908][2341] (1908 No 101)
 
-[Section 253(4)][2344]: omit ""indictment for"" and substitute ""a charge of"".
+[Section 253(4)][2342]: omit ""indictment for"" and substitute ""a charge of"".
 
-##### [Life Insurance Act 1908][2345] (1908 No 105)
+##### [Life Insurance Act 1908][2343] (1908 No 105)
 
-[Section 29][2346]: omit ""on indictment"".
+[Section 29][2344]: omit ""on indictment"".
 
-[Section 29][2346]: omit "", or, on summary conviction thereof, to a fine not exceeding $100"".
+[Section 29][2344]: omit "", or, on summary conviction thereof, to a fine not exceeding $100"".
 
-[Section 39][2347]: omit ""only in a summary way, in the manner prescribed by"" and substitute ""in accordance with Part 3 of"".
+[Section 39][2345]: omit ""only in a summary way, in the manner prescribed by"" and substitute ""in accordance with Part 3 of"".
 
-[Section 67E][2348]: omit ""summary"".
+[Section 67E][2346]: omit ""summary"".
 
-##### [Life Insurance Amendment Act 1920][2349] (1920 No 84)
+##### [Life Insurance Amendment Act 1920][2347] (1920 No 84)
 
-[Section 16][2350]: repeal.
+[Section 16][2348]: repeal.
 
-##### [Limited Partnerships Act 2008][2351] (2008 No 1)
+##### [Limited Partnerships Act 2008][2349] (2008 No 1)
 
-[Section 32(6)(a) and (b) and (7)][2352]: omit ""summary"".
+[Section 32(6)(a) and (b) and (7)][2350]: omit ""summary"".
 
-[Section 41(4)][2353]: omit ""summary"".
+[Section 41(4)][2351]: omit ""summary"".
 
-[Section 59(3)][2354]: omit ""summary"".
+[Section 59(3)][2352]: omit ""summary"".
 
-[Section 60(4)][2355]: omit ""summary"".
+[Section 60(4)][2353]: omit ""summary"".
 
-[Section 69(6)][2356]: omit ""summary"".
+[Section 69(6)][2354]: omit ""summary"".
 
-[Section 74(4)(a) and (b)][2357]: omit ""summary"".
+[Section 74(4)(a) and (b)][2355]: omit ""summary"".
 
-[Section 75(4)][2358]: omit ""summary"".
+[Section 75(4)][2356]: omit ""summary"".
 
-[Section 75(6)][2358]: repeal and substitute:
+[Section 75(6)][2356]: repeal and substitute:
 
 > *   "(6) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (4) ends on the date that is 3 years after the date on which the offence was committed."
 > 
 > 
 
-[Section 76(9)][2359]: omit ""summary"".
+[Section 76(9)][2357]: omit ""summary"".
 
-[Section 78(5)][2360]: omit ""summary"".
+[Section 78(5)][2358]: omit ""summary"".
 
-[Section 79(4)][2361]: omit ""summary"".
+[Section 79(4)][2359]: omit ""summary"".
 
-[Section 104(4)(a) and (b)][2362]: omit ""summary"".
+[Section 104(4)(a) and (b)][2360]: omit ""summary"".
 
-[Section 110(2)(a) and (b)][2363]: omit ""summary"".
+[Section 110(2)(a) and (b)][2361]: omit ""summary"".
 
-[Section 112(6)(a) and (b)][2364]: omit ""summary"".
+[Section 112(6)(a) and (b)][2362]: omit ""summary"".
 
-##### [Litter Act 1979][2365] (1979 No 41)
+##### [Litter Act 1979][2363] (1979 No 41)
 
-[Section 10(11)][2366]: insert ""on conviction"" after ""liable"".
+[Section 10(11)][2364]: insert ""on conviction"" after ""liable"".
 
-[Section 15(1) and (2)][2367]: insert ""on conviction"" after ""liable"".
+[Section 15(1) and (2)][2365]: insert ""on conviction"" after ""liable"".
 
 Section 16: insert ""on conviction"" after ""liable"".
 
-[Section 17(1)][2368]: insert ""on conviction"" after ""liable"".
+[Section 17(1)][2366]: insert ""on conviction"" after ""liable"".
 
-[Section 13(5)(a)][2369]: repeal and substitute:
+[Section 13(5)(a)][2367]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 14(3)][2370]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 14(3)][2368]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 19][2371]: repeal.
+[Section 19][2369]: repeal.
 
-##### [Local Authorities (Members' Interests) Act 1968][2372] (1968 No 147)
+##### [Local Authorities (Members' Interests) Act 1968][2370] (1968 No 147)
 
-[Section 5][2373]: omit ""summary"".
+[Section 5][2371]: omit ""summary"".
 
-[Section 7(1)][2374]: omit ""summary"".
+[Section 7(1)][2372]: omit ""summary"".
 
-##### [Local Electoral Act 2001][2375] (2001 No 35)
+##### [Local Electoral Act 2001][2373] (2001 No 35)
 
-[Section 121][2376]: omit ""summary"".
+[Section 121][2374]: omit ""summary"".
 
-[Section 122(1)][2377]: omit ""summary"".
+[Section 122(1)][2375]: omit ""summary"".
 
-[Section 123(2)][2378]: omit ""on indictment"".
+[Section 123(2)][2376]: omit ""on indictment"".
 
-[Section 124][2379]: omit ""on indictment"".
+[Section 124][2377]: omit ""on indictment"".
 
-[Section 125(3)][2380]: omit ""bribery is liable on conviction on indictment"" and substitute ""the offence of bribery is liable on conviction"".
+[Section 125(3)][2378]: omit ""bribery is liable on conviction on indictment"" and substitute ""the offence of bribery is liable on conviction"".
 
-[Section 126(5)][2381]: omit ""or indictment"".
+[Section 126(5)][2379]: omit ""or indictment"".
 
-[Section 127(2)][2382]: omit ""on indictment"".
+[Section 127(2)][2380]: omit ""on indictment"".
 
-[Section 128(2)][2383]: omit ""on indictment"".
+[Section 128(2)][2381]: omit ""on indictment"".
 
-[Section 129(6)][2384]: omit ""summary"".
+[Section 129(6)][2382]: omit ""summary"".
 
-[Section 130(3)][2385]: omit ""summary"".
+[Section 130(3)][2383]: omit ""summary"".
 
-[Section 131][2386]: omit ""summary"".
+[Section 131][2384]: omit ""summary"".
 
-[Section 132(2)][2387]: omit ""summary"".
+[Section 132(2)][2385]: omit ""summary"".
 
-[Section 133(2)][2388]: omit ""summary"".
+[Section 133(2)][2386]: omit ""summary"".
 
-[Section 134(1)][2389]: omit ""on indictment"".
+[Section 134(1)][2387]: omit ""on indictment"".
 
-[Section 134(2)][2389]: omit ""summary"".
+[Section 134(2)][2387]: omit ""summary"".
 
-[Section 135(2)][2390]: omit ""summary"".
+[Section 135(2)][2388]: omit ""summary"".
 
-[Section 136(1)][2391]: omit ""on indictment"".
+[Section 136(1)][2389]: omit ""on indictment"".
 
-[Section 136(2)][2391]: omit ""summary"".
+[Section 136(2)][2389]: omit ""summary"".
 
-##### [Local Government Act 1974][2392] (1974 No 66)
+##### [Local Government Act 1974][2390] (1974 No 66)
 
-[Section 350][2393]: insert ""on conviction"" after ""liable"".
+[Section 350][2391]: insert ""on conviction"" after ""liable"".
 
-[Section 355(4)][2394]: insert ""on conviction"" after ""liable"".
+[Section 355(4)][2392]: insert ""on conviction"" after ""liable"".
 
-[Section 357(1)][2395]: insert ""on conviction"" after ""liable"".
+[Section 357(1)][2393]: insert ""on conviction"" after ""liable"".
 
-[Proviso to section 357(1)][2395]: omit ""Provided that no fine shall be imposed unless the information is laid by authority of the council or by an officer thereof.""
+[Proviso to section 357(1)][2393]: omit ""Provided that no fine shall be imposed unless the information is laid by authority of the council or by an officer thereof.""
 
-[Section 357][2395]: insert after subsection (1):
+[Section 357][2393]: insert after subsection (1):
 
 > *   "(1A) Proceedings for an offence against subsection (1) must be commenced on the authority of the council, or by an officer of the council."
 > 
 > 
 
-[Section 468(4)][2396]: insert ""on conviction"" after ""liable"".
+[Section 468(4)][2394]: insert ""on conviction"" after ""liable"".
 
-[Section 698(1)][2397]: insert ""on conviction"" after ""liable"".
+[Section 698(1)][2395]: insert ""on conviction"" after ""liable"".
 
-[Section 699][2398]: repeal and substitute:
+[Section 699][2396]: repeal and substitute:
 
 > ##### "699 Time for filing charging document
 >     
@@ -12830,59 +12822,59 @@ Section 16: insert ""on conviction"" after ""liable"".
 > 
 > 
 
-[Section 699B(a)][2399]: repeal and substitute:
+[Section 699B(a)][2397]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 699C(2)][2400]: omit "", for the purposes of the Summary Proceedings Act 1957,"".
+[Section 699C(2)][2398]: omit "", for the purposes of the Summary Proceedings Act 1957,"".
 
-##### [Local Government Act 2002][2401] (2002 No 84)
+##### [Local Government Act 2002][2399] (2002 No 84)
 
-[Section 176(2)][2402]: omit ""summarily"".
+[Section 176(2)][2400]: omit ""summarily"".
 
-Definition of _unauthorised weapon_ in [section 212][2403]: omit ""indictable"" and substitute ""imprisonable"".
+Definition of _unauthorised weapon_ in [section 212][2401]: omit ""indictable"" and substitute ""imprisonable"".
 
-[Section 224][2404]: omit ""summary"".
+[Section 224][2402]: omit ""summary"".
 
-[Section 225(1)][2405]: omit ""summary"".
+[Section 225(1)][2403]: omit ""summary"".
 
-[Section 227][2406]: omit ""summary"".
+[Section 227][2404]: omit ""summary"".
 
-[Section 228][2407]: omit ""summary"".
+[Section 228][2405]: omit ""summary"".
 
-[Section 229][2408]: omit ""summary"".
+[Section 229][2406]: omit ""summary"".
 
-[Section 230(1)][2409]: omit ""summary"".
+[Section 230(1)][2407]: omit ""summary"".
 
-[Section 231][2410]: omit ""summary"".
+[Section 231][2408]: omit ""summary"".
 
-[Section 232(2)][2411]: omit ""on indictment"".
+[Section 232(2)][2409]: omit ""on indictment"".
 
-[Section 232(3)][2411]: omit ""summary"".
+[Section 232(3)][2409]: omit ""summary"".
 
-[Section 233][2412]: omit ""summary"".
+[Section 233][2410]: omit ""summary"".
 
-[Section 234][2413]: omit ""summary"".
+[Section 234][2411]: omit ""summary"".
 
-[Section 235(1)][2414]: omit ""summary"".
+[Section 235(1)][2412]: omit ""summary"".
 
-[Section 236][2415]: omit ""summary"".
+[Section 236][2413]: omit ""summary"".
 
-[Section 237(b)][2416]: omit ""summary"".
+[Section 237(b)][2414]: omit ""summary"".
 
-[Section 238(1)][2417]: omit ""summary"".
+[Section 238(1)][2415]: omit ""summary"".
 
-[Heading to section 239][2418]: omit and substitute ""**Breach of bylaw**"".
+[Heading to section 239][2416]: omit and substitute ""**Breach of bylaw**"".
 
-[Section 239(1) and (2)][2418]: omit ""summary"".
+[Section 239(1) and (2)][2416]: omit ""summary"".
 
-[Heading above section 241][2419]: repeal and substitute:
+[Heading above section 241][2417]: repeal and substitute:
 
 > #### "Time for filing charging document".
 
-[Section 241][2419]: repeal and substitute:
+[Section 241][2417]: repeal and substitute:
 
 > ##### "241 Time for filing charging document
 >     
@@ -12890,81 +12882,81 @@ Definition of _unauthorised weapon_ in [section 212][2403]: omit ""indictable"" 
 > 
 > 
 
-[Section 244(a)][2420]: repeal and substitute:
+[Section 244(a)][2418]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 245(3)][2421]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 245(3)][2419]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Local Government (Auckland Council) Act 2009][2422] (2009 No 32)
+##### [Local Government (Auckland Council) Act 2009][2420] (2009 No 32)
 
-[Section 74(2)][2423]: omit ""summary"".
+[Section 74(2)][2421]: omit ""summary"".
 
-[Section 75(1)][2424]: omit ""summary"".
+[Section 75(1)][2422]: omit ""summary"".
 
-[Section 76(2)][2425]: omit ""on indictment"".
+[Section 76(2)][2423]: omit ""on indictment"".
 
-[Section 76(3)][2425]: omit ""summary"".
+[Section 76(3)][2423]: omit ""summary"".
 
-##### [Local Government (Auckland Transitional Provisions) Act 2010][2426] (2010 No 37)
+##### [Local Government (Auckland Transitional Provisions) Act 2010][2424] (2010 No 37)
 
-[Section 26(1)][2427]: omit ""summary"".
+[Section 26(1)][2425]: omit ""summary"".
 
-[Section 26(2)][2427]: repeal and substitute:
+[Section 26(2)][2425]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, Watercare Services Limited may file a charging document for an offence against subsection (1) at any time within 6 months after the time when the matter giving rise to the charge first became known, or should have become known, to Watercare Services Limited."
 > 
 > 
 
-##### [Local Restoration Polls Act 1990][2428] (1990 No 4)
+##### [Local Restoration Polls Act 1990][2426] (1990 No 4)
 
-[Section 21(2)][2429]: omit ""summary"".
+[Section 21(2)][2427]: omit ""summary"".
 
-[Section 29][2430]: omit ""summary"".
+[Section 29][2428]: omit ""summary"".
 
-##### [Machinery Act 1950][2431] (1950 No 52)
+##### [Machinery Act 1950][2429] (1950 No 52)
 
-[Section 23(3)][2432]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 23(3)][2430]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 29(1) and (2)][2433]: omit ""summary"".
+[Section 29(1) and (2)][2431]: omit ""summary"".
 
-[Section 33(1)][2434]: omit ""Where an owner is charged with an offence under this Act he shall be entitled, upon information duly laid by him, to have any other person whom he alleges to be the actual offender"" and substitute ""An owner who is charged with an offence under this Act may commence proceedings against any other person whom the owner alleges to be the actual offender, and have that person"".
+[Section 33(1)][2432]: omit ""Where an owner is charged with an offence under this Act he shall be entitled, upon information duly laid by him, to have any other person whom he alleges to be the actual offender"" and substitute ""An owner who is charged with an offence under this Act may commence proceedings against any other person whom the owner alleges to be the actual offender, and have that person"".
 
-[Section 34(1)][2435]: repeal.
+[Section 34(1)][2433]: repeal.
 
-[Section 34(2)][2435]: repeal and substitute:
+[Section 34(2)][2433]: repeal and substitute:
 
 > *   "(2) Except as provided in section 33, only an Inspector may file a charging document in respect of an offence under this Act."
 > 
 > 
 
-[Section 35(1)][2436]: omit ""lays an information or makes a complaint"" and substitute ""files a charging document"".
+[Section 35(1)][2434]: omit ""lays an information or makes a complaint"" and substitute ""files a charging document"".
 
-[Section 35(1), (2), and (3)][2436]: omit ""information or complaint"" in each place where it appears and substitute in each case ""charge"".
+[Section 35(1), (2), and (3)][2434]: omit ""information or complaint"" in each place where it appears and substitute in each case ""charge"".
 
-[Section 35(5)][2436]: omit ""or complaints"" in both places where it appears, and omit ""or complaint"" in both places where it appears.
+[Section 35(5)][2434]: omit ""or complaints"" in both places where it appears, and omit ""or complaint"" in both places where it appears.
 
-[Section 35(6)][2436]: repeal.
+[Section 35(6)][2434]: repeal.
 
-[Section 35(8)][2436]: omit ""summary"".
+[Section 35(8)][2434]: omit ""summary"".
 
-##### [Major Events Management Act 2007][2437] (2007 No 35)
+##### [Major Events Management Act 2007][2435] (2007 No 35)
 
-[Section 13(3)][2438]: omit ""summary"".
+[Section 13(3)][2436]: omit ""summary"".
 
-[Section 23(2)][2439]: omit ""summary"".
+[Section 23(2)][2437]: omit ""summary"".
 
-[Section 26(2)][2440]: omit ""summary"".
+[Section 26(2)][2438]: omit ""summary"".
 
-[Section 27(3)][2441]: omit ""summary"".
+[Section 27(3)][2439]: omit ""summary"".
 
-[Section 31][2442]: omit ""summary"".
+[Section 31][2440]: omit ""summary"".
 
-[Section 39(5)][2443]: omit ""summary"".
+[Section 39(5)][2441]: omit ""summary"".
 
-[Section 64][2444]: repeal and substitute:
+[Section 64][2442]: repeal and substitute:
 
 > ##### "64 Time for filing charging document for offence against section 26 or 28
 >     
@@ -12974,89 +12966,89 @@ Definition of _unauthorised weapon_ in [section 212][2403]: omit ""indictable"" 
 > 
 > 
 
-[Section 78(1)(a)][2445]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 78(1)(a)][2443]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Maori Affairs Restructuring Act 1989][2446] (1989 No 68)
+##### [Maori Affairs Restructuring Act 1989][2444] (1989 No 68)
 
-[Section 84(1)][2447]: omit ""summary"".
+[Section 84(1)][2445]: omit ""summary"".
 
-##### [Maori Community Development Act 1962][2448] (1962 No 133)
+##### [Maori Community Development Act 1962][2446] (1962 No 133)
 
-[Section 30(2)][2449]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 30(2)][2447]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 33(9)][2450]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 33(9)][2448]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 36(1)][2451]: omit ""in a summary manner under the Summary Proceedings Act 1957"" and substitute ""under the Criminal Procedure Act 2011"".
+[Section 36(1)][2449]: omit ""in a summary manner under the Summary Proceedings Act 1957"" and substitute ""under the Criminal Procedure Act 2011"".
 
-[Proviso to section 36(1)][2451]: omit ""summarily under the Summary Proceedings Act 1957"" and substitute ""under the Criminal Procedure Act 2011"".
+[Proviso to section 36(1)][2449]: omit ""summarily under the Summary Proceedings Act 1957"" and substitute ""under the Criminal Procedure Act 2011"".
 
-[Section 36(2)][2451]: omit ""summary proceedings have"" and substitute ""proceedings have"" and omit ""Summary Proceedings Act 1957"" in both places where it appears and substitute in each case ""Criminal Procedure Act 2011"".
+[Section 36(2)][2449]: omit ""summary proceedings have"" and substitute ""proceedings have"" and omit ""Summary Proceedings Act 1957"" in both places where it appears and substitute in each case ""Criminal Procedure Act 2011"".
 
-[Section 36(6)][2451]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"" and omit ""summarily"".
+[Section 36(6)][2449]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"" and omit ""summarily"".
 
-[Section 42][2452]: omit ""summary"".
+[Section 42][2450]: omit ""summary"".
 
-##### [Maori Fisheries Act 2004][2453] (2004 No 78)
+##### [Maori Fisheries Act 2004][2451] (2004 No 78)
 
-[Section 212(3)][2454]: omit ""summary"".
+[Section 212(3)][2452]: omit ""summary"".
 
-##### [Maori Housing Act 1935][2455] (1935 No 34)
+##### [Maori Housing Act 1935][2453] (1935 No 34)
 
-[Section 14B(1)][2456]: omit ""summary"".
+[Section 14B(1)][2454]: omit ""summary"".
 
-[Section 14B(2)][2456]: repeal and substitute:
+[Section 14B(2)][2454]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed."
 > 
 > 
 
-##### [Maori Land Amendment and Maori Land Claims Adjustment Act 1926][2457] (1926 No 64)
+##### [Maori Land Amendment and Maori Land Claims Adjustment Act 1926][2455] (1926 No 64)
 
-[Section 14(2)][2458]: omit ""summary"".
+[Section 14(2)][2456]: omit ""summary"".
 
-##### [Maori Language Act 1987][2459] (1987 No 176)
+##### [Maori Language Act 1987][2457] (1987 No 176)
 
-[Section 21][2460]: omit ""summary"".
+[Section 21][2458]: omit ""summary"".
 
-##### [Maori Purposes Act 1931][2461] (1931 No 32)
+##### [Maori Purposes Act 1931][2459] (1931 No 32)
 
-[Section 66(7)][2462]: omit ""a summary manner"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 66(7)][2460]: omit ""a summary manner"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Maori Purposes Act 1959][2463] (1959 No 90)
+##### [Maori Purposes Act 1959][2461] (1959 No 90)
 
-[Section 11][2464]: omit ""summary"".
+[Section 11][2462]: omit ""summary"".
 
-##### [Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003][2465] (2003 No 21)
+##### [Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003][2463] (2003 No 21)
 
-[Section 11(3)][2466]: omit ""summary"".
+[Section 11(3)][2464]: omit ""summary"".
 
-##### [Marine and Coastal Area (Takutai Moana) Act 2011][2467] (2011 No 3)
+##### [Marine and Coastal Area (Takutai Moana) Act 2011][2465] (2011 No 3)
 
-[Section 69(2)][2468]: omit ""summary"".
+[Section 69(2)][2466]: omit ""summary"".
 
-[Section 70(2)][2469]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 70(2)][2467]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 81(2)][2470]: omit ""summary"".
+[Section 81(2)][2468]: omit ""summary"".
 
-[Section 120(1)(e)][2471]: omit ""summary"".
+[Section 120(1)(e)][2469]: omit ""summary"".
 
-[Section 122(3)][2472]: omit ""summary"".
+[Section 122(3)][2470]: omit ""summary"".
 
-##### [Marine Insurance Act 1908][2473] (1908 No 112)
+##### [Marine Insurance Act 1908][2471] (1908 No 112)
 
-[Section 26(1)][2474]: omit ""summary"".
+[Section 26(1)][2472]: omit ""summary"".
 
-##### [Marine Mammals Protection Act 1978][2475] (1978 No 80)
+##### [Marine Mammals Protection Act 1978][2473] (1978 No 80)
 
-[Section 23(3)][2476]: omit ""summary"".
+[Section 23(3)][2474]: omit ""summary"".
 
-[Section 25][2477]: omit ""Notwithstanding anything to the contrary in section 14 of the Summary Proceedings Act 1957,"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,"".
+[Section 25][2475]: omit ""Notwithstanding anything to the contrary in section 14 of the Summary Proceedings Act 1957,"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,"".
 
-##### [Marine Reserves Act 1971][2478] (1971 No 15)
+##### [Marine Reserves Act 1971][2476] (1971 No 15)
 
-[Section 18A(4)][2479]: omit ""lay an information or charge"" and substitute ""file a charging document"".
+[Section 18A(4)][2477]: omit ""lay an information or charge"" and substitute ""file a charging document"".
 
-[Section 20][2480]: repeal and substitute:
+[Section 20][2478]: repeal and substitute:
 
 > ##### "20 Time for filing charging document
 >     
@@ -13064,57 +13056,57 @@ Definition of _unauthorised weapon_ in [section 212][2403]: omit ""indictable"" 
 > 
 > 
 
-[Section 24(2)(f)][2481]: omit ""summary"".
+[Section 24(2)(f)][2479]: omit ""summary"".
 
-##### [Maritime Crimes Act 1999][2482] (1999 No 56)
+##### [Maritime Crimes Act 1999][2480] (1999 No 56)
 
-[Section 7][2483]: omit ""on indictment"" in each place where it appears.
+[Section 7][2481]: omit ""on indictment"" in each place where it appears.
 
-[Section 11(6)][2484]: omit ""summary"".
+[Section 11(6)][2482]: omit ""summary"".
 
-##### [Maritime Security Act 2004][2485] (2004 No 16)
+##### [Maritime Security Act 2004][2483] (2004 No 16)
 
-[Section 50(1)][2486]: omit ""on indictment"".
+[Section 50(1)][2484]: omit ""on indictment"".
 
-[Section 76(2)][2487]: omit ""summary"".
+[Section 76(2)][2485]: omit ""summary"".
 
-##### [Maritime Transport Act 1994][2488] (1994 No 104)
+##### [Maritime Transport Act 1994][2486] (1994 No 104)
 
-[Section 19(4)][2489]: insert ""on conviction"" after ""liable"".
+[Section 19(4)][2487]: insert ""on conviction"" after ""liable"".
 
-[Section 27(2)][2490]: insert ""on conviction"" after ""liable"".
+[Section 27(2)][2488]: insert ""on conviction"" after ""liable"".
 
-[Section 32(6)][2491]: insert ""on conviction"" after ""liable"".
+[Section 32(6)][2489]: insert ""on conviction"" after ""liable"".
 
-[Section 33(2)][2492]: insert ""on conviction"" after ""liable"".
+[Section 33(2)][2490]: insert ""on conviction"" after ""liable"".
 
-[Section 38(2)][2493]: insert ""on conviction"" after ""liable"".
+[Section 38(2)][2491]: insert ""on conviction"" after ""liable"".
 
-[Section 53(4)][2494]: insert ""on conviction"" after ""liable"".
+[Section 53(4)][2492]: insert ""on conviction"" after ""liable"".
 
-[Section 55(10)][2495]: insert ""on conviction"" after ""liable"".
+[Section 55(10)][2493]: insert ""on conviction"" after ""liable"".
 
-[Section 58(5)][2496]: insert ""on conviction"" after ""liable"".
+[Section 58(5)][2494]: insert ""on conviction"" after ""liable"".
 
-[Section 64(2)][2497]: insert ""on conviction"" after ""liable"".
+[Section 64(2)][2495]: insert ""on conviction"" after ""liable"".
 
-[Section 65(3)][2498]: insert ""on conviction"" after ""liable"".
+[Section 65(3)][2496]: insert ""on conviction"" after ""liable"".
 
-[Section 65A(1)][2499]: insert ""on conviction"" after ""liable"".
+[Section 65A(1)][2497]: insert ""on conviction"" after ""liable"".
 
-[Section 67(2)][2500]: insert ""on conviction"" after ""liable"".
+[Section 67(2)][2498]: insert ""on conviction"" after ""liable"".
 
-[Section 68(3)][2501]: insert ""on conviction"" after ""liable"".
+[Section 68(3)][2499]: insert ""on conviction"" after ""liable"".
 
-[Section 69(2)][2502]: insert ""on conviction"" after ""liable"".
+[Section 69(2)][2500]: insert ""on conviction"" after ""liable"".
 
-[Section 70(2)][2503]: insert ""on conviction"" after ""liable"".
+[Section 70(2)][2501]: insert ""on conviction"" after ""liable"".
 
-[Section 71(2) and (3)][2504]: insert ""on conviction"" after ""liable"".
+[Section 71(2) and (3)][2502]: insert ""on conviction"" after ""liable"".
 
-[Section 79(1)][2505]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 79(1)][2503]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 79(2) and (3)][2505]: repeal and substitute:
+[Section 79(2) and (3)][2503]: repeal and substitute:
 
 > *   "(2) Any person whose application under section 77 to the District Court is refused may appeal against the refusal to the High Court in accordance with Part 6 of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
 > 
@@ -13122,41 +13114,41 @@ Definition of _unauthorised weapon_ in [section 212][2403]: omit ""indictable"" 
 > 
 > 
 
-[Section 127(1) and (2)][2506]: insert ""on conviction"" after ""liable"".
+[Section 127(1) and (2)][2504]: insert ""on conviction"" after ""liable"".
 
-[Section 185(1), (2), (3), (4) and (5)][2507]: insert ""on conviction"" after ""liable"".
+[Section 185(1), (2), (3), (4) and (5)][2505]: insert ""on conviction"" after ""liable"".
 
-[Section 198(4)][2508]: insert ""on conviction"" after ""liable"".
+[Section 198(4)][2506]: insert ""on conviction"" after ""liable"".
 
-[Section 235(6)][2509]: insert ""on conviction"" after ""liable"".
+[Section 235(6)][2507]: insert ""on conviction"" after ""liable"".
 
-[Section 244(1) and (3)][2510]: insert ""on conviction"" after ""liable"".
+[Section 244(1) and (3)][2508]: insert ""on conviction"" after ""liable"".
 
-[Section 245][2511]: insert ""on conviction"" after ""liable"".
+[Section 245][2509]: insert ""on conviction"" after ""liable"".
 
-[Section 253(4)][2512]: insert ""on conviction"" after ""liable"".
+[Section 253(4)][2510]: insert ""on conviction"" after ""liable"".
 
-[Section 266][2513]: insert ""on conviction"" after ""liable"".
+[Section 266][2511]: insert ""on conviction"" after ""liable"".
 
-[Section 279][2514]: insert ""on conviction"" after ""liable"".
+[Section 279][2512]: insert ""on conviction"" after ""liable"".
 
-[Section 280][2515]: insert ""on conviction"" after ""liable"".
+[Section 280][2513]: insert ""on conviction"" after ""liable"".
 
-[Section 317][2516]: insert ""on conviction"" after ""liable"".
+[Section 317][2514]: insert ""on conviction"" after ""liable"".
 
-[Section 340(2)][2517]: insert ""on conviction"" after ""liable"".
+[Section 340(2)][2515]: insert ""on conviction"" after ""liable"".
 
-[Section 367(1), (2), and (3)][2518]: insert ""on conviction"" after ""liable"".
+[Section 367(1), (2), and (3)][2516]: insert ""on conviction"" after ""liable"".
 
-[Section 402][2519]: insert ""on conviction"" after ""liable"".
+[Section 402][2517]: insert ""on conviction"" after ""liable"".
 
-[Section 403(1) and (2)][2520]: insert ""on conviction"" after ""liable"".
+[Section 403(1) and (2)][2518]: insert ""on conviction"" after ""liable"".
 
-[Section 407(1), (2), and (3)][2521]: insert ""on conviction"" after ""liable"".
+[Section 407(1), (2), and (3)][2519]: insert ""on conviction"" after ""liable"".
 
-[Section 408][2522]: repeal.
+[Section 408][2520]: repeal.
 
-[Section 411][2523]: repeal and substitute:
+[Section 411][2521]: repeal and substitute:
 
 > ##### "411 Limitation of proceedings
 >     
@@ -13168,57 +13160,57 @@ Definition of _unauthorised weapon_ in [section 212][2403]: omit ""indictable"" 
 > 
 > 
 
-[Section 412][2524]: omit ""information"" and substitute ""charge"".
+[Section 412][2522]: omit ""information"" and substitute ""charge"".
 
-[Section 412][2524]: omit ""informant"" and substitute ""prosecutor"".
+[Section 412][2522]: omit ""informant"" and substitute ""prosecutor"".
 
-[Section 414(1)][2525]: omit ""information"" and substitute ""charge"".
+[Section 414(1)][2523]: omit ""information"" and substitute ""charge"".
 
-[Section 414(1) and (2)][2525]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
+[Section 414(1) and (2)][2523]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
 
-[Section 418(1)][2526]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 418(1)][2524]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 418(2)][2526]: omit ""section 24 of the Summary Proceedings Act 1957"" and substitute ""rules made under the Criminal Procedure Act 2011"".
+[Section 418(2)][2524]: omit ""section 24 of the Summary Proceedings Act 1957"" and substitute ""rules made under the Criminal Procedure Act 2011"".
 
-[Section 418(4)][2526]: repeal.
+[Section 418(4)][2524]: repeal.
 
-[Section 422(2)(a)][2527]: repeal and substitute:
+[Section 422(2)(a)][2525]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 423(3)][2528]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 423(3)][2526]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 460(1) and (2)][2529]: insert ""on conviction"" after ""liable"".
+[Section 460(1) and (2)][2527]: insert ""on conviction"" after ""liable"".
 
-##### [Marriage Act 1955][2530] (1955 No 92)
+##### [Marriage Act 1955][2528] (1955 No 92)
 
-[Section 35(2)][2531]: omit ""summary"".
+[Section 35(2)][2529]: omit ""summary"".
 
-[Section 56(1)][2532]: omit ""summary"".
+[Section 56(1)][2530]: omit ""summary"".
 
-[Section 57][2533]: omit ""summary"".
+[Section 57][2531]: omit ""summary"".
 
-[Section 58][2534]: omit ""on indictment"".
+[Section 58][2532]: omit ""on indictment"".
 
-[Section 59][2532]: omit ""on indictment"".
+[Section 59][2530]: omit ""on indictment"".
 
-[Section 60][2535]: omit ""on indictment"".
+[Section 60][2533]: omit ""on indictment"".
 
-##### [Meat Board Act 2004][2536] (2004 No 58)
+##### [Meat Board Act 2004][2534] (2004 No 58)
 
-[Section 67(1) and (2)][2537]: omit ""summary"".
+[Section 67(1) and (2)][2535]: omit ""summary"".
 
-[Section 68(2), (3), and (4)][2538]: omit ""summary"".
+[Section 68(2), (3), and (4)][2536]: omit ""summary"".
 
-[Section 69(3)][2539]: omit ""summary"".
+[Section 69(3)][2537]: omit ""summary"".
 
-[Section 72(2)][2540]: omit ""informant"" and substitute ""prosecutor"".
+[Section 72(2)][2538]: omit ""informant"" and substitute ""prosecutor"".
 
-[Section 74(2)][2541]: omit ""summary"".
+[Section 74(2)][2539]: omit ""summary"".
 
-[Section 76][2542]: repeal and substitute:
+[Section 76][2540]: repeal and substitute:
 
 > ##### "76 Time for filing charging document
 >     
@@ -13226,39 +13218,39 @@ Definition of _unauthorised weapon_ in [section 212][2403]: omit ""indictable"" 
 > 
 > 
 
-[Schedule 1][2543], clause 10(4): omit ""summary"".
+[Schedule 1][2541], clause 10(4): omit ""summary"".
 
-##### [Medicines Act 1981][2544] (1981 No 118)
+##### [Medicines Act 1981][2542] (1981 No 118)
 
-[Section 17(2)][2545]: omit ""summary"".
+[Section 17(2)][2543]: omit ""summary"".
 
-[Section 36(5)][2546]: insert ""on conviction"" after ""liable"".
+[Section 36(5)][2544]: insert ""on conviction"" after ""liable"".
 
-[Section 38(8)][2547]: insert ""on conviction"" after ""liable"".
+[Section 38(8)][2545]: insert ""on conviction"" after ""liable"".
 
-[Section 41(2)][2548]: insert ""on conviction"" after ""liable"".
+[Section 41(2)][2546]: insert ""on conviction"" after ""liable"".
 
-[Section 59(5)][2549]: insert ""on conviction"" after ""liable"".
+[Section 59(5)][2547]: insert ""on conviction"" after ""liable"".
 
-[Section 76(2)][2550]: insert ""on conviction"" after ""liable"".
+[Section 76(2)][2548]: insert ""on conviction"" after ""liable"".
 
-[Section 77(1)][2551]: repeal.
+[Section 77(1)][2549]: repeal.
 
-[Section 77(2)][2551]: repeal and substitute:
+[Section 77(2)][2549]: repeal and substitute:
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed."
 > 
 > 
 
-[Section 78][2552]: insert ""on conviction"" after ""liable"".
+[Section 78][2550]: insert ""on conviction"" after ""liable"".
 
-[Section 83(6)][2553]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 83(6)][2551]: omit ""Part 4 of the Summary Proceedings Act 1957"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 96B(3)][2554]: omit ""summary"".
+[Section 96B(3)][2552]: omit ""summary"".
 
-[Section 107(4)][2555]: insert ""on conviction"" after ""liable"".
+[Section 107(4)][2553]: insert ""on conviction"" after ""liable"".
 
-##### [Mental Health (Compulsory Assessment and Treatment) Act 1992][2556] (1992 No 46)
+##### [Mental Health (Compulsory Assessment and Treatment) Act 1992][2554] (1992 No 46)
 
 Paragraph (a)(ii) of the definition of _special patient_ in [section 2][697]: repeal and substitute:
 
@@ -13266,25 +13258,25 @@ Paragraph (a)(ii) of the definition of _special patient_ in [section 2][697]: re
 > 
 > 
 
-[Section 23(4)][2557]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Section 23(4)][2555]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
-[Section 84(4)][2558]: omit ""or committed for trial"" and omit ""or indictment"".
+[Section 84(4)][2556]: omit ""or committed for trial"" and omit ""or indictment"".
 
-[Section 84(5)][2558]: omit ""or committed for trial"" and omit ""or indictment"".
+[Section 84(5)][2556]: omit ""or committed for trial"" and omit ""or indictment"".
 
-[Section 114(2)][2559]: omit ""on indictment"".
+[Section 114(2)][2557]: omit ""on indictment"".
 
-[Section 115(2) and (3)][2560]: insert ""on conviction"" after ""liable"".
+[Section 115(2) and (3)][2558]: insert ""on conviction"" after ""liable"".
 
-[Section 116][2561]: insert ""on conviction"" after ""liable"".
+[Section 116][2559]: insert ""on conviction"" after ""liable"".
 
-[Section 117][2562]: insert ""on conviction"" after ""liable"".
+[Section 117][2560]: insert ""on conviction"" after ""liable"".
 
-[Section 118][2563]: insert ""on conviction"" after ""liable"".
+[Section 118][2561]: insert ""on conviction"" after ""liable"".
 
-[Section 119][2564]: insert ""on conviction"" after ""liable"".
+[Section 119][2562]: insert ""on conviction"" after ""liable"".
 
-[Section 120][2565]: repeal and substitute:
+[Section 120][2563]: repeal and substitute:
 
 > ##### "120 Who may commence proceedings
 >     
@@ -13298,11 +13290,11 @@ Paragraph (a)(ii) of the definition of _special patient_ in [section 2][697]: re
 > 
 > 
 
-[Section 121][2566]: insert ""on conviction"" after ""liable"".
+[Section 121][2564]: insert ""on conviction"" after ""liable"".
 
-[Schedule 1][2567], clause 6: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Schedule 1][2565], clause 6: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
-##### [Mercenary Activities (Prohibition) Act 2004][2568] (2004 No 69)
+##### [Mercenary Activities (Prohibition) Act 2004][2566] (2004 No 69)
 
 [Section 7][909]: omit ""on indictment"" in each place where it appears.
 
@@ -13316,69 +13308,69 @@ Paragraph (a)(ii) of the definition of _special patient_ in [section 2][697]: re
 
 [Section 12][914]: omit ""on indictment"" in each place where it appears.
 
-##### [Military Decorations and Distinctive Badges Act 1918][2569] (1918 No 3)
+##### [Military Decorations and Distinctive Badges Act 1918][2567] (1918 No 3)
 
-[Section 4A(2)][2570]: omit ""summary"".
+[Section 4A(2)][2568]: omit ""summary"".
 
-[Section 6][2571]: omit ""summary"".
+[Section 6][2569]: omit ""summary"".
 
-##### [Military Manoeuvres Act 1915][2572] (1915 No 42)
+##### [Military Manoeuvres Act 1915][2570] (1915 No 42)
 
-[Section 4(7)][2573]: omit ""complaint under the Summary Proceedings Act 1957"" and substitute ""proceeding commenced by filing a charge under section 14 of the Criminal Procedure Act 2011 (with all necessary modifications)"".
+[Section 4(7)][2571]: omit ""complaint under the Summary Proceedings Act 1957"" and substitute ""proceeding commenced by filing a charge under section 14 of the Criminal Procedure Act 2011 (with all necessary modifications)"".
 
-[Section 5(1)][2574]: omit ""summary"".
+[Section 5(1)][2572]: omit ""summary"".
 
-##### [Mines Rescue Trust Act 1992][2575] (1992 No 97)
+##### [Mines Rescue Trust Act 1992][2573] (1992 No 97)
 
-[Section 9(2)][2576]: omit ""summary"".
+[Section 9(2)][2574]: omit ""summary"".
 
-##### [Mining Tenures Registration Act 1962][2577] (1962 No 48)
+##### [Mining Tenures Registration Act 1962][2575] (1962 No 48)
 
-[Section 6(4)][2578]: omit ""summary"".
+[Section 6(4)][2576]: omit ""summary"".
 
-##### [Misuse of Drugs Act 1975][2579] (1975 No 116)
+##### [Misuse of Drugs Act 1975][2577] (1975 No 116)
 
-[Section 6(2)][2580]: omit ""on indictment"".
+[Section 6(2)][2578]: omit ""on indictment"".
 
-[Section 6(2A)][2580]: omit ""on indictment"".
+[Section 6(2A)][2578]: omit ""on indictment"".
 
-[Section 6(3)][2580]: repeal.
+[Section 6(3)][2578]: repeal.
 
-[Section 6(4A)][2580]: omit ""subsections (3) and (4) of this section"" and substitute ""subsection (4)"".
+[Section 6(4A)][2578]: omit ""subsections (3) and (4) of this section"" and substitute ""subsection (4)"".
 
-[Section 9(2)][2581]: omit ""on indictment"".
+[Section 9(2)][2579]: omit ""on indictment"".
 
-[Section 9(3)][2581]: repeal.
+[Section 9(3)][2579]: repeal.
 
-[Section 10(2)][2582]: omit ""on indictment"".
+[Section 10(2)][2580]: omit ""on indictment"".
 
-[Section 10(3)][2582]: repeal.
+[Section 10(3)][2580]: repeal.
 
-[Section 11(1)][2583]: omit ""on indictment"".
+[Section 11(1)][2581]: omit ""on indictment"".
 
-[Section 12(2)][2584]: omit ""on indictment"".
+[Section 12(2)][2582]: omit ""on indictment"".
 
-[Section 12(3)][2584]: repeal.
+[Section 12(3)][2582]: repeal.
 
-[Section 12A(3)][2585]: omit ""on indictment"".
+[Section 12A(3)][2583]: omit ""on indictment"".
 
-[Section 12A(4)][2585]: repeal.
+[Section 12A(4)][2583]: repeal.
 
-[Section 12AB(2)][2586]: omit ""on indictment"".
+[Section 12AB(2)][2584]: omit ""on indictment"".
 
-[Section 12AB(3)][2586]: repeal.
+[Section 12AB(3)][2584]: repeal.
 
-[Section 12AC(3) and (4)][2587]: repeal.
+[Section 12AC(3) and (4)][2585]: repeal.
 
-[Section 12AC(5)][2587]: omit ""summary"".
+[Section 12AC(5)][2585]: omit ""summary"".
 
-[Section 12B(1)][2588]: omit ""In this section"" and substitute ""In this section and section 12BA"".
+[Section 12B(1)][2586]: omit ""In this section"" and substitute ""In this section and section 12BA"".
 
-[Section 12B(2) and (3)][2588]: omit ""on indictment"".
+[Section 12B(2) and (3)][2586]: omit ""on indictment"".
 
-[Section 12B(5)(a) and (b)][2588]: omit ""accused"" and substitute in each case ""defendant"".
+[Section 12B(5)(a) and (b)][2586]: omit ""accused"" and substitute in each case ""defendant"".
 
-Insert after [section 12B][2588]:
+Insert after [section 12B][2586]:
 
 > ##### "12BA Charges for money laundering
 >     
@@ -13388,27 +13380,27 @@ Insert after [section 12B][2588]:
 > 
 > 
 
-[Section 12C(3)][2589]: omit ""on indictment"".
+[Section 12C(3)][2587]: omit ""on indictment"".
 
-[Section 13(3)][2590]: insert ""on conviction"" after ""liable"".
+[Section 13(3)][2588]: insert ""on conviction"" after ""liable"".
 
-[Section 15][2591]: insert ""on conviction"" after ""liable"".
+[Section 15][2589]: insert ""on conviction"" after ""liable"".
 
-[Section 22(4) and (5)][2592]: insert ""on conviction"" after ""liable"".
+[Section 22(4) and (5)][2590]: insert ""on conviction"" after ""liable"".
 
-[Section 23(6)][2593]: insert ""on conviction"" after ""liable"".
+[Section 23(6)][2591]: insert ""on conviction"" after ""liable"".
 
-[Section 23(7)][2593]: insert ""on conviction"" after ""liable"".
+[Section 23(7)][2591]: insert ""on conviction"" after ""liable"".
 
-[Section 27][2594]: insert ""on conviction"" after ""liable"".
+[Section 27][2592]: insert ""on conviction"" after ""liable"".
 
-[Section 28][2595]: repeal and substitute:
+[Section 28][2593]: repeal and substitute:
 
 > ##### "28 Time for filing charging document
 >     
 > *   Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,---
 >         
->     *   "(a) a charging document in respect of an offence against section 6, 9, or 10 of this Act may be filed at any time; and 
+>     *   "(a) a charging document in respect of an offence against section 6, 9, or 10 of this Act may be filed at any time; and
 >     
 >     *   "(b) the limitation period in respect of any other offence against this Act, or any regulations made under it, ends on the date that is 4 years after the date on which the offence was committed."
 >     
@@ -13416,57 +13408,57 @@ Insert after [section 12B][2588]:
 > 
 > 
 
-[Section 28A(1)][2596]: omit ""information may be laid"" and substitute ""charging document may be filed"".
+[Section 28A(1)][2594]: omit ""information may be laid"" and substitute ""charging document may be filed"".
 
-[Section 28A(2)][2596]: omit ""laying of the information"" and substitute ""filing of the charging document"".
+[Section 28A(2)][2594]: omit ""laying of the information"" and substitute ""filing of the charging document"".
 
-[Section 29A(1) and (2)][2597]: omit ""summary"" and substitute in each case ""Judge-alone"".
+[Section 29A(1) and (2)][2595]: omit ""summary"" and substitute in each case ""Judge-alone"".
 
-[Section 30][2598]: omit ""Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act 1957, in"" and substitute ""In"".
+[Section 30][2596]: omit ""Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act 1957, in"" and substitute ""In"".
 
 Definition of _served_ in section 31(5): omit ""sections 24 to 29 of the Summary Proceedings Act 1957"" and substitute ""rules made under the Criminal Procedure Act 2011"".
 
-##### [Misuse of Drugs Amendment Act 1978][2599] (1978 No 65)
+##### [Misuse of Drugs Amendment Act 1978][2597] (1978 No 65)
 
-[Section 43(1)][2600]: omit ""section 28I of the District Courts Act 1947"" and substitute ""Part 3 of the Summary Proceedings Act 1957"".
+[Section 43(1)][2598]: omit ""section 28I of the District Courts Act 1947"" and substitute ""Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Misuse of Drugs Amendment Act 2005][2601] (2005 No 81)
+##### [Misuse of Drugs Amendment Act 2005][2599] (2005 No 81)
 
-[Section 36(2)][2602]: omit ""summary"".
+[Section 36(2)][2600]: omit ""summary"".
 
-[Section 38(2)][2603]: omit ""summary"".
+[Section 38(2)][2601]: omit ""summary"".
 
-[Section 39(2)][2604]: omit ""summary"".
+[Section 39(2)][2602]: omit ""summary"".
 
-[Section 41(2)][2605]: omit ""summary"".
+[Section 41(2)][2603]: omit ""summary"".
 
-[Section 42(4)][2606]: omit ""summary"".
+[Section 42(4)][2604]: omit ""summary"".
 
-[Section 43(4)][2607]: omit ""summary"".
+[Section 43(4)][2605]: omit ""summary"".
 
-[Section 44(3)][2608]: omit ""summary"".
+[Section 44(3)][2606]: omit ""summary"".
 
-[Section 45(3)][2609]: omit ""summary"".
+[Section 45(3)][2607]: omit ""summary"".
 
-[Section 46(2)][2610]: omit ""summary"".
+[Section 46(2)][2608]: omit ""summary"".
 
-[Section 47(2)][2611]: omit ""summary"".
+[Section 47(2)][2609]: omit ""summary"".
 
-[Section 48(3)][2612]: omit ""summary"".
+[Section 48(3)][2610]: omit ""summary"".
 
-[Section 49(3)][2613]: omit ""summary"".
+[Section 49(3)][2611]: omit ""summary"".
 
-[Section 50(2)][2614]: omit ""summary"".
+[Section 50(2)][2612]: omit ""summary"".
 
-[Section 51(2)][2615]: omit ""summary"".
+[Section 51(2)][2613]: omit ""summary"".
 
-[Section 52(4)][2616]: omit ""summary"".
+[Section 52(4)][2614]: omit ""summary"".
 
-[Section 53(2)][2617]: omit ""summary"".
+[Section 53(2)][2615]: omit ""summary"".
 
-[Section 54(5)][2618]: omit ""summary"".
+[Section 54(5)][2616]: omit ""summary"".
 
-[Section 59][2619]: repeal and substitute:
+[Section 59][2617]: repeal and substitute:
 
 > ##### "59 Time for filing charging document under this Part
 >     
@@ -13474,61 +13466,61 @@ Definition of _served_ in section 31(5): omit ""sections 24 to 29 of the Summary
 > 
 > 
 
-[Section 60(2)][2620]: omit ""summary"".
+[Section 60(2)][2618]: omit ""summary"".
 
-[Section 61(2)][2621]: omit ""summary"".
+[Section 61(2)][2619]: omit ""summary"".
 
-##### [Mortgagors and Lessees Rehabilitation Act 1936][2622] (1936 No 33)
+##### [Mortgagors and Lessees Rehabilitation Act 1936][2620] (1936 No 33)
 
-[Section 34(1)][2623]: omit ""summary"".
+[Section 34(1)][2621]: omit ""summary"".
 
-[Section 65(2)][2624]: omit ""summary"".
+[Section 65(2)][2622]: omit ""summary"".
 
-##### [Motor Vehicle Sales Act 2003][2625] (2003 No 12)
+##### [Motor Vehicle Sales Act 2003][2623] (2003 No 12)
 
-[Section 111][2626]: repeal.
+[Section 111][2624]: repeal.
 
-[Section 112(1)(a)][2627]: repeal and substitute:
+[Section 112(1)(a)][2625]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 142(5)][2628]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 142(5)][2626]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Museum of New Zealand Te Papa Tongarewa Act 1992][2629] (1992 No 19)
+##### [Museum of New Zealand Te Papa Tongarewa Act 1992][2627] (1992 No 19)
 
-[Section 23(3)][2630]: omit ""summary"".
+[Section 23(3)][2628]: omit ""summary"".
 
-##### [Music Teachers Act 1981][2631] (1981 No 3)
+##### [Music Teachers Act 1981][2629] (1981 No 3)
 
-[Section 31][2632]: omit ""summary"".
+[Section 31][2630]: omit ""summary"".
 
-##### [Mutual Insurance Act 1955][2633] (1955 No 23)
+##### [Mutual Insurance Act 1955][2631] (1955 No 23)
 
-[Section 29B(5) and (7)][2634]: omit ""summary"".
+[Section 29B(5) and (7)][2632]: omit ""summary"".
 
-[Section 30B(4)][2635]: omit ""summary"".
+[Section 30B(4)][2633]: omit ""summary"".
 
-[Section 40(2)][2636]: omit ""summary"".
+[Section 40(2)][2634]: omit ""summary"".
 
-##### [National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003][2637] (2003 No 19)
+##### [National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003][2635] (2003 No 19)
 
-[Section 40][2638]: omit ""summary"".
+[Section 40][2636]: omit ""summary"".
 
-##### [National Parks Act 1980][2639] (1980 No 66)
+##### [National Parks Act 1980][2637] (1980 No 66)
 
-[Section 56I(1)][2640]: omit ""summary"".
+[Section 56I(1)][2638]: omit ""summary"".
 
-[Section 56J(2)][2641]: omit ""summary"".
+[Section 56J(2)][2639]: omit ""summary"".
 
-[Section 60(8)][2642]: omit ""summarily"".
+[Section 60(8)][2640]: omit ""summarily"".
 
-[Section 61(3)][2643]: omit ""information"" and substitute ""charge"".
+[Section 61(3)][2641]: omit ""information"" and substitute ""charge"".
 
-[Section 62(6)][2644]: omit ""summarily"".
+[Section 62(6)][2642]: omit ""summarily"".
 
-[Section 67][2645]: repeal and substitute:
+[Section 67][2643]: repeal and substitute:
 
 > ##### "67 Proceedings in respect of offences
 >     
@@ -13540,7 +13532,7 @@ Definition of _served_ in section 31(5): omit ""sections 24 to 29 of the Summary
 > 
 > 
 
-[Section 68][2646]: repeal and substitute:
+[Section 68][2644]: repeal and substitute:
 
 > ##### "68 Time for filing charging document
 >     
@@ -13548,169 +13540,169 @@ Definition of _served_ in section 31(5): omit ""sections 24 to 29 of the Summary
 > 
 > 
 
-[Section 70][2647]: omit ""summary"".
+[Section 70][2645]: omit ""summary"".
 
-##### [Native Plants Protection Act 1934][2648] (1934 No 15)
+##### [Native Plants Protection Act 1934][2646] (1934 No 15)
 
-[Section 8][2649]: omit ""summary"".
+[Section 8][2647]: omit ""summary"".
 
-##### [National War Memorial Act 1992][2650] (1992 No 20)
+##### [National War Memorial Act 1992][2648] (1992 No 20)
 
-[Section 15(3)][2651]: omit ""summary"".
+[Section 15(3)][2649]: omit ""summary"".
 
-##### [New Zealand Antarctic Institute Act 1996][2652] (1996 No 38)
+##### [New Zealand Antarctic Institute Act 1996][2650] (1996 No 38)
 
-[Section 11(3)][2653]: omit ""summary"".
+[Section 11(3)][2651]: omit ""summary"".
 
-##### [New Zealand Film Commission Act 1978][2654] (1978 No 61)
+##### [New Zealand Film Commission Act 1978][2652] (1978 No 61)
 
-[Section 34(3)][2655]: omit ""summary"".
+[Section 34(3)][2653]: omit ""summary"".
 
-##### [New Zealand Horticulture Export Authority Act 1987][2656] (1987 No 93)
+##### [New Zealand Horticulture Export Authority Act 1987][2654] (1987 No 93)
 
-[Section 22(2)][2657]: omit ""summary"".
+[Section 22(2)][2655]: omit ""summary"".
 
-[Section 34(4)][2658]: omit ""summary"".
+[Section 34(4)][2656]: omit ""summary"".
 
-[Section 63(2)][2659]: omit ""summary"".
+[Section 63(2)][2657]: omit ""summary"".
 
-##### [New Zealand Institute of Chartered Accountants Act 1996][2660] (1996 No 39)
+##### [New Zealand Institute of Chartered Accountants Act 1996][2658] (1996 No 39)
 
-[Section 11(9)][2661]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 11(9)][2659]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 14(2)][2662]: omit ""summary"".
+[Section 14(2)][2660]: omit ""summary"".
 
-[Section 15(4)][2663]: omit ""summary"".
+[Section 15(4)][2661]: omit ""summary"".
 
-[Section 16(3)][2664]: omit ""summary"".
+[Section 16(3)][2662]: omit ""summary"".
 
-##### [New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987][2665] (1987 No 86)
+##### [New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987][2663] (1987 No 86)
 
 [Section 14(2)][916]: omit ""on indictment"".
 
-[Section 15(1)][2666]: omit ""information shall be laid"" and substitute ""charging document may be filed"".
+[Section 15(1)][2664]: omit ""information shall be laid"" and substitute ""charging document may be filed"".
 
-[Section 15(1)][2666]: omit ""laying of an information"" and substitute ""filing of a charging document"".
+[Section 15(1)][2664]: omit ""laying of an information"" and substitute ""filing of a charging document"".
 
-##### [New Zealand Planning Council Dissolution Act 1991][2667] (1991 No 97)
+##### [New Zealand Planning Council Dissolution Act 1991][2665] (1991 No 97)
 
-[Section 6(3)][2668]: omit ""summary"".
+[Section 6(3)][2666]: omit ""summary"".
 
-##### [New Zealand Public Health and Disability Act 2000][2669] (2000 No 91)
+##### [New Zealand Public Health and Disability Act 2000][2667] (2000 No 91)
 
-[Section 59E(5)][2670]: insert ""on conviction"" after ""liable"".
+[Section 59E(5)][2668]: insert ""on conviction"" after ""liable"".
 
-[Section 59E(6)][2670]: omit ""summary"".
+[Section 59E(6)][2668]: omit ""summary"".
 
-[Section 83(2)][2671]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 83(2)][2669]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 86(5)][2672]: omit ""summary"".
+[Section 86(5)][2670]: omit ""summary"".
 
-##### [New Zealand Railways Corporation Act 1981][2673] (1981 No 119)
+##### [New Zealand Railways Corporation Act 1981][2671] (1981 No 119)
 
-[Section 18(8)][2674]: omit ""summary"".
+[Section 18(8)][2672]: omit ""summary"".
 
-[Section 110(2)(d)][2675]: omit ""summary"".
+[Section 110(2)(d)][2673]: omit ""summary"".
 
-[Section 115(1) and (2)][2676]: omit ""summary"".
+[Section 115(1) and (2)][2674]: omit ""summary"".
 
-[Section 116][2677]: omit ""summary"".
+[Section 116][2675]: omit ""summary"".
 
-##### [New Zealand Security Intelligence Service Act 1969][2678] (1969 No 24)
+##### [New Zealand Security Intelligence Service Act 1969][2676] (1969 No 24)
 
-[Section 4G(3)][2679]: omit ""summary"".
+[Section 4G(3)][2677]: omit ""summary"".
 
-Paragraph (a) of the definition of _serious crime_ in [section 4H(2)][2680]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+Paragraph (a) of the definition of _serious crime_ in [section 4H(2)][2678]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-Paragraph (b) of the definition of _serious crime_ in [section 4H(2)][2680]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+Paragraph (b) of the definition of _serious crime_ in [section 4H(2)][2678]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-[Section 12A(4)][2681]: omit ""on indictment"".
+[Section 12A(4)][2679]: omit ""on indictment"".
 
-[Section 13][2682]: omit ""summary"".
+[Section 13][2680]: omit ""summary"".
 
-[Section 13A(1)][2683]: omit ""summary"".
+[Section 13A(1)][2681]: omit ""summary"".
 
-##### [New Zealand Symphony Orchestra Act 2004][2684] (2004 No 20)
+##### [New Zealand Symphony Orchestra Act 2004][2682] (2004 No 20)
 
-[Section 28(3)][2685]: omit ""summary"".
+[Section 28(3)][2683]: omit ""summary"".
 
-##### [Nuclear-Test-Ban Act 1999][2686] (1999 No 10)
+##### [Nuclear-Test-Ban Act 1999][2684] (1999 No 10)
 
 [Section 5(3)][917]: omit ""on indictment"".
 
-[Section 6(2)(a)][2687]: repeal and substitute:
+[Section 6(2)(a)][2685]: repeal and substitute:
 
 > *   "(a) a charging document may be filed only with the consent of the Attorney-General and on his or her certificate that it is expedient that the charging document be filed:".
 > 
 > 
 
-[Section 8(2)][2688]: omit ""summary"".
+[Section 8(2)][2686]: omit ""summary"".
 
-[Section 9(2)][2689]: omit ""summary"".
+[Section 9(2)][2687]: omit ""summary"".
 
-[Section 14(3)][2690]: omit ""summary"".
+[Section 14(3)][2688]: omit ""summary"".
 
-[Section 20(3)][2691]: omit ""summary"".
+[Section 20(3)][2689]: omit ""summary"".
 
-[Section 22(1)(b)][2692]: omit ""summary"".
+[Section 22(1)(b)][2690]: omit ""summary"".
 
-##### [Oaths and Declarations Act 1957][2693] (1957 No 88)
+##### [Oaths and Declarations Act 1957][2691] (1957 No 88)
 
-[Section 6(2)][2694]: omit ""summary"".
+[Section 6(2)][2692]: omit ""summary"".
 
-##### [Ombudsmen Act 1975][2695] (1975 No 9)
+##### [Ombudsmen Act 1975][2693] (1975 No 9)
 
-[Section 19(8)][2696]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 19(8)][2694]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 28A(2)][2697]: omit ""summary"".
+[Section 28A(2)][2695]: omit ""summary"".
 
-[Section 30][2698]: omit ""summary"".
+[Section 30][2696]: omit ""summary"".
 
-##### [Overseas Investment Act 2005][2699] (2005 No 82)
+##### [Overseas Investment Act 2005][2697] (2005 No 82)
 
-[Section 42(2)][2700]: omit ""on indictment"".
+[Section 42(2)][2698]: omit ""on indictment"".
 
-[Section 43(2)][2701]: omit ""on indictment"".
+[Section 43(2)][2699]: omit ""on indictment"".
 
-[Section 44(2)][2702]: omit ""on indictment"".
+[Section 44(2)][2700]: omit ""on indictment"".
 
-[Section 45(2)][2703]: omit ""summary"".
+[Section 45(2)][2701]: omit ""summary"".
 
-[Section 45(3)][2703]: repeal.
+[Section 45(3)][2701]: repeal.
 
-[Section 46(3)][2704]: omit ""summary"".
+[Section 46(3)][2702]: omit ""summary"".
 
-[Section 46(4)][2704]: repeal.
+[Section 46(4)][2702]: repeal.
 
-##### [Ozone Layer Protection Act 1996][2705] (1996 No 40)
+##### [Ozone Layer Protection Act 1996][2703] (1996 No 40)
 
-[Section 10(3)][2706]: omit ""summary"".
+[Section 10(3)][2704]: omit ""summary"".
 
-[Section 11(3)][2707]: omit ""summary"".
+[Section 11(3)][2705]: omit ""summary"".
 
-[Section 12(2)][2708]: omit ""summary"".
+[Section 12(2)][2706]: omit ""summary"".
 
-[Section 15(1), (2), and (3)][2709]: omit ""summary"".
+[Section 15(1), (2), and (3)][2707]: omit ""summary"".
 
-[Section 16(1)(e)][2710]: omit ""summary"".
+[Section 16(1)(e)][2708]: omit ""summary"".
 
-[Section 22(5)][2711]: omit ""summary"".
+[Section 22(5)][2709]: omit ""summary"".
 
-##### [Parental Leave and Employment Protection Act 1987][2712] (1987 No 129)
+##### [Parental Leave and Employment Protection Act 1987][2710] (1987 No 129)
 
-[Section 71Z(3)][2713]: omit ""summary"".
+[Section 71Z(3)][2711]: omit ""summary"".
 
-[Section 71Z(4)][2713]: omit ""An information in respect of an offence against this section may be laid"" and substitute ""A charging document in respect of an offence against this section may be filed"".
+[Section 71Z(4)][2711]: omit ""An information in respect of an offence against this section may be laid"" and substitute ""A charging document in respect of an offence against this section may be filed"".
 
 ##### [Parole Act 2002][937] (2002 No 10)
 
-[Section 11][2714]: omit ""section 142A of the Criminal Justice Act 1985"" and substitute ""section 34A of the Corrections Act 2004"".
+[Section 11][2712]: omit ""section 142A of the Criminal Justice Act 1985"" and substitute ""section 34A of the Corrections Act 2004"".
 
-[Section 13(8)][2715]: omit ""summary"".
+[Section 13(8)][2713]: omit ""summary"".
 
-[Section 13AC(1)][2716]: omit ""summary"".
+[Section 13AC(1)][2714]: omit ""summary"".
 
-[Section 69(4)][2717]: repeal and substitute:
+[Section 69(4)][2715]: repeal and substitute:
 
 > *   "(4) Subject to this section, sections 323, 325, 326, 328, 334, 335, 337 to 342, 351, 379, and 382 of the Criminal Procedure Act 2011 apply to an appeal under section 68 with the necessary modifications as if the order appealed against were an order made by a District Court Judge.
 > 
@@ -13724,15 +13716,15 @@ Paragraph (b) of the definition of _serious crime_ in [section 4H(2)][2680]: omi
 > 
 > 
 
-[Section 71(1)][2718]: omit ""summary"".
+[Section 71(1)][2716]: omit ""summary"".
 
-[Section 72(2) and (3)][2719]: omit ""summary"".
+[Section 72(2) and (3)][2717]: omit ""summary"".
 
-[Section 91(2)(d)][2720]: repeal and substitute:
+[Section 91(2)(d)][2718]: repeal and substitute:
 
 > *   "(d) in a hospital or secure facility pursuant to an order under---
 >         
->     *   "(i) section 171(2) or 184T(3) or (4) of the Summary Proceedings Act 1957; or 
+>     *   "(i) section 171(2) or 184T(3) or (4) of the Summary Proceedings Act 1957; or
 >     
 >     *   "(ii) section 169 of the Criminal Procedure Act 2011:".
 >     
@@ -13740,7 +13732,7 @@ Paragraph (b) of the definition of _serious crime_ in [section 4H(2)][2680]: omi
 > 
 > 
 
-[Section 92(4)][2721]: omit ""Part 4 of the Summary Proceedings Act 1957, or (as the case may require) Part 13 of the Crimes Act 1961,"" and substitute ""subpart 4 of Part 6 of the Criminal Procedure Act 2011"".
+[Section 92(4)][2719]: omit ""Part 4 of the Summary Proceedings Act 1957, or (as the case may require) Part 13 of the Crimes Act 1961,"" and substitute ""subpart 4 of Part 6 of the Criminal Procedure Act 2011"".
 
 [Section 107G(2)][938]: omit ""sections 24 and 25 of the Summary Proceedings Act 1957"" and substitute ""rules in relation to service made under the Criminal Procedure Act 2011"".
 
@@ -13768,35 +13760,35 @@ Paragraph (b) of the definition of _serious crime_ in [section 4H(2)][2680]: omi
 
 [Section 107G(8)][938]: omit ""section 212 of the Summary Proceedings Act 1957"" and substitute ""section 386 of the Criminal Procedure Act 2011"".
 
-[Section 107R(2)][2722]: repeal and substitute:
+[Section 107R(2)][2720]: repeal and substitute:
 
 > *   "(2) Every appeal must be to the Court of Appeal, and Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications, and subject to section 107H of this Act, as if the appeal were an appeal against sentence."
 > 
 > 
 
-[Section 107T][2723]: omit ""summary"".
+[Section 107T][2721]: omit ""summary"".
 
-[Section 118A(3)][2724]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 118A(3)][2722]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 118D(2)][2725]: omit ""summary"".
+[Section 118D(2)][2723]: omit ""summary"".
 
-##### [Passports Act 1992][2726] (1992 No 92)
+##### [Passports Act 1992][2724] (1992 No 92)
 
-Definition of _conviction on indictment_ in [section 2][2727]: repeal.
+Definition of _conviction on indictment_ in [section 2][2725]: repeal.
 
-[Section 29A(3)][2728]: omit ""on indictment"".
+[Section 29A(3)][2726]: omit ""on indictment"".
 
-[Section 30(4)][2729]: omit ""on indictment"".
+[Section 30(4)][2727]: omit ""on indictment"".
 
-[Section 30A(2)][2730]: omit ""on indictment"".
+[Section 30A(2)][2728]: omit ""on indictment"".
 
-[Section 31(1) and (2)][2731]: omit ""a crime"" and substitute in each case ""an offence"".
+[Section 31(1) and (2)][2729]: omit ""a crime"" and substitute in each case ""an offence"".
 
-[Section 31(3) and (4)][2731]: omit ""on indictment"".
+[Section 31(3) and (4)][2729]: omit ""on indictment"".
 
-[Section 32(2)][2732]: omit ""on indictment"".
+[Section 32(2)][2730]: omit ""on indictment"".
 
-[Section 38][2733]: repeal and substitute:
+[Section 38][2731]: repeal and substitute:
 
 > ##### "38 Penalties
 >     
@@ -13808,91 +13800,91 @@ Definition of _conviction on indictment_ in [section 2][2727]: repeal.
 > 
 > 
 
-##### [Patents Act 1953][2734] (1953 No 64)
+##### [Patents Act 1953][2732] (1953 No 64)
 
-[Section 6(2) and (3)][2735]: omit ""summary"".
+[Section 6(2) and (3)][2733]: omit ""summary"".
 
-[Section 25(6)][2736]: omit ""on indictment"".
+[Section 25(6)][2734]: omit ""on indictment"".
 
-[Section 25][2736]: add:
+[Section 25][2734]: add:
 
 > *   "(7) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (1)."
 > 
 > 
 
-[Section 26(8)][2737]: omit ""on indictment"".
+[Section 26(8)][2735]: omit ""on indictment"".
 
-[Section 26][2737]: add:
+[Section 26][2735]: add:
 
 > *   "(9) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (8)."
 > 
 > 
 
-[Section 103(4)][2738]: omit ""summary"".
+[Section 103(4)][2736]: omit ""summary"".
 
-[Section 105][2739]: omit ""on indictment"".
+[Section 105][2737]: omit ""on indictment"".
 
-[Section 105][2739]: add as subsection (2):
+[Section 105][2737]: add as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (1)."
 > 
 > 
 
-[Section 106(1), (2), and (4)][2740]: omit ""summary"".
+[Section 106(1), (2), and (4)][2738]: omit ""summary"".
 
-##### [Patriotic and Canteen Funds Act 1947][2741] (1947 No 63)
+##### [Patriotic and Canteen Funds Act 1947][2739] (1947 No 63)
 
-[Section 49(4)][2742]: omit ""summary"".
+[Section 49(4)][2740]: omit ""summary"".
 
-##### [Petroleum Demand Restraint Act 1981][2743] (1981 No 12)
+##### [Petroleum Demand Restraint Act 1981][2741] (1981 No 12)
 
-[Section 12][2744]: omit ""accused"" and substitute ""defendant"".
+[Section 12][2742]: omit ""accused"" and substitute ""defendant"".
 
-[Section 21][2745]: omit ""summary"".
+[Section 21][2743]: omit ""summary"".
 
-Definition of _proceedings_ in [section 22(1)][2746]: insert ""the Criminal Procedure Act 2011 or"" after ""proceedings under"".
+Definition of _proceedings_ in [section 22(1)][2744]: insert ""the Criminal Procedure Act 2011 or"" after ""proceedings under"".
 
-[Section 22(4)][2746]: insert ""the Criminal Procedure Act 2011 or"" after ""taken under"".
+[Section 22(4)][2744]: insert ""the Criminal Procedure Act 2011 or"" after ""taken under"".
 
-[Section 22(4)(b)][2746]: omit ""section 78A of the Summary Proceedings Act 1957"" and substitute ""section 375 of the Criminal Procedure Act 2011"".
+[Section 22(4)(b)][2744]: omit ""section 78A of the Summary Proceedings Act 1957"" and substitute ""section 375 of the Criminal Procedure Act 2011"".
 
-[Section 22(5)][2746]: insert ""the Criminal Procedure Act 2011 or"" after ""taken under"".
+[Section 22(5)][2744]: insert ""the Criminal Procedure Act 2011 or"" after ""taken under"".
 
-[Section 22(8)][2746]: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
+[Section 22(8)][2744]: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
 
-[Section 23][2747]: repeal.
+[Section 23][2745]: repeal.
 
-[Section 25][2748]: repeal.
+[Section 25][2746]: repeal.
 
-##### [Plant Variety Rights Act 1987][2749] (1987 No 5)
+##### [Plant Variety Rights Act 1987][2747] (1987 No 5)
 
-[Section 37(7)][2750]: omit ""summary"".
+[Section 37(7)][2748]: omit ""summary"".
 
-##### [Plumbers, Gasfitters, and Drainlayers Act 2006][2751] (2006 No 74)
+##### [Plumbers, Gasfitters, and Drainlayers Act 2006][2749] (2006 No 74)
 
-[Section 76(3)][2752]: omit ""summary"".
+[Section 76(3)][2750]: omit ""summary"".
 
-[Section 77(3)][2753]: omit ""summary"".
+[Section 77(3)][2751]: omit ""summary"".
 
-[Section 94(3)][2754]: omit ""summary"".
+[Section 94(3)][2752]: omit ""summary"".
 
-[Section 99(2)][2755]: omit ""summary"".
+[Section 99(2)][2753]: omit ""summary"".
 
-[Section 113(7)][2756]: omit ""summary"".
+[Section 113(7)][2754]: omit ""summary"".
 
-[Section 121][2757]: omit ""summary"".
+[Section 121][2755]: omit ""summary"".
 
-[Section 122][2758]: omit ""summary"".
+[Section 122][2756]: omit ""summary"".
 
-[Section 123(1), (2), (3), and (4)][2759]: omit ""summary"".
+[Section 123(1), (2), (3), and (4)][2757]: omit ""summary"".
 
-[Section 124][2760]: omit ""summary"".
+[Section 124][2758]: omit ""summary"".
 
-[Section 125(1), (2), and (3)][2761]: omit ""summary"".
+[Section 125(1), (2), and (3)][2759]: omit ""summary"".
 
-[Section 125(4)][2761]: omit ""An information must not be laid"" and substitute ""A charging document must not be filed"".
+[Section 125(4)][2759]: omit ""An information must not be laid"" and substitute ""A charging document must not be filed"".
 
-[Section 127][2762]: repeal and substitute:
+[Section 127][2760]: repeal and substitute:
 
 > ##### "127 Time for filing charging document
 >     
@@ -13900,279 +13892,279 @@ Definition of _proceedings_ in [section 22(1)][2746]: insert ""the Criminal Proc
 > 
 > 
 
-[Section 128(1)(a)][2763]: repeal and substitute:
+[Section 128(1)(a)][2761]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 128(2)][2763]: repeal and substitute:
+[Section 128(2)][2761]: repeal and substitute:
 
 > *   "(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Board or the Registrar commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011\."
 > 
 > 
 
-[Section 129(4)(a)(i) and (b)][2764]: omit ""laying of an information"" in each place where it appears and substitute in each case ""filing of a charging document"".
+[Section 129(4)(a)(i) and (b)][2762]: omit ""laying of an information"" in each place where it appears and substitute in each case ""filing of a charging document"".
 
-[Section 130(3)][2765]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 130(3)][2763]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 167(2)][2766]: omit ""summary"".
+[Section 167(2)][2764]: omit ""summary"".
 
-[Section 169(1)][2767]: omit ""by way of case stated for the opinion of that Court"".
+[Section 169(1)][2765]: omit ""by way of case stated for the opinion of that Court"".
 
-[Section 169(3)][2767]: repeal and substitute:
+[Section 169(3)][2765]: repeal and substitute:
 
 > *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
 > 
 > 
 
-##### [Policing Act 2008][2768] (2008 No 72)
+##### [Policing Act 2008][2766] (2008 No 72)
 
-[Section 32(4)(b)][2769]: insert ""on conviction"" after ""liable"".
+[Section 32(4)(b)][2767]: insert ""on conviction"" after ""liable"".
 
-[Section 33(4)(b)][2770]: insert ""on conviction"" after ""liable"".
+[Section 33(4)(b)][2768]: insert ""on conviction"" after ""liable"".
 
-[Section 35(1)(c)][2771]: repeal and substitute:
+[Section 35(1)(c)][2769]: repeal and substitute:
 
 > *   "(c) an offence punishable by 10 or more years' imprisonment has been committed or discovered at or near that place."
 > 
 > 
 
-[Section 47(2)][2772]: insert ""on conviction"" after ""liable"".
+[Section 47(2)][2770]: insert ""on conviction"" after ""liable"".
 
-[Section 48(4)][2773]: insert ""on conviction"" after ""liable"".
+[Section 48(4)][2771]: insert ""on conviction"" after ""liable"".
 
-[Section 49(2)][2774]: insert ""on conviction"" after ""liable"".
+[Section 49(2)][2772]: insert ""on conviction"" after ""liable"".
 
-[Section 50(2)][2775]: insert ""on conviction"" after ""liable"".
+[Section 50(2)][2773]: insert ""on conviction"" after ""liable"".
 
-[Section 51(2)][2776]: insert ""on conviction"" after ""liable"".
+[Section 51(2)][2774]: insert ""on conviction"" after ""liable"".
 
-[Section 52(2)][2777]: insert ""on conviction"" after ""liable"".
+[Section 52(2)][2775]: insert ""on conviction"" after ""liable"".
 
-[Section 53(2)][2778]: insert ""on conviction"" after ""liable"".
+[Section 53(2)][2776]: insert ""on conviction"" after ""liable"".
 
-[Section 54][2779]: repeal.
+[Section 54][2777]: repeal.
 
-[Section 87(3)][2780]: omit ""information may be laid"" and substitute ""charging document may be filed"".
+[Section 87(3)][2778]: omit ""information may be laid"" and substitute ""charging document may be filed"".
 
-[Section 88(1) and (2)][2781]: omit ""laying of an information"" in each place where it appears and substitute in each case ""filing of a charging document"".
+[Section 88(1) and (2)][2779]: omit ""laying of an information"" in each place where it appears and substitute in each case ""filing of a charging document"".
 
-##### [Pork Industry Board Act 1997][2782] (1997 No 106)
+##### [Pork Industry Board Act 1997][2780] (1997 No 106)
 
-[Section 49(1), (2), and (3)][2783]: omit ""summary"".
+[Section 49(1), (2), and (3)][2781]: omit ""summary"".
 
-[Schedule 1][2784], clause 10(4): omit ""summary"".
+[Schedule 1][2782], clause 10(4): omit ""summary"".
 
-##### [Postal Services Act 1998][2785] (1998 No 2)
+##### [Postal Services Act 1998][2783] (1998 No 2)
 
-[Section 4(3)][2786]: insert ""on conviction"" after ""liable"".
+[Section 4(3)][2784]: insert ""on conviction"" after ""liable"".
 
-[Section 8(4)][2787]: omit ""the Summary Proceedings Act 1957"" and substitute ""subpart 4 of Part 6 of the Criminal Procedure Act 2011"".
+[Section 8(4)][2785]: omit ""the Summary Proceedings Act 1957"" and substitute ""subpart 4 of Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 13][2788]: insert ""on conviction"" after ""liable"".
+[Section 13][2786]: insert ""on conviction"" after ""liable"".
 
-[Section 20(3)][2789]: insert ""on conviction"" after ""liable"".
+[Section 20(3)][2787]: insert ""on conviction"" after ""liable"".
 
-[Section 23(2)][2790]: insert ""on conviction"" after ""liable"".
+[Section 23(2)][2788]: insert ""on conviction"" after ""liable"".
 
-[Section 24(2)][2791]: insert ""on conviction"" after ""liable"".
+[Section 24(2)][2789]: insert ""on conviction"" after ""liable"".
 
-[Section 28(2)][2792]: insert ""on conviction"" after ""liable"".
+[Section 28(2)][2790]: insert ""on conviction"" after ""liable"".
 
-[Section 31(2)][2793]: insert ""on conviction"" after ""liable"".
+[Section 31(2)][2791]: insert ""on conviction"" after ""liable"".
 
-[Section 33(4)][2794]: insert ""on conviction"" after ""liable"".
+[Section 33(4)][2792]: insert ""on conviction"" after ""liable"".
 
-[Section 39(3)][2795]: insert ""on conviction"" after ""liable"".
+[Section 39(3)][2793]: insert ""on conviction"" after ""liable"".
 
-[Section 42(1)][2796]: insert ""on conviction"" after ""liable"".
+[Section 42(1)][2794]: insert ""on conviction"" after ""liable"".
 
-[Section 46(2)][2797]: insert ""on conviction"" after ""liable"".
+[Section 46(2)][2795]: insert ""on conviction"" after ""liable"".
 
-[Section 47(3)][2798]: insert ""on conviction"" after ""liable"".
+[Section 47(3)][2796]: insert ""on conviction"" after ""liable"".
 
-[Section 56(3) and (4)][2799]: insert ""on conviction"" after ""liable"".
+[Section 56(3) and (4)][2797]: insert ""on conviction"" after ""liable"".
 
-[Section 57][2800]: insert ""on conviction"" after ""liable"".
+[Section 57][2798]: insert ""on conviction"" after ""liable"".
 
-[Section 58][2801]: repeal.
+[Section 58][2799]: repeal.
 
-[Section 59][2802]: repeal.
+[Section 59][2800]: repeal.
 
-##### [Primary Products Marketing Act 1953][2803] (1953 No 10)
+##### [Primary Products Marketing Act 1953][2801] (1953 No 10)
 
-[Section 14(1)][2804]: omit ""summary"".
+[Section 14(1)][2802]: omit ""summary"".
 
-##### [Prisoners' and Victims' Claims Act 2005][2805] (2005 No 74)
+##### [Prisoners' and Victims' Claims Act 2005][2803] (2005 No 74)
 
-[Section 35(2)(a)][2806]: omit ""section 71 of the Summary Proceedings Act 1957"" and substitute ""section 184 of the Criminal Procedure Act 2011"".
+[Section 35(2)(a)][2804]: omit ""section 71 of the Summary Proceedings Act 1957"" and substitute ""section 184 of the Criminal Procedure Act 2011"".
 
-[Section 35(2)(b)(i)][2806]: omit ""committed for trial or sentence"" and substitute ""to be tried or sentenced"".
+[Section 35(2)(b)(i)][2804]: omit ""committed for trial or sentence"" and substitute ""to be tried or sentenced"".
 
-[Section 39(5)][2807]: omit ""summary"".
+[Section 39(5)][2805]: omit ""summary"".
 
-[Section 43(2)][2808]: omit ""summary"".
+[Section 43(2)][2806]: omit ""summary"".
 
-##### [Privacy Act 1993][2809] (1993 No 28)
+##### [Privacy Act 1993][2807] (1993 No 28)
 
-[Section 76(4)][2810]: omit ""Subsections (1), (2), (3), and (5) of section 20 of the Summary Proceedings Act 1957 shall apply"" and substitute ""Section 159 of the Criminal Procedure Act 2011 applies"".
+[Section 76(4)][2808]: omit ""Subsections (1), (2), (3), and (5) of section 20 of the Summary Proceedings Act 1957 shall apply"" and substitute ""Section 159 of the Criminal Procedure Act 2011 applies"".
 
-[Section 91(5)(a)][2811]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 91(5)(a)][2809]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-Paragraph (d) of the definition of _fine_ in [section 103(5)][2812]: repeal.
+Paragraph (d) of the definition of _fine_ in [section 103(5)][2810]: repeal.
 
-[Section 114F][2813]: omit ""summary"".
+[Section 114F][2811]: omit ""summary"".
 
-[Section 127][2814]: omit ""summary"".
+[Section 127][2812]: omit ""summary"".
 
-Second column of the item relating to Court document processing under the heading Ministry of Justice records in [Schedule 5][2815]: insert ""or charging documents filed"" after ""laid"".
+Second column of the item relating to Court document processing under the heading Ministry of Justice records in [Schedule 5][2813]: insert ""or charging documents filed"" after ""laid"".
 
-Second column of the item relating to Details of hearings under the heading Ministry of Justice records in [Schedule 5][2815]: insert ""or charging documents filed"" after ""laid"".
+Second column of the item relating to Details of hearings under the heading Ministry of Justice records in [Schedule 5][2813]: insert ""or charging documents filed"" after ""laid"".
 
-Second column of the item relating to Enforcement of fines and other orders under the heading Ministry of Justice records in [Schedule 5][2815]: insert ""or filing a charging document"" after ""information"".
+Second column of the item relating to Enforcement of fines and other orders under the heading Ministry of Justice records in [Schedule 5][2813]: insert ""or filing a charging document"" after ""information"".
 
-Second column of the item relating to Non-performance of bail conditions under the heading Ministry of Justice records in Schedule 5: omit ""section 38(3) or section 63(3)"" and substitute ""[section 39(3)][2816]"".
+Second column of the item relating to Non-performance of bail conditions under the heading Ministry of Justice records in Schedule 5: omit ""section 38(3) or section 63(3)"" and substitute ""[section 39(3)][2814]"".
 
-##### [Private Investigators and Security Guards Act 1974][2817] (1974 No 48)
+##### [Private Investigators and Security Guards Act 1974][2815] (1974 No 48)
 
-[Section 51(4)][2818]: omit ""summary"".
+[Section 51(4)][2816]: omit ""summary"".
 
-[Section 70(2)][2819]: omit ""summary"".
+[Section 70(2)][2817]: omit ""summary"".
 
-##### [Private Security Personnel and Private Investigators Act 2010][2820] (2010 No 115)
+##### [Private Security Personnel and Private Investigators Act 2010][2818] (2010 No 115)
 
-[Section 23(2)][2821]: omit ""summary"".
+[Section 23(2)][2819]: omit ""summary"".
 
-[Section 40(5) and (6)][2822]: omit ""summary"".
+[Section 40(5) and (6)][2820]: omit ""summary"".
 
-[Section 44(2)][2823]: omit ""summary"".
+[Section 44(2)][2821]: omit ""summary"".
 
-[Section 45(3)][2824]: omit ""summary"".
+[Section 45(3)][2822]: omit ""summary"".
 
-[Section 65(3)][2825]: omit ""summary"".
+[Section 65(3)][2823]: omit ""summary"".
 
-[Section 66(3)][2826]: omit ""summary"".
+[Section 66(3)][2824]: omit ""summary"".
 
-[Section 67(5)][2827]: omit ""summary"".
+[Section 67(5)][2825]: omit ""summary"".
 
-[Section 69][2828]: omit ""summary"".
+[Section 69][2826]: omit ""summary"".
 
-[Section 70(3)][2829]: omit ""summary"".
+[Section 70(3)][2827]: omit ""summary"".
 
-[Section 104(5)][2830]: omit ""summary"".
+[Section 104(5)][2828]: omit ""summary"".
 
-[Section 105][2831]: omit ""summary"".
+[Section 105][2829]: omit ""summary"".
 
-[Section 107][2832]: omit ""summary"".
+[Section 107][2830]: omit ""summary"".
 
-[Section 109(3)][2833]: omit ""summary"".
+[Section 109(3)][2831]: omit ""summary"".
 
-##### [Property Law Act 2007][2834] (2007 No 91)
+##### [Property Law Act 2007][2832] (2007 No 91)
 
-[Section 20(4)][2835]: omit ""summary"".
+[Section 20(4)][2833]: omit ""summary"".
 
-[Section 156(3)][2836]: omit ""summary"".
+[Section 156(3)][2834]: omit ""summary"".
 
-[Section 162(4)][2837]: omit ""summary"".
+[Section 162(4)][2835]: omit ""summary"".
 
-[Section 163(4)][2838]: omit ""summary"".
+[Section 163(4)][2836]: omit ""summary"".
 
-[Section 165(4)][2839]: omit ""summary"".
+[Section 165(4)][2837]: omit ""summary"".
 
-[Section 167(4)][2840]: omit ""summary"".
+[Section 167(4)][2838]: omit ""summary"".
 
-[Section 173(3)][2841]: omit ""summary"".
+[Section 173(3)][2839]: omit ""summary"".
 
-[Section 269(3)(b)(ii)][2842]: omit and substitute:
+[Section 269(3)(b)(ii)][2840]: omit and substitute:
 
 > *   "(ii) constitutes an imprisonable offence; or".
 > 
 > 
 
-##### [Property (Relationships) Act 1976][2843] (1976 No 166)
+##### [Property (Relationships) Act 1976][2841] (1976 No 166)
 
-[Section 45(2)][2844]: omit ""summary"".
+[Section 45(2)][2842]: omit ""summary"".
 
-##### [Prostitution Reform Act 2003][2845] (2003 No 28)
+##### [Prostitution Reform Act 2003][2843] (2003 No 28)
 
-[Section 8(2)][2846]: omit ""summary"".
+[Section 8(2)][2844]: omit ""summary"".
 
-[Section 9(4)][2847]: omit ""summary"".
+[Section 9(4)][2845]: omit ""summary"".
 
-[Section 11(2)][2848]: omit ""summary"".
+[Section 11(2)][2846]: omit ""summary"".
 
-[Section 16(3)][2849]: omit ""on indictment"".
+[Section 16(3)][2847]: omit ""on indictment"".
 
-[Section 23(1)][2850]: omit ""on indictment"".
+[Section 23(1)][2848]: omit ""on indictment"".
 
-[Section 29][2851]: omit ""summary"".
+[Section 29][2849]: omit ""summary"".
 
-[Section 34(2)][2852]: omit ""summary"".
+[Section 34(2)][2850]: omit ""summary"".
 
-[Section 39(3)][2853]: omit ""summary"".
+[Section 39(3)][2851]: omit ""summary"".
 
-[Section 40(2)][2854]: omit ""summary"".
+[Section 40(2)][2852]: omit ""summary"".
 
-[Section 41(3)][2855]: omit ""summary"".
+[Section 41(3)][2853]: omit ""summary"".
 
-##### [Protected Objects Act 1975][2856] (1975 No 41)
+##### [Protected Objects Act 1975][2854] (1975 No 41)
 
-[Section 5(2)][2857]: omit ""summary"".
+[Section 5(2)][2855]: omit ""summary"".
 
-[Section 11(9)][2858]: omit ""summary"".
+[Section 11(9)][2856]: omit ""summary"".
 
-[Section 13(4)][2859]: omit ""summary"".
+[Section 13(4)][2857]: omit ""summary"".
 
-[Section 14(7)][2860]: omit ""summary"".
+[Section 14(7)][2858]: omit ""summary"".
 
-[Section 14A(2)][2861]: omit ""summary"".
+[Section 14A(2)][2859]: omit ""summary"".
 
-[Section 15(7)][2862]: omit ""summary"".
+[Section 15(7)][2860]: omit ""summary"".
 
-[Section 16(4)][2863]: omit ""summary"".
+[Section 16(4)][2861]: omit ""summary"".
 
-[Section 17(2)][2864]: omit ""summary"".
+[Section 17(2)][2862]: omit ""summary"".
 
-[Section 18(2)][2865]: omit ""summary"".
+[Section 18(2)][2863]: omit ""summary"".
 
-[Section 18A][2866]: omit ""summary"".
+[Section 18A][2864]: omit ""summary"".
 
-##### [Protection of Personal and Property Rights Act 1988][2867] (1988 No 4)
+##### [Protection of Personal and Property Rights Act 1988][2865] (1988 No 4)
 
-[Section 45(3)][2868]: omit ""on indictment"".
+[Section 45(3)][2866]: omit ""on indictment"".
 
-[Section 45(4)][2868]: omit ""summary"".
+[Section 45(4)][2866]: omit ""summary"".
 
-[Section 71(2)][2869]: omit ""Subsections (1), (2), (3), and (5) of section 20 of the Summary Proceedings Act 1957 shall apply"" and substitute ""Section 159 of the Criminal Procedure Act 2011 applies"".
+[Section 71(2)][2867]: omit ""Subsections (1), (2), (3), and (5) of section 20 of the Summary Proceedings Act 1957 shall apply"" and substitute ""Section 159 of the Criminal Procedure Act 2011 applies"".
 
-[Section 78(4)][2870]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
+[Section 78(4)][2868]: omit ""Sections 20, 38, and 39 of the Summary Proceedings Act 1957"" and substitute ""Sections 159 and 161 to 165 of the Criminal Procedure Act 2011"".
 
-[Section 99C(2)][2871]: omit ""summary"".
+[Section 99C(2)][2869]: omit ""summary"".
 
-[Section 103C(7)][2872]: omit ""summary"".
+[Section 103C(7)][2870]: omit ""summary"".
 
-##### [Public Audit Act 2001][2873] (2001 No 10)
+##### [Public Audit Act 2001][2871] (2001 No 10)
 
-[Section 39(2)][2874]: omit ""summary"".
+[Section 39(2)][2872]: omit ""summary"".
 
-[Section 40(1)][2875]: repeal and substitute:
+[Section 40(1)][2873]: repeal and substitute:
 
 > *   "(1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed."
 > 
 > 
 
-[Section 40(2)][2875]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 40(2)][2873]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Public Bodies Leases Act 1969][2876] (1969 No 141)
+##### [Public Bodies Leases Act 1969][2874] (1969 No 141)
 
-[Section 16(2)][2877]: omit ""summary"".
+[Section 16(2)][2875]: omit ""summary"".
 
 ##### [Public Finance Act 1989][841] (1989 No 44)
 
-[Section 77(1) and (2)][2878]: omit ""summary"".
+[Section 77(1) and (2)][2876]: omit ""summary"".
 
-[Section 78][2879]: repeal and substitute:
+[Section 78][2877]: repeal and substitute:
 
 > ##### "78 Time for commencing proceedings
 >     
@@ -14180,99 +14172,89 @@ Second column of the item relating to Non-performance of bail conditions under t
 > 
 > 
 
-##### [Public Service Investment Society Management Act (No 2) 1979][2880] (1979 No 9)
+##### [Public Service Investment Society Management Act (No 2) 1979][2878] (1979 No 9)
 
-[Section 16(2)][2881]: omit ""summary"".
+[Section 16(2)][2879]: omit ""summary"".
 
-[Section 22(1)][2882]: omit ""on indictment"".
+[Section 22(1)][2880]: omit ""on indictment"".
 
-##### [Public Transport Management Act 2008][2883] (2008 No 87)
+##### [Public Works Act 1981][2881] (1981 No 35)
 
-[Section 57][2884]: omit ""summary"".
+[Section 133(7)][2882]: omit ""summary"".
 
-[Section 58][2885]: omit ""summary"".
+[Section 179(2)][2883]: omit ""summary"".
 
-[Section 59(1)][2886]: omit ""summary"".
+[Section 180(3)][2884]: omit ""summary"".
 
-[Section 60(1)][2887]: omit ""summary"".
+[Section 181(2)][2885]: omit ""summary"".
 
-##### [Public Works Act 1981][2888] (1981 No 35)
+[Section 182(2)][2886]: omit ""summary"".
 
-[Section 133(7)][2889]: omit ""summary"".
+[Section 183(3)][2887]: omit ""summary"".
 
-[Section 179(2)][2890]: omit ""summary"".
+[Section 185][2888]: omit ""summary"".
 
-[Section 180(3)][2891]: omit ""summary"".
+[Section 242(2)][2889]: omit ""summary"".
 
-[Section 181(2)][2892]: omit ""summary"".
+##### [Queen Elizabeth the Second National Trust Act 1977][2890] (1977 No 102)
 
-[Section 182(2)][2893]: omit ""summary"".
+[Section 34(5)][2891]: omit ""summary"".
 
-[Section 183(3)][2894]: omit ""summary"".
+##### [Racing Act 2003][2892] (2003 No 3)
 
-[Section 185][2895]: omit ""summary"".
+[Section 35(3)][2893]: omit ""summary"".
 
-[Section 242(2)][2896]: omit ""summary"".
+[Section 49(2)][2894]: omit ""summary"".
 
-##### [Queen Elizabeth the Second National Trust Act 1977][2897] (1977 No 102)
+[Section 51(5)][2895]: omit ""summary"".
 
-[Section 34(5)][2898]: omit ""summary"".
+[Section 63(5)][2896]: omit ""summary"".
 
-##### [Racing Act 2003][2899] (2003 No 3)
+[Section 63A(3)][2897]: omit ""summary"".
 
-[Section 35(3)][2900]: omit ""summary"".
+##### [Radiation Protection Act 1965][2898] (1965 No 23)
 
-[Section 49(2)][2901]: omit ""summary"".
+[Section 26(2)][2899]: omit ""summary"".
 
-[Section 51(5)][2902]: omit ""summary"".
+##### [Radio New Zealand Act 1995][2900] (1995 No 52)
 
-[Section 63(5)][2903]: omit ""summary"".
+[Section 18(3)][2901]: omit ""summary"".
 
-[Section 63A(3)][2904]: omit ""summary"".
+##### [Radiocommunications Act 1989][2902] (1989 No 148)
 
-##### [Radiation Protection Act 1965][2905] (1965 No 23)
+[Section 66(4)][2903]: omit ""summary"".
 
-[Section 26(2)][2906]: omit ""summary"".
+[Section 128(1)][2904]: omit ""summary"".
 
-##### [Radio New Zealand Act 1995][2907] (1995 No 52)
-
-[Section 18(3)][2908]: omit ""summary"".
-
-##### [Radiocommunications Act 1989][2909] (1989 No 148)
-
-[Section 66(4)][2910]: omit ""summary"".
-
-[Section 128(1)][2911]: omit ""summary"".
-
-[Section 128A(a)][2912]: repeal and substitute:
+[Section 128A(a)][2905]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 134A(2)][2913]: omit ""summary"".
+[Section 134A(2)][2906]: omit ""summary"".
 
-##### [Railways Act 2005][2914] (2005 No 37)
+##### [Railways Act 2005][2907] (2005 No 37)
 
-[Section 61(1) and (2)][2915]: omit ""summary"".
+[Section 61(1) and (2)][2908]: omit ""summary"".
 
-[Section 62(1) and (2)][2916]: omit ""summary"".
+[Section 62(1) and (2)][2909]: omit ""summary"".
 
-[Section 63(1) and (2)][2917]: omit ""summary"".
+[Section 63(1) and (2)][2910]: omit ""summary"".
 
-[Section 64][2918]: omit ""summary"".
+[Section 64][2911]: omit ""summary"".
 
-[Section 90(1)][2919]: omit ""by way of case stated for the opinion of the High Court"".
+[Section 90(1)][2912]: omit ""by way of case stated for the opinion of the High Court"".
 
-[Section 90(3)][2919]: repeal and substitute:
+[Section 90(3)][2912]: repeal and substitute:
 
 > *   "(3) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section."
 > 
 > 
 
-[Section 92(1)(a) and (b)][2920]: omit ""summary"".
+[Section 92(1)(a) and (b)][2913]: omit ""summary"".
 
-[Section 95][2921]: repeal and substitute:
+[Section 95][2914]: repeal and substitute:
 
 > ##### "95 Who may file charging document for offence
 >     
@@ -14280,7 +14262,7 @@ Second column of the item relating to Non-performance of bail conditions under t
 > 
 > 
 
-[Section 98][2922]: repeal and substitute:
+[Section 98][2915]: repeal and substitute:
 
 > ##### "98 Infringement offences
 >     
@@ -14294,121 +14276,121 @@ Second column of the item relating to Non-performance of bail conditions under t
 > 
 > 
 
-[Section 99(3)][2923]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 99(3)][2916]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Rangitaiki Land Drainage Act 1956][2924] (1956 No 34)
+##### [Rangitaiki Land Drainage Act 1956][2917] (1956 No 34)
 
-[Section 10(4)][2925]: omit ""summary"".
+[Section 10(4)][2918]: omit ""summary"".
 
-##### [Rates Rebate Act 1973][2926] (1973 No 5)
+##### [Rates Rebate Act 1973][2919] (1973 No 5)
 
-[Section 14(2)][2927]: omit ""summary"".
+[Section 14(2)][2920]: omit ""summary"".
 
-[Section 14(3)][2927]: repeal and substitute:
+[Section 14(3)][2920]: repeal and substitute:
 
 > *   "(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of any officer of the Department of Internal Affairs concerned in the administration of this Act."
 > 
 > 
 
-##### [Rating Valuations Act 1998][2928] (1998 No 69)
+##### [Rating Valuations Act 1998][2921] (1998 No 69)
 
-[Section 45(8)][2929]: omit ""summary"".
+[Section 45(8)][2922]: omit ""summary"".
 
-##### [Real Estate Agents Act 2008][2930] (2008 No 66)
+##### [Real Estate Agents Act 2008][2923] (2008 No 66)
 
-[Section 138][2931]: insert ""on conviction"" after ""liable"".
+[Section 138][2924]: insert ""on conviction"" after ""liable"".
 
-[Section 140][2932]: repeal.
+[Section 140][2925]: repeal.
 
-[Section 145(2)][2933]: insert ""on conviction"" after ""liable"".
+[Section 145(2)][2926]: insert ""on conviction"" after ""liable"".
 
-[Section 148(2)][2934]: insert ""on conviction"" after ""liable"".
+[Section 148(2)][2927]: insert ""on conviction"" after ""liable"".
 
-[Section 152(2)][2935]: insert ""on conviction"" after ""liable"".
+[Section 152(2)][2928]: insert ""on conviction"" after ""liable"".
 
-[Schedule 1][2936], clause 7(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 1][2929], clause 7(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Schedule 1][2936], clause 8(2): omit ""indictment for"" and substitute ""charge of"".
+[Schedule 1][2929], clause 8(2): omit ""indictment for"" and substitute ""charge of"".
 
-##### [Receiverships Act 1993][2937] (1993 No 122)
+##### [Receiverships Act 1993][2930] (1993 No 122)
 
-[Section 5(3)][2938]: omit ""summary"".
+[Section 5(3)][2931]: omit ""summary"".
 
-[Section 8(4)][2939]: omit ""summary"".
+[Section 8(4)][2932]: omit ""summary"".
 
-[Section 10(4)][2940]: omit ""summary"".
+[Section 10(4)][2933]: omit ""summary"".
 
-[Section 11(8)][2941]: omit ""summary"".
+[Section 11(8)][2934]: omit ""summary"".
 
-[Section 23(4)][2942]: omit ""summary"".
+[Section 23(4)][2935]: omit ""summary"".
 
-[Section 24(4)][2943]: omit ""summary"".
+[Section 24(4)][2936]: omit ""summary"".
 
-[Section 26(5)][2944]: omit ""summary"".
+[Section 26(5)][2937]: omit ""summary"".
 
-[Section 28(2)][2945]: omit ""summary"".
+[Section 28(2)][2938]: omit ""summary"".
 
-[Section 29(2)][2946]: omit ""summary"".
+[Section 29(2)][2939]: omit ""summary"".
 
-##### [Referenda (Postal Voting) Act 2000][2947] (2000 No 48)
+##### [Referenda (Postal Voting) Act 2000][2940] (2000 No 48)
 
-[Section 64(1), (2), and (3)][2948]: omit ""summary"".
+[Section 64(1), (2), and (3)][2941]: omit ""summary"".
 
-[Section 65(1) and (2)][2949]: omit ""summary"".
+[Section 65(1) and (2)][2942]: omit ""summary"".
 
-[Section 66(2)][2950]: omit ""summary"".
+[Section 66(2)][2943]: omit ""summary"".
 
-[Section 67][2951]: omit ""summary"".
+[Section 67][2944]: omit ""summary"".
 
-[Section 68(2)][2952]: omit ""on indictment"".
+[Section 68(2)][2945]: omit ""on indictment"".
 
-[Section 74(1), (2) and (3)][2953]: omit ""summary"".
+[Section 74(1), (2) and (3)][2946]: omit ""summary"".
 
-[Section 76(1) and (2)][2954]: omit ""summary"".
+[Section 76(1) and (2)][2947]: omit ""summary"".
 
-##### [Registered Architects Act 2005][2955] (2005 No 38)
+##### [Registered Architects Act 2005][2948] (2005 No 38)
 
-[Section 7(4)][2956]: omit ""summary"".
+[Section 7(4)][2949]: omit ""summary"".
 
-[Section 34(1)][2957]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 34(1)][2950]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 35(2)][2958]: omit ""summary"".
+[Section 35(2)][2951]: omit ""summary"".
 
-[Section 46(3)][2959]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 46(3)][2952]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Remuneration Authority Act 1977][2960] (1977 No 110)
+##### [Remuneration Authority Act 1977][2953] (1977 No 110)
 
-[Section 9(2)][2961]: omit ""summary"".
+[Section 9(2)][2954]: omit ""summary"".
 
-##### [Reserve Bank of New Zealand Act 1989][2962] (1989 No 157)
+##### [Reserve Bank of New Zealand Act 1989][2955] (1989 No 157)
 
-[Section 28(3)][2963]: omit ""summary"".
+[Section 28(3)][2956]: omit ""summary"".
 
-[Section 29(2)][2964]: omit ""on indictment"".
+[Section 29(2)][2957]: omit ""on indictment"".
 
-[Section 66M(1)][2965]: omit ""summary"".
+[Section 66M(1)][2958]: omit ""summary"".
 
-[Section 156AA(1)][2966]: omit ""summary"".
+[Section 156AA(1)][2959]: omit ""summary"".
 
-[Section 156AB(1)][2967]: omit ""summary"".
+[Section 156AB(1)][2960]: omit ""summary"".
 
-[Section 156AC(1)][2968]: omit ""summary"".
+[Section 156AC(1)][2961]: omit ""summary"".
 
-[Section 156J(1)][2969]: omit ""summary"".
+[Section 156J(1)][2962]: omit ""summary"".
 
-[Section 156ZQ(1)][2970]: omit ""summary"".
+[Section 156ZQ(1)][2963]: omit ""summary"".
 
-[Section 157ZP][2971]: omit ""summary"".
+[Section 157ZP][2964]: omit ""summary"".
 
-[Section 157ZU(1)][2972]: omit ""defendant be discharged"" and substitute ""charge against the defendant be dismissed"".
+[Section 157ZU(1)][2965]: omit ""defendant be discharged"" and substitute ""charge against the defendant be dismissed"".
 
-[Section 157ZU(3)][2972]: omit ""A discharge"" and substitute ""The dismissal of a charge"".
+[Section 157ZU(3)][2965]: omit ""A discharge"" and substitute ""The dismissal of a charge"".
 
-[Section 157ZX(1), (2), (3), and (4)][2973]: omit ""summary"".
+[Section 157ZX(1), (2), (3), and (4)][2966]: omit ""summary"".
 
-[Section 176][2974]: omit ""summary"".
+[Section 176][2967]: omit ""summary"".
 
-[Section 177][2975]: repeal and substitute:
+[Section 177][2968]: repeal and substitute:
 
 > ##### "177 Time for filing charging document
 >     
@@ -14422,17 +14404,17 @@ Second column of the item relating to Non-performance of bail conditions under t
 > 
 > 
 
-##### [Reserves Act 1977][2976] (1977 No 66)
+##### [Reserves Act 1977][2969] (1977 No 66)
 
-[Section 94(5) and (6)][2977]: omit ""summarily"".
+[Section 94(5) and (6)][2970]: omit ""summarily"".
 
-[Section 95(2)][2978]: omit ""information"" and substitute ""charge"".
+[Section 95(2)][2971]: omit ""information"" and substitute ""charge"".
 
-[Section 96(3)][2979]: omit ""summarily"".
+[Section 96(3)][2972]: omit ""summarily"".
 
-[Section 97(2)][2980]: omit ""summarily"".
+[Section 97(2)][2973]: omit ""summarily"".
 
-[Section 99][2981]: repeal and substitute:
+[Section 99][2974]: repeal and substitute:
 
 > ##### "99 Time for filing charging document
 >     
@@ -14440,47 +14422,47 @@ Second column of the item relating to Non-performance of bail conditions under t
 > 
 > 
 
-[Section 101(1)][2982]: omit ""All offences against this Act or any regulations or bylaws under this Act shall be punishable on summary conviction on the information of"" and substitute ""All charging documents in respect of offences against this Act or any regulations or bylaws under it must be filed in the name of"".
+[Section 101(1)][2975]: omit ""All offences against this Act or any regulations or bylaws under this Act shall be punishable on summary conviction on the information of"" and substitute ""All charging documents in respect of offences against this Act or any regulations or bylaws under it must be filed in the name of"".
 
-[Section 101(2)][2982]: omit ""laying an information"" and substitute ""filing a charging document"".
+[Section 101(2)][2975]: omit ""laying an information"" and substitute ""filing a charging document"".
 
-[Section 101(2)][2982]: omit ""lay informations"" and substitute ""file charging documents"".
+[Section 101(2)][2975]: omit ""lay informations"" and substitute ""file charging documents"".
 
-[Section 101(3)][2982]: omit ""informant"" and substitute ""person who filed the charging document"".
+[Section 101(3)][2975]: omit ""informant"" and substitute ""person who filed the charging document"".
 
-[Section 105][2983]: omit ""on the information of"" in each place where it appears and substitute in each case ""in respect of a charging document filed in the name of"".
+[Section 105][2976]: omit ""on the information of"" in each place where it appears and substitute in each case ""in respect of a charging document filed in the name of"".
 
-##### [Reserves and Other Lands Disposal and Public Bodies Empowering Act 1915][2984] (1915 No 68)
+##### [Reserves and Other Lands Disposal and Public Bodies Empowering Act 1915][2977] (1915 No 68)
 
-[Section 5(3)][2985]: omit ""summary"".
+[Section 5(3)][2978]: omit ""summary"".
 
-##### [Reserves and other Lands Disposal and Public Bodies Empowering Act 1921-22][2986] (1921-22 No 59)
+##### [Reserves and other Lands Disposal and Public Bodies Empowering Act 1921-22][2979] (1921-22 No 59)
 
-[Section 126(2)][2987]: omit ""summary"".
+[Section 126(2)][2980]: omit ""summary"".
 
-##### [Residential Tenancies Act 1986][2988] (1986 No 120)
+##### [Residential Tenancies Act 1986][2981] (1986 No 120)
 
-[Section 48(6)][2989]: insert ""on conviction"" after ""liable"".
+[Section 48(6)][2982]: insert ""on conviction"" after ""liable"".
 
-[Section 63(2)][2990]: insert ""on conviction"" after ""liable"".
+[Section 63(2)][2983]: insert ""on conviction"" after ""liable"".
 
-[Section 70][2991]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
+[Section 70][2984]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
 
-[Section 90(1)][2992]: insert ""on conviction"" after ""liable"".
+[Section 90(1)][2985]: insert ""on conviction"" after ""liable"".
 
-[Section 109A(5)][2993]: omit ""summary"".
+[Section 109A(5)][2986]: omit ""summary"".
 
-[Section 110(1)][2994]: omit ""summary"".
+[Section 110(1)][2987]: omit ""summary"".
 
-[Section 111][2995]: omit ""indictment"" and substitute ""conviction"".
+[Section 111][2988]: omit ""indictment"" and substitute ""conviction"".
 
-[Section 112(1)][2996]: omit ""summary"".
+[Section 112(1)][2989]: omit ""summary"".
 
-[Section 114(7)][2997]: insert ""on conviction"" after ""liable"".
+[Section 114(7)][2990]: insert ""on conviction"" after ""liable"".
 
-[Section 133(2)][2998]: insert ""on conviction"" after ""liable"".
+[Section 133(2)][2991]: insert ""on conviction"" after ""liable"".
 
-[Section 138][2999]: repeal and substitute:
+[Section 138][2992]: repeal and substitute:
 
 > ##### "138 Time for filing charging document
 >     
@@ -14488,95 +14470,95 @@ Second column of the item relating to Non-performance of bail conditions under t
 > 
 > 
 
-##### [Resource Management Act 1991][3000] (1991 No 69)
+##### [Resource Management Act 1991][2993] (1991 No 69)
 
-[Section 308(1)][3001]: repeal and substitute:
+[Section 308(1)][2994]: repeal and substitute:
 
 > *   "(1) Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court under section 299 as if the decision had been made under section 300 of that Act."
 > 
 > 
 
-[Section 338(4)][3002]: repeal and substitute:
+[Section 338(4)][2995]: repeal and substitute:
 
 > *   "(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1), (1A), or (1B) ends on the date that is 6 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the local authority or consent authority."
 > 
 > 
 
-[Section 339(2) and (3)][3003]: omit ""summary"".
+[Section 339(2) and (3)][2996]: omit ""summary"".
 
-[Section 339C(2)][3004]: omit ""where a local authority caused the information in respect of that offence to be laid"" and substitute ""if the proceedings in relation to the offence were commenced by or on behalf of a local authority"".
+[Section 339C(2)][2997]: omit ""where a local authority caused the information in respect of that offence to be laid"" and substitute ""if the proceedings in relation to the offence were commenced by or on behalf of a local authority"".
 
-[Section 342(1)][3005]: omit ""information for that offence was laid"" and substitute ""proceedings in relation to the offence were commenced by or"".
+[Section 342(1)][2998]: omit ""information for that offence was laid"" and substitute ""proceedings in relation to the offence were commenced by or"".
 
-[Section 343B(a)][3006]: repeal and substitute:
+[Section 343B(a)][2999]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 343C(2)][3007]: omit ""for the purposes of the Summary Proceedings Act 1957,"".
+[Section 343C(2)][3000]: omit ""for the purposes of the Summary Proceedings Act 1957,"".
 
-[Section 352A(1)][3008]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 352A(1)][3001]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 352A(2)][3008]: omit ""section 24 of the Summary Proceedings Act 1957"" and substitute ""rules made under the Criminal Procedure Act 2011"".
+[Section 352A(2)][3001]: omit ""section 24 of the Summary Proceedings Act 1957"" and substitute ""rules made under the Criminal Procedure Act 2011"".
 
-Definition of _Registrar_ in [section 352A(4)][3008]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+Definition of _Registrar_ in [section 352A(4)][3001]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Resource Management (Simplifying and Streamlining) Amendment Act 2009][3009] (2009 No 31)
+##### [Resource Management (Simplifying and Streamlining) Amendment Act 2009][3002] (2009 No 31)
 
-[Section 158(1)][3010]: omit ""an information"" and substitute ""a charging document"".
+[Section 158(1)][3003]: omit ""an information"" and substitute ""a charging document"".
 
-[Section 158(1)][3010]: omit ""laid"" in each place where it appears and substitute in each case ""filed"".
+[Section 158(1)][3003]: omit ""laid"" in each place where it appears and substitute in each case ""filed"".
 
-[Section 158(2)][3010]: omit ""information"" and substitute ""charge"".
+[Section 158(2)][3003]: omit ""information"" and substitute ""charge"".
 
-[Section 158(3)][3010]: omit ""laying an information"" and substitute ""filing a charging document"".
+[Section 158(3)][3003]: omit ""laying an information"" and substitute ""filing a charging document"".
 
-##### [Retirement Villages Act 2003][3011] (2003 No 112)
+##### [Retirement Villages Act 2003][3004] (2003 No 112)
 
-[Section 79][3012]: omit ""summary"" in each place where it appears.
+[Section 79][3005]: omit ""summary"" in each place where it appears.
 
-##### [River Boards Act 1908][3013] (1908 No 165)
+##### [River Boards Act 1908][3006] (1908 No 165)
 
-[Section 4(d)][3014]: omit ""exercising summary jurisdiction"".
+[Section 4(d)][3007]: omit ""exercising summary jurisdiction"".
 
-[Section 79][3015]: omit ""summary"".
+[Section 79][3008]: omit ""summary"".
 
-[Section 117(1)][3016]: omit ""in a summary way"".
+[Section 117(1)][3009]: omit ""in a summary way"".
 
-##### [River Boards Amendment Act 1952][3017] (1952 No 48)
+##### [River Boards Amendment Act 1952][3010] (1952 No 48)
 
-[Section 5(2)][3018]: omit ""summary"".
+[Section 5(2)][3011]: omit ""summary"".
 
-##### [Road User Charges Act 1977][3019] (1977 No 124)
+##### [Road User Charges Act 1977][3012] (1977 No 124)
 
-[Section 18B(1)][3020]: omit ""section 20(4) of the Summary Proceedings Act 1957"" and substitute ""section 161 of the Criminal Procedure Act 2011"".
+[Section 18B(1)][3013]: omit ""section 20(4) of the Summary Proceedings Act 1957"" and substitute ""section 161 of the Criminal Procedure Act 2011"".
 
-[Section 23(1), (1A), (2), and (4A)][3021]: omit ""summary"".
+[Section 23(1), (1A), (2), and (4A)][3014]: omit ""summary"".
 
-[Section 23(5)][3021]: repeal and substitute:
+[Section 23(5)][3014]: repeal and substitute:
 
 > *   "(5) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 2 years after the date on which the offence was committed."
 > 
 > 
 
-##### [Rugby World Cup 2011 (Empowering) Act 2010][3022] (2010 No 123)
+##### [Rugby World Cup 2011 (Empowering) Act 2010][3015] (2010 No 123)
 
-[Section 47(3)][3023]: omit ""summary"".
+[Section 47(3)][3016]: omit ""summary"".
 
-[Section 87(1)][3024]: insert ""on conviction"" after ""liable"".
+[Section 87(1)][3017]: insert ""on conviction"" after ""liable"".
 
-[Section 91(1)][3025]: repeal.
+[Section 91(1)][3018]: repeal.
 
-##### [Rural Intermediate Credit Act 1927][3026] (1927 No 45)
+##### [Rural Intermediate Credit Act 1927][3019] (1927 No 45)
 
-[Section 74(2)][3027]: omit ""summary"".
+[Section 74(2)][3020]: omit ""summary"".
 
-##### [Sale of Liquor Act 1989][3028] (1989 No 63)
+##### [Sale of Liquor Act 1989][3021] (1989 No 63)
 
-[Section 94(2)][3029]: insert ""on conviction"" after ""liable"".
+[Section 94(2)][3022]: insert ""on conviction"" after ""liable"".
 
-[Section 112(3)][3030]: repeal and substitute:
+[Section 112(3)][3023]: repeal and substitute:
 
 > *   "(3) The High Court may order the removal into the Court of Appeal of any case stated under this section; and on the removal the Court of Appeal has the same power to adjudicate on the proceedings as the High Court had.
 > 
@@ -14586,129 +14568,129 @@ Definition of _Registrar_ in [section 352A(4)][3008]: omit ""Summary Proceedings
 > 
 > 
 
-[Section 131(4) and (5)][3031]: insert ""on conviction"" after ""liable"".
+[Section 131(4) and (5)][3024]: insert ""on conviction"" after ""liable"".
 
-[Section 151][3032]: insert ""on conviction"" after ""liable"".
+[Section 151][3025]: insert ""on conviction"" after ""liable"".
 
-[Section 152][3033]: insert ""on conviction"" after ""liable"".
+[Section 152][3026]: insert ""on conviction"" after ""liable"".
 
-[Section 153(1)][3034]: insert ""on conviction"" after ""liable"".
+[Section 153(1)][3027]: insert ""on conviction"" after ""liable"".
 
-[Section 154(1)][3035]: insert ""on conviction"" after ""liable"".
+[Section 154(1)][3028]: insert ""on conviction"" after ""liable"".
 
-[Section 154A][3036]: insert ""on conviction"" after ""liable"".
+[Section 154A][3029]: insert ""on conviction"" after ""liable"".
 
-[Section 155(1) and (2)][3037]: insert ""on conviction"" after ""liable"".
+[Section 155(1) and (2)][3030]: insert ""on conviction"" after ""liable"".
 
-[Section 160(1)][3038]: insert ""on conviction"" after ""liable"".
+[Section 160(1)][3031]: insert ""on conviction"" after ""liable"".
 
-[Section 161(2)][3039]: insert ""on conviction"" after ""liable"".
+[Section 161(2)][3032]: insert ""on conviction"" after ""liable"".
 
-[Section 162B(a)][3040]: repeal and substitute:
+[Section 162B(a)][3033]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 162C(2)][3041]: omit ""for the purposes of the Summary Proceedings Act 1957,"".
+[Section 162C(2)][3034]: omit ""for the purposes of the Summary Proceedings Act 1957,"".
 
-[Section 163(1) and (2)][3042]: insert ""on conviction"" after ""liable"".
+[Section 163(1) and (2)][3035]: insert ""on conviction"" after ""liable"".
 
-[Section 164(1)][3043]: insert ""on conviction"" after ""liable"".
+[Section 164(1)][3036]: insert ""on conviction"" after ""liable"".
 
-[Section 165(1)][3044]: insert ""on conviction"" after ""liable"".
+[Section 165(1)][3037]: insert ""on conviction"" after ""liable"".
 
-[Section 166(1) and (2)][3045]: insert ""on conviction"" after ""liable"".
+[Section 166(1) and (2)][3038]: insert ""on conviction"" after ""liable"".
 
-[Section 167(1)][3046]: insert ""on conviction"" after ""liable"".
+[Section 167(1)][3039]: insert ""on conviction"" after ""liable"".
 
-[Section 168(1)][3047]: insert ""on conviction"" after ""liable"".
+[Section 168(1)][3040]: insert ""on conviction"" after ""liable"".
 
-[Section 169(1)][3048]: insert ""on conviction"" after ""liable"".
+[Section 169(1)][3041]: insert ""on conviction"" after ""liable"".
 
-[Section 170(1)][3049]: insert ""on conviction"" after ""liable"".
+[Section 170(1)][3042]: insert ""on conviction"" after ""liable"".
 
-[Section 171][3050]: insert ""on conviction"" after ""liable"".
+[Section 171][3043]: insert ""on conviction"" after ""liable"".
 
-[Section 172(1) and (2)][3051]: insert ""on conviction"" after ""liable"".
+[Section 172(1) and (2)][3044]: insert ""on conviction"" after ""liable"".
 
-[Section 172A][3052]: insert ""on conviction"" after ""liable"".
+[Section 172A][3045]: insert ""on conviction"" after ""liable"".
 
-[Section 173(4) and (5)][3053]: insert ""on conviction"" after ""liable"".
+[Section 173(4) and (5)][3046]: insert ""on conviction"" after ""liable"".
 
-[Section 174(6) and (7)][3054]: insert ""on conviction"" after ""liable"".
+[Section 174(6) and (7)][3047]: insert ""on conviction"" after ""liable"".
 
-[Section 175(4) and (5)][3055]: insert ""on conviction"" after ""liable"".
+[Section 175(4) and (5)][3048]: insert ""on conviction"" after ""liable"".
 
-[Section 176(4)][3056]: insert ""on conviction"" after ""liable"".
+[Section 176(4)][3049]: insert ""on conviction"" after ""liable"".
 
-[Section 182][3057]: repeal.
+[Section 182][3050]: repeal.
 
-[Section 184(1)][3058]: repeal and substitute:
+[Section 184(1)][3051]: repeal and substitute:
 
 > *   "(1) Any person who files a charging document in respect of an offence against this Act against a manager of any licensed premises must send a copy of the charging document to the licensee."
 > 
 > 
 
-[Section 200(4)][3059]: insert ""on conviction"" after ""liable"".
+[Section 200(4)][3052]: insert ""on conviction"" after ""liable"".
 
-##### [Seamen's Union Funds Act 1971][3060] (1971 No 71)
+##### [Seamen's Union Funds Act 1971][3053] (1971 No 71)
 
-[Section 8(2)][3061]: omit ""summary"".
+[Section 8(2)][3054]: omit ""summary"".
 
-##### [Secondhand Dealers and Pawnbrokers Act 2004][3062] (2004 No 70)
+##### [Secondhand Dealers and Pawnbrokers Act 2004][3055] (2004 No 70)
 
-[Section 6(6)][3063]: omit ""summary"".
+[Section 6(6)][3056]: omit ""summary"".
 
-[Section 7(3)][3064]: omit ""summary"".
+[Section 7(3)][3057]: omit ""summary"".
 
-[Section 16(5)][3065]: omit ""summary"".
+[Section 16(5)][3058]: omit ""summary"".
 
-[Section 17(4)][3066]: omit ""summary"".
+[Section 17(4)][3059]: omit ""summary"".
 
-[Section 20(1) and (3)][3067]: omit ""summary"".
+[Section 20(1) and (3)][3060]: omit ""summary"".
 
-[Section 31(4)][3068]: omit ""summary"".
+[Section 31(4)][3061]: omit ""summary"".
 
-[Section 32(2)][3069]: omit ""summary"".
+[Section 32(2)][3062]: omit ""summary"".
 
-[Section 33(4)][3070]: omit ""summary"".
+[Section 33(4)][3063]: omit ""summary"".
 
-[Section 36(3)][3071]: omit ""summary"".
+[Section 36(3)][3064]: omit ""summary"".
 
-[Section 37(5)][3072]: omit ""summary"".
+[Section 37(5)][3065]: omit ""summary"".
 
-[Section 38(3)][3073]: omit ""summary"".
+[Section 38(3)][3066]: omit ""summary"".
 
-[Section 39(3)][3074]: omit ""summary"".
+[Section 39(3)][3067]: omit ""summary"".
 
-[Section 40(3)][3075]: omit ""summary"".
+[Section 40(3)][3068]: omit ""summary"".
 
-[Section 41(2)][3076]: omit ""summary"".
+[Section 41(2)][3069]: omit ""summary"".
 
-[Section 42(5)][3077]: omit ""summary"".
+[Section 42(5)][3070]: omit ""summary"".
 
-[Section 44(4)][3078]: omit ""summary"".
+[Section 44(4)][3071]: omit ""summary"".
 
-[Section 45(3)][3079]: omit ""summary"".
+[Section 45(3)][3072]: omit ""summary"".
 
-[Section 50(1) and (2)][3080]: omit ""summary"".
+[Section 50(1) and (2)][3073]: omit ""summary"".
 
-[Section 51(4)][3081]: omit ""summary"".
+[Section 51(4)][3074]: omit ""summary"".
 
-[Section 53(4)][3082]: omit ""summary"".
+[Section 53(4)][3075]: omit ""summary"".
 
-[Section 54(3)][3083]: omit ""summary"".
+[Section 54(3)][3076]: omit ""summary"".
 
-[Section 67(1) and (2)][3084]: omit ""summary"".
+[Section 67(1) and (2)][3077]: omit ""summary"".
 
-[Section 68(6)][3085]: omit ""summary"".
+[Section 68(6)][3078]: omit ""summary"".
 
-[Section 69(5)][3086]: omit ""summary"".
+[Section 69(5)][3079]: omit ""summary"".
 
-##### [Secret Commissions Act 1910][3087] (1910 No 40)
+##### [Secret Commissions Act 1910][3080] (1910 No 40)
 
-[Section 12][3088]: repeal and substitute:
+[Section 12][3081]: repeal and substitute:
 
 > ##### "12 Consent of Attorney-General necessary for prosecution
 >     
@@ -14726,7 +14708,7 @@ Definition of _Registrar_ in [section 352A(4)][3008]: omit ""Summary Proceedings
 > 
 > 
 
-[Section 13][3089]: repeal and substitute:
+[Section 13][3082]: repeal and substitute:
 
 > ##### "13 Penalty on conviction
 >     
@@ -14734,13 +14716,13 @@ Definition of _Registrar_ in [section 352A(4)][3008]: omit ""Summary Proceedings
 > 
 > 
 
-[Section 14][3090]: repeal.
+[Section 14][3083]: repeal.
 
-##### [Securities Act 1978][3091] (1978 No 103)
+##### [Securities Act 1978][3084] (1978 No 103)
 
-[Section 38B(5)][3092]: omit ""summary"".
+[Section 38B(5)][3085]: omit ""summary"".
 
-[Section 58(5)][3093]: repeal and substitute:
+[Section 58(5)][3086]: repeal and substitute:
 
 > *   "(5) Every person who commits an offence against this section is liable on conviction to---
 >         
@@ -14752,25 +14734,25 @@ Definition of _Registrar_ in [section 352A(4)][3008]: omit ""Summary Proceedings
 > 
 > 
 
-[Section 59(1)][3094]: omit ""summary"".
+[Section 59(1)][3087]: omit ""summary"".
 
-[Section 59][3094]: add:
+[Section 59][3087]: add:
 
 > *   "(3) In proceedings for an offence against this section, the burden of proving any of the matters described in subsection (2) lies on the defendant."
 > 
 > 
 
-[Section 59A(3)][3095]: omit ""summary"".
+[Section 59A(3)][3088]: omit ""summary"".
 
-[Section 60(1) and (2)][3096]: omit ""summary"".
+[Section 60(1) and (2)][3089]: omit ""summary"".
 
-[Section 60C][3097]: omit ""on indictment"".
+[Section 60C][3090]: omit ""on indictment"".
 
-[Section 60E(3)][3098]: omit ""on indictment"".
+[Section 60E(3)][3091]: omit ""on indictment"".
 
-[Section 60K][3099]: omit ""on indictment"".
+[Section 60K][3092]: omit ""on indictment"".
 
-[Section 64][3100]: repeal and substitute:
+[Section 64][3093]: repeal and substitute:
 
 > ##### "64 Time for filing charging document for certain offences
 >     
@@ -14784,33 +14766,33 @@ Definition of _Registrar_ in [section 352A(4)][3008]: omit ""Summary Proceedings
 > 
 > 
 
-[Section 76(2)][3101]: omit ""summary"".
+[Section 76(2)][3094]: omit ""summary"".
 
-##### [Securities Amendment Act 2011][3102] (2011 No 6)
+##### [Securities Amendment Act 2011][3095] (2011 No 6)
 
-New section 43Q(3) in [section 22][3103]: omit ""summary"".
+New section 43Q(3) in [section 22][3096]: omit ""summary"".
 
-[Section 49(6)][3104]: omit ""summary"".
+[Section 49(6)][3097]: omit ""summary"".
 
-##### [Securities Markets Act 1988][3105] (1988 No 234)
+##### [Securities Markets Act 1988][3098] (1988 No 234)
 
-[Section 43(1)][3106]: omit ""on indictment"".
+[Section 43(1)][3099]: omit ""on indictment"".
 
-[Section 43A(1) and (2)][3107]: omit ""summary"".
+[Section 43A(1) and (2)][3100]: omit ""summary"".
 
-[Section 43B(1), (2), (3), and (4)][3108]: omit ""summary"".
+[Section 43B(1), (2), (3), and (4)][3101]: omit ""summary"".
 
-[Section 43C(1)][3109]: omit ""on indictment"".
+[Section 43C(1)][3102]: omit ""on indictment"".
 
-[Section 43C(2)][3109]: omit ""summary"".
+[Section 43C(2)][3102]: omit ""summary"".
 
-[Section 43D(1) and (2)][3110]: omit ""summary"".
+[Section 43D(1) and (2)][3103]: omit ""summary"".
 
-[Section 43E(1) and (2)][3111]: omit ""on indictment"".
+[Section 43E(1) and (2)][3104]: omit ""on indictment"".
 
-[Section 43E(4)][3111]: omit ""summary"".
+[Section 43E(4)][3104]: omit ""summary"".
 
-[Section 43U][3112]: repeal and substitute:
+[Section 43U][3105]: repeal and substitute:
 
 > ##### "43U Time for filing charging document for certain offences
 >     
@@ -14824,99 +14806,99 @@ New section 43Q(3) in [section 22][3103]: omit ""summary"".
 > 
 > 
 
-##### [Securities Trustees and Statutory Supervisors Act 2011][3113] (2011 No 10)
+##### [Securities Trustees and Statutory Supervisors Act 2011][3106] (2011 No 10)
 
-[Section 8(5)][3114]: omit ""summary"".
+[Section 8(5)][3107]: omit ""summary"".
 
-[Section 24(4)][3115]: omit ""summary"".
+[Section 24(4)][3108]: omit ""summary"".
 
-[Section 24(6)][3115]: omit ""summary"".
+[Section 24(6)][3108]: omit ""summary"".
 
-[Section 36(5)][3116]: omit ""summary"".
+[Section 36(5)][3109]: omit ""summary"".
 
-[Section 39(5)][3117]: omit ""summary"".
+[Section 39(5)][3110]: omit ""summary"".
 
-[Section 39(7)][3117]: omit ""summary"".
+[Section 39(7)][3110]: omit ""summary"".
 
-[Section 49(5)][3118]: omit ""summary"".
+[Section 49(5)][3111]: omit ""summary"".
 
-##### [Serious Fraud Office Act 1990][3119] (1990 No 51)
+##### [Serious Fraud Office Act 1990][3112] (1990 No 51)
 
-[Section 36(4)][3120]: omit ""summary"".
+[Section 36(4)][3113]: omit ""summary"".
 
-[Section 37(4)][3121]: omit ""summary"".
+[Section 37(4)][3114]: omit ""summary"".
 
-[Section 39(3)][3122]: omit ""summary"".
+[Section 39(3)][3115]: omit ""summary"".
 
-[Section 40(2)][3123]: omit ""summary"".
+[Section 40(2)][3116]: omit ""summary"".
 
-[Section 41(2) and (3)][3124]: omit ""summary"".
+[Section 41(2) and (3)][3117]: omit ""summary"".
 
-[Section 45][3125]: omit ""on indictment"".
+[Section 45][3118]: omit ""on indictment"".
 
-[Section 46(1)][3126]: omit ""on indictment"".
+[Section 46(1)][3119]: omit ""on indictment"".
 
-[Section 47][3127]: omit ""summary"".
+[Section 47][3120]: omit ""summary"".
 
-##### [Ship Registration Act 1992][3128] (1992 No 89)
+##### [Ship Registration Act 1992][3121] (1992 No 89)
 
-[Section 7(7)][3129]: insert ""on conviction"" after ""liable"".
+[Section 7(7)][3122]: insert ""on conviction"" after ""liable"".
 
-[Section 11(3)][3130]: insert ""on conviction"" after ""liable"".
+[Section 11(3)][3123]: insert ""on conviction"" after ""liable"".
 
-[Section 12(5)][3131]: insert ""on conviction"" after ""liable"".
+[Section 12(5)][3124]: insert ""on conviction"" after ""liable"".
 
-[Section 14(4)][3132]: insert ""on conviction"" after ""liable"".
+[Section 14(4)][3125]: insert ""on conviction"" after ""liable"".
 
-[Section 16(7) and (8)][3133]: insert ""on conviction"" after ""liable"".
+[Section 16(7) and (8)][3126]: insert ""on conviction"" after ""liable"".
 
-[Section 19(10)][3134]: insert ""on conviction"" after ""liable"".
+[Section 19(10)][3127]: insert ""on conviction"" after ""liable"".
 
-[Section 25(3)][3135]: insert ""on conviction"" after ""liable"".
+[Section 25(3)][3128]: insert ""on conviction"" after ""liable"".
 
-[Section 28(3)][3136]: insert ""on conviction"" after ""liable"".
+[Section 28(3)][3129]: insert ""on conviction"" after ""liable"".
 
-[Section 29(5)][3137]: insert ""on conviction"" after ""liable"".
+[Section 29(5)][3130]: insert ""on conviction"" after ""liable"".
 
-[Section 30(4)][3138]: insert ""on conviction"" after ""liable"".
+[Section 30(4)][3131]: insert ""on conviction"" after ""liable"".
 
-[Section 32(5)][3139]: insert ""on conviction"" after ""liable"".
+[Section 32(5)][3132]: insert ""on conviction"" after ""liable"".
 
-[Section 35(4)][3140]: insert ""on conviction"" after ""liable"".
+[Section 35(4)][3133]: insert ""on conviction"" after ""liable"".
 
-[Section 58(5)][3141]: insert ""on conviction"" after ""liable"".
+[Section 58(5)][3134]: insert ""on conviction"" after ""liable"".
 
-[Section 60(3)][3142]: insert ""on conviction"" after ""liable"".
+[Section 60(3)][3135]: insert ""on conviction"" after ""liable"".
 
-[Section 71(3)][3143]: insert ""on conviction"" after ""liable"".
+[Section 71(3)][3136]: insert ""on conviction"" after ""liable"".
 
-[Section 74(1) and (2)][3144]: insert ""on conviction"" after ""liable"".
+[Section 74(1) and (2)][3137]: insert ""on conviction"" after ""liable"".
 
-[Section 75(1) and (2)][3145]: insert ""on conviction"" after ""liable"".
+[Section 75(1) and (2)][3138]: insert ""on conviction"" after ""liable"".
 
-[Section 77][3146]: repeal.
+[Section 77][3139]: repeal.
 
-[Section 78(b)][3147]: omit ""The period of 6 months referred to in section 14 of the Summary Proceedings Act 1957 for the laying of an information"" and substitute ""The applicable limitation period referred to in section 25 of the Criminal Procedure Act 2011 for the filing of a charging document"".
+[Section 78(b)][3140]: omit ""The period of 6 months referred to in section 14 of the Summary Proceedings Act 1957 for the laying of an information"" and substitute ""The applicable limitation period referred to in section 25 of the Criminal Procedure Act 2011 for the filing of a charging document"".
 
-[Section 79(2)][3148]: insert ""on conviction"" after ""liable"".
+[Section 79(2)][3141]: insert ""on conviction"" after ""liable"".
 
-##### [Shipping Act 1987][3149] (1987 No 183)
+##### [Shipping Act 1987][3142] (1987 No 183)
 
-[Section 11(1)][3150]: omit ""summary"".
+[Section 11(1)][3143]: omit ""summary"".
 
-##### [Shop Trading Hours Act Repeal Act 1990][3151] (1990 No 57)
+##### [Shop Trading Hours Act Repeal Act 1990][3144] (1990 No 57)
 
-[Section 5(1)][3152]: omit ""summary"".
+[Section 5(1)][3145]: omit ""summary"".
 
-[Section 5(3)(a)][3152]: omit ""information"" in both places where it appears and substitute in each case ""charging document"".
+[Section 5(3)(a)][3145]: omit ""information"" in both places where it appears and substitute in each case ""charging document"".
 
-[Section 5(3)(b)][3152]: omit ""information"" and substitute ""charge"".
+[Section 5(3)(b)][3145]: omit ""information"" and substitute ""charge"".
 
-##### [Smoke-free Environments Act 1990][3153] (1990 No 108)
+##### [Smoke-free Environments Act 1990][3146] (1990 No 108)
 
-[Section 16(6)][3154]: omit ""a complaint may be laid under the Summary Proceedings Act 1957"" and substitute ""a charging document may be filed under section 14 of the Criminal Procedure Act 2011"".
+[Section 16(6)][3147]: omit ""a complaint may be laid under the Summary Proceedings Act 1957"" and substitute ""a charging document may be filed under section 14 of the Criminal Procedure Act 2011"".
 
-[Section 18][3155]: repeal and substitute:
+[Section 18][3148]: repeal and substitute:
 
 > ##### "18 Prosecution of offences
 >     
@@ -14926,7 +14908,7 @@ New section 43Q(3) in [section 22][3103]: omit ""summary"".
 > 
 > 
 
-[Section 37(2) and (3)][3156]: repeal and substitute:
+[Section 37(2) and (3)][3149]: repeal and substitute:
 
 > *   "(2) Every prosecution for an offence against this Part must be commenced by the Director-General or a person authorised by the Director-General.
 > 
@@ -14934,13 +14916,13 @@ New section 43Q(3) in [section 22][3103]: omit ""summary"".
 > 
 > 
 
-[Section 38B(a)][3157]: omit ""the laying of an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
+[Section 38B(a)][3150]: omit ""the laying of an information under the Summary Proceedings Act 1957"" and substitute ""filing a charging document under section 14 of the Criminal Procedure Act 2011"".
 
-[Section 38C(3)][3158]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 38C(3)][3151]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-[Section 41E][3159]: omit ""summary"".
+[Section 41E][3152]: omit ""summary"".
 
-[Section 41F(2) to (4)][3160]: repeal and substitute:
+[Section 41F(2) to (4)][3153]: repeal and substitute:
 
 > *   "(2) Every prosecution for an offence against this Part must be commenced by the Director-General or a person authorised by the Director-General.
 > 
@@ -14948,13 +14930,13 @@ New section 43Q(3) in [section 22][3103]: omit ""summary"".
 > 
 > 
 
-##### [Social Security Act 1964][3161] (1964 No 136)
+##### [Social Security Act 1964][3154] (1964 No 136)
 
-[Section 11(3)][3162]: omit ""summary"".
+[Section 11(3)][3155]: omit ""summary"".
 
-[Section 12N(5)][3163]: omit ""summary"".
+[Section 12N(5)][3156]: omit ""summary"".
 
-[Section 12R][3164]: repeal and substitute:
+[Section 12R][3157]: repeal and substitute:
 
 > ##### "12R Appeals to Court of Appeal
 >     
@@ -14962,15 +14944,15 @@ New section 43Q(3) in [section 22][3103]: omit ""summary"".
 > 
 > 
 
-[Section 84(2)][3165]: omit ""summary"".
+[Section 84(2)][3158]: omit ""summary"".
 
-[Section 86F][3166]: omit ""summary"".
+[Section 86F][3159]: omit ""summary"".
 
-Paragraph (d) of the definition of _fine_ in [section 126A(1)][3167]: repeal.
+Paragraph (d) of the definition of _fine_ in [section 126A(1)][3160]: repeal.
 
-[Section 127][3168]: omit ""summary"".
+[Section 127][3161]: omit ""summary"".
 
-[Section 128][3169]: repeal and substitute:
+[Section 128][3162]: repeal and substitute:
 
 > ##### "128 Time for filing charging document
 >     
@@ -14978,23 +14960,23 @@ Paragraph (d) of the definition of _fine_ in [section 126A(1)][3167]: repeal.
 > 
 > 
 
-[Section 129][3170]: omit ""summary"".
+[Section 129][3163]: omit ""summary"".
 
-##### [Social Workers Registration Act 2003][3171] (2003 No 17)
+##### [Social Workers Registration Act 2003][3164] (2003 No 17)
 
-[Section 96(3)][3172]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 96(3)][3165]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-[Section 148][3173]: omit ""summary"" in each place where it appears.
+[Section 148][3166]: omit ""summary"" in each place where it appears.
 
-[Schedule 2][3174], clause 10(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 2][3167], clause 10(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Schedule 2][3174], clause 12(4): omit ""summary"".
+[Schedule 2][3167], clause 12(4): omit ""summary"".
 
-[Schedule 2][3174], clause 13(1) and (2): omit ""summary"".
+[Schedule 2][3167], clause 13(1) and (2): omit ""summary"".
 
-##### [Soil Conservation and Rivers Control Act 1941][3175] (1941 No 12)
+##### [Soil Conservation and Rivers Control Act 1941][3168] (1941 No 12)
 
-[Section 33J][3176]: repeal and substitute:
+[Section 33J][3169]: repeal and substitute:
 
 > ##### "33J Appeals to Court of Appeal
 >     
@@ -15002,39 +14984,39 @@ Paragraph (d) of the definition of _fine_ in [section 126A(1)][3167]: repeal.
 > 
 > 
 
-[Section 55(3)][3177]: omit ""summary"".
+[Section 55(3)][3170]: omit ""summary"".
 
-[Section 113(3)][3178]: omit ""in a summary way"".
+[Section 113(3)][3171]: omit ""in a summary way"".
 
-[Section 156][3179]: repeal.
+[Section 156][3172]: repeal.
 
-[Section 157][3180]: omit ""Section 14 of the Summary Proceedings Act 1957"" and substitute ""Section 25 of the Criminal Procedure Act 2011"".
+[Section 157][3173]: omit ""Section 14 of the Summary Proceedings Act 1957"" and substitute ""Section 25 of the Criminal Procedure Act 2011"".
 
-##### [Sport and Recreation New Zealand Act 2002][3181] (2002 No 38)
+##### [Sport and Recreation New Zealand Act 2002][3174] (2002 No 38)
 
-[Section 12(3)][3182]: omit ""summary"".
+[Section 12(3)][3175]: omit ""summary"".
 
-##### [Sports Anti-Doping Act 2006][3183] (2006 No 58)
+##### [Sports Anti-Doping Act 2006][3176] (2006 No 58)
 
-[Section 43(1)][3184]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 43(1)][3177]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 45(2)][3185]: omit ""summary"".
+[Section 45(2)][3178]: omit ""summary"".
 
-[Section 46(1)][3186]: omit ""summary"".
+[Section 46(1)][3179]: omit ""summary"".
 
-##### [State Sector Act 1988][3187] (1988 No 20)
+##### [State Sector Act 1988][3180] (1988 No 20)
 
-[Section 76(2)][3188]: omit ""summary"".
+[Section 76(2)][3181]: omit ""summary"".
 
-[Section 85(2)][3189]: omit ""summary"".
+[Section 85(2)][3182]: omit ""summary"".
 
-##### [Statistics Act 1975][3190] (1975 No 1)
+##### [Statistics Act 1975][3183] (1975 No 1)
 
-[Section 43(1) and (2)][3191]: omit ""summary"".
+[Section 43(1) and (2)][3184]: omit ""summary"".
 
-[Section 47][3192]: omit ""summary"".
+[Section 47][3185]: omit ""summary"".
 
-[Section 48][3193]: repeal and substitute:
+[Section 48][3186]: repeal and substitute:
 
 > ##### "48 Time for filing charging document
 >     
@@ -15042,13 +15024,13 @@ Paragraph (d) of the definition of _fine_ in [section 126A(1)][3167]: repeal.
 > 
 > 
 
-##### [Statutes Amendment Act 1938][3194] (1938 No 20)
+##### [Statutes Amendment Act 1938][3187] (1938 No 20)
 
-[Section 46(2) and (3)][3195]: omit ""summary"".
+[Section 46(2) and (3)][3188]: omit ""summary"".
 
-##### [Student Loan Scheme Act 2011][3196] (2011 No 62)
+##### [Student Loan Scheme Act 2011][3189] (2011 No 62)
 
-[Section 164][3197]: repeal and substitute:
+[Section 164][3190]: repeal and substitute:
 
 > ##### "164 Proceedings to be commenced by Commissioner
 >     
@@ -15056,15 +15038,15 @@ Paragraph (d) of the definition of _fine_ in [section 126A(1)][3167]: repeal.
 > 
 > 
 
-[Heading to section 165][3198]: omit ""**Information**"" and substitute ""**Charge**"".
+[Heading to section 165][3191]: omit ""**Information**"" and substitute ""**Charge**"".
 
-[Section 165(1)][3198]: omit ""An information"" and substitute ""A charge"".
+[Section 165(1)][3191]: omit ""An information"" and substitute ""A charge"".
 
-[Section 165(2)][3198]: omit ""an information"" and substitute ""a charging document"".
+[Section 165(2)][3191]: omit ""an information"" and substitute ""a charging document"".
 
-[Section 165(2)(a)][3198]: omit ""information"" and substitute ""charging document"".
+[Section 165(2)(a)][3191]: omit ""information"" and substitute ""charging document"".
 
-[Section 166][3199]: repeal and substitute:
+[Section 166][3192]: repeal and substitute:
 
 > ##### "166 Time for filing charging document
 >     
@@ -15072,85 +15054,85 @@ Paragraph (d) of the definition of _fine_ in [section 126A(1)][3167]: repeal.
 > 
 > 
 
-##### [Submarine Cables and Pipelines Protection Act 1996][3200] (1996 No 22)
+##### [Submarine Cables and Pipelines Protection Act 1996][3193] (1996 No 22)
 
-[Section 9(2)][3201]: omit ""summary"".
+[Section 9(2)][3194]: omit ""summary"".
 
-[Section 11(1)][3202]: omit ""summary"".
+[Section 11(1)][3195]: omit ""summary"".
 
-[Section 13(1) and (2)][3203]: omit ""summary"".
+[Section 13(1) and (2)][3196]: omit ""summary"".
 
-[Section 15][3204]: omit ""summary"".
+[Section 15][3197]: omit ""summary"".
 
-[Section 17(2)][3205]: omit ""summary"".
+[Section 17(2)][3198]: omit ""summary"".
 
-[Section 19(2)][3206]: omit ""summary"".
+[Section 19(2)][3199]: omit ""summary"".
 
-[Section 20(5)][3207]: omit ""summary"".
+[Section 20(5)][3200]: omit ""summary"".
 
-[Section 21(2)][3208]: omit ""summary"".
+[Section 21(2)][3201]: omit ""summary"".
 
-[Section 24(1)(a) and (2)][3209]: omit ""lay an information"" in each place where it appears and substitute in each case ""file a charging document"".
+[Section 24(1)(a) and (2)][3202]: omit ""lay an information"" in each place where it appears and substitute in each case ""file a charging document"".
 
-[Section 24(1)(b)][3209]: omit ""an information"" and substitute ""a charge"".
+[Section 24(1)(b)][3202]: omit ""an information"" and substitute ""a charge"".
 
-[Section 29][3210]: omit ""summary"".
+[Section 29][3203]: omit ""summary"".
 
-##### [Sugar Loaf Islands Marine Protected Area Act 1991][3211] (1991 No 8)
+##### [Sugar Loaf Islands Marine Protected Area Act 1991][3204] (1991 No 8)
 
-[Section 10(2)][3212]: omit ""summary"".
+[Section 10(2)][3205]: omit ""summary"".
 
-##### [Summary Offences Act 1981][3213] (1981 No 113)
+##### [Summary Offences Act 1981][3206] (1981 No 113)
 
-Definition of _crime_ in [section 2(1)][3214]: repeal.
+Definition of _crime_ in [section 2(1)][3207]: repeal.
 
-Definition of **crime involving dishonesty** in [section 2(1)][3214]: repeal and substitute:
+Definition of **crime involving dishonesty** in [section 2(1)][3207]: repeal and substitute:
 
 > "_crime involving dishonesty_ has the meaning given to it in section 2(1) of the Crimes Act 1961".
 
-Definition of **crime involving violence** in [section 2(1)][3214]: repeal and substitute in its appropriate alphabetical order:
+Definition of **crime involving violence** in [section 2(1)][3207]: repeal and substitute in its appropriate alphabetical order:
 
 > "_offence involving violence_ means an offence against any of the provisions listed in Schedule 3".
 
-Definition of _is liable_ in [section 2(1)][3214]: repeal and substitute:
+Definition of _is liable_ in [section 2(1)][3207]: repeal and substitute:
 
 > "_is liable_ means is liable on conviction".
 
-[Section 6(2)][3215]: repeal and substitute:
+[Section 6(2)][3208]: repeal and substitute:
 
 > *   "(2) No charging document for an offence against this section may be filed unless the defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the convicted thief may lead to a charge being brought against him or her under this section."
 > 
 > 
 
-[Section 6A][3216]: omit ""a crime"" in each place where it appears and substitute in each case ""an offence"".
+[Section 6A][3209]: omit ""a crime"" in each place where it appears and substitute in each case ""an offence"".
 
-[Section 6A(3)(b)(ii)][3216]: omit ""crimes"" in each place where it appears and substitute in each case ""offences"".
+[Section 6A(3)(b)(ii)][3209]: omit ""crimes"" in each place where it appears and substitute in each case ""offences"".
 
-[Section 6A(2)][3216]: omit ""No information for an offence against this section may be laid"" and substitute ""No charging document for an offence against this section may be filed"".
+[Section 6A(2)][3209]: omit ""No information for an offence against this section may be laid"" and substitute ""No charging document for an offence against this section may be filed"".
 
-[Section 6B(3)][3217]: omit ""No information for an offence against this section may be laid"" and substitute ""No charging document for an offence against this section may be filed"".
+[Section 6B(3)][3210]: omit ""No information for an offence against this section may be laid"" and substitute ""No charging document for an offence against this section may be filed"".
 
-[Section 20A(2)][3218]: omit ""No information shall be laid"" and substitute ""No charging document may be filed"".
+[Section 20A(2)][3211]: omit ""No information shall be laid"" and substitute ""No charging document may be filed"".
 
-[Section 20A(2)][3218]: omit ""laying of an information"" and substitute ""filing of a charging document"".
+[Section 20A(2)][3211]: omit ""laying of an information"" and substitute ""filing of a charging document"".
 
-[Section 38B(1)(a)][3219]: repeal and substitute:
+[Section 38B(1)(a)][3212]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 38C(2)][3220]: omit ""for the purposes of the Summary Proceedings Act 1957,"".
+[Section 38C(2)][3213]: omit ""for the purposes of the Summary Proceedings Act 1957,"".
 
-[Section 40(1)][3221]: omit ""summary"".
+[Section 40(1)][3214]: omit ""summary"".
 
-[Section 40(3)][3221]: repeal.
+[Section 40(3)][3214]: repeal.
 
-[Heading to section 41][3222]: omit ""**Information**"" and substitute ""**Charge**"".
+[Heading to section 41][3215]: omit ""**Information**"" and substitute ""**Charge**"".
 
-[Section 41][3222]: omit ""information"" and substitute ""charge"".
+[Section 41][3215]: omit ""information"" and substitute ""charge"".
 
-[Section 42][3223]: repeal and substitute:
+[Section 42][3216]: repeal and substitute:
 
 > ##### "42 Charge alleging false claim of qualifications
 >     
@@ -15158,19 +15140,19 @@ Definition of _is liable_ in [section 2(1)][3214]: repeal and substitute:
 > 
 > 
 
-[Section 43][3224]: repeal.
+[Section 43][3217]: repeal.
 
-[Section 44][3225]: omit ""information"" and substitute ""charge"".
+[Section 44][3218]: omit ""information"" and substitute ""charge"".
 
-[Schedule 3][3226]: omit from the heading ""**Crimes**"" and substitute ""**Offences**"".
+[Schedule 3][3219]: omit from the heading ""**Crimes**"" and substitute ""**Offences**"".
 
-##### [Superannuation Schemes Act 1989][3227] (1989 No 10)
+##### [Superannuation Schemes Act 1989][3220] (1989 No 10)
 
-[Section 25(1)][3228]: omit ""summary"".
+[Section 25(1)][3221]: omit ""summary"".
 
 ##### [Supreme Court Act 2003][726] (2003 No 53)
 
-[Section 10][3229]: repeal and substitute:
+[Section 10][3222]: repeal and substitute:
 
 > ##### "10 Appeals against decisions in criminal proceedings
 >     
@@ -15184,29 +15166,29 @@ Definition of _is liable_ in [section 2(1)][3214]: repeal and substitute:
 > 
 > 
 
-##### [Takeovers Act 1993][3230] (1993 No 107)
+##### [Takeovers Act 1993][3223] (1993 No 107)
 
-[Section 31F(2)][3231]: omit ""summary"".
+[Section 31F(2)][3224]: omit ""summary"".
 
-[Section 44(2)][3232]: omit "", without reasonable excuse,"".
+[Section 44(2)][3225]: omit "", without reasonable excuse,"".
 
-[Section 44(5)][3232]: omit ""summary"".
+[Section 44(5)][3225]: omit ""summary"".
 
-[Section 44A][3233]: add:
+[Section 44A][3226]: add:
 
 > *   "(3) In proceedings for an offence against section 44, the burden of proving any of the matters described in subsections (1) and (2) lies on the defendant."
 > 
 > 
 
-[Section 44C(2)][3234]: omit ""on indictment"".
+[Section 44C(2)][3227]: omit ""on indictment"".
 
-[Section 44H][3235]: omit ""on indictment"".
+[Section 44H][3228]: omit ""on indictment"".
 
-[Section 44J(3)][3236]: omit ""on indictment"".
+[Section 44J(3)][3229]: omit ""on indictment"".
 
-[Section 44P][3237]: omit ""on indictment"".
+[Section 44P][3230]: omit ""on indictment"".
 
-Insert after the[subpart 5 heading][3238] and before section 44Q:
+Insert after the[subpart 5 heading][3231] and before section 44Q:
 
 > ##### "44PA Time limit for commencing proceedings for offence under section 44H, 44J, or 44P
 >     
@@ -15214,13 +15196,13 @@ Insert after the[subpart 5 heading][3238] and before section 44Q:
 > 
 > 
 
-##### [Tax Administration Act 1994][3239] (1994 No 166)
+##### [Tax Administration Act 1994][3232] (1994 No 166)
 
-[Section 81(4)(a)][3240]: omit ""indictable or summary"".
+[Section 81(4)(a)][3233]: omit ""indictable or summary"".
 
-Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: repeal.
+Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3234]: repeal.
 
-[Section 149B][3242]: repeal and substitute:
+[Section 149B][3235]: repeal and substitute:
 
 > ##### "149B Proceedings for offences
 >     
@@ -15230,57 +15212,57 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-[Heading to section 150][3243]: omit ""**Information**"" and substitute ""**Charging document**"".
+[Heading to section 150][3236]: omit ""**Information**"" and substitute ""**Charging document**"".
 
-[Section 150(1)][3243]: omit ""An information"" and substitute ""A charging document"".
+[Section 150(1)][3236]: omit ""An information"" and substitute ""A charging document"".
 
-[Section 150(2)][3243]: omit ""an information"" and substitute ""a charging document"".
+[Section 150(2)][3236]: omit ""an information"" and substitute ""a charging document"".
 
-[Section 150(2)][3243]: omit ""the information"" and substitute ""the charging document"".
+[Section 150(2)][3236]: omit ""the information"" and substitute ""the charging document"".
 
-[Heading to section 150A][3244]: omit ""**Information may be laid**"" and substitute ""**Charging document may be filed**"".
+[Heading to section 150A][3237]: omit ""**Information may be laid**"" and substitute ""**Charging document may be filed**"".
 
-[Section 150A(1)][3244]: omit ""An information"" and substitute ""A charging document"".
+[Section 150A(1)][3237]: omit ""An information"" and substitute ""A charging document"".
 
-[Section 150A(1)][3244]: omit ""laid"" and substitute ""filed"".
+[Section 150A(1)][3237]: omit ""laid"" and substitute ""filed"".
 
-[Heading to section 150B][3245]: omit ""**Information may be laid**"" and substitute ""**Charging document may be filed**"".
+[Heading to section 150B][3238]: omit ""**Information may be laid**"" and substitute ""**Charging document may be filed**"".
 
-[Section 150B(1)][3245]: omit ""An information"" and substitute ""A charging document"".
+[Section 150B(1)][3238]: omit ""An information"" and substitute ""A charging document"".
 
-[Section 150B(1)][3245]: omit ""laid"" and substitute ""filed"".
+[Section 150B(1)][3238]: omit ""laid"" and substitute ""filed"".
 
-[Heading to section 150C][3246]: omit ""**lay information**"" and substitute ""**file charging document**"".
+[Heading to section 150C][3239]: omit ""**lay information**"" and substitute ""**file charging document**"".
 
-[Section 150C][3246]: omit ""lays an information"" and substitute ""files a charging document"".
+[Section 150C][3239]: omit ""lays an information"" and substitute ""files a charging document"".
 
-[Section 152(13)][3247]: omit ""information"" and substitute ""charge"".
+[Section 152(13)][3240]: omit ""information"" and substitute ""charge"".
 
-##### [Te Ture Whenua Maori Act 1993][3248] (1993 No 4)
+##### [Te Ture Whenua Maori Act 1993][3241] (1993 No 4)
 
-[Section 89(2)][3249]: omit ""summary"".
+[Section 89(2)][3242]: omit ""summary"".
 
-[Section 91][3250]: omit ""summary"".
+[Section 91][3243]: omit ""summary"".
 
-[Section 346(1)][3251]: omit ""summary"".
+[Section 346(1)][3244]: omit ""summary"".
 
-[Section 346(5)][3251]: omit ""Notwithstanding the provisions of section 14 of the Summary Proceedings Act 1957,"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,"".
+[Section 346(5)][3244]: omit ""Notwithstanding the provisions of section 14 of the Summary Proceedings Act 1957,"" and substitute ""Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,"".
 
-##### [Telecommunications Act 2001][3252] (2001 No 103)
+##### [Telecommunications Act 2001][3245] (2001 No 103)
 
-[Section 112(3)][3253]: omit ""summary"".
+[Section 112(3)][3246]: omit ""summary"".
 
-[Section 113(2)][3254]: omit ""summary"".
+[Section 113(2)][3247]: omit ""summary"".
 
-[Section 140(2)][3255]: omit ""summary"".
+[Section 140(2)][3248]: omit ""summary"".
 
-[Section 146(2)][3256]: omit ""summary"".
+[Section 146(2)][3249]: omit ""summary"".
 
-[Section 152(2)][3257]: omit ""summary"".
+[Section 152(2)][3250]: omit ""summary"".
 
-[Section 155L(1)][3258]: omit ""summary"".
+[Section 155L(1)][3251]: omit ""summary"".
 
-##### [Terrorism Suppression Act 2002][3259] (2002 No 34)
+##### [Terrorism Suppression Act 2002][3252] (2002 No 34)
 
 [Section 6A(2)][918]: omit ""on indictment"".
 
@@ -15306,71 +15288,71 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 
 [Section 13E(2)][929]: omit ""on indictment"".
 
-[Section 43(4)][3260]: omit ""on indictment"".
+[Section 43(4)][3253]: omit ""on indictment"".
 
-[Section 47(5)][3261]: omit ""summary"".
+[Section 47(5)][3254]: omit ""summary"".
 
-[Section 47G(2) and (4)][3262]: omit ""summary"".
+[Section 47G(2) and (4)][3255]: omit ""summary"".
 
-##### [Testing Laboratory Registration Act 1972][3263] (1972 No 36)
+##### [Testing Laboratory Registration Act 1972][3256] (1972 No 36)
 
-[Section 30(2)][3264]: omit ""summary"".
+[Section 30(2)][3257]: omit ""summary"".
 
-##### [Tourist and Health Resorts Control Act 1908][3265] (1908 No 194)
+##### [Tourist and Health Resorts Control Act 1908][3258] (1908 No 194)
 
-[Section 10][3266]: omit ""may be recovered in a summary manner, and"".
+[Section 10][3259]: omit ""may be recovered in a summary manner, and"".
 
-##### [Trade in Endangered Species Act 1989][3267] (1989 No 18)
+##### [Trade in Endangered Species Act 1989][3260] (1989 No 18)
 
-[Section 39C(2)][3268]: omit ""discharged or"".
+[Section 39C(2)][3261]: omit ""discharged or"".
 
-[Section 40(3)(c) and (4)][3269]: omit ""lay any information or charge"" and substitute ""file any charging document"".
+[Section 40(3)(c) and (4)][3262]: omit ""lay any information or charge"" and substitute ""file any charging document"".
 
-[Section 40(3)(d)][3269]: omit ""charge or information is laid"" and substitute ""charging document is filed"".
+[Section 40(3)(d)][3262]: omit ""charge or information is laid"" and substitute ""charging document is filed"".
 
-[Section 41(a)][3270]: omit ""lay an information or charge"" and substitute ""file a charging document"".
+[Section 41(a)][3263]: omit ""lay an information or charge"" and substitute ""file a charging document"".
 
-[Section 44(2) and (3):][3271] omit ""on indictment"".
+[Section 44(2) and (3):][3264] omit ""on indictment"".
 
-[Section 44(4)][3271]: omit ""summary"".
+[Section 44(4)][3264]: omit ""summary"".
 
-[Section 45(2) and (3)][3272]: omit ""on indictment"".
+[Section 45(2) and (3)][3265]: omit ""on indictment"".
 
-[Section 45(4)][3272]: omit ""summary"".
+[Section 45(4)][3265]: omit ""summary"".
 
-[Section 46(2)][3273]: omit ""summary"".
+[Section 46(2)][3266]: omit ""summary"".
 
-[Section 47(2)][3274]: omit ""summary"".
+[Section 47(2)][3267]: omit ""summary"".
 
-[Section 49][3275]: omit ""summary"".
+[Section 49][3268]: omit ""summary"".
 
-##### [Trade Marks Act 2002][3276] (2002 No 49)
+##### [Trade Marks Act 2002][3269] (2002 No 49)
 
-[Section 117(2)][3277]: repeal.
+[Section 117(2)][3270]: repeal.
 
-[Section 118(a)][3278]: omit ""section 22(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 32(1)(a) and (c) of the Sentencing Act 2002"".
+[Section 118(a)][3271]: omit ""section 22(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 32(1)(a) and (c) of the Sentencing Act 2002"".
 
-##### [Trade Unions Act 1908][3279] (1908 No 196)
+##### [Trade Unions Act 1908][3272] (1908 No 196)
 
-[Section 10(3)][3280]: omit ""actions, or indictments, or summary proceedings before any Court of summary jurisdiction"" and substitute ""proceedings before a court"".
+[Section 10(3)][3273]: omit ""actions, or indictments, or summary proceedings before any Court of summary jurisdiction"" and substitute ""proceedings before a court"".
 
-[Section 15][3281]: omit ""on complaint made"" and substitute ""in proceedings commenced"".
+[Section 15][3274]: omit ""on complaint made"" and substitute ""in proceedings commenced"".
 
-[Section 15][3281]: omit ""summary"".
+[Section 15][3274]: omit ""summary"".
 
-[Section 15][3281]: omit ""; but nothing herein shall prevent any such person from being proceeded against by way of indictment, if not previously convicted of the same offence under the provisions of this Act"".
+[Section 15][3274]: omit ""; but nothing herein shall prevent any such person from being proceeded against by way of indictment, if not previously convicted of the same offence under the provisions of this Act"".
 
-[Section 15][3281]: add as subsection (2):
+[Section 15][3274]: add as subsection (2):
 
 > *   "(2) Nothing in this section prevents a person being proceeded against under any other enactment for an offence constituted by conduct in a particular case that is the same as conduct punishable under this section if the person has not previously been convicted under this section in respect of that particular conduct."
 > 
 > 
 
-[Section 29][3282]: omit ""he shall be liable on indictment"" and substitute ""he or she commits an offence and is liable on conviction"".
+[Section 29][3275]: omit ""he shall be liable on indictment"" and substitute ""he or she commits an offence and is liable on conviction"".
 
-[Heading to section 30][3283]: omit ""**Summary proceedings**"" and substitute ""**Proceedings**"".
+[Heading to section 30][3276]: omit ""**Summary proceedings**"" and substitute ""**Proceedings**"".
 
-[Section 30(a)][3283]: repeal and substitute:
+[Section 30(a)][3276]: repeal and substitute:
 
 > *   "(a) proceedings for offences against this Act must be commenced by filing a charging document in accordance with the Criminal Procedure Act 2011,---
 >         
@@ -15382,31 +15364,31 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-[Section 30(b)][3283]: omit ""information or complaint"" and substitute ""charge"".
+[Section 30(b)][3276]: omit ""information or complaint"" and substitute ""charge"".
 
-##### [Transport Accident Investigation Commission Act 1990][3284] (1990 No 99)
+##### [Transport Accident Investigation Commission Act 1990][3277] (1990 No 99)
 
-[Section 14L(3)][3285]: omit ""summary"".
+[Section 14L(3)][3278]: omit ""summary"".
 
-[Section 14M(2)][3286]: omit ""summary"".
+[Section 14M(2)][3279]: omit ""summary"".
 
-##### [Trans-Tasman Mutual Recognition Act 1997][3287] (1997 No 60)
+##### [Trans-Tasman Mutual Recognition Act 1997][3280] (1997 No 60)
 
-[Section 61(7)][3288]: omit ""summary"".
+[Section 61(7)][3281]: omit ""summary"".
 
-[Section 66(1)][3289]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 66(1)][3282]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 68(2)][3290]: omit ""summary"".
+[Section 68(2)][3283]: omit ""summary"".
 
-[Section 69(1)][3291]: omit ""summary"".
+[Section 69(1)][3284]: omit ""summary"".
 
-##### [Trans-Tasman Proceedings Act 2010][3292] (2010 No 108)
+##### [Trans-Tasman Proceedings Act 2010][3285] (2010 No 108)
 
-[Section 50(5)][3293]: omit ""summary"".
+[Section 50(5)][3286]: omit ""summary"".
 
-##### [Trespass Act 1980][3294] (1980 No 65)
+##### [Trespass Act 1980][3287] (1980 No 65)
 
-[Section 10][3295]: repeal and substitute:
+[Section 10][3288]: repeal and substitute:
 
 > ##### "10 Charges
 >     
@@ -15414,65 +15396,65 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-[Section 11(1)][3296]: repeal.
+[Section 11(1)][3289]: repeal.
 
-##### [Trustee Act 1956][3297] (1956 No 61)
+##### [Trustee Act 1956][3290] (1956 No 61)
 
-[Section 31(7C)][3298]: omit ""summary"".
+[Section 31(7C)][3291]: omit ""summary"".
 
-[Section 51(2)(b)][3299]: omit "", whether summarily or on indictment,"".
+[Section 51(2)(b)][3292]: omit "", whether summarily or on indictment,"".
 
-[Section 77(8)][3300]: omit ""commits an offence and shall be liable on summary"" and substitute ""or she commits an offence and is liable on"".
+[Section 77(8)][3293]: omit ""commits an offence and shall be liable on summary"" and substitute ""or she commits an offence and is liable on"".
 
-[Section 83B(9)][3301]: repeal and substitute:
+[Section 83B(9)][3294]: repeal and substitute:
 
 > *   "(9) If any person in any statement of accounts, report, or certificate required for the purposes of this section wilfully makes a statement that is false in any material particular, he or she is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $200, or both."
 > 
 > 
 
-##### [Trustee Companies Act 1967][3302] (1967 No 35)
+##### [Trustee Companies Act 1967][3295] (1967 No 35)
 
-[Section 46(4)][3303]: omit ""summary"".
+[Section 46(4)][3296]: omit ""summary"".
 
-##### [Trustee Companies Management Act 1975][3304] (1975 No 25)
+##### [Trustee Companies Management Act 1975][3297] (1975 No 25)
 
-[Section 13(2)][3305]: omit ""summary"".
+[Section 13(2)][3298]: omit ""summary"".
 
-[Section 20(1)][3306]: omit ""on indictment"".
+[Section 20(1)][3299]: omit ""on indictment"".
 
-[Section 20][3306]: add:
+[Section 20][3299]: add:
 
 > *   "(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section."
 > 
 > 
 
-##### [Tuberculosis Act 1948][3307] (1948 No 36)
+##### [Tuberculosis Act 1948][3300] (1948 No 36)
 
-[Section 27][3308]: repeal.
+[Section 27][3301]: repeal.
 
-##### [Unclaimed Money Act 1971][3309] (1971 No 28)
+##### [Unclaimed Money Act 1971][3302] (1971 No 28)
 
-[Section 12(2)][3310]: omit ""summary"".
+[Section 12(2)][3303]: omit ""summary"".
 
-[Section 13][3311]: omit ""summary"".
+[Section 13][3304]: omit ""summary"".
 
-##### [Unit Trusts Act 1960][3312] (1960 No 99)
+##### [Unit Trusts Act 1960][3305] (1960 No 99)
 
-[Section 21(3)][3313]: omit ""summary"".
+[Section 21(3)][3306]: omit ""summary"".
 
-[Section 25(1), (2), and (3)][3314]: omit ""summary"".
+[Section 25(1), (2), and (3)][3307]: omit ""summary"".
 
-##### [United Nations Act 1946][3315] (1946 No 7)
+##### [United Nations Act 1946][3308] (1946 No 7)
 
-[Section 3(1)][3316]: omit ""summary"".
+[Section 3(1)][3309]: omit ""summary"".
 
-[Section 3(2)][3316]: omit ""accused"" and substitute ""defendant"".
+[Section 3(2)][3309]: omit ""accused"" and substitute ""defendant"".
 
-##### [United Nations Convention on the Law of the Sea Act 1996][3317] (1996 No 69)
+##### [United Nations Convention on the Law of the Sea Act 1996][3310] (1996 No 69)
 
-[Section 8(2)][3318]: omit ""summary"".
+[Section 8(2)][3311]: omit ""summary"".
 
-[Section 11][3319]: repeal and substitute:
+[Section 11][3312]: repeal and substitute:
 
 > ##### "11 Limitation of proceedings
 >     
@@ -15486,55 +15468,55 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-##### [Unsolicited Electronic Messages Act 2007][3320] (2007 No 7)
+##### [Unsolicited Electronic Messages Act 2007][3313] (2007 No 7)
 
-[Section 22(5)][3321]: omit ""summary"".
+[Section 22(5)][3314]: omit ""summary"".
 
-##### [Unsolicited Goods and Services Act 1975][3322] (1975 No 46)
+##### [Unsolicited Goods and Services Act 1975][3315] (1975 No 46)
 
-[Section 5(2)][3323]: omit ""summary"".
+[Section 5(2)][3316]: omit ""summary"".
 
-[Section 7(2)][3324]: omit ""summary"".
+[Section 7(2)][3317]: omit ""summary"".
 
-[Section 11][3325]: omit ""summary"".
+[Section 11][3318]: omit ""summary"".
 
-##### [Utilities Access Act 2010][3326] (2010 No 98)
+##### [Utilities Access Act 2010][3319] (2010 No 98)
 
-[Section 8][3327]: omit ""summary"".
+[Section 8][3320]: omit ""summary"".
 
-##### [Valuers Act 1948][3328] (1948 No 63)
+##### [Valuers Act 1948][3321] (1948 No 63)
 
-[Heading to section 31][3329]: omit ""**indictable**"".
+[Heading to section 31][3322]: omit ""**indictable**"".
 
-[Section 31(1)(a)][3329]: omit ""indictable"".
+[Section 31(1)(a)][3322]: omit ""indictable"".
 
-[Section 43][3330]: omit ""summary"".
+[Section 43][3323]: omit ""summary"".
 
-##### [Veterinarians Act 2005][3331] (2005 No 126)
+##### [Veterinarians Act 2005][3324] (2005 No 126)
 
-[Section 21(1), (2), and (3)][3332]: omit ""summary"".
+[Section 21(1), (2), and (3)][3325]: omit ""summary"".
 
-[Section 23(5)][3333]: omit ""summary"".
+[Section 23(5)][3326]: omit ""summary"".
 
-[Section 31(1) and (2)][3334]: omit ""summary"".
+[Section 31(1) and (2)][3327]: omit ""summary"".
 
-[Section 32(2)][3335]: omit ""summary"".
+[Section 32(2)][3328]: omit ""summary"".
 
-[Section 33(2)][3336]: omit ""summary"".
+[Section 33(2)][3329]: omit ""summary"".
 
-[Section 42(4)][3337]: omit ""summary"".
+[Section 42(4)][3330]: omit ""summary"".
 
-[Section 49(5)][3338]: omit ""summary"".
+[Section 49(5)][3331]: omit ""summary"".
 
-[Section 72(3)][3339]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
+[Section 72(3)][3332]: omit ""Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part)"" and substitute ""Part 6 of the Criminal Procedure Act 2011"".
 
-##### [Waitangi National Trust Board Act 1932][3340] (1932 No 28)
+##### [Waitangi National Trust Board Act 1932][3333] (1932 No 28)
 
-[Section 6(1)][3341]: omit ""summary"".
+[Section 6(1)][3334]: omit ""summary"".
 
-##### [Walking Access Act 2008][3342] (2008 No 101)
+##### [Walking Access Act 2008][3335] (2008 No 101)
 
-[Section 53][3343]: Repeal subsection (1) and substitute the following subsections:
+[Section 53][3336]: Repeal subsection (1) and substitute the following subsections:
 
 > *   "(1) Proceedings are commenced by filing a charging document under section 14 of the Criminal Procedure Act 2011\.
 > 
@@ -15542,25 +15524,25 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-[Section 53(2)][3343]: omit ""lay an information"" and substitute ""file a charging document"".
+[Section 53(2)][3336]: omit ""lay an information"" and substitute ""file a charging document"".
 
-[Section 59(1) and (2)][3344]: omit ""summary"".
+[Section 59(1) and (2)][3337]: omit ""summary"".
 
-[Section 61][3345]: omit ""summary"".
+[Section 61][3338]: omit ""summary"".
 
-[Section 68(5)][3346]: omit ""summary"".
+[Section 68(5)][3339]: omit ""summary"".
 
-##### [Wanganui Harbour and River Conservators Board Act 1876][3347] (1876 No 86)
+##### [Wanganui Harbour and River Conservators Board Act 1876][3340] (1876 No 86)
 
-[Section 53][3348]: omit ""before any one or more Justices in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 53][3341]: omit ""before any one or more Justices in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [War Pensions Act 1954][3349] (1954 No 54)
+##### [War Pensions Act 1954][3342] (1954 No 54)
 
-[Section 89(2)][3350]: omit ""summary"".
+[Section 89(2)][3343]: omit ""summary"".
 
-[Section 92][3351]: omit ""summary"".
+[Section 92][3344]: omit ""summary"".
 
-[Section 93][3352]: repeal and substitute:
+[Section 93][3345]: repeal and substitute:
 
 > ##### "93 Time for filing charge
 >     
@@ -15568,13 +15550,13 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-##### [Waste Minimisation Act 2008][3353] (2008 No 89)
+##### [Waste Minimisation Act 2008][3346] (2008 No 89)
 
-[Section 65(1), (2), and (3)][3354]: omit ""summary"".
+[Section 65(1), (2), and (3)][3347]: omit ""summary"".
 
-[Section 66][3355]: omit ""summary"".
+[Section 66][3348]: omit ""summary"".
 
-[Heading above section 71][3356], and section 71: repeal and substitute:
+[Heading above section 71][3349], and section 71: repeal and substitute:
 
 > #### "Time for filing charge
 > 
@@ -15590,33 +15572,33 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-[Section 73(a)][3357]: repeal and substitute:
+[Section 73(a)][3350]: repeal and substitute:
 
 > *   "(a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 74(3)][3358]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
+[Section 74(3)][3351]: omit ""For the purposes of the Summary Proceedings Act 1957, an"" and substitute ""An"".
 
-##### [Weathertight Homes Resolution Services Act 2006][3359] (2006 No 84)
+##### [Weathertight Homes Resolution Services Act 2006][3352] (2006 No 84)
 
-[Section 115][3360]: omit ""summary"".
+[Section 115][3353]: omit ""summary"".
 
-[Schedule 3][3361], clause 10(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Schedule 3][3354], clause 10(1): omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Schedule 3][3361], clause 11(2): omit ""indictment for"" and substitute ""charge of"".
+[Schedule 3][3354], clause 11(2): omit ""indictment for"" and substitute ""charge of"".
 
-##### [Weights and Measures Act 1987][3362] (1987 No 15)
+##### [Weights and Measures Act 1987][3355] (1987 No 15)
 
-[Section 16A(6)][3363]: repeal.
+[Section 16A(6)][3356]: repeal.
 
-[Section 32A(1)(a)][3364]: repeal and substitute:
+[Section 32A(1)(a)][3357]: repeal and substitute:
 
 > *   "(a) that person may be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or".
 > 
 > 
 
-[Section 32A(3)][3364]: repeal and substitute:
+[Section 32A(3)][3357]: repeal and substitute:
 
 > *   "(3) If an infringement notice, or a copy of an infringement notice, is---
 >         
@@ -15628,29 +15610,29 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-[Section 33(1)][3365]: omit ""summary"".
+[Section 33(1)][3358]: omit ""summary"".
 
-[Section 36(1)(a)][3366]: repeal and substitute:
+[Section 36(1)(a)][3359]: repeal and substitute:
 
 > *   "(a) must be commenced by an Inspector; and".
 > 
 > 
 
-[Section 36(2)][3366]: omit ""lays an information"" and substitute ""files a charging document"".
+[Section 36(2)][3359]: omit ""lays an information"" and substitute ""files a charging document"".
 
-##### [Wheat Industry Research Levies Act 1989][3367] (1989 No 64)
+##### [Wheat Industry Research Levies Act 1989][3360] (1989 No 64)
 
-[Section 35(1) and (2)][3368]: omit ""summary"".
+[Section 35(1) and (2)][3361]: omit ""summary"".
 
-##### [Wild Animal Control Act 1977][3369] (1977 No 111)
+##### [Wild Animal Control Act 1977][3362] (1977 No 111)
 
-[Heading to section 37][3370]: omit and substitute ""**Proceedings for offences**"".
+[Heading to section 37][3363]: omit and substitute ""**Proceedings for offences**"".
 
-[Section 37(1) and (2)][3370]: repeal.
+[Section 37(1) and (2)][3363]: repeal.
 
-[Section 37(3)][3370]: omit ""any such offence"" and substitute ""an offence against this Act"".
+[Section 37(3)][3363]: omit ""any such offence"" and substitute ""an offence against this Act"".
 
-[Section 37(4)][3370]: repeal and substitute:
+[Section 37(4)][3363]: repeal and substitute:
 
 > *   "(4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
 > 
@@ -15658,43 +15640,43 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-##### [Wildlife Act 1953][3371] (1953 No 31)
+##### [Wildlife Act 1953][3364] (1953 No 31)
 
-[Heading to section 68][3372]: omit and substitute ""**Conduct of proceedings and recovery of fines**"".
+[Heading to section 68][3365]: omit and substitute ""**Conduct of proceedings and recovery of fines**"".
 
-[Section 68(1)][3372]: repeal.
+[Section 68(1)][3365]: repeal.
 
-[Section 68(2)][3372]: omit ""although not the informant,"".
+[Section 68(2)][3365]: omit ""although not the informant,"".
 
-[Section 68A][3373]: omit ""section 14 of the Summary Proceedings Act 1957"" and substitute ""section 25 of the Criminal Procedure Act 2011"".
+[Section 68A][3366]: omit ""section 14 of the Summary Proceedings Act 1957"" and substitute ""section 25 of the Criminal Procedure Act 2011"".
 
-[Section 70(4)][3374]: omit ""on the information of"" and substitute ""by"".
+[Section 70(4)][3367]: omit ""on the information of"" and substitute ""by"".
 
-##### [Wine Act 2003][3375] (2003 No 114)
+##### [Wine Act 2003][3368] (2003 No 114)
 
-[Section 97(2)][3376]: repeal.
+[Section 97(2)][3369]: repeal.
 
-[Section 97(3)][3376]: insert ""on conviction"" after ""liable"".
+[Section 97(3)][3369]: insert ""on conviction"" after ""liable"".
 
-[Section 98(3)][3377]: repeal.
+[Section 98(3)][3370]: repeal.
 
-[Section 98(4)][3377]: insert ""on conviction"" after ""liable"".
+[Section 98(4)][3370]: insert ""on conviction"" after ""liable"".
 
-[Section 99(3)][3378]: repeal.
+[Section 99(3)][3371]: repeal.
 
-[Section 99(4)][3378]: insert ""on conviction"" after ""liable"".
+[Section 99(4)][3371]: insert ""on conviction"" after ""liable"".
 
-[Section 100(3)][3379]: repeal.
+[Section 100(3)][3372]: repeal.
 
-[Section 100(4)][3379]: insert ""on conviction"" after ""liable"".
+[Section 100(4)][3372]: insert ""on conviction"" after ""liable"".
 
-[Section 101(3)][3380]: omit ""summary"".
+[Section 101(3)][3373]: omit ""summary"".
 
-[Section 102(2)][3381]: omit ""summary"".
+[Section 102(2)][3374]: omit ""summary"".
 
-[Section 103(2)][3382]: omit ""summary"".
+[Section 103(2)][3375]: omit ""summary"".
 
-[Section 110][3383]: repeal and substitute:
+[Section 110][3376]: repeal and substitute:
 
 > ##### "110 Time for filing charge for offence against section 102 or 103
 >     
@@ -15702,120 +15684,122 @@ Paragraph (d) of the definition of _fines defaulter_ in [section 85A(6)][3241]: 
 > 
 > 
 
-##### [Wool Industry Restructuring Act 2003][3384] (2003 No 40)
+##### [Wool Industry Restructuring Act 2003][3377] (2003 No 40)
 
-[Section 54(1)][3385]: omit ""summary"".
+[Section 54(1)][3378]: omit ""summary"".
 
-Schedule 3 Part 1: amended, on 2 April 2013, by [section 76][3386] of the Electronic Identity Verification Act 2012 (2012 No 123).
+Schedule 3 Part 1: amended, on 13 June 2013, by [section 72][3379] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
-Schedule 3 Part 1: amended, on 1 October 2012, by [section 327][3387] of the Search and Surveillance Act 2012 (2012 No 24).
+Schedule 3 Part 1: amended, on 2 April 2013, by [section 76][3380] of the Electronic Identity Verification Act 2012 (2012 No 123).
 
-Schedule 3 Part 1: amended, on 18 September 2012, by [section 93][3388] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+Schedule 3 Part 1: amended, on 1 October 2012, by [section 327][3381] of the Search and Surveillance Act 2012 (2012 No 24).
+
+Schedule 3 Part 1: amended, on 18 September 2012, by [section 93][3382] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ## Part 2  
 Amendments to local and provincial Acts
 
-##### [Akaroa High School Act 1881][3389] (1881 No 16)
+##### [Akaroa High School Act 1881][3383] (1881 No 16)
 
-[Section 5][3390]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+[Section 5][3384]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-##### [Ashburton High School Act 1878][3391] (1878 No 49)
+##### [Ashburton High School Act 1878][3385] (1878 No 49)
 
-[Section 4][3392]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+[Section 4][3386]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-##### [Auckland Domain Act 1987][3393] (1987 No 7)
+##### [Auckland Domain Act 1987][3387] (1987 No 7)
 
-[Section 12][3394]: omit ""summary"".
+[Section 12][3388]: omit ""summary"".
 
-##### [Christchurch District Drainage Act 1951][3395] (1951 No 21)
+##### [Christchurch District Drainage Act 1951][3389] (1951 No 21)
 
-[Section 12(3)][3396]: omit ""summary"".
+[Section 12(3)][3390]: omit ""summary"".
 
-[Section 39(1)][3397]: omit ""summary"".
+[Section 39(1)][3391]: omit ""summary"".
 
-[Section 89][3398]: omit ""a summary way before any two Justices in the manner provided by the Justices of the Peace Act 1927"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 89][3392]: omit ""a summary way before any two Justices in the manner provided by the Justices of the Peace Act 1927"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Greytown District Trust Lands Act 1979][3399] (1979 No 4)
+##### [Greytown District Trust Lands Act 1979][3393] (1979 No 4)
 
-[Section 9(3)][3400]: omit ""summary"".
+[Section 9(3)][3394]: omit ""summary"".
 
-##### [Hawera Borough Drainage Empowering Act 1900][3401] (1900 No 21)
+##### [Hawera Borough Drainage Empowering Act 1900][3395] (1900 No 21)
 
-[Section 25][3402]: omit ""in a summary manner under"" and substitute ""on conviction in accordance with Part 3 of"".
+[Section 25][3396]: omit ""in a summary manner under"" and substitute ""on conviction in accordance with Part 3 of"".
 
-##### [Hawke's Bay Crematorium Act 1944][3403] (1944 No 7)
+##### [Hawke's Bay Crematorium Act 1944][3397] (1944 No 7)
 
-[Section 39(1)][3404]: omit ""summary"".
+[Section 39(1)][3398]: omit ""summary"".
 
-##### [Hutt Valley Drainage Act 1967][3405] (1967 No 3)
+##### [Hutt Valley Drainage Act 1967][3399] (1967 No 3)
 
-[Section 10(2)][3406]: omit ""summary"".
+[Section 10(2)][3400]: omit ""summary"".
 
-[Section 53][3407]: omit ""summary"".
+[Section 53][3401]: omit ""summary"".
 
-[Section 54(2)][3408]: omit ""summary"".
+[Section 54(2)][3402]: omit ""summary"".
 
-[Section 73(2)][3409]: omit ""summary"".
+[Section 73(2)][3403]: omit ""summary"".
 
-[Section 79][3410]: omit ""a summary manner under"" and substitute ""accordance with Part 3 of"".
+[Section 79][3404]: omit ""a summary manner under"" and substitute ""accordance with Part 3 of"".
 
-[Proviso to section 79][3410]: repeal and substitute as subsection (2):
+[Proviso to section 79][3404]: repeal and substitute as subsection (2):
 
 > *   "(2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any bylaw made under it ends on the date that is 12 months after the date on which the offence was committed."
 > 
 > 
 
-[Section 81][3411]: omit ""summary"".
+[Section 81][3405]: omit ""summary"".
 
-##### [Mahinapua Creek and Lake Reserves Act 1893][3412] (1893 No 18)
+##### [Mahinapua Creek and Lake Reserves Act 1893][3406] (1893 No 18)
 
-[Section 3][3413]: omit ""in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 3][3407]: omit ""in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Masterton Borough Council Staff Retiring Fund Act 1962][3414] (1962 No 9)
+##### [Masterton Borough Council Staff Retiring Fund Act 1962][3408] (1962 No 9)
 
-[Section 14(1)][3415]: omit ""summary"".
+[Section 14(1)][3409]: omit ""summary"".
 
-##### [Masterton Trust Lands Act 2003][3416] (2003 No 1)
+##### [Masterton Trust Lands Act 2003][3410] (2003 No 1)
 
-[Section 26(3)][3417]: omit ""summary"".
+[Section 26(3)][3411]: omit ""summary"".
 
-[Section 28(6)][3418]: omit ""summary"".
+[Section 28(6)][3412]: omit ""summary"".
 
-##### [Nelson Waterworks Act 1863][3419] (1863 No 1)
+##### [Nelson Waterworks Act 1863][3413] (1863 No 1)
 
-[Section 29][3420]: omit ""in a summary manner before any Justice or Justices of the Peace"" and substitute ""on conviction in accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 29][3414]: omit ""in a summary manner before any Justice or Justices of the Peace"" and substitute ""on conviction in accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [New Plymouth Borough Land Exchange and Empowering Act 1939][3421] (1939 No 6)
+##### [New Plymouth Borough Land Exchange and Empowering Act 1939][3415] (1939 No 6)
 
-[Section 9(2)][3422]: omit ""by complaint under the Summary Proceedings Act 1957 (the provisions whereof shall, with the necessary modifications, apply),"".
+[Section 9(2)][3416]: omit ""by complaint under the Summary Proceedings Act 1957 (the provisions whereof shall, with the necessary modifications, apply),"".
 
-[Section 11(1) and (2)][3423]: omit ""summary"".
+[Section 11(1) and (2)][3417]: omit ""summary"".
 
-##### [New Plymouth High School Act 1889][3424] (1889 No 2)
+##### [New Plymouth High School Act 1889][3418] (1889 No 2)
 
-[Section 6][3425]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+[Section 6][3419]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-##### [Ohai Railway Board Act 1932][3426] (1932 No 2)
+##### [Ohai Railway Board Act 1932][3420] (1932 No 2)
 
-[Section 19A(2)][3427]: omit ""summary"".
+[Section 19A(2)][3421]: omit ""summary"".
 
-##### [Otago Boys' and Girls' High School Act 1877][3428] (1877 No 52)
+##### [Otago Boys' and Girls' High School Act 1877][3422] (1877 No 52)
 
-[Section 4][3429]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+[Section 4][3423]: omit ""indictable offence"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-##### [Riccarton Bush Act 1914][3430] (1914 No 15)
+##### [Riccarton Bush Act 1914][3424] (1914 No 15)
 
-[Section 19][3431]: insert ""on conviction"" after ""is liable"" and also omit ""in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 19][3425]: insert ""on conviction"" after ""is liable"" and also omit ""in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Rotorua City Geothermal Energy Empowering Act 1967][3432] (1967 No 2)
+##### [Rotorua City Geothermal Energy Empowering Act 1967][3426] (1967 No 2)
 
-[Section 4(3)][3433]: omit ""summary"".
+[Section 4(3)][3427]: omit ""summary"".
 
-[Section 7(2)][3434]: omit ""summary"".
+[Section 7(2)][3428]: omit ""summary"".
 
-##### [Summit Road (Canterbury) Protection Act 2001][3435] (2001 No 3)
+##### [Summit Road (Canterbury) Protection Act 2001][3429] (2001 No 3)
 
-[Section 32][3436]: repeal and substitute:
+[Section 32][3430]: repeal and substitute:
 
 > ##### "32 Time for filing charging document
 >     
@@ -15823,35 +15807,35 @@ Amendments to local and provincial Acts
 > 
 > 
 
-[Section 34(1)][3437]: omit ""An offence against this Act is punishable on summary conviction on the information of"" and substitute ""A charging document for an offence against this Act may be filed in the name of"".
+[Section 34(1)][3431]: omit ""An offence against this Act is punishable on summary conviction on the information of"" and substitute ""A charging document for an offence against this Act may be filed in the name of"".
 
-[Section 34(2)][3437]: omit ""laying an information"" and substitute ""filing a charging document"".
+[Section 34(2)][3431]: omit ""laying an information"" and substitute ""filing a charging document"".
 
-[Section 34(2)][3437]: omit ""lay informations"" and substitute ""file charging documents"".
+[Section 34(2)][3431]: omit ""lay informations"" and substitute ""file charging documents"".
 
 Section 34(3): omit ""(whether or not an informant)"".
 
-##### [Tauranga City Council and Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Act 1972][3438] (1972 No 4)
+##### [Tauranga City Council and Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Act 1972][3432] (1972 No 4)
 
-[Section 25][3439]: omit ""summary"".
+[Section 25][3433]: omit ""summary"".
 
-##### [Tauranga District Council (Route K Toll) Empowering Act 2000][3440] (2000 No 1)
+##### [Tauranga District Council (Route K Toll) Empowering Act 2000][3434] (2000 No 1)
 
-[Section 19][3441]: omit ""summary"".
+[Section 19][3435]: omit ""summary"".
 
-##### [Timaru Borough Drainage, Sewerage, and Loans Act 1905][3442] (1905 No 5)
+##### [Timaru Borough Drainage, Sewerage, and Loans Act 1905][3436] (1905 No 5)
 
-[Section 18][3443]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Section 18][3437]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-[Section 35][3444]: repeal.
+[Section 35][3438]: repeal.
 
-##### [Wanganui District Council (Prohibition of Gang Insignia) Act 2009][3445] (2009 No 1)
+##### [Wanganui District Council (Prohibition of Gang Insignia) Act 2009][3439] (2009 No 1)
 
-[Section 12(2)][3446]: omit ""summary"".
+[Section 12(2)][3440]: omit ""summary"".
 
-[Section 14(5)][3447]: omit ""summary"".
+[Section 14(5)][3441]: omit ""summary"".
 
-[Section 15][3448]: repeal and substitute:
+[Section 15][3442]: repeal and substitute:
 
 > ##### "15 Filing charging document for offence
 >     
@@ -15859,13 +15843,13 @@ Section 34(3): omit ""(whether or not an informant)"".
 > 
 > 
 
-##### [Wellington College and Girls' High School Act 1887][3449] (1887 No 17)
+##### [Wellington College and Girls' High School Act 1887][3443] (1887 No 17)
 
-[Section 5][3450]: omit ""indictable misdemeanour"" and substitute ""offence punishable by 2 or more years' imprisonment"".
+[Section 5][3444]: omit ""indictable misdemeanour"" and substitute ""offence punishable by 2 or more years' imprisonment"".
 
-##### [Wellington and Karori Sanitation and Water-supply Act 1912][3451] (1912 No 17)
+##### [Wellington and Karori Sanitation and Water-supply Act 1912][3445] (1912 No 17)
 
-[Section 13][3452]: repeal and substitute:
+[Section 13][3446]: repeal and substitute:
 
 > ##### "13 Fines to be paid to Wellington District Fund
 >     
@@ -15873,39 +15857,39 @@ Section 34(3): omit ""(whether or not an informant)"".
 > 
 > 
 
-##### [Wellington City (Cuba Street Mall) Empowering Act 1967][3453] (1967 No 1)
+##### [Wellington City (Cuba Street Mall) Empowering Act 1967][3447] (1967 No 1)
 
-[Section 4][3454]: omit ""summary"".
+[Section 4][3448]: omit ""summary"".
 
-##### [Wellington City Drainage Empowering Act 1894][3455] (1894 No 6)
+##### [Wellington City Drainage Empowering Act 1894][3449] (1894 No 6)
 
-[Section 25][3456]: repeal.
+[Section 25][3450]: repeal.
 
-##### [Wellington City Reclamation and Empowering Act 1906][3457] (1906 No 28)
+##### [Wellington City Reclamation and Empowering Act 1906][3451] (1906 No 28)
 
-[Section 5(2)][3458]: omit ""summary"".
+[Section 5(2)][3452]: omit ""summary"".
 
-##### [Wellington Regional Water Board Act 1972][3459] (1972 No 3)
+##### [Wellington Regional Water Board Act 1972][3453] (1972 No 3)
 
-[Section 11(2)][3460]: omit ""summary"".
+[Section 11(2)][3454]: omit ""summary"".
 
-[Section 13(6)][3461]: omit ""summary"".
+[Section 13(6)][3455]: omit ""summary"".
 
-[Section 33][3462]: omit ""summary"".
+[Section 33][3456]: omit ""summary"".
 
-[Section 34(1)][3463]: omit ""summary"".
+[Section 34(1)][3457]: omit ""summary"".
 
-[Section 35(2)][3464]: omit ""summary"".
+[Section 35(2)][3458]: omit ""summary"".
 
-[Section 57][3465]: omit ""summary"".
+[Section 57][3459]: omit ""summary"".
 
-[Section 64(1)][3466]: omit ""summary"".
+[Section 64(1)][3460]: omit ""summary"".
 
-[Section 101(3)][3467]: omit ""summary"".
+[Section 101(3)][3461]: omit ""summary"".
 
-[Section 110(4)][3468]: omit ""summary"".
+[Section 110(4)][3462]: omit ""summary"".
 
-[Section 113][3469]: repeal and substitute:
+[Section 113][3463]: repeal and substitute:
 
 > ##### "113 Time for filing charging document
 >     
@@ -15913,11 +15897,11 @@ Section 34(3): omit ""(whether or not an informant)"".
 > 
 > 
 
-##### [Westland and Nelson Coal Fields Administration Act 1877][3470] (1877 No 73)
+##### [Westland and Nelson Coal Fields Administration Act 1877][3464] (1877 No 73)
 
-[Section 34][3471]: omit ""in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 34][3465]: omit ""in a summary way"" and substitute ""in accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-[Proviso to section 34][3471]: repeal and substitute as subsection (2):
+[Proviso to section 34][3465]: repeal and substitute as subsection (2):
 
 > *   "(2) Only the Minister of Land Information, or a person appointed in writing by the Minister of Land Information, may file a charging document for any of the offences mentioned in this section."
 > 
@@ -15926,118 +15910,118 @@ Section 34(3): omit ""(whether or not an informant)"".
 ## Part 3  
 Amendments to private Acts
 
-##### [Ashburton County Council Empowering Act 1882][3472] (1882 No 3)
+##### [Ashburton County Council Empowering Act 1882][3466] (1882 No 3)
 
-[Section 8][3473]: omit ""in a summary way before any two or more Justices of the Peace in the manner provided by the Justices of the Peace Act 1882"" and substitute ""on conviction in accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 8][3467]: omit ""in a summary way before any two or more Justices of the Peace in the manner provided by the Justices of the Peace Act 1882"" and substitute ""on conviction in accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Auckland Agricultural Pastoral and Industrial Shows Board Act 1972][3474] (1972 No 4)
+##### [Auckland Agricultural Pastoral and Industrial Shows Board Act 1972][3468] (1972 No 4)
 
-[Section 14(1)][3475]: omit ""summary"".
+[Section 14(1)][3469]: omit ""summary"".
 
-##### [Dunedin Waterworks Extension Act 1875][3476] (1875 No 5)
+##### [Dunedin Waterworks Extension Act 1875][3470] (1875 No 5)
 
-[Section 8][3477]: insert ""on conviction"" after ""liable"" and omit ""a summary way under the Justices of the Peace Act 1866, or any Act or Acts amending the same as aforesaid"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 8][3471]: insert ""on conviction"" after ""liable"" and omit ""a summary way under the Justices of the Peace Act 1866, or any Act or Acts amending the same as aforesaid"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Eastwoodhill Trust Act 1975][3478] (1975 No 1)
+##### [Eastwoodhill Trust Act 1975][3472] (1975 No 1)
 
-[Section 15(1)][3479]: omit ""summary"".
+[Section 15(1)][3473]: omit ""summary"".
 
-##### [Eden Park Trust Act 1955][3480] (1955 No 3)
+##### [Eden Park Trust Act 1955][3474] (1955 No 3)
 
-[Section 19][3481]: insert ""on conviction"" after ""liable"" and omit ""a summary way"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 19][3475]: insert ""on conviction"" after ""liable"" and omit ""a summary way"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
 
-##### [Eden Park Trust Amendment Act 2009][3482] (2009 No 1)
+##### [Eden Park Trust Amendment Act 2009][3476] (2009 No 1)
 
-Definition of _offence_ in [section 12(4)][3483]: repeal and substitute:
+Definition of _offence_ in [section 12(4)][3477]: repeal and substitute:
 
 > "_offence_ means any act or omission for which anyone can be punished on conviction under the Crimes Act 1961 or any other enactment".
 
-##### [Waikato Show Trust Act 1965][3484] (1965 No 3)
+##### [Waikato Show Trust Act 1965][3478] (1965 No 3)
 
-[Section 17][3485]: insert ""on conviction"" after ""is liable"" and omit ""a summary way"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
+[Section 17][3479]: insert ""on conviction"" after ""is liable"" and omit ""a summary way"" and substitute ""accordance with Part 3 of the Summary Proceedings Act 1957"".
 
 ## Part 4  
 Amendments to regulations
 
-##### [Abel Tasman National Park Bylaws 2009][3486] (SR 2009/46)
+##### [Abel Tasman National Park Bylaws 2009][3480] (SR 2009/46)
 
-[Bylaw 23][3487]: omit ""summary"".
+[Bylaw 23][3481]: omit ""summary"".
 
-##### [Animal Welfare (Records and Statistics) Regulations 1999][3488] (SR 1999/392)
+##### [Animal Welfare (Records and Statistics) Regulations 1999][3482] (SR 1999/392)
 
-[Regulation 7(2)][3489]: omit ""summary"".
+[Regulation 7(2)][3483]: omit ""summary"".
 
-##### [Armed Forces Establishments Road Traffic Bylaws 1978][3490] (SR 1978/149)
+##### [Armed Forces Establishments Road Traffic Bylaws 1978][3484] (SR 1978/149)
 
-[Bylaw 7(4)][3491]: omit ""summary"".
+[Bylaw 7(4)][3485]: omit ""summary"".
 
-##### [Arms Regulations 1992][3492] (SR 1992/346)
+##### [Arms Regulations 1992][3486] (SR 1992/346)
 
-[Regulation 12(2)][3493]: omit ""summary"".
+[Regulation 12(2)][3487]: omit ""summary"".
 
-[Regulation 13(3)][3494]: omit ""summary"".
+[Regulation 13(3)][3488]: omit ""summary"".
 
-[Regulation 27(2)][3495]: omit ""summary"".
+[Regulation 27(2)][3489]: omit ""summary"".
 
-##### [Arthur's Pass National Park Bylaws 1981][3496] (SR 1981/63)
+##### [Arthur's Pass National Park Bylaws 1981][3490] (SR 1981/63)
 
-[Bylaw 17][3497]: omit ""summary"".
+[Bylaw 17][3491]: omit ""summary"".
 
-##### [Biosecurity (Imported Animals, Embryos, and Semen Information) Regulations 1999][3498] (SR 1999/367)
+##### [Biosecurity (Imported Animals, Embryos, and Semen Information) Regulations 1999][3492] (SR 1999/367)
 
-[Regulation 9(3)][3499]: omit ""summary"".
+[Regulation 9(3)][3493]: omit ""summary"".
 
-##### [Biosecurity (Meat and Food Waste for Pigs) Regulations 2005][3500] (SR 2005/150)
+##### [Biosecurity (Meat and Food Waste for Pigs) Regulations 2005][3494] (SR 2005/150)
 
-[Regulation 8(4)(b)(i)][3501]: omit ""informant"" and substitute ""prosecutor"".
+[Regulation 8(4)(b)(i)][3495]: omit ""informant"" and substitute ""prosecutor"".
 
-##### [Biosecurity (Ruminant Protein) Regulations 1999][3502] (SR 1999/410)
+##### [Biosecurity (Ruminant Protein) Regulations 1999][3496] (SR 1999/410)
 
-[Regulation 18AA(4)(b)(i)][3503]: omit ""informant"" and substitute ""prosecutor"".
+[Regulation 18AA(4)(b)(i)][3497]: omit ""informant"" and substitute ""prosecutor"".
 
-##### [Citizenship Regulations 2002][3504] (SR 2002/73)
+##### [Citizenship Regulations 2002][3498] (SR 2002/73)
 
-[Regulation 19][3505]: omit ""summary"".
+[Regulation 19][3499]: omit ""summary"".
 
-##### [Civil Aviation (Offences) Regulations 2006][3506] (SR 2006/168)
+##### [Civil Aviation (Offences) Regulations 2006][3500] (SR 2006/168)
 
-[Heading to regulation 4][3507]: omit ""**Summary offences**"" and substitute ""**Offences**"".
+[Heading to regulation 4][3501]: omit ""**Summary offences**"" and substitute ""**Offences**"".
 
-[Regulation 4(2)][3507]: omit ""summary"".
+[Regulation 4(2)][3501]: omit ""summary"".
 
-[Schedule 1][3508], heading above columns 3 and 4 of the table: omit ""**Summary conviction**"" and substitute ""**Conviction**"".
+[Schedule 1][3502], heading above columns 3 and 4 of the table: omit ""**Summary conviction**"" and substitute ""**Conviction**"".
 
-##### [Civil Defence Emergency Management Regulations 2003][3509] (SR 2003/89)
+##### [Civil Defence Emergency Management Regulations 2003][3503] (SR 2003/89)
 
-[Regulation 4(4)][3510]: omit ""summary"".
+[Regulation 4(4)][3504]: omit ""summary"".
 
-##### [Continental Shelf (Kupe Wellhead Platform Safety Zone) Regulations 2006][3511] (SR 2006/381)
+##### [Continental Shelf (Kupe Wellhead Platform Safety Zone) Regulations 2006][3505] (SR 2006/381)
 
-[Regulation 6(2)][3512]: omit ""summary"".
+[Regulation 6(2)][3506]: omit ""summary"".
 
-##### [Continental Shelf (Maari Development Safety Zones) Regulations 2008][3513] (SR 2008/125)
+##### [Continental Shelf (Maari Development Safety Zones) Regulations 2008][3507] (SR 2008/125)
 
-[Regulation 7(2)][3514]: omit ""summary"".
+[Regulation 7(2)][3508]: omit ""summary"".
 
-##### [Continental Shelf (Maui A Safety Zone) Regulations 1975][3515] (SR 1975/300)
+##### [Continental Shelf (Maui A Safety Zone) Regulations 1975][3509] (SR 1975/300)
 
-[Regulation 4(2)][3516]: omit ""summary"".
+[Regulation 4(2)][3510]: omit ""summary"".
 
-##### [Continental Shelf (Maui B Safety Zone) Regulations 1991][3517] (SR 1991/278)
+##### [Continental Shelf (Maui B Safety Zone) Regulations 1991][3511] (SR 1991/278)
 
-[Regulation 4(2)][3518]: omit ""summary"".
+[Regulation 4(2)][3512]: omit ""summary"".
 
-##### [Continental Shelf (Pohokura Platform B Safety Zone) Regulations 2006][3519] (SR 2006/9)
+##### [Continental Shelf (Pohokura Platform B Safety Zone) Regulations 2006][3513] (SR 2006/9)
 
-[Regulation 6(2)][3520]: omit ""summary"".
+[Regulation 6(2)][3514]: omit ""summary"".
 
-##### [Continental Shelf (Umuroa Installation Safety Zone) Regulations 2008][3521] (SR 2008/11)
+##### [Continental Shelf (Umuroa Installation Safety Zone) Regulations 2008][3515] (SR 2008/11)
 
-[Regulation 6(2)][3522]: omit ""summary"".
+[Regulation 6(2)][3516]: omit ""summary"".
 
-##### [Corrections Regulations 2005][3523] (SR 2005/53)
+##### [Corrections Regulations 2005][3517] (SR 2005/53)
 
-[Regulation 26(2)][3524]: repeal and substitute:
+[Regulation 26(2)][3518]: repeal and substitute:
 
 > *   "(2) In this regulation, _serious violent offence_ means an offence against any of the following provisions of the Crimes Act 1961 in respect of which a determinate sentence of more than 2 years' imprisonment is imposed on the offender:
 >         
@@ -16067,117 +16051,117 @@ Amendments to regulations
 > 
 > 
 
-##### [Coromandel County Foreshore Licence Order 1973][3525] (SR 1973/278)
+##### [Coromandel County Foreshore Licence Order 1973][3519] (SR 1973/278)
 
-[Clause 21][3526]: omit ""summary"".
+[Clause 21][3520]: omit ""summary"".
 
-##### [Criminal Investigations (Bodily Samples) Regulations 2004][3527] (SR 2004/53)
+##### [Criminal Investigations (Bodily Samples) Regulations 2004][3521] (SR 2004/53)
 
-[Schedule][3528], form 2: omit ""indictable"" in each place where it appears.
+[Schedule][3522], form 2: omit ""indictable"" in each place where it appears.
 
-[Schedule][3528], form 5: omit ""indictable"" in each place where it appears.
+[Schedule][3522], form 5: omit ""indictable"" in each place where it appears.
 
-##### [Criminal Proceeds (Recovery) Regulations 2009][3529] (SR 2009/311)
+##### [Criminal Proceeds (Recovery) Regulations 2009][3523] (SR 2009/311)
 
-[Schedule][3530], form 32, paragraph 2(c), Statement A: omit ""an information has been laid"" and substitute ""a charging document has been filed"".
+[Schedule][3524], form 32, paragraph 2(c), Statement A: omit ""an information has been laid"" and substitute ""a charging document has been filed"".
 
-[Schedule][3530], form 32, paragraph 2(c), Statement B: omit ""an information will be laid"" and substitute ""a charging document will be filed"".
+[Schedule][3524], form 32, paragraph 2(c), Statement B: omit ""an information will be laid"" and substitute ""a charging document will be filed"".
 
-##### [Dairy Industry (Herd Testing and New Zealand Dairy Core Database) Regulations 2001][3531] (SR 2001/373)
+##### [Dairy Industry (Herd Testing and New Zealand Dairy Core Database) Regulations 2001][3525] (SR 2001/373)
 
-[Regulation 32(1) and (2)][3532]: omit ""summary"".
+[Regulation 32(1) and (2)][3526]: omit ""summary"".
 
-##### [Deer Industry New Zealand Regulations 2004][3533] (SR 2004/323)
+##### [Deer Industry New Zealand Regulations 2004][3527] (SR 2004/323)
 
-[Regulation 45][3534]: omit ""summary"".
+[Regulation 45][3528]: omit ""summary"".
 
-##### [Defence Regulations 1990][3535] (SR 1990/78)
+##### [Defence Regulations 1990][3529] (SR 1990/78)
 
-[Regulation 39][3536]: omit ""summary"".
+[Regulation 39][3530]: omit ""summary"".
 
-##### [District Courts (Categorisation of Offences) Regulations 2008][3537] (SR 2008/211)
+##### [District Courts (Categorisation of Offences) Regulations 2008][3531] (SR 2008/211)
 
 Revoke.
 
-##### [Education (Early Childhood Centres) Regulations 1998][3538] (SR 1998/85)
+##### [Education (Early Childhood Centres) Regulations 1998][3532] (SR 1998/85)
 
-[Regulation 41][3539]: omit ""summary"".
+[Regulation 41][3533]: omit ""summary"".
 
-##### [Education (Early Childhood Services) Regulations 2008][3540] (SR 2008/204)
+##### [Education (Early Childhood Services) Regulations 2008][3534] (SR 2008/204)
 
-[Regulation 38][3541]: omit ""summary"".
+[Regulation 38][3535]: omit ""summary"".
 
-##### [Education (Hostels) Regulations 2005][3542] (SR 2005/332)
+##### [Education (Hostels) Regulations 2005][3536] (SR 2005/332)
 
-[Regulation 74(3)][3543]: omit ""summary"".
+[Regulation 74(3)][3537]: omit ""summary"".
 
-[Regulation 75(3)][3544]: omit ""summary"".
+[Regulation 75(3)][3538]: omit ""summary"".
 
-##### [Egmont National Park Bylaws 1981][3545] (SR 1981/64)
+##### [Egmont National Park Bylaws 1981][3539] (SR 1981/64)
 
-[Bylaw 15][3546]: omit ""summary"".
+[Bylaw 15][3540]: omit ""summary"".
 
-##### [Electoral Regulations 1996][3547] (SR 1996/93)
+##### [Electoral Regulations 1996][3541] (SR 1996/93)
 
-[Regulation 46(5)][3548]: omit ""summary"".
+[Regulation 46(5)][3542]: omit ""summary"".
 
-[Regulation 68][3549]: omit ""summary"".
+[Regulation 68][3543]: omit ""summary"".
 
-##### [Electricity (China Free Trade Agreement) Regulations 2008][3550] (SR 2008/223)
+##### [Electricity (China Free Trade Agreement) Regulations 2008][3544] (SR 2008/223)
 
-[Regulation 7(2)][3551]: omit ""summary"".
+[Regulation 7(2)][3545]: omit ""summary"".
 
-##### [Electricity Industry (Enforcement) Regulations 2010][3552] (SR 2010/362)
+##### [Electricity Industry (Enforcement) Regulations 2010][3546] (SR 2010/362)
 
-[Regulation 7(4)][3553]: omit ""summary"".
+[Regulation 7(4)][3547]: omit ""summary"".
 
-[Regulation 49][3554]: omit ""summary"".
+[Regulation 49][3548]: omit ""summary"".
 
-##### [Electricity (Hazards from Trees) Regulations 2003][3555] (SR 2003/375)
+##### [Electricity (Hazards from Trees) Regulations 2003][3549] (SR 2003/375)
 
-[Regulation 26(2)][3556]: omit ""summary"".
+[Regulation 26(2)][3550]: omit ""summary"".
 
-[Regulation 27(3) and (4)][3557]: omit ""summary"".
+[Regulation 27(3) and (4)][3551]: omit ""summary"".
 
-[Regulation 37(1)][3558]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
+[Regulation 37(1)][3552]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
 
-##### [Electricity (Low Fixed Charge Tariff Option for Domestic Consumers) Regulations 2004][3559] (SR 2004/272)
+##### [Electricity (Low Fixed Charge Tariff Option for Domestic Consumers) Regulations 2004][3553] (SR 2004/272)
 
-[Regulation 24(1), (2), and (3)][3560]: omit ""summary"".
+[Regulation 24(1), (2), and (3)][3554]: omit ""summary"".
 
-[Regulation 25][3561]: omit ""summary"".
+[Regulation 25][3555]: omit ""summary"".
 
-##### [Electricity (Safety) Regulations 2010][3562] (SR 2010/36)
+##### [Electricity (Safety) Regulations 2010][3556] (SR 2010/36)
 
-[Regulation 10(1) and (2)][3563]: omit ""summary"".
+[Regulation 10(1) and (2)][3557]: omit ""summary"".
 
-[Schedule 3][3564], form 1: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
+[Schedule 3][3558], form 1: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
 
-[Schedule 3][3564], form 2: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
+[Schedule 3][3558], form 2: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
 
-##### [Electricity (Statistics) Regulations 1996][3565] (SR 1996/17)
+##### [Electricity (Statistics) Regulations 1996][3559] (SR 1996/17)
 
-[Regulation 12(2)][3566]: omit ""summary"".
+[Regulation 12(2)][3560]: omit ""summary"".
 
-##### [Employment Court Regulations 2000][3567] (SR 2000/250)
+##### [Employment Court Regulations 2000][3561] (SR 2000/250)
 
-[Regulation 71(2)][3568]: omit ""information"" and substitute ""charging document"".
+[Regulation 71(2)][3562]: omit ""information"" and substitute ""charging document"".
 
-[Regulation 71(3)][3568]: revoke and substitute:
+[Regulation 71(3)][3562]: revoke and substitute:
 
 > *   "(3) Every charging document for an offence must be filed within 6 months after the date on which the offence was committed."
 > 
 > 
 
-[Regulation 72(2)][3569]: omit ""section 71 of the Summary Proceedings Act 1957"" and substitute ""section 184 of the Criminal Procedure Act 2011"".
+[Regulation 72(2)][3563]: omit ""section 71 of the Summary Proceedings Act 1957"" and substitute ""section 184 of the Criminal Procedure Act 2011"".
 
-[Schedule 1, heading to form 16][3570]: omit and substitute ""**Charging document**"".
+[Schedule 1, heading to form 16][3564]: omit and substitute ""**Charging document**"".
 
-[Schedule 1, form 16][3570]: omit ""say on oath that I"".
+[Schedule 1, form 16][3564]: omit ""say on oath that I"".
 
-[Schedule 1, form 16][3570]: omit ""_informant_"" and substitute ""_prosecutor_"".
+[Schedule 1, form 16][3564]: omit ""_informant_"" and substitute ""_prosecutor_"".
 
-[Schedule 1, form 16][3570]: omit:
+[Schedule 1, form 16][3564]: omit:
 
 > "Sworn before me at ....... this ....... day of ....... 20...
 > 
@@ -16187,691 +16171,691 @@ Revoke.
 > 
 > "Registrar of the Employment Court".
 
-[Schedule 1, form 17][3571]: omit ""on oath"".
+[Schedule 1, form 17][3565]: omit ""on oath"".
 
-[Schedule 1, form 17][3571]: omit ""information"" and substitute ""charging document"".
+[Schedule 1, form 17][3565]: omit ""information"" and substitute ""charging document"".
 
-[Schedule 2, clause 1(1)][3572]: omit ""an information"" and substitute ""a charge"".
+[Schedule 2, clause 1(1)][3566]: omit ""an information"" and substitute ""a charge"".
 
-[Schedule 2, clause 1(2)][3572]: omit ""information"" and substitute ""charge"".
+[Schedule 2, clause 1(2)][3566]: omit ""information"" and substitute ""charge"".
 
-[Schedule 2, clause 1(3)][3572]: omit ""information"" in both places where it appears and substitute in each case ""charge"".
+[Schedule 2, clause 1(3)][3566]: omit ""information"" in both places where it appears and substitute in each case ""charge"".
 
-[Schedule 2, heading to clause 2][3573]: omit ""**Information**"" and substitute ""**Charge**"".
+[Schedule 2, heading to clause 2][3567]: omit ""**Information**"" and substitute ""**Charge**"".
 
-[Schedule 2, clause 2][3573]: omit ""An information"" and substitute ""A charge"".
+[Schedule 2, clause 2][3567]: omit ""An information"" and substitute ""A charge"".
 
-[Schedule 2, heading to clause 3][3574]: omit ""**Information**"" and substitute ""**Charge**"".
+[Schedule 2, heading to clause 3][3568]: omit ""**Information**"" and substitute ""**Charge**"".
 
-[Schedule 2, clause 3][3574]: omit ""information"" and substitute ""charge"".
+[Schedule 2, clause 3][3568]: omit ""information"" and substitute ""charge"".
 
-[Schedule 2, heading to clause 4][3575]: omit ""**Information**"" and substitute ""**Charge**"".
+[Schedule 2, heading to clause 4][3569]: omit ""**Information**"" and substitute ""**Charge**"".
 
-[Schedule 2, clause 4][3575]: omit ""an information"" and substitute ""a charge"".
+[Schedule 2, clause 4][3569]: omit ""an information"" and substitute ""a charge"".
 
-[Schedule 2, clause 4][3575]: omit ""that information"" and substitute ""that charge"".
+[Schedule 2, clause 4][3569]: omit ""that information"" and substitute ""that charge"".
 
-[Schedule 2, clause 4][3575]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
+[Schedule 2, clause 4][3569]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
 
-[Schedule 2, clause 5][3576]: omit ""When an information has been substantiated on oath or by affirmation"" and substitute ""When a charging document has been filed"".
+[Schedule 2, clause 5][3570]: omit ""When an information has been substantiated on oath or by affirmation"" and substitute ""When a charging document has been filed"".
 
-[Schedule 2, heading to clause 6][3577]: omit ""**information by informant**"" and substitute ""**charge by prosecutor**"".
+[Schedule 2, heading to clause 6][3571]: omit ""**information by informant**"" and substitute ""**charge by prosecutor**"".
 
-[Schedule 2, clause 6(1)][3577]: omit ""information"" in each place where it appears and substitute in each case ""charge"".
+[Schedule 2, clause 6(1)][3571]: omit ""information"" in each place where it appears and substitute in each case ""charge"".
 
-[Schedule 2, clause 6(1)][3577]: omit ""informant"" and substitute ""prosecutor"".
+[Schedule 2, clause 6(1)][3571]: omit ""informant"" and substitute ""prosecutor"".
 
-[Schedule 2, clause 6(2)][3577]: omit ""an information"" and substitute ""a charge"".
+[Schedule 2, clause 6(2)][3571]: omit ""an information"" and substitute ""a charge"".
 
-[Schedule 2, clause 8(2)][3578]: omit ""informant"" and substitute ""prosecutor"".
+[Schedule 2, clause 8(2)][3572]: omit ""informant"" and substitute ""prosecutor"".
 
-[Schedule 2, heading to clause 10][3579]: omit ""**information**"" and substitute ""**charge**"".
+[Schedule 2, heading to clause 10][3573]: omit ""**information**"" and substitute ""**charge**"".
 
-[Schedule 2, clause 10(1) and (3)][3579]: omit ""information"" in each place where it appears and substitute in each case ""charge"".
+[Schedule 2, clause 10(1) and (3)][3573]: omit ""information"" in each place where it appears and substitute in each case ""charge"".
 
-[Schedule 2, clause 10(2)][3579]: omit ""an information"" and substitute ""a charge"".
+[Schedule 2, clause 10(2)][3573]: omit ""an information"" and substitute ""a charge"".
 
-[Schedule 2, clause 11][3580]: omit ""informant"" and substitute ""prosecutor"".
+[Schedule 2, clause 11][3574]: omit ""informant"" and substitute ""prosecutor"".
 
-[Schedule 2, heading to clause 12][3581]: omit ""**informant**"" and substitute ""**prosecutor**"".
+[Schedule 2, heading to clause 12][3575]: omit ""**informant**"" and substitute ""**prosecutor**"".
 
-[Schedule 2, clause 12][3581]: omit ""information"" and substitute ""charge"".
+[Schedule 2, clause 12][3575]: omit ""information"" and substitute ""charge"".
 
-[Schedule 2, clause 13][3582]: omit ""informant"" and substitute ""prosecutor"".
+[Schedule 2, clause 13][3576]: omit ""informant"" and substitute ""prosecutor"".
 
-[Schedule 2, clause 13][3582]: omit ""information"" and substitute ""charge"".
+[Schedule 2, clause 13][3576]: omit ""information"" and substitute ""charge"".
 
-[Schedule 2, clause 14][3583]: omit ""an information"" and substitute ""a charge"".
+[Schedule 2, clause 14][3577]: omit ""an information"" and substitute ""a charge"".
 
-[Schedule 2, clause 15(1)][3584]: omit ""informant"" and substitute ""prosecutor"".
+[Schedule 2, clause 15(1)][3578]: omit ""informant"" and substitute ""prosecutor"".
 
-[Schedule 2, clause 16][3585]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
+[Schedule 2, clause 16][3579]: omit ""informant"" in each place where it appears and substitute in each case ""prosecutor"".
 
-[Schedule 2, clause 16(7)][3585]: omit ""information"" and substitute ""charge"".
+[Schedule 2, clause 16(7)][3579]: omit ""information"" and substitute ""charge"".
 
-[Schedule 2, clause 17(1)][3586]: omit ""information"" and substitute ""charge"".
+[Schedule 2, clause 17(1)][3580]: omit ""information"" and substitute ""charge"".
 
-[Schedule 2, clause 18(1)][3587]: omit ""informant"" and substitute ""prosecutor"".
+[Schedule 2, clause 18(1)][3581]: omit ""informant"" and substitute ""prosecutor"".
 
-##### [Energy Efficiency (Energy Using Products) Regulations 2002][3588] (SR 2002/9)
+##### [Energy Efficiency (Energy Using Products) Regulations 2002][3582] (SR 2002/9)
 
-[Regulation 13(1)][3589]: omit ""summary"".
+[Regulation 13(1)][3583]: omit ""summary"".
 
-[Regulation 14(4)(a)][3590]: omit ""informant"" and substitute ""prosecutor"".
+[Regulation 14(4)(a)][3584]: omit ""informant"" and substitute ""prosecutor"".
 
-##### [Energy Efficiency (Vehicle Fuel Economy Labelling) Regulations 2007][3591] (SR 2007/398)
+##### [Energy Efficiency (Vehicle Fuel Economy Labelling) Regulations 2007][3585] (SR 2007/398)
 
-[Regulation 11(2)][3592]: omit ""summary"".
+[Regulation 11(2)][3586]: omit ""summary"".
 
-##### [Engine Fuel Specifications Regulations 2008][3593] (SR 2008/138)
+##### [Engine Fuel Specifications Regulations 2008][3587] (SR 2008/138)
 
-[Regulation 22][3594]: omit ""summary"".
+[Regulation 22][3588]: omit ""summary"".
 
-##### [Evidence Regulations 2007][3595] (SR 2007/204)
+##### [Evidence Regulations 2007][3589] (SR 2007/204)
 
-[Regulation 4(b)][3596]: omit ""informant"" and substitute ""prosecutor"".
+[Regulation 4(b)][3590]: omit ""informant"" and substitute ""prosecutor"".
 
-[Regulation 20(b)(ii)][3597]: omit ""laid"" and substitute ""filed"".
+[Regulation 20(b)(ii)][3591]: omit ""laid"" and substitute ""filed"".
 
-[Regulation 20(b)(iii)][3597]: revoke.
+[Regulation 20(b)(iii)][3591]: revoke.
 
-[Regulation 21(1)][3598]: omit ""or any other complainant of the kind described in section 185CA(1)(a) of the Summary Proceedings Act 1957"".
+[Regulation 21(1)][3592]: omit ""or any other complainant of the kind described in section 185CA(1)(a) of the Summary Proceedings Act 1957"".
 
-[Regulation 22(1)][3599]: omit ""or any other complainant of the kind described in section 185CA(1)(a) of the Summary Proceedings Act 1957"".
+[Regulation 22(1)][3593]: omit ""or any other complainant of the kind described in section 185CA(1)(a) of the Summary Proceedings Act 1957"".
 
-[Heading to regulation 28][3600]: omit ""**before preliminary hearing or defended summary hearing**"" and substitute ""**after defendant pleads not guilty**"".
+[Heading to regulation 28][3594]: omit ""**before preliminary hearing or defended summary hearing**"" and substitute ""**after defendant pleads not guilty**"".
 
-[Regulation 28(1)][3600]: revoke and substitute:
+[Regulation 28(1)][3594]: revoke and substitute:
 
 > *   "(1) The prosecutor must ensure a typed transcript of a working copy is given to the defendant or the defendant's lawyer as soon as practicable after the defendant has pleaded not guilty."
 > 
 > 
 
-##### [Films, Videos, and Publications Classification Regulations 1994][3601] (SR 1994/189)
+##### [Films, Videos, and Publications Classification Regulations 1994][3595] (SR 1994/189)
 
-[Regulation 46(3)][3602]: omit ""summary"".
+[Regulation 46(3)][3596]: omit ""summary"".
 
-##### [Fiordland National Park Bylaws 1981][3603] (SR 1981/65)
+##### [Fiordland National Park Bylaws 1981][3597] (SR 1981/65)
 
-[Bylaw 16][3604]: omit ""summary"".
+[Bylaw 16][3598]: omit ""summary"".
 
-##### [Fire Safety and Evacuation of Buildings Regulations 2006][3605] (SR 2006/123)
+##### [Fire Safety and Evacuation of Buildings Regulations 2006][3599] (SR 2006/123)
 
-[Regulation 14][3606]: omit ""summary"".
+[Regulation 14][3600]: omit ""summary"".
 
-##### [Fire Service Regulations 2003][3607] (SR 2003/241)
+##### [Fire Service Regulations 2003][3601] (SR 2003/241)
 
-[Regulation 9(2)][3608]: omit ""summary"".
+[Regulation 9(2)][3602]: omit ""summary"".
 
-##### [Fish and Game Council Elections Regulations 1990][3609] (SR 1990/361)
+##### [Fish and Game Council Elections Regulations 1990][3603] (SR 1990/361)
 
-[Regulation 25(1) and (2)][3610]: omit ""summary"".
+[Regulation 25(1) and (2)][3604]: omit ""summary"".
 
-##### [Fisheries (Amateur Fishing) Regulations 1986][3611] (SR 1986/221)
+##### [Fisheries (Amateur Fishing) Regulations 1986][3605] (SR 1986/221)
 
-[Regulation 29(1) and (2)][3612]: omit ""summary"".
+[Regulation 29(1) and (2)][3606]: omit ""summary"".
 
-##### [Fisheries (Auckland and Kermadec Areas Amateur Fishing) Regulations 1986][3613] (SR 1986/222)
+##### [Fisheries (Auckland and Kermadec Areas Amateur Fishing) Regulations 1986][3607] (SR 1986/222)
 
-[Regulation 11(1) and (2)][3614]: omit ""summary"".
+[Regulation 11(1) and (2)][3608]: omit ""summary"".
 
-##### [Fisheries (Auckland and Kermadec Areas Commercial Fishing) Regulations 1986][3615] (SR 1986/216)
+##### [Fisheries (Auckland and Kermadec Areas Commercial Fishing) Regulations 1986][3609] (SR 1986/216)
 
-[Regulation 24(1) and (2)][3616]: omit ""summary"".
+[Regulation 24(1) and (2)][3610]: omit ""summary"".
 
-##### [Fisheries (Benthic Protection Areas) Regulations 2007][3617] (SR 2007/308)
+##### [Fisheries (Benthic Protection Areas) Regulations 2007][3611] (SR 2007/308)
 
-[Regulation 13(1), (2), and (3)][3618]: omit ""summary"".
+[Regulation 13(1), (2), and (3)][3612]: omit ""summary"".
 
-##### [Fisheries (Central Area Amateur Fishing) Regulations 1986][3619] (SR 1986/223)
+##### [Fisheries (Central Area Amateur Fishing) Regulations 1986][3613] (SR 1986/223)
 
-[Regulation 6(1) and (2)][3620]: omit ""summary"".
+[Regulation 6(1) and (2)][3614]: omit ""summary"".
 
-##### [Fisheries (Central Area Commercial Fishing) Regulations 1986][3621] (SR 1986/217)
+##### [Fisheries (Central Area Commercial Fishing) Regulations 1986][3615] (SR 1986/217)
 
-[Regulation 16(1) and (2)][3622]: omit ""summary"".
+[Regulation 16(1) and (2)][3616]: omit ""summary"".
 
-##### [Fisheries (Challenger Area Amateur Fishing) Regulations 1986][3623] (SR 1986/224)
+##### [Fisheries (Challenger Area Amateur Fishing) Regulations 1986][3617] (SR 1986/224)
 
-[Regulation 5(1) and (2)][3624]: omit ""summary"".
+[Regulation 5(1) and (2)][3618]: omit ""summary"".
 
-##### [Fisheries (Challenger Area Commercial Fishing) Regulations 1986][3625] (SR 1986/218)
+##### [Fisheries (Challenger Area Commercial Fishing) Regulations 1986][3619] (SR 1986/218)
 
-[Regulation 15(1) and (2)][3626]: omit ""summary"".
+[Regulation 15(1) and (2)][3620]: omit ""summary"".
 
-##### [Fisheries (Commercial Fishing) Regulations 2001][3627] (SR 2001/253)
+##### [Fisheries (Commercial Fishing) Regulations 2001][3621] (SR 2001/253)
 
-[Regulation 85(1), (2), (3) and (4)][3628]: omit ""summary"".
+[Regulation 85(1), (2), (3) and (4)][3622]: omit ""summary"".
 
-##### [Fisheries (Licensed Fish Receivers) Regulations 1997][3629] (SR 1997/291)
+##### [Fisheries (Licensed Fish Receivers) Regulations 1997][3623] (SR 1997/291)
 
-[Regulation 23(2)][3630]: omit ""summary"".
+[Regulation 23(2)][3624]: omit ""summary"".
 
-##### [Fisheries (Recordkeeping) Regulations 1990][3631] (SR 1990/219)
+##### [Fisheries (Recordkeeping) Regulations 1990][3625] (SR 1990/219)
 
-[Regulation 28(2)][3632]: omit ""summary"".
+[Regulation 28(2)][3626]: omit ""summary"".
 
-##### [Fisheries (Reporting) Regulations 2001][3633] (SR 2001/188)
+##### [Fisheries (Reporting) Regulations 2001][3627] (SR 2001/188)
 
-[Regulation 43(a), (b), and (c)][3634]: omit ""summary"".
+[Regulation 43(a), (b), and (c)][3628]: omit ""summary"".
 
-##### [Fisheries (Satellite Vessel Monitoring) Regulations 1993][3635] (SR 1993/354)
+##### [Fisheries (Satellite Vessel Monitoring) Regulations 1993][3629] (SR 1993/354)
 
-[Regulation 8(2)][3636]: omit ""summary"".
+[Regulation 8(2)][3630]: omit ""summary"".
 
-##### [Fisheries (South-East Area Amateur Fishing) Regulations 1986][3637] (SR 1986/225)
+##### [Fisheries (South-East Area Amateur Fishing) Regulations 1986][3631] (SR 1986/225)
 
-[Regulation 8(1) and (2)][3638]: omit ""summary"".
+[Regulation 8(1) and (2)][3632]: omit ""summary"".
 
-##### [Fisheries (South-East Area Commercial Fishing) Regulations 1986][3639] (SR 1986/219)
+##### [Fisheries (South-East Area Commercial Fishing) Regulations 1986][3633] (SR 1986/219)
 
-[Regulation 12(1) and (2)][3640]: omit ""summary"".
+[Regulation 12(1) and (2)][3634]: omit ""summary"".
 
-##### [Fisheries (Southland and Sub-Antarctic Areas Amateur Fishing) Regulations 1991][3641] (SR 1991/57)
+##### [Fisheries (Southland and Sub-Antarctic Areas Amateur Fishing) Regulations 1991][3635] (SR 1991/57)
 
-[Regulation 7(1) and (2)][3642]: omit ""summary"".
+[Regulation 7(1) and (2)][3636]: omit ""summary"".
 
-##### [Fisheries (Southland and Sub-Antarctic Areas Commercial Fishing) Regulations 1986][3643] (SR 1986/220)
+##### [Fisheries (Southland and Sub-Antarctic Areas Commercial Fishing) Regulations 1986][3637] (SR 1986/220)
 
-[Regulation 16(1) and (2)][3644]: omit ""summary"".
+[Regulation 16(1) and (2)][3638]: omit ""summary"".
 
-##### [Fisheries (South Tasman Rise Orange Roughy Fishery) Regulations 2000][3645] (SR 2000/11)
+##### [Fisheries (South Tasman Rise Orange Roughy Fishery) Regulations 2000][3639] (SR 2000/11)
 
-[Regulation 18(2)][3646]: omit ""summary"".
+[Regulation 18(2)][3640]: omit ""summary"".
 
-##### [Fisheries (Toothfish Catch Documentation Scheme) Regulations 2000][3647] (SR 2000/57)
+##### [Fisheries (Toothfish Catch Documentation Scheme) Regulations 2000][3641] (SR 2000/57)
 
-[Regulation 9(4)][3648]: omit ""summary"".
+[Regulation 9(4)][3642]: omit ""summary"".
 
-##### [Fisheries (Western and Central Pacific Ocean Highly Migratory Fish Stocks) Regulations 2003][3649] (SR 2003/347)
+##### [Fisheries (Western and Central Pacific Ocean Highly Migratory Fish Stocks) Regulations 2003][3643] (SR 2003/347)
 
-[Regulation 9(2)][3650]: omit ""summary"".
+[Regulation 9(2)][3644]: omit ""summary"".
 
-##### [Fisheries (White Pointer Shark---High Seas Protection) Regulations 2007][3651] (SR 2007/48)
+##### [Fisheries (White Pointer Shark---High Seas Protection) Regulations 2007][3645] (SR 2007/48)
 
-[Regulation 5(2)][3652]: omit ""summary"".
+[Regulation 5(2)][3646]: omit ""summary"".
 
-##### [Food Hygiene Regulations 1974][3653] (SR 1974/169)
+##### [Food Hygiene Regulations 1974][3647] (SR 1974/169)
 
-[Regulation 86(2)][3654]: omit ""summary"".
+[Regulation 86(2)][3648]: omit ""summary"".
 
-##### [Foreshore Licence Regulations 1960][3655] (SR 1960/32)
+##### [Foreshore Licence Regulations 1960][3649] (SR 1960/32)
 
-[Regulation 17][3656]: omit ""summary"".
+[Regulation 17][3650]: omit ""summary"".
 
-##### [Forest and Rural Fires Regulations 2005][3657] (SR 2005/153)
+##### [Forest and Rural Fires Regulations 2005][3651] (SR 2005/153)
 
-[Regulation 60][3658]: omit ""summary"".
+[Regulation 60][3652]: omit ""summary"".
 
-##### [Forestry (East Coast) Grants Regulations 2000][3659] (SR 2000/55)
+##### [Forestry (East Coast) Grants Regulations 2000][3653] (SR 2000/55)
 
-[Regulation 22(2)][3660]: omit ""summary"".
+[Regulation 22(2)][3654]: omit ""summary"".
 
-##### [Forestry (Indigenous Timber Milling) Regulations 1993][3661] (SR 1993/227)
+##### [Forestry (Indigenous Timber Milling) Regulations 1993][3655] (SR 1993/227)
 
-[Regulation 9(2)][3662]: omit ""summary"".
+[Regulation 9(2)][3656]: omit ""summary"".
 
-##### [Freshwater Fisheries Regulations 1983][3663] (SR 1983/277)
+##### [Freshwater Fisheries Regulations 1983][3657] (SR 1983/277)
 
-[Regulation 72(1)][3664]: omit ""summary"".
+[Regulation 72(1)][3658]: omit ""summary"".
 
-##### [Freshwater Fish Farming Regulations 1983][3665] (SR 1983/278)
+##### [Freshwater Fish Farming Regulations 1983][3659] (SR 1983/278)
 
-[Regulation 35(2)(a) and (b)][3666]: omit ""summary"".
+[Regulation 35(2)(a) and (b)][3660]: omit ""summary"".
 
-##### [Futures Industry (Client Funds) Regulations 1990][3667] (SR 1990/227)
+##### [Futures Industry (Client Funds) Regulations 1990][3661] (SR 1990/227)
 
-[Regulation 25(1)][3668]: omit ""summary"".
+[Regulation 25(1)][3662]: omit ""summary"".
 
-##### [Gas Governance (Compliance) Regulations 2008][3669] (SR 2008/253)
+##### [Gas Governance (Compliance) Regulations 2008][3663] (SR 2008/253)
 
-[Regulation 51][3670]: omit ""summary"".
+[Regulation 51][3664]: omit ""summary"".
 
-##### [Gas (Safety and Measurement) Regulations 2010][3671] (SR 2010/76)
+##### [Gas (Safety and Measurement) Regulations 2010][3665] (SR 2010/76)
 
-[Regulation 6(1) and (2)][3672]: omit ""summary"".
+[Regulation 6(1) and (2)][3666]: omit ""summary"".
 
-[Schedule 2][3673], forms 1 and 2: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
+[Schedule 2][3667], forms 1 and 2: omit ""sections 21 and 78A of the Summary Proceedings Act 1957"" and substitute ""section 21 of the Summary Proceedings Act 1957 and section 375 of the Criminal Procedure Act 2011"".
 
-##### [Gas (Statistics) Regulations 1997][3674] (SR 1997/128)
+##### [Gas (Statistics) Regulations 1997][3668] (SR 1997/128)
 
-[Regulation 13(2)][3675]: omit ""summary"".
+[Regulation 13(2)][3669]: omit ""summary"".
 
-##### [Geothermal Energy Regulations 1961][3676] (SR 1961/124)
+##### [Geothermal Energy Regulations 1961][3670] (SR 1961/124)
 
-[Regulation 36(2)][3677]: omit ""summary"".
+[Regulation 36(2)][3671]: omit ""summary"".
 
-##### [Golden Bay County Foreshore Licence Order 1960][3678] (SR 1960/69)
+##### [Golden Bay County Foreshore Licence Order 1960][3672] (SR 1960/69)
 
-[Clause 43][3679]: omit ""summary"".
+[Clause 43][3673]: omit ""summary"".
 
-##### [Health and Safety in Employment (Asbestos) Regulations 1998][3680] (SR 1998/443)
+##### [Health and Safety in Employment (Asbestos) Regulations 1998][3674] (SR 1998/443)
 
-[Regulation 36(2)][3681]: omit ""summary"".
+[Regulation 36(2)][3675]: omit ""summary"".
 
-##### [Health and Safety in Employment (Mining Administration) Regulations 1996][3682] (SR 1996/220)
+##### [Health and Safety in Employment (Mining Administration) Regulations 1996][3676] (SR 1996/220)
 
-[Regulation 32(2)][3683]: omit ""summary"".
+[Regulation 32(2)][3677]: omit ""summary"".
 
-##### [Health and Safety in Employment (Mining---Underground) Regulations 1999][3684] (SR 1999/331)
+##### [Health and Safety in Employment (Mining---Underground) Regulations 1999][3678] (SR 1999/331)
 
-[Regulation 60(2)][3685]: omit ""summary"".
+[Regulation 60(2)][3679]: omit ""summary"".
 
-##### [Health and Safety in Employment (Petroleum Exploration and Extraction) Regulations 1999][3686] (SR 1999/349)
+##### [Health and Safety in Employment (Petroleum Exploration and Extraction) Regulations 1999][3680] (SR 1999/349)
 
-[Regulation 35(2)][3687]: omit ""summary"".
+[Regulation 35(2)][3681]: omit ""summary"".
 
-##### [Health and Safety in Employment (Pipelines) Regulations 1999][3688] (SR 1999/350)
+##### [Health and Safety in Employment (Pipelines) Regulations 1999][3682] (SR 1999/350)
 
-[Regulation 19(2)][3689]: omit ""summary"".
+[Regulation 19(2)][3683]: omit ""summary"".
 
-##### [Health and Safety in Employment (Pressure Equipment, Cranes, and Passenger Ropeways) Regulations 1999][3690] (SR 1999/128)
+##### [Health and Safety in Employment (Pressure Equipment, Cranes, and Passenger Ropeways) Regulations 1999][3684] (SR 1999/128)
 
-[Regulation 39(2)][3691]: omit ""summary"".
+[Regulation 39(2)][3685]: omit ""summary"".
 
-##### [Health and Safety in Employment Regulations 1995][3692] (SR 1995/167)
+##### [Health and Safety in Employment Regulations 1995][3686] (SR 1995/167)
 
-[Regulation 70(2)][3693]: omit ""summary"".
+[Regulation 70(2)][3687]: omit ""summary"".
 
-##### [Health (Cervical Screening (Kaitiaki)) Regulations 1995][3694] (SR 1995/29)
+##### [Health (Cervical Screening (Kaitiaki)) Regulations 1995][3688] (SR 1995/29)
 
-[Regulation 11][3695]: omit ""summary"".
+[Regulation 11][3689]: omit ""summary"".
 
-##### [Health Entitlement Cards Regulations 1993][3696] (SR 1993/169)
+##### [Health Entitlement Cards Regulations 1993][3690] (SR 1993/169)
 
-[Regulation 15(3)][3697]: omit ""summary"".
+[Regulation 15(3)][3691]: omit ""summary"".
 
-##### [Health (Needles and Syringes) Regulations 1998][3698] (SR 1998/254)
+##### [Health (Needles and Syringes) Regulations 1998][3692] (SR 1998/254)
 
-[Regulation 14][3699]: omit ""summary"".
+[Regulation 14][3693]: omit ""summary"".
 
-##### [Health (Retention of Health Information) Regulations 1996][3700] (SR 1996/343)
+##### [Health (Retention of Health Information) Regulations 1996][3694] (SR 1996/343)
 
-[Regulation 11(2)][3701]: omit ""summary"".
+[Regulation 11(2)][3695]: omit ""summary"".
 
-##### [Heavy Motor Vehicle Regulations 1974][3702] (SR 1974/218)
+##### [Heavy Motor Vehicle Regulations 1974][3696] (SR 1974/218)
 
-[Regulation 18(2)][3703]: omit ""summary"".
+[Regulation 18(2)][3697]: omit ""summary"".
 
-##### [Herd Testing Regulations 1958][3704] (SR 1958/44)
+##### [Herd Testing Regulations 1958][3698] (SR 1958/44)
 
-[Regulation 5][3705]: omit ""summary"".
+[Regulation 5][3699]: omit ""summary"".
 
-##### [Historic Places Trust Elections Regulations 1993][3706] (SR 1993/302)
+##### [Historic Places Trust Elections Regulations 1993][3700] (SR 1993/302)
 
-[Regulation 22(1) and (2)][3707]: omit ""summary"".
+[Regulation 22(1) and (2)][3701]: omit ""summary"".
 
-##### [Housing Improvement Regulations 1947][3708] (SR 1947/200)
+##### [Housing Improvement Regulations 1947][3702] (SR 1947/200)
 
-[Regulation 20(1)][3709]: omit ""summary"".
+[Regulation 20(1)][3703]: omit ""summary"".
 
-[Regulation 21(9)][3710]: omit ""summary"".
+[Regulation 21(9)][3704]: omit ""summary"".
 
-##### [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][3711] (SR 2000/212)
+##### [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][3705] (SR 2000/212)
 
-[Regulation 20(8)][3712]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
+[Regulation 20(8)][3706]: omit ""Part 7 of the Summary Proceedings Act 1957"" and substitute ""sections 4A to 4F of the Justices of the Peace Act 1957"".
 
-##### [International Criminal Court Regulations 2004][3713] (SR 2004/80)
+##### [International Criminal Court Regulations 2004][3707] (SR 2004/80)
 
-[Regulation 6(2)][3714]: omit ""section 24 of the Summary Proceedings Act 1957 as if references in that section to the defendant were references to the person required to be served"" and substitute ""rules made under the Criminal Procedure Act 2011 that apply to service on a defendant"".
+[Regulation 6(2)][3708]: omit ""section 24 of the Summary Proceedings Act 1957 as if references in that section to the defendant were references to the person required to be served"" and substitute ""rules made under the Criminal Procedure Act 2011 that apply to service on a defendant"".
 
-##### [International War Crimes Tribunals Regulations 1995][3715] (SR 1995/138)
+##### [International War Crimes Tribunals Regulations 1995][3709] (SR 1995/138)
 
-[Regulation 4(2)][3716]: omit ""section 24 of the Summary Proceedings Act 1957 as if references in that section to the defendant were references to the person required to be served"" and substitute ""rules made under the Criminal Procedure Act 2011 that apply to service on a defendant"".
+[Regulation 4(2)][3710]: omit ""section 24 of the Summary Proceedings Act 1957 as if references in that section to the defendant were references to the person required to be served"" and substitute ""rules made under the Criminal Procedure Act 2011 that apply to service on a defendant"".
 
-##### [Kahurangi National Park Bylaws 2009][3717] (SR 2009/14)
+##### [Kahurangi National Park Bylaws 2009][3711] (SR 2009/14)
 
-[Bylaw 22][3718]: omit ""summary"".
+[Bylaw 22][3712]: omit ""summary"".
 
-##### [Kiwifruit Export Regulations 1999][3719] (SR 1999/310)
+##### [Kiwifruit Export Regulations 1999][3713] (SR 1999/310)
 
-[Regulation 3(2)][3720]: omit ""summary"".
+[Regulation 3(2)][3714]: omit ""summary"".
 
-##### [Labour Relations Regulations 1987][3721] (SR 1987/226)
+##### [Labour Relations Regulations 1987][3715] (SR 1987/226)
 
-[Regulation 54(2)][3722]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Regulation 54(2)][3716]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Lake Taupo (Crown Facilities, Permits and Fees) Regulations 2004][3723] (SR 2004/140)
+##### [Lake Taupo (Crown Facilities, Permits and Fees) Regulations 2004][3717] (SR 2004/140)
 
-[Regulation 13(1) and (2)][3724]: omit ""summary"".
+[Regulation 13(1) and (2)][3718]: omit ""summary"".
 
-##### [Land Act Regulations 1949][3725] (SR 1949/37)
+##### [Land Act Regulations 1949][3719] (SR 1949/37)
 
-[Regulation 17(16)][3726]: omit ""summary"".
+[Regulation 17(16)][3720]: omit ""summary"".
 
-[Regulation 20(3) and (4)][3727]: omit ""summary"".
+[Regulation 20(3) and (4)][3721]: omit ""summary"".
 
-[Regulation 21(1)][3728]: omit ""summary"".
+[Regulation 21(1)][3722]: omit ""summary"".
 
-[Regulation 24(2)][3729]: omit ""summary"".
+[Regulation 24(2)][3723]: omit ""summary"".
 
-##### [Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011][3730] (SR 2011/79)
+##### [Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011][3724] (SR 2011/79)
 
-[Regulation 92][3731]: omit ""summary"".
+[Regulation 92][3725]: omit ""summary"".
 
-[Schedule 6][3732], headings above columns 3 and 4 of the table: omit ""**summary**"".
+[Schedule 6][3726], headings above columns 3 and 4 of the table: omit ""**summary**"".
 
-##### [Land Transport (Offences and Penalties) Regulations 1999][3733] (SR 1999/99)
+##### [Land Transport (Offences and Penalties) Regulations 1999][3727] (SR 1999/99)
 
-[Heading to regulation 3][3734]: omit ""**Summary offences**"" and substitute ""**Offences**"".
+[Heading to regulation 3][3728]: omit ""**Summary offences**"" and substitute ""**Offences**"".
 
-[Regulation 3(2) and (4)][3734]: omit ""summary"".
+[Regulation 3(2) and (4)][3728]: omit ""summary"".
 
-[Schedule 1][3735], headings above columns 3 and 4 of the table: omit ""**summary**"".
+[Schedule 1][3729], headings above columns 3 and 4 of the table: omit ""**summary**"".
 
-##### [Lawyers and Conveyancers Act (Trust Account) Regulations 2008][3736] (SR 2008/183)
+##### [Lawyers and Conveyancers Act (Trust Account) Regulations 2008][3730] (SR 2008/183)
 
-[Regulation 41][3737]: omit ""summary"".
+[Regulation 41][3731]: omit ""summary"".
 
-##### [Maori Community Development Regulations 1963][3738] (SR 1963/87)
+##### [Maori Community Development Regulations 1963][3732] (SR 1963/87)
 
-[Regulation 8(1)][3739]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+[Regulation 8(1)][3733]: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Maori Reservations Regulations 1994][3740] (SR 1994/57)
+##### [Maori Reservations Regulations 1994][3734] (SR 1994/57)
 
-[Regulation 23(2)][3741]: omit ""summary"".
+[Regulation 23(2)][3735]: omit ""summary"".
 
-##### [Marine Protection (Offences) Regulations 1998][3742] (SR 1998/205)
+##### [Marine Protection (Offences) Regulations 1998][3736] (SR 1998/205)
 
 Heading to regulation 3: omit ""**Summary offences**"" and substitute ""**Offences**"".
 
-[Regulation 3(2)][3743]: omit ""summary"".
+[Regulation 3(2)][3737]: omit ""summary"".
 
-[Schedule 1][3744], headings above columns 3 and 4 of the table: omit ""**summary**"".
+[Schedule 1][3738], headings above columns 3 and 4 of the table: omit ""**summary**"".
 
-##### [Marine Reserves Regulations 1993][3745] (SR 1993/230)
+##### [Marine Reserves Regulations 1993][3739] (SR 1993/230)
 
-[Regulation 17(2)][3746]: omit ""summary"".
+[Regulation 17(2)][3740]: omit ""summary"".
 
-##### [Maritime (Offences) Regulations 1998][3747] (SR 1998/444)
+##### [Maritime (Offences) Regulations 1998][3741] (SR 1998/444)
 
-[Heading to regulation 3][3748]: omit ""**Summary offences**"" and substitute ""**Offences**"".
+[Heading to regulation 3][3742]: omit ""**Summary offences**"" and substitute ""**Offences**"".
 
-[Regulation 3(2)][3748]: omit ""summary"".
+[Regulation 3(2)][3742]: omit ""summary"".
 
-[Schedule 1][3749], headings above columns 3 and 4 of the table: omit ""**summary**"".
+[Schedule 1][3743], headings above columns 3 and 4 of the table: omit ""**summary**"".
 
-##### [Medicines Regulations 1984][3750] (SR 1984/143)
+##### [Medicines Regulations 1984][3744] (SR 1984/143)
 
-[Regulation 64(2)][3751]: omit ""summary"".
+[Regulation 64(2)][3745]: omit ""summary"".
 
-##### [Medicines (Database of Medical Devices) Regulations 2003][3752] (SR 2003/325)
+##### [Medicines (Database of Medical Devices) Regulations 2003][3746] (SR 2003/325)
 
-[Regulation 14][3753]: omit ""summary"".
+[Regulation 14][3747]: omit ""summary"".
 
-##### [Medicines (Designated Prescriber: Nurse Practitioners) Regulations 2005][3754] (SR 2005/266)
+##### [Medicines (Designated Prescriber: Nurse Practitioners) Regulations 2005][3748] (SR 2005/266)
+
+[Regulation 10(3)][3749]: omit ""summary"".
+
+##### [Medicines (Designated Prescriber: Optometrists) Regulations 2005][3750] (SR 2005/256)
+
+[Regulation 10(3)][3751]: omit ""summary"".
+
+##### [Medicines (Designated Prescriber---Registered Nurses Practising in Diabetes Health) Regulations 2011][3752] (SR 2011/54)
+
+[Regulation 10(3)][3753]: omit ""summary"".
+
+##### [Medicines (Standing Order) Regulations 2002][3754] (SR 2002/373)
 
 [Regulation 10(3)][3755]: omit ""summary"".
 
-##### [Medicines (Designated Prescriber: Optometrists) Regulations 2005][3756] (SR 2005/256)
+##### [Mental Health (Forms) Regulations 1992][3756] (SR 1992/305)
 
-[Regulation 10(3)][3757]: omit ""summary"".
+[Regulation 4(1)][3757]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-##### [Medicines (Designated Prescriber---Registered Nurses Practising in Diabetes Health) Regulations 2011][3758] (SR 2011/54)
+[Regulation 4(2)][3757]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Regulation 10(3)][3759]: omit ""summary"".
+[Regulation 7(1)][3758]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-##### [Medicines (Standing Order) Regulations 2002][3760] (SR 2002/373)
+[Regulation 7(2)][3758]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Regulation 10(3)][3761]: omit ""summary"".
+[Schedule 1, form 2][3759]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-##### [Mental Health (Forms) Regulations 1992][3762] (SR 1992/305)
+[Schedule 1, form 2][3759]: omit ""section 116 of the Criminal Justice Act 1985"" in each place where it appears and substitute in each case ""section 31 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Regulation 4(1)][3763]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, form 3][3760]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Regulation 4(2)][3763]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, form 3][3760]: omit ""section 117 of the Criminal Justice Act 1985"" in each place where it appears and substitute in each case ""section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Regulation 7(1)][3764]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, heading to form 6][3761]: omit ""section 115(1)(a), Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Regulation 7(2)][3764]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, form 6][3761]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Schedule 1, form 2][3765]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, form 6][3761]: omit ""section 116 of the Criminal Justice Act 1985"" and substitute ""section 31 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Schedule 1, form 2][3765]: omit ""section 116 of the Criminal Justice Act 1985"" in each place where it appears and substitute in each case ""section 31 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, heading to form 7][3762]: omit ""section 115(1)(b), Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Schedule 1, form 3][3766]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, form 7][3762]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Schedule 1, form 3][3766]: omit ""section 117 of the Criminal Justice Act 1985"" in each place where it appears and substitute in each case ""section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Schedule 1, form 7][3762]: omit ""section 117 of the Criminal Justice Act 1985"" and substitute ""section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
 
-[Schedule 1, heading to form 6][3767]: omit ""section 115(1)(a), Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+##### [Microwave Ovens Regulations 1982][3763] (SR 1982/221)
 
-[Schedule 1, form 6][3767]: omit ""section 115(1)(a) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Regulation 5(2)][3764]: omit ""summary"".
 
-[Schedule 1, form 6][3767]: omit ""section 116 of the Criminal Justice Act 1985"" and substitute ""section 31 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+##### [Mount Aspiring National Park Bylaws 1981][3765] (SR 1981/66)
 
-[Schedule 1, heading to form 7][3768]: omit ""section 115(1)(b), Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Bylaw 16][3766]: omit ""summary"".
 
-[Schedule 1, form 7][3768]: omit ""section 115(1)(b) of the Criminal Justice Act 1985"" and substitute ""section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+##### [Mount Cook National Park Bylaws 1981][3767] (SR 1981/67)
 
-[Schedule 1, form 7][3768]: omit ""section 117 of the Criminal Justice Act 1985"" and substitute ""section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003"".
+[Bylaw 16][3768]: omit ""summary"".
 
-##### [Microwave Ovens Regulations 1982][3769] (SR 1982/221)
+##### [Mutual Assistance in Criminal Matters Regulations 1993][3769] (SR 1993/92)
 
-[Regulation 5(2)][3770]: omit ""summary"".
+[Regulation 4(2)][3769]: omit ""section 24 of the Summary Proceedings Act 1957 as if references in that section to the defendant were references to the person required to be served"" and substitute ""rules made under the Criminal Procedure Act 2011 that apply to service on a defendant"".
 
-##### [Mount Aspiring National Park Bylaws 1981][3771] (SR 1981/66)
+##### [Nelson Lakes National Park Bylaws 2006][3770] (SR 2006/175)
 
-[Bylaw 16][3772]: omit ""summary"".
+[Bylaw 21][3771]: omit ""summary"".
 
-##### [Mount Cook National Park Bylaws 1981][3773] (SR 1981/67)
+##### [New Zealand Teachers Council (Conduct) Rules 2004][3772] (SR 2004/143)
 
-[Bylaw 16][3774]: omit ""summary"".
+Text of [section 139AY(3)][1569] of the Education Act 1989, as set out in the box after rule 36: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
 
-##### [Mutual Assistance in Criminal Matters Regulations 1993][3775] (SR 1993/92)
+Text of [section 139AZ(1) and (2)][1570] of the Education Act 1989, as set out in the box after rule 36: omit ""summary"".
 
-[Regulation 4(2)][3775]: omit ""section 24 of the Summary Proceedings Act 1957 as if references in that section to the defendant were references to the person required to be served"" and substitute ""rules made under the Criminal Procedure Act 2011 that apply to service on a defendant"".
+##### [Noxious Substances Regulations 1954][3773] (SR 1954/128)
 
-##### [Nelson Lakes National Park Bylaws 2006][3776] (SR 2006/175)
+[Regulation 21][3774]: omit ""summary"".
 
-[Bylaw 21][3777]: omit ""summary"".
+##### [Otamatea County Council Wharves Vesting Order 1962][3775] (SR 1962/185)
 
-##### [New Zealand Teachers Council (Conduct) Rules 2004][3778] (SR 2004/143)
+[Clause 32][3776]: omit ""summary"".
 
-Text of [section 139AY(3)][1570] of the Education Act 1989, as set out in the box after rule 36: omit ""Summary Proceedings Act 1957"" and substitute ""Criminal Procedure Act 2011"".
+##### [Ozone Layer Protection Regulations 1996][3777] (SR 1996/222)
 
-Text of [section 139AZ(1) and (2)][1571] of the Education Act 1989, as set out in the box after rule 36: omit ""summary"".
+[Regulation 37][3778]: omit ""summary"".
 
-##### [Noxious Substances Regulations 1954][3779] (SR 1954/128)
+##### [Parole Regulations 2002][3779] (SR 2002/179)
 
-[Regulation 21][3780]: omit ""summary"".
+Definition of _controlling officer_ in [regulation 3][3780]: omit ""section 127 of the Criminal Justice Act 1985"" and substitute ""section 27 of the Corrections Act 2004"".
 
-##### [Otamatea County Council Wharves Vesting Order 1962][3781] (SR 1962/185)
+##### [Patents Regulations 1954][3781] (SR 1954/211)
 
-[Clause 32][3782]: omit ""summary"".
+[Regulation 147][3782]: omit ""summary"".
 
-##### [Ozone Layer Protection Regulations 1996][3783] (SR 1996/222)
+##### [Private Security Personnel and Private Investigators (Forms) Regulations 2011][3783] (SR 2011/73)
 
-[Regulation 37][3784]: omit ""summary"".
+[Schedule, forms 1 and 2][3784], Notes, paragraph 2: omit ""summary"".
 
-##### [Parole Regulations 2002][3785] (SR 2002/179)
+[Schedule, form 6][3785], Notes, paragraph 3: omit ""summary"".
 
-Definition of _controlling officer_ in [regulation 3][3786]: omit ""section 127 of the Criminal Justice Act 1985"" and substitute ""section 27 of the Corrections Act 2004"".
+[Schedule, form 7][3786], Notes, paragraph 2: omit ""summary"".
 
-##### [Patents Regulations 1954][3787] (SR 1954/211)
+##### [Proceeds of Crime Regulations 1992][3787] (SR 1992/167)
 
-[Regulation 147][3788]: omit ""summary"".
+[Schedule, form 2][3788]: omit ""an information"" in each place where it appears and substitute in each case ""a charging document"".
 
-##### [Private Security Personnel and Private Investigators (Forms) Regulations 2011][3789] (SR 2011/73)
+[Schedule, form 2][3788]: omit ""laid"" in each place where it appears and substitute in each case ""filed"".
 
-[Schedule, forms 1 and 2][3790], Notes, paragraph 2: omit ""summary"".
+##### [Radiocommunications Regulations 2001][3789] (SR 2001/240)
 
-[Schedule, form 6][3791], Notes, paragraph 3: omit ""summary"".
+[Regulation 48(2)][3790]: omit ""summary"".
 
-[Schedule, form 7][3792], Notes, paragraph 2: omit ""summary"".
+##### [Rangitoto Island Foreshore Licence Order 1960][3791] (SR 1960/52)
 
-##### [Proceeds of Crime Regulations 1992][3793] (SR 1992/167)
+[Clause 16][3792]: omit ""summary"".
 
-[Schedule, form 2][3794]: omit ""an information"" in each place where it appears and substitute in each case ""a charging document"".
+##### [Real Estate Agents (Audit) Regulations 2009][3793] (SR 2009/279)
 
-[Schedule, form 2][3794]: omit ""laid"" in each place where it appears and substitute in each case ""filed"".
+[Regulation 30][3794]: omit ""summary"".
 
-##### [Radiocommunications Regulations 2001][3795] (SR 2001/240)
+##### [Rock Oyster Farming Regulations 1964][3795] (SR 1964/207)
 
-[Regulation 48(2)][3796]: omit ""summary"".
+[Heading to regulation 66][3796]: omit ""**summary**"".
 
-##### [Rangitoto Island Foreshore Licence Order 1960][3797] (SR 1960/52)
+[Regulation 66][3796]: omit ""summary"".
 
-[Clause 16][3798]: omit ""summary"".
+##### [Rock Oyster Farming Regulations 1964, Amendment No 1][3797] (SR 1966/142)
 
-##### [Real Estate Agents (Audit) Regulations 2009][3799] (SR 2009/279)
+[Regulation 25(2)][3798]: omit ""summary"".
 
-[Regulation 30][3800]: omit ""summary"".
+##### [Rotoaira Trout Fishing Regulations 1979][3799] (SR 1979/38)
 
-##### [Rock Oyster Farming Regulations 1964][3801] (SR 1964/207)
+[Regulation 53][3800]: omit ""summary"".
 
-[Heading to regulation 66][3802]: omit ""**summary**"".
+##### [Securities Act (Contributory Mortgage) Regulations 1988][3801] (SR 1988/143)
 
-[Regulation 66][3802]: omit ""summary"".
+[Regulation 41][3802]: omit ""summary"".
 
-##### [Rock Oyster Farming Regulations 1964, Amendment No 1][3803] (SR 1966/142)
+##### [Securities Regulations 2009][3803] (SR 2009/230)
 
-[Regulation 25(2)][3804]: omit ""summary"".
+[Regulation 32(2)][3804]: omit ""summary"".
 
-##### [Rotoaira Trout Fishing Regulations 1979][3805] (SR 1979/38)
+[Regulation 33(3)][3805]: omit ""summary"".
 
-[Regulation 53][3806]: omit ""summary"".
+[Regulation 34(1)][3806]: omit ""summary"".
 
-##### [Securities Act (Contributory Mortgage) Regulations 1988][3807] (SR 1988/143)
+##### [Serious Fraud Office (Prescribed Forms) Regulations 1990][3807] (SR 1990/163)
 
-[Regulation 41][3808]: omit ""summary"".
+[Schedule, form 1][3808]: omit ""on indictment"" in each place where it appears.
 
-##### [Securities Regulations 2009][3809] (SR 2009/230)
+[Schedule][3809], form 3: omit ""on indictment"" in each place where it appears.
 
-[Regulation 32(2)][3810]: omit ""summary"".
+##### [Social Security (SuperGold Card) Regulations 2007][3810] (SR 2007/209)
 
-[Regulation 33(3)][3811]: omit ""summary"".
+[Regulation 14(3)][3811]: omit ""summary"".
 
-[Regulation 34(1)][3812]: omit ""summary"".
+##### [Spray Coating Regulations 1962][3812] (SR 1962/54)
 
-##### [Serious Fraud Office (Prescribed Forms) Regulations 1990][3813] (SR 1990/163)
+[Regulation 40A][3813]: omit ""summary"".
 
-[Schedule, form 1][3814]: omit ""on indictment"" in each place where it appears.
+##### [State Forest Parks and Forest Recreation Regulations 1979][3814] (SR 1979/214)
 
-[Schedule][3815], form 3: omit ""on indictment"" in each place where it appears.
+[Regulation 29][3815]: omit ""summary"".
 
-##### [Social Security (SuperGold Card) Regulations 2007][3816] (SR 2007/209)
+##### [Taupo Fishery Regulations 2004][3816] (SR 2004/135)
 
-[Regulation 14(3)][3817]: omit ""summary"".
+[Regulation 29(2)][3817]: omit ""summary"".
 
-##### [Spray Coating Regulations 1962][3818] (SR 1962/54)
+##### [Te Arawa Lakes (Fisheries) Regulations 2006][3818] (SR 2006/340)
 
-[Regulation 40A][3819]: omit ""summary"".
+[Regulation 30(1), (2), and (3)][3819]: omit ""summary"".
 
-##### [State Forest Parks and Forest Recreation Regulations 1979][3820] (SR 1979/214)
+##### [Te Urewera National Park Bylaws 2006][3820] (SR 2006/115)
 
-[Regulation 29][3821]: omit ""summary"".
+[Bylaw 24][3821]: omit ""summary"".
 
-##### [Taupo Fishery Regulations 2004][3822] (SR 2004/135)
+##### [Titi (Muttonbird) Islands Regulations 1978][3822] (SR 1978/59)
 
-[Regulation 29(2)][3823]: omit ""summary"".
+[Regulation 11(1)][3823]: omit ""lay an information"" and substitute ""file a charging document"".
 
-##### [Te Arawa Lakes (Fisheries) Regulations 2006][3824] (SR 2006/340)
+[Regulation 11(3)][3823]: omit ""summary"".
 
-[Regulation 30(1), (2), and (3)][3825]: omit ""summary"".
+##### [Tokelau (Exclusive Economic Zone) Fishing Regulations 1988][3824] (SR 1988/262)
 
-##### [Te Urewera National Park Bylaws 2006][3826] (SR 2006/115)
+[Regulation 12(2)][3825]: omit ""summary"".
 
-[Bylaw 24][3827]: omit ""summary"".
+[Regulation 13(2)][3826]: omit ""summary"".
 
-##### [Titi (Muttonbird) Islands Regulations 1978][3828] (SR 1978/59)
+[Regulation 13A(3)][3827]: omit ""summary"".
 
-[Regulation 11(1)][3829]: omit ""lay an information"" and substitute ""file a charging document"".
+[Regulation 13B(2)][3828]: omit ""summary"".
 
-[Regulation 11(3)][3829]: omit ""summary"".
+[Regulation 13C(2)][3829]: omit ""summary"".
 
-##### [Tokelau (Exclusive Economic Zone) Fishing Regulations 1988][3830] (SR 1988/262)
+[Regulation 16(1), (2), (3), and (4)][3830]: omit ""summary"".
 
-[Regulation 12(2)][3831]: omit ""summary"".
+[Regulation 18(1)][3831]: omit ""an information or charge is laid"" and substitute ""a charging document is filed"".
 
-[Regulation 13(2)][3832]: omit ""summary"".
+[Regulation 18(1)][3831]: omit ""that information or charge"" and substitute ""that charge"".
 
-[Regulation 13A(3)][3833]: omit ""summary"".
-
-[Regulation 13B(2)][3834]: omit ""summary"".
-
-[Regulation 13C(2)][3835]: omit ""summary"".
-
-[Regulation 16(1), (2), (3), and (4)][3836]: omit ""summary"".
-
-[Regulation 18(1)][3837]: omit ""an information or charge is laid"" and substitute ""a charging document is filed"".
-
-[Regulation 18(1)][3837]: omit ""that information or charge"" and substitute ""that charge"".
-
-[Regulation 18(4)(i), (ii), and (iii)][3837]: omit ""information or"".
+[Regulation 18(4)(i), (ii), and (iii)][3831]: omit ""information or"".
 
 Schedule, paragraph 2: omit ""An information \[_or_ charge\] has been laid"" and substitute ""A charging document has been filed"", and omit ""_information or_"".
 
-[Schedule][3838], paragraph headed _Condition of bond_: omit ""information or"" in each place where it appears.
+[Schedule][3832], paragraph headed _Condition of bond_: omit ""information or"" in each place where it appears.
 
-##### [Tongariro National Park Bylaws 1981][3839] (SR 1981/69)
+##### [Tongariro National Park Bylaws 1981][3833] (SR 1981/69)
 
-[Bylaw 18][3840]: omit ""summary"".
+[Bylaw 18][3834]: omit ""summary"".
 
-##### [Trade in Endangered Species Regulations 1991][3841] (SR 1991/274)
+##### [Trade in Endangered Species Regulations 1991][3835] (SR 1991/274)
 
-[Regulation 7][3842]: omit ""summary"".
+[Regulation 7][3836]: omit ""summary"".
 
-##### [Transport (Vehicular Traffic Road Closure) Regulations 1965][3843] (SR 1965/63)
+##### [Transport (Vehicular Traffic Road Closure) Regulations 1965][3837] (SR 1965/63)
 
-[Regulation 11(3)][3844]: omit ""summary"".
+[Regulation 11(3)][3838]: omit ""summary"".
 
-##### [Tuberculosis Regulations 1951][3845] (SR 1951/290)
+##### [Tuberculosis Regulations 1951][3839] (SR 1951/290)
 
-[Regulation 14][3846]: omit ""summary"".
+[Regulation 14][3840]: omit ""summary"".
 
-##### [Valuers Regulations 1949][3847] (SR 1949/25)
+##### [Valuers Regulations 1949][3841] (SR 1949/25)
 
-[Regulation 28(2)][3848]: omit ""summary"".
+[Regulation 28(2)][3842]: omit ""summary"".
 
-##### [Waiheke Road District Foreshore Licence Order 1962][3849] (SR 1962/63)
+##### [Waiheke Road District Foreshore Licence Order 1962][3843] (SR 1962/63)
 
-[Clause 30][3850]: omit ""summary"".
+[Clause 30][3844]: omit ""summary"".
 
-##### [War Pensions Regulations 1956][3851] (SR 1956/7)
+##### [War Pensions Regulations 1956][3845] (SR 1956/7)
 
-[Regulation 6][3852]: omit ""summary"".
+[Regulation 6][3846]: omit ""summary"".
 
-##### [Weights and Measures Regulations 1999][3853] (SR 1999/373)
+##### [Weights and Measures Regulations 1999][3847] (SR 1999/373)
 
-[Regulation 7(2)][3854]: omit ""summary"".
+[Regulation 7(2)][3848]: omit ""summary"".
 
-[Regulation 39(7)][3855]: omit ""summary"".
+[Regulation 39(7)][3849]: omit ""summary"".
 
-[Regulation 80][3856]: omit ""summary"".
+[Regulation 80][3850]: omit ""summary"".
 
-[Regulation 84(2)][3857]: omit ""summary"".
+[Regulation 84(2)][3851]: omit ""summary"".
 
-[Regulation 85(3)][3858]: omit ""summary"".
+[Regulation 85(3)][3852]: omit ""summary"".
 
-##### [Westland National Park Bylaws 1981][3859] (SR 1981/71)
+##### [Westland National Park Bylaws 1981][3853] (SR 1981/71)
 
-[Bylaw 16][3860]: omit ""summary"".
+[Bylaw 16][3854]: omit ""summary"".
 
-##### [Whangamata Foreshore Licence Order 1960][3861] (SR 1960/53)
+##### [Whangamata Foreshore Licence Order 1960][3855] (SR 1960/53)
 
-[Clause 21][3862]: omit ""summary"".
+[Clause 21][3856]: omit ""summary"".
 
-##### [Whanganui National Park Bylaws 1993][3863] (SR 1993/342)
+##### [Whanganui National Park Bylaws 1993][3857] (SR 1993/342)
 
-[Bylaw 7][3864]: omit ""summary"".
+[Bylaw 7][3858]: omit ""summary"".
 
-##### [Whitebait Fishing Regulations 1994][3865] (SR 1994/65)
+##### [Whitebait Fishing Regulations 1994][3859] (SR 1994/65)
 
-[Regulation 16][3866]: omit ""summary"".
+[Regulation 16][3860]: omit ""summary"".
 
-##### [Whitebait Fishing (West Coast) Regulations 1994][3867] (SR 1994/66)
+##### [Whitebait Fishing (West Coast) Regulations 1994][3861] (SR 1994/66)
 
-[Regulation 19][3868]: omit ""summary"".
+[Regulation 19][3862]: omit ""summary"".
 
-##### [Wildlife (Farming of Unprotected Wildlife) Regulations 1985][3869] (SR 1985/201)
+##### [Wildlife (Farming of Unprotected Wildlife) Regulations 1985][3863] (SR 1985/201)
 
-[Regulation 25][3870]: omit ""summary"".
+[Regulation 25][3864]: omit ""summary"".
 
-##### [Wildlife Regulations 1955][3871] (SR 1955/28)
+##### [Wildlife Regulations 1955][3865] (SR 1955/28)
 
-[Regulation 44][3872]: omit ""summary"".
+[Regulation 44][3866]: omit ""summary"".
 
-Schedule 3 Part 4: amended, on 18 September 2012, by [section 93][3388] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+Schedule 3 Part 4: amended, on 18 September 2012, by [section 93][3382] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ---
 
@@ -16889,23 +16873,23 @@ Schedule 3 Part 4: amended, on 18 September 2012, by [section 93][3388] of the B
 
 ###### 1 General
     
-*   This is a reprint of the Criminal Procedure Act 2011\. The reprint incorporates all the amendments to the Act as at 2 April 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Criminal Procedure Act 2011\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][3873] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][3867] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][3874] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][3868] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][3875] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][3869] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][3876] and [17E][3877] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][3870] and [17E][3871] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -16936,11 +16920,13 @@ Schedule 3 Part 4: amended, on 18 September 2012, by [section 93][3388] of the B
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Electronic Identity Verification Act 2012 (2012 No 123): [section 76][3386]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][3379]
     
-    Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][3388]
+    Electronic Identity Verification Act 2012 (2012 No 123): [section 76][3380]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 327][3387]
+    Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][3382]
+    
+    Search and Surveillance Act 2012 (2012 No 24): [section 327][3381]
     
     [Criminal Procedure Act Commencement Order 2011][552] (SR 2011/413)
 
@@ -18147,2680 +18133,2674 @@ Schedule 3 Part 4: amended, on 18 September 2012, by [section 93][3388] of the B
 [1198]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3653667
 [1199]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317232
 [1200]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317652
-[1201]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317998
-[1202]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317668
-[1203]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317669
-[1204]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317670
-[1205]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317958
-[1206]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1301602
-[1207]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1301615
-[1208]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308795
-[1209]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309941
-[1210]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309991
-[1211]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344367
-[1212]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345058
-[1213]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345080
-[1214]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345518
-[1215]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144380
-[1216]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144828
-[1217]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144860
-[1218]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144861
-[1219]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144868
-[1220]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145127
-[1221]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442185
-[1222]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442517
-[1223]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442522
-[1224]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367665
-[1225]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368024
-[1226]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368031
-[1227]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368033
-[1228]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368034
-[1229]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386863
-[1230]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386886
-[1231]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386887
-[1232]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386891
-[1233]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386892
-[1234]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386893
-[1235]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388301
-[1236]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388310
-[1237]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388312
-[1238]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388314
-[1239]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM253150
-[1240]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM254796
-[1241]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255176
-[1242]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255311
-[1243]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257048
-[1244]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257050
-[1245]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257052
-[1246]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257054
-[1247]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257063
-[1248]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257083
-[1249]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257086
-[1250]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257087
-[1251]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257088
-[1252]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257341
-[1253]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257366
-[1254]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230428
-[1255]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230484
-[1256]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM49623
-[1257]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM49658
-[1258]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM22107
-[1259]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM22143
-[1260]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317192
-[1261]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318678
-[1262]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318680
-[1263]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318843
-[1264]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318852
-[1265]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443683
-[1266]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444025
-[1267]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM214686
-[1268]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216903
-[1269]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216905
-[1270]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216907
-[1271]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216909
-[1272]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216916
-[1273]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216918
-[1274]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216920
-[1275]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216922
-[1276]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216924
-[1277]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216926
-[1278]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216931
-[1279]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216933
-[1280]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216939
-[1281]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216943
-[1282]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216947
-[1283]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216950
-[1284]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216952
-[1285]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216954
-[1286]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216957
-[1287]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216960
-[1288]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216963
-[1289]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216967
-[1290]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216973
-[1291]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216974
-[1292]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216975
-[1293]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1031175
-[1294]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216978
-[1295]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216982
-[1296]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216995
-[1297]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216997
-[1298]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216998
-[1299]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217114
-[1300]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217117
-[1301]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217119
-[1302]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217121
-[1303]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217123
-[1304]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217126
-[1305]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217128
-[1306]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217130
-[1307]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217132
-[1308]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217134
-[1309]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217137
-[1310]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217139
-[1311]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1031183
-[1312]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1031185
-[1313]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1136022
-[1314]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218574
-[1315]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218586
-[1316]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218714
-[1317]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM149788
-[1318]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM151419
-[1319]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323384
-[1320]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323448
-[1321]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323449
-[1322]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323450
-[1323]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM158583
-[1324]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662698
-[1325]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662699
-[1326]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662700
-[1327]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662701
-[1328]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662702
-[1329]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662713
-[1330]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171607
-[1331]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171671
-[1332]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171679
-[1333]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171681
-[1334]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM87622
-[1335]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89464
-[1336]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1688027
-[1337]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1688042
-[1338]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89941
-[1339]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89944
-[1340]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89951
-[1341]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139130
-[1342]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139163
-[1343]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139167
-[1344]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139182
-[1345]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139187
-[1346]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM226673
-[1347]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227354
-[1348]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM412734
-[1349]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM412747
-[1350]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319569
-[1351]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM320423
-[1352]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323242
-[1353]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323249
-[1354]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323252
-[1355]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323263
-[1356]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217539
-[1357]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217559
-[1358]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217574
-[1359]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217577
-[1360]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327492
-[1361]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327636
-[1362]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM103609
-[1363]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106092
-[1364]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106090
-[1365]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106096
-[1366]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106671
-[1367]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106681
-[1368]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM207911
-[1369]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208796
-[1370]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208797
-[1371]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351638
-[1372]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351671
-[1373]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17679
-[1374]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18159
-[1375]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18163
-[1376]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18527
-[1377]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18535
-[1378]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181593
-[1379]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182864
-[1380]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376809
-[1381]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376837
-[1382]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376847
-[1383]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376850
-[1384]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345633
-[1385]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346608
-[1386]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346860
-[1387]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346863
-[1388]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346883
-[1389]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346889
-[1390]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346891
-[1391]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346892
-[1392]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1705882
-[1393]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1706110
-[1394]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM347100
-[1395]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM347113
-[1396]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377056
-[1397]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377871
-[1398]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377890
-[1399]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377891
-[1400]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377892
-[1401]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377893
-[1402]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377894
-[1403]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377895
-[1404]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144263
-[1405]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144953
-[1406]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145325
-[1407]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145326
-[1408]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145329
-[1409]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385051
-[1410]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385054
-[1411]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385058
-[1412]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385061
-[1413]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385062
-[1414]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385066
-[1415]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43063
-[1416]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43443
-[1417]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211511
-[1418]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213185
-[1419]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213188
-[1420]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213505
-[1421]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414112
-[1422]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414326
-[1423]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414335
-[1424]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414539
-[1425]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36281
-[1426]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36291
-[1427]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36728
-[1428]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM192817
-[1429]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM192824
-[1430]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368903
-[1431]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368913
-[1432]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369050
-[1433]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369228
-[1434]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369231
-[1435]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369235
-[1436]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369247
-[1437]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3219862
-[1438]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369854
-[1439]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=BILL-SCDRAFT-7242
-[1440]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451012
-[1441]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451116
-[1442]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451130
-[1443]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451221
-[1444]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451289
-[1445]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451361
-[1446]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451363
-[1447]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451366
-[1448]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451367
-[1449]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280839
-[1450]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280848
-[1451]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293505
-[1452]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293512
-[1453]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293513
-[1454]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293519
-[1455]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM329630
-[1456]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM330579
-[1457]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139195
-[1458]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139598
-[1459]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139808
-[1460]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM242535
-[1461]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM246795
-[1462]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM246797
-[1463]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM156440
-[1464]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM156466
-[1465]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261466
-[1466]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261945
-[1467]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377336
-[1468]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM378932
-[1469]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379244
-[1470]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379252
-[1471]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379279
-[1472]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379515
-[1473]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379516
-[1474]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379557
-[1475]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379566
-[1476]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379904
-[1477]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379905
-[1478]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379907
-[1479]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379940
-[1480]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379941
-[1481]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379970
-[1482]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM380105
-[1483]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106750
-[1484]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108997
-[1485]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108999
-[1486]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109101
-[1487]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109109
-[1488]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109141
-[1489]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109522
-[1490]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204972
-[1491]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206497
-[1492]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206498
-[1493]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206499
-[1494]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206900
-[1495]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206901
-[1496]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206902
-[1497]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206903
-[1498]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206904
-[1499]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206915
-[1500]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206936
-[1501]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281070
-[1502]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281781
-[1503]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281783
-[1504]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281785
-[1505]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM133281
-[1506]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM134109
-[1507]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM134111
-[1508]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374409
-[1509]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374823
-[1510]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374825
-[1511]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374830
-[1512]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374833
-[1513]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374839
-[1514]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374846
-[1515]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374850
-[1516]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374853
-[1517]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374860
-[1518]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374867
-[1519]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374879
-[1520]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374889
-[1521]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375121
-[1522]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375127
-[1523]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375139
-[1524]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375153
-[1525]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375169
-[1526]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375171
-[1527]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375173
-[1528]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375182
-[1529]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375185
-[1530]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375188
-[1531]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375191
-[1532]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375198
-[1533]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375400
-[1534]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375402
-[1535]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375403
-[1536]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375407
-[1537]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375410
-[1538]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375413
-[1539]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375419
-[1540]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375420
-[1541]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375426
-[1542]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375431
-[1543]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375433
-[1544]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375459
-[1545]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375472
-[1546]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375473
-[1547]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM372198
-[1548]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2502812
-[1549]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM372456
-[1550]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384145
-[1551]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385011
-[1552]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385013
-[1553]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228931
-[1554]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228982
-[1555]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228984
-[1556]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228995
-[1557]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305967
-[1558]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM306782
-[1559]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356731
-[1560]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358671
-[1561]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175958
-[1562]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177471
-[1563]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186684
-[1564]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187387
-[1565]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187554
-[1566]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM178256
-[1567]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM178258
-[1568]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3487062
-[1569]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181372
-[1570]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182001
-[1571]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182003
-[1572]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182030
-[1573]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182056
-[1574]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182058
-[1575]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185152
-[1576]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186686
-[1577]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186897
-[1578]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187308
-[1579]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187327
-[1580]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187351
-[1581]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187352
-[1582]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187622
-[1583]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307518
-[1584]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308187
-[1585]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308520
-[1586]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308531
-[1587]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308554
-[1588]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308556
-[1589]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308558
-[1590]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308853
-[1591]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308884
-[1592]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309408
-[1593]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309410
-[1594]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309411
-[1595]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309413
-[1596]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309414
-[1597]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309416
-[1598]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309683
-[1599]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309807
-[1600]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309822
-[1601]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309826
-[1602]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309828
-[1603]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309836
-[1604]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309855
-[1605]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310059
-[1606]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310062
-[1607]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310065
-[1608]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310076
-[1609]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310078
-[1610]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3486966
-[1611]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867456
-[1612]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867457
-[1613]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867479
-[1614]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867480
-[1615]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3489730
-[1616]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3489731
-[1617]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868308
-[1618]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868310
-[1619]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868312
-[1620]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868318
-[1621]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868319
-[1622]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868340
-[1623]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868341
-[1624]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868350
-[1625]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868351
-[1626]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310419
-[1627]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310424
-[1628]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310425
-[1629]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2833500
-[1630]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2833571
-[1631]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382256
-[1632]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382257
-[1633]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382260
-[1634]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382262
-[1635]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281857
-[1636]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282430
-[1637]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282431
-[1638]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282449
-[1639]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282476
-[1640]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282479
-[1641]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282833
-[1642]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283140
-[1643]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283141
-[1644]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860164
-[1645]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860165
-[1646]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860169
-[1647]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860300
-[1648]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860302
-[1649]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283303
-[1650]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283339
-[1651]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283340
-[1652]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283341
-[1653]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283342
-[1654]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863979
-[1655]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863980
-[1656]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863981
-[1657]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863982
-[1658]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283347
-[1659]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283348
-[1660]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2864909
-[1661]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2864910
-[1662]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2864912
-[1663]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634200
-[1664]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634361
-[1665]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634397
-[1666]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634400
-[1667]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634469
-[1668]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634470
-[1669]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634471
-[1670]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634484
-[1671]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634485
-[1672]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634497
-[1673]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634499
-[1674]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634506
-[1675]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634508
-[1676]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634527
-[1677]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634528
-[1678]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777800
-[1679]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777812
-[1680]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777905
-[1681]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777906
-[1682]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777907
-[1683]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777908
-[1684]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58316
-[1685]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60962
-[1686]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61435
-[1687]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61772
-[1688]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2172500
-[1689]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61794
-[1690]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267121
-[1691]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267715
-[1692]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54947
-[1693]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55731
-[1694]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194753
-[1695]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195056
-[1696]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439694
-[1697]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439895
-[1698]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439900
-[1699]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439901
-[1700]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336843
-[1701]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336892
-[1702]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337518
-[1703]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM98974
-[1704]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM99751
-[1705]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM99760
-[1706]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2850300
-[1707]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2850438
-[1708]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407769
-[1709]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM408312
-[1710]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25627
-[1711]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26219
-[1712]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26225
-[1713]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26233
-[1714]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26241
-[1715]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26277
-[1716]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26284
-[1717]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26287
-[1718]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26706
-[1719]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26710
-[1720]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26747
-[1721]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26748
-[1722]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26765
-[1723]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96438
-[1724]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96990
-[1725]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97313
-[1726]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97335
-[1727]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97343
-[1728]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351688
-[1729]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352218
-[1730]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM42253
-[1731]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2061203
-[1732]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM42293
-[1733]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM39722
-[1734]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40223
-[1735]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40224
-[1736]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40452
-[1737]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40472
-[1738]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM41848
-[1739]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413766
-[1740]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414251
-[1741]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414252
-[1742]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124441
-[1743]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124479
-[1744]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM312894
-[1745]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314115
-[1746]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314123
-[1747]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314124
-[1748]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314143
-[1749]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314148
-[1750]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314153
-[1751]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314154
-[1752]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314155
-[1753]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314159
-[1754]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314162
-[1755]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314163
-[1756]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314171
-[1757]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314177
-[1758]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314178
-[1759]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314179
-[1760]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314188
-[1761]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314190
-[1762]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314192
-[1763]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314415
-[1764]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314419
-[1765]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255099
-[1766]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255620
-[1767]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584200
-[1768]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584766
-[1769]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584770
-[1770]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584771
-[1771]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584772
-[1772]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584774
-[1773]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584776
-[1774]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584777
-[1775]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1629615
-[1776]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584779
-[1777]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584784
-[1778]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584785
-[1779]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584786
-[1780]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584788
-[1781]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584789
-[1782]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584790
-[1783]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584791
-[1784]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584792
-[1785]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584793
-[1786]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083869
-[1787]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083870
-[1788]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083871
-[1789]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083872
-[1790]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083873
-[1791]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083874
-[1792]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1629616
-[1793]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584795
-[1794]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584796
-[1795]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3084400
-[1796]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3084414
-[1797]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3084427
-[1798]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584807
-[1799]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584828
-[1800]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231004
-[1801]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3565221
-[1802]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3565222
-[1803]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3565226
-[1804]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231753
-[1805]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3232238
-[1806]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323597
-[1807]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325141
-[1808]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325142
-[1809]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325144
-[1810]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325145
-[1811]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325148
-[1812]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325152
-[1813]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325153
-[1814]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325157
-[1815]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325161
-[1816]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109400
-[1817]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109507
-[1818]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109508
-[1819]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109516
-[1820]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109544
-[1821]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109546
-[1822]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109550
-[1823]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3080338
-[1824]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM373803
-[1825]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM373895
-[1826]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374118
-[1827]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374141
-[1828]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374183
-[1829]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432647
-[1830]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434085
-[1831]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434089
-[1832]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM66581
-[1833]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70587
-[1834]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394191
-[1835]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM396906
-[1836]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM396982
-[1837]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397303
-[1838]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397388
-[1839]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397392
-[1840]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398383
-[1841]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398390
-[1842]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398393
-[1843]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398616
-[1844]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398633
-[1845]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398635
-[1846]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398687
-[1847]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398689
-[1848]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398690
-[1849]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398691
-[1850]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398695
-[1851]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398817
-[1852]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398818
-[1853]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398820
-[1854]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398845
-[1855]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398868
-[1856]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM399317
-[1857]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM399320
-[1858]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444051
-[1859]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444176
-[1860]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444177
-[1861]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51357
-[1862]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM52248
-[1863]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM52250
-[1864]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48686
-[1865]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50127
-[1866]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50130
-[1867]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50159
-[1868]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50168
-[1869]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50170
-[1870]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50172
-[1871]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50175
-[1872]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50721
-[1873]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50761
-[1874]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51312
-[1875]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442946
-[1876]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443594
-[1877]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255625
-[1878]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM256429
-[1879]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM256444
-[1880]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM256689
-[1881]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257413
-[1882]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3742803
-[1883]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3742884
-[1884]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM59731
-[1885]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM59821
-[1886]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60863
-[1887]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60897
-[1888]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61300
-[1889]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61301
-[1890]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM207496
-[1891]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208239
-[1892]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208240
-[1893]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208243
-[1894]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208637
-[1895]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208638
-[1896]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208639
-[1897]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208664
-[1898]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208667
-[1899]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208668
-[1900]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208677
-[1901]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208678
-[1902]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208680
-[1903]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208682
-[1904]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208684
-[1905]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208685
-[1906]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208690
-[1907]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209347
-[1908]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209348
-[1909]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209351
-[1910]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209354
-[1911]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209355
-[1912]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209358
-[1913]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209359
-[1914]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209370
-[1915]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209373
-[1916]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209387
-[1917]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209399
-[1918]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209701
-[1919]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209755
-[1920]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209780
-[1921]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209781
-[1922]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210235
-[1923]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210236
-[1924]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210237
-[1925]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210238
-[1926]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210244
-[1927]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210248
-[1928]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210279
-[1929]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210298
-[1930]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210299
-[1931]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210700
-[1932]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210705
-[1933]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210706
-[1934]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210707
-[1935]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210710
-[1936]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210712
-[1937]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210713
-[1938]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285411
-[1939]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285755
-[1940]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285756
-[1941]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285773
-[1942]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285780
-[1943]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285783
-[1944]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3372708
-[1945]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3372710
-[1946]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285955
-[1947]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285989
-[1948]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942837
-[1949]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286525
-[1950]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942848
-[1951]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286559
-[1952]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942855
-[1953]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942856
-[1954]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942857
-[1955]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942859
-[1956]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318001
-[1957]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318062
-[1958]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318068
-[1959]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187177
-[1960]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187185
-[1961]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187832
-[1962]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187853
-[1963]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173368
-[1964]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175280
-[1965]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175285
-[1966]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175402
-[1967]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175462
-[1968]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175477
-[1969]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM446000
-[1970]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM448023
-[1971]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417077
-[1972]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417733
-[1973]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417765
-[1974]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417768
-[1975]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417792
-[1976]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209870
-[1977]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209892
-[1978]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209898
-[1979]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381221
-[1980]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2914535
-[1981]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2914536
-[1982]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384915
-[1983]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384916
-[1984]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384918
-[1985]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384929
-[1986]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384991
-[1987]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2852876
-[1988]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2853438
-[1989]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305839
-[1990]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM306962
-[1991]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307023
-[1992]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307037
-[1993]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307042
-[1994]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307074
-[1995]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410340
-[1996]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410334
-[1997]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410337
-[1998]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410341
-[1999]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410342
-[2000]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307201
-[2001]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307213
-[2002]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307228
-[2003]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307294
-[2004]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307496
-[2005]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307721
-[2006]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307725
-[2007]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307740
-[2008]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307982
-[2009]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308720
-[2010]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308723
-[2011]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM333583
-[2012]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334135
-[2013]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334138
-[2014]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334169
-[2015]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM119974
-[2016]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120598
-[2017]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278828
-[2018]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278835
-[2019]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279658
-[2020]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279675
-[2021]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279677
-[2022]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279679
-[2023]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279681
-[2024]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279685
-[2025]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279901
-[2026]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203311
-[2027]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203380
-[2028]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203382
-[2029]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203810
-[2030]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203824
-[2031]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203860
-[2032]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203884
-[2033]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204304
-[2034]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204307
-[2035]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204326
-[2036]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM205005
-[2037]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM205006
-[2038]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM205210
-[2039]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25390
-[2040]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25969
-[2041]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25970
-[2042]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM300510
-[2043]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301156
-[2044]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301615
-[2045]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301616
-[2046]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301617
-[2047]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301618
-[2048]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301619
-[2049]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301620
-[2050]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301621
-[2051]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301622
-[2052]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301626
-[2053]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301628
-[2054]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414821
-[2055]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415520
-[2056]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415521
-[2057]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394327
-[2058]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394382
-[2059]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM291039
-[2060]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM291322
-[2061]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411832
-[2062]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM412407
-[2063]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319240
-[2064]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319310
-[2065]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319311
-[2066]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319313
-[2067]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319314
-[2068]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319315
-[2069]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319316
-[2070]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319317
-[2071]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319318
-[2072]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319322
-[2073]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319334
-[2074]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319805
-[2075]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM304211
-[2076]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305413
-[2077]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305423
-[2078]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305425
-[2079]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305438
-[2080]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305468
-[2081]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305486
-[2082]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305706
-[2083]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152935
-[2084]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154177
-[2085]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154179
-[2086]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154181
-[2087]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154216
-[2088]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154218
-[2089]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154219
-[2090]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154221
-[2091]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154224
-[2092]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154225
-[2093]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154238
-[2094]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154241
-[2095]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154242
-[2096]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154243
-[2097]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154245
-[2098]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154257
-[2099]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154277
-[2100]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1440300
-[2101]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441050
-[2102]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441157
-[2103]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441158
-[2104]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441160
-[2105]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441170
-[2106]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441172
-[2107]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441182
-[2108]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441183
-[2109]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441184
-[2110]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441512
-[2111]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM406944
-[2112]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407384
-[2113]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407398
-[2114]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407617
-[2115]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407619
-[2116]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM137587
-[2117]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM137934
-[2118]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293863
-[2119]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294182
-[2120]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294189
-[2121]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294228
-[2122]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294232
-[2123]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294237
-[2124]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294238
-[2125]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143557
-[2126]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143567
-[2127]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175774
-[2128]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176104
-[2129]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176128
-[2130]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176137
-[2131]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282026
-[2132]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282033
-[2133]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126221
-[2134]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126299
-[2135]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126519
-[2136]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144405
-[2137]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144457
-[2138]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144462
-[2139]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144490
-[2140]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144495
-[2141]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144604
-[2142]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144633
-[2143]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144639
-[2144]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144643
-[2145]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176584
-[2146]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176904
-[2147]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176906
-[2148]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385298
-[2149]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386911
-[2150]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387234
-[2151]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387705
-[2152]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387723
-[2153]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387797
-[2154]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387820
-[2155]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387822
-[2156]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387824
-[2157]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387826
-[2158]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387831
-[2159]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387833
-[2160]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387836
-[2161]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387838
-[2162]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387839
-[2163]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387841
-[2164]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387845
-[2165]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392284
-[2166]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392542
-[2167]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392547
-[2168]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392549
-[2169]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342186
-[2170]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342744
-[2171]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342745
-[2172]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342747
-[2173]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342759
-[2174]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342766
-[2175]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342768
-[2176]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342778
-[2177]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278720
-[2178]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279851
-[2179]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279870
-[2180]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279874
-[2181]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279880
-[2182]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331828
-[2183]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331862
-[2184]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331873
-[2185]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331875
-[2186]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331876
-[2187]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442535
-[2188]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478100
-[2189]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478278
-[2190]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478279
-[2191]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478281
-[2192]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478288
-[2193]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3005115
-[2194]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3005123
-[2195]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1758289
-[2196]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478308
-[2197]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478313
-[2198]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478317
-[2199]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478320
-[2200]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478330
-[2201]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478345
-[2202]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1794839
-[2203]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478353
-[2204]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478354
-[2205]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478361
-[2206]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478363
-[2207]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478366
-[2208]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478369
-[2209]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478373
-[2210]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478376
-[2211]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478452
-[2212]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478459
-[2213]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478461
-[2214]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478462
-[2215]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478463
-[2216]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478464
-[2217]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478469
-[2218]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478473
-[2219]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478476
-[2220]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478477
-[2221]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478485
-[2222]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478493
-[2223]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478495
-[2224]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478505
-[2225]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478506
-[2226]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478538
-[2227]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478559
-[2228]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478560
-[2229]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3005135
-[2230]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478576
-[2231]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478578
-[2232]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478583
-[2233]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478588
-[2234]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478599
-[2235]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224577
-[2236]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225493
-[2237]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225944
-[2238]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225976
-[2239]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392241
-[2240]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392282
-[2241]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63090
-[2242]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63098
-[2243]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64403
-[2244]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64406
-[2245]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64418
-[2246]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64443
-[2247]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64444
-[2248]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440509
-[2249]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440537
-[2250]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440539
-[2251]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124822
-[2252]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124867
-[2253]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365015
-[2254]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365060
-[2255]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365918
-[2256]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31458
-[2257]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31803
-[2258]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352254
-[2259]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM353029
-[2260]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM353053
-[2261]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144692
-[2262]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146601
-[2263]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146664
-[2264]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146916
-[2265]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146961
-[2266]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147653
-[2267]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293552
-[2268]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293713
-[2269]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM378371
-[2270]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379434
-[2271]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379435
-[2272]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM250585
-[2273]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM251185
-[2274]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM253222
-[2275]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM253239
-[2276]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM160976
-[2277]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166882
-[2278]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167056
-[2279]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167317
-[2280]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167357
-[2281]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167361
-[2282]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269031
-[2283]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271066
-[2284]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271078
-[2285]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271086
-[2286]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271614
-[2287]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271916
-[2288]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271957
-[2289]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271992
-[2290]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271998
-[2291]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434651
-[2292]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3820293
-[2293]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434653
-[2294]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434662
-[2295]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2507342
-[2296]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434807
-[2297]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434811
-[2298]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434841
-[2299]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434846
-[2300]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434858
-[2301]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434859
-[2302]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434870
-[2303]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435009
-[2304]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435051
-[2305]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435084
-[2306]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3812421
-[2307]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435145
-[2308]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3820350
-[2309]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435149
-[2310]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435150
-[2311]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435154
-[2312]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435155
-[2313]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231100
-[2314]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231189
-[2315]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231188
-[2316]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM226229
-[2317]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227545
-[2318]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227560
-[2319]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227576
-[2320]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1472902
-[2321]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365737
-[2322]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365744
-[2323]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365762
-[2324]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365764
-[2325]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366140
-[2326]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366141
-[2327]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366142
-[2328]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366714
-[2329]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367307
-[2330]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367320
-[2331]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367321
-[2332]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367322
-[2333]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367324
-[2334]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367396
-[2335]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367828
-[2336]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368163
-[2337]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405080
-[2338]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405303
-[2339]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142888
-[2340]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142957
-[2341]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142958
-[2342]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142959
-[2343]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167381
-[2344]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM168698
-[2345]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169542
-[2346]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169793
-[2347]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170031
-[2348]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170367
-[2349]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193405
-[2350]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193446
-[2351]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139100
-[2352]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139179
-[2353]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139190
-[2354]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139214
-[2355]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139215
-[2356]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139226
-[2357]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139232
-[2358]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139233
-[2359]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139235
-[2360]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139239
-[2361]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139240
-[2362]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139274
-[2363]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139280
-[2364]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139282
-[2365]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33081
-[2366]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33442
-[2367]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33470
-[2368]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33477
-[2369]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33457
-[2370]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33463
-[2371]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33482
-[2372]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390002
-[2373]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390046
-[2374]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390057
-[2375]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM93300
-[2376]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94785
-[2377]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94786
-[2378]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94787
-[2379]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94788
-[2380]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94789
-[2381]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94790
-[2382]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94791
-[2383]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94792
-[2384]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94793
-[2385]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94794
-[2386]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94795
-[2387]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94797
-[2388]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94798
-[2389]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94799
-[2390]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95300
-[2391]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95303
-[2392]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415531
-[2393]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM420685
-[2394]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM420698
-[2395]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM420720
-[2396]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421258
-[2397]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424270
-[2398]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424273
-[2399]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424281
-[2400]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424283
-[2401]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170872
-[2402]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173452
-[2403]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173859
-[2404]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174011
-[2405]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174012
-[2406]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174016
-[2407]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174018
-[2408]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174021
-[2409]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174023
-[2410]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174024
-[2411]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174026
-[2412]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174030
-[2413]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174031
-[2414]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174033
-[2415]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174034
-[2416]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174036
-[2417]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174038
-[2418]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174042
-[2419]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174047
-[2420]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174056
-[2421]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174057
-[2422]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2044900
-[2423]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3338653
-[2424]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3338654
-[2425]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3338655
-[2426]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3016606
-[2427]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3016670
-[2428]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202468
-[2429]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202498
-[2430]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203508
-[2431]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260930
-[2432]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261402
-[2433]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261431
-[2434]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261445
-[2435]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261446
-[2436]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261447
-[2437]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411986
-[2438]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413050
-[2439]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413066
-[2440]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413074
-[2441]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413076
-[2442]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413087
-[2443]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413202
-[2444]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413234
-[2445]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413249
-[2446]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169979
-[2447]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170913
-[2448]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341044
-[2449]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341144
-[2450]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341147
-[2451]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341159
-[2452]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341172
-[2453]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM311463
-[2454]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM313619
-[2455]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219026
-[2456]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219503
-[2457]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202921
-[2458]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202952
-[2459]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124115
-[2460]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124177
-[2461]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210308
-[2462]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210650
-[2463]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323845
-[2464]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323871
-[2465]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193695
-[2466]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194348
-[2467]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213102
-[2468]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213387
-[2469]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3597272
-[2470]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213405
-[2471]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213467
-[2472]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3597419
-[2473]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170781
-[2474]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM171228
-[2475]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25110
-[2476]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25373
-[2477]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25378
-[2478]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397837
-[2479]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398171
-[2480]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398406
-[2481]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398417
-[2482]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28200
-[2483]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28236
-[2484]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28242
-[2485]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241098
-[2486]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241846
-[2487]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241878
-[2488]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334659
-[2489]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335658
-[2490]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335673
-[2491]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM339501
-[2492]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM339503
-[2493]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335697
-[2494]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335731
-[2495]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335734
-[2496]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335738
-[2497]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335757
-[2498]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335758
-[2499]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335759
-[2500]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335762
-[2501]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335764
-[2502]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335766
-[2503]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335768
-[2504]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335769
-[2505]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335780
-[2506]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336431
-[2507]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336760
-[2508]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336787
-[2509]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337295
-[2510]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337311
-[2511]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337313
-[2512]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337340
-[2513]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337393
-[2514]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337615
-[2515]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337616
-[2516]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337804
-[2517]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337861
-[2518]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338166
-[2519]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338357
-[2520]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338358
-[2521]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338364
-[2522]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338366
-[2523]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338369
-[2524]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338370
-[2525]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338372
-[2526]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338376
-[2527]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338383
-[2528]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338386
-[2529]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338888
-[2530]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292027
-[2531]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292359
-[2532]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292618
-[2533]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292616
-[2534]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292617
-[2535]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292619
-[2536]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301706
-[2537]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302063
-[2538]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302064
-[2539]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302065
-[2540]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302068
-[2541]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302070
-[2542]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302072
-[2543]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302412
-[2544]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53789
-[2545]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55034
-[2546]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55444
-[2547]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55446
-[2548]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55450
-[2549]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56047
-[2550]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56074
-[2551]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56077
-[2552]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56078
-[2553]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56083
-[2554]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56529
-[2555]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56583
-[2556]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM262175
-[2557]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM263041
-[2558]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM263809
-[2559]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264205
-[2560]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264207
-[2561]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264211
-[2562]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264213
-[2563]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264214
-[2564]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264215
-[2565]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264216
-[2566]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264217
-[2567]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264262
-[2568]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM304824
-[2569]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190099
-[2570]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190411
-[2571]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190416
-[2572]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186117
-[2573]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186125
-[2574]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186129
-[2575]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279971
-[2576]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280610
-[2577]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM339688
-[2578]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM340319
-[2579]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436100
-[2580]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436222
-[2581]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436264
-[2582]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436266
-[2583]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436271
-[2584]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436276
-[2585]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436279
-[2586]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436281
-[2587]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436283
-[2588]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436285
-[2589]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436404
-[2590]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436407
-[2591]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436423
-[2592]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436453
-[2593]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436458
-[2594]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436491
-[2595]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436492
-[2596]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436494
-[2597]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436499
-[2598]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436507
-[2599]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM23069
-[2600]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24025
-[2601]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356223
-[2602]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356811
-[2603]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356813
-[2604]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356814
-[2605]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356816
-[2606]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356817
-[2607]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356819
-[2608]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356821
-[2609]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356823
-[2610]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356825
-[2611]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356827
-[2612]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356829
-[2613]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356831
-[2614]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356833
-[2615]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356834
-[2616]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356836
-[2617]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356839
-[2618]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356841
-[2619]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356848
-[2620]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356850
-[2621]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356851
-[2622]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219821
-[2623]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220243
-[2624]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220285
-[2625]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188103
-[2626]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188899
-[2627]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188901
-[2628]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188939
-[2629]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260203
-[2630]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260265
-[2631]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43512
-[2632]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43570
-[2633]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM288723
-[2634]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289039
-[2635]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289052
-[2636]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289085
-[2637]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM191961
-[2638]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM192266
-[2639]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36962
-[2640]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38266
-[2641]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38268
-[2642]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38282
-[2643]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38288
-[2644]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38296
-[2645]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38508
-[2646]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38509
-[2647]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38512
-[2648]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216730
-[2649]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216763
-[2650]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260626
-[2651]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260656
-[2652]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390267
-[2653]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390299
-[2654]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM22639
-[2655]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM23059
-[2656]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM117371
-[2657]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM117752
-[2658]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM118114
-[2659]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM118176
-[2660]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391363
-[2661]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391411
-[2662]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391415
-[2663]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391416
-[2664]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391417
-[2665]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115115
-[2666]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115153
-[2667]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248760
-[2668]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248772
-[2669]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM80050
-[2670]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3397617
-[2671]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM81280
-[2672]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM81283
-[2673]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM57005
-[2674]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM57635
-[2675]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58256
-[2676]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58265
-[2677]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58267
-[2678]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391605
-[2679]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391855
-[2680]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391857
-[2681]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392015
-[2682]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392017
-[2683]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392018
-[2684]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM242831
-[2685]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM243435
-[2686]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM19381
-[2687]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20106
-[2688]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20109
-[2689]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20110
-[2690]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20120
-[2691]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20129
-[2692]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20134
-[2693]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314552
-[2694]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314578
-[2695]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430983
-[2696]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431148
-[2697]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431187
-[2698]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431194
-[2699]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356880
-[2700]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358058
-[2701]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358059
-[2702]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358060
-[2703]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358061
-[2704]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358062
-[2705]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391468
-[2706]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391905
-[2707]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391907
-[2708]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391908
-[2709]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391912
-[2710]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391914
-[2711]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391921
-[2712]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120103
-[2713]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM121758
-[2714]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138453
-[2715]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138456
-[2716]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138463
-[2717]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139304
-[2718]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139307
-[2719]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139308
-[2720]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139346
-[2721]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139362
-[2722]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139657
-[2723]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139663
-[2724]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM140106
-[2725]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM140109
-[2726]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM277432
-[2727]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM277439
-[2728]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278086
-[2729]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278094
-[2730]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278097
-[2731]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278099
-[2732]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278310
-[2733]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278334
-[2734]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280030
-[2735]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280418
-[2736]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280448
-[2737]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280449
-[2738]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281012
-[2739]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281015
-[2740]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281016
-[2741]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM246644
-[2742]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247512
-[2743]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43598
-[2744]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44047
-[2745]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44065
-[2746]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44067
-[2747]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44080
-[2748]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44082
-[2749]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM100577
-[2750]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM101097
-[2751]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM396777
-[2752]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397169
-[2753]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397170
-[2754]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397192
-[2755]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397197
-[2756]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397715
-[2757]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397724
-[2758]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397725
-[2759]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397726
-[2760]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397727
-[2761]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397728
-[2762]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397730
-[2763]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397731
-[2764]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397732
-[2765]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397734
-[2766]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397776
-[2767]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397778
-[2768]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102100
-[2769]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1351201
-[2770]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1351206
-[2771]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102226
-[2772]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102250
-[2773]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102251
-[2774]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102252
-[2775]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102253
-[2776]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102254
-[2777]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102255
-[2778]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102256
-[2779]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1564701
-[2780]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102317
-[2781]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102318
-[2782]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421797
-[2783]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM422437
-[2784]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM422443
-[2785]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423257
-[2786]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423702
-[2787]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423708
-[2788]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423714
-[2789]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423724
-[2790]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423727
-[2791]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423728
-[2792]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423735
-[2793]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423739
-[2794]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423742
-[2795]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423751
-[2796]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423755
-[2797]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423761
-[2798]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423762
-[2799]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423775
-[2800]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423776
-[2801]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423777
-[2802]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423778
-[2803]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276319
-[2804]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276377
-[2805]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM350820
-[2806]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351465
-[2807]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351470
-[2808]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351474
-[2809]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM296638
-[2810]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297458
-[2811]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297904
-[2812]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297962
-[2813]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3242821
-[2814]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298435
-[2815]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298798
-[2816]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297099
-[2817]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414295
-[2818]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414747
-[2819]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414792
-[2820]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594400
-[2821]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594525
-[2822]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594553
-[2823]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594559
-[2824]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594560
-[2825]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594587
-[2826]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594588
-[2827]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2840743
-[2828]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594590
-[2829]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594591
-[2830]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594637
-[2831]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594638
-[2832]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594640
-[2833]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594644
-[2834]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM968961
-[2835]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969677
-[2836]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969332
-[2837]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969339
-[2838]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969340
-[2839]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969342
-[2840]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969344
-[2841]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969352
-[2842]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969481
-[2843]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440944
-[2844]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM441785
-[2845]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197814
-[2846]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197854
-[2847]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197855
-[2848]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197858
-[2849]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197866
-[2850]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197876
-[2851]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197883
-[2852]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197890
-[2853]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197896
-[2854]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197897
-[2855]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197898
-[2856]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432115
-[2857]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432249
-[2858]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432422
-[2859]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432454
-[2860]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432467
-[2861]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432481
-[2862]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432483
-[2863]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432505
-[2864]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432512
-[2865]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432516
-[2866]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432520
-[2867]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126527
-[2868]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127046
-[2869]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127098
-[2870]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127509
-[2871]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634682
-[2872]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634907
-[2873]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM88540
-[2874]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM88933
-[2875]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM88934
-[2876]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394841
-[2877]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394895
-[2878]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM163147
-[2879]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM163148
-[2880]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM30489
-[2881]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31535
-[2882]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31548
-[2883]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1179938
-[2884]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1180098
-[2885]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1180099
-[2886]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1180100
-[2887]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1180101
-[2888]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM45426
-[2889]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47366
-[2890]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47784
-[2891]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47785
-[2892]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47786
-[2893]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47787
-[2894]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47788
-[2895]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47794
-[2896]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48384
-[2897]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM8800
-[2898]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM9041
-[2899]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM184054
-[2900]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM184492
-[2901]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185011
-[2902]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185014
-[2903]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185033
-[2904]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185039
-[2905]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM372538
-[2906]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM373144
-[2907]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368574
-[2908]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368652
-[2909]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195575
-[2910]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197108
-[2911]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197368
-[2912]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197370
-[2913]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197904
-[2914]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341567
-[2915]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342642
-[2916]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342643
-[2917]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342644
-[2918]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342645
-[2919]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342683
-[2920]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342687
-[2921]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342691
-[2922]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342695
-[2923]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342696
-[2924]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294701
-[2925]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294724
-[2926]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM409295
-[2927]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM409739
-[2928]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427296
-[2929]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427702
-[2930]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1151900
-[2931]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152148
-[2932]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152150
-[2933]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1317700
-[2934]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1358237
-[2935]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152160
-[2936]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152187
-[2937]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327640
-[2938]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327707
-[2939]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327714
-[2940]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327716
-[2941]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327717
-[2942]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327730
-[2943]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327731
-[2944]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327733
-[2945]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327735
-[2946]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327740
-[2947]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73880
-[2948]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74657
-[2949]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74658
-[2950]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74659
-[2951]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74660
-[2952]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74661
-[2953]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74668
-[2954]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74670
-[2955]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM343165
-[2956]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344001
-[2957]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344033
-[2958]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344034
-[2959]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344046
-[2960]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15636
-[2961]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15690
-[2962]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM199363
-[2963]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200016
-[2964]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200017
-[2965]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200322
-[2966]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201563
-[2967]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201565
-[2968]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201567
-[2969]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201597
-[2970]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2594833
-[2971]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2594831
-[2972]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1607405
-[2973]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1607408
-[2974]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202416
-[2975]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202418
-[2976]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444304
-[2977]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444971
-[2978]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444984
-[2979]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444996
-[2980]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444999
-[2981]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445002
-[2982]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445012
-[2983]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445023
-[2984]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186136
-[2985]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186146
-[2986]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193964
-[2987]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194889
-[2988]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94277
-[2989]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95504
-[2990]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95538
-[2991]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95559
-[2992]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95596
-[2993]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95936
-[2994]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95943
-[2995]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95944
-[2996]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95945
-[2997]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95949
-[2998]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96401
-[2999]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96416
-[3000]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230264
-[3001]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM238503
-[3002]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239038
-[3003]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239042
-[3004]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239051
-[3005]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239062
-[3006]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239073
-[3007]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239075
-[3008]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239303
-[3009]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2218400
-[3010]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2218809
-[3011]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220364
-[3012]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220940
-[3013]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM172771
-[3014]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173215
-[3015]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173707
-[3016]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173918
-[3017]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267003
-[3018]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267012
-[3019]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18599
-[3020]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM19174
-[3021]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM19625
-[3022]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902200
-[3023]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902359
-[3024]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902436
-[3025]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902440
-[3026]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203214
-[3027]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203493
-[3028]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165115
-[3029]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166105
-[3030]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166134
-[3031]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166182
-[3032]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166331
-[3033]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166333
-[3034]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166335
-[3035]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166337
-[3036]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166340
-[3037]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166343
-[3038]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166357
-[3039]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166362
-[3040]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166380
-[3041]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166382
-[3042]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166386
-[3043]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166391
-[3044]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166397
-[3045]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166600
-[3046]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166604
-[3047]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166607
-[3048]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166609
-[3049]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166611
-[3050]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166616
-[3051]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166618
-[3052]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166621
-[3053]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166624
-[3054]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166628
-[3055]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166634
-[3056]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166638
-[3057]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166651
-[3058]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166654
-[3059]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166682
-[3060]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405044
-[3061]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405076
-[3062]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305111
-[3063]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305169
-[3064]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305170
-[3065]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305180
-[3066]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305181
-[3067]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305185
-[3068]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305197
-[3069]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305199
-[3070]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305600
-[3071]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305607
-[3072]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305608
-[3073]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305609
-[3074]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305611
-[3075]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305612
-[3076]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305613
-[3077]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305616
-[3078]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305618
-[3079]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305619
-[3080]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305625
-[3081]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305628
-[3082]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305630
-[3083]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305631
-[3084]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305646
-[3085]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305649
-[3086]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305650
-[3087]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177642
-[3088]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177666
-[3089]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177667
-[3090]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177669
-[3091]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25999
-[3092]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28802
-[3093]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29406
-[3094]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29410
-[3095]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29416
-[3096]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29420
-[3097]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29440
-[3098]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29444
-[3099]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29464
-[3100]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29496
-[3101]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM30193
-[3102]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3637712
-[3103]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3637770
-[3104]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3638228
-[3105]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139726
-[3106]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141870
-[3107]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141872
-[3108]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141873
-[3109]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141874
-[3110]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141875
-[3111]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141876
-[3112]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141892
-[3113]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651100
-[3114]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651170
-[3115]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651198
-[3116]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651241
-[3117]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651247
-[3118]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651264
-[3119]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210989
-[3120]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211472
-[3121]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211473
-[3122]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211478
-[3123]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211480
-[3124]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211481
-[3125]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211487
-[3126]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211488
-[3127]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211489
-[3128]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275026
-[3129]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275945
-[3130]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275951
-[3131]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275954
-[3132]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275956
-[3133]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275963
-[3134]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275966
-[3135]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275978
-[3136]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275982
-[3137]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275983
-[3138]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275985
-[3139]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275990
-[3140]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275996
-[3141]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276623
-[3142]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276628
-[3143]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276646
-[3144]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276653
-[3145]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276654
-[3146]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276656
-[3147]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276657
-[3148]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276658
-[3149]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124896
-[3150]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM125332
-[3151]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM212350
-[3152]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM212368
-[3153]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223190
-[3154]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223964
-[3155]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223975
-[3156]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224393
-[3157]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3913931
-[3158]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3913932
-[3159]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224726
-[3160]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224728
-[3161]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM359106
-[3162]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM360781
-[3163]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM361019
-[3164]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM361034
-[3165]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364489
-[3166]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364874
-[3167]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365829
-[3168]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365851
-[3169]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365864
-[3170]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365866
-[3171]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189914
-[3172]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190280
-[3173]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190653
-[3174]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190997
-[3175]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230364
-[3176]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM231075
-[3177]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM231644
-[3178]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM232171
-[3179]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM232850
-[3180]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM232851
-[3181]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM157116
-[3182]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM157176
-[3183]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390106
-[3184]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390178
-[3185]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390180
-[3186]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390181
-[3187]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM129109
-[3188]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM130124
-[3189]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM130369
-[3190]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430704
-[3191]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430966
-[3192]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430975
-[3193]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430978
-[3194]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225791
-[3195]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM226701
-[3196]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3179903
-[3197]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3180351
-[3198]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3180352
-[3199]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3180353
-[3200]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375802
-[3201]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375859
-[3202]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375862
-[3203]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375865
-[3204]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375867
-[3205]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375870
-[3206]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375872
-[3207]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375874
-[3208]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375876
-[3209]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375880
-[3210]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375886
-[3211]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228384
-[3212]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228915
-[3213]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53347
-[3214]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53353
-[3215]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53510
-[3216]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53514
-[3217]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53517
-[3218]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53565
-[3219]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53721
-[3220]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53723
-[3221]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53732
-[3222]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53734
-[3223]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53735
-[3224]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53736
-[3225]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53737
-[3226]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53763
-[3227]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143291
-[3228]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144041
-[3229]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM214070
-[3230]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325508
-[3231]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326118
-[3232]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326383
-[3233]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326386
-[3234]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326392
-[3235]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326706
-[3236]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326710
-[3237]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326732
-[3238]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326734
-[3239]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM348342
-[3240]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352409
-[3241]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352698
-[3242]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356938
-[3243]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356940
-[3244]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356942
-[3245]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356945
-[3246]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356949
-[3247]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356959
-[3248]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289881
-[3249]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM290987
-[3250]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM290989
-[3251]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293003
-[3252]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124960
-[3253]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127408
-[3254]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127421
-[3255]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127448
-[3256]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127455
-[3257]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127462
-[3258]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3874955
-[3259]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM151490
-[3260]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM152782
-[3261]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM152787
-[3262]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM153313
-[3263]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407090
-[3264]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407722
-[3265]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175060
-[3266]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175092
-[3267]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145965
-[3268]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147003
-[3269]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147011
-[3270]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147015
-[3271]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147025
-[3272]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147027
-[3273]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147030
-[3274]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147032
-[3275]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147035
-[3276]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM164239
-[3277]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165020
-[3278]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165021
-[3279]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175701
-[3280]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175728
-[3281]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175733
-[3282]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175755
-[3283]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175758
-[3284]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219710
-[3285]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM221882
-[3286]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM221884
-[3287]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM410792
-[3288]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411350
-[3289]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411355
-[3290]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411357
-[3291]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411358
-[3292]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2576200
-[3293]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2576381
-[3294]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36926
-[3295]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36951
-[3296]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36952
-[3297]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM304703
-[3298]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305242
-[3299]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305527
-[3300]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305592
-[3301]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305809
-[3302]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381179
-[3303]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381742
-[3304]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431745
-[3305]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431789
-[3306]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432102
-[3307]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248099
-[3308]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248859
-[3309]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398422
-[3310]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398468
-[3311]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398470
-[3312]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325263
-[3313]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325477
-[3314]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325483
-[3315]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM240501
-[3316]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM240511
-[3317]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM393752
-[3318]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM393788
-[3319]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM393791
-[3320]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405133
-[3321]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405226
-[3322]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434436
-[3323]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434457
-[3324]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434459
-[3325]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434464
-[3326]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2248900
-[3327]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2248952
-[3328]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM249941
-[3329]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM250528
-[3330]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM250576
-[3331]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM363858
-[3332]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364255
-[3333]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364258
-[3334]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364269
-[3335]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364271
-[3336]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364272
-[3337]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364286
-[3338]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364296
-[3339]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364628
-[3340]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213209
-[3341]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213227
-[3342]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244000
-[3343]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244171
-[3344]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244192
-[3345]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244194
-[3346]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244202
-[3347]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM131540
-[3348]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM131970
-[3349]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM284374
-[3350]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286045
-[3351]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286052
-[3352]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286054
-[3353]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM999800
-[3354]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154645
-[3355]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154646
-[3356]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154654
-[3357]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154658
-[3358]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154659
-[3359]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM403529
-[3360]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM404168
-[3361]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM404431
-[3362]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102241
-[3363]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102564
-[3364]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102942
-[3365]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102948
-[3366]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102959
-[3367]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167916
-[3368]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169304
-[3369]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16622
-[3370]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17641
-[3371]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276813
-[3372]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278196
-[3373]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278500
-[3374]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278512
-[3375]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM222446
-[3376]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223251
-[3377]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223252
-[3378]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223253
-[3379]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223254
-[3380]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223255
-[3381]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223256
-[3382]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223257
-[3383]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223264
-[3384]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200494
-[3385]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201316
-[3386]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777925
-[3387]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4356919
-[3388]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3388552
-[3389]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15385
-[3390]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15398
-[3391]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14512
-[3392]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14523
-[3393]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM78160
-[3394]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM78185
-[3395]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54088
-[3396]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54454
-[3397]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54737
-[3398]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55501
-[3399]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73524
-[3400]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73579
-[3401]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM27635
-[3402]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM27696
-[3403]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51481
-[3404]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51862
-[3405]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64669
-[3406]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65048
-[3407]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65218
-[3408]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65220
-[3409]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65258
-[3410]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65268
-[3411]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65271
-[3412]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24317
-[3413]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24327
-[3414]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM59474
-[3415]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60102
-[3416]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM86633
-[3417]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM86692
-[3418]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM86695
-[3419]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124357
-[3420]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124712
-[3421]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50389
-[3422]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50910
-[3423]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50914
-[3424]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21169
-[3425]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21182
-[3426]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48422
-[3427]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48492
-[3428]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13337
-[3429]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13358
-[3430]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM39529
-[3431]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM39565
-[3432]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64623
-[3433]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64650
-[3434]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64654
-[3435]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85720
-[3436]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85792
-[3437]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85794
-[3438]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70959
-[3439]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM71344
-[3440]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85318
-[3441]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85352
-[3442]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29519
-[3443]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29575
-[3444]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29603
-[3445]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152853
-[3446]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634221
-[3447]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634222
-[3448]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634223
-[3449]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20653
-[3450]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20666
-[3451]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38389
-[3452]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38724
-[3453]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64607
-[3454]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64622
-[3455]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24330
-[3456]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24384
-[3457]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31630
-[3458]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31648
-[3459]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70016
-[3460]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70066
-[3461]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70068
-[3462]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70404
-[3463]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70405
-[3464]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70406
-[3465]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70432
-[3466]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70448
-[3467]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70909
-[3468]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70922
-[3469]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70927
-[3470]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13550
-[3471]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13747
-[3472]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90381
-[3473]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90606
-[3474]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107086
-[3475]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107516
-[3476]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90020
-[3477]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90062
-[3478]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108364
-[3479]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109001
-[3480]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102009
-[3481]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102060
-[3482]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1919700
-[3483]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1919742
-[3484]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM104763
-[3485]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM104796
-[3486]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1890634
-[3487]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1860613
-[3488]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1044
-[3489]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1076
-[3490]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63154
-[3491]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63167
-[3492]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM168888
-[3493]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169114
-[3494]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169115
-[3495]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169135
-[3496]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73083
-[3497]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73425
-[3498]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM300740
-[3499]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM300762
-[3500]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM332616
-[3501]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM332649
-[3502]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1474
-[3503]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1739
-[3504]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM116636
-[3505]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM116687
-[3506]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390384
-[3507]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390900
-[3508]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390905
-[3509]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189383
-[3510]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189390
-[3511]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421657
-[3512]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421674
-[3513]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1286500
-[3514]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1194218
-[3515]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48747
-[3516]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48758
-[3517]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150385
-[3518]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150396
-[3519]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367006
-[3520]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367023
-[3521]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1119400
-[3522]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1119421
-[3523]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM315416
-[3524]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM315822
-[3525]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM41528
-[3526]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM41570
-[3527]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247947
-[3528]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247968
-[3529]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2474300
-[3530]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2438602
-[3531]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96274
-[3532]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97159
-[3533]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289175
-[3534]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289678
-[3535]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM136572
-[3536]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM137467
-[3537]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1434900
-[3538]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247710
-[3539]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248103
-[3540]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1412500
-[3541]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1412601
-[3542]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM362024
-[3543]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM362457
-[3544]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM362458
-[3545]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73428
-[3546]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73468
-[3547]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209677
-[3548]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210523
-[3549]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210578
-[3550]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1459400
-[3551]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1459416
-[3552]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3285300
-[3553]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3285333
-[3554]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3285390
-[3555]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233404
-[3556]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233474
-[3557]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233475
-[3558]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233491
-[3559]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283613
-[3560]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283692
-[3561]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283693
-[3562]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2763500
-[3563]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2763628
-[3564]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2763787
-[3565]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208426
-[3566]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208466
-[3567]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034700
-[3568]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034839
-[3569]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034840
-[3570]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034879
-[3571]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034881
-[3572]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034883
-[3573]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034884
-[3574]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034885
-[3575]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034886
-[3576]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034887
-[3577]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034888
-[3578]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034890
-[3579]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034892
-[3580]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034893
-[3581]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034894
-[3582]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034895
-[3583]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034896
-[3584]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034897
-[3585]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034898
-[3586]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034900
-[3587]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034901
-[3588]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108729
-[3589]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108787
-[3590]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108788
-[3591]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1106962
-[3592]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1107006
-[3593]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1325200
-[3594]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1325281
-[3595]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443072
-[3596]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443401
-[3597]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443423
-[3598]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443425
-[3599]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443426
-[3600]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443435
-[3601]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194133
-[3602]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194650
-[3603]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73471
-[3604]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73718
-[3605]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM382015
-[3606]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM382067
-[3607]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211127
-[3608]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211143
-[3609]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143458
-[3610]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143902
-[3611]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM112670
-[3612]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM113819
-[3613]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM113840
-[3614]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM114646
-[3615]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM104497
-[3616]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106513
-[3617]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM973967
-[3618]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM973997
-[3619]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM114664
-[3620]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115269
-[3621]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106538
-[3622]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107935
-[3623]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115280
-[3624]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115588
-[3625]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107954
-[3626]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109241
-[3627]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM76406
-[3628]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM78076
-[3629]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241426
-[3630]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241931
-[3631]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139497
-[3632]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM140646
-[3633]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60577
-[3634]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM62917
-[3635]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183827
-[3636]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183863
-[3637]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115595
-[3638]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM116103
-[3639]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109258
-[3640]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM111048
-[3641]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145805
-[3642]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146314
-[3643]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM111063
-[3644]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM112647
-[3645]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2420
-[3646]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2461
-[3647]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4116
-[3648]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4154
-[3649]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227210
-[3650]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227243
-[3651]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427874
-[3652]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427895
-[3653]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM42657
-[3654]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43747
-[3655]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14195
-[3656]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14430
-[3657]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM332670
-[3658]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM333405
-[3659]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3817
-[3660]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3897
-[3661]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM178498
-[3662]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM179625
-[3663]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM92491
-[3664]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM93733
-[3665]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM93755
-[3666]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94165
-[3667]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141242
-[3668]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141609
-[3669]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1452900
-[3670]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1452999
-[3671]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2359500
-[3672]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2359567
-[3673]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2359687
-[3674]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM235058
-[3675]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM235303
-[3676]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15784
-[3677]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16217
-[3678]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14619
-[3679]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14684
-[3680]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269297
-[3681]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269576
-[3682]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217347
-[3683]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217725
-[3684]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM295935
-[3685]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM296276
-[3686]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298206
-[3687]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298521
-[3688]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298847
-[3689]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM299620
-[3690]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM284451
-[3691]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM284821
-[3692]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202256
-[3693]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203143
-[3694]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM198872
-[3695]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2195906
-[3696]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176252
-[3697]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177242
-[3698]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM258071
-[3699]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM258343
-[3700]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225615
-[3701]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225659
-[3702]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43788
-[3703]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44762
-[3704]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM12142
-[3705]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM12155
-[3706]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181232
-[3707]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181611
-[3708]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3504
-[3709]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3573
-[3710]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3575
-[3711]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2026700
-[3712]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2026757
-[3713]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252042
-[3714]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252053
-[3715]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201185
-[3716]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201193
-[3717]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1679855
-[3718]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1680103
-[3719]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293953
-[3720]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294407
-[3721]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120097
-[3722]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120770
-[3723]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM259090
-[3724]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM259534
-[3725]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4007
-[3726]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4041
-[3727]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4057
-[3728]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4060
-[3729]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4064
-[3730]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2938300
-[3731]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2938452
-[3732]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2938492
-[3733]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280109
-[3734]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280509
-[3735]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280158
-[3736]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1387281
-[3737]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1387357
-[3738]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18863
-[3739]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18881
-[3740]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188273
-[3741]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189008
-[3742]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252962
-[3743]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252975
-[3744]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252981
-[3745]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM179648
-[3746]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM179681
-[3747]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269594
-[3748]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269907
-[3749]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269913
-[3750]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95667
-[3751]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96854
-[3752]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224222
-[3753]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224290
-[3754]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM350324
-[3755]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM350345
-[3756]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM348601
-[3757]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM348620
-[3758]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3589234
-[3759]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3589251
-[3760]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170106
-[3761]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170137
-[3762]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167619
-[3763]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167629
-[3764]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167633
-[3765]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167648
-[3766]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167656
-[3767]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167677
-[3768]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167680
-[3769]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM82926
-[3770]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM82946
-[3771]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73721
-[3772]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73765
-[3773]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73768
-[3774]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74112
-[3775]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173026
-[3776]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394495
-[3777]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM395266
-[3778]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445824
-[3779]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26146
-[3780]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26198
-[3781]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17905
-[3782]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17956
-[3783]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217750
-[3784]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218407
-[3785]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM132903
-[3786]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM132909
-[3787]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM7254
-[3788]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM7697
-[3789]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3612607
-[3790]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3612628
-[3791]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3608913
-[3792]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3608915
-[3793]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165448
-[3794]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165466
-[3795]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM71512
-[3796]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM72108
-[3797]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14436
-[3798]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14466
-[3799]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2393204
-[3800]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2393264
-[3801]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20752
-[3802]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21064
-[3803]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24438
-[3804]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24484
-[3805]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65417
-[3806]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65724
-[3807]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124662
-[3808]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM125068
-[3809]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2291142
-[3810]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2291555
-[3811]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2291556
-[3812]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2285660
-[3813]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138957
-[3814]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2744000
-[3815]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138969
-[3816]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443903
-[3817]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443936
-[3818]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16294
-[3819]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16890
-[3820]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM67015
-[3821]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM67073
-[3822]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257873
-[3823]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM258459
-[3824]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415605
-[3825]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415671
-[3826]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381009
-[3827]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381080
-[3828]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61920
-[3829]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61968
-[3830]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127303
-[3831]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127348
-[3832]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127349
-[3833]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127352
-[3834]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127354
-[3835]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127356
-[3836]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127362
-[3837]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127365
-[3838]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127367
-[3839]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74115
-[3840]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74179
-[3841]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150362
-[3842]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150373
-[3843]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21321
-[3844]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21351
-[3845]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM5726
-[3846]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM5768
-[3847]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3902
-[3848]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3947
-[3849]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17108
-[3850]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17159
-[3851]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60011
-[3852]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60064
-[3853]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301527
-[3854]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301813
-[3855]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301865
-[3856]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301934
-[3857]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301940
-[3858]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301961
-[3859]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74188
-[3860]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74329
-[3861]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14474
-[3862]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14614
-[3863]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183202
-[3864]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183230
-[3865]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189521
-[3866]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189571
-[3867]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189577
-[3868]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189642
-[3869]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM101554
-[3870]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102103
-[3871]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM8734
-[3872]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM8951
-[3873]: http://www.pco.parliament.govt.nz/reprints/
-[3874]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195439
-[3875]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[3876]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195468
-[3877]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195470
+[1201]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317668
+[1202]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317669
+[1203]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317670
+[1204]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317958
+[1205]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1301602
+[1206]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1301615
+[1207]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308795
+[1208]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309941
+[1209]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309991
+[1210]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344367
+[1211]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345058
+[1212]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345080
+[1213]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345518
+[1214]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144380
+[1215]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144828
+[1216]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144860
+[1217]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144861
+[1218]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144868
+[1219]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145127
+[1220]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442185
+[1221]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442517
+[1222]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442522
+[1223]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367665
+[1224]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368024
+[1225]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368031
+[1226]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368033
+[1227]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368034
+[1228]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386863
+[1229]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386886
+[1230]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386887
+[1231]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386891
+[1232]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386892
+[1233]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386893
+[1234]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388301
+[1235]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388310
+[1236]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388312
+[1237]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM388314
+[1238]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM253150
+[1239]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM254796
+[1240]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255176
+[1241]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255311
+[1242]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257048
+[1243]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257050
+[1244]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257052
+[1245]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257054
+[1246]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257063
+[1247]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257083
+[1248]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257086
+[1249]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257087
+[1250]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257088
+[1251]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257341
+[1252]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257366
+[1253]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230428
+[1254]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230484
+[1255]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM49623
+[1256]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM49658
+[1257]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM22107
+[1258]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM22143
+[1259]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM317192
+[1260]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318678
+[1261]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318680
+[1262]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318843
+[1263]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318852
+[1264]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443683
+[1265]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444025
+[1266]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM214686
+[1267]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216903
+[1268]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216905
+[1269]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216907
+[1270]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216909
+[1271]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216916
+[1272]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216918
+[1273]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216920
+[1274]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216922
+[1275]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216924
+[1276]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216926
+[1277]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216931
+[1278]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216933
+[1279]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216939
+[1280]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216943
+[1281]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216947
+[1282]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216950
+[1283]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216952
+[1284]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216954
+[1285]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216957
+[1286]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216960
+[1287]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216963
+[1288]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216967
+[1289]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216973
+[1290]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216974
+[1291]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216975
+[1292]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1031175
+[1293]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216978
+[1294]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216982
+[1295]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216995
+[1296]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216997
+[1297]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216998
+[1298]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217114
+[1299]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217117
+[1300]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217119
+[1301]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217121
+[1302]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217123
+[1303]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217126
+[1304]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217128
+[1305]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217130
+[1306]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217132
+[1307]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217134
+[1308]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217137
+[1309]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217139
+[1310]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1031183
+[1311]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1031185
+[1312]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1136022
+[1313]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218574
+[1314]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218586
+[1315]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218714
+[1316]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM149788
+[1317]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM151419
+[1318]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323384
+[1319]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323448
+[1320]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323449
+[1321]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323450
+[1322]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM158583
+[1323]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662698
+[1324]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662699
+[1325]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662700
+[1326]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662701
+[1327]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662702
+[1328]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1662713
+[1329]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171607
+[1330]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171671
+[1331]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171679
+[1332]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2171681
+[1333]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM87622
+[1334]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89464
+[1335]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1688027
+[1336]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1688042
+[1337]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89941
+[1338]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89944
+[1339]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM89951
+[1340]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139130
+[1341]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139163
+[1342]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139167
+[1343]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139182
+[1344]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139187
+[1345]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM226673
+[1346]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227354
+[1347]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM412734
+[1348]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM412747
+[1349]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319569
+[1350]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM320423
+[1351]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323242
+[1352]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323249
+[1353]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323252
+[1354]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323263
+[1355]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217539
+[1356]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217559
+[1357]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217574
+[1358]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217577
+[1359]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327492
+[1360]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327636
+[1361]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM103609
+[1362]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106092
+[1363]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106090
+[1364]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106096
+[1365]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106671
+[1366]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106681
+[1367]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM207911
+[1368]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208796
+[1369]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208797
+[1370]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351638
+[1371]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351671
+[1372]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17679
+[1373]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18159
+[1374]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18163
+[1375]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18527
+[1376]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18535
+[1377]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181593
+[1378]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182864
+[1379]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376809
+[1380]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376837
+[1381]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376847
+[1382]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM376850
+[1383]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM345633
+[1384]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346608
+[1385]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346860
+[1386]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346863
+[1387]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346883
+[1388]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346889
+[1389]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346891
+[1390]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM346892
+[1391]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1705882
+[1392]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1706110
+[1393]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM347100
+[1394]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM347113
+[1395]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377056
+[1396]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377871
+[1397]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377890
+[1398]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377891
+[1399]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377892
+[1400]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377893
+[1401]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377894
+[1402]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377895
+[1403]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144263
+[1404]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144953
+[1405]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145325
+[1406]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145326
+[1407]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145329
+[1408]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385051
+[1409]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385054
+[1410]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385058
+[1411]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385061
+[1412]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385062
+[1413]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385066
+[1414]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43063
+[1415]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43443
+[1416]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211511
+[1417]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213185
+[1418]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213188
+[1419]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213505
+[1420]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414112
+[1421]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414326
+[1422]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414335
+[1423]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414539
+[1424]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36281
+[1425]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36291
+[1426]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36728
+[1427]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM192817
+[1428]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM192824
+[1429]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368903
+[1430]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368913
+[1431]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369050
+[1432]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369228
+[1433]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369231
+[1434]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369235
+[1435]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369247
+[1436]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3219862
+[1437]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM369854
+[1438]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=BILL-SCDRAFT-7242
+[1439]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451012
+[1440]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451116
+[1441]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451130
+[1442]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451221
+[1443]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451289
+[1444]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451361
+[1445]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451363
+[1446]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451366
+[1447]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1451367
+[1448]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280839
+[1449]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280848
+[1450]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293505
+[1451]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293512
+[1452]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293513
+[1453]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293519
+[1454]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM329630
+[1455]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM330579
+[1456]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139195
+[1457]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139598
+[1458]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139808
+[1459]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM242535
+[1460]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM246795
+[1461]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM246797
+[1462]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM156440
+[1463]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM156466
+[1464]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261466
+[1465]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261945
+[1466]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM377336
+[1467]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM378932
+[1468]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379244
+[1469]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379252
+[1470]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379279
+[1471]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379515
+[1472]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379516
+[1473]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379557
+[1474]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379566
+[1475]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379904
+[1476]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379905
+[1477]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379907
+[1478]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379940
+[1479]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379941
+[1480]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379970
+[1481]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM380105
+[1482]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106750
+[1483]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108997
+[1484]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108999
+[1485]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109101
+[1486]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109109
+[1487]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109141
+[1488]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109522
+[1489]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204972
+[1490]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206497
+[1491]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206498
+[1492]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206499
+[1493]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206900
+[1494]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206901
+[1495]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206902
+[1496]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206903
+[1497]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206904
+[1498]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206915
+[1499]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM206936
+[1500]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281070
+[1501]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281781
+[1502]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281783
+[1503]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281785
+[1504]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM133281
+[1505]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM134109
+[1506]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM134111
+[1507]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374409
+[1508]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374823
+[1509]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374825
+[1510]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374830
+[1511]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374833
+[1512]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374839
+[1513]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374846
+[1514]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374850
+[1515]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374853
+[1516]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374860
+[1517]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374867
+[1518]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374879
+[1519]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374889
+[1520]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375121
+[1521]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375127
+[1522]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375139
+[1523]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375153
+[1524]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375169
+[1525]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375171
+[1526]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375173
+[1527]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375182
+[1528]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375185
+[1529]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375188
+[1530]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375191
+[1531]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375198
+[1532]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375400
+[1533]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375402
+[1534]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375403
+[1535]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375407
+[1536]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375410
+[1537]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375413
+[1538]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375419
+[1539]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375420
+[1540]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375426
+[1541]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375431
+[1542]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375433
+[1543]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375459
+[1544]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375472
+[1545]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375473
+[1546]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM372198
+[1547]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2502812
+[1548]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM372456
+[1549]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384145
+[1550]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385011
+[1551]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385013
+[1552]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228931
+[1553]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228982
+[1554]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228984
+[1555]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228995
+[1556]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305967
+[1557]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM306782
+[1558]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356731
+[1559]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358671
+[1560]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175958
+[1561]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177471
+[1562]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186684
+[1563]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187387
+[1564]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187554
+[1565]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM178256
+[1566]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM178258
+[1567]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3487062
+[1568]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181372
+[1569]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182001
+[1570]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182003
+[1571]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182030
+[1572]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182056
+[1573]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM182058
+[1574]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185152
+[1575]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186686
+[1576]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186897
+[1577]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187308
+[1578]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187327
+[1579]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187351
+[1580]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187352
+[1581]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187622
+[1582]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307518
+[1583]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308187
+[1584]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308520
+[1585]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308531
+[1586]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308554
+[1587]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308556
+[1588]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308558
+[1589]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308853
+[1590]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308884
+[1591]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309408
+[1592]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309410
+[1593]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309411
+[1594]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309413
+[1595]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309414
+[1596]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309416
+[1597]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309683
+[1598]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309807
+[1599]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309822
+[1600]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309826
+[1601]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309828
+[1602]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309836
+[1603]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM309855
+[1604]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310059
+[1605]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310062
+[1606]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310065
+[1607]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310076
+[1608]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310078
+[1609]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3486966
+[1610]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867456
+[1611]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867457
+[1612]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867479
+[1613]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1867480
+[1614]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3489730
+[1615]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3489731
+[1616]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868308
+[1617]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868310
+[1618]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868312
+[1619]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868318
+[1620]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868319
+[1621]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868340
+[1622]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868341
+[1623]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868350
+[1624]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1868351
+[1625]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310419
+[1626]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310424
+[1627]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM310425
+[1628]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2833500
+[1629]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2833571
+[1630]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382256
+[1631]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382257
+[1632]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382260
+[1633]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3382262
+[1634]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281857
+[1635]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282430
+[1636]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282431
+[1637]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282449
+[1638]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282476
+[1639]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282479
+[1640]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282833
+[1641]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283140
+[1642]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283141
+[1643]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860164
+[1644]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860165
+[1645]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860169
+[1646]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860300
+[1647]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2860302
+[1648]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283303
+[1649]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283339
+[1650]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283340
+[1651]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283341
+[1652]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283342
+[1653]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863979
+[1654]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863980
+[1655]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863981
+[1656]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2863982
+[1657]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283347
+[1658]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283348
+[1659]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2864909
+[1660]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2864910
+[1661]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2864912
+[1662]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634200
+[1663]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634361
+[1664]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634397
+[1665]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634400
+[1666]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634469
+[1667]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634470
+[1668]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634471
+[1669]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634484
+[1670]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634485
+[1671]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634497
+[1672]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634499
+[1673]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634506
+[1674]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634508
+[1675]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634527
+[1676]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2634528
+[1677]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777800
+[1678]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777812
+[1679]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777905
+[1680]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777906
+[1681]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777907
+[1682]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777908
+[1683]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58316
+[1684]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60962
+[1685]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61435
+[1686]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61772
+[1687]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2172500
+[1688]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61794
+[1689]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267121
+[1690]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267715
+[1691]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54947
+[1692]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55731
+[1693]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194753
+[1694]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195056
+[1695]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439694
+[1696]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439895
+[1697]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439900
+[1698]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM439901
+[1699]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336843
+[1700]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336892
+[1701]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337518
+[1702]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM98974
+[1703]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM99751
+[1704]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM99760
+[1705]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2850300
+[1706]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2850438
+[1707]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407769
+[1708]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM408312
+[1709]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25627
+[1710]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26219
+[1711]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26225
+[1712]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26233
+[1713]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26241
+[1714]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26277
+[1715]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26284
+[1716]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26287
+[1717]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26706
+[1718]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26710
+[1719]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26747
+[1720]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26748
+[1721]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26765
+[1722]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96438
+[1723]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96990
+[1724]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97313
+[1725]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97335
+[1726]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97343
+[1727]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351688
+[1728]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352218
+[1729]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM42253
+[1730]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2061203
+[1731]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM42293
+[1732]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM39722
+[1733]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40223
+[1734]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40224
+[1735]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40452
+[1736]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM40472
+[1737]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM41848
+[1738]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413766
+[1739]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414251
+[1740]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414252
+[1741]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124441
+[1742]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124479
+[1743]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM312894
+[1744]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314115
+[1745]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314123
+[1746]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314124
+[1747]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314143
+[1748]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314148
+[1749]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314153
+[1750]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314154
+[1751]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314155
+[1752]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314159
+[1753]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314162
+[1754]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314163
+[1755]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314171
+[1756]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314177
+[1757]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314178
+[1758]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314179
+[1759]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314188
+[1760]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314190
+[1761]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314192
+[1762]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314415
+[1763]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314419
+[1764]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255099
+[1765]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255620
+[1766]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584200
+[1767]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584766
+[1768]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584770
+[1769]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584771
+[1770]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584772
+[1771]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584774
+[1772]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584776
+[1773]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584777
+[1774]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1629615
+[1775]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584779
+[1776]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584784
+[1777]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584785
+[1778]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584786
+[1779]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584788
+[1780]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584789
+[1781]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584790
+[1782]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584791
+[1783]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584792
+[1784]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584793
+[1785]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083869
+[1786]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083870
+[1787]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083871
+[1788]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083872
+[1789]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083873
+[1790]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3083874
+[1791]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1629616
+[1792]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584795
+[1793]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584796
+[1794]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3084400
+[1795]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3084414
+[1796]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3084427
+[1797]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584807
+[1798]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1584828
+[1799]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231004
+[1800]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3565221
+[1801]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3565222
+[1802]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3565226
+[1803]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231753
+[1804]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3232238
+[1805]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323597
+[1806]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325141
+[1807]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325142
+[1808]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325144
+[1809]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325145
+[1810]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325148
+[1811]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325152
+[1812]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325153
+[1813]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325157
+[1814]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325161
+[1815]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109400
+[1816]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109507
+[1817]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109508
+[1818]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109516
+[1819]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109544
+[1820]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109546
+[1821]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1109550
+[1822]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3080338
+[1823]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM373803
+[1824]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM373895
+[1825]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374118
+[1826]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374141
+[1827]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM374183
+[1828]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432647
+[1829]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434085
+[1830]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434089
+[1831]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM66581
+[1832]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70587
+[1833]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394191
+[1834]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM396906
+[1835]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM396982
+[1836]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397303
+[1837]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397388
+[1838]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397392
+[1839]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398383
+[1840]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398390
+[1841]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398393
+[1842]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398616
+[1843]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398633
+[1844]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398635
+[1845]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398687
+[1846]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398689
+[1847]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398690
+[1848]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398691
+[1849]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398695
+[1850]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398817
+[1851]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398818
+[1852]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398820
+[1853]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398845
+[1854]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398868
+[1855]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM399317
+[1856]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM399320
+[1857]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444051
+[1858]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444176
+[1859]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444177
+[1860]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51357
+[1861]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM52248
+[1862]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM52250
+[1863]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48686
+[1864]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50127
+[1865]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50130
+[1866]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50159
+[1867]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50168
+[1868]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50170
+[1869]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50172
+[1870]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50175
+[1871]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50721
+[1872]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50761
+[1873]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51312
+[1874]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442946
+[1875]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443594
+[1876]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM255625
+[1877]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM256429
+[1878]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM256444
+[1879]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM256689
+[1880]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257413
+[1881]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3742803
+[1882]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3742884
+[1883]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM59731
+[1884]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM59821
+[1885]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60863
+[1886]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60897
+[1887]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61300
+[1888]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61301
+[1889]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM207496
+[1890]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208239
+[1891]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208240
+[1892]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208243
+[1893]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208637
+[1894]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208638
+[1895]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208639
+[1896]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208664
+[1897]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208667
+[1898]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208668
+[1899]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208677
+[1900]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208678
+[1901]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208680
+[1902]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208682
+[1903]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208684
+[1904]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208685
+[1905]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208690
+[1906]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209347
+[1907]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209348
+[1908]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209351
+[1909]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209354
+[1910]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209355
+[1911]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209358
+[1912]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209359
+[1913]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209370
+[1914]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209373
+[1915]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209387
+[1916]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209399
+[1917]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209701
+[1918]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209755
+[1919]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209780
+[1920]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209781
+[1921]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210235
+[1922]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210236
+[1923]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210237
+[1924]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210238
+[1925]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210244
+[1926]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210248
+[1927]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210279
+[1928]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210298
+[1929]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210299
+[1930]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210700
+[1931]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210705
+[1932]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210706
+[1933]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210707
+[1934]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210710
+[1935]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210712
+[1936]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210713
+[1937]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285411
+[1938]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285755
+[1939]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285756
+[1940]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285773
+[1941]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285780
+[1942]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285783
+[1943]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3372708
+[1944]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3372710
+[1945]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285955
+[1946]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM285989
+[1947]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942837
+[1948]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286525
+[1949]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942848
+[1950]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286559
+[1951]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942855
+[1952]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942856
+[1953]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942857
+[1954]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2942859
+[1955]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318001
+[1956]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318062
+[1957]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM318068
+[1958]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187177
+[1959]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187185
+[1960]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187832
+[1961]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM187853
+[1962]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173368
+[1963]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175280
+[1964]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175285
+[1965]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175402
+[1966]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175462
+[1967]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175477
+[1968]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM446000
+[1969]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM448023
+[1970]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417077
+[1971]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417733
+[1972]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417765
+[1973]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417768
+[1974]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM417792
+[1975]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209870
+[1976]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209892
+[1977]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209898
+[1978]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381221
+[1979]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2914535
+[1980]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2914536
+[1981]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384915
+[1982]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384916
+[1983]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384918
+[1984]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384929
+[1985]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM384991
+[1986]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2852876
+[1987]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2853438
+[1988]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305839
+[1989]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM306962
+[1990]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307023
+[1991]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307037
+[1992]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307042
+[1993]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307074
+[1994]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410340
+[1995]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410334
+[1996]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410337
+[1997]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410341
+[1998]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1410342
+[1999]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307201
+[2000]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307213
+[2001]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307228
+[2002]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307294
+[2003]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307496
+[2004]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307721
+[2005]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307725
+[2006]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307740
+[2007]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM307982
+[2008]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308720
+[2009]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM308723
+[2010]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM333583
+[2011]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334135
+[2012]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334138
+[2013]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334169
+[2014]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM119974
+[2015]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120598
+[2016]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278828
+[2017]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278835
+[2018]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279658
+[2019]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279675
+[2020]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279677
+[2021]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279679
+[2022]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279681
+[2023]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279685
+[2024]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279901
+[2025]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203311
+[2026]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203380
+[2027]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203382
+[2028]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203810
+[2029]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203824
+[2030]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203860
+[2031]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203884
+[2032]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204304
+[2033]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204307
+[2034]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM204326
+[2035]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM205005
+[2036]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM205006
+[2037]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM205210
+[2038]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25390
+[2039]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25969
+[2040]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25970
+[2041]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM300510
+[2042]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301156
+[2043]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301615
+[2044]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301616
+[2045]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301617
+[2046]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301618
+[2047]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301619
+[2048]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301620
+[2049]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301621
+[2050]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301622
+[2051]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301626
+[2052]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301628
+[2053]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414821
+[2054]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415520
+[2055]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415521
+[2056]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394327
+[2057]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394382
+[2058]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM291039
+[2059]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM291322
+[2060]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411832
+[2061]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM412407
+[2062]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319240
+[2063]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319310
+[2064]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319311
+[2065]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319313
+[2066]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319314
+[2067]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319315
+[2068]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319316
+[2069]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319317
+[2070]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319318
+[2071]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319322
+[2072]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319334
+[2073]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM319805
+[2074]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM304211
+[2075]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305413
+[2076]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305423
+[2077]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305425
+[2078]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305438
+[2079]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305468
+[2080]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305486
+[2081]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305706
+[2082]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152935
+[2083]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154177
+[2084]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154179
+[2085]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154181
+[2086]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154216
+[2087]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154218
+[2088]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154219
+[2089]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154221
+[2090]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154224
+[2091]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154225
+[2092]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154238
+[2093]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154241
+[2094]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154242
+[2095]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154243
+[2096]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154245
+[2097]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154257
+[2098]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154277
+[2099]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1440300
+[2100]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441050
+[2101]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441157
+[2102]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441158
+[2103]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441160
+[2104]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441170
+[2105]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441172
+[2106]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441182
+[2107]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441183
+[2108]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441184
+[2109]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1441512
+[2110]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM406944
+[2111]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407384
+[2112]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407398
+[2113]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407617
+[2114]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407619
+[2115]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM137587
+[2116]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM137934
+[2117]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293863
+[2118]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294182
+[2119]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294189
+[2120]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294228
+[2121]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294232
+[2122]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294237
+[2123]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294238
+[2124]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143557
+[2125]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143567
+[2126]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175774
+[2127]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176104
+[2128]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176128
+[2129]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176137
+[2130]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282026
+[2131]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM282033
+[2132]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126221
+[2133]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126299
+[2134]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126519
+[2135]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144405
+[2136]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144457
+[2137]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144462
+[2138]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144490
+[2139]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144495
+[2140]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144604
+[2141]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144633
+[2142]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144639
+[2143]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144643
+[2144]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176584
+[2145]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176904
+[2146]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176906
+[2147]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM385298
+[2148]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM386911
+[2149]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387234
+[2150]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387705
+[2151]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387723
+[2152]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387797
+[2153]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387820
+[2154]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387822
+[2155]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387824
+[2156]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387826
+[2157]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387831
+[2158]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387833
+[2159]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387836
+[2160]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387838
+[2161]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387839
+[2162]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387841
+[2163]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM387845
+[2164]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392284
+[2165]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392542
+[2166]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392547
+[2167]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392549
+[2168]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342186
+[2169]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342744
+[2170]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342745
+[2171]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342747
+[2172]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342759
+[2173]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342766
+[2174]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342768
+[2175]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342778
+[2176]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278720
+[2177]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279851
+[2178]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279870
+[2179]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279874
+[2180]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279880
+[2181]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331828
+[2182]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331862
+[2183]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331873
+[2184]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331875
+[2185]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM331876
+[2186]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM442535
+[2187]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478100
+[2188]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478278
+[2189]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478279
+[2190]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478281
+[2191]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478288
+[2192]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3005115
+[2193]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3005123
+[2194]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1758289
+[2195]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478308
+[2196]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478313
+[2197]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478317
+[2198]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478320
+[2199]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478330
+[2200]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478345
+[2201]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1794839
+[2202]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478353
+[2203]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478354
+[2204]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478361
+[2205]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478363
+[2206]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478366
+[2207]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478369
+[2208]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478373
+[2209]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478376
+[2210]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478452
+[2211]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478459
+[2212]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478461
+[2213]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478462
+[2214]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478463
+[2215]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478464
+[2216]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478469
+[2217]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478473
+[2218]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478476
+[2219]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478477
+[2220]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478485
+[2221]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478493
+[2222]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478495
+[2223]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478505
+[2224]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478506
+[2225]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478538
+[2226]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478559
+[2227]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478560
+[2228]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3005135
+[2229]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478576
+[2230]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478578
+[2231]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478583
+[2232]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478588
+[2233]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2478599
+[2234]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224577
+[2235]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225493
+[2236]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225944
+[2237]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225976
+[2238]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392241
+[2239]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392282
+[2240]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63090
+[2241]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63098
+[2242]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64403
+[2243]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64406
+[2244]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64418
+[2245]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64443
+[2246]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64444
+[2247]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440509
+[2248]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440537
+[2249]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440539
+[2250]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124822
+[2251]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124867
+[2252]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365015
+[2253]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365060
+[2254]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365918
+[2255]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31458
+[2256]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31803
+[2257]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352254
+[2258]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM353029
+[2259]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM353053
+[2260]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144692
+[2261]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146601
+[2262]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146664
+[2263]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146916
+[2264]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146961
+[2265]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147653
+[2266]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293552
+[2267]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293713
+[2268]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM378371
+[2269]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379434
+[2270]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM379435
+[2271]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM250585
+[2272]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM251185
+[2273]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM253222
+[2274]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM253239
+[2275]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM160976
+[2276]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166882
+[2277]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167056
+[2278]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167317
+[2279]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167357
+[2280]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167361
+[2281]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269031
+[2282]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271066
+[2283]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271078
+[2284]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271086
+[2285]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271614
+[2286]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271916
+[2287]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271957
+[2288]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271992
+[2289]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM271998
+[2290]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434651
+[2291]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3820293
+[2292]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434653
+[2293]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434662
+[2294]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2507342
+[2295]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434807
+[2296]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434811
+[2297]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434841
+[2298]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434846
+[2299]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434858
+[2300]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434859
+[2301]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434870
+[2302]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435009
+[2303]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435051
+[2304]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435084
+[2305]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3812421
+[2306]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435145
+[2307]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3820350
+[2308]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435149
+[2309]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435150
+[2310]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435154
+[2311]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM435155
+[2312]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231100
+[2313]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231189
+[2314]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3231188
+[2315]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM226229
+[2316]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227545
+[2317]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227560
+[2318]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227576
+[2319]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365737
+[2320]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365744
+[2321]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365762
+[2322]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365764
+[2323]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366140
+[2324]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366141
+[2325]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366142
+[2326]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM366714
+[2327]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367307
+[2328]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367320
+[2329]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367321
+[2330]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367322
+[2331]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367324
+[2332]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367396
+[2333]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367828
+[2334]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368163
+[2335]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405080
+[2336]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405303
+[2337]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142888
+[2338]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142957
+[2339]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142958
+[2340]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3142959
+[2341]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167381
+[2342]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM168698
+[2343]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169542
+[2344]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169793
+[2345]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170031
+[2346]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170367
+[2347]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193405
+[2348]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193446
+[2349]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139100
+[2350]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139179
+[2351]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139190
+[2352]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139214
+[2353]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139215
+[2354]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139226
+[2355]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139232
+[2356]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139233
+[2357]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139235
+[2358]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139239
+[2359]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139240
+[2360]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139274
+[2361]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139280
+[2362]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1139282
+[2363]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33081
+[2364]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33442
+[2365]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33470
+[2366]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33477
+[2367]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33457
+[2368]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33463
+[2369]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM33482
+[2370]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390002
+[2371]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390046
+[2372]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390057
+[2373]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM93300
+[2374]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94785
+[2375]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94786
+[2376]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94787
+[2377]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94788
+[2378]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94789
+[2379]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94790
+[2380]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94791
+[2381]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94792
+[2382]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94793
+[2383]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94794
+[2384]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94795
+[2385]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94797
+[2386]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94798
+[2387]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94799
+[2388]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95300
+[2389]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95303
+[2390]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415531
+[2391]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM420685
+[2392]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM420698
+[2393]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM420720
+[2394]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421258
+[2395]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424270
+[2396]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424273
+[2397]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424281
+[2398]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM424283
+[2399]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170872
+[2400]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173452
+[2401]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173859
+[2402]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174011
+[2403]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174012
+[2404]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174016
+[2405]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174018
+[2406]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174021
+[2407]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174023
+[2408]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174024
+[2409]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174026
+[2410]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174030
+[2411]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174031
+[2412]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174033
+[2413]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174034
+[2414]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174036
+[2415]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174038
+[2416]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174042
+[2417]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174047
+[2418]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174056
+[2419]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM174057
+[2420]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2044900
+[2421]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3338653
+[2422]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3338654
+[2423]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3338655
+[2424]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3016606
+[2425]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3016670
+[2426]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202468
+[2427]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202498
+[2428]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203508
+[2429]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260930
+[2430]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261402
+[2431]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261431
+[2432]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261445
+[2433]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261446
+[2434]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM261447
+[2435]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411986
+[2436]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413050
+[2437]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413066
+[2438]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413074
+[2439]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413076
+[2440]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413087
+[2441]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413202
+[2442]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413234
+[2443]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM413249
+[2444]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169979
+[2445]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170913
+[2446]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341044
+[2447]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341144
+[2448]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341147
+[2449]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341159
+[2450]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341172
+[2451]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM311463
+[2452]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM313619
+[2453]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219026
+[2454]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219503
+[2455]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202921
+[2456]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202952
+[2457]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124115
+[2458]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124177
+[2459]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210308
+[2460]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210650
+[2461]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323845
+[2462]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM323871
+[2463]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193695
+[2464]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194348
+[2465]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213102
+[2466]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213387
+[2467]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3597272
+[2468]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213405
+[2469]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3213467
+[2470]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3597419
+[2471]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170781
+[2472]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM171228
+[2473]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25110
+[2474]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25373
+[2475]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25378
+[2476]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397837
+[2477]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398171
+[2478]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398406
+[2479]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398417
+[2480]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28200
+[2481]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28236
+[2482]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28242
+[2483]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241098
+[2484]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241846
+[2485]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241878
+[2486]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM334659
+[2487]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335658
+[2488]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335673
+[2489]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM339501
+[2490]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM339503
+[2491]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335697
+[2492]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335731
+[2493]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335734
+[2494]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335738
+[2495]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335757
+[2496]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335758
+[2497]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335759
+[2498]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335762
+[2499]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335764
+[2500]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335766
+[2501]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335768
+[2502]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335769
+[2503]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM335780
+[2504]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336431
+[2505]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336760
+[2506]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM336787
+[2507]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337295
+[2508]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337311
+[2509]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337313
+[2510]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337340
+[2511]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337393
+[2512]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337615
+[2513]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337616
+[2514]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337804
+[2515]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM337861
+[2516]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338166
+[2517]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338357
+[2518]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338358
+[2519]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338364
+[2520]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338366
+[2521]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338369
+[2522]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338370
+[2523]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338372
+[2524]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338376
+[2525]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338383
+[2526]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338386
+[2527]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM338888
+[2528]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292027
+[2529]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292359
+[2530]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292618
+[2531]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292616
+[2532]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292617
+[2533]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM292619
+[2534]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301706
+[2535]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302063
+[2536]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302064
+[2537]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302065
+[2538]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302068
+[2539]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302070
+[2540]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302072
+[2541]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM302412
+[2542]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53789
+[2543]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55034
+[2544]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55444
+[2545]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55446
+[2546]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55450
+[2547]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56047
+[2548]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56074
+[2549]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56077
+[2550]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56078
+[2551]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56083
+[2552]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56529
+[2553]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM56583
+[2554]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM262175
+[2555]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM263041
+[2556]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM263809
+[2557]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264205
+[2558]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264207
+[2559]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264211
+[2560]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264213
+[2561]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264214
+[2562]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264215
+[2563]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264216
+[2564]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264217
+[2565]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM264262
+[2566]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM304824
+[2567]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190099
+[2568]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190411
+[2569]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190416
+[2570]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186117
+[2571]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186125
+[2572]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186129
+[2573]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM279971
+[2574]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280610
+[2575]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM339688
+[2576]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM340319
+[2577]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436100
+[2578]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436222
+[2579]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436264
+[2580]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436266
+[2581]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436271
+[2582]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436276
+[2583]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436279
+[2584]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436281
+[2585]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436283
+[2586]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436285
+[2587]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436404
+[2588]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436407
+[2589]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436423
+[2590]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436453
+[2591]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436458
+[2592]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436491
+[2593]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436492
+[2594]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436494
+[2595]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436499
+[2596]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM436507
+[2597]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM23069
+[2598]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24025
+[2599]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356223
+[2600]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356811
+[2601]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356813
+[2602]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356814
+[2603]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356816
+[2604]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356817
+[2605]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356819
+[2606]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356821
+[2607]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356823
+[2608]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356825
+[2609]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356827
+[2610]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356829
+[2611]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356831
+[2612]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356833
+[2613]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356834
+[2614]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356836
+[2615]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356839
+[2616]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356841
+[2617]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356848
+[2618]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356850
+[2619]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356851
+[2620]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219821
+[2621]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220243
+[2622]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220285
+[2623]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188103
+[2624]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188899
+[2625]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188901
+[2626]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188939
+[2627]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260203
+[2628]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260265
+[2629]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43512
+[2630]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43570
+[2631]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM288723
+[2632]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289039
+[2633]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289052
+[2634]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289085
+[2635]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM191961
+[2636]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM192266
+[2637]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36962
+[2638]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38266
+[2639]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38268
+[2640]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38282
+[2641]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38288
+[2642]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38296
+[2643]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38508
+[2644]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38509
+[2645]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38512
+[2646]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216730
+[2647]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM216763
+[2648]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260626
+[2649]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM260656
+[2650]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390267
+[2651]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390299
+[2652]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM22639
+[2653]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM23059
+[2654]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM117371
+[2655]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM117752
+[2656]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM118114
+[2657]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM118176
+[2658]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391363
+[2659]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391411
+[2660]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391415
+[2661]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391416
+[2662]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391417
+[2663]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115115
+[2664]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115153
+[2665]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248760
+[2666]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248772
+[2667]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM80050
+[2668]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3397617
+[2669]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM81280
+[2670]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM81283
+[2671]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM57005
+[2672]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM57635
+[2673]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58256
+[2674]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58265
+[2675]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM58267
+[2676]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391605
+[2677]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391855
+[2678]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391857
+[2679]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392015
+[2680]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392017
+[2681]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM392018
+[2682]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM242831
+[2683]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM243435
+[2684]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM19381
+[2685]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20106
+[2686]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20109
+[2687]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20110
+[2688]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20120
+[2689]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20129
+[2690]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20134
+[2691]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314552
+[2692]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM314578
+[2693]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430983
+[2694]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431148
+[2695]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431187
+[2696]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431194
+[2697]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356880
+[2698]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358058
+[2699]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358059
+[2700]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358060
+[2701]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358061
+[2702]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM358062
+[2703]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391468
+[2704]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391905
+[2705]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391907
+[2706]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391908
+[2707]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391912
+[2708]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391914
+[2709]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM391921
+[2710]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120103
+[2711]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM121758
+[2712]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138453
+[2713]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138456
+[2714]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138463
+[2715]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139304
+[2716]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139307
+[2717]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139308
+[2718]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139346
+[2719]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139362
+[2720]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139657
+[2721]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139663
+[2722]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM140106
+[2723]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM140109
+[2724]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM277432
+[2725]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM277439
+[2726]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278086
+[2727]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278094
+[2728]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278097
+[2729]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278099
+[2730]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278310
+[2731]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278334
+[2732]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280030
+[2733]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280418
+[2734]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280448
+[2735]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280449
+[2736]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281012
+[2737]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281015
+[2738]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM281016
+[2739]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM246644
+[2740]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247512
+[2741]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43598
+[2742]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44047
+[2743]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44065
+[2744]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44067
+[2745]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44080
+[2746]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44082
+[2747]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM100577
+[2748]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM101097
+[2749]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM396777
+[2750]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397169
+[2751]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397170
+[2752]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397192
+[2753]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397197
+[2754]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397715
+[2755]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397724
+[2756]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397725
+[2757]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397726
+[2758]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397727
+[2759]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397728
+[2760]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397730
+[2761]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397731
+[2762]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397732
+[2763]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397734
+[2764]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397776
+[2765]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM397778
+[2766]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102100
+[2767]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1351201
+[2768]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1351206
+[2769]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102226
+[2770]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102250
+[2771]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102251
+[2772]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102252
+[2773]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102253
+[2774]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102254
+[2775]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102255
+[2776]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102256
+[2777]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1564701
+[2778]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102317
+[2779]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1102318
+[2780]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421797
+[2781]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM422437
+[2782]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM422443
+[2783]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423257
+[2784]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423702
+[2785]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423708
+[2786]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423714
+[2787]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423724
+[2788]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423727
+[2789]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423728
+[2790]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423735
+[2791]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423739
+[2792]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423742
+[2793]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423751
+[2794]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423755
+[2795]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423761
+[2796]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423762
+[2797]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423775
+[2798]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423776
+[2799]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423777
+[2800]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM423778
+[2801]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276319
+[2802]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276377
+[2803]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM350820
+[2804]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351465
+[2805]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351470
+[2806]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM351474
+[2807]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM296638
+[2808]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297458
+[2809]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297904
+[2810]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297962
+[2811]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3242821
+[2812]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298435
+[2813]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298798
+[2814]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM297099
+[2815]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414295
+[2816]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414747
+[2817]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM414792
+[2818]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594400
+[2819]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594525
+[2820]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594553
+[2821]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594559
+[2822]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594560
+[2823]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594587
+[2824]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594588
+[2825]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2840743
+[2826]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594590
+[2827]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594591
+[2828]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594637
+[2829]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594638
+[2830]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594640
+[2831]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1594644
+[2832]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM968961
+[2833]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969677
+[2834]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969332
+[2835]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969339
+[2836]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969340
+[2837]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969342
+[2838]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969344
+[2839]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969352
+[2840]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM969481
+[2841]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM440944
+[2842]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM441785
+[2843]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197814
+[2844]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197854
+[2845]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197855
+[2846]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197858
+[2847]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197866
+[2848]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197876
+[2849]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197883
+[2850]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197890
+[2851]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197896
+[2852]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197897
+[2853]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197898
+[2854]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432115
+[2855]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432249
+[2856]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432422
+[2857]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432454
+[2858]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432467
+[2859]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432481
+[2860]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432483
+[2861]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432505
+[2862]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432512
+[2863]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432516
+[2864]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432520
+[2865]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM126527
+[2866]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127046
+[2867]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127098
+[2868]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127509
+[2869]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634682
+[2870]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634907
+[2871]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM88540
+[2872]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM88933
+[2873]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM88934
+[2874]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394841
+[2875]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394895
+[2876]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM163147
+[2877]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM163148
+[2878]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM30489
+[2879]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31535
+[2880]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31548
+[2881]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM45426
+[2882]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47366
+[2883]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47784
+[2884]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47785
+[2885]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47786
+[2886]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47787
+[2887]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47788
+[2888]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM47794
+[2889]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48384
+[2890]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM8800
+[2891]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM9041
+[2892]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM184054
+[2893]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM184492
+[2894]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185011
+[2895]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185014
+[2896]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185033
+[2897]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM185039
+[2898]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM372538
+[2899]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM373144
+[2900]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368574
+[2901]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM368652
+[2902]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195575
+[2903]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197108
+[2904]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197368
+[2905]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197370
+[2906]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM197904
+[2907]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM341567
+[2908]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342642
+[2909]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342643
+[2910]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342644
+[2911]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342645
+[2912]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342683
+[2913]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342687
+[2914]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342691
+[2915]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342695
+[2916]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM342696
+[2917]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294701
+[2918]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294724
+[2919]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM409295
+[2920]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM409739
+[2921]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427296
+[2922]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427702
+[2923]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1151900
+[2924]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152148
+[2925]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152150
+[2926]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1317700
+[2927]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1358237
+[2928]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152160
+[2929]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152187
+[2930]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327640
+[2931]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327707
+[2932]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327714
+[2933]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327716
+[2934]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327717
+[2935]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327730
+[2936]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327731
+[2937]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327733
+[2938]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327735
+[2939]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM327740
+[2940]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73880
+[2941]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74657
+[2942]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74658
+[2943]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74659
+[2944]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74660
+[2945]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74661
+[2946]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74668
+[2947]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74670
+[2948]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM343165
+[2949]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344001
+[2950]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344033
+[2951]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344034
+[2952]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM344046
+[2953]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15636
+[2954]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15690
+[2955]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM199363
+[2956]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200016
+[2957]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200017
+[2958]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200322
+[2959]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201563
+[2960]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201565
+[2961]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201567
+[2962]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201597
+[2963]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2594833
+[2964]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2594831
+[2965]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1607405
+[2966]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1607408
+[2967]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202416
+[2968]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202418
+[2969]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444304
+[2970]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444971
+[2971]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444984
+[2972]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444996
+[2973]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM444999
+[2974]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445002
+[2975]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445012
+[2976]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445023
+[2977]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186136
+[2978]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM186146
+[2979]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM193964
+[2980]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194889
+[2981]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94277
+[2982]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95504
+[2983]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95538
+[2984]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95559
+[2985]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95596
+[2986]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95936
+[2987]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95943
+[2988]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95944
+[2989]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95945
+[2990]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95949
+[2991]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96401
+[2992]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96416
+[2993]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230264
+[2994]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM238503
+[2995]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239038
+[2996]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239042
+[2997]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239051
+[2998]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239062
+[2999]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239073
+[3000]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239075
+[3001]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM239303
+[3002]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2218400
+[3003]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2218809
+[3004]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220364
+[3005]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM220940
+[3006]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM172771
+[3007]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173215
+[3008]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173707
+[3009]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173918
+[3010]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267003
+[3011]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM267012
+[3012]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18599
+[3013]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM19174
+[3014]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM19625
+[3015]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902200
+[3016]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902359
+[3017]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902436
+[3018]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2902440
+[3019]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203214
+[3020]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203493
+[3021]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165115
+[3022]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166105
+[3023]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166134
+[3024]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166182
+[3025]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166331
+[3026]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166333
+[3027]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166335
+[3028]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166337
+[3029]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166340
+[3030]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166343
+[3031]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166357
+[3032]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166362
+[3033]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166380
+[3034]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166382
+[3035]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166386
+[3036]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166391
+[3037]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166397
+[3038]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166600
+[3039]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166604
+[3040]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166607
+[3041]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166609
+[3042]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166611
+[3043]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166616
+[3044]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166618
+[3045]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166621
+[3046]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166624
+[3047]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166628
+[3048]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166634
+[3049]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166638
+[3050]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166651
+[3051]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166654
+[3052]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM166682
+[3053]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405044
+[3054]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405076
+[3055]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305111
+[3056]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305169
+[3057]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305170
+[3058]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305180
+[3059]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305181
+[3060]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305185
+[3061]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305197
+[3062]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305199
+[3063]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305600
+[3064]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305607
+[3065]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305608
+[3066]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305609
+[3067]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305611
+[3068]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305612
+[3069]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305613
+[3070]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305616
+[3071]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305618
+[3072]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305619
+[3073]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305625
+[3074]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305628
+[3075]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305630
+[3076]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305631
+[3077]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305646
+[3078]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305649
+[3079]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305650
+[3080]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177642
+[3081]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177666
+[3082]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177667
+[3083]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177669
+[3084]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM25999
+[3085]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM28802
+[3086]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29406
+[3087]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29410
+[3088]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29416
+[3089]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29420
+[3090]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29440
+[3091]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29444
+[3092]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29464
+[3093]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29496
+[3094]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM30193
+[3095]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3637712
+[3096]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3637770
+[3097]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3638228
+[3098]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139726
+[3099]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141870
+[3100]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141872
+[3101]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141873
+[3102]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141874
+[3103]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141875
+[3104]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141876
+[3105]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141892
+[3106]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651100
+[3107]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651170
+[3108]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651198
+[3109]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651241
+[3110]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651247
+[3111]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2651264
+[3112]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210989
+[3113]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211472
+[3114]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211473
+[3115]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211478
+[3116]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211480
+[3117]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211481
+[3118]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211487
+[3119]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211488
+[3120]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211489
+[3121]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275026
+[3122]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275945
+[3123]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275951
+[3124]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275954
+[3125]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275956
+[3126]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275963
+[3127]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275966
+[3128]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275978
+[3129]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275982
+[3130]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275983
+[3131]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275985
+[3132]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275990
+[3133]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM275996
+[3134]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276623
+[3135]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276628
+[3136]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276646
+[3137]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276653
+[3138]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276654
+[3139]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276656
+[3140]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276657
+[3141]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276658
+[3142]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124896
+[3143]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM125332
+[3144]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM212350
+[3145]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM212368
+[3146]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223190
+[3147]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223964
+[3148]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223975
+[3149]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224393
+[3150]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3913931
+[3151]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3913932
+[3152]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224726
+[3153]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224728
+[3154]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM359106
+[3155]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM360781
+[3156]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM361019
+[3157]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM361034
+[3158]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364489
+[3159]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364874
+[3160]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365829
+[3161]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365851
+[3162]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365864
+[3163]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM365866
+[3164]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189914
+[3165]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190280
+[3166]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190653
+[3167]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM190997
+[3168]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM230364
+[3169]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM231075
+[3170]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM231644
+[3171]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM232171
+[3172]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM232850
+[3173]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM232851
+[3174]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM157116
+[3175]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM157176
+[3176]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390106
+[3177]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390178
+[3178]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390180
+[3179]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390181
+[3180]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM129109
+[3181]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM130124
+[3182]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM130369
+[3183]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430704
+[3184]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430966
+[3185]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430975
+[3186]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM430978
+[3187]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225791
+[3188]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM226701
+[3189]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3179903
+[3190]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3180351
+[3191]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3180352
+[3192]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3180353
+[3193]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375802
+[3194]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375859
+[3195]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375862
+[3196]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375865
+[3197]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375867
+[3198]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375870
+[3199]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375872
+[3200]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375874
+[3201]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375876
+[3202]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375880
+[3203]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM375886
+[3204]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228384
+[3205]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM228915
+[3206]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53347
+[3207]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53353
+[3208]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53510
+[3209]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53514
+[3210]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53517
+[3211]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53565
+[3212]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53721
+[3213]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53723
+[3214]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53732
+[3215]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53734
+[3216]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53735
+[3217]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53736
+[3218]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53737
+[3219]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM53763
+[3220]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143291
+[3221]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM144041
+[3222]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM214070
+[3223]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325508
+[3224]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326118
+[3225]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326383
+[3226]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326386
+[3227]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326392
+[3228]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326706
+[3229]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326710
+[3230]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326732
+[3231]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM326734
+[3232]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM348342
+[3233]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352409
+[3234]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM352698
+[3235]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356938
+[3236]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356940
+[3237]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356942
+[3238]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356945
+[3239]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356949
+[3240]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM356959
+[3241]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289881
+[3242]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM290987
+[3243]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM290989
+[3244]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293003
+[3245]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124960
+[3246]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127408
+[3247]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127421
+[3248]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127448
+[3249]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127455
+[3250]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127462
+[3251]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3874955
+[3252]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM151490
+[3253]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM152782
+[3254]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM152787
+[3255]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM153313
+[3256]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407090
+[3257]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM407722
+[3258]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175060
+[3259]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175092
+[3260]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145965
+[3261]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147003
+[3262]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147011
+[3263]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147015
+[3264]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147025
+[3265]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147027
+[3266]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147030
+[3267]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147032
+[3268]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM147035
+[3269]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM164239
+[3270]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165020
+[3271]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165021
+[3272]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175701
+[3273]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175728
+[3274]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175733
+[3275]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175755
+[3276]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM175758
+[3277]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM219710
+[3278]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM221882
+[3279]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM221884
+[3280]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM410792
+[3281]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411350
+[3282]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411355
+[3283]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411357
+[3284]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM411358
+[3285]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2576200
+[3286]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2576381
+[3287]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36926
+[3288]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36951
+[3289]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM36952
+[3290]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM304703
+[3291]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305242
+[3292]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305527
+[3293]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305592
+[3294]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM305809
+[3295]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381179
+[3296]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381742
+[3297]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431745
+[3298]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM431789
+[3299]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM432102
+[3300]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248099
+[3301]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248859
+[3302]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398422
+[3303]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398468
+[3304]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM398470
+[3305]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325263
+[3306]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325477
+[3307]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM325483
+[3308]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM240501
+[3309]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM240511
+[3310]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM393752
+[3311]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM393788
+[3312]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM393791
+[3313]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405133
+[3314]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM405226
+[3315]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434436
+[3316]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434457
+[3317]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434459
+[3318]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM434464
+[3319]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2248900
+[3320]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2248952
+[3321]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM249941
+[3322]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM250528
+[3323]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM250576
+[3324]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM363858
+[3325]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364255
+[3326]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364258
+[3327]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364269
+[3328]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364271
+[3329]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364272
+[3330]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364286
+[3331]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364296
+[3332]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM364628
+[3333]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213209
+[3334]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM213227
+[3335]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244000
+[3336]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244171
+[3337]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244192
+[3338]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244194
+[3339]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1244202
+[3340]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM131540
+[3341]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM131970
+[3342]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM284374
+[3343]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286045
+[3344]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286052
+[3345]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM286054
+[3346]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM999800
+[3347]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154645
+[3348]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154646
+[3349]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154654
+[3350]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154658
+[3351]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1154659
+[3352]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM403529
+[3353]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM404168
+[3354]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM404431
+[3355]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102241
+[3356]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102564
+[3357]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102942
+[3358]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102948
+[3359]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102959
+[3360]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167916
+[3361]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169304
+[3362]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16622
+[3363]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17641
+[3364]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM276813
+[3365]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278196
+[3366]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278500
+[3367]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM278512
+[3368]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM222446
+[3369]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223251
+[3370]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223252
+[3371]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223253
+[3372]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223254
+[3373]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223255
+[3374]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223256
+[3375]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223257
+[3376]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM223264
+[3377]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM200494
+[3378]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201316
+[3379]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4663359
+[3380]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1777925
+[3381]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4356919
+[3382]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3388552
+[3383]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15385
+[3384]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15398
+[3385]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14512
+[3386]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14523
+[3387]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM78160
+[3388]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM78185
+[3389]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54088
+[3390]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54454
+[3391]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM54737
+[3392]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM55501
+[3393]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73524
+[3394]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73579
+[3395]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM27635
+[3396]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM27696
+[3397]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51481
+[3398]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM51862
+[3399]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64669
+[3400]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65048
+[3401]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65218
+[3402]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65220
+[3403]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65258
+[3404]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65268
+[3405]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65271
+[3406]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24317
+[3407]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24327
+[3408]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM59474
+[3409]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60102
+[3410]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM86633
+[3411]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM86692
+[3412]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM86695
+[3413]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124357
+[3414]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124712
+[3415]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50389
+[3416]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50910
+[3417]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM50914
+[3418]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21169
+[3419]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21182
+[3420]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48422
+[3421]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48492
+[3422]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13337
+[3423]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13358
+[3424]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM39529
+[3425]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM39565
+[3426]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64623
+[3427]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64650
+[3428]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64654
+[3429]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85720
+[3430]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85792
+[3431]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85794
+[3432]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70959
+[3433]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM71344
+[3434]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85318
+[3435]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM85352
+[3436]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29519
+[3437]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29575
+[3438]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM29603
+[3439]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1152853
+[3440]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634221
+[3441]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634222
+[3442]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1634223
+[3443]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20653
+[3444]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20666
+[3445]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38389
+[3446]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM38724
+[3447]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64607
+[3448]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM64622
+[3449]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24330
+[3450]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24384
+[3451]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31630
+[3452]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM31648
+[3453]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70016
+[3454]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70066
+[3455]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70068
+[3456]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70404
+[3457]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70405
+[3458]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70406
+[3459]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70432
+[3460]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70448
+[3461]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70909
+[3462]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70922
+[3463]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM70927
+[3464]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13550
+[3465]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM13747
+[3466]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90381
+[3467]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90606
+[3468]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107086
+[3469]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107516
+[3470]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90020
+[3471]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM90062
+[3472]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108364
+[3473]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109001
+[3474]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102009
+[3475]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102060
+[3476]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1919700
+[3477]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1919742
+[3478]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM104763
+[3479]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM104796
+[3480]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1890634
+[3481]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1860613
+[3482]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1044
+[3483]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1076
+[3484]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63154
+[3485]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM63167
+[3486]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM168888
+[3487]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169114
+[3488]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169115
+[3489]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM169135
+[3490]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73083
+[3491]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73425
+[3492]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM300740
+[3493]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM300762
+[3494]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM332616
+[3495]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM332649
+[3496]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1474
+[3497]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1739
+[3498]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM116636
+[3499]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM116687
+[3500]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390384
+[3501]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390900
+[3502]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM390905
+[3503]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189383
+[3504]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189390
+[3505]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421657
+[3506]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM421674
+[3507]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1286500
+[3508]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1194218
+[3509]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48747
+[3510]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM48758
+[3511]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150385
+[3512]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150396
+[3513]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367006
+[3514]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM367023
+[3515]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1119400
+[3516]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1119421
+[3517]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM315416
+[3518]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM315822
+[3519]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM41528
+[3520]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM41570
+[3521]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247947
+[3522]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247968
+[3523]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2474300
+[3524]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2438602
+[3525]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96274
+[3526]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM97159
+[3527]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289175
+[3528]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM289678
+[3529]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM136572
+[3530]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM137467
+[3531]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1434900
+[3532]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM247710
+[3533]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM248103
+[3534]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1412500
+[3535]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1412601
+[3536]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM362024
+[3537]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM362457
+[3538]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM362458
+[3539]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73428
+[3540]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73468
+[3541]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM209677
+[3542]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210523
+[3543]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM210578
+[3544]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1459400
+[3545]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1459416
+[3546]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3285300
+[3547]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3285333
+[3548]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3285390
+[3549]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233404
+[3550]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233474
+[3551]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233475
+[3552]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM233491
+[3553]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283613
+[3554]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283692
+[3555]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM283693
+[3556]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2763500
+[3557]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2763628
+[3558]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2763787
+[3559]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208426
+[3560]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM208466
+[3561]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034700
+[3562]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034839
+[3563]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034840
+[3564]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034879
+[3565]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034881
+[3566]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034883
+[3567]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034884
+[3568]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034885
+[3569]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034886
+[3570]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034887
+[3571]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034888
+[3572]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034890
+[3573]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034892
+[3574]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034893
+[3575]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034894
+[3576]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034895
+[3577]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034896
+[3578]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034897
+[3579]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034898
+[3580]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034900
+[3581]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2034901
+[3582]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108729
+[3583]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108787
+[3584]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM108788
+[3585]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1106962
+[3586]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1107006
+[3587]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1325200
+[3588]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1325281
+[3589]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443072
+[3590]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443401
+[3591]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443423
+[3592]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443425
+[3593]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443426
+[3594]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443435
+[3595]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194133
+[3596]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM194650
+[3597]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73471
+[3598]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73718
+[3599]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM382015
+[3600]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM382067
+[3601]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211127
+[3602]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM211143
+[3603]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143458
+[3604]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM143902
+[3605]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM112670
+[3606]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM113819
+[3607]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM113840
+[3608]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM114646
+[3609]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM104497
+[3610]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106513
+[3611]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM973967
+[3612]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM973997
+[3613]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM114664
+[3614]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115269
+[3615]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM106538
+[3616]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107935
+[3617]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115280
+[3618]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115588
+[3619]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM107954
+[3620]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109241
+[3621]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM76406
+[3622]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM78076
+[3623]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241426
+[3624]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM241931
+[3625]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM139497
+[3626]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM140646
+[3627]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60577
+[3628]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM62917
+[3629]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183827
+[3630]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183863
+[3631]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM115595
+[3632]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM116103
+[3633]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM109258
+[3634]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM111048
+[3635]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM145805
+[3636]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM146314
+[3637]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM111063
+[3638]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM112647
+[3639]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2420
+[3640]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2461
+[3641]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4116
+[3642]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4154
+[3643]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227210
+[3644]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM227243
+[3645]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427874
+[3646]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM427895
+[3647]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM42657
+[3648]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43747
+[3649]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14195
+[3650]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14430
+[3651]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM332670
+[3652]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM333405
+[3653]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3817
+[3654]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3897
+[3655]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM178498
+[3656]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM179625
+[3657]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM92491
+[3658]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM93733
+[3659]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM93755
+[3660]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM94165
+[3661]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141242
+[3662]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM141609
+[3663]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1452900
+[3664]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1452999
+[3665]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2359500
+[3666]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2359567
+[3667]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2359687
+[3668]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM235058
+[3669]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM235303
+[3670]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM15784
+[3671]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16217
+[3672]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14619
+[3673]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14684
+[3674]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269297
+[3675]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269576
+[3676]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217347
+[3677]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217725
+[3678]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM295935
+[3679]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM296276
+[3680]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298206
+[3681]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298521
+[3682]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM298847
+[3683]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM299620
+[3684]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM284451
+[3685]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM284821
+[3686]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM202256
+[3687]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM203143
+[3688]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM198872
+[3689]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2195906
+[3690]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM176252
+[3691]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM177242
+[3692]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM258071
+[3693]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM258343
+[3694]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225615
+[3695]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM225659
+[3696]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM43788
+[3697]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM44762
+[3698]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM12142
+[3699]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM12155
+[3700]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181232
+[3701]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM181611
+[3702]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3504
+[3703]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3573
+[3704]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3575
+[3705]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2026700
+[3706]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2026757
+[3707]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252042
+[3708]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252053
+[3709]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201185
+[3710]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM201193
+[3711]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1679855
+[3712]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1680103
+[3713]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM293953
+[3714]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM294407
+[3715]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120097
+[3716]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM120770
+[3717]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM259090
+[3718]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM259534
+[3719]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4007
+[3720]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4041
+[3721]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4057
+[3722]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4060
+[3723]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM4064
+[3724]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2938300
+[3725]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2938452
+[3726]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2938492
+[3727]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280109
+[3728]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280509
+[3729]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM280158
+[3730]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1387281
+[3731]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM1387357
+[3732]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18863
+[3733]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM18881
+[3734]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM188273
+[3735]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189008
+[3736]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252962
+[3737]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252975
+[3738]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM252981
+[3739]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM179648
+[3740]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM179681
+[3741]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269594
+[3742]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269907
+[3743]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM269913
+[3744]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM95667
+[3745]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM96854
+[3746]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224222
+[3747]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM224290
+[3748]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM350324
+[3749]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM350345
+[3750]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM348601
+[3751]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM348620
+[3752]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3589234
+[3753]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3589251
+[3754]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170106
+[3755]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM170137
+[3756]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167619
+[3757]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167629
+[3758]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167633
+[3759]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167648
+[3760]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167656
+[3761]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167677
+[3762]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM167680
+[3763]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM82926
+[3764]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM82946
+[3765]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73721
+[3766]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73765
+[3767]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM73768
+[3768]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74112
+[3769]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM173026
+[3770]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM394495
+[3771]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM395266
+[3772]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM445824
+[3773]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26146
+[3774]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM26198
+[3775]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17905
+[3776]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17956
+[3777]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM217750
+[3778]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM218407
+[3779]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM132903
+[3780]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM132909
+[3781]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM7254
+[3782]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM7697
+[3783]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3612607
+[3784]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3612628
+[3785]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3608913
+[3786]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3608915
+[3787]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165448
+[3788]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM165466
+[3789]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM71512
+[3790]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM72108
+[3791]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14436
+[3792]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14466
+[3793]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2393204
+[3794]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2393264
+[3795]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM20752
+[3796]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21064
+[3797]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24438
+[3798]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM24484
+[3799]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65417
+[3800]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM65724
+[3801]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM124662
+[3802]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM125068
+[3803]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2291142
+[3804]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2291555
+[3805]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2291556
+[3806]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2285660
+[3807]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138957
+[3808]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM2744000
+[3809]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM138969
+[3810]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443903
+[3811]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM443936
+[3812]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16294
+[3813]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM16890
+[3814]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM67015
+[3815]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM67073
+[3816]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM257873
+[3817]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM258459
+[3818]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415605
+[3819]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM415671
+[3820]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381009
+[3821]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM381080
+[3822]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61920
+[3823]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM61968
+[3824]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127303
+[3825]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127348
+[3826]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127349
+[3827]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127352
+[3828]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127354
+[3829]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127356
+[3830]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127362
+[3831]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127365
+[3832]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM127367
+[3833]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74115
+[3834]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74179
+[3835]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150362
+[3836]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM150373
+[3837]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21321
+[3838]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM21351
+[3839]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM5726
+[3840]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM5768
+[3841]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3902
+[3842]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM3947
+[3843]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17108
+[3844]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM17159
+[3845]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60011
+[3846]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM60064
+[3847]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301527
+[3848]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301813
+[3849]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301865
+[3850]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301934
+[3851]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301940
+[3852]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM301961
+[3853]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74188
+[3854]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM74329
+[3855]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14474
+[3856]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM14614
+[3857]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183202
+[3858]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM183230
+[3859]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189521
+[3860]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189571
+[3861]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189577
+[3862]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM189642
+[3863]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM101554
+[3864]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM102103
+[3865]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM8734
+[3866]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM8951
+[3867]: http://www.pco.parliament.govt.nz/reprints/
+[3868]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195439
+[3869]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[3870]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195468
+[3871]: http://www.legislation.govt.nz/act/public/2011/0081/latest/link.aspx?id=DLM195470
