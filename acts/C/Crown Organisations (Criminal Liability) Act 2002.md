@@ -1,7 +1,7 @@
 Reprint  
-as at 1 October 2009
+as at 28 June 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Crown Organisations (Criminal Liability) Act 2002Public Act2002 No 37
 
@@ -23,85 +23,85 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
-[3][3] [Purpose][3]
+[3][3][][3][Purpose][3]
 
 [Part 1][4]  
 [Criminal liability of Crown organisations][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds Crown][6]
+[5][6][][6][Act binds Crown][6]
 
-[6][7] [Prosecutions against Crown organisations][7]
+[6][7][][7][Prosecutions against Crown organisations][7]
 
-[7][8] [Legal status of certain Crown organisations][8]
+[7][8][][8][Legal status of certain Crown organisations][8]
 
-[8][9] [Conduct of proceedings][9]
+[8][9][][9][Conduct of proceedings][9]
 
-[9][10] [Rights and privileges of Crown organisations][10]
+[9][10][][10][Rights and privileges of Crown organisations][10]
 
-[10][11] [Restrictions on privilege against self-incrimination][11]
+[10][11][][11][Restrictions on privilege against self-incrimination][11]
 
-[11][12] [Crown immunity not to apply in respect of offences under this Act][12]
+[11][12][][12][Crown immunity not to apply in respect of offences under this Act][12]
 
-[12][13] [Appropriation][13]
+[12][13][][13][Appropriation][13]
 
 [Part 2][14]  
 [Amendments to other Acts][14]
 
 [Amendments to Building Act 1991][15]
 
-[13][16] [Interpretation][16]
+[13][16][][16][Interpretation][16]
 
-[14][17] [Act to bind the Crown][17]
+[14][17][][17][Act to bind the Crown][17]
 
-[15][18] [Injunctions may be granted by District Court for certain continuing breaches][18]
+[15][18][][18][Injunctions may be granted by District Court for certain continuing breaches][18]
 
-[16][19] [Liability of principal for acts of agents][19]
+[16][19][][19][Liability of principal for acts of agents][19]
 
-[17][20] [New section 82A inserted][20]
+[17][20][][20][New section 82A inserted][20]
 
-[18][21] [Service of documents][21]
+[18][21][][21][Service of documents][21]
 
 [Amendments to Costs in Criminal Cases Act 1967][22]
 
-[19][23] [Interpretation][23]
+[19][23][][23][Interpretation][23]
 
-[20][24] [Costs of the prosecutor][24]
+[20][24][][24][Costs of the prosecutor][24]
 
-[21][25] [Payment of defendant's costs][25]
+[21][25][][25][Payment of defendant's costs][25]
 
-[22][26] [Enforcement of order as to costs made on an appeal][26]
+[22][26][][26][Enforcement of order as to costs made on an appeal][26]
 
 [Amendments to Health and Safety in Employment Act 1992][27]
 
-[23][28] [Interpretation][28]
+[23][28][][28][Interpretation][28]
 
-[24][29] [Application of Act to the Crown][29]
+[24][29][][29][Application of Act to the Crown][29]
 
-[25][30] [Only inspectors to institute prosecutions][30] \[Repealed\]
+[25][30][][30][Only inspectors to institute prosecutions][30] \[Repealed\]
 
-[26][31] [Other provisions relating to offences][31]
+[26][31][][31][Other provisions relating to offences][31]
 
-[27][32] [Offences by bodies corporate][32]
+[27][32][][32][Offences by bodies corporate][32]
 
 [Amendments to Sentencing Act 2002][33]
 
-[28][34] [Interpretation][34]
+[28][34][][34][Interpretation][34]
 
 [Amendments to Summary Proceedings Act 1957][35]
 
-[29][36] [Interpretation][36]
+[29][36][][36][Interpretation][36]
 
-[30][37] [Mode of service of documents on defendant][37]
+[30][37][][37][Mode of service of documents on defendant][37]
 
-[31][38] [Stay of proceedings][38]
+[31][38][][38][Stay of proceedings][38]
 
-[32][39] [Informant's right of appeal against sentence][39]
+[32][39][][39][Informant's right of appeal against sentence][39]
 
 ---
 
@@ -182,19 +182,23 @@ Criminal liability of Crown organisations
     
     *   (b) an offence under [section 49][51] or [section 50][52] of the Health and Safety in Employment Act 1992:
     
-    *   (c) an offence against the [Resource Management Act 1991][42].
+    *   (c) an offence against the [Resource Management Act 1991][42]:
+    
+    *   (d) an offence against the [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][53].
     
     (2) This section does not affect any liability of a Crown organisation that arises independently of this section to prosecution for an offence.
     
     Section 6(1)(a): substituted, on 31 March 2005, by [section 414][44] of the Building Act 2004 (2004 No 72).
     
     Section 6(1)(c): added, on 1 October 2009, by [section 163(3)][43] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    
+    Section 6(1)(d): inserted, on 28 June 2013, by [section 172(2)][54] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
 
 ##### 7 Legal status of certain Crown organisations
     
 *   A Crown organisation that is not a body corporate has a separate legal personality for the purposes of---
         
-    *   (a) compliance with the obligations imposed by the [Building Act 2004][40], the [Health and Safety in Employment Act 1992][41], or the [Resource Management Act 1991][42]; and
+    *   (a) compliance with the obligations imposed by the [Building Act 2004][40], the [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][53], the [Health and Safety in Employment Act 1992][41], or the [Resource Management Act 1991][42]; and
     
     *   (b) the bringing, hearing, and determination of proceedings against it for an offence referred to in [section 6][7]; and
     
@@ -203,6 +207,8 @@ Criminal liability of Crown organisations
     *   (d) the enforcement of any sentence imposed on that organisation.
     
     Section 7(a): substituted, on 1 October 2009, by [section 163(4)][43] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    
+    Section 7(a): amended, on 28 June 2013, by [section 172(3)][54] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
 
 ##### 8 Conduct of proceedings
     
@@ -214,7 +220,7 @@ Criminal liability of Crown organisations
     
     (4) Despite subsection (3), a court may not sentence a Crown organisation to pay a fine in respect of an offence referred to in [section 6][7].
     
-    (5) This section is subject to [section 54][53] of the Health and Safety in Employment Act 1992, [sections 77A][54] and [115A][55] of the Summary Proceedings Act 1957, and [section 4(9)][56] of the Resource Management Act 1991\.
+    (5) This section is subject to [section 54][55] of the Health and Safety in Employment Act 1992, [sections 77A][56] and [115A][57] of the Summary Proceedings Act 1957, and [section 4(9)][58] of the Resource Management Act 1991\.
     
     Section 8(5): substituted, on 1 October 2009, by [section 163(5)][43] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -232,23 +238,23 @@ Criminal liability of Crown organisations
     
     *   (b) to supply information or make a statement in response to any request or requirement to supply information or make a statement made under---
             
-        *   (i) [section 31][57] of the Health and Safety in Employment Act 1992; or
+        *   (i) [section 31][59] of the Health and Safety in Employment Act 1992; or
         
-        *   (ii) [section 19][58] of the Ombudsmen Act 1975; or
+        *   (ii) [section 19][60] of the Ombudsmen Act 1975; or
         
-        *   (iii) [section 91][59] of the Privacy Act 1993; or
+        *   (iii) [section 91][61] of the Privacy Act 1993; or
         
         *   (iv) section 26 of the Public Finance Act 1977; or
         
-        *   (v) [section 133][60] of the Crown Entities Act 2004; or
+        *   (v) [section 133][62] of the Crown Entities Act 2004; or
         
-        *   (vi) [section 9][61] or [section 10][62] of the State Sector Act 1988; or
+        *   (vi) [section 9][63] or [section 10][64] of the State Sector Act 1988; or
         
-        *   (vii) [section 22][63] of the Resource Management Act 1991; or
+        *   (vii) [section 22][65] of the Resource Management Act 1991; or
         
         
     
-    *   (c) a request for official information made in accordance with [section 12][64] of the Official Information Act 1982; or
+    *   (c) a request for official information made in accordance with [section 12][66] of the Official Information Act 1982; or
     
     *   (d) to supply information requested by---
             
@@ -307,67 +313,67 @@ Amendments to other Acts
 
 ##### 19 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][65]_.
+*   _Amendment(s) incorporated in the [Act(s)][67]_.
 
 ##### 20 Costs of the prosecutor
     
-*   _Amendment(s) incorporated in the [Act(s)][66]_.
+*   _Amendment(s) incorporated in the [Act(s)][68]_.
 
 ##### 21 Payment of defendant's costs
     
-*   _Amendment(s) incorporated in the [Act(s)][67]_.
+*   _Amendment(s) incorporated in the [Act(s)][69]_.
 
 ##### 22 Enforcement of order as to costs made on an appeal
     
-*   _Amendment(s) incorporated in the [Act(s)][68]_.
+*   _Amendment(s) incorporated in the [Act(s)][70]_.
 
 #### Amendments to Health and Safety in Employment Act 1992
 
 ##### 23 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][69]_.
+*   _Amendment(s) incorporated in the [Act(s)][71]_.
 
 ##### 24 Application of Act to the Crown
     
-*   _Amendment(s) incorporated in the [Act(s)][70]_.
+*   _Amendment(s) incorporated in the [Act(s)][72]_.
 
 ##### 25 Only inspectors to institute prosecutions
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 5 May 2003, by [section 28(2)][71] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 25: repealed, on 5 May 2003, by [section 28(2)][73] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 26 Other provisions relating to offences
     
-*   _Amendment(s) incorporated in the [Act(s)][72]_.
+*   _Amendment(s) incorporated in the [Act(s)][74]_.
 
 ##### 27 Offences by bodies corporate
     
-*   _Amendment(s) incorporated in the [Act(s)][73]_.
+*   _Amendment(s) incorporated in the [Act(s)][75]_.
 
 #### Amendments to Sentencing Act 2002
 
 ##### 28 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][74]_.
+*   _Amendment(s) incorporated in the [Act(s)][76]_.
 
 #### Amendments to Summary Proceedings Act 1957
 
 ##### 29 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][75]_.
+*   _Amendment(s) incorporated in the [Act(s)][77]_.
 
 ##### 30 Mode of service of documents on defendant
     
-*   _Amendment(s) incorporated in the [Act(s)][76]_.
+*   _Amendment(s) incorporated in the [Act(s)][78]_.
 
 ##### 31 Stay of proceedings
     
-*   _Amendment(s) incorporated in the [Act(s)][54]_.
+*   _Amendment(s) incorporated in the [Act(s)][56]_.
 
 ##### 32 Informant's right of appeal against sentence
     
-*   _Amendment(s) incorporated in the [Act(s)][55]_.
+*   _Amendment(s) incorporated in the [Act(s)][57]_.
 
 ---
 
@@ -385,23 +391,23 @@ Amendments to other Acts
 
 ###### 1 General
     
-*   This is a reprint of the Crown Organisations (Criminal Liability) Act 2002\. The reprint incorporates all the amendments to the Act as at 1 October 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Crown Organisations (Criminal Liability) Act 2002\. The reprint incorporates all the amendments to the Act as at 28 June 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][79] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][77] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][80] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][81] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][78] and [17E][79] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][82] and [17E][83] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -432,13 +438,15 @@ Amendments to other Acts
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 163][43]
+*   Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 172][54]
+    
+    Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 163][43]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][49]
     
     Building Act 2004 (2004 No 72): [section 414][44]
     
-    Health and Safety in Employment Amendment Act 2002 (2002 No 86): [section 28(2)][71]
+    Health and Safety in Employment Amendment Act 2002 (2002 No 86): [section 28(2)][73]
 
 
 
@@ -495,30 +503,34 @@ Amendments to other Acts
 [50]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM310742
 [51]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279656
 [52]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279658
-[53]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279669
-[54]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM311851
-[55]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM312678
-[56]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM231900
-[57]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279616
-[58]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM431148
-[59]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM297904
-[60]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM330501
-[61]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM129459
-[62]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM129462
-[63]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM232531
-[64]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM65382
-[65]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385037
-[66]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385048
-[67]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385054
-[68]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385062
-[69]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM278835
-[70]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279187
-[71]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM183301
-[72]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279685
-[73]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279688
-[74]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM135350
-[75]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM310749
-[76]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM311378
-[77]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM195439
-[78]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM195468
-[79]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM195470
+[53]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM3955410
+[54]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM3956361
+[55]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279669
+[56]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM311851
+[57]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM312678
+[58]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM231900
+[59]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279616
+[60]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM431148
+[61]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM297904
+[62]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM330501
+[63]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM129459
+[64]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM129462
+[65]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM232531
+[66]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM65382
+[67]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385037
+[68]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385048
+[69]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385054
+[70]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM385062
+[71]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM278835
+[72]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279187
+[73]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM183301
+[74]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279685
+[75]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM279688
+[76]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM135350
+[77]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM310749
+[78]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM311378
+[79]: http://www.pco.parliament.govt.nz/reprints/
+[80]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM195439
+[81]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[82]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM195468
+[83]: http://www.legislation.govt.nz/act/public/2002/0037/latest/link.aspx?id=DLM195470
