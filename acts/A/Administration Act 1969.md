@@ -675,7 +675,7 @@ Administration by administrator
     
     Section 18(2): repealed, on 24 May 1999 (applying on and after 24 May 1999), by [section 15(1)][139] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 18(4): $18.10 is the fee payable to the Registrar for the purposes of section 18(4), on 1 July 2011, by [regulation 2][140] of the Administration (Fee) Regulations 1997) (SR 1997/330).
+    Section 18(4): $18.10 is the fee payable to the Registrar for the purposes of section 18(4), on 1 July 2011, by [regulation 2][140] of the Administration (Fee) Regulations 1997 (SR 1997/330).
 
 ##### 19 Proceedings where executor neglects to prove will
     
@@ -1498,7 +1498,7 @@ Nominations of accounts
 
 ##### 68A Interpretation
     
-*   In this Part, unless the context otherwise requires, the term _nomination_ means the nomination by any person (in this Part referred to as the **nominator**), pursuant to any enactment, of any person or persons (in this Part referred to as the nominee or nominees) to whom any amount standing to the credit of the nominator in any account at the time of his death is to be paid on his death.
+*   In this Part, unless the context otherwise requires, the term _nomination_ means the nomination by any person (in this Part referred to as the _nominator_), pursuant to any enactment, of any person or persons (in this Part referred to as the nominee or nominees) to whom any amount standing to the credit of the nominator in any account at the time of his death is to be paid on his death.
     
     Section 68A: inserted, on 11 December 1982, by section 2 of the Administration Amendment Act 1982 (1982 No 43).
 
@@ -1626,7 +1626,7 @@ Distribution of intestate estates
 
 ##### 77 Succession to real and personal estate on intestacy
     
-*   If a person (the **intestate**) dies intestate as to any real or personal estate and leaves the other person or people referred to in column 1 of the following table, that estate must be distributed in the manner or held on the trusts set out in column 2 of that table opposite the reference to the other person or people:
+*   If a person (the _intestate_) dies intestate as to any real or personal estate and leaves the other person or people referred to in column 1 of the following table, that estate must be distributed in the manner or held on the trusts set out in column 2 of that table opposite the reference to the other person or people:
     
     **Person or people intestate leaves****How estate to be distributed**
     
@@ -1985,8 +1985,6 @@ Dated at: \[_place, date_\]
 \[Seal\]
 
 Registrar.
-
----
 
 \*In the case of a limited or special grant the exact nature of the grant should be shown.
 
