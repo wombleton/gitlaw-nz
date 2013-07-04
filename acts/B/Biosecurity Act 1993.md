@@ -1,5 +1,5 @@
 Reprint  
-as at 28 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -71,7 +71,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [Director-General][23]
 
-[12A][24][][24][Director-General provides overall leadership ][24]
+[12A][24][][24][Director-General provides overall leadership][24]
 
 [Local authorities][25]
 
@@ -110,7 +110,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [22][42][][42][Meaning of import health standard][42]
 
-[22A][43][][43][Process for independent review panel to be established ][43] \[Repealed\]
+[22A][43][][43][Process for independent review panel to be established][43] \[Repealed\]
 
 [23][44][][44][From draft to recommendation][44]
 
@@ -390,7 +390,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [100H][181][][181][Councils' powers and duties][181]
 
-[Compensation ][182]
+[Compensation][182]
 
 [100I][183][][183][Compensation][183]
 
@@ -710,13 +710,13 @@ This Act is administered by the Ministry for Primary Industries.
 
 [159A][339][][339][Accelerated infringement notice procedure for border infringement offences][339]
 
-[160][340][][340][Who gets payments of fines, fees, and pecuniary penalties ][340]
+[160][340][][340][Who gets payments of fines, fees, and pecuniary penalties][340]
 
 [160A][341][][341][Procedure for certain declaration offences][341] \[Repealed\]
 
 [161][342][][342][Evidence in proceedings][342]
 
-[162][343][][343][Time for laying informations][343]
+[162][343][][343][Time for filing charging document for certain offences][343]
 
 [Part 8A][344]  
 [Exclusive economic zone][344]
@@ -989,11 +989,11 @@ Preliminary
         
     *   (a) include the following, regardless of scale, intensity, duration, or frequency:
             
-        *   (i) a positive or adverse effect; and 
+        *   (i) a positive or adverse effect; and
         
-        *   (ii) a temporary or permanent effect; and 
+        *   (ii) a temporary or permanent effect; and
         
-        *   (iii) a past, present, or future effect; and 
+        *   (iii) a past, present, or future effect; and
         
         *   (iv) a cumulative effect that arises over time or in combination with other effects; and
         
@@ -1001,7 +1001,7 @@ Preliminary
     
     *   (b) also include the following:
             
-        *   (i) a potential effect of high probability; and 
+        *   (i) a potential effect of high probability; and
         
         *   (ii) a potential effect of low probability that has a high potential impact
         
@@ -1083,7 +1083,7 @@ Preliminary
     
     _new organism_ has the same meaning as in [section 2][413] of the Hazardous Substances and New Organisms Act 1996
     
-    _New Zealand territory_ means the land and the waters enclosed by the outer limits of the territorial sea 
+    _New Zealand territory_ means the land and the waters enclosed by the outer limits of the territorial sea
     
     _occupier_,---
         
@@ -1131,7 +1131,7 @@ Preliminary
         
         
     
-    *   (c) it--- 
+    *   (c) it---
             
         *   (i) is not cardboard, coal, paper, petroleum oil, a substance derived from coal, or a substance derived from petroleum oil; and
         
@@ -1157,7 +1157,7 @@ Preliminary
     
     _other Minister_ means a Minister other than the responsible Minister
     
-    _pathway_ means movement that--- 
+    _pathway_ means movement that---
         
     *   (a) is of goods or craft out of, into, or through---
             
@@ -1757,7 +1757,7 @@ Preliminary
     
     (2) The responsible Minister must not make a recommendation for the purposes of subsection (1) unless he or she considers that it is necessary to continue the action to attempt to eradicate or manage the organism beyond the duration of the exemption.
     
-    (3) Regulations made under this section come into force on the date of notification in the _Gazette_, or at the time specified in the regulations, whichever is the later. 
+    (3) Regulations made under this section come into force on the date of notification in the _Gazette_, or at the time specified in the regulations, whichever is the later.
     
     (4) The regulations expire on the day that is 2 years after the date on which the regulations come into force unless they are revoked earlier.
     
@@ -1896,7 +1896,7 @@ Functions, powers, and duties
     
 *   Heading: replaced, on 18 September 2012, by [section 13][469] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
-##### 12A Director-General provides overall leadership 
+##### 12A Director-General provides overall leadership
     
 *   (1) The Director-General provides overall leadership in activities that prevent, reduce, or eliminate adverse effects from harmful organisms that are present in New Zealand (_pest management_).
     
@@ -2187,7 +2187,7 @@ Importation of risk goods
     
     (5) The person who is carrying out the duties must give notices under this section in the form and manner---
         
-    *   (a) approved by the Director-General; and 
+    *   (a) approved by the Director-General; and
     
     *   (b) available on an Internet site maintained by or on behalf of the Ministry.
     
@@ -2213,7 +2213,7 @@ Importation of risk goods
         
     *   (a) the person has given the notice; and
     
-    *   (b) the craft has not subsequently arrived in New Zealand; and 
+    *   (b) the craft has not subsequently arrived in New Zealand; and
     
     *   (c) the person learns that it is now impossible or impracticable to go to the port or destination stated in the notice.
     
@@ -2263,7 +2263,7 @@ Importation of risk goods
             
         *   (i) an emergency or an urgent situation has arisen; and
         
-        *   (ii) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and 
+        *   (ii) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
         
         *   (iii) the earlier giving of the information is necessary to avoid or mitigate the risk.
         
@@ -2393,7 +2393,7 @@ Importation of risk goods
     
     Section 22: replaced, on 18 September 2012, by [section 20][483] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
-##### 22A Process for independent review panel to be established 
+##### 22A Process for independent review panel to be established
     
 *   \[Repealed\]
     
@@ -2417,7 +2417,7 @@ Importation of risk goods
     
     *   (b) must have regard to the following matters in relation to goods of the class or description proposed for coverage by the standard:
             
-        *   (i) the likelihood that the goods will import organisms: 
+        *   (i) the likelihood that the goods will import organisms:
         
         *   (ii) the nature of the organisms that the goods may import:
         
@@ -2647,7 +2647,7 @@ Importation of risk goods
     
     *   (b) must have regard to the following matters in relation to craft of the class or description proposed for coverage by the standard:
             
-        *   (i) the likelihood that the craft will import organisms into New Zealand territory: 
+        *   (i) the likelihood that the craft will import organisms into New Zealand territory:
         
         *   (ii) the nature of the organisms that the craft may import into New Zealand territory:
         
@@ -2727,7 +2727,7 @@ Importation of risk goods
 
 ##### 24I Publication
     
-*   (1) The Director-General must maintain a register of current craft risk management standards. 
+*   (1) The Director-General must maintain a register of current craft risk management standards.
     
     (2) The register must be available for the public to read free of charge---
         
@@ -2839,7 +2839,7 @@ Importation of risk goods
     
     *   (e) another person in possession of the goods at the same or a later time.
     
-    (8) A person to whom an inspector gives an authorisation must--- 
+    (8) A person to whom an inspector gives an authorisation must---
         
     *   (a) act within its terms; and
     
@@ -3113,7 +3113,7 @@ Importation of risk goods
     
     (5) A person to whom the directions are given must comply with them.
     
-    (6) A chief technical officer may offer the importer or owner of the goods the option of exporting the goods or returning them to their place of origin at the importer's or owner's expense. 
+    (6) A chief technical officer may offer the importer or owner of the goods the option of exporting the goods or returning them to their place of origin at the importer's or owner's expense.
     
     (7) A chief technical officer may---
         
@@ -3283,7 +3283,7 @@ Importation of risk goods
 
 ##### 35 Duties of persons in biosecurity control areas
     
-*   (1) A person in a biosecurity control area must answer all questions asked by an inspector about--- 
+*   (1) A person in a biosecurity control area must answer all questions asked by an inspector about---
         
     *   (a) the person's identity:
     
@@ -3297,7 +3297,7 @@ Importation of risk goods
     
     (3) A person in a biosecurity control area must, if asked to do so by an inspector, provide the inspector with the person's passport or any evidence of identity that the person has that is not a passport.
     
-    (4) An inspector to whom a passport or evidence of identity is provided under subsection (3)--- 
+    (4) An inspector to whom a passport or evidence of identity is provided under subsection (3)---
         
     *   (a) may take a copy; and
     
@@ -3327,7 +3327,7 @@ Importation of risk goods
         
     *   (a) consideration by an officer authorised under the Act of the applicability to the person of powers or duties in the Act:
     
-    *   (b) a request by an inspector that an officer not present at the area consider exercising a particular power, or carrying out a particular duty, in the Act that the inspector considers--- 
+    *   (b) a request by an inspector that an officer not present at the area consider exercising a particular power, or carrying out a particular duty, in the Act that the inspector considers---
             
         *   (i) may be applicable to the person; and
         
@@ -3343,7 +3343,7 @@ Importation of risk goods
     
     *   (e) the exercise, as far as practicable, in the area of the powers under the Act that are required to be exercised in the area:
     
-    *   (f) the carrying out, as far as practicable, in the area of the duties under the Act that are required to be carried out in the area: 
+    *   (f) the carrying out, as far as practicable, in the area of the duties under the Act that are required to be carried out in the area:
     
     *   (g) compliance by the person with all obligations imposed on him or her under the Act relating to his or her arrival in New Zealand.
     
@@ -3671,7 +3671,7 @@ Importation of risk goods
     
     (3) The notice must specify---
         
-    *   (a) the reason for the suspension; and 
+    *   (a) the reason for the suspension; and
     
     *   (b) the period of the suspension; and
     
@@ -3679,13 +3679,13 @@ Importation of risk goods
     
     *   (d) the steps to be taken to enable the suspension to be lifted.
     
-    (4) If the Director-General extends the period of suspension under [section 40A(3)][85], the Director-General must give written notice to the facility operator. 
+    (4) If the Director-General extends the period of suspension under [section 40A(3)][85], the Director-General must give written notice to the facility operator.
     
     (5) The Director-General must give the notice before the expiry of the original suspension.
     
     (6) The notice must specify---
         
-    *   (a) the reason for the extension; and 
+    *   (a) the reason for the extension; and
     
     *   (b) the period of the extension; and
     
@@ -3735,7 +3735,7 @@ Importation of risk goods
     
     (3) The notice must specify---
         
-    *   (a) the reason for the suspension; and 
+    *   (a) the reason for the suspension; and
     
     *   (b) the period of the suspension; and
     
@@ -3743,13 +3743,13 @@ Importation of risk goods
     
     *   (d) the steps to be taken to enable the suspension to be lifted.
     
-    (4) If the Director-General extends the period of suspension under [section 40D(3)][88], the Director-General must give written notice to the facility operator. 
+    (4) If the Director-General extends the period of suspension under [section 40D(3)][88], the Director-General must give written notice to the facility operator.
     
     (5) The Director-General must give the notice before the expiry of the original suspension.
     
     (6) The notice must specify---
         
-    *   (a) the reason for the extension; and 
+    *   (a) the reason for the extension; and
     
     *   (b) the period of the extension; and
     
@@ -3797,7 +3797,7 @@ Importation of risk goods
     
     *   (b) any other function, duty, or power imposed or conferred on the Ministry by or under this Act that is necessary---
             
-        *   (i) to achieve the purpose of this Part; or 
+        *   (i) to achieve the purpose of this Part; or
         
         *   (ii) for the administration of this Part:
         
@@ -3921,7 +3921,7 @@ Importation of risk goods
 
 ##### 41D Requirement by or under this Act to supply border information is complied with if information is supplied to Customs or other agency
     
-*   (1) A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Ministry if, instead of to the Ministry, the person supplies the border information to--- 
+*   (1) A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Ministry if, instead of to the Ministry, the person supplies the border information to---
         
     *   (a) the Customs, for the purposes of, and in accordance with, [section 282F(1)][528] of the Customs and Excise Act 1996:
     
@@ -4253,11 +4253,11 @@ Pest management
     
 *   (1) The responsible Minister may assign responsibility for a decision on the appropriate response to an issue relating to a harmful organism or pathway.
     
-    (2) The process for the Minister to assign responsibility must be set out in regulations. 
+    (2) The process for the Minister to assign responsibility must be set out in regulations.
     
     (3) If the Minister assigns responsibility to a department or regional council,---
         
-    *   (a) the Minister may specify a time within which the decision must be made; and 
+    *   (a) the Minister may specify a time within which the decision must be made; and
     
     *   (b) the Minister may extend the time if the Minister considers that exceptional circumstances exist justifying the extension; and
     
@@ -4351,17 +4351,17 @@ Pest management
     
     *   (b) requires a report and recommendations to be made to the Minister on the submissions and the subject matter of the proposal.
     
-    (3) When the Minister receives the report and recommendations, the Minister must consider them. 
+    (3) When the Minister receives the report and recommendations, the Minister must consider them.
     
     (4) If the Minister does not accept a recommendation, the Minister must publish the Minister's reasons on an Internet site maintained by or on behalf of the Ministry.
     
     (5) The Minister may then---
         
-    *   (a) make changes that the Minister considers appropriate to the proposal or decide to make no changes to it; or 
+    *   (a) make changes that the Minister considers appropriate to the proposal or decide to make no changes to it; or
     
     *   (b) withdraw all or part of the proposal and publish the withdrawal, and the reasons for it, on an Internet site maintained by or on behalf of the Ministry.
     
-    (6) When the Minister has made appropriate changes to the proposal or decided to make no changes to it, the Minister must recommend the approval of the national policy direction to the Governor-General in Council. 
+    (6) When the Minister has made appropriate changes to the proposal or decided to make no changes to it, the Minister must recommend the approval of the national policy direction to the Governor-General in Council.
     
     (7) The Governor-General in Council may approve the national policy direction.
     
@@ -4385,9 +4385,9 @@ Pest management
     
 *   (1) If the national policy direction is to be amended in a way that the Minister considers would materially alter the direction, the Minister must---
         
-    *   (a) prepare the proposed amendment; and 
+    *   (a) prepare the proposed amendment; and
     
-    *   (b) apply the process in [section 57(2) to (8) ][122] to the proposed amendment.
+    *   (b) apply the process in [section 57(2) to (8)][122] to the proposed amendment.
     
     (2) If the national policy direction is to be amended in a way that the Minister does not consider would materially alter the direction, the Minister must---
         
@@ -4445,7 +4445,7 @@ Pest management
     
     *   (b) a person who submits the proposal to a Minister.
     
-    (2) The proposal must set out the following matters: 
+    (2) The proposal must set out the following matters:
         
     *   (a) the name of the person making the proposal:
     
@@ -4453,7 +4453,7 @@ Pest management
             
         *   (i) the organism proposed to be specified as a pest under the plan or the organisms proposed to be specified as pests under the plan; or
         
-        *   (ii) the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan: 
+        *   (ii) the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan:
         
         
     
@@ -4501,11 +4501,11 @@ Pest management
     
     *   (h) each proposed rule and an explanation of its purpose:
     
-    *   (i) the rules whose contravention is proposed to be an offence under this Act: 
+    *   (i) the rules whose contravention is proposed to be an offence under this Act:
     
-    *   (j) the management agency: 
+    *   (j) the management agency:
     
-    *   (k) the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+    *   (k) the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
     
     *   (l) the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
     
@@ -4515,13 +4515,13 @@ Pest management
     
     *   (o) whether or not the plan would apply to the EEZ and, if it would, whether it would apply to all of it or parts of it and, if it would apply to parts, which parts:
     
-    *   (p) whether the plan includes portions of road adjoining land it covers, as authorised by [section 6][10], and, if so, the portions of road proposed to be included: 
+    *   (p) whether the plan includes portions of road adjoining land it covers, as authorised by [section 6][10], and, if so, the portions of road proposed to be included:
     
     *   (q) the anticipated costs of implementing the plan:
     
     *   (r) how it is proposed that the costs be funded:
     
-    *   (s) the period for which it is proposed the plan be in force: 
+    *   (s) the period for which it is proposed the plan be in force:
     
     *   (t) the consultation, if any, that has occurred on the proposal and the outcome of it:
     
@@ -4549,7 +4549,7 @@ Pest management
     
     *   (d) that each subject is capable of causing at some time an adverse effect on 1 or more of the following in New Zealand:
             
-        *   (i) economic wellbeing: 
+        *   (i) economic wellbeing:
         
         *   (ii) the viability of threatened species of organisms:
         
@@ -4649,7 +4649,7 @@ Pest management
         
     *   (a) the pest or pests to be eradicated or managed:
     
-    *   (b) the plan's objectives: 
+    *   (b) the plan's objectives:
     
     *   (c) the principal measures to be taken to achieve the objectives:
     
@@ -4659,9 +4659,9 @@ Pest management
     
     *   (f) the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
     
-    *   (g) the powers in [Part 6][214] to be used to implement the plan: 
+    *   (g) the powers in [Part 6][214] to be used to implement the plan:
     
-    *   (h) the rules, if any: 
+    *   (h) the rules, if any:
     
     *   (i) the management agency:
     
@@ -4693,19 +4693,19 @@ Pest management
     
     ###### Rules
     
-    (5) A plan may include rules for all or any of the following purposes: 
+    (5) A plan may include rules for all or any of the following purposes:
         
-    *   (a) requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent: 
+    *   (a) requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent:
     
-    *   (b) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+    *   (b) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
     
-    *   (c) requiring the identification of specified goods: 
+    *   (c) requiring the identification of specified goods:
     
-    *   (d) prohibiting or regulating specified methods that may be used in managing the pest: 
+    *   (d) prohibiting or regulating specified methods that may be used in managing the pest:
     
-    *   (e) prohibiting or regulating activities that may affect measures taken to implement the plan: 
+    *   (e) prohibiting or regulating activities that may affect measures taken to implement the plan:
     
-    *   (f) requiring audits or inspections of specified actions: 
+    *   (f) requiring audits or inspections of specified actions:
     
     *   (g) specifying, for the purposes of [section 52(a)][115], the circumstances in which the pest may be communicated, released, or otherwise spread:
     
@@ -4713,23 +4713,23 @@ Pest management
     
     *   (i) requiring the occupier of a place to take specified actions to eradicate or manage the habitat of the pest or the habitat of a specified pest agent on the place:
     
-    *   (j) prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place: 
+    *   (j) prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place:
     
-    *   (k) requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place: 
+    *   (k) requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place:
     
-    *   (l) prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest: 
+    *   (l) prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest:
     
-    *   (m) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+    *   (m) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest:
     
-    *   (n) requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+    *   (n) requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest:
     
-    *   (o) requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest: 
+    *   (o) requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest:
     
-    *   (p) prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest: 
+    *   (p) prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest:
     
-    *   (q) prohibiting or regulating the use or disposal of organic material: 
+    *   (q) prohibiting or regulating the use or disposal of organic material:
     
-    *   (r) prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest: 
+    *   (r) prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest:
     
     *   (s) prohibiting or regulating the movement of goods that may contain or harbour the pest or otherwise pose a risk of spreading the pest.
     
@@ -4777,7 +4777,7 @@ Pest management
 
 ##### 66 Making of plan
     
-*   (1) If the Minister is satisfied of the matters in [section 65][132], the Minister may recommend to the Governor-General that an Order in Council be made making the plan. 
+*   (1) If the Minister is satisfied of the matters in [section 65][132], the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
     
     (2) The order---
         
@@ -4885,7 +4885,7 @@ Pest management
     
     *   (b) a person who submits the proposal to the council.
     
-    (2) The proposal must set out the following matters: 
+    (2) The proposal must set out the following matters:
         
     *   (a) the name of the person making the proposal:
     
@@ -4893,7 +4893,7 @@ Pest management
             
         *   (i) the organism proposed to be specified as a pest under the plan or the organisms proposed to be specified as pests under the plan; or
         
-        *   (ii) the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan: 
+        *   (ii) the class or description of organism proposed to be specified as a pest under the plan or the classes or descriptions of organisms proposed to be specified as pests under the plan:
         
         
     
@@ -4943,11 +4943,11 @@ Pest management
     
     *   (i) the rules, if any, that are intended to be good neighbour rules:
     
-    *   (j) the rules whose contravention is proposed to be an offence under this Act: 
+    *   (j) the rules whose contravention is proposed to be an offence under this Act:
     
-    *   (k) the management agency: 
+    *   (k) the management agency:
     
-    *   (l) the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+    *   (l) the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
     
     *   (m) the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
     
@@ -4955,13 +4955,13 @@ Pest management
     
     *   (o) information on the disposal of the proceeds of any receipts arising in the course of implementing the plan:
     
-    *   (p) whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included: 
+    *   (p) whether the plan includes portions of road adjoining land it covers, as authorised by section 6, and, if so, the portions of road proposed to be included:
     
     *   (q) the anticipated costs of implementing the plan:
     
     *   (r) how it is proposed that the costs be funded:
     
-    *   (s) the period for which it is proposed the plan be in force: 
+    *   (s) the period for which it is proposed the plan be in force:
     
     *   (t) the consultation, if any, that has occurred on the proposal and the outcome of it:
     
@@ -5001,7 +5001,7 @@ Pest management
     
     *   (d) that each subject is capable of causing at some time an adverse effect on 1 or more of the following in the region:
             
-        *   (i) economic wellbeing: 
+        *   (i) economic wellbeing:
         
         *   (ii) the viability of threatened species of organisms:
         
@@ -5101,7 +5101,7 @@ Pest management
         
     *   (a) the pest or pests to be eradicated or managed:
     
-    *   (b) the plan's objectives: 
+    *   (b) the plan's objectives:
     
     *   (c) the principal measures to be taken to achieve the objectives:
     
@@ -5111,9 +5111,9 @@ Pest management
     
     *   (f) the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
     
-    *   (g) the powers in [Part 6][214] to be used to implement the plan: 
+    *   (g) the powers in [Part 6][214] to be used to implement the plan:
     
-    *   (h) the rules, if any: 
+    *   (h) the rules, if any:
     
     *   (i) the rules, if any, that are good neighbour rules:
     
@@ -5145,19 +5145,19 @@ Pest management
     
     ###### Rules
     
-    (5) A plan may include rules for all or any of the following purposes: 
+    (5) A plan may include rules for all or any of the following purposes:
         
-    *   (a) requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent: 
+    *   (a) requiring a person to take specified actions to enable the management agency to determine or monitor the presence or distribution of the pest or a pest agent:
     
-    *   (b) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+    *   (b) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
     
-    *   (c) requiring the identification of specified goods: 
+    *   (c) requiring the identification of specified goods:
     
-    *   (d) prohibiting or regulating specified methods that may be used in managing the pest: 
+    *   (d) prohibiting or regulating specified methods that may be used in managing the pest:
     
-    *   (e) prohibiting or regulating activities that may affect measures taken to implement the plan: 
+    *   (e) prohibiting or regulating activities that may affect measures taken to implement the plan:
     
-    *   (f) requiring audits or inspections of specified actions: 
+    *   (f) requiring audits or inspections of specified actions:
     
     *   (g) specifying, for the purposes of [section 52(a)][115], the circumstances in which the pest may be communicated, released, or otherwise spread:
     
@@ -5165,23 +5165,23 @@ Pest management
     
     *   (i) requiring the occupier of a place to take specified actions to eradicate or manage the habitat of the pest or the habitat of a specified pest agent on the place:
     
-    *   (j) prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place: 
+    *   (j) prohibiting or regulating specified activities by the occupier of a place if the activities are of the kind that would promote the habitat of the pest on the place:
     
-    *   (k) requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place: 
+    *   (k) requiring the occupier of a place to carry out specified activities to promote the presence of organisms that assist in the control of the pest on the place:
     
-    *   (l) prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest: 
+    *   (l) prohibiting or regulating specified activities by the occupier of a place, which deter the presence on that place of organisms that assist in the control of the pest:
     
-    *   (m) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+    *   (m) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of the pest:
     
-    *   (n) requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest: 
+    *   (n) requiring the owner or person in charge of goods to carry out specified treatments or procedures to assist in preventing the spread of the pest:
     
-    *   (o) requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest: 
+    *   (o) requiring the destruction of goods if the goods may contain or harbour the pest or otherwise pose a risk of spreading the pest:
     
-    *   (p) prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest: 
+    *   (p) prohibiting or regulating specified uses of goods that may promote the spread or survival of the pest:
     
-    *   (q) prohibiting or regulating the use or disposal of organic material: 
+    *   (q) prohibiting or regulating the use or disposal of organic material:
     
-    *   (r) prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest: 
+    *   (r) prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread or survival of the pest:
     
     *   (s) prohibiting or regulating the movement of goods that may contain or harbour the pest or otherwise pose a risk of spreading the pest.
     
@@ -5283,7 +5283,7 @@ Pest management
     
     (6) The application is made under [section 291][549] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][449].
     
-    (7) The court must hold a public hearing on the application. 
+    (7) The court must hold a public hearing on the application.
     
     (8) The court must---
         
@@ -5429,7 +5429,7 @@ Pest management
     
     *   (b) a person who submits the proposal to a Minister.
     
-    (2) The proposal must set out the following matters: 
+    (2) The proposal must set out the following matters:
         
     *   (a) the name of the person making the proposal:
     
@@ -5481,11 +5481,11 @@ Pest management
     
     *   (g) each proposed rule and an explanation of its purpose:
     
-    *   (h) the rules whose contravention is proposed to be an offence under this Act: 
+    *   (h) the rules whose contravention is proposed to be an offence under this Act:
     
-    *   (i) the management agency: 
+    *   (i) the management agency:
     
-    *   (j) the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+    *   (j) the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
     
     *   (k) the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
     
@@ -5495,9 +5495,9 @@ Pest management
     
     *   (n) whether or not the plan would apply to the EEZ and, if it would, whether it would apply to all of it or parts of it and, if it would apply to parts, which parts:
     
-    *   (o) whether the plan includes portions of road adjoining land it covers, as authorised by [section 6][10], and, if so, the portions of road proposed to be included: 
+    *   (o) whether the plan includes portions of road adjoining land it covers, as authorised by [section 6][10], and, if so, the portions of road proposed to be included:
     
-    *   (p) the period for which it is proposed the plan be in force: 
+    *   (p) the period for which it is proposed the plan be in force:
     
     *   (q) the consultation, if any, that has occurred on the proposal and the outcome of it:
     
@@ -5519,7 +5519,7 @@ Pest management
     
     *   (d) that each subject could spread an organism that is capable of causing at some time an adverse effect on 1 or more of the following in New Zealand:
             
-        *   (i) economic wellbeing: 
+        *   (i) economic wellbeing:
         
         *   (ii) the viability of threatened species of organisms:
         
@@ -5619,7 +5619,7 @@ Pest management
         
     *   (a) the pathway or pathways to be managed:
     
-    *   (b) the plan's objectives: 
+    *   (b) the plan's objectives:
     
     *   (c) the principal measures to be taken to achieve the objectives:
     
@@ -5629,9 +5629,9 @@ Pest management
     
     *   (f) the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
     
-    *   (g) the powers in [Part 6][214] to be used to implement the plan: 
+    *   (g) the powers in [Part 6][214] to be used to implement the plan:
     
-    *   (h) the rules, if any: 
+    *   (h) the rules, if any:
     
     *   (i) the management agency:
     
@@ -5661,27 +5661,27 @@ Pest management
     
     ###### Rules
     
-    (5) A plan may include rules for all or any of the following purposes: 
+    (5) A plan may include rules for all or any of the following purposes:
         
-    *   (a) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+    *   (a) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
     
-    *   (b) requiring the identification of specified goods: 
+    *   (b) requiring the identification of specified goods:
     
-    *   (c) prohibiting or regulating specified methods that may be used in managing the pathway: 
+    *   (c) prohibiting or regulating specified methods that may be used in managing the pathway:
     
-    *   (d) prohibiting or regulating activities that may affect measures taken to implement the plan: 
+    *   (d) prohibiting or regulating activities that may affect measures taken to implement the plan:
     
-    *   (e) requiring audits or inspections of specified actions: 
+    *   (e) requiring audits or inspections of specified actions:
     
-    *   (f) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+    *   (f) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
     
-    *   (g) requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+    *   (g) requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
     
-    *   (h) requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway: 
+    *   (h) requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway:
     
-    *   (i) prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway: 
+    *   (i) prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway:
     
-    *   (j) prohibiting or regulating the use or disposal of organic material on the pathway: 
+    *   (j) prohibiting or regulating the use or disposal of organic material on the pathway:
     
     *   (k) prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread of organisms through the pathway.
     
@@ -5729,7 +5729,7 @@ Pest management
 
 ##### 86 Making of plan
     
-*   (1) If the Minister is satisfied of the matters in [section 85][155], the Minister may recommend to the Governor-General that an Order in Council be made making the plan. 
+*   (1) If the Minister is satisfied of the matters in [section 85][155], the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
     
     (2) The order---
         
@@ -5871,7 +5871,7 @@ Pest management
     
     *   (b) a person who submits the proposal to the council.
     
-    (2) The proposal must set out the following matters: 
+    (2) The proposal must set out the following matters:
         
     *   (a) the name of the person making the proposal:
     
@@ -5917,11 +5917,11 @@ Pest management
     
     *   (g) each proposed rule and an explanation of its purpose:
     
-    *   (h) the rules whose contravention is proposed to be an offence under this Act: 
+    *   (h) the rules whose contravention is proposed to be an offence under this Act:
     
-    *   (i) the management agency: 
+    *   (i) the management agency:
     
-    *   (j) the means by which it is proposed to monitor or measure the achievement of the plan's objectives: 
+    *   (j) the means by which it is proposed to monitor or measure the achievement of the plan's objectives:
     
     *   (k) the actions that it is proposed local authorities, local authorities of a specified class or description, or specified local authorities may take to implement the plan, including contributing towards the costs of implementation:
     
@@ -5929,13 +5929,13 @@ Pest management
     
     *   (m) information on the disposal of the proceeds of any receipts arising in the course of implementing the plan:
     
-    *   (n) whether the plan includes portions of road adjoining land it covers, as authorised by [section 6][10], and, if so, the portions of road proposed to be included: 
+    *   (n) whether the plan includes portions of road adjoining land it covers, as authorised by [section 6][10], and, if so, the portions of road proposed to be included:
     
     *   (o) the anticipated costs of implementing the plan:
     
     *   (p) how it is proposed that the costs be funded:
     
-    *   (q) the period for which it is proposed the plan be in force: 
+    *   (q) the period for which it is proposed the plan be in force:
     
     *   (r) the consultation, if any, that has occurred on the proposal and the outcome of it:
     
@@ -5967,7 +5967,7 @@ Pest management
     
     *   (d) that each subject could spread an organism that is capable of causing at some time an adverse effect on 1 or more of the following in the region:
             
-        *   (i) economic wellbeing: 
+        *   (i) economic wellbeing:
         
         *   (ii) the viability of threatened species of organisms:
         
@@ -6067,7 +6067,7 @@ Pest management
         
     *   (a) the pathway or pathways to be managed:
     
-    *   (b) the plan's objectives: 
+    *   (b) the plan's objectives:
     
     *   (c) the principal measures to be taken to achieve the objectives:
     
@@ -6077,9 +6077,9 @@ Pest management
     
     *   (f) the limitations, if any, on how the funds collected from those sources may be used to implement the plan:
     
-    *   (g) the powers in [Part 6][214] to be used to implement the plan: 
+    *   (g) the powers in [Part 6][214] to be used to implement the plan:
     
-    *   (h) the rules, if any: 
+    *   (h) the rules, if any:
     
     *   (i) the management agency:
     
@@ -6107,27 +6107,27 @@ Pest management
     
     ###### Rules
     
-    (5) A plan may include rules for all or any of the following purposes: 
+    (5) A plan may include rules for all or any of the following purposes:
         
-    *   (a) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records: 
+    *   (a) requiring a person to keep records of actions taken under the rules and to send to the management agency specified information based on the records:
     
-    *   (b) requiring the identification of specified goods: 
+    *   (b) requiring the identification of specified goods:
     
-    *   (c) prohibiting or regulating specified methods that may be used in managing the pathway: 
+    *   (c) prohibiting or regulating specified methods that may be used in managing the pathway:
     
-    *   (d) prohibiting or regulating activities that may affect measures taken to implement the plan: 
+    *   (d) prohibiting or regulating activities that may affect measures taken to implement the plan:
     
-    *   (e) requiring audits or inspections of specified actions: 
+    *   (e) requiring audits or inspections of specified actions:
     
-    *   (f) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+    *   (f) requiring the occupier of a place to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
     
-    *   (g) requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway: 
+    *   (g) requiring the owner or person in charge of goods or craft to carry out specified treatments or procedures to assist in preventing the spread of organisms that could be spread through the pathway:
     
-    *   (h) requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway: 
+    *   (h) requiring the destruction of goods in circumstances in which the goods pose a risk of spreading organisms that could be spread through the pathway:
     
-    *   (i) prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway: 
+    *   (i) prohibiting or regulating specified uses or movement of goods that may promote the spread of organisms through the pathway:
     
-    *   (j) prohibiting or regulating the use or disposal of organic material on the pathway: 
+    *   (j) prohibiting or regulating the use or disposal of organic material on the pathway:
     
     *   (k) prohibiting or regulating the use of specified practices in the management of organisms that may promote the spread of organisms through the pathway.
     
@@ -6379,7 +6379,7 @@ Pest management
     
 *   For the purposes of [sections 100 to 100G][172],---
     
-    _Minister or council_ means the Minister who recommended the making of the plan, in relation to a national pest management plan and a national pathway management plan, or the regional council that made the plan, in relation to a regional pest management plan or a regional pathway management plan 
+    _Minister or council_ means the Minister who recommended the making of the plan, in relation to a national pest management plan and a national pathway management plan, or the regional council that made the plan, in relation to a regional pest management plan or a regional pathway management plan
     
     _operational plan_ means a plan for the implementation of---
         
@@ -6405,7 +6405,7 @@ Pest management
 
 ##### 100 Management agencies
     
-*   (1) The management agency specified in a plan must be 1 of the following bodies: 
+*   (1) The management agency specified in a plan must be 1 of the following bodies:
         
     *   (a) a department:
     
@@ -6415,9 +6415,9 @@ Pest management
     
     *   (d) a body corporate.
     
-    (2) In deciding which body is to be the management agency, the Minister or council must take the following into consideration: 
+    (2) In deciding which body is to be the management agency, the Minister or council must take the following into consideration:
         
-    *   (a) the need for accountability to those providing the funds to implement the plan; and 
+    *   (a) the need for accountability to those providing the funds to implement the plan; and
     
     *   (b) the acceptability of the body to---
             
@@ -6427,7 +6427,7 @@ Pest management
         
         
     
-    *   (c) the capacity of the body to manage the plan, including the competence and expertise of the body's employees and contractors. 
+    *   (c) the capacity of the body to manage the plan, including the competence and expertise of the body's employees and contractors.
     
     (3) Subsection (4) applies if a management agency---
         
@@ -6607,7 +6607,7 @@ Pest management
     
     (5) If the plan is inconsistent with the direction and the changes to the plan necessary to resolve the inconsistency would have a significant effect on any person's rights and obligations,---
         
-    *   (a) the Minister or council must initiate a review to address the inconsistency under [section 100D(4)][176] within the timing requirements in the direction, if there are any; and 
+    *   (a) the Minister or council must initiate a review to address the inconsistency under [section 100D(4)][176] within the timing requirements in the direction, if there are any; and
     
     *   (b) [section 100D(5) to (9)][176] apply.
     
@@ -6621,7 +6621,7 @@ Pest management
     
     (3) The application is made under [section 291][549] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][449].
     
-    (4) The court must hold a public hearing on the application. 
+    (4) The court must hold a public hearing on the application.
     
     (5) The court must---
         
@@ -6677,9 +6677,9 @@ Pest management
     
     (3) A council must not delegate---
         
-    *   (a) the power to determine the ways in which consultation must be undertaken; or 
+    *   (a) the power to determine the ways in which consultation must be undertaken; or
     
-    *   (b) the power to make, review, amend, or revoke a plan; or 
+    *   (b) the power to make, review, amend, or revoke a plan; or
     
     *   (c) the power to declare a small-scale management programme.
     
@@ -6705,7 +6705,7 @@ Pest management
     
     Section 100H: inserted, on 18 September 2012, by [section 39][546] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
-#### Compensation 
+#### Compensation
     
 *   Heading: inserted, on 18 September 2012, by [section 39][546] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
@@ -6715,9 +6715,9 @@ Pest management
     
     (2) Subsection (3) applies when---
         
-    *   (a) a person owns--- 
+    *   (a) a person owns---
             
-        *   (i) domesticated organisms infected by a pest to which a pest management plan applies; or 
+        *   (i) domesticated organisms infected by a pest to which a pest management plan applies; or
         
         *   (ii) domesticated organisms that are pest agents for a pest to which a pest management plan applies; or
         
@@ -6725,11 +6725,11 @@ Pest management
         
         
     
-    *   (b) some or all of the organisms are necessarily destroyed in the course of implementing the plan; and 
+    *   (b) some or all of the organisms are necessarily destroyed in the course of implementing the plan; and
     
     *   (c) there are net proceeds available from the disposal of the organisms destroyed.
     
-    (3) The net proceeds--- 
+    (3) The net proceeds---
         
     *   (a) must be paid to the owner if the plan does not provide for the payment of compensation to the owner of organisms destroyed:
     
@@ -6737,9 +6737,9 @@ Pest management
     
     *   (c) must be retained by the management agency in any other case.
     
-    (4) If there is a dispute about eligibility for, or the amount of, compensation,--- 
+    (4) If there is a dispute about eligibility for, or the amount of, compensation,---
         
-    *   (a) the dispute must be submitted to arbitration; and 
+    *   (a) the dispute must be submitted to arbitration; and
     
     *   (b) the arbitration must be conducted under the [Arbitration Act 1996][554].
     
@@ -6783,23 +6783,23 @@ Pest management
     
     (4) A levy order may be made only on the recommendation of a Minister.
     
-    (5) The Minister may make a recommendation only if satisfied, on the basis of information and evidence that the Minister regards as satisfactory, that--- 
+    (5) The Minister may make a recommendation only if satisfied, on the basis of information and evidence that the Minister regards as satisfactory, that---
         
-    *   (a) persons likely to be affected by the payment or collection of the levy have been consulted; and 
+    *   (a) persons likely to be affected by the payment or collection of the levy have been consulted; and
     
-    *   (b) persons opposing the levy's imposition have had a reasonable opportunity to put their views to the Minister; and 
+    *   (b) persons opposing the levy's imposition have had a reasonable opportunity to put their views to the Minister; and
     
-    *   (c) all views put to the Minister about the proposed imposition of the levy have been given due regard; and 
+    *   (c) all views put to the Minister about the proposed imposition of the levy have been given due regard; and
     
     *   (d) the imposition of the levy is the most appropriate means of funding the plan or the part of the plan, having regard to the extent to which the levy would target---
             
-        *   (i) persons likely to benefit from the implementation of the plan or the part of the plan; and 
+        *   (i) persons likely to benefit from the implementation of the plan or the part of the plan; and
         
-        *   (ii) persons who by their activities or inaction contribute to the creation, continuance, or exacerbation of the problems proposed to be resolved by the plan or the part of the plan; and 
+        *   (ii) persons who by their activities or inaction contribute to the creation, continuance, or exacerbation of the problems proposed to be resolved by the plan or the part of the plan; and
         
         
     
-    *   (e) if the levy is imposed on quantities of a commodity imported, its imposition will not constitute a non-tariff barrier and will not be contrary to New Zealand's international legal obligations; and 
+    *   (e) if the levy is imposed on quantities of a commodity imported, its imposition will not constitute a non-tariff barrier and will not be contrary to New Zealand's international legal obligations; and
     
     *   (f) the management agency will have in place adequate systems of accounting to persons who will be responsible for paying the levy; and
     
@@ -6861,9 +6861,9 @@ Pest management
         
         
     
-    *   (i) for the purpose of ascertaining whether or not the order is being complied with,--- 
+    *   (i) for the purpose of ascertaining whether or not the order is being complied with,---
             
-        *   (i) the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the management agency; and 
+        *   (i) the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the management agency; and
         
         *   (ii) the retention of the accounts, statements, or records for a specified period; and
         
@@ -6911,7 +6911,7 @@ Pest management
 
 ##### 100O Trust accounts for levy money
     
-*   (1) This section applies if a levy order specifies a requirement that the funds from which levy payments must be made to the management agency must be held on trust in a separate account. 
+*   (1) This section applies if a levy order specifies a requirement that the funds from which levy payments must be made to the management agency must be held on trust in a separate account.
     
     (2) For the purposes of this section, the amount outstanding to the management agency on a day by a person responsible for collecting the levy is calculated by subtracting the total of the levy payments that the person makes before that day to the management agency from the total of the amounts that subsection (4) requires the person to deposit in the account not later than a day before that day.
     
@@ -6953,7 +6953,7 @@ Pest management
 
 ##### 100P Compliance audits for levy
     
-*   (1) This section applies while a levy order is in force. 
+*   (1) This section applies while a levy order is in force.
     
     (2) If the management agency requests the Minister who recommended the making of the levy order to do so, the Minister may appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
         
@@ -6961,17 +6961,17 @@ Pest management
     
     *   (b) 1 or more of the persons responsible for paying the levy.
     
-    (3) The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them: 
+    (3) The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them:
         
-    *   (a) the extent to which persons responsible for paying the levy are doing and have done so: 
+    *   (a) the extent to which persons responsible for paying the levy are doing and have done so:
     
     *   (b) the extent to which appropriate amounts of levy are being and have been paid:
     
-    *   (c) the extent to which appropriate amounts of levy are being and have been collected: 
+    *   (c) the extent to which appropriate amounts of levy are being and have been collected:
     
-    *   (d) the extent to which appropriate amounts of levy are being and have been paid to the management agency by the persons collecting the levy: 
+    *   (d) the extent to which appropriate amounts of levy are being and have been paid to the management agency by the persons collecting the levy:
     
-    *   (e) the extent to which accounts, statements, and records are being and have been kept: 
+    *   (e) the extent to which accounts, statements, and records are being and have been kept:
     
     *   (f) the extent to which the accounts, statements, and records kept are properly kept.
     
@@ -6981,7 +6981,7 @@ Pest management
     
     (6) A person is qualified for appointment as an auditor only if the person is---
         
-    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][556]; or 
+    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][556]; or
     
     *   (b) a member, fellow, or associate of an association of accountants that is---
             
@@ -6993,7 +6993,7 @@ Pest management
         
         
     
-    (7) No officer or employee of any of the following may be appointed an auditor: 
+    (7) No officer or employee of any of the following may be appointed an auditor:
         
     *   (a) the management agency:
     
@@ -7067,7 +7067,7 @@ Pest management
             
         *   (i) the agency's financial position as a result of money paid as levy in the year; and
         
-        *   (ii) the financial results of all of the agency's activities involving the use of money paid as levy in the year or the use of assets the agency has at the end of the year as a result of money paid as levy in the year. 
+        *   (ii) the financial results of all of the agency's activities involving the use of money paid as levy in the year or the use of assets the agency has at the end of the year as a result of money paid as levy in the year.
         
         
     
@@ -7077,7 +7077,7 @@ Pest management
 
 ##### 100S Orders to be confirmed
     
-*   (1) Subsection (2) applies to a levy order that--- 
+*   (1) Subsection (2) applies to a levy order that---
         
     *   (a) is made on or after 1 January and before 1 July in the same year; and
     
@@ -7089,7 +7089,7 @@ Pest management
     
     (2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
     
-    (3) Subsection (4) applies to a levy order that--- 
+    (3) Subsection (4) applies to a levy order that---
         
     *   (a) is made on or after 1 July and before or on 31 December in the same year; and
     
@@ -7113,11 +7113,11 @@ Pest management
     
     (2) In making the decision, the council must have regard to---
         
-    *   (a) the extent to which the plan relates to the interests of the occupiers of the properties on which the rate would be levied: 
+    *   (a) the extent to which the plan relates to the interests of the occupiers of the properties on which the rate would be levied:
     
-    *   (b) the extent to which the occupiers of the properties on which the rate would be levied will obtain direct or indirect benefits from the implementation of the plan: 
+    *   (b) the extent to which the occupiers of the properties on which the rate would be levied will obtain direct or indirect benefits from the implementation of the plan:
     
-    *   (c) the collective benefits of the implementation of the plan to the occupiers of the properties on which the rate would be levied compared with the collective costs to them of the rate: 
+    *   (c) the collective benefits of the implementation of the plan to the occupiers of the properties on which the rate would be levied compared with the collective costs to them of the rate:
     
     *   (d) for the regional pest management plan, the extent to which the characteristics of the properties on which the rate would be levied and the uses to which they are put contribute to the presence or prevalence of the pest or pests covered by it:
     
@@ -7127,9 +7127,9 @@ Pest management
 
 ##### 100U National pest management plan or national pathway management plan
     
-*   [Section 100T][197] does not limit or affect the powers of a council under the [Local Government (Rating) Act 2002][473] to set and assess rates for the purpose of exercising a power that this Act confers on the council in relation to--- 
+*   [Section 100T][197] does not limit or affect the powers of a council under the [Local Government (Rating) Act 2002][473] to set and assess rates for the purpose of exercising a power that this Act confers on the council in relation to---
         
-    *   (a) national pest management plans; or 
+    *   (a) national pest management plans; or
     
     *   (b) national pathway management plans; or
     
@@ -7153,7 +7153,7 @@ Pest management
         
     *   (a) an unwanted organism present in the region could cause serious adverse and unintended effects unless early action is taken to control it; and
     
-    *   (b) the organism can be eradicated or controlled effectively by small-scale measures within 3 years of the measures starting, because--- 
+    *   (b) the organism can be eradicated or controlled effectively by small-scale measures within 3 years of the measures starting, because---
             
         *   (i) its distribution is limited; and
         
@@ -7177,13 +7177,13 @@ Pest management
     
     (4) The council declares the programme by giving public notice in a manner appropriate to the distribution of the organism and the persons likely to be affected by the programme.
     
-    (5) The public notice must specify--- 
+    (5) The public notice must specify---
         
-    *   (a) the unwanted organism that is the subject of the programme; and 
+    *   (a) the unwanted organism that is the subject of the programme; and
     
-    *   (b) the objectives of the programme; and 
+    *   (b) the objectives of the programme; and
     
-    *   (c) the powers to be exercised under [Part 6][214] to implement the programme. 
+    *   (c) the powers to be exercised under [Part 6][214] to implement the programme.
     
     (6) A programme ceases to have effect on the occurrence of the earliest of the following:
         
@@ -7215,7 +7215,7 @@ Pest management
     
     *   (c) the notice must be received not less than 5 working days before the work is due to start.
     
-    (4) Subsection (3) does not apply if the regional council is satisfied that there are reasonable grounds to believe that the unwanted organism may spread beyond the place before the end of 5 working days. 
+    (4) Subsection (3) does not apply if the regional council is satisfied that there are reasonable grounds to believe that the unwanted organism may spread beyond the place before the end of 5 working days.
     
     Section 100W: inserted, on 18 September 2012, by [section 39][546] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
@@ -7240,9 +7240,9 @@ Government/industry agreement for readiness or response
     
     _agreement_ means the government/industry agreement for readiness or response
     
-    _government/industry agreement for readiness or response_ means the agreement described in [section 100Z][205] 
+    _government/industry agreement for readiness or response_ means the agreement described in [section 100Z][205]
     
-    _industry organisation_ means an organisation described in [section 100ZA][206] 
+    _industry organisation_ means an organisation described in [section 100ZA][206]
     
     _payee_ means the person to whom the levy is payable under [section 100ZC(2)][208]
     
@@ -7278,7 +7278,7 @@ Government/industry agreement for readiness or response
     
     (2) A _readiness activity_ means an activity undertaken to prepare to prevent or reduce the impact that an unwanted organism that is not present in New Zealand would have if it were to enter New Zealand.
     
-    (3) A _response activity_ means an activity undertaken--- 
+    (3) A _response activity_ means an activity undertaken---
         
     *   (a) after an event described in subsection (4); and
     
@@ -7290,7 +7290,7 @@ Government/industry agreement for readiness or response
     
     *   (b) the appearance of different effects of an unwanted organism known to be present in New Zealand and capable of being eradicated:
     
-    *   (c) the development of new control methods that could make it possible to eradicate an unwanted organism known to be present in New Zealand. 
+    *   (c) the development of new control methods that could make it possible to eradicate an unwanted organism known to be present in New Zealand.
     
     (5) The purposes are---
         
@@ -7384,7 +7384,7 @@ Government/industry agreement for readiness or response
     
     *   (b) the way in which it is proposed that the sector's views will be represented by the organisation during joint decision-making under the agreement; and
     
-    *   (c) the arrangements proposed to fund the organisation's commitments under the agreement. 
+    *   (c) the arrangements proposed to fund the organisation's commitments under the agreement.
     
     (7) The organisation must have had due regard to the views expressed during the consultation.
     
@@ -7502,9 +7502,9 @@ Government/industry agreement for readiness or response
         
         
     
-    *   (i) for the purpose of ascertaining whether or not the order is being complied with,--- 
+    *   (i) for the purpose of ascertaining whether or not the order is being complied with,---
             
-        *   (i) the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the payee; and 
+        *   (i) the keeping of accounts, statements, and records of a specified class or description by all or any of the persons responsible for collecting the levy, the persons responsible for paying it, and the payee; and
         
         *   (ii) the retention of the accounts, statements, or records for a specified period; and
         
@@ -7514,7 +7514,7 @@ Government/industry agreement for readiness or response
             
         *   (i) the appointment of arbitrators; and
         
-        *   (ii) the procedures to be followed by arbitrators; and 
+        *   (ii) the procedures to be followed by arbitrators; and
         
         *   (iii) the remuneration of arbitrators; and
         
@@ -7594,7 +7594,7 @@ Government/industry agreement for readiness or response
 
 ##### 100ZF Compliance audits for levy
     
-*   (1) This section applies while a readiness or response levy order is in force. 
+*   (1) This section applies while a readiness or response levy order is in force.
     
     (2) If the payee requests the Minister to do so, the Minister may appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
         
@@ -7602,17 +7602,17 @@ Government/industry agreement for readiness or response
     
     *   (b) 1 or more of the persons responsible for paying the levy.
     
-    (3) The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them: 
+    (3) The purpose of the audit is to ascertain the following matters, to the extent to which they are relevant to the affairs being audited and to which it is practicable to ascertain them, and to report to the Minister on them:
         
-    *   (a) the extent to which persons responsible for paying the levy are doing and have done so: 
+    *   (a) the extent to which persons responsible for paying the levy are doing and have done so:
     
     *   (b) the extent to which appropriate amounts of the levy are being and have been paid:
     
-    *   (c) the extent to which appropriate amounts of the levy are being and have been collected: 
+    *   (c) the extent to which appropriate amounts of the levy are being and have been collected:
     
-    *   (d) the extent to which appropriate amounts of the levy are being and have been paid over to the payee by the person collecting it: 
+    *   (d) the extent to which appropriate amounts of the levy are being and have been paid over to the payee by the person collecting it:
     
-    *   (e) the extent to which accounts, statements, and records are being and have been kept: 
+    *   (e) the extent to which accounts, statements, and records are being and have been kept:
     
     *   (f) the extent to which the accounts, statements, and records kept are properly kept.
     
@@ -7622,7 +7622,7 @@ Government/industry agreement for readiness or response
     
     (6) A person is qualified for appointment as an auditor only if the person is---
         
-    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][556]; or 
+    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][556]; or
     
     *   (b) a member, fellow, or associate of an association of accountants that is---
             
@@ -7634,7 +7634,7 @@ Government/industry agreement for readiness or response
         
         
     
-    (7) No officer or employee of any of the following may be appointed an auditor: 
+    (7) No officer or employee of any of the following may be appointed an auditor:
         
     *   (a) the payee:
     
@@ -7694,7 +7694,7 @@ Government/industry agreement for readiness or response
 
 ##### 100ZH Orders to be confirmed
     
-*   (1) Subsection (2) applies to a readiness or response levy order that--- 
+*   (1) Subsection (2) applies to a readiness or response levy order that---
         
     *   (a) is made on or after 1 January and before 1 July in the same year; and
     
@@ -7706,7 +7706,7 @@ Government/industry agreement for readiness or response
     
     (2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
     
-    (3) Subsection (4) applies to a readiness or response levy order that--- 
+    (3) Subsection (4) applies to a readiness or response levy order that---
         
     *   (a) is made on or after 1 July and before or on 31 December in the same year; and
     
@@ -7933,7 +7933,7 @@ Administrative provisions
     
     *   (c) audits of the effectiveness and appropriateness of the Ministry's internal systems and procedures for the administration of this Act:
     
-    *   (d) audits of compliance with the Ministry's internal systems and procedures for the administration of this Act: 
+    *   (d) audits of compliance with the Ministry's internal systems and procedures for the administration of this Act:
     
     *   (e) audits of the exercise of powers or carrying out of functions or duties of statutory officers appointed under this Act:
     
@@ -7963,7 +7963,7 @@ Administrative provisions
     
     (2) The Director-General may give the subject of the audit a written notice to appear before an auditor at a time and place specified in the notice.
     
-    (3) If the Director-General acts under subsection (2), the auditor may require the subject of the audit to answer all questions relating to the audit put to the subject. 
+    (3) If the Director-General acts under subsection (2), the auditor may require the subject of the audit to answer all questions relating to the audit put to the subject.
     
     (4) An auditor may examine the systems, processes, and records of the subject of the audit.
     
@@ -7997,7 +7997,7 @@ Administrative provisions
     
 *   (1) An auditor may enter a place of business under [section 105E(5)][225] within or outside business hours but only at a reasonable time.
     
-    (2) If an occupier of the place is present when the auditor enters the place, the auditor must--- 
+    (2) If an occupier of the place is present when the auditor enters the place, the auditor must---
         
     *   (a) identify himself or herself to an occupier of the place; and
     
@@ -8021,7 +8021,7 @@ Administrative provisions
     
     *   (b) ensure that an occupier of the place gets the schedule under subsection (5) or (6).
     
-    (5) If it is practicable for the auditor to prepare at the place a schedule of what the auditor takes, the auditor must prepare and leave the schedule at the place. 
+    (5) If it is practicable for the auditor to prepare at the place a schedule of what the auditor takes, the auditor must prepare and leave the schedule at the place.
     
     (6) If it is practicable for the auditor to prepare and leave a schedule of what the auditor takes but the occupier of the place consents to the auditor not doing so, or if it is not practicable for the auditor to do so, the auditor must---
         
@@ -8095,7 +8095,7 @@ Administrative provisions
             
         *   (i) is, under an enactment, liable to be detained because of an infectious disease; or
         
-        *   (ii) is liable to be arrested under a warrant issued by a court or a registrar; or 
+        *   (ii) is liable to be arrested under a warrant issued by a court or a registrar; or
         
         *   (iii) is liable to be prosecuted for an offence punishable by imprisonment; or
         
@@ -8117,7 +8117,7 @@ Administrative provisions
         
         *   (xii) has contravened regulations under the [United Nations Act 1946][583]; or
         
-        *   (xiii) has contravened an enactment that contains an offence involving the unlawful entry into New Zealand of a person, matter, or thing and that is specified for the purposes of this section by the Governor-General in Council; or 
+        *   (xiii) has contravened an enactment that contains an offence involving the unlawful entry into New Zealand of a person, matter, or thing and that is specified for the purposes of this section by the Governor-General in Council; or
         
         *   (xiv) is endangering, or threatening to endanger, the life, health, or safety of a person or group of persons.
         
@@ -8133,7 +8133,7 @@ Administrative provisions
         
         *   (ii) ascertain or determine the status of the person:
         
-        *   (iii) detain the person: 
+        *   (iii) detain the person:
         
         *   (iv) arrest the person.
         
@@ -8529,9 +8529,9 @@ Administrative provisions
         
     *   ###### Constable to deal with
     
-    *   (a) [section 98C][609] of the Crimes Act 1961: 
+    *   (a) [section 98C][609] of the Crimes Act 1961:
     
-    *   (b) [section 342][610] of the Immigration Act 2009: 
+    *   (b) [section 342][610] of the Immigration Act 2009:
     
     *   (c) [section 29A][611], [30][612], or [31][613] of the Passports Act 1992:
     
@@ -8541,9 +8541,9 @@ Administrative provisions
     
     *   (e) [sections 123][614] and [124][615] of the Films, Videos, and Publications Classification Act 1993:
     
-    *   (f) [section 232][616] or [233][617] of the Fisheries Act 1996: 
+    *   (f) [section 232][616] or [233][617] of the Fisheries Act 1996:
     
-    *   (g) [section 37][618] or [43][619] of the Medicines Act 1981: 
+    *   (g) [section 37][618] or [43][619] of the Medicines Act 1981:
     
     *   (h) the [Trade in Endangered Species Act 1989][448]:
     
@@ -9173,7 +9173,7 @@ Administrative provisions
     
     (2) Every levy order shall be deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][547].
     
-    (3) The fact that [Part 5A][202] provides for levies to be made to fund readiness or response activities does not prevent this section imposing a levy to which both the following apply: 
+    (3) The fact that [Part 5A][202] provides for levies to be made to fund readiness or response activities does not prevent this section imposing a levy to which both the following apply:
         
     *   (a) it is imposed to wholly or partly fund a readiness or response activity; and
     
@@ -9473,7 +9473,7 @@ Administrative provisions
     
     *   (b) it is of a kind described in [section 142A(3)][279].
     
-    (2) Local authorities must provide the information, or make it available,--- 
+    (2) Local authorities must provide the information, or make it available,---
         
     *   (a) to the Director-General; and
     
@@ -9595,7 +9595,7 @@ Administrative provisions
 
 ##### 142F Arrangement for system
     
-*   (1) The Director-General may arrange for the use of an automated electronic system to do the actions described in subsection (2) that this Act or another enactment allows or requires the persons described in subsection (3) to do. 
+*   (1) The Director-General may arrange for the use of an automated electronic system to do the actions described in subsection (2) that this Act or another enactment allows or requires the persons described in subsection (3) to do.
     
     (2) The actions are---
         
@@ -9703,7 +9703,7 @@ Administrative provisions
     
     (2) The Director-General may disclose the information to agencies in New Zealand to facilitate the carrying out by the agencies of---
         
-    *   (a) the prevention, detection, investigation, prosecution, and punishment of offences: 
+    *   (a) the prevention, detection, investigation, prosecution, and punishment of offences:
     
     *   (b) the enforcement of a law imposing a pecuniary penalty:
     
@@ -9761,7 +9761,7 @@ Administrative provisions
     
     (2) The Director-General may disclose the information to agencies overseas to facilitate the carrying out by the agencies of---
         
-    *   (a) the prevention, detection, investigation, prosecution, and punishment of offences: 
+    *   (a) the prevention, detection, investigation, prosecution, and punishment of offences:
     
     *   (b) the enforcement of a law imposing a pecuniary penalty:
     
@@ -9841,7 +9841,7 @@ Administrative provisions
     
     *   (b) responding to difficulties arising in the course of trade between New Zealand and the overseas country.
     
-    (3) The second requirement is that the information is disclosed subject to conditions that--- 
+    (3) The second requirement is that the information is disclosed subject to conditions that---
         
     *   (a) state the use that the overseas person may make of the information disclosed; and
     
@@ -9849,9 +9849,9 @@ Administrative provisions
     
     *   (c) if the overseas person may disclose any of the information disclosed to any other person, state---
             
-        *   (i) the persons to whom the overseas person may disclose it; and 
+        *   (i) the persons to whom the overseas person may disclose it; and
         
-        *   (ii) the extent to which the overseas person may disclose it; and 
+        *   (ii) the extent to which the overseas person may disclose it; and
         
         *   (iii) the conditions subject to which the overseas person may disclose it.
         
@@ -9899,7 +9899,7 @@ Administrative provisions
     
     *   (b) any other place determined by the responsible body
     
-    _material_ means, except in [section 142O][297],--- 
+    _material_ means, except in [section 142O][297],---
         
     *   (a) all of the original material:
     
@@ -10325,13 +10325,13 @@ Enforcement, offences, and penalties
     
 *   A compliance order must state---
         
-    *   (a) the name of the person against whom it is made; and 
+    *   (a) the name of the person against whom it is made; and
     
-    *   (b) the reasons why the inspector or authorised person made it; and 
+    *   (b) the reasons why the inspector or authorised person made it; and
     
-    *   (c) the requirement or prohibition in [section 154(2)][316] ordered by the inspector or authorised person; and 
+    *   (c) the requirement or prohibition in [section 154(2)][316] ordered by the inspector or authorised person; and
     
-    *   (d) either,--- 
+    *   (d) either,---
             
         *   (i) for a requirement, the period, if any, within which the requirement must be achieved, which must start on the day on which the order is served and end after a time that is reasonable for the achievement of the requirement; or
         
@@ -10343,7 +10343,7 @@ Enforcement, offences, and penalties
     
     *   (f) the consequences of not complying with the order; and
     
-    *   (g) the rights of appeal in [section 154E][321]; and 
+    *   (g) the rights of appeal in [section 154E][321]; and
     
     *   (h) the name and address of the agency whose inspector or authorised person made the order.
     
@@ -10353,7 +10353,7 @@ Enforcement, offences, and penalties
     
 *   (1) An inspector or authorised person who makes a compliance order must ensure that it is served on the person against whom it is made.
     
-    (2) A compliance order may be served by--- 
+    (2) A compliance order may be served by---
         
     *   (a) delivering it personally to the person:
     
@@ -10375,7 +10375,7 @@ Enforcement, offences, and penalties
 
 ##### 154C Compliance
     
-*   The person against whom a compliance order is made must--- 
+*   The person against whom a compliance order is made must---
         
     *   (a) comply with the order; and
     
@@ -10493,7 +10493,7 @@ Enforcement, offences, and penalties
 
 ##### 154H Pecuniary penalty order
     
-*   (1) The Director-General may apply to the High Court for an order that a person pay the Crown a pecuniary penalty under this Act. 
+*   (1) The Director-General may apply to the High Court for an order that a person pay the Crown a pecuniary penalty under this Act.
     
     (2) The Court may make the order if it is satisfied that the person failed to comply with---
         
@@ -10539,7 +10539,7 @@ Enforcement, offences, and penalties
         
         
     
-    (3) The Court must not make the order if the person satisfies the Court--- 
+    (3) The Court must not make the order if the person satisfies the Court---
         
     *   (a) that the failure was necessary for the purpose of---
             
@@ -10555,7 +10555,7 @@ Enforcement, offences, and penalties
             
         *   (i) the failure was due to an event beyond the person's control, including natural disaster, mechanical failure, or sabotage; and
         
-        *   (ii) the person could not reasonably have foreseen the event; and 
+        *   (ii) the person could not reasonably have foreseen the event; and
         
         *   (iii) the person could not reasonably have taken steps to prevent the event occurring; and
         
@@ -10575,9 +10575,9 @@ Enforcement, offences, and penalties
     
 *   (1) Subsections (2) and (3) apply if the person who is liable under [section 154H(2)][325] was acting as the agent or employee of another person at the time of the non-compliance.
     
-    (2) The other person is liable under [section 154H ][325] in the same manner and to the same extent as if he or she had personally failed to comply, if it is proved---
+    (2) The other person is liable under [section 154H][325] in the same manner and to the same extent as if he or she had personally failed to comply, if it is proved---
         
-    *   (a) that the act or omission that constituted the non-compliance took place with his or her authority, permission, or consent; or 
+    *   (a) that the act or omission that constituted the non-compliance took place with his or her authority, permission, or consent; or
     
     *   (b) that he or she knew that the non-compliance was occurring or was to occur and failed to take all reasonable steps to prevent or stop it.
     
@@ -10585,7 +10585,7 @@ Enforcement, offences, and penalties
     
     (4) A court that makes an order under [section 154H][325] against a body corporate may also make an order against every director or person concerned in the management of the body corporate if it is proved---
         
-    *   (a) that the act or omission that constituted the non-compliance took place with the director or person's authority, permission, or consent; or 
+    *   (a) that the act or omission that constituted the non-compliance took place with the director or person's authority, permission, or consent; or
     
     *   (b) that the director or person knew that the non-compliance was occurring or was to occur and failed to take all reasonable steps to prevent or stop it.
     
@@ -10595,15 +10595,15 @@ Enforcement, offences, and penalties
     
 *   (1) In determining the appropriate amount of a pecuniary penalty under [section 154H][325], the Court must have regard to all relevant matters, including---
         
-    *   (a) the nature and extent of the contravention: 
+    *   (a) the nature and extent of the contravention:
     
-    *   (b) the nature and extent of loss or damage caused to a person, human health, or a natural and physical resource as a result of the contravention: 
+    *   (b) the nature and extent of loss or damage caused to a person, human health, or a natural and physical resource as a result of the contravention:
     
-    *   (c) the circumstances in which the contravention took place: 
+    *   (c) the circumstances in which the contravention took place:
     
-    *   (d) whether or not the person has been found in previous proceedings under this Act to have engaged in similar conduct: 
+    *   (d) whether or not the person has been found in previous proceedings under this Act to have engaged in similar conduct:
     
-    *   (e) the steps taken by the person to bring the contravention to the attention of the appropriate authority: 
+    *   (e) the steps taken by the person to bring the contravention to the attention of the appropriate authority:
     
     *   (f) the steps taken by the person to avoid, remedy, or mitigate the effects of the contravention.
     
@@ -10651,11 +10651,11 @@ Enforcement, offences, and penalties
     
 *   In proceedings under [section 154H][325], the Court may, instead of or in addition to making a pecuniary penalty order, make---
         
-    *   (a) an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that are caused by or on behalf of the person: 
+    *   (a) an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that are caused by or on behalf of the person:
     
-    *   (b) an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that relate to land owned or occupied by the person: 
+    *   (b) an order that the person mitigate or remedy any adverse effects, on persons or a natural and physical resource, that relate to land owned or occupied by the person:
     
-    *   (c) an order that the person pay the costs of mitigating or remedying the adverse effects referred to in paragraph (a) or (b). 
+    *   (c) an order that the person pay the costs of mitigating or remedying the adverse effects referred to in paragraph (a) or (b).
     
     Section 154K: inserted, on 18 September 2012, by [section 66][680] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
@@ -10701,7 +10701,7 @@ Enforcement, offences, and penalties
     
     *   (b) the defendant took all reasonable precautions and exercised due diligence to avoid---
             
-        *   (i) the commission of the particular offence; or 
+        *   (i) the commission of the particular offence; or
         
         *   (ii) the commission of offences of the same kind.
         
@@ -10753,7 +10753,7 @@ Enforcement, offences, and penalties
     
     *   (b) the defendant took all reasonable precautions and exercised due diligence to avoid---
             
-        *   (i) the commission of the particular offence; or 
+        *   (i) the commission of the particular offence; or
         
         *   (ii) the commission of offences of the same kind.
         
@@ -10765,7 +10765,7 @@ Enforcement, offences, and penalties
             
         *   (i) saving or protecting life or health; or
         
-        *   (ii) preventing serious damage to property; or 
+        *   (ii) preventing serious damage to property; or
         
         *   (iii) avoiding an actual or likely adverse effect on a natural and physical resource or human health; and
         
@@ -10901,11 +10901,11 @@ Enforcement, offences, and penalties
     
     (6) A person commits an offence against this Act who wilfully withholds relevant information that the person is required by law to provide in connection with the purposes of this Act from---
         
-    *   (a) an official; or 
+    *   (a) an official; or
     
     *   (b) an automated electronic system.
     
-    (7) A person commits an offence against this Act who, in connection with the purposes of this Act,--- 
+    (7) A person commits an offence against this Act who, in connection with the purposes of this Act,---
         
     *   (a) knowingly makes a return that the person is required by law to make that is false or misleading in a material particular; or
     
@@ -10919,13 +10919,13 @@ Enforcement, offences, and penalties
     
     *   (b) any other person authorised to exercise a power or carry out a function or duty under law.
     
-    (9) A person commits an offence against this Act who buys, sells, exchanges, or otherwise acquires or disposes of unauthorised goods--- 
+    (9) A person commits an offence against this Act who buys, sells, exchanges, or otherwise acquires or disposes of unauthorised goods---
         
     *   (a) knowing that they are unauthorised goods; or
     
     *   (b) knowing that they may be unauthorised goods and reckless as to whether they are or not.
     
-    (10) A person commits an offence against this Act who, knowing that goods are risk goods that have been seized by, or are otherwise under the control of, an inspector, an authorised person, or an automated electronic system,--- 
+    (10) A person commits an offence against this Act who, knowing that goods are risk goods that have been seized by, or are otherwise under the control of, an inspector, an authorised person, or an automated electronic system,---
         
     *   (a) alters the condition of the goods without the permission of an inspector, an authorised person, or an automated electronic system; or
     
@@ -10935,13 +10935,13 @@ Enforcement, offences, and penalties
     
     *   (d) unpacks or repacks the goods with the permission of an inspector, an authorised person, or an automated electronic system but not in the manner required by the permission.
     
-    (11) A person commits an offence against this Act in the following circumstances: 
+    (11) A person commits an offence against this Act in the following circumstances:
         
     *   (a) risk goods have been seized by, or are otherwise under the control of, an inspector, an authorised person, or an automated electronic system; and
     
     *   (b) the goods are stored in a place where the inspector, authorised person, or automated electronic system has directed that they should be stored; and 
     
-    *   (c) the person knows the facts in paragraphs (a) and (b); and 
+    *   (c) the person knows the facts in paragraphs (a) and (b); and
     
     *   (d) the person removes the goods from the place---
             
@@ -10955,7 +10955,7 @@ Enforcement, offences, and penalties
         
     *   (a) risk goods have been seized under this Act; and
     
-    *   (b) the person knows the fact in paragraph (a); and 
+    *   (b) the person knows the fact in paragraph (a); and
     
     *   (c) the person takes or carries away the goods or otherwise converts them to his or her own use without the permission of an inspector, an authorised person, or an automated electronic system.
     
@@ -10965,7 +10965,7 @@ Enforcement, offences, and penalties
     
     *   (b) the direction has been complied with; and
     
-    *   (c) the person knows the facts in paragraphs (a) and (b); and 
+    *   (c) the person knows the facts in paragraphs (a) and (b); and
     
     *   (d) the person exhumes the carcass of the organism or risk goods without the permission of an inspector, an authorised person, or an automated electronic system.
     
@@ -10973,7 +10973,7 @@ Enforcement, offences, and penalties
         
     *   (a) a notice about a place is in force under [section 130(1)][259]; and
     
-    *   (b) the person knows the fact in paragraph (a); and 
+    *   (b) the person knows the fact in paragraph (a); and
     
     *   (c) the person---
             
@@ -11033,7 +11033,7 @@ Enforcement, offences, and penalties
 
 ##### 157 Penalties
     
-*   (1) Every person who commits an offence against any of [section 154O(1) to (15)][333] is liable on conviction on indictment,---
+*   (1) Every person who commits an offence against any of [section 154O(1) to (15)][333] is liable on conviction,---
         
     *   (a) in the case of an individual person, to imprisonment for a term not exceeding 5 years, a fine not exceeding $100,000, or both:
     
@@ -11045,79 +11045,91 @@ Enforcement, offences, and penalties
     
     *   (b) in the case of a corporation, to a fine not exceeding $200,000\.
     
-    (3) Every person who commits an offence against any of [section 154N(6) or (7)][332] or [154O(16) to (18)][333] is liable on summary conviction,---
+    (3) Every person who commits an offence against any of [section 154N(6) or (7)][332] or [154O(16) to (18)][333] is liable on conviction,---
         
     *   (a) in the case of an individual person, to imprisonment for a term not exceeding 12 months, a fine not exceeding $50,000, or both:
     
     *   (b) in the case of a corporation, to a fine not exceeding $100,000\.
     
-    (4) Every person who commits an offence against [section 154N(8) to (11)][332] is liable on summary conviction,---
+    (4) Every person who commits an offence against [section 154N(8) to (11)][332] is liable on conviction,---
         
     *   (a) in the case of an individual person, to imprisonment for a term not exceeding 3 months, a fine not exceeding $50,000, or both:
     
     *   (b) in the case of a corporation, to a fine not exceeding $100,000\.
     
-    (5) Every person who commits an offence against any of [section 154M][331], [154N(12) to (20)][332], or [154O(19) to (21)][333] is liable on summary conviction,---
+    (5) Every person who commits an offence against any of [section 154M][331], [154N(12) to (20)][332], or [154O(19) to (21)][333] is liable on conviction,---
         
     *   (a) in the case of an individual person, to a fine not exceeding $5,000:
     
     *   (b) in the case of a corporation, to a fine not exceeding $15,000\.
     
-    (6) Every person who commits an offence against any regulations made under this Act is liable on summary conviction,---
+    (6) Every person who commits an offence against any regulations made under this Act is liable on conviction,---
         
     *   (a) in the case of an individual person, to a fine not exceeding $5,000:
     
     *   (b) in the case of a corporation, to a fine not exceeding $15,000\.
     
-    (7) Every person who commits an offence against [section 154N(21)][332] is liable on summary conviction to a fine not exceeding $1,000\.
+    (7) Every person who commits an offence against [section 154N(21)][332] is liable on conviction to a fine not exceeding $1,000\.
     
     Section 157: substituted, on 26 November 1997, by [section 103][687] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 157(1): amended, on 18 September 2012, by [section 67(1)][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(1): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(2): amended, on 18 September 2012, by [section 67(2)][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(1): amended, on 18 September 2012, by [section 67(1)][689] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(3): amended, on 18 September 2012, by [section 67(3)][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(2): amended, on 18 September 2012, by [section 67(2)][689] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(4): amended, on 18 September 2012, by [section 67(4)][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(3): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(5): amended, on 18 September 2012, by [section 67(5)][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(3): amended, on 18 September 2012, by [section 67(3)][689] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(7): amended, on 18 September 2012, by [section 67(6)][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(4): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(7): amended, on 22 April 2010, by [section 5][689] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 157(4): amended, on 18 September 2012, by [section 67(4)][689] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(7): amended, on 7 May 1999, by [section 3][690] of the Biosecurity Amendment Act 1999 (1999 No 29).
+    Section 157(5): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 157(5): amended, on 18 September 2012, by [section 67(5)][689] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 157(6): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 157(7): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 157(7): amended, on 18 September 2012, by [section 67(6)][689] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 157(7): amended, on 22 April 2010, by [section 5][690] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    
+    Section 157(7): amended, on 7 May 1999, by [section 3][691] of the Biosecurity Amendment Act 1999 (1999 No 29).
 
 ##### 158 Fines to be paid to management agency instituting prosecution
     
 *   \[Repealed\]
     
-    Section 158: repealed, on 18 September 2012, by [section 68][691] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 158: repealed, on 18 September 2012, by [section 68][692] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 159 Proceedings for infringement offences other than border infringement offences
     
 *   (1) This section does not apply to border infringement offences.
     
-    (1A) This section applies when--- 
+    (1A) This section applies when---
         
     *   (a) an inspector has reason to believe that a defendant has committed an infringement offence:
     
     *   (b) an authorised person has reason to believe that a defendant has committed an infringement offence that the authorised person may deal with within his or her terms of appointment under [section 103(1)(b), (2), or (3)][218].
     
-    (1B) Proceedings may be taken against the defendant under the [Summary Proceedings Act 1957][692].
+    (1B) Proceedings may be taken against the defendant by filing a charging document under [section 14][693] of the Criminal Procedure Act 2011\.
     
     (1C) Alternatively, the inspector or the authorised person may issue an infringement notice to the defendant. In that case,---
         
-    *   (a) proceedings for the offence may be commenced in accordance with [section 21][693] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings for the offence may be commenced in accordance with [section 21][694] of the Summary Proceedings Act 1957; and
     
-    *   (b) [section 21][693] of that Act applies with all necessary modifications.
+    *   (b) [section 21][694] of that Act applies with all necessary modifications.
     
     (2) Any inspector (not necessarily the inspector who issued the notice), the authorised person (the authorised person who issued the notice), or an authorised person appointed by the same appointer as appointed the authorised person who issued the notice---
         
     *   (a) may deliver it (or a copy of it) to the defendant personally; or
     
-    *   (b) may send it (or a copy of it) to the defendant by post addressed to the defendant's last known place of residence or business; and in that case, for the purposes of the [Summary Proceedings Act 1957][692], it (or the copy) shall be deemed to have been served on the defendant when it was posted.
+    *   (b) may send it (or a copy of it) to the defendant by post addressed to the defendant's last known place of residence or business; and in that case it (or the copy) shall be deemed to have been served on the defendant when it was posted.
     
     (3) Every infringement notice shall be in a form prescribed by regulations made under this Act; and shall specify---
         
@@ -11129,7 +11141,7 @@ Enforcement, offences, and penalties
     
     *   (d) the time within which the fee may be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][693] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][694] of the Summary Proceedings Act 1957; and
     
     *   (f) that the defendant has the right to request a hearing; and
     
@@ -11137,33 +11149,37 @@ Enforcement, offences, and penalties
     
     *   (h) any other matters prescribed in that behalf.
     
-    Section 159 heading: substituted, on 22 April 2010, by [section 6(1)][694] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159 heading: substituted, on 22 April 2010, by [section 6(1)][695] of the Biosecurity Amendment Act 2009 (2009 No 66).
     
-    Section 159 heading: amended, on 18 September 2012, by [section 69(1)][695] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159 heading: amended, on 18 September 2012, by [section 69(1)][696] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1): replaced, on 18 September 2012, by [section 69(2)][695] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1): replaced, on 18 September 2012, by [section 69(2)][696] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1A): inserted, on 18 September 2012, by [section 69(2)][695] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1A): inserted, on 18 September 2012, by [section 69(2)][696] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1B): inserted, on 18 September 2012, by [section 69(2)][695] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1B): inserted, on 18 September 2012, by [section 69(2)][696] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1C): inserted, on 18 September 2012, by [section 69(2)][695] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1B): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 159(2): amended, on 18 September 2012, by [section 69(3)][695] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1C): inserted, on 18 September 2012, by [section 69(2)][696] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(3)(b): substituted, on 22 April 2010, by [section 6(3)][694] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159(2): amended, on 18 September 2012, by [section 69(3)][696] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 159(2)(b): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 159(3)(b): substituted, on 22 April 2010, by [section 6(3)][695] of the Biosecurity Amendment Act 2009 (2009 No 66).
 
 ##### 159A Accelerated infringement notice procedure for border infringement offences
     
 *   (1) This section applies when an inspector has reason to believe that a defendant has committed a border infringement offence.
     
-    (1A) Proceedings may be taken against the defendant under the [Summary Proceedings Act 1957][692].
+    (1A) Proceedings may be taken against the defendant by filing a charging document under [section 14][693] of the Criminal Procedure Act 2011\.
     
     (1B) Alternatively, the inspector may issue an infringement notice to the defendant. In that case,---
         
-    *   (a) proceedings for the offence may be commenced in accordance with [section 21][693] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings for the offence may be commenced in accordance with [section 21][694] of the Summary Proceedings Act 1957; and
     
-    *   (b) [section 21][693] of that Act applies with all necessary modifications.
+    *   (b) [section 21][694] of that Act applies with all necessary modifications.
     
     (2) Any employee of the Ministry (not necessarily the inspector who issued the notice)---
         
@@ -11185,7 +11201,7 @@ Enforcement, offences, and penalties
     
     *   (e) how and where payment may be made under subsection (5); and
     
-    *   (f) a summary of how the provisions of [section 21(10)][693] of the Summary Proceedings Act 1957 apply to the offence alleged; and
+    *   (f) a summary of how the provisions of [section 21(10)][694] of the Summary Proceedings Act 1957 apply to the offence alleged; and
     
     *   (g) that the defendant has a right to request a hearing; and
     
@@ -11195,59 +11211,61 @@ Enforcement, offences, and penalties
     
     (5) If the infringement notice is served by delivering it to a person at a port approved under [section 37][77] or [section 37A][78], that person may choose to pay immediately the infringement fee in the manner specified in the notice.
     
-    (6) The Ministry may provide particulars of an infringement notice in accordance with [section 21(4) and (4A)][693] of the Summary Proceedings Act 1957, after a period of 14 days from the date of service of the infringement notice, or a copy of the infringement notice, if---
+    (6) The Ministry may provide particulars of an infringement notice in accordance with [section 21(4) and (4A)][694] of the Summary Proceedings Act 1957, after a period of 14 days from the date of service of the infringement notice, or a copy of the infringement notice, if---
         
     *   (a) the infringement fee for the offence has not by then been paid to the Ministry at the address specified in the notice (or immediately under subsection (5)); and
     
     *   (b) the Ministry has not by then received at that address a notice requesting a hearing in respect of that offence.
     
-    (7) If an infringement notice has been issued and served under this section, the [Summary Proceedings Act 1957][692] applies as if that notice were a reminder notice served under [section 21(2)][693] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
+    (7) If an infringement notice has been issued and served under this section, the [Summary Proceedings Act 1957][697] applies as if that notice were a reminder notice served under [section 21(2)][694] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
         
-    *   (a) the reference in [section 21(1)(b)][693] to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (6) of this section; and
+    *   (a) the reference in [section 21(1)(b)][694] to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (6) of this section; and
     
-    *   (b) subsection (6) were in the place of [section 21(3)][693]; and
+    *   (b) subsection (6) were in the place of [section 21(3)][694]; and
     
-    *   (c) the reference in [section 21(3A)][693] to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (6) of this section; and
+    *   (c) the reference in [section 21(3A)][694] to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (6) of this section; and
     
-    *   (d) every reference in [section 21(4), (4A), and (4B)][693] to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
+    *   (d) every reference in [section 21(4), (4A), and (4B)][694] to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
     
-    *   (e) the reference in [section 21(4)(a)][693] to parts of the reminder notice were a reference to parts of the infringement notice; and
+    *   (e) the reference in [section 21(4)(a)][694] to parts of the reminder notice were a reference to parts of the infringement notice; and
     
-    *   (f) the reference in [section 21(4C)][693] to particulars of a reminder notice were a reference to particulars of an infringement notice; and
+    *   (f) the reference in [section 21(4C)][694] to particulars of a reminder notice were a reference to particulars of an infringement notice; and
     
-    *   (g) the reference in [section 21(4C)][693] to the reminder notice were a reference to the infringement notice; and
+    *   (g) the reference in [section 21(4C)][694] to the reminder notice were a reference to the infringement notice; and
     
-    *   (h) the reference in [section 21(5)][693] to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (6) of this section; and
+    *   (h) the reference in [section 21(5)][694] to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (6) of this section; and
     
-    *   (i) the reference in [section 21(6)(b)][693] and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
+    *   (i) the reference in [section 21(6)(b)][694] and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
     
-    *   (j) each reference in [section 21A][696] and [section 78B][697] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
+    *   (j) each reference in [section 21A][698] and [section 78B][699] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
     
-    *   (k) the references to reminder notices in the definition of defendant in [section 2(1)][698], and in [section 212][699], and in any other relevant provisions of that Act or regulations made under that Act, were references to the infringement notice.
+    *   (k) the references to reminder notices in the definition of defendant in [section 2(1)][700], and in [section 212][701], and in any other relevant provisions of that Act or regulations made under that Act, were references to the infringement notice.
     
     (8) \[Repealed\]
     
-    (9) Despite [section 203(1)][700] of the Summary Proceedings Act 1957, an infringement notice under this section may be issued and served on a Sunday.
+    (9) Despite [section 203(1)][702] of the Summary Proceedings Act 1957, an infringement notice under this section may be issued and served on a Sunday.
     
-    Section 159A: inserted, on 7 May 1999, by [section 4][701] of the Biosecurity Amendment Act 1999 (1999 No 29).
+    Section 159A: inserted, on 7 May 1999, by [section 4][703] of the Biosecurity Amendment Act 1999 (1999 No 29).
     
-    Section 159A heading: substituted, on 22 April 2010, by [section 7(1)][702] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159A heading: substituted, on 22 April 2010, by [section 7(1)][704] of the Biosecurity Amendment Act 2009 (2009 No 66).
     
-    Section 159A(1): replaced, on 18 September 2012, by [section 70][703] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159A(1): replaced, on 18 September 2012, by [section 70][705] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159A(1A): inserted, on 18 September 2012, by [section 70][703] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159A(1A): inserted, on 18 September 2012, by [section 70][705] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159A(1B): inserted, on 18 September 2012, by [section 70][703] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159A(1A): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 159A(4)(b): substituted, on 22 April 2010, by [section 7(3)][702] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159A(1B): inserted, on 18 September 2012, by [section 70][705] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159A(6): substituted, on 1 March 2007, by [section 31][704] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 159A(4)(b): substituted, on 22 April 2010, by [section 7(3)][704] of the Biosecurity Amendment Act 2009 (2009 No 66).
     
-    Section 159A(7): substituted, on 1 March 2007, by [section 31][704] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 159A(6): substituted, on 1 March 2007, by [section 31][706] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 159A(8): repealed, on 1 March 2007, by [section 31][704] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 159A(7): substituted, on 1 March 2007, by [section 31][706] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    
+    Section 159A(8): repealed, on 1 March 2007, by [section 31][706] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
-##### 160 Who gets payments of fines, fees, and pecuniary penalties 
+##### 160 Who gets payments of fines, fees, and pecuniary penalties
     
 *   ###### Fine: prosecution by Ministry
     
@@ -11257,7 +11275,7 @@ Enforcement, offences, and penalties
     
     *   (b) the court imposes a fine; and
     
-    *   (c) the information for the offence was laid on behalf of the Ministry.
+    *   (c) the charging document for the offence was filed on behalf of the Ministry.
     
     (2) If the court considers that the act or omission that constituted the offence was a material cause of a need to undertake a response activity, the court must order that all or part of the fine be paid to the departmental bank account of the Ministry.
     
@@ -11267,9 +11285,9 @@ Enforcement, offences, and penalties
         
     *   (a) a person is convicted of an offence under this Act; and
     
-    *   (b) the court imposes a fine; and 
+    *   (b) the court imposes a fine; and
     
-    *   (c) the information for the offence was laid on behalf of a management agency.
+    *   (c) the charging document for the offence was filed on behalf of a management agency.
     
     (4) The court must---
         
@@ -11277,7 +11295,7 @@ Enforcement, offences, and penalties
     
     *   (b) state in the order the amount of the fine that is compensation for loss or damage, if any of it is.
     
-    (5) The registrar receiving the fine must credit 10% of the part of it that is not compensation for loss or damage to the Crown Bank Account. 
+    (5) The registrar receiving the fine must credit 10% of the part of it that is not compensation for loss or damage to the Crown Bank Account.
     
     ###### Infringement fee
     
@@ -11299,7 +11317,7 @@ Enforcement, offences, and penalties
     
     ###### Registrar's authority
     
-    (10) This section provides sufficient authority for a registrar receiving a fine, fee, or pecuniary penalty to which this section applies to deal with it in the manner required by this section. 
+    (10) This section provides sufficient authority for a registrar receiving a fine, fee, or pecuniary penalty to which this section applies to deal with it in the manner required by this section.
     
     ###### Ministry's use of amount paid to it
     
@@ -11309,13 +11327,17 @@ Enforcement, offences, and penalties
     
     (12) In this section, _response activity_ has the meaning given to it in [section 100Y(3)][204].
     
-    Section 160: replaced, on 18 September 2012, by [section 71][705] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 160: replaced, on 18 September 2012, by [section 71][707] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 160(1)(c): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 160(3)(c): amended, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 160A Procedure for certain declaration offences
     
 *   \[Repealed\]
     
-    Section 160A: repealed, on 7 May 1999, by [section 4][701] of the Biosecurity Amendment Act 1999 (1999 No 29).
+    Section 160A: repealed, on 7 May 1999, by [section 4][703] of the Biosecurity Amendment Act 1999 (1999 No 29).
 
 ##### 161 Evidence in proceedings
     
@@ -11409,44 +11431,54 @@ Enforcement, offences, and penalties
     
     (5) The court must not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
     
-    Section 161: substituted, on 26 November 1997, by [section 105][706] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 161: substituted, on 26 November 1997, by [section 105][708] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 161(2)(a)(i): amended, on 18 September 2012, by [section 72(1)][707] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(a)(i): amended, on 18 September 2012, by [section 72(1)][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(a)(ii): amended, on 18 September 2012, by [section 72(2)][707] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(a)(ii): amended, on 18 September 2012, by [section 72(2)][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(d)(ii): amended, on 18 September 2012, by [section 72(3)][707] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(d)(ii): amended, on 18 September 2012, by [section 72(3)][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(e)(ii): amended, on 18 September 2012, by [section 72(4)][707] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(e)(ii): amended, on 18 September 2012, by [section 72(4)][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(f): amended, on 18 September 2012, by [section 72(5)][707] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(f): amended, on 18 September 2012, by [section 72(5)][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
     Section 161(2)(g): amended, on 1 July 2003, by [section 262][429] of the Local Government Act 2002 (2002 No 84).
     
-    Section 161(2)(j): inserted, on 18 September 2012, by [section 72(6)][707] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(j): inserted, on 18 September 2012, by [section 72(6)][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
-##### 162 Time for laying informations
+##### 162 Time for filing charging document for certain offences
     
-*   Notwithstanding [section 14][708] of the Summary Proceedings Act 1957, an information in respect of an offence against this Act or any regulations made under it may be laid at any time within 2 years of the time when the matter of the information arose.
+*   (1) This section applies to---
+        
+    *   (a) an offence against any of [sections 154M][331], [154N(8) to (21)][332], and [154O(19) to (21)][333]:
+    
+    *   (b) an offence against any regulations made under this Act.
+    
+    (2) The limitation period for the offence ends on the date that is 2 years after the date on which the offence was committed.
+    
+    (3) [Section 25][710] of the Criminal Procedure Act 2011 does not apply to the offence.
+    
+    Section 162: replaced, on 1 July 2013, by [section 413][688] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 8A  
 Exclusive economic zone
     
-*   Part 8A: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Part 8A: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AA Definitions for this Part
     
-*   (1) In this Part, _exclusive economic zone_ or _EEZ_ means the zone described in [section 9][710] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 as the exclusive economic zone.
+*   (1) In this Part, _exclusive economic zone_ or _EEZ_ means the zone described in [section 9][712] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 as the exclusive economic zone.
     
     (2) In this Part, and in provisions modified by this Part, _arrive in the EEZ_ means to anchor in, berth in, or operate in the EEZ for the purpose of exploring or exploiting resources in the EEZ, or in preparation or support for such a purpose, after a voyage originating beyond the outer limits of the EEZ.
     
-    Section 162AA: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AA: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AB Application of Act in EEZ
     
 *   (1) The provisions of this Act apply in the EEZ---
         
-    *   (a) to the extent to which they are relevant; and 
+    *   (a) to the extent to which they are relevant; and
     
     *   (b) to the extent to which their language permits; and
     
@@ -11460,31 +11492,31 @@ Exclusive economic zone
     
     (3) A provision in this Act that applies in the EEZ must be interpreted in a way that preserves the rights of other states, including the freedoms of navigation and overflight, as set out in the United Nations Convention on the Law of the Sea of 10 December 1982\.
     
-    Section 162AB: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AB: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AC Application of Act to fish and mammals taken in EEZ
     
-*   (1) Fish and marine mammals taken in the EEZ and carried on board a foreign licensed vessel, a vessel registered under the [Fisheries Act 1996][711], or a vessel operated by the Crown are treated for the purposes of this Act as if they were not imported goods.
+*   (1) Fish and marine mammals taken in the EEZ and carried on board a foreign licensed vessel, a vessel registered under the [Fisheries Act 1996][713], or a vessel operated by the Crown are treated for the purposes of this Act as if they were not imported goods.
     
     (2) In subsection (1),---
     
-    _fish_ has the meaning given to it by [section 2][712] of the Fisheries Act 1996
+    _fish_ has the meaning given to it by [section 2][714] of the Fisheries Act 1996
     
-    _marine mammal_ has the meaning given to it by [section 2][713] of the Marine Mammals Protection Act 1978\.
+    _marine mammal_ has the meaning given to it by [section 2][715] of the Marine Mammals Protection Act 1978\.
     
-    Section 162AC: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AC: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AD Interpretation
     
 *   The definition of _craft_ in [section 2][4] applies as if ""is imported by"" read ""arrives in the EEZ after"".
     
-    Section 162AD: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AD: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AE Purpose of Part 3
     
 *   [Section 16][31] applies as if paragraph (b) read ""craft that arrive in the EEZ"".
     
-    Section 162AE: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AE: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AF Notice of intended arrival of craft in EEZ
     
@@ -11494,7 +11526,7 @@ Exclusive economic zone
     
     (3) [Section 17(2), (6)(b)(ii), (7), (9)(c)(ii), and (10)][36] do not apply.
     
-    Section 162AF: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AF: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AG Arrival of craft in EEZ
     
@@ -11504,7 +11536,7 @@ Exclusive economic zone
     
     (3) [Section 18(3)][37] applies as if ""or the EEZ"" appeared after ""New Zealand waters"".
     
-    Section 162AG: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AG: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AH Persons in charge of certain craft to obey directions of inspector or authorised person
     
@@ -11514,13 +11546,13 @@ Exclusive economic zone
     
     (3) [Section 19(2)(c)][38] applies as if ""cargo, crew, passengers, stores, or"" did not appear.
     
-    Section 162AH: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AH: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AI Boarding of craft
     
 *   [Section 31][70] applies as if paragraph (b) read ""any craft, used for the transportation of people or goods, or both, by sea, that is within the EEZ for the purposes of exploring or exploiting resources in the EEZ, or in preparation or support for such a purpose, after a voyage originating beyond the outer limits of the EEZ---"".
     
-    Section 162AI: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AI: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AJ Powers relating to craft
     
@@ -11530,7 +11562,7 @@ Exclusive economic zone
     
     (3) [Section 32(1)(b)][71] applies as if ""New Zealand territory"" read ""the EEZ, but only if there is no feasible alternative to managing the biosecurity risks posed by the craft and if the movement directed is only to the extent reasonably necessary to manage the biosecurity risks posed by the craft"".
     
-    Section 162AJ: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AJ: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AK Risk goods on board craft
     
@@ -11542,85 +11574,85 @@ Exclusive economic zone
     
     (4) [Section 33(2)(a)][72] applies as if ""or the EEZ"" appeared after ""New Zealand territory"".
     
-    Section 162AK: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AK: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AL Duty to provide information
     
 *   [Section 43(1)(a)][106] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AL: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AL: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AM General duty to inform
     
 *   [Section 44(1)][107] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AM: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AM: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AN Duty to report notifiable organisms
     
 *   [Section 46(1)(a)][109] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AN: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AN: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AO Second step: satisfaction on requirements
     
 *   [Section 62(d)][129] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AO: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AO: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AP Fourth step: approval of preparation of plan and decision on management agency
     
 *   [Section 64(6)(c)][131] applies as if ""or the EEZ"" appeared after ""New Zealand"" in all places.
     
-    Section 162AP: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AP: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AQ Second step: satisfaction on requirements
     
 *   [Section 82(d)][152] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AQ: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AQ: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AR Fourth step: approval of preparation of plan and decision on management agency
     
 *   [Section 84(6)(c)][154] applies as if ""or the EEZ"" appeared after ""New Zealand"" in all places.
     
-    Section 162AR: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AR: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AS Definitions for Part 5A
     
 *   [Section 100Y][204] applies as if ""New Zealand"" read ""the EEZ"".
     
-    Section 162AS: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AS: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AT Declaration of controlled area
     
 *   [Section 131(2)][260] applies as if ""(which may be the whole or any specified part or parts of New Zealand)"" read ""(which may be any specified part or parts of the EEZ)"".
     
-    Section 162AT: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AT: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AU Declaration of biosecurity emergency
     
 *   [Section 144(1)][304] applies as if ""or the EEZ"" appeared after ""New Zealand"" in all places.
     
-    Section 162AU: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AU: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AV Emergency powers
     
 *   [Section 145(2)][305] applies as if ""anywhere in New Zealand"" read ""anywhere in New Zealand or the EEZ"".
     
-    Section 162AV: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AV: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AW Provisional control action
     
 *   [Section 152(1)][312] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AW: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AW: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AX General provisions as to regulations
     
 *   [Section 166(1)][379] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AX: inserted, on 18 September 2012, by [section 73][709] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AX: inserted, on 18 September 2012, by [section 73][711] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ## Part 9  
 Miscellaneous provisions
@@ -11629,13 +11661,13 @@ Miscellaneous provisions
     
 *   (1) This section applies when---
         
-    *   (a) powers under this Act are exercised for the purpose of eradicating or managing an organism; and 
+    *   (a) powers under this Act are exercised for the purpose of eradicating or managing an organism; and
     
     *   (b) the powers are not exercised to implement a pest management plan or pathway management plan; and
     
     *   (c) the exercise of the powers causes loss to a person as a result of---
             
-        *   (i) damage to or destruction of the person's property; or 
+        *   (i) damage to or destruction of the person's property; or
         
         *   (ii) restrictions imposed under [Part 6][214] or [7][302] on the movement or disposal of the person's goods; and
         
@@ -11649,7 +11681,7 @@ Miscellaneous provisions
     
     *   (b) is loss that the person has been unable to mitigate by taking every step that is reasonable in the circumstances.
     
-    (3) Compensation must not be paid if--- 
+    (3) Compensation must not be paid if---
         
     *   (a) the person's loss relates to unauthorised goods or uncleared goods; or
     
@@ -11657,7 +11689,7 @@ Miscellaneous provisions
     
     *   (c) the person failed to comply with biosecurity law---
             
-        *   (i) in a serious or significant way; or 
+        *   (i) in a serious or significant way; or
         
         *   (ii) in a way that contributed to the presence of the organism; or
         
@@ -11665,7 +11697,7 @@ Miscellaneous provisions
         
         
     
-    (4) The amount of compensation paid must put the person to whom it is paid in no better or worse position than a person whose property or goods are not directly affected by the exercise of the powers. 
+    (4) The amount of compensation paid must put the person to whom it is paid in no better or worse position than a person whose property or goods are not directly affected by the exercise of the powers.
     
     (5) The period for making a claim for compensation after the date on which the loss suffered by the person ought reasonably to have been verifiable is---
         
@@ -11673,23 +11705,23 @@ Miscellaneous provisions
     
     *   (b) after 1 year from the date, if the person was unable to make a claim within 1 year because of circumstances beyond the person's control.
     
-    (6) If there is a dispute about eligibility for, or the amount of, compensation,--- 
+    (6) If there is a dispute about eligibility for, or the amount of, compensation,---
         
-    *   (a) the dispute must be submitted to arbitration; and 
+    *   (a) the dispute must be submitted to arbitration; and
     
     *   (b) the arbitration must be conducted under the [Arbitration Act 1996][554].
     
     (7) Compensation payable by a Minister or a chief executive is payable from money appropriated by Parliament for the purpose.
     
-    Section 162A: replaced, on 18 September 2012, by [section 74][714] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162A: replaced, on 18 September 2012, by [section 74][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 163 Protection of inspectors and others
     
 *   An inspector, authorised person, accredited person, or other person who does any act or omits to do any act in pursuance of any of the functions, powers, or duties conferred on that person by or under this Act or a pest management plan or a pathway management plan shall not be under any civil or criminal liability in respect of that act or omission, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
     
-    Compare: 1967 No 50 s 10; 1970 No 151 [s 23][715]; 1978 No 15 s 45; 1982 No 42 s 82
+    Compare: 1967 No 50 s 10; 1970 No 151 [s 23][717]; 1978 No 15 s 45; 1982 No 42 s 82
     
-    Section 163: amended, on 18 September 2012, by [section 75][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 163: amended, on 18 September 2012, by [section 75][718] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 164 Liability for goods
     
@@ -11765,15 +11797,15 @@ Miscellaneous provisions
     
     (3) Where a written notice is delivered in accordance with this section by post, the direction or requirement contained in the notice is deemed to be given or made at the time at which the notice would have been delivered in the ordinary course of the post in the absence of evidence to the contrary.
     
-    Section 164A: inserted, on 26 November 1997, by [section 107][717] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 164A: inserted, on 26 November 1997, by [section 107][719] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 164A(1)(a)(iv): amended, on 18 September 2012, by [section 76(1)][718] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(a)(iv): amended, on 18 September 2012, by [section 76(1)][720] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 164A(1)(b)(vi): amended, on 18 September 2012, by [section 76(2)][718] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(b)(vi): amended, on 18 September 2012, by [section 76(2)][720] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 164A(1)(c)(vi): amended, on 18 September 2012, by [section 76(3)][718] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(c)(vi): amended, on 18 September 2012, by [section 76(3)][720] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 164A(1)(d)(iv): amended, on 18 September 2012, by [section 76(4)][718] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(d)(iv): amended, on 18 September 2012, by [section 76(4)][720] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 164B Application of section 164A
     
@@ -11785,7 +11817,7 @@ Miscellaneous provisions
     
     *   (c) does not require any direction to be given or requirement to be made in accordance with that section.
     
-    Section 164B: inserted, on 26 November 1997, by [section 107][717] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 164B: inserted, on 26 November 1997, by [section 107][719] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 164C Registration of unwanted organisms
     
@@ -11797,7 +11829,7 @@ Miscellaneous provisions
     
     (4) Where a chief technical officer fails to notify the Director-General in accordance with this section, that failure does not invalidate the chief technical officer's belief that makes the organism an unwanted organism.
     
-    Section 164C: inserted, on 26 November 1997, by [section 108][719] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 164C: inserted, on 26 November 1997, by [section 108][721] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 164D Consultation about regulations
     
@@ -11805,7 +11837,7 @@ Miscellaneous provisions
     
     (2) The responsible Minister must consult the persons who the Minister has reason to believe are representative of interests likely to be substantially affected by the regulations, to the extent to which consultation is reasonably practicable having regard to the circumstances of the particular case.
     
-    Section 164D: inserted, on 18 September 2012, by [section 77][720] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164D: inserted, on 18 September 2012, by [section 77][722] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 165 Regulations
     
@@ -11813,7 +11845,7 @@ Miscellaneous provisions
     
     (1) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of [section 17(11)][36].
     
-    (2) The Governor-General may from time to time, by Order in Council, make regulations on any or all of the following matters relating to the giving of notice of goods' intended arrival in New Zealand: 
+    (2) The Governor-General may from time to time, by Order in Council, make regulations on any or all of the following matters relating to the giving of notice of goods' intended arrival in New Zealand:
         
     *   (a) requiring that the notice be given to the Director-General:
     
@@ -11849,7 +11881,7 @@ Miscellaneous provisions
             
         *   (i) an emergency or an urgent situation has arisen; and
         
-        *   (ii) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and 
+        *   (ii) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
         
         *   (iii) the earlier giving of the notice is necessary to avoid or mitigate the risk:
         
@@ -11993,7 +12025,7 @@ Miscellaneous provisions
     
     *   (g) specifying that an infringement offence is a border infringement offence if it is committed---
             
-        *   (i) in a biosecurity control area at a port approved under [section 37][77]; or 
+        *   (i) in a biosecurity control area at a port approved under [section 37][77]; or
         
         *   (ii) at a port approved under [section 37A][78]:
         
@@ -12033,7 +12065,7 @@ Miscellaneous provisions
     
     ###### Standards, permits, registrations, approvals, and exemptions
     
-    (20) The Governor-General may from time to time, by Order in Council, make regulations prescribing standards for places that are required to be designated, registered, or approved--- 
+    (20) The Governor-General may from time to time, by Order in Council, make regulations prescribing standards for places that are required to be designated, registered, or approved---
         
     *   (a) under this Act; or
     
@@ -12049,7 +12081,7 @@ Miscellaneous provisions
     
     *   (d) regulating their issue, transfer, amendment, suspension, revocation, cancellation, or withdrawal:
     
-    *   (e) requiring their holders to--- 
+    *   (e) requiring their holders to---
             
         *   (i) keep records; and
         
@@ -12077,13 +12109,13 @@ Miscellaneous provisions
     
     (24) The Governor-General may from time to time, by Order in Council, make regulations providing for matters that are contemplated by this Act or necessary to give it full effect or necessary for its administration.
     
-    Section 165: replaced, on 18 September 2012, by [section 78][721] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 165: replaced, on 18 September 2012, by [section 78][723] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 165A Regulations relating to definition of biosecurity-related border management function in section 41A
     
 *   The Governor-General may, by Order in Council, make regulations specifying any Act to be an Act for the purposes of the definition of _biosecurity-related border management function_ in [section 41A][93].
     
-    Section 165A: inserted, on 6 April 2012, by [section 5][722] of the Biosecurity Amendment Act 2012 (2012 No 26).
+    Section 165A: inserted, on 6 April 2012, by [section 5][724] of the Biosecurity Amendment Act 2012 (2012 No 26).
 
 ##### 166 General provisions as to regulations
     
@@ -12123,7 +12155,7 @@ Miscellaneous provisions
     
     Compare: 1967 No 50 s 107
     
-    Section 166(2): repealed, on 18 September 2012, by [section 79][723] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 166(2): repealed, on 18 September 2012, by [section 79][725] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 167 Repeals and revocations
     
@@ -12148,19 +12180,19 @@ Savings and transitional provisions
     
 *   \[Repealed\]
     
-    Section 169: repealed, on 29 July 1998, by [section 133][724] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 169: repealed, on 29 July 1998, by [section 133][726] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 170 Savings of Plants Act 1970 for limited administrative purposes
     
-*   Notwithstanding [section 167(1)][380] of this Act, the [Plants Act 1970][725] shall continue in full effect to the extent necessary for the proper administration of [sections 15][726], and [16][727] of that Act in relation to the export of plants.
+*   Notwithstanding [section 167(1)][380] of this Act, the [Plants Act 1970][727] shall continue in full effect to the extent necessary for the proper administration of [sections 15][728], and [16][729] of that Act in relation to the export of plants.
     
-    Section 170: amended, on 29 July 1998, by [section 134][728] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 170: amended, on 29 July 1998, by [section 134][730] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 171 Savings of Apiaries Act 1969 for limited administrative purposes
     
 *   \[Repealed\]
     
-    Section 171: repealed, on 1 November 1999, by [section 60(1)(a)][729] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 171: repealed, on 1 November 1999, by [section 60(1)(a)][731] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
 
 ##### 172 Transition of emergency proclamations
     
@@ -12174,7 +12206,7 @@ Savings and transitional provisions
 
 ##### 174 Transitional provision concerning inspectors, etc
     
-*   (1) Every person duly appointed and holding office as an inspector under the Ministry of Agriculture and Fisheries Act 1953, the Animals Act 1967, the Apiaries Act 1969, the Poultry Act 1968, or the [Plants Act 1970][725], at the close of 30 September 1993 shall be deemed to have been appointed an inspector under and for the purposes of this Act.
+*   (1) Every person duly appointed and holding office as an inspector under the Ministry of Agriculture and Fisheries Act 1953, the Animals Act 1967, the Apiaries Act 1969, the Poultry Act 1968, or the [Plants Act 1970][727], at the close of 30 September 1993 shall be deemed to have been appointed an inspector under and for the purposes of this Act.
     
     (2) Every person duly appointed and holding office as a noxious plants officer under the Noxious Plants Act 1978 at the close of 30 September 1993 shall be deemed to have been appointed an authorised person under [section 103(3)][218] by the principal officer by whom that inspector was then employed.
     
@@ -12198,7 +12230,7 @@ Savings and transitional provisions
     
     *   (c) any land defined or approved as a quarantine ground under section 24 of the Apiaries Act 1969; and
     
-    *   (d) any land declared to be a quarantine station under [section 4][730] of the Plants Act 1970\.
+    *   (d) any land declared to be a quarantine station under [section 4][732] of the Plants Act 1970\.
     
     
 
@@ -12206,7 +12238,7 @@ Savings and transitional provisions
     
 *   \[Repealed\]
     
-    Section 176: repealed, on 26 November 1997, by [section 115(2)][731] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 176: repealed, on 26 November 1997, by [section 115(2)][733] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 177 Transition of notices under section 13A of Animals Act 1967
     
@@ -12242,7 +12274,7 @@ Savings and transitional provisions
     
 *   \[Expired\]
     
-    Section 182: repealed, on 1 November 1999 (after expiring on 1 October 1998), by [section 60(1)(a)][729] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 182: repealed, on 1 November 1999 (after expiring on 1 October 1998), by [section 60(1)(a)][731] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
 
 ##### 183 Transitional control of hydatids
     
@@ -12330,7 +12362,7 @@ Savings and transitional provisions
             
         *   (i) the date after 1 July 1995 on which the Director-General approves the port under [section 37][77]; and
         
-        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][732] receives the Royal assent; and
+        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][734] receives the Royal assent; and
         
         
     
@@ -12338,11 +12370,11 @@ Savings and transitional provisions
             
         *   (i) the date after 25 May 1998 on which the Director-General approves the port under [section 37][77]; and
         
-        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][732] receives the Royal assent.
+        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][734] receives the Royal assent.
         
         
     
-    Section 184A: inserted, on 13 December 2005, by [section 4][733] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
+    Section 184A: inserted, on 13 December 2005, by [section 4][735] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
 
 ##### 185 Expiration of sections 179 to 183
     
@@ -12354,17 +12386,17 @@ Savings and transitional provisions
 
 ##### 185A Organisms illegally present in New Zealand at commencement of Hazardous Substances and New Organisms Act 1996
     
-*   (1) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], any organism is present in New Zealand in contravention of the Animals Act 1967 or the [Plants Act 1970][725], that organism is deemed to be uncleared goods for the purposes of this Act.
+*   (1) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], any organism is present in New Zealand in contravention of the Animals Act 1967 or the [Plants Act 1970][727], that organism is deemed to be uncleared goods for the purposes of this Act.
     
-    (2) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], a genetically modified organism is present in New Zealand and [section 257][734] of the Hazardous Substances and New Organisms Act 1996 does not apply to that organism, that organism is deemed to be uncleared goods for the purposes of this Act.
+    (2) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], a genetically modified organism is present in New Zealand and [section 257][736] of the Hazardous Substances and New Organisms Act 1996 does not apply to that organism, that organism is deemed to be uncleared goods for the purposes of this Act.
     
-    (3) Where [section 259][735] of the Hazardous Substances and New Organisms Act 1996 applies to a culture of micro-organisms and no application has been made in respect of that culture of micro-organisms within 1 year of the date of commencement of that Act, that culture of micro-organisms is, at the expiry of that year, deemed to be uncleared goods for the purposes of this Act.
+    (3) Where [section 259][737] of the Hazardous Substances and New Organisms Act 1996 applies to a culture of micro-organisms and no application has been made in respect of that culture of micro-organisms within 1 year of the date of commencement of that Act, that culture of micro-organisms is, at the expiry of that year, deemed to be uncleared goods for the purposes of this Act.
     
     (4) Nothing in this section applies to the organism known as rabbit haemorrhagic disease virus, or rabbit calicivirus.
     
-    Section 185A: added, on 29 July 1998, by [section 129][736] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 185A: added, on 29 July 1998, by [section 129][738] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 185A(4): added, on 29 July 1998, by [section 4][737] of the Biosecurity (Rabbit Calicivirus) Amendment Act 1998 (1998 No 12).
+    Section 185A(4): added, on 29 July 1998, by [section 4][739] of the Biosecurity (Rabbit Calicivirus) Amendment Act 1998 (1998 No 12).
 
 ---
 
@@ -12386,7 +12418,7 @@ Board of inquiry procedure
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 18 September 2012, by [section 80][738] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Schedule 2: repealed, on 18 September 2012, by [section 80][740] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ---
 
@@ -12469,7 +12501,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Plants Act 1970 (1970 No 151) (RS Vol 21, p 735)
 
-_Amendment(s) incorporated in the [Act(s)][725]._
+_Amendment(s) incorporated in the [Act(s)][727]._
 
 ##### Poultry Act 1968 (1968 No 13) (RS Vol 18, p 605)
 
@@ -12481,7 +12513,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][739]._
+_Amendment(s) incorporated in the [Act(s)][741]._
 
 ---
 
@@ -12504,11 +12536,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the[Act(s)][740]._
+_Amendment(s) incorporated in the[Act(s)][742]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][741]_.
+_Amendment(s) incorporated in the [Act(s)][743]_.
 
 ##### Meat Act 1981 (1981 No 56)
 
@@ -12516,11 +12548,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][742]._
+_Amendment(s) incorporated in the [Act(s)][744]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][743]._
+_Amendment(s) incorporated in the [Act(s)][745]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -12528,11 +12560,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][698]_.
+_Amendment(s) incorporated in the [Act(s)][700]_.
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][744]._
+_Amendment(s) incorporated in the [Act(s)][746]._
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
@@ -12540,7 +12572,7 @@ _Amendment(s) incorporated in the [Act(s)][443]._
 
 ##### Wildlife Act 1953 (1953 No 31) (RS Vol 7, p 819)
 
-_Amendment(s) incorporated in the [Act(s)][745]._
+_Amendment(s) incorporated in the [Act(s)][747]._
 
 ---
 
@@ -12625,7 +12657,7 @@ Regulations and orders continuing in force
 
 \[Spent\]
     
-*   Schedule 7: spent, on 29 July 1998, pursuant to [section 136(c)][746] of the Biosecurity Amendment Act 1997 (1997 No 89).
+*   Schedule 7: spent, on 29 July 1998, pursuant to [section 136(c)][748] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ---
 
@@ -12689,7 +12721,7 @@ Designated as approved, or approved, ports
 
 [s 184A][399]
 
-*   Schedule 9: added, on 13 December 2005, by [section 5][747] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
+*   Schedule 9: added, on 13 December 2005, by [section 5][749] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
 
 ## Part A
 
@@ -12815,7 +12847,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Biosecurity Law Reform Act 2012][748].
+*   This Act is the [Biosecurity Law Reform Act 2012][750].
 
 ##### 2 Commencement
     
@@ -12880,7 +12912,7 @@ Amendments to Biosecurity Act 1993
     
     (8) Subsections (9) to (12) apply when section 88 requires that a national pest management strategy or a regional pest management strategy that is in force on the day on which this section commences be reviewed in the period starting with the date on which this section commences (which is a fixed date) and ending with the date on which the Minister or council makes a determination under section 100E(3) (which is not a fixed date).
     
-    (9) The Minister or council must choose whether to conduct the review or to wait to see whether the determination under section 100E(3) requires a review under section 100E(5). 
+    (9) The Minister or council must choose whether to conduct the review or to wait to see whether the determination under section 100E(3) requires a review under section 100E(5).
     
     (10) If the Minister or council chooses to conduct the review, the review must be conducted under section 100D, which applies with all necessary modifications.
     
@@ -12896,7 +12928,7 @@ Amendments to Biosecurity Act 1993
     
     ###### Process for existing proposals
     
-    (16) Subsection (17) applies if, on the day on which this section commences, the Minister has not yet acted under section 68 on a proposal notified under section 62 or a council has not yet acted under section 79B on a proposal notified under section 78\. 
+    (16) Subsection (17) applies if, on the day on which this section commences, the Minister has not yet acted under section 68 on a proposal notified under section 62 or a council has not yet acted under section 79B on a proposal notified under section 78\.
     
     (17) Part 5 applies with the modification that, for all plans, the first, second, and third steps are deemed to have been taken.
     
@@ -12914,17 +12946,17 @@ Amendments to Biosecurity Act 1993
     
     (21) Section 69(5) of the principal Act as substituted by section 39 of this Act, has no effect for a particular regional pest management plan until---
         
-    *   (a) the national policy direction has been approved by the Governor-General under section 57 of the principal Act as substituted by section 39 of this Act; and 
+    *   (a) the national policy direction has been approved by the Governor-General under section 57 of the principal Act as substituted by section 39 of this Act; and
     
     *   (b) the plan---
             
-        *   (i) has been the subject of a determination by the council under section 100E(3); and 
+        *   (i) has been the subject of a determination by the council under section 100E(3); and
         
         *   (ii) if the determination was that the plan was inconsistent with the direction, has been amended under section 100E(4) or following a review under section 100E(5); and
         
         
     
-    *   (c) either--- 
+    *   (c) either---
             
         *   (i) the time in section 76(5) of the principal Act as substituted by section 39 of this Act, has ended with no application to the Environment Court having been made; or
         
@@ -12971,81 +13003,11 @@ Related amendments to other enactments
     
     *   (c) exists on the day on which this section commences.
     
-    (5) A permission continues in force according to its tenor. 
+    (5) A permission continues in force according to its tenor.
     
     (6) A reference in a permission to the Director-General of Conservation or to any other office or officer of the Department of Conservation or to the Minister of Conservation is deemed to be a reference to the Director-General as defined in the Biosecurity Act 1993\.
     
     (7) The Director-General, as defined in the Biosecurity Act 1993, may exercise any or all of the powers under the Wild Animal Control Act 1977 to amend, suspend, revoke, or renew a permission.
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][749].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][750] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ---
 
@@ -13063,7 +13025,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Biosecurity Act 1993\. The reprint incorporates all the amendments to the Act as at 28 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Biosecurity Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][751] ![](/images/external_link.gif).
 
@@ -13118,6 +13080,8 @@ Amendments, repeals, and miscellaneous provisions
     
     Search and Surveillance Act 2012 (2012 No 24): [section 203][597]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][688]
+    
     Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][424]
     
     New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][661]
@@ -13132,7 +13096,7 @@ Amendments, repeals, and miscellaneous provisions
     
     [Biosecurity Amendment Act 2007][761] (2007 No 41)
     
-    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 31][704]
+    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 31][706]
     
     [Biosecurity (Status of Specified Ports) Amendment Act 2005][762] (2005 No 124)
     
@@ -13150,7 +13114,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Animal Welfare Act 1999 (1999 No 142): [section 194][457]
     
-    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 60(1)(a)][729]
+    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 60(1)(a)][731]
     
     [Biosecurity Amendment Act 1999][766] (1999 No 29)
     
@@ -13870,69 +13834,69 @@ Amendments, repeals, and miscellaneous provisions
 [685]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM87622
 [686]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417004
 [687]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417005
-[688]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388482
-[689]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307015
-[690]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23930
-[691]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842249
-[692]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310742
-[693]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311346
-[694]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307016
-[695]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388483
-[696]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311371
-[697]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311858
-[698]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310749
-[699]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314098
-[700]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314068
-[701]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23931
-[702]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307017
-[703]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388485
-[704]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM372294
-[705]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842250
-[706]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417009
-[707]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388487
-[708]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311191
-[709]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388488
-[710]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM442682
-[711]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394191
-[712]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394199
-[713]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM25116
-[714]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388518
-[715]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397258
-[716]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388520
-[717]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417014
-[718]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4486522
-[719]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417017
-[720]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388521
-[721]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388523
-[722]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4330644
-[723]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388525
-[724]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417050
-[725]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM396887
-[726]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397238
-[727]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397240
-[728]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417051
-[729]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM37285
-[730]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397204
-[731]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417028
-[732]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363493
-[733]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363800
-[734]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385740
-[735]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385746
-[736]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417046
-[737]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM424999
-[738]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388526
-[739]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM17275
-[740]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM98974
-[741]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416488
-[742]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM431296
-[743]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM160808
-[744]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM146581
-[745]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM276819
-[746]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417053
-[747]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363802
-[748]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388102
-[749]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136500
-[750]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4686448
+[688]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360714
+[689]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388482
+[690]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307015
+[691]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23930
+[692]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842249
+[693]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360057
+[694]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311346
+[695]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307016
+[696]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388483
+[697]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310742
+[698]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311371
+[699]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311858
+[700]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310749
+[701]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314098
+[702]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314068
+[703]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23931
+[704]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307017
+[705]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388485
+[706]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM372294
+[707]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842250
+[708]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417009
+[709]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388487
+[710]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360067
+[711]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388488
+[712]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM442682
+[713]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394191
+[714]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394199
+[715]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM25116
+[716]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388518
+[717]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397258
+[718]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388520
+[719]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417014
+[720]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4486522
+[721]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417017
+[722]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388521
+[723]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388523
+[724]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4330644
+[725]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388525
+[726]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417050
+[727]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM396887
+[728]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397238
+[729]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397240
+[730]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417051
+[731]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM37285
+[732]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397204
+[733]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417028
+[734]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363493
+[735]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363800
+[736]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385740
+[737]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385746
+[738]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417046
+[739]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM424999
+[740]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388526
+[741]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM17275
+[742]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM98974
+[743]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416488
+[744]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM431296
+[745]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM160808
+[746]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM146581
+[747]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM276819
+[748]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417053
+[749]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363802
+[750]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388102
 [751]: http://www.pco.parliament.govt.nz/reprints/
 [752]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM195439
 [753]: http://www.pco.parliament.govt.nz/editorial-conventions/
