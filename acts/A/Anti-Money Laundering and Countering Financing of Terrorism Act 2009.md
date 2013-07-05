@@ -1,5 +1,5 @@
 Reprint  
-as at 30 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -55,7 +55,7 @@ This Act is administered by the Ministry of Justice.
 
 [12][15][][15][Reliance on risk assessment when establishing level of risk][15]
 
-[13][16][][16][Basis for verifying identity ][16]
+[13][16][][16][Basis for verifying identity][16]
 
 [Standard customer due diligence][17]
 
@@ -284,7 +284,7 @@ This Act is administered by the Ministry of Justice.
 
 [101][129][][129][Structuring transaction to avoid application of AML/CFT requirements][129]
 
-[102][130][][130][Offence to obstruct AML/CFT supervisor ][130]
+[102][130][][130][Offence to obstruct AML/CFT supervisor][130]
 
 [103][131][][131][Offence to provide false or misleading information to AML/CFT supervisor][131]
 
@@ -383,7 +383,7 @@ This Act is administered by the Ministry of Justice.
 
 [138][177][][177][Restriction on power to use information under section 137][177]
 
-[139][178][][178][Power to disclose information supplied or obtained as AML/CFT supervisor ][178]
+[139][178][][178][Power to disclose information supplied or obtained as AML/CFT supervisor][178]
 
 [140][179][][179][Power to use and disclose information supplied or obtained under other enactments for AML/CFT purposes][179]
 
@@ -421,7 +421,7 @@ This Act is administered by the Ministry of Justice.
 
 [153][196][][196][Regulations][196]
 
-[154][197][][197][Regulations relating to application of Act ][197]
+[154][197][][197][Regulations relating to application of Act][197]
 
 [155][198][][198][Regulations relating to countermeasures][198]
 
@@ -447,10 +447,10 @@ This Act is administered by the Ministry of Justice.
 
 [163][209][][209][Amendment to Financial Transactions Reporting Act 1996 relating to cross-border transportation of cash][209]
 
-[Schedule 1 ][210]  
+[Schedule 1][210]  
 [Transitional and savings provisions][210]
 
-[Schedule 2 ][211]  
+[Schedule 2][211]  
 [Consequential amendments][211]
 
 ---
@@ -463,9 +463,9 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 2 Commencement
     
-*   (1) [Parts 1][3] and [4][165] (except [section 162][208]) come into force on the day after the date that this Act receives the Royal assent. 
+*   (1) [Parts 1][3] and [4][165] (except [section 162][208]) come into force on the day after the date that this Act receives the Royal assent.
     
-    (2) [Sections 68 to 71][82], [106 to 115][135], and [163][209] come into force 12 months after the date on which this Act receives the Royal assent. 
+    (2) [Sections 68 to 71][82], [106 to 115][135], and [163][209] come into force 12 months after the date on which this Act receives the Royal assent.
     
     (3) Except as provided in subsection (5), the rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
@@ -496,9 +496,9 @@ Preliminary provisions
 
 ##### 4 Overview
     
-*   (1) This section is a guide to the general scheme and effect of this Act, but does not affect the interpretation or application of the other provisions of the Act. 
+*   (1) This section is a guide to the general scheme and effect of this Act, but does not affect the interpretation or application of the other provisions of the Act.
     
-    (2) [Part 1][3] deals with preliminary matters such as definitions of terms used in the Act. It sets out the purpose of the Act and the extent to which it applies to reporting entities. 
+    (2) [Part 1][3] deals with preliminary matters such as definitions of terms used in the Act. It sets out the purpose of the Act and the extent to which it applies to reporting entities.
     
     (3) [Part 2][10] deals with AML/CFT requirements and compliance and has 6 subparts, as follows:
         
@@ -518,7 +518,7 @@ Preliminary provisions
     
     (5) [Part 4][165] deals with institutional arrangements and miscellaneous matters and has 2 subparts, as follows:
         
-    *   (a) [subpart 1][166] includes provisions that identify the AML/CFT supervisors and their functions, powers, and ability to delegate supervisory functions; the financial intelligence functions of the Commissioner of Police and a requirement on that person to issue guidelines relating to suspicious transaction reports; the roles and responsibilities of the Ministry, the AML/CFT co-ordination committee required to be established by the chief executive of the Ministry, and other agencies concerning monitoring, evaluating, and advising on the operation of the AML/CFT regulatory system: 
+    *   (a) [subpart 1][166] includes provisions that identify the AML/CFT supervisors and their functions, powers, and ability to delegate supervisory functions; the financial intelligence functions of the Commissioner of Police and a requirement on that person to issue guidelines relating to suspicious transaction reports; the roles and responsibilities of the Ministry, the AML/CFT co-ordination committee required to be established by the chief executive of the Ministry, and other agencies concerning monitoring, evaluating, and advising on the operation of the AML/CFT regulatory system:
     
     *   (b) [subpart 2][194] includes regulation-making powers and provisions relating to the Minister's power to grant exemptions from the requirements of the Act.
     
@@ -564,7 +564,7 @@ Preliminary provisions
     
     *   (b) owns a prescribed threshold of the customer or person on whose behalf a transaction is conducted
     
-    _beneficiary institution_, in relation to a wire transfer from an ordering institution, means any person who receives those funds and then makes those funds available to a person (the **payee**) by---
+    _beneficiary institution_, in relation to a wire transfer from an ordering institution, means any person who receives those funds and then makes those funds available to a person (the _payee_) by---
         
     *   (a) crediting it to an account held by the payee; or
     
@@ -578,7 +578,7 @@ Preliminary provisions
     
     *   (b) bearer-negotiable instruments
     
-    _cash report_ means a report made under [subpart 6 of Part 2][81]
+    _cash report_ means a report made under [subpart 6][81] of Part 2
     
     _casino_ means the holder of a casino operator's licence under the [Gambling Act 2003][213]
     
@@ -802,7 +802,7 @@ Preliminary provisions
     
     _ordering institution_---
         
-    *   (a) means any person who has been instructed by a person (the **payer**) to electronically transfer funds controlled by the payer to a person (the **payee**) who may or may not be the payer on the basis that the transferred funds will be made available to the payee by a beneficiary institution; and
+    *   (a) means any person who has been instructed by a person (the _payer_) to electronically transfer funds controlled by the payer to a person (the _payee_) who may or may not be the payer on the basis that the transferred funds will be made available to the payee by a beneficiary institution; and
     
     *   (b) includes a person declared by regulations to be an ordering institution for the purposes of this Act; but
     
@@ -856,7 +856,7 @@ Preliminary provisions
         
         
     
-    _registered bank_ has the same meaning as in [section 2(1)][233] of the Reserve Bank of New Zealand Act 1989 
+    _registered bank_ has the same meaning as in [section 2(1)][233] of the Reserve Bank of New Zealand Act 1989
     
     _regulations_ means regulations made under this Act
     
@@ -1025,15 +1025,15 @@ AML/CFT requirements and compliance
     
     *   (c) in the circumstances described in [section 22][28], enhanced customer due diligence.
     
-    (4) A reporting entity that is required to conduct customer due diligence in the circumstances described in [sections 14][18], [18][23], and [22][28] is not required to obtain or verify any documents, data, or information that it has previously obtained and verified for the purposes of carrying out customer due diligence in accordance with this Act, unless there are reasonable grounds for the reporting entity to doubt the adequacy or veracity of the documents, data, or information previously obtained. 
+    (4) A reporting entity that is required to conduct customer due diligence in the circumstances described in [sections 14][18], [18][23], and [22][28] is not required to obtain or verify any documents, data, or information that it has previously obtained and verified for the purposes of carrying out customer due diligence in accordance with this Act, unless there are reasonable grounds for the reporting entity to doubt the adequacy or veracity of the documents, data, or information previously obtained.
     
-    (5) Nothing in subsection (4) affects the obligation to conduct ongoing customer due diligence in accordance with [section 31][38]. 
+    (5) Nothing in subsection (4) affects the obligation to conduct ongoing customer due diligence in accordance with [section 31][38].
 
 ##### 12 Reliance on risk assessment when establishing level of risk
     
 *   When establishing the level of risk involved for the purposes of this subpart, a reporting entity must rely on its AML/CFT programme and its risk assessment undertaken in accordance with [section 58][70].
 
-##### 13 Basis for verifying identity 
+##### 13 Basis for verifying identity
     
 *   Verification of identity must be done on---
         
@@ -1053,7 +1053,7 @@ AML/CFT requirements and compliance
     
     *   (b) if a customer seeks to conduct an occasional transaction through the reporting entity:
     
-    *   (c) if, in relation to an existing customer, and according to the level of risk involved,--- 
+    *   (c) if, in relation to an existing customer, and according to the level of risk involved,---
             
         *   (i) there has been a material change in the nature or purpose of the business relationship; and
         
@@ -1121,7 +1121,7 @@ AML/CFT requirements and compliance
 
 ##### 18 Circumstances when simplified customer due diligence applies
     
-*   (1) A reporting entity may conduct simplified customer due diligence if--- 
+*   (1) A reporting entity may conduct simplified customer due diligence if---
         
     *   (a) it establishes a business relationship with one of the customers specified in subsection (2); or
     
@@ -1187,7 +1187,7 @@ AML/CFT requirements and compliance
             
         *   (i) a trust or another vehicle for holding personal assets:
         
-        *   (ii) a non-resident customer from a country that has insufficient anti-money laundering and countering financing of terrorism systems or measures in place: 
+        *   (ii) a non-resident customer from a country that has insufficient anti-money laundering and countering financing of terrorism systems or measures in place:
         
         *   (iii) a company with nominee shareholders or shares in bearer form:
         
@@ -1197,7 +1197,7 @@ AML/CFT requirements and compliance
             
         *   (i) a trust or another vehicle for holding personal assets:
         
-        *   (ii) a non-resident customer from a country that has insufficient anti-money laundering and countering financing of terrorism systems or measures in place: 
+        *   (ii) a non-resident customer from a country that has insufficient anti-money laundering and countering financing of terrorism systems or measures in place:
         
         *   (iii) a company with nominee shareholders or shares in bearer form:
         
@@ -1349,7 +1349,7 @@ AML/CFT requirements and compliance
     
     *   (g) meet any other requirements prescribed by regulations and that apply to correspondent banking relationships.
     
-    (3) For the purposes of this Act, a _correspondent banking relationship_ means a relationship that involves the provision of banking services by a financial institution (the **correspondent**) to another financial institution (the **respondent**) if---
+    (3) For the purposes of this Act, a _correspondent banking relationship_ means a relationship that involves the provision of banking services by a financial institution (the _correspondent_) to another financial institution (the _respondent_) if---
         
     *   (a) the correspondent carries on an activity or business at or through a permanent establishment of the correspondent in a particular country; and
     
@@ -1405,7 +1405,7 @@ AML/CFT requirements and compliance
 
 ##### 32 Reliance on member of designated business group
     
-*   (1) A reporting entity (_member A_) that is a member of a designated business group may--- 
+*   (1) A reporting entity (_member A_) that is a member of a designated business group may---
         
     *   (a) rely on another member of the group (_member B_) to conduct any customer due diligence procedures required for customer due diligence under this Act or regulations as long as---
             
@@ -1483,7 +1483,7 @@ AML/CFT requirements and compliance
     
     (5) A reporting entity may use or disclose information to which this section applies only as follows:
         
-    *   (a) it may use identity and verification information received for the purposes of [section 32(1)(a)][40] in a suspicious transactions report: 
+    *   (a) it may use identity and verification information received for the purposes of [section 32(1)(a)][40] in a suspicious transactions report:
     
     *   (b) it may disclose information for the purposes of [section 32(1)(b)][40] to another member of the designated business group unless such disclosure is likely to result in a suspicious transaction report being filed in an overseas jurisdiction by the member to whom the information is disclosed.
     
@@ -1985,7 +1985,7 @@ AML/CFT requirements and compliance
 
 ##### 58 Risk assessment
     
-*   (1) Before conducting customer due diligence or establishing an AML/CFT programme, a reporting entity must first undertake an assessment of the risk of money laundering and the financing of terrorism (a _risk assessment_) that it may reasonably expect to face in the course of its business. 
+*   (1) Before conducting customer due diligence or establishing an AML/CFT programme, a reporting entity must first undertake an assessment of the risk of money laundering and the financing of terrorism (a _risk assessment_) that it may reasonably expect to face in the course of its business.
     
     (2) In assessing the risk, the reporting entity must have regard to the following:
         
@@ -2027,7 +2027,7 @@ AML/CFT requirements and compliance
     
     (2) A reporting entity must ensure its risk assessment and AML/CFT programme are audited every 2 years or at any other time at the request of the relevant AML/CFT supervisor.
     
-    (3) The audit must be carried out by an independent person appointed by the reporting entity who is appropriately qualified to conduct the audit. 
+    (3) The audit must be carried out by an independent person appointed by the reporting entity who is appropriately qualified to conduct the audit.
     
     (4) A person appointed to conduct an audit is not required to be---
         
@@ -2079,7 +2079,7 @@ AML/CFT requirements and compliance
 
 ##### 62 Interpretation
     
-*   In this Part, unless the context otherwise requires,--- 
+*   In this Part, unless the context otherwise requires,---
     
     _code of practice_ means a code of practice approved by the responsible Minister under [section 64][77], as amended from time to time
     
@@ -2139,7 +2139,7 @@ AML/CFT requirements and compliance
     
     *   (c) approve the proposed code of practice as amended by the Minister after consultation with the AML/CFT supervisor.
     
-    (6) The responsible Minister approves a code of practice by notice in the _Gazette_, and the notice--- 
+    (6) The responsible Minister approves a code of practice by notice in the _Gazette_, and the notice---
         
     *   (a) must either set out the code of practice or state where copies of the code of practice in hard copy or electronic format may be obtained or viewed:
     
@@ -2296,7 +2296,7 @@ Enforcement
 
 ##### 76 Protection for AML/CFT supervisors
     
-*   No civil or criminal proceedings may be brought against an AML/CFT supervisor or a person who is or has been an officer, employee, member of, or member of the board of, an AML/CFT supervisor for anything done or omitted to be done in the course of the performance or exercise of the AML/CFT supervisor's functions or powers under this Act unless it is shown that the AML/CFT supervisor or the person concerned acted in bad faith. 
+*   No civil or criminal proceedings may be brought against an AML/CFT supervisor or a person who is or has been an officer, employee, member of, or member of the board of, an AML/CFT supervisor for anything done or omitted to be done in the course of the performance or exercise of the AML/CFT supervisor's functions or powers under this Act unless it is shown that the AML/CFT supervisor or the person concerned acted in bad faith.
 
 ##### 77 Protection for reporting entities, officers, etc, acting in compliance with this Act
     
@@ -2616,7 +2616,9 @@ Enforcement
 
 ##### 99 Time limit for prosecution of offences relating to civil liability act and suspicious transaction reports
     
-*   Despite anything in [section 14][278] of the Summary Proceedings Act 1957, any information in respect of an offence under any of [sections 91 to 97][117] may be laid at any time within 3 years after the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][278] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of [sections 91 to 97][117] of this Act ends on the date that is 3 years after the date on which the offence was committed.
+    
+    Section 99: replaced, on 1 July 2013, by [section 413][279] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Penalties
     
@@ -2640,7 +2642,7 @@ Enforcement
     
 *   A person commits an offence if the person structures a transaction (other than a transaction that involves the cross-border transportation of cash) to avoid the application of any AML/CFT requirements.
 
-##### 102 Offence to obstruct AML/CFT supervisor 
+##### 102 Offence to obstruct AML/CFT supervisor
     
 *   A person commits an offence if the person wilfully obstructs any AML/CFT supervisor in the exercise of any power conferred or the performance of any function imposed on that supervisor by this Act.
 
@@ -2650,9 +2652,9 @@ Enforcement
 
 ##### 104 Time limit for prosecution of offences relating to non-compliance with AML/CFT requirements
     
-*   Despite anything in [section 14][278] of the Summary Proceedings Act 1957, any information in respect of an offence under any of [sections 101 to 103][129] may be laid at any time within 3 years after the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][278] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of [sections 101 to 103][129] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    Section 104: amended, on 12 December 2012, by [section 7][279] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
+    Section 104: replaced, on 1 July 2013, by [section 413][279] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 105 Penalties
     
@@ -2722,7 +2724,7 @@ Enforcement
 
 ##### 112 Penalties
     
-*   A person who commits an offence under any of [sections 106][135], [107][136], [108][137], [110][139], and [111][140] is liable, on summary conviction, to,---
+*   A person who commits an offence under any of [sections 106][135], [107][136], [108][137], [110][139], and [111][140] is liable, on conviction, to,---
         
     *   (a) in the case of an individual, either or both of the following:
             
@@ -2734,17 +2736,19 @@ Enforcement
     
     *   (b) in the case of a body corporate, a fine of up to $50,000\.
     
-    
+    Section 112: amended, on 1 July 2013, by [section 413][279] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Chief executive of New Zealand Customs Service may deal with cash reporting offences
     
 *   (1) This section applies if, in any case to which [section 106][135] or [107][136] applies, a person admits in writing that he or she has committed the offence and requests that the offence be dealt with summarily by the chief executive of the New Zealand Customs Service.
     
-    (2) If this section applies, the chief executive of the New Zealand Customs Service may, at any time before an information has been laid in respect of the offence, accept from that person a sum, not exceeding $500, that the chief executive of the New Zealand Customs Service thinks just in the circumstances of the case, in full satisfaction of any fine to which the person would otherwise be liable under [section 112][141].
+    (2) If this section applies, the chief executive of the New Zealand Customs Service may, at any time before a charging document has been filed in respect of the offence, accept from that person a sum, not exceeding $500, that the chief executive of the New Zealand Customs Service thinks just in the circumstances of the case, in full satisfaction of any fine to which the person would otherwise be liable under [section 112][141].
     
     (3) If the chief executive of the New Zealand Customs Service accepts any sum under this section, the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
     
     Compare: 1996 No 9 [s 41][281]
+    
+    Section 113(2): amended, on 1 July 2013, by [section 413][279] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Relationship with Customs and Excise Act 1996
 
@@ -3025,7 +3029,7 @@ Institutional arrangements and miscellaneous provisions
     
 *   (1) The AML/CFT supervisors are as follows:
         
-    *   (a) for banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (**Reserve Bank**) is the relevant AML/CFT supervisor:
+    *   (a) for banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (_Reserve Bank_) is the relevant AML/CFT supervisor:
     
     *   (b) for issuers of securities, trustee companies, futures dealers, collective investment schemes, brokers, and financial advisers, the Financial Markets Authority is the relevant AML/CFT supervisor:
     
@@ -3191,9 +3195,9 @@ Institutional arrangements and miscellaneous provisions
 
 ##### 138 Restriction on power to use information under section 137
     
-*   An AML/CFT supervisor may only use information obtained under [section 137][176] if the person providing the information was advised of the purpose or purposes for which the information was obtained at the time he or she provided that information. 
+*   An AML/CFT supervisor may only use information obtained under [section 137][176] if the person providing the information was advised of the purpose or purposes for which the information was obtained at the time he or she provided that information.
 
-##### 139 Power to disclose information supplied or obtained as AML/CFT supervisor 
+##### 139 Power to disclose information supplied or obtained as AML/CFT supervisor
     
 *   The Commissioner, the New Zealand Customs Service, or an AML/CFT supervisor may disclose any information (that is not personal information) supplied or obtained by it in the exercise of its powers or the performance of its functions and duties under this Act to any government agency for law enforcement purposes if it is satisfied that the agency has a proper interest in receiving such information.
 
@@ -3399,7 +3403,7 @@ Institutional arrangements and miscellaneous provisions
         
     *   (a) a representative from the Ministry; and
     
-    *   (b) a representative from the New Zealand Customs Service; and 
+    *   (b) a representative from the New Zealand Customs Service; and
     
     *   (c) every AML/CFT supervisor; and
     
@@ -3479,7 +3483,7 @@ Institutional arrangements and miscellaneous provisions
     
     Compare: 1996 No 9 [s 56][314]
 
-##### 154 Regulations relating to application of Act 
+##### 154 Regulations relating to application of Act
     
 *   (1) The Governor-General may, by Order in Council on the recommendation of the Minister, make regulations for the following purposes:
         
@@ -3533,7 +3537,7 @@ Institutional arrangements and miscellaneous provisions
     
     (4) Failure to comply with subsection (3) does not affect the validity of any regulations made under this section.
     
-    (5) Any regulations made under this section expire on the day that is 5 years after the date on which regulations come into force. 
+    (5) Any regulations made under this section expire on the day that is 5 years after the date on which regulations come into force.
     
     Section 154(1)(k): amended, on 12 December 2012, by [section 8][315] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
 
@@ -3557,7 +3561,7 @@ Institutional arrangements and miscellaneous provisions
     
     (3) The Governor-General may, by Order in Council, declare a country outside New Zealand to be a prescribed overseas country for the purposes of this section.
     
-    (4) Any regulations made under subsection (1) expire on the day that is 5 years after the date on which regulations come into force. 
+    (4) Any regulations made under subsection (1) expire on the day that is 5 years after the date on which regulations come into force.
     
     Compare: Anti-Money Laundering and Counter-Terrorism Financing Act 2006 s 102 (Aust)
 
@@ -3621,7 +3625,7 @@ Institutional arrangements and miscellaneous provisions
     
     (2) The exemption---
         
-    *   (a) must be granted for a period specified by the Minister but that period must not be more than 5 years; and 
+    *   (a) must be granted for a period specified by the Minister but that period must not be more than 5 years; and
     
     *   (b) may, at any time, be varied or revoked by the Minister.
     
@@ -3653,7 +3657,7 @@ Institutional arrangements and miscellaneous provisions
 
 ---
 
-## Schedule 1   
+## Schedule 1  
 Transitional and savings provisions
 
 [s 160][205]
@@ -3684,10 +3688,10 @@ Transitional and savings provisions
 
 ---
 
-## Schedule 2   
+## Schedule 2  
 Consequential amendments
 
-s 161
+[s 161][207]
 
 ## Part 1  
 Amendments to Financial Transactions Reporting Act 1996 relating to cross-border transportation of cash
@@ -3862,7 +3866,7 @@ Regulations revoked
 
 ###### 1 General
     
-*   This is a reprint of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009\. The reprint incorporates all the amendments to the Act as at 30 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][331] ![](/images/external_link.gif).
 
@@ -3874,7 +3878,7 @@ Regulations revoked
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][333] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][333] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
@@ -3912,6 +3916,8 @@ Regulations revoked
 *   [Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012][336] (2012 No 98)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 201][296]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][279]
     
     [Anti-Money Laundering and Countering Financing of Terrorism Act Commencement Order 2011][337] (SR 2011/221)
     
@@ -4201,8 +4207,8 @@ Regulations revoked
 [275]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374118
 [276]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989304
 [277]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374121
-[278]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM311191
-[279]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989305
+[278]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3360067
+[279]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3360714
 [280]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374157
 [281]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374160
 [282]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM377336
