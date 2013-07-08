@@ -1,5 +1,5 @@
 Reprint  
-as at 29 April 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -212,67 +212,65 @@ An Act to consolidate and reform the law relating to juries
     
     _prison_ has the same meaning as in [section 3(1)][71] of the Corrections Act 2004
     
-    _probation officer_ has the same meaning as in [section 2(1)][72] of the Criminal Justice Act 1985
-    
     _protected particulars_, in relation to a person named on a jury list and on a panel, means the jury list information about the person that is not panel information about the person
     
     _public prosecution_ means criminal proceedings against a defendant for an offence and commenced by or on behalf of---
         
     *   (a) the Crown (including, without limitation, by a person who is, and is acting in his or her capacity as, a Crown solicitor, an employee or officer of a government department, or a Police employee); or
     
-    *   (b) a Crown entity within the meaning of [section 7][73] of the Crown Entities Act 2004; or
+    *   (b) a Crown entity within the meaning of [section 7][72] of the Crown Entities Act 2004; or
     
     *   (c) a statutory public body or board (including, without limitation, a local authority)
     
     _Registrar_ means a Registrar of the High Court; and includes a Deputy Registrar of that court; and, in relation to a jury district constituted under [section 5(2)][6], means the Registrar and a Deputy Registrar of the District Court in that district
     
-    _traffic officer_ means an enforcement officer under the [Land Transport Act 1998][74]
+    _traffic officer_ means an enforcement officer under the [Land Transport Act 1998][73]
     
     _trial_ includes, in civil cases, an inquiry or assessment of damages
     
     _view_ means a visual inspection by jurors of any place or premises, a view of which is considered by the court to be proper or necessary for the better understanding of the evidence that may be given at the trial before the jurors, or material to the proper determination of the question in dispute.
     
-    Compare: 1908 No 90 s 2; 1951 No 39 s 2(2); 1961 No 43 [s 411(1)][75]; 1962 No 35 s 2(2)
+    Compare: 1908 No 90 s 2; 1951 No 39 s 2(2); 1961 No 43 [s 411(1)][74]; 1962 No 35 s 2(2)
     
-    Section 2 **chief executive**: inserted, on 30 July 2000, by [section 3(1)][76] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 2 **chief executive**: inserted, on 30 July 2000, by [section 3(1)][75] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 2 **chief executive**: amended, on 1 October 2003, pursuant to [section 14(1)][77] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 2 **chief executive**: amended, on 1 October 2003, pursuant to [section 14(1)][76] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 2 **Chief Registrar of Electors**: repealed, on 1 July 2012, by [section 57(2)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 2 **Chief Registrar of Electors**: repealed, on 1 July 2012, by [section 57(2)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 2 **disability**: inserted, on 10 September 2008, by [section 5(3)][79] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 2 **disability**: inserted, on 10 September 2008, by [section 5(3)][78] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 2 **Electoral Commission**: inserted, on 1 July 2012, by [section 57(3)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 2 **Electoral Commission**: inserted, on 1 July 2012, by [section 57(3)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 2 **general electoral district** and **Maori electoral district**: repealed, on 30 July 2000, by [section 3(2)][76] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 2 **general electoral district** and **Maori electoral district**: repealed, on 30 July 2000, by [section 3(2)][75] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 2 **intellectual disability**: inserted, on 1 September 2004, by [section 51][80] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 2 **intellectual disability**: inserted, on 1 September 2004, by [section 51][79] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 2 **jury list information**: inserted, on 29 April 2013, by [section 15][81] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 2 **jury list information**: inserted, on 29 April 2013, by [section 15][80] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 2 **litigant in person**: inserted, on 29 April 2013, by [section 15][81] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 2 **litigant in person**: inserted, on 29 April 2013, by [section 15][80] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 2 **mental disorder**: inserted, on 1 September 2004, by [section 51][80] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 2 **mental disorder**: inserted, on 1 September 2004, by [section 51][79] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 2 **mentally disordered**: repealed, on 1 September 2004, by [section 51][80] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 2 **mentally disordered**: repealed, on 1 September 2004, by [section 51][79] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 2 **panel information**: inserted, on 29 April 2013, by [section 15][81] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 2 **panel information**: inserted, on 29 April 2013, by [section 15][80] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 2 **penal institution**: repealed, on 1 June 2005, by [section 206][82] of the Corrections Act 2004 (2004 No 50).
+    Section 2 **penal institution**: repealed, on 1 June 2005, by [section 206][81] of the Corrections Act 2004 (2004 No 50).
     
-    Section 2 **physical disability**: repealed, on 10 September 2008, by [section 5(2)][79] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 2 **physical disability**: repealed, on 10 September 2008, by [section 5(2)][78] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
     Section 2 **pre-release hostel**: repealed, on 1 October 1985, by section 23(1) of the Penal Institutions Amendment Act 1985 (1985 No 123).
     
-    Section 2 **prison**: inserted, on 1 June 2005, by [section 206][82] of the Corrections Act 2004 (2004 No 50).
+    Section 2 **prison**: inserted, on 1 June 2005, by [section 206][81] of the Corrections Act 2004 (2004 No 50).
     
-    Section 2 **probation officer**: amended, on 1 October 1985, by [section 150(1)][83] of the Criminal Justice Act 1985 (1985 No 120).
+    Section 2 **probation officer**: repealed, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
     
-    Section 2 **protected particulars**: inserted, on 29 April 2013, by [section 15][81] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 2 **protected particulars**: inserted, on 29 April 2013, by [section 15][80] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 2 **public prosecution**: inserted, on 29 April 2013, by [section 15][81] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 2 **public prosecution**: inserted, on 29 April 2013, by [section 15][80] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 2 **traffic officer**: substituted, on 1 March 1999, by [section 215(1)][84] of the Land Transport Act 1998 (1998 No 110).
+    Section 2 **traffic officer**: substituted, on 1 March 1999, by [section 215(1)][83] of the Land Transport Act 1998 (1998 No 110).
 
 ##### 3 Act binds Crown
     
@@ -312,25 +310,25 @@ An Act to consolidate and reform the law relating to juries
     
     Compare: 1908 No 90 s 12; 1966 No 36 s 2(1); 1976 No 48 s 3
     
-    Section 5(1): amended, on 4 October 2010, by [section 4(1AA)][85] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 5(1): amended, on 4 October 2010, by [section 4(1AA)][84] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 5(3): substituted, on 4 October 2010, by [section 4(1)][85] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 5(3): substituted, on 4 October 2010, by [section 4(1)][84] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 5(3A): repealed, on 4 October 2010, by [section 4(1)][85] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 5(3A): repealed, on 4 October 2010, by [section 4(1)][84] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 5(4): substituted, on 4 October 2010, by [section 4(3)][85] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 5(4): substituted, on 4 October 2010, by [section 4(3)][84] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 5(5): amended, on 1 October 2003, pursuant to [section 14(1)][77] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 5(5): amended, on 1 October 2003, pursuant to [section 14(1)][76] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 5(5): amended, on 1 October 1995, by [section 10(3)][86] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 5(5): amended, on 1 October 1995, by [section 10(3)][85] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 #### Jury service
 
 ##### 6 Qualification and liability
     
-*   Every person who is currently registered as an elector in accordance with the [Electoral Act 1993][87] is qualified and liable to serve as a juror upon all juries that may be impanelled for any trial within the jury district in which the person resides. This section is subject to [sections 7][9] and [8][10].
+*   Every person who is currently registered as an elector in accordance with the [Electoral Act 1993][86] is qualified and liable to serve as a juror upon all juries that may be impanelled for any trial within the jury district in which the person resides. This section is subject to [sections 7][9] and [8][10].
     
-    Section 6: substituted, on 30 July 2000, by [section 5][88] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 6: substituted, on 30 July 2000, by [section 5][87] of the Juries Amendment Act 2000 (2000 No 2).
 
 ##### 7 Disqualification
     
@@ -342,7 +340,7 @@ An Act to consolidate and reform the law relating to juries
     
     Compare: 1908 No 90 s 5; 1948 No 15 s 35; 1963 No 141 s 3
     
-    Section 7(b): amended, on 29 April 2013, by [section 5][89] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 7(b): amended, on 29 April 2013, by [section 5][88] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
 
 ##### 8 Certain persons not to serve
     
@@ -356,11 +354,11 @@ An Act to consolidate and reform the law relating to juries
     
     *   (c) Judges of the High Court, Masters of the High Court, Judges of the Employment Court, Judges and Commissioners of the Maori Land Court, District Court Judges and Community Magistrates:
     
-    *   (d) visiting Justices under the [Corrections Act 2004][90], and members of the Parole Board:
+    *   (d) visiting Justices under the [Corrections Act 2004][89], and members of the Parole Board:
     
     *   (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of District Courts:
     
-    *   (f) lawyers within the meaning of the [Lawyers and Conveyancers Act 2006][91]:
+    *   (f) lawyers within the meaning of the [Lawyers and Conveyancers Act 2006][90]:
     
     *   (g) employees of the Police, and traffic officers:
     
@@ -378,7 +376,7 @@ An Act to consolidate and reform the law relating to juries
     
     *   (haa) \[Repealed\]
     
-    *   (ha) a party to a prison management contract entered into under [section 198(1)][92] of the Corrections Act 2004 or to a security contract entered into under [section 166][93] of the Corrections Act 2004; or
+    *   (ha) a party to a prison management contract entered into under [section 198(1)][91] of the Corrections Act 2004 or to a security contract entered into under [section 166][92] of the Corrections Act 2004; or
     
     *   (hb) a security officer within the meaning of [section 3(1)][71] of the Corrections Act 2004:
     
@@ -390,45 +388,45 @@ An Act to consolidate and reform the law relating to juries
     
     *   (k) persons with an intellectual disability.
     
-    Compare: 1908 No 90 s 6(1), (2); 1951 No 39 s 2(1); 1958 No 109 [s 66(4)][94]; 1963 No 141 s 4(1)--(8); 1964 No 135 [s 2(2)(c), (d)][95]; 1968 No 87 s 2(1); 1973 No 19 s 234(2)(d); 1974 No 133 s 50(2); 1976 No 48 s 2(1)--(3)
+    Compare: 1908 No 90 s 6(1), (2); 1951 No 39 s 2(1); 1958 No 109 [s 66(4)][93]; 1963 No 141 s 4(1)--(8); 1964 No 135 [s 2(2)(c), (d)][94]; 1968 No 87 s 2(1); 1973 No 19 s 234(2)(d); 1974 No 133 s 50(2); 1976 No 48 s 2(1)--(3)
     
-    Section 8(aa): inserted, on 25 December 2008, by [section 6(1)][96] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 8(aa): inserted, on 25 December 2008, by [section 6(1)][95] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 8(c): amended, on 30 July 2000, by [section 6(1)][97] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 8(c): amended, on 30 July 2000, by [section 6(1)][96] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 8(c): amended, on 30 June 1998, by [section 7][98] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 8(c): amended, on 30 June 1998, by [section 7][97] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 8(d): amended, on 1 June 2005, by [section 206][82] of the Corrections Act 2004 (2004 No 50).
+    Section 8(d): amended, on 1 June 2005, by [section 206][81] of the Corrections Act 2004 (2004 No 50).
     
-    Section 8(d): amended, on 1 October 1985, by [section 150(1)][83] of the Criminal Justice Act 1985 (1985 No 120).
+    Section 8(d): amended, on 1 October 1985, by [section 150(1)][98] of the Criminal Justice Act 1985 (1985 No 120).
     
     Section 8(f): substituted, on 1 August 2008, by [section 348][99] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
     Section 8(g): amended, on 1 October 2008, by [section 130(1)][100] of the Policing Act 2008 (2008 No 72).
     
-    Section 8(h): substituted, on 30 July 2000, by [section 6(2)][97] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 8(h): substituted, on 30 July 2000, by [section 6(2)][96] of the Juries Amendment Act 2000 (2000 No 2).
     
     Section 8(h)(iii): repealed, on 1 October 2003, by [section 12(2)][101] of the State Sector Amendment Act 2003 (2003 No 41).
     
     Section 8(haa): repealed, on 1 July 2011, by [section 144][102] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 8(ha): inserted, on 30 July 2000, by [section 6(2)][97] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 8(ha): inserted, on 30 July 2000, by [section 6(2)][96] of the Juries Amendment Act 2000 (2000 No 2).
     
     Section 8(ha): amended, on 8 December 2009, by [section 8(2)][103] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
     
-    Section 8(ha): amended, on 1 June 2005, by [section 206][82] of the Corrections Act 2004 (2004 No 50).
+    Section 8(ha): amended, on 1 June 2005, by [section 206][81] of the Corrections Act 2004 (2004 No 50).
     
-    Section 8(hb): inserted, on 30 July 2000, by [section 6(2)][97] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 8(hb): inserted, on 30 July 2000, by [section 6(2)][96] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 8(hb): amended, on 1 June 2005, by [section 206][82] of the Corrections Act 2004 (2004 No 50).
+    Section 8(hb): amended, on 1 June 2005, by [section 206][81] of the Corrections Act 2004 (2004 No 50).
     
     Section 8(hc): inserted, on 29 April 2013, by [section 6][104] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 8(i): repealed, on 10 September 2008, by [section 5(4)][79] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 8(i): repealed, on 10 September 2008, by [section 5(4)][78] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 8(j): repealed, on 30 July 2000, by [section 6(3)][97] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 8(j): repealed, on 30 July 2000, by [section 6(3)][96] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 8(k): added, on 1 September 2004, by [section 51][80] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 8(k): added, on 1 September 2004, by [section 51][79] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 #### Jury lists and panels
 
@@ -452,11 +450,11 @@ An Act to consolidate and reform the law relating to juries
     
     Section 9: substituted, on 30 July 2000, by [section 7][106] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 9(1): amended, on 1 July 2012, by [section 57(4)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 9(1): amended, on 1 July 2012, by [section 57(4)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 9(2): amended, on 1 July 2012, by [section 57(4)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 9(2): amended, on 1 July 2012, by [section 57(4)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 9(3): amended, on 1 July 2012, by [section 57(4)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 9(3): amended, on 1 July 2012, by [section 57(4)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 10 Jury lists sent to chief executive
     
@@ -464,7 +462,7 @@ An Act to consolidate and reform the law relating to juries
     
     Section 10: substituted, on 30 July 2000, by [section 7][106] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 10: amended, on 1 July 2012, by [section 57(5)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 10: amended, on 1 July 2012, by [section 57(5)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 11 Currency of jury lists
     
@@ -472,7 +470,7 @@ An Act to consolidate and reform the law relating to juries
     
     Section 11: substituted, on 30 July 2000, by [section 7][106] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 11: amended, on 1 July 2012, by [section 57(6)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 11: amended, on 1 July 2012, by [section 57(6)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 12 Access to, and confidentiality of, jury lists
     
@@ -496,7 +494,7 @@ An Act to consolidate and reform the law relating to juries
     
     Section 12(2)(b): amended, on 25 December 2008, by [section 7][107] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 12(3)(b): amended, on 1 October 2003, pursuant to [section 14(1)][77] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 12(3)(b): amended, on 1 October 2003, pursuant to [section 14(1)][76] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 12A Registrar may amend jury list
     
@@ -632,7 +630,7 @@ An Act to consolidate and reform the law relating to juries
     
     *   (c) must take all reasonable steps to ensure that the party does not copy the document.
     
-    (4) Every person who, in connection with proceedings that are due to be heard during the week for which the jurors on the panel are summoned to attend for jury service, receives, or makes a copy or copies of, a copy of the panel must return the copy or copies to the Registrar or a member of the court registry staff as soon as practicable after the case is opened or the accused is given in charge.
+    (4) Every person who, in connection with proceedings that are due to be heard during the week for which the jurors on the panel are summoned to attend for jury service, receives, or makes a copy or copies of, a copy of the panel must return the copy or copies to the Registrar or a member of the court registry staff as soon as practicable after the case is opened or the defendant is given in charge.
     
     (5) However, subsection (4) does not apply to---
         
@@ -643,6 +641,8 @@ An Act to consolidate and reform the law relating to juries
     (6) A breach of subsection (2), (3), or (4) may be dealt with as contempt of court.
     
     Section 14A: inserted, on 25 December 2008, by [section 10][117] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 14A(4): amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
 
 ##### 14AB Inspection of protected particulars of jury list information excluded from panel
     
@@ -904,11 +904,11 @@ An Act to consolidate and reform the law relating to juries
     
     Section 16AA heading: amended, on 25 December 2008, by [section 13(1)][126] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 16AA heading: amended, on 10 September 2008, by [section 5(6)][79] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 16AA heading: amended, on 10 September 2008, by [section 5(6)][78] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
     Section 16AA(1): amended, on 25 December 2008, by [section 13(2)][126] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 16AA(1): amended, on 10 September 2008, by [section 5(7)][79] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 16AA(1): amended, on 10 September 2008, by [section 5(7)][78] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
     Section 16AA(3)(b): amended, on 25 December 2008, by [section 13(3)][126] of the Juries Amendment Act 2008 (2008 No 40).
 
@@ -922,7 +922,7 @@ An Act to consolidate and reform the law relating to juries
     
     Section 16A: inserted, on 17 December 1982, by section 2 of the Juries Amendment Act 1982 (1982 No 174).
     
-    Section 16A(3): substituted, on 4 October 2010, by [section 4(4)][85] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 16A(3): substituted, on 4 October 2010, by [section 4(4)][84] of the Juries Amendment Act 2008 (2008 No 40).
 
 #### Constitution of jury
 
@@ -946,19 +946,23 @@ An Act to consolidate and reform the law relating to juries
 
 ##### 20 Swearing of jurors
     
-*   After the jury is constituted but before the case is opened or the accused given in charge, the jurors shall be sworn in the form and manner prescribed by the jury rules.
+*   After the jury is constituted but before the case is opened or the defendant given in charge, the jurors shall be sworn in the form and manner prescribed by the jury rules.
     
     Compare: 1908 No 90 ss 104, 105; 1976 No 48 s 7(1)
+    
+    Section 20: amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
 
 ##### 21 Foreperson
     
-*   (1) After the jurors have been sworn but before the case is opened or the accused is given in charge, the jury shall retire to choose a foreperson.
+*   (1) After the jurors have been sworn but before the case is opened or the defendant is given in charge, the jury shall retire to choose a foreperson.
     
     (2) Despite subsection (1) the court may direct that the jury choose a foreperson at a time different from that specified in subsection (1).
     
     Compare: 1908 No 90 s 107A; 1961 No 62 s 2
     
     Section 21 heading: substituted, on 25 December 2008, by [section 14(1)(a)][128] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 21(1): amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
     
     Section 21(1): amended, on 25 December 2008, by [section 14(1)(b)][128] of the Juries Amendment Act 2008 (2008 No 40).
     
@@ -1012,7 +1016,7 @@ An Act to consolidate and reform the law relating to juries
         
     *   (a) the discharge of the juror does not affect the juror's liability to serve on any other jury:
     
-    *   (b) the court may, if the discharge occurs before the case is opened or the accused is given in charge, require a further juror to be selected from the panel and sworn under [sections 18][32] and [20][34]:
+    *   (b) the court may, if the discharge occurs before the case is opened or the defendant is given in charge, require a further juror to be selected from the panel and sworn under [sections 18][32] and [20][34]:
     
     *   (c) the choice of a foreperson is not affected (even if 1 or more replacement jurors are selected and sworn under paragraph (b)) if that choice has already been made and the juror who was chosen as foreperson is not the juror discharged:
     
@@ -1029,6 +1033,8 @@ An Act to consolidate and reform the law relating to juries
     *   (b) postpone the trial on any terms justice requires.
     
     Section 22A: inserted, on 25 December 2008, by [section 15(1)][129] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 22A(1)(b): amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
     
     Section 22A(2): repealed, on 5 March 2012 (applying only to a trial for which a jury is constituted after that date), by [section 6(1)][131] of the Juries Amendment Act 2011 (2011 No 90).
     
@@ -1086,13 +1092,15 @@ An Act to consolidate and reform the law relating to juries
     
 *   (1) In every case to be tried before a jury, each of the parties is entitled to challenge without cause 4 jurors only.
     
-    (2) However, if 2 or more accused persons in a criminal case are indicted together, the Crown or other prosecutor is entitled to challenge without cause 8 jurors only.
+    (2) However, if 2 or more defendants in a criminal case are charged together, the Crown or other prosecutor is entitled to challenge without cause 8 jurors only.
     
     (3) If a juror is discharged and is to be replaced with another under [section 22A(1)(b)][37], each party is entitled in the selection of the new juror to exercise the number of challenges without cause that the party has not already exercised.
     
     Compare: 1908 No 90 ss 121--123, 125
     
     Section 24: substituted, on 25 December 2008, by [section 17][132] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 24(2): amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
 
 ##### 25 Challenges for cause
     
@@ -1110,7 +1118,7 @@ An Act to consolidate and reform the law relating to juries
     
     Section 25(1): substituted, on 30 July 2000, by [section 13][134] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 25(1)(b): amended, on 10 September 2008, by [section 5(9)][79] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 25(1)(b): amended, on 10 September 2008, by [section 5(9)][78] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
     Section 25(3): amended, on 17 December 1985, by section 3 of the Juries Amendment Act 1985 (1985 No 181).
 
@@ -1122,11 +1130,13 @@ An Act to consolidate and reform the law relating to juries
 
 ##### 27 Directions to stand by
     
-*   (1) In a criminal case, the Judge, on an application made to him by the Crown or other prosecutor with the consent of the accused person or any of the accused persons, or by the accused person or any of the accused persons with the consent of the Crown or other prosecutor, shall direct any number of jurors to stand by until all the jurors have been called who are available for the purpose of trying that indictment.
+*   (1) In a criminal case, the Judge, on an application made to him by the Crown or other prosecutor with the consent of the defendant or any of the defendants, or by the defendant or any of the defendants with the consent of the Crown or other prosecutor, shall direct any number of jurors to stand by until all the jurors have been called who are available for the purpose of trying that charge.
     
     (2) Notwithstanding subsection (1), a Judge of his own motion may give a direction under that subsection where he is satisfied that it is in the interests of justice to do so.
     
     Compare: 1966 No 43 s 363(7)
+    
+    Section 27(1): amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
 
 #### Views
 
@@ -1224,11 +1234,15 @@ An Act to consolidate and reform the law relating to juries
         
     *   (a) prevents the Court from taking a poll of the jury; or
     
-    *   (b) affects [section 339][139] of the Crimes Act 1961 (which relates to criminal cases where part of the charge is proved).
+    *   (b) affects [section 110][139] or [143][140] of the Criminal Procedure Act 2011\.
     
-    (5) If, in terms of [section 339][139] of the Crimes Act 1961, the crime charged, as described in the enactment creating the crime or as charged in the count, includes the commission of any other crime, the Court may accept a majority verdict on the crime charged instead of a unanimous verdict on the included crime.
+    (5) If, in terms of [section 110][139] or [143][140] of the Criminal Procedure Act 2011, the offence charged, as described in the enactment creating the offence or as charged in the charge, includes the commission of any other offence, the court may accept a majority verdict on the offence charged instead of a unanimous verdict on the included offence.
     
     Section 29C: inserted, on 29 June 2009, by [section 19][138] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 29C(4)(b): replaced, on 1 July 2013, by [section 4(1)][141] of the Juries Amendment Act 2013 (2013 No 30).
+    
+    Section 29C(5): replaced, on 1 July 2013, by [section 4(2)][141] of the Juries Amendment Act 2013 (2013 No 30).
 
 ##### 29D Civil cases
     
@@ -1256,7 +1270,7 @@ An Act to consolidate and reform the law relating to juries
     
     *   (b) affects any practice in civil cases by which a Court may, with the consent of all parties, accept a verdict that is not a unanimous verdict.
     
-    Compare: 1908 No 89 [s 54A][140]
+    Compare: 1908 No 89 [s 54A][142]
     
     Section 29D: inserted, on 29 June 2009, by [section 19][138] of the Juries Amendment Act 2008 (2008 No 40).
 
@@ -1270,7 +1284,7 @@ An Act to consolidate and reform the law relating to juries
     
     Compare: 1908 No 90 ss 157, 158; 1919 No 4 s 2
     
-    Section 30(2): added, on 25 December 2008, by [section 20][141] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 30(2): added, on 25 December 2008, by [section 20][143] of the Juries Amendment Act 2008 (2008 No 40).
 
 ##### 31 Payment of fee for jury in civil cases
     
@@ -1290,15 +1304,21 @@ An Act to consolidate and reform the law relating to juries
     
     (3) If a person who is summoned to appear and serve as a juror fails to answer when called, the court may issue a warrant to secure the attendance of that person before the court.
     
-    (4) For the purposes of [Part 4][142] of the Summary Proceedings Act 1957 and, if the fine is imposed by the High Court, for the purposes of [Part 13][143] of the Crimes Act 1961, the imposition of a fine under subsection (1) is to be treated as a sentence; and those Parts of those Acts apply as if the person on whom the fine has been imposed had been convicted on an information and sentenced.
+    (4) For the purposes of [Part 6][144] of the Criminal Procedure Act 2011,---
+        
+    *   (a) the imposition of a fine under subsection (1) is to be treated as a sentence; and
+    
+    *   (b) that Part applies as if the person on whom the fine has been imposed had been convicted on a charge and sentenced.
     
     Compare: 1908 No 90 ss 162, 163; 1925 No 19 s 3; 1960 No 115 s 4; 1963 No 141 s 6(1)
     
-    Section 32: substituted, on 25 December 2008, by [section 21][144] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 32: substituted, on 25 December 2008, by [section 21][145] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 32(4): replaced, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
 
 ##### 32A Employees absent on jury service not to be prejudiced
     
-*   (1) An employer commits an offence and is liable on summary conviction to a fine not exceeding $10,000 if the employer does either of the following actions because an employee of the employer is required to be absent from employment on jury service:
+*   (1) An employer commits an offence and is liable on conviction to a fine not exceeding $10,000 if the employer does either of the following actions because an employee of the employer is required to be absent from employment on jury service:
         
     *   (a) dismisses, or threatens to dismiss, the employee without the consent of the employee:
     
@@ -1306,13 +1326,13 @@ An Act to consolidate and reform the law relating to juries
     
     (2) If an employer is alleged to have committed, or is convicted of, an offence against subsection (1) in respect of an action and an employee, then that employee,---
         
-    *   (a) if that action consists of or includes dismissal, may have a personal grievance, for the purposes of [section 103(1)(a)][145] of the Employment Relations Act 2000, because of an unjustifiable dismissal, and [Part 9][146] of that Act applies accordingly; and
+    *   (a) if that action consists of or includes dismissal, may have a personal grievance, for the purposes of [section 103(1)(a)][146] of the Employment Relations Act 2000, because of an unjustifiable dismissal, and [Part 9][147] of that Act applies accordingly; and
     
-    *   (b) if that action consists of an action other than dismissal or includes an action in addition to dismissal, may have a personal grievance, for the purposes of [section 103(1)(b)][145] of the Employment Relations Act 2000, because of an action described in that paragraph, and [Part 9][146] of that Act applies accordingly.
+    *   (b) if that action consists of an action other than dismissal or includes an action in addition to dismissal, may have a personal grievance, for the purposes of [section 103(1)(b)][146] of the Employment Relations Act 2000, because of an action described in that paragraph, and [Part 9][147] of that Act applies accordingly.
     
     (3) In this section,---
     
-    _employee_ has the meaning given in [section 6][147] of the Employment Relations Act 2000
+    _employee_ has the meaning given in [section 6][148] of the Employment Relations Act 2000
     
     _otherwise prejudicing the position of the employee_---
         
@@ -1326,13 +1346,15 @@ An Act to consolidate and reform the law relating to juries
     
     *   (b) does not include not paying the employee remuneration of any kind for the period the employee is required to be absent from employment on jury service.
     
-    Compare: 2000 No 7 [s 17][148]; Juries Act 2000 s 76 (Vic) 
+    Compare: 2000 No 7 [s 17][149]; Juries Act 2000 s 76 (Vic) 
     
-    Section 32A: inserted, on 25 December 2008, by [section 21][144] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 32A: inserted, on 25 December 2008, by [section 21][145] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 32A(1): amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
 
 ##### 32B Identity and address of serving or former juror or prospective juror not generally to be disclosed
     
-*   (1) A person commits an offence and is liable on summary conviction to the penalty stated in subsection (2) if the person wilfully publishes any material, broadcasts any matter, or otherwise discloses any information, that identifies, or that may lead to the identification of, a juror or former juror.
+*   (1) A person commits an offence and is liable on conviction to the penalty stated in subsection (2) if the person wilfully publishes any material, broadcasts any matter, or otherwise discloses any information, that identifies, or that may lead to the identification of, a juror or former juror.
     
     (2) The penalty is imprisonment for a term not exceeding 3 months, or a fine not exceeding $10,000, or both.
     
@@ -1356,7 +1378,9 @@ An Act to consolidate and reform the law relating to juries
     
     Compare: Jury Act 1977 s 68 (NSW); Juries Act 2000 s 77 (Vic)
     
-    Section 32B: inserted, on 25 December 2008, by [section 21][144] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 32B: inserted, on 25 December 2008, by [section 21][145] of the Juries Amendment Act 2008 (2008 No 40).
+    
+    Section 32B(1): amended, on 1 July 2013, by [section 7][82] of the Juries Amendment Act 2011 (2011 No 90).
 
 ##### 33 Verdicts not affected by informalities
     
@@ -1372,7 +1396,7 @@ An Act to consolidate and reform the law relating to juries
 
 ##### 34 District from which jury to be summoned for Court of Appeal
     
-*   Where a jury is directed to be summoned under [Part 2][149] of the Judicature Act 1908 (relating to the Court of Appeal), the High Court shall direct from what jury district the jury shall be summoned.
+*   Where a jury is directed to be summoned under [Part 2][150] of the Judicature Act 1908 (relating to the Court of Appeal), the High Court shall direct from what jury district the jury shall be summoned.
     
     Compare: 1908 No 90 s 182
 
@@ -1454,41 +1478,41 @@ An Act to consolidate and reform the law relating to juries
     
     Compare: 1908 No 90 s 184; 1963 No 141 s 9
     
-    Section 35(1)(a): substituted, on 30 July 2000, by [section 15(1)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1)(a): substituted, on 30 July 2000, by [section 15(1)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(1)(a)(iii): amended, on 1 July 2012, by [section 57(7)][78] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 35(1)(a)(iii): amended, on 1 July 2012, by [section 57(7)][77] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 35(1)(b): substituted, on 30 July 2000, by [section 15(1)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1)(b): substituted, on 30 July 2000, by [section 15(1)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(1)(b)(iii): inserted, on 29 April 2013, by [section 19][151] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 35(1)(b)(iii): inserted, on 29 April 2013, by [section 19][152] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 35(1)(c): substituted, on 30 July 2000, by [section 15(1)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1)(c): substituted, on 30 July 2000, by [section 15(1)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
     Section 35(1)(d): substituted, on 4 October 2010, by [section 11(5)][112] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 35(1)(d): amended, on 29 April 2013, by [section 12(1)][152] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 35(1)(d): amended, on 29 April 2013, by [section 12(1)][153] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 35(1)(d)(ii): amended, on 29 April 2013, by [section 12(2)][152] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 35(1)(d)(ii): amended, on 29 April 2013, by [section 12(2)][153] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
-    Section 35(1)(d)(iii): inserted, on 29 April 2013, by [section 12(3)][152] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 35(1)(d)(iii): inserted, on 29 April 2013, by [section 12(3)][153] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
     
     Section 35(1)(da): inserted, on 4 October 2010, by [section 11(5)][112] of the Juries Amendment Act 2008 (2008 No 40).
     
-    Section 35(1)(e): substituted, on 30 July 2000, by [section 15(1)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1)(e): substituted, on 30 July 2000, by [section 15(1)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(1)(f): substituted, on 30 July 2000, by [section 15(1)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1)(f): substituted, on 30 July 2000, by [section 15(1)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(1)(fa): inserted, on 30 July 2000, by [section 15(1)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1)(fa): inserted, on 30 July 2000, by [section 15(1)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(1A): inserted, on 30 July 2000, by [section 15(2)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1A): inserted, on 30 July 2000, by [section 15(2)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(1B): inserted, on 30 July 2000, by [section 15(2)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(1B): inserted, on 30 July 2000, by [section 15(2)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(2): amended, on 1 October 2003, pursuant to [section 14(1)][77] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 35(2): amended, on 1 October 2003, pursuant to [section 14(1)][76] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 35(2): amended, on 30 July 2000, by [section 15(3)][150] of the Juries Amendment Act 2000 (2000 No 2).
+    Section 35(2): amended, on 30 July 2000, by [section 15(3)][151] of the Juries Amendment Act 2000 (2000 No 2).
     
-    Section 35(2): amended, on 1 October 1995, by [section 10(3)][86] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 35(2): amended, on 1 October 1995, by [section 10(3)][85] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 36 Transitional
     
@@ -1502,7 +1526,7 @@ An Act to consolidate and reform the law relating to juries
 
 ##### 36A Purpose and application of 2012 amendments on jury service
     
-*   (1) The purpose of [Part 1][153] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 is to amend this Act so that it---
+*   (1) The purpose of [Part 1][154] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 is to amend this Act so that it---
         
     *   (a) disqualifies from jury service a person who, at any time within the preceding 5 years, has been sentenced to home detention for a period that is, or is more than, 3 months; and
     
@@ -1512,11 +1536,11 @@ An Act to consolidate and reform the law relating to juries
     
     (2) The amendments made to this Act by a provision of that Part apply only to a person's attendance to serve as a juror on an occasion after that provision's commencement, but apply to any such attendance even if that person was summoned to attend, sentenced to home detention, or both, before that commencement.
     
-    Section 36A: inserted, on 29 April 2013, by [section 13][154] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
+    Section 36A: inserted, on 29 April 2013, by [section 13][155] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
 
 ##### 36B Purpose and application of 2012 amendments on protection of particulars of jury list information
     
-*   (1) The purpose of [Part 2][155] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 is to amend this Act so that it---
+*   (1) The purpose of [Part 2][156] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 is to amend this Act so that it---
         
     *   (a) helps to maintain jurors' privacy, safety, and security by protecting particulars of jury list information; but also
     
@@ -1524,7 +1548,7 @@ An Act to consolidate and reform the law relating to juries
     
     (2) This Act applies to panels compiled before the commencement of that Part as if that Part had not been enacted.
     
-    (3) ""Defendant"" in [section 14AB(5)][20] (as inserted by that Part) must, until the commencement of [section 7][156] and the [Schedule][157] of the Juries Amendment Act 2011, be read as ""accused"".
+    (3) ""Defendant"" in [section 14AB(5)][20] (as inserted by that Part) must, until the commencement of [section 7][82] and the [Schedule][157] of the Juries Amendment Act 2011, be read as ""accused"".
     
     Section 36B: inserted, on 29 April 2013, by [section 20][158] of the Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012 (2012 No 75).
 
@@ -1657,7 +1681,7 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Juries Act 1981\. The reprint incorporates all the amendments to the Act as at 29 April 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Juries Act 1981\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][167] ![](/images/external_link.gif).
 
@@ -1704,11 +1728,13 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012][172] (2012 No 75)
+*   [Juries Amendment Act 2013][172] (2013 No 30)
     
-    [Juries Amendment Act 2011][173] (2011 No 90)
+    [Juries (Jury Service and Protection of Particulars of Jury List Information) Amendment Act 2012][173] (2012 No 75)
     
-    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 57][78]
+    [Juries Amendment Act 2011][174] (2011 No 90)
+    
+    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 57][77]
     
     Legal Services Act 2011 (2011 No 4): [section 144][102]
     
@@ -1716,7 +1742,7 @@ Commencementsee section 2
     
     Policing Act 2008 (2008 No 72): [sections 116(a)(ii), 130(1)][100]
     
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 5][79]
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 5][78]
     
     [Juries Amendment Act 2008][164] (2008 No 40)
     
@@ -1724,21 +1750,21 @@ Commencementsee section 2
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][99]
     
-    Corrections Act 2004 (2004 No 50): [section 206][82]
+    Corrections Act 2004 (2004 No 50): [section 206][81]
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][80]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][79]
     
-    State Sector Amendment Act 2003 (2003 No 41): [sections 12(2)][101], [14(1)][77]
+    State Sector Amendment Act 2003 (2003 No 41): [sections 12(2)][101], [14(1)][76]
     
-    [Juries Amendment Act 2001][174] (2001 No 69)
+    [Juries Amendment Act 2001][175] (2001 No 69)
     
-    [Juries Amendment Act 2000][175] (2000 No 2)
+    [Juries Amendment Act 2000][176] (2000 No 2)
     
-    Land Transport Act 1998 (1998 No 110): [section 215(1)][84]
+    Land Transport Act 1998 (1998 No 110): [section 215(1)][83]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][98]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][97]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][86]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][85]
     
     Juries Amendment Act 1994 (1994 No 152)
     
@@ -1746,7 +1772,7 @@ Commencementsee section 2
     
     Penal Institutions Amendment Act 1985 (1985 No 123): section 23(1)
     
-    Criminal Justice Act 1985 (1985 No 120): [section 150(1)][83]
+    Criminal Justice Act 1985 (1985 No 120): [section 150(1)][98]
     
     Juries Amendment Act 1982 (1982 No 174)
 
@@ -1824,33 +1850,33 @@ Commencementsee section 2
 [69]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM2997501
 [70]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM224577
 [71]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM294857
-[72]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM76621
-[73]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM329641
-[74]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM433612
-[75]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM332400
-[76]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53417
-[77]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM201378
-[78]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3367689
-[79]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1404032
-[80]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM224534
-[81]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608428
-[82]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM297136
-[83]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM79129
-[84]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM435656
-[85]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379214
-[86]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM367235
-[87]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM307518
-[88]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53423
-[89]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608414
-[90]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM294848
-[91]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM364938
-[92]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM297118
-[93]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM296556
-[94]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM322518
-[95]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM356737
-[96]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379217
-[97]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53425
-[98]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM427920
+[72]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM329641
+[73]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM433612
+[74]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM332400
+[75]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53417
+[76]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM201378
+[77]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3367689
+[78]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1404032
+[79]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM224534
+[80]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608428
+[81]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM297136
+[82]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM4058510
+[83]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM435656
+[84]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379214
+[85]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM367235
+[86]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM307518
+[87]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53423
+[88]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608414
+[89]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM294848
+[90]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM364938
+[91]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM297118
+[92]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM296556
+[93]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM322518
+[94]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM356737
+[95]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379217
+[96]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53425
+[97]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM427920
+[98]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM79129
 [99]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM367849
 [100]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1102383
 [101]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM201376
@@ -1891,24 +1917,24 @@ Commencementsee section 2
 [136]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379243
 [137]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM331757
 [138]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379248
-[139]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM331425
-[140]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM146638
-[141]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379254
-[142]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM312656
-[143]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM331790
-[144]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379255
-[145]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM60322
-[146]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM60316
-[147]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM58619
-[148]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53917
-[149]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM146926
-[150]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53441
-[151]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608447
-[152]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608423
-[153]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608412
-[154]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608424
-[155]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608426
-[156]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM4058510
+[139]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3360189
+[140]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3360233
+[141]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM5189101
+[142]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM146638
+[143]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379254
+[144]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3360366
+[145]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM1379255
+[146]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM60322
+[147]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM60316
+[148]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM58619
+[149]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53917
+[150]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM146926
+[151]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53441
+[152]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608447
+[153]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608423
+[154]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608412
+[155]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608424
+[156]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608426
 [157]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM4058511
 [158]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608448
 [159]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM331732
@@ -1924,7 +1950,8 @@ Commencementsee section 2
 [169]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [170]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM195468
 [171]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM195470
-[172]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608400
-[173]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM4058503
-[174]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM112779
-[175]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53411
+[172]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM5189094
+[173]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM3608400
+[174]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM4058503
+[175]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM112779
+[176]: http://www.legislation.govt.nz/act/public/1981/0023/latest/link.aspx?id=DLM53411
