@@ -1,5 +1,5 @@
 Reprint  
-as at 29 April 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2511,7 +2511,9 @@ Legal proceedings
     
 *   (1) No proceeding may be commenced for any offence against any of [sections 120 to 124][173] that was committed before the actual date of registration of the trade mark concerned.
     
-    (2) Despite [section 14][393] of the Summary Proceedings Act 1957, an information for an offence against any of [sections 120 to 124][173] may be laid at any time within 3 years after the time when the matter of the information arose.
+    (2) \[Repealed\]
+    
+    Section 117(2): repealed, on 1 July 2013, by [section 413][393] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 118 Application of Sentencing Act 2002
     
@@ -4957,7 +4959,7 @@ _Amendment(s) incorporated in the [Act(s)][446]._
 
 ###### 1 General
     
-*   This is a reprint of the Trade Marks Act 2002\. The reprint incorporates all the amendments to the Act as at 29 April 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Trade Marks Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][447] ![](/images/external_link.gif).
 
@@ -5005,6 +5007,8 @@ _Amendment(s) incorporated in the [Act(s)][446]._
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
 *   [Trade Marks Amendment Act 2012][452] (2012 No 20)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][393]
     
     [Trade Marks Amendment Act 2011][453] (2011 No 71)
     
@@ -5411,7 +5415,7 @@ _Amendment(s) incorporated in the [Act(s)][446]._
 [390]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290050
 [391]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM55435
 [392]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM346600
-[393]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM311191
+[393]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM3360714
 [394]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM135596
 [395]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM346602
 [396]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290054
