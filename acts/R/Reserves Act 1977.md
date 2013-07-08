@@ -1,5 +1,5 @@
 Reprint  
-as at 24 May 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -291,7 +291,7 @@ This Act is administered by the Department of Conservation.
 
 [98][131][][131][Offences with respect to officers or rangers][131]
 
-[99][132][][132][Time within which information may be laid][132]
+[99][132][][132][Time for filing charging document][132]
 
 [100][133][][133][Stopping and searching of boats][133]
 
@@ -3341,9 +3341,9 @@ Miscellaneous provisions
     
     provided that nothing in any such authorisation shall be deemed to authorise any person to do any act in contravention of the [Wildlife Act 1953][250] or any regulations or Proclamation or notification under that Act.
     
-    (5) Where any person commits an offence against subsection (1)(j), the Minister or the Commissioner or the administering body, as the case may be, may cause the removal of any objects deposited or thrown in breach of that subsection, and the cost of that removal shall be assessed by a District Court Judge and shall be recoverable summarily from that person in like manner as a fine.
+    (5) Where any person commits an offence against subsection (1)(j), the Minister or the Commissioner or the administering body, as the case may be, may cause the removal of any objects deposited or thrown in breach of that subsection, and the cost of that removal shall be assessed by a District Court Judge and shall be recoverable from that person in like manner as a fine.
     
-    (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, pay twice the full market value of any substance removed from the reserve or pay for the damage done to the reserve, or to any forest, wood, timber, flax, or scrub growing or being thereon; and, in the case of an offence against subsection (1)(a), for the cost of extinguishing the fire and the expenses incurred in investigating the origin of the fire. That value or damage or cost shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine. The full market value shall be deemed to be that amount which the Crown would have received by way of purchase price if the Crown had removed the substance from the reserve and offered it for sale on reasonable terms.
+    (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, pay twice the full market value of any substance removed from the reserve or pay for the damage done to the reserve, or to any forest, wood, timber, flax, or scrub growing or being thereon; and, in the case of an offence against subsection (1)(a), for the cost of extinguishing the fire and the expenses incurred in investigating the origin of the fire. That value or damage or cost shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine. The full market value shall be deemed to be that amount which the Crown would have received by way of purchase price if the Crown had removed the substance from the reserve and offered it for sale on reasonable terms.
     
     Compare: 1953 No 69 s 84(1)--(5); 1968 No 134 s 17(2)
     
@@ -3367,15 +3367,19 @@ Miscellaneous provisions
     
     Section 94(3): amended, on 1 November 2006, by [section 35][187] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 94(5): amended, on 1 April 1980, pursuant to [section 18(2)][321] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 94(5): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 94(6): amended, on 1 April 1980, pursuant to [section 18(2)][321] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 94(5): amended, on 1 April 1980, pursuant to [section 18(2)][322] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 94(6): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 94(6): amended, on 1 April 1980, pursuant to [section 18(2)][322] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 95 Seizure and forfeiture of property
     
 *   (1) Any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, or anything specified in [section 94(1)(f)][127], or any boundary mark, sign, or poster, found in the possession of any person in a reserve may be seized by any officer as defined in [section 93(5)][126], if he has good cause to suspect that that person in obtaining possession thereof has committed an offence against this Act.
     
-    (2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the information is dismissed, then, despite [subpart 6][322] of Part 4 of the Search and Surveillance Act 2012,---
+    (2) If no proceedings are taken in respect of that offence within 6 months after that seizure, or if in proceedings taken within that period the charge is dismissed, then, despite [subpart 6][323] of Part 4 of the Search and Surveillance Act 2012,---
         
     *   (a) in any case where the property seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with pursuant to the [Wildlife Act 1953][250]:
     
@@ -3413,15 +3417,17 @@ Miscellaneous provisions
     
     (6) Any firearm, trap, net, or other like object found illegally in the possession of any person in any reserve, and any tool or instrument or other equipment found in the possession of any person in any reserve and used in committing an offence in the reserve may be seized by any officer (within the meaning of [section 93(5)][126]).
     
-    (6A) Subject to subsection (2), the provisions of [Part 4][323] of the Search and Surveillance Act 2012 (except [subpart 3][324]) apply in respect of the seizure of any thing under this section.
+    (6A) Subject to subsection (2), the provisions of [Part 4][324] of the Search and Surveillance Act 2012 (except [subpart 3][325]) apply in respect of the seizure of any thing under this section.
     
     (7) The proceeds of the sale or disposal of anything sold or otherwise disposed of under this section shall, where it is sold or disposed of by the Commissioner, be paid into the Public Account to the credit of the Trust Account, and may be applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, and developing reserves or as consideration for conservation covenants, and, where it is sold or disposed of by an administering body, shall form part of the funds of that body.
     
-    (8) In this section the term _protected wildlife_ means wildlife that pursuant to [section 3][325] of the Wildlife Act 1953 is absolutely protected throughout New Zealand.
+    (8) In this section the term _protected wildlife_ means wildlife that pursuant to [section 3][326] of the Wildlife Act 1953 is absolutely protected throughout New Zealand.
     
     Compare: 1953 No 69 s 84(7)--(9)
     
     Section 95(1): amended, on 1 October 2012, by [section 299(3)][317] of the Search and Surveillance Act 2012 (2012 No 24).
+    
+    Section 95(2): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 95(2): amended, on 1 October 2012, by [section 299(4)(a)][317] of the Search and Surveillance Act 2012 (2012 No 24).
     
@@ -3465,13 +3471,15 @@ Miscellaneous provisions
     
     *   (b) if any such cattle, sheep, horses, or other animals are not removed within the time mentioned in the notice, the administering body or the Commissioner, as the case may be, may cause them to be destroyed, sold, or otherwise disposed of, and no liability shall attach to the administering body or the Crown or the Commissioner or any other person for any damage occasioned thereby.
     
-    (3) Any person convicted of an offence against [section 94(1)(b)][127] shall, in addition to any penalty for which he may be liable for that offence, pay any costs incurred by the administering body or the Commissioner in advertising or issuing notices calling on the owner or reputed owner of the cattle, sheep, horses, or other animals to remove them from the reserve, and the expenses of mustering, destroying, selling, or otherwise disposing of the said stock and the value of any damage done to the reserve. The costs incurred or value of damage shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine.
+    (3) Any person convicted of an offence against [section 94(1)(b)][127] shall, in addition to any penalty for which he may be liable for that offence, pay any costs incurred by the administering body or the Commissioner in advertising or issuing notices calling on the owner or reputed owner of the cattle, sheep, horses, or other animals to remove them from the reserve, and the expenses of mustering, destroying, selling, or otherwise disposing of the said stock and the value of any damage done to the reserve. The costs incurred or value of damage shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
     
-    (4) Nothing in this section applies to wild animals (as defined in [section 2][326] of the Wild Animal Control Act 1977).
+    (4) Nothing in this section applies to wild animals (as defined in [section 2][327] of the Wild Animal Control Act 1977).
     
     Compare: 1953 No 69 s 84(6)
     
-    Section 96(3): amended, on 1 April 1980, pursuant to [section 18(2)][321] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 96(3): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 96(3): amended, on 1 April 1980, pursuant to [section 18(2)][322] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 96(4): added, on 25 November 1994, by section 7 of the Reserves Amendment Act 1994 (1994 No 110).
 
@@ -3483,11 +3491,13 @@ Miscellaneous provisions
     
     *   (b) being the lessee or licensee of any land in a reserve, lights or permits to be lighted on that land a fire which destroys any bush or natural growth on or damages the reserve in any way.
     
-    (2) Every person who commits an offence against this section shall, in addition to the penalty for the offence, pay for all damage done and for the cost of extinguishing the fire and expenses incurred in investigating the origin of the fire. That damage or cost shall be assessed by a District Court Judge, and shall be recoverable summarily in like manner as a fine.
+    (2) Every person who commits an offence against this section shall, in addition to the penalty for the offence, pay for all damage done and for the cost of extinguishing the fire and expenses incurred in investigating the origin of the fire. That damage or cost shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
     
     Compare: 1953 No 69 s 85
     
-    Section 97(2): amended, on 1 April 1980, pursuant to [section 18(2)][321] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 97(2): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 97(2): amended, on 1 April 1980, pursuant to [section 18(2)][322] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 98 Offences with respect to officers or rangers
     
@@ -3501,15 +3511,15 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 86
 
-##### 99 Time within which information may be laid
+##### 99 Time for filing charging document
     
-*   Notwithstanding anything in the [Summary Proceedings Act 1957][327], any information in respect of any offence against this Act or any regulations under this Act may be laid at any time within 1 year after the time when the matter of the information arose.
+*   Despite [section 25][328] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
     
-    Compare: 1953 No 69 s 87
+    Section 99: replaced, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Stopping and searching of boats
     
-*   (1) Any officer who has good cause to suspect that an offence against this Act or any regulations made under [section 123][161] or any bylaw made under [section 106][141] has been committed on or from or in respect of any boat or by any person on any boat, he may, while that boat is within the territorial sea of New Zealand (as defined in [section 3][328] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977),---
+*   (1) Any officer who has good cause to suspect that an offence against this Act or any regulations made under [section 123][161] or any bylaw made under [section 106][141] has been committed on or from or in respect of any boat or by any person on any boat, he may, while that boat is within the territorial sea of New Zealand (as defined in [section 3][329] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977),---
         
     *   (a) stop, board, and search the boat; and
     
@@ -3517,7 +3527,7 @@ Miscellaneous provisions
     
     *   (c) arrest without warrant any person whom he has good cause to suspect of having committed such an offence.
     
-    (2) The provisions of [Part 4][323] of the Search and Surveillance Act 2012 (except [subpart 3][324]) apply in respect of any entry, search, or seizure conducted under this section.
+    (2) The provisions of [Part 4][324] of the Search and Surveillance Act 2012 (except [subpart 3][325]) apply in respect of any entry, search, or seizure conducted under this section.
     
     (3) The production by any officer referred to in paragraph (b) or paragraph (c) or paragraph (d) of subsection (7) of his warrant, instrument of appointment, or other evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by subsection (1).
     
@@ -3553,7 +3563,7 @@ Miscellaneous provisions
 
 ##### 100A Removal of boats in certain circumstances
     
-*   (1) Where any boat is found in circumstances such that any person who is an officer within the meaning of [section 100][133] (in this section called **the officer**) has good cause to suspect that the person in charge of the boat is committing an offence against paragraph (d) or paragraph (da) of section 94(2) and the officer has good cause to suspect that the person in charge of the vessel is likely to continue to commit the offence or is likely to commit a further offence against those provisions, the officer may, while the boat is within the territorial sea of New Zealand (as defined in [section 3][328] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977), seize the boat and remove it to the nearest practicable port or place of safe anchorage, or to a safe position more than half a nautical mile from the shore of the reserve.
+*   (1) Where any boat is found in circumstances such that any person who is an officer within the meaning of [section 100][133] (in this section called **the officer**) has good cause to suspect that the person in charge of the boat is committing an offence against paragraph (d) or paragraph (da) of section 94(2) and the officer has good cause to suspect that the person in charge of the vessel is likely to continue to commit the offence or is likely to commit a further offence against those provisions, the officer may, while the boat is within the territorial sea of New Zealand (as defined in [section 3][329] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977), seize the boat and remove it to the nearest practicable port or place of safe anchorage, or to a safe position more than half a nautical mile from the shore of the reserve.
     
     (2) Any officer may exercise the powers conferred on him by subsection (1) with the aid of such assistants as he considers to be necessary for the purpose.
     
@@ -3567,7 +3577,7 @@ Miscellaneous provisions
 
 ##### 101 Proceedings in respect of offences
     
-*   (1) All offences against this Act or any regulations or bylaws under this Act shall be punishable on summary conviction on the information of---
+*   (1) All charging documents in respect of offences against this Act or any regulations or bylaws under it must be filed in the name of---
         
     *   (a) the Commissioner, or some person appointed by him or by the Minister, in any case where the reserve is vested in the Crown and an administering body has not been appointed to control and manage the reserve; or
     
@@ -3575,15 +3585,21 @@ Miscellaneous provisions
     
     *   (c) some person appointed by a Minister of the Crown other than the Minister of Conservation where that other Minister has been appointed to control and manage the reserve under [section 22][31] or [section 36][48].
     
-    (2) Any appointment under subsection (1) may be for the purpose of laying an information in respect of a particular offence, or may be a general appointment to lay informations in respect of offences.
+    (2) Any appointment under subsection (1) may be for the purpose of filing a charging document in respect of a particular offence, or may be a general appointment to file charging documents in respect of offences.
     
-    (3) Any officer or servant of the Department or of the administering body of the reserve in respect of which the offence is alleged to have been committed, although not the informant, may appear and conduct the prosecution in all proceedings for offences against this Act or any regulations or bylaws under this Act.
+    (3) Any officer or servant of the Department or of the administering body of the reserve in respect of which the offence is alleged to have been committed, although not the person who filed the charging document, may appear and conduct the prosecution in all proceedings for offences against this Act or any regulations or bylaws under this Act.
     
     Compare: 1953 No 69 s 88
+    
+    Section 101(1): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 101(1)(b): amended, on 1 July 2003, by [section 262][189] of the Local Government Act 2002 (2002 No 84).
     
     Section 101(1)(c): amended, on 1 April 1987, by [section 65(1)][186] of the Conservation Act 1987 (1987 No 65).
+    
+    Section 101(2): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 101(3): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 Evidence of offences
     
@@ -3643,11 +3659,11 @@ Miscellaneous provisions
 
 ##### 105 Application of fines
     
-*   Subject to [section 73][329] of the Public Finance Act 1989, all fines recovered under this Act shall---
+*   Subject to [section 73][330] of the Public Finance Act 1989, all fines recovered under this Act shall---
         
-    *   (a) in the case of a fine recovered on the information of the principal administrative officer or chief executive of the administering body of any reserve (other than a Minister of the Crown) or of any person appointed in that behalf by the administering body of any reserve (other than a Minister of the Crown), be paid into and form part of the general funds of the administering body; and
+    *   (a) in the case of a fine recovered in respect of a charging document filed in the name of the principal administrative officer or chief executive of the administering body of any reserve (other than a Minister of the Crown) or of any person appointed in that behalf by the administering body of any reserve (other than a Minister of the Crown), be paid into and form part of the general funds of the administering body; and
     
-    *   (b) in the case of a fine recovered on the information of the Commissioner or of any Minister of the Crown (where there is no administering body other than a Minister of the Crown) or of any person appointed in that behalf by the Commissioner or by any Minister of the Crown (where there is no administering body other than a Minister of the Crown), shall be paid into the Public Account to the credit of the Trust Account, and shall be applied towards the purchasing or taking on lease, managing, administering, maintaining, protecting, improving, or developing of reserves, or as consideration for conservation covenants, as the Minister of Conservation directs:
+    *   (b) in the case of a fine recovered in respect of a charging document filed in the name of the Commissioner or of any Minister of the Crown (where there is no administering body other than a Minister of the Crown) or of any person appointed in that behalf by the Commissioner or by any Minister of the Crown (where there is no administering body other than a Minister of the Crown), shall be paid into the Public Account to the credit of the Trust Account, and shall be applied towards the purchasing or taking on lease, managing, administering, maintaining, protecting, improving, or developing of reserves, or as consideration for conservation covenants, as the Minister of Conservation directs:
     
     provided that any money awarded by a court in respect of loss or damage or the costs of extinguishing any fire or awarded under subsection (5) or subsection (6) of [section 94][127] and recovered as a fine shall be paid or applied in the manner aforesaid, but without any deduction being made.
     
@@ -3655,7 +3671,11 @@ Miscellaneous provisions
     
     Section 105: amended, on 25 January 2005, by [section 37(1)][263] of the Public Finance Amendment Act 2004 (2004 No 113).
     
+    Section 105(a): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 105(a): amended, on 1 July 2003, by [section 262][189] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 105(b): amended, on 1 July 2013, by [section 413][321] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 105(b): amended, on 1 April 1987, by [section 65(1)][186] of the Conservation Act 1987 (1987 No 65).
 
@@ -3693,7 +3713,7 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 53
     
-    Section 106(1)(c): substituted, on 10 April 1990, by [section 104][330] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 106(1)(c): substituted, on 10 April 1990, by [section 104][331] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 106(2A): inserted, on 27 December 1983, by section 13 of the Reserves Amendment Act 1983 (1983 No 43).
 
@@ -3733,7 +3753,7 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 96; 1971 No 25 s 245
     
-    Section 109(3): amended, on 1 April 1988, pursuant to [section 52(1)][331] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 109(3): amended, on 1 April 1988, pursuant to [section 52(1)][332] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 #### General provisions
 
@@ -3761,7 +3781,7 @@ Miscellaneous provisions
         
         *   (ii) a licence to use the vehicle issued for the current licensing year is attached to it,---
         
-        the administering body or the Commissioner, as the case may be, may give not less than 14 days' written notice to the person last registered under [Part 17][332] of the Land Transport Act 1998 in respect of the vehicle of its or his intention to sell or destroy the vehicle, by delivering the notice to him personally or by posting it to him by registered letter addressed to him at his last-known place of abode or business in New Zealand.
+        the administering body or the Commissioner, as the case may be, may give not less than 14 days' written notice to the person last registered under [Part 17][333] of the Land Transport Act 1998 in respect of the vehicle of its or his intention to sell or destroy the vehicle, by delivering the notice to him personally or by posting it to him by registered letter addressed to him at his last-known place of abode or business in New Zealand.
     
     (4) Unless before the expiry of the notice given under subsection (3) the owner of the vehicle or boat---
         
@@ -3777,13 +3797,13 @@ Miscellaneous provisions
     
     (7) In this section---
     
-    expressions defined in the [Land Transport Act 1998][333] have, in relation to any motor vehicle, the meanings so defined
+    expressions defined in the [Land Transport Act 1998][334] have, in relation to any motor vehicle, the meanings so defined
     
     _moored_, in relation to any boat, includes being left aground or on land.
     
-    Section 110(3)(b): amended, on 1 May 2011, by [section 35(4)][334] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 110(3)(b): amended, on 1 May 2011, by [section 35(4)][335] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 110(7): amended, on 1 May 2011, by [section 35(4)][334] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 110(7): amended, on 1 May 2011, by [section 35(4)][335] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 111 Road reserve may be dedicated as a road
     
@@ -3797,7 +3817,7 @@ Miscellaneous provisions
     
 *   (1) No District Land Registrar shall without special authority of law register or otherwise give effect under the [Land Transfer Act 1952][228] to any dealing with any reserve except in conformity with the trusts upon which the reserve is held for the time being.
     
-    (2) Subsections (1), (2), (3), and (5) of [section 129][335] of the Land Transfer Act 1952 shall apply not only to land set apart or reserved by the Crown as reserves, but also to any other land that is a reserve as defined in this Act, and the notification provided for by the said subsection (2) shall in the case of that other land be made by the administering body in which that other land is vested, and may be made by its inclusion in any memorandum of transfer of that other land to the administering body, or in any application to bring that land under the provisions of the [Land Transfer Act 1952][228].
+    (2) Subsections (1), (2), (3), and (5) of [section 129][336] of the Land Transfer Act 1952 shall apply not only to land set apart or reserved by the Crown as reserves, but also to any other land that is a reserve as defined in this Act, and the notification provided for by the said subsection (2) shall in the case of that other land be made by the administering body in which that other land is vested, and may be made by its inclusion in any memorandum of transfer of that other land to the administering body, or in any application to bring that land under the provisions of the [Land Transfer Act 1952][228].
     
     Compare: 1953 No 69 s 99
 
@@ -3813,27 +3833,27 @@ Miscellaneous provisions
     
     (5) If any person who has been granted a lease or licence fails to sign his lease or licence within 1 month after being required by written notice so to do, the administering body may declare the right of that person to obtain a lease or licence to be cancelled, and thereupon the amount paid in terms of the grant and the sum paid for the preparation and registration of the lease or licence shall, unless the administering body otherwise determines, be deemed to be forfeited.
     
-    (6) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][336] shall apply with respect to such leases.
+    (6) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][337] shall apply with respect to such leases.
     
     Compare: 1953 No 69 s 30
     
-    Section 113(1): amended, on 1 July 1996, by [section 16(1)][337] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(1): amended, on 1 July 1996, by [section 16(1)][338] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(2): substituted, on 1 July 1996, by [section 16(2)][337] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(2): substituted, on 1 July 1996, by [section 16(2)][338] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(5): amended, on 1 July 1996, by [section 16(3)(a)][337] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(5): amended, on 1 July 1996, by [section 16(3)(a)][338] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(5): amended, on 1 July 1996, by [section 16(3)(b)][337] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(5): amended, on 1 July 1996, by [section 16(3)(b)][338] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(6): amended, on 1 April 1982, pursuant to [section 120(1)][338] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 113(6): amended, on 1 April 1982, pursuant to [section 120(1)][339] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
 
 ##### 114 Variation of covenants, terms, and conditions in leases and licences
     
-*   (1) Subject to [section 17ZC][339] of the Conservation Act 1987 (in the case of a reserve other than a reserve vested in an administering body), the covenants, terms, conditions, and restrictions expressed or implied in any agreement, concession, lease, or licence under this Act may at any time be expressly varied, negatived, or added to by a memorandum of variation containing such particulars as may be necessary in the circumstances of the case.
+*   (1) Subject to [section 17ZC][340] of the Conservation Act 1987 (in the case of a reserve other than a reserve vested in an administering body), the covenants, terms, conditions, and restrictions expressed or implied in any agreement, concession, lease, or licence under this Act may at any time be expressly varied, negatived, or added to by a memorandum of variation containing such particulars as may be necessary in the circumstances of the case.
     
     (2) The memorandum of variation shall be executed by the administering body and by the lessee or licensee, and, if the lease or licence is registered with the District Land Registrar, shall be registered with the District Land Registrar, who shall enter an appropriate memorial on the register book copy of the lease or licence and on the outstanding copy thereof:
     
-    provided that, notwithstanding anything to the contrary in [section 66][340] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
+    provided that, notwithstanding anything to the contrary in [section 66][341] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
     
     (3) If the interest of the lessee or licensee is at the time of registration of the memorandum of variation subject to a mortgage, the memorandum shall not be binding on the mortgagee unless he has consented in writing thereto in the memorandum.
     
@@ -3841,15 +3861,15 @@ Miscellaneous provisions
     
     (5) This section applies only to reserves vested in an administering body under [section 26][37].
     
-    Section 114(1): amended, on 1 July 1996, by [section 17(1)(a)][341] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(1): amended, on 1 July 1996, by [section 17(1)(a)][342] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(1): amended, on 1 July 1996, by [section 17(1)(b)][341] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(1): amended, on 1 July 1996, by [section 17(1)(b)][342] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(2): amended, on 1 July 1996, by [section 17(1)(c)][341] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(2): amended, on 1 July 1996, by [section 17(1)(c)][342] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(4): amended, on 1 April 1982, pursuant to [section 120(1)][338] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 114(4): amended, on 1 April 1982, pursuant to [section 120(1)][339] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
     
-    Section 114(5): added, on 1 July 1996, by [section 17(2)][341] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(5): added, on 1 July 1996, by [section 17(2)][342] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 115 Transfers, subleases, and mortgages
     
@@ -3861,27 +3881,27 @@ Miscellaneous provisions
     
     (4) \[Repealed\]
     
-    (5) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][336] shall apply with respect to transfers, subleases, and mortgages of such leases.
+    (5) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][337] shall apply with respect to transfers, subleases, and mortgages of such leases.
     
     (6) This section applies only to reserves vested in an administering body under [section 26][37].
     
-    Section 115(1): amended, on 1 July 1996, by [section 18(1)(a)][342] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(1): amended, on 1 July 1996, by [section 18(1)(a)][343] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(2): amended, on 1 July 1996, by [section 18(1)(b)][342] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(2): amended, on 1 July 1996, by [section 18(1)(b)][343] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(3): amended, on 1 July 1996, by [section 18(1)(c)][342] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(3): amended, on 1 July 1996, by [section 18(1)(c)][343] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(4): repealed, on 1 July 1996, by [section 18(1)(d)][342] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(4): repealed, on 1 July 1996, by [section 18(1)(d)][343] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(5): amended, on 1 April 1982, pursuant to [section 120(1)][338] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 115(5): amended, on 1 April 1982, pursuant to [section 120(1)][339] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
     
-    Section 115(6): added, on 1 July 1996, by [section 18(2)][342] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(6): added, on 1 July 1996, by [section 18(2)][343] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 116 Certificate of title in respect of reserves
     
 *   (1) The District Land Registrar for the land registration district in which is situated any reserve vested in the Crown shall, on the written request of the Commissioner, issue a certificate or certificates of title under the [Land Transfer Act 1952][228] in the name of Her Majesty the Queen in respect of any land for the time being comprised in that reserve.
     
-    (2) In any case where the survey of the reserve is inadequate for the issue of an ordinary certificate of title, the District Land Registrar may issue a certificate of title limited as to description of parcels, and the provisions of [Part 12][343] of the Land Transfer Act 1952 as to certificates of title limited as to description of parcels shall, as far as they are applicable and with any necessary modifications, apply with respect to that certificate of title.
+    (2) In any case where the survey of the reserve is inadequate for the issue of an ordinary certificate of title, the District Land Registrar may issue a certificate of title limited as to description of parcels, and the provisions of [Part 12][344] of the Land Transfer Act 1952 as to certificates of title limited as to description of parcels shall, as far as they are applicable and with any necessary modifications, apply with respect to that certificate of title.
     
     (3) Where any District Land Registrar issues any certificate of title under this section, he shall not prepare a duplicate thereof, and the copy of the certificate of title embodied in the register shall be noted accordingly.
     
@@ -3937,7 +3957,7 @@ Miscellaneous provisions
         
         provided also that where under this subsection a notification is required to be published in a newspaper circulating in the area in which the reserve or proposed reserve is situated and there is no such newspaper, the notification shall be published once in the _Gazette_.
     
-    (2) Subject, in relation to Maori land owned in multiple ownership, to [section 181][344] of Te Ture Whenua Maori Act 1993, a notice required by this Act to be given to any person may be sent by registered post to the last-known place of abode or business of that person, and shall be deemed to have been delivered when in the ordinary course of post it would be delivered. If any such person is absent from New Zealand, the notice may be sent to his agent, and, if he has no known agent, the notice may be given to him by publishing it in a newspaper circulating in the district in which the land the subject matter of the notice is situated.
+    (2) Subject, in relation to Maori land owned in multiple ownership, to [section 181][345] of Te Ture Whenua Maori Act 1993, a notice required by this Act to be given to any person may be sent by registered post to the last-known place of abode or business of that person, and shall be deemed to have been delivered when in the ordinary course of post it would be delivered. If any such person is absent from New Zealand, the notice may be sent to his agent, and, if he has no known agent, the notice may be given to him by publishing it in a newspaper circulating in the district in which the land the subject matter of the notice is situated.
     
     (3) Every notice by the Minister under this Act shall come into force on the day of the date thereof or on such later date as may be specified in the notice.
     
@@ -3979,7 +3999,7 @@ Miscellaneous provisions
 
 ##### 122 Special provisions as to reserves administered under Tourist and Health Resorts Control Act 1908
     
-*   (1) [Section 8][345] of the Tourist and Health Resorts Control Act 1908 shall, with respect to reserves administered under that Act, be deemed to---
+*   (1) [Section 8][346] of the Tourist and Health Resorts Control Act 1908 shall, with respect to reserves administered under that Act, be deemed to---
         
     *   (a) confer on the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][182] the powers conferred by this Act on the Minister of Conservation for leasing a reserve of that classification:
         
@@ -3999,43 +4019,43 @@ Miscellaneous provisions
     
     *   (d) apply to those reserves, with such modifications as may be necessary, the provisions of [sections 106 to 108][141]; and every reference in those sections to the Minister shall be deemed to be a reference to the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][182].
     
-    (2) Nothing in this section shall be construed to affect or modify the provisions of [section 7][346] of the Tourist and Health Resorts Control Act 1908 as to money received in respect of reserves administered under that Act, and in particular the provisions of [section 88][118] of this Act as to statements of assets and liabilities and accounts shall not apply with respect to those reserves.
+    (2) Nothing in this section shall be construed to affect or modify the provisions of [section 7][347] of the Tourist and Health Resorts Control Act 1908 as to money received in respect of reserves administered under that Act, and in particular the provisions of [section 88][118] of this Act as to statements of assets and liabilities and accounts shall not apply with respect to those reserves.
     
     (3) The powers conferred by this section shall be in addition to and not in substitution for any existing powers in respect of reserves administered under the [Tourist and Health Resorts Control Act 1908][182].
     
     Compare: 1953 No 69 s 105
     
-    Section 122(1)(a): amended, on 1 November 1991, by [section 18(2)][347] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(a): amended, on 1 November 1991, by [section 18(2)][348] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
     Section 122(1)(a): amended, on 1 April 1987, by [section 65(1)][186] of the Conservation Act 1987 (1987 No 65).
     
-    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(a)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(a)][349] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(b)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(b)][349] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(a) first proviso: amended, on 1 November 1991, by [section 18(2)][347] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(a) first proviso: amended, on 1 November 1991, by [section 18(2)][348] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(a) second proviso: amended, on 1 July 1996, by [section 19(c)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) second proviso: amended, on 1 July 1996, by [section 19(c)][349] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 122(1)(a) second proviso: amended, on 1 April 1987, by [section 65(1)][186] of the Conservation Act 1987 (1987 No 65).
     
-    Section 122(1)(b): amended, on 1 November 1991, by [section 18(2)][347] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(b): amended, on 1 November 1991, by [section 18(2)][348] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(b) proviso: amended, on 1 July 1996, by [section 19(d)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(b) proviso: amended, on 1 July 1996, by [section 19(d)][349] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(b) proviso: amended, on 1 November 1991, by [section 18(2)][347] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(b) proviso: amended, on 1 November 1991, by [section 18(2)][348] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(c): amended, on 1 July 1996, by [section 19(e)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(c): amended, on 1 July 1996, by [section 19(e)][349] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(c): amended, on 1 November 1991, by [section 18(2)][347] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(c): amended, on 1 November 1991, by [section 18(2)][348] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(d): amended, on 1 November 1991, by [section 18(2)][347] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(d): amended, on 1 November 1991, by [section 18(2)][348] of the New Zealand Tourism Board Act 1991 (1991 No 110).
 
 ##### 122A Control of dogs
     
-*   (1) Nothing in this Act derogates from the provisions of [Part 5C][349] of the Conservation Act 1987, which provides for the control of dogs and which, subject to paragraphs (b) and (c) of section 26ZT of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
+*   (1) Nothing in this Act derogates from the provisions of [Part 5C][350] of the Conservation Act 1987, which provides for the control of dogs and which, subject to paragraphs (b) and (c) of section 26ZT of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
     
-    (2) Paragraphs (b) and (c) of [section 26ZT][350] of the Conservation Act 1987 provide that an open dog area may not include---
+    (2) Paragraphs (b) and (c) of [section 26ZT][351] of the Conservation Act 1987 provide that an open dog area may not include---
         
     *   (a) any part of a reserve classified---
             
@@ -4385,7 +4405,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Counties Amendment Act 1961 (1961 No 131) (Reprinted 1969, Vol 2, p 1343)
 
-_Amendment(s) incorporated in the [Act(s)][351]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ##### Hauraki Gulf Maritime Park Act 1967 (1967 No 131)
 
@@ -4397,19 +4417,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (Reprinted 1974, Vol 3, p 2399) 
 
-_Amendment(s) incorporated in the [Act(s)][351]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][351]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ##### Municipal Corporations Act 1954 (1954 No 76) (Reprinted 1969, Vol 4, p 2439)
 
-_Amendment(s) incorporated in the [Act(s)][351]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ##### Public Bodies Meetings Act 1962 (1962 No 113) (Reprinted 1975, Vol 3, p 2269)
 
-_Amendment(s) incorporated in the [Act(s)][351]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ---
 
@@ -4467,7 +4487,7 @@ _Amendment(s) incorporated in the Act(s)._
 ## Schedule 4  
 Land that may be held as reserve
     
-*   Schedule 4: added, on 13 March 1996, by [section 20][352] of the Reserves Amendment Act 1996 (1996 No 3).
+*   Schedule 4: added, on 13 March 1996, by [section 20][353] of the Reserves Amendment Act 1996 (1996 No 3).
 *   Schedule 4 heading: substituted, on 21 October 2000, by [section 22][292] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 **Land** **Category A or B** **Boundary documents**
@@ -4488,76 +4508,6 @@ Paynes Gully Extension Wildlife Management Reserve Category B
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][353].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][354] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -4572,23 +4522,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Reserves Act 1977\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Reserves Act 1977\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][355] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][354] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][356] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][355] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][357] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][356] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][358] and [17E][359] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][357] and [17E][358] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4619,23 +4569,25 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Reserves Amendment Act 2013][360] (2013 No 17)
+*   [Reserves Amendment Act 2013][359] (2013 No 17)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 299][317]
     
-    [Reserves Amendment Act 2010][361] (2010 No 20)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][321]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][334]
+    [Reserves Amendment Act 2010][360] (2010 No 20)
+    
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][335]
     
     Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][276]
     
     New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][246]
     
-    [Reserves Amendment Act 2008][362] (2008 No 17)
+    [Reserves Amendment Act 2008][361] (2008 No 17)
     
     Protected Objects Amendment Act 2006 (2006 No 37): [section 35][187]
     
-    [Reserves Amendment Act 2005][363] (2005 No 68)
+    [Reserves Amendment Act 2005][362] (2005 No 68)
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][263]
     
@@ -4659,7 +4611,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Conservation Amendment Act (No 2) 1996 (1996 No 14): section 9
     
-    [Reserves Amendment Act 1996 ][364](1996 No 3)
+    [Reserves Amendment Act 1996 ][363](1996 No 3)
     
     Reserves Amendment Act 1994 (1994 No 110)
     
@@ -4675,11 +4627,11 @@ Amendments, repeals, and miscellaneous provisions
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][311]
     
-    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][347]
+    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][348]
     
-    Resource Management Act 1991 (1991 No 69): [sections 362][231], [373][365]
+    Resource Management Act 1991 (1991 No 69): [sections 362][231], [373][364]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [sections 91--96][188], [100][285], [102][287], [104][330]
+    Conservation Law Reform Act 1990 (1990 No 31): [sections 91--96][188], [100][285], [102][287], [104][331]
     
     Survey Amendment Act (No 3) 1989 (1989 No 139): section 9(2)
     
@@ -4687,7 +4639,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Reserves Amendment Act 1988 (1988 No 137)
     
-    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 52(1)][331]
+    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 52(1)][332]
     
     State Sector Act 1988 (1988 No 20): section [90(a)][222]
     
@@ -4701,7 +4653,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Reserves Amendment Act 1983 (1983 No 43)
     
-    New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][338]
+    New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][339]
     
     Public Works Act 1981 (1981 No 35): [section 248(1)][192]
     
@@ -4711,7 +4663,7 @@ Amendments, repeals, and miscellaneous provisions
     
     National Parks Act 1980 (1980 No 66): section 80(2)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][321]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][322]
     
     Reserves Amendment Act 1979 (1979 No 63)
     
@@ -4723,7 +4675,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Local Government Amendment Act 1978 (1978 No 43): section [3(5)][254]
     
-    Forests Act 1949 (1949 No 19): [section 2(2)(a)][366]
+    Forests Act 1949 (1949 No 19): [section 2(2)(a)][365]
 
 
 
@@ -5048,49 +5000,48 @@ Amendments, repeals, and miscellaneous provisions
 [318]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM33087
 [319]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373391
 [320]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM33491
-[321]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM35085
-[322]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136860
-[323]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136770
-[324]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136781
-[325]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM277090
-[326]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM16628
-[327]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM310742
-[328]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM442665
-[329]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163137
-[330]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209170
-[331]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM131677
-[332]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2214226
-[333]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM433612
-[334]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2015063
-[335]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271212
-[336]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM57005
-[337]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373392
-[338]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM58277
-[339]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104664
-[340]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM270475
-[341]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373393
-[342]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373394
-[343]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271699
-[344]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291805
-[345]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175087
-[346]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175085
-[347]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM249395
-[348]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373395
-[349]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106041
-[350]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106047
-[351]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM390002
-[352]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373396
-[353]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136500
-[354]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4686448
-[355]: http://www.pco.parliament.govt.nz/reprints/
-[356]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM195439
-[357]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[358]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM195468
-[359]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM195470
-[360]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138103
-[361]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853500
-[362]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209230
-[363]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348957
-[364]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373372
-[365]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM239827
-[366]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255632
+[321]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3360714
+[322]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM35085
+[323]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136860
+[324]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136770
+[325]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2136781
+[326]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM277090
+[327]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM16628
+[328]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3360067
+[329]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM442665
+[330]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163137
+[331]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209170
+[332]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM131677
+[333]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2214226
+[334]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM433612
+[335]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2015063
+[336]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271212
+[337]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM57005
+[338]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373392
+[339]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM58277
+[340]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104664
+[341]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM270475
+[342]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373393
+[343]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373394
+[344]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271699
+[345]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291805
+[346]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175087
+[347]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175085
+[348]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM249395
+[349]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373395
+[350]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106041
+[351]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106047
+[352]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM390002
+[353]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373396
+[354]: http://www.pco.parliament.govt.nz/reprints/
+[355]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM195439
+[356]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[357]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM195468
+[358]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM195470
+[359]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138103
+[360]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853500
+[361]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209230
+[362]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348957
+[363]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373372
+[364]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM239827
+[365]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255632
