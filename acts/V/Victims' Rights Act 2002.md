@@ -1,5 +1,5 @@
 Reprint  
-as at 5 March 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,171 +23,171 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose of Act][4]
+[3][4][][4][Purpose of Act][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Directions about members of immediate family][6]
+[5][6][][6][Directions about members of immediate family][6]
 
-[6][7] [Act binds the Crown][7]
+[6][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [Provisions relating to treatment and rights of victims generally][8]
 
 [Principles guiding treatment of victims][9]
 
-[7][10] [Treatment][10]
+[7][10][][10][Treatment][10]
 
-[8][11] [Access to services][11]
+[8][11][][11][Access to services][11]
 
-[9][12] [Meetings to resolve issues relating to offence][12]
+[9][12][][12][Meetings to resolve issues relating to offence][12]
 
-[10][13] [Enforceability of principles][13]
+[10][13][][13][Enforceability of principles][13]
 
 [Information to be given to victims][14]
 
-[11][15] [Information about programmes, remedies, and services][15]
+[11][15][][15][Information about programmes, remedies, and services][15]
 
-[12][16] [Information about proceedings][16]
+[12][16][][16][Information about proceedings][16]
 
-[13][17] [Limits on duties to give information under sections 11 and 12][17]
+[13][17][][17][Limits on duties to give information under sections 11 and 12][17]
 
-[14][18] [Information may be given to victim's support person][18]
+[14][18][][18][Information may be given to victim's support person][18]
 
 [Privacy of victims][19]
 
-[15][20] [Victim's rights under Privacy Act 1993][20]
+[15][20][][20][Victim's rights under Privacy Act 1993][20]
 
-[16][21] [Restriction on giving victim's precise address in evidence or information provided to court][21]
+[16][21][][21][Restriction on giving victim's precise address in evidence or information provided to court][21]
 
-[16A][22] [Criminal proceedings to which section 16 does not apply][22]
+[16A][22][][22][Criminal proceedings to which section 16 does not apply][22]
 
 [Victim impact statements][23]
 
-[17][24] [Victim impact statements in sentencing of offender][24]
+[17][24][][24][Victim impact statements in sentencing of offender][24]
 
-[18][25] [Procedure before ascertaining information from victim][25]
+[18][25][][25][Procedure before ascertaining information from victim][25]
 
-[19][26] [Form and verification of information ascertained][26]
+[19][26][][26][Form and verification of information ascertained][26]
 
-[20][27] [Statements by others disadvantaged by offence][27]
+[20][27][][27][Statements by others disadvantaged by offence][27]
 
-[21][28] [Information ascertained to be submitted to judicial officer][28]
+[21][28][][28][Information ascertained to be submitted to judicial officer][28]
 
-[21A][29] [Victim impact statement may be used for purpose of sentence indication][29]
+[21A][29][][29][Victim impact statement may be used for purpose of sentence indication][29]
 
-[22][30] [Victim impact statement defined][30]
+[22][30][][30][Victim impact statement defined][30]
 
-[23][31] [Offender not to be given statement to keep][31]
+[23][31][][31][Offender not to be given statement to keep][31]
 
-[24][32] [Return of statements at end of proceedings][32]
+[24][32][][32][Return of statements at end of proceedings][32]
 
-[25][33] [Judicial officer may withhold part of statement from offender to protect victim's physical safety or security][33]
+[25][33][][33][Judicial officer may withhold part of statement from offender to protect victim's physical safety or security][33]
 
-[26][34] [Judicial officer not to take into account withheld part][34]
+[26][34][][34][Judicial officer not to take into account withheld part][34]
 
-[27][35] [Directions or conditions on other disclosure or other distribution of statements][35]
+[27][35][][35][Directions or conditions on other disclosure or other distribution of statements][35]
 
 [Victim's views on application for order prohibiting permanently publication of name of accused or offender][36]
 
-[28][37] [Victim's views on application for order prohibiting permanently publication of name of accused or offender][37]
+[28][37][][37][Victim's views on application for order prohibiting permanently publication of name of accused or offender][37]
 
 [Part 3][38]  
 [Provisions relating to rights of victims of certain offences][38]
 
 [Sections 30 to 48 apply only to victims of certain offences][39]
 
-[29][40] [Application of sections 30 to 48][40]
+[29][40][][40][Application of sections 30 to 48][40]
 
 [Victim's views about release on bail of accused or offender][41]
 
-[30][42] [Victim's views about release on bail of accused or offender][42]
+[30][42][][42][Victim's views about release on bail of accused or offender][42]
 
 [Sections 32 to 38 and 47 apply only to victim who asked for notice and gave his or her current address][43]
 
-[31][44] [Application of sections 32 to 38 and 47][44]
+[31][44][][44][Application of sections 32 to 38 and 47][44]
 
 [Duties of Police in relation to notice under sections 34 to 39][45]
 
-[32][46] [Police to give information about right to ask for notice and appointment of representative][46]
+[32][46][][46][Police to give information about right to ask for notice and appointment of representative][46]
 
 [Victim's address to be forwarded in certain cases][47]
 
-[33][48] [Victim's address to be forwarded in certain cases][48]
+[33][48][][48][Victim's address to be forwarded in certain cases][48]
 
-[33A][49] [Secretary must request victim's current address for notice under Prisoners' and Victims' Claims Act 2005][49]
+[33A][49][][49][Secretary must request victim's current address for notice under Prisoners' and Victims' Claims Act 2005][49]
 
 [Notice of certain matters to be given to victims of certain offences][50]
 
-[34][51] [Notice of release on bail of accused or offender][51]
+[34][51][][51][Notice of release on bail of accused or offender][51]
 
-[35][52] [Notice of temporary release from, or escape or absconding from, or death in, prison detention or home detention, of accused or offender][52]
+[35][52][][52][Notice of temporary release from, or escape or absconding from, or death in, prison detention or home detention, of accused or offender][52]
 
-[36][53] [Notice of convictions for breaching release or detention conditions and of decisions on recall orders][53]
+[36][53][][53][Notice of convictions for breaching release or detention conditions and of decisions on recall orders][53]
 
-[37][54] [Notice of discharge, leave of absence, or escape or death of accused or offender who is compulsorily detained in hospital or facility][54]
+[37][54][][54][Notice of discharge, leave of absence, or escape or death of accused or offender who is compulsorily detained in hospital or facility][54]
 
-[38][55] [Exception to section 37 once certain offenders no longer liable to detention for sentence imposed for offence][55]
+[38][55][][55][Exception to section 37 once certain offenders no longer liable to detention for sentence imposed for offence][55]
 
-[39][56] [Notice of proposal to cancel or suspend liability for deportation][56]
+[39][56][][56][Notice of proposal to cancel or suspend liability for deportation][56]
 
 [Representatives for notice][57]
 
-[40][58] [Representatives for notice][58]
+[40][58][][58][Representatives for notice][58]
 
-[41][59] [Effect of appointment of representative][59]
+[41][59][][59][Effect of appointment of representative][59]
 
-[42][60] [Victim's support person may be or appoint representative][60]
+[42][60][][60][Victim's support person may be or appoint representative][60]
 
-[43][61] [Method of appointment of representative][61]
+[43][61][][61][Method of appointment of representative][61]
 
-[44][62] [Termination of appointment][62]
+[44][62][][62][Termination of appointment][62]
 
-[45][63] [When notices take effect][63]
+[45][63][][63][When notices take effect][63]
 
 [Compliance with requirements to give notice][64]
 
-[46][65] [Ways in which notice required may be given][65]
+[46][65][][65][Ways in which notice required may be given][65]
 
 [Participation in process under Parole Act 2002][66]
 
-[47][67] [Victim may participate in process for offender's release from prison or release to or from home detention][67]
+[47][67][][67][Victim may participate in process for offender's release from prison or release to or from home detention][67]
 
 [Submissions on deportation of offender][68]
 
-[48][69] [Victim may make submission on consideration of cancellation or suspension of liability for deportation, or offender's appeal against deportation][69]
+[48][69][][69][Victim may make submission on consideration of cancellation or suspension of liability for deportation, or offender's appeal against deportation][69]
 
 [Part 4][70]  
 [Miscellaneous provisions][70]
 
 [Complaints and other ways in which rights may be enforced][71]
 
-[49][72] [Complaints][72]
+[49][72][][72][Complaints][72]
 
-[50][73] [Other ways in which rights may be enforced][73]
+[50][73][][73][Other ways in which rights may be enforced][73]
 
 [Return of property held as evidence][74]
 
-[51][75] [Return of property held as evidence][75]
+[51][75][][75][Return of property held as evidence][75]
 
 [Director-General of Health may delegate duties under Act][76]
 
-[52][77] [Director-General of Health may delegate duties][77]
+[52][77][][77][Director-General of Health may delegate duties][77]
 
 [Amendments][78]
 
-[53][79] [Amendments][79]
+[53][79][][79][Amendments][79]
 
 [Repeal][80]
 
-[54][81] [Victims of Offences Act 1987 repealed][81]
+[54][81][][81][Victims of Offences Act 1987 repealed][81]
 
 [Schedule][82]  
 [Enactments amended][82]
@@ -468,7 +468,7 @@ Provisions relating to treatment and rights of victims generally
     
     *   (b) any preliminary hearing relating to the offence:
     
-    *   (c) any defended hearing, or trial, relating to the offence:
+    *   (c) any trial relating to the offence:
     
     *   (d) any hearings set down for sentencing for the offence:
     
@@ -476,9 +476,13 @@ Provisions relating to treatment and rights of victims generally
     
     (3) Nothing in this section prevents information of a kind that, under this section, must be given to a victim of an offence, from also being given to any other person (for example, to a person who was disadvantaged by the offence).
     
-    (4) In this section, _investigating authorities_ means persons or bodies investigating the offence in the performance or exercise of their official functions, powers, or duties; but does not include a person exercising or performing functions, powers, or duties of a probation officer under the [Criminal Justice Act 1985][101] or any other enactment.
+    (4) In this section, _investigating authorities_ means persons or bodies investigating the offence in the performance or exercise of their official functions, powers, or duties; but does not include a person exercising or performing functions, powers, or duties of a probation officer under any enactment.
     
     Compare: 1987 No 173 s 6
+    
+    Section 12(2)(c): amended, on 1 July 2013, by [section 8][101] of the Victims' Rights Amendment Act 2011 (2011 No 95).
+    
+    Section 12(4): amended, on 1 July 2013, by [section 8][101] of the Victims' Rights Amendment Act 2011 (2011 No 95).
 
 ##### 13 Limits on duties to give information under sections 11 and 12
     
@@ -925,7 +929,7 @@ Provisions relating to rights of victims of certain offences
         
     *   (a) means detention in a prison (or in a Police station or other place of confinement in accordance with [section 35][130] of the Corrections Act 2004); and
     
-    *   (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in [section 142A(1)][131] of the Criminal Justice Act 1985; but
+    *   (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in [section 34A(1)][131] of the Corrections Act 2004; but
     
     *   (c) does not include detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under [section 238(1)(d) or (e)][132] of the Children, Young Persons, and Their Families Act 1989; and
     
@@ -940,6 +944,8 @@ Provisions relating to rights of victims of certain offences
     Section 35(1)(a)(ii): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
     
     Section 35(3)(a): amended, on 1 June 2005, by [section 206][125] of the Corrections Act 2004 (2004 No 50).
+    
+    Section 35(3)(b): amended, on 1 July 2013, by [section 8][101] of the Victims' Rights Amendment Act 2011 (2011 No 95).
 
 ##### 36 Notice of convictions for breaching release or detention conditions and of decisions on recall orders
     
@@ -1339,7 +1345,7 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Victims' Rights Act 2002\. The reprint incorporates all the amendments to the Act as at 5 March 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Victims' Rights Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][173] ![](/images/external_link.gif).
 
@@ -1517,7 +1523,7 @@ Commencementsee section 2
 [98]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM80064
 [99]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM201378
 [100]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM201377
-[101]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM76615
+[101]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM4059513
 [102]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65366
 [103]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65368
 [104]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM65371
@@ -1547,7 +1553,7 @@ Commencementsee section 2
 [128]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM295478
 [129]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM138484
 [130]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM295441
-[131]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM79102
+[131]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM5340700
 [132]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM152948
 [133]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM1102349
 [134]: http://www.legislation.govt.nz/act/public/2002/0039/latest/link.aspx?id=DLM139307
