@@ -1,5 +1,5 @@
 Reprint  
-as at 24 May 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1613,7 +1613,7 @@ General rules relating to dispositions, instruments, transactions, and property
         
         
     
-    (4) A person who knowingly gives a false certificate under subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (4) A person who knowingly gives a false certificate under subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
     (5) If the power of attorney is an enduring power of attorney within the meaning of [Part 9][485] of the Protection of Personal and Property Rights Act 1988,---
         
@@ -1623,7 +1623,9 @@ General rules relating to dispositions, instruments, transactions, and property
     
     Compare: 1952 No 51 [ss 135][488], [139][489]
     
-    Section 20(5): added, on 25 September 2008, by [section 26][490] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 20(4): amended, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 20(5): added, on 25 September 2008, by [section 26][491] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 21 Irrevocable powers of attorney
     
@@ -1649,7 +1651,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     _purchaser_ includes a lessee or mortgagee, or other person who, for valuable consideration, takes or deals for any property.
     
-    Compare: 1952 No 51 [ss 136][491], [137][492]
+    Compare: 1952 No 51 [ss 136][492], [137][493]
 
 ##### 22 Person between 18 and 20 years may do certain things
     
@@ -1663,7 +1665,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (2) Anything done by a person under subsection (1) has the same effect as if the person were 20 years old.
     
-    Compare: 1952 No 51 [s 134A][493]
+    Compare: 1952 No 51 [s 134A][494]
 
 ##### 23 Construction of instruments
     
@@ -1679,7 +1681,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) words in the singular include the plural, and words in the plural include the singular.
     
-    Compare: 1952 No 51 [ss 13][494], [70][495]
+    Compare: 1952 No 51 [ss 13][495], [70][496]
 
 ### Subpart 2---Writing required in certain cases
 
@@ -1697,7 +1699,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) a sale of land by order of a court or through the Registrar.
     
-    Compare: 1956 No 23 [s 2][496]
+    Compare: 1956 No 23 [s 2][497]
 
 ##### 25 Writing required for certain dispositions of interests in land
     
@@ -1725,7 +1727,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (c) the disposition of any interest in land by operation of law.
     
-    Compare: 1952 No 51 [s 49A][497]
+    Compare: 1952 No 51 [s 49A][498]
 
 ##### 26 Doctrine of part performance not affected
     
@@ -1745,7 +1747,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (4) In this section, _contract of guarantee_ means a contract under which a person agrees to answer to another person for the debt, default, or liability of a third person.
     
-    Compare: 1956 No 23 [ss 2][496], [3][498]
+    Compare: 1956 No 23 [ss 2][497], [3][499]
 
 ### Subpart 3---Sales and other similar transactions
 
@@ -1781,9 +1783,9 @@ General rules relating to dispositions, instruments, transactions, and property
         
     *   (a) by obtaining from a court an order for possession of the land (in which case the agreement is cancelled from the making of, or from a later time specified for the purpose in, the order); or
     
-    *   (b) by re-entering the land peaceably (and without committing forcible entry under [section 91][499] of the Crimes Act 1961).
+    *   (b) by re-entering the land peaceably (and without committing forcible entry under [section 91][500] of the Crimes Act 1961).
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 29 Requirements for vendor's notice to purchaser
     
@@ -1809,7 +1811,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (d) the purchaser's right to apply to a court for relief against cancellation of the agreement under [section 33][40], and the advisability of seeking legal advice on the exercise of that right.
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 30 Defects that do not invalidate vendor's notice or prevent purchaser offering reasonable compensation
     
@@ -1821,7 +1823,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (c) the notice specifies that the breach would be capable of being remedied by the payment of reasonable compensation, but does not also specify the amount that the vendor considers reasonable.
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 31 Section 28 does not prevent or limit claims for damages
     
@@ -1831,7 +1833,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) any other duty to the vendor that the purchaser may be under independently of the agreement.
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 32 Instruments have no effect so far as they conflict with section 28, 29, 30, or 31
     
@@ -1841,7 +1843,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) conflicts with [section 28][35], [29][36], [30][37], or [31][38].
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 33 Relief against cancellation of agreement for sale of land
     
@@ -1867,7 +1869,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) the breach is not capable of being remedied.
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 34 Section 33 replaces all other jurisdiction to grant relief
     
@@ -1887,7 +1889,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (2) A court may grant relief under [section 33][40] without determining all or any of the things in subsection (1).
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 36 Instruments have no effect so far as they conflict with section 33 or 34
     
@@ -1897,7 +1899,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) conflicts with [section 33][40] or [34][41].
     
-    Compare: 1952 No 51 [s 50][500]
+    Compare: 1952 No 51 [s 50][501]
 
 ##### 37 Purchaser may apply for order requiring refund of deposit, etc, in respect of certain agreements
     
@@ -1947,7 +1949,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) if the sale is of an interest under a sublease, all rent due under every superior lease has been paid and all covenants and conditions of every superior lease have been performed and observed.
     
-    Compare: 1952 No 51 [s 52(b)(v)][501]
+    Compare: 1952 No 51 [s 52(b)(v)][502]
 
 ##### 41 Vendor must ensure register not limited as to title (whether or not register is also limited as to parcels)
     
@@ -1955,7 +1957,7 @@ General rules relating to dispositions, instruments, transactions, and property
         
     *   (a) was created before the making of the agreement; and
     
-    *   (b) is limited as to title under [Part 12][502] of the Land Transfer Act 1952 (whether or not the register is also limited as to description of parcels under [section 191][503] of that Act).
+    *   (b) is limited as to title under [Part 12][503] of the Land Transfer Act 1952 (whether or not the register is also limited as to description of parcels under [section 191][504] of that Act).
     
     (2) The vendor must, before the time of settlement, and unless the agreement provides otherwise,---
         
@@ -1963,7 +1965,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) meet the expenses of complying with paragraph (a), including payment of any fee prescribed under the [Land Transfer Act 1952][452].
     
-    Compare: 1952 No 51 [s 54][504]
+    Compare: 1952 No 51 [s 54][505]
 
 #### Miscellaneous provisions
 
@@ -1989,7 +1991,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (8) The purchaser may treat as fraudulent a sale that contravenes subsection (7).
     
-    Compare: 1908 No 168 [s 59][505]; 1952 No 51 [s 51][506]
+    Compare: 1908 No 168 [s 59][506]; 1952 No 51 [s 51][507]
 
 ##### 43 Later title not invalid because of defect in court order
     
@@ -2001,7 +2003,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) the procedure followed in the making of that order.
     
-    Compare: 1952 No 51 [s 59][507]
+    Compare: 1952 No 51 [s 59][508]
 
 ##### 44 Certain instruments authorise payment to practitioner instead of party for whom practitioner acts
     
@@ -2009,7 +2011,7 @@ General rules relating to dispositions, instruments, transactions, and property
         
     *   (a) prepared for registration after payment of money or the giving of other consideration for a contract; and
     
-    *   (b) that contains a certification that complies with [section 164A(3)][508] of the Land Transfer Act 1952; but
+    *   (b) that contains a certification that complies with [section 164A(3)][509] of the Land Transfer Act 1952; but
     
     *   (c) only if that certification is given by a practitioner acting for the party who, under that contract, is entitled to give a receipt for the payment of that money or the giving of that other consideration.
     
@@ -2025,17 +2027,17 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (5) In this section,---
     
-    _electronic instrument_ and _electronic workspace facility_ have the same meanings as in [section 4][509] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
+    _electronic instrument_ and _electronic workspace facility_ have the same meanings as in [section 4][510] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
     
     _paper instrument_ has the same meaning as in [section 2][455] of the Land Transfer Act 1952
     
     _practitioner_ means---
         
-    *   (a) a practitioner as defined in [section 6][510] of the Lawyers and Conveyancers Act 2006; or
+    *   (a) a practitioner as defined in [section 6][511] of the Lawyers and Conveyancers Act 2006; or
     
-    *   (b) a landbroker licensed by the Registrar-General under [section 229][511] of the Land Transfer Act 1952\.
+    *   (b) a landbroker licensed by the Registrar-General under [section 229][512] of the Land Transfer Act 1952\.
     
-    Compare: 1952 No 51 [s 56][512]
+    Compare: 1952 No 51 [s 56][513]
 
 ### Subpart 4---Apportionment of periodical payments between vendors and purchasers
 
@@ -2051,7 +2053,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (3) Subsection (2) does not apply if a contrary intention is expressed in an instrument.
     
-    Compare: 1952 No 51 [s 145][513]
+    Compare: 1952 No 51 [s 145][514]
 
 ##### 46 Payment and recovery of apportioned part of periodical payment
     
@@ -2069,7 +2071,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (3) Subsection (2) is subject to [section 47(2)][56].
     
-    Compare: 1952 No 51 [ss 146][514], [147][515]
+    Compare: 1952 No 51 [ss 146][515], [147][516]
 
 ##### 47 Apportionment of rent from property
     
@@ -2089,7 +2091,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (4) Subsection (2) overrides [section 46(2)][55].
     
-    Compare: 1952 No 51 [s 147][515]
+    Compare: 1952 No 51 [s 147][516]
 
 ### Subpart 5---Assignment of things in action
 
@@ -2175,7 +2177,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (8) Subsection (7) applies even though some other thing may remain to be done, without the intervention or assistance of the assignor, in order to confer title to the rights on the assignee.
     
-    Compare: 1952 No 51 [s 130][516]
+    Compare: 1952 No 51 [s 130][517]
 
 ##### 51 Further consequences of assignment of thing in action
     
@@ -2197,7 +2199,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) that there are other opposing or conflicting claims in relation to the thing in action.
     
-    Compare: 1952 No 51 [s 130][516]
+    Compare: 1952 No 51 [s 130][517]
 
 ##### 52 Further provisions about assignments
     
@@ -2219,9 +2221,9 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) if subsequently, whether before or after the expiry of the limitation period within which the proceedings must be brought in order to avoid a limitation defence applying to a claim made in the proceedings.
     
-    Compare: 1952 No 51 [s 130][516]
+    Compare: 1952 No 51 [s 130][517]
     
-    Section 52(5)(b): amended, on 1 January 2011, by [section 58][517] of the Limitation Act 2010 (2010 No 110).
+    Section 52(5)(b): amended, on 1 January 2011, by [section 58][518] of the Limitation Act 2010 (2010 No 110).
 
 ##### 53 Assignment of amounts payable in future
     
@@ -2261,7 +2263,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (2) A declaration made under subsection (1) takes effect on and from the date of the declaration.
     
-    Compare: 1952 No 51 [s 48][518]
+    Compare: 1952 No 51 [s 48][519]
 
 ##### 56 Person may dispose of property to himself, herself, or itself
     
@@ -2269,7 +2271,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (2) A disposition to which subsection (1) applies is enforceable in the same manner as a disposition to another person.
     
-    Compare: 1952 No 51 [s 49][519]
+    Compare: 1952 No 51 [s 49][520]
 
 ### Subpart 7---Abolition and modification of common law rules relating to property
 
@@ -2301,17 +2303,17 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (2) In an instrument coming into operation on or after 1 January 1953, words which, before that date, would have created an estate tail are to be treated as creating an estate in fee simple.
     
-    (3) Words in an instrument which, but for the abolition of the rule of law known as the rule in Shelley's case (by section 5(1)(a) of the Property Law Amendment Act 1951 and [section 22][520] of the Property Law Act 1952), would have operated to give a person an interest in fee simple are to be treated as words of purchase and not of limitation.
+    (3) Words in an instrument which, but for the abolition of the rule of law known as the rule in Shelley's case (by section 5(1)(a) of the Property Law Amendment Act 1951 and [section 22][521] of the Property Law Act 1952), would have operated to give a person an interest in fee simple are to be treated as words of purchase and not of limitation.
     
-    Compare: 1952 No 51 [ss 15--17][521], [22][520]
+    Compare: 1952 No 51 [ss 15--17][522], [22][521]
 
 ##### 59 Future estates and interests
     
 *   (1) Estates and interests in property may be created that take effect at a future time.
     
-    (2) Subsection (1) applies subject to the rule against perpetuities and the [Perpetuities Act 1964][522].
+    (2) Subsection (1) applies subject to the rule against perpetuities and the [Perpetuities Act 1964][523].
     
-    Compare: 1952 No 51 [ss 18][523], [19][524]
+    Compare: 1952 No 51 [ss 18][524], [19][525]
 
 ##### 60 Doctrine of interesse termini abolished
     
@@ -2327,7 +2329,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
 *   An estate for life may be created in relation to a leasehold estate in land.
     
-    Compare: 1952 No 51 [s 19][524]
+    Compare: 1952 No 51 [s 19][525]
 
 ##### 62 Creation and disposition of estates and interests in property
     
@@ -2339,7 +2341,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (2) However, subsection (1) does not make a joint tenancy severable by will.
     
-    Compare: 1952 No 51 [ss 18][523], [19][524], [21][525]
+    Compare: 1952 No 51 [ss 18][524], [19][525], [21][526]
 
 ##### 63 Contingent remainders and interests
     
@@ -2355,7 +2357,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     *   (b) a condition that may or may not be fulfilled.
     
-    Compare: 1952 No 51 [s 20][526]
+    Compare: 1952 No 51 [s 20][527]
 
 ##### 64 When gifts over cease to be capable of taking effect
     
@@ -2371,7 +2373,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (4) In this section, _gift over_ includes a gift over expressed to take effect on the ending of an estate or interest preceding that of the person whose estate or interest is the subject of the gift over.
     
-    Compare: 1952 No 51 [s 23][527]
+    Compare: 1952 No 51 [s 23][528]
 
 ##### 65 Meaning of heirs and similar words
     
@@ -2407,7 +2409,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (7) The instrument is to be treated as conferring the estate or interest on the male or female issue of the person (as the case may be) who would take beneficially on the intestacy of the person in accordance with a direction under the [Administration Act 1969][446] to hold the person's property for the issue of the intestate on the statutory trusts.
     
-    Compare: 1952 No 51 [ss 37][528], [38][529]
+    Compare: 1952 No 51 [ss 37][529], [38][530]
 
 ##### 66 Future interests to carry accumulated income
     
@@ -2431,13 +2433,13 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (3) This section applies subject to the instrument making some other provision for the disposition of income during that period.
     
-    Compare: 1952 No 51 [s 35][530]
+    Compare: 1952 No 51 [s 35][531]
 
 ##### 67 Vendor has no lien
     
 *   A vendor of land has no legal or equitable lien over the land because of unpaid purchase money.
     
-    Compare: 1952 No 51 [s 28][531]
+    Compare: 1952 No 51 [s 28][532]
 
 ##### 68 Voluntary waste or equitable waste by life tenant or lessee
     
@@ -2469,7 +2471,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (3) If the owner of the residue is not the owner of the part released and has not consented to the release, the owner of the residue is entitled (in relation to the rentcharge) to the same contribution from the owner of the part released as would have been payable by that owner if there had been no release.
     
-    Compare: 1952 No 51 [s 31][532]
+    Compare: 1952 No 51 [s 31][533]
 
 ##### 72 Body corporate may hold property as joint tenant
     
@@ -2479,17 +2481,17 @@ General rules relating to dispositions, instruments, transactions, and property
         
     *   (a) in the case of a company, if it is removed from the New Zealand register:
     
-    *   (b) in the case of an overseas company registered under [Part 18][533] of the Companies Act 1993, if it is removed from the overseas register:
+    *   (b) in the case of an overseas company registered under [Part 18][534] of the Companies Act 1993, if it is removed from the overseas register:
     
     *   (c) in any other case, if it ceases to exist.
     
     (3) This section---
         
-    *   (a) overrides [section 324][534] of the Companies Act 1993; but
+    *   (a) overrides [section 324][535] of the Companies Act 1993; but
     
-    *   (b) does not apply to a company removed from the New Zealand register under [section 355][535] of the Companies Act 1993\.
+    *   (b) does not apply to a company removed from the New Zealand register under [section 355][536] of the Companies Act 1993\.
     
-    Compare: 1952 No 51 [s 32][536]
+    Compare: 1952 No 51 [s 32][537]
 
 ##### 73 Release and disclaimer of powers
     
@@ -2515,7 +2517,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (5) Subsection (4)(b) applies subject to the terms of the instrument creating the power.
     
-    Compare: 1952 No 51 [s 34][537]
+    Compare: 1952 No 51 [s 34][538]
 
 ##### 74 Power to appoint among different objects
     
@@ -2527,7 +2529,7 @@ General rules relating to dispositions, instruments, transactions, and property
     
     (2) Subsection (1) applies subject to the terms of the instrument creating the power.
     
-    Compare: 1952 No 51 [s 40][538]
+    Compare: 1952 No 51 [s 40][539]
 
 ## Part 3  
 Mortgages
@@ -2554,7 +2556,7 @@ Mortgages
 
 ##### 77 Non-application of Part to security interests in consumer goods
     
-*   Nothing in [subparts 3 to 8][113] applies to security interests in consumer goods to which the [Credit (Repossession) Act 1997][539] applies.
+*   Nothing in [subparts 3 to 8][113] applies to security interests in consumer goods to which the [Credit (Repossession) Act 1997][540] applies.
 
 ##### 78 Provisions of Part are supplementary, but subject, to Personal Property Securities Act 1999 in relation to mortgages over personal property
     
@@ -2580,7 +2582,7 @@ Mortgages
     
 *   A mortgage over land is not created by the deposit of the instruments of title relating to the land, whether or not the deposit is accompanied by a memorandum of the intent with which the deposit is made.
     
-    Compare: 1952 No 51 [s 77][540]
+    Compare: 1952 No 51 [s 77][541]
 
 ##### 81 Right of mortgagor to bring proceeding against mortgagee
     
@@ -2588,7 +2590,7 @@ Mortgages
     
     (2) Subsection (1) applies despite anything to the contrary expressed or implied in the mortgage.
     
-    Compare: 1952 No 51 [s 80B(2)][541]
+    Compare: 1952 No 51 [s 80B(2)][542]
 
 ##### 82 Effect of advance on joint account
     
@@ -2614,7 +2616,7 @@ Mortgages
     
     (6) This section has effect subject to any contrary intention expressed or implied in an instrument.
     
-    Compare: 1952 No 51 [s 80][542]
+    Compare: 1952 No 51 [s 80][543]
 
 #### Discharge, assignment, and variation of mortgages
 
@@ -2636,7 +2638,7 @@ Mortgages
     
     *   (b) transfers or releases to the current mortgagor the interest of the mortgagee in the mortgaged property to the extent specified in the instrument.
     
-    Compare: 1952 No 51 [s 79(1)(a), (2), (4)][543]
+    Compare: 1952 No 51 [s 79(1)(a), (2), (4)][544]
 
 ##### 84 Assignment of mortgage
     
@@ -2660,7 +2662,7 @@ Mortgages
     
     *   (d) all rights, powers, and remedies of the mortgagee under the mortgage.
     
-    Compare: 1952 No 51 [s 79(1)(b), (2), (5)][543]
+    Compare: 1952 No 51 [s 79(1)(b), (2), (5)][544]
 
 ##### 85 Variation of mortgage
     
@@ -2716,7 +2718,7 @@ Mortgages
     
     (6) A mortgage over land under the [Land Transfer Act 1952][452] may also be varied by a mortgage variation instrument that is registered under that Act.
     
-    Compare: 1952 No 51 [s 79(1)(c)--(f), (3)][543]
+    Compare: 1952 No 51 [s 79(1)(c)--(f), (3)][544]
 
 ##### 86 Effect of mortgage variation instrument
     
@@ -2778,7 +2780,7 @@ Mortgages
     
     (3) In this section, _specified principal amount_ does not include any part of the amount that has been repaid to the mortgagee and re-advanced.
     
-    Compare: 1952 No 51 [s 80A(1)][544]
+    Compare: 1952 No 51 [s 80A(1)][545]
 
 ##### 91 Priority extends to further advances if mortgagee does not have actual notice of subsequent mortgage or is obliged to make further advances
     
@@ -2794,7 +2796,7 @@ Mortgages
         
         
     
-    Compare: 1952 No 51 [s 80A(2)][544]
+    Compare: 1952 No 51 [s 80A(2)][545]
 
 ##### 92 Priority extends to further advances up to stated priority limit
     
@@ -2814,7 +2816,7 @@ Mortgages
     
     *   (b) the priority of the mortgage, in relation to any subsequent mortgage, extends to all amounts paid or advanced for any of those purposes and to the interest referred to in [section 87(2)][104], even if the effect of the payment or advance or interest is to take the total of the amounts secured by the mortgage over the stated priority limit.
     
-    Compare: 1952 No 51 [s 80A(2), (3)][544]
+    Compare: 1952 No 51 [s 80A(2), (3)][545]
 
 ##### 93 Interpretation for purposes of sections 91 and 92
     
@@ -2844,13 +2846,13 @@ Mortgages
     
     (2) Subsection (1) applies whether the further advances are made before, on, or after 1 January 2008\.
     
-    (3) The priority of the security for further advances made on or after 1 January 2008 under a mortgage or variation of mortgage referred to in subsection (1) must be determined as if [section 80A][544] of the Property Law Act 1952 had not been repealed by this Act.
+    (3) The priority of the security for further advances made on or after 1 January 2008 under a mortgage or variation of mortgage referred to in subsection (1) must be determined as if [section 80A][545] of the Property Law Act 1952 had not been repealed by this Act.
 
 ### Subpart 3---Covenants, conditions, and powers implied in mortgages
 
 ##### 95 Covenants implied in mortgages over land
     
-*   (1) Every mortgage over land contains the implied covenants, conditions, and powers set out in [Part 1][545] of Schedule 2 to the extent that they are relevant in the circumstances.
+*   (1) Every mortgage over land contains the implied covenants, conditions, and powers set out in [Part 1][546] of Schedule 2 to the extent that they are relevant in the circumstances.
     
     (2) Subsection (1) applies unless a contrary intention is expressed (whether in the mortgage or otherwise) in accordance with [section 279(2)][324].
     
@@ -2864,11 +2866,11 @@ Mortgages
     
     (5) Subsection (4) is subject to [sections 127][148] and [175][202].
     
-    Compare: 1952 No 51 [s 78][546]; 1952 No 52 [s 106][547]
+    Compare: 1952 No 51 [s 78][547]; 1952 No 52 [s 106][548]
 
 ##### 96 Covenants implied in mortgages over goods (except inventory)
     
-*   (1) Every mortgage over goods contains the implied covenants, conditions, and powers set out in [Part 2][548] of Schedule 2\.
+*   (1) Every mortgage over goods contains the implied covenants, conditions, and powers set out in [Part 2][549] of Schedule 2\.
     
     (2) Subsection (1) applies unless a contrary intention is expressed (whether in the mortgage or otherwise) in accordance with [section 279(2)][324].
     
@@ -2884,7 +2886,7 @@ Mortgages
     
     (3) Subsection (2) does not apply if a request is made to the mortgagee under [section 102][122] for the mortgage to be transferred.
     
-    Compare: 1952 No 51 [s 81(1), (5)][549]
+    Compare: 1952 No 51 [s 81(1), (5)][550]
 
 ##### 98 Amounts secured include interest for unexpired portion of term
     
@@ -2904,7 +2906,7 @@ Mortgages
     
     (2) For the purposes of [section 97][117], the amounts secured by the mortgage include interest on the principal amount secured by the mortgage for the unexpired portion of the term.
     
-    Compare: 1952 No 51 [s 81(2), (4)][549]
+    Compare: 1952 No 51 [s 81(2), (4)][550]
 
 ##### 99 Mortgagor or other person seeking to redeem must give notice or pay interest in certain circumstances
     
@@ -2928,15 +2930,15 @@ Mortgages
     
     *   (c) has taken any other steps to realise the security (except giving notice under [section 119][140] or [128][149]).
     
-    Compare: 1952 No 51 [s 81(3)][549]
+    Compare: 1952 No 51 [s 81(3)][550]
 
 ##### 100 Requirement to pay interest subject to credit contract legislation
     
 *   [Sections 98][118] and [99][119] are subject to---
         
-    *   (a) [Parts 2][550] and [5][551] of the Credit Contracts and Consumer Finance Act 2003; and
+    *   (a) [Parts 2][551] and [5][552] of the Credit Contracts and Consumer Finance Act 2003; and
     
-    *   (b) Part 1 of the Credit Contracts Act 1981 (as applied by [section 143][552] of the Credit Contracts and Consumer Finance Act 2003).
+    *   (b) Part 1 of the Credit Contracts Act 1981 (as applied by [section 143][553] of the Credit Contracts and Consumer Finance Act 2003).
     
     
 
@@ -2954,7 +2956,7 @@ Mortgages
     
     (4) If 2 or more requests are made under subsection (1) by persons other than the current mortgagor, the request of the person whose interest has priority prevails.
     
-    Compare: 1952 No 51 [ss 82][553], [83][554]
+    Compare: 1952 No 51 [ss 82][554], [83][555]
 
 ##### 103 Mortgagee must transfer mortgage after receiving request
     
@@ -2964,19 +2966,19 @@ Mortgages
     
     *   (b) the performance of all other obligations secured by the mortgage.
     
-    Compare: 1952 No 51 [ss 82][553], [83][554]
+    Compare: 1952 No 51 [ss 82][554], [83][555]
 
 ##### 104 Right to inspect instruments of title
     
 *   The current mortgagor or other person entitled to redeem the mortgaged property may, on request, at a reasonable time, and on payment of any reasonable costs, inspect and make copies of, or extracts from, the instruments of title for the property that are in the custody or under the control of the mortgagee.
     
-    Compare: 1952 No 51 [s 84][555]
+    Compare: 1952 No 51 [s 84][556]
 
 ##### 105 Restriction on consolidation
     
 *   The current mortgagor or other person entitled to redeem the mortgaged property may redeem it without paying any amounts owing under any separate mortgage over other property in favour of the same mortgagee that was entered into by the current mortgagor or by any former mortgagor.
     
-    Compare: 1952 No 51 [s 85][556]
+    Compare: 1952 No 51 [s 85][557]
 
 ##### 106 Instruments have no effect so far as they conflict with section 102, 103, 104, or 105
     
@@ -2986,7 +2988,7 @@ Mortgages
     
     *   (b) conflicts with [section 102][122], [103][123], [104][124], or [105][125].
     
-    Compare: 1952 No 51 [ss 82--85][553]
+    Compare: 1952 No 51 [ss 82--85][554]
 
 ##### 107 Application for order of court directing sale of mortgaged property
     
@@ -3020,11 +3022,11 @@ Mortgages
         
         
     
-    *   (d) in the case of mortgaged land, on any person who has lodged a caveat under [section 137][557] of the Land Transfer Act 1952, or a notice under [section 42][558] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it; and
+    *   (d) in the case of mortgaged land, on any person who has lodged a caveat under [section 137][558] of the Land Transfer Act 1952, or a notice under [section 42][559] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it; and
     
     *   (e) on every person, except the applicant, who would have been entitled to apply to the court under subsection (1).
     
-    Compare: 1952 No 51 [s 86(1), (2)][559]
+    Compare: 1952 No 51 [s 86(1), (2)][560]
 
 ##### 108 Court may make order directing sale of mortgaged property
     
@@ -3048,7 +3050,7 @@ Mortgages
     
     (4) The court may order that the sale be conducted by any party to the proceeding or by the Registrar.
     
-    Compare: 1952 No 51 [s 86(2)--(4)][559]
+    Compare: 1952 No 51 [s 86(2)--(4)][560]
 
 ##### 109 Redemption when mortgagee cannot be found, etc
     
@@ -3062,7 +3064,7 @@ Mortgages
     
     (3) This section does not relieve any person of the obligation to comply with [section 115][135] (if that section applies).
     
-    Compare: 1952 No 51 [s 87(1), (5)][560]
+    Compare: 1952 No 51 [s 87(1), (5)][561]
 
 ##### 110 Redemption by order of court
     
@@ -3086,7 +3088,7 @@ Mortgages
         
         
     
-    Compare: 1952 No 51 [s 87(1), (3)][560]
+    Compare: 1952 No 51 [s 87(1), (3)][561]
 
 ##### 111 Certificates and orders operate as discharge of mortgage
     
@@ -3102,33 +3104,33 @@ Mortgages
         
     *   (a) a Registrar of Ships must, on production of the certificate or order referred to in subsection (1), make an entry in the New Zealand Register of Ships to the effect that the mortgage has been discharged; and
     
-    *   (b) an entry made under paragraph (a) has the same effect as an entry made under [section 45][561] of the Ship Registration Act 1992\.
+    *   (b) an entry made under paragraph (a) has the same effect as an entry made under [section 45][562] of the Ship Registration Act 1992\.
     
     (4) If the mortgage referred to in subsection (1) is over quota within the meaning of the [Fisheries Act 1996][462] and is registered under that Act,---
         
     *   (a) the chief executive within the meaning of that Act must, on production of the certificate or order referred to in subsection (1), make an entry in the appropriate register to the effect that the mortgage has been discharged; and
     
-    *   (b) an entry made under paragraph (a) has the same effect as an entry made under [section 146][562] of that Act.
+    *   (b) an entry made under paragraph (a) has the same effect as an entry made under [section 146][563] of that Act.
     
     (5) If the mortgage referred to in subsection (1) is over management rights or a spectrum licence within the meaning of the [Radiocommunications Act 1989][463] and is registered under that Act,---
         
     *   (a) the Registrar of Radio Frequencies must, on production of the certificate or order referred to in subsection (1), make an entry in the Register of Radio Frequencies to the effect that the mortgage has been discharged; and
     
-    *   (b) an entry made under paragraph (a) has the same effect as an entry made under [section 86][563] of that Act.
+    *   (b) an entry made under paragraph (a) has the same effect as an entry made under [section 86][564] of that Act.
     
     (6) If the mortgage referred to in subsection (1) is over a policy within the meaning of [section 41][464] of the Life Insurance Act 1908 and is registered under that Act,---
         
-    *   (a) the secretary within the meaning of that Act must, on production of the certificate or order referred to in subsection (1), act under [section 51][564] of that Act; and
+    *   (a) the secretary within the meaning of that Act must, on production of the certificate or order referred to in subsection (1), act under [section 51][565] of that Act; and
     
-    *   (b) when the secretary acts under paragraph (a), the mortgage is discharged under [sections 50][565] and [51][564] of that Act.
+    *   (b) when the secretary acts under paragraph (a), the mortgage is discharged under [sections 50][566] and [51][565] of that Act.
     
     (7) If the mortgage referred to in subsection (1) is over personal property and is registered under the [Personal Property Securities Act 1999][445], the certificate or order referred to in subsection (1), on production to the Registrar of Personal Property Securities, has effect as if it---
         
     *   (a) were a financing change statement discharging the registration of the financing statement; and
     
-    *   (b) had been registered under [section 160][566] of the Personal Property Securities Act 1999\.
+    *   (b) had been registered under [section 160][567] of the Personal Property Securities Act 1999\.
     
-    Compare: 1952 No 51 [s 87(2), (4)][560]
+    Compare: 1952 No 51 [s 87(2), (4)][561]
 
 ##### 112 Redemption by payment to Public Trust
     
@@ -3150,7 +3152,7 @@ Mortgages
     
     *   (b) is conclusive proof that all conditions entitling Public Trust to act under this section have been satisfied.
     
-    Compare: 1952 No 51 [s 87(5), (6)][560]
+    Compare: 1952 No 51 [s 87(5), (6)][561]
 
 ##### 113 Instruments of title must be delivered on production of Public Trust's receipt or certificate
     
@@ -3166,7 +3168,7 @@ Mortgages
     
     *   (b) payment of all proper charges (if any).
     
-    Compare: 1952 No 51 [s 87(7), (8)][560]
+    Compare: 1952 No 51 [s 87(7), (8)][561]
 
 ##### 114 Public Trust not liable if acts reasonably and in good faith
     
@@ -3174,7 +3176,7 @@ Mortgages
     
     (2) The onus of proving that Public Trust has not acted reasonably and in good faith is on the person alleging it.
     
-    Compare: 1952 No 51 [s 87(9)][560]
+    Compare: 1952 No 51 [s 87(9)][561]
 
 ##### 115 Court may order discharge of mortgage if periodical payments secured are otherwise provided for
     
@@ -3184,13 +3186,13 @@ Mortgages
     
     (3) In determining the specified amount under subsection (2), the court must---
         
-    *   (a) assume that the fund will be invested as a trustee is entitled and required to invest trust funds under [Part 2][567] of the Trustee Act 1956; and
+    *   (a) assume that the fund will be invested as a trustee is entitled and required to invest trust funds under [Part 2][568] of the Trustee Act 1956; and
     
     *   (b) make reasonable provision, in addition to the amount sufficient for the purpose specified in subsection (2), for the contingency of further costs, expenses, and interest, and any other contingency except the depreciation of any investment.
     
     (4) The court may, after giving notice to every person who is entitled to receive a periodical payment secured by the mortgage, make further orders directing the application or distribution of the income or the capital of the fund.
     
-    Compare: 1952 No 51 [s 151][568]
+    Compare: 1952 No 51 [s 151][569]
 
 ##### 116 Certificate operates as discharge of mortgage
     
@@ -3204,7 +3206,7 @@ Mortgages
     
 *   Any rule of law entitling a mortgagee to foreclose the equity of redemption in mortgaged property is abolished.
     
-    Compare: 1952 No 51 [s 89][569]
+    Compare: 1952 No 51 [s 89][570]
 
 ##### 118 Mortgagee accepting interest after expiry of term not to call up without notice
     
@@ -3228,7 +3230,7 @@ Mortgages
     
     (4) A notice under subsection (2) may be given in the same document as a notice under [section 119][140] or [128][149].
     
-    Compare: 1952 No 51 [s 90][570]
+    Compare: 1952 No 51 [s 90][571]
 
 ##### 119 Notice must be given to current mortgagor of mortgaged land of exercise of powers, etc
     
@@ -3250,7 +3252,7 @@ Mortgages
     
     (4) A notice required by this section may be given in the same document as a notice under [section 118][139].
     
-    Compare: 1952 No 51 [s 92(1)][571]
+    Compare: 1952 No 51 [s 92(1)][572]
 
 ##### 120 Form of notice under section 119
     
@@ -3276,7 +3278,7 @@ Mortgages
     
     (2) A notice required by [section 119][140] may specify that the action required to remedy the default includes the payment (whether to the mortgagee or receiver) of a specified amount, being the reasonable costs and disbursements (whether of the mortgagee or receiver) in preparing and serving the notice.
     
-    Compare: 1952 No 51 [s 92(1A), (2)][571]
+    Compare: 1952 No 51 [s 92(1A), (2)][572]
 
 ##### 121 Copy of notice under section 119 must be served on former mortgagor, covenantor, subsequent mortgagee, and caveator
     
@@ -3294,7 +3296,7 @@ Mortgages
         
         
     
-    *   (d) any person who has lodged a caveat under [section 137][557] of the Land Transfer Act 1952, or a notice under [section 42][558] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
+    *   (d) any person who has lodged a caveat under [section 137][558] of the Land Transfer Act 1952, or a notice under [section 42][559] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
     
     (2) A failure to comply with this section does not prevent---
         
@@ -3308,7 +3310,7 @@ Mortgages
     
     (3) However, if there is a failure to comply with this section, the mortgagee is liable in damages for any loss arising from that failure.
     
-    Compare: 1952 No 51 [s 92(4), (4A)][571]
+    Compare: 1952 No 51 [s 92(4), (4A)][572]
 
 ##### 122 Notice of intention to recover deficiency in relation to mortgages over land
     
@@ -3330,7 +3332,7 @@ Mortgages
     
     (5) However, a former mortgagor or a covenantor who is prejudiced by a failure to serve a notice under subsection (2) is, to the extent of the prejudice, released from liability to the mortgagee for the deficiency.
     
-    Compare: 1952 No 51 [s 92(6)][571]
+    Compare: 1952 No 51 [s 92(6)][572]
 
 ##### 123 Instruments have no effect so far as they conflict with section 119, 120, 121, or 122
     
@@ -3340,7 +3342,7 @@ Mortgages
     
     *   (b) conflicts with [section 119][140], [120][141], [121][142], or [122][143].
     
-    Compare: 1952 No 51 [s 92(7)][571]
+    Compare: 1952 No 51 [s 92(7)][572]
 
 ##### 124 Conditional sale of land permitted before expiry of notice
     
@@ -3348,7 +3350,7 @@ Mortgages
     
     (2) Subsection (1) applies whether the contract is entered into, or the option is granted, before or after the service of the notice referred to in [section 119][140] or [122][143].
     
-    Compare: 1952 No 51 [s 92(1AA)][571]
+    Compare: 1952 No 51 [s 92(1AA)][572]
 
 ##### 125 Notice not required before exercising certain powers under mortgage debenture
     
@@ -3370,17 +3372,17 @@ Mortgages
     
     (2) The court may grant leave under this section on any conditions the court thinks fit.
     
-    Compare: 1952 No 51 [s 92(5)][571]
+    Compare: 1952 No 51 [s 92(5)][572]
 
 ##### 127 Transitional provisions for notices given or served before commencement of Act
     
-*   (1) If, before 1 January 2008, a mortgagee has given a notice in accordance with [section 90][570] of the Property Law Act 1952,---
+*   (1) If, before 1 January 2008, a mortgagee has given a notice in accordance with [section 90][571] of the Property Law Act 1952,---
         
     *   (a) [section 118][139] does not prevent the mortgagee from calling up as payable the principal amount on or after that date in accordance with the notice; and
     
-    *   (b) [section 90][570] of the Property Law Act 1952 continues to apply in relation to the notice as if it had not been repealed by this Act.
+    *   (b) [section 90][571] of the Property Law Act 1952 continues to apply in relation to the notice as if it had not been repealed by this Act.
     
-    (2) If, before 1 January 2008, a mortgagee has served a notice in accordance with [section 92(1)][571] of the Property Law Act 1952,---
+    (2) If, before 1 January 2008, a mortgagee has served a notice in accordance with [section 92(1)][572] of the Property Law Act 1952,---
         
     *   (a) [section 119][140] does not prevent---
             
@@ -3390,13 +3392,13 @@ Mortgages
         
         
     
-    *   (b) [section 92][571] of the Property Law Act 1952 continues to apply in relation to the notice as if it had not been repealed by this Act.
+    *   (b) [section 92][572] of the Property Law Act 1952 continues to apply in relation to the notice as if it had not been repealed by this Act.
     
-    (3) If, before 1 January 2008, a mortgagee has served a notice under [section 92(6)][571] of the Property Law Act 1952,---
+    (3) If, before 1 January 2008, a mortgagee has served a notice under [section 92(6)][572] of the Property Law Act 1952,---
         
     *   (a) [section 122][143] does not prevent the mortgagee from recovering a deficiency on or after that date in accordance with the notice; and
     
-    *   (b) [section 92][571] of the Property Law Act 1952 continues to apply in relation to the notice as if it had not been repealed by this Act.
+    *   (b) [section 92][572] of the Property Law Act 1952 continues to apply in relation to the notice as if it had not been repealed by this Act.
     
     
 
@@ -3558,7 +3560,7 @@ Mortgages
     
 *   (1) If a mortgagee becomes entitled under a mortgage, after compliance with [subpart 5][137], to exercise a power to enter into possession of mortgaged land or goods, the mortgagee may exercise that power by---
         
-    *   (a) entering into or taking physical possession of the land or goods peaceably and without committing forcible entry under [section 91][499] of the Crimes Act 1961; or
+    *   (a) entering into or taking physical possession of the land or goods peaceably and without committing forcible entry under [section 91][500] of the Crimes Act 1961; or
     
     *   (b) asserting management or control over the land or goods by requiring a lessee or occupier of the land, or a lessee or bailee of the goods, as the case may be, to pay to the mortgagee any rent or profits that would otherwise be payable to the current mortgagor; or
     
@@ -3570,7 +3572,7 @@ Mortgages
     
     (4) Unless the context otherwise requires, a reference in this subpart to land or goods includes a reference to land and goods.
     
-    Compare: 1952 No 52 [s 106][547]
+    Compare: 1952 No 52 [s 106][548]
 
 ##### 138 Mortgagee may not enter into or take physical possession if mortgagee has consented to lease
     
@@ -3584,7 +3586,7 @@ Mortgages
     
     *   (c) the goods became at risk.
     
-    Compare: 1952 No 52 [s 106][547]
+    Compare: 1952 No 52 [s 106][548]
 
 ##### 139 When mortgagee becomes mortgagee in possession
     
@@ -3610,9 +3612,9 @@ Mortgages
     
     *   (b) as if the references in [sections 156(1)(b) and (c)][180] and [163(1)(a)][187] to the date of entry into possession were references to the date of the making of that order.
     
-    Section 139(1)(c): substituted, on 7 July 2010, by [section 4(1)][572] of the Property Law Amendment Act 2010 (2010 No 76).
+    Section 139(1)(c): substituted, on 7 July 2010, by [section 4(1)][573] of the Property Law Amendment Act 2010 (2010 No 76).
     
-    Section 139(3): added, on 7 July 2010, by [section 4(2)][572] of the Property Law Amendment Act 2010 (2010 No 76).
+    Section 139(3): added, on 7 July 2010, by [section 4(2)][573] of the Property Law Amendment Act 2010 (2010 No 76).
 
 ##### 140 Mortgagees in possession of accounts receivable
     
@@ -3634,7 +3636,7 @@ Mortgages
     
     *   (b) is limited to the amount of the income received from the leasehold estate or interest in land, or the leased goods, by the mortgagee as mortgagee in possession.
     
-    Compare: 1952 No 52 [s 110][573]
+    Compare: 1952 No 52 [s 110][574]
 
 ##### 142 Mortgagee in possession of land may enter into lease
     
@@ -3644,7 +3646,7 @@ Mortgages
     
     (3) A mortgagee in possession may execute all assurances and do all other things necessary to enter into a lease of land in accordance with this section and [sections 143 to 146][167].
     
-    Compare: 1952 No 51 [s 91(1), (3)][574]
+    Compare: 1952 No 51 [s 91(1), (3)][575]
 
 ##### 143 Terms and conditions of lease entered into by mortgagee in possession
     
@@ -3658,7 +3660,7 @@ Mortgages
         
     *   (a) be for a term not exceeding---
             
-        *   (i) 2 years, in the case of a tenancy to which the [Residential Tenancies Act 1986][575] applies; or
+        *   (i) 2 years, in the case of a tenancy to which the [Residential Tenancies Act 1986][576] applies; or
         
         *   (ii) 15 years (including all renewal terms), in any other case; and
         
@@ -3672,7 +3674,7 @@ Mortgages
     
     (4) A lease or sublease of land entered into by a mortgagee in possession for a term longer than that permitted by subsection (2)(a) or (3), as the case may be, must be taken to be a valid lease or sublease for the maximum term for which that lease could have been entered into under the relevant provision.
     
-    Compare: 1952 No 51 [s 91(4), (5), (10)][574]
+    Compare: 1952 No 51 [s 91(4), (5), (10)][575]
 
 ##### 144 Extent to which lease of land entered into by mortgagee in possession is binding on certain persons
     
@@ -3686,7 +3688,7 @@ Mortgages
     
     (2) When a mortgagee who has entered into a lease of land has withdrawn from possession of that land, the current mortgagor, or any person to whom the land has been transferred, assigned, or transmitted, is bound by the lessor's covenants and is entitled to enforce the lessee's covenants under the lease.
     
-    Compare: 1952 No 51 [s 91(2)][574]
+    Compare: 1952 No 51 [s 91(2)][575]
 
 ##### 145 Mortgagee in possession may enter into lease of mortgaged land together with other land
     
@@ -3696,15 +3698,15 @@ Mortgages
     
     (3) However, any failure by the mortgagee to make an apportionment under subsection (2) does not affect the lessee or the lessee's interest.
     
-    Compare: 1952 No 51 [s 97][576]
+    Compare: 1952 No 51 [s 97][577]
 
 ##### 146 Registrar-General or other person need not inquire whether occasion has arisen authorising mortgagee to enter into lease
     
 *   (1) The Registrar-General or any other person need not inquire whether or not an occasion has arisen authorising a mortgagee to enter into a lease of land in accordance with [sections 142 to 145][166].
     
-    (2) No action lies under [section 172][577] of the Land Transfer Act 1952 for any loss, damage, or deprivation caused by the improper exercise by a mortgagee of a power conferred by [sections 142 to 145][166].
+    (2) No action lies under [section 172][578] of the Land Transfer Act 1952 for any loss, damage, or deprivation caused by the improper exercise by a mortgagee of a power conferred by [sections 142 to 145][166].
     
-    Compare: 1952 No 51 [s 91(13)][574]
+    Compare: 1952 No 51 [s 91(13)][575]
 
 ##### 147 Mortgagee in possession of land may exercise powers under lease
     
@@ -3720,7 +3722,7 @@ Mortgages
     
     *   (b) whether the lease was entered into before or after the mortgagee entered into possession.
     
-    Compare: 1952 No 51 [s 91(11), (14)][574]; 1952 No 52 [s 108(1)][578]
+    Compare: 1952 No 51 [s 91(11), (14)][575]; 1952 No 52 [s 108(1)][579]
 
 ##### 148 Mortgagee in possession may manage land, goods, or accounts receivable
     
@@ -3736,7 +3738,7 @@ Mortgages
     
     *   (e) exercise any right of the current mortgagor to inspect books, documents, or information that relate to the land, goods, or accounts receivable and are in the possession or control of a person other than the current mortgagor.
     
-    Compare: 1993 No 122 [s 14][579]
+    Compare: 1993 No 122 [s 14][580]
 
 ##### 149 Mortgagee in possession of land may harvest crops and timber
     
@@ -3754,9 +3756,9 @@ Mortgages
     
     *   (b) within a longer period that a court may by order approve.
     
-    (3) This section is subject to [sections 100][580] and [101][581] of the Personal Property Securities Act 1999\.
+    (3) This section is subject to [sections 100][581] and [101][582] of the Personal Property Securities Act 1999\.
     
-    Compare: 1952 No 51 [s 95][582]
+    Compare: 1952 No 51 [s 95][583]
 
 ##### 150 Mortgagee in possession may protect or repair mortgaged land or goods
     
@@ -3826,7 +3828,7 @@ Mortgages
         
     *   (a) apply to income received as mortgagee in possession that is applied on or after 1 January 2008; but
     
-    *   (b) do not apply if [section 104PPA][583] of the Property Law Act 1952 continues to apply under [section 154][178].
+    *   (b) do not apply if [section 104PPA][584] of the Property Law Act 1952 continues to apply under [section 154][178].
     
     
 
@@ -3850,7 +3852,7 @@ Mortgages
         
         *   (ii) in the case of a current mortgagor that is a company, the company was not in liquidation; or
         
-        *   (iii) in the case of a current mortgagor that is an overseas company, the overseas company was not being liquidated under [section 342][584] of the Companies Act 1993\.
+        *   (iii) in the case of a current mortgagor that is an overseas company, the overseas company was not being liquidated under [section 342][585] of the Companies Act 1993\.
         
         
     
@@ -3860,7 +3862,7 @@ Mortgages
     
     *   (b) secondly, to the payment of amounts secured by any perfected purchase money security interest over the accounts receivable or inventory concerned, or any perfected security interest arising from a transfer of accounts receivable for new value over the accounts receivable concerned, to the extent that it has priority over the mortgagee's mortgage and, in the case of the application of income, so far as payment is then due:
     
-    *   (c) thirdly, to the payment of preferential claims to the extent and in the order of priority specified in [Schedule 7][585] (except [clauses 1(1)][586] and [2(1)(b)][587]) of the Companies Act 1993:
+    *   (c) thirdly, to the payment of preferential claims to the extent and in the order of priority specified in [Schedule 7][586] (except [clauses 1(1)][587] and [2(1)(b)][588]) of the Companies Act 1993:
     
     *   (d) fourthly, to the payment of all amounts (if any) referred to in [section 152(2)(e)][176], together with interest on those amounts at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage.
     
@@ -3880,7 +3882,7 @@ Mortgages
     
     *   (c) is not payable in relation to any particular property, only a fair and equitable proportion of the amount must be taken into account.
     
-    (4) For the purposes of subsection (2)(c), [Schedule 7][585] (except [clauses 1(1)][586] and [2(1)(b)][587]) of the Companies Act 1993 applies, with all necessary modifications, as if---
+    (4) For the purposes of subsection (2)(c), [Schedule 7][586] (except [clauses 1(1)][587] and [2(1)(b)][588]) of the Companies Act 1993 applies, with all necessary modifications, as if---
         
     *   (a) references to a liquidator were references to a mortgagee to which this section applies; and
     
@@ -3894,19 +3896,19 @@ Mortgages
     
     (5) In this section,---
         
-    *   (a) _perfected purchase money security interest_ means a purchase money security interest that has been perfected at the time specified in [section 74][588] of the Personal Property Securities Act 1999:
+    *   (a) _perfected purchase money security interest_ means a purchase money security interest that has been perfected at the time specified in [section 74][589] of the Personal Property Securities Act 1999:
     
     *   (b) _perfected security interest arising from a transfer of accounts receivable for new value_ means a security interest that has been perfected under the [Personal Property Securities Act 1999][445] at the time when the mortgagee entered into possession and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
     
     (6) This section is subject to [section 154][178].
     
-    Compare: 1952 No 51 [s 104PPA][583]
+    Compare: 1952 No 51 [s 104PPA][584]
 
 ##### 154 Transitional provisions relating to preferential claims
     
-*   (1) The provisions of [section 104PPA][583] of the Property Law Act 1952, as in force immediately before the commencement of the [Personal Property Securities Act 1999][445], continue to apply in respect of a company's property that was subject to a floating charge that, before that commencement, became a fixed or specific charge.
+*   (1) The provisions of [section 104PPA][584] of the Property Law Act 1952, as in force immediately before the commencement of the [Personal Property Securities Act 1999][445], continue to apply in respect of a company's property that was subject to a floating charge that, before that commencement, became a fixed or specific charge.
     
-    (2) The provisions of [section 104PPA][583] of the Property Law Act 1952, as in force immediately before 1 January 2008, continue to apply to a mortgagee that was, immediately before that date, subject to those provisions.
+    (2) The provisions of [section 104PPA][584] of the Property Law Act 1952, as in force immediately before 1 January 2008, continue to apply to a mortgagee that was, immediately before that date, subject to those provisions.
     
     (3) If subsection (1) or (2) applies, the mortgagee in possession who receives income from or sells the property concerned must apply the income, or the proceeds arising from the sale, in accordance with those subsections and otherwise as if this Act had not been enacted.
 
@@ -3950,7 +3952,7 @@ Mortgages
         
         *   (iii) every mortgagee under a subsequent mortgage, and every holder of any other subsequent encumbrance, over the mortgaged land or goods:
         
-        *   (iv) every person who has lodged a caveat under [section 137][557] of the Land Transfer Act 1952, or a notice under [section 42][558] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it; and
+        *   (iv) every person who has lodged a caveat under [section 137][558] of the Land Transfer Act 1952, or a notice under [section 42][559] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it; and
         
         
     
@@ -3966,9 +3968,11 @@ Mortgages
     
     *   (d) the address of the registered office of the mortgagee if the mortgagee is a body corporate, or the address of the mortgagee's residence if the mortgagee is an individual, or an address specified by the mortgagee as an address to which communications relating to the mortgaged land or goods may be addressed.
     
-    (3) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the mortgagee, commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (3) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the mortgagee, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1952 No 51 [s 104DD][589]
+    Compare: 1952 No 51 [s 104DD][590]
+    
+    Section 156(3): amended, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 157 Address to which notice to current mortgagor must be sent
     
@@ -4004,7 +4008,7 @@ Mortgages
         
         
     
-    Compare: 1952 No 51 [s 104EE][590]
+    Compare: 1952 No 51 [s 104EE][591]
 
 ##### 159 Current mortgagor to make information available and give reasonable assistance to mortgagee in possession
     
@@ -4020,7 +4024,7 @@ Mortgages
     
     (2) A court may, on the application of a mortgagee in possession, make an order requiring the current mortgagor, and, if the current mortgagor is a body corporate, any director of the body corporate, to comply with subsection (1).
     
-    Compare: 1952 No 51 [s 104FF][591]
+    Compare: 1952 No 51 [s 104FF][592]
 
 ##### 160 Accounting records
     
@@ -4028,13 +4032,13 @@ Mortgages
     
     (2) The accounting records must be retained for not less than 6 years after the mortgagee has withdrawn from possession of the land, goods, or accounts receivable.
     
-    Compare: 1952 No 51 [s 104GG][592]
+    Compare: 1952 No 51 [s 104GG][593]
 
 ##### 161 Mortgagee in possession must keep money relating to land, goods, or accounts receivable separate from other money
     
 *   A mortgagee in possession of mortgaged land, goods, or accounts receivable must keep money relating to the land, goods, or accounts receivable separate from other money held by or under the control of the mortgagee.
     
-    Compare: 1952 No 51 [s 104HH][593]
+    Compare: 1952 No 51 [s 104HH][594]
 
 ##### 162 First report by mortgagee in possession
     
@@ -4066,9 +4070,11 @@ Mortgages
     
     (3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee's rights or powers.
     
-    (4) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (4) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1952 No 51 [s 104II][594]
+    Compare: 1952 No 51 [s 104II][595]
+    
+    Section 162(4): amended, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163 Further reports by mortgagee in possession
     
@@ -4094,15 +4100,17 @@ Mortgages
     
     (3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee's rights or powers.
     
-    (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1952 No 51 [s 104JJ][595]
+    Compare: 1952 No 51 [s 104JJ][596]
+    
+    Section 163(4): amended, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 164 Extension of time for preparing reports
     
 *   The Registrar may, on the application of a mortgagee or other person who is required to prepare a report under [section 162][186] or [163][187], extend the period within which the report must be prepared.
     
-    Compare: 1952 No 51 [s 104KK][596]
+    Compare: 1952 No 51 [s 104KK][597]
 
 ##### 165 Persons entitled to receive reports
     
@@ -4118,7 +4126,7 @@ Mortgages
         
         *   (iii) every mortgagee under a subsequent mortgage, and every holder of any other subsequent encumbrance, over the mortgaged land or goods:
         
-        *   (iv) every person who has lodged a caveat under [section 137][557] of the Land Transfer Act 1952, or a notice under [section 42][558] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
+        *   (iv) every person who has lodged a caveat under [section 137][558] of the Land Transfer Act 1952, or a notice under [section 42][559] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
         
         
     
@@ -4136,9 +4144,11 @@ Mortgages
     
     (3) If the current mortgagor is a body corporate registered under an enactment, the mortgagee or other person who prepares a report under [section 162][186] or [163][187] must, within 5 working days after preparing the report, send a copy of the report to the Registrar.
     
-    (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1952 No 51 [s 104LL][597]
+    Compare: 1952 No 51 [s 104LL][598]
+    
+    Section 165(4): amended, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 166 Persons entitled to inspect reports
     
@@ -4148,7 +4158,7 @@ Mortgages
     
     *   (b) at any other place of business of the person who prepared the report, at any time after the expiration of 5 working days after that person receives a request that the report be made available for inspection at that place.
     
-    Compare: 1952 No 51 [s 104MM][598]
+    Compare: 1952 No 51 [s 104MM][599]
 
 ##### 167 Duty to notify breaches of other Acts
     
@@ -4158,15 +4168,15 @@ Mortgages
     
     *   (b) a mortgagee or other person who is required to prepare a report under [section 162][186] or [163][187] considers that the company or overseas company, or any director of the company or overseas company, has committed an offence that is material to the possession of the mortgaged land or goods by the mortgagee against---
             
-        *   (i) the [Crimes Act 1961][599]; or
+        *   (i) the [Crimes Act 1961][600]; or
         
-        *   (ii) the [Securities Act 1978][600]; or
+        *   (ii) the [Securities Act 1978][601]; or
         
         *   (iii) the [Companies Act 1993][449]; or
         
-        *   (iv) the [Financial Reporting Act 1993][601]; or
+        *   (iv) the [Financial Reporting Act 1993][602]; or
         
-        *   (v) the [Takeovers Act 1993][602].
+        *   (v) the [Takeovers Act 1993][603].
         
         
     
@@ -4174,9 +4184,11 @@ Mortgages
     
     (3) A report made under subsection (2), and any communications between the mortgagee or other person and the Registrar relating to that report, are protected by absolute privilege.
     
-    (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1952 No 51 [s 104NN][603]
+    Compare: 1952 No 51 [s 104NN][604]
+    
+    Section 167(4): amended, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Withdrawal from possession
 
@@ -4212,7 +4224,7 @@ Mortgages
             
         *   (i) under this subpart; or
         
-        *   (ii) in the case of a person who became a mortgagee in possession of mortgaged property before 1 January 2008, under the [Property Law Act 1952][604]; and
+        *   (ii) in the case of a person who became a mortgagee in possession of mortgaged property before 1 January 2008, under the [Property Law Act 1952][605]; and
         
         
     
@@ -4242,7 +4254,7 @@ Mortgages
     
     (5) An order under this section does not affect any other mortgage or encumbrance over the mortgaged land, goods, or accounts receivable.
     
-    Compare: 1952 No 51 [s 104PP][605]
+    Compare: 1952 No 51 [s 104PP][606]
 
 ##### 172 Restriction on re-entry into possession after withdrawal
     
@@ -4260,9 +4272,11 @@ Mortgages
     
     (2) Subsection (1) does not apply to a mortgagee who withdrew from possession of the land or goods before 1 January 2008\.
     
-    (3) If a person fails to comply with this section, the person, and, if the person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (3) If a person fails to comply with this section, the person, and, if the person is a body corporate, every director of the body corporate, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1952 No 51 [s 104OO][606]
+    Compare: 1952 No 51 [s 104OO][607]
+    
+    Section 173(3): amended, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Protection for directors
 
@@ -4276,7 +4290,7 @@ Mortgages
     
     *   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the body corporate complied with the relevant requirement.
     
-    Compare: 1952 No 51 [s 104QQ][607]
+    Compare: 1952 No 51 [s 104QQ][608]
 
 #### Application of various provisions to mortgagees who entered into possession before 1 January 2008
 
@@ -4286,7 +4300,7 @@ Mortgages
         
     *   (a) [sections 137 to 151][160] and [155 to 167][179] do not apply; and
     
-    *   (b) [sections 91][574] and [95 to 97][582] of the Property Law Act 1952, [Part 7A][608] of that Act, and [sections 106][547] and [108(1)][578] of the Land Transfer Act 1952 continue to apply as if those provisions had not been repealed by this Act.
+    *   (b) [sections 91][575] and [95 to 97][583] of the Property Law Act 1952, [Part 7A][609] of that Act, and [sections 106][548] and [108(1)][579] of the Land Transfer Act 1952 continue to apply as if those provisions had not been repealed by this Act.
     
     
 
@@ -4310,7 +4324,7 @@ Mortgages
     
     (2) A mortgagee who exercises a power to sell mortgaged property may not become the purchaser of the mortgaged property except in accordance with [section 196][226] or an order of a court made under [section 200][230].
     
-    Compare: 1952 No 51 [s 103A][609]
+    Compare: 1952 No 51 [s 103A][610]
 
 ##### 177 No defence or indemnity
     
@@ -4320,7 +4334,7 @@ Mortgages
     
     (3) This section applies despite anything to the contrary in any instrument or in any rule of law.
     
-    Compare: 1952 No 51 [s 103B][610]
+    Compare: 1952 No 51 [s 103B][611]
 
 ##### 178 Powers incidental to power of sale
     
@@ -4344,7 +4358,7 @@ Mortgages
     
     (2) The mortgagee or receiver may cancel a contract for the sale of the mortgaged property and resell the property without being liable for any loss on resale.
     
-    (3) Subsection (2) is subject to [section 19][611] of the Receiverships Act 1993 or [section 176(1)][205], as the case requires.
+    (3) Subsection (2) is subject to [section 19][612] of the Receiverships Act 1993 or [section 176(1)][205], as the case requires.
     
     Compare: Law of Property Act 1925, 15 Geo 5, c 20 s 101 (UK)
 
@@ -4362,7 +4376,7 @@ Mortgages
     
     (3) The mortgagee's powers under subsection (2)(b) include, in the case of a mortgage over land under the [Land Transfer Act 1952][452], the power to do either or both of the following as if the land had been sold by the mortgagee:
         
-    *   (a) execute a transfer instrument that may be registered under [section 105][612] of that Act:
+    *   (a) execute a transfer instrument that may be registered under [section 105][613] of that Act:
     
     *   (b) register a transfer instrument under that Act.
     
@@ -4380,7 +4394,7 @@ Mortgages
     
     (3) The court may make an order under this section on any conditions the court thinks fit.
     
-    Compare: 1952 No 51 [s 93][613]
+    Compare: 1952 No 51 [s 93][614]
 
 ##### 181 Powers incidental to power to sell land, mines, or minerals
     
@@ -4394,7 +4408,7 @@ Mortgages
     
     *   (d) in the case of a subdivision of land, to lay off and make any roads, streets, and passageways, and do any other things in connection with the subdivision as circumstances require and the mortgagee or receiver thinks fit.
     
-    Compare: 1952 No 51 [s 94][614]
+    Compare: 1952 No 51 [s 94][615]
 
 ##### 182 Sale together with other property at single price
     
@@ -4404,7 +4418,7 @@ Mortgages
     
     (3) However, any failure by the mortgagee or receiver to make an apportionment under subsection (2) does not affect the purchaser or the purchaser's interest in the property.
     
-    Compare: 1952 No 51 [s 97][576]
+    Compare: 1952 No 51 [s 97][577]
 
 ##### 183 Mortgagee may transfer or assign mortgaged property to purchaser
     
@@ -4416,7 +4430,7 @@ Mortgages
     
     (2) The mortgagee's powers under subsection (1)(b) include, in the case of a mortgage over land under the [Land Transfer Act 1952][452], the power to do either or both of the following:
         
-    *   (a) execute a transfer instrument that may be registered under [section 105][612] of that Act:
+    *   (a) execute a transfer instrument that may be registered under [section 105][613] of that Act:
     
     *   (b) register a transfer instrument under that Act.
     
@@ -4442,7 +4456,7 @@ Mortgages
     
     (5) Subsection (4) is, in the case of an executed transfer instrument or other instrument, subject to the need for its registration under any enactment.
     
-    Compare: 1952 No 51 [s 98(1)][615]
+    Compare: 1952 No 51 [s 98(1)][616]
 
 ##### 184 Protection of purchaser at sale by mortgagee
     
@@ -4480,7 +4494,7 @@ Mortgages
     
     *   (d) the sale is otherwise unnecessary, irregular, or improper.
     
-    Compare: 1952 No 51 [ss 98(1)][615], [102][616], [Schedule 4][617] cl 8
+    Compare: 1952 No 51 [ss 98(1)][616], [102][617], [Schedule 4][618] cl 8
 
 ##### 185 Application of proceeds of sale of mortgaged property
     
@@ -4532,9 +4546,9 @@ Mortgages
         
     *   (a) apply to proceeds arising from a sale by a mortgagee of mortgaged property that are applied on or after 1 January 2008; but
     
-    *   (b) do not apply if [section 104PPA][583] of the Property Law Act 1952 continues to apply under [section 154][178].
+    *   (b) do not apply if [section 104PPA][584] of the Property Law Act 1952 continues to apply under [section 154][178].
     
-    Compare: 1952 No 52 [s 104][618]
+    Compare: 1952 No 52 [s 104][619]
 
 ##### 186 Payment of surplus to the Crown if current mortgagor cannot be found
     
@@ -4570,9 +4584,9 @@ Mortgages
     
     (4) A receipt given under subsection (3) is a sufficient discharge to the mortgagee for the proper application of the surplus.
     
-    (5) An amount paid to the Crown under this section is trust money for the purposes of [Part 7][619] of the Public Finance Act 1989\.
+    (5) An amount paid to the Crown under this section is trust money for the purposes of [Part 7][620] of the Public Finance Act 1989\.
     
-    Compare: 1952 No 51 [s 102A][620]
+    Compare: 1952 No 51 [s 102A][621]
 
 #### Sale by mortgagee through Registrar or through court
 
@@ -4580,7 +4594,7 @@ Mortgages
     
 *   The Registrar may, in accordance with [sections 188 to 198][218], conduct the sale by public auction of the whole or any part of mortgaged land.
     
-    Compare: 1952 No 51 [s 99(1)][621]
+    Compare: 1952 No 51 [s 99(1)][622]
 
 ##### 188 Application for sale under section 187
     
@@ -4610,11 +4624,11 @@ Mortgages
             
             
         
-        *   (v) any person who has lodged a caveat under [section 137][557] of the Land Transfer Act 1952, or a notice under [section 42][558] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
+        *   (v) any person who has lodged a caveat under [section 137][558] of the Land Transfer Act 1952, or a notice under [section 42][559] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
         
         
     
-    Compare: 1952 No 51 [s 99(1), (1A)][621]
+    Compare: 1952 No 51 [s 99(1), (1A)][622]
 
 ##### 189 Vendor mortgagee must nominate discharge sum
     
@@ -4628,7 +4642,7 @@ Mortgages
     
     *   (b) must state whether the sale to be conducted by the Registrar is to be subject to, or free of, that mortgage or other encumbrance.
     
-    Compare: 1952 No 51 [s 99(1)][621]
+    Compare: 1952 No 51 [s 99(1)][622]
 
 ##### 190 Registrar to arrange sale
     
@@ -4660,7 +4674,7 @@ Mortgages
     
     (3) For the purposes of subsection (1)(b), the date of an application for a sale under [section 187][217] is the date on which the completed application is filed in the proper office of the High Court as provided in [section 188][218].
     
-    Compare: 1952 No 51 [s 99(2)][621]
+    Compare: 1952 No 51 [s 99(2)][622]
 
 ##### 191 Advertising of sale
     
@@ -4682,7 +4696,7 @@ Mortgages
     
     (6) Costs reasonably incurred by the vendor mortgagee for the purpose referred to in subsection (5) are, for the purposes of [sections 87][104], [88][105], [152][176], [153][177], and [185][214], amounts reasonably paid or advanced by the mortgagee with a view to the realisation of the security.
     
-    Compare: 1952 No 51 [s 99(2)(c)][621]
+    Compare: 1952 No 51 [s 99(2)(c)][622]
 
 ##### 192 Registrar may consent to correction of defect or error
     
@@ -4710,7 +4724,7 @@ Mortgages
     
     (2) In subsection (1)(c), _purchase money_ includes, in the case of a sale subject to any mortgage or other encumbrance having priority over the vendor mortgagee's mortgage, the amounts secured by that mortgage or other encumbrance to the extent that the security for those amounts has priority at the time of the sale.
     
-    Compare: 1952 No 51 [s 103][622]
+    Compare: 1952 No 51 [s 103][623]
 
 ##### 195 Current mortgagor or other person may redeem on payment of nominated discharge sum
     
@@ -4734,7 +4748,7 @@ Mortgages
     
     (4) If the amount paid under subsection (1) is less than the amounts secured by the mortgage, the vendor mortgagee may recover the balance from any person bound by the covenant to repay that is expressed or implied in the mortgage.
     
-    Compare: 1952 No 51 [s 100][623]
+    Compare: 1952 No 51 [s 100][624]
 
 ##### 196 Mortgagee may purchase at sale through Registrar
     
@@ -4758,7 +4772,7 @@ Mortgages
     
     (4) Subsection (3)(c) is, in the case of an executed transfer instrument, subject to the need for its registration.
     
-    Compare: 1952 No 51 [s 101(1), (3)][624]
+    Compare: 1952 No 51 [s 101(1), (3)][625]
 
 ##### 197 Effect of transfer executed or registered under section 196
     
@@ -4782,7 +4796,7 @@ Mortgages
     
     (2) Subsection (1) is, in the case of an executed transfer instrument, subject to the need for its registration.
     
-    Compare: 1952 No 51 [s 101(4), (5)][624]
+    Compare: 1952 No 51 [s 101(4), (5)][625]
 
 ##### 198 Registration of transfer instrument
     
@@ -4792,19 +4806,19 @@ Mortgages
     
     (3) Subsection (2) is subject to [section 197(1)(b)][227].
     
-    Compare: 1952 No 51 [s 101(6)][624]
+    Compare: 1952 No 51 [s 101(6)][625]
 
 ##### 199 Applications for sale of mortgaged land by Registrar made before commencement of Act
     
 *   (1) This section applies if---
         
-    *   (a) an application is made under [section 99][621] of the Property Law Act 1952 before 1 January 2008 for the Registrar to conduct the sale of the whole or any part of mortgaged land; and
+    *   (a) an application is made under [section 99][622] of the Property Law Act 1952 before 1 January 2008 for the Registrar to conduct the sale of the whole or any part of mortgaged land; and
     
     *   (b) the sale was not conducted before that date.
     
-    (2) The repeal of the [Property Law Act 1952][604] does not affect the completion of the sale.
+    (2) The repeal of the [Property Law Act 1952][605] does not affect the completion of the sale.
     
-    (3) [Sections 99 to 102][621] and [103 to 103B][622] of the Property Law Act 1952 continue to apply in relation to the sale as if those provisions had not been repealed by this Act.
+    (3) [Sections 99 to 102][622] and [103 to 103B][623] of the Property Law Act 1952 continue to apply in relation to the sale as if those provisions had not been repealed by this Act.
 
 ##### 200 Sale by mortgagee through court
     
@@ -4850,7 +4864,7 @@ Mortgages
     
     (4) An order under subsection (3)(f), or a transfer, assignment, or discharge executed or registered under subsection (3)(g), has the same effect as a transfer or assignment instrument for the mortgaged property executed or registered by a mortgagee under [section 183][212], or a mortgage discharge instrument for a mortgage duly executed or registered in accordance with [section 83][99], as the case may be.
     
-    Compare: 1952 No 51 [s 86(2)][559]
+    Compare: 1952 No 51 [s 86(2)][560]
 
 ##### 201 Application for assistance must be served on certain persons
     
@@ -4870,7 +4884,7 @@ Mortgages
         
         
     
-    *   (e) in the case of mortgaged land, on any person who has lodged a caveat under [section 137][557] of the Land Transfer Act 1952, or a notice under [section 42][558] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
+    *   (e) in the case of mortgaged land, on any person who has lodged a caveat under [section 137][558] of the Land Transfer Act 1952, or a notice under [section 42][559] of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
     
     
 
@@ -4890,7 +4904,7 @@ Mortgages
     
     *   (b) without first determining the priority of encumbrances over the property.
     
-    Compare: 1952 No 51 [s 86(2)--(4)][559]
+    Compare: 1952 No 51 [s 86(2)--(4)][560]
 
 ### Subpart 8---Liability to mortgagee of person who accepts transfer, assignment, or transmission of land subject to mortgage
 
@@ -4918,19 +4932,19 @@ Mortgages
     
     *   (b) when the advance was made.
     
-    Compare: 1952 No 51 [s 104(1)][625]
+    Compare: 1952 No 51 [s 104(1)][626]
 
 ##### 204 Liability of former mortgagor not extinguished
     
 *   [Section 203][234] does not extinguish the liability under the mortgage of any former mortgagor.
     
-    Compare: 1952 No 51 [s 104(1)][625]
+    Compare: 1952 No 51 [s 104(1)][626]
 
 ##### 205 Administrator or trustee liable only to extent of assets of estate or trust
     
 *   An administrator of the estate of a person or a trustee to whom land is transferred, assigned, or transmitted, subject to a mortgage, is liable under [section 203][234] only to the extent of the assets of the estate or trust in the administrator's or trustee's hands and available for meeting the obligations under the mortgage.
     
-    Compare: 1952 No 51 [s 104(2)][625]
+    Compare: 1952 No 51 [s 104(2)][626]
 
 ## Part 4  
 Leases of land
@@ -4991,7 +5005,7 @@ Leases of land
     
     _statutory tenancy_ means a lease that is terminable at will under [section 210][244].
     
-    Compare: 1952 No 51 [ss 117][626], [120(1), (2)][627]
+    Compare: 1952 No 51 [ss 117][627], [120(1), (2)][628]
 
 ### Subpart 2---Form, duration, and effect of leases
 
@@ -5033,13 +5047,13 @@ Leases of land
     
     *   (b) may be terminated, at any time, by the lessor or the lessee giving not less than 20 working days' written notice to the other party to the lease.
     
-    Compare: 1952 No 51 [s 105][628]
+    Compare: 1952 No 51 [s 105][629]
 
 ##### 211 Obligations of lessee to remain in force if lessee remains in possession of land with lessor's consent after term of lease has expired
     
 *   If [section 210(1)(b)][244] applies, all the obligations of the lessee under the lease that are consistent with the lease being terminable at will remain in force until the time that the lease is terminated in accordance with section 210(2).
     
-    Compare: 1952 No 51 [s 105][628]
+    Compare: 1952 No 51 [s 105][629]
 
 ##### 212 Lease terminating on occurrence of future event
     
@@ -5065,7 +5079,7 @@ Leases of land
     
     *   (b) given up any of the lessor's rights or remedies against the lessee for breach of a covenant or condition of the lease.
     
-    Compare: 1986 No 120 [s 60][629]
+    Compare: 1986 No 120 [s 60][630]
 
 ##### 214 Notice by joint tenants
     
@@ -5117,9 +5131,9 @@ Leases of land
     
     (4) For the purposes of this section, a sublease in respect of lease A includes any sublease entered into by a person deriving title through the lessee under lease A.
     
-    (5) For the purposes of [section 117][630] of the Land Transfer Act 1952, a sublease in respect of lease A is an interest to which lease B is deemed to be subject.
+    (5) For the purposes of [section 117][631] of the Land Transfer Act 1952, a sublease in respect of lease A is an interest to which lease B is deemed to be subject.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 6][631] (UK)
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 6][632] (UK)
 
 ### Subpart 3---Covenants, conditions, and powers implied in leases
 
@@ -5127,13 +5141,13 @@ Leases of land
     
 *   [Sections 218 to 220][253] apply, as the case requires, unless a contrary intention is expressed (whether in a lease or otherwise) in accordance with [section 279(2)][324] (construction and variation, etc, of implied covenants).
     
-    Compare: 1952 No 51 [s 106][632]
+    Compare: 1952 No 51 [s 106][633]
 
 ##### 218 Covenants, conditions, and powers implied in all leases
     
-*   (1) Every lease contains the implied covenants, conditions, and powers set out in [Part 2][633] of Schedule 3\.
+*   (1) Every lease contains the implied covenants, conditions, and powers set out in [Part 2][634] of Schedule 3\.
     
-    (2) The covenant set out in [clause 9][634] of Part 2 of Schedule 3 (lessee entitled to quiet enjoyment) that is implied in a lease under subsection (1) relates only to the acts and omissions of---
+    (2) The covenant set out in [clause 9][635] of Part 2 of Schedule 3 (lessee entitled to quiet enjoyment) that is implied in a lease under subsection (1) relates only to the acts and omissions of---
         
     *   (a) the lessor; and
     
@@ -5141,19 +5155,19 @@ Leases of land
     
     *   (c) all persons who claim, or may claim, through, under, or in trust for the lessor or any person referred to in paragraph (b).
     
-    Compare: 1952 No 51 [s 106][632]
+    Compare: 1952 No 51 [s 106][633]
 
 ##### 219 Covenant implied in leases (except unregistered short-term leases)
     
-*   Every lease other than a short-term lease that is not registered contains the covenant set out in [Part 3][635] of Schedule 3 (lessee to keep and yield up premises in existing condition).
+*   Every lease other than a short-term lease that is not registered contains the covenant set out in [Part 3][636] of Schedule 3 (lessee to keep and yield up premises in existing condition).
     
-    Compare: 1952 No 51 [s 106][632]
+    Compare: 1952 No 51 [s 106][633]
 
 ##### 220 Covenant implied in unregistered short-term leases
     
-*   Every short-term lease that is not registered contains the covenant set out in [Part 4][636] of Schedule 3 (lessee to use premises reasonably).
+*   Every short-term lease that is not registered contains the covenant set out in [Part 4][637] of Schedule 3 (lessee to use premises reasonably).
     
-    Compare: 1952 No 51 [s 106][632]
+    Compare: 1952 No 51 [s 106][633]
 
 ##### 221 Reference to usual covenants
     
@@ -5225,7 +5239,7 @@ Leases of land
         
         
     
-    Compare: 1952 No 51 [s 110][637]
+    Compare: 1952 No 51 [s 110][638]
 
 ##### 227 When consent is unreasonably withheld
     
@@ -5245,7 +5259,7 @@ Leases of land
         
         *   (ii) is in receivership or liquidation (if the lessee is a company); or
         
-        *   (iii) is in receivership or is being liquidated under [section 342][584] of the Companies Act 1993 (if the lessee is an overseas company).
+        *   (iii) is in receivership or is being liquidated under [section 342][585] of the Companies Act 1993 (if the lessee is an overseas company).
         
         
     
@@ -5257,7 +5271,7 @@ Leases of land
     
     *   (b) the imposition of the condition or precondition.
     
-    Compare: 1952 No 51 [ss 109][638], [110][637]
+    Compare: 1952 No 51 [ss 109][639], [110][638]
 
 ##### 228 Damages may be recovered from lessor if consent is unreasonably withheld
     
@@ -5293,7 +5307,7 @@ Leases of land
     
     (2) The person entitled to the estate or interest into which that reversion has merged has the same remedies for non-performance or non-observance of the covenants or conditions of the lease, and has the same rights to give notice to the lessee of termination of the lease, as the person who would for the time being (but for the merger) have been entitled to the reversion expectant on the lease would have had.
     
-    Compare: 1952 No 51 [s 111][639]
+    Compare: 1952 No 51 [s 111][640]
 
 ##### 231 Burden of lessor's covenants to run with reversion
     
@@ -5311,7 +5325,7 @@ Leases of land
     
     *   (b) for a lease that comes into operation on or after that date, a reference to every covenant of the lessor, whether it refers to the subject matter of the lease or not.
     
-    Compare: [Grantees of Reversions Act 1540][640], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 113][641]
+    Compare: [Grantees of Reversions Act 1540][641], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 113][642]
 
 ##### 232 Rights under lease to which section 233 applies
     
@@ -5341,7 +5355,7 @@ Leases of land
     
     *   (d) the right to cancel the lease.
     
-    Compare: [Grantees of Reversions Act 1540][640], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 112][642]
+    Compare: [Grantees of Reversions Act 1540][641], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 112][643]
 
 ##### 233 Benefit of lessee's covenants to run with reversion
     
@@ -5353,7 +5367,7 @@ Leases of land
     
     (2) Subsection (1) applies unless a contrary intention appears from the lease or from another circumstance.
     
-    Compare: [Grantees of Reversions Act 1540][640], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 112][642]
+    Compare: [Grantees of Reversions Act 1540][641], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 112][643]
 
 ##### 234 When rights arising from covenants may be exercised
     
@@ -5371,7 +5385,7 @@ Leases of land
     
     (3) Subsection (1)(b) applies unless the person who becomes entitled to exercise the right has agreed to the exercise of that right by some other person (in which case the right may be exercised by the other person to the extent so agreed).
     
-    Compare: [Grantees of Reversions Act 1540][640], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 112][642]
+    Compare: [Grantees of Reversions Act 1540][641], 32 Hen 8, c 34 (Imp); 1952 No 51 [s 112][643]
 
 ##### 235 Rights and obligations under lease after severance
     
@@ -5401,7 +5415,7 @@ Leases of land
         
         
     
-    Compare: 1952 No 51 [s 114][643]
+    Compare: 1952 No 51 [s 114][644]
 
 ##### 236 Notice of termination of lease after severance
     
@@ -5433,7 +5447,7 @@ Leases of land
     
     *   (b) under a court order.
     
-    Compare: [Administration of Justice Act 1705][644], 4 and 5 Anne, c 3 ss 9, 10 (Imp); [Distress for Rent Act 1737][645], 11 Geo 2, c 19 s 11 (UK)
+    Compare: [Administration of Justice Act 1705][645], 4 and 5 Anne, c 3 ss 9, 10 (Imp); [Distress for Rent Act 1737][646], 11 Geo 2, c 19 s 11 (UK)
 
 ### Subpart 5---Effect of transfer or assignment of leases
 
@@ -5475,7 +5489,7 @@ Leases of land
     
     (6) To avoid doubt, subsection (2) does not prevent the lessor from---
         
-    *   (a) re-entering the land peaceably (and without committing forcible entry under [section 91][499] of the Crimes Act 1961); or
+    *   (a) re-entering the land peaceably (and without committing forcible entry under [section 91][500] of the Crimes Act 1961); or
     
     *   (b) cancelling the lease; or
     
@@ -5553,7 +5567,7 @@ Leases of land
     
     *   (c) has the purpose or effect of avoiding the need for compliance with this section or with [sections 244 to 264][283].
     
-    Compare: 1952 No 51 [s 118][646]
+    Compare: 1952 No 51 [s 118][647]
 
 ##### 244 Cancellation of lease for breach of covenant or condition: general
     
@@ -5561,7 +5575,7 @@ Leases of land
         
     *   (a) apply to a court for an order for possession of the land; or
     
-    *   (b) re-enter the land peaceably (and without committing forcible entry under [section 91][499] of the Crimes Act 1961).
+    *   (b) re-enter the land peaceably (and without committing forcible entry under [section 91][500] of the Crimes Act 1961).
     
     (2) However, subsection (1) is subject to [sections 245][284] and [246][285].
     
@@ -5571,7 +5585,7 @@ Leases of land
     
     *   (b) on any later date that is specified in the order.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 245 Cancellation of lease for breach of covenant to pay rent
     
@@ -5605,7 +5619,7 @@ Leases of land
     
     (4) The period for remedying the breach specified under subsection (3)(c) may run concurrently with the period specified in subsection (1)(a) in which the rent must be in arrears before the lessor may exercise any right to cancel the lease.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 246 Cancellation of lease for breach of other covenants
     
@@ -5633,7 +5647,7 @@ Leases of land
     
     *   (e) the right, under [section 253][292], to apply to a court for relief against cancellation of the lease, and the advisability of seeking legal advice on the exercise of that right.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 247 Defects that do not invalidate notice of intention to cancel lease
     
@@ -5653,7 +5667,7 @@ Leases of land
     
     *   (b) in doing anything else that the lessor has reasonably done in relation to the breach.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 248 Application to court for possession of land made before expiry of period of notice of intention to cancel lease
     
@@ -5667,7 +5681,7 @@ Leases of land
     
     (3) This section overrides [section 246][285].
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 249 Consequences of serving on lessee notice of intention to cancel lease under section 245 or 246
     
@@ -5681,7 +5695,7 @@ Leases of land
     
     (2) The lessor's failure to comply with subsection (1) does not, in itself, prevent the lessor from exercising a right to cancel the lease.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 250 Acceptance of rent by lessor after notice of intention to cancel lease given not to operate as waiver of lessor's rights
     
@@ -5693,7 +5707,7 @@ Leases of land
     
     (2) Subsection (1) applies unless the lessor, in accepting the rent, causes the lessee reasonably to believe that the lessor no longer intends to exercise the right to apply for an order for possession of, or to re-enter, the land.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 251 Powers of court in making order for possession
     
@@ -5713,7 +5727,7 @@ Leases of land
     
     *   (b) in doing anything else that the lessor has reasonably done in relation to the breach.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 252 Effect of sections 244 to 251
     
@@ -5725,7 +5739,7 @@ Leases of land
     
     (2) [Sections 244 to 251][283] also do not affect the amount that the lessor may claim by way of damages.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][647] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 2][648] (UK); 1952 No 51 [s 118][647]
 
 ##### 253 Relief against cancellation of lease for breach of covenant or condition
     
@@ -5755,7 +5769,7 @@ Leases of land
     
     (5) Subsection (4)(b) is subject to [section 254][293].
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][648] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][649] (UK); 1952 No 51 [s 118][647]
 
 ##### 254 Mortgagee or receiver may apply for extension of time for bringing proceedings
     
@@ -5773,7 +5787,7 @@ Leases of land
     
     (3) The court may grant the application for an extension of time on any conditions that it thinks fit.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][648] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][649] (UK); 1952 No 51 [s 118][647]
 
 ##### 255 Application for relief not to constitute admission
     
@@ -5797,7 +5811,7 @@ Leases of land
     
     (3) The court may grant relief against the cancellation of the lease without determining all or any of the things set out in subsection (2).
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][648] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][649] (UK); 1952 No 51 [s 118][647]
 
 ##### 256 Powers of court on application for relief
     
@@ -5813,7 +5827,7 @@ Leases of land
     
     *   (b) the breach is not capable of being remedied.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][648] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][649] (UK); 1952 No 51 [s 118][647]
 
 ##### 257 Effect of order granting relief against cancellation of lease
     
@@ -5829,11 +5843,11 @@ Leases of land
     
     *   (b) any right or interest deriving from any sublease is reinstated.
     
-    (3) Subsection (2) is subject to subsection (4), but otherwise applies despite anything to the contrary in [section 121][649] of the Land Transfer Act 1952\.
+    (3) Subsection (2) is subject to subsection (4), but otherwise applies despite anything to the contrary in [section 121][650] of the Land Transfer Act 1952\.
     
-    (4) If the Registrar-General has, under [section 121][649] of the Land Transfer Act 1952, notified the re-entry of the lessor on the register, subsection (2) has effect only from the time at which the order granting relief is registered.
+    (4) If the Registrar-General has, under [section 121][650] of the Land Transfer Act 1952, notified the re-entry of the lessor on the register, subsection (2) has effect only from the time at which the order granting relief is registered.
     
-    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][648] (UK); 1952 No 51 [s 118][646]
+    Compare: Landlord and Tenant Act 1730, 4 Geo 2, c 28 [s 4][649] (UK); 1952 No 51 [s 118][647]
 
 ##### 258 Protection of sublessee on cancellation of superior lease
     
@@ -5859,7 +5873,7 @@ Leases of land
     
     *   (c) a receiver appointed in respect of that estate or interest.
     
-    Compare: 1952 No 51 [s 119][650]
+    Compare: 1952 No 51 [s 119][651]
 
 ##### 259 Interested person may apply for extension of time for bringing proceedings
     
@@ -5877,7 +5891,7 @@ Leases of land
     
     (3) The court may grant the application for an extension of time on any conditions that it thinks fit.
     
-    Compare: 1952 No 51 [s 119][650]
+    Compare: 1952 No 51 [s 119][651]
 
 ##### 260 Powers of court on application for relief by sublessee
     
@@ -5897,7 +5911,7 @@ Leases of land
     
     (3) An order may be made under subsection (1) even though the lessee is not a party to the proceeding.
     
-    Compare: 1952 No 51 [s 119][650]
+    Compare: 1952 No 51 [s 119][651]
 
 ##### 261 Relief against lessor's refusal to enter into renewal or sell reversion to lessee
     
@@ -5935,7 +5949,7 @@ Leases of land
     
     (3) If an application made in accordance with subsection (2)(d) is not made by all of the joint tenants, the application must be served on every joint tenant who is not already a party, unless the court orders otherwise.
     
-    Compare: 1952 No 51 [ss 120][627], [121][651]
+    Compare: 1952 No 51 [ss 120][628], [121][652]
 
 ##### 262 How application under section 261 for relief under section 264 to be made
     
@@ -5945,7 +5959,7 @@ Leases of land
     
     *   (b) must be made not later than 3 months after the date on which the lessor serves on the lessee, and on any mortgagee or receiver of the leasehold estate or interest of which the lessor has actual notice, a notice that adequately and expressly informs the lessee of the matters specified in [section 263][302].
     
-    Compare: 1952 No 51 [ss 120][627], [121][651]
+    Compare: 1952 No 51 [ss 120][628], [121][652]
 
 ##### 263 Matters lessee must be informed of by notice
     
@@ -5959,7 +5973,7 @@ Leases of land
     
     *   (d) that it is advisable for the lessee, mortgagee, or receiver to seek legal advice on the exercise of the right to apply to a court for relief against the refusal.
     
-    Compare: 1952 No 51 [ss 120][627], [121][651]
+    Compare: 1952 No 51 [ss 120][628], [121][652]
 
 ##### 264 Relief court may grant on application
     
@@ -5987,7 +6001,7 @@ Leases of land
     
     (4) If, under this section, an order is made in respect of Māori land for the extension or renewal of a lease, or the entering into of a new lease to the lessee, mortgagee, or receiver, or the specific performance of a covenant or agreement to transfer or assign the reversion, the extension, renewal, entering into of a new lease, transfer or assignment must be confirmed as of right under [Te Ture Whenua Maori Act 1993][472].
     
-    Compare: 1952 No 51 [ss 120][627], [121][651]
+    Compare: 1952 No 51 [ss 120][628], [121][652]
 
 #### Abolition of right to distrain
 
@@ -6003,7 +6017,7 @@ Leases of land
     
     *   (b) prevent a lessee or a person by whom a rentcharge is payable from creating an encumbrance over goods to secure payment of the rent or other amounts payable under the lease or for the rentcharge.
     
-    Compare: [Distress Act 1689][652], 2 Will and Mar, Sess 1, c 5 (Imp); 1952 No 51 [s 107A][653]
+    Compare: [Distress Act 1689][653], 2 Will and Mar, Sess 1, c 5 (Imp); 1952 No 51 [s 107A][654]
 
 #### Miscellaneous matters
 
@@ -6041,7 +6055,7 @@ Leases of land
     
     *   (c) a sublessee whose right to remove the fixture has expired.
     
-    Compare: [Landlord and Tenant Act 1851][654], 14 and 15 Vic, c 25 s 3 (UK)
+    Compare: [Landlord and Tenant Act 1851][655], 14 and 15 Vic, c 25 s 3 (UK)
 
 ##### 267 Effect of unlawful eviction on lessee's obligations
     
@@ -6075,7 +6089,7 @@ Leases of land
             
         *   (i) expressed or implied in the lease; or
         
-        *   (ii) provided for in the [Contractual Remedies Act 1979][655]; and
+        *   (ii) provided for in the [Contractual Remedies Act 1979][656]; and
         
         
     
@@ -6121,13 +6135,13 @@ Leases of land
             
         *   (i) occurred on or about the leased premises or on or about the whole or any part of the land on which the premises are situated; and
         
-        *   (ii) constitutes an indictable offence within the meaning of the [Summary Proceedings Act 1957][656]; or
+        *   (ii) constitutes an imprisonable offence; or
         
         
     
     *   (c) any insurance moneys that would otherwise have been payable to the lessor for the destruction or damage are irrecoverable because of an act or omission of the lessee or the lessee's agent.
     
-    
+    Section 269(3)(b)(ii): replaced, on 1 July 2013, by [section 413][490] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 270 Rights of lessor if insurance for leased premises or land is affected by negligence of lessee or lessee's agent
     
@@ -6468,7 +6482,7 @@ Covenants, easements, profits, and access lots
     
     Compare: Prescription Act 1832, 2 and 3 Will 4, c 71 [ss 1][680], [2][681], [4--8][682] (UK)
     
-    Section 296(4): amended, on 1 January 2011, by [section 58][517] of the Limitation Act 2010 (2010 No 110).
+    Section 296(4): amended, on 1 January 2011, by [section 58][518] of the Limitation Act 2010 (2010 No 110).
 
 #### Vehicular rights of way
 
@@ -6656,7 +6670,7 @@ Covenants, easements, profits, and access lots
     
     (2) _Relevant date_, in subsection (1)(d), means,---
         
-    *   (a) for a restrictive covenant, 1 January 1953 (which is the date on which the [Property Law Act 1952][604] came into force); and
+    *   (a) for a restrictive covenant, 1 January 1953 (which is the date on which the [Property Law Act 1952][605] came into force); and
     
     *   (b) for a positive covenant, 1 January 1987 (which is the application date specified in [section 64A(6)][695] of the Property Law Act 1952, as inserted by section 3 of the Property Law Amendment Act 1986).
     
@@ -7551,7 +7565,7 @@ Special powers of court
         
     *   (a) a creditor who claims to be prejudiced by a disposition of property to which this subpart applies (whether the disposition was made before or after the debtor became indebted to the creditor):
     
-    *   (b) the liquidator, if the debtor is a company in liquidation or an overseas company being liquidated under [section 342][584] of the Companies Act 1993\.
+    *   (b) the liquidator, if the debtor is a company in liquidation or an overseas company being liquidated under [section 342][585] of the Companies Act 1993\.
     
     (2) The application must specify the disposition claimed to be prejudicial, and the property or compensation sought through the application.
     
@@ -7615,7 +7629,7 @@ Special powers of court
         
     *   (a) the Official Assignee, if the debtor is a bankrupt; or
     
-    *   (b) the debtor, if the debtor is a company in liquidation or an overseas company being liquidated under [section 342][584] of the Companies Act 1993; or
+    *   (b) the debtor, if the debtor is a company in liquidation or an overseas company being liquidated under [section 342][585] of the Companies Act 1993; or
     
     *   (c) in every other case, the person directed by the court under subsection (2).
     
@@ -7728,7 +7742,7 @@ Miscellaneous provisions
     
     (5) If a property order under the [Protection of Personal and Property Rights Act 1988][673] has been made in respect of the person, the document must be given to, or served on, a person appointed to act as manager of the property.
     
-    (6) If the person is a company in liquidation, or is an overseas company being liquidated under [section 342][584] of the Companies Act 1993, the document must be given to, or served on, the liquidator.
+    (6) If the person is a company in liquidation, or is an overseas company being liquidated under [section 342][585] of the Companies Act 1993, the document must be given to, or served on, the liquidator.
     
     (7) If the person is a company that has been removed from the New Zealand register or an overseas company that has been removed from the overseas register, or is a body corporate that has otherwise ceased to exist, the document must be given to, or served on, the person who is or is acting as, or a person who is an agent of, the Secretary to the Treasury.
     
@@ -7890,15 +7904,15 @@ Miscellaneous provisions
     
     *   (d) (1540) 32 Hen 8, c 32---The [Partition Act 1540][720]:
     
-    *   (e) (1540) 32 Hen 8, c 34---The [Grantees of Reversions Act 1540][640], except section 3:
+    *   (e) (1540) 32 Hen 8, c 34---The [Grantees of Reversions Act 1540][641], except section 3:
     
-    *   (f) (1689) 2 Will and Mar, Sess 1, c 5---The [Distress Act 1689][652], except sections 3 and 4:
+    *   (f) (1689) 2 Will and Mar, Sess 1, c 5---The [Distress Act 1689][653], except sections 3 and 4:
     
-    *   (g) (1705) 4 and 5 Anne, c 3---The [Administration of Justice Act 1705][644]: [sections 9][740] and [10][741]:
+    *   (g) (1705) 4 and 5 Anne, c 3---The [Administration of Justice Act 1705][645]: [sections 9][740] and [10][741]:
     
     *   (h) (1709) 8 Anne, c 18---The Landlord and Tenant Act 1709: [sections 1][742], [4][743], [6][744], and [7][745]:
     
-    *   (i) (1730) 4 Geo 2, c 28---The Landlord and Tenant Act 1730: [sections 2][647], [4][648], [5][746], and [6][631]:
+    *   (i) (1730) 4 Geo 2, c 28---The Landlord and Tenant Act 1730: [sections 2][648], [4][649], [5][746], and [6][632]:
     
     *   (j) (1737) 11 Geo 2, c 19---The Distress for Rent Act 1737: [sections 1][747], [2][748], [7][749], [8][750], [11][751], [14][752], [16][753], and [17][754]:
     
@@ -7930,7 +7944,7 @@ Miscellaneous provisions
     
     *   (b) [Distress and Replevin Act 1908][768] (1908 No 47):
     
-    *   (c) [Property Law Act 1952][604] (1952 No 51).
+    *   (c) [Property Law Act 1952][605] (1952 No 51).
     
     Compare: 1952 No 51 [s 155(2)][764]
 
@@ -7958,9 +7972,9 @@ Miscellaneous provisions
     
     (4) All instruments of the kind to which this Act applies and that came into operation before 1 January 2008 must, to give effect to subsection (3), be read and construed as if the law existing immediately before 1 January 2008 continued to have effect, and must be given only the effect and consequences that they would have had under that law.
     
-    (5) Covenants implied by the [Property Law Act 1952][604], or by [section 96][677] or [98][769] of the Land Transfer Act 1952, into instruments that came into operation before 1 January 2008 are not affected by [sections 364][430] and [366(c)][432], and continue as if that Act, and those sections, had not been repealed.
+    (5) Covenants implied by the [Property Law Act 1952][605], or by [section 96][677] or [98][769] of the Land Transfer Act 1952, into instruments that came into operation before 1 January 2008 are not affected by [sections 364][430] and [366(c)][432], and continue as if that Act, and those sections, had not been repealed.
     
-    (6) Covenants, conditions, terms, or powers implied by [sections 105 to 107][628] of the Property Law Act 1952 into leases that came into operation before 1 January 2008 are not affected by [section 366(c)][432], and continue as if that Act had not been repealed.
+    (6) Covenants, conditions, terms, or powers implied by [sections 105 to 107][629] of the Property Law Act 1952 into leases that came into operation before 1 January 2008 are not affected by [section 366(c)][432], and continue as if that Act had not been repealed.
     
     (7) Subsections (5) and (6) do not limit subsections (3) and (4); but subsections (1) to (6) are subject to express provision to the contrary in this Act or any other enactment.
     
@@ -7986,7 +8000,7 @@ Miscellaneous provisions
 
 ##### 370 Transitional provisions relating to Companies Amendment Act 2006
     
-*   (1) Until the commencement of [section 40][773] of the Companies Amendment Act 2006, [section 153(2)(c) and (4)][177] of this Act must be read as if the references to [clauses 1(1)][586] and [2(1)(b)][587] of Schedule 7 of the Companies Act 1993 were references to clauses 1 and 9(b) of Schedule 7 of the Companies Act 1993\.
+*   (1) Until the commencement of [section 40][773] of the Companies Amendment Act 2006, [section 153(2)(c) and (4)][177] of this Act must be read as if the references to [clauses 1(1)][587] and [2(1)(b)][588] of Schedule 7 of the Companies Act 1993 were references to clauses 1 and 9(b) of Schedule 7 of the Companies Act 1993\.
     
     (2) If [section 40][773] of the Companies Amendment Act 2006 is in force on 1 January 2008, [clause 5][774] of Schedule 7 of the Companies Act 1993 is amended by omitting ""landlord or other"" in each place where it appears.
     
@@ -7994,13 +8008,13 @@ Miscellaneous provisions
         
     *   (a) clause 11 of Schedule 7 of the Companies Act 1993 is amended by omitting ""landlord or other"" in each place where it appears; and
     
-    *   (b) the [Schedule 7][585] of the Companies Act 1993 to be substituted by [section 40][773], and set out in [Schedule 1][775], of the Companies Amendment Act 2006, is amended by omitting from clause 5 ""landlord or other"" in each place where it appears.
+    *   (b) the [Schedule 7][586] of the Companies Act 1993 to be substituted by [section 40][773], and set out in [Schedule 1][775], of the Companies Amendment Act 2006, is amended by omitting from clause 5 ""landlord or other"" in each place where it appears.
     
     
 
 ##### 371 Transitional provision relating to Insolvency (Cross-border) Act 2006
     
-*   Until the commencement of [section 13][776] of the Insolvency (Cross-border) Act 2006, references in this Act to an overseas company being liquidated under [section 342][584] of the Companies Act 1993 must be read as references to an overseas company whose assets in New Zealand are being liquidated under that section.
+*   Until the commencement of [section 13][776] of the Insolvency (Cross-border) Act 2006, references in this Act to an overseas company being liquidated under [section 342][585] of the Companies Act 1993 must be read as references to an overseas company whose assets in New Zealand are being liquidated under that section.
 
 ---
 
@@ -8049,7 +8063,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (3) If the mortgagee obtains judgment against the mortgagor for an amount owing under the mortgage, the mortgagor will pay to the mortgagee interest on the amount, at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage, from the date of judgment until the date of payment of the sum awarded by the judgment.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 1
+    Compare: 1952 No 51 [Schedule 4][618] cl 1
 
 ##### 2 Insurance
     
@@ -8075,7 +8089,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (b) on request, immediately deliver to the mortgagee a certificate or other confirmation from the insurer that all of those sums have been paid.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 2
+    Compare: 1952 No 51 [Schedule 4][618] cl 2
 
 ##### 3 Application of insurance money
     
@@ -8091,7 +8105,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (b) interest ceases to be payable on amounts secured by the mortgage and paid to the mortgagee under this clause as from the date of payment.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 6
+    Compare: 1952 No 51 [Schedule 4][618] cl 6
 
 ##### 4 Obligations in respect of mortgaged land
     
@@ -8109,19 +8123,19 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (c) comply with all notices and demands relating to the mortgaged land made under the provisions of any other enactment, ordinance, or bylaw.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 3
+    Compare: 1952 No 51 [Schedule 4][618] cl 3
 
 ##### 5 Property to be put and kept in good and substantial repair
     
 *   The mortgagor will put and keep in good and substantial repair all buildings, fences, drains, or other improvements at any time erected, laid, or made on the mortgaged land.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 4
+    Compare: 1952 No 51 [Schedule 4][618] cl 4
 
 ##### 6 Power to inspect
     
 *   The mortgagee may at all reasonable times, either personally or by agents, enter the mortgaged land to inspect the buildings and improvements.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 4
+    Compare: 1952 No 51 [Schedule 4][618] cl 4
 
 ##### 7 Buildings and improvements must not be removed, dismantled, or structurally altered without consent
     
@@ -8137,7 +8151,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (2) To the extent that the mortgagor complies with the provisions of any mortgage or other encumbrance referred to in subclause (1) that relate to the duty to insure against loss or damage by fire or other cause, that compliance is compliance also with any like duty to insure contained or implied in the present mortgage.
     
-    Compare: 1952 No 51 [Schedule 4][617] cls 11, 13
+    Compare: 1952 No 51 [Schedule 4][618] cls 11, 13
 
 ##### 9 Observance of other covenants
     
@@ -8149,7 +8163,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (c) comply with any other covenant registered against the title to the mortgaged land.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 4A
+    Compare: 1952 No 51 [Schedule 4][618] cl 4A
 
 ##### 10 Mortgagee may remedy defaults of mortgagor
     
@@ -8173,7 +8187,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (4) In subclause (3), _upon demand_ means upon demand for payment of the amounts referred to in that subclause being made to the mortgagor by a notice in writing signed by the mortgagee or by an agent of the mortgagee.
     
-    Compare: 1952 No 51 [Schedule 4][617] cls 5, 7, 12, 16
+    Compare: 1952 No 51 [Schedule 4][618] cls 5, 7, 12, 16
 
 ##### 11 Power to call up amounts secured
     
@@ -8189,7 +8203,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (e) the mortgaged land or any part of it is taken under any enactment; or
     
-    *   (f) the mortgagor becomes bankrupt or, in the case of a company, is placed in liquidation or, in the case of an overseas company, is being liquidated under [section 342][584] of the Companies Act 1993; or
+    *   (f) the mortgagor becomes bankrupt or, in the case of a company, is placed in liquidation or, in the case of an overseas company, is being liquidated under [section 342][585] of the Companies Act 1993; or
     
     *   (g) the mortgagor is a body corporate and, as a result of all or any of the following, the effective management or control of the body corporate is materially different from that when the mortgage was executed:
             
@@ -8215,7 +8229,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (6) However, a waiver under subclause (5) relates only to the failure or event concerned and does not prejudice, or operate as a waiver of, the rights of the mortgagee for any failure or event that may occur in the future.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 9
+    Compare: 1952 No 51 [Schedule 4][618] cl 9
 
 ##### 12 Power to enter into possession as mortgagee or to appoint receiver
     
@@ -8255,7 +8269,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     (5) The mortgagee's costs and expenses arising out of the cancellation or the exercise or any attempted exercise by the mortgagee of rights and powers against any purchaser will be borne by the mortgagor.
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 8
+    Compare: 1952 No 51 [Schedule 4][618] cl 8
 
 ##### 14 Power to subdivide
     
@@ -8391,13 +8405,13 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (e) receive the compensation, damages, or other amounts referred to in paragraph (d) on behalf of the mortgagor:
     
-    *   (f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of a request to the Registrar-General under [section 117][630] or [118A][785] of the Land Transfer Act 1952).
+    *   (f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of a request to the Registrar-General under [section 117][631] or [118A][785] of the Land Transfer Act 1952).
     
     (6) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys.
     
     (7) The mortgagor agrees to ratify and confirm anything that the mortgagee or a substitute attorney lawfully does or causes to be done under this clause.
     
-    Compare: 1952 No 51 [Schedule 4][617] cls 14, 15
+    Compare: 1952 No 51 [Schedule 4][618] cls 14, 15
 
 ##### 18 Discharge of mortgage
     
@@ -8411,7 +8425,7 @@ Covenants, conditions, and powers implied in mortgages over land
     
     *   (d) give to the mortgagor all certificates or instruments of title and other documents deposited with the mortgagee on account of the mortgage (if any).
     
-    Compare: 1952 No 51 [Schedule 4][617] cl 10
+    Compare: 1952 No 51 [Schedule 4][618] cl 10
 
 ##### 19 Production of instruments of title
     
@@ -8562,7 +8576,7 @@ Covenants, conditions, and powers implied in mortgages over goods
     
     *   (d) the mortgagor agrees to do any of the things referred to in paragraph (c) without the prior written consent of the mortgagee; or
     
-    *   (e) the mortgagor becomes bankrupt or, in the case of a company, is placed in liquidation or, in the case of an overseas company, is being liquidated under [section 342][584] of the Companies Act 1993; or
+    *   (e) the mortgagor becomes bankrupt or, in the case of a company, is placed in liquidation or, in the case of an overseas company, is being liquidated under [section 342][585] of the Companies Act 1993; or
     
     *   (f) the mortgagor is a body corporate and, as a result of all or any of the following, the effective management or control of the body corporate is materially different from that when the mortgage was executed:
             
@@ -8664,11 +8678,11 @@ Preliminary
 
 ##### 2 General covenant between lessor and lessee on matters set out in Part 2 of this schedule
     
-*   The lessor and lessee covenant between each other on the matters set out in [Part 2][633] of this schedule.
+*   The lessor and lessee covenant between each other on the matters set out in [Part 2][634] of this schedule.
 
 ##### 3 General covenants of lessee on matters set out in Part 3 or 4 of this schedule
     
-*   The lessee covenants with the lessor on the matters, as the case requires, set out in [Part 3][635] or [4][636] of this schedule.
+*   The lessee covenants with the lessor on the matters, as the case requires, set out in [Part 3][636] or [4][637] of this schedule.
 
 ## Part 2  
 Covenants, conditions, and powers implied in all leases of land
@@ -8701,7 +8715,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     (5) Any dispute arising under this clause will be referred to arbitration under the [Arbitration Act 1996][789].
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 5 Alteration of buildings
     
@@ -8709,7 +8723,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     (2) The lessor will not unreasonably withhold consent under subclause (1).
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 6 Noxious or offensive acts or things
     
@@ -8727,25 +8741,25 @@ Covenants, conditions, and powers implied in all leases of land
     
     *   (b) any act or thing that is, or is likely to be, a nuisance or that causes, or is likely to cause, any nuisance, damage, or disturbance.
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 7 Commission of waste
     
 *   The lessee will not commit, or permit any of the lessee's agents, contractors, or invitees to commit, the tort of voluntary waste in relation to the leased premises.
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 8 Lessor not to depart from grant
     
 *   The lessor will not derogate from the lease.
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 9 Lessee entitled to quiet enjoyment
     
 *   The lessee and all persons claiming under the lessee will be able quietly to enjoy the leased premises without disturbance by any person specified in [section 218(2)][253].
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 10 Premises unable to be used for particular purpose
     
@@ -8763,7 +8777,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     *   (c) any other person under the lessee's direction or control.
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 11 Power to inspect premises
     
@@ -8783,7 +8797,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     (2) The lessor will not unreasonably interfere with the lessee's occupation and use of the leased premises in the exercise of the power conferred by subclause (1).
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ##### 12 Power to cancel lease for non-payment of rent or other breach
     
@@ -8799,7 +8813,7 @@ Covenants, conditions, and powers implied in all leases of land
     
     *   (b) the court makes an order for possession of the land in favour of the lessor.
     
-    Compare: 1952 No 51 [ss 106][632], [107][790]
+    Compare: 1952 No 51 [ss 106][633], [107][790]
 
 ## Part 3  
 Covenant implied in all leases of land (except short-term leases)
@@ -8834,7 +8848,7 @@ Covenant implied in all leases of land (except short-term leases)
     
     *   (c) any other person under the lessee's direction or control.
     
-    Compare: 1952 No 51 [s 106][632]
+    Compare: 1952 No 51 [s 106][633]
 
 ## Part 4  
 Covenant implied in short-term leases
@@ -8843,7 +8857,7 @@ Covenant implied in short-term leases
     
 *   The lessee will, at all times during the currency of the lease, use the leased premises in the way that a reasonable tenant would.
     
-    Compare: 1952 No 51 [s 106][632]
+    Compare: 1952 No 51 [s 106][633]
 
 ---
 
@@ -9073,7 +9087,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     (2) This clause applies subject to the contract for the sale of the land.
     
-    Compare: 1952 No 51 [s 52][501]
+    Compare: 1952 No 51 [s 52][502]
 
 ##### 6 Sale by administrator
     
@@ -9193,7 +9207,7 @@ Provisions applying to land not owned by the Crown and not under Land Transfer A
     
     (6) The surplus, if any, of the money raised or the income received under the trust must be paid to the person for the time being entitled to the land comprised in the trust, in reversion immediately expectant on the term of the trust.
     
-    (7) The rule against perpetuities as modified by the [Perpetuities Act 1964][522] does not apply to---
+    (7) The rule against perpetuities as modified by the [Perpetuities Act 1964][523] does not apply to---
         
     *   (a) any powers or remedies conferred by this clause; or
     
@@ -9502,11 +9516,11 @@ Item relating to the Property Law Act 1952 in Part 1 of [Schedule 2][829]: repea
 > 
 > 
 
-[Section 104][618]: repeal.
+[Section 104][619]: repeal.
 
-[Section 105][612]: omit ""any such sale as aforesaid"" and substitute ""exercising a power of sale over any land"".
+[Section 105][613]: omit ""any such sale as aforesaid"" and substitute ""exercising a power of sale over any land"".
 
-[Sections 106 to 108][547] and [110][573]: repeal.
+[Sections 106 to 108][548] and [110][574]: repeal.
 
 [Section 115(1)][836]: omit ""for a life or lives, or for a term of not less than 3 years"".
 
@@ -9716,13 +9730,13 @@ Insert after [section 116][863]:
 
 [Section 18][866]: new section 103C(1): omit ""section 135(6)(b) of the Property Law Act 1952"" and substitute ""section 20(5)(b) of the Property Law Act 2007"".
 
-Heading to [section 26][490]: omit ""**section 135 of Property Law Act 1952**"" and substitute ""**section 20 of Property Law Act 2007**"".
+Heading to [section 26][491]: omit ""**section 135 of Property Law Act 1952**"" and substitute ""**section 20 of Property Law Act 2007**"".
 
-[Section 26][490]: omit ""Section 135 of the Property Law Act 1952"" and substitute ""Section 20 of the Property Law Act 2007"".
+[Section 26][491]: omit ""Section 135 of the Property Law Act 1952"" and substitute ""Section 20 of the Property Law Act 2007"".
 
-[Section 26][490]: new subsection (6): omit ""(6)"" and substitute ""(5)"".
+[Section 26][491]: new subsection (6): omit ""(6)"" and substitute ""(5)"".
 
-[Section 26][490]: new subsection (6): omit ""subsections (1) to (5)"" in each place where it appears and substitute in each case ""subsections (1) to (4)"".
+[Section 26][491]: new subsection (6): omit ""subsections (1) to (5)"" in each place where it appears and substitute in each case ""subsections (1) to (4)"".
 
 ##### Public Service Investment Society Management Act (No 2) 1979 (1979 No 9)
 
@@ -9926,7 +9940,7 @@ Section 7(d): omit ""Foreclose,"" and ""distrain for rent,"".
 
 [Section 29(4)][890]: omit ""section 120 of the Property Law Act 1952"" and substitute ""section 264 of the Property Law Act 2007"".
 
-Schedule 7: amended, on 1 January 2011, by [section 58][517] of the Limitation Act 2010 (2010 No 110).
+Schedule 7: amended, on 1 January 2011, by [section 58][518] of the Limitation Act 2010 (2010 No 110).
 
 Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [section 364(2)][891].
 
@@ -9946,7 +9960,7 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 
 ###### 1 General
     
-*   This is a reprint of the Property Law Act 2007\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Property Law Act 2007\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][892] ![](/images/external_link.gif).
 
@@ -9995,7 +10009,9 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
     
 *   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][711]
     
-    Limitation Act 2010 (2010 No 110): [section 58][517]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][490]
+    
+    Limitation Act 2010 (2010 No 110): [section 58][518]
     
     Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 8][663]
     
@@ -10005,7 +10021,7 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
     
     Unit Titles Act 2010 (2010 No 22): [section 233(1)][784]
     
-    Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90): [section 26][490]
+    Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90): [section 26][491]
 
 
 
@@ -10499,173 +10515,173 @@ Schedule 7 **Insolvency Act 1967**: items repealed, on 1 January 2008, by [secti
 [487]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM126595
 [488]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268920
 [489]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268925
-[490]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM968958
-[491]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268922
-[492]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268923
-[493]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268918
-[494]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267348
-[495]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267649
-[496]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM294267
-[497]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267611
-[498]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM294273
-[499]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM328569
-[500]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267617
-[501]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267619
-[502]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271699
-[503]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271919
-[504]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267622
-[505]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM175004
-[506]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267618
-[507]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267627
-[508]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271617
-[509]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM140144
-[510]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM364948
-[511]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM272417
-[512]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267624
-[513]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268943
-[514]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268944
-[515]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268945
-[516]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268907
-[517]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM2033287
-[518]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267608
-[519]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267609
-[520]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267361
-[521]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267352
-[522]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM353436
-[523]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267356
-[524]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267357
-[525]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267359
-[526]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267358
-[527]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267362
-[528]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267387
-[529]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267391
-[530]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267385
-[531]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267371
-[532]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267374
-[533]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322860
-[534]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322850
-[535]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322897
-[536]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267375
-[537]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267384
-[538]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267395
-[539]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM414112
-[540]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267664
-[541]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267674
-[542]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267667
-[543]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267666
-[544]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267668
-[545]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1409100
-[546]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267665
-[547]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271009
-[548]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1409101
-[549]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267677
-[550]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM212746
-[551]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM213506
-[552]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM213538
-[553]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267679
-[554]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267680
-[555]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267681
-[556]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267682
-[557]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271228
-[558]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM441723
-[559]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267683
-[560]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267684
-[561]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM276607
-[562]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM397675
-[563]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM197146
-[564]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170319
-[565]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170317
-[566]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47187
-[567]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM305061
-[568]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268953
-[569]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267695
-[570]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267696
-[571]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267698
-[572]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM3043305
-[573]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271015
-[574]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267697
-[575]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM94277
-[576]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267811
-[577]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271660
-[578]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271011
-[579]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327720
-[580]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46776
-[581]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46777
-[582]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267809
-[583]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267887
-[584]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322879
-[585]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323545
-[586]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323546
-[587]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323547
-[588]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46737
-[589]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267861
-[590]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267863
-[591]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267865
-[592]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267867
-[593]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267869
-[594]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267871
-[595]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267873
-[596]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267875
-[597]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267877
-[598]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267879
-[599]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327381
-[600]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM25999
-[601]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323597
-[602]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM325508
-[603]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267881
-[604]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267064
-[605]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267885
-[606]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267883
-[607]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267898
-[608]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267851
-[609]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267838
-[610]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267840
-[611]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327726
-[612]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271007
-[613]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267807
-[614]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267808
-[615]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267812
-[616]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267825
-[617]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268987
-[618]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271005
-[619]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM162980
-[620]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267826
-[621]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267814
-[622]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267830
-[623]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267820
-[624]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267823
-[625]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267843
-[626]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268289
-[627]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268409
-[628]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268232
-[629]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95529
-[630]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271033
-[631]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11170
-[632]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268233
-[633]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373114
-[634]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373105
-[635]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373117
-[636]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373119
-[637]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268247
-[638]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268244
-[639]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268251
-[640]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10966
-[641]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268253
-[642]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268252
-[643]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268254
-[644]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11141
-[645]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11178
-[646]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268402
-[647]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11167
-[648]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11168
-[649]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271044
-[650]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268407
-[651]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268418
-[652]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11120
-[653]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268239
-[654]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11837
-[655]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31565
-[656]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM310742
+[490]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM3360714
+[491]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM968958
+[492]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268922
+[493]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268923
+[494]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268918
+[495]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267348
+[496]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267649
+[497]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM294267
+[498]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267611
+[499]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM294273
+[500]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM328569
+[501]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267617
+[502]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267619
+[503]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271699
+[504]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271919
+[505]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267622
+[506]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM175004
+[507]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267618
+[508]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267627
+[509]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271617
+[510]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM140144
+[511]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM364948
+[512]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM272417
+[513]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267624
+[514]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268943
+[515]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268944
+[516]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268945
+[517]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268907
+[518]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM2033287
+[519]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267608
+[520]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267609
+[521]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267361
+[522]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267352
+[523]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM353436
+[524]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267356
+[525]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267357
+[526]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267359
+[527]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267358
+[528]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267362
+[529]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267387
+[530]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267391
+[531]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267385
+[532]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267371
+[533]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267374
+[534]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322860
+[535]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322850
+[536]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322897
+[537]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267375
+[538]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267384
+[539]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267395
+[540]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM414112
+[541]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267664
+[542]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267674
+[543]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267667
+[544]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267666
+[545]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267668
+[546]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1409100
+[547]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267665
+[548]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271009
+[549]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1409101
+[550]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267677
+[551]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM212746
+[552]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM213506
+[553]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM213538
+[554]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267679
+[555]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267680
+[556]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267681
+[557]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267682
+[558]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271228
+[559]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM441723
+[560]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267683
+[561]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267684
+[562]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM276607
+[563]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM397675
+[564]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM197146
+[565]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170319
+[566]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM170317
+[567]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM47187
+[568]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM305061
+[569]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268953
+[570]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267695
+[571]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267696
+[572]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267698
+[573]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM3043305
+[574]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271015
+[575]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267697
+[576]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM94277
+[577]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267811
+[578]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271660
+[579]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271011
+[580]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327720
+[581]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46776
+[582]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46777
+[583]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267809
+[584]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267887
+[585]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM322879
+[586]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323545
+[587]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323546
+[588]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323547
+[589]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM46737
+[590]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267861
+[591]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267863
+[592]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267865
+[593]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267867
+[594]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267869
+[595]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267871
+[596]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267873
+[597]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267875
+[598]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267877
+[599]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267879
+[600]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327381
+[601]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM25999
+[602]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM323597
+[603]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM325508
+[604]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267881
+[605]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267064
+[606]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267885
+[607]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267883
+[608]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267898
+[609]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267851
+[610]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267838
+[611]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267840
+[612]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM327726
+[613]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271007
+[614]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267807
+[615]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267808
+[616]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267812
+[617]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267825
+[618]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268987
+[619]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271005
+[620]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM162980
+[621]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267826
+[622]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267814
+[623]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267830
+[624]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267820
+[625]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267823
+[626]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267843
+[627]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268289
+[628]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268409
+[629]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268232
+[630]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM95529
+[631]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271033
+[632]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11170
+[633]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268233
+[634]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373114
+[635]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373105
+[636]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373117
+[637]: http://www.legislation.govt.nz/act/public/2007/0091/latest/whole.html#DLM1373119
+[638]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268247
+[639]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268244
+[640]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268251
+[641]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM10966
+[642]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268253
+[643]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268252
+[644]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268254
+[645]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11141
+[646]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11178
+[647]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268402
+[648]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11167
+[649]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11168
+[650]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM271044
+[651]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268407
+[652]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268418
+[653]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11120
+[654]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268239
+[655]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM11837
+[656]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM31565
 [657]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268255
 [658]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM268256
 [659]: http://www.legislation.govt.nz/act/public/2007/0091/latest/link.aspx?id=DLM267642
