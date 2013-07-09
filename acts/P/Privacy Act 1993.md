@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2628,9 +2628,11 @@ Complaints
     
     (3) Where a person fails to comply with a request under subsection (1) to attend a conference, the Commissioner may issue a summons requiring the person to attend a conference at a time and place to be specified in the summons.
     
-    (4) Subsections (1), (2), (3), and (5) of [section 20][323] of the Summary Proceedings Act 1957 shall apply to a summons under this section as if it were a witness summons issued under that section.
+    (4) [Section 159][323] of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
     
     Compare: 1988 No 4 [ss 67][324], [71][325]
+    
+    Section 76(4): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 77 Procedure after investigation
     
@@ -2654,9 +2656,9 @@ Complaints
     
     Compare: 1977 No 49 s 37; 1983 No 56 s 11
     
-    Section 77(2): amended, on 22 October 2003, by [section 3][326] of the Privacy Amendment Act 2003 (2003 No 94).
+    Section 77(2): amended, on 22 October 2003, by [section 3][327] of the Privacy Amendment Act 2003 (2003 No 94).
     
-    Section 77(3): amended, on 22 October 2003, by [section 3][326] of the Privacy Amendment Act 2003 (2003 No 94).
+    Section 77(3): amended, on 22 October 2003, by [section 3][327] of the Privacy Amendment Act 2003 (2003 No 94).
 
 ##### 78 Procedure in relation to charging
     
@@ -2836,7 +2838,7 @@ Complaints
     
     Section 86 heading: amended, on 1 January 2002, by [section 71(1)][251] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 86(1): substituted, on 1 January 2004, by [section 48(1)][327] of the Supreme Court Act 2003 (2003 No 53).
+    Section 86(1): substituted, on 1 January 2004, by [section 48(1)][328] of the Supreme Court Act 2003 (2003 No 53).
     
     Section 86(2): amended, on 1 January 2002, by [section 71(1)][251] of the Human Rights Amendment Act 2001 (2001 No 96).
     
@@ -2868,43 +2870,43 @@ Complaints
     
     *   (c) humiliation, loss of dignity, and injury to the feelings of the aggrieved individual.
     
-    (1A) Subsection (1) applies subject to [subpart 1][328] of Part 2 of the Prisoners' and Victims' Claims Act 2005\.
+    (1A) Subsection (1) applies subject to [subpart 1][329] of Part 2 of the Prisoners' and Victims' Claims Act 2005\.
     
     (2) Damages recovered by the Director of Human Rights Proceedings under this section shall be paid to the aggrieved individual on whose behalf the proceedings were brought or, if that individual is a minor who is not married or in a civil union or lacks the capacity to manage his or her own financial affairs, in the discretion of the Director of Human Rights Proceedings to Public Trust.
     
     (3) Where money is paid to Public Trust under subsection (2),---
         
-    *   (a) [section 12][329] of the Minors' Contracts Act 1969 shall apply in the case of a minor who is not married or in a civil union; and
+    *   (a) [section 12][330] of the Minors' Contracts Act 1969 shall apply in the case of a minor who is not married or in a civil union; and
     
-    *   (b) [Part 9A][330] of the Protection of Personal and Property Rights Act 1988 shall apply in the case of an individual who lacks the capacity to manage his or her own financial affairs.
+    *   (b) [Part 9A][331] of the Protection of Personal and Property Rights Act 1988 shall apply in the case of an individual who lacks the capacity to manage his or her own financial affairs.
     
     Compare: 1977 No 49 s 40; 1983 No 56 s 14; 1992 No 16 s 15(1)
     
-    Section 88(1A): inserted, on 4 June 2005, by [section 74][331] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
+    Section 88(1A): inserted, on 4 June 2005, by [section 74][332] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
     
-    Section 88(2): amended, on 26 April 2005, by [section 7][332] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 88(2): amended, on 26 April 2005, by [section 7][333] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 88(2): amended, on 22 October 2003, by [section 4][333] of the Privacy Amendment Act 2003 (2003 No 94).
+    Section 88(2): amended, on 22 October 2003, by [section 4][334] of the Privacy Amendment Act 2003 (2003 No 94).
     
-    Section 88(2): amended, on 19 December 2002, by [section 3(1)][334] of the Privacy Amendment Act 2002 (2002 No 73).
+    Section 88(2): amended, on 19 December 2002, by [section 3(1)][335] of the Privacy Amendment Act 2002 (2002 No 73).
     
-    Section 88(2): amended, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 88(2): amended, on 1 March 2002, by [section 170(1)][336] of the Public Trust Act 2001 (2001 No 100).
     
     Section 88(2): amended, on 1 January 2002, by [section 71(1)][251] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 88(3): amended, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 88(3): amended, on 1 March 2002, by [section 170(1)][336] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 88(3)(a): amended, on 26 April 2005, by [section 7][332] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 88(3)(a): amended, on 26 April 2005, by [section 7][333] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 88(3)(b): amended, on 19 December 2002, by [section 3(2)][334] of the Privacy Amendment Act 2002 (2002 No 73).
+    Section 88(3)(b): amended, on 19 December 2002, by [section 3(2)][335] of the Privacy Amendment Act 2002 (2002 No 73).
     
-    Section 88(3)(b): amended, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 88(3)(b): amended, on 1 March 2002, by [section 170(1)][336] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 89 Certain provisions of Human Rights Act 1993 to apply
     
-*   [Sections 92Q to 92W][336] and [Part 4][337] of the Human Rights Act 1993 shall apply, with such modifications as are necessary, in respect of proceedings under [section 82][102] or [section 83][103] of this Act as if they were proceedings under [section 92B][338], or [section 92E][339], or [section 92H][340] of that Act.
+*   [Sections 92Q to 92W][337] and [Part 4][338] of the Human Rights Act 1993 shall apply, with such modifications as are necessary, in respect of proceedings under [section 82][102] or [section 83][103] of this Act as if they were proceedings under [section 92B][339], or [section 92E][340], or [section 92H][341] of that Act.
     
-    Section 89: substituted, on 1 February 1994, by [section 145][341] of the Human Rights Act 1993 (1993 No 82).
+    Section 89: substituted, on 1 February 1994, by [section 145][342] of the Human Rights Act 1993 (1993 No 82).
     
     Section 89: amended, on 1 January 2002, by [section 71(1)][251] of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -2935,17 +2937,19 @@ Proceedings of Commissioner
     
     (2) The Commissioner may administer an oath to any person summoned pursuant to subsection (1).
     
-    (3) Every examination by the Commissioner under subsection (1) shall be deemed to be a judicial proceeding within the meaning of [section 108][342] of the Crimes Act 1961 (which relates to perjury).
+    (3) Every examination by the Commissioner under subsection (1) shall be deemed to be a judicial proceeding within the meaning of [section 108][343] of the Crimes Act 1961 (which relates to perjury).
     
     (4) The Commissioner may from time to time, by notice in writing, require any person who in the Commissioner's opinion is able to give information relevant to an investigation being conducted by the Commissioner under [Part 8][76], or an inquiry being carried out by the Commissioner under [section 13(1)(m)][17], to furnish such information, and to produce such documents or things in the possession or under the control of that person, as in the opinion of the Commissioner are relevant to the subject matter of the investigation or inquiry.
     
     (5) Where the attendance of any person is required by the Commissioner under this section, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,---
         
-    *   (a) the provisions of any regulations in that behalf under the [Summary Proceedings Act 1957][343] shall apply accordingly; and
+    *   (a) the provisions of any regulations in that behalf under the [Criminal Procedure Act 2011][344] shall apply accordingly; and
     
     *   (b) the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
     
     Compare: 1977 No 49 s 73(1), (2), (7); 1991 No 126 ss 24, 26(5)
+    
+    Section 91(5)(a): amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 92 Compliance with requirements of Commissioner
     
@@ -2955,7 +2959,7 @@ Proceedings of Commissioner
     
     (3) If any agency (being a department or a Minister or an organisation) fails, within the time limit fixed by subsection (2) (or, where that time limit has been extended under [section 93][114], within that time limit as so extended), to comply with any requirement to which subsection (1) applies, the Commissioner may report such failure to the Prime Minister.
     
-    Compare: 1982 No 156 [s 29A(1), (6)][344]; 1987 No 8 [s 17(3)][345]; 1987 No 174 [s 29(1)][346]; 1991 No 126 s 25(1), (6)
+    Compare: 1982 No 156 [s 29A(1), (6)][345]; 1987 No 8 [s 17(3)][346]; 1987 No 174 [s 29(1)][347]; 1991 No 126 s 25(1), (6)
 
 ##### 93 Extension of time limit
     
@@ -2979,7 +2983,7 @@ Proceedings of Commissioner
     
     *   (c) contain such other information as is necessary.
     
-    Compare: 1982 No 156 [s 29A(2)--(5)][344]; 1987 No 8 [s 17(3)][345]; 1987 No 174 [s 29(2)--(5)][346]; 1991 No 126 s 25(2)--(4)
+    Compare: 1982 No 156 [s 29A(2)--(5)][345]; 1987 No 8 [s 17(3)][346]; 1987 No 174 [s 29(2)--(5)][347]; 1991 No 126 s 25(2)--(4)
 
 ##### 94 Protection and privileges of witnesses, etc
     
@@ -3013,17 +3017,17 @@ Proceedings of Commissioner
     
     (2) No person shall be liable to prosecution for an offence against any enactment, other than [section 127][211], by reason of that person's compliance with any requirement of the Commissioner or any employee of the Commissioner under [section 91][112].
     
-    Compare: 1975 No 9 [s 19(5), (7)][347]; 1977 No 49 s 73(3), (6); 1991 No 126 s 26(1), (4)
+    Compare: 1975 No 9 [s 19(5), (7)][348]; 1977 No 49 s 73(3), (6); 1991 No 126 s 26(1), (4)
     
-    Section 94(1A): inserted, on 17 September 1997, by [section 2][348] of the Privacy Amendment Act 1997 (1997 No 71).
+    Section 94(1A): inserted, on 17 September 1997, by [section 2][349] of the Privacy Amendment Act 1997 (1997 No 71).
     
-    Section 94(1B): inserted, on 17 September 1997, by [section 2][348] of the Privacy Amendment Act 1997 (1997 No 71).
+    Section 94(1B): inserted, on 17 September 1997, by [section 2][349] of the Privacy Amendment Act 1997 (1997 No 71).
     
-    Section 94(1B)(a)(iii): amended, on 22 October 2003, by [section 5(1)][349] of the Privacy Amendment Act 2003 (2003 No 94).
+    Section 94(1B)(a)(iii): amended, on 22 October 2003, by [section 5(1)][350] of the Privacy Amendment Act 2003 (2003 No 94).
     
-    Section 94(1B)(b): amended, on 22 October 2003, by [section 5(1)][349] of the Privacy Amendment Act 2003 (2003 No 94).
+    Section 94(1B)(b): amended, on 22 October 2003, by [section 5(1)][350] of the Privacy Amendment Act 2003 (2003 No 94).
     
-    Section 94(1B)(b): amended, on 22 October 2003, by [section 5(2)][349] of the Privacy Amendment Act 2003 (2003 No 94).
+    Section 94(1B)(b): amended, on 22 October 2003, by [section 5(2)][350] of the Privacy Amendment Act 2003 (2003 No 94).
 
 ##### 95 Disclosures of information, etc
     
@@ -3037,7 +3041,7 @@ Proceedings of Commissioner
             
         *   (i) the security or defence of New Zealand, or the international relations of the Government of New Zealand; or
         
-        *   (ii) any interest protected by [section 7][350] of the Official Information Act 1982 (which relates to the Cook Islands, Niue, Tokelau, and the Ross Dependency); or
+        *   (ii) any interest protected by [section 7][351] of the Official Information Act 1982 (which relates to the Cook Islands, Niue, Tokelau, and the Ross Dependency); or
         
         
     
@@ -3051,7 +3055,7 @@ Proceedings of Commissioner
     
     neither the Commissioner nor any employee of the Commissioner shall require the information to be given or, as the case may be, the document or thing to be produced.
     
-    Compare: 1975 No 9 [ss 19(3), (4)][347], [20(1)][351]; 1977 No 49 s 74; 1987 No 8 [s 24(1)][352]; 1991 No 126 ss 26(2), (3), 27
+    Compare: 1975 No 9 [ss 19(3), (4)][348], [20(1)][352]; 1977 No 49 s 74; 1987 No 8 [s 24(1)][353]; 1991 No 126 ss 26(2), (3), 27
 
 ##### 96 Proceedings privileged
     
@@ -3069,26 +3073,26 @@ Proceedings of Commissioner
     
     (3) Nothing in subsection (2) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][353] or [section 78A(1)][354] or [section 105][355] or [section 105A][356] or [section 105B][357] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][354] or [section 78A(1)][355] or [section 105][356] or [section 105A][357] or [section 105B][358] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][353] or [section 78A(1)][354] or [section 105][355] or [section 105A][356] or [section 105B][357] of the Crimes Act 1961\.
+    *   (b) the offence of conspiring to commit an offence against [section 78][354] or [section 78A(1)][355] or [section 105][356] or [section 105A][357] or [section 105B][358] of the Crimes Act 1961\.
     
     (4) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by or proceedings before the Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
     
-    (5) For the purposes of [clause 3][358] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made under this Act by the Commissioner shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+    (5) For the purposes of [clause 3][359] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made under this Act by the Commissioner shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
     
-    Compare: 1975 No 9 [s 26][359]; 1982 No 164 s 5; 1991 No 126 s 29
+    Compare: 1975 No 9 [s 26][360]; 1982 No 164 s 5; 1991 No 126 s 29
     
     Section 96(2)(a): repealed, on 25 January 2005, by [section 200][250] of the Crown Entities Act 2004 (2004 No 115).
 
 ## Part 9A  
 Information sharing
     
-*   Part 9A: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Part 9A: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ### Subpart 1---Preliminary matters
     
-*   Subpart 1: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Subpart 1: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96A Purpose of Part
     
@@ -3108,7 +3112,7 @@ Information sharing
     
     *   (c) reduces any uncertainty about whether personal information can be lawfully shared for the provision of the public services, and in the circumstances, described in approved information sharing agreements.
     
-    Section 96A: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96A: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96B Relationship between this Part and other law relating to information sharing
     
@@ -3172,7 +3176,7 @@ Information sharing
     
     _restricted information sharing provision_ means an information sharing provision that expressly restricts the purposes for which the personal information may be shared to those purposes specified.
     
-    Section 96B: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96B: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96C Interpretation
     
@@ -3236,31 +3240,31 @@ Information sharing
     
     *   (g) if necessary, assigning a unique identifier to an individual.
     
-    Section 96C: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96C: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ### Subpart 2---Information sharing agreements
     
-*   Subpart 2: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Subpart 2: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Authority for information sharing
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96D Information sharing between agencies
     
 *   An approved information sharing agreement may authorise an agency to share any personal information with 1 or more other agencies in accordance with the terms of the agreement.
     
-    Section 96D: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96D: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96E Information sharing within agencies
     
 *   An approved information sharing agreement may authorise a part of an agency to share any personal information with 1 or more parts of the same agency in accordance with the terms of the agreement.
     
-    Section 96E: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96E: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Parties
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96F Parties to information sharing agreement
     
@@ -3284,7 +3288,7 @@ Information sharing
     
     *   (b) part of a public sector agency that is a department.
     
-    Section 96F: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96F: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96G Representative parties
     
@@ -3306,11 +3310,11 @@ Information sharing
     
     (5) Unless the context otherwise requires, every reference in this Part to a party to an information sharing agreement includes an agency that becomes a party to an agreement under subsection (2) or (3).
     
-    Section 96G: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96G: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Lead agency
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96H Determining which party is lead agency
     
@@ -3318,11 +3322,11 @@ Information sharing
     
     (2) If more than 1 public sector agency that is a department enters into an information sharing agreement, the parties to the agreement may agree between themselves which of those public sector agencies is to be designated as the lead agency.
     
-    Section 96H: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96H: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Form and content
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96I Form and content of information sharing agreement
     
@@ -3358,11 +3362,11 @@ Information sharing
     
     *   (b) any other business processes relating to the sharing of information under the agreement.
     
-    Section 96I: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96I: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Approval of information sharing agreements
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96J Governor-General may approve information sharing agreement by Order in Council
     
@@ -3378,7 +3382,7 @@ Information sharing
     
     (4) An Order in Council that, under subsection (2), modifies the application of any 1 or more of the information privacy principles or any code of practice may do so by prescribing standards that are more stringent or less stringent than the standards that are prescribed by the principle or, as the case may be, the code of practice.
     
-    Section 96J: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96J: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96K Requirements for Order in Council
     
@@ -3412,7 +3416,7 @@ Information sharing
     
     *   (f) state how a copy of the agreement can be accessed.
     
-    Section 96K: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96K: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96L Further provisions about Order in Council
     
@@ -3442,7 +3446,7 @@ Information sharing
     
     *   (d) the Internet site address where a copy of the agreement can be accessed.
     
-    Section 96L: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96L: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96M Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
     
@@ -3452,11 +3456,11 @@ Information sharing
     
     *   (b) the [Regulations (Disallowance) Act 1989][237].
     
-    Section 96M: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96M: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Procedure for recommending Order in Council
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96N Matters to which relevant Minister must have regard before recommending Order in Council
     
@@ -3478,7 +3482,7 @@ Information sharing
     
     *   (e) that any potential conflicts or inconsistencies between the sharing of personal information under the agreement and any other enactment have been identified and appropriately addressed.
     
-    Section 96N: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96N: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96O Consultation on proposed information sharing agreement
     
@@ -3504,11 +3508,11 @@ Information sharing
     
     (3) The agencies must give the relevant Minister a copy of the submissions made under subsection (1)(a) (if any).
     
-    Section 96O: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96O: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Commissioner's report on approved information sharing agreement
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96P Commissioner may prepare and publish report on approved information sharing agreement
     
@@ -3526,15 +3530,15 @@ Information sharing
     
     *   (b) must consult the relevant Minister before doing so.
     
-    Section 96P: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96P: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ### Subpart 3---Matters relating to operation of approved information sharing agreements
     
-*   Subpart 3: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Subpart 3: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Notice of adverse action
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96Q Requirement to give notice of adverse action
     
@@ -3548,7 +3552,7 @@ Information sharing
     
     (3) To avoid doubt, an individual who is given the notice may take any steps that are available under any enactment to dispute any proposed adverse action against him or her, but he or she may show cause under this section as to why the proposed adverse action should not be taken only on the basis that it is based on incorrect personal information.
     
-    Section 96Q: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96Q: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96R When requirement to give notice of adverse action applies
     
@@ -3570,11 +3574,11 @@ Information sharing
         
         
     
-    Section 96R: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96R: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Responsibilities of lead agency
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96S Responsibilities of lead agency
     
@@ -3596,7 +3600,7 @@ Information sharing
     
     (3) To avoid doubt, nothing in this section applies to a party to an information sharing agreement that is not the lead agency except as provided in subsection (2).
     
-    Section 96S: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96S: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96T Report of lead agency
     
@@ -3610,11 +3614,11 @@ Information sharing
     
     (2) A report must be included---
         
-    *   (a) in the lead agency's annual report under the [Public Finance Act 1989][361], if it is required annually; or
+    *   (a) in the lead agency's annual report under the [Public Finance Act 1989][362], if it is required annually; or
     
-    *   (b) in the lead agency's annual report under the [Public Finance Act 1989][361] that immediately follows the end of each interval specified under [section 96U(1)(b)][151].
+    *   (b) in the lead agency's annual report under the [Public Finance Act 1989][362] that immediately follows the end of each interval specified under [section 96U(1)(b)][151].
     
-    Section 96T: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96T: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96U Commissioner may specify frequency of reporting by lead agency
     
@@ -3632,11 +3636,11 @@ Information sharing
     
     *   (c) the significance of the privacy implications of the approved information sharing agreement.
     
-    Section 96U: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96U: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Amendment of approved information sharing agreements
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96V Amendment of approved information sharing agreement
     
@@ -3672,11 +3676,11 @@ Information sharing
     
     *   (c) any terms or conditions of the agreement that the lead agency considers, after consulting the Commissioner, do not, or are unlikely to, have any effect on the privacy implications of the agreement.
     
-    Section 96V: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96V: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 #### Review of approved information sharing agreement
     
-*   Heading: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Heading: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96W Review of operation of approved information sharing agreement
     
@@ -3700,7 +3704,7 @@ Information sharing
     
     (3) The parties to the agreement must take all reasonable steps to co-operate with the review.
     
-    Section 96W: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96W: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96X Report on findings of review
     
@@ -3720,7 +3724,7 @@ Information sharing
     
     *   (b) the Order in Council by which the agreement was approved should be revoked.
     
-    Section 96X: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96X: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96Y Relevant Minister must present to House of Representatives copy of report under section 96X(1) and report setting out Government's response
     
@@ -3730,11 +3734,11 @@ Information sharing
     
     *   (b) as soon as possible after complying with paragraph (a), present a report to the House of Representatives setting out the Government's response to the report under [section 96X(1)][156].
     
-    Section 96Y: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96Y: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ### Subpart 4---Miscellaneous
     
-*   Subpart 4: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+*   Subpart 4: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ##### 96Z Power to amend Schedule 2A
     
@@ -3758,7 +3762,7 @@ Information sharing
     
     (2) To avoid doubt, any of the matters set out in this section may be included in an Order in Council made under [section 96J][135] or in a separate Order in Council made under this section.
     
-    Section 96Z: inserted, on 27 February 2013, by [section 8][360] of the Privacy Amendment Act 2013 (2013 No 1).
+    Section 96Z: inserted, on 27 February 2013, by [section 8][361] of the Privacy Amendment Act 2013 (2013 No 1).
 
 ## Part 10  
 Information matching
@@ -3799,23 +3803,23 @@ Information matching
     
     _monetary payment_ includes---
         
-    *   (a) a benefit within the meaning of [section 3(1)][362] of the Social Security Act 1964:
+    *   (a) a benefit within the meaning of [section 3(1)][363] of the Social Security Act 1964:
     
-    *   (b) a lump sum payable under [section 61DB][363] or [section 61DC][364] or [section 61DD][365] of that Act:
+    *   (b) a lump sum payable under [section 61DB][364] or [section 61DC][365] or [section 61DD][366] of that Act:
     
-    *   (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d) or (da)][366] of that Act:
+    *   (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d) or (da)][367] of that Act:
     
-    *   (d) any monetary entitlement payable under [Part 4][367], [Part 10][368], or [Part 11][369] of the Accident Compensation Act 2001
+    *   (d) any monetary entitlement payable under [Part 4][368], [Part 10][369], or [Part 11][370] of the Accident Compensation Act 2001
     
     _specified agency_ means any of the following agencies:
         
     *   (a) the Accident Compensation Corporation:
     
-    *   (aa) the Regulator, as defined by [Part 10][368] of the Accident Compensation Act 2001:
+    *   (aa) the Regulator, as defined by [Part 10][369] of the Accident Compensation Act 2001:
     
-    *   (b) the Electoral Commission established by [section 4B][370] of the Electoral Act 1993:
+    *   (b) the Electoral Commission established by [section 4B][371] of the Electoral Act 1993:
     
-    *   (ba) the company within the meaning of [section 2(1)][371] of the Housing Restructuring and Tenancy Matters Act 1992:
+    *   (ba) the company within the meaning of [section 2(1)][372] of the Housing Restructuring and Tenancy Matters Act 1992:
     
     *   (bb) the Board of the Government Superannuation Fund Authority:
     
@@ -3829,9 +3833,9 @@ Information matching
     
     *   (e) the Department of Labour:
     
-    *   (f) the department for the time being responsible for the administration of the [Social Security Act 1964][372]:
+    *   (f) the department for the time being responsible for the administration of the [Social Security Act 1964][373]:
     
-    *   (fa) the Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by [section 3(1)][373] of the Housing Corporation Act 1974:
+    *   (fa) the Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by [section 3(1)][374] of the Housing Corporation Act 1974:
     
     *   (g) the Inland Revenue Department:
     
@@ -3841,7 +3845,7 @@ Information matching
     
     *   (gc) the Department of Internal Affairs:
     
-    *   (gd) the Registrar-General appointed under [section 79(1)][374] of the Births, Deaths, Marriages, and Relationships Registration Act 1995:
+    *   (gd) the Registrar-General appointed under [section 79(1)][375] of the Births, Deaths, Marriages, and Relationships Registration Act 1995:
     
     *   (h) the New Zealand Customs Service:
     
@@ -3849,31 +3853,31 @@ Information matching
     
     *   (i) the Regulator, as defined in the Accident Insurance Act 1998:
     
-    *   (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the [Education Act 1989][375]) to which [section 226A][376] or [section 238B][377] of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the [Social Security Act 1964][372]:
+    *   (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the [Education Act 1989][376]) to which [section 226A][377] or [section 238B][378] of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the [Social Security Act 1964][373]:
     
     *   (k) the Ministry of Education:
     
-    *   (l) the New Zealand Teachers Council established under [Part 10A][378] of the Education Act 1989\.
+    *   (l) the New Zealand Teachers Council established under [Part 10A][379] of the Education Act 1989\.
     
     Compare: 1991 No 126 s 2
     
     Section 97 **adverse action** paragraph (g): substituted, at 2 am on 29 November 2010, by [section 406(1)][253] of the Immigration Act 2009 (2009 No 51).
     
-    Section 97 **monetary payment** paragraph (c): amended, on 25 January 2005, pursuant to [section 65R(3)][379] of the Public Finance Act 1989 (1989 No 44).
+    Section 97 **monetary payment** paragraph (c): amended, on 25 January 2005, pursuant to [section 65R(3)][380] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 97 **monetary payment** paragraph (d): substituted, on 1 April 2002, by [section 337(1)][380] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 97 **monetary payment** paragraph (d): substituted, on 1 April 2002, by [section 337(1)][381] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 97 **monetary payment** paragraph (d): amended, on 3 March 2010, pursuant to [section 5(1)(b)][381] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 97 **monetary payment** paragraph (d): amended, on 3 March 2010, pursuant to [section 5(1)(b)][382] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 97 **specified agency**: substituted, on 15 November 2000, by [section 3(1)][382] of the Privacy Amendment Act 2000 (2000 No 76).
+    Section 97 **specified agency**: substituted, on 15 November 2000, by [section 3(1)][383] of the Privacy Amendment Act 2000 (2000 No 76).
     
-    Section 97 **specified agency** paragraph (aa): inserted, on 1 April 2002, by [section 337(1)][380] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 97 **specified agency** paragraph (aa): inserted, on 1 April 2002, by [section 337(1)][381] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 97 **specified agency** paragraph (aa): amended, on 3 March 2010, pursuant to [section 5(1)(b)][381] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 97 **specified agency** paragraph (aa): amended, on 3 March 2010, pursuant to [section 5(1)(b)][382] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 97 **specified agency** paragraph (b): amended, on 1 July 2012, by [section 59(2)][383] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 97 **specified agency** paragraph (b): amended, on 1 July 2012, by [section 59(2)][384] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 97 **specified agency** paragraph (ba): inserted, on 1 July 2006, by [section 8(1)][384] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 97 **specified agency** paragraph (ba): inserted, on 1 July 2006, by [section 8(1)][385] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
     
     Section 97 **specified agency** paragraph (bb): inserted, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
@@ -3881,25 +3885,25 @@ Information matching
     
     Section 97 **specified agency** paragraph (bd): inserted, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 97 **specified agency** paragraph (c): amended, on 1 October 2003, pursuant to [section 14(1)][385] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 97 **specified agency** paragraph (c): amended, on 1 October 2003, pursuant to [section 14(1)][386] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 97 **specified agency** paragraph (fa): inserted, on 1 July 2006, by [section 8(2)][384] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 97 **specified agency** paragraph (fa): inserted, on 1 July 2006, by [section 8(2)][385] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
     
-    Section 97 **specified agency** paragraph (ga): inserted, on 18 March 2002, by [section 101(3)][386] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 97 **specified agency** paragraph (ga): inserted, on 18 March 2002, by [section 101(3)][387] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 97 **specified agency** paragraph (gb): substituted, on 1 August 2008, by [section 50(1)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 97 **specified agency** paragraph (gb): substituted, on 1 August 2008, by [section 50(1)][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 97 **specified agency** paragraph (gc): inserted, on 18 March 2002, by [section 101(3)][386] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 97 **specified agency** paragraph (gc): inserted, on 18 March 2002, by [section 101(3)][387] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 97 **specified agency** paragraph (gd): inserted, on 21 April 2005, by [section 16][388] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 97 **specified agency** paragraph (gd): inserted, on 21 April 2005, by [section 16][389] of the Citizenship Amendment Act 2005 (2005 No 43).
     
     Section 97 **specified agency** paragraph (gd): amended, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 97 **specified agency** paragraph (ha): inserted, on 15 December 2003, by [section 145][389] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+    Section 97 **specified agency** paragraph (ha): inserted, on 15 December 2003, by [section 145][390] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
-    Section 97 **specified agency** paragraph (k): added, on 1 February 2002, by [section 83][390] of the Education Standards Act 2001 (2001 No 88).
+    Section 97 **specified agency** paragraph (k): added, on 1 February 2002, by [section 83][391] of the Education Standards Act 2001 (2001 No 88).
     
-    Section 97 **specified agency** paragraph (l): added, on 20 May 2010, by [section 78(2)][391] of the Education Amendment Act 2010 (2010 No 25).
+    Section 97 **specified agency** paragraph (l): added, on 20 May 2010, by [section 78(2)][392] of the Education Amendment Act 2010 (2010 No 25).
 
 #### Information matching guidelines
 
@@ -3985,7 +3989,7 @@ Information matching
 
 ##### 103 Notice of adverse action proposed
     
-*   (1) Subject to subsections (1A) to (2A) and to [section 180C(1)][392] of the Corrections Act 2004, a specified agency shall not take adverse action against any individual on the basis (whether wholly or in part) of a discrepancy produced by an authorised information matching programme---
+*   (1) Subject to subsections (1A) to (2A) and to [section 180C(1)][393] of the Corrections Act 2004, a specified agency shall not take adverse action against any individual on the basis (whether wholly or in part) of a discrepancy produced by an authorised information matching programme---
         
     *   (a) unless that agency has given that individual written notice---
             
@@ -3997,7 +4001,7 @@ Information matching
     
     *   (b) until the expiration of those 5 working days.
     
-    (1A) Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the [Social Security Act 1964][372] from immediately suspending a sickness, training, unemployment, independent youth, or emergency benefit, or a job search allowance, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to [section 280][393] of the Customs and Excise Act 1996, and where, before or immediately after the decision to suspend, the department gives the individual written notice---
+    (1A) Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the [Social Security Act 1964][373] from immediately suspending a sickness, training, unemployment, independent youth, or emergency benefit, or a job search allowance, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to [section 280][394] of the Customs and Excise Act 1996, and where, before or immediately after the decision to suspend, the department gives the individual written notice---
         
     *   (a) specifying particulars of the discrepancy and the suspension of benefit, and any other adverse action the department proposes to take; and
     
@@ -4005,7 +4009,7 @@ Information matching
     
     and the adverse action shall not be taken until the expiration of those 5 working days.
     
-    (1B) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately suspending payment to an individual of all or part of an interim instalment of a credit of tax under [subparts MA to MF][394] and [MZ][395] of the Income Tax Act 2007 when a discrepancy is identified in information supplied to the Commissioner under [section 85G][396] of the Tax Administration Act 1994 if, before or immediately after the decision to suspend, the Commissioner gives a written notice to the individual that---
+    (1B) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately suspending payment to an individual of all or part of an interim instalment of a credit of tax under [subparts MA to MF][395] and [MZ][396] of the Income Tax Act 2007 when a discrepancy is identified in information supplied to the Commissioner under [section 85G][397] of the Tax Administration Act 1994 if, before or immediately after the decision to suspend, the Commissioner gives a written notice to the individual that---
         
     *   (a) provides details of the discrepancy and the suspension of payment of the credit of tax and any other adverse action which the Commissioner proposes to take; and
     
@@ -4015,13 +4019,13 @@ Information matching
     
     (1C) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately taking action to recover amounts relating to---
         
-    *   (a) unpaid amounts owed to the Commissioner by an individual who is in serious default identified in information supplied to the Commissioner under [section 280H][397] of the Customs and Excise Act 1996; or
+    *   (a) unpaid amounts owed to the Commissioner by an individual who is in serious default identified in information supplied to the Commissioner under [section 280H][398] of the Customs and Excise Act 1996; or
     
-    *   (b) financial support under the [Child Support Act 1991][398] owed to the Commissioner by an individual who is identified in information supplied to the Commissioner under [section 280K][399] or [280L][400] of the Customs and Excise Act 1996\.
+    *   (b) financial support under the [Child Support Act 1991][399] owed to the Commissioner by an individual who is identified in information supplied to the Commissioner under [section 280K][400] or [280L][401] of the Customs and Excise Act 1996\.
     
     (2) Nothing in subsection (1) or subsection (1A) or subsection (1B) prevents an agency from taking adverse action against an individual if compliance with the requirements of that subsection would prejudice any investigation into the commission of an offence or the possible commission of an offence.
     
-    (2A) Nothing in subsection (1) prevents any constable or any bailiff from immediately executing a warrant to arrest an individual in respect of the non-payment of the whole or any part of a fine if the discrepancy arises in respect of arrival and departure information supplied under [section 280D][401] of the Customs and Excise Act 1996 and if, before executing the warrant, the individual concerned is---
+    (2A) Nothing in subsection (1) prevents any constable or any bailiff from immediately executing a warrant to arrest an individual in respect of the non-payment of the whole or any part of a fine if the discrepancy arises in respect of arrival and departure information supplied under [section 280D][402] of the Customs and Excise Act 1996 and if, before executing the warrant, the individual concerned is---
         
     *   (a) informed of the intention to execute the warrant; and
     
@@ -4051,19 +4055,19 @@ Information matching
     
     (5) In this section,---
     
-    _amount of reparation_ has the same meaning as in [section 79][402] of the Summary Proceedings Act 1957
+    _amount of reparation_ has the same meaning as in [section 79][403] of the Summary Proceedings Act 1957
     
     _bailiff_ means a bailiff of the District Court or of the High Court
     
     _fine_ means---
         
-    *   (a) a fine within the meaning of [section 79][402] of the Summary Proceedings Act 1957:
+    *   (a) a fine within the meaning of [section 79][403] of the Summary Proceedings Act 1957:
     
-    *   (b) a fine to which [section 19][403] of the Crimes Act 1961 applies:
+    *   (b) a fine to which [section 19][404] of the Crimes Act 1961 applies:
     
-    *   (c) a fine to which [section 43][404] or [45][405] of the Misuse of Drugs Amendment Act 1978 applies:
+    *   (c) a fine to which [section 43][405] or [45][406] of the Misuse of Drugs Amendment Act 1978 applies:
     
-    *   (d) a fine to which [section 28I][406] of the District Courts Act 1947 applies:
+    *   (d) \[Repealed\]
     
     *   (e) any amount payable under [section 138A(1)][407] of the Sentencing Act 2002
     
@@ -4102,6 +4106,8 @@ Information matching
     Section 103(5) **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][415] of the Privacy Amendment Act 2011 (2011 No 44).
     
     Section 103(5) **fine**: replaced, on 13 February 2012, by [section 4(1)][415] of the Privacy Amendment Act 2011 (2011 No 44).
+    
+    Section 103(5) **fine** paragraph (d): repealed, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 103(5) **reparation**: repealed, on 13 February 2012, by [section 4(2)][415] of the Privacy Amendment Act 2011 (2011 No 44).
 
@@ -4387,9 +4393,11 @@ Transfer of personal information outside New Zealand
 
 ##### 114F Offence in relation to transfer prohibition notice
     
-*   Every person who, without reasonable excuse, fails or refuses to comply with a transfer prohibition notice commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+*   Every person who, without reasonable excuse, fails or refuses to comply with a transfer prohibition notice commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     Section 114F: inserted, on 8 September 2010, by [section 8][419] of the Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113).
+    
+    Section 114F: amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 114G Appeals against transfer prohibition notice
     
@@ -4435,7 +4443,7 @@ Transfer of personal information outside New Zealand
 
 ##### 114H Application of Human Rights Act 1993
     
-*   [Section 87][420] and [Part 4][337] of the Human Rights Act 1993 apply, with all necessary modifications (if any), in relation to proceedings under [section 114G][191] as if they were proceedings under that Act.
+*   [Section 87][420] and [Part 4][338] of the Human Rights Act 1993 apply, with all necessary modifications (if any), in relation to proceedings under [section 114G][191] as if they were proceedings under that Act.
     
     Section 114H: inserted, on 8 September 2010, by [section 8][419] of the Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113).
 
@@ -4468,7 +4476,7 @@ Miscellaneous provisions
             
         *   (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the government of any other country or with any international organisation); or
         
-        *   (ii) any interest protected by [section 7][350] of the Official Information Act 1982; or
+        *   (ii) any interest protected by [section 7][351] of the Official Information Act 1982; or
         
         *   (iii) the prevention, investigation, or detection of offences; or
         
@@ -4478,7 +4486,7 @@ Miscellaneous provisions
     
     *   (c) any information, answer, document, or thing obtained by the Commissioner by reason only of compliance with a requirement made pursuant to [section 95(1)][116].
     
-    Compare: 1975 No 9 [s 21(2), (4), (5)][424]; 1987 No 8 [s 24(2)][352]; 1991 No 126 s 30
+    Compare: 1975 No 9 [s 21(2), (4), (5)][424]; 1987 No 8 [s 24(2)][353]; 1991 No 126 s 30
     
     Section 116(3): amended, on 22 October 2003, by [section 6][425] of the Privacy Amendment Act 2003 (2003 No 94).
 
@@ -4624,7 +4632,7 @@ Miscellaneous provisions
 
 ##### 127 Offences
     
-*   Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000 who,---
+*   Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000 who,---
         
     *   (a) without reasonable excuse, obstructs, hinders, or resists the Commissioner or any other person in the exercise of their powers under this Act:
     
@@ -4635,6 +4643,8 @@ Miscellaneous provisions
     *   (d) represents directly or indirectly that he or she holds any authority under this Act when he or she does not hold that authority.
     
     Compare: 1975 No 9 [s 30][435]; 1991 No 126 s 35
+    
+    Section 127: amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Regulations
 
@@ -4972,7 +4982,7 @@ Wine Act 2003 [Sections 17][551], [47][552], and [82S][553]
 *   Schedule 2 Part 1: amended, on 18 September 2004, by [section 175(1)][278] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 *   Schedule 2 Part 1: amended, on 1 July 2004, by [section 374][579] of the Gambling Act 2003 (2003 No 51).
 *   Schedule 2 Part 1: amended, on 1 January 2004, by [section 126][580] of the Wine Act 2003 (2003 No 114).
-*   Schedule 2 Part 1: amended, on 15 December 2003, by [section 145][389] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+*   Schedule 2 Part 1: amended, on 15 December 2003, by [section 145][390] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 *   Schedule 2 Part 1: amended, on 1 November 2003, by [section 149][581] of the Social Workers Registration Act 2003 (2003 No 17).
 *   Schedule 2 Part 1: amended, on 20 August 2003, by [section 201][582] of the Trade Marks Act 2002 (2002 No 49).
 *   Schedule 2 Part 1: amended, on 1 July 2003, by [section 262][583] of the Local Government Act 2002 (2002 No 84).
@@ -5015,11 +5025,11 @@ Births, Deaths, Marriages, and Relationships Registration Act 1995 [Section 78A]
 
 Citizenship Act 1977 [Section 26A][606]
 
-Corrections Act 2004 [Sections 180 to 180D][392], [181][607], [182][608], and [204][609]
+Corrections Act 2004 [Sections 180 to 180D][393], [181][607], [182][608], and [204][609]
 
-Customs and Excise Act 1996 [Sections 280 to 280D][393], [280K][399], [280L][400] and [280H][397]
+Customs and Excise Act 1996 [Sections 280 to 280D][394], [280K][400], [280L][401] and [280H][398]
 
-Education Act 1989 [Sections 128A][610], [226A][376], [238B][377], and [307D][611]
+Education Act 1989 [Sections 128A][610], [226A][377], [238B][378], and [307D][611]
 
 Electoral Act 1993 [Sections 263A][612] and [263B][613]
 
@@ -5037,13 +5047,13 @@ Social Welfare (Transitional Provisions) Act 1990 [Section 19D(3)(b)][625]
 
 Student Loan Scheme Act 2011 [Section 208][626]
 
-Tax Administration Act 1994 [Sections 46A][627], [82][628], [83][629], [84][630], [85][631], [85A][632], [85B][633], [85E][634], [85G][396], and [85H][635]
+Tax Administration Act 1994 [Sections 46A][627], [82][628], [83][629], [84][630], [85][631], [85A][632], [85B][633], [85E][634], [85G][397], and [85H][635]
 
 *   Schedule 3: amended, on 2 April 2013, by [section 76][636] of the Electronic Identity Verification Act 2012 (2012 No 123).
 *   Schedule 3: amended, on 1 April 2012, by [section 223][637] of the Student Loan Scheme Act 2011 (2011 No 62).
 *   Schedule 3: amended, at 2 am on 29 November 2010, by [section 406(1)][253] of the Immigration Act 2009 (2009 No 51).
-*   Schedule 3: amended, on 20 May 2010, by [section 78(3)][391] of the Education Amendment Act 2010 (2010 No 25).
-*   Schedule 3: amended, on 3 March 2010, pursuant to [section 5(1)(b)][381] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+*   Schedule 3: amended, on 20 May 2010, by [section 78(3)][392] of the Education Amendment Act 2010 (2010 No 25).
+*   Schedule 3: amended, on 3 March 2010, pursuant to [section 5(1)(b)][382] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 *   Schedule 3: amended, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 *   Schedule 3: amended, on 8 August 2008, by [section 298][638] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 *   Schedule 3: amended, on 9 April 2008, by [section 7(3)][408] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
@@ -5056,11 +5066,11 @@ Tax Administration Act 1994 [Sections 46A][627], [82][628], [83][629], [84][630]
 *   Schedule 3: amended, on 21 June 2005, by [section 3][642] of the Privacy Amendment Act 2005 (2005 No 80).
 *   Schedule 3: amended, on 1 June 2005, by[section 205(2)(a)][643] of the Corrections Act 2004 (2004 No 50).
 *   Schedule 3: amended, on 1 April 2005, by [section 25(1)][644] of the Taxation (Working for Families) Act 2004 (2004 No 52).
-*   Schedule 3: amended, on 15 December 2003, by [section 145][389] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+*   Schedule 3: amended, on 15 December 2003, by [section 145][390] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 *   Schedule 3: amended, on 19 December 2002, by [section 4][645] of the Citizenship Amendment Act 2002 (2002 No 62).
-*   Schedule 3: amended, on 1 April 2002, by [section 337(1)][380] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
-*   Schedule 3: amended, on 18 March 2002, by [section 101(3)][386] of the Electoral Amendment Act 2002 (2002 No 1).
-*   Schedule 3: amended, on 1 February 2002, by [section 83][390] of the Education Standards Act 2001 (2001 No 88).
+*   Schedule 3: amended, on 1 April 2002, by [section 337(1)][381] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+*   Schedule 3: amended, on 18 March 2002, by [section 101(3)][387] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 3: amended, on 1 February 2002, by [section 83][391] of the Education Standards Act 2001 (2001 No 88).
 *   Schedule 3: amended, on 23 November 2000, by [section 7(a)][646] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
 *   Schedule 3: amended, on 23 November 2000, by [section 7(b)][646] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
 *   Schedule 3: amended, on 15 November 2000, by section 4(1) of the Privacy Amendment Act 2000 (2000 No 76).
@@ -5190,7 +5200,7 @@ _Ministry of Justice records_
 
 **Subject** **Description** **Access available to**
 
-Court document processing Particulars of proceedings in respect of which informations are to be laid; the acceptance of data for and the preparations of associated documents 
+Court document processing Particulars of proceedings in respect of which informations are to be laid or charging documents filed; the acceptance of data for and the preparations of associated documents 
 
 Police
 
@@ -5200,7 +5210,7 @@ Department of Corrections
 
 Legal Services Commissioner, limited only to finding out whether or not an applicant for criminal legal aid has any charges currently pending determination by the courts
 
-Details of hearings Details of hearings of proceedings in respect of which an information has been laid, including convictions, sentences, and all other matters ancillary and subsequent to a determination 
+Details of hearings Details of hearings of proceedings in respect of which an information has been laid or charging documents filed, including convictions, sentences, and all other matters ancillary and subsequent to a determination 
 
 Police (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment)
 
@@ -5212,7 +5222,7 @@ Department of Corrections
 
 Legal Services Commissioner, for the purpose of determining an application for a grant of legal aid (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment)
 
-Enforcement of fines and other orders Particulars of writs, warrants, or orders in force and issued or made on default in the payment of fines or other monetary sums ordered in proceedings commenced by indictment or information; particulars of the persons to whom the writs, warrants, or orders relate; and particulars of fines, sentences, or orders imposed or made against those persons, including the amounts remaining payable thereunder and the arrangements for payment 
+Enforcement of fines and other orders Particulars of writs, warrants, or orders in force and issued or made on default in the payment of fines or other monetary sums ordered in proceedings commenced by indictment or information or filing a charging document; particulars of the persons to whom the writs, warrants, or orders relate; and particulars of fines, sentences, or orders imposed or made against those persons, including the amounts remaining payable thereunder and the arrangements for payment 
 
 Police
 
@@ -5220,7 +5230,7 @@ Department of Corrections
 
 Legal Services Commissioner, for the purpose of determining an application for a grant of legal aid in relation to a criminal matter
 
-Non-performance of bail conditions Records relating to failure to comply with bail conditions entered under section [38(3)][650] or section [63(3)][651] of the [Bail Act 2000][652] 
+Non-performance of bail conditions Records relating to failure to comply with bail conditions entered under [section 39(3)][650] of the [Bail Act 2000][651] 
 
 Police
 
@@ -5260,7 +5270,7 @@ Ministry of Justice (access is limited to---
         
     *   (i) entering information relating to prosecutions initiated otherwise than by the Police; or
     
-    *   (ii) providing assistance to victims in accordance with the [Criminal Justice Act 1985][653], the [Sentencing Act 2002][654], the [Parole Act 2002][655], the [Victims' Rights Act 2002][656], and the [Prisoners' and Victims' Claims Act 2005][657]; or
+    *   (ii) providing assistance to victims in accordance with the [Criminal Justice Act 1985][652], the [Sentencing Act 2002][653], the [Parole Act 2002][654], the [Victims' Rights Act 2002][655], and the [Prisoners' and Victims' Claims Act 2005][656]; or
     
     *   (iii) updating an existing database of court proceedings; or
     
@@ -5270,15 +5280,15 @@ Ministry of Justice (access is limited to---
 
 Victim identity The name, sex, date of birth, address, and telephone number of persons who are the victims of a criminal offence in respect of which another person has been charged 
 
-Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal Justice Act 1985, the [Sentencing Act 2002][654], the [Parole Act 2002][655], the [Victims' Rights Act 2002][656], and the [Prisoners' and Victims' Claims Act 2005][657])
+Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal Justice Act 1985, the [Sentencing Act 2002][653], the [Parole Act 2002][654], the [Victims' Rights Act 2002][655], and the [Prisoners' and Victims' Claims Act 2005][656])
 
-Medical details An indicator to identify persons who are or have been special patients under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][658] or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients (within the meaning of that Act) 
+Medical details An indicator to identify persons who are or have been special patients under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][657] or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients (within the meaning of that Act) 
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of---
     
-*   (a) [subpart 2][659] of Part 4A of the Land Transport Act 1998; or
+*   (a) [subpart 2][658] of Part 4A of the Land Transport Act 1998; or
 
-*   (b) [section 19][660] of the Land Transport Act 1998
+*   (b) [section 19][659] of the Land Transport Act 1998
 
 Department of Corrections
 
@@ -5294,15 +5304,15 @@ Legal Services Commissioner (access is limited to obtaining information for the 
 
 Vehicles of interest Particulars of motor vehicles stolen, unlawfully taken, missing, abandoned, or found, or where location is for other reasons required to be known by the Police Ministry of Transport (access is limited so as to exclude such particulars as the Police may determine in any case)
 
-Vehicles impounded under [Land Transport Act 1998][661] Particulars of an impounded vehicle, including make, model, type, registration plate number, vehicle identification number; the section of the [Land Transport Act 1998][661] under which it is impounded, the date on which it was impounded, and the place where it is impounded; whether any appeals are yet to be determined; particulars of the person who was driving the vehicle immediately before its impoundment, including the full name, full address, telephone number, occupation, driver licence number, and date of birth of that person and the same particulars also for every person, other than that driver, who is registered in respect of the vehicle Ministry of Justice (access is limited to giving effect to action taken, under [Part 3][662] of the Summary Proceedings Act 1957, to enforce the payment of fines, reparation, and related payments)
+Vehicles impounded under [Land Transport Act 1998][660] Particulars of an impounded vehicle, including make, model, type, registration plate number, vehicle identification number; the section of the [Land Transport Act 1998][660] under which it is impounded, the date on which it was impounded, and the place where it is impounded; whether any appeals are yet to be determined; particulars of the person who was driving the vehicle immediately before its impoundment, including the full name, full address, telephone number, occupation, driver licence number, and date of birth of that person and the same particulars also for every person, other than that driver, who is registered in respect of the vehicle Ministry of Justice (access is limited to giving effect to action taken, under [Part 3][661] of the Summary Proceedings Act 1957, to enforce the payment of fines, reparation, and related payments)
 
 Wanted persons Particulars concerning persons wanted for arrest 
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of---
     
-*   (a) [subpart 2][659] of Part 4A of the Land Transport Act 1998:
+*   (a) [subpart 2][658] of Part 4A of the Land Transport Act 1998:
 
-*   (b) carrying out the functions conferred on the Agency by [section 95(1)][663] of the Land Transport Management Act 2003:
+*   (b) carrying out the functions conferred on the Agency by [section 95(1)][662] of the Land Transport Management Act 2003:
 
 *   (c) carrying out the functions conferred on the Agency by the notice dated 22 August 1993 and published in the _Gazette_ on 2 September 1993 at page 2626)
 
@@ -5314,15 +5324,15 @@ New Zealand Transport Agency (access is limited so as to exclude such particular
 
 Ministry of Justice (access is limited to persons required to be located in connection with fines enforcement)
 
-Firearms licences Particulars of persons authorised to possess firearms in accordance with the [Arms Act 1983][664] 
+Firearms licences Particulars of persons authorised to possess firearms in accordance with the [Arms Act 1983][663] 
 
-Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the [Domestic Violence Act 1995][665])
+Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the [Domestic Violence Act 1995][664])
 
 Protection orders Details of protection orders made under the Domestic Violence Act 1995 
 
 Department of Corrections (access is limited to obtaining information about any offender who is subject to a protection order while also subject to---
     
-*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][666] of the Sentencing Act 2002); or
+*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][665] of the Sentencing Act 2002); or
 
 *   (b) a sentence of periodic detention, supervision, intensive supervision, community service, community programme, community work, or community detention; or
 
@@ -5332,11 +5342,11 @@ Department of Corrections (access is limited to obtaining information about any 
 
 Access is for the purpose of managing the offender's sentence and any post-sentence conditions in a manner consistent with any protection order.)
 
-Restraining orders Details of restraining orders made under the [Harassment Act 1997][667] 
+Restraining orders Details of restraining orders made under the [Harassment Act 1997][666] 
 
 Department of Corrections (access is limited to obtaining information about any offender who is subject to a restraining order while also subject to---
     
-*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][666] of the Sentencing Act 2002); or
+*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][665] of the Sentencing Act 2002); or
 
 *   (b) a sentence of periodic detention, supervision, intensive supervision, community service, community programme, community work, or community detention; or
 
@@ -5366,7 +5376,7 @@ Ministry of Transport (access is limited to obtaining information for the purpos
     
 *   (a) \[Repealed\]
 
-*   (b) holders of licences issued under the [Road User Charges Act 2012][668]
+*   (b) holders of licences issued under the [Road User Charges Act 2012][667]
 
 Registrar of Motor Vehicles (access is limited to obtaining information for the purposes of---
     
@@ -5382,7 +5392,7 @@ Demerit points The recording of demerit points in relation to traffic offences
 
 Police
 
-Rail licensing register A national register of all licences under the [Railways Act 2005][669] 
+Rail licensing register A national register of all licences under the [Railways Act 2005][668] 
 
 Police
 
@@ -5410,25 +5420,25 @@ New Zealand Customs Service (access is limited to obtaining information for the 
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by---
     
-*   (a) [section 95(1)][663] of the Land Transport Management Act 2003:
+*   (a) [section 95(1)][662] of the Land Transport Management Act 2003:
 
 *   (b) the notice dated 22 August 1993 and published in the _Gazette_ on 2 September 1993 at page 2626)
 
 Legal Services Commissioner (access is limited to obtaining information for the purpose of determining financial eligibility of an applicant for a grant of legal aid in relation to a criminal matter)
 
-An enforcement authority under the [Land Transport Management Act 2003][670].
+An enforcement authority under the [Land Transport Management Act 2003][669].
 
 _Ministry of Transport records_
 
 **Subject** **Description** **Access available to**
 
-Road user charges Details of licences issued under the [Road User Charges Act 1977][671] and details of the corresponding licence holders 
+Road user charges Details of licences issued under the [Road User Charges Act 1977][670] and details of the corresponding licence holders 
 
-Police (access is limited to obtaining information for the purpose of enforcing the [Road User Charges Act 1977][671])
+Police (access is limited to obtaining information for the purpose of enforcing the [Road User Charges Act 1977][670])
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by---
     
-*   (a) [section 95(1)][663] of the Land Transport Management Act 2003:
+*   (a) [section 95(1)][662] of the Land Transport Management Act 2003:
 
 *   (b) the notice dated 22 August 1993 and published in the _Gazette_ on 2 September 1993 at page 2626)
 
@@ -5440,9 +5450,9 @@ Community-based sentences, sentences of home detention, and conditions of releas
 
 Particulars of persons---
     
-*   (a) released on probation or parole, or released on conditions under [Part 6][672] of the [Criminal Justice Act 1985][653], or sentenced to community service, periodic detention, supervision, or a community programme; or 
+*   (a) released on probation or parole, or released on conditions under [Part 6][671] of the [Criminal Justice Act 1985][652], or sentenced to community service, periodic detention, supervision, or a community programme; or 
 
-*   (b) released on parole, home detention, or compassionate release under [subpart 2][673] of Part 1 of the Parole Act 2002 or sentenced to supervision, intensive supervision, community work, community detention, or home detention.
+*   (b) released on parole, home detention, or compassionate release under [subpart 2][672] of Part 1 of the Parole Act 2002 or sentenced to supervision, intensive supervision, community work, community detention, or home detention.
 
 Police (access is limited to---
     
@@ -5458,32 +5468,33 @@ Police (access is limited to the location and the date of release of the prisone
 
 Ministry of Justice
 
-*   Schedule 5: amended, on 13 June 2013, by [section 72][674] of the Land Transport Management Amendment Act 2013 (2013 No 35).
-*   Schedule 5: amended, on 1 August 2012, by [section 94][675] of the Road User Charges Act 2012 (2012 No 1).
-*   Schedule 5: amended, on 1 July 2011, by [section 144][676] of the Legal Services Act 2011 (2011 No 4).
+*   Schedule 5: amended, on 1 July 2013, by [section 413][326] of the Criminal Procedure Act 2011 (2011 No 81).
+*   Schedule 5: amended, on 13 June 2013, by [section 72][673] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Schedule 5: amended, on 1 August 2012, by [section 94][674] of the Road User Charges Act 2012 (2012 No 1).
+*   Schedule 5: amended, on 1 July 2011, by [section 144][675] of the Legal Services Act 2011 (2011 No 4).
 *   Schedule 5: amended, on 1 May 2011, by [section 35(4)][559] of the Land Transport Amendment Act 2009 (2009 No 17).
-*   Schedule 5: amended, on 1 December 2009, by [section 4][677] of the Privacy Amendment Act 2009 (2009 No 39).
-*   Schedule 5: amended, on 1 August 2008, by [section 50(1)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
-*   Schedule 5: amended, on 1 October 2007, by [section 58][678] of the Sentencing Amendment Act 2007 (2007 No 27).
-*   Schedule 5: amended, on 1 October 2007, by [section 95(6)][679] of the Land Transport Amendment Act 2005 (2005 No 77).
-*   Schedule 5: amended, on 20 September 2007, by [section 4(1)][680] of the Privacy Amendment Act 2007 (2007 No 73).
-*   Schedule 5: amended, on 20 September 2007, by [section 4(2)(a)][680] of the Privacy Amendment Act 2007 (2007 No 73).
-*   Schedule 5: amended, on 20 September 2007, by [section 4(3)][680] of the Privacy Amendment Act 2007 (2007 No 73).
-*   Schedule 5: amended, on 20 September 2007, by [section 4(4)][680] of the Privacy Amendment Act 2007 (2007 No 73).
-*   Schedule 5: amended, on 20 July 2005, by [section 103(3)][681] of the Railways Act 2005 (2005 No 37).
-*   Schedule 5: amended, on 4 June 2005, by [section 75(a)][682] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
-*   Schedule 5: amended, on 4 June 2005, by [section 75(b)][682] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
+*   Schedule 5: amended, on 1 December 2009, by [section 4][676] of the Privacy Amendment Act 2009 (2009 No 39).
+*   Schedule 5: amended, on 1 August 2008, by [section 50(1)][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 5: amended, on 1 October 2007, by [section 58][677] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Schedule 5: amended, on 1 October 2007, by [section 95(6)][678] of the Land Transport Amendment Act 2005 (2005 No 77).
+*   Schedule 5: amended, on 20 September 2007, by [section 4(1)][679] of the Privacy Amendment Act 2007 (2007 No 73).
+*   Schedule 5: amended, on 20 September 2007, by [section 4(2)(a)][679] of the Privacy Amendment Act 2007 (2007 No 73).
+*   Schedule 5: amended, on 20 September 2007, by [section 4(3)][679] of the Privacy Amendment Act 2007 (2007 No 73).
+*   Schedule 5: amended, on 20 September 2007, by [section 4(4)][679] of the Privacy Amendment Act 2007 (2007 No 73).
+*   Schedule 5: amended, on 20 July 2005, by [section 103(3)][680] of the Railways Act 2005 (2005 No 37).
+*   Schedule 5: amended, on 4 June 2005, by [section 75(a)][681] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
+*   Schedule 5: amended, on 4 June 2005, by [section 75(b)][681] of the Prisoners' and Victims' Claims Act 2005 (2005 No 74).
 *   Schedule 5: amended, on 1 June 2005, by [section 205(3)][643] of the Corrections Act 2004 (2004 No 50).
-*   Schedule 5: amended, on 1 June 2005, by [section 206][683] of the Corrections Act 2004 (2004 No 50).
-*   Schedule 5: amended, on 1 December 2004, by [section 19(1)][684] of the Land Transport Management Amendment Act 2004 (2004 No 97).
-*   Schedule 5: amended, on 1 October 2003, by [section 12(3)][685] of the State Sector Amendment Act 2003 (2003 No 41).
-*   Schedule 5: amended, on 19 December 2002, by [section 4][686] of the Privacy Amendment Act 2002 (2002 No 73).
-*   Schedule 5: amended, on 17 December 2002, by [section 53][687] of the Victims' Rights Act 2002 (2002 No 39).
-*   Schedule 5: amended, on 30 June 2002, by [section 186][688] of the Sentencing Act 2002 (2002 No 9).
-*   Schedule 5: amended, on 1 February 2001, by [section 128][689] of the Legal Services Act 2000 (2000 No 42).
-*   Schedule 5: amended, on 1 January 2001, by [section 74(2)][690] of the Bail Act 2000 (2000 No 38).
+*   Schedule 5: amended, on 1 June 2005, by [section 206][682] of the Corrections Act 2004 (2004 No 50).
+*   Schedule 5: amended, on 1 December 2004, by [section 19(1)][683] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+*   Schedule 5: amended, on 1 October 2003, by [section 12(3)][684] of the State Sector Amendment Act 2003 (2003 No 41).
+*   Schedule 5: amended, on 19 December 2002, by [section 4][685] of the Privacy Amendment Act 2002 (2002 No 73).
+*   Schedule 5: amended, on 17 December 2002, by [section 53][686] of the Victims' Rights Act 2002 (2002 No 39).
+*   Schedule 5: amended, on 30 June 2002, by [section 186][687] of the Sentencing Act 2002 (2002 No 9).
+*   Schedule 5: amended, on 1 February 2001, by [section 128][688] of the Legal Services Act 2000 (2000 No 42).
+*   Schedule 5: amended, on 1 January 2001, by [section 74(2)][689] of the Bail Act 2000 (2000 No 38).
 *   Schedule 5: amended, on 1 March 1999, by [section 215(1)][593] of the Land Transport Act 1998 (1998 No 110).
-*   Schedule 5: amended, on 3 June 1998, by [section 2][691] of the Privacy Amendment Act 1998 (1998 No 57).
+*   Schedule 5: amended, on 3 June 1998, by [section 2][690] of the Privacy Amendment Act 1998 (1998 No 57).
 
 ---
 
@@ -5492,7 +5503,7 @@ Basic principles of national application set out in Part Two of the OECD Guideli
 
 [s 114B(1)(b)][186]
 
-*   Schedule 5A: inserted, on 8 September 2010, by [section 10][692] of the Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113).
+*   Schedule 5A: inserted, on 8 September 2010, by [section 10][691] of the Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113).
 
 ##### Collection limitation principle
 
@@ -5561,7 +5572,7 @@ _Amendment(s) incorporated in the Acts(s)_.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141) (RS Vol 27, p 425)
 
-_Amendment(s) incorporated in the [Act(s)][693]_.
+_Amendment(s) incorporated in the [Act(s)][692]_.
 
 ##### Higher Salaries Commission Act 1977 (1977 No 110) (RS Vol 19, p 623)
 
@@ -5569,7 +5580,7 @@ _Amendment(s) incorporated in the Acts(s)_.
 
 ##### New Zealand Security Intelligence Service Act 1969 (1969 No 24) (RS Vol 21, p 559)
 
-_Amendment(s) incorporated in the [Act(s)][694]_.
+_Amendment(s) incorporated in the [Act(s)][693]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
@@ -5581,11 +5592,11 @@ _Amendment(s) incorporated in the Acts(s)_.
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)
 
-_Amendment(s) incorporated in the [Act(s)][695]_.
+_Amendment(s) incorporated in the [Act(s)][694]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][343]_.
+_Amendment(s) incorporated in the [Act(s)][695]_.
 
 ##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
 
@@ -5608,7 +5619,7 @@ _Amendment(s) incorporated in the [Act(s)][697]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][653]._
+_Amendment(s) incorporated in the [Act(s)][652]._
 
 ##### Defamation Act 1992 (1992 No 105)
 
@@ -5691,7 +5702,7 @@ Orders revoked
 
 ###### 1 General
     
-*   This is a reprint of the Privacy Act 1993\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Privacy Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][701] ![](/images/external_link.gif).
 
@@ -5738,7 +5749,7 @@ Orders revoked
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][674]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][673]
     
     Student Loan Scheme Amendment Act 2013 (2013 No 10): [section 50][413]
     
@@ -5752,11 +5763,13 @@ Orders revoked
     
     Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58): [section 21][556]
     
-    Road User Charges Act 2012 (2012 No 1): [section 94][675]
+    Road User Charges Act 2012 (2012 No 1): [section 94][674]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][326]
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][637]
     
-    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 59(2)][383]
+    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 59(2)][384]
     
     [Privacy Amendment Act 2011][707] (2011 No 44)
     
@@ -5764,7 +5777,7 @@ Orders revoked
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 82][558]
     
-    Legal Services Act 2011 (2011 No 4): [section 144][676]
+    Legal Services Act 2011 (2011 No 4): [section 144][675]
     
     Electoral Referendum Act 2010 (2010 No 139): [section 81(2)][562]
     
@@ -5776,9 +5789,9 @@ Orders revoked
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][561]
     
-    Education Amendment Act 2010 (2010 No 25): [section 78(2), (3)][391]
+    Education Amendment Act 2010 (2010 No 25): [section 78(2), (3)][392]
     
-    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][381]
+    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][382]
     
     Insolvency Amendment Act 2009 (2009 No 52): [section 21(2)][566]
     
@@ -5798,7 +5811,7 @@ Orders revoked
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][255]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][387]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][388]
     
     Criminal Disclosure Act 2008 (2008 No 38): [section 39][277]
     
@@ -5814,7 +5827,7 @@ Orders revoked
     
     Building Societies Amendment Act 2007 (2007 No 43): [section 8(2)][572]
     
-    Sentencing Amendment Act 2007 (2007 No 27): [section 58][678]
+    Sentencing Amendment Act 2007 (2007 No 27): [section 58][677]
     
     Immigration Advisers Licensing Act 2007 (2007 No 15): [section 96][569]
     
@@ -5828,7 +5841,7 @@ Orders revoked
     
     Insolvency Act 2006 (2006 No 55): [section 445][571]
     
-    Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34): [sections 8][384], [9][640]
+    Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34): [sections 8][385], [9][640]
     
     Education Amendment Act 2006 (2006 No 19): [section 52(2)][641]
     
@@ -5838,23 +5851,23 @@ Orders revoked
     
     [Privacy Amendment Act 2005][712] (2005 No 80)
     
-    Land Transport Amendment Act 2005 (2005 No 77): [section 95(6)][679]
+    Land Transport Amendment Act 2005 (2005 No 77): [section 95(6)][678]
     
-    Prisoners' and Victims' Claims Act 2005 (2005 No 74): [sections 74][331], [75][682]
+    Prisoners' and Victims' Claims Act 2005 (2005 No 74): [sections 74][332], [75][681]
     
-    Citizenship Amendment Act 2005 (2005 No 43): [section 16][388]
+    Citizenship Amendment Act 2005 (2005 No 43): [section 16][389]
     
     Registered Architects Act 2005 (2005 No 38): [section 83][575]
     
-    Railways Act 2005 (2005 No 37): [section 103(3)][681]
+    Railways Act 2005 (2005 No 37): [section 103(3)][680]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][332]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][333]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][250]
     
     Civil Union Act 2004 (2004 No 102): [section 46][576]
     
-    Land Transport Management Amendment Act 2004 (2004 No 97): [section 19(1)][684]
+    Land Transport Management Amendment Act 2004 (2004 No 97): [section 19(1)][683]
     
     Building Act 2004 (2004 No 72): [section 414][578]
     
@@ -5862,23 +5875,23 @@ Orders revoked
     
     Taxation (Working for Families) Act 2004 (2004 No 52): [sections 24(2)--(4)][412], [25(1)][644]
     
-    Corrections Act 2004 (2004 No 50): [sections 205(2)(a), (3)][643], [206][683]
+    Corrections Act 2004 (2004 No 50): [sections 205(2)(a), (3)][643], [206][682]
     
     Wine Act 2003 (2003 No 114): [section 126][580]
     
     [Privacy Amendment Act 2003][713] (2003 No 94)
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][327]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][328]
     
     Gambling Act 2003 (2003 No 51): [section 374][579]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][278]
     
-    State Sector Amendment Act 2003 (2003 No 41): [sections 12(3)][685], [14(1)][385]
+    State Sector Amendment Act 2003 (2003 No 41): [sections 12(3)][684], [14(1)][386]
     
     Social Workers Registration Act 2003 (2003 No 17): [section 149][581]
     
-    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][389]
+    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][390]
     
     Local Government Act 2002 (2002 No 84): [section 262][583]
     
@@ -5890,23 +5903,23 @@ Orders revoked
     
     Trade Marks Act 2002 (2002 No 49): [section 201][582]
     
-    Victims' Rights Act 2002 (2002 No 39): [section 53][687]
+    Victims' Rights Act 2002 (2002 No 39): [section 53][686]
     
     Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 72][585]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][688]
+    Sentencing Act 2002 (2002 No 9): [section 186][687]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][584]
     
-    Electoral Amendment Act 2002 (2002 No 1): [section 101(3)][386]
+    Electoral Amendment Act 2002 (2002 No 1): [section 101(3)][387]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][335]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][336]
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 71(1)][251]
     
-    Education Standards Act 2001 (2001 No 88): [section 83][390]
+    Education Standards Act 2001 (2001 No 88): [section 83][391]
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][380]
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][381]
     
     Local Electoral Act 2001 (2001 No 35): [section 151][590]
     
@@ -5916,9 +5929,9 @@ Orders revoked
     
     [Privacy Amendment Act 2000][715] (2000 No 76)
     
-    Legal Services Act 2000 (2000 No 42): [section 128][689]
+    Legal Services Act 2000 (2000 No 42): [section 128][688]
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][690]
+    Bail Act 2000 (2000 No 38): [section 74(2)][689]
     
     Radiocommunications Amendment Act 2000 (2000 No 8): [section 61][588]
     
@@ -5966,11 +5979,11 @@ Orders revoked
     
     Privacy Amendment Act 1994 (1994 No 70)
     
-    Human Rights Act 1993 (1993 No 82): [section 145][341]
+    Human Rights Act 1993 (1993 No 82): [section 145][342]
     
     Privacy Amendment Act 1993 (1993 No 59)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][379]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][380]
 
 
 
@@ -6297,90 +6310,90 @@ Orders revoked
 [320]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM392556
 [321]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1362815
 [322]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM431144
-[323]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM311316
+[323]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3360276
 [324]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM127094
 [325]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM127098
-[326]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM218191
-[327]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM214522
-[328]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM351424
-[329]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM392392
-[330]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM127574
-[331]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM351721
-[332]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM333795
-[333]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM218192
-[334]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM169236
-[335]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM124529
-[336]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304965
-[337]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304981
-[338]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304921
-[339]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304929
-[340]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304936
-[341]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM305710
-[342]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328793
-[343]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM310742
-[344]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM65659
-[345]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM101344
-[346]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM123039
-[347]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM431148
-[348]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM412318
-[349]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM218193
-[350]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM65368
-[351]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM431156
-[352]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM101352
-[353]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328526
-[354]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328528
-[355]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328753
-[356]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328755
-[357]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328758
-[358]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM323292
-[359]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM431174
-[360]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3941927
-[361]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM160808
-[362]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM359124
-[363]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM362709
-[364]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM362736
-[365]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM362759
-[366]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM365476
-[367]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM105425
-[368]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM104120
-[369]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM104145
-[370]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2997501
-[371]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM269435
-[372]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM359106
-[373]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM412001
-[374]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM364757
-[375]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM175958
-[376]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM185127
-[377]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM185777
-[378]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM181706
-[379]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM162942
-[380]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM104117
-[381]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2773701
-[382]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM78310
-[383]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3367697
-[384]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM374699
-[385]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM201378
-[386]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM131138
-[387]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1313622
-[388]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM346765
-[389]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM188945
-[390]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM118875
-[391]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1956541
-[392]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM296572
-[393]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM379989
-[394]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1518406
-[395]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1518621
-[396]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM352853
-[397]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM380144
-[398]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM253150
-[399]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1507313
-[400]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1507314
-[401]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM380121
-[402]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM311866
-[403]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328088
-[404]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM24025
-[405]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM24040
-[406]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM243605
+[326]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3360714
+[327]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM218191
+[328]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM214522
+[329]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM351424
+[330]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM392392
+[331]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM127574
+[332]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM351721
+[333]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM333795
+[334]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM218192
+[335]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM169236
+[336]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM124529
+[337]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304965
+[338]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304981
+[339]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304921
+[340]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304929
+[341]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM304936
+[342]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM305710
+[343]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328793
+[344]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3359902
+[345]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM65659
+[346]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM101344
+[347]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM123039
+[348]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM431148
+[349]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM412318
+[350]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM218193
+[351]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM65368
+[352]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM431156
+[353]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM101352
+[354]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328526
+[355]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328528
+[356]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328753
+[357]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328755
+[358]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328758
+[359]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM323292
+[360]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM431174
+[361]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3941927
+[362]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM160808
+[363]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM359124
+[364]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM362709
+[365]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM362736
+[366]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM362759
+[367]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM365476
+[368]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM105425
+[369]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM104120
+[370]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM104145
+[371]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2997501
+[372]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM269435
+[373]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM359106
+[374]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM412001
+[375]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM364757
+[376]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM175958
+[377]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM185127
+[378]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM185777
+[379]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM181706
+[380]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM162942
+[381]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM104117
+[382]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2773701
+[383]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM78310
+[384]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3367697
+[385]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM374699
+[386]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM201378
+[387]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM131138
+[388]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1313622
+[389]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM346765
+[390]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM188945
+[391]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM118875
+[392]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1956541
+[393]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM296572
+[394]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM379989
+[395]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1518406
+[396]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1518621
+[397]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM352853
+[398]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM380144
+[399]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM253150
+[400]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1507313
+[401]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1507314
+[402]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM380121
+[403]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM311866
+[404]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM328088
+[405]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM24025
+[406]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM24040
 [407]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2602799
 [408]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM1149914
 [409]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM372224
@@ -6624,52 +6637,52 @@ Orders revoked
 [647]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM428872
 [648]: http://www.legislation.govt.nz/act/public/1993/0028/latest/whole.html#DLM298793
 [649]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM231835
-[650]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM68962
-[651]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM69610
-[652]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM68379
-[653]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM76615
-[654]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM135341
-[655]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM137631
-[656]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM157812
-[657]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM350820
-[658]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM262175
-[659]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434591
-[660]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434536
-[661]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM433612
-[662]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM311863
-[663]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM228046
-[664]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM72621
-[665]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM371925
-[666]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM136469
-[667]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM417077
-[668]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3394800
-[669]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM341567
-[670]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM226229
-[671]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM18599
-[672]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM78252
-[673]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM138435
-[674]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM4663359
-[675]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3395080
-[676]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3143015
-[677]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2470707
-[678]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM411004
-[679]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM353501
-[680]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM968468
-[681]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM343101
-[682]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM351722
-[683]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM297136
-[684]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM321838
-[685]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM201376
-[686]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM169237
-[687]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM158562
-[688]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM137267
-[689]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM73105
-[690]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM69643
-[691]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM426821
-[692]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2389115
-[693]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM81034
-[694]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM391605
-[695]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM25999
+[650]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM68964
+[651]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM68379
+[652]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM76615
+[653]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM135341
+[654]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM137631
+[655]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM157812
+[656]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM350820
+[657]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM262175
+[658]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434591
+[659]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434536
+[660]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM433612
+[661]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM311863
+[662]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM228046
+[663]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM72621
+[664]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM371925
+[665]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM136469
+[666]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM417077
+[667]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3394800
+[668]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM341567
+[669]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM226229
+[670]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM18599
+[671]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM78252
+[672]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM138435
+[673]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM4663359
+[674]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3395080
+[675]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3143015
+[676]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2470707
+[677]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM411004
+[678]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM353501
+[679]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM968468
+[680]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM343101
+[681]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM351722
+[682]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM297136
+[683]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM321838
+[684]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM201376
+[685]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM169237
+[686]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM158562
+[687]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM137267
+[688]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM73105
+[689]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM69643
+[690]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM426821
+[691]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM2389115
+[692]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM81034
+[693]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM391605
+[694]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM25999
+[695]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM310742
 [696]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM341189
 [697]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM147087
 [698]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM280686
