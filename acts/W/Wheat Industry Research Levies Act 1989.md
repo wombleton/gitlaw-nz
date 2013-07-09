@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 1997
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Science and Innovation.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,89 +25,89 @@ This Act is administered by the Ministry of Science and Innovation.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Wheat industry research levies][5]
 
-[4][6] [Levies for research purposes][6]
+[4][6][][6][Levies for research purposes][6]
 
-[5][7] [No levy payable where flour or wheatmeal rejected by purchaser][7]
+[5][7][][7][No levy payable where flour or wheatmeal rejected by purchaser][7]
 
-[6][8] [Determination of rates of levies][8]
+[6][8][][8][Determination of rates of levies][8]
 
-[7][9] [Computation of levies][9]
+[7][9][][9][Computation of levies][9]
 
-[8][10] [Maximum rates of levies][10]
+[8][10][][10][Maximum rates of levies][10]
 
-[9][11] [Referendum on rates of certain levies][11]
+[9][11][][11][Referendum on rates of certain levies][11]
 
-[10][12] [Notification of rates of levies][12]
+[10][12][][12][Notification of rates of levies][12]
 
-[11][13] [Recovery of levies][13]
+[11][13][][13][Recovery of levies][13]
 
-[12][14] [Collection of levies][14]
+[12][14][][14][Collection of levies][14]
 
-[13][15] [Bakers Association may arrange for collection of levy by New Zealand Customs Service][15]
+[13][15][][15][Bakers Association may arrange for collection of levy by New Zealand Customs Service][15]
 
-[14][16] [New Zealand Customs Service to supply Bakers Association with information on imports of flour and wheatmeal][16]
+[14][16][][16][New Zealand Customs Service to supply Bakers Association with information on imports of flour and wheatmeal][16]
 
-[15][17] [Liability of producer to cease when levy deducted from purchase price][17]
+[15][17][][17][Liability of producer to cease when levy deducted from purchase price][17]
 
-[16][18] [Invoice to be issued][18]
+[16][18][][18][Invoice to be issued][18]
 
-[17][19] [Research Trust Accounts][19]
+[17][19][][19][Research Trust Accounts][19]
 
-[18][20] [Investment of levies][20]
+[18][20][][20][Investment of levies][20]
 
-[19][21] [Collection fees][21]
+[19][21][][21][Collection fees][21]
 
-[20][22] [Trust in relation to levies][22]
+[20][22][][22][Trust in relation to levies][22]
 
-[21][23] [Expenditure of levies][23]
+[21][23][][23][Expenditure of levies][23]
 
-[22][24] [Power to inspect documents and obtain information][24]
+[22][24][][24][Power to inspect documents and obtain information][24]
 
-[23][25] [Report on exercise of powers to inspect documents and obtain information][25]
+[23][25][][25][Report on exercise of powers to inspect documents and obtain information][25]
 
-[24][26] [Disclosure of information obtained pursuant to power to inspect documents and obtain information][26]
+[24][26][][26][Disclosure of information obtained pursuant to power to inspect documents and obtain information][26]
 
-[25][27] [Auditing of Research Trust Accounts][27]
+[25][27][][27][Auditing of Research Trust Accounts][27]
 
-[26][28] [Report on expenditure of levies][28]
+[26][28][][28][Report on expenditure of levies][28]
 
-[27][29] [Copies of audited accounts, statements of financial position, and auditor's report to be made available on request][29]
+[27][29][][29][Copies of audited accounts, statements of financial position, and auditor's report to be made available on request][29]
 
 [Wheatgrowing, Flourmilling, and Baking Research Liaison Committee][30]
 
-[28][31] [Wheatgrowing, Flourmilling, and Baking Research Liaison Committee][31]
+[28][31][][31][Wheatgrowing, Flourmilling, and Baking Research Liaison Committee][31]
 
-[29][32] [Functions of Committee][32]
+[29][32][][32][Functions of Committee][32]
 
-[30][33] [Review of operation of Act][33]
+[30][33][][33][Review of operation of Act][33]
 
-[31][34] [Members of Committee to hold office during pleasure][34]
+[31][34][][34][Members of Committee to hold office during pleasure][34]
 
-[32][35] [Substitutes][35]
+[32][35][][35][Substitutes][35]
 
-[33][36] [Procedure of Committee][36]
+[33][36][][36][Procedure of Committee][36]
 
-[34][37] [Operating expenses of Committee][37]
+[34][37][][37][Operating expenses of Committee][37]
 
 [Offences][38]
 
-[35][39] [Offences][39]
+[35][39][][39][Offences][39]
 
 [Repeals, revocation, and transitional provisions][40]
 
-[36][41] [Repeals and revocation][41]
+[36][41][][41][Repeals and revocation][41]
 
-[37][42] [Transitional provisions relating to levies collected or payable on commencement of this Act][42]
+[37][42][][42][Transitional provisions relating to levies collected or payable on commencement of this Act][42]
 
-[38][43] [Transitional provisions relating to rates of levies][43]
+[38][43][][43][Transitional provisions relating to rates of levies][43]
 
 [Schedule][44]  
 [Provisions relating to holding of referendum][44]
@@ -592,7 +592,7 @@ An Act to provide money for research into the growing of wheat and the manufactu
 
 ##### 35 Offences
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who---
         
     *   (a) fraudulently avoids or attempts to avoid paying any levy payable by that person under [section 4][6]; or
     
@@ -616,7 +616,7 @@ An Act to provide money for research into the growing of wheat and the manufactu
     
     *   (g) refuses or fails, without reasonable excuse, to comply with any requirement made under paragraph (a) or paragraph (b) of [section 22(1)][24].
     
-    (2) Every person commits an offence and is liable on summary conviction---
+    (2) Every person commits an offence and is liable on conviction---
         
     *   (a) in the case of an individual, to a fine not exceeding $1,000; or
     
@@ -627,6 +627,10 @@ An Act to provide money for research into the growing of wheat and the manufactu
     (3) Any offence against this section committed by any employee or agent in the course of employment or agency shall be deemed to have been also committed by the employee's or agent's employer or principal if it is proved that the act or omission constituting the offence occurred with that employer's or principal's authority, permission, or consent.
     
     Compare: 1974 No 5 s 4(5)
+    
+    Section 35(1): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 35(2): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Repeals, revocation, and transitional provisions
 
@@ -773,9 +777,9 @@ Provisions relating to holding of referendum
 
 ##### 6 Votes to be allocated to voter in accordance with amount of levy paid
     
-*   (1) Every person who is qualified to vote in a referendum held in respect of the levy imposed by [section 4(1)(b)][6] shall be entitled to 1 vote for every $1 paid by that person in respect of that levy during the period referred to in [clause 5(1)][55].
+*   (1) Every person who is qualified to vote in a referendum held in respect of the levy imposed by [section 4(1)(b)][6] shall be entitled to 1 vote for every $1 paid by that person in respect of that levy during the period referred to in [clause 5(1)][56].
     
-    (2) Every person who is qualified to vote in a referendum held in respect of the levy imposed by paragraph (c) of subsection (1) of [section 4][6] shall be entitled to 1 vote for every $1 paid by that person in respect of that levy, or the levy imposed by paragraph (d) of that subsection, or both, during the period referred to in [clause 5(2)][55].
+    (2) Every person who is qualified to vote in a referendum held in respect of the levy imposed by paragraph (c) of subsection (1) of [section 4][6] shall be entitled to 1 vote for every $1 paid by that person in respect of that levy, or the levy imposed by paragraph (d) of that subsection, or both, during the period referred to in [clause 5(2)][56].
 
 ##### 7 Provisions applicable to partnerships, joint tenants, etc
     
@@ -783,7 +787,7 @@ Provisions relating to holding of referendum
         
     *   (a) for the purposes of paragraph (a)(ii) or paragraph (b)(iii) of [clause 1][50], the total amount of the levies paid by the person or persons demanding the referendum:
     
-    *   (b) for the purposes of [clause 6][56], the allocation of votes to persons qualified to vote in that referendum.
+    *   (b) for the purposes of [clause 6][57], the allocation of votes to persons qualified to vote in that referendum.
     
     
 
@@ -801,7 +805,7 @@ Provisions relating to holding of referendum
     
     *   (c) be signed by that person; and
     
-    *   (d) state the total amount of the relevant levy or levies paid by that person during the period specified in subclause (1) or subclause (2) of [clause 6][56], as the case requires; and
+    *   (d) state the total amount of the relevant levy or levies paid by that person during the period specified in subclause (1) or subclause (2) of [clause 6][57], as the case requires; and
     
     *   (e) be accompanied by such evidence of the payment of the amount or amounts stated in accordance with paragraph (d) as will enable the returning officer---
             
@@ -817,7 +821,7 @@ Provisions relating to holding of referendum
 
 ##### 10 Returning officer to issue voting papers
     
-*   (1) On receiving a request for a voting paper in accordance with [clause 9][57], the returning officer shall,---
+*   (1) On receiving a request for a voting paper in accordance with [clause 9][58], the returning officer shall,---
         
     *   (a) if that request is so received no later than 7 days before the date by which voting papers for the referendum must be received by the returning officer; and
     
@@ -827,7 +831,7 @@ Provisions relating to holding of referendum
     
     (2) Every voting paper shall---
         
-    *   (a) be in the form of the [Appendix][58]; and
+    *   (a) be in the form of the [Appendix][59]; and
     
     *   (b) bear on its face a number, with the first voting paper bearing the number 1 and all succeeding voting papers bearing consecutive numbers, so that no 2 voting papers for the same referendum bear the same number; and
     
@@ -857,7 +861,7 @@ Provisions relating to holding of referendum
 
 ##### 12 Procedure after close of voting
     
-*   (1) Forthwith after noon on the day by which voting papers must be received by the returning officer, the returning officer shall, in respect of the envelopes received by the returning officer in connection with the referendum and that purport to contain voting papers, compare the numbers on the envelopes with the numbers entered on the list of voters kept pursuant to [clause 10(5)][59], and shall reject any envelope not appearing to be issued in connection with the referendum or not appearing to contain the genuine voting paper of a person entitled to vote.
+*   (1) Forthwith after noon on the day by which voting papers must be received by the returning officer, the returning officer shall, in respect of the envelopes received by the returning officer in connection with the referendum and that purport to contain voting papers, compare the numbers on the envelopes with the numbers entered on the list of voters kept pursuant to [clause 10(5)][60], and shall reject any envelope not appearing to be issued in connection with the referendum or not appearing to contain the genuine voting paper of a person entitled to vote.
     
     (2) The returning officer shall then---
         
@@ -867,7 +871,7 @@ Provisions relating to holding of referendum
     
     *   (c) ascertain the number of votes received for each proposal.
     
-    (3) In respect of every valid voting paper, votes shall be alloted to the proposal for which the voter has voted, according to the number of votes appearing beside the voter's name on the list of voters kept pursuant to [clause 10(5)][59].
+    (3) In respect of every valid voting paper, votes shall be alloted to the proposal for which the voter has voted, according to the number of votes appearing beside the voter's name on the list of voters kept pursuant to [clause 10(5)][60].
 
 ##### 13 Declaration of result of referendum
     
@@ -895,7 +899,7 @@ Provisions relating to holding of referendum
     
     *   (b) all the used voting papers (with the valid votes being kept separate from the votes rejected as invalid):
     
-    *   (c) the list kept by the returning officer pursuant to [clause 10(5)][59].
+    *   (c) the list kept by the returning officer pursuant to [clause 10(5)][60].
     
     (2) The returning officer shall keep the packets made up under subclause (1) for 1 year after the publication of the result of the referendum in the _Gazette_, and shall not open them or permit them to be opened except on the order of some court of competent jurisdiction.
     
@@ -903,14 +907,14 @@ Provisions relating to holding of referendum
 
 ##### 17 Maintenance of secrecy in relation to levy payments and voting
     
-*   (1) No person shall communicate to any other person, except for some purpose authorised by law, any information relating to the amount of any levy paid by any person, where that information comes to the knowledge of the first-mentioned person pursuant to [clause 2][51] or [clause 9][57].
+*   (1) No person shall communicate to any other person, except for some purpose authorised by law, any information relating to the amount of any levy paid by any person, where that information comes to the knowledge of the first-mentioned person pursuant to [clause 2][51] or [clause 9][58].
     
     (2) No returning officer shall communicate to any person, except for some purpose authorised by law, any information as to the proposal for which any vote is given in any particular voting paper.
 
 ##   
 Appendix
 
-[cl 10(2)(a)][59]
+[cl 10(2)(a)][60]
 
 #### Voting paper at a referendum under the Wheat Industry Research Levies Act 1989
 
@@ -950,23 +954,23 @@ I vote against the rate of the levy
 
 ###### 1 General
     
-*   This is a reprint of the Wheat Industry Research Levies Act 1989\. The reprint incorporates all the amendments to the Act as at 1 October 1997, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Wheat Industry Research Levies Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][60] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][61] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][61] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][62] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][62] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][63] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][63] and [17E][64] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][64] and [17E][65] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -997,7 +1001,9 @@ I vote against the rate of the levy
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][53]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][55]
+    
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][53]
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][49]
     
@@ -1060,13 +1066,14 @@ I vote against the rate of the levy
 [52]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM64784
 [53]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM408960
 [54]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169328
-[55]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169316
-[56]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169317
-[57]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169320
-[58]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169329
-[59]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169321
-[60]: http://www.pco.parliament.govt.nz/reprints/
-[61]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM195439
-[62]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[63]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM195468
-[64]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM195470
+[55]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM3360714
+[56]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169316
+[57]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169317
+[58]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169320
+[59]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169329
+[60]: http://www.legislation.govt.nz/act/public/1989/0064/latest/whole.html#DLM169321
+[61]: http://www.pco.parliament.govt.nz/reprints/
+[62]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM195439
+[63]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[64]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM195468
+[65]: http://www.legislation.govt.nz/act/public/1989/0064/latest/link.aspx?id=DLM195470
