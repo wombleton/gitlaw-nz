@@ -1,7 +1,7 @@
 Reprint  
-as at 29 June 2009
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Criminal Procedure (Mentally Impaired Persons) Act 2003Public Act2003 No 115
 
@@ -23,134 +23,134 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Application][6]
+[5][6][][6][Application][6]
 
-[6][7] [Act binds the Crown][7]
+[6][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [Substantive provisions][8]
 
-[Subpart 1][9]---[Findings of unfitness to stand trial][9]
+[Subpart 1][9][---][9][Findings of unfitness to stand trial][9]
 
-[7][10] [When finding of unfitness to stand trial may be made][10]
+[7][10][][10][When finding of unfitness to stand trial may be made][10]
 
-[8][11] [Postponement of finding][11]
+[8][11][][11][Postponement of finding][11]
 
-[9][12] [Court must be satisfied of defendant's involvement in offence][12]
+[9][12][][12][Court must be satisfied of defendant's involvement in offence][12]
 
-[10][13] [Inquiry at summary hearing into defendant's involvement][13]
+[10][13][][13][Inquiry before trial into defendant's involvement in the offence][13]
 
-[11][14] [Inquiry into defendant's involvement if committal proceedings required][14]
+[11][14][][14][Inquiry during Judge-alone trial into defendant's involvement][14]
 
-[12][15] [Inquiry at trial into defendant's involvement][15]
+[12][15][][15][Inquiry during jury trial into defendant's involvement][15]
 
-[13][16] [Outcome of consideration of defendant's involvement][16]
+[13][16][][16][Outcome of consideration of defendant's involvement][16]
 
-[14][17] [Determining if defendant unfit to stand trial][17]
+[14][17][][17][Determining if defendant unfit to stand trial][17]
 
-[15][18] [Jurisdiction may be exercised in absence of defendant][18]
+[15][18][][18][Jurisdiction may be exercised in absence of defendant][18]
 
-[16][19] [Appeal by defendant against finding relating to fitness to stand trial][19]
+[16][19][][19][Appeal by defendant against finding relating to fitness to stand trial][19]
 
-[17][20] [Matters for appellate court on appeal under section 16][20]
+[17][20][][20][Matters for appellate court on appeal under section 16][20]
 
-[18][21] [Release on bail or detention of appellant pending appeal][21]
+[18][21][][21][Release on bail or detention of appellant pending appeal][21]
 
-[19][22] [Appeals by prosecution][22]
+[19][22][][22][Appeals by prosecution][22]
 
-[Subpart 2][23]---[Acquittals on account of insanity][23]
+[Subpart 2][23][---][23][Acquittals on account of insanity][23]
 
-[20][24] [Finding of insanity][24]
+[20][24][][24][Finding of insanity][24]
 
-[21][25] [Appeal against acquittal on account of insanity][25]
+[21][25][][25][Appeal against acquittal on account of insanity][25]
 
-[22][26] [Release on bail or detention of appellant pending appeal][26]
+[22][26][][26][Release on bail or detention of appellant pending appeal][26]
 
-[Subpart 3][27]---[Detention, treatment, and care of persons found unfit to stand trial or acquitted on account of insanity][27]
+[Subpart 3][27][---][27][Detention, treatment, and care of persons found unfit to stand trial or acquitted on account of insanity][27]
 
 [Court orders][28]
 
-[23][29] [Inquiries about persons found unfit to stand trial or insane][29]
+[23][29][][29][Inquiries about persons found unfit to stand trial or insane][29]
 
-[24][30] [Detention of defendant found unfit to stand trial or insane as special patient or special care recipient][30]
+[24][30][][30][Detention of defendant found unfit to stand trial or insane as special patient or special care recipient][30]
 
-[25][31] [Alternative decisions in respect of defendant unfit to stand trial or insane][31]
+[25][31][][31][Alternative decisions in respect of defendant unfit to stand trial or insane][31]
 
-[26][32] [Effect of alternative orders][32]
+[26][32][][32][Effect of alternative orders][32]
 
-[27][33] [Court may stay proceedings when alternative decision made in respect of defendant unfit to stand trial][33]
+[27][33][][33][Court may stay proceedings when alternative decision made in respect of defendant unfit to stand trial][33]
 
-[28][34] [Effect of orders under section 24 on prison sentences][34]
+[28][34][][34][Effect of orders under section 24 on prison sentences][34]
 
-[29][35] [Appeals against orders under section 24 or section 25 or section 27][35]
+[29][35][][35][Appeals against orders under section 24 or section 25 or section 27][35]
 
 [Change of status, and discharge, of persons detained as special patients or special care recipients][36]
 
-[30][37] [Duration of detention as special patient or special care recipient where person unfit to stand trial][37]
+[30][37][][37][Duration of detention as special patient or special care recipient where person unfit to stand trial][37]
 
-[31][38] [Change of status from special patient to patient or special care recipient to care recipient where person unfit to stand trial][38]
+[31][38][][38][Change of status from special patient to patient or special care recipient to care recipient where person unfit to stand trial][38]
 
-[32][39] [Proceedings stayed following certain directions under section 31][39]
+[32][39][][39][Proceedings stayed following certain directions under section 31][39]
 
-[33][40] [Duration of order for detention as special patient or special care recipient if person acquitted on account of insanity][40]
+[33][40][][40][Duration of order for detention as special patient or special care recipient if person acquitted on account of insanity][40]
 
-[Subpart 4][41]---[Detention, treatment, and care of defendants who are convicted][41]
+[Subpart 4][41][---][41][Detention, treatment, and care of defendants who are convicted][41]
 
-[34][42] [Power of court to commit offender to hospital or facility on conviction][42]
+[34][42][][42][Power of court to commit offender to hospital or facility on conviction][42]
 
-[35][43] [Inquiries about persons for whom orders under section 34 proposed][43]
+[35][43][][43][Inquiries about persons for whom orders under section 34 proposed][43]
 
-[36][44] [Offenders detained as patients][44]
+[36][44][][44][Offenders detained as patients][44]
 
-[37][45] [Offenders detained as care recipients][45]
+[37][45][][45][Offenders detained as care recipients][45]
 
-[Subpart 5][46]---[Assessment of defendants][46]
+[Subpart 5][46][---][46][Assessment of defendants][46]
 
-[38][47] [Power of court to require assessment report][47]
+[38][47][][47][Power of court to require assessment report][47]
 
-[39][48] [Directions as to assessments][48]
+[39][48][][48][Directions as to assessments][48]
 
-[40][49] [Period of detention may be extended][49]
+[40][49][][49][Period of detention may be extended][49]
 
-[41][50] [Attendance at hospitals, etc, by persons detained in prisons][50]
+[41][50][][50][Attendance at hospitals, etc, by persons detained in prisons][50]
 
-[42][51] [Transfer of persons from hospitals, etc, to court, penal, or Police custody][51]
+[42][51][][51][Transfer of persons from hospitals, etc, to court, penal, or Police custody][51]
 
-[43][52] [Medical treatment of persons detained in hospitals, etc][52]
+[43][52][][52][Medical treatment of persons detained in hospitals, etc][52]
 
-[44][53] [Detention pending hearing or trial][53]
+[44][53][][53][Detention pending hearing or trial][53]
 
-[45][54] [Disclosure of assessment reports][54]
+[45][54][][54][Disclosure of assessment reports][54]
 
-[46][55] [Access to assessment reports][55]
+[46][55][][55][Access to assessment reports][55]
 
 [Part 3][56]  
 [Transitional and consequential provisions][56]
 
 [Transitional provisions][57]
 
-[47][58] [Transitional provisions][58]
+[47][58][][58][Transitional provisions][58]
 
 [Amendments to other enactments][59]
 
-[48][60] [Repeal of Part 7 of Criminal Justice Act 1985][60]
+[48][60][][60][Repeal of Part 7 of Criminal Justice Act 1985][60]
 
-[49][61] [Amendment to Courts Martial Appeals Act 1953][61]
+[49][61][][61][Amendment to Courts Martial Appeals Act 1953][61]
 
-[50][62] [Amendments to Criminal Investigations (Bodily Samples) Act 1995][62]
+[50][62][][62][Amendments to Criminal Investigations (Bodily Samples) Act 1995][62]
 
-[51][63] [Consequential amendments to other enactments][63]
+[51][63][][63][Consequential amendments to other enactments][63]
 
 [Schedule][64]  
 [Consequential amendments to other enactments][64]
@@ -187,8 +187,6 @@ Preliminary provisions
 ##### 4 Interpretation
     
 *   (1) In this Act, unless the context otherwise requires,---
-    
-    _acquittal on account of insanity_ includes a dismissal of an information by a District Court on account of the insanity of the person charged
     
     _care recipient_ has the same meaning as that given to the expression care recipient no longer subject to the criminal justice system in the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][68]
     
@@ -247,14 +245,16 @@ Preliminary provisions
     > "_psychologist_ means a psychologist registered under the Psychologists Act 1981".
     
     Compare: 1985 No 120 [ss 2(1), (2)][73], [108][74]
+    
+    Section 4(1) **acquittal on account of insanity**: repealed, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 5 Application
     
 *   (1) This Act applies only to criminal proceedings in which a defendant is charged with an imprisonable offence.
     
-    (2) This Act does not apply to proceedings under the [Armed Forces Discipline Act 1971][75], or to proceedings on appeal from any decision under that Act.
+    (2) This Act does not apply to proceedings under the [Armed Forces Discipline Act 1971][76], or to proceedings on appeal from any decision under that Act.
     
-    Compare: 1985 No 120 [s 3(2)][76]
+    Compare: 1985 No 120 [s 3(2)][77]
 
 ##### 6 Act binds the Crown
     
@@ -271,91 +271,91 @@ Substantive provisions
     
     (2) Subsection (1) is subject to [section 9][12].
     
-    Compare: 1985 No 120 [s 109][77]
+    Compare: 1985 No 120 [s 109][78]
 
 ##### 8 Postponement of finding
     
 *   (1) A court may, if it thinks it is in the interests of the defendant to do so, postpone the determination of the question whether a defendant is unfit to stand trial.
     
-    (2) However, at a hearing or trial, a court may not postpone the determination of that question beyond the stage at which all the evidence is concluded.
+    (2) However, at a trial, a court may not postpone the determination of that question beyond the stage at which all the evidence is concluded.
     
     (3) When a court postpones the determination of the question whether a defendant is unfit to stand trial, the court may not determine the question if---
         
     *   (a) the defendant is acquitted; or
     
-    *   (b) the information against the defendant is dismissed.
+    *   (b) the charge is dismissed.
     
-    Compare: 1985 No 120 [s 110][78]
+    Compare: 1985 No 120 [s 110][79]
+    
+    Section 8(2): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 8(3)(b): replaced, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 9 Court must be satisfied of defendant's involvement in offence
     
 *   A court may not make a finding as to whether a defendant is unfit to stand trial unless the court is satisfied, on the balance of probabilities, that the evidence against the defendant is sufficient to establish that the defendant caused the act or omission that forms the basis of the offence with which the defendant is charged.
 
-##### 10 Inquiry at summary hearing into defendant's involvement
+##### 10 Inquiry before trial into defendant's involvement in the offence
     
-*   (1) This section applies if a defendant is proceeded against summarily.
+*   (1) This section applies if the question whether the defendant is unfit to stand trial arises before the trial.
     
-    (2) If the question whether the defendant is unfit to stand trial is to be determined before the hearing of the information, the court must hold a special hearing to ascertain whether the court is satisfied of the matter specified in [section 9][12].
+    (2) The court must ascertain whether the court is satisfied of the matter specified in [section 9][12].
     
-    (3) The provisions of [Part 5][79] of the Summary Proceedings Act 1957 that relate to the conduct of a committal hearing, so far as they are applicable and with any modifications, apply to every hearing held under subsection (2).
-    
-    (4) If the question whether the defendant is unfit to stand trial is to be determined in the course of the hearing, the court must ascertain whether it is satisfied of the matter specified in [section 9][12].
-    
-    (5) For the purpose of subsection (4), the court may (whether on the application of a party or on the court's own initiative) do either or both of the following:
+    (3) For the purposes of subsection (2), the court may consider---
         
-    *   (a) consider any evidence presented at the hearing:
+    *   (a) any formal statements that have been filed under [section 85][80] of the Criminal Procedure Act 2011:
+    
+    *   (b) any oral evidence that has been taken in accordance with an order made under [section 92][81] of the Criminal Procedure Act 2011:
+    
+    *   (c) any other evidence that is submitted by the prosecutor or defendant.
+    
+    Section 10: replaced, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+
+##### 11 Inquiry during Judge-alone trial into defendant's involvement
+    
+*   (1) This section applies if the question whether the defendant is unfit to stand trial is to be determined during a Judge-alone trial.
+    
+    (2) The court must ascertain whether it is satisfied of the matter specified in [section 9][12].
+    
+    (3) For the purposes of subsection (2), the court may (whether on the application of a party or on the court's own initiative) do either or both of the following:
+        
+    *   (a) consider any evidence presented at the trial:
     
     *   (b) hear any new evidence.
     
-    Section 10(3): substituted, on 29 June 2009, by [section 18][80] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 11: replaced, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
-##### 11 Inquiry into defendant's involvement if committal proceedings required
+##### 12 Inquiry during jury trial into defendant's involvement
     
-*   (1) This section applies if committal hearings under [Part 5][79] of the Summary Proceedings Act 1957 are required.
+*   (1) This section applies if the question whether the defendant is unfit to stand trial is to be determined during a jury trial.
     
-    (2) If the question whether the defendant is unfit to stand trial is to be determined before or without a committal hearing, the court must hold a special hearing to ascertain whether the court is satisfied of the matter specified in [section 9][12].
+    (2) The court must ascertain whether it is satisfied of the matter specified in [section 9][12].
     
-    (3) The provisions of [Part 5][79] of the Summary Proceedings Act 1957 that relate to committal hearings, so far as they are applicable and with any necessary modifications, apply to every hearing held under subsection (2).
-    
-    (4) A hearing held under subsection (2) takes the place of a committal hearing under [Part 5][79] of the Summary Proceedings Act 1957\.
-    
-    (5) If the question whether the defendant is unfit to stand trial is to be determined in the course of a committal hearing, the court must ascertain whether it is satisfied of the matter specified in [section 9][12].
-    
-    (6) For the purpose of subsection (5), the court may (whether on the application of the party or on the court's own initiative) do either or both of the following:
+    (3) For the purposes of subsection (2), the court may do 1 or more of the following:
         
-    *   (a) consider any evidence presented at the committal hearing:
+    *   (a) consider any formal statements that have been filed under [section 85][80] of the Criminal Procedure Act 2011:
     
-    *   (b) hear any new evidence.
+    *   (b) consider any oral evidence that has been taken in accordance with an order made under [section 92][81] of the Criminal Procedure Act 2011:
     
-    (7) A District Court Judge must preside over a court that conducts a special hearing under subsection (2) or determines whether the defendant is unfit to stand trial in the course of a committal hearing.
+    *   (c) consider any evidence presented at the trial:
     
-    Section 11: substituted, on 29 June 2009, by [section 18][80] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
-
-##### 12 Inquiry at trial into defendant's involvement
+    *   (d) hear any new evidence at any stage before the commencement of the closing addresses.
     
-*   (1) If the question whether the defendant is unfit to stand trial is to be determined in the course of a trial, the court must ascertain whether it is satisfied of the matter specified in [section 9][12].
-    
-    (2) For the purpose of subsection (1), the court may (whether on the application of a party or on the court's own initiative) do 1 or more of the following:
-        
-    *   (a) consider any evidence presented for the purposes of the standard committal or at the committal hearing or at the trial:
-    
-    *   (b) rehear any of the evidence presented for the purposes of the standard committal or of the committal hearing:
-    
-    *   (c) hear any new evidence at any stage before the commencement of the closing addresses.
-    
-    Section 12(2)(a): amended, on 29 June 2009, by [section 18][80] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
-    
-    Section 12(2)(b): amended, on 29 June 2009, pursuant to [section 18][80] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 12: replaced, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 13 Outcome of consideration of defendant's involvement
     
 *   (1) When the court has ascertained, in accordance with any of [sections 10 to 12][13], whether the court is satisfied of the matter specified in [section 9][12], the court must record its finding on the matter.
     
-    (2) If the court is not satisfied of the matter specified in [section 9][12], the court must discharge the defendant.
+    (2) If the court is not satisfied of the matter specified in [section 9][12], the court must dismiss the charge against the defendant under [section 147][82] of the Criminal Procedure Act 2011\.
     
-    (3) A discharge under subsection (2) does not amount to an acquittal.
+    (3) \[Repealed\]
     
     (4) If the court is satisfied of the matter specified in [section 9][12], the court must proceed to determine the matters specified in [section 14][17].
+    
+    Section 13(2): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 13(3): repealed, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 14 Determining if defendant unfit to stand trial
     
@@ -371,15 +371,17 @@ Substantive provisions
     
     (3) The standard of proof required for a finding under subsection (2) is the balance of probabilities.
     
-    (4) If the court records a finding under subsection (2) that the defendant is fit to stand trial, the court must commence or continue the hearing or trial, or commit the defendant for trial, as the case may require.
+    (4) If the court records a finding under subsection (2) that the defendant is fit to stand trial, the court must continue the proceedings.
     
-    Compare: 1985 No 120 [s 111(1), (2)][81]
+    Compare: 1985 No 120 [s 111(1), (2)][83]
+    
+    Section 14(4): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 15 Jurisdiction may be exercised in absence of defendant
     
 *   The jurisdiction under any of [sections 10 to 14][13] may be exercised in the absence of the defendant if the court is satisfied that the defendant is too mentally impaired to come to court.
     
-    Compare: 1985 No 120 [s 111(3)][81]
+    Compare: 1985 No 120 [s 111(3)][83]
 
 ##### 16 Appeal by defendant against finding relating to fitness to stand trial
     
@@ -393,17 +395,19 @@ Substantive provisions
         
     *   (a) the finding appealed against is to be regarded as a conviction; and
     
-    *   (b) the provisions of the [Crimes Act 1961][82] or the [Summary Proceedings Act 1957][83] relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
+    *   (b) the provisions of [Part 6][84] of the Criminal Procedure Act 2011 relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
     
-    Compare: 1985 No 120 [s 112(1)][84]
+    Compare: 1985 No 120 [s 112(1)][85]
+    
+    Section 16(2)(b): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 17 Matters for appellate court on appeal under section 16
     
-*   (1) If, on an appeal under [section 16][19], the court is satisfied that the evidence against the defendant is not sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged, the court must quash the finding appealed against and direct that the appellant be discharged.
+*   (1) If, on an appeal under [section 16][19], the court is satisfied that the evidence against the defendant is not sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged, the court must quash the finding appealed against and dismiss the charge against the appellant.
     
-    (2) A discharge under subsection (1) does not amount to an acquittal.
+    (2) \[Repealed\]
     
-    (3) In the case of an appeal against a finding relating to the appellant's fitness to stand trial, the court must (except where the appellant has been discharged under subsection (1)) consider the evidence of 2 health assessors, and confirm or quash the finding relating to the appellant's mental impairment.
+    (3) In the case of an appeal against a finding relating to the appellant's fitness to stand trial, the court must (except where the charge against the appellant has been dismissed under subsection (1)) consider the evidence of 2 health assessors, and confirm or quash the finding relating to the appellant's mental impairment.
     
     (4) If the court is satisfied that the appellant is mentally impaired, the court must---
         
@@ -413,7 +417,13 @@ Substantive provisions
     
     (5) If the result of the appeal is that the appellant is fit to stand trial, the court must remit the case to the High Court or the District Court, as the case may require.
     
-    Compare: 1985 No 120 [s 112(2)--(4)][84]
+    Compare: 1985 No 120 [s 112(2)--(4)][85]
+    
+    Section 17(1): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 17(2): repealed, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 17(3): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 18 Release on bail or detention of appellant pending appeal
     
@@ -423,7 +433,7 @@ Substantive provisions
     
     (3) A Judge of the High Court, or the District Court Judge who presided over the court whose decision is appealed against, may make any other order that may be thought fit for the custody of the appellant if the appellant is not released on bail while his or her appeal is pending.
     
-    Compare: 1985 No 120 [s 112(5)--(7)][84]
+    Compare: 1985 No 120 [s 112(5)--(7)][85]
 
 ##### 19 Appeals by prosecution
     
@@ -435,27 +445,33 @@ Substantive provisions
     
     *   (c) that the defendant is unfit to stand trial.
     
-    (2) The provisions of the [Crimes Act 1961][82] and the [Summary Proceedings Act 1957][83] relating to appeals, so far as they are applicable and with any necessary modifications, apply to an appeal under subsection (1).
+    (2) The provisions of [Part 6][84] of the Criminal Procedure Act 2011 relating to appeals, so far as they are applicable and with any necessary modifications, apply to an appeal under subsection (1).
+    
+    Section 19(2): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ### Subpart 2---Acquittals on account of insanity
 
 ##### 20 Finding of insanity
     
-*   (1) If, at a hearing or trial, the defendant gives evidence as to his or her insanity and the jury or (if there is no jury) the Judge finds the defendant not guilty on account of his or her insanity, the Judge must record that finding.
+*   (1) If, at a trial, the defendant gives evidence as to his or her insanity and the jury or (if there is no jury) the Judge finds the defendant not guilty on account of his or her insanity, the Judge must record that finding.
     
-    (2) Before or at a hearing or trial, the Judge must record a finding that the defendant is not guilty on account of his or her insanity if---
+    (2) Before or at a trial, the Judge must record a finding that the defendant is not guilty on account of his or her insanity if---
         
     *   (a) the defendant indicates that he or she intends to raise the defence of insanity; and
     
     *   (b) the prosecution agrees that the only reasonable verdict is not guilty on account of insanity; and
     
-    *   (c) the Judge is satisfied, on the basis of expert evidence, that the defendant was insane within the meaning of [section 23][85] of the Crimes Act 1961 at the time of the commission of the offence.
+    *   (c) the Judge is satisfied, on the basis of expert evidence, that the defendant was insane within the meaning of [section 23][86] of the Crimes Act 1961 at the time of the commission of the offence.
     
     (3) If, at a trial before a jury, the defendant gives evidence as to his or her insanity and the jury finds the defendant not guilty, the Judge must ask the jury whether or not it has acquitted the defendant on account of his or her insanity.
     
-    (4) In a case where it appears from the evidence that the defendant may have been insane at the time of the commission of the offence, the Judge may ask the jury to find whether the defendant was insane within the meaning of [section 23][85] of the Crimes Act 1961, even though the defendant has not given evidence as to his or her insanity or put the question of his or her sanity in issue.
+    (4) In a case where it appears from the evidence that the defendant may have been insane at the time of the commission of the offence, the Judge may ask the jury to find whether the defendant was insane within the meaning of [section 23][86] of the Crimes Act 1961, even though the defendant has not given evidence as to his or her insanity or put the question of his or her sanity in issue.
     
-    Compare: 1985 No 120 [s 113][86]
+    Compare: 1985 No 120 [s 113][87]
+    
+    Section 20(1): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 20(2): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 21 Appeal against acquittal on account of insanity
     
@@ -463,15 +479,15 @@ Substantive provisions
         
     *   (a) the verdict or decision is to be regarded as a conviction; and
     
-    *   (b) the provisions of the [Crimes Act 1961][82] or the [Summary Proceedings Act 1957][83] relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
+    *   (b) the provisions of [Part 6][84] of the Criminal Procedure Act 2011 relating to appeals against conviction, so far as they are applicable and with any necessary modifications, apply to the appeal.
     
     (2) On such an appeal, the court may---
         
-    *   (a) allow the appeal, and direct that a verdict of acquittal or a decision to dismiss the information be substituted for the verdict or decision given at the trial or hearing:
+    *   (a) allow the appeal, and direct that a verdict of acquittal or a decision to dismiss the charge be substituted for the verdict or decision given at the trial:
     
     *   (b) dismiss the appeal:
     
-    *   (c) exercise a power, whether to direct a new trial or a rehearing or otherwise, that it could have exercised if the appeal were an appeal against conviction.
+    *   (c) exercise a power, whether to direct a new trial or otherwise, that it could have exercised if the appeal were an appeal against conviction.
     
     (3) If the court thinks that (except for the appellant's insanity) the proper verdict or decision would have been that the appellant was guilty of an offence other than the offence charged, the court---
         
@@ -479,7 +495,7 @@ Substantive provisions
     
     *   (b) may direct that the other offence be substituted for the offence charged.
     
-    (4) If, on such an appeal, the appellate court is satisfied that the finding of insanity ought not to stand, and is satisfied that, in the absence of such a finding, the proper verdict or decision would have been that the appellant was guilty of an offence (whether of the offence charged or any other offence of which the appellant could have been found guilty at the trial or hearing), the appellate court---
+    (4) If, on such an appeal, the appellate court is satisfied that the finding of insanity ought not to stand, and is satisfied that, in the absence of such a finding, the proper verdict or decision would have been that the appellant was guilty of an offence (whether of the offence charged or any other offence of which the appellant could have been found guilty at the trial), the appellate court---
         
     *   (a) must substitute for the verdict or decision given a verdict of guilty of the offence or a conviction for the offence; and
     
@@ -487,7 +503,15 @@ Substantive provisions
     
     (5) Unless the appellate court otherwise directs, the term of any sentence of imprisonment passed by it under subsection (4) begins to run as if passed on the date on which the verdict or decision appealed against was given.
     
-    Compare: 1985 No 120 [s 114(1)--(5)][87]
+    Compare: 1985 No 120 [s 114(1)--(5)][88]
+    
+    Section 21(1)(b): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 21(2)(a): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 21(2)(c): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
+    
+    Section 21(4): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 22 Release on bail or detention of appellant pending appeal
     
@@ -495,9 +519,11 @@ Substantive provisions
     
     (2) If the appellant is not released on bail, the appellant must be detained in accordance with the order of detention while his or her appeal is pending.
     
-    (3) The court hearing the appeal, or the Judge who presided at the trial or, as the case may be, the District Court Judge who presided over the court whose decision is appealed against, may make any other order that may be thought fit for the custody of the appellant if the appellant is not released on bail while his or her appeal is pending.
+    (3) The court hearing the appeal, or the Judge who presided at the trial, may make any other order that may be thought fit for the custody of the appellant if the appellant is not released on bail while his or her appeal is pending.
     
-    Compare: 1985 No 120 [s 114(6)--(8)][87]
+    Compare: 1985 No 120 [s 114(6)--(8)][88]
+    
+    Section 22(3): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ### Subpart 3---Detention, treatment, and care of persons found unfit to stand trial or acquitted on account of insanity
 
@@ -513,13 +539,13 @@ Substantive provisions
     
     *   (b) remand the person to a hospital or a secure facility.
     
-    (3) Despite any provision in the [Bail Act 2000][88], in deciding whether or not to grant bail for the purposes of subsection (2)(a), the need to protect the public is the paramount consideration.
+    (3) Despite any provision in the [Bail Act 2000][89], in deciding whether or not to grant bail for the purposes of subsection (2)(a), the need to protect the public is the paramount consideration.
     
     (4) The inquiries under subsection (1) must be completed as quickly as practicable and, in any event, within 30 days after the date of the order under which the inquiries are made.
     
-    (5) A person who has an intellectual disability must, during the period in which the inquiries are made under subsection (1), be assessed under [Part 3][89] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
+    (5) A person who has an intellectual disability must, during the period in which the inquiries are made under subsection (1), be assessed under [Part 3][90] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
     
-    Compare: 1985 No 120 [s 115(4)][90]
+    Compare: 1985 No 120 [s 115(4)][91]
 
 ##### 24 Detention of defendant found unfit to stand trial or insane as special patient or special care recipient
     
@@ -539,7 +565,7 @@ Substantive provisions
     
     (3) Before the court makes an order specified in subsection (2)(a), the court must have received evidence, under subsection (1)(b), about the defendant from at least 1 health assessor who is a psychiatrist.
     
-    Compare: 1985 No 120 [s 115(1)][90]
+    Compare: 1985 No 120 [s 115(1)][91]
 
 ##### 25 Alternative decisions in respect of defendant unfit to stand trial or insane
     
@@ -559,13 +585,13 @@ Substantive provisions
         
     *   (a) has an intellectual disability; and
     
-    *   (b) has been assessed under [Part 3][89] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
+    *   (b) has been assessed under [Part 3][90] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
     
-    *   (c) is to receive care under a care programme completed under [section 26][91] of that Act.
+    *   (c) is to receive care under a care programme completed under [section 26][92] of that Act.
     
     (4) In the exercise of its powers under subsection (1), the court may take into account any undertaking given by, or on behalf of, the defendant that the defendant will undergo or continue to undergo a particular programme or course of treatment.
     
-    Compare: 1985 No 120 [s 115(2), (3)][90]
+    Compare: 1985 No 120 [s 115(2), (3)][91]
 
 ##### 26 Effect of alternative orders
     
@@ -575,9 +601,9 @@ Substantive provisions
         
     *   (a) direct whether the defendant is to be detained in a secure facility; and
     
-    *   (b) specify the term of the order in accordance with [section 46][92] of that Act.
+    *   (b) specify the term of the order in accordance with [section 46][93] of that Act.
     
-    Compare: 1985 No 120 [s 115(4A)][90]
+    Compare: 1985 No 120 [s 115(4A)][91]
 
 ##### 27 Court may stay proceedings when alternative decision made in respect of defendant unfit to stand trial
     
@@ -585,7 +611,7 @@ Substantive provisions
     
     (2) While a stay of proceedings ordered under subsection (1) is in force, the defendant in the proceedings may not be charged again with an offence with which he or she was charged in those proceedings.
     
-    Compare: 1985 No 120 [s 115(5)][90]
+    Compare: 1985 No 120 [s 115(5)][91]
 
 ##### 28 Effect of orders under section 24 on prison sentences
     
@@ -595,15 +621,15 @@ Substantive provisions
     
     (3) If the offender is still liable to be detained under a sentence of imprisonment when the offender is discharged from the hospital or facility in which the offender is detained in accordance with an order under [section 24][30] or as a patient or care recipient, the chief executive of the Department of Corrections must arrange for the offender to be taken to a prison or other appropriate place to serve the remainder of the sentence.
     
-    Compare: 1985 No 120 [s 115(6)][90]
+    Compare: 1985 No 120 [s 115(6)][91]
     
-    Section 28(3): amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 28(3): amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
 
 ##### 29 Appeals against orders under section 24 or section 25 or section 27
     
 *   (1) If the court makes an order or a decision under [section 24][30] or [section 25][31] or [section 27][33], the defendant and the prosecution have the same right of appeal against the order or decision as the defendant or, as the case requires, the prosecution would have if the order or decision were a sentence.
     
-    (2) The provisions of the [Crimes Act 1961][82] or the [Summary Proceedings Act 1957][83] relating to appeals, so far as they are applicable and with any necessary modifications, apply to the appeal.
+    (2) The provisions of [Part 6][84] of the Criminal Procedure Act 2011 relating to appeals, so far as they are applicable and with any necessary modifications, apply to the appeal.
     
     (3) On such an appeal, the court may---
         
@@ -613,7 +639,7 @@ Substantive provisions
     
     *   (c) cancel the order or decision appealed against and substitute another order or decision under [section 24][30] or [section 25][31] or [section 27][33].
     
-    
+    Section 29(2): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 #### Change of status, and discharge, of persons detained as special patients or special care recipients
 
@@ -633,11 +659,11 @@ Substantive provisions
     
     *   (b) a direction is given, under [section 31][38], that the defendant be held as a patient or as a care recipient.
     
-    (4) Subsection (3) is subject to [sections 84][94] and [128][95] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or to [section 105][96] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, as the case may require.
+    (4) Subsection (3) is subject to [sections 84][95] and [128][96] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or to [section 105][97] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, as the case may require.
     
     (5) An order under [section 24][30] is to be treated as cancelled if every charge brought against the defendant in the proceedings in which the order was made is withdrawn or dismissed.
     
-    Compare: 1985 No 120 [s 116(1)--(3)][97]
+    Compare: 1985 No 120 [s 116(1)--(3)][98]
 
 ##### 31 Change of status from special patient to patient or special care recipient to care recipient where person unfit to stand trial
     
@@ -671,7 +697,7 @@ Substantive provisions
     
     (6) The powers and duties conferred and imposed on the Attorney-General by this section are not capable of being exercised or performed by the Solicitor-General.
     
-    Compare: 1985 No 120 [s 116(4)--(6A), (8)][97]
+    Compare: 1985 No 120 [s 116(4)--(6A), (8)][98]
 
 ##### 32 Proceedings stayed following certain directions under section 31
     
@@ -681,7 +707,7 @@ Substantive provisions
     
     *   (b) the defendant may not be charged again with an offence with which he or she was charged in those proceedings.
     
-    Compare: 1985 No 120 [s 116(7)][97]
+    Compare: 1985 No 120 [s 116(7)][98]
 
 ##### 33 Duration of order for detention as special patient or special care recipient if person acquitted on account of insanity
     
@@ -717,7 +743,7 @@ Substantive provisions
     
     *   (b) that the defendant be held as a care recipient is to be regarded as a compulsory care order for the purposes of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][68], and the provisions of that Act apply accordingly.
     
-    Compare: 1985 No 120 [s 117][98]
+    Compare: 1985 No 120 [s 117][99]
 
 ### Subpart 4---Detention, treatment, and care of defendants who are convicted
 
@@ -749,13 +775,13 @@ Substantive provisions
         
     *   (a) has an intellectual disability; and
     
-    *   (b) has been assessed under [Part 3][89] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
+    *   (b) has been assessed under [Part 3][90] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
     
-    *   (c) is to receive care under a care programme completed under [section 26][91] of that Act.
+    *   (c) is to receive care under a care programme completed under [section 26][92] of that Act.
     
     (5) No order may be made under this section in respect of an offender who is, at the time of the conviction, subject to a sentence of imprisonment.
     
-    Compare: 1985 No 120 [s 118(1), (2)][99]
+    Compare: 1985 No 120 [s 118(1), (2)][100]
 
 ##### 35 Inquiries about persons for whom orders under section 34 proposed
     
@@ -769,13 +795,13 @@ Substantive provisions
     
     (3) The inquiries under subsection (1) must be completed as quickly as practicable and, in any event, within 30 days after the date of the order under which the inquiries are made.
     
-    (4) A person who has an intellectual disability must, during the period in which the inquiries are made under subsection (1), be assessed under [Part 3][89] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
+    (4) A person who has an intellectual disability must, during the period in which the inquiries are made under subsection (1), be assessed under [Part 3][90] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\.
 
 ##### 36 Offenders detained as patients
     
 *   An order under [section 34(1)(b)(i)][42] is to be regarded as a compulsory treatment order for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][71], and, in making the order, the court must specify whether, for the purposes of that Act, the order takes effect as a community treatment order or as an inpatient order.
     
-    Compare: 1985 No 120 [s 118(3)][99]
+    Compare: 1985 No 120 [s 118(3)][100]
 
 ##### 37 Offenders detained as care recipients
     
@@ -783,7 +809,7 @@ Substantive provisions
         
     *   (a) direct whether the offender is to be detained in a secure facility within the meaning of that Act; and
     
-    *   (b) specify the term of the order in accordance with [section 46][92] of that Act.
+    *   (b) specify the term of the order in accordance with [section 46][93] of that Act.
     
     
 
@@ -795,7 +821,7 @@ Substantive provisions
         
     *   (a) whether the person is unfit to stand trial:
     
-    *   (b) whether the person is insane within the meaning of [section 23][85] of the Crimes Act 1961:
+    *   (b) whether the person is insane within the meaning of [section 23][86] of the Crimes Act 1961:
     
     *   (c) the type and length of sentence that might be imposed on the person:
     
@@ -827,15 +853,17 @@ Substantive provisions
         
     *   (a) has effect despite other enactments; but
     
-    *   (b) is subject, in the case of a defendant who is under 20 years, to [section 142][100] of the Criminal Justice Act 1985 and to [section 15][101] of the Bail Act 2000\.
+    *   (b) is subject, in the case of a defendant who is under 20 years, to [sections 171 to 175][101] of the Criminal Procedure Act 2011 and to [section 15][102] of the Bail Act 2000\.
     
-    Compare: 1985 No 120 [s 121(1)--(4)][102]
+    Compare: 1985 No 120 [s 121(1)--(4)][103]
     
-    Section 38(2)(b): amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 38(2)(b): amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
     
-    Section 38(2)(c)(i): amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 38(2)(c)(i): amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
     
-    Section 38(4): amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 38(4): amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
+    
+    Section 38(5)(b): amended, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 39 Directions as to assessments
     
@@ -859,7 +887,7 @@ Substantive provisions
     
     (2) It is not necessary for a person subject to detention to be present when the period of detention is extended under subsection (1), as long as the person is represented by counsel.
     
-    Compare: 1985 No 120 [s 121(5), (6)][102]
+    Compare: 1985 No 120 [s 121(5), (6)][103]
 
 ##### 41 Attendance at hospitals, etc, by persons detained in prisons
     
@@ -867,15 +895,15 @@ Substantive provisions
     
     (2) A person who is taken to a hospital, facility, or place under subsection (1) may not stay in the hospital, facility, or place overnight.
     
-    (3) A person who is being examined in a hospital, facility, or place continues to be in legal custody under the [Corrections Act 2004][103], even though the person is absent from the prison in which he or she is detained.
+    (3) A person who is being examined in a hospital, facility, or place continues to be in legal custody under the [Corrections Act 2004][104], even though the person is absent from the prison in which he or she is detained.
     
-    Compare: 1985 No 120 [s 121(7)][102]
+    Compare: 1985 No 120 [s 121(7)][103]
     
-    Section 41 heading: amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 41 heading: amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
     
-    Section 41(1): amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 41(1): amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
     
-    Section 41(3): amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 41(3): amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
 
 ##### 42 Transfer of persons from hospitals, etc, to court, penal, or Police custody
     
@@ -885,7 +913,7 @@ Substantive provisions
     
     (3) The purposes for transferring a person to court or penal or Police custody, referred to in subsection (1) or subsection (2), are---
         
-    *   (a) the hearing or trial of a charge against the person:
+    *   (a) any hearing or the trial in respect of a charge against the person:
     
     *   (b) the sentencing of the person:
     
@@ -893,7 +921,9 @@ Substantive provisions
     
     (4) The transfer of a person under subsection (1) or subsection (2) to court or penal or Police custody is sufficient authority for the detention of the person in that custody until the expiry of the period for which the person has been ordered to be detained in a hospital or secure facility under [section 38(2)(c)][47].
     
-    Compare: 1985 No 120 [s 121(8), (10)][102]
+    Compare: 1985 No 120 [s 121(8), (10)][103]
+    
+    Section 42(3)(a): replaced, on 1 July 2013, by [section 4][75] of the Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 (2011 No 87).
 
 ##### 43 Medical treatment of persons detained in hospitals, etc
     
@@ -909,7 +939,7 @@ Substantive provisions
     
     (3) This section does not limit an enactment or a rule of law that authorises the administration of a medical treatment or procedure.
     
-    Compare: 1985 No 120 [s 121(9)][102]
+    Compare: 1985 No 120 [s 121(9)][103]
 
 ##### 44 Detention pending hearing or trial
     
@@ -941,7 +971,7 @@ Substantive provisions
     
     *   (d) the court considers that detention of the defendant in a hospital or secure facility pending the hearing or trial is no longer necessary or appropriate.
     
-    Compare: 1985 No 120 [s 121(11)--(13)][102]
+    Compare: 1985 No 120 [s 121(11)--(13)][103]
 
 ##### 45 Disclosure of assessment reports
     
@@ -961,7 +991,7 @@ Substantive provisions
     
     (6) A failure to comply with this section does not affect the validity of any proceedings, order, or sentence.
     
-    Compare: 1985 No 120 [s 122][104]
+    Compare: 1985 No 120 [s 122][105]
 
 ##### 46 Access to assessment reports
     
@@ -979,11 +1009,11 @@ Substantive provisions
     
     *   (f) a health assessor who, in accordance with a direction under [section 39(1)][48], is to provide a second opinion on the subject.
     
-    (2) If, because of an order under [section 45(3)][54], a subject may not be shown a part of a report, the subject may not have access to that part of the report under the [Official Information Act 1982][105] or the [Privacy Act 1993][106].
+    (2) If, because of an order under [section 45(3)][54], a subject may not be shown a part of a report, the subject may not have access to that part of the report under the [Official Information Act 1982][106] or the [Privacy Act 1993][107].
     
-    Compare: 1985 No 120 [s 123][107]
+    Compare: 1985 No 120 [s 123][108]
     
-    Section 46(1)(b): amended, on 1 June 2005, by [section 206][93] of the Corrections Act 2004 (2004 No 50).
+    Section 46(1)(b): amended, on 1 June 2005, by [section 206][94] of the Corrections Act 2004 (2004 No 50).
 
 ## Part 3  
 Transitional and consequential provisions
@@ -998,7 +1028,7 @@ Transitional and consequential provisions
         
     *   (a) [section 34(1)(a)][42] does not apply to an offence committed before the commencement of this Act:
     
-    *   (b) [section 39(2)][48] does not apply to a psychiatric examination ordered under [section 121][102] of the Criminal Justice Act 1985\.
+    *   (b) [section 39(2)][48] does not apply to a psychiatric examination ordered under [section 121][103] of the Criminal Justice Act 1985\.
     
     (3) Nothing in this Act affects the validity of---
         
@@ -1008,17 +1038,17 @@ Transitional and consequential provisions
     
     (4) Every finding under [Part 7][67] of the Criminal Justice Act 1985 that a defendant is under disability is to be regarded as a finding under this Act that the defendant is unfit to stand trial.
     
-    (5) An order made or deemed to have been made under [section 115(1)][90] of the Criminal Justice Act 1985 is to be regarded as made under [section 24(2)(a)][30] of this Act.
+    (5) An order made or deemed to have been made under [section 115(1)][91] of the Criminal Justice Act 1985 is to be regarded as made under [section 24(2)(a)][30] of this Act.
     
-    (6) An order made or deemed to have been made under [section 115(2)(a)][90] of the Criminal Justice Act 1985 is to be regarded as made under [section 25(1)(a)][31].
+    (6) An order made or deemed to have been made under [section 115(2)(a)][91] of the Criminal Justice Act 1985 is to be regarded as made under [section 25(1)(a)][31].
     
     (7) For the purposes of the continuation or completion of any proceedings commenced before the commencement of this Act,---
         
-    *   (a) an order made under [section 121(2)(b)(i)][102] of the Criminal Justice Act 1985 is to be regarded as made under [section 38(2)(b)][47] of this Act:
+    *   (a) an order made under [section 121(2)(b)(i)][103] of the Criminal Justice Act 1985 is to be regarded as made under [section 38(2)(b)][47] of this Act:
     
-    *   (b) an order made under [section 121(2)(b)(ii)][102] of the Criminal Justice Act 1985 is to be regarded as made under [section 38(2)(c)][47] of this Act:
+    *   (b) an order made under [section 121(2)(b)(ii)][103] of the Criminal Justice Act 1985 is to be regarded as made under [section 38(2)(c)][47] of this Act:
     
-    *   (c) an order made under [section 121(11)][102] of the Criminal Justice Act 1985 is to be regarded as made under [section 44(1)][53] of this Act.
+    *   (c) an order made under [section 121(11)][103] of the Criminal Justice Act 1985 is to be regarded as made under [section 44(1)][53] of this Act.
     
     
 
@@ -1030,15 +1060,15 @@ Transitional and consequential provisions
 
 ##### 49 Amendment to Courts Martial Appeals Act 1953
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][108]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][109]._
     
-    (2) Despite subsection (1), any appeal against a finding under [section 188(1A)][109] of the Armed Forces Discipline Act 1971 (as in force immediately before the commencement of this Act) must proceed as if subsection (1) had not been enacted.
+    (2) Despite subsection (1), any appeal against a finding under [section 188(1A)][110] of the Armed Forces Discipline Act 1971 (as in force immediately before the commencement of this Act) must proceed as if subsection (1) had not been enacted.
 
 ##### 50 Amendments to Criminal Investigations (Bodily Samples) Act 1995
     
-*   (1) In this section, the [Criminal Investigations (Bodily Samples) Act 1995][110] is called ""the Act"".
+*   (1) In this section, the [Criminal Investigations (Bodily Samples) Act 1995][111] is called ""the Act"".
     
-    (2)--(4) _Amendment(s) incorporated in the [Act(s)][110]._
+    (2)--(4) _Amendment(s) incorporated in the [Act(s)][111]._
 
 ##### 51 Consequential amendments to other enactments
     
@@ -1053,39 +1083,39 @@ Consequential amendments to other enactments
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][75]._
+_Amendment(s) incorporated in the [Act(s)][76]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][111]._
+_Amendment(s) incorporated in the [Act(s)][112]._
 
 ##### Coroners Act 1988 (1988 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][112]._
+_Amendment(s) incorporated in the [Act(s)][113]._
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][82]._
+_Amendment(s) incorporated in the [Act(s)][114]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][113]._
+_Amendment(s) incorporated in the [Act(s)][115]._
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][114]._
+_Amendment(s) incorporated in the [Act(s)][116]._
 
 ##### Extradition Act 1999 (1999 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][115]._
+_Amendment(s) incorporated in the [Act(s)][117]._
 
 ##### International Crimes and International Criminal Court Act 2000 (2000 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][116]._
+_Amendment(s) incorporated in the [Act(s)][118]._
 
 ##### Juries Act 1981 (1981 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][117]._
+_Amendment(s) incorporated in the [Act(s)][119]._
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
@@ -1093,7 +1123,7 @@ _Amendment(s) incorporated in the [Act(s)][71]._
 
 ##### Parole Act 2002 (2002 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][118]._
+_Amendment(s) incorporated in the [Act(s)][120]._
 
 ##### Penal Institutions Act 1954 (1954 No 51)
 
@@ -1101,15 +1131,37 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Sentencing Act 2002 (2002 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][119]._
+_Amendment(s) incorporated in the [Act(s)][121]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][83]._
+_Amendment(s) incorporated in the [Act(s)][122]._
 
 ##### Victims' Rights Act 2002 (2002 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][120]._
+_Amendment(s) incorporated in the [Act(s)][123]._
+
+---
+
+# Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011Public Act2011 No 87
+
+Date of assent17 October 2011
+
+Commencementsee section 2
+
+##### 1 Title
+    
+*   This Act is the [Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011][124].
+
+##### 2 Commencement
+    
+*   This Act comes into force on the day that is 2 years after the date on which this Act receives the Royal assent unless it is brought into force on an earlier date appointed by the Governor-General by Order in Council.
+    
+    Section 2: this Act brought into force, on 1 July 2013, by the [Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011 Commencement Order 2013][125] (SR 2013/163).
+
+##### 5 Application of amendments made by section 4
+    
+*   The amendments made by section 4 apply in relation to a proceeding for an offence that was commenced before section 4 came into force in accordance with the provisions of sections 397 and 399 to 401 of the Criminal Procedure Act 2011\.
 
 ---
 
@@ -1127,13 +1179,13 @@ _Amendment(s) incorporated in the [Act(s)][120]._
 
 ###### 1 General
     
-*   This is a reprint of the Criminal Procedure (Mentally Impaired Persons) Act 2003\. The reprint incorporates all the amendments to the Act as at 29 June 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Criminal Procedure (Mentally Impaired Persons) Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][121] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][126] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -1143,7 +1195,7 @@ _Amendment(s) incorporated in the [Act(s)][120]._
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][122] and [17E][123] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][127] and [17E][128] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1174,9 +1226,11 @@ _Amendment(s) incorporated in the [Act(s)][120]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][80]
+*   [Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011][124] (2011 No 87)
     
-    Corrections Act 2004 (2004 No 50): [section 206][93]
+    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][129]
+    
+    Corrections Act 2004 (2004 No 50): [section 206][94]
     
     [Criminal Procedure (Mentally Impaired Persons) Act Commencement Order 2004][66] (SR 2004/147)
 
@@ -1257,52 +1311,58 @@ _Amendment(s) incorporated in the [Act(s)][120]._
 [72]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM204329
 [73]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM76621
 [74]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78514
-[75]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM401062
-[76]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM77123
-[77]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78516
-[78]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78518
-[79]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM313128
-[80]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM1380050
-[81]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78520
-[82]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM327381
-[83]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM310742
-[84]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78522
-[85]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM328219
-[86]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78525
-[87]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78527
-[88]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM68379
-[89]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225190
-[90]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78531
-[91]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225405
-[92]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225457
-[93]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM297136
-[94]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM263809
-[95]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM264234
-[96]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225944
-[97]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78539
-[98]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78545
-[99]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78549
-[100]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78874
-[101]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM68921
-[102]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78558
-[103]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM294848
-[104]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78570
-[105]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM64784
-[106]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM296638
-[107]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78572
-[108]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM283255
-[109]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM404013
-[110]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM368903
-[111]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM147087
-[112]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM134196
-[113]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM76615
-[114]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM307518
-[115]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM25627
-[116]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM63090
-[117]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM44098
-[118]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM137631
-[119]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM135341
-[120]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM157812
-[121]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM195439
-[122]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM195468
-[123]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM195470
+[75]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM4058207
+[76]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM401062
+[77]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM77123
+[78]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78516
+[79]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78518
+[80]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM2568006
+[81]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM2568016
+[82]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM3360237
+[83]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78520
+[84]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM3360366
+[85]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78522
+[86]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM328219
+[87]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78525
+[88]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78527
+[89]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM68379
+[90]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225190
+[91]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78531
+[92]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225405
+[93]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225457
+[94]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM297136
+[95]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM263809
+[96]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM264234
+[97]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM225944
+[98]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78539
+[99]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78545
+[100]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78549
+[101]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM3360298
+[102]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM68921
+[103]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78558
+[104]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM294848
+[105]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78570
+[106]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM64784
+[107]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM296638
+[108]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM78572
+[109]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM283255
+[110]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM404013
+[111]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM368903
+[112]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM147087
+[113]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM134196
+[114]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM327381
+[115]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM76615
+[116]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM307518
+[117]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM25627
+[118]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM63090
+[119]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM44098
+[120]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM137631
+[121]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM135341
+[122]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM310742
+[123]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM157812
+[124]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM4058203
+[125]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM5193520
+[126]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM195439
+[127]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM195468
+[128]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM195470
+[129]: http://www.legislation.govt.nz/act/public/2003/0115/latest/link.aspx?id=DLM1380050
