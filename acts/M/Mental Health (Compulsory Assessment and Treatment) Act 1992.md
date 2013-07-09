@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,393 +25,393 @@ This Act is administered by the Ministry of Health.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[2A][4] [Meaning of proposed patient][4]
+[2A][4][][4][Meaning of proposed patient][4]
 
-[3][5] [Act to bind Crown][5]
+[3][5][][5][Act to bind Crown][5]
 
-[4][6] [General rules relating to liability to assessment or treatment][6]
+[4][6][][6][General rules relating to liability to assessment or treatment][6]
 
-[5][7] [Powers to be exercised with proper respect for cultural identity and personal beliefs][7]
+[5][7][][7][Powers to be exercised with proper respect for cultural identity and personal beliefs][7]
 
-[6][8] [Interpreters to be provided][8]
+[6][8][][8][Interpreters to be provided][8]
 
-[7][9] [Obligation to assign patient to responsible clinician][9]
+[7][9][][9][Obligation to assign patient to responsible clinician][9]
 
-[7A][10] [Medical practitioner or responsible clinician to consult][10]
+[7A][10][][10][Medical practitioner or responsible clinician to consult][10]
 
 [Part 1][11]  
 [Compulsory assessment and treatment][11]
 
-[8][12] [Any person may fill out application form][12]
+[8][12][][12][Any person may fill out application form][12]
 
-[8A][13] [Application for assessment][13]
+[8A][13][][13][Application for assessment][13]
 
-[8B][14] [Medical practitioner's certificate to accompany application for assessment][14]
+[8B][14][][14][Medical practitioner's certificate to accompany application for assessment][14]
 
-[9][15] [Assessment examination to be arranged and conducted][15]
+[9][15][][15][Assessment examination to be arranged and conducted][15]
 
-[10][16] [Certificate of preliminary assessment][16]
+[10][16][][16][Certificate of preliminary assessment][16]
 
-[11][17] [Further assessment and treatment for 5 days][17]
+[11][17][][17][Further assessment and treatment for 5 days][17]
 
-[12][18] [Certificate of further assessment][18]
+[12][18][][18][Certificate of further assessment][18]
 
-[13][19] [Further assessment and treatment for 14 days][19]
+[13][19][][19][Further assessment and treatment for 14 days][19]
 
-[14][20] [Certificate of final assessment][20]
+[14][20][][20][Certificate of final assessment][20]
 
-[14A][21] [Documents relating to application for compulsory treatment order][21]
+[14A][21][][21][Documents relating to application for compulsory treatment order][21]
 
-[15][22] [Status of patient pending determination of application][22]
+[15][22][][22][Status of patient pending determination of application][22]
 
-[16][23] [Review of patient's condition by Judge][23]
+[16][23][][23][Review of patient's condition by Judge][23]
 
 [Part 2][24]  
 [Compulsory treatment orders][24]
 
-[17][25] [Applications to be heard and determined wherever practicable by Family Court Judge][25]
+[17][25][][25][Applications to be heard and determined wherever practicable by Family Court Judge][25]
 
-[18][26] [Judge to examine patient where compulsory treatment order sought][26]
+[18][26][][26][Judge to examine patient where compulsory treatment order sought][26]
 
-[19][27] [Attendance of patient and other persons][27]
+[19][27][][27][Attendance of patient and other persons][27]
 
-[20][28] [Right of patient and other persons to be heard and call evidence][28]
+[20][28][][28][Right of patient and other persons to be heard and call evidence][28]
 
-[21][29] [Court may call for report on patient][29]
+[21][29][][29][Court may call for report on patient][29]
 
-[22][30] [Evidence][30]
+[22][30][][30][Evidence][30]
 
-[23][31] [Power of court to call witnesses][31]
+[23][31][][31][Power of court to call witnesses][31]
 
-[24][32] [Proceedings not open to public][32]
+[24][32][][32][Proceedings not open to public][32]
 
-[25][33] [Publication of reports of proceedings][33]
+[25][33][][33][Publication of reports of proceedings][33]
 
-[26][34] [Court may dispense with hearing in certain circumstances][34]
+[26][34][][34][Court may dispense with hearing in certain circumstances][34]
 
-[27][35] [Court to consider patient's condition][35]
+[27][35][][35][Court to consider patient's condition][35]
 
-[28][36] [Compulsory treatment orders][36]
+[28][36][][36][Compulsory treatment orders][36]
 
-[29][37] [Community treatment orders][37]
+[29][37][][37][Community treatment orders][37]
 
-[30][38] [Inpatient orders][38]
+[30][38][][38][Inpatient orders][38]
 
-[31][39] [Leave for inpatients][39]
+[31][39][][39][Leave for inpatients][39]
 
-[32][40] [Absence without leave][40]
+[32][40][][40][Absence without leave][40]
 
-[33][41] [Compulsory treatment order to expire after 6 months][41]
+[33][41][][41][Compulsory treatment order to expire after 6 months][41]
 
-[34][42] [Court may extend order][42]
+[34][42][][42][Court may extend order][42]
 
-[35][43] [Release from compulsory status][43]
+[35][43][][43][Release from compulsory status][43]
 
-[36][44] [Compulsory treatment order to cease to have effect in certain cases][44]
+[36][44][][44][Compulsory treatment order to cease to have effect in certain cases][44]
 
 [Part 3][45]  
 [Advice and assistance][45]
 
-[37][46] [Advice and assistance of general nature][46]
+[37][46][][46][Advice and assistance of general nature][46]
 
-[38][47] [Assistance when person may need assessment][47]
+[38][47][][47][Assistance when person may need assessment][47]
 
-[39][48] [Assistance in respect of outpatients and inpatients on leave][48]
+[39][48][][48][Assistance in respect of outpatients and inpatients on leave][48]
 
-[40][49] [Assistance in taking or returning proposed patient or patient to place of assessment or treatment][49]
+[40][49][][49][Assistance in taking or returning proposed patient or patient to place of assessment or treatment][49]
 
-[41][50] [Police assistance][50]
+[41][50][][50][Police assistance][50]
 
 [Part 4][51]  
 [Special patients and restricted patients][51]
 
 [Notice of admission, discharge, and transfer of special patients and restricted patients][52]
 
-[42][53] [Notice of admission][53]
+[42][53][][53][Notice of admission][53]
 
-[43][54] [Notice of events concerning patient][54]
+[43][54][][54][Notice of events concerning patient][54]
 
 [Special patients][55]
 
-[44][56] [Treatment of special patients generally][56]
+[44][56][][56][Treatment of special patients generally][56]
 
-[45][57] [Application for assessment may be made in respect of persons detained in prisons][57]
+[45][57][][57][Application for assessment may be made in respect of persons detained in prisons][57]
 
-[46][58] [Detained persons in need of care and treatment][58]
+[46][58][][58][Detained persons in need of care and treatment][58]
 
-[47][59] [Removal of certain special patients to prisons][59]
+[47][59][][59][Removal of certain special patients to prisons][59]
 
-[47A][60] [Removal of certain intellectually disabled patients to facilities][60]
+[47A][60][][60][Removal of certain intellectually disabled patients to facilities][60]
 
-[48][61] [Relationship between detention in hospital and sentence][61]
+[48][61][][61][Relationship between detention in hospital and sentence][61]
 
-[49][62] [Transfer of special patients][62]
+[49][62][][62][Transfer of special patients][62]
 
-[50][63] [Leave of special patients][63]
+[50][63][][63][Leave of special patients][63]
 
-[51][64] [Power to direct temporary return to hospital of special patients][64]
+[51][64][][64][Power to direct temporary return to hospital of special patients][64]
 
-[52][65] [Director may grant short-term leave][65]
+[52][65][][65][Director may grant short-term leave][65]
 
-[53][66] [Escape and absence without leave][66]
+[53][66][][66][Escape and absence without leave][66]
 
 [Restricted patients][67]
 
-[54][68] [Patients presenting special difficulties may be drawn to Director's attention][68]
+[54][68][][68][Patients presenting special difficulties may be drawn to Director's attention][68]
 
-[55][69] [Court may make order declaring patient to be restricted patient][69]
+[55][69][][69][Court may make order declaring patient to be restricted patient][69]
 
-[56][70] [Effect of application and order in respect of leave][70]
+[56][70][][70][Effect of application and order in respect of leave][70]
 
 [Part 5][71]  
 [Compulsory treatment][71]
 
-[57][72] [No compulsory treatment except as provided in this Part or in section 110A][72]
+[57][72][][72][No compulsory treatment except as provided in this Part or in section 110A][72]
 
-[58][73] [Treatment while undergoing assessment][73]
+[58][73][][73][Treatment while undergoing assessment][73]
 
-[59][74] [Treatment while subject to compulsory treatment order][74]
+[59][74][][74][Treatment while subject to compulsory treatment order][74]
 
-[60][75] [Special provision relating to electro-convulsive treatment][75]
+[60][75][][75][Special provision relating to electro-convulsive treatment][75]
 
-[61][76] [Special provision relating to brain surgery][76]
+[61][76][][76][Special provision relating to brain surgery][76]
 
-[62][77] [Urgent treatment][77]
+[62][77][][77][Urgent treatment][77]
 
-[63][78] [Withdrawal of consent][78]
+[63][78][][78][Withdrawal of consent][78]
 
 [Part 6][79]  
 [Rights of patients][79]
 
-[63A][80] [Rights of proposed patients][80]
+[63A][80][][80][Rights of proposed patients][80]
 
-[64][81] [General rights to information][81]
+[64][81][][81][General rights to information][81]
 
-[65][82] [Respect for cultural identity, etc][82]
+[65][82][][82][Respect for cultural identity, etc][82]
 
-[66][83] [Right to treatment][83]
+[66][83][][83][Right to treatment][83]
 
-[67][84] [Right to be informed about treatment][84]
+[67][84][][84][Right to be informed about treatment][84]
 
-[68][85] [Further rights in case of visual or audio recording][85]
+[68][85][][85][Further rights in case of visual or audio recording][85]
 
-[69][86] [Right to independent psychiatric advice][86]
+[69][86][][86][Right to independent psychiatric advice][86]
 
-[70][87] [Right to legal advice][87]
+[70][87][][87][Right to legal advice][87]
 
-[71][88] [Right to company, and seclusion][88]
+[71][88][][88][Right to company, and seclusion][88]
 
-[72][89] [Right to receive visitors and make telephone calls][89]
+[72][89][][89][Right to receive visitors and make telephone calls][89]
 
-[73][90] [Right to receive letters and postal articles][90]
+[73][90][][90][Right to receive letters and postal articles][90]
 
-[74][91] [Right to send letters and postal articles][91]
+[74][91][][91][Right to send letters and postal articles][91]
 
-[75][92] [Complaint of breach of rights][92]
+[75][92][][92][Complaint of breach of rights][92]
 
 [Part 7][93]  
 [Reviews and judicial inquiries][93]
 
-[76][94] [Clinical reviews of persons subject to compulsory treatment orders][94]
+[76][94][][94][Clinical reviews of persons subject to compulsory treatment orders][94]
 
-[77][95] [Clinical reviews of certain special patients][95]
+[77][95][][95][Clinical reviews of certain special patients][95]
 
-[78][96] [Clinical reviews of restricted patients][96]
+[78][96][][96][Clinical reviews of restricted patients][96]
 
-[79][97] [Tribunal reviews of persons subject to compulsory treatment orders][97]
+[79][97][][97][Tribunal reviews of persons subject to compulsory treatment orders][97]
 
-[80][98] [Tribunal reviews of certain special patients][98]
+[80][98][][98][Tribunal reviews of certain special patients][98]
 
-[81][99] [Tribunal reviews of restricted patients][99]
+[81][99][][99][Tribunal reviews of restricted patients][99]
 
-[82][100] [Procedural provisions][100]
+[82][100][][100][Procedural provisions][100]
 
-[83][101] [Appeal against Review Tribunal's decision in certain cases][101]
+[83][101][][101][Appeal against Review Tribunal's decision in certain cases][101]
 
-[84][102] [Judicial inquiry][102]
+[84][102][][102][Judicial inquiry][102]
 
 [Part 8][103]  
 [Special provisions relating to children and young persons][103]
 
-[85][104] [Application][104]
+[85][104][][104][Application][104]
 
-[86][105] [Assessment examination][105]
+[86][105][][105][Assessment examination][105]
 
-[87][106] [Age of consent][106]
+[87][106][][106][Age of consent][106]
 
-[88][107] [Brain surgery][107]
+[88][107][][107][Brain surgery][107]
 
-[89][108] [Membership of Review Tribunal][108]
+[89][108][][108][Membership of Review Tribunal][108]
 
-[90][109] [Review of patient about to attain age of 17 years][109]
+[90][109][][109][Review of patient about to attain age of 17 years][109]
 
 [Part 9][110]  
 [Administration][110]
 
 [Officials][111]
 
-[91][112] [Director and Deputy Director of Mental Health][112]
+[91][112][][112][Director and Deputy Director of Mental Health][112]
 
-[92][113] [Directors of Area Mental Health Services][113]
+[92][113][][113][Directors of Area Mental Health Services][113]
 
-[92A][114] [Delegation by Directors of Area Mental Health Services][114]
+[92A][114][][114][Delegation by Directors of Area Mental Health Services][114]
 
-[92B][115] [Provisions applying to delegations under section 92A][115]
+[92B][115][][115][Provisions applying to delegations under section 92A][115]
 
-[93][116] [Duly authorised officers][116]
+[93][116][][116][Duly authorised officers][116]
 
-[94][117] [District inspectors and official visitors][117]
+[94][117][][117][District inspectors and official visitors][117]
 
-[94A][118] [Powers of district inspectors and official visitors][118]
+[94A][118][][118][Powers of district inspectors and official visitors][118]
 
-[95][119] [Inquiries by district inspector][119]
+[95][119][][119][Inquiries by district inspector][119]
 
-[96][120] [Visitations by district inspectors and official visitors][120]
+[96][120][][120][Visitations by district inspectors and official visitors][120]
 
-[97][121] [Extent of inspection][121]
+[97][121][][121][Extent of inspection][121]
 
-[98][122] [Reports on visits][122]
+[98][122][][122][Reports on visits][122]
 
-[98A][123] [District inspectors to report monthly][123]
+[98A][123][][123][District inspectors to report monthly][123]
 
-[99][124] [Powers of inspection of Director][124]
+[99][124][][124][Powers of inspection of Director][124]
 
-[99A][125] [No proceedings against district inspectors or official visitors unless bad faith shown][125]
+[99A][125][][125][No proceedings against district inspectors or official visitors unless bad faith shown][125]
 
-[99B][126] [Delegation by persons in charge of hospitals][126]
+[99B][126][][126][Delegation by persons in charge of hospitals][126]
 
-[99C][127] [Crimes of Torture Act 1989 not limited][127]
+[99C][127][][127][Crimes of Torture Act 1989 not limited][127]
 
 [Psychiatric security institutions][128]
 
-[100][129] [Psychiatric security institutions][129]
+[100][129][][129][Psychiatric security institutions][129]
 
 [Review Tribunals][130]
 
-[101][131] [Review Tribunals][131]
+[101][131][][131][Review Tribunals][131]
 
-[102][132] [Functions and powers of Review Tribunals][132]
+[102][132][][132][Functions and powers of Review Tribunals][132]
 
-[103][133] [Co-opting suitable persons][133]
+[103][133][][133][Co-opting suitable persons][133]
 
-[104][134] [Meetings and powers][134]
+[104][134][][134][Meetings and powers][134]
 
 [Further provisions relating to Review Tribunals][135]
 
-[105][136] [Deputies of members][136]
+[105][136][][136][Deputies of members][136]
 
-[106][137] [Terms of office][137]
+[106][137][][137][Terms of office][137]
 
-[107][138] [Convener][138]
+[107][138][][138][Convener][138]
 
-[108][139] [Fees and travelling allowances][139]
+[108][139][][139][Fees and travelling allowances][139]
 
-[108A][140] [No proceedings against members of Review Tribunals unless bad faith shown][140]
+[108A][140][][140][No proceedings against members of Review Tribunals unless bad faith shown][140]
 
 [Part 10][141]  
 [Enforcement and offences][141]
 
-[109][142] [Police powers in relation to person appearing to be mentally disordered in public place][142]
+[109][142][][142][Police powers in relation to person appearing to be mentally disordered in public place][142]
 
-[110][143] [Powers of medical practitioner when urgent examination required][143]
+[110][143][][143][Powers of medical practitioner when urgent examination required][143]
 
-[110A][144] [Power of medical practitioner who issues certificate to sedate when sedation urgently required][144]
+[110A][144][][144][Power of medical practitioner who issues certificate to sedate when sedation urgently required][144]
 
-[110B][145] [Powers of medical practitioner when urgent assessment required][145]
+[110B][145][][145][Powers of medical practitioner when urgent assessment required][145]
 
-[110C][146] [Powers of Police when urgent assistance required][146]
+[110C][146][][146][Powers of Police when urgent assistance required][146]
 
-[111][147] [Powers of nurse where urgent assessment required][147]
+[111][147][][147][Powers of nurse where urgent assessment required][147]
 
-[112][148] [Judge may authorise apprehension of patients and proposed patients][148] \[Repealed\]
+[112][148][][148][Judge may authorise apprehension of patients and proposed patients][148] \[Repealed\]
 
-[113][149] [Authority of person in charge of hospital or service to admit and detain][149]
+[113][149][][149][Authority of person in charge of hospital or service to admit and detain][149]
 
-[113A][150] [Judge or Registrar may issue warrants][150]
+[113A][150][][150][Judge or Registrar may issue warrants][150]
 
-[114][151] [Neglect or ill-treatment of proposed patients and patients][151]
+[114][151][][151][Neglect or ill-treatment of proposed patients and patients][151]
 
-[115][152] [Assisting patient on community treatment order not to attend for treatment][152]
+[115][152][][152][Assisting patient on community treatment order not to attend for treatment][152]
 
-[115A][153] [Assisting patient on inpatient order to be absent without leave][153]
+[115A][153][][153][Assisting patient on inpatient order to be absent without leave][153]
 
-[116][154] [Unlawful publication of reports of proceedings before Review Tribunal][154]
+[116][154][][154][Unlawful publication of reports of proceedings before Review Tribunal][154]
 
-[117][155] [Obstruction of inspection][155]
+[117][155][][155][Obstruction of inspection][155]
 
-[118][156] [False or misleading certificates][156]
+[118][156][][156][False or misleading certificates][156]
 
-[119][157] [Further offences involving false or misleading documents, etc][157]
+[119][157][][157][Further offences involving false or misleading documents, etc][157]
 
-[120][158] [Offences punishable on summary conviction][158]
+[120][158][][158][Who may commence proceedings][158]
 
-[121][159] [General penalty][159]
+[121][159][][159][General penalty][159]
 
-[122][160] [Matters of justification or excuse][160]
+[122][160][][160][Matters of justification or excuse][160]
 
-[122A][161] [Certain sections of Crimes Act 1961 apply to powers to take and retake][161]
+[122A][161][][161][Certain sections of Crimes Act 1961 apply to powers to take and retake][161]
 
-[122B][162] [Use of force][162]
+[122B][162][][162][Use of force][162]
 
 [Part 11][163]  
 [Miscellaneous provisions][163]
 
-[123][164] [Vetting of incoming mail][164]
+[123][164][][164][Vetting of incoming mail][164]
 
-[124][165] [Vetting of outgoing mail][165]
+[124][165][][165][Vetting of outgoing mail][165]
 
-[125][166] [Procedure where letter withheld][166]
+[125][166][][166][Procedure where letter withheld][166]
 
-[126][167] [Patient's pocket money][167] \[Repealed\]
+[126][167][][167][Patient's pocket money][167] \[Repealed\]
 
-[127][168] [Transfer of patients][168]
+[127][168][][168][Transfer of patients][168]
 
-[128][169] [Removal from New Zealand][169]
+[128][169][][169][Removal from New Zealand][169]
 
-[129][170] [Registers and records][170]
+[129][170][][170][Registers and records][170]
 
-[130][171] [Director-General may promulgate standards][171]
+[130][171][][171][Director-General may promulgate standards][171]
 
-[131][172] [Notices to Director-General][172]
+[131][172][][172][Notices to Director-General][172]
 
-[132][173] [Notice of death][173]
+[132][173][][173][Notice of death][173]
 
-[133][174] [Giving or sending documents][174]
+[133][174][][174][Giving or sending documents][174]
 
-[133A][175] [Forms][175]
+[133A][175][][175][Forms][175]
 
-[134][176] [Fees of medical practitioners][176]
+[134][176][][176][Fees of medical practitioners][176]
 
-[135][177] [Regulations][177]
+[135][177][][177][Regulations][177]
 
-[136][178] [Application of other Acts][178]
+[136][178][][178][Application of other Acts][178]
 
-[137][179] [Repeals and consequential amendments][179]
+[137][179][][179][Repeals and consequential amendments][179]
 
-[138][180] [Savings][180] \[Repealed\]
+[138][180][][180][Savings][180] \[Repealed\]
 
-[139][181] [Criminal Justice Act 1985 amended][181]
+[139][181][][181][Criminal Justice Act 1985 amended][181]
 
-[140][182] [Armed Forces Discipline Act 1971 amended][182]
+[140][182][][182][Armed Forces Discipline Act 1971 amended][182]
 
 [Part 12][183]  
 [Transitional provisions][183]
 
-[141][184] [Persons detained under section 19 of Mental Health Act 1969][184]
+[141][184][][184][Persons detained under section 19 of Mental Health Act 1969][184]
 
-[142][185] [Proceedings for reception order commenced but not completed][185]
+[142][185][][185][Proceedings for reception order commenced but not completed][185]
 
-[143][186] [Reception orders][186]
+[143][186][][186][Reception orders][186]
 
-[144][187] [Committed patients on leave][187]
+[144][187][][187][Committed patients on leave][187]
 
-[145][188] [Special patients][188]
+[145][188][][188][Special patients][188]
 
-[146][189] [Persons detained as committed patients pursuant to Criminal Justice Act 1985][189]
+[146][189][][189][Persons detained as committed patients pursuant to Criminal Justice Act 1985][189]
 
 [Schedule 1][190]  
 [Procedural provisions relating to Review Tribunals][190]
@@ -554,7 +554,7 @@ An Act to redefine the circumstances in which and the conditions under which per
             
         *   (i) [section 24(2)(a)][203] or [section 38(2)(c)][204] or [section 44(1)][205] of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
         
-        *   (ii) [section 184T(3)][206] of the Summary Proceedings Act 1957; or
+        *   (ii) [section 169][206] of the Criminal Procedure Act 2011; or
         
         
     
@@ -616,7 +616,7 @@ An Act to redefine the circumstances in which and the conditions under which per
     
     Section 2(1) **special patient**: substituted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 2(1) **special patient** paragraph (a)(ii): amended, on 29 June 2009, by [section 18][222] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 2(1) **special patient** paragraph (a)(ii): replaced, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 2(1) **special patient** paragraph (da): inserted, on 1 July 2009, by [section 81][223] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
@@ -1300,11 +1300,13 @@ Compulsory treatment orders
     
     (3) A witness called by the court under this section may be examined and re-examined by the court, and may be cross-examined by or on behalf of any party to the proceedings.
     
-    (4) [Sections 20][241], [38][242], and [39][243] of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+    (4) [Sections 159][241] and [161 to 165][242] of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
     
     (5) The expenses of any witness called by the court under this section must be met, in accordance with the prescribed scale of witnesses' expenses, in the first instance from any appropriation by Parliament for the purpose.
     
-    Section 23(5): substituted, on 1 April 2000, by [section 19][244] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 23(4): amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 23(5): substituted, on 1 April 2000, by [section 19][243] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 24 Proceedings not open to public
     
@@ -1330,13 +1332,13 @@ Compulsory treatment orders
 
 ##### 25 Publication of reports of proceedings
     
-*   [Sections 11B to 11D][245] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act---
+*   [Sections 11B to 11D][244] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 25: substituted, on 18 May 2009, by [section 4][246] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 2008 (2008 No 82).
+    Section 25: substituted, on 18 May 2009, by [section 4][245] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 2008 (2008 No 82).
 
 ##### 26 Court may dispense with hearing in certain circumstances
     
@@ -1372,11 +1374,11 @@ Compulsory treatment orders
     
     (5) When the court makes an order under this section, it shall give or send a copy of the order to the patient.
     
-    Section 28(3): amended, on 1 April 2000, by [section 21(1)(a)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 28(3): amended, on 1 April 2000, by [section 21(1)(a)][246] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 28(3): amended, on 1 April 2000, by [section 21(1)(b)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 28(3): amended, on 1 April 2000, by [section 21(1)(b)][246] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 28(4): substituted, on 1 April 2000, by [section 21(2)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 28(4): substituted, on 1 April 2000, by [section 21(2)][246] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 29 Community treatment orders
     
@@ -1418,17 +1420,17 @@ Compulsory treatment orders
     
     *   (e) an official visitor.
     
-    Section 29(1): amended, on 1 April 2000, by [section 22(1)][248] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 29(1): amended, on 1 April 2000, by [section 22(1)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 29(2): amended, on 1 April 2000, by [section 22(2)][248] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 29(2): amended, on 1 April 2000, by [section 22(2)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 29(3): substituted, on 1 April 2000, by [section 22(3)][248] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 29(3): substituted, on 1 April 2000, by [section 22(3)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 29(4): added, on 1 April 2000, by [section 22(3)][248] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 29(4): added, on 1 April 2000, by [section 22(3)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 29(5): added, on 1 April 2000, by [section 22(3)][248] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 29(5): added, on 1 April 2000, by [section 22(3)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 29(6): added, on 1 April 2000, by [section 22(3)][248] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 29(6): added, on 1 April 2000, by [section 22(3)][247] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 30 Inpatient orders
     
@@ -1468,7 +1470,7 @@ Compulsory treatment orders
     
     (6) Every patient who leaves his or her escort while being removed from any hospital in which the patient has been detained to any other hospital to which the patient is being lawfully transferred shall be deemed to be absent without leave, within the meaning of this section, from the first-mentioned hospital, and on being retaken in accordance with this Act may be conveyed to the hospital to which the patient was being removed, notwithstanding that the time limited by [section 127][168] for complying with an order of transfer may have elapsed.
     
-    Section 32(2): amended, on 1 April 2000, by [section 23][249] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 32(2): amended, on 1 April 2000, by [section 23][248] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 33 Compulsory treatment order to expire after 6 months
     
@@ -1484,7 +1486,7 @@ Compulsory treatment orders
     
     (4) If, on any such application, the court extends the currency of the order for a further period of 6 months, on the expiry of that period the foregoing provisions of this section shall apply except that, if the court then further extends the order, the extension shall have effect indefinitely and the patient shall remain subject to the order unless and until he or she is released from compulsory status.
     
-    Section 34(3): substituted, on 1 April 2000, by [section 24][250] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 34(3): substituted, on 1 April 2000, by [section 24][249] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 35 Release from compulsory status
     
@@ -1513,7 +1515,7 @@ Compulsory treatment orders
 ## Part 3  
 Advice and assistance
     
-*   Part 3 heading: substituted, on 1 April 2000, by [section 26][251] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+*   Part 3 heading: substituted, on 1 April 2000, by [section 26][250] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 37 Advice and assistance of general nature
     
@@ -1567,7 +1569,7 @@ Advice and assistance
     
     (6) A medical practitioner doing an examination under subsections (3)(a) or (4)(b) or (d) need not issue another certificate if that medical practitioner has available to him or her a certificate issued under [section 8B(4)(b)][14] by a medical practitioner who examined the person who is the subject of the request within the 72 hours before the receipt of the request.
     
-    Section 38: substituted, on 1 April 2000, by [section 27][252] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 38: substituted, on 1 April 2000, by [section 27][251] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 39 Assistance in respect of outpatients and inpatients on leave
     
@@ -1589,7 +1591,7 @@ Advice and assistance
     
     *   (c) give such other advice or assistance in the matter as may be appropriate.
     
-    Section 39(2): substituted, on 1 April 2000, by [section 28][253] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 39(2): substituted, on 1 April 2000, by [section 28][252] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 40 Assistance in taking or returning proposed patient or patient to place of assessment or treatment
     
@@ -1643,7 +1645,7 @@ Advice and assistance
     
     *   (b) take a patient referred to in subsection (1)(c) back to the hospital.
     
-    Section 40: substituted, on 1 April 2000, by [section 29][254] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 40: substituted, on 1 April 2000, by [section 29][253] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 41 Police assistance
     
@@ -1701,23 +1703,23 @@ Advice and assistance
     
     (7) The constable must not exercise the power in subsection (2) without a warrant, if it would be reasonably practicable to obtain a warrant.
     
-    Section 41: substituted, on 1 April 2000, by [section 30][255] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 41: substituted, on 1 April 2000, by [section 30][254] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 41(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
 
 ## Part 4  
 Special patients and restricted patients
@@ -1740,7 +1742,7 @@ Special patients and restricted patients
     
     (3) The person in charge of the hospital must send the information within 14 days after the patient is admitted.
     
-    Section 42: substituted, on 1 April 2000, by [section 31][257] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 42: substituted, on 1 April 2000, by [section 31][256] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 43 Notice of events concerning patient
     
@@ -1764,7 +1766,7 @@ Special patients and restricted patients
     
     (3) The person in charge of the hospital must send the information within 14 days after the event occurs.
     
-    Section 43: substituted, on 1 April 2000, by [section 31][257] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 43: substituted, on 1 April 2000, by [section 31][256] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 #### Special patients
 
@@ -1782,13 +1784,13 @@ Special patients and restricted patients
         
     *   (a) a prison; and
     
-    *   (b) a certified institution under the [Alcoholism and Drug Addiction Act 1966][258]
+    *   (b) a certified institution under the [Alcoholism and Drug Addiction Act 1966][257]
     
     _superintendent_,---
         
     *   (a) in relation to a prison, means the manager of that prison; and
     
-    *   (b) in relation to a certified institution under the [Alcoholism and Drug Addiction Act 1966][258], means the chief resident officer of that institution.
+    *   (b) in relation to a certified institution under the [Alcoholism and Drug Addiction Act 1966][257], means the chief resident officer of that institution.
     
     (2) The superintendent of an institution, or any other officer of the institution authorised by the superintendent, may make an application under [section 8A][13] in respect of a person detained in the institution if the superintendent has reasonable grounds to believe that the person may be mentally disordered.
     
@@ -1816,13 +1818,13 @@ Special patients and restricted patients
             
         *   (i) that person shall not be detained in the hospital overnight, except in accordance with a notice of a kind referred to in paragraph (d); and
         
-        *   (ii) unless and until such a notice is given, that person shall be deemed to continue to be in the legal custody of the person in whose custody he or she was under the [Corrections Act 2004][259] notwithstanding that the person is absent from the institution:
+        *   (ii) unless and until such a notice is given, that person shall be deemed to continue to be in the legal custody of the person in whose custody he or she was under the [Corrections Act 2004][258] notwithstanding that the person is absent from the institution:
         
         
     
     *   (d) where the certificate of preliminary assessment contains a finding of the kind described in [section 10(1)(b)(ii)][16], the medical practitioner giving the certificate shall give a notice in accordance with [section 11(1)][17], directing that the person be admitted to and detained in a specified hospital for the purposes of assessment and treatment throughout the first period of assessment and treatment; and, where the assessment interview was conducted in the institution, that notice shall be sufficient authority for the removal of the detained person from the institution to the hospital:
     
-    *   (e) on the giving of the notice referred to in paragraph (d) in respect of any person who was detained in a prison, that person is deemed to have ceased to be in legal custody under the [Corrections Act 2004][259]:
+    *   (e) on the giving of the notice referred to in paragraph (d) in respect of any person who was detained in a prison, that person is deemed to have ceased to be in legal custody under the [Corrections Act 2004][258]:
     
     *   (f) if the certificate of further assessment contains a finding of the kind described in [section 12(1)(b)(ii)][18], the responsible clinician giving the certificate shall give a notice in accordance with [section 13(1)][19], directing that the person be admitted to and detained in a specified hospital for the purposes of assessment and treatment during the second period of assessment and treatment:
     
@@ -1838,11 +1840,11 @@ Special patients and restricted patients
     
     Section 45(1) **superintendent** paragraph (a): amended, on 1 June 2005, by [section 206][218] of the Corrections Act 2004 (2004 No 50).
     
-    Section 45(2): substituted, on 1 April 2000, by [section 32(1)][260] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 45(2): substituted, on 1 April 2000, by [section 32(1)][259] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 45(3): substituted, on 1 April 2000, by [section 32(1)][260] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 45(3): substituted, on 1 April 2000, by [section 32(1)][259] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 45(4): amended, on 1 April 2000, by [section 32(2)][260] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 45(4): amended, on 1 April 2000, by [section 32(2)][259] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 45(4)(b): amended, on 1 June 2005, by [section 206][218] of the Corrections Act 2004 (2004 No 50).
     
@@ -1852,7 +1854,7 @@ Special patients and restricted patients
     
     Section 45(4)(e): amended, on 1 June 2005, by [section 206][218] of the Corrections Act 2004 (2004 No 50).
     
-    Section 45(5): substituted, on 1 April 2000, by [section 32(3)][260] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 45(5): substituted, on 1 April 2000, by [section 32(3)][259] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 45(5): amended, on 1 June 2005, by [section 206][218] of the Corrections Act 2004 (2004 No 50).
 
@@ -1864,7 +1866,7 @@ Special patients and restricted patients
     
     Section 46: amended, on 1 June 2005, by [section 206][218] of the Corrections Act 2004 (2004 No 50).
     
-    Section 46: amended, on 1 October 1995, by [section 10(3)][261] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 46: amended, on 1 October 1995, by [section 10(3)][260] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 47 Removal of certain special patients to prisons
     
@@ -1894,7 +1896,7 @@ Special patients and restricted patients
     
     Section 47(3): amended, on 1 April 2000, by [section 76][230] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 47(3): amended, on 1 October 1995, by [section 10(3)][261] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 47(3): amended, on 1 October 1995, by [section 10(3)][260] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
     Section 47(4): amended, on 1 June 2005, by [section 206][218] of the Corrections Act 2004 (2004 No 50).
     
@@ -1916,27 +1918,27 @@ Special patients and restricted patients
             
         *   (i) who, in the opinion of the Director of Area Mental Health Services, is fit to be released from compulsory status under this Act; and
         
-        *   (ii) who has been assessed by a specialist assessor within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][262] as having an intellectual disability within the meaning of that Act.
+        *   (ii) who has been assessed by a specialist assessor within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][261] as having an intellectual disability within the meaning of that Act.
         
         
     
-    (2) The Director of Area Mental Health Services may, with the consent of the Director, direct that a patient to whom this section applies be taken to an appropriate facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][262].
+    (2) The Director of Area Mental Health Services may, with the consent of the Director, direct that a patient to whom this section applies be taken to an appropriate facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][261].
     
-    (3) When a direction is given under subsection (2), the Director must notify the responsible co-ordinator under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][262], who must arrange for the patient to be removed to a facility within 7 days after the date of the direction unless an application is sooner made under [section 8A][13] for assessment of the patient.
+    (3) When a direction is given under subsection (2), the Director must notify the responsible co-ordinator under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][261], who must arrange for the patient to be removed to a facility within 7 days after the date of the direction unless an application is sooner made under [section 8A][13] for assessment of the patient.
     
     (4) Any direction given under this section in respect of a patient is sufficient authority for the removal of the patient to the facility specified in the direction and for the reception of the patient there.
     
-    (5) On the removal of the patient under subsection (4) to a facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][262],---
+    (5) On the removal of the patient under subsection (4) to a facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][261],---
         
     *   (a) the patient must be regarded as having been released from assessment and treatment as a patient under this Act; and
     
-    *   (b) if the patient is a special patient, he or she must be held as a special care recipient under that Act until the status of the person is changed in accordance with that Act or the [Criminal Procedure (Mentally Impaired Persons) Act 2003][263]; and
+    *   (b) if the patient is a special patient, he or she must be held as a special care recipient under that Act until the status of the person is changed in accordance with that Act or the [Criminal Procedure (Mentally Impaired Persons) Act 2003][262]; and
     
     *   (c) if the patient is a special patient who is, or is deemed to be, subject to an order under [section 24(2)(a)][203] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the order is deemed to have been made under section 24(2)(b) of that Act; and
     
     *   (d) if the patient is subject to a compulsory treatment order, that order becomes a compulsory care order (within the meaning of that Act) that is deemed to have been made on the date of the removal for a term of 6 months; and
     
-    *   (e) if the patient is a special patient who is, or is deemed to be, subject to an order under [section 34(1)(a)(i)][209] of the [Criminal Procedure (Mentally Impaired Persons) Act 2003][263], the order is deemed to have been made under section 34(1)(a)(ii) of that Act.
+    *   (e) if the patient is a special patient who is, or is deemed to be, subject to an order under [section 34(1)(a)(i)][209] of the [Criminal Procedure (Mentally Impaired Persons) Act 2003][262], the order is deemed to have been made under section 34(1)(a)(ii) of that Act.
     
     Section 47A: inserted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
@@ -1960,7 +1962,7 @@ Special patients and restricted patients
             
         *   (i) the date specified in an order of the New Zealand Parole Board that the person be released on parole or compassionate leave:
         
-        *   (ii) the release date (if any) of the person's sentence, as defined under [Part 1][264] of the Parole Act 2002:
+        *   (ii) the release date (if any) of the person's sentence, as defined under [Part 1][263] of the Parole Act 2002:
         
         *   (iii) the date on which the sentence is determined.
         
@@ -1990,7 +1992,7 @@ Special patients and restricted patients
     
     *   (c) if at that time he or she is a person in the hospital under [section 46][58], he or she becomes a voluntary patient.
     
-    Section 48: substituted, on 1 April 2000, by [section 33][265] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 48: substituted, on 1 April 2000, by [section 33][264] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 48(1)(a)(i): substituted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
@@ -2030,7 +2032,7 @@ Special patients and restricted patients
     
     Section 50(2)(a): amended, on 1 June 2005, by [section 206][218] of the Corrections Act 2004 (2004 No 50).
     
-    Section 50(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 50(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
 
 ##### 51 Power to direct temporary return to hospital of special patients
     
@@ -2052,7 +2054,7 @@ Special patients and restricted patients
     
     (7) Where the Minister decides, within 72 hours after the time at which a patient is admitted or re-admitted to a hospital pursuant to a direction under subsection (1), that that patient's leave is not to be cancelled under [section 50(3)][63], that patient shall forthwith be again released on leave subject to the conditions imposed by the Minister under section 50(1).
     
-    Section 51(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 51(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
 
 ##### 52 Director may grant short-term leave
     
@@ -2070,9 +2072,9 @@ Special patients and restricted patients
     
 *   Any special patient who escapes, or who fails to return on the expiry or cancellation of any period of leave may be retaken at any time by the Director, or by the Director of Area Mental Health Services, or by a duly authorised officer, or by any constable, or by any person to whom the charge of the patient had been entrusted during the period of leave, and taken to the hospital from which the patient escaped or was on leave or to any other hospital specified by the Director.
     
-    Section 53: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 53: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 53: amended, on 1 April 2000, by [section 34][266] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 53: amended, on 1 April 2000, by [section 34][265] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 #### Restricted patients
 
@@ -2127,13 +2129,13 @@ Compulsory treatment
     
 *   A proposed patient or patient may refuse consent to any form of treatment for mental disorder, except as provided in this Part or in [section 110A][144].
     
-    Section 57: substituted, on 1 April 2000, by [section 35][267] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 57: substituted, on 1 April 2000, by [section 35][266] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 58 Treatment while undergoing assessment
     
 *   Every patient who is undergoing assessment pursuant to [section 11][17] or [section 13][19] shall be required to accept such treatment for mental disorder as the responsible clinician shall direct.
     
-    Section 58: amended, on 1 April 2000, by [section 36][268] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 58: amended, on 1 April 2000, by [section 36][267] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 59 Treatment while subject to compulsory treatment order
     
@@ -2206,7 +2208,7 @@ Rights of patients
     
 *   In [sections 64(1)][81], [64(2)(a)][81], [65 to 72][82], and [75][92], **patient** includes a proposed patient.
     
-    Section 63A: inserted, on 1 April 2000, by [section 37][269] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 63A: inserted, on 1 April 2000, by [section 37][268] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 64 General rights to information
     
@@ -2260,13 +2262,13 @@ Rights of patients
     
     Section 68(3): added, on 1 July 1993, by [section 32][213] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 68(3)(c): amended, on 1 April 2000, by [section 38][270] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 68(3)(c): amended, on 1 April 2000, by [section 38][269] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 69 Right to independent psychiatric advice
     
 *   Every patient is entitled to seek a consultation with a psychiatrist of his or her own choice in order to get a second opinion, and, if the psychiatrist agrees to the consultation, he or she shall be permitted access to the patient upon request.
     
-    Section 69: amended, on 1 April 2000, by [section 39][271] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 69: amended, on 1 April 2000, by [section 39][270] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 70 Right to legal advice
     
@@ -2349,7 +2351,7 @@ Reviews and judicial inquiries
     
     (6) Despite anything in subsection (5), if the responsible clinician is of the opinion that a special patient detained in a hospital following an application made under [section 45(2)][57], or subject to an order made under [section 34(1)(a)(i)][209] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, is fit to be released from compulsory status, the patient must be dealt with in accordance with [section 47(1)][59], and [section 47(3) and (5)][59] applies.
     
-    (6A) Despite anything in subsection (5), if a patient or special patient is subject to a compulsory treatment order that was made following an application under [section 136(2)][211] of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][262], he or she must be dealt with in accordance with [section 47A][60].
+    (6A) Despite anything in subsection (5), if a patient or special patient is subject to a compulsory treatment order that was made following an application under [section 136(2)][211] of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][261], he or she must be dealt with in accordance with [section 47A][60].
     
     (7) If the responsible clinician is of the opinion that the patient is not fit to be released from compulsory status, that officer shall send a copy of the certificate of clinical review to---
         
@@ -2387,15 +2389,15 @@ Reviews and judicial inquiries
     
     Section 76(1): amended, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 76(1A): inserted, on 1 April 2000, by [section 40(1)][272] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 76(1A): inserted, on 1 April 2000, by [section 40(1)][271] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 76(6): substituted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
     Section 76(6A): inserted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 76(7)(a): repealed, on 1 April 2000, by [section 40(2)][272] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 76(7)(a): repealed, on 1 April 2000, by [section 40(2)][271] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 76(9): substituted, on 1 April 2000, by [section 40(3)][272] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 76(9): substituted, on 1 April 2000, by [section 40(3)][271] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 77 Clinical reviews of certain special patients
     
@@ -2429,9 +2431,9 @@ Reviews and judicial inquiries
         
         
     
-    *   (c) in any case where the responsible clinician is of the opinion that the patient is no longer unfit to stand trial, or that the patient is still unfit to stand trial but it is no longer necessary that the patient should be subject to the order of detention as a special patient, that clinician shall also send a copy of the certificate of clinical review to the Attorney-General for the purposes of [section 31][273] of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
+    *   (c) in any case where the responsible clinician is of the opinion that the patient is no longer unfit to stand trial, or that the patient is still unfit to stand trial but it is no longer necessary that the patient should be subject to the order of detention as a special patient, that clinician shall also send a copy of the certificate of clinical review to the Attorney-General for the purposes of [section 31][272] of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
     
-    *   (d) despite [section 31][273] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, on receiving a copy of the certificate of clinical review under paragraph (c), the Attorney-General may, instead of exercising and performing the powers and duties under that section, apply to the Review Tribunal for a review of the patient's condition.
+    *   (d) despite [section 31][272] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, on receiving a copy of the certificate of clinical review under paragraph (c), the Attorney-General may, instead of exercising and performing the powers and duties under that section, apply to the Review Tribunal for a review of the patient's condition.
     
     (4) In the case of a special patient who was ordered to be detained following acquittal on account of insanity, the following provisions shall apply to any review of that patient's condition under this section:
         
@@ -2447,9 +2449,9 @@ Reviews and judicial inquiries
         
         
     
-    *   (c) in any case where the responsible clinician is of the opinion that the patient's condition no longer requires, either in the patient's own interest or for the safety of the public, that he or she should be subject to the order of detention as a special patient, that clinician shall also send a copy of the certificate of clinical review to the Minister of Health for the purposes of [section 33][274] of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
+    *   (c) in any case where the responsible clinician is of the opinion that the patient's condition no longer requires, either in the patient's own interest or for the safety of the public, that he or she should be subject to the order of detention as a special patient, that clinician shall also send a copy of the certificate of clinical review to the Minister of Health for the purposes of [section 33][273] of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
     
-    *   (d) despite [section 33][274] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, on receiving a copy of the certificate of clinical review under paragraph (c), the Minister of Health may, instead of exercising and performing the powers and duties under that section, apply to the Review Tribunal for a review of the patient's condition.
+    *   (d) despite [section 33][273] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, on receiving a copy of the certificate of clinical review under paragraph (c), the Minister of Health may, instead of exercising and performing the powers and duties under that section, apply to the Review Tribunal for a review of the patient's condition.
     
     Section 77(1): amended, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
@@ -2461,13 +2463,13 @@ Reviews and judicial inquiries
     
     Section 77(3)(a)(iii): amended, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 77(3)(b)(i): repealed, on 1 April 2000, by [section 41(b)][275] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 77(3)(b)(i): repealed, on 1 April 2000, by [section 41(b)][274] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 77(3)(c): amended, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
     Section 77(3)(d): substituted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 77(4)(b)(i): repealed, on 1 April 2000, by [section 41(c)][275] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 77(4)(b)(i): repealed, on 1 April 2000, by [section 41(c)][274] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 77(4)(c): amended, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
@@ -2517,7 +2519,7 @@ Reviews and judicial inquiries
         
         
     
-    Section 78(4)(a): repealed, on 1 April 2000, by [section 42][276] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 78(4)(a): repealed, on 1 April 2000, by [section 42][275] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 79 Tribunal reviews of persons subject to compulsory treatment orders
     
@@ -2591,11 +2593,11 @@ Reviews and judicial inquiries
     
     (15) Instead of performing personally the functions specified in subsections (12) to (14), the district inspector may in any particular case arrange for an official visitor to perform them.
     
-    Section 79(2)(b): repealed, on 1 April 2000, by [section 43(a)][277] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 79(2)(b): repealed, on 1 April 2000, by [section 43(a)][276] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 79(5): substituted, on 1 April 2000, by [section 43(b)][277] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 79(5): substituted, on 1 April 2000, by [section 43(b)][276] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 79(6): substituted, on 1 April 2000, by [section 43(b)][277] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 79(6): substituted, on 1 April 2000, by [section 43(b)][276] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 79(9): amended, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
@@ -2623,7 +2625,7 @@ Reviews and judicial inquiries
     
     *   (b) in every case, the convener of the Review Tribunal shall send a copy of the certificate of Tribunal review to each of the persons specified in [section 79(10)][97]:
     
-    *   (c) in any case where the Review Tribunal considers that the patient is no longer unfit to stand trial, or that the patient is still unfit to stand trial but it is no longer necessary that the patient should be subject to the order of detention as a special patient, the convener of the Review Tribunal shall also send a copy of the certificate of Tribunal review to the Attorney-General for the purposes of [section 31][273] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
+    *   (c) in any case where the Review Tribunal considers that the patient is no longer unfit to stand trial, or that the patient is still unfit to stand trial but it is no longer necessary that the patient should be subject to the order of detention as a special patient, the convener of the Review Tribunal shall also send a copy of the certificate of Tribunal review to the Attorney-General for the purposes of [section 31][272] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
     
     (5) In the case of a special patient who was ordered to be detained following acquittal on account of insanity, the following provisions shall apply to any review of that patient's condition under this section:
         
@@ -2631,7 +2633,7 @@ Reviews and judicial inquiries
     
     *   (b) in every case, the convener of the Review Tribunal shall send a copy of the certificate of Tribunal review to each of the persons specified in [section 79(10)][97]:
     
-    *   (c) in any case where the Review Tribunal considers that the patient's condition no longer requires, either in the patient's own interest or for the safety of the public, that he or she should be subject to the order of detention as a special patient, the convener of the Review Tribunal shall also send a copy of the certificate of Tribunal review to the Minister of Health for the purposes of [section 33][274] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
+    *   (c) in any case where the Review Tribunal considers that the patient's condition no longer requires, either in the patient's own interest or for the safety of the public, that he or she should be subject to the order of detention as a special patient, the convener of the Review Tribunal shall also send a copy of the certificate of Tribunal review to the Minister of Health for the purposes of [section 33][273] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
         
         Section 80(4): amended, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
         
@@ -2705,9 +2707,9 @@ Reviews and judicial inquiries
     
     the Judge shall, unless the person is a special patient or is legally detained for some other cause, order that the person be discharged from the hospital forthwith.
     
-    (4) If the person has been found to be unfit to stand trial and is detained as a special patient under [section 24][203] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and it appears to the satisfaction of the Judge that the person is capable of being tried or committed for trial on the charge or indictment against him or her, the Judge has (without prejudice to subsection (5)) the same powers as the Attorney-General has under [section 31][273] of that Act to direct that the person be brought before a court under that section.
+    (4) If the person has been found to be unfit to stand trial and is detained as a special patient under [section 24][203] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and it appears to the satisfaction of the Judge that the person is capable of being tried on the charge against him or her, the Judge has (without prejudice to subsection (5)) the same powers as the Attorney-General has under [section 31][272] of that Act to direct that the person be brought before a court under that section.
     
-    (5) If the person has been found unfit to stand trial and is detained as a special patient by virtue of [section 24][203] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the Judge may, if in the circumstances of the case the Judge considers it proper to do so and if the interests of justice so permit (whether or not the person is capable of being tried or committed for trial), direct that the charge or indictment be dismissed.
+    (5) If the person has been found unfit to stand trial and is detained as a special patient by virtue of [section 24][203] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the Judge may, if in the circumstances of the case the Judge considers it proper to do so and if the interests of justice so permit (whether or not the person is capable of being tried), direct that the charge be dismissed.
     
     (6) On giving any direction under subsection (5), the Judge may order that the person be released from compulsory status; but if it appears to the Judge that the person is not fit to be released from that status, the Judge shall order that the person be further detained in a hospital under this Act, and the last-mentioned order shall have effect as an inpatient order made under [Part 2][24].
     
@@ -2723,7 +2725,11 @@ Reviews and judicial inquiries
     
     Section 84(4): substituted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115). 
     
+    Section 84(4): amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 84(5): substituted, on 1 September 2004, by [section 51][221] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    
+    Section 84(5): amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 8  
 Special provisions relating to children and young persons
@@ -2736,13 +2742,13 @@ Special provisions relating to children and young persons
     
 *   Wherever practicable, an assessment examination of a proposed patient who is under the age of 17 years shall be conducted by a psychiatrist practising in the field of child psychiatry.
     
-    Section 86: amended, on 1 April 2000, by [section 45][278] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 86: amended, on 1 April 2000, by [section 45][277] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 87 Age of consent
     
-*   Notwithstanding anything in [section 36][279] of the Care of Children Act 2004 or any other enactment or rule of law to the contrary, in respect of a patient who has attained the age of 16 years, the consent of a parent or guardian to any assessment or treatment for mental disorder shall not be sufficient consent for the purposes of this Act.
+*   Notwithstanding anything in [section 36][278] of the Care of Children Act 2004 or any other enactment or rule of law to the contrary, in respect of a patient who has attained the age of 16 years, the consent of a parent or guardian to any assessment or treatment for mental disorder shall not be sufficient consent for the purposes of this Act.
     
-    Section 87: amended, on 1 July 2005, by [section 151][280] of the Care of Children Act 2004 (2004 No 90).
+    Section 87: amended, on 1 July 2005, by [section 151][279] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 88 Brain surgery
     
@@ -2767,7 +2773,7 @@ Administration
 
 ##### 91 Director and Deputy Director of Mental Health
     
-*   (1) There shall from time to time be appointed under the [State Sector Act 1988][281] the following officers in the Ministry of Health:
+*   (1) There shall from time to time be appointed under the [State Sector Act 1988][280] the following officers in the Ministry of Health:
         
     *   (a) a Director of Mental Health, who shall be responsible for the general administration of this Act under the direction of the Minister and the Director-General of Health:
     
@@ -2785,11 +2791,11 @@ Administration
     
     (7) Without limiting any of the preceding provisions of this section, the Director-General of Health may exercise and perform all or any of the powers, duties, and functions conferred or imposed on the Director by this Act.
     
-    Compare: 1969 No 16 s 3; 1987 No 10 [s 6][282]
+    Compare: 1969 No 16 s 3; 1987 No 10 [s 6][281]
     
-    Section 91(1): amended, on 1 July 1993, pursuant to [section 38(3)(a)][283] of the Health Amendment Act 1993 (1993 No 24).
+    Section 91(1): amended, on 1 July 1993, pursuant to [section 38(3)(a)][282] of the Health Amendment Act 1993 (1993 No 24).
     
-    Section 91(4): amended, on 1 July 1993, pursuant to [section 38(3)(a)][283] of the Health Amendment Act 1993 (1993 No 24).
+    Section 91(4): amended, on 1 July 1993, pursuant to [section 38(3)(a)][282] of the Health Amendment Act 1993 (1993 No 24).
 
 ##### 92 Directors of Area Mental Health Services
     
@@ -2823,7 +2829,7 @@ Administration
     
     *   (b) give the report to the Director.
     
-    Section 92: substituted, on 1 April 2000, by [section 46][284] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 92: substituted, on 1 April 2000, by [section 46][283] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 92A Delegation by Directors of Area Mental Health Services
     
@@ -2841,7 +2847,7 @@ Administration
     
     *   (c) when the delegation is revoked.
     
-    Section 92A: inserted, on 1 April 2000, by [section 46][284] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 92A: inserted, on 1 April 2000, by [section 46][283] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 92B Provisions applying to delegations under section 92A
     
@@ -2865,7 +2871,7 @@ Administration
     
     (8) The maker, or a successor, may revoke the delegation at any time by written notice to the delegate.
     
-    Section 92B: inserted, on 1 April 2000, by [section 46][284] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 92B: inserted, on 1 April 2000, by [section 46][283] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 93 Duly authorised officers
     
@@ -2927,11 +2933,11 @@ Administration
     
     Section 94(2): substituted, on 1 July 1993, by [section 32][213] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 94(5): substituted, on 1 April 2000, by [section 47][285] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 94(5): substituted, on 1 April 2000, by [section 47][284] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 94(6): substituted, on 1 April 2000, by [section 47][285] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 94(6): substituted, on 1 April 2000, by [section 47][284] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 94(7): added, on 1 April 2000, by [section 47][285] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 94(7): added, on 1 April 2000, by [section 47][284] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 94A Powers of district inspectors and official visitors
     
@@ -2959,7 +2965,7 @@ Administration
         
         
     
-    Section 94A: inserted, on 1 April 2000, by [section 48][286] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 94A: inserted, on 1 April 2000, by [section 48][285] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 95 Inquiries by district inspector
     
@@ -2969,17 +2975,17 @@ Administration
     
     *   (b) such other matters as the district inspector or the Director thinks fit to be inquired into respecting any patients, or the management of the hospital or service.
     
-    (2) For the purpose of conducting any inquiry under this Act, a district inspector shall have the same powers and authority to summon witnesses and receive evidence as are conferred upon Commissions of Inquiry by the [Commissions of Inquiry Act 1908][287]; and the provisions of that Act, except [sections 11][288] and [12][289] (which relate to costs), shall apply accordingly.
+    (2) For the purpose of conducting any inquiry under this Act, a district inspector shall have the same powers and authority to summon witnesses and receive evidence as are conferred upon Commissions of Inquiry by the [Commissions of Inquiry Act 1908][286]; and the provisions of that Act, except [sections 11][287] and [12][288] (which relate to costs), shall apply accordingly.
     
     (3) A full report of every such inquiry shall be sent as soon as practicable by the district inspector to the Director.
     
     Compare: 1969 No 16 s 58
     
-    Section 95(1): amended, on 1 April 2000, by [section 49][290] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 95(1): amended, on 1 April 2000, by [section 49][289] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 95(1)(a): amended, on 1 April 2000, by [section 49][290] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 95(1)(a): amended, on 1 April 2000, by [section 49][289] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 95(1)(b): amended, on 1 April 2000, by [section 49][290] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 95(1)(b): amended, on 1 April 2000, by [section 49][289] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 96 Visitations by district inspectors and official visitors
     
@@ -2999,9 +3005,9 @@ Administration
     
     Compare: 1969 No 16 s 56
     
-    Section 96(1): substituted, on 1 April 2000, by [section 50(1)][291] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 96(1): substituted, on 1 April 2000, by [section 50(1)][290] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 96(2): amended, on 1 April 2000, by [section 50(2)][291] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 96(2): amended, on 1 April 2000, by [section 50(2)][290] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 97 Extent of inspection
     
@@ -3017,15 +3023,15 @@ Administration
     
     Compare: 1969 No 16 s 57
     
-    Section 97(1): amended, on 1 April 2000, by [section 51(1)][292] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 97(1): amended, on 1 April 2000, by [section 51(1)][291] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 97(2): amended, on 1 April 2000, by [section 51(2)][292] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 97(2): amended, on 1 April 2000, by [section 51(2)][291] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 98 Reports on visits
     
 *   A district inspector or an official visitor who visits any hospital or service must give a report on the visit to the Director of Area Mental Health Services within 14 days after the visit.
     
-    Section 98: substituted, on 1 April 2000, by [section 52][293] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 98: substituted, on 1 April 2000, by [section 52][292] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 98A District inspectors to report monthly
     
@@ -3035,7 +3041,7 @@ Administration
     
     *   (b) give the report to the Director.
     
-    Section 98A: inserted, on 1 April 2000, by [section 52][293] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 98A: inserted, on 1 April 2000, by [section 52][292] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 99 Powers of inspection of Director
     
@@ -3049,7 +3055,7 @@ Administration
     
     (2) Nothing in this section affects the right of any person or organisation to apply, in accordance with law, for judicial review of a district inspector's or official visitor's powers, duties, or functions under this Act.
     
-    Section 99A: inserted, on 1 April 2000, by [section 53][294] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 99A: inserted, on 1 April 2000, by [section 53][293] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 99B Delegation by persons in charge of hospitals
     
@@ -3069,13 +3075,13 @@ Administration
     
     (8) The maker, or a successor, may revoke the delegation at any time by written notice to the delegate.
     
-    Section 99B: inserted, on 1 April 2000, by [section 54][295] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 99B: inserted, on 1 April 2000, by [section 54][294] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 99C Crimes of Torture Act 1989 not limited
     
-*   Nothing in this Act limits the operation of [Part 2][296] of the Crimes of Torture Act 1989\.
+*   Nothing in this Act limits the operation of [Part 2][295] of the Crimes of Torture Act 1989\.
     
-    Section 99C: inserted, on 5 December 2006, by [section 12][297] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
+    Section 99C: inserted, on 5 December 2006, by [section 12][296] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
 
 #### Psychiatric security institutions
 
@@ -3111,7 +3117,7 @@ Administration
     
     (3) A Review Tribunal shall have all such other functions as are conferred on it by this Act or any other enactment.
     
-    Section 102(1): amended, on 1 April 2000, by [section 55][298] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 102(1): amended, on 1 April 2000, by [section 55][297] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 103 Co-opting suitable persons
     
@@ -3133,7 +3139,7 @@ Administration
     
     (2) No business may be transacted at any meeting of a Review Tribunal unless each member, or his or her deputy, is present.
     
-    (3) Every Review Tribunal shall have the same powers and authority to summon witnesses and receive evidence as are conferred upon Commissions of Inquiry by the [Commissions of Inquiry Act 1908][287]; and the provisions of that Act, except [sections 11][288] and [12][289] (which relate to costs), shall apply accordingly.
+    (3) Every Review Tribunal shall have the same powers and authority to summon witnesses and receive evidence as are conferred upon Commissions of Inquiry by the [Commissions of Inquiry Act 1908][286]; and the provisions of that Act, except [sections 11][287] and [12][288] (which relate to costs), shall apply accordingly.
 
 #### Further provisions relating to Review Tribunals
 
@@ -3161,7 +3167,7 @@ Administration
     
     (4) Notwithstanding subsection (3), every member of a Review Tribunal, and every deputy of any such member, shall, unless the member sooner dies, or resigns, or is removed from office under any of the preceding provisions of this section, continue in office until his or her successor is appointed notwithstanding the expiry of his or her term of office.
     
-    Section 106(3): amended, on 1 January 2002, by [section 70(1)][299] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 106(3): amended, on 1 January 2002, by [section 70(1)][298] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 107 Convener
     
@@ -3171,19 +3177,19 @@ Administration
     
     (3) If the convener is not present at any meeting, the members present shall elect 1 of their number to preside at that meeting.
     
-    Section 107(3): amended, on 1 April 2000, by [section 56][300] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 107(3): amended, on 1 April 2000, by [section 56][299] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 108 Fees and travelling allowances
     
-*   (1) Every Review Tribunal is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][301].
+*   (1) Every Review Tribunal is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][300].
     
-    (2) The members of Review Tribunals are paid remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, under the [Fees and Travelling Allowances Act 1951][301], and that Act applies accordingly.
+    (2) The members of Review Tribunals are paid remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, under the [Fees and Travelling Allowances Act 1951][300], and that Act applies accordingly.
     
     (3) The remuneration referred to in subsection (2) is met from any appropriation by Parliament for the purpose.
     
-    Section 108(2): substituted, on 1 April 2000, by [section 57][302] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 108(2): substituted, on 1 April 2000, by [section 57][301] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 108(3): added, on 1 April 2000, by [section 57][302] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 108(3): added, on 1 April 2000, by [section 57][301] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 108A No proceedings against members of Review Tribunals unless bad faith shown
     
@@ -3191,7 +3197,7 @@ Administration
     
     (2) Nothing in this section affects the right of any person or organisation to apply, in accordance with law, for judicial review of a member of a Review Tribunal's powers, duties, or functions under this Act.
     
-    Section 108A: inserted, on 1 April 2000, by [section 58][303] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 108A: inserted, on 1 April 2000, by [section 58][302] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ## Part 10  
 Enforcement and offences
@@ -3232,21 +3238,21 @@ Enforcement and offences
     
     Compare: 1969 No 16 s 35; 1972 No 22 s 4
     
-    Section 109 heading: substituted, on 1 April 2000, by [section 59][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 109 heading: substituted, on 1 April 2000, by [section 59][303] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 109(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 109(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 109(3): substituted, on 1 April 2000, by [section 59(1)][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 109(3): substituted, on 1 April 2000, by [section 59(1)][303] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 109(3A): inserted, on 1 April 2000, by [section 59(1)][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 109(3A): inserted, on 1 April 2000, by [section 59(1)][303] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 109(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 109(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 109(4)(a): amended, on 1 April 2000, by [section 59(2)][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 109(4)(a): amended, on 1 April 2000, by [section 59(2)][303] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 109(4)(b): amended, on 1 April 2000, by [section 59(2)][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 109(4)(b): amended, on 1 April 2000, by [section 59(2)][303] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 109(5): substituted, on 1 April 2000, by [section 59(3)][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 109(5): substituted, on 1 April 2000, by [section 59(3)][303] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 110 Powers of medical practitioner when urgent examination required
     
@@ -3272,7 +3278,7 @@ Enforcement and offences
     
     (4) A medical practitioner who needs assistance to conduct a medical examination under subsection (1)(a) may call for Police assistance under [section 110C][146].
     
-    Section 110: substituted, on 1 April 2000, by [section 60][305] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 110: substituted, on 1 April 2000, by [section 60][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 110A Power of medical practitioner who issues certificate to sedate when sedation urgently required
     
@@ -3296,7 +3302,7 @@ Enforcement and offences
     
     (5) A medical practitioner who needs assistance to administer a sedative drug under subsection (2) may call for Police assistance under [section 110C][146].
     
-    Section 110A: inserted, on 1 April 2000, by [section 60][305] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 110A: inserted, on 1 April 2000, by [section 60][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 110B Powers of medical practitioner when urgent assessment required
     
@@ -3308,7 +3314,7 @@ Enforcement and offences
     
     (4) A medical practitioner who needs assistance to conduct an assessment examination under subsection (2) may call for Police assistance under [section 110C][146].
     
-    Section 110B: inserted, on 1 April 2000, by [section 60][305] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 110B: inserted, on 1 April 2000, by [section 60][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 110C Powers of Police when urgent assistance required
     
@@ -3332,13 +3338,13 @@ Enforcement and offences
     
     *   (c) for the purposes of [section 110B(2)][145], 6 hours or the time it takes to conduct the assessment examination, whichever is shorter.
     
-    Section 110C: inserted, on 1 April 2000, by [section 60][305] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 110C: inserted, on 1 April 2000, by [section 60][304] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 110C(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 110C(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 110C(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 110C(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 110C(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 110C(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
 
 ##### 111 Powers of nurse where urgent assessment required
     
@@ -3364,17 +3370,17 @@ Enforcement and offences
     
     (3) No person shall be detained under this section for more than 6 hours from the time when the nurse first calls for a medical practitioner to examine the person.
     
-    Section 111(1): amended, on 1 April 2000, by [section 61(b)][306] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 111(1): amended, on 1 April 2000, by [section 61(b)][305] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Section 111(1)(b): amended, on 18 September 2004, by [section 175(1)][217] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48). 
     
-    Section 111(1)(b)(i): amended, on 1 April 2000, by [section 61(a)][306] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 111(1)(b)(i): amended, on 1 April 2000, by [section 61(a)][305] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 112 Judge may authorise apprehension of patients and proposed patients
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 1 April 2000, by [section 62][307] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 112: repealed, on 1 April 2000, by [section 62][306] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 113 Authority of person in charge of hospital or service to admit and detain
     
@@ -3396,7 +3402,7 @@ Enforcement and offences
     
     *   (b) to take all reasonable steps to detain the patient in the hospital during the period for which the order is in force.
     
-    Section 113: substituted, on 1 April 2000, by [section 63][308] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 113: substituted, on 1 April 2000, by [section 63][307] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 113A Judge or Registrar may issue warrants
     
@@ -3466,13 +3472,13 @@ Enforcement and offences
     
     (7) A District Court Judge or, if no Judge is available, a Registrar may issue a warrant authorising any constable to enter premises under [section 41(2)][50], if the Judge or Registrar is satisfied that the issue of a warrant is necessary.
     
-    Section 113A: inserted, on 1 April 2000, by [section 64][309] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 113A: inserted, on 1 April 2000, by [section 64][308] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 113A(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 113A(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 113A(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 113A(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 113A(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 113A(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
 
 ##### 114 Neglect or ill-treatment of proposed patients and patients
     
@@ -3492,27 +3498,33 @@ Enforcement and offences
     
     *   (d) the person in charge of a home, house, or other place where a proposed patient or patient resides.
     
-    (2) Every such person who intentionally ill-treats or intentionally neglects any such proposed patient or patient commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+    (2) Every such person who intentionally ill-treats or intentionally neglects any such proposed patient or patient commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years.
     
-    Section 114: substituted, on 1 April 2000, by [section 65][310] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 114: substituted, on 1 April 2000, by [section 65][309] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    
+    Section 114(2): amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 115 Assisting patient on community treatment order not to attend for treatment
     
 *   (1) Subsection (2) applies to a person who is employed in or about a place at which a patient who is subject to a community treatment order is required to attend for treatment.
     
-    (2) Every such person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she---
+    (2) Every such person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she---
         
     *   (a) intentionally permits any such patient not to attend, or to attempt not to attend, at the place; or
     
     *   (b) connives at any such absence or attempted absence.
     
-    (3) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she---
+    (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, if he or she---
         
     *   (a) intentionally instigates or assists any patient who is subject to a community treatment order not to attend, or to attempt not to attend, at any place at which the patient is required to attend for treatment; or
     
     *   (b) intentionally assists any patient who is so absent to avoid, or to attempt to avoid, being taken to the place.
     
-    Section 115: substituted, on 1 April 2000, by [section 65][310] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 115: substituted, on 1 April 2000, by [section 65][309] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    
+    Section 115(2): amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 115(3): amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 115A Assisting patient on inpatient order to be absent without leave
     
@@ -3530,37 +3542,41 @@ Enforcement and offences
     
     *   (b) intentionally assists any patient who is so absent to avoid, or to attempt to avoid, being retaken.
     
-    Section 115A: inserted, on 1 April 2000, by [section 65][310] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 115A: inserted, on 1 April 2000, by [section 65][309] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 116 Unlawful publication of reports of proceedings before Review Tribunal
     
-*   A person who contravenes [clause 8(1)][311] of Schedule 1 commits an offence against this Act and is liable to a fine not exceeding $10,000\.
+*   A person who contravenes [clause 8(1)][310] of Schedule 1 commits an offence against this Act and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 116: substituted, on 1 April 2000, by [section 66][312] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 116: substituted, on 1 April 2000, by [section 66][311] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    
+    Section 116: amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 117 Obstruction of inspection
     
-*   Every person commits an offence and is liable to a fine not exceeding $2,000 who, being the Director of Area Mental Health Services in respect of any hospital or service that is being visited by a district inspector or an official visitor, or a responsible clinician, or an employee in any such hospital or service,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being the Director of Area Mental Health Services in respect of any hospital or service that is being visited by a district inspector or an official visitor, or a responsible clinician, or an employee in any such hospital or service,---
         
     *   (a) conceals or attempts to conceal from the district inspector or official visitor, or refuses or wilfully neglects to show to the district inspector or official visitor, any part of the hospital or service or any person detained or being treated in it; or
     
     *   (b) in any other manner wilfully obstructs or attempts to obstruct the district inspector or official visitor in the conduct of his or her official duties.
     
     Compare: 1969 No 16 s 57(2)
+    
+    Section 117: amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 118 False or misleading certificates
     
-*   Every person commits an offence and is liable to a fine not exceeding $5,000 who---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who---
         
     *   (a) includes or causes to be included in any certificate under this Act any particular that he or she knows to be false or misleading in any material respect; or
     
     *   (b) negligently includes or negligently causes to be included in any such certificate any particular that is false or misleading in any material respect.
     
-    
+    Section 118: amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 119 Further offences involving false or misleading documents, etc
     
-*   Every person commits an offence and is liable to a fine not exceeding $2,000 who---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who---
         
     *   (a) intentionally omits, or intentionally causes any other person to omit, to state in any notice, statement, or entry under this Act any particular prescribed or required by or under this Act to be included in the notice, statement, or entry; or
     
@@ -3568,25 +3584,23 @@ Enforcement and offences
     
     *   (c) negligently includes or negligently causes to be included in any such notice, statement, or entry any particular that is false or misleading in any material respect.
     
-    
+    Section 119: amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 120 Offences punishable on summary conviction
+##### 120 Who may commence proceedings
     
-*   (1) Except where this Act otherwise provides, every offence against this Act, or against any regulations made under this Act, shall be punishable on summary conviction.
-    
-    (2) Every information for any such offence, not being an offence punishable on conviction on indictment, shall be laid by---
+*   Proceedings for an offence against this Act must be commenced by---
         
     *   (a) the Director or some other person authorised in writing by the Director in a particular case; or
     
-    *   (b) any .
+    *   (b) any constable.
     
-    Compare: 1969 No 16 s 115
-    
-    Section 120(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 120: replaced, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 121 General penalty
     
-*   Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable to a fine not exceeding $500\.
+*   Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding $500\.
+    
+    Section 121: amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 122 Matters of justification or excuse
     
@@ -3598,23 +3612,23 @@ Enforcement and offences
     
     (4) \[Repealed\]
     
-    Compare: 1961 No 43 [ss 28][313], [29][314]
+    Compare: 1961 No 43 [ss 28][312], [29][313]
     
-    Section 122(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 122(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 122(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 122(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 122(4): repealed, on 1 April 2000, by [section 67][315] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 122(4): repealed, on 1 April 2000, by [section 67][314] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 122A Certain sections of Crimes Act 1961 apply to powers to take and retake
     
-*   [Sections 32(1)][40], [38(4)(d)][47], [40(2)][49], [41(4)][50], [41(5)][50], [41(6)][50], [50(4)][63], [51(3)][64], [53][66], [109(1)][142], [109(4)][142], [110C(2)][146], [111(2)][147], and [113A][150] contain a power to take or retake a person, a proposed patient, or a patient. In respect of each of these powers, [sections 30][316], [31][317], and [34][318] of the Crimes Act 1961 apply---
+*   [Sections 32(1)][40], [38(4)(d)][47], [40(2)][49], [41(4)][50], [41(5)][50], [41(6)][50], [50(4)][63], [51(3)][64], [53][66], [109(1)][142], [109(4)][142], [110C(2)][146], [111(2)][147], and [113A][150] contain a power to take or retake a person, a proposed patient, or a patient. In respect of each of these powers, [sections 30][315], [31][316], and [34][317] of the Crimes Act 1961 apply---
         
     *   (a) as if the power were a power of arrest; and
     
     *   (b) with any necessary modifications.
     
-    Section 122A: inserted, on 1 April 2000, by [section 68][319] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 122A: inserted, on 1 April 2000, by [section 68][318] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 122B Use of force
     
@@ -3636,9 +3650,9 @@ Enforcement and offences
     
     *   (b) a copy of the record must be given to the Director of Area Mental Health Services as soon as practicable.
     
-    Section 122B: inserted, on 1 April 2000, by [section 68][319] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 122B: inserted, on 1 April 2000, by [section 68][318] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 122B(3): amended, on 22 October 2003, by [section 3][320] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 2003 (2003 No 85).
+    Section 122B(3): amended, on 22 October 2003, by [section 3][319] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 2003 (2003 No 85).
 
 ## Part 11  
 Miscellaneous provisions
@@ -3709,7 +3723,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 126: repealed, on 1 April 2000, by [section 69][321] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 126: repealed, on 1 April 2000, by [section 69][320] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 127 Transfer of patients
     
@@ -3733,11 +3747,11 @@ Miscellaneous provisions
     
     Compare: 1969 No 16 ss 69--71; 1972 No 22 s 8
     
-    Section 127(4): amended, on 1 April 2000, by [section 70(1)(a)][322] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 127(4): amended, on 1 April 2000, by [section 70(1)(a)][321] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 127(4): amended, on 1 April 2000, by [section 70(1)(b)][322] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 127(4): amended, on 1 April 2000, by [section 70(1)(b)][321] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Section 127(5): amended, on 1 April 2000, by [section 70(2)][322] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 127(5): amended, on 1 April 2000, by [section 70(2)][321] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 128 Removal from New Zealand
     
@@ -3749,7 +3763,7 @@ Miscellaneous provisions
     
     *   (b) give such directions as the Minister thinks fit for the payment by or on behalf of the patient or out of the patient's estate of the whole or any part of the expenses of and incidental to his or her removal from New Zealand to that other place, including the fares and expenses of any escort or other person accompanying the patient or supervising his or her removal:
     
-    *   (c) direct any person who is for the time being, by virtue of a property order made under [Part 3][323] of the Protection of Personal and Property Rights Act 1988, the manager of any property belonging to the patient to pay or transfer any such property to such person or persons in the country to which the patient is being removed, or in such other manner, as the Minister shall decide.
+    *   (c) direct any person who is for the time being, by virtue of a property order made under [Part 3][322] of the Protection of Personal and Property Rights Act 1988, the manager of any property belonging to the patient to pay or transfer any such property to such person or persons in the country to which the patient is being removed, or in such other manner, as the Minister shall decide.
     
     (3) The powers conferred on the Minister by the foregoing provisions of this section may, with the concurrence of the Minister of the Crown who is responsible for the Department of Corrections in each case, be exercised in respect of any special patient.
     
@@ -3757,7 +3771,7 @@ Miscellaneous provisions
     
     Compare: 1969 No 16 s 72
     
-    Section 128(3): amended, on 1 October 1995, by [section 10(3)][261] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 128(3): amended, on 1 October 1995, by [section 10(3)][260] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 129 Registers and records
     
@@ -3777,7 +3791,7 @@ Miscellaneous provisions
     
     Compare: 1969 No 16 s 51
     
-    Section 129(1): amended, on 1 April 2000, by [section 71][324] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 129(1): amended, on 1 April 2000, by [section 71][323] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 130 Director-General may promulgate standards
     
@@ -3805,9 +3819,9 @@ Miscellaneous provisions
     
     Compare: 1969 No 16 s 54
     
-    Section 132(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][256] of the Policing Act 2008 (2008 No 72).
+    Section 132(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][255] of the Policing Act 2008 (2008 No 72).
     
-    Section 132(1)(b): amended, on 1 April 2000, by [section 72][325] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 132(1)(b): amended, on 1 April 2000, by [section 72][324] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 133 Giving or sending documents
     
@@ -3835,7 +3849,7 @@ Miscellaneous provisions
     
     (6) A document sent under subsection (3)(c) is deemed, in the absence of proof to the contrary, to have been delivered on the day after the day on which it was sent, and it is sufficient proof of sending that a correct machine-generated acknowledgement of receipt exists.
     
-    Section 133: substituted, on 1 April 2000, by [section 73][326] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 133: substituted, on 1 April 2000, by [section 73][325] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 133A Forms
     
@@ -3851,7 +3865,7 @@ Miscellaneous provisions
     
     *   (b) may at any time revoke or vary the dispensation by giving notice.
     
-    Section 133A: inserted, on 1 April 2000, by [section 73][326] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 133A: inserted, on 1 April 2000, by [section 73][325] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 134 Fees of medical practitioners
     
@@ -3865,7 +3879,7 @@ Miscellaneous provisions
     
     (5) No fees are payable under this section to a medical practitioner employed by a service or by the Ministry of Health, for anything done in the course of that employment.
     
-    Section 134: substituted, on 1 April 2000, by [section 74][327] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Section 134: substituted, on 1 April 2000, by [section 74][326] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 135 Regulations
     
@@ -3913,17 +3927,17 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 138: repealed, on 1 October 2004, by [section 59(2)][328] of the Health and Disability Services (Safety) Act 2001 (2001 No 93). 
+    Section 138: repealed, on 1 October 2004, by [section 59(2)][327] of the Health and Disability Services (Safety) Act 2001 (2001 No 93). 
 
 ##### 139 Criminal Justice Act 1985 amended
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][329]._ 
+*   (1) _Amendment(s) incorporated in the [Act(s)][328]._ 
     
     (2) The provisions of the Criminal Justice Act 1985 specified in [Schedule 4][193] are hereby amended in the manner indicated in that schedule.
 
 ##### 140 Armed Forces Discipline Act 1971 amended
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][330]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][329]._
     
     (2) The provisions of the Armed Forces Discipline Act 1971 specified in [Schedule 5][194] are hereby amended in the manner indicated in that schedule.
 
@@ -3988,7 +4002,7 @@ Transitional provisions
 
 ##### 146 Persons detained as committed patients pursuant to Criminal Justice Act 1985
     
-*   Every person who, immediately before the commencement of this Act, was detained in a hospital as a committed patient pursuant to an order made under subsection (2) or subsection (6) of [section 115][331] or [section 118(1)][332] of the Criminal Justice Act 1985, or pursuant to a direction given under subsection (4) or subsection (5) or subsection (6)(b) of [section 116][333] or [section 117(2)][334] of that Act, shall be deemed for the purposes of this Act to be detained as a patient, and that order or direction shall be deemed for those purposes to be a compulsory treatment order.
+*   Every person who, immediately before the commencement of this Act, was detained in a hospital as a committed patient pursuant to an order made under subsection (2) or subsection (6) of [section 115][330] or [section 118(1)][331] of the Criminal Justice Act 1985, or pursuant to a direction given under subsection (4) or subsection (5) or subsection (6)(b) of [section 116][332] or [section 117(2)][333] of that Act, shall be deemed for the purposes of this Act to be detained as a patient, and that order or direction shall be deemed for those purposes to be a compulsory treatment order.
 
 ---
 
@@ -4005,7 +4019,7 @@ Procedural provisions relating to Review Tribunals
     
 *   (1) The patient shall be present throughout the hearing by a Review Tribunal of an application for a review of the patient's condition unless---
         
-    *   (a) the convener or other member who examines the patient in accordance with [clause 1][335] certifies that it would be in the best interests of the patient to excuse the patient from attending the hearing; or
+    *   (a) the convener or other member who examines the patient in accordance with [clause 1][334] certifies that it would be in the best interests of the patient to excuse the patient from attending the hearing; or
     
     *   (b) the patient is excused or excluded by the Tribunal under subclause (2) or subclause (3).
     
@@ -4029,7 +4043,7 @@ Procedural provisions relating to Review Tribunals
 
 ##### 3 Right of patient and other persons to be heard and call evidence
     
-*   (1) The patient, and any person referred to in [clause 2(6)][336], shall be entitled to be heard by the Tribunal, whether in person or through a barrister or solicitor, and to call witnesses, and to cross-examine any witness called by any other party to the proceedings.
+*   (1) The patient, and any person referred to in [clause 2(6)][335], shall be entitled to be heard by the Tribunal, whether in person or through a barrister or solicitor, and to call witnesses, and to cross-examine any witness called by any other party to the proceedings.
     
     (2) Without limiting anything in subclause (1), where the patient is present and appears capable of addressing the Tribunal, the Tribunal shall give the patient an opportunity to do so; and, in any such case, the Tribunal may, if it thinks it desirable to do so, require any parent or guardian of the patient, or any other person with whom the patient is living, or any barrister or solicitor representing any such parent, guardian, or other person, to withdraw from the Tribunal while the patient is addressing the Tribunal.
 
@@ -4055,13 +4069,13 @@ Procedural provisions relating to Review Tribunals
     
     *   (b) an order for the fees and expenses of the person to be met from any appropriation by Parliament for the purpose.
     
-    Schedule 1 clause 4(5): substituted, on 1 April 2000, by [section 75(1)][337] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Schedule 1 clause 4(5): substituted, on 1 April 2000, by [section 75(1)][336] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Schedule 1 clause 4(6): substituted, on 1 April 2000, by [section 75(1)][337] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Schedule 1 clause 4(6): substituted, on 1 April 2000, by [section 75(1)][336] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Schedule 1 clause 4(7): substituted, on 1 April 2000, by [section 75(1)][337] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Schedule 1 clause 4(7): substituted, on 1 April 2000, by [section 75(1)][336] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
-    Schedule 1 clause 4(8): added, on 1 April 2000, by [section 75(1)][337] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Schedule 1 clause 4(8): added, on 1 April 2000, by [section 75(1)][336] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 5 Evidence
     
@@ -4069,17 +4083,19 @@ Procedural provisions relating to Review Tribunals
 
 ##### 6 Power of Tribunal to call witnesses
     
-*   (1) Without limiting anything in [clause 5][338], for the purposes of a review of a patient's condition, a Review Tribunal may, of its own motion, call as a witness any person whose evidence may, in its opinion, be of assistance to the Tribunal.
+*   (1) Without limiting anything in [clause 5][337], for the purposes of a review of a patient's condition, a Review Tribunal may, of its own motion, call as a witness any person whose evidence may, in its opinion, be of assistance to the Tribunal.
     
     (2) A witness called by the Tribunal under this clause shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
     
     (3) A witness called by the Tribunal under this clause may be examined and re-examined by the Tribunal, and may be cross-examined by or on behalf of any party to the proceedings.
     
-    (4) [Sections 20][241], [38][242], and [39][243] of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the Tribunal under this clause as if that person had been called by a party to the proceedings.
+    (4) [Sections 159][241] and [161 to 165][242] of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the Tribunal under this clause as if that person had been called by a party to the proceedings.
     
     (5) The expenses of any witness called by the Tribunal under this clause must be met, in accordance with the prescribed scale of witnesses' expenses, in the first instance from any appropriation by Parliament for the purpose.
     
-    Schedule 1 clause 6(5): substituted, on 1 April 2000, by [section 75(2)][337] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Schedule 1 clause 6(4): amended, on 1 July 2013, by [section 413][222] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Schedule 1 clause 6(5): substituted, on 1 April 2000, by [section 75(2)][336] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
 
 ##### 7 Proceedings not open to public
     
@@ -4091,7 +4107,7 @@ Procedural provisions relating to Review Tribunals
     
     *   (c) witnesses:
     
-    *   (d) any person referred to in [clause 2(6)][336]:
+    *   (d) any person referred to in [clause 2(6)][335]:
     
     *   (e) any other person whom the convener permits to be present.
     
@@ -4117,7 +4133,7 @@ Procedural provisions relating to Review Tribunals
         
         
     
-    Schedule 1 clause 8(2)(b): substituted, on 1 April 2000, by [section 75(3)][337] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
+    Schedule 1 clause 8(2)(b): substituted, on 1 April 2000, by [section 75(3)][336] of the Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140).
     
     Schedule 1 clause 8(2)(b)(iv): amended, on 1 January 2001, by [section 111(1)][220] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
@@ -4159,15 +4175,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Coroners Act 1988 (1988 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][339]._
+_Amendment(s) incorporated in the [Act(s)][338]._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122) (RS Vol 26, p 143)
 
-_Amendment(s) incorporated in the [Act(s)][340]._
+_Amendment(s) incorporated in the [Act(s)][339]._
 
 ##### Health Amendment Act 1987 (1987 No 10) (RS Vol 19, p 618)
 
-_Amendment(s) incorporated in the [Act(s)][341]._
+_Amendment(s) incorporated in the [Act(s)][340]._
 
 ---
 
@@ -4189,7 +4205,7 @@ Amendments to Armed Forces Discipline Act 1971
 
 ##### Section 187
 
-_Amendment(s) incorporated in the [Act(s)][342]._
+_Amendment(s) incorporated in the [Act(s)][341]._
 
 ##### Section 191 (as substituted by section 38 of the Armed Forces Discipline Amendment Act 1985)
 
@@ -4197,19 +4213,19 @@ _Amendment(s) incorporated in the [Act(s)][210]._
 
 ##### Section 192 (as substituted by section 38 of the Armed Forces Discipline Amendment Act 1985)
 
-_Amendment(s) incorporated in the [Act(s)][343]._
+_Amendment(s) incorporated in the [Act(s)][342]._
 
 ##### Section 193 (as substituted by section 38 of the Armed Forces Discipline Amendment Act 1985)
 
-_Amendment(s) incorporated in the [Act(s)][344]._
+_Amendment(s) incorporated in the [Act(s)][343]._
 
 ##### Section 194 (as substituted by section 38 of the Armed Forces Discipline Amendment Act 1985)
 
-_Amendment(s) incorporated in the [Act(s)][345]._
+_Amendment(s) incorporated in the [Act(s)][344]._
 
 ##### Section 196
 
-_Amendment(s) incorporated in the [Act(s)][346]._
+_Amendment(s) incorporated in the [Act(s)][345]._
 
 ---
 
@@ -4227,23 +4243,23 @@ _Amendment(s) incorporated in the [Act(s)][346]._
 
 ###### 1 General
     
-*   This is a reprint of the Mental Health (Compulsory Assessment and Treatment) Act 1992\. The reprint incorporates all the amendments to the Act as at 1 July 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Mental Health (Compulsory Assessment and Treatment) Act 1992\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][347] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][346] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][348] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][347] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][349] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][348] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][350] and [17E][351] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][349] and [17E][350] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4274,41 +4290,41 @@ _Amendment(s) incorporated in the [Act(s)][346]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Mental Health (Compulsory Assessment and Treatment) Amendment Act 2008][352] (2008 No 82)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][222]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][256]
+    [Mental Health (Compulsory Assessment and Treatment) Amendment Act 2008][351] (2008 No 82)
     
-    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][222]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][255]
     
     Court Martial Act 2007 (2007 No 101): [section 87][214]
     
     Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][223]
     
-    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 12][297]
+    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 12][296]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][219]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][280]
+    Care of Children Act 2004 (2004 No 90): [section 151][279]
     
     Corrections Act 2004 (2004 No 50): [section 206][218]
     
     Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][221]
     
-    [Mental Health (Compulsory Assessment and Treatment) Amendment Act 2003][353] (2003 No 85)
+    [Mental Health (Compulsory Assessment and Treatment) Amendment Act 2003][352] (2003 No 85)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][217]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][299]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][298]
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [sections 58(1)][216], [59(2)][328]
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [sections 58(1)][216], [59(2)][327]
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][220]
     
     Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][261]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][260]
     
-    Health Amendment Act 1993 (1993 No 24): [section 38(3)(a)][283]
+    Health Amendment Act 1993 (1993 No 24): [section 38(3)(a)][282]
     
     Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][213]
     
@@ -4522,7 +4538,7 @@ _Amendment(s) incorporated in the [Act(s)][346]._
 [203]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM223889
 [204]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224509
 [205]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224521
-[206]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM2185875
+[206]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM3360289
 [207]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM223888
 [208]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224505
 [209]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224504
@@ -4538,7 +4554,7 @@ _Amendment(s) incorporated in the [Act(s)][346]._
 [219]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM333795
 [220]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM81644
 [221]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224534
-[222]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1380050
+[222]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM3360714
 [223]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1034362
 [224]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM48989
 [225]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM48991
@@ -4557,116 +4573,115 @@ _Amendment(s) incorporated in the [Act(s)][346]._
 [238]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49316
 [239]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49317
 [240]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49318
-[241]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM311316
-[242]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM311638
-[243]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM311640
-[244]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49319
-[245]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM2061203
-[246]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1303707
-[247]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49321
-[248]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49323
-[249]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49324
-[250]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49325
-[251]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49327
-[252]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49328
-[253]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49330
-[254]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49331
-[255]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49333
-[256]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1102349
-[257]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49335
-[258]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM380084
-[259]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM294848
-[260]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49338
-[261]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM367235
-[262]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224577
-[263]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM223817
-[264]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM137638
-[265]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49339
-[266]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49341
-[267]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49342
-[268]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49344
-[269]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49345
-[270]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49348
-[271]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49349
-[272]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49350
-[273]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM223898
-[274]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224501
-[275]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49351
-[276]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49352
-[277]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49353
-[278]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49355
-[279]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM317463
-[280]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM317988
-[281]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM129109
-[282]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM101379
-[283]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM296637
-[284]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49356
-[285]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49360
-[286]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49361
-[287]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM139130
-[288]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM139172
-[289]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM139174
-[290]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49363
-[291]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49364
-[292]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49365
-[293]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49366
-[294]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49369
-[295]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49371
-[296]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM192866
-[297]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM393154
-[298]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49373
-[299]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM122579
-[300]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49374
-[301]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM264952
-[302]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49375
-[303]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49376
-[304]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49378
-[305]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49379
-[306]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49384
-[307]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49385
-[308]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49386
-[309]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49388
-[310]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49392
-[311]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264272
-[312]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49396
-[313]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328238
-[314]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328242
-[315]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49398
-[316]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328244
-[317]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328246
-[318]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328249
-[319]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49399
-[320]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM217692
-[321]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49602
-[322]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49603
-[323]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM127002
-[324]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49604
-[325]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49605
-[326]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49606
-[327]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49609
-[328]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM120919
-[329]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM76615
-[330]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM401062
-[331]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78531
-[332]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78549
-[333]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78539
-[334]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78545
-[335]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264263
-[336]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264264
-[337]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49611
-[338]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264268
-[339]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM134197
-[340]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM437156
-[341]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM101395
-[342]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM403887
-[343]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404042
-[344]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404053
-[345]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404059
-[346]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404071
-[347]: http://www.pco.parliament.govt.nz/reprints/
-[348]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM195439
-[349]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[350]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM195468
-[351]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM195470
-[352]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1303702
-[353]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM217687
+[241]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM3360276
+[242]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM3360278
+[243]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49319
+[244]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM2061203
+[245]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1303707
+[246]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49321
+[247]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49323
+[248]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49324
+[249]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49325
+[250]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49327
+[251]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49328
+[252]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49330
+[253]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49331
+[254]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49333
+[255]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1102349
+[256]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49335
+[257]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM380084
+[258]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM294848
+[259]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49338
+[260]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM367235
+[261]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224577
+[262]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM223817
+[263]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM137638
+[264]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49339
+[265]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49341
+[266]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49342
+[267]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49344
+[268]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49345
+[269]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49348
+[270]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49349
+[271]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49350
+[272]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM223898
+[273]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM224501
+[274]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49351
+[275]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49352
+[276]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49353
+[277]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49355
+[278]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM317463
+[279]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM317988
+[280]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM129109
+[281]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM101379
+[282]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM296637
+[283]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49356
+[284]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49360
+[285]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49361
+[286]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM139130
+[287]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM139172
+[288]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM139174
+[289]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49363
+[290]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49364
+[291]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49365
+[292]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49366
+[293]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49369
+[294]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49371
+[295]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM192866
+[296]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM393154
+[297]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49373
+[298]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM122579
+[299]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49374
+[300]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM264952
+[301]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49375
+[302]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49376
+[303]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49378
+[304]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49379
+[305]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49384
+[306]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49385
+[307]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49386
+[308]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49388
+[309]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49392
+[310]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264272
+[311]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49396
+[312]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328238
+[313]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328242
+[314]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49398
+[315]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328244
+[316]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328246
+[317]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM328249
+[318]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49399
+[319]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM217692
+[320]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49602
+[321]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49603
+[322]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM127002
+[323]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49604
+[324]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49605
+[325]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49606
+[326]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49609
+[327]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM120919
+[328]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM76615
+[329]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM401062
+[330]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78531
+[331]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78549
+[332]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78539
+[333]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM78545
+[334]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264263
+[335]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264264
+[336]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM49611
+[337]: http://www.legislation.govt.nz/act/public/1992/0046/latest/whole.html#DLM264268
+[338]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM134197
+[339]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM437156
+[340]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM101395
+[341]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM403887
+[342]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404042
+[343]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404053
+[344]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404059
+[345]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM404071
+[346]: http://www.pco.parliament.govt.nz/reprints/
+[347]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM195439
+[348]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[349]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM195468
+[350]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM195470
+[351]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM1303702
+[352]: http://www.legislation.govt.nz/act/public/1992/0046/latest/link.aspx?id=DLM217687
