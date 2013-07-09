@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -734,9 +734,11 @@ Enforcement provisions
     
     (4) A person who ceases to be an enforcement officer must return the person's warrant of appointment.
     
-    (5) A person who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $1,000\.
+    (5) A person who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
     Compare: 2003 No 51 [s 331][84]
+    
+    Section 22(5): amended, on 1 July 2013, by [section 413][85] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Formal warnings
 
@@ -986,7 +988,7 @@ Enforcement provisions
     
     *   (c) make an order under [section 46][62] requiring a person to pay compensation or damages that, in total, exceed $200,000\.
     
-    Compare: 1986 No 121 [ss 38][85], [43(3)][86]
+    Compare: 1986 No 121 [ss 38][86], [43(3)][87]
 
 ##### 38 Jurisdiction of High Court
     
@@ -1002,7 +1004,7 @@ Enforcement provisions
     
     *   (e) applications for joining of parties or proceedings under [section 47][63].
     
-    Compare: 1986 No 121 [s 37][87]
+    Compare: 1986 No 121 [s 37][88]
 
 #### Injunctions
 
@@ -1044,7 +1046,7 @@ Enforcement provisions
     
     (2) The court may rescind or vary an injunction granted under this section.
     
-    Compare: 2003 No 52 [s 96][88]; Spam Act 2003 ss 32, 34 (Aust)
+    Compare: 2003 No 52 [s 96][89]; Spam Act 2003 ss 32, 34 (Aust)
 
 ##### 43 When High Court may grant restraining injunctions and interim injunctions
     
@@ -1060,7 +1062,7 @@ Enforcement provisions
     
     (4) Subsections (1)(b) and (2) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
     
-    Compare: 2003 No 52 [ss 97][89], [98][90]; Spam Act 2003 ss 33, 35 (Aust)
+    Compare: 2003 No 52 [ss 97][90], [98][91]; Spam Act 2003 ss 33, 35 (Aust)
 
 ##### 44 Undertaking as to damages not required by enforcement department
     
@@ -1068,7 +1070,7 @@ Enforcement provisions
     
     (2) However, in determining the enforcement department's application for the grant of an interim injunction, the court must not take into account that the enforcement department is not required to give an undertaking as to damages.
     
-    Compare: 2003 No 52 [s 98][90]; Spam Act 2003 s 33 (Aust)
+    Compare: 2003 No 52 [s 98][91]; Spam Act 2003 s 33 (Aust)
 
 #### Pecuniary penalties, compensation,   
 and damages
@@ -1161,11 +1163,11 @@ and damages
 
 ##### 51 Search warrant
     
-*   (1) An enforcement officer may apply in the manner provided in [subpart 3][91] of Part 4 of the Search and Surveillance Act 2012 for a search warrant to search a place or thing.
+*   (1) An enforcement officer may apply in the manner provided in [subpart 3][92] of Part 4 of the Search and Surveillance Act 2012 for a search warrant to search a place or thing.
     
     (2) \[Repealed\]
     
-    (3) The application must be made to an issuing officer (within the meaning of [section 3][92] of the Search and Surveillance Act 2012).
+    (3) The application must be made to an issuing officer (within the meaning of [section 3][93] of the Search and Surveillance Act 2012).
     
     (4) The issuing officer may issue a search warrant if there are reasonable grounds for believing that---
         
@@ -1173,51 +1175,51 @@ and damages
     
     *   (b) there is in, on, over, or under the place or thing, anything that is evidence of a civil liability event.
     
-    (5) The provisions of [Part 4][93] of the Search and Surveillance Act 2012 apply.
+    (5) The provisions of [Part 4][94] of the Search and Surveillance Act 2012 apply.
     
-    (6) Despite subsection (5), [sections 118][94] and [119][95] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (6) Despite subsection (5), [sections 118][95] and [119][96] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
-    Section 51(1): amended, on 1 October 2012, by [section 304(2)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(1): amended, on 1 October 2012, by [section 304(2)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 51(2): repealed, on 1 October 2012, by [section 304(3)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(2): repealed, on 1 October 2012, by [section 304(3)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 51(3): amended, on 1 October 2012, by [section 304(4)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(3): amended, on 1 October 2012, by [section 304(4)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 51(4): amended, on 1 October 2012, by [section 304(5)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(4): amended, on 1 October 2012, by [section 304(5)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 51(5): replaced, on 1 October 2012, by [section 304(6)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(5): replaced, on 1 October 2012, by [section 304(6)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 51(6): inserted, on 1 October 2012, by [section 304(6)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(6): inserted, on 1 October 2012, by [section 304(6)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 52 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 October 2012, by [section 304(7)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 52: repealed, on 1 October 2012, by [section 304(7)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 53 Powers conferred by search warrant
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 October 2012, by [section 304(7)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 53: repealed, on 1 October 2012, by [section 304(7)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 54 Person with knowledge of computer or computer network to assist access
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 1 October 2012, by [section 304(7)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 54: repealed, on 1 October 2012, by [section 304(7)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 55 Requirements when executing search warrant
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 1 October 2012, by [section 304(7)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 55: repealed, on 1 October 2012, by [section 304(7)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 56 Disposal of property or thing seized under search warrant
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 1 October 2012, by [section 304(7)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56: repealed, on 1 October 2012, by [section 304(7)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 4  
 Miscellaneous provisions
@@ -1274,7 +1276,7 @@ Miscellaneous provisions
     
     Compare: Spam Act 2003 ss 45, 47 (Aust)
     
-    Section 58(j): repealed, on 1 October 2012, by [section 304(7)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 58(j): repealed, on 1 October 2012, by [section 304(7)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -1297,7 +1299,7 @@ Messages that are not electronic messages
     
     *   (b) \[Repealed\]
     
-    Schedule clause 1(b): repealed, on 21 October 2011, by [clause 3][97] of the Unsolicited Electronic Messages Order 2011 (SR 2011/326).
+    Schedule clause 1(b): repealed, on 21 October 2011, by [clause 3][98] of the Unsolicited Electronic Messages Order 2011 (SR 2011/326).
 
 ##### 2 Definition
     
@@ -1310,76 +1312,6 @@ Messages that are not electronic messages
     *   (c) a call that is equivalent to a call covered by either paragraph (a) or (b) if a call covered by either of those paragraphs is not practical for a particular recipient with a disability (for example, because the recipient has a hearing impairment).
     
     
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][98].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][99] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ---
 
@@ -1397,23 +1329,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Unsolicited Electronic Messages Act 2007\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Unsolicited Electronic Messages Act 2007\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][100] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][99] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][101] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][102] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][101] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][103] and [17E][104] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][102] and [17E][103] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1444,9 +1376,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 304][96]
+*   Search and Surveillance Act 2012 (2012 No 24): [section 304][97]
     
-    [Unsolicited Electronic Messages Order 2011][105] (SR 2011/326)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][85]
+    
+    [Unsolicited Electronic Messages Order 2011][104] (SR 2011/326)
 
 
 
@@ -1535,24 +1469,23 @@ Amendments, repeals, and miscellaneous provisions
 [82]: http://www.legislation.govt.nz/act/public/2007/0007/latest/whole.html#DLM405275
 [83]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM210278
 [84]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM210279
-[85]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM96984
-[86]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM97304
-[87]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM96981
-[88]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM213176
-[89]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM213177
-[90]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM213178
-[91]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136781
-[92]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136542
-[93]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136770
-[94]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136813
-[95]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136815
-[96]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2137086
-[97]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996506
-[98]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136500
-[99]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM4686448
-[100]: http://www.pco.parliament.govt.nz/reprints/
-[101]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195439
-[102]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[103]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195468
-[104]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195470
-[105]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996500
+[85]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3360714
+[86]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM96984
+[87]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM97304
+[88]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM96981
+[89]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM213176
+[90]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM213177
+[91]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM213178
+[92]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136781
+[93]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136542
+[94]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136770
+[95]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136813
+[96]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136815
+[97]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2137086
+[98]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996506
+[99]: http://www.pco.parliament.govt.nz/reprints/
+[100]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195439
+[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[102]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195468
+[103]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195470
+[104]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996500
