@@ -1,5 +1,5 @@
 Reprint  
-as at 25 February 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,419 +25,419 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Meaning of domestic violence][5]
+[3][5][][5][Meaning of domestic violence][5]
 
-[4][6] [Meaning of domestic relationship][6]
+[4][6][][6][Meaning of domestic relationship][6]
 
-[5][7] [Object][7]
+[5][7][][7][Object][7]
 
-[6][8] [Act to bind the Crown][8]
+[6][8][][8][Act to bind the Crown][8]
 
 [Part 2][9]  
 [Protection orders][9]
 
 [Applications][10]
 
-[7][11] [Application for protection order][11]
+[7][11][][11][Application for protection order][11]
 
-[8][12] [Contents of application][12]
+[8][12][][12][Contents of application][12]
 
-[9][13] [Applications by minors][13]
+[9][13][][13][Applications by minors][13]
 
-[10][14] [Applications against minors][14]
+[10][14][][14][Applications against minors][14]
 
-[11][15] [Applications on behalf of persons lacking capacity][15]
+[11][15][][15][Applications on behalf of persons lacking capacity][15]
 
-[12][16] [Applications on behalf of certain other persons][16]
+[12][16][][16][Applications on behalf of certain other persons][16]
 
-[13][17] [Application without notice for protection order][17]
+[13][17][][17][Application without notice for protection order][17]
 
 [Scope of protection orders][18]
 
-[14][19] [Power to make protection order][19]
+[14][19][][19][Power to make protection order][19]
 
-[15][20] [Existence of other proceedings not to preclude granting of protection order][20]
+[15][20][][20][Existence of other proceedings not to preclude granting of protection order][20]
 
-[16][21] [Protection of persons other than applicant][21]
+[16][21][][21][Protection of persons other than applicant][21]
 
-[17][22] [Protection from respondent's associates][22]
+[17][22][][22][Protection from respondent's associates][22]
 
-[18][23] [Mutual orders][23]
+[18][23][][23][Mutual orders][23]
 
 [Standard conditions of protection orders][24]
 
-[19][25] [Standard conditions of protection order][25]
+[19][25][][25][Standard conditions of protection order][25]
 
-[20][26] [Further provisions relating to standard condition prohibiting contact][26]
+[20][26][][26][Further provisions relating to standard condition prohibiting contact][26]
 
 [Standard condition relating to weapons][27]
 
-[21][28] [Standard condition relating to weapons][28]
+[21][28][][28][Standard condition relating to weapons][28]
 
-[22][29] [Court may dispense with, modify, discharge, or re-impose standard condition relating to weapons][29]
+[22][29][][29][Court may dispense with, modify, discharge, or re-impose standard condition relating to weapons][29]
 
-[23][30] [Further provisions relating to powers conferred by section 22][30]
+[23][30][][30][Further provisions relating to powers conferred by section 22][30]
 
-[24][31] [Further provisions relating to effect of standard condition relating to weapons][31]
+[24][31][][31][Further provisions relating to effect of standard condition relating to weapons][31]
 
-[25][32] [Retention, return, and disposal of surrendered weapons and licences][32]
+[25][32][][32][Retention, return, and disposal of surrendered weapons and licences][32]
 
-[26][33] [Arms Act 1983 not affected][33]
+[26][33][][33][Arms Act 1983 not affected][33]
 
 [Special conditions of protection orders][34]
 
-[27][35] [Court may impose special conditions][35]
+[27][35][][35][Court may impose special conditions][35]
 
-[28][36] [Further provisions relating to certain special conditions][36]
+[28][36][][36][Further provisions relating to certain special conditions][36]
 
 [Interim care and contact orders][37]
 
-[28B][38] [Interim orders in respect of child of applicant's family][38]
+[28B][38][][38][Interim orders in respect of child of applicant's family][38]
 
-[28C][39] [Duration of interim order][39]
+[28C][39][][39][Duration of interim order][39]
 
-[28D][40] [Application for parenting order under Care of Children Act 2004 must be made][40]
+[28D][40][][40][Application for parenting order under Care of Children Act 2004 must be made][40]
 
 [Programmes][41]
 
-[29][42] [Programmes for protected persons][42]
+[29][42][][42][Programmes for protected persons][42]
 
-[30][43] [Commencement of section 29][43]
+[30][43][][43][Commencement of section 29][43]
 
-[31][44] [Joint programme sessions][44]
+[31][44][][44][Joint programme sessions][44]
 
-[32][45] [Power to direct respondent or associated respondent to attend programme][45]
+[32][45][][45][Power to direct respondent or associated respondent to attend programme][45]
 
-[33][46] [Terms of direction that respondent or associated respondent attend programme][46]
+[33][46][][46][Terms of direction that respondent or associated respondent attend programme][46]
 
-[34][47] [Registrar to notify programme provider to whom respondent or associated respondent is referred][47]
+[34][47][][47][Registrar to notify programme provider to whom respondent or associated respondent is referred][47]
 
-[35][48] [Programme provider to arrange meeting with respondent or associated respondent][48]
+[35][48][][48][Programme provider to arrange meeting with respondent or associated respondent][48]
 
-[36][49] [Direction to attend programme made on application without notice][49]
+[36][49][][49][Direction to attend programme made on application without notice][49]
 
-[37][50] [Court may confirm or discharge direction][50]
+[37][50][][50][Court may confirm or discharge direction][50]
 
-[38][51] [Respondent or associated respondent excused from attending][51]
+[38][51][][51][Respondent or associated respondent excused from attending][51]
 
-[39][52] [Notice of absence from programme][52]
+[39][52][][52][Notice of absence from programme][52]
 
-[40][53] [Notice of conclusion of programme][53]
+[40][53][][53][Notice of conclusion of programme][53]
 
-[41][54] [Programme provider may request variation of direction][54]
+[41][54][][54][Programme provider may request variation of direction][54]
 
-[41A][55] [Powers of Registrar on receipt of notice under section 39 or 41][55]
+[41A][55][][55][Powers of Registrar on receipt of notice under section 39 or 41][55]
 
-[42][56] [Judge may call respondent or associated respondent before court][56]
+[42][56][][56][Judge may call respondent or associated respondent before court][56]
 
-[42A][57] [Respondent or associated respondent called before court][57]
+[42A][57][][57][Respondent or associated respondent called before court][57]
 
-[43][58] [Confidentiality of information disclosed to programme provider][58]
+[43][58][][58][Confidentiality of information disclosed to programme provider][58]
 
-[44][59] [Programme providers' fees and expenses][59]
+[44][59][][59][Programme providers' fees and expenses][59]
 
 [Duration, variation, and discharge of protection orders][60]
 
-[45][61] [Duration of protection order][61]
+[45][61][][61][Duration of protection order][61]
 
-[46][62] [Power to vary protection order][62]
+[46][62][][62][Power to vary protection order][62]
 
-[47][63] [Power to discharge protection order][63]
+[47][63][][63][Power to discharge protection order][63]
 
-[48][64] [Variation or discharge on behalf of protected person][64]
+[48][64][][64][Variation or discharge on behalf of protected person][64]
 
 [Enforcement of protection orders][65]
 
-[49][66] [Offence to breach protection order][66]
+[49][66][][66][Offence to breach protection order][66]
 
-[49A][67] [Offence to fail to comply with direction][67]
+[49A][67][][67][Offence to fail to comply with direction][67]
 
-[50][68] [Power to arrest for breach of protection order][68]
+[50][68][][68][Power to arrest for breach of protection order][68]
 
-[51][69] [Release of person arrested][69] \[Repealed\]
+[51][69][][69][Release of person arrested][69] \[Repealed\]
 
 [Part 3][70]  
 [Orders relating to property][70]
 
 [Occupation orders][71]
 
-[52][72] [Application for occupation order][72]
+[52][72][][72][Application for occupation order][72]
 
-[53][73] [Power to make occupation order][73]
+[53][73][][73][Power to make occupation order][73]
 
-[54][74] [Effect of occupation order][74]
+[54][74][][74][Effect of occupation order][74]
 
-[55][75] [Power to vary or discharge occupation order][75]
+[55][75][][75][Power to vary or discharge occupation order][75]
 
 [Tenancy orders][76]
 
-[56][77] [Application for tenancy order][77]
+[56][77][][77][Application for tenancy order][77]
 
-[57][78] [Power to make tenancy order][78]
+[57][78][][78][Power to make tenancy order][78]
 
-[58][79] [Effect of tenancy order][79]
+[58][79][][79][Effect of tenancy order][79]
 
-[59][80] [Power to discharge tenancy order and revest tenancy][80]
+[59][80][][80][Power to discharge tenancy order and revest tenancy][80]
 
 [General provisions relating to occupation orders and tenancy orders][81]
 
-[60][82] [Application without notice for occupation order or tenancy order][82]
+[60][82][][82][Application without notice for occupation order or tenancy order][82]
 
-[61][83] [Procedure for occupation orders and tenancy orders][83]
+[61][83][][83][Procedure for occupation orders and tenancy orders][83]
 
 [Ancillary furniture orders][84]
 
-[62][85] [Application for ancillary furniture order][85]
+[62][85][][85][Application for ancillary furniture order][85]
 
-[63][86] [Power to make ancillary furniture order][86]
+[63][86][][86][Power to make ancillary furniture order][86]
 
-[64][87] [Effect of ancillary furniture order][87]
+[64][87][][87][Effect of ancillary furniture order][87]
 
-[65][88] [Power to vary or discharge ancillary furniture order][88]
+[65][88][][88][Power to vary or discharge ancillary furniture order][88]
 
 [Furniture orders][89]
 
-[66][90] [Application for furniture order][90]
+[66][90][][90][Application for furniture order][90]
 
-[67][91] [Power to make furniture order][91]
+[67][91][][91][Power to make furniture order][91]
 
-[68][92] [Effect of furniture order][92]
+[68][92][][92][Effect of furniture order][92]
 
-[69][93] [Power to vary or discharge furniture order][93]
+[69][93][][93][Power to vary or discharge furniture order][93]
 
 [Applications without notice for furniture orders][94]
 
-[70][95] [Application without notice for ancillary furniture order or furniture order][95]
+[70][95][][95][Application without notice for ancillary furniture order or furniture order][95]
 
 [General provisions relating to property orders][96]
 
-[71][97] [Applications for property orders by minors][97]
+[71][97][][97][Applications for property orders by minors][97]
 
-[72][98] [Applications for property orders against minors][98]
+[72][98][][98][Applications for property orders against minors][98]
 
-[73][99] [Applications for property orders on behalf of persons other than children][99]
+[73][99][][99][Applications for property orders on behalf of persons other than children][99]
 
-[74][100] [Notice to persons with interest in property affected][100]
+[74][100][][100][Notice to persons with interest in property affected][100]
 
-[75][101] [Protection of mortgagees, etc][101]
+[75][101][][101][Protection of mortgagees, etc][101]
 
 [Part 4][102]  
 [Procedure][102]
 
 [Temporary orders][103]
 
-[76][104] [Respondent to notify intention to appear][104]
+[76][104][][104][Respondent to notify intention to appear][104]
 
-[77][105] [Procedure where respondent does not require hearing][105]
+[77][105][][105][Procedure where respondent does not require hearing][105]
 
-[78][106] [Court may require hearing before order becomes final][106]
+[78][106][][106][Court may require hearing before order becomes final][106]
 
-[79][107] [Application of sections 76 to 78 to other affected persons][107]
+[79][107][][107][Application of sections 76 to 78 to other affected persons][107]
 
-[79A][108] [Review of contact arrangements][108]
+[79A][108][][108][Review of contact arrangements][108]
 
-[80][109] [Procedure where hearing required][109]
+[80][109][][109][Procedure where hearing required][109]
 
-[80A][110] [Temporary order discharged when made final order under section 80(1)][110]
+[80A][110][][110][Temporary order discharged when made final order under section 80(1)][110]
 
 [General provisions][111]
 
-[81][112] [Court may appoint lawyer][112]
+[81][112][][112][Court may appoint lawyer][112]
 
-[82][113] [Power of court to call witnesses][113]
+[82][113][][113][Power of court to call witnesses][113]
 
-[83][114] [Conduct of proceedings][114]
+[83][114][][114][Conduct of proceedings][114]
 
-[84][115] [Evidence][115]
+[84][115][][115][Evidence][115]
 
-[85][116] [Standard of proof][116]
+[85][116][][116][Standard of proof][116]
 
-[86][117] [Orders by consent][117]
+[86][117][][117][Orders by consent][117]
 
-[87][118] [Explanation of orders][118]
+[87][118][][118][Explanation of orders][118]
 
-[88][119] [Copies of orders to be sent to Police][119]
+[88][119][][119][Copies of orders to be sent to Police][119]
 
-[89][120] [Information on service of certain orders to be communicated to Police][120]
+[89][120][][120][Information on service of certain orders to be communicated to Police][120]
 
-[90][121] [Police to consider exercise of powers under Arms Act 1983][121]
+[90][121][][121][Police to consider exercise of powers under Arms Act 1983][121]
 
 [Appeals][122]
 
-[91][123] [Appeals to High Court][123]
+[91][123][][123][Appeals to High Court][123]
 
-[92][124] [Application of provisions relating to minors, etc][124]
+[92][124][][124][Application of provisions relating to minors, etc][124]
 
-[93][125] [Appeals to Court of Appeal][125]
+[93][125][][125][Appeals to Court of Appeal][125]
 
-[94][126] [Appeals to be heard as soon as practicable][126]
+[94][126][][126][Appeals to be heard as soon as practicable][126]
 
-[95][127] [Effect of appeal][127]
+[95][127][][127][Effect of appeal][127]
 
 [Part 5][128]  
 [Enforcement of protection orders overseas and foreign protection orders][128]
 
 [Enforcement of New Zealand orders overseas][129]
 
-[96][130] [Enforcement of New Zealand orders overseas][130]
+[96][130][][130][Enforcement of New Zealand orders overseas][130]
 
 [Enforcement of foreign protection orders][131]
 
-[97][132] [Registration of foreign protection orders][132]
+[97][132][][132][Registration of foreign protection orders][132]
 
-[98][133] [Copies of registered foreign protection orders to be sent to Police][133]
+[98][133][][133][Copies of registered foreign protection orders to be sent to Police][133]
 
-[99][134] [Effect of registration][134]
+[99][134][][134][Effect of registration][134]
 
-[100][135] [Variation of registered foreign protection order][135]
+[100][135][][135][Variation of registered foreign protection order][135]
 
-[101][136] [Registered foreign protection orders not to be enforced in certain circumstances][136]
+[101][136][][136][Registered foreign protection orders not to be enforced in certain circumstances][136]
 
-[102][137] [Evidence taken overseas][137]
+[102][137][][137][Evidence taken overseas][137]
 
-[103][138] [Proof of documents][138]
+[103][138][][138][Proof of documents][138]
 
-[104][139] [Depositions to be evidence][139]
+[104][139][][139][Depositions to be evidence][139]
 
-[105][140] [Prescribed foreign countries][140]
+[105][140][][140][Prescribed foreign countries][140]
 
-[106][141] [Evidence of orders made in foreign country][141]
+[106][141][][141][Evidence of orders made in foreign country][141]
 
 [Part 6][142]  
 [Non-publication of information relating to protected person on public registers][142]
 
 [Interpretation][143]
 
-[107][144] [Interpretation][144]
+[107][144][][144][Interpretation][144]
 
 [Applications for directions][145]
 
-[108][146] [Protected person may apply for direction that identifying information on public register not be publicly available][146]
+[108][146][][146][Protected person may apply for direction that identifying information on public register not be publicly available][146]
 
-[109][147] [Agency to determine application][147]
+[109][147][][147][Agency to determine application][147]
 
-[110][148] [Agency to notify applicant of decision][148]
+[110][148][][148][Agency to notify applicant of decision][148]
 
-[111][149] [Information not to be disclosed pending determination of application or complaint][149]
+[111][149][][149][Information not to be disclosed pending determination of application or complaint][149]
 
 [Effect of direction][150]
 
-[112][151] [Effect of direction][151]
+[112][151][][151][Effect of direction][151]
 
-[113][152] [Direction not applicable to relevant information subsequently included in register][152]
+[113][152][][152][Direction not applicable to relevant information subsequently included in register][152]
 
 [Duration of direction][153]
 
-[114][154] [Duration of direction][154]
+[114][154][][154][Duration of direction][154]
 
-[115][155] [Registrar to notify agency of making or discharge of protection order][155]
+[115][155][][155][Registrar to notify agency of making or discharge of protection order][155]
 
 [Disclosure of relevant information with consent][156]
 
-[116][157] [Disclosure of relevant information with consent of protected person][157]
+[116][157][][157][Disclosure of relevant information with consent of protected person][157]
 
 [Other enactments not affected][158]
 
-[117][159] [Other enactments not affected][159]
+[117][159][][159][Other enactments not affected][159]
 
 [Complaints to Privacy Commissioner][160]
 
-[118][161] [Complaints to Privacy Commissioner][161]
+[118][161][][161][Complaints to Privacy Commissioner][161]
 
-[119][162] [Investigation of complaint][162]
+[119][162][][162][Investigation of complaint][162]
 
-[120][163] [Application of certain provisions of Privacy Act 1993][163]
+[120][163][][163][Application of certain provisions of Privacy Act 1993][163]
 
 [Regulations][164]
 
-[121][165] [Regulations][165]
+[121][165][][165][Regulations][165]
 
 [Codes of practice][166]
 
-[122][167] [Codes of practice][167]
+[122][167][][167][Codes of practice][167]
 
-[123][168] [Application of certain provisions of Privacy Act 1993][168]
+[123][168][][168][Application of certain provisions of Privacy Act 1993][168]
 
-[124][169] [Effect of code][169]
+[124][169][][169][Effect of code][169]
 
 [Part 6A][170]  
 [Police safety orders][170]
 
-[124A][171] [Interpretation][171]
+[124A][171][][171][Interpretation][171]
 
-[124B][172] [Qualified constable may issue Police safety order][172]
+[124B][172][][172][Qualified constable may issue Police safety order][172]
 
-[124C][173] [Consent to issue of Police safety order not required][173]
+[124C][173][][173][Consent to issue of Police safety order not required][173]
 
-[124D][174] [Police safety order not to be issued against child][174]
+[124D][174][][174][Police safety order not to be issued against child][174]
 
-[124E][175] [Effect of Police safety order][175]
+[124E][175][][175][Effect of Police safety order][175]
 
-[124F][176] [Suspension of firearms licence on issue of Police safety order][176]
+[124F][176][][176][Suspension of firearms licence on issue of Police safety order][176]
 
-[124G][177] [Suspension of parenting orders, etc][177]
+[124G][177][][177][Suspension of parenting orders, etc][177]
 
-[124H][178] [Prompt service of Police safety order required][178]
+[124H][178][][178][Prompt service of Police safety order required][178]
 
-[124I][179] [Detention by constable][179]
+[124I][179][][179][Detention by constable][179]
 
-[124J][180] [Police safety order to be explained][180]
+[124J][180][][180][Police safety order to be explained][180]
 
-[124K][181] [Duration of Police safety order][181]
+[124K][181][][181][Duration of Police safety order][181]
 
-[124L][182] [Contravention of Police safety order][182]
+[124L][182][][182][Contravention of Police safety order][182]
 
-[124M][183] [Issue of summons where person cannot be brought before District Court within 24 hours][183]
+[124M][183][][183][Issue of summons where person cannot be brought before District Court within 24 hours][183]
 
-[124N][184] [Jurisdiction of District Court][184]
+[124N][184][][184][Jurisdiction of District Court][184]
 
-[124O][185] [Issue of warrant to arrest person who contravenes Police safety order or fails to attend adjourned proceedings][185]
+[124O][185][][185][Issue of warrant to arrest person who contravenes Police safety order or fails to attend adjourned proceedings][185]
 
-[124P][186] [Protection order to be issued and served][186]
+[124P][186][][186][Protection order to be issued and served][186]
 
-[124Q][187] [Protection order to be sent to Family Court][187]
+[124Q][187][][187][Protection order to be sent to Family Court][187]
 
-[124R][188] [Protection order treated as if made by Family Court][188]
+[124R][188][][188][Protection order treated as if made by Family Court][188]
 
-[124S][189] [Police employees, etc, protected from proceedings][189]
+[124S][189][][189][Police employees, etc, protected from proceedings][189]
 
 [Part 7][190]  
 [Miscellaneous provisions][190]
 
 [Restriction on publication][191]
 
-[125][192] [Restriction of publication of reports of proceedings][192]
+[125][192][][192][Restriction of publication of reports of proceedings][192]
 
 [Rules and regulations][193]
 
-[126][194] [Rules of court][194]
+[126][194][][194][Rules of court][194]
 
-[127][195] [Regulations][195]
+[127][195][][195][Regulations][195]
 
 [Saving][196]
 
-[128][197] [Property (Relationships) Act 1976 not affected][197]
+[128][197][][197][Property (Relationships) Act 1976 not affected][197]
 
 [Repeals and consequential amendments][198]
 
-[129][199] [Repeals][199]
+[129][199][][199][Repeals][199]
 
-[130][200] [Amendments to Arms Act 1983][200]
+[130][200][][200][Amendments to Arms Act 1983][200]
 
-[131][201] [Amendment to Children, Young Persons, and Their Families Act 1989][201]
+[131][201][][201][Amendment to Children, Young Persons, and Their Families Act 1989][201]
 
-[132][202] [Amendment to Electoral Act 1993][202]
+[132][202][][202][Amendment to Electoral Act 1993][202]
 
 [Transitional provisions][203]
 
-[133][204] [Transitional provisions][204]
+[133][204][][204][Transitional provisions][204]
 
 ---
 
@@ -1909,19 +1909,23 @@ Protection orders
     
     (2) It is a defence in a prosecution for an offence under subsection (1) if the defendant proves that he or she had a reasonable excuse for breaching the protection order.
     
-    (3) Every person who is convicted on indictment of an offence against this section is liable to imprisonment for a term not exceeding 2 years.
+    (3) Every person who is convicted of an offence against this section is liable to imprisonment for a term not exceeding 2 years.
     
     (4) To avoid doubt, a failure to comply with a direction made under [section 32(1) or (2)][45] to attend a specified programme is not a breach of a protection order under subsection (1)(b).
     
     Section 49: substituted, on 28 October 2009, by [section 7(1)][243] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    
+    Section 49(3): amended, on 1 July 2013, by [section 413][244] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 49A Offence to fail to comply with direction
     
 *   (1) Every person commits an offence who, without reasonable excuse, fails on any occasion to comply with a direction made under [section 32(1) or (2)][45] to attend a specified programme.
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000\.
     
     Section 49A: inserted, on 28 October 2009, by [section 7(1)][243] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    
+    Section 49A(2): amended, on 1 July 2013, by [section 413][244] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Power to arrest for breach of protection order
     
@@ -1931,13 +1935,13 @@ Protection orders
     
     *   (b) failed to comply with any condition of the protection order.
     
-    Section 50: substituted, on 28 October 2009, by [section 8][244] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 50: substituted, on 28 October 2009, by [section 8][245] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 51 Release of person arrested
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 January 2001, by [section 74(2)][245] of the Bail Act 2000 (2000 No 38).
+    Section 51: repealed, on 1 January 2001, by [section 74(2)][246] of the Bail Act 2000 (2000 No 38).
 
 ## Part 3  
 Orders relating to property
@@ -1954,7 +1958,7 @@ Orders relating to property
 
 ##### 53 Power to make occupation order
     
-*   (1) Subject to [section 74][100] of this Act and to subsection (2), on hearing an application for an occupation order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][246], make an order granting to the applicant the right to personally occupy a specified dwellinghouse.
+*   (1) Subject to [section 74][100] of this Act and to subsection (2), on hearing an application for an occupation order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][247], make an order granting to the applicant the right to personally occupy a specified dwellinghouse.
     
     (2) The court may make an order under subsection (1) only if it is satisfied that the order---
         
@@ -1980,13 +1984,13 @@ Orders relating to property
     
     Compare: 1982 No 120 s 21
     
-    Section 53(1): amended, on 1 February 2002, by [section 64(2)][247] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 53(1): amended, on 1 February 2002, by [section 64(2)][248] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 54 Effect of occupation order
     
 *   (1) The person in whose favour an occupation order is made is entitled, to the exclusion of the person against whom the order is made, to personally occupy the dwellinghouse to which the order relates, together with any land, buildings, or improvements appurtenant to that dwellinghouse which are used, or ordinarily would be used, for the purposes of a household.
     
-    (2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to [section 31(1)(d)][248] of the District Courts Act 1947\.
+    (2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to [section 31(1)(d)][249] of the District Courts Act 1947\.
     
     Compare: 1982 No 120 s 22
 
@@ -2030,7 +2034,7 @@ Orders relating to property
 
 ##### 57 Power to make tenancy order
     
-*   (1) Subject to [section 74][100] of this Act and to subsection (2), on hearing an application for a tenancy order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][246], make an order vesting in the applicant the tenancy of a specified dwellinghouse.
+*   (1) Subject to [section 74][100] of this Act and to subsection (2), on hearing an application for a tenancy order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][247], make an order vesting in the applicant the tenancy of a specified dwellinghouse.
     
     (2) The court may make an order under subsection (1) only if it is satisfied that the order---
         
@@ -2042,7 +2046,7 @@ Orders relating to property
     
     Compare: 1982 No 120 s 26
     
-    Section 57(1): amended, on 1 February 2002, by [section 64(2)][247] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 57(1): amended, on 1 February 2002, by [section 64(2)][248] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 58 Effect of tenancy order
     
@@ -2122,7 +2126,7 @@ Orders relating to property
     
     Compare: 1982 No 120 s 20
     
-    Section 60(2A): inserted, on 16 November 2011, by [section 10][249] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 60(2A): inserted, on 16 November 2011, by [section 10][250] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 61 Procedure for occupation orders and tenancy orders
     
@@ -2248,7 +2252,7 @@ Orders relating to property
 
 ##### 67 Power to make furniture order
     
-*   (1) Subject to [section 74][100] and to subsections (2) and (6), but notwithstanding anything in the [Property (Relationships) Act 1976][246], on or after making a protection order, the court may also make an order granting to the applicant the possession and use of all or any of the furniture, household appliances, and household effects in the dwellinghouse in which the parties live or have lived.
+*   (1) Subject to [section 74][100] and to subsections (2) and (6), but notwithstanding anything in the [Property (Relationships) Act 1976][247], on or after making a protection order, the court may also make an order granting to the applicant the possession and use of all or any of the furniture, household appliances, and household effects in the dwellinghouse in which the parties live or have lived.
     
     (2) The court may make an order under subsection (1) only if it is satisfied---
         
@@ -2268,7 +2272,7 @@ Orders relating to property
     
     *   (b) in any event, irrespective of its terms, the order expires if the protection order to which the order relates expires or is discharged.
     
-    Section 67(1): amended, on 1 February 2002, by [section 64(2)][247] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 67(1): amended, on 1 February 2002, by [section 64(2)][248] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 68 Effect of furniture order
     
@@ -2336,7 +2340,7 @@ Orders relating to property
     
     *   (c) in the case of a furniture order, apply pursuant to [section 69][93] for the order to be varied or discharged.
     
-    Section 70(2A): inserted, on 16 November 2011, by [section 11][250] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 70(2A): inserted, on 16 November 2011, by [section 11][251] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 #### General provisions relating to property orders
 
@@ -2437,7 +2441,7 @@ Procedure
     
     (4) Where the period for service is extended pursuant to subsection (3), and, at the expiry of the period or periods, the temporary order has not been served, the order lapses.
     
-    Section 77(1A): inserted, on 16 November 2011, by [section 12][251] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 77(1A): inserted, on 16 November 2011, by [section 12][252] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 78 Court may require hearing before order becomes final
     
@@ -2491,7 +2495,7 @@ Procedure
     
     *   (e) a lawyer appointed under [section 81][112]:
     
-    *   (f) any lawyer appointed under [section 7(1)][252] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
+    *   (f) any lawyer appointed under [section 7(1)][253] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
     
     *   (g) any other persons whom the Family Court Judge permits to be present.
     
@@ -2505,7 +2509,7 @@ Procedure
     
     (5) The provisions of this section, so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were a respondent.
     
-    Section 79A: inserted, on 16 November 2011, by [section 13][253] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 79A: inserted, on 16 November 2011, by [section 13][254] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 80 Procedure where hearing required
     
@@ -2535,7 +2539,7 @@ Procedure
     
     (5) Where a hearing is adjourned pursuant to subsection (1)(d) to a specified date, the temporary order continues in force until that date.
     
-    Section 80(1)(b): substituted, on 16 November 2011, by [section 14][254] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 80(1)(b): substituted, on 16 November 2011, by [section 14][255] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 80A Temporary order discharged when made final order under section 80(1)
     
@@ -2543,7 +2547,7 @@ Procedure
     
     (2) Where the part of a temporary order not already a final order is confirmed under [section 80(1)(c)(i) or (ii)][109], the temporary order is automatically discharged.
     
-    Section 80A: inserted, on 16 November 2011, by [section 15][255] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 80A: inserted, on 16 November 2011, by [section 15][256] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 #### General provisions
 
@@ -2581,9 +2585,9 @@ Procedure
     
     (5) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the bill, the lawyer may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
     
-    Compare: 1968 No 63 s 30; 1983 No 76 s 3; 1994 No 35 [s 3(1)][256]
+    Compare: 1968 No 63 s 30; 1983 No 76 s 3; 1994 No 35 [s 3(1)][257]
     
-    Section 81(3)(b): substituted, on 3 June 1998, by [section 3][257] of the Domestic Violence Amendment Act 1998 (1998 No 41).
+    Section 81(3)(b): substituted, on 3 June 1998, by [section 3][258] of the Domestic Violence Amendment Act 1998 (1998 No 41).
 
 ##### 82 Power of court to call witnesses
     
@@ -2613,7 +2617,7 @@ Procedure
         
         
     
-    (4) [Sections 20][258], [38][259], and [39][260] of the Summary Proceedings Act 1957, so far as applicable and with the necessary modifications, apply to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+    (4) [Sections 159][259] and [161 to 165][260] of the Criminal Procedure Act 2011, so far as applicable and with the necessary modifications, apply to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
     
     (5) The expenses of any witness called by the court under this section are payable---
         
@@ -2624,6 +2628,8 @@ Procedure
     Compare: [1980 No 94][261] s [165][262]
     
     Section 82(2)(b): amended, on 26 April 2005, by [section 7][213] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 82(4): amended, on 1 July 2013, by [section 413][244] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 83 Conduct of proceedings
     
@@ -2637,7 +2643,7 @@ Procedure
     
     *   (d) any lawyer appointed pursuant to [section 81][112] in respect of the proceedings:
     
-    *   (da) any lawyer appointed under [section 7(1)][252] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
+    *   (da) any lawyer appointed under [section 7(1)][253] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
     
     *   (e) where, pursuant to any provision of this Act, any person is bringing or defending the proceedings on behalf of another person,---
             
@@ -3460,7 +3466,7 @@ Police safety orders
     
     (2) If a person who is detained under subsection (1) fails or refuses to remain at the place where he or she is detained, that person---
         
-    *   (a) commits an offence and is liable on summary conviction to the penalty specified in subsection (4); and
+    *   (a) commits an offence and is liable on conviction to the penalty specified in subsection (4); and
     
     *   (b) may be arrested without warrant.
     
@@ -3471,6 +3477,8 @@ Police safety orders
     (5) In this section, _detain_ includes move the person to a Police station.
     
     Section 124I: inserted, on 1 July 2010, by [section 9][285] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    
+    Section 124I(2)(a): amended, on 1 July 2013, by [section 413][244] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 124J Police safety order to be explained
     
@@ -3791,7 +3799,7 @@ Miscellaneous provisions
     
     Compare: 1982 No 120 s 41
     
-    Section 128: substituted, on 1 February 2002, by [section 64(2)][247] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 128: substituted, on 1 February 2002, by [section 64(2)][248] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 #### Repeals and consequential amendments
 
@@ -3883,7 +3891,7 @@ Miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Domestic Violence Act 1995\. The reprint incorporates all the amendments to the Act as at 25 February 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Domestic Violence Act 1995\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][313] ![](/images/external_link.gif).
 
@@ -3932,6 +3940,8 @@ Miscellaneous provisions
     
 *   [Domestic Violence Amendment Act 2012][318] (2012 No 10)
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][244]
+    
     [Domestic Violence Amendment Act 2011][319] (2011 No 58)
     
     [Domestic Violence Amendment Act 2009][320] (2009 No 43)
@@ -3958,11 +3968,11 @@ Miscellaneous provisions
     
     District Courts Amendment Act 2002 (2002 No 63): [section 4][270]
     
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][247]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][248]
     
     Family Courts Amendment Act 2000 (2000 No 65): [section 6][301]
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][245]
+    Bail Act 2000 (2000 No 38): [section 74(2)][246]
     
     [Domestic Violence Act Commencement Order 1998][206] (SR 1998/343)
     
@@ -4216,23 +4226,23 @@ Miscellaneous provisions
 [241]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2471200
 [242]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM426478
 [243]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774213
-[244]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774216
-[245]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM69643
-[246]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM440944
-[247]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM87570
-[248]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243618
-[249]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955523
-[250]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955524
-[251]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955525
-[252]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317243
-[253]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955526
-[254]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955528
-[255]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955529
-[256]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM185488
-[257]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM426479
-[258]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM311316
-[259]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM311638
-[260]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM311640
+[244]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360714
+[245]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774216
+[246]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM69643
+[247]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM440944
+[248]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM87570
+[249]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243618
+[250]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955523
+[251]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955524
+[252]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955525
+[253]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317243
+[254]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955526
+[255]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955528
+[256]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955529
+[257]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM185488
+[258]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM426479
+[259]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360276
+[260]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360278
 [261]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM39722
 [262]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM41848
 [263]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955531
