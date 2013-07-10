@@ -1,5 +1,5 @@
 Reprint  
-as at 5 March 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,562 +23,564 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
 [General][4]
 
-[3][5] [Act to bind the Crown][5]
+[3][5][][5][Act to bind the Crown][5]
 
-[4][6] [Interpretation][6]
+[4][6][][6][Interpretation][6]
 
-[5][7] [Application][7]
+[5][7][][7][Application][7]
 
 [Purpose, principles, and matters of general application][8]
 
-[6][9] [Purpose][9]
+[6][9][][9][Purpose][9]
 
-[7][10] [Fundamental principle that relevant evidence admissible][10]
+[7][10][][10][Fundamental principle that relevant evidence admissible][10]
 
-[8][11] [General exclusion][11]
+[8][11][][11][General exclusion][11]
 
-[9][12] [Admission by agreement][12]
+[9][12][][12][Admission by agreement][12]
 
-[10][13] [Interpretation of Act][13]
+[10][13][][13][Interpretation of Act][13]
 
-[11][14] [Inherent and implied powers not affected][14]
+[11][14][][14][Inherent and implied powers not affected][14]
 
-[12][15] [Evidential matters not provided for][15]
+[12][15][][15][Evidential matters not provided for][15]
 
-[12A][16] [Rules of common law relating to statements of co-conspirators, persons involved in joint criminal enterprises, and certain co-defendants preserved][16]
+[12A][16][][16][Rules of common law relating to statements of co-conspirators, persons involved in joint criminal enterprises, and certain co-defendants preserved][16]
 
-[13][17] [Establishment of relevance of document][17]
+[13][17][][17][Establishment of relevance of document][17]
 
-[14][18] [Provisional admission of evidence][18]
+[14][18][][18][Provisional admission of evidence][18]
 
-[15][19] [Evidence given to establish admissibility][19]
+[15][19][][19][Evidence given to establish admissibility][19]
 
 [Part 2][20]  
 [Admissibility rules, privilege, and confidentiality][20]
 
-[Subpart 1][21]---[Hearsay evidence][21]
+[Subpart 1][21][---][21][Hearsay evidence][21]
 
-[16][22] [Interpretation][22]
+[16][22][][22][Interpretation][22]
 
-[17][23] [Hearsay rule][23]
+[17][23][][23][Hearsay rule][23]
 
-[18][24] [General admissibility of hearsay][24]
+[18][24][][24][General admissibility of hearsay][24]
 
-[19][25] [Admissibility of hearsay statements contained in business records][25]
+[19][25][][25][Admissibility of hearsay statements contained in business records][25]
 
-[20][26] [Admissibility in civil proceedings of hearsay statements in documents related to applications, discovery, or interrogatories][26]
+[20][26][][26][Admissibility in civil proceedings of hearsay statements in documents related to applications, discovery, or interrogatories][26]
 
-[21][27] [Defendant who does not give evidence in criminal proceeding may not offer own statement][27]
+[21][27][][27][Defendant who does not give evidence in criminal proceeding may not offer own statement][27]
 
-[22][28] [Notice of hearsay in criminal proceedings][28]
+[22][28][][28][Notice of hearsay in criminal proceedings][28]
 
-[Subpart 2][29]---[Statements of opinion and expert evidence][29]
+[Subpart 2][29][---][29][Statements of opinion and expert evidence][29]
 
-[23][30] [Opinion rule][30]
+[23][30][][30][Opinion rule][30]
 
-[24][31] [General admissibility of opinions][31]
+[24][31][][31][General admissibility of opinions][31]
 
-[25][32] [Admissibility of expert opinion evidence][32]
+[25][32][][32][Admissibility of expert opinion evidence][32]
 
-[26][33] [Conduct of experts in civil proceedings][33]
+[26][33][][33][Conduct of experts in civil proceedings][33]
 
-[Subpart 3][34]---[Defendants' statements, improperly obtained evidence, silence of parties in proceedings, and admissions in civil proceedings][34]
+[Subpart 3][34][---][34][Defendants' statements, improperly obtained evidence, silence of parties in proceedings, and admissions in civil proceedings][34]
 
-[27][35] [Defendants' statements offered by prosecution][35]
+[27][35][][35][Defendants' statements offered by prosecution][35]
 
-[28][36] [Exclusion of unreliable statements][36]
+[28][36][][36][Exclusion of unreliable statements][36]
 
-[29][37] [Exclusion of statements influenced by oppression][37]
+[29][37][][37][Exclusion of statements influenced by oppression][37]
 
-[30][38] [Improperly obtained evidence][38]
+[30][38][][38][Improperly obtained evidence][38]
 
-[31][39] [Prosecution may not rely on certain evidence offered by other parties][39]
+[31][39][][39][Prosecution may not rely on certain evidence offered by other parties][39]
 
-[32][40] [Fact-finder not to be invited to infer guilt from defendant's silence before trial][40]
+[32][40][][40][Fact-finder not to be invited to infer guilt from defendant's silence before trial][40]
 
-[33][41] [Restrictions on comment on defendant's right of silence at trial][41]
+[33][41][][41][Restrictions on comment on defendant's right of silence at trial][41]
 
-[34][42] [Admissions in civil proceedings][42]
+[34][42][][42][Admissions in civil proceedings][42]
 
-[Subpart 4][43]---[Previous consistent statements made by witness][43]
+[Subpart 4][43][---][43][Previous consistent statements made by witness][43]
 
-[35][44] [Previous consistent statements rule][44]
+[35][44][][44][Previous consistent statements rule][44]
 
-[Subpart 5][45]---[Veracity and propensity][45]
+[Subpart 5][45][---][45][Veracity and propensity][45]
 
 [Application][46]
 
-[36][47] [Application of subpart to evidence of veracity and propensity][47]
+[36][47][][47][Application of subpart to evidence of veracity and propensity][47]
 
 [Evidence of veracity][48]
 
-[37][49] [Veracity rules][49]
+[37][49][][49][Veracity rules][49]
 
-[38][50] [Evidence of defendant's veracity][50]
+[38][50][][50][Evidence of defendant's veracity][50]
 
-[39][51] [Evidence of co-defendant's veracity][51]
+[39][51][][51][Evidence of co-defendant's veracity][51]
 
 [Evidence of propensity][52]
 
-[40][53] [Propensity rule][53]
+[40][53][][53][Propensity rule][53]
 
-[41][54] [Propensity evidence about defendants][54]
+[41][54][][54][Propensity evidence about defendants][54]
 
-[42][55] [Propensity evidence about co-defendants][55]
+[42][55][][55][Propensity evidence about co-defendants][55]
 
-[43][56] [Propensity evidence offered by prosecution about defendants][56]
+[43][56][][56][Propensity evidence offered by prosecution about defendants][56]
 
 [Complainants in sexual cases][57]
 
-[44][58] [Evidence of sexual experience of complainants in sexual cases][58]
+[44][58][][58][Evidence of sexual experience of complainants in sexual cases][58]
 
-[Subpart 6][59]---[Identification evidence][59]
+[Subpart 6][59][---][59][Identification evidence][59]
 
-[45][60] [Admissibility of visual identification evidence][60]
+[45][60][][60][Admissibility of visual identification evidence][60]
 
-[46][61] [Admissibility of voice identification evidence][61]
+[46][61][][61][Admissibility of voice identification evidence][61]
 
-[Subpart 7][62]---[Evidence of convictions and civil judgments][62]
+[46A][62][][62][Caution regarding reliance on identification evidence][62]
 
-[47][63] [Conviction as evidence in civil proceedings][63]
+[Subpart 7][63][---][63][Evidence of convictions and civil judgments][63]
 
-[48][64] [Conviction as evidence in defamation proceedings][64]
+[47][64][][64][Conviction as evidence in civil proceedings][64]
 
-[49][65] [Conviction as evidence in criminal proceedings][65]
+[48][65][][65][Conviction as evidence in defamation proceedings][65]
 
-[50][66] [Civil judgment as evidence in civil or criminal proceedings][66]
+[49][66][][66][Conviction as evidence in criminal proceedings][66]
 
-[Subpart 8][67]---[Privilege and confidentiality][67]
+[50][67][][67][Civil judgment as evidence in civil or criminal proceedings][67]
 
-[Matters relating to interpretation and procedure][68]
+[Subpart 8][68][---][68][Privilege and confidentiality][68]
 
-[51][69] [Interpretation][69]
+[Matters relating to interpretation and procedure][69]
 
-[52][70] [Orders for protection of privileged or confidential material, or material relating to matters of State][70]
+[51][70][][70][Interpretation][70]
 
-[Privilege][71]
+[52][71][][71][Orders for protection of privileged or confidential material, or material relating to matters of State][71]
 
-[53][72] [Effect and protection of privilege][72]
+[Privilege][72]
 
-[54][73] [Privilege for communications with legal advisers][73]
+[53][73][][73][Effect and protection of privilege][73]
 
-[55][74] [Privilege and solicitors' trust accounts][74]
+[54][74][][74][Privilege for communications with legal advisers][74]
 
-[56][75] [Privilege for preparatory materials for proceedings][75]
+[55][75][][75][Privilege and solicitors' trust accounts][75]
 
-[57][76] [Privilege for settlement negotiations or mediation][76]
+[56][76][][76][Privilege for preparatory materials for proceedings][76]
 
-[58][77] [Privilege for communications with ministers of religion][77]
+[57][77][][77][Privilege for settlement negotiations or mediation][77]
 
-[59][78] [Privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists][78]
+[58][78][][78][Privilege for communications with ministers of religion][78]
 
-[60][79] [Privilege against self-incrimination][79]
+[59][79][][79][Privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists][79]
 
-[61][80] [Discretion as to incrimination under foreign law][80]
+[60][80][][80][Privilege against self-incrimination][80]
 
-[62][81] [Claiming privilege against self-incrimination in court proceedings][81]
+[61][81][][81][Discretion as to incrimination under foreign law][81]
 
-[63][82] [Replacement of privilege with respect to disclosure requirements in civil proceedings][82]
+[62][82][][82][Claiming privilege against self-incrimination in court proceedings][82]
 
-[64][83] [Informers][83]
+[63][83][][83][Replacement of privilege with respect to disclosure requirements in civil proceedings][83]
 
-[65][84] [Waiver][84]
+[64][84][][84][Informers][84]
 
-[66][85] [Joint and successive interests in privileged material][85]
+[65][85][][85][Waiver][85]
 
-[67][86] [Powers of Judge to disallow privilege][86]
+[66][86][][86][Joint and successive interests in privileged material][86]
 
-[Confidentiality][87]
+[67][87][][87][Powers of Judge to disallow privilege][87]
 
-[68][88] [Protection of journalists' sources][88]
+[Confidentiality][88]
 
-[69][89] [Overriding discretion as to confidential information][89]
+[68][89][][89][Protection of journalists' sources][89]
 
-[70][90] [Discretion as to matters of State][90]
+[69][90][][90][Overriding discretion as to confidential information][90]
 
-[Part 3][91]  
-[Trial process][91]
+[70][91][][91][Discretion as to matters of State][91]
 
-[Subpart 1][92]---[Eligibility and compellability][92]
+[Part 3][92]  
+[Trial process][92]
 
-[71][93] [Eligibility and compellability generally][93]
+[Subpart 1][93][---][93][Eligibility and compellability][93]
 
-[72][94] [Eligibility of Judges, jurors, and counsel][94]
+[71][94][][94][Eligibility and compellability generally][94]
 
-[73][95] [Compellability of defendants and associated defendants in criminal proceedings][95]
+[72][95][][95][Eligibility of Judges, jurors, and counsel][95]
 
-[74][96] [Compellability of Sovereign and certain other persons][96]
+[73][96][][96][Compellability of defendants and associated defendants in criminal proceedings][96]
 
-[75][97] [Bank officer not compellable to produce banking records][97]
+[74][97][][97][Compellability of Sovereign and certain other persons][97]
 
-[76][98] [Evidence of jury deliberations][98]
+[75][98][][98][Bank officer not compellable to produce banking records][98]
 
-[Subpart 2][99]---[Oaths and affirmations][99]
+[76][99][][99][Evidence of jury deliberations][99]
 
-[77][100] [Witnesses to give evidence on oath or affirmation][100]
+[Subpart 2][100][---][100][Oaths and affirmations][100]
 
-[78][101] [Interpreters to act on oath or affirmation][101]
+[77][101][][101][Witnesses to give evidence on oath or affirmation][101]
 
-[Subpart 3][102]---[Support, communication assistance, and views][102]
+[78][102][][102][Interpreters to act on oath or affirmation][102]
 
-[79][103] [Support persons][103]
+[Subpart 3][103][---][103][Support, communication assistance, and views][103]
 
-[80][104] [Communication assistance][104]
+[79][104][][104][Support persons][104]
 
-[81][105] [Communication assistance need not be provided in certain circumstances][105]
+[80][105][][105][Communication assistance][105]
 
-[82][106] [Views][106]
+[81][106][][106][Communication assistance need not be provided in certain circumstances][106]
 
-[Subpart 4][107]---[Questioning of witnesses][107]
+[82][107][][107][Views][107]
 
-[83][108] [Ordinary way of giving evidence][108]
+[Subpart 4][108][---][108][Questioning of witnesses][108]
 
-[84][109] [Examination of witnesses][109]
+[83][109][][109][Ordinary way of giving evidence][109]
 
-[85][110] [Unacceptable questions][110]
+[84][110][][110][Examination of witnesses][110]
 
-[86][111] [Restriction of publication][111]
+[85][111][][111][Unacceptable questions][111]
 
-[87][112] [Privacy as to witness's precise address][112]
+[86][112][][112][Restriction of publication][112]
 
-[88][113] [Restriction on disclosure of complainant's occupation in sexual cases][113]
+[87][113][][113][Privacy as to witness's precise address][113]
 
-[89][114] [Leading questions in examination in chief and re-examination][114]
+[88][114][][114][Restriction on disclosure of complainant's occupation in sexual cases][114]
 
-[90][115] [Use of documents in questioning witness or refreshing memory][115]
+[89][115][][115][Leading questions in examination in chief and re-examination][115]
 
-[91][116] [Editing of inadmissible statements][116]
+[90][116][][116][Use of documents in questioning witness or refreshing memory][116]
 
-[92][117] [Cross-examination duties][117]
+[91][117][][117][Editing of inadmissible statements][117]
 
-[93][118] [Limits on cross-examination][118]
+[92][118][][118][Cross-examination duties][118]
 
-[94][119] [Cross-examination by party of own witness][119]
+[93][119][][119][Limits on cross-examination][119]
 
-[95][120] [Restrictions on cross-examination by parties in person][120]
+[94][120][][120][Cross-examination by party of own witness][120]
 
-[96][121] [Cross-examination on previous statements of witnesses][121]
+[95][121][][121][Restrictions on cross-examination by parties in person][121]
 
-[97][122] [Re-examination][122]
+[96][122][][122][Cross-examination on previous statements of witnesses][122]
 
-[98][123] [Further evidence after closure of case][123]
+[97][123][][123][Re-examination][123]
 
-[99][124] [Witnesses recalled by Judge][124]
+[98][124][][124][Further evidence after closure of case][124]
 
-[100][125] [Questioning of witnesses by Judge][125]
+[99][125][][125][Witnesses recalled by Judge][125]
 
-[101][126] [Jury questions][126]
+[100][126][][126][Questioning of witnesses by Judge][126]
 
-[Subpart 5][127]---[Alternative ways of giving evidence][127]
+[101][127][][127][Jury questions][127]
 
-[102][128] [Application][128]
+[Subpart 5][128][---][128][Alternative ways of giving evidence][128]
 
-[102A][129] [Relationship of Courts (Remote Participation) Act 2010 to sections 103 to 106][129]
+[102][129][][129][Application][129]
 
-[General][130]
+[102A][130][][130][Relationship of Courts (Remote Participation) Act 2010 to sections 103 to 106][130]
 
-[103][131] [Directions about alternative ways of giving evidence][131]
+[General][131]
 
-[104][132] [Chambers hearing before directions for alternative ways of giving evidence][132]
+[103][132][][132][Directions about alternative ways of giving evidence][132]
 
-[105][133] [Alternative ways of giving evidence][133]
+[104][133][][133][Chambers hearing before directions for alternative ways of giving evidence][133]
 
-[106][134] [Video record evidence][134]
+[105][134][][134][Alternative ways of giving evidence][134]
 
-[Directions about child complainants' evidence][135]
+[106][135][][135][Video record evidence][135]
 
-[107][136] [Directions about way child complainants are to give evidence][136]
+[Directions about child complainants' evidence][136]
 
-[Giving of evidence by undercover Police officers][137]
+[107][137][][137][Directions about way child complainants are to give evidence][137]
 
-[108][138] [Undercover Police officers][138]
+[Giving of evidence by undercover Police officers][138]
 
-[109][139] [Effect of certificate under section 108][139]
+[108][139][][139][Undercover Police officers][139]
 
-[Giving of evidence by anonymous witnesses][140]
+[109][140][][140][Effect of certificate under section 108][140]
 
-[110][141] [Pre-trial witness anonymity order][141]
+[Giving of evidence by anonymous witnesses][141]
 
-[111][142] [Effect of pre-trial witness anonymity order][142]
+[110][142][][142][Pre-trial witness anonymity order][142]
 
-[112][143] [Witness anonymity order for purpose of High Court trial][143]
+[111][143][][143][Effect of pre-trial witness anonymity order][143]
 
-[113][144] [Effect of witness anonymity under section 112][144]
+[112][144][][144][Witness anonymity order for purpose of High Court trial][144]
 
-[114][145] [Trial to be held in High Court if witness anonymity order made][145]
+[113][145][][145][Effect of witness anonymity under section 112][145]
 
-[115][146] [Judge may appoint independent counsel to assist][146]
+[114][146][][146][Trial to be held in High Court if witness anonymity order made][146]
 
-[116][147] [Judge may make orders and give directions to preserve anonymity of witness][147]
+[115][147][][147][Judge may appoint independent counsel to assist][147]
 
-[117][148] [Variation or discharge of witness anonymity order during trial][148]
+[116][148][][148][Judge may make orders and give directions to preserve anonymity of witness][148]
 
-[118][149] [Witness in Police witness protection programme][149]
+[117][149][][149][Variation or discharge of witness anonymity order during trial][149]
 
-[119][150] [Offences][150]
+[118][150][][150][Witness in Police witness protection programme][150]
 
-[Signature of statements by assumed name][151]
+[119][151][][151][Offences][151]
 
-[120][152] [Persons who may sign statements by assumed name][152]
+[Signature of statements by assumed name][152]
 
-[Subpart 6][153]---[Corroboration, judicial directions, and judicial warnings][153]
+[120][153][][153][Persons who may sign statements by assumed name][153]
 
-[121][154] [Corroboration][154]
+[Subpart 6][154][---][154][Corroboration, judicial directions, and judicial warnings][154]
 
-[122][155] [Judicial directions about evidence which may be unreliable][155]
+[121][155][][155][Corroboration][155]
 
-[123][156] [Judicial directions about certain ways of offering evidence][156]
+[122][156][][156][Judicial directions about evidence which may be unreliable][156]
 
-[124][157] [Judicial warnings about lies][157]
+[123][157][][157][Judicial directions about certain ways of offering evidence][157]
 
-[125][158] [Judicial directions about children's evidence][158]
+[124][158][][158][Judicial warnings about lies][158]
 
-[126][159] [Judicial warnings about identification evidence][159]
+[125][159][][159][Judicial directions about children's evidence][159]
 
-[127][160] [Delayed complaints or failure to complain in sexual cases][160]
+[126][160][][160][Judicial warnings about identification evidence][160]
 
-[Subpart 7][161]---[Notice of uncontroverted facts and reference to reliable public documents][161]
+[127][161][][161][Delayed complaints or failure to complain in sexual cases][161]
 
-[128][162] [Notice of uncontroverted facts][162]
+[Subpart 7][162][---][162][Notice of uncontroverted facts and reference to reliable public documents][162]
 
-[129][163] [Admission of reliable published documents][163]
+[128][163][][163][Notice of uncontroverted facts][163]
 
-[Subpart 8][164]---[Documentary evidence and evidence produced by machine, device, or technical process][164]
+[129][164][][164][Admission of reliable published documents][164]
 
-[General and special rules][165]
+[Subpart 8][165][---][165][Documentary evidence and evidence produced by machine, device, or technical process][165]
 
-[130][166] [Offering documents in evidence without calling witness][166]
+[General and special rules][166]
 
-[131][167] [Admission of depositions][167]
+[130][167][][167][Offering documents in evidence without calling witness][167]
 
-[132][168] [Documents required to be discovered or included in common bundle][168]
+[131][168][][168][Admission of depositions][168]
 
-[133][169] [Summary of voluminous documents][169]
+[132][169][][169][Documents required to be discovered or included in common bundle][169]
 
-[134][170] [Admission of documents discovered in civil proceedings][170]
+[133][170][][170][Summary of voluminous documents][170]
 
-[135][171] [Translations and transcripts][171]
+[134][171][][171][Admission of documents discovered in civil proceedings][171]
 
-[136][172] [Proof of signatures on attested documents][172]
+[135][172][][172][Translations and transcripts][172]
 
-[137][173] [Evidence produced by machine, device, or technical process][173]
+[136][173][][173][Proof of signatures on attested documents][173]
 
-[138][174] [Authenticity of public documents][174]
+[137][174][][174][Evidence produced by machine, device, or technical process][174]
 
-[139][175] [Evidence of convictions, acquittals, and other judicial proceedings][175]
+[138][175][][175][Authenticity of public documents][175]
 
-[140][176] [Proof of conviction by fingerprints][176]
+[139][176][][176][Evidence of convictions, acquittals, and other judicial proceedings][176]
 
-[141][177] [New Zealand and foreign official documents][177]
+[140][177][][177][Proof of conviction by fingerprints][177]
 
-[142][178] [Notification of acts in official documents][178]
+[141][178][][178][New Zealand and foreign official documents][178]
 
-[143][179] [Presumptions as to New Zealand and foreign official seals and signatures][179]
+[142][179][][179][Notification of acts in official documents][179]
 
-[144][180] [Evidence of foreign law][180]
+[143][180][][180][Presumptions as to New Zealand and foreign official seals and signatures][180]
 
-[Special rules applying where no requirement for legalisation of foreign public document][181]
+[144][181][][181][Evidence of foreign law][181]
 
-[145][182] [Interpretation][182]
+[Special rules applying where no requirement for legalisation of foreign public document][182]
 
-[146][183] [Foreign public documents: certificates as to contracting States under Convention][183]
+[145][183][][183][Interpretation][183]
 
-[147][184] [Foreign public documents: Convention certificates sufficient authentication of certain matters][184]
+[146][184][][184][Foreign public documents: certificates as to contracting States under Convention][184]
 
-[Special rules relating to public documents admissible under Australian law][185]
+[147][185][][185][Foreign public documents: Convention certificates sufficient authentication of certain matters][185]
 
-[148][186] [Evidence of public documents by reference to Australian law][186]
+[Special rules relating to public documents admissible under Australian law][186]
 
-[149][187] [Evidence of other public documents][187]
+[148][187][][187][Evidence of public documents by reference to Australian law][187]
 
-[Part 4][188]  
-[Evidence from overseas or to be used overseas][188]
+[149][188][][188][Evidence of other public documents][188]
 
-[Subpart 1][189]---[Proceedings in Australia and New Zealand][189]
+[Part 4][189]  
+[Evidence from overseas or to be used overseas][189]
 
-[Interpretation and application][190]
+[Subpart 1][190][---][190][Proceedings in Australia and New Zealand][190]
 
-[150][191] [Interpretation][191]
+[Interpretation and application][191]
 
-[151][192] [Meaning of specified proceeding][192]
+[150][192][][192][Interpretation][192]
 
-[152][193] [Power of Minister of Justice in relation to certain tribunals][193]
+[151][193][][193][Meaning of specified proceeding][193]
 
-[153][194] [Act not to apply to certain proceedings in High Court of New Zealand and Federal Court of Australia][194]
+[152][194][][194][Power of Minister of Justice in relation to certain tribunals][194]
 
-[Service of and compliance with New Zealand subpoenas in Australia][195]
+[153][195][][195][Act not to apply to certain proceedings in High Court of New Zealand and Federal Court of Australia][195]
 
-[154][196] [Service of New Zealand subpoenas in Australia][196]
+[Service of and compliance with New Zealand subpoenas in Australia][196]
 
-[155][197] [New Zealand subpoena may require evidence to be given in New Zealand or Australia][197]
+[154][197][][197][Service of New Zealand subpoenas in Australia][197]
 
-[156][198] [Service of subpoena][198]
+[155][198][][198][New Zealand subpoena may require evidence to be given in New Zealand or Australia][198]
 
-[157][199] [Expenses][199]
+[156][199][][199][Service of subpoena][199]
 
-[158][200] [Payment of additional amounts to witness][200]
+[157][200][][200][Expenses][200]
 
-[159][201] [Subpoenas for production][201]
+[158][201][][201][Payment of additional amounts to witness][201]
 
-[160][202] [Setting aside of subpoena served in Australia][202]
+[159][202][][202][Subpoenas for production][202]
 
-[161][203] [Failure to comply with subpoena][203]
+[160][203][][203][Setting aside of subpoena served in Australia][203]
 
-[162][204] [Other powers not affected][204]
+[161][204][][204][Failure to comply with subpoena][204]
 
-[Service of and compliance with Australian subpoenas in New Zealand][205]
+[162][205][][205][Other powers not affected][205]
 
-[163][206] [Service of Australian subpoenas in New Zealand][206]
+[Service of and compliance with Australian subpoenas in New Zealand][206]
 
-[164][207] [Compliance with Australian subpoena][207]
+[163][207][][207][Service of Australian subpoenas in New Zealand][207]
 
-[165][208] [Failure of witness to comply with Australian subpoena][208]
+[164][208][][208][Compliance with Australian subpoena][208]
 
-[166][209] [Transmission of documents or things to Australian court][209]
+[165][209][][209][Failure of witness to comply with Australian subpoena][209]
 
-[167][210] [Other powers to serve subpoenas not affected][210]
+[166][210][][210][Transmission of documents or things to Australian court][210]
 
-[Video link and telephone conferences in New Zealand proceedings][211]
+[167][211][][211][Other powers to serve subpoenas not affected][211]
 
-[168][212] [New Zealand court may receive evidence and submissions by video link and telephone conference from Australia][212]
+[Video link and telephone conferences in New Zealand proceedings][212]
 
-[169][213] [Powers of New Zealand court in Australia][213]
+[168][213][][213][New Zealand court may receive evidence and submissions by video link and telephone conference from Australia][213]
 
-[170][214] [Evidence and submissions by video link][214]
+[169][214][][214][Powers of New Zealand court in Australia][214]
 
-[171][215] [Evidence and submissions by telephone][215]
+[170][215][][215][Evidence and submissions by video link][215]
 
-[172][216] [Rights of Australian counsel][216]
+[171][216][][216][Evidence and submissions by telephone][216]
 
-[Video link and telephone conferences in Australian proceedings][217]
+[172][217][][217][Rights of Australian counsel][217]
 
-[173][218] [Australian court may take evidence and receive submissions by video link or telephone conference in New Zealand][218]
+[Video link and telephone conferences in Australian proceedings][218]
 
-[174][219] [Powers of Australian court][219]
+[173][219][][219][Australian court may take evidence and receive submissions by video link or telephone conference in New Zealand][219]
 
-[175][220] [Orders of Australian court][220]
+[174][220][][220][Powers of Australian court][220]
 
-[176][221] [Place where evidence given part of Australian court][221]
+[175][221][][221][Orders of Australian court][221]
 
-[177][222] [Privileges, protections, and immunities of Judges, counsel, and witnesses in Australian proceedings][222]
+[176][222][][222][Place where evidence given part of Australian court][222]
 
-[178][223] [Power of Australian court to administer oaths in New Zealand][223]
+[177][223][][223][Privileges, protections, and immunities of Judges, counsel, and witnesses in Australian proceedings][223]
 
-[179][224] [Contempt of Australian court][224]
+[178][224][][224][Power of Australian court to administer oaths in New Zealand][224]
 
-[180][225] [Assistance to Australian court][225]
+[179][225][][225][Contempt of Australian court][225]
 
-[Enforcement of Australian orders][226]
+[180][226][][226][Assistance to Australian court][226]
 
-[181][227] [Enforcement of certain orders made by Australian court][227]
+[Enforcement of Australian orders][227]
 
-[Subpart 2][228]---[Evidence for use in civil proceedings overseas and evidence for use in civil proceedings in High Court][228]
+[181][228][][228][Enforcement of certain orders made by Australian court][228]
 
-[182][229] [Interpretation][229]
+[Subpart 2][229][---][229][Evidence for use in civil proceedings overseas and evidence for use in civil proceedings in High Court][229]
 
-[183][230] [Relationship with subpart 1][230]
+[182][230][][230][Interpretation][230]
 
-[Evidence for use in civil proceedings overseas][231]
+[183][231][][231][Relationship with subpart 1][231]
 
-[184][232] [Application to High Court for assistance in obtaining evidence for civil proceedings in another court][232]
+[Evidence for use in civil proceedings overseas][232]
 
-[185][233] [Power of High Court to give effect to application for assistance][233]
+[184][233][][233][Application to High Court for assistance in obtaining evidence for civil proceedings in another court][233]
 
-[186][234] [Privileges of witnesses][234]
+[185][234][][234][Power of High Court to give effect to application for assistance][234]
 
-[187][235] [Orders not to bind the Crown or Crown servants][235]
+[186][235][][235][Privileges of witnesses][235]
 
-[Procedure for taking evidence overseas for use in civil proceedings in High Court][236]
+[187][236][][236][Orders not to bind the Crown or Crown servants][236]
 
-[188][237] [Procedure for taking evidence outside New Zealand in civil proceedings in High Court][237]
+[Procedure for taking evidence overseas for use in civil proceedings in High Court][237]
 
-[Offences][238]
+[188][238][][238][Procedure for taking evidence outside New Zealand in civil proceedings in High Court][238]
 
-[189][239] [False statements][239]
+[Offences][239]
 
-[Subpart 3][240]---[Evidence for use in overseas criminal proceedings][240]
+[189][240][][240][False statements][240]
 
-[190][241] [Interpretation][241]
+[Subpart 3][241][---][241][Evidence for use in overseas criminal proceedings][241]
 
-[191][242] [Relationship with subpart 1][242]
+[190][242][][242][Interpretation][242]
 
-[192][243] [Examination of witness at request of overseas court][243]
+[191][243][][243][Relationship with subpart 1][243]
 
-[193][244] [Powers may be exercised by Registrar][244]
+[192][244][][244][Examination of witness at request of overseas court][244]
 
-[194][245] [Evidence in support of application][245]
+[193][245][][245][Powers may be exercised by Registrar][245]
 
-[195][246] [Protection of witnesses][246]
+[194][246][][246][Evidence in support of application][246]
 
-[196][247] [Witnesses' expenses][247]
+[195][247][][247][Protection of witnesses][247]
 
-[197][248] [Solicitor may take affidavit or declaration][248]
+[196][248][][248][Witnesses' expenses][248]
 
-[198][249] [False affidavit or declaration][249]
+[197][249][][249][Solicitor may take affidavit or declaration][249]
 
-[Subpart 4][250]---[Rules and regulations][250]
+[198][250][][250][False affidavit or declaration][250]
 
-[199][251] [Rules][251]
+[Subpart 4][251][---][251][Rules and regulations][251]
 
-[200][252] [Rules and regulations][252]
+[199][252][][252][Rules][252]
 
-[Part 5][253]  
-[Miscellaneous][253]
+[200][253][][253][Rules and regulations][253]
 
-[Regulations][254]
+[Part 5][254]  
+[Miscellaneous][254]
 
-[201][255] [Regulations][255]
+[Regulations][255]
 
-[Periodic review of operation of Act][256]
+[201][256][][256][Regulations][256]
 
-[202][257] [Periodic review of operation of Act][257]
+[Periodic review of operation of Act][257]
 
-[Transitional provisions][258]
+[202][258][][258][Periodic review of operation of Act][258]
 
-[203][259] [Notice of hearsay before commencement][259]
+[Transitional provisions][259]
 
-[204][260] [Notice before commencement relating to co-defendants' veracity][260]
+[203][260][][260][Notice of hearsay before commencement][260]
 
-[205][261] [Notice before commencement concerning propensity evidence about co-defendants][261]
+[204][261][][261][Notice before commencement relating to co-defendants' veracity][261]
 
-[206][262] [Identification already carried out][262]
+[205][262][][262][Notice before commencement concerning propensity evidence about co-defendants][262]
 
-[207][263] [Transitional provisions relating to Law Practitioners Act 1982][263]
+[206][263][][263][Identification already carried out][263]
 
-[208][264] [Transitional provision relating to communication assistance][264]
+[207][264][][264][Transitional provisions relating to Law Practitioners Act 1982][264]
 
-[209][265] [Transitional provision relating to cross-examination by unrepresented parties][265]
+[208][265][][265][Transitional provision relating to communication assistance][265]
 
-[210][266] [Transitional provision concerning alternative ways of giving evidence][266]
+[209][266][][266][Transitional provision relating to cross-examination by unrepresented parties][266]
 
-[211][267] [Transitional provision concerning giving of evidence by child complainants][267]
+[210][267][][267][Transitional provision concerning alternative ways of giving evidence][267]
 
-[212][268] [Transitional provision relating to offering documents in evidence without calling witness][268]
+[211][268][][268][Transitional provision concerning giving of evidence by child complainants][268]
 
-[213][269] [Transitional provision relating to translation and transcripts][269]
+[212][269][][269][Transitional provision relating to offering documents in evidence without calling witness][269]
 
-[214][270] [General][270]
+[213][270][][270][Transitional provision relating to translation and transcripts][270]
 
-[Repeal and amendments][271]
+[214][271][][271][General][271]
 
-[215][272] [Repeal][272]
+[Repeal and amendments][272]
 
-[216][273] [Consequential amendments][273]
+[215][273][][273][Repeal][273]
 
-[Schedule 1][274]  
-[Enactments repealed][274]
+[216][274][][274][Consequential amendments][274]
 
-[Schedule 2][275]  
-[Amendments to other enactments][275]
+[Schedule 1][275]  
+[Enactments repealed][275]
+
+[Schedule 2][276]  
+[Amendments to other enactments][276]
 
 ---
 
@@ -590,9 +592,9 @@ This Act is administered by the Ministry of Justice.
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
     
-    Section 2: sections 203--214 brought into force, on 18 July 2007, by [clause 2(1)][276] of the Evidence Act 2006 Commencement Order 2007 (SR 2007/190).
+    Section 2: sections 203--214 brought into force, on 18 July 2007, by [clause 2(1)][277] of the Evidence Act 2006 Commencement Order 2007 (SR 2007/190).
     
-    Section 2: Evidence Act (except sections 203--214) brought into force, on 1 August 2007, by [clause 2(2)][276] of the Evidence Act 2006 Commencement Order 2007 (SR 2007/190).
+    Section 2: Evidence Act (except sections 203--214) brought into force, on 1 August 2007, by [clause 2(2)][277] of the Evidence Act 2006 Commencement Order 2007 (SR 2007/190).
 
 ## Part 1  
 Preliminary provisions
@@ -637,15 +639,15 @@ Preliminary provisions
     
     _conviction_ means,---
         
-    *   (a) in [sections 47 to 49][63], a subsisting conviction entered before or after the commencement of this Act by---
+    *   (a) in [sections 47 to 49][64], a subsisting conviction entered before or after the commencement of this Act by---
             
         *   (i) a New Zealand court or a court-martial conducted under New Zealand law in New Zealand or elsewhere; or
         
-        *   (ii) a court established by, or a court-martial conducted under, the law of Australia, United Kingdom, Canada, or any other foreign country in respect of which an Order in Council has been made under [section 140(5)][176]; and
+        *   (ii) a court established by, or a court-martial conducted under, the law of Australia, United Kingdom, Canada, or any other foreign country in respect of which an Order in Council has been made under [section 140(5)][177]; and
         
         
     
-    *   (b) in [sections 139][175] and [140][176], a subsisting conviction entered before or after the commencement of this Act by a New Zealand or foreign court or a court-martial conducted under New Zealand or foreign law
+    *   (b) in [sections 139][176] and [140][177], a subsisting conviction entered before or after the commencement of this Act by a New Zealand or foreign court or a court-martial conducted under New Zealand or foreign law
     
     _copy_, in relation to a document, includes a copy of a copy and a copy that is not an exact copy of the document but is identical to the document in all relevant respects
     
@@ -673,7 +675,7 @@ Preliminary provisions
     
     *   (b) information electronically recorded or stored, and information derived from that information
     
-    _domestic violence_ has the same meaning as in [section 3(1)][277] of the Domestic Violence Act 1995
+    _domestic violence_ has the same meaning as in [section 3(1)][278] of the Domestic Violence Act 1995
     
     _enforcement agency_ means the New Zealand Police or any body or organisation that has a statutory responsibility for the enforcement of an enactment
     
@@ -685,13 +687,13 @@ Preliminary provisions
     
     _give evidence_ means to give evidence in a proceeding---
         
-    *   (a) in the ordinary way, as described in [section 83][108]; or
+    *   (a) in the ordinary way, as described in [section 83][109]; or
     
-    *   (b) in an alternative way, as provided for by [section 105][133]; or
+    *   (b) in an alternative way, as provided for by [section 105][134]; or
     
     *   (c) in any other way provided for under this Act or any other enactment
     
-    _harassment_ has the same meaning as in [section 3][278] of the Harassment Act 1997
+    _harassment_ has the same meaning as in [section 3][279] of the Harassment Act 1997
     
     _hearsay rule_ means the rule described in [section 17][23]
     
@@ -723,7 +725,7 @@ Preliminary provisions
     
     _Judge_ includes a Justice of the Peace, a community magistrate, and any tribunal
     
-    _lawyer_ means a barrister or solicitor, as those terms are defined in [section 2][279] of the Law Practitioners Act 1982
+    _lawyer_ means a barrister or solicitor, as those terms are defined in [section 2][280] of the Law Practitioners Act 1982
     
     _leading question_ means a question that directly or indirectly suggests a particular answer to the question
     
@@ -759,7 +761,7 @@ Preliminary provisions
         
         
     
-    *   (b) in [sections 145 to 147][182], has the meaning set out in section 145
+    *   (b) in [sections 145 to 147][183], has the meaning set out in section 145
     
     _seal_ includes a stamp
     
@@ -767,7 +769,7 @@ Preliminary provisions
     
     _sexual case_ means a criminal proceeding in which a person is charged with, or is waiting to be sentenced or otherwise dealt with for,---
         
-    *   (a) an offence against any of the provisions of [sections 128 to 142A][280] or [section 144A][281] of the Crimes Act 1961; or
+    *   (a) an offence against any of the provisions of [sections 128 to 142A][281] or [section 144A][282] of the Crimes Act 1961; or
     
     *   (b) any other offence against the person of a sexual nature
     
@@ -805,9 +807,9 @@ Preliminary provisions
     
     *   (b) any appeal from, or review of, a determination made at a hearing of that kind.
     
-    Section 5(3): amended, on 4 July 2007, by [section 4][282] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 5(3): amended, on 4 July 2007, by [section 4][283] of the Evidence Amendment Act 2007 (2007 No 24).
     
-    Section 5(3)(a): amended, on 4 July 2007, by [section 4][282] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 5(3)(a): amended, on 4 July 2007, by [section 4][283] of the Evidence Amendment Act 2007 (2007 No 24).
 
 #### Purpose, principles, and matters of general application
 
@@ -817,7 +819,7 @@ Preliminary provisions
         
     *   (a) providing for facts to be established by the application of logical rules; and
     
-    *   (b) providing rules of evidence that recognise the importance of the rights affirmed by the [New Zealand Bill of Rights Act 1990][283]; and
+    *   (b) providing rules of evidence that recognise the importance of the rights affirmed by the [New Zealand Bill of Rights Act 1990][284]; and
     
     *   (c) promoting fairness to parties and witnesses; and
     
@@ -881,7 +883,7 @@ Preliminary provisions
         
         
     
-    (2) Subsection (1) does not affect the application of the [Interpretation Act 1999][284] to this Act.
+    (2) Subsection (1) does not affect the application of the [Interpretation Act 1999][285] to this Act.
 
 ##### 11 Inherent and implied powers not affected
     
@@ -907,7 +909,7 @@ Preliminary provisions
     
     *   (b) the admissibility of a defendant's statement against a co-defendant in circumstances where the defendant's statement is accepted by the co-defendant.
     
-    Section 12A: inserted, on 4 July 2007, by [section 5][285] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 12A: inserted, on 4 July 2007, by [section 5][286] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 13 Establishment of relevance of document
     
@@ -1032,7 +1034,7 @@ Admissibility rules, privilege, and confidentiality
     
     (2) In a civil proceeding, a hearsay statement in a document by which documents are discovered or interrogatories are answered is admissible in that proceeding if, and to the extent that, the applicable rules of court require or permit the making of a statement of that kind.
     
-    Compare: 1908 No 89 Schedule 2 [rr 138(5)][286], [248][287], [249][288], [283(2)(a)][289]
+    Compare: 1908 No 89 Schedule 2 [rr 138(5)][287], [248][288], [249][289], [283(2)(a)][290]
 
 ##### 21 Defendant who does not give evidence in criminal proceeding may not offer own statement
     
@@ -1116,7 +1118,7 @@ Admissibility rules, privilege, and confidentiality
     
     (2) The expert evidence of an expert who has not complied with rules of court of the kind specified in subsection (1) may be given only with the permission of the Judge.
     
-    Compare: 1908 No 89 Schedule 2 [r 330A][290]
+    Compare: 1908 No 89 Schedule 2 [r 330A][291]
 
 ### Subpart 3---Defendants' statements, improperly obtained evidence, silence of parties in proceedings, and admissions in civil proceedings
 
@@ -1130,7 +1132,7 @@ Admissibility rules, privilege, and confidentiality
     
     (4) To avoid doubt, this section is subject to [section 12A][16].
     
-    Section 27(4): added, on 4 July 2007, by [section 6][291] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 27(4): added, on 4 July 2007, by [section 6][292] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 28 Exclusion of unreliable statements
     
@@ -1154,7 +1156,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (d) the nature of any threat, promise, or representation made to the defendant or any other person.
     
-    Section 28(1)(a): amended, on 4 July 2007, by [section 7][292] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 28(1)(a): amended, on 4 July 2007, by [section 7][293] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 29 Exclusion of statements influenced by oppression
     
@@ -1184,7 +1186,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (b) a threat of conduct or treatment of that kind.
     
-    Section 29(1)(a): amended, on 4 July 2007, by [section 8][293] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 29(1)(a): amended, on 4 July 2007, by [section 8][294] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 30 Improperly obtained evidence
     
@@ -1222,7 +1224,7 @@ Admissibility rules, privilege, and confidentiality
     
     (5) For the purposes of this section, evidence is _improperly obtained_ if it is obtained---
         
-    *   (a) in consequence of a breach of any enactment or rule of law by a person to whom [section 3][294] of the New Zealand Bill of Rights Act 1990 applies; or
+    *   (a) in consequence of a breach of any enactment or rule of law by a person to whom [section 3][295] of the New Zealand Bill of Rights Act 1990 applies; or
     
     *   (b) in consequence of a statement made by a defendant that is or would be inadmissible if it were offered in evidence by the prosecution; or
     
@@ -1230,7 +1232,7 @@ Admissibility rules, privilege, and confidentiality
     
     (6) Without limiting subsection (5)(c), in deciding whether a statement obtained by a member of the Police has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
     
-    Section 30(1)(a): amended, on 4 July 2007, by [section 9][295] of the Evidence Amendment Act 2007 (2007 No 24).
+    Section 30(1)(a): amended, on 4 July 2007, by [section 9][296] of the Evidence Amendment Act 2007 (2007 No 24).
 
 ##### 31 Prosecution may not rely on certain evidence offered by other parties
     
@@ -1498,7 +1500,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (f) that is the subject of a pictorial record of what the witness looked at that is prepared and certified to be true and complete by the officer who conducted the procedure and provided to the Judge and the defendant (but not the jury) at the hearing; and
     
-    *   (g) that complies with any further requirements provided for in regulations made under [section 201][255].
+    *   (g) that complies with any further requirements provided for in regulations made under [section 201][256].
     
     (4) The circumstances referred to in the following paragraphs are _good reasons_ for not following a formal procedure:
         
@@ -1520,6 +1522,14 @@ Admissibility rules, privilege, and confidentiality
     
 *   Voice identification evidence offered by the prosecution in a criminal proceeding is inadmissible unless the prosecution proves on the balance of probabilities that the circumstances in which the identification was made have produced a reliable identification.
 
+##### 46A Caution regarding reliance on identification evidence
+    
+*   If evidence of identity is given against the defendant and the defendant disputes that evidence, the court must bear in mind the need for caution before convicting the defendant in reliance on the correctness of any such identification and, in particular, the possibility that the witness may be mistaken.
+    
+    Compare: 1957 No 87 [s 67A][297]
+    
+    Section 46A: inserted, on 1 July 2013, by [section 4][298] of the Evidence Amendment Act 2011 (2011 No 89).
+
 ### Subpart 7---Evidence of convictions and civil judgments
 
 ##### 47 Conviction as evidence in civil proceedings
@@ -1540,7 +1550,7 @@ Admissibility rules, privilege, and confidentiality
     
     (4) This section---
         
-    *   (a) is subject to [section 48][64]; and
+    *   (a) is subject to [section 48][65]; and
     
     *   (b) does not affect a provision in any other enactment to the effect that a conviction or a finding of fact in a criminal proceeding is to constitute conclusive evidence for the purposes of any other proceeding.
     
@@ -1590,7 +1600,7 @@ Admissibility rules, privilege, and confidentiality
     
 *   (1) In this subpart,---
     
-    _lawyer_ has the meaning given to it by [section 6][296] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the meaning given to it by [section 6][299] of the Lawyers and Conveyancers Act 2006
     
     _legal adviser_ means---
         
@@ -1610,7 +1620,7 @@ Admissibility rules, privilege, and confidentiality
     
     (2) A reference in this subpart to a communication or to any information includes a reference to a communication or to information contained in a document.
     
-    (3) Despite subsection (2), in [sections 60 to 63][79], _information_ means a statement of fact or opinion given, or to be given,---
+    (3) Despite subsection (2), in [sections 60 to 63][80], _information_ means a statement of fact or opinion given, or to be given,---
         
     *   (a) orally; or
     
@@ -1626,11 +1636,11 @@ Admissibility rules, privilege, and confidentiality
     
     (5) However, subsection (4) does not apply to any of the following sections:
         
-    *   (a) [section 58][77] (privilege for communications with ministers of religion):
+    *   (a) [section 58][78] (privilege for communications with ministers of religion):
     
-    *   (b) [section 59][78] (privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists):
+    *   (b) [section 59][79] (privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists):
     
-    *   (c) [section 64][83] (informers).
+    *   (c) [section 64][84] (informers).
     
     (6) The Governor-General may, by Order in Council, for the purposes of the definition of overseas practitioner in subsection (1), specify any country other than New Zealand or Australia.
 
@@ -1644,7 +1654,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (c) on the application of an interested person other than the person who has the privilege.
     
-    (2) A Judge may give a direction under [section 69][89] (confidential information) or [section 70][90] (matters of State) on the Judge's own initiative or on the application of an interested person.
+    (2) A Judge may give a direction under [section 69][90] (confidential information) or [section 70][91] (matters of State) on the Judge's own initiative or on the application of an interested person.
     
     (3) An application under subsection (1) or (2) may be made at any time either before or after any relevant proceeding is commenced.
     
@@ -1652,7 +1662,7 @@ Admissibility rules, privilege, and confidentiality
         
     *   (a) any privileged communication, information, opinion, or document that is disclosed to a Judge or other body or person in compliance with a judicial or administrative order; or
     
-    *   (b) any communication or information that is the subject of a direction under [section 69][89] (confidential information) or [section 70][90] (matters of State) but is disclosed to a Judge or other body or person in compliance with a judicial or administrative order.
+    *   (b) any communication or information that is the subject of a direction under [section 69][90] (confidential information) or [section 70][91] (matters of State) but is disclosed to a Judge or other body or person in compliance with a judicial or administrative order.
     
     
 
@@ -1660,7 +1670,7 @@ Admissibility rules, privilege, and confidentiality
 
 ##### 53 Effect and protection of privilege
     
-*   (1) A person who has a privilege conferred by any of [sections 54 to 59][73] in respect of a communication or any information has the right to refuse to disclose in a proceeding---
+*   (1) A person who has a privilege conferred by any of [sections 54 to 59][74] in respect of a communication or any information has the right to refuse to disclose in a proceeding---
         
     *   (a) the communication; and
     
@@ -1668,15 +1678,15 @@ Admissibility rules, privilege, and confidentiality
     
     *   (c) any opinion formed by a person that is based on the communication or information.
     
-    (2) A person who has a privilege conferred by [section 60][79] or [64][83] in respect of information has the right to refuse to disclose in a proceeding the information.
+    (2) A person who has a privilege conferred by [section 60][80] or [64][84] in respect of information has the right to refuse to disclose in a proceeding the information.
     
-    (3) A person who has a privilege conferred by any of [sections 54 to 59][73] and [64][83] in respect of a communication, information, opinion, or document may require that the communication, information, opinion, or document not be disclosed in a proceeding---
+    (3) A person who has a privilege conferred by any of [sections 54 to 59][74] and [64][84] in respect of a communication, information, opinion, or document may require that the communication, information, opinion, or document not be disclosed in a proceeding---
         
     *   (a) by the person to whom the communication is made or the information is given, or by whom the opinion is given or the information or document is prepared or compiled; or
     
     *   (b) by any other person who has come into possession of it with the authority of the person who has the privilege, in confidence and for purposes related to the circumstances that have given rise to the privilege.
     
-    (4) If a communication, information, opinion, or document, in respect of which a person has a privilege conferred by any of [sections 54 to 59][73] and [64][83], is in the possession of a person other than a person referred to in subsection (3), a Judge may, on the Judge's own initiative or on the application of the person who has the privilege, order that the communication, information, opinion, or document not be disclosed in a proceeding.
+    (4) If a communication, information, opinion, or document, in respect of which a person has a privilege conferred by any of [sections 54 to 59][74] and [64][84], is in the possession of a person other than a person referred to in subsection (3), a Judge may, on the Judge's own initiative or on the application of the person who has the privilege, order that the communication, information, opinion, or document not be disclosed in a proceeding.
     
     (5) This Act does not affect the general law governing legal professional privilege, so far as it applies to the determination of claims to that privilege that are made neither in the course of, nor for the purpose of, a proceeding.
 
@@ -1724,19 +1734,19 @@ Admissibility rules, privilege, and confidentiality
     
 *   (1) This section applies to documents that are books of account or accounting records kept---
         
-    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][297] of the Lawyers and Conveyancers Act 2006; or
+    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][300] of the Lawyers and Conveyancers Act 2006; or
     
     *   (b) by a nominee company that---
             
-        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society pursuant to [section 96][298] of the Lawyers and Conveyancers Act 2006; and
+        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society pursuant to [section 96][301] of the Lawyers and Conveyancers Act 2006; and
         
         *   (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee in respect of securities and documents of title held for clients.
         
         
     
-    (2) [Section 54][73] does not prevent, limit, or affect---
+    (2) [Section 54][74] does not prevent, limit, or affect---
         
-    *   (a) the issue by a District Court Judge of a search warrant under [section 198][299] of the Summary Proceedings Act 1957 in respect of a document to which this section applies; or
+    *   (a) the issue by a District Court Judge of a search warrant under [section 198][302] of the Summary Proceedings Act 1957 in respect of a document to which this section applies; or
     
     *   (b) the execution of that warrant in respect of a document to which this section applies; or
     
@@ -1758,7 +1768,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (d) information compiled or prepared at the request of the party, or the party's legal adviser, by any other person.
     
-    (3) If the proceeding is under, or to be under, [Part 2][300] of the Children, Young Persons, and Their Families Act 1989 or the [Care of Children Act 2004][301] (other than a criminal proceeding under that Part or that Act), a Judge may, if satisfied that it is in the best interests of the child to do so, determine that subsection (2) does not apply in respect of any communication or information that the Judge specifies.
+    (3) If the proceeding is under, or to be under, [Part 2][303] of the Children, Young Persons, and Their Families Act 1989 or the [Care of Children Act 2004][304] (other than a criminal proceeding under that Part or that Act), a Judge may, if satisfied that it is in the best interests of the child to do so, determine that subsection (2) does not apply in respect of any communication or information that the Judge specifies.
 
 ##### 57 Privilege for settlement negotiations or mediation
     
@@ -1784,7 +1794,7 @@ Admissibility rules, privilege, and confidentiality
         
         
     
-    Compare: 1908 No 89 Schedule 2 [r 48G][302]
+    Compare: 1908 No 89 Schedule 2 [r 48G][305]
 
 ##### 58 Privilege for communications with ministers of religion
     
@@ -1822,11 +1832,11 @@ Admissibility rules, privilege, and confidentiality
     
     _clinical psychologist_ means a health practitioner---
         
-    *   (a) who is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][303] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; and
+    *   (a) who is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][306] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; and
     
     *   (b) who is by his or her scope of practice permitted to diagnose and treat persons suffering from mental and emotional problems
     
-    _drug dependency_ means the state of periodic or chronic intoxication produced by the repeated consumption, smoking, or other use of a controlled drug (as defined in [section 2(1)][304] of the Misuse of Drugs Act 1975) detrimental to the user, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug.
+    _drug dependency_ means the state of periodic or chronic intoxication produced by the repeated consumption, smoking, or other use of a controlled drug (as defined in [section 2(1)][307] of the Misuse of Drugs Act 1975) detrimental to the user, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug.
 
 ##### 60 Privilege against self-incrimination
     
@@ -1864,7 +1874,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (c) by a defendant in a criminal proceeding when giving evidence about the matter for which the defendant is being tried.
     
-    (5) This section is subject to [section 63][82].
+    (5) This section is subject to [section 63][83].
 
 ##### 61 Discretion as to incrimination under foreign law
     
@@ -1918,7 +1928,7 @@ Admissibility rules, privilege, and confidentiality
     
     *   (d) to secure or produce documents or things.
     
-    (2) The person does not have the privilege provided for by [section 60][79] and must comply with the terms of the order.
+    (2) The person does not have the privilege provided for by [section 60][80] and must comply with the terms of the order.
     
     (3) No evidence of any information that has directly or indirectly been obtained as a result of the person's compliance with the order may be used against the person in any criminal proceeding, except in a criminal proceeding that concerns the falsity of the information.
 
@@ -1936,7 +1946,7 @@ Admissibility rules, privilege, and confidentiality
 
 ##### 65 Waiver
     
-*   (1) A person who has a privilege conferred by any of [sections 54 to 60][73] and [64][83] may waive that privilege either expressly or impliedly.
+*   (1) A person who has a privilege conferred by any of [sections 54 to 60][74] and [64][84] may waive that privilege either expressly or impliedly.
     
     (2) A person who has a privilege waives the privilege if that person, or anyone with the authority of that person, voluntarily produces or discloses, or consents to the production or disclosure of, any significant part of the privileged communication, information, opinion, or document in circumstances that are inconsistent with a claim of confidentiality.
     
@@ -1948,33 +1958,33 @@ Admissibility rules, privilege, and confidentiality
     
     (4) A person who has a privilege in respect of a communication, information, opinion, or document that has been disclosed to another person does not waive the privilege if the disclosure occurred involuntarily or mistakenly or otherwise without the consent of the person who has the privilege.
     
-    (5) A privilege conferred by [section 57][76] (which relates to settlement negotiations or mediation) may be waived only by all the persons who have that privilege.
+    (5) A privilege conferred by [section 57][77] (which relates to settlement negotiations or mediation) may be waived only by all the persons who have that privilege.
 
 ##### 66 Joint and successive interests in privileged material
     
-*   (1) A person who jointly with some other person or persons has a privilege conferred by any of [sections 54 to 60][73] and [64][83] in respect of a communication, information, opinion, or document---
+*   (1) A person who jointly with some other person or persons has a privilege conferred by any of [sections 54 to 60][74] and [64][84] in respect of a communication, information, opinion, or document---
         
     *   (a) is entitled to assert the privilege against third parties; and
     
-    *   (b) is not restricted by any of [sections 54 to 60][73] and [64][83] from having access or seeking access to the privileged matter; and
+    *   (b) is not restricted by any of [sections 54 to 60][74] and [64][84] from having access or seeking access to the privileged matter; and
     
     *   (c) may, on the application of a person who has a legitimate interest in maintaining the privilege (including another holder of the privilege), be ordered by a Judge not to disclose the privileged matter in a proceeding.
     
-    (2) If a person has a privilege conferred by any of [sections 54 to 57][73] in respect of a communication, information, opinion, or document, the personal representative of the person or other successor in title to property of the person---
+    (2) If a person has a privilege conferred by any of [sections 54 to 57][74] in respect of a communication, information, opinion, or document, the personal representative of the person or other successor in title to property of the person---
         
     *   (a) is entitled to assert the privilege against third parties; and
     
-    *   (b) is not restricted by any of [sections 54 to 57][73] from having access or seeking access to the privileged matter.
+    *   (b) is not restricted by any of [sections 54 to 57][74] from having access or seeking access to the privileged matter.
     
     (3) However, subsection (2) applies only to the extent that a Judge is satisfied that the personal representative or other successor in title to property has a justifiable interest in maintaining the privilege in respect of the communication, information, opinion, or document.
     
-    (4) A personal representative of a deceased person who has a privilege conferred by any of [sections 54 to 57][73] in respect of a communication, information, opinion, or document and any other successor in title to property of a person who has such a privilege, may, on the application of a person who has a legitimate interest in maintaining the privilege (including another holder of the privilege), be ordered by a Judge not to disclose the privileged matter in a proceeding.
+    (4) A personal representative of a deceased person who has a privilege conferred by any of [sections 54 to 57][74] in respect of a communication, information, opinion, or document and any other successor in title to property of a person who has such a privilege, may, on the application of a person who has a legitimate interest in maintaining the privilege (including another holder of the privilege), be ordered by a Judge not to disclose the privileged matter in a proceeding.
 
 ##### 67 Powers of Judge to disallow privilege
     
-*   (1) A Judge must disallow a claim of privilege conferred by any of [sections 54 to 59][73] and [64][83] in respect of a communication or information if satisfied there is a prima facie case that the communication was made or received, or the information was compiled or prepared, for a dishonest purpose or to enable or aid anyone to commit or plan to commit what the person claiming the privilege knew, or reasonably should have known, to be an offence.
+*   (1) A Judge must disallow a claim of privilege conferred by any of [sections 54 to 59][74] and [64][84] in respect of a communication or information if satisfied there is a prima facie case that the communication was made or received, or the information was compiled or prepared, for a dishonest purpose or to enable or aid anyone to commit or plan to commit what the person claiming the privilege knew, or reasonably should have known, to be an offence.
     
-    (2) A Judge may disallow a claim of privilege conferred by any of [sections 54 to 59][73] and [64][83] in respect of a communication or information if the Judge is of the opinion that evidence of the communication or information is necessary to enable the defendant in a criminal proceeding to present an effective defence.
+    (2) A Judge may disallow a claim of privilege conferred by any of [sections 54 to 59][74] and [64][84] in respect of a communication or information if the Judge is of the opinion that evidence of the communication or information is necessary to enable the defendant in a criminal proceeding to present an effective defence.
     
     (3) Any communication or information disclosed as the result of the disallowance of a claim of privilege under subsection (2) and any information derived from that disclosure cannot be used against the holder of the privilege in a proceeding in New Zealand.
 
@@ -2060,9 +2070,9 @@ Admissibility rules, privilege, and confidentiality
     
     (2) A communication or information that relates to matters of State includes a communication or information---
         
-    *   (a) in respect of which the reason advanced in support of an application for a direction under this section is one of those set out in [sections 6][305] and [7][306] of the Official Information Act 1982; or
+    *   (a) in respect of which the reason advanced in support of an application for a direction under this section is one of those set out in [sections 6][308] and [7][309] of the Official Information Act 1982; or
     
-    *   (b) that is official information as defined in [section 2(1)][307] of the Official Information Act 1982 and in respect of which the reason advanced in support of the application for a direction under this section is one of those set out in [section 9(2)(b) to (k)][308] of that Act.
+    *   (b) that is official information as defined in [section 2(1)][310] of the Official Information Act 1982 and in respect of which the reason advanced in support of the application for a direction under this section is one of those set out in [section 9(2)(b) to (k)][311] of that Act.
     
     (3) A Judge may give a direction under this section that a communication or information not be disclosed whether or not the communication or information is privileged by another provision of this subpart or would, except for a limitation or restriction imposed by this subpart, be privileged.
 
@@ -2079,7 +2089,7 @@ Trial process
     
     *   (b) a person who is eligible to give evidence is compellable to give that evidence.
     
-    (2) Subsection (1) is subject to [sections 72 to 75][94].
+    (2) Subsection (1) is subject to [sections 72 to 75][95].
 
 ##### 72 Eligibility of Judges, jurors, and counsel
     
@@ -2101,7 +2111,7 @@ Trial process
     
     (3) A proceeding has been determined for the purposes of subsection (2) if---
         
-    *   (a) the proceeding has been stayed or, in a summary proceeding, the information against the associated defendant has been withdrawn or dismissed; or
+    *   (a) the proceeding has been stayed or the charge against the associated defendant has been withdrawn or dismissed; or
     
     *   (b) the associated defendant has been acquitted of the offence; or
     
@@ -2113,7 +2123,7 @@ Trial process
     
     *   (b) an offence that relates to, or is connected with, the offence for which the defendant is being prosecuted.
     
-    
+    Section 73(3)(a): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 74 Compellability of Sovereign and certain other persons
     
@@ -2141,7 +2151,7 @@ Trial process
     
     (3) In this section, _bank_ means---
         
-    *   (a) a registered bank within the meaning of [section 2][309] of the Reserve Bank of New Zealand Act 1989:
+    *   (a) a registered bank within the meaning of [section 2][313] of the Reserve Bank of New Zealand Act 1989:
     
     *   (b) the Reserve Bank of New Zealand:
     
@@ -2229,7 +2239,7 @@ Trial process
     
     (4) Communication assistance may be provided to a witness on the application of the witness or any party to the proceeding or on the initiative of the Judge.
     
-    (5) Any statement made in court to a Judge or a witness by a person providing communication assistance must, if known by the person making that statement to be false and intended by that person to be misleading, be treated as perjury for the purposes of [sections 108][310] and [109][311] of the Crimes Act 1961\.
+    (5) Any statement made in court to a Judge or a witness by a person providing communication assistance must, if known by the person making that statement to be false and intended by that person to be misleading, be treated as perjury for the purposes of [sections 108][314] and [109][315] of the Crimes Act 1961\.
 
 ##### 81 Communication assistance need not be provided in certain circumstances
     
@@ -2475,7 +2485,9 @@ Trial process
     
     *   (c) refuse to allow the question to be put to the witness.
     
-    (7) Subsection (1) overrides [section 354][312] of the Crimes Act 1961\.
+    (7) Subsection (1) overrides [section 11][316] of the Criminal Procedure Act 2011\.
+    
+    Section 95(7): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 96 Cross-examination on previous statements of witnesses
     
@@ -2587,31 +2599,31 @@ Trial process
 
 ##### 102 Application
     
-*   [Sections 103 to 106][131] (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
+*   [Sections 103 to 106][132] (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
         
-    *   (a) [section 107][136] (which relates to child complainants):
+    *   (a) [section 107][137] (which relates to child complainants):
     
-    *   (b) [sections 108][138] and [109][139] (which relate to undercover Police officers):
+    *   (b) [sections 108][139] and [109][140] (which relate to undercover Police officers):
     
-    *   (c) [sections 110 to 119][141] (which relate to anonymous witnesses).
+    *   (c) [sections 110 to 119][142] (which relate to anonymous witnesses).
     
     
 
 ##### 102A Relationship of Courts (Remote Participation) Act 2010 to sections 103 to 106
     
-*   Nothing in the [Courts (Remote Participation) Act 2010][313] affects or limits the ability of---
+*   Nothing in the [Courts (Remote Participation) Act 2010][317] affects or limits the ability of---
         
-    *   (a) a party to apply under [section 103(1)][131] for evidence to be given in an alternative way; or
+    *   (a) a party to apply under [section 103(1)][132] for evidence to be given in an alternative way; or
     
     *   (b) a Judge to make directions under that subsection.
     
-    Section 102A: inserted, on 7 July 2010, by [section 19(2)][314] of the Courts (Remote Participation) Act 2010 (2010 No 94).
+    Section 102A: inserted, on 7 July 2010, by [section 19(2)][318] of the Courts (Remote Participation) Act 2010 (2010 No 94).
 
 #### General
 
 ##### 103 Directions about alternative ways of giving evidence
     
-*   (1) In any proceeding, the Judge may, either on the application of a party or on the Judge's own initiative, direct that a witness is to give evidence in chief and be cross-examined in the ordinary way or in an alternative way as provided in [section 105][133].
+*   (1) In any proceeding, the Judge may, either on the application of a party or on the Judge's own initiative, direct that a witness is to give evidence in chief and be cross-examined in the ordinary way or in an alternative way as provided in [section 105][134].
     
     (2) An application for directions under subsection (1) must be made to the Judge as early as practicable before the proceeding is to be heard, or at any later time permitted by the court.
     
@@ -2661,7 +2673,7 @@ Trial process
 
 ##### 104 Chambers hearing before directions for alternative ways of giving evidence
     
-*   If an application for directions is made under [section 103][131], before giving any directions about the way in which a witness is to give evidence in chief and be cross-examined, the Judge---
+*   If an application for directions is made under [section 103][132], before giving any directions about the way in which a witness is to give evidence in chief and be cross-examined, the Judge---
         
     *   (a) must give each party an opportunity to be heard in chambers; and
     
@@ -2671,7 +2683,7 @@ Trial process
 
 ##### 105 Alternative ways of giving evidence
     
-*   (1) A Judge may direct, under [section 103][131], that the evidence of a witness is to be given in an alternative way so that---
+*   (1) A Judge may direct, under [section 103][132], that the evidence of a witness is to be given in an alternative way so that---
         
     *   (a) the witness gives evidence---
             
@@ -2683,23 +2695,19 @@ Trial process
         
         
     
-    *   (b) any appropriate practical and technical means may be used to enable the Judge, the jury (if any), and any lawyers to see and hear the witness giving evidence, in accordance with any regulations made under [section 201][255]:
+    *   (b) any appropriate practical and technical means may be used to enable the Judge, the jury (if any), and any lawyers to see and hear the witness giving evidence, in accordance with any regulations made under [section 201][256]:
     
     *   (c) in a criminal proceeding, the defendant is able to see and hear the witness, except where the Judge directs otherwise:
     
     *   (d) in a proceeding in which a witness anonymity order has been made, effect is given to the terms of that order.
     
-    (2) If a video record of the witness's evidence is to be shown at the hearing of the proceeding, the Judge must give directions under [section 103][131] as to the manner in which cross-examination and re-examination of the witness is to be conducted.
+    (2) If a video record of the witness's evidence is to be shown at the hearing of the proceeding, the Judge must give directions under [section 103][132] as to the manner in which cross-examination and re-examination of the witness is to be conducted.
     
-    (3) The Judge may admit evidence that is given substantially in accordance with the terms of a direction under [section 103][131], despite a failure to observe strictly all of those terms.
+    (3) The Judge may admit evidence that is given substantially in accordance with the terms of a direction under [section 103][132], despite a failure to observe strictly all of those terms.
 
 ##### 106 Video record evidence
     
-*   (1) In a criminal proceeding tried on indictment, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial---
-        
-    *   (a) must, if a video record of that witness's evidence was offered in evidence at the standard committal or the committal hearing, include the same video record; and
-    
-    *   (b) may include a video record made after the standard committal or the committal hearing.
+*   (1) Without limiting [section 105(1)(a)(iii)][134], in a criminal proceeding, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial must, if a video record of that witness's evidence was filed as a formal statement under the [Criminal Procedure Act 2011][319] or the witness gave oral evidence by way of a video record in accordance with an oral evidence order made under that Act, include that video record.
     
     (2) A video record offered as an alternative way of giving evidence must be recorded in compliance with any regulations made under this Act.
     
@@ -2709,7 +2717,7 @@ Trial process
         
     *   (a) must be given to the lawyer for each party before it is offered in evidence, unless the Judge directs otherwise; and
     
-    *   (b) must be dealt with in accordance with any requirements set out in regulations made under [section 201][255] concerning the custody or return of copies of video records, or prohibiting or restricting their copying.
+    *   (b) must be dealt with in accordance with any requirements set out in regulations made under [section 201][256] concerning the custody or return of copies of video records, or prohibiting or restricting their copying.
     
     (5) All parties must be given the opportunity to make submissions about the admissibility of all or any part of a video record that is to be offered as an alternative way of giving evidence.
     
@@ -2719,9 +2727,7 @@ Trial process
     
     (8) The Judge may admit a video record that is recorded and offered as evidence substantially in accordance with the terms of any direction under this subpart and the terms of regulations referred to in subsection (2), despite a failure to observe strictly all of those terms.
     
-    Section 106(1)(a): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
-    
-    Section 106(1)(b): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 106(1): replaced, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 #### Directions about child complainants' evidence
 
@@ -2763,45 +2769,51 @@ Trial process
 
 ##### 108 Undercover Police officers
     
-*   (1) This section and [section 109][139] apply in any case where a person is being, or is to be, proceeded against by indictment---
+*   (1) This section and [section 109][140] apply in any case where a person is being, or is to be, proceeded against---
         
     *   (a) for any offence that is punishable by imprisonment for life or for a term of at least 7 years; or
     
-    *   (b) for any other offence against any provisions of the [Misuse of Drugs Act 1975][316], except [sections 7][317] and [13][318]; or
+    *   (b) for any other offence against any provisions of the [Misuse of Drugs Act 1975][320] punishable by imprisonment for life or for a term of at least 5 years; or
     
-    *   (c) for an offence against [section 98A][319] of the Crimes Act 1961; or
+    *   (c) for an offence against [section 98A][321] of the Crimes Act 1961; or
     
     *   (d) for conspiracy to commit, or for attempting to commit, an offence described in paragraph (a) or (b).
     
-    (2) If, in any proceeding to which this section applies, it is intended to call an undercover Police officer as a witness for the prosecution, the Commissioner of Police may, at any time before an indictment is presented, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
+    (2) If, in any proceeding to which this section applies, it is intended to call an undercover Police officer as a witness for the prosecution, the Commissioner of Police may, as soon as is reasonably practicable after a defendant has pleaded not guilty, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
         
     *   (a) that during the period specified in the certificate the witness was a member of the Police and acted as an undercover Police officer:
     
     *   (b) that the witness has not been convicted of any offence or (as the case may require) that the witness has not been convicted of any offence other than the offence, or offences, described in the certificate:
     
-    *   (c) that the witness has not been found guilty of a breach of the code of conduct prescribed under [section 20][320] of the Policing Act 2008, or (as the case may require) that the witness has not been found guilty of any breach of that kind, other than a breach described in the certificate.
+    *   (c) that the witness has not been found guilty of a breach of the code of conduct prescribed under [section 20][322] of the Policing Act 2008, or (as the case may require) that the witness has not been found guilty of any breach of that kind, other than a breach described in the certificate.
     
     (3) If, to the knowledge of the Commissioner of Police, the credibility of the witness in giving evidence in any other proceeding has been the subject of adverse comment by the Judge, the Commissioner must also include in the certificate a statement of the relevant particulars.
     
     (4) It is sufficient for the purposes of subsections (2) and (3) if the certificate includes a statement of the nature of any offence or comment referred to in the certificate and the year in which the offence was committed or the comment was made, and it is not necessary to include the venue or precise date of the proceedings or any other particulars that might enable the true name or true address of the witness to be discovered.
     
-    (5) In this section and in [section 109][139], _undercover Police officer_, in relation to any proceeding to which this section applies, means a member of the Police whose identity was concealed for the purpose of any investigation relevant to the proceedings.
+    (5) In this section and in [section 109][140], _undercover Police officer_, in relation to any proceeding to which this section applies, means a member of the Police whose identity was concealed for the purpose of any investigation relevant to the proceedings.
     
     (6) This section also applies, with any necessary modifications, in any case where a person is being, or is to be, proceeded against under---
         
-    *   (a) the [Criminal Proceeds (Recovery) Act 2009][321]; or
+    *   (a) the [Criminal Proceeds (Recovery) Act 2009][323]; or
     
-    *   (b) [sections 142A to 142Q][322] of the Sentencing Act 2002\.
+    *   (b) [sections 142A to 142Q][324] of the Sentencing Act 2002\.
     
-    Compare: 1908 No 56 [s 13A(1)--(5)][323]
+    Compare: 1908 No 56 [s 13A(1)--(5)][325]
     
-    Section 108(2)(c): substituted, on 1 October 2008, by [section 130(1)][324] of the Policing Act 2008 (2008 No 72).
+    Section 108(1): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 108(6): added, on 1 December 2009, by [section 184][325] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 108(1)(b): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
+    
+    Section 108(2): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
+    
+    Section 108(2)(c): substituted, on 1 October 2008, by [section 130(1)][326] of the Policing Act 2008 (2008 No 72).
+    
+    Section 108(6): added, on 1 December 2009, by [section 184][327] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 109 Effect of certificate under section 108
     
-*   (1) If, in any proceeding to which [section 108][138] applies, the Commissioner of Police files a certificate under section 108 relating to any witness, the following provisions apply:
+*   (1) If, in any proceeding to which [section 108][139] applies, the Commissioner of Police files a certificate under section 108 relating to any witness, the following provisions apply:
         
     *   (a) if a witness is subsequently called for the prosecution and states that, during the period specified in the certificate, he or she was a member of the Police and acted as an undercover Police officer under the name specified in the certificate, it must be presumed, in the absence of proof to the contrary, that the certificate has been given in respect of that witness:
     
@@ -2819,7 +2831,7 @@ Trial process
     
     *   (b) that it is necessary in the interests of justice that the defendant be enabled to test properly the credibility of the witness; and
     
-    *   (c) that it would be impracticable for the defendant to test properly the credibility of the witness if the accused were not informed of the true name or the true address of the witness.
+    *   (c) that it would be impracticable for the defendant to test properly the credibility of the witness if the defendant were not informed of the true name or the true address of the witness.
     
     (3) An application for leave under subsection (1)(d)---
         
@@ -2829,21 +2841,23 @@ Trial process
     
     *   (c) if the application is made during the trial before a jury, must be dealt with and determined by the Judge in the absence of the jury.
     
-    (4) If the Commissioner of Police gives a certificate under [section 108][138] in respect of any witness, the Commissioner must serve a copy of the certificate on the defendant, or on any lawyer acting for the defendant, at least 14 days before the witness is to give evidence.
+    (4) If the Commissioner of Police gives a certificate under [section 108][139] in respect of any witness, the Commissioner must serve a copy of the certificate on the defendant, or on any lawyer acting for the defendant, at least 14 days before the witness is to give evidence.
     
-    Compare: 1908 No 56 [s 13A(6)--(9)][323]
+    Compare: 1908 No 56 [s 13A(6)--(9)][325]
+    
+    Section 109(2)(c): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 #### Giving of evidence by anonymous witnesses
 
 ##### 110 Pre-trial witness anonymity order
     
-*   (1) This section and [section 111][142] apply if a person is charged with an offence and is to be proceeded against by indictment.
+*   (1) This section and [section 111][143] apply if a person is charged with a category 3 or 4 offence.
     
     (2) At any time after the person is charged, the prosecution or the defendant may apply to a Judge for an order---
         
-    *   (a) excusing the applicant from disclosing to the other party prior to the standard committal or the committal hearing (if required) the name, address, and occupation of any witness, and (except with leave of the Judge) any other particulars likely to lead to the witness's identification; and
+    *   (a) excusing the applicant from disclosing to the other party before the trial the name, address, and occupation of any witness, and (except with the leave of the Judge) any other particulars likely to lead to the witness's identification; and
     
-    *   (b) excusing the witness from stating for the purposes of or at the standard committal or committal hearing (if required) his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness's identification.
+    *   (b) excusing the witness from stating in any formal statement, or in giving oral evidence in accordance with an oral evidence order, his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness's identification.
     
     (3) The Judge must hear and determine the application in chambers, and---
         
@@ -2873,51 +2887,51 @@ Trial process
     
     (6) A pre-trial witness anonymity order may be made by---
         
-    *   (a) a District Court Judge who holds a warrant under the [District Courts Act 1947][326] to conduct trials on indictment:
+    *   (a) a District Court Judge who holds a warrant under the [District Courts Act 1947][328] to conduct jury trials:
     
-    *   (b) if the preliminary hearing is held in a Youth Court, a Judge referred to in [section 274(2)(a)][327] of the Children, Young Persons, and Their Families Act 1989:
+    *   (b) if the preliminary hearing is held in a Youth Court, a Judge referred to in [section 274(2)(a)][329] of the Children, Young Persons, and Their Families Act 1989:
     
     *   (c) a High Court Judge.
     
-    Compare: 1908 No 56 [s 13B(1)--(5), (7)][328]
+    Compare: 1908 No 56 [s 13B(1)--(5), (7)][330]
     
-    Section 110(2)(a): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 110(1): replaced, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 110(2)(b): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 110(2): replaced, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
+    
+    Section 110(6)(a): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 111 Effect of pre-trial witness anonymity order
     
-*   If a pre-trial witness anonymity order is made under [section 110][141],---
+*   If a pre-trial witness anonymity order is made under [section 110][142],---
         
     *   (a) the party who applied for the order must give the Judge the name, address, and occupation of the witness; and
     
-    *   (b) at the standard committal or during the course of the committal hearing (if required), no lawyer, officer of the court, or other person involved in that process may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification; and
+    *   (b) no formal statement filed under the [Criminal Procedure Act 2011][319] may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification; and
     
-    *   (c) during the course of the committal hearing (if required),---
+    *   (c) during the giving of oral evidence before the trial,---
             
-        *   (i) no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to the name, address, or occupation of the witness who is subject to the order; and
+        *   (i) no lawyer, officer of the court, or other person involved in that process may disclose the name, address, or occupation of the witness, or any other particular likely to lead to the witness's identification; and
         
-        *   (ii) except with leave of the Judge, no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to any other particulars likely to lead to the identification of the witness who is subject to the order; and
+        *   (ii) no oral evidence may be given, and no question put to any witness, if the evidence or question relates to the name, address, or occupation of the witness who is subject to the order; and
+        
+        *   (iii) except with the leave of the Judge, no oral evidence may be given, and no question put to any witness, if the evidence or question relates to any other particulars likely to lead to the identification of the witness who is subject to the order; and
         
         
     
     *   (d) no person may publish, in any report or account relating to the proceeding, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification.
     
-    Compare: 1908 No 56 [s 13B(6)][328]
+    Compare: 1908 No 56 [s 13B(6)][330]
     
-    Section 111(b): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 111(b): replaced, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 111(c): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 111(c): replaced, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 112 Witness anonymity order for purpose of High Court trial
     
-*   (1) This section and [section 113][144] apply if a person is charged with an indictable offence and is committed to---
-        
-    *   (a) the High Court for trial; or
+*   (1) This section and [section 113][145] apply if a person is charged with a category 3 or 4 offence.
     
-    *   (b) a District Court for trial and is the subject of an application under [section 28J][329] of the District Courts Act 1947 to transfer the proceeding to the High Court.
-    
-    (2) At any time after the person is committed for trial, the prosecution or the accused may apply to a High Court Judge for a witness anonymity order under this section.
+    (2) The prosecution or the defendant may apply to a High Court Judge for a witness anonymity order under this section.
     
     (3) The Judge must hear and determine the application in chambers, and---
         
@@ -2931,13 +2945,13 @@ Trial process
     
     *   (b) either---
             
-        *   (i) there is no reason to believe that the witness has a motive or tendency to be dishonest, having regard (where applicable) to the witness's previous convictions or the witness's relationship with the accused or any associates of the accused; or
+        *   (i) there is no reason to believe that the witness has a motive or tendency to be dishonest, having regard (where applicable) to the witness's previous convictions or the witness's relationship with the defendant or any associates of the defendant; or
         
         *   (ii) the witness's credibility can be tested properly without disclosure of the witness's identity; and
         
         
     
-    *   (c) the making of the order would not deprive the accused of a fair trial.
+    *   (c) the making of the order would not deprive the defendant of a fair trial.
     
     (5) Without limiting subsection (4), in considering the application, the Judge must have regard to---
         
@@ -2953,11 +2967,19 @@ Trial process
     
     *   (f) whether there is other evidence that corroborates the witness's evidence.
     
-    Compare: 1908 No 56 [s 13C(1)--(5)][330]
+    Compare: 1908 No 56 [s 13C(1)--(5)][331]
+    
+    Section 112(1): replaced, on 1 July 2013, by [section 4][332] of the Evidence Amendment Act 2013 (2013 No 29).
+    
+    Section 112(2): replaced, on 1 July 2013, by [section 4][332] of the Evidence Amendment Act 2013 (2013 No 29).
+    
+    Section 112(4)(b)(i): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
+    
+    Section 112(4)(c): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 113 Effect of witness anonymity under section 112
     
-*   If a witness anonymity order is made under [section 112][143],---
+*   If a witness anonymity order is made under [section 112][144],---
         
     *   (a) the party who applied for the order must give the Judge the name, address, and occupation of the witness; and
     
@@ -2981,23 +3003,29 @@ Trial process
     
     *   (e) no person may publish, in any report or account relating to the proceedings, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification.
     
-    Compare: 1908 No 56 [s 13C(6)][330]
+    Compare: 1908 No 56 [s 13C(6)][331]
 
 ##### 114 Trial to be held in High Court if witness anonymity order made
     
-*   (1) If an application to transfer a proceeding to the High Court is made under [section 28J][329] of the District Courts Act 1947 and a witness anonymity order is made under [section 112][143] in that case before the application is dealt with, the Judge considering the application must transfer the proceeding to the High Court.
+*   (1) In any case where a witness who may be called to give evidence in a criminal trial is the subject of a witness anonymity order made under [section 112][144], the trial must be held in the High Court.
     
-    (2) In any other case where a witness who may be called to give evidence in a criminal trial is the subject of a witness anonymity order made under [section 112][143], the trial must be held in the High Court.
+    (2) \[Repealed\]
     
-    (3) This section has effect despite anything in [sections 28A][331] and [28J][329] of the District Courts Act 1947\.
+    (3) This section has effect despite anything in the [Criminal Procedure Act 2011][319].
     
-    Compare: 1908 No 56 [s 13A][323]
+    Compare: 1908 No 56 [s 13A][325]
+    
+    Section 114(1): replaced, on 1 July 2013, by [section 5(1)][333] of the Evidence Amendment Act 2013 (2013 No 29).
+    
+    Section 114(2): repealed, on 1 July 2013, by [section 5(2)][333] of the Evidence Amendment Act 2013 (2013 No 29).
+    
+    Section 114(3): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 115 Judge may appoint independent counsel to assist
     
-*   (1) For the purposes of considering an application for a witness anonymity order under [section 112][143], the Judge may appoint an independent counsel to assist the Judge and, without limiting the directions the Judge may give, the Judge may direct the independent counsel to---
+*   (1) For the purposes of considering an application for a witness anonymity order under [section 112][144], the Judge may appoint an independent counsel to assist the Judge and, without limiting the directions the Judge may give, the Judge may direct the independent counsel to---
         
-    *   (a) inquire into the matters referred to in [section 112(4)(a) and (b)][143] and any other matters the Judge thinks relevant; and
+    *   (a) inquire into the matters referred to in [section 112(4)(a) and (b)][144] and any other matters the Judge thinks relevant; and
     
     *   (b) report the counsel's findings to the Judge.
     
@@ -3005,7 +3033,7 @@ Trial process
     
     (3) Fees for professional services provided by counsel appointed under this section, and reasonable expenses incurred,---
         
-    *   (a) may be determined in accordance with regulations made under [section 201][255]; and
+    *   (a) may be determined in accordance with regulations made under [section 201][256]; and
     
     *   (b) are payable from money appropriated by Parliament for the purpose.
     
@@ -3013,11 +3041,11 @@ Trial process
     
     (5) If the counsel is dissatisfied with the decision of the Registrar as to the amount of the bill, the counsel may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision, and the Judge may make any order varying or confirming the decision that the Judge considers fair and reasonable.
     
-    Compare: 1908 No 56 [s 13E][332]
+    Compare: 1908 No 56 [s 13E][334]
 
 ##### 116 Judge may make orders and give directions to preserve anonymity of witness
     
-*   (1) A Judge who makes an order under [section 110][141] or [112][143] may, for the purposes of any committal hearing or the trial (as the case may be), also make any orders and give any directions that the Judge considers necessary to preserve the anonymity of the witness, including (without limitation) 1 or more of the following directions:
+*   (1) A Judge who makes an order under [section 110][142] or [112][144] may, for the purposes of the giving of oral evidence in accordance with an oral evidence order or the trial (as the case may be), also make any orders and give any directions that the Judge considers necessary to preserve the anonymity of the witness, including (without limitation) 1 or more of the following directions:
         
     *   (a) that the court be cleared of members of the public:
     
@@ -3025,43 +3053,45 @@ Trial process
     
     *   (c) that the witness give evidence by closed-circuit television or by video link.
     
-    (2) In considering whether to give directions concerning the mode in which the witness is to give his or her evidence at any committal hearing or the trial, the Judge must have regard to the need to protect the witness while at the same time ensuring a fair hearing for the defendant.
+    (2) In considering whether to give directions concerning the mode in which the witness is to give his or her evidence in accordance with an oral evidence order or at the trial, the Judge must have regard to the need to protect the witness while at the same time ensuring a fair hearing for the defendant.
     
     (3) This section does not limit---
         
-    *   (a) [section 206][333] of the Summary Proceedings Act 1957 (which confers power to deal with contempt of court); or
+    *   (a) [section 365][335] of the Criminal Procedure Act 2011 (which confers power to deal with contempt of court); or
     
-    *   (b) [section 197][334] of the Criminal Procedure Act 2011 (which confers power to clear the court); or
+    *   (b) [section 197][336] of the Criminal Procedure Act 2011 (which confers power to clear the court); or
     
     *   (c) any power of the court to direct that evidence be given, or to permit evidence to be given, by a particular mode.
     
-    Compare: 1908 No 56 [s 13G][335]
+    Compare: 1908 No 56 [s 13G][337]
     
-    Section 116(1): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 116(1): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 116(2): amended, on 29 June 2009, by [section 18][315] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 116(2): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 116(3)(b): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][336] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 116(3)(a): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
+    
+    Section 116(3)(b): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][338] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 117 Variation or discharge of witness anonymity order during trial
     
-*   At any time before a witness gives evidence during a trial, a High Court Judge may, on his or her own motion or on the application of either party, vary or discharge a witness anonymity order made for the purposes of the proceeding under [section 112][143].
+*   At any time before a witness gives evidence during a trial, a High Court Judge may, on his or her own motion or on the application of either party, vary or discharge a witness anonymity order made for the purposes of the proceeding under [section 112][144].
     
-    Compare: 1908 No 56 [s 13H][337]
+    Compare: 1908 No 56 [s 13H][339]
 
 ##### 118 Witness in Police witness protection programme
     
 *   If, at any time after the events that are the subject of a charge, a witness under a Police witness protection programme assumes a new identity, the witness may not be required in any proceeding concerning the charge to disclose his or her assumed name or any particulars likely to disclose his or her new identity.
     
-    Compare: 1908 No 56 [s 13I][338]
+    Compare: 1908 No 56 [s 13I][340]
 
 ##### 119 Offences
     
-*   (1) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 7 years who, with knowledge of a pre-trial witness anonymity order made under [section 110][141], intentionally contravenes [section 111(b) or (d)][142].
+*   (1) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 7 years who, with knowledge of a pre-trial witness anonymity order made under [section 110][142], intentionally contravenes [section 111(b) or (d)][143].
     
-    (2) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 7 years who, with knowledge of a witness anonymity order made under [section 112][143], intentionally contravenes [section 113(c) or (e)][144].
+    (2) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 7 years who, with knowledge of a witness anonymity order made under [section 112][144], intentionally contravenes [section 113(c) or (e)][145].
     
-    (3) If a person contravenes [section 111(b) or (d)][142] or [113(c) or (e)][144], and that contravention does not constitute an offence against subsection (1) or (2), the person commits an offence and is liable on summary conviction,---
+    (3) If a person contravenes [section 111(b) or (d)][143] or [113(c) or (e)][145], and that contravention does not constitute an offence against subsection (1) or (2), the person commits an offence and is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $2,000:
     
@@ -3069,7 +3099,13 @@ Trial process
     
     (4) Nothing in this section limits the power of any court to punish any contempt of court.
     
-    Compare: 1908 No 56 [s 13J][339]
+    Compare: 1908 No 56 [s 13J][341]
+    
+    Section 119(1): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
+    
+    Section 119(2): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
+    
+    Section 119(3): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 #### Signature of statements by assumed name
 
@@ -3077,11 +3113,11 @@ Trial process
     
 *   (1) A deposition or other written statement of evidence given by an undercover Police officer may be given and signed in the name by which the officer was known during the relevant investigation.
     
-    (2) A deposition or other written statement given by a witness who is the subject of an application for an anonymity order made under [section 112][143], or who is the subject of an anonymity order made under [section 110][141] or 112, may be given and signed by the witness using the term ""witness"" followed by an initial or mark.
+    (2) A deposition or other written statement given by a witness who is the subject of an application for an anonymity order made under [section 112][144], or who is the subject of an anonymity order made under [section 110][142] or 112, may be given and signed by the witness using the term ""witness"" followed by an initial or mark.
     
     (3) This section overrides any contrary provision in this Act or any other enactment.
     
-    Compare: 1957 No 87 [s 178A][340]
+    Compare: 1957 No 87 [s 178A][342]
 
 ### Subpart 6---Corroboration, judicial directions, and judicial warnings
 
@@ -3089,15 +3125,15 @@ Trial process
     
 *   (1) It is not necessary in a criminal proceeding for the evidence on which the prosecution relies to be corroborated, except with respect to the offences of---
         
-    *   (a) perjury ([section 108][310] of the Crimes Act 1961); and
+    *   (a) perjury ([section 108][314] of the Crimes Act 1961); and
     
-    *   (b) false oaths ([section 110][341] of the Crimes Act 1961); and
+    *   (b) false oaths ([section 110][343] of the Crimes Act 1961); and
     
-    *   (c) false statements or declarations ([section 111][342] of the Crimes Act 1961); and
+    *   (c) false statements or declarations ([section 111][344] of the Crimes Act 1961); and
     
-    *   (d) treason ([section 73][343] of the Crimes Act 1961).
+    *   (d) treason ([section 73][345] of the Crimes Act 1961).
     
-    (2) Subject to subsection (1) and [section 122][155], if in a criminal proceeding there is a jury, it is not necessary for the Judge to---
+    (2) Subject to subsection (1) and [section 122][156], if in a criminal proceeding there is a jury, it is not necessary for the Judge to---
         
     *   (a) warn the jury that it is dangerous to act on uncorroborated evidence or to give a warning to the same or similar effect; or
     
@@ -3181,7 +3217,7 @@ Trial process
     
     *   (b) suggest to the jury that children generally have tendencies to invent or distort.
     
-    (3) This section does not affect any other power of the Judge to warn or inform the jury about children's evidence exercised in accordance with the requirements of regulations made under [section 201][255].
+    (3) This section does not affect any other power of the Judge to warn or inform the jury about children's evidence exercised in accordance with the requirements of regulations made under [section 201][256].
 
 ##### 126 Judicial warnings about identification evidence
     
@@ -3247,7 +3283,7 @@ Trial process
     
     (6) The Judge may dispense with the requirement for a party to give notice under subsection (1) or (2) subject to any conditions that the Judge imposes.
     
-    (7) This section is subject to [sections 131][167] and [132][168].
+    (7) This section is subject to [sections 131][168] and [132][169].
 
 ##### 131 Admission of depositions
     
@@ -3301,7 +3337,7 @@ Trial process
     
     *   (c) the production of secondary evidence to prove the authenticity of the document may be permitted in circumstances described in those rules.
     
-    Compare: 1908 No 89 Schedule 2 [r 314][344]
+    Compare: 1908 No 89 Schedule 2 [r 314][346]
 
 ##### 135 Translations and transcripts
     
@@ -3309,7 +3345,7 @@ Trial process
         
     *   (a) notice is given to all other parties in sufficient time before the hearing to provide those other parties with a fair opportunity to scrutinise the translation; and
     
-    *   (b) all other requirements prescribed in regulations made under [section 201][255] concerning that document are satisfied.
+    *   (b) all other requirements prescribed in regulations made under [section 201][256] concerning that document are satisfied.
     
     (2) The translation is presumed to be an accurate translation, in the absence of evidence to the contrary.
     
@@ -3359,7 +3395,7 @@ Trial process
     
     *   (b) the sentencing by a court of a person to any penalty or other disposition of the case following a plea or finding of guilt, and the particulars of the offence for which that person was sentenced or otherwise dealt with and of the person (including the name and date of birth of the person if the person is an individual, and the name and date and place of incorporation of the person if the person is a body corporate):
     
-    *   (ba) a record of first warning (within the meaning of [section 86A][345] of the Sentencing Act 2002) or a record of final warning (within the meaning of that section) made in respect of a person:
+    *   (ba) a record of first warning (within the meaning of [section 86A][347] of the Sentencing Act 2002) or a record of final warning (within the meaning of that section) made in respect of a person:
     
     *   (c) an order or judgment of a court and the nature, parties, and particulars of the proceeding to which the order or judgment relates:
     
@@ -3379,7 +3415,7 @@ Trial process
     
     (6) [Subpart 1][21] of Part 2 (which relates to hearsay evidence) does not apply to evidence offered under this section.
     
-    Section 139(1)(ba): inserted, on 1 June 2010, by [section 13][346] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 139(1)(ba): inserted, on 1 June 2010, by [section 13][348] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 140 Proof of conviction by fingerprints
     
@@ -3517,7 +3553,7 @@ Trial process
 
 ##### 145 Interpretation
     
-*   In this section and [sections 146][183] and [147][184],---
+*   In this section and [sections 146][184] and [147][185],---
     
     _Convention_ means the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, done at the Hague on 5 October 1961
     
@@ -3561,13 +3597,13 @@ Trial process
     
     *   (b) does not include a document executed by a diplomatic or consular agent.
     
-    Compare: 1908 No 56 [s 45A][347]; 2000 No 62 [s 3][348]
+    Compare: 1908 No 56 [s 45A][349]; 2000 No 62 [s 3][350]
 
 ##### 146 Foreign public documents: certificates as to contracting States under Convention
     
 *   A certificate purporting to be signed by the Secretary of Foreign Affairs and Trade, and stating that a country is a contracting State under the Convention that did not raise an objection to New Zealand's accession to the Convention, is sufficient evidence of those matters, unless the contrary is proved.
     
-    Compare: 1908 No 56 [s 45B][349]; 2000 No 62 [s 3][348]
+    Compare: 1908 No 56 [s 45B][351]; 2000 No 62 [s 3][350]
 
 ##### 147 Foreign public documents: Convention certificates sufficient authentication of certain matters
     
@@ -3585,7 +3621,7 @@ Trial process
     
     (4) Subsection (3) does not prevent a New Zealand authority from accepting, in relation to a foreign public document, a lesser formality than a Convention certificate placed on, or attached to, the document as evidence or certification of the matters referred to in paragraphs (a) to (c) of subsection (1).
     
-    Compare: 1908 No 56 [s 45C][350]; 2000 No 62 [s 3][348]; Foreign Evidence Act 1994 ss 37--39 (Aust)
+    Compare: 1908 No 56 [s 45C][352]; 2000 No 62 [s 3][350]; Foreign Evidence Act 1994 ss 37--39 (Aust)
 
 #### Special rules relating to public documents admissible under Australian law
 
@@ -3605,7 +3641,7 @@ Trial process
     
     (4) In this section, _public document_ means an official or public document; and includes a certificate, an entry in a register, and a record of any proceedings.
     
-    Compare: 1990 No 46 [s 9][351]
+    Compare: 1990 No 46 [s 9][353]
 
 ##### 149 Evidence of other public documents
     
@@ -3615,7 +3651,7 @@ Trial process
     
     *   (b) the copy or extract appears to be signed or certified as a true copy or extract by the person who has custody of the document and that person also certifies that he or she has custody of it.
     
-    Compare: 1990 No 46 [s 10][352]
+    Compare: 1990 No 46 [s 10][354]
 
 ## Part 4  
 Evidence from overseas or to be used overseas
@@ -3628,7 +3664,7 @@ Evidence from overseas or to be used overseas
     
 *   In this subpart, unless the context otherwise requires,---
     
-    _Australian court_ includes a tribunal declared by the Minister of Justice under [section 152][193] to be an Australian court
+    _Australian court_ includes a tribunal declared by the Minister of Justice under [section 152][194] to be an Australian court
     
     _Australian subpoena_ means a subpoena issued by an Australian court in a proceeding other than a specified proceeding
     
@@ -3648,11 +3684,11 @@ Evidence from overseas or to be used overseas
     
     _Judge_, in relation to an Australian court, includes a Judicial Registrar, Magistrate, Master, and a member of a tribunal
     
-    _New Zealand court_ includes a tribunal declared by the Minister of Justice under [section 152][193] to be a New Zealand court
+    _New Zealand court_ includes a tribunal declared by the Minister of Justice under [section 152][194] to be a New Zealand court
     
     _New Zealand subpoena_ means a subpoena issued by a New Zealand court in a proceeding other than a specified proceeding
     
-    _prescribed_ means prescribed by rules or regulations made under [section 199][251] or [200][252]
+    _prescribed_ means prescribed by rules or regulations made under [section 199][252] or [200][253]
     
     _subpoena_---
         
@@ -3674,7 +3710,7 @@ Evidence from overseas or to be used overseas
     
     _witness_, in relation to a subpoena, means the person to whom the subpoena is addressed.
     
-    Compare: 1994 No 31 [s 2][353]
+    Compare: 1994 No 31 [s 2][355]
 
 ##### 151 Meaning of specified proceeding
     
@@ -3696,13 +3732,13 @@ Evidence from overseas or to be used overseas
     
     *   (b) any tribunal of the Commonwealth of Australia or of a State or a territory of Australia to be an Australian court.
     
-    Compare: 1994 No 31 [s 3][354]
+    Compare: 1994 No 31 [s 3][356]
 
 ##### 153 Act not to apply to certain proceedings in High Court of New Zealand and Federal Court of Australia
     
-*   Nothing in this subpart applies in relation to any proceedings to which [Part 1A][355] of the Judicature Act 1908 applies.
+*   Nothing in this subpart applies in relation to any proceedings to which [Part 1A][357] of the Judicature Act 1908 applies.
     
-    Compare: 1994 No 31 [s 4][356]
+    Compare: 1994 No 31 [s 4][358]
 
 #### Service of and compliance with New Zealand subpoenas in Australia
 
@@ -3724,13 +3760,13 @@ Evidence from overseas or to be used overseas
     
     (6) This section is subject to the applicable rules of court.
     
-    Compare: 1994 No 31 [s 5][357]
+    Compare: 1994 No 31 [s 5][359]
 
 ##### 155 New Zealand subpoena may require evidence to be given in New Zealand or Australia
     
 *   A New Zealand subpoena served on a witness in Australia may require the witness to give evidence or produce a document or thing or both at a place in New Zealand or Australia.
     
-    Compare: 1994 No 31 [s 6][358]
+    Compare: 1994 No 31 [s 6][360]
 
 ##### 156 Service of subpoena
     
@@ -3748,9 +3784,9 @@ Evidence from overseas or to be used overseas
         
         
     
-    (3) Subsection (1) is subject to any directions as to service imposed under [section 154(5)][196].
+    (3) Subsection (1) is subject to any directions as to service imposed under [section 154(5)][197].
     
-    Compare: 1994 No 31 [s 7][359]
+    Compare: 1994 No 31 [s 7][361]
 
 ##### 157 Expenses
     
@@ -3762,11 +3798,11 @@ Evidence from overseas or to be used overseas
     
     (4) In this section, the _appropriate time_ means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
     
-    Compare: 1994 No 31 [s 8][360]
+    Compare: 1994 No 31 [s 8][362]
 
 ##### 158 Payment of additional amounts to witness
     
-*   (1) A witness who has complied with a New Zealand subpoena that was served on the witness in Australia is entitled to be paid any reasonable expenses incurred by the witness in complying with the subpoena in addition to any expenses paid or given to the witness under [section 157][199].
+*   (1) A witness who has complied with a New Zealand subpoena that was served on the witness in Australia is entitled to be paid any reasonable expenses incurred by the witness in complying with the subpoena in addition to any expenses paid or given to the witness under [section 157][200].
     
     (2) The expenses must be paid by the person who obtained the subpoena or, if the subpoena was issued under a direction of a New Zealand court, by the Crown.
     
@@ -3780,7 +3816,7 @@ Evidence from overseas or to be used overseas
     
     (5) An order made under subsection (4) by a court which does not have the power to enforce its orders may be filed in any District Court and when filed, is enforceable as a judgment of the District Court.
     
-    Compare: 1994 No 31 [s 9][361]
+    Compare: 1994 No 31 [s 9][363]
 
 ##### 159 Subpoenas for production
     
@@ -3788,7 +3824,7 @@ Evidence from overseas or to be used overseas
     
     (2) For the purposes of subsection (1), _registry_, in relation to an Australian court, means a registry of an Australian court authorised by a law of the Commonwealth of Australia to receive such documents or things.
     
-    Compare: 1994 No 31 [s 10][362]
+    Compare: 1994 No 31 [s 10][364]
 
 ##### 160 Setting aside of subpoena served in Australia
     
@@ -3804,7 +3840,7 @@ Evidence from overseas or to be used overseas
         
         *   (iii) the witness is liable to prosecution for an offence, or is being prosecuted for an offence, in New Zealand; or
         
-        *   (iv) the witness is liable to the imposition of a civil penalty in civil proceedings in New Zealand, not being proceedings for a pecuniary penalty under the [Commerce Act 1986][363]; or
+        *   (iv) the witness is liable to the imposition of a civil penalty in civil proceedings in New Zealand, not being proceedings for a pecuniary penalty under the [Commerce Act 1986][365]; or
         
         
     
@@ -3828,7 +3864,7 @@ Evidence from overseas or to be used overseas
     
     (5) The Registrar of the High Court in which the application is filed must ensure that a copy of the application and any affidavit setting out facts on which the applicant relies is served on the solicitor on the record for the person who obtained leave to serve the subpoena, or if there is no solicitor on the record, on that person.
     
-    Compare: 1994 No 31 [s 11][364]
+    Compare: 1994 No 31 [s 11][366]
 
 ##### 161 Failure to comply with subpoena
     
@@ -3838,13 +3874,13 @@ Evidence from overseas or to be used overseas
     
     *   (b) the witness failed to comply with the subpoena.
     
-    Compare: 1994 No 31 [s 12][365]
+    Compare: 1994 No 31 [s 12][367]
 
 ##### 162 Other powers not affected
     
-*   Nothing in [sections 154 to 161][196] limits or affects any other powers of a New Zealand court.
+*   Nothing in [sections 154 to 161][197] limits or affects any other powers of a New Zealand court.
     
-    Compare: 1994 No 31 [s 13][366]
+    Compare: 1994 No 31 [s 13][368]
 
 #### Service of and compliance with Australian subpoenas in New Zealand
 
@@ -3858,7 +3894,7 @@ Evidence from overseas or to be used overseas
     
     *   (b) a statement setting out the rights and obligations of the witness, including information about the way in which an application may be made to the appropriate Australian court to have the subpoena set aside.
     
-    Compare: 1994 No 31 [s 14][367]
+    Compare: 1994 No 31 [s 14][369]
 
 ##### 164 Compliance with Australian subpoena
     
@@ -3866,7 +3902,7 @@ Evidence from overseas or to be used overseas
     
     (2) Despite subsection (1) a witness served with an Australian subpoena is not required to comply with the subpoena if---
         
-    *   (a) the subpoena is not served on the witness in accordance with [section 163][206] and the law and rules that apply to the issue and service of the subpoena in the Australian court that issued it; or
+    *   (a) the subpoena is not served on the witness in accordance with [section 163][207] and the law and rules that apply to the issue and service of the subpoena in the Australian court that issued it; or
     
     *   (b) allowances and travelling expenses or vouchers in substitution for allowances and travelling expenses sufficient to meet the witness's reasonable expenses of complying with the subpoena are not given or paid to the witness at the appropriate time; or
     
@@ -3874,7 +3910,7 @@ Evidence from overseas or to be used overseas
     
     (3) In this section the _appropriate time_ means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
     
-    Compare: 1994 No 31 [s 15][368]
+    Compare: 1994 No 31 [s 15][370]
 
 ##### 165 Failure of witness to comply with Australian subpoena
     
@@ -3904,7 +3940,7 @@ Evidence from overseas or to be used overseas
     
     (5) Without limiting subsection (3), no finding of fact made by the Federal Court or by the Family Court of Australia or by a Supreme Court of an Australian State or a territory on an application to have the subpoena set aside may be challenged by any person alleged to have failed to comply with the subpoena unless the court was deliberately misled in making those findings of fact.
     
-    Compare: 1994 No 31 [s 16][369]
+    Compare: 1994 No 31 [s 16][371]
 
 ##### 166 Transmission of documents or things to Australian court
     
@@ -3916,13 +3952,13 @@ Evidence from overseas or to be used overseas
     
     (2) In this section _the appropriate sum_ in relation to a document or thing required to be produced in compliance with an Australian subpoena means a sum that is sufficient to send the document or thing to the Australian court that issued the subpoena by a means that will ensure it is received by the court before the date on which it is required to be produced.
     
-    Compare: 1994 No 31 [s 17][370]
+    Compare: 1994 No 31 [s 17][372]
 
 ##### 167 Other powers to serve subpoenas not affected
     
 *   Nothing in this Act limits or affects any right or power conferred by or under a law of the Commonwealth or a State or a territory of Australia to serve a subpoena in New Zealand on an Australian citizen.
     
-    Compare: 1994 No 31 [s 18][371]
+    Compare: 1994 No 31 [s 18][373]
 
 #### Video link and telephone conferences in New Zealand proceedings
 
@@ -3936,13 +3972,13 @@ Evidence from overseas or to be used overseas
     
     (4) An order made under subsection (3) by a court which does not have the power to enforce its orders may be filed in any District Court and, when filed, is enforceable as a judgment of the District Court.
     
-    Compare: 1994 No 31 [s 19][372]
+    Compare: 1994 No 31 [s 19][374]
 
 ##### 169 Powers of New Zealand court in Australia
     
-*   For the purposes of the taking of evidence or the receiving of submissions by video link or telephone conference from Australia under [section 168][212], the New Zealand court may exercise in Australia all its powers which it is permitted to exercise in Australia under Australian law.
+*   For the purposes of the taking of evidence or the receiving of submissions by video link or telephone conference from Australia under [section 168][213], the New Zealand court may exercise in Australia all its powers which it is permitted to exercise in Australia under Australian law.
     
-    Compare: 1994 No 31 [s 20][373]
+    Compare: 1994 No 31 [s 20][375]
 
 ##### 170 Evidence and submissions by video link
     
@@ -3952,7 +3988,7 @@ Evidence from overseas or to be used overseas
     
     *   (b) enable persons present at the place where the evidence is given or the submissions are made in Australia to see and hear persons at the place where the court is sitting in New Zealand.
     
-    Compare: 1994 No 31 [s 21][374]
+    Compare: 1994 No 31 [s 21][376]
 
 ##### 171 Evidence and submissions by telephone
     
@@ -3962,7 +3998,7 @@ Evidence from overseas or to be used overseas
     
     *   (b) enable persons present at the place where the evidence is given or the submissions are made in Australia to hear persons at the place where the court is sitting in New Zealand.
     
-    Compare: 1994 No 31 [s 22][375]
+    Compare: 1994 No 31 [s 22][377]
 
 ##### 172 Rights of Australian counsel
     
@@ -3972,7 +4008,7 @@ Evidence from overseas or to be used overseas
     
     *   (b) the making of submissions by video link or telephone conference from Australia in the proceeding before the New Zealand court.
     
-    Compare: 1994 No 31 [s 23][376]
+    Compare: 1994 No 31 [s 23][378]
 
 #### Video link and telephone conferences in Australian proceedings
 
@@ -3980,7 +4016,7 @@ Evidence from overseas or to be used overseas
     
 *   An Australian court may take evidence or receive submissions from a person in New Zealand by video link or telephone conference for the purposes of a proceeding before that court.
     
-    Compare: 1994 No 31 [s 24][377]
+    Compare: 1994 No 31 [s 24][379]
 
 ##### 174 Powers of Australian court
     
@@ -3992,11 +4028,11 @@ Evidence from overseas or to be used overseas
     
     (2) Subject to subsection (1), the Australian law that applies to the proceeding in Australia also applies to the practice and procedure of the Australian court in taking evidence or receiving submissions from a person in New Zealand.
     
-    Compare: 1994 No 31 [s 25][378]
+    Compare: 1994 No 31 [s 25][380]
 
 ##### 175 Orders of Australian court
     
-*   (1) Without limiting [section 174][219], the Australian court may, by order,---
+*   (1) Without limiting [section 174][220], the Australian court may, by order,---
         
     *   (a) direct that the hearing or any part of the hearing be held in private; or
     
@@ -4006,13 +4042,13 @@ Evidence from overseas or to be used overseas
     
     (2) An order made under subsection (1) may be enforced by a Judge of the High Court who, for that purpose, has and may exercise the powers, including the power to punish for contempt, that would have been available to enforce the order if it had been made by that Judge.
     
-    Compare: 1994 No 31 [s 26][379]
+    Compare: 1994 No 31 [s 26][381]
 
 ##### 176 Place where evidence given part of Australian court
     
-*   For the purposes of [sections 174][219] and [175][220], the place in New Zealand where the evidence is given or the submissions are made in a proceeding before an Australian court are deemed to be part of that court.
+*   For the purposes of [sections 174][220] and [175][221], the place in New Zealand where the evidence is given or the submissions are made in a proceeding before an Australian court are deemed to be part of that court.
     
-    Compare: 1994 No 31 [s 27][380]
+    Compare: 1994 No 31 [s 27][382]
 
 ##### 177 Privileges, protections, and immunities of Judges, counsel, and witnesses in Australian proceedings
     
@@ -4022,15 +4058,15 @@ Evidence from overseas or to be used overseas
     
     (3) Every witness who gives evidence in a proceeding before an Australian court by video link or telephone conference from New Zealand has all the privileges and immunities of a witness in the High Court.
     
-    Compare: 1994 No 31 [s 28][381]
+    Compare: 1994 No 31 [s 28][383]
 
 ##### 178 Power of Australian court to administer oaths in New Zealand
     
 *   (1) An Australian court may, for the purpose of obtaining the evidence of a person in New Zealand by video link or telephone conference, administer an oath or affirmation in accordance with the practice and procedure of that court.
     
-    (2) Evidence given by a person on oath or affirmation administered by the Australian court under subsection (1) is, for the purposes of [section 108][310] of the Crimes Act 1961 (which relates to perjury), deemed to have been given as evidence in a judicial proceeding on oath.
+    (2) Evidence given by a person on oath or affirmation administered by the Australian court under subsection (1) is, for the purposes of [section 108][314] of the Crimes Act 1961 (which relates to perjury), deemed to have been given as evidence in a judicial proceeding on oath.
     
-    Compare: 1994 No 31 [s 29][382]
+    Compare: 1994 No 31 [s 29][384]
 
 ##### 179 Contempt of Australian court
     
@@ -4042,7 +4078,7 @@ Evidence from overseas or to be used overseas
         
         *   (ii) a witness in the proceeding; or
         
-        *   (iii) an officer of a New Zealand court giving assistance under [section 180][225]; or
+        *   (iii) an officer of a New Zealand court giving assistance under [section 180][226]; or
         
         
     
@@ -4062,9 +4098,11 @@ Evidence from overseas or to be used overseas
     
     *   (d) wilfully and without lawful excuse, disobeys any order or direction of the Australian court in the course of the proceeding.
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both.
+    (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both.
     
-    Compare: 1994 No 31 [s 30][383]
+    Compare: 1994 No 31 [s 30][385]
+    
+    Section 179(2): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 180 Assistance to Australian court
     
@@ -4076,7 +4114,7 @@ Evidence from overseas or to be used overseas
     
     *   (c) assist with the administering by the Australian court of an oath or affirmation.
     
-    Compare: 1994 No 31 [s 31][384]
+    Compare: 1994 No 31 [s 31][386]
 
 #### Enforcement of Australian orders
 
@@ -4088,15 +4126,15 @@ Evidence from overseas or to be used overseas
     
     *   (b) the payment of expenses incurred by a person in connection with the taking of evidence or the making of submissions from New Zealand by video link or telephone, as the case may be.
     
-    (2) For the purposes of the [Reciprocal Enforcement of Judgments Act 1934][385], an order to which this subsection applies is deemed,---
+    (2) For the purposes of the [Reciprocal Enforcement of Judgments Act 1934][387], an order to which this subsection applies is deemed,---
         
     *   (a) if the order was made by an Australian court that is a superior court, to be a money judgment of a superior court that had jurisdiction to make the order; or
     
     *   (b) if the order was made by an Australian court that is not a superior court, to be a money judgment of a specified inferior court that had jurisdiction to make the order.
     
-    (3) Nothing in [section 6][386] (except paragraphs (a), and (d) to (f) of subsection (1)) of the Reciprocal Enforcement of Judgments Act 1934 applies to an order referred to in subsection (1) of this section.
+    (3) Nothing in [section 6][388] (except paragraphs (a), and (d) to (f) of subsection (1)) of the Reciprocal Enforcement of Judgments Act 1934 applies to an order referred to in subsection (1) of this section.
     
-    Compare: 1994 No 31 [s 32][387]
+    Compare: 1994 No 31 [s 32][389]
 
 ### Subpart 2---Evidence for use in civil proceedings overseas and evidence for use in civil proceedings in High Court
 
@@ -4118,17 +4156,17 @@ Evidence from overseas or to be used overseas
 
 ##### 183 Relationship with subpart 1
     
-*   This subpart does not affect the application or operation of [subpart 1][189].
+*   This subpart does not affect the application or operation of [subpart 1][190].
 
 #### Evidence for use in civil proceedings overseas
 
 ##### 184 Application to High Court for assistance in obtaining evidence for civil proceedings in another court
     
-*   The High Court or a Judge may exercise the powers conferred by [section 185(1)][233] if an application is made to the High Court or a Judge for an order for evidence to be obtained in New Zealand and the court or Judge is satisfied---
+*   The High Court or a Judge may exercise the powers conferred by [section 185(1)][234] if an application is made to the High Court or a Judge for an order for evidence to be obtained in New Zealand and the court or Judge is satisfied---
         
     *   (a) that the application is made to implement a request issued by or on behalf of a requesting court; and
     
-    *   (b) that any requirements prescribed in rules or regulations made under [section 200][252] as to the form of the application and the manner in which it must be made are satisfied; and
+    *   (b) that any requirements prescribed in rules or regulations made under [section 200][253] as to the form of the application and the manner in which it must be made are satisfied; and
     
     *   (c) that the evidence to which the application relates is to be obtained for the purposes of civil proceedings which either have been instituted before the requesting court or whose institution before that court is contemplated.
     
@@ -4172,7 +4210,7 @@ Evidence from overseas or to be used overseas
 
 ##### 186 Privileges of witnesses
     
-*   (1) A person may not be compelled by an order under [section 185(1)][233] to give any evidence which the person could not be compelled to give---
+*   (1) A person may not be compelled by an order under [section 185(1)][234] to give any evidence which the person could not be compelled to give---
         
     *   (a) in civil proceedings in New Zealand; or
     
@@ -4182,7 +4220,7 @@ Evidence from overseas or to be used overseas
         
     *   (a) supported by a statement contained in the request (whether unconditionally or subject to conditions that are fulfilled); or
     
-    *   (b) conceded by the applicant for the order under [section 185(1)][233].
+    *   (b) conceded by the applicant for the order under [section 185(1)][234].
     
     (3) If a claim is made by a person for exemption under subsection (2) but the High Court or a Judge is not satisfied that subsection (2) applies, the person may be required to give the evidence to which the claim relates but that evidence must not be transmitted to the requesting court if---
         
@@ -4190,7 +4228,7 @@ Evidence from overseas or to be used overseas
     
     *   (b) that court upholds the claim for exemption.
     
-    (4) A person may not be compelled by an order under [section 185(1)][233] to give any evidence if the giving of that evidence would be prejudicial to the security of New Zealand and a certificate signed by the Attorney-General to the effect that it would be so prejudicial for that person to do so is conclusive evidence of that fact.
+    (4) A person may not be compelled by an order under [section 185(1)][234] to give any evidence if the giving of that evidence would be prejudicial to the security of New Zealand and a certificate signed by the Attorney-General to the effect that it would be so prejudicial for that person to do so is conclusive evidence of that fact.
     
     (5) In this section _giving evidence_ includes---
         
@@ -4220,13 +4258,13 @@ Evidence from overseas or to be used overseas
     
     (3) If an order is made under subsection (2), a letter of request must be issued accordingly, and signed by a Judge or Registrar, and sealed with the seal of the High Court in a form---
         
-    *   (a) that the High Court or Judge approves or that is prescribed by rules of court or regulations made under [section 200][252]; or
+    *   (a) that the High Court or Judge approves or that is prescribed by rules of court or regulations made under [section 200][253]; or
     
     *   (b) that is consistent with the requirements of any convention to which the country in which the overseas court is, is a party to (for example, the Hague Convention on Evidence Abroad).
     
     (4) Letters of request must be transmitted to and from an overseas court through any channels---
         
-    *   (a) that are prescribed by rules of court or regulations made under [section 200][252]; or
+    *   (a) that are prescribed by rules of court or regulations made under [section 200][253]; or
     
     *   (b) that are consistent with the requirements of any convention to which the country in which the overseas court is, is a party to (for example, the Hague Convention on Evidence Abroad).
     
@@ -4236,21 +4274,23 @@ Evidence from overseas or to be used overseas
     
     *   (b) make any other order the Judge considers to be in the interests of justice.
     
-    (6) This section does not limit [sections 103 to 106][131].
+    (6) This section does not limit [sections 103 to 106][132].
     
-    Compare: 1980 No 27 [s 46][388]
+    Compare: 1980 No 27 [s 46][390]
 
 #### Offences
 
 ##### 189 False statements
     
-*   (1) Every person commits an offence who, being required under [subsection 185(1)][233] to give evidence (either orally or in writing) otherwise than on oath, makes a statement---
+*   (1) Every person commits an offence who, being required under [subsection 185(1)][234] to give evidence (either orally or in writing) otherwise than on oath, makes a statement---
         
     *   (a) which he or she knows to be false in a material particular; or
     
     *   (b) which is false in a material particular and which he or she does not believe to be true.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 years.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 years.
+    
+    Section 189(2): amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ### Subpart 3---Evidence for use in overseas criminal proceedings
 
@@ -4270,11 +4310,11 @@ Evidence from overseas or to be used overseas
     
     *   (b) includes any person lawfully acting for any of those officers and also includes any Diplomatic Secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, or Head of Mission.
     
-    Compare: 1908 No 56 [s 48A][389]
+    Compare: 1908 No 56 [s 48A][391]
 
 ##### 191 Relationship with subpart 1
     
-*   This subpart does not affect the application or operation of [subpart 1][189].
+*   This subpart does not affect the application or operation of [subpart 1][190].
 
 ##### 192 Examination of witness at request of overseas court
     
@@ -4284,17 +4324,17 @@ Evidence from overseas or to be used overseas
     
     (3) Despite subsection (2),---
         
-    *   (a) an application for an order under subsection (1) must be made in accordance with any requirements prescribed in regulations made under [section 200][252]:
+    *   (a) an application for an order under subsection (1) must be made in accordance with any requirements prescribed in regulations made under [section 200][253]:
     
-    *   (b) the right of the Solicitor-General to make an application of that kind is subject to any restrictions set out in regulations made under [section 200][252].
+    *   (b) the right of the Solicitor-General to make an application of that kind is subject to any restrictions set out in regulations made under [section 200][253].
     
     (4) An order made under subsection (1) may be enforced in the same manner as if it were an order made by the High Court or the Judge in proceedings pending in the High Court or before the Judge.
     
-    Compare: 1908 No 56 [s 48A][389]
+    Compare: 1908 No 56 [s 48A][391]
 
 ##### 193 Powers may be exercised by Registrar
     
-*   (1) A Judge may authorise a Registrar of the High Court to exercise the powers of the High Court or the Judge under [section 192][243], either---
+*   (1) A Judge may authorise a Registrar of the High Court to exercise the powers of the High Court or the Judge under [section 192][244], either---
         
     *   (a) generally; or
     
@@ -4310,7 +4350,7 @@ Evidence from overseas or to be used overseas
     
     (4) Nothing in this section prevents the exercise by the High Court or any Judge of any powers conferred on a Registrar under this section.
     
-    Compare: 1908 No 56 [s 48B][390]
+    Compare: 1908 No 56 [s 48B][392]
 
 ##### 194 Evidence in support of application
     
@@ -4324,7 +4364,7 @@ Evidence from overseas or to be used overseas
     
     *   (d) any other process that the High Court or a Judge may accept.
     
-    (2) Any letter of request or other document purporting to be sealed with the seal of any overseas court or signed by a Judge or other judicial officer or by a Registrar or other officer of the court must for the purpose of this section and [section 192][243] be received in evidence without proof of---
+    (2) Any letter of request or other document purporting to be sealed with the seal of any overseas court or signed by a Judge or other judicial officer or by a Registrar or other officer of the court must for the purpose of this section and [section 192][244] be received in evidence without proof of---
         
     *   (a) the seal of the court; or
     
@@ -4332,7 +4372,7 @@ Evidence from overseas or to be used overseas
     
     *   (c) the judicial or official character of the Judge or other person.
     
-    (3) A certificate purporting to be signed by an overseas representative to the effect that any matter in relation to which an application is made under [section 192][243] is a criminal proceeding pending in a court having jurisdiction in the proceeding in the country of which he or she is a representative and that the court having that jurisdiction wishes to obtain the testimony of the witness to whom the application relates, is sufficient evidence of the matters set out in the certificate.
+    (3) A certificate purporting to be signed by an overseas representative to the effect that any matter in relation to which an application is made under [section 192][244] is a criminal proceeding pending in a court having jurisdiction in the proceeding in the country of which he or she is a representative and that the court having that jurisdiction wishes to obtain the testimony of the witness to whom the application relates, is sufficient evidence of the matters set out in the certificate.
     
     (4) A certificate given under subsection (3) must be received in evidence without proof of---
         
@@ -4340,13 +4380,13 @@ Evidence from overseas or to be used overseas
     
     *   (b) the official character of that person.
     
-    Compare: 1908 No 56 [s 48C][391]
+    Compare: 1908 No 56 [s 48C][393]
 
 ##### 195 Protection of witnesses
     
-*   (1) A person may not be compelled by an order under [section 192][243] to give evidence which the person could not be compelled to give in criminal proceedings in New Zealand.
+*   (1) A person may not be compelled by an order under [section 192][244] to give evidence which the person could not be compelled to give in criminal proceedings in New Zealand.
     
-    (2) A person may not be compelled by an order under [section 192][243] to give any evidence if the giving of that evidence would infringe the jurisdiction of New Zealand or would otherwise be prejudicial to the security or sovereignty of New Zealand or would be likely to be prejudicial to the trading, commercial, or economic interests of New Zealand; and a certificate signed by the Attorney-General to the effect that it would be or, as the case requires, is likely to be so prejudicial for that person to do so is conclusive evidence of that fact.
+    (2) A person may not be compelled by an order under [section 192][244] to give any evidence if the giving of that evidence would infringe the jurisdiction of New Zealand or would otherwise be prejudicial to the security or sovereignty of New Zealand or would be likely to be prejudicial to the trading, commercial, or economic interests of New Zealand; and a certificate signed by the Attorney-General to the effect that it would be or, as the case requires, is likely to be so prejudicial for that person to do so is conclusive evidence of that fact.
     
     (3) In this section _giving evidence_ includes---
         
@@ -4354,13 +4394,15 @@ Evidence from overseas or to be used overseas
     
     *   (b) producing any document.
     
-    Compare: 1908 No 56 [s 48D][392]
+    Compare: 1908 No 56 [s 48D][394]
 
 ##### 196 Witnesses' expenses
     
-*   Every witness required to attend for examination by an order made under [section 192][243] is entitled to a sum for his or her allowances and travelling expenses and loss of time in accordance with the scale prescribed for the time being by regulations made under the [Summary Proceedings Act 1957][393].
+*   Every witness required to attend for examination by an order made under [section 192][244] is entitled to a sum for his or her allowances and travelling expenses and loss of time in accordance with the scale prescribed for the time being by regulations made under the [Criminal Procedure Act 2011][319].
     
-    Compare: 1908 No 56 [s 48E][394]
+    Compare: 1908 No 56 [s 48E][395]
+    
+    Section 196: amended, on 1 July 2013, by [section 5][312] of the Evidence Amendment Act 2011 (2011 No 89).
 
 ##### 197 Solicitor may take affidavit or declaration
     
@@ -4384,21 +4426,21 @@ Evidence from overseas or to be used overseas
     
     _declaration_ means any written statement declared by the maker of the statement to be true in the presence of a solicitor of the High Court.
     
-    Compare: 1908 No 56 [s 48F(1)--(6)][395]
+    Compare: 1908 No 56 [s 48F(1)--(6)][396]
 
 ##### 198 False affidavit or declaration
     
-*   (1) Every affidavit or declaration taken under [section 197][248] is deemed to have been made in a judicial proceeding within the meaning of the [Crimes Act 1961][396], and any person who falsely makes an affidavit or declaration of that kind is guilty of perjury or of making a false declaration accordingly.
+*   (1) Every affidavit or declaration taken under [section 197][249] is deemed to have been made in a judicial proceeding within the meaning of the [Crimes Act 1961][397], and any person who falsely makes an affidavit or declaration of that kind is guilty of perjury or of making a false declaration accordingly.
     
-    (2) In any prosecution in respect of an affidavit or declaration taken under [section 197][248] it must be conclusively presumed that criminal proceedings were actually pending in the overseas court and that a certificate was given in accordance with [section 194(3)][245].
+    (2) In any prosecution in respect of an affidavit or declaration taken under [section 197][249] it must be conclusively presumed that criminal proceedings were actually pending in the overseas court and that a certificate was given in accordance with [section 194(3)][246].
     
-    Compare: 1908 No 56 [s 47F(7), (8)][395]
+    Compare: 1908 No 56 [s 47F(7), (8)][396]
 
 ### Subpart 4---Rules and regulations
 
 ##### 199 Rules
     
-*   (1) In the case of the High Court and the Court of Appeal, rules may be made for the purposes of [subpart 1][189] of this Part under [section 51C][397] of the Judicature Act 1908 that make provision for or relate to---
+*   (1) In the case of the High Court and the Court of Appeal, rules may be made for the purposes of [subpart 1][190] of this Part under [section 51C][398] of the Judicature Act 1908 that make provision for or relate to---
         
     *   (a) the issuing of New Zealand subpoenas and the service of those subpoenas:
     
@@ -4414,13 +4456,13 @@ Evidence from overseas or to be used overseas
     
     *   (g) the form of New Zealand subpoenas and other documents:
     
-    *   (h) such other matters as are contemplated by or necessary for giving full effect to [subpart 1][189] of this Part.
+    *   (h) such other matters as are contemplated by or necessary for giving full effect to [subpart 1][190] of this Part.
     
     (2) In the case of any other New Zealand court, rules or, as the case may be, regulations may be made under the authority of any enactment that provides for the making of rules or regulations governing the practice and procedure of the court that make provision for or relate to any of the matters referred to in paragraphs (a), (c), and (e) to (h) of subsection (1).
 
 ##### 200 Rules and regulations
     
-*   (1) Without limiting [section 199][251] or the power to make rules of procedure conferred by the [Judicature Act 1908][398], the [District Courts Act 1947][326], and the [Family Courts Act 1980][399],---
+*   (1) Without limiting [section 199][252] or the power to make rules of procedure conferred by the [Judicature Act 1908][399], the [District Courts Act 1947][328], and the [Family Courts Act 1980][400],---
         
     *   (a) rules may be made under those Acts prescribing anything that is required to be prescribed or necessary for carrying this Part into effect:
     
@@ -4434,7 +4476,7 @@ Evidence from overseas or to be used overseas
     
     *   (c) regulating the payment of expenses in respect of expenses incurred in complying with New Zealand subpoenas.
     
-    Compare: 1980 No 27 [s 47][400]
+    Compare: 1980 No 27 [s 47][401]
 
 ## Part 5  
 Miscellaneous
@@ -4467,7 +4509,7 @@ Miscellaneous
     
     *   (k) providing for requirements, in addition to those set out in [section 45(3)][60], for formal procedures that are held to obtain visual identification evidence:
     
-    *   (l) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by counsel appointed under [section 115][146]:
+    *   (l) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by counsel appointed under [section 115][147]:
     
     *   (m) regulating the form of warnings or information that can be given by a Judge in relation to evidence given by children under the age of 6 years in a proceeding tried by a jury:
     
@@ -4519,13 +4561,13 @@ Miscellaneous
 
 ##### 207 Transitional provisions relating to Law Practitioners Act 1982
     
-*   (1) Until the commencement of [section 6][296] of the Lawyers and Conveyancers Act 2006, [section 51(1)][69] must be read as if for the definition of lawyer there were substituted the following definition:
+*   (1) Until the commencement of [section 6][299] of the Lawyers and Conveyancers Act 2006, [section 51(1)][70] must be read as if for the definition of lawyer there were substituted the following definition:
     
-    > "_lawyer_ means a barrister or solicitor, as those terms are defined in [section 2][279] of the Law Practitioners Act 1982".
+    > "_lawyer_ means a barrister or solicitor, as those terms are defined in [section 2][280] of the Law Practitioners Act 1982".
     
-    (2) Until the commencement of [section 112][297] of the Lawyers and Conveyancers Act 2006, [section 55(1)(a)][74] must be read as if the reference to section 112 of the Lawyers and Conveyancers Act 2006 were a reference to [section 89][401] of the Law Practitioners Act 1982\.
+    (2) Until the commencement of [section 112][300] of the Lawyers and Conveyancers Act 2006, [section 55(1)(a)][75] must be read as if the reference to section 112 of the Lawyers and Conveyancers Act 2006 were a reference to [section 89][402] of the Law Practitioners Act 1982\.
     
-    (3) Until the commencement of [section 96][298] of the Lawyers and Conveyancers Act 2006, [section 55(1)][74] must be read as if for paragraph (b) there were substituted the following paragraph:
+    (3) Until the commencement of [section 96][301] of the Lawyers and Conveyancers Act 2006, [section 55(1)][75] must be read as if for paragraph (b) there were substituted the following paragraph:
     
     > *   "(b) by any solicitors' nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients."
     > 
@@ -4535,80 +4577,80 @@ Miscellaneous
 
 ##### 208 Transitional provision relating to communication assistance
     
-*   (1) A defendant may apply under [section 80(2)][104], before the commencement of that provision, for communication assistance after the commencement of that provision in criminal proceedings.
+*   (1) A defendant may apply under [section 80(2)][105], before the commencement of that provision, for communication assistance after the commencement of that provision in criminal proceedings.
     
-    (2) A witness or a party to civil proceedings may apply under [section 80(4)][104], before the commencement of that provision, for communication assistance after the commencement of that provision in civil proceedings.
+    (2) A witness or a party to civil proceedings may apply under [section 80(4)][105], before the commencement of that provision, for communication assistance after the commencement of that provision in civil proceedings.
 
 ##### 209 Transitional provision relating to cross-examination by unrepresented parties
     
-*   A witness, or a party calling a witness, may apply under [section 95(2)][120], before the commencement of that provision, for an order under that provision, restricting any cross-examination that is to take place after the commencement of that provision.
+*   A witness, or a party calling a witness, may apply under [section 95(2)][121], before the commencement of that provision, for an order under that provision, restricting any cross-examination that is to take place after the commencement of that provision.
 
 ##### 210 Transitional provision concerning alternative ways of giving evidence
     
-*   A party may make an application for directions under [section 103(1)][131], before the commencement of that provision, for the purpose of ensuring that the application for directions permitted under that provision in respect of the giving of evidence in chief by a witness and his or her cross-examination after the commencement of that provision in any proceedings, is made as early as practicable before the proceeding is to be heard.
+*   A party may make an application for directions under [section 103(1)][132], before the commencement of that provision, for the purpose of ensuring that the application for directions permitted under that provision in respect of the giving of evidence in chief by a witness and his or her cross-examination after the commencement of that provision in any proceedings, is made as early as practicable before the proceeding is to be heard.
 
 ##### 211 Transitional provision concerning giving of evidence by child complainants
     
-*   The prosecution may make an application for directions under [section 107(1)][136] before the commencement of that provision, for the purpose of ensuring that the application required under that section in respect of the giving of evidence in chief by the complainant and his or her cross-examination after the commencement of that provision, is made as early as practicable before the case is to be tried.
+*   The prosecution may make an application for directions under [section 107(1)][137] before the commencement of that provision, for the purpose of ensuring that the application required under that section in respect of the giving of evidence in chief by the complainant and his or her cross-examination after the commencement of that provision, is made as early as practicable before the case is to be tried.
 
 ##### 212 Transitional provision relating to offering documents in evidence without calling witness
     
-*   (1) A party may give notice under [section 130(4)][166], before the commencement of that provision, for the purpose of ensuring that the notice is given in sufficient time before a hearing that will or may take place after the commencement of that provision.
+*   (1) A party may give notice under [section 130(4)][167], before the commencement of that provision, for the purpose of ensuring that the notice is given in sufficient time before a hearing that will or may take place after the commencement of that provision.
     
-    (2) A party may give notice of objection under [section 130(5)][166], before the commencement of that provision, for the purpose of ensuring that the notice is given in sufficient time before a hearing that will or may take place after the commencement of that provision.
+    (2) A party may give notice of objection under [section 130(5)][167], before the commencement of that provision, for the purpose of ensuring that the notice is given in sufficient time before a hearing that will or may take place after the commencement of that provision.
 
 ##### 213 Transitional provision relating to translation and transcripts
     
-*   A party may give notice under [section 135(1)][171] or 135(3) of the translation of the document or the offer of a transcript, before the commencement of those provisions, for the purpose of ensuring that the notice is given in sufficient time before a hearing that will or may take place after the commencement of those provisions.
+*   A party may give notice under [section 135(1)][172] or 135(3) of the translation of the document or the offer of a transcript, before the commencement of those provisions, for the purpose of ensuring that the notice is given in sufficient time before a hearing that will or may take place after the commencement of those provisions.
 
 ##### 214 General
     
-*   If, under any of [sections 203 to 213][259], any person is empowered to apply to a Judge under any provision before its commencement for any order or directions, the Judge also has power, before the commencement of the provision, to exercise any of the powers conferred by that provision on a Judge.
+*   If, under any of [sections 203 to 213][260], any person is empowered to apply to a Judge under any provision before its commencement for any order or directions, the Judge also has power, before the commencement of the provision, to exercise any of the powers conferred by that provision on a Judge.
 
 #### Repeal and amendments
 
 ##### 215 Repeal
     
-*   The enactments specified in [Schedule 1][274] are repealed.
+*   The enactments specified in [Schedule 1][275] are repealed.
 
 ##### 216 Consequential amendments
     
-*   The enactments specified in [Schedule 2][275] are amended in the manner set out in that schedule.
+*   The enactments specified in [Schedule 2][276] are amended in the manner set out in that schedule.
 
 ---
 
 ## Schedule 1  
 Enactments repealed
 
-[s 215][272]
+[s 215][273]
 
 ##### Evidence Act 1908 (1908 No 56)
 
 ##### Crimes Act 1961 (1961 No 43)
 
-[Sections 344D][402], [366(1)][403], and [369][404].
+[Sections 344D][403], [366(1)][404], and [369][405].
 
 ##### Juries Act 1981 (1981 No 23)
 
-[Section 28][405].
+[Section 28][406].
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-[Sections 3(1)(k)][406], [60][407], and [178A][340].
+[Sections 3(1)(k)][407], [60][408], and [178A][342].
 
 ---
 
 ## Schedule 2  
 Amendments to other enactments
 
-[s 216][273]
+[s 216][274]
 
 ## Part 1  
 Amendments to other Acts
 
 ##### Acts and Regulations Publication Act 1989 (1989 No 142)
 
-Insert, after [section 16][408]:
+Insert, after [section 16][409]:
 
 > #### "Judicial notice and evidence of New Zealand legislation
 > 
@@ -4682,15 +4724,15 @@ Insert, after [section 16][408]:
 > 
 > 
 
-Omit from the definition of **reprint** in [section 17A][409] ""section 29A of the Evidence Act 1908"" and substitute ""section 16D"".
+Omit from the definition of **reprint** in [section 17A][410] ""section 29A of the Evidence Act 1908"" and substitute ""section 16D"".
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-[Section 147(1)][410]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 147(1)][411]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Commonwealth Countries Act 1977 (1977 No 31)
 
-Repeal [section 2(5)][411] and substitute:
+Repeal [section 2(5)][412] and substitute:
 
 > *   "(5) For the purposes of this section,---
 >     
@@ -4716,43 +4758,43 @@ Repeal [section 2(5)][411] and substitute:
 
 ##### Companies (Bondholders Incorporation) Act 1934--35 (1934--35 No 39)
 
-[Section 13(2)][412]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 13(2)][413]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Copyright Act 1994 (1994 No 143)
 
-[Section 215(4)][413]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 215(4)][414]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Crimes Act 1961 (1961 No 43)
 
-[Section 216C(2)(iii)][414]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 216C(2)(iii)][415]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
-[Section 369A(1)][415]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
+[Section 369A(1)][416]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
 
-[Section 379A(1)(e)][416]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
+[Section 379A(1)(e)][417]: omit ""section 13A(6)(d) of the Evidence Act 1908"" and substitute ""section 109(1)(d) of the Evidence Act 2006"".
 
-[Section 379A(1)(f)][416]: omit ""section 13C of the Evidence Act 1908"" and substitute ""sections 112 and 113 of the Evidence Act 2006"".
+[Section 379A(1)(f)][417]: omit ""section 13C of the Evidence Act 1908"" and substitute ""sections 112 and 113 of the Evidence Act 2006"".
 
-[Section 379A(1)(g)][416]: omit ""section 23A of the Evidence Act 1908"" and substitute ""section 44 of the Evidence Act 2006"".
+[Section 379A(1)(g)][417]: omit ""section 23A of the Evidence Act 1908"" and substitute ""section 44 of the Evidence Act 2006"".
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-[Section 161(2)][417]: omit "", despite section 47B or 47C of the Evidence Act 1908,"" and substitute "", despite section 75 of the Evidence Act 2006,"".
+[Section 161(2)][418]: omit "", despite section 47B or 47C of the Evidence Act 1908,"" and substitute "", despite section 75 of the Evidence Act 2006,"".
 
 ##### Hawke's Bay Earthquake Act 1931 (1931 No 6)
 
-[Section 23(2)][418]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 23(2)][419]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-Omit from [section 106(4)][419] ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+Omit from [section 106(4)][420] ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Immigration Act 1987 (1987 No 74)
 
-Omit from [clause 11(2)][420] of Schedule 2 and [clause 9(2)][421] of Schedule 3C ""Evidence Act 1908"" and substitute in each case ""Evidence Act 2006"".
+Omit from [clause 11(2)][421] of Schedule 2 and [clause 9(2)][422] of Schedule 3C ""Evidence Act 1908"" and substitute in each case ""Evidence Act 2006"".
 
 ##### Judicature Act 1908 (1908 No 89)
 
-Repeal [section 51A(2)][422] and substitute:
+Repeal [section 51A(2)][423] and substitute:
 
 > *   "(2) Sections 16B, 16C(3), and 16D of the Acts and Regulations Publication Act 1989 apply accordingly."
 > 
@@ -4760,9 +4802,9 @@ Repeal [section 51A(2)][422] and substitute:
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-[Section 209(2)][423]: omit ""(as defined in section 2 of the Evidence Act 1908)"".
+[Section 209(2)][424]: omit ""(as defined in section 2 of the Evidence Act 1908)"".
 
-Add to [section 209][423]:
+Add to [section 209][424]:
 
 > *   "(4) For the purposes of this section, a _person acting judicially_ means any person having in New Zealand by law authority to hear, receive, and examine evidence."
 > 
@@ -4770,29 +4812,29 @@ Add to [section 209][423]:
 
 ##### Lawyers and Conveyancers Act 2006 (2006 No 1)
 
-[Section 151(4)][424]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 151(4)][425]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
-[Section 239(4)][425]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 239(4)][426]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Local Government Act 2002 (2002 No 84)
 
-[Section 35(1)][426]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 35(1)][427]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Maori Fisheries Act 2004 (2004 No 78)
 
-[Section 203(2)][427]: omit ""section 48G of the Evidence Act 1908"" and substitute ""section 4 of the Evidence Act 2006"".
+[Section 203(2)][428]: omit ""section 48G of the Evidence Act 1908"" and substitute ""section 4 of the Evidence Act 2006"".
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-[Clause 9][428] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Clause 9][429] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Mortgagors and Lessees Rehabilitation Act 1936 (1936 No 33)
 
-[Section 18(2)][429]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 18(2)][430]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Mutual Assistance in Criminal Matters Act 1992 (1992 No 86)
 
-Repeal [section 36][430] and substitute:
+Repeal [section 36][431] and substitute:
 
 > ##### "36 Evidence Act 2006 not affected
 >     
@@ -4802,7 +4844,7 @@ Repeal [section 36][430] and substitute:
 
 ##### Oaths and Declarations Act 1957 (1957 No 88)
 
-[Section 13(1)][431]: repeal and substitute:
+[Section 13(1)][432]: repeal and substitute:
 
 > *   "(1) A witness under the age of 12 years who is required, under section 77(2) of the Evidence Act 2006, to make a promise to tell the truth, must, before being examined make the promise:
 >     
@@ -4814,7 +4856,7 @@ Repeal [section 36][430] and substitute:
 
 ##### Plant Variety Rights Act 1987 (1987 No 5)
 
-Repeal [section 29(3)][432] and substitute:
+Repeal [section 29(3)][433] and substitute:
 
 > *   "(3) For the purposes of subsection (2),---
 >     
@@ -4832,39 +4874,39 @@ Repeal [section 29(3)][432] and substitute:
 
 ##### Reprint of Statutes Act 1931 (1931 No 13)
 
-[Section 4][433]: omit ""section 29 of the Evidence Act 1908"" and substitute ""section 16C of the Acts and Regulations Publication Act 1989"".
+[Section 4][434]: omit ""section 29 of the Evidence Act 1908"" and substitute ""section 16C of the Acts and Regulations Publication Act 1989"".
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-[Section 156A(4)(b)][434]: omit ""section 47B of the Evidence Act 1908"" and substitute ""the Evidence Act 2006"".
+[Section 156A(4)(b)][435]: omit ""section 47B of the Evidence Act 1908"" and substitute ""the Evidence Act 2006"".
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-[Section 109(2)][435]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 109(2)][436]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Social Workers Registration Act 2003 (2003 No 17)
 
-[Clause 6(4)][436] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Clause 6(4)][437] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Status of Children Act 1969 (1969 No 18)
 
-[Section 8(1)][437]: omit ""section 44A of the Evidence Act 1908"" in both places and substitute in each case ""section 141, or any of sections 145 to 149 of the Evidence Act 2006"".
+[Section 8(1)][438]: omit ""section 44A of the Evidence Act 1908"" in both places and substitute in each case ""section 141, or any of sections 145 to 149 of the Evidence Act 2006"".
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-Omit from [sections 157(1A)][438] and [161A][439] ""section 13A(6)(d) of the Evidence Act 1908"" and substitute in each case ""section 109(1)(d) of the Evidence Act 2006"".
+Omit from [sections 157(1A)][439] and [161A][440] ""section 13A(6)(d) of the Evidence Act 1908"" and substitute in each case ""section 109(1)(d) of the Evidence Act 2006"".
 
-[Section 168AA(5)][440]: omit ""section 13C of the Evidence Act 1908"" and substitute ""section 112 of the Evidence Act 2006"".
+[Section 168AA(5)][441]: omit ""section 13C of the Evidence Act 1908"" and substitute ""section 112 of the Evidence Act 2006"".
 
-[Section 178A(1)][340]: omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(5) of the Evidence Act 2006"".
+[Section 178A(1)][342]: omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(5) of the Evidence Act 2006"".
 
-[Section 178A(2)][340]: omit ""section 13B or section 13C of the Evidence Act 1908"" and substitute ""sections 110 to 112 of the Evidence Act 2006"".
+[Section 178A(2)][342]: omit ""section 13B or section 13C of the Evidence Act 1908"" and substitute ""sections 110 to 112 of the Evidence Act 2006"".
 
-[Section 182(1)][441]: omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(2) of the Evidence Act 2006"".
+[Section 182(1)][442]: omit ""section 13A(2) of the Evidence Act 1908"" and substitute ""section 108(2) of the Evidence Act 2006"".
 
 ##### Tariff Act 1988 (1988 No 155)
 
-Repeal [section 7(1C)][442] and substitute:
+Repeal [section 7(1C)][443] and substitute:
 
 > *   "(1C) For the purposes of this section,---
 >     
@@ -4890,23 +4932,23 @@ Repeal [section 7(1C)][442] and substitute:
 
 ##### Taxation Review Authorities Act 1994 (1994 No 165)
 
-[Section 17(3)][443]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 17(3)][444]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Te Ture Whenua Maori Act 1993 (Maori Land Act 1993) (1993 No 4)
 
-[Section 69(3)][444]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 69(3)][445]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)
 
-[Section 63(4)][445]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Section 63(4)][446]: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### Treaty of Waitangi Act 1975 (1975 No 114)
 
-[Clause 6(3)][446] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
+[Clause 6(3)][447] of Schedule 2: omit ""Evidence Act 1908"" and substitute ""Evidence Act 2006"".
 
 ##### United Nations Convention on the Law of the Sea Act 1996 (1996 No 69)
 
-Repeal [section 3(5)][447] and substitute:
+Repeal [section 3(5)][448] and substitute:
 
 > *   "(5) For the purposes of subsection (4),---
 >     
@@ -4929,11 +4971,11 @@ Regulations amended
 
 ##### Designs Regulations 1954 (SR 1954/224)
 
-[Regulation 73(1)(a)][448]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
+[Regulation 73(1)(a)][449]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
 
 ##### Patents Regulations 1954 (SR 1954/211)
 
-[Regulation 143(1)(a)][449]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
+[Regulation 143(1)(a)][450]: omit ""prescribed by the Justices of the Peace Act 1927 or by the Evidence Act 1908, as the case may be"" and substitute ""required by the Oaths and Declarations Act 1957"".
 
 ---
 
@@ -4951,23 +4993,23 @@ Regulations amended
 
 ###### 1 General
     
-*   This is a reprint of the Evidence Act 2006\. The reprint incorporates all the amendments to the Act as at 5 March 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Evidence Act 2006\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][450] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][451] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][451] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][452] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][452] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][453] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][453] and [17E][454] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][454] and [17E][455] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4998,21 +5040,25 @@ Regulations amended
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 393][336]
+*   [Evidence Amendment Act 2013][456] (2013 No 29)
     
-    Courts (Remote Participation) Act 2010 (2010 No 94): [section 19][314]
+    [Evidence Amendment Act 2011][457] (2011 No 89)
     
-    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][346]
+    Criminal Procedure Act 2011 (2011 No 81): [section 393][338]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 184][325]
+    Courts (Remote Participation) Act 2010 (2010 No 94): [section 19][318]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][324]
+    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][348]
     
-    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][315]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 184][327]
     
-    [Evidence Amendment Act 2007][455] (2007 No 24)
+    Policing Act 2008 (2008 No 72): [section 130(1)][326]
     
-    Evidence Act 2006 Commencement Order 2007 (SR 2007/190): [clause 2][276]
+    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][458]
+    
+    [Evidence Amendment Act 2007][459] (2007 No 24)
+    
+    Evidence Act 2006 Commencement Order 2007 (SR 2007/190): [clause 2][277]
 
 
 
@@ -5078,397 +5124,401 @@ Regulations amended
 [59]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393636
 [60]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393637
 [61]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393640
-[62]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393641
-[63]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393642
-[64]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393643
-[65]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393644
-[66]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393645
-[67]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393646
-[68]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393647
-[69]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393648
-[70]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393656
-[71]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393657
-[72]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393658
-[73]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393659
-[74]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393662
-[75]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393663
-[76]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393664
-[77]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393665
-[78]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393667
-[79]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393672
-[80]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393673
-[81]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393674
-[82]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393675
-[83]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393676
-[84]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393677
-[85]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393678
-[86]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393679
-[87]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393680
-[88]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393681
-[89]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393690
-[90]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393692
-[91]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393693
-[92]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393694
-[93]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393695
-[94]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393696
-[95]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393698
-[96]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393900
-[97]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393901
-[98]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393903
-[99]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393904
-[100]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393905
-[101]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393906
-[102]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393907
-[103]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393908
-[104]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393909
-[105]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393910
-[106]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393911
-[107]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393913
-[108]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393914
-[109]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393915
-[110]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393916
-[111]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393917
-[112]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393918
-[113]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393919
-[114]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393920
-[115]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393921
-[116]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393922
-[117]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393923
-[118]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393924
-[119]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393925
-[120]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393926
-[121]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393927
-[122]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393928
-[123]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393929
-[124]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393930
-[125]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393931
-[126]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393932
-[127]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393933
-[128]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393934
-[129]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM3096401
-[130]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393935
-[131]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393936
-[132]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393937
-[133]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393938
-[134]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393939
-[135]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393940
-[136]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393941
-[137]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393942
-[138]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393943
-[139]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393945
-[140]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393946
-[141]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393947
-[142]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393948
-[143]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393949
-[144]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393950
-[145]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393951
-[146]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393952
-[147]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393953
-[148]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393954
-[149]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393955
-[150]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393956
-[151]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393957
-[152]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393958
-[153]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393959
-[154]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393960
-[155]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393961
-[156]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393962
-[157]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393963
-[158]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393964
-[159]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393965
-[160]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393966
-[161]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393967
-[162]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393968
-[163]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393969
-[164]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393970
-[165]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393971
-[166]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393972
-[167]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393973
-[168]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393974
-[169]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393975
-[170]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393976
-[171]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393977
-[172]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393978
-[173]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393979
-[174]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393980
-[175]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393981
-[176]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393982
-[177]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393984
-[178]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393985
-[179]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393986
-[180]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393987
-[181]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393988
-[182]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393989
-[183]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394202
-[184]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394203
-[185]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394204
-[186]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394205
-[187]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394207
-[188]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394208
-[189]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394209
-[190]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394210
-[191]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394211
-[192]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394238
-[193]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394240
-[194]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394241
-[195]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394242
-[196]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394243
-[197]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394244
-[198]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394245
-[199]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394246
-[200]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394248
-[201]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394249
-[202]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394251
-[203]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394252
-[204]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394253
-[205]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394254
-[206]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394255
-[207]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394256
-[208]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394258
-[209]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394259
-[210]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394261
-[211]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394262
-[212]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394263
-[213]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394264
-[214]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394265
-[215]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394266
-[216]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394267
-[217]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394268
-[218]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394269
-[219]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394270
-[220]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394271
-[221]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394272
-[222]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394273
-[223]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394274
-[224]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394275
-[225]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394276
-[226]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394277
-[227]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394278
-[228]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394279
-[229]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394280
-[230]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394293
-[231]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394294
-[232]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394295
-[233]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394296
-[234]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394297
-[235]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394299
-[236]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394500
-[237]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394501
-[238]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394502
-[239]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394503
-[240]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394504
-[241]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394505
-[242]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394514
-[243]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394515
-[244]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394516
-[245]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394517
-[246]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394518
-[247]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394520
-[248]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394521
-[249]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394526
-[250]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394527
-[251]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394528
-[252]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394529
-[253]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394530
-[254]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394531
-[255]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394532
-[256]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394533
-[257]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394534
-[258]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394535
-[259]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394536
-[260]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394537
-[261]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394538
-[262]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394539
-[263]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394540
-[264]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394543
-[265]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394544
-[266]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394545
-[267]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394546
-[268]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394547
-[269]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394548
-[270]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394549
-[271]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394550
-[272]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394551
-[273]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394552
-[274]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394553
-[275]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394558
-[276]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM442435
-[277]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM372117
-[278]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM417725
-[279]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM62325
-[280]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329051
-[281]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329264
-[282]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410018
-[283]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM224791
-[284]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM31458
-[285]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410019
-[286]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM149315
-[287]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150261
-[288]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150264
-[289]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150693
-[290]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM151367
-[291]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410021
-[292]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410023
-[293]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410024
-[294]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM224799
-[295]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410025
-[296]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM364948
-[297]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366142
-[298]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366124
-[299]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM314010
-[300]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM149452
-[301]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM317232
-[302]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM148131
-[303]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM204329
-[304]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436106
-[305]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65366
-[306]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65368
-[307]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM64790
-[308]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65371
-[309]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM199370
-[310]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328793
-[311]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328796
-[312]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331703
-[313]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600700
-[314]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600770
-[315]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1380050
-[316]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436100
-[317]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436239
-[318]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436407
-[319]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328596
-[320]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102202
-[321]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=BILL-SCDRAFT-7242
-[322]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2601243
-[323]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142716
-[324]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102383
-[325]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1451423
-[326]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM242775
-[327]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM153420
-[328]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142720
-[329]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM243607
-[330]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142723
-[331]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM243274
-[332]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142729
-[333]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM314081
-[334]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3360340
-[335]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142735
-[336]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3865810
-[337]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142738
-[338]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142741
-[339]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142744
-[340]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313599
-[341]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328798
-[342]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328799
-[343]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328520
-[344]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM151308
-[345]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3023002
-[346]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2836314
-[347]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143330
-[348]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM76253
-[349]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143345
-[350]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143348
-[351]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210967
-[352]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210970
-[353]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331063
-[354]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331096
-[355]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146686
-[356]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331098
-[357]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331501
-[358]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331503
-[359]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331505
-[360]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331507
-[361]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331510
-[362]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331512
-[363]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM87622
-[364]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331515
-[365]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331517
-[366]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331519
-[367]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331522
-[368]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331524
-[369]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331526
-[370]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331528
-[371]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331531
-[372]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331534
-[373]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331536
-[374]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331538
-[375]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331540
-[376]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331542
-[377]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331545
-[378]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331547
-[379]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331549
-[380]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331551
-[381]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331553
-[382]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331555
-[383]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331557
-[384]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331559
-[385]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM216422
-[386]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM216486
-[387]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331562
-[388]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36264
-[389]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143378
-[390]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143381
-[391]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143384
-[392]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143387
-[393]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM310742
-[394]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143390
-[395]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143393
-[396]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM327381
-[397]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146607
-[398]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM144692
-[399]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM42253
-[400]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36266
-[401]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM63264
-[402]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331455
-[403]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331739
-[404]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331752
-[405]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM44833
-[406]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311134
-[407]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311772
-[408]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195428
-[409]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195453
-[410]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM403639
-[411]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM442766
-[412]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM217572
-[413]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM346885
-[414]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329834
-[415]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331754
-[416]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331903
-[417]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM379235
-[418]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209250
-[419]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM305410
-[420]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114344
-[421]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114918
-[422]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146496
-[423]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435639
-[424]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366190
-[425]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366793
-[426]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM171847
-[427]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313602
-[428]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM339539
-[429]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM220219
-[430]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM274421
-[431]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM316124
-[432]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM101077
-[433]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209558
-[434]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM201571
-[435]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM166130
-[436]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM191203
-[437]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM391005
-[438]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313185
-[439]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313199
-[440]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313538
-[441]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313715
-[442]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM137077
-[443]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM347495
-[444]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM290957
-[445]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM411352
-[446]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435881
-[447]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM393778
-[448]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM8430
-[449]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM7688
-[450]: http://www.pco.parliament.govt.nz/reprints/
-[451]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195439
-[452]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[453]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195468
-[454]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195470
-[455]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410010
+[62]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM5330100
+[63]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393641
+[64]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393642
+[65]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393643
+[66]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393644
+[67]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393645
+[68]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393646
+[69]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393647
+[70]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393648
+[71]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393656
+[72]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393657
+[73]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393658
+[74]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393659
+[75]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393662
+[76]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393663
+[77]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393664
+[78]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393665
+[79]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393667
+[80]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393672
+[81]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393673
+[82]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393674
+[83]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393675
+[84]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393676
+[85]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393677
+[86]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393678
+[87]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393679
+[88]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393680
+[89]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393681
+[90]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393690
+[91]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393692
+[92]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393693
+[93]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393694
+[94]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393695
+[95]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393696
+[96]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393698
+[97]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393900
+[98]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393901
+[99]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393903
+[100]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393904
+[101]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393905
+[102]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393906
+[103]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393907
+[104]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393908
+[105]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393909
+[106]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393910
+[107]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393911
+[108]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393913
+[109]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393914
+[110]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393915
+[111]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393916
+[112]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393917
+[113]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393918
+[114]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393919
+[115]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393920
+[116]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393921
+[117]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393922
+[118]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393923
+[119]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393924
+[120]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393925
+[121]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393926
+[122]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393927
+[123]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393928
+[124]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393929
+[125]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393930
+[126]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393931
+[127]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393932
+[128]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393933
+[129]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393934
+[130]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM3096401
+[131]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393935
+[132]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393936
+[133]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393937
+[134]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393938
+[135]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393939
+[136]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393940
+[137]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393941
+[138]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393942
+[139]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393943
+[140]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393945
+[141]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393946
+[142]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393947
+[143]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393948
+[144]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393949
+[145]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393950
+[146]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393951
+[147]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393952
+[148]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393953
+[149]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393954
+[150]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393955
+[151]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393956
+[152]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393957
+[153]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393958
+[154]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393959
+[155]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393960
+[156]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393961
+[157]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393962
+[158]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393963
+[159]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393964
+[160]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393965
+[161]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393966
+[162]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393967
+[163]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393968
+[164]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393969
+[165]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393970
+[166]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393971
+[167]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393972
+[168]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393973
+[169]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393974
+[170]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393975
+[171]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393976
+[172]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393977
+[173]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393978
+[174]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393979
+[175]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393980
+[176]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393981
+[177]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393982
+[178]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393984
+[179]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393985
+[180]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393986
+[181]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393987
+[182]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393988
+[183]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM393989
+[184]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394202
+[185]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394203
+[186]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394204
+[187]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394205
+[188]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394207
+[189]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394208
+[190]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394209
+[191]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394210
+[192]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394211
+[193]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394238
+[194]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394240
+[195]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394241
+[196]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394242
+[197]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394243
+[198]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394244
+[199]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394245
+[200]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394246
+[201]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394248
+[202]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394249
+[203]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394251
+[204]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394252
+[205]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394253
+[206]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394254
+[207]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394255
+[208]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394256
+[209]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394258
+[210]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394259
+[211]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394261
+[212]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394262
+[213]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394263
+[214]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394264
+[215]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394265
+[216]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394266
+[217]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394267
+[218]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394268
+[219]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394269
+[220]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394270
+[221]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394271
+[222]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394272
+[223]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394273
+[224]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394274
+[225]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394275
+[226]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394276
+[227]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394277
+[228]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394278
+[229]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394279
+[230]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394280
+[231]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394293
+[232]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394294
+[233]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394295
+[234]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394296
+[235]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394297
+[236]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394299
+[237]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394500
+[238]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394501
+[239]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394502
+[240]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394503
+[241]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394504
+[242]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394505
+[243]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394514
+[244]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394515
+[245]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394516
+[246]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394517
+[247]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394518
+[248]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394520
+[249]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394521
+[250]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394526
+[251]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394527
+[252]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394528
+[253]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394529
+[254]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394530
+[255]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394531
+[256]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394532
+[257]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394533
+[258]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394534
+[259]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394535
+[260]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394536
+[261]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394537
+[262]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394538
+[263]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394539
+[264]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394540
+[265]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394543
+[266]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394544
+[267]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394545
+[268]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394546
+[269]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394547
+[270]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394548
+[271]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394549
+[272]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394550
+[273]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394551
+[274]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394552
+[275]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394553
+[276]: http://www.legislation.govt.nz/act/public/2006/0069/latest/whole.html#DLM394558
+[277]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM442435
+[278]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM372117
+[279]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM417725
+[280]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM62325
+[281]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329051
+[282]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329264
+[283]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410018
+[284]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM224791
+[285]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM31458
+[286]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410019
+[287]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM149315
+[288]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150261
+[289]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150264
+[290]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM150693
+[291]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM151367
+[292]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410021
+[293]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410023
+[294]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410024
+[295]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM224799
+[296]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410025
+[297]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311801
+[298]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058407
+[299]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM364948
+[300]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366142
+[301]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366124
+[302]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM314010
+[303]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM149452
+[304]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM317232
+[305]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM148131
+[306]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM204329
+[307]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436106
+[308]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65366
+[309]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65368
+[310]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM64790
+[311]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM65371
+[312]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058409
+[313]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM199370
+[314]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328793
+[315]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328796
+[316]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3865709
+[317]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600700
+[318]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2600770
+[319]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3359902
+[320]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM436100
+[321]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328596
+[322]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102202
+[323]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=BILL-SCDRAFT-7242
+[324]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2601243
+[325]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142716
+[326]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1102383
+[327]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1451423
+[328]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM242775
+[329]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM153420
+[330]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142720
+[331]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142723
+[332]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189089
+[333]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189090
+[334]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142729
+[335]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3360580
+[336]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3360340
+[337]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142735
+[338]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3865810
+[339]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142738
+[340]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142741
+[341]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM142744
+[342]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313599
+[343]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328798
+[344]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328799
+[345]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM328520
+[346]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM151308
+[347]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM3023002
+[348]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM2836314
+[349]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143330
+[350]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM76253
+[351]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143345
+[352]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143348
+[353]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210967
+[354]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM210970
+[355]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331063
+[356]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331096
+[357]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146686
+[358]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331098
+[359]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331501
+[360]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331503
+[361]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331505
+[362]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331507
+[363]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331510
+[364]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331512
+[365]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM87622
+[366]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331515
+[367]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331517
+[368]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331519
+[369]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331522
+[370]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331524
+[371]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331526
+[372]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331528
+[373]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331531
+[374]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331534
+[375]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331536
+[376]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331538
+[377]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331540
+[378]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331542
+[379]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331545
+[380]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331547
+[381]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331549
+[382]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331551
+[383]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331553
+[384]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331555
+[385]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331557
+[386]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331559
+[387]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM216422
+[388]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM216486
+[389]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331562
+[390]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36264
+[391]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143378
+[392]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143381
+[393]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143384
+[394]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143387
+[395]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143390
+[396]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM143393
+[397]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM327381
+[398]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146607
+[399]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM144692
+[400]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM42253
+[401]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM36266
+[402]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM63264
+[403]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331455
+[404]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331739
+[405]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331752
+[406]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM44833
+[407]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311134
+[408]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM311772
+[409]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195428
+[410]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195453
+[411]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM403639
+[412]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM442766
+[413]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM217572
+[414]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM346885
+[415]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM329834
+[416]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331754
+[417]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM331903
+[418]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM379235
+[419]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209250
+[420]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM305410
+[421]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114344
+[422]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM114918
+[423]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM146496
+[424]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435639
+[425]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366190
+[426]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM366793
+[427]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM171847
+[428]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313602
+[429]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM339539
+[430]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM220219
+[431]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM274421
+[432]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM316124
+[433]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM101077
+[434]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM209558
+[435]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM201571
+[436]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM166130
+[437]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM191203
+[438]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM391005
+[439]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313185
+[440]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313199
+[441]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313538
+[442]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM313715
+[443]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM137077
+[444]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM347495
+[445]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM290957
+[446]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM411352
+[447]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM435881
+[448]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM393778
+[449]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM8430
+[450]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM7688
+[451]: http://www.pco.parliament.govt.nz/reprints/
+[452]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195439
+[453]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[454]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195468
+[455]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM195470
+[456]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM5189082
+[457]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM4058400
+[458]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM1380050
+[459]: http://www.legislation.govt.nz/act/public/2006/0069/latest/link.aspx?id=DLM410010
