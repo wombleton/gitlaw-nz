@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -893,11 +893,13 @@ An Act---
 
 ##### 18 Wilful obstruction of dog control officer or dog ranger
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who wilfully obstructs or hinders any dog control officer or dog ranger in the exercise of his or her powers.
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who wilfully obstructs or hinders any dog control officer or dog ranger in the exercise of his or her powers.
     
     Compare: 1982 No 42 s 18(b)
     
-    Section 18: amended, on 1 December 2003, by [section 8][184] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 18: amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 18: amended, on 1 December 2003, by [section 8][185] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 19 Power of constable, dog control officer, or dog ranger to request information about owner
     
@@ -909,7 +911,7 @@ An Act---
     
     (1A) If a person referred to in subsection (1)(a) or (b) claims not to be the owner of the dog, the person must state the name, address, and place of work of the owner of the dog (if known).
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails or refuses to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails or refuses to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
     
     (3) Any constable, dog control officer, or dog ranger who---
         
@@ -925,21 +927,25 @@ An Act---
     
     Compare: 1982 No 42 s 18(a)
     
-    Section 19 heading: amended, on 1 December 2003, by [section 9(1)][185] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 19 heading: amended, on 1 December 2003, by [section 9(1)][186] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 19(1): substituted, on 1 December 2003, by [section 9(2)][185] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 19(1): substituted, on 1 December 2003, by [section 9(2)][186] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 19(1A): inserted, on 1 December 2003, by [section 9(2)][185] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 19(1A): inserted, on 1 December 2003, by [section 9(2)][186] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 19(2): substituted, on 1 December 2003, by [section 9(2)][185] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 19(2): substituted, on 1 December 2003, by [section 9(2)][186] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 19(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19A Power of constable, dog control officer, or dog ranger to request information about dog
     
 *   (1) A constable, dog control officer, or dog ranger may, for the purposes of this Act, request the owner of a dog to state the name, gender, and a description of the dog.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
     
-    Section 19A: inserted, on 1 December 2003, by [section 10][186] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 19A: inserted, on 1 December 2003, by [section 10][187] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 19A(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Bylaws
 
@@ -981,9 +987,9 @@ An Act---
     
     (4) Bylaws authorised by this section shall be made in accordance with the [Local Government Act 2002][143] and shall be deemed to have been made under that Act.
     
-    (5) A person who commits a breach of any bylaw authorised by this section commits an offence and is liable on summary conviction to the penalty prescribed by [section 242(4)][187] of the Local Government Act 2002\.
+    (5) A person who commits a breach of any bylaw authorised by this section commits an offence and is liable on conviction to the penalty prescribed by [section 242(4)][188] of the Local Government Act 2002\.
     
-    (5A) An injunction preventing a person from committing a breach of any bylaw authorised by this section may be granted in accordance with [section 162][188] of the Local Government Act 2002, which section applies accordingly with all necessary modifications.
+    (5A) An injunction preventing a person from committing a breach of any bylaw authorised by this section may be granted in accordance with [section 162][189] of the Local Government Act 2002, which section applies accordingly with all necessary modifications.
     
     (6) Notwithstanding [section 7][10], no joint standing or special committee that has had conferred upon it the functions, duties, and powers of territorial authorities under this Act shall have the power to make any bylaw; and the territorial authorities that so conferred their functions, duties, and powers under this Act shall retain the power to make bylaws in accordance with this section.
     
@@ -995,19 +1001,21 @@ An Act---
     
     Section 20(5): substituted, on 1 July 2003, by [section 262][151] of the Local Government Act 2002 (2002 No 84).
     
+    Section 20(5): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 20(5A): inserted, on 1 July 2003, by [section 262][151] of the Local Government Act 2002 (2002 No 84).
 
 #### Probationary owners
 
 ##### 21 Classification of probationary owners
     
-*   (1) Where any person is convicted of any offence (not being an infringement offence) against this Act or any offence against [Part 1][189] or [Part 2][190] of the Animal Welfare Act 1999 in respect of a dog or any offence against [section 26ZZP][191] of the Conservation Act 1987 or [section 56I][192] of the National Parks Act 1980, the territorial authority may classify that person as a probationary owner.
+*   (1) Where any person is convicted of any offence (not being an infringement offence) against this Act or any offence against [Part 1][190] or [Part 2][191] of the Animal Welfare Act 1999 in respect of a dog or any offence against [section 26ZZP][192] of the Conservation Act 1987 or [section 56I][193] of the National Parks Act 1980, the territorial authority may classify that person as a probationary owner.
     
     (2) Where any person commits 3 or more infringement offences (not relating to a single incident or occasion) within a continuous period of 24 months, the territorial authority may classify that person as a probationary owner.
     
     (3) For the purposes of subsection (2), a person shall be deemed to have committed an infringement offence if---
         
-    *   (a) that person has been ordered to pay a fine and costs under [section 78A(1)][193] of the Summary Proceedings Act 1957, or is deemed to have been so ordered under [section 21(5)][194] of that Act, in respect of that offence; or
+    *   (a) that person has been ordered to pay a fine and costs under [section 375][194] of the Criminal Procedure Act 2011, or is deemed to have been so ordered under [section 21(5)][195] of the Summary Proceedings Act 1957; or
     
     *   (b) the infringement fee specified on an infringement notice in respect of that offence and issued to that person under [section 66][105] has been paid.
     
@@ -1017,9 +1025,11 @@ An Act---
     
     Section 21(1): amended, on 1 January 2000, by [section 194][153] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 21(2): amended, on 1 December 2003, by [section 11][195] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 21(2): amended, on 1 December 2003, by [section 11][196] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 21(5): added, on 7 July 2004, by [section 4][196] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 21(3)(a): replaced, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 21(5): added, on 7 July 2004, by [section 4][197] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 22 Objection to classification as probationary owner
     
@@ -1061,27 +1071,29 @@ An Act---
     
     (7) \[Repealed\]
     
-    Section 23(3): repealed, on 1 December 2003, by [section 12][197] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 23(3): repealed, on 1 December 2003, by [section 12][198] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 23(4): repealed, on 1 December 2003, by [section 12][197] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 23(4): repealed, on 1 December 2003, by [section 12][198] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 23(5): repealed, on 1 December 2003, by [section 12][197] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 23(5): repealed, on 1 December 2003, by [section 12][198] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 23(6): repealed, on 1 December 2003, by [section 12][197] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 23(6): repealed, on 1 December 2003, by [section 12][198] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 23(7): repealed, on 1 December 2003, by [section 12][197] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 23(7): repealed, on 1 December 2003, by [section 12][198] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 23A Territorial authority may require probationary owner to undertake training
     
 *   (1) If a person is classified as a probationary owner under [section 21][30], the territorial authority may require the person to undertake, at his or her own expense, a dog owner education programme or a dog obedience course (or both) approved by the territorial authority.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a requirement under subsection (1).
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails to comply with a requirement under subsection (1).
     
-    Section 23A: inserted, on 1 December 2003, by [section 13][198] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 23A: inserted, on 1 December 2003, by [section 13][199] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 23A(1): amended, on 7 July 2004, by [section 5(1)][199] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 23A(1): amended, on 7 July 2004, by [section 5(1)][200] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 23A(2): added, on 7 July 2004, by [section 5(2)][199] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 23A(2): added, on 7 July 2004, by [section 5(2)][200] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 23A(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Obligation of probationary owners to dispose of unregistered dogs
     
@@ -1097,7 +1109,7 @@ An Act---
     
     *   (b) nothing in [section 42(2)][76] authorises the seizure and impounding of that unregistered dog at any time while that dog is still being kept by that person and any period allowed by this section for the disposal by that person of that unregistered dog has not expired.
     
-    (5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who---
+    (5) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who---
         
     *   (a) fails to comply with subsection (1); or
     
@@ -1107,7 +1119,9 @@ An Act---
     
     *   (d) disposes or gives custody or possession of any dog to any person, knowing that the person is disqualified under [section 25][36].
     
-    Section 24(5): added, on 7 July 2004, by [section 6][200] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 24(5): added, on 7 July 2004, by [section 6][201] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 24(5): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Disqualification of owners
 
@@ -1119,7 +1133,7 @@ An Act---
     
     *   (b) the person is convicted of an offence (not being an infringement offence) against this Act; or
     
-    *   (c) the person is convicted of an offence against [Part 1][189] or [Part 2][190] of the Animal Welfare Act 1999, [section 26ZZP][191] of the Conservation Act 1987, or [section 56I][192] of the National Parks Act 1980\.
+    *   (c) the person is convicted of an offence against [Part 1][190] or [Part 2][191] of the Animal Welfare Act 1999, [section 26ZZP][192] of the Conservation Act 1987, or [section 56I][193] of the National Parks Act 1980\.
     
     (1A) Subsection (1) does not apply if the territorial authority is satisfied that the circumstances of the offence or offences are such that---
         
@@ -1129,7 +1143,7 @@ An Act---
     
     (2) For the purposes of subsection (1)(a), a person must be treated as having committed an infringement offence if---
         
-    *   (a) the person has been ordered to pay a fine and costs under [section 78A(1)][193] of the Summary Proceedings Act 1957, or is deemed to have been ordered to do so under [section 21(5)][194] of that Act, in respect of the offence; or
+    *   (a) that person has been ordered to pay a fine and costs under [section 375][194] of the Criminal Procedure Act 2011, or is deemed to have been so ordered under [section 21(5)][195] of the Summary Proceedings Act 1957; or
     
     *   (b) the infringement fee specified on the infringement notice in respect of the offence issued to the person under [section 66][105] has been paid.
     
@@ -1137,11 +1151,13 @@ An Act---
     
     (4) If a person is disqualified under subsection (1), the territorial authority must, as soon as practicable, give written notice in the prescribed form to the person of that decision.
     
-    Section 25: substituted, on 1 December 2003, by [section 14][201] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 25: substituted, on 1 December 2003, by [section 14][202] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 25(1): amended, on 7 July 2004, by [section 7(1)][202] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 25(1): amended, on 7 July 2004, by [section 7(1)][203] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 25(1A): inserted, on 7 July 2004, by [section 7(2)][202] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 25(1A): inserted, on 7 July 2004, by [section 7(2)][203] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 25(2)(a): replaced, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 26 Objection to disqualification
     
@@ -1197,7 +1213,7 @@ An Act---
     
     (4) Where any person has, within 14 days after the date on which the notice under [section 26(4)][37] is given to that person in respect of an objection to which subsection (3) of this section refers, lodged an appeal under [section 27][38], subsection (1) of this section shall apply in relation to that person as if the reference in that subsection to the date on which the notice under [section 25(4)][36] was given to that person were a reference to the date of the decision of a District Court on that appeal.
     
-    (5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who---
+    (5) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who---
         
     *   (a) fails to comply with subsection (1); or
     
@@ -1211,15 +1227,17 @@ An Act---
     
     (7) Where any person fails to comply with subsection (1), any dog control officer may seize any dog owned by that person and, for that purpose, may, at any reasonable time, with all persons he or she calls to his or her assistance, enter onto the land or premises, including any dwellinghouse, of the owner of the dog.
     
-    Section 28(1): substituted, on 1 December 2003, by [section 15(1)][203] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 28(1): substituted, on 1 December 2003, by [section 15(1)][204] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 28(2): amended, on 1 December 2003, by [section 15(2)][203] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 28(2): amended, on 1 December 2003, by [section 15(2)][204] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 28(3): amended, on 1 December 2003, by [section 15(3)][203] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 28(3): amended, on 1 December 2003, by [section 15(3)][204] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 28(4): amended, on 1 December 2003, by [section 15(4)][203] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 28(4): amended, on 1 December 2003, by [section 15(4)][204] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 28(5): amended, on 1 December 2003, by [section 15(5)][203] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 28(5): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 28(5): amended, on 1 December 2003, by [section 15(5)][204] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 29 Probationary classification and disqualification to extend over New Zealand
     
@@ -1229,9 +1247,9 @@ An Act---
     
 *   (1) For the purposes of this section and of [sections 21][30] to [29][40], and only for those purposes, every territorial authority shall---
         
-    *   (a) maintain a record of every order made under [section 78A(1)][193] of the Summary Proceedings Act 1957, and of every order deemed to have been made under [section 21(5)][194] of that Act, in respect of an infringement offence committed within the previous 30 months in respect of which---
+    *   (a) maintain a record of every order made under [section 375][194] of the Criminal Procedure Act 2011, and of every order deemed to have been made under [section 21(5)][195] of the Summary Proceedings Act 1957, in respect of an infringement offence committed within the previous 30 months in respect of which---
             
-        *   (i) an information was laid by the territorial authority pursuant to [section 65(2)(a)][104]; or
+        *   (i) a charging document was filed in the name of the territorial authority pursuant to [section 65(2)(a)][104]; or
         
         *   (ii) an infringement notice was issued by the territorial authority:
         
@@ -1281,17 +1299,21 @@ An Act---
     
     (6) A territorial authority that complies with subsection (5) is not required to answer any request made under subsection (2). Instead the request must be treated as if it were a request made to the territorial authority referred to in [section 35A(2)][65].
     
-    Section 30(1)(b): amended, on 28 June 2006, by [section 9][204] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 30(1)(a): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 30(1)(d)(i): amended, on 1 December 2003, by [section 16(1)][205] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 30(1)(a)(i): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 30(2): amended, on 7 July 2004, by [section 8(1)][206] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 30(1)(b): amended, on 28 June 2006, by [section 9][205] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 30(2)(a)(i): amended, on 1 December 2003, by [section 16(2)][205] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 30(1)(d)(i): amended, on 1 December 2003, by [section 16(1)][206] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 30(5): substituted, on 7 July 2004, by [section 8(2)][206] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 30(2): amended, on 7 July 2004, by [section 8(1)][207] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 30(6): added, on 7 July 2004, by [section 8(2)][206] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 30(2)(a)(i): amended, on 1 December 2003, by [section 16(2)][206] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 30(5): substituted, on 7 July 2004, by [section 8(2)][207] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 30(6): added, on 7 July 2004, by [section 8(2)][207] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 30AA Territorial authority may retain information about infringement notice until infringement fee paid
     
@@ -1299,11 +1321,11 @@ An Act---
     
     (2) Subsection (1) applies despite anything to the contrary in this Act.
     
-    Section 30AA: inserted, on 28 June 2006, by [section 10][207] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 30AA: inserted, on 28 June 2006, by [section 10][208] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 #### Prohibition on import of certain dogs
     
-*   Heading: inserted, on 1 December 2003, by [section 17][208] of the Dog Control Amendment Act 2003 (2003 No 119).
+*   Heading: inserted, on 1 December 2003, by [section 17][209] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 30A Prohibition on import of dogs listed in Schedule 4
     
@@ -1329,7 +1351,7 @@ An Act---
     
     *   (b) is to the effect that to the best of the veterinarian's knowledge and belief, the dog is not a dog listed in [Schedule 4][133].
     
-    (4) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000\.
+    (4) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000\.
     
     (5) Subsection (1) does not apply in respect of---
         
@@ -1359,9 +1381,11 @@ An Act---
     
     *   (b) that is to the effect that, to the best of the knowledge and belief of the importer of the dog or of the importer's agent, the dog does not belong wholly or predominantly to 1 or more breed or type of dog listed in [Schedule 4][133].
     
-    Section 30A: inserted, on 1 December 2003, by [section 17][208] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 30A: inserted, on 1 December 2003, by [section 17][209] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 30A(5)(a): substituted, on 28 June 2006, by [section 11][209] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 30A(4): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 30A(5)(a): substituted, on 28 June 2006, by [section 11][210] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 #### Dangerous dogs
 
@@ -1393,7 +1417,7 @@ An Act---
     
     (5) The territorial authority shall give notice of its decision on any objection, and the reasons for its decision, to the owner as soon as practicable.
     
-    Section 31(1): substituted, on 7 July 2010, by [section 4][210] of the Dog Control Amendment Act 2010 (2010 No 62).
+    Section 31(1): substituted, on 7 July 2010, by [section 4][211] of the Dog Control Amendment Act 2010 (2010 No 62).
 
 ##### 32 Effect of classification as dangerous dog
     
@@ -1423,11 +1447,11 @@ An Act---
     
     *   (f) must not, without the written consent of the territorial authority in whose district the dog is to be kept, dispose of the dog to any other person.
     
-    (2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000\.
+    (2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000\.
     
     (3) If a court convicts a person of an offence against subsection (2), the court must also make an order for the destruction of the dog unless satisfied that the circumstances of the offence were exceptional and do not warrant destruction of the dog.
     
-    (4) Every person who sells or otherwise transfers, or offers to sell or transfer, to any other person any dog known by that person to be classified as a dangerous dog without disclosing the fact of that classification to that other person commits an offence and is liable on summary conviction to a fine not exceeding $3,000\.
+    (4) Every person who sells or otherwise transfers, or offers to sell or transfer, to any other person any dog known by that person to be classified as a dangerous dog without disclosing the fact of that classification to that other person commits an offence and is liable on conviction to a fine not exceeding $3,000\.
     
     (5) If a person fails to comply with subsection (1), a dog control officer or dog ranger may---
         
@@ -1437,13 +1461,17 @@ An Act---
     
     (6) [Section 70][111] applies to a dog removed under subsection (5) as if it were removed under [section 56][93]; and accordingly section 70 applies with all necessary modifications.
     
-    Section 32: substituted, on 1 December 2003, by [section 19][211] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 32: substituted, on 1 December 2003, by [section 19][212] of the Dog Control Amendment Act 2003 (2003 No 119).
     
     Section 32(1)(c): amended, on 28 June 2006, by [section 29(3)][165] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 32(1)(d): amended, on 7 July 2004, by [section 9(1)][212] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 32(1)(d): amended, on 7 July 2004, by [section 9(1)][213] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 32(1)(e): amended, on 7 July 2004, by [section 9(2)][212] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 32(1)(e): amended, on 7 July 2004, by [section 9(2)][213] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 32(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 32(4): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 32A Dangerous dog classification to extend over New Zealand
     
@@ -1451,7 +1479,7 @@ An Act---
     
     (2) This section is for the avoidance of doubt.
     
-    Section 32A: inserted, on 28 June 2006, by [section 12][213] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 32A: inserted, on 28 June 2006, by [section 12][214] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 33 Territorial authority's consent to disposal of dangerous dog
     
@@ -1465,11 +1493,11 @@ An Act---
     
     *   (d) is aware of the obligations imposed by [section 32][47] on the owner of a dog that is classified as a dangerous dog.
     
-    Section 33(b): amended, on 1 December 2003, by [section 20][203] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 33(b): amended, on 1 December 2003, by [section 20][204] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 #### Menacing dogs
     
-*   Heading: inserted, on 1 December 2003, by [section 21][214] of the Dog Control Amendment Act 2003 (2003 No 119).
+*   Heading: inserted, on 1 December 2003, by [section 21][215] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 33A Territorial authority may classify dog as menacing
     
@@ -1497,13 +1525,13 @@ An Act---
     
     *   (d) if the territorial authority's policy is not to require the neutering of menacing dogs (or would not require the neutering of the dog concerned), the effect of [sections 33EA][56] and [33EB][57] if the owner does not object to the classification and the dog is moved to the district of another territorial authority.
     
-    Section 33A: inserted, on 1 December 2003, by [section 21][214] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 33A: inserted, on 1 December 2003, by [section 21][215] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 33A(3): amended, on 1 November 2004, by [section 10][215] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 33A(3): amended, on 1 November 2004, by [section 10][216] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 33A(3)(c): amended, on 28 June 2006, by [section 13][216] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 33A(3)(c): amended, on 28 June 2006, by [section 13][217] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 33A(3)(d): added, on 28 June 2006, by [section 13][216] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 33A(3)(d): added, on 28 June 2006, by [section 13][217] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 33B Objection to classification of dog under section 33A
     
@@ -1529,7 +1557,7 @@ An Act---
     
     *   (b) the reasons for its determination.
     
-    Section 33B: inserted, on 1 December 2003, by [section 21][214] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 33B: inserted, on 1 December 2003, by [section 21][215] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 33C Dogs belonging to breed or type listed in Schedule 4 to be classified as menacing
     
@@ -1543,9 +1571,9 @@ An Act---
     
     *   (c) the right to object to the classification under [section 33D][54].
     
-    Section 33C: inserted, on 1 December 2003, by [section 21][214] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 33C: inserted, on 1 December 2003, by [section 21][215] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 33C(2): amended, on 1 November 2004, by [section 11][217] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 33C(2): amended, on 1 November 2004, by [section 11][218] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 33D Objection to classification of dog under section 33C
     
@@ -1571,7 +1599,7 @@ An Act---
     
     *   (b) the reasons for its determination.
     
-    Section 33D: inserted, on 1 December 2003, by [section 21][214] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 33D: inserted, on 1 December 2003, by [section 21][215] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 33E Effect of classification as menacing dog
     
@@ -1597,7 +1625,7 @@ An Act---
     
     (5) Subsection (1)(a) does not apply in respect of any dog or class of dog that the territorial authority considers need not be muzzled in any specified circumstances (for example, at a dog show).
     
-    Section 33E: inserted, on 1 December 2003, by [section 21][214] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 33E: inserted, on 1 December 2003, by [section 21][215] of the Dog Control Amendment Act 2003 (2003 No 119).
     
     Section 33E(1)(b): amended, on 28 June 2006, by [section 29(4)][165] of the Dog Control Amendment Act 2006 (2006 No 23).
     
@@ -1607,7 +1635,7 @@ An Act---
     
     Section 33E(4): repealed, on 28 June 2006, by [section 29(5)][165] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 33E(5): amended, on 7 July 2004, by [section 12][218] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 33E(5): amended, on 7 July 2004, by [section 12][219] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 33EA Menacing dog classification to extend over New Zealand
     
@@ -1615,7 +1643,7 @@ An Act---
     
     (2) This section is for the avoidance of doubt.
     
-    Section 33EA: inserted, on 28 June 2006, by [section 14][219] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 33EA: inserted, on 28 June 2006, by [section 14][220] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 33EB Territorial authority (other than classifying authority) may require neutering of menacing dog
     
@@ -1637,11 +1665,11 @@ An Act---
     
     (4) If a certificate under subsection (2)(b) is produced to the territorial authority, the owner of the dog must produce to the territorial authority, no later than 1 month after the date specified in that certificate, a further certificate under subsection (2).
     
-    Section 33EB: inserted, on 28 June 2006, by [section 14][219] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 33EB: inserted, on 28 June 2006, by [section 14][220] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 33EC Offence to fail to comply with section 33E(1) or 33EB
     
-*   (1) Every person who fails to comply with [section 33E(1)][55] or [33EB][57] commits an offence and is liable on summary conviction to a fine not exceeding $3,000\.
+*   (1) Every person who fails to comply with [section 33E(1)][55] or [33EB][57] commits an offence and is liable on conviction to a fine not exceeding $3,000\.
     
     (2) If a person fails to comply with [section 33E(1)][55] or [33EB][57], a dog control officer or dog ranger may---
         
@@ -1655,11 +1683,13 @@ An Act---
         
         
     
-    Section 33EC: inserted, on 28 June 2006, by [section 14][219] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 33EC: inserted, on 28 June 2006, by [section 14][220] of the Dog Control Amendment Act 2006 (2006 No 23).
+    
+    Section 33EC(1): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Dangerous and menacing dogs
     
-*   Heading: inserted, on 28 June 2006, by [section 14][219] of the Dog Control Amendment Act 2006 (2006 No 23).
+*   Heading: inserted, on 28 June 2006, by [section 14][220] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 33ED Territorial authority to classify certain dogs as dangerous or menacing
     
@@ -1675,7 +1705,7 @@ An Act---
     
     *   (b) do not, in the territorial authority's opinion, justify classifying the dog as dangerous or menacing.
     
-    Section 33ED: inserted, on 28 June 2006, by [section 14][219] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 33ED: inserted, on 28 June 2006, by [section 14][220] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 33F Owner must advise person with possession of dangerous or menacing dog of requirement to muzzle and leash dog in public
     
@@ -1687,9 +1717,11 @@ An Act---
     
     (2) If the dog is in the possession of another person for a period not exceeding 72 hours, the owner must advise the person of the requirement to comply with [section 32(1)(b)][47] or [section 33E(1)(a)][55], as the case may be (which relate to the requirement to muzzle and leash the dog in public).
     
-    (3) Every person who fails to comply with subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $500\.
+    (3) Every person who fails to comply with subsection (2) commits an offence and is liable on conviction to a fine not exceeding $500\.
     
-    Section 33F: inserted, on 1 December 2003, by [section 21][214] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 33F: inserted, on 1 December 2003, by [section 21][215] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 33F(3): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Registration and registration fees
 
@@ -1741,19 +1773,19 @@ An Act---
     
     Compare: 1982 No 42 s 35(1)--(3), (6), (7)
     
-    Section 34(2)(a): amended, on 28 June 2006, by [section 15(1)][220] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 34(2)(a): amended, on 28 June 2006, by [section 15(1)][221] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 34(2)(da): inserted, on 28 June 2006, by [section 15(2)][220] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 34(2)(da): inserted, on 28 June 2006, by [section 15(2)][221] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 34(2)(ea): inserted, on 1 December 2003, by [section 22(1)][221] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 34(2)(ea): inserted, on 1 December 2003, by [section 22(1)][222] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 34(2)(g): substituted, on 1 December 2003, by [section 22(2)][221] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 34(2)(g): substituted, on 1 December 2003, by [section 22(2)][222] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 34(2A): inserted, on 28 June 2006, by [section 15(3)][220] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 34(2A): inserted, on 28 June 2006, by [section 15(3)][221] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 34(4): substituted, on 28 June 2006, by [section 15(4)][220] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 34(4): substituted, on 28 June 2006, by [section 15(4)][221] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 34(6): substituted, on 7 July 2004, by [section 13][222] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 34(6): substituted, on 7 July 2004, by [section 13][223] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 35 Supply of register information
     
@@ -1787,7 +1819,7 @@ An Act---
     
     (5) For the purposes of subsection (4), the purposes for which any person shall be entitled to be informed of the name and address of the registered owner of any specified dog shall be,---
         
-    *   (a) in relation to any information or complaint concerning an offence or alleged offence against the Animal Welfare Act 1999 or this Act or any regulations or bylaws made under this Act:
+    *   (a) in relation to any charge concerning an offence or alleged offence against the [Animal Welfare Act 1999][134] or this Act or any regulations or bylaws made under this Act:
     
     *   (b) in relation to any request or claim for costs or compensation in respect of damage to property done or caused, or alleged to have been done or caused, by the dog:
     
@@ -1799,7 +1831,7 @@ An Act---
     
     *   (f) any other purpose specified in relation to the dogs register---
             
-        *   (i) in a code of practice issued, in relation to that register, under [section 63][223] of the Privacy Act 1993; or
+        *   (i) in a code of practice issued, in relation to that register, under [section 63][224] of the Privacy Act 1993; or
         
         *   (ii) in regulations made under [section 78][123].
         
@@ -1807,17 +1839,19 @@ An Act---
     
     (6) A territorial authority that complies with [section 34(6)][63] is not required to answer any request made under subsection (2)(c). Instead the request must be treated as a request made to the territorial authority referred to in [section 35A(2)][65].
     
-    Section 35(2): amended, on 7 July 2004, by [section 14(1)][224] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 35(2): amended, on 7 July 2004, by [section 14(1)][225] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 35(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][225] of the Policing Act 2008 (2008 No 72).
+    Section 35(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][226] of the Policing Act 2008 (2008 No 72).
     
     Section 35(2)(e): amended, on 1 January 2000, by [section 194][153] of the Animal Welfare Act 1999 (1999 No 142).
     
     Section 35(2)(f): amended, on 28 June 2006, by [section 29(6)][165] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 35(5)(a): amended, on 1 January 2000, pursuant to [section 198][226] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 35(5)(a): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(6): added, on 7 July 2004, by [section 14(2)][224] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 35(5)(a): amended, on 1 January 2000, pursuant to [section 198][227] of the Animal Welfare Act 1999 (1999 No 142).
+    
+    Section 35(6): added, on 7 July 2004, by [section 14(2)][225] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 35A National dog control information database
     
@@ -1845,7 +1879,7 @@ An Act---
     
     (3) Despite subsection (2), the person or organisation may supply the information that it holds to the Secretary for Local Government for the purposes of evaluating dog control policy in New Zealand, as long as the information does not allow the identification of individual records of dog owners or dogs.
     
-    Section 35A: inserted, on 7 July 2004, by [section 15][227] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 35A: inserted, on 7 July 2004, by [section 15][228] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 35AB National dog control information database may contain additional information supplied by territorial authority
     
@@ -1867,7 +1901,7 @@ An Act---
     
     (3) Any information provided under this section to the person or organisation responsible for the database is subject to the same limits on disclosure by the person or organisation as the information provided to the person or organisation under [section 35A][65].
     
-    Section 35AB: inserted, on 7 July 2004, by [section 15][227] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 35AB: inserted, on 7 July 2004, by [section 15][228] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 35B Levy to fund costs of national dog control information database
     
@@ -1893,9 +1927,9 @@ An Act---
     
     (5) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
     
-    (6) An order made under subsection (1) is a regulation under the [Regulations (Disallowance) Act 1989][228].
+    (6) An order made under subsection (1) is a regulation under the [Regulations (Disallowance) Act 1989][229].
     
-    Section 35B: inserted, on 30 September 2006, by [section 23][229] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 35B: inserted, on 30 September 2006, by [section 23][230] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 36 Application for registration
     
@@ -1925,9 +1959,9 @@ An Act---
     
     Compare: 1982 No 42 s 36; 1990 No 27 s 43
     
-    Section 36(1A): inserted, on 28 June 2006, by [section 16][230] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 36(1A): inserted, on 28 June 2006, by [section 16][231] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 36(3): amended, on 7 July 2004, by [section 16][231] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 36(3): amended, on 7 July 2004, by [section 16][232] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 36A Microchip transponder must be implanted in certain dogs
     
@@ -1987,27 +2021,29 @@ An Act---
     
     *   (b) in any other case, the territorial authority has verified that the dog has been implanted with a functioning microchip transponder of the prescribed type and in the prescribed location.
     
-    (6) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who fails to comply with subsection (2) or subsection (5).
+    (6) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who fails to comply with subsection (2) or subsection (5).
     
     (7) \[Repealed\]
     
-    Section 36A: inserted, on 1 July 2006, by [section 24][232] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 36A: inserted, on 1 July 2006, by [section 24][233] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 36A(2A): inserted (with effect on 1 July 2006), on 28 June 2006, by [section 17][233] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 36A(2A): inserted (with effect on 1 July 2006), on 28 June 2006, by [section 17][234] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 36A(3): substituted (with effect on 1 July 2006), on 7 July 2004, by [section 17(1)][234] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 36A(3): substituted (with effect on 1 July 2006), on 7 July 2004, by [section 17(1)][235] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 36A(3A): inserted (with effect on 1 July 2006), on 7 July 2004, by [section 17(1)][234] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 36A(3A): inserted (with effect on 1 July 2006), on 7 July 2004, by [section 17(1)][235] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 36A(4): amended (with effect on 1 July 2006), on 28 June 2006, by [section 18(1)(a)][235] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 36A(4): amended (with effect on 1 July 2006), on 28 June 2006, by [section 18(1)(a)][236] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 36A(4): amended (with effect on 1 July 2006), on 28 June 2006, by [section 18(1)(b)][235] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 36A(4): amended (with effect on 1 July 2006), on 28 June 2006, by [section 18(1)(b)][236] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 36A(5): substituted (with effect on 1 July 2006), on 7 July 2004, by [section 17(2)][234] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 36A(5): substituted (with effect on 1 July 2006), on 7 July 2004, by [section 17(2)][235] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 36A(5A): inserted (with effect on 1 July 2006), on 7 July 2004, by [section 17(2)][234] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 36A(5A): inserted (with effect on 1 July 2006), on 7 July 2004, by [section 17(2)][235] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 36A(7): repealed (without coming into force), on 28 June 2006, by [section 18(2)][235] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 36A(6): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 36A(7): repealed (without coming into force), on 28 June 2006, by [section 18(2)][236] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 37 Territorial authority to set fees
     
@@ -2059,7 +2095,7 @@ An Act---
     
     *   (b) multiplying that amount by the number of complete months remaining in the registration year.
     
-    Section 38: substituted, on 28 June 2006, by [section 19][236] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 38: substituted, on 28 June 2006, by [section 19][237] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 39 Refund and reduction of fees
     
@@ -2083,21 +2119,25 @@ An Act---
 
 ##### 41 Penalty for false statement relating to application for registration
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, in making an application for the registration of a dog, makes any written statement knowing that statement to be false.
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, in making an application for the registration of a dog, makes any written statement knowing that statement to be false.
     
     Compare: 1982 No 42 s 38
     
-    Section 41: amended, on 1 December 2003, by [section 25][237] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 41: amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 41: amended, on 1 December 2003, by [section 25][238] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 41A Dead dogs
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who makes any written statement to a territorial authority to the effect that a dog is dead knowing that statement to be false.
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who makes any written statement to a territorial authority to the effect that a dog is dead knowing that statement to be false.
     
-    Section 41A: inserted, on 28 June 2006, by [section 20][238] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 41A: inserted, on 28 June 2006, by [section 20][239] of the Dog Control Amendment Act 2006 (2006 No 23).
+    
+    Section 41A: amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 Offence of failing to register dog
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who is the owner of a dog of a greater age than 3 months unless the dog is registered under this Act for the current registration year.
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who is the owner of a dog of a greater age than 3 months unless the dog is registered under this Act for the current registration year.
     
     (2) If a territorial authority has reasonable grounds to believe that a person has failed to comply with subsection (1), a dog control officer or dog ranger may---
         
@@ -2109,7 +2149,7 @@ An Act---
         
     *   (a) impounding the dog under this Act; or
     
-    *   (b) confining the dog in a transitional facility or containment facility approved under [section 39][239] of the Biosecurity Act 1993; or
+    *   (b) confining the dog in a transitional facility or containment facility approved under [section 39][240] of the Biosecurity Act 1993; or
     
     *   (c) keeping the dog in the custody of a society established to prevent cruelty to animals pending the dog's---
             
@@ -2127,19 +2167,21 @@ An Act---
     
     Compare: 1982 No 42 s 39
     
-    Section 42: substituted, on 1 December 2003, by [section 26][240] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 42: substituted, on 1 December 2003, by [section 26][241] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 42(1): amended, on 28 June 2006, by [section 21][241] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 42(1): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 42(3): substituted, on 7 July 2004, by [section 18][242] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 42(1): amended, on 28 June 2006, by [section 21][242] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 42(4): added, on 7 July 2004, by [section 18][242] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 42(3): substituted, on 7 July 2004, by [section 18][243] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 42(4): added, on 7 July 2004, by [section 18][243] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 43 Registration of impounded dog, dog in quarantine, or dog in custody of society established to prevent cruelty to animals
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 7 July 2004, by [section 19][243] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 43: repealed, on 7 July 2004, by [section 19][244] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 44 Dog not wearing proper label or disc deemed unregistered
     
@@ -2161,11 +2203,13 @@ An Act---
     
     (3) If the authority is satisfied that a current label or disc for any dog has been lost, stolen, damaged, or destroyed, it shall, on receipt of the appropriate fee, issue a replacement label or disc.
     
-    (4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who procures or attempts to procure a replacement label or disc for any dog knowing that a current label or disc for that dog has not been lost or stolen.
+    (4) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who procures or attempts to procure a replacement label or disc for any dog knowing that a current label or disc for that dog has not been lost or stolen.
     
     Compare: 1982 No 42 s 43
     
-    Section 46(4): amended, on 1 December 2003, by [section 27][244] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 46(4): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 46(4): amended, on 1 December 2003, by [section 27][245] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 47 Registration to extend over New Zealand
     
@@ -2179,15 +2223,17 @@ An Act---
     
     (2) Where the dog is registered, the territorial authority or territorial authorities concerned shall, without fee, record the changes in their registers and the territorial authority in whose district the dog is ordinarily to be kept shall, without fee, issue a new label or disc for the dog.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who fails to comply with the requirements of subsection (1).
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who fails to comply with the requirements of subsection (1).
     
     (4) It shall be a defence to a charge of failing to comply with the requirements of subsection (1) if the defendant satisfies the court that the previous owner or the new owner, as the case may be, complied with the requirements of that subsection.
     
     Compare: 1982 No 42 s 45
     
-    Section 48 heading: amended, on 28 June 2006, by [section 22][245] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 48 heading: amended, on 28 June 2006, by [section 22][246] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 48(3): amended, on 1 December 2003, by [section 28][246] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 48(3): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 48(3): amended, on 1 December 2003, by [section 28][247] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 49 Transfer of dog from one address or district to another
     
@@ -2197,11 +2243,13 @@ An Act---
     
     (3) Where the dog is registered, the territorial authority or territorial authorities concerned shall, without fee, record the changes in its register or their registers, and the territorial authority in whose district the dog is ordinarily to be kept shall, without fee, issue a new label or disc for the dog.
     
-    (4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who fails to comply with subsection (1) or subsection (2).
+    (4) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who fails to comply with subsection (1) or subsection (2).
     
     Compare: 1982 No 42 s 46
     
-    Section 49(4): amended, on 1 December 2003, by [section 29][247] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 49(4): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 49(4): amended, on 1 December 2003, by [section 29][248] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 50 Dog not wearing proper label or disc may be impounded
     
@@ -2219,7 +2267,7 @@ An Act---
 
 ##### 51 Offences relating to collars, labels, and discs
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, with intent to deceive,---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, with intent to deceive,---
         
     *   (a) removes from a dog a collar bearing a label or disc issued under this Act; or
     
@@ -2233,7 +2281,9 @@ An Act---
     
     Compare: 1982 No 42 s 48
     
-    Section 51(1): amended, on 1 December 2003, by [section 30][248] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 51(1): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 51(1): amended, on 1 December 2003, by [section 30][249] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 #### Obligations of owner
 
@@ -2273,11 +2323,11 @@ An Act---
     
     Compare: 1982 No 42 s 52
     
-    Section 52 heading: amended, on 1 December 2003, by [section 31(1)][249] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 52 heading: amended, on 1 December 2003, by [section 31(1)][250] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 52(3A): inserted, on 1 December 2003, by [section 31(2)][249] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 52(3A): inserted, on 1 December 2003, by [section 31(2)][250] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 52(7): amended, on 1 December 2003, by [section 31(3)][249] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 52(7): amended, on 1 December 2003, by [section 31(3)][250] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 52A Control of dog on owner's property
     
@@ -2289,7 +2339,7 @@ An Act---
     
     *   (b) the dog is confined within the land or premises in such a manner that it cannot freely leave the land or premises.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who fails to comply with subsection (2).
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who fails to comply with subsection (2).
     
     (4) If a person fails to comply with subsection (2), a dog control officer or dog ranger may---
         
@@ -2297,15 +2347,19 @@ An Act---
     
     *   (b) for the purposes of paragraph (a), enter, at any reasonable time, the land or premises (except a dwellinghouse) owned or occupied by the owner of the dog.
     
-    Section 52A: inserted, on 1 June 2004, by [section 32][250] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 52A: inserted, on 1 June 2004, by [section 32][251] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 52A(3): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 53 Offence of failing to keep dog under control
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who, being the owner of a dog, fails to keep that dog under control.
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, being the owner of a dog, fails to keep that dog under control.
     
     (2) Notwithstanding [section 52(2)(b)][87], an owner of a dog does not commit an offence against subsection (1) by reason only of the dog being found at large in a public place in contravention of any regulation or bylaw.
     
-    Section 53(1): amended, on 1 December 2003, by [section 33][251] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 53(1): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 53(1): amended, on 1 December 2003, by [section 33][252] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 54 Obligations of dog owner
     
@@ -2315,9 +2369,11 @@ An Act---
     
     *   (b) ensure that the dog receives adequate exercise.
     
-    (2) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 who, being the owner of any dog, fails to comply with subsection (1).
+    (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 who, being the owner of any dog, fails to comply with subsection (1).
     
     Compare: 1982 No 42 s 53
+    
+    Section 54(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54A Owner must use or carry leash in public
     
@@ -2327,15 +2383,17 @@ An Act---
     
     *   (b) the dog is not otherwise required to be controlled on a leash by or under this Act or any other enactment.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, being the owner of a dog, fails to comply with subsection (1).
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, being the owner of a dog, fails to comply with subsection (1).
     
     (3) This section does not apply to the owner of a working dog in relation to the working dog.
     
-    Section 54A: inserted, on 1 December 2003, by [section 34][252] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 54A: inserted, on 1 December 2003, by [section 34][253] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 54A(1): substituted, on 7 July 2004, by [section 20(1)][253] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 54A(1): substituted, on 7 July 2004, by [section 20(1)][254] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 54A(3): amended, on 7 July 2004, by [section 20(2)][253] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 54A(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 54A(3): amended, on 7 July 2004, by [section 20(2)][254] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 55 Barking dogs
     
@@ -2355,13 +2413,15 @@ An Act---
     
     (6) As from the lodging of an objection with the territorial authority, and pending the receipt of a further notice upon the determination of the objection, the notice setting out the requirements that are the subject of the objection shall be deemed to be suspended.
     
-    (7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who, having been served with a notice under this section,---
+    (7) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who, having been served with a notice under this section,---
         
     *   (a) fails or neglects to comply with that notice (not being a notice that as been suspended under subsection (6)) within 7 days of its receipt by that person:
     
     *   (b) fails or neglects to comply with any notice as modified or confirmed by a territorial authority under subsection (3) within the time specified by the territorial authority.
     
     Compare: 1982 No 42 s 54
+    
+    Section 55(7): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56 Removal of barking dog causing distress
     
@@ -2389,13 +2449,13 @@ An Act---
     
     (4) Where a dog is removed pursuant to subsection (2), the dog control officer or dog ranger shall give written notice in the prescribed form to the owner of the dog or, if the owner is not present, the person for the time being appearing to be in charge of the land or premises and, if no person is present on the property, shall leave such notice in some conspicuous place on the land or premises.
     
-    (5) The provisions of [subparts 1][254], [3][173], [7][255], [9][256], and [10][257] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (3).
+    (5) The provisions of [subparts 1][255], [3][173], [7][256], [9][257], and [10][258] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (3).
     
-    Section 56(3)(a): replaced, on 1 October 2012, by [section 233(1)][258] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56(3)(a): replaced, on 1 October 2012, by [section 233(1)][259] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 56(3A): inserted, on 1 October 2012, by [section 233(2)][258] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56(3A): inserted, on 1 October 2012, by [section 233(2)][259] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 56(5): inserted, on 1 October 2012, by [section 233(3)][258] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56(5): inserted, on 1 October 2012, by [section 233(3)][259] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 57 Dogs attacking persons or animals
     
@@ -2405,7 +2465,7 @@ An Act---
     
     *   (b) the person witnesses the dog attacking any other person, or any stock, poultry, domestic animal, or protected wildlife.
     
-    (2) The owner of a dog that makes an attack described in subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the attack.
+    (2) The owner of a dog that makes an attack described in subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the attack.
     
     (3) If, in any proceedings under subsection (2), the court is satisfied that the dog has committed an attack described in subsection (1) and that the dog has not been destroyed, the court must make an order for the destruction of the dog unless it is satisfied that the circumstances of the offence were exceptional and do not warrant destruction of the dog.
     
@@ -2435,7 +2495,7 @@ An Act---
     
     *   (b) any employee of the local authority that employs or engages the dog ranger or dog control officer.
     
-    (6B) The provisions of [subparts 1][254], [3][173], [7][255], [9][256], and [10][257] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (6).
+    (6B) The provisions of [subparts 1][255], [3][173], [7][256], [9][257], and [10][258] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an authority applied for or issued under subsection (6).
     
     (7) To avoid doubt, a constable may exercise the powers conferred on a dog control officer or dog ranger by this section.
     
@@ -2447,15 +2507,17 @@ An Act---
     
     Compare: 1982 No 42 s 56(1)--(5), (7)
     
-    Section 57: substituted, on 1 December 2003, by [section 35][259] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 57: substituted, on 1 December 2003, by [section 35][260] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 57(6)(b): amended, on 1 October 2012, by [section 233(4)][258] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 57(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 57(6A): inserted, on 1 October 2012, by [section 233(5)][258] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 57(6)(b): amended, on 1 October 2012, by [section 233(4)][259] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 57(6B): inserted, on 1 October 2012, by [section 233(5)][258] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 57(6A): inserted, on 1 October 2012, by [section 233(5)][259] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 57(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][225] of the Policing Act 2008 (2008 No 72).
+    Section 57(6B): inserted, on 1 October 2012, by [section 233(5)][259] of the Search and Surveillance Act 2012 (2012 No 24).
+    
+    Section 57(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][226] of the Policing Act 2008 (2008 No 72).
 
 ##### 57A Dogs rushing at persons, animals, or vehicles
     
@@ -2473,13 +2535,15 @@ An Act---
     
     (2) If this section applies,---
         
-    *   (a) the owner of the dog commits an offence and is liable on summary conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the dog; and
+    *   (a) the owner of the dog commits an offence and is liable on conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the dog; and
     
     *   (b) the court may make an order for the destruction of the dog.
     
     (3) A dog control officer or dog ranger who has reasonable grounds to believe that an offence has been committed under subsection (2)(a) may, at any time before a decision of the court under that subsection, seize or take custody of the dog and may enter any land or premises (except a dwellinghouse) to do so.
     
-    Section 57A: inserted, on 1 December 2003, by [section 36][260] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 57A: inserted, on 1 December 2003, by [section 36][261] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 57A(2)(a): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Dogs causing serious injury
     
@@ -2493,7 +2557,7 @@ An Act---
     
     commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or a fine not exceeding $20,000, or both, and the court shall, on convicting the owner, make an order for the destruction of the dog unless satisfied that the circumstances of the attack were exceptional and do not justify destruction.
     
-    Section 58: amended, on 1 December 2003, by [section 37][261] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 58: amended, on 1 December 2003, by [section 37][262] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 59 Seizure or destruction of dog at large in vicinity of protected wildlife
     
@@ -2519,9 +2583,11 @@ An Act---
     
 *   (1) Where complaint is made to a District Court by the owner of any stock or poultry, or the occupier of any land on which there is stock or poultry, that any dog has been seen at large among that stock or poultry, the court, if it is satisfied as to the grounds of the complaint, may order the owner to keep the dog under proper restraint or make an order for the destruction of the dog.
     
-    (2) Every person who fails to comply with an order made under subsection (1) requiring that person to keep a dog under proper restraint commits an offence and is liable on summary conviction to a fine not exceeding $150 for every day during which the default has continued; and, in addition, the court may make an order for the destruction of the dog.
+    (2) Every person who fails to comply with an order made under subsection (1) requiring that person to keep a dog under proper restraint commits an offence and is liable on conviction to a fine not exceeding $150 for every day during which the default has continued; and, in addition, the court may make an order for the destruction of the dog.
     
     Compare: 1982 No 42 s 60
+    
+    Section 61(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Allowing dogs known to be dangerous to be at large unmuzzled
     
@@ -2539,9 +2605,9 @@ An Act---
     
     (3) A person whose dog is in the possession of any other person for a period of less than 72 hours must advise that person of the requirement to comply with subsection (2).
     
-    (4) Every person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $3,000, and the court may, on convicting the person, make an order for the destruction of the dog.
+    (4) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $3,000, and the court may, on convicting the person, make an order for the destruction of the dog.
     
-    (5) Every person who contravenes subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $500\.
+    (5) Every person who contravenes subsection (3) commits an offence and is liable on conviction to a fine not exceeding $500\.
     
     (6) This section does not apply in respect of a dog that---
         
@@ -2551,13 +2617,17 @@ An Act---
     
     Compare: 1982 No 42 s 57
     
-    Section 62: substituted, on 1 December 2003, by [section 38][262] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 62: substituted, on 1 December 2003, by [section 38][263] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 62(3): amended, on 7 July 2004, by [section 21(1)][263] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 62(3): amended, on 7 July 2004, by [section 21(1)][264] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 62(4): amended, on 7 July 2004, by [section 21(1)][263] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 62(4): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 62(5): amended, on 7 July 2004, by [section 21(2)][263] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 62(4): amended, on 7 July 2004, by [section 21(1)][264] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 62(5): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 62(5): amended, on 7 July 2004, by [section 21(2)][264] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ##### 63 Owner liable for damage done by dog
     
@@ -2573,7 +2643,7 @@ An Act---
     
     Compare: 1982 No 42 s 61; 1985 No 172 s 3
     
-    Section 63(2): substituted, on 1 December 2003, by [section 39][264] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 63(2): substituted, on 1 December 2003, by [section 39][265] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 64 Procedure where order made for destruction of dog
     
@@ -2591,15 +2661,17 @@ An Act---
     
     (5) Where any dog is destroyed by any dog control officer or dog ranger acting under the authority of this section, the reasonable costs of the collection, destruction, and disposal of the dog shall constitute a debt recoverable by the territorial authority from the owner of the dog.
     
-    (6) A person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $3,000\.
+    (6) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000\.
     
     Compare: 1982 No 42 s 62
     
-    Section 64(1): substituted, on 1 December 2003, by [section 40(1)][265] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 64(1): substituted, on 1 December 2003, by [section 40(1)][266] of the Dog Control Amendment Act 2003 (2003 No 119).
     
     Section 64(1)(b): amended, on 28 June 2006, by [section 29(8)][165] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 64(6): added, on 1 December 2003, by [section 40(2)][265] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 64(6): added, on 1 December 2003, by [section 40(2)][266] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 64(6): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Infringement offences
 
@@ -2609,11 +2681,13 @@ An Act---
     
     (2) Where any person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against summarily for the offence; or
+    *   (a) be proceeded against by filing a charging document under [section 14][267] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 66][105].
     
-    Section 65(1): amended, on 7 July 2004, by [section 22][266] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 65(1): amended, on 7 July 2004, by [section 22][268] of the Dog Control Amendment Act 2004 (2004 No 61).
+    
+    Section 65(2)(a): replaced, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 66 Infringement notices
     
@@ -2627,7 +2701,7 @@ An Act---
     
     *   (c) where the person is shown as the owner of a dog on a register, by sending it by post to the person at the address recorded on that register.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][267], an infringement notice sent to a person by post pursuant to paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it was so posted.
+    (3) An infringement notice sent to a person by post pursuant to paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it was so posted.
     
     (4) Every infringement notice shall be in the prescribed form, and shall contain the following particulars:
         
@@ -2639,7 +2713,7 @@ An Act---
     
     *   (d) the time within which the infringement fee may be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][194] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][195] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement of the right of the person served with the notice to request a hearing; and
     
@@ -2649,19 +2723,21 @@ An Act---
     
     *   (i) such other particulars as are prescribed.
     
-    (5) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][194] of the Summary Proceedings Act 1957, and in that case the provisions of that section shall, with the necessary modifications, apply.
+    (5) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][195] of the Summary Proceedings Act 1957, and in that case the provisions of that section shall, with the necessary modifications, apply.
     
     (6) A territorial authority may retain the infringement fee received by it for an infringement offence if the infringement notice was issued by a dog control officer or dog ranger appointed by that territorial authority.
     
-    Section 66(1): amended, on 1 December 2003, by [section 41(1)][268] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 66(1): amended, on 1 December 2003, by [section 41(1)][269] of the Dog Control Amendment Act 2003 (2003 No 119).
     
     Section 66(2)(c): amended, on 28 June 2006, by [section 29(9)][165] of the Dog Control Amendment Act 2006 (2006 No 23).
     
-    Section 66(4)(b): amended, on 7 July 2004, by [section 23][269] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 66(3): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 66(4)(h): amended, on 1 December 2003, by [section 41(2)][268] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 66(4)(b): amended, on 7 July 2004, by [section 23][270] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 66(6): added, on 1 December 2003, by [section 41(3)][268] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 66(4)(h): amended, on 1 December 2003, by [section 41(2)][269] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 66(6): added, on 1 December 2003, by [section 41(3)][269] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 #### Custody of dogs
 
@@ -2713,7 +2789,7 @@ An Act---
     
     (7) Nothing in subsections (1) to (3) shall apply in any case where a constable, dog control officer, or dog ranger seizes or is given custody of a dog pursuant to an order of the District Court that the dog be destroyed.
     
-    (8) This section does not limit or affect the power of the territorial authority to destroy a dog under [section 139][270] of the Animal Welfare Act 1999\.
+    (8) This section does not limit or affect the power of the territorial authority to destroy a dog under [section 139][271] of the Animal Welfare Act 1999\.
     
     Compare: 1982 No 42 s 66
     
@@ -2745,11 +2821,11 @@ An Act---
     
     *   (b) the person taking possession of the dog.
     
-    Section 69A: inserted, on 1 July 2006, by [section 24][271] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 69A: inserted, on 1 July 2006, by [section 24][272] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 69A(3): brought into force, on 7 July 2004, by[section 2(3)][272] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 69A(3): brought into force, on 7 July 2004, by[section 2(3)][273] of the Dog Control Amendment Act 2004 (2004 No 61).
     
-    Section 69A(6): added (with effect on 1 July 2006), on 28 June 2006, by [section 23][273] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 69A(6): added (with effect on 1 July 2006), on 28 June 2006, by [section 23][274] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 70 Custody of dog removed for barking
     
@@ -2777,7 +2853,7 @@ An Act---
     
     the territorial authority may dispose of the dog in the manner authorised by [section 69][109], and subsections (4) to (6) of that section shall apply as if the dog had been disposed of under that section.
     
-    Section 70(1): amended, on 28 June 2006, by [section 24][274] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 70(1): amended, on 28 June 2006, by [section 24][275] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 71 Retention of dog threatening public safety
     
@@ -2805,9 +2881,9 @@ An Act---
     
     (8) In any case where the territorial authority requires fees under subsection (7) of this section to be paid before any dog is returned, and those fees have not been paid within 7 days of the receipt by the owner of written notice that the dog will be returned upon payment of those fees, the territorial authority may dispose of the dog in the manner authorised by [section 69(3)][109], and subsections (4) to (6) of that section shall apply as if the dog had been disposed of under that section.
     
-    Section 71(1)(a): amended, on 1 December 2003, by [section 43(1)][275] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 71(1)(a): amended, on 1 December 2003, by [section 43(1)][276] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 71(1)(b): amended, on 1 December 2003, by [section 43(2)][275] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 71(1)(b): amended, on 1 December 2003, by [section 43(2)][276] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 71A Disposal of dog seized under section 15 or 33EC
     
@@ -2905,7 +2981,7 @@ An Act---
     
     (7) The disposal of a dog under this section does not cancel the liability of the former owner of the dog to pay any fees owing in relation to the dog under this Act.
     
-    Section 71A: inserted, on 28 June 2006, by [section 25][276] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 71A: inserted, on 28 June 2006, by [section 25][277] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 71B District Court to determine appeal
     
@@ -2921,7 +2997,7 @@ An Act---
     
     *   (b) make an order in respect of any fees owing in relation to the dog under this Act.
     
-    Section 71B: inserted, on 28 June 2006, by [section 25][276] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 71B: inserted, on 28 June 2006, by [section 25][277] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 72 Offence to release dog from custody
     
@@ -2937,9 +3013,11 @@ An Act---
     
     *   (b) is in possession of a dog that has been unlawfully released or uplifted from the custody of a person specified in paragraph (a).
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $3,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $3,000\.
     
-    Section 72: substituted, on 1 December 2003, by [section 44][277] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 72: substituted, on 1 December 2003, by [section 44][278] of the Dog Control Amendment Act 2003 (2003 No 119).
+    
+    Section 72(2): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 72A Power of dog control officer or dog ranger to seize released dog
     
@@ -2949,7 +3027,7 @@ An Act---
     
     *   (b) retain custody of the dog until the dog control officer, dog ranger, or territorial authority (as the case may be) is satisfied that the requirements under this Act in relation to the initial impounding of the dog have been complied with.
     
-    Section 72A: inserted, on 7 July 2004, by [section 25][278] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 72A: inserted, on 7 July 2004, by [section 25][279] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 #### Miscellaneous provisions
 
@@ -2971,7 +3049,7 @@ An Act---
     
 *   (1) Any disability assist dog accompanying and assisting a person with a disability, or accompanying a person genuinely engaged in the dog's training, may enter and remain---
         
-    *   (a) in any premises registered under regulations made under [section 120][279] of the Health Act 1956; or
+    *   (a) in any premises registered under regulations made under [section 120][280] of the Health Act 1956; or
     
     *   (b) in any public place.
     
@@ -2979,7 +3057,7 @@ An Act---
     
     (3) This section overrides any enactment or bylaw prohibiting or regulating the entry or presence of dogs in relation to the premises and places referred to in subsection (1).
     
-    Section 75: substituted, on 28 June 2006, by [section 26][280] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 75: substituted, on 28 June 2006, by [section 26][281] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 76 Giving and content of notices
     
@@ -3011,13 +3089,15 @@ An Act---
     
     *   (b) in the absence of proof to the contrary, be sufficiently authenticated if it bears the name of the person giving the notice or direction.
     
-    Compare: 1982 No 42 s 84; 1989 No 44 [s 86][281]
+    Compare: 1982 No 42 s 84; 1989 No 44 [s 86][282]
 
 ##### 77 Application of fines
     
-*   Notwithstanding anything in [section 73][282] of the Public Finance Act 1989, the court before which any person is convicted of an offence against this Act may direct that part (not exceeding one-half) of any fine imposed shall be paid to the informant or to any person giving information that led to the conviction.
+*   Notwithstanding anything in [section 73][283] of the Public Finance Act 1989, the court before which any person is convicted of an offence against this Act may direct that part (not exceeding one-half) of any fine imposed shall be paid to the person who commenced the proceedings or to any person giving information that led to the conviction.
     
-    Compare: 1982 No 42 s 85; 1989 No 44 [s 86][281]
+    Compare: 1982 No 42 s 85; 1989 No 44 [s 86][282]
+    
+    Section 77: amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Regulations
     
@@ -3037,7 +3117,7 @@ An Act---
     
     (2) Regulations made under paragraph (c) of subsection (1) that relate to a particular breed or cross-breed of dog shall specify, with due particularity, the criteria that are to be used for the purpose of determining whether a dog is of a particular breed or cross-breed.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who keeps or has possession of any dog in contravention of any regulations made under paragraph (c) of subsection (1); and the court shall, on convicting any person of that offence, make an order for the destruction of the dog unless satisfied that the circumstances of the offence were exceptional and are unlikely to be repeated.
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who keeps or has possession of any dog in contravention of any regulations made under paragraph (c) of subsection (1); and the court shall, on convicting any person of that offence, make an order for the destruction of the dog unless satisfied that the circumstances of the offence were exceptional and are unlikely to be repeated.
     
     (4) Nothing in subsection (3) makes it an offence for any person---
         
@@ -3051,15 +3131,17 @@ An Act---
     
     *   (b) to impound a dog under this Act:
     
-    *   (c) to confine a dog in any quarantine facility registered under [section 39][239] of the Biosecurity Act 1993:
+    *   (c) to confine a dog in any quarantine facility registered under [section 39][240] of the Biosecurity Act 1993:
     
     *   (d) to hold a dog in the custody of any society established to prevent cruelty to animals.
     
-    Section 78(1)(ba): inserted, on 1 December 2003, by [section 45(1)][283] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 78(1)(ba): inserted, on 1 December 2003, by [section 45(1)][284] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 78(1)(bb): inserted, on 1 December 2003, by [section 45(1)][283] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 78(1)(bb): inserted, on 1 December 2003, by [section 45(1)][284] of the Dog Control Amendment Act 2003 (2003 No 119).
     
-    Section 78(3): amended, on 1 December 2003, by [section 45(2)][283] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 78(3): amended, on 1 July 2013, by [section 413][184] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 78(3): amended, on 1 December 2003, by [section 45(2)][284] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 78A Regulations adding further breed or type to Schedule 4
     
@@ -3071,9 +3153,9 @@ An Act---
     
     (2) An Order in Council made under subsection (1) may not come into force except in accordance with a commencement order made under [section 78B][125].
     
-    (3) [Sections 5 to 10][284] of the Regulations (Disallowance) Act 1989 do not apply to any Order in Council made under subsection (1).
+    (3) [Sections 5 to 10][285] of the Regulations (Disallowance) Act 1989 do not apply to any Order in Council made under subsection (1).
     
-    Section 78A: inserted, on 1 December 2003, by [section 46][285] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 78A: inserted, on 1 December 2003, by [section 46][286] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 78B Procedure for bringing Order in Council made under section 78A into force
     
@@ -3093,7 +3175,7 @@ An Act---
     
     *   (b) no motion to approve the Order in Council is agreed to within 1 year of its date of making.
     
-    Section 78B: inserted, on 1 December 2003, by [section 46][285] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 78B: inserted, on 1 December 2003, by [section 46][286] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 78C Matters to which Minister must have regard before recommending Order in Council under section 78A
     
@@ -3117,7 +3199,7 @@ An Act---
     
     *   (f) any other matters that the Minister considers relevant.
     
-    Section 78C: inserted, on 1 December 2003, by [section 46][285] of the Dog Control Amendment Act 2003 (2003 No 119).
+    Section 78C: inserted, on 1 December 2003, by [section 46][286] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ##### 78D Regulations authorising organisation to certify dogs as disability assist dogs
     
@@ -3125,7 +3207,7 @@ An Act---
     
     (2) The Minister must not make a recommendation under subsection (1) unless he or she has consulted the Minister for Disability Issues.
     
-    Section 78D: inserted, on 28 June 2006, by [section 27][286] of the Dog Control Amendment Act 2006 (2006 No 23).
+    Section 78D: inserted, on 28 June 2006, by [section 27][287] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 ##### 79 Consequential amendments
     
@@ -3142,7 +3224,7 @@ Infringement offences and fees
 
 [s 65(1)][104]
 
-*   Schedule 1: substituted, on 28 June 2006, by [section 28][287] of the Dog Control Amendment Act 2006 (2006 No 23).
+*   Schedule 1: substituted, on 28 June 2006, by [section 28][288] of the Dog Control Amendment Act 2006 (2006 No 23).
 
 **Section****Brief description of offence****Infringement fee**   
 **($)**
@@ -3214,19 +3296,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][288]._
+_Amendment(s) incorporated in the [Act(s)][289]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][289]._
+_Amendment(s) incorporated in the [Act(s)][290]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][290]._
+_Amendment(s) incorporated in the [Act(s)][291]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][291]._
+_Amendment(s) incorporated in the [Act(s)][292]._
 
 ---
 
@@ -3237,7 +3319,7 @@ Enactments repealed
 
 ##### Biosecurity Act 1993 (1993 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][292]._
+_Amendment(s) incorporated in the [Act(s)][293]._
 
 ##### Dog Control and Hydatids Act 1982 (1982 No 42)
 
@@ -3251,27 +3333,27 @@ _Amendment(s) incorporated in the [Act(s)][292]._
 
 ##### Local Government Amendment Act 1992 (1992 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][293]._
+_Amendment(s) incorporated in the [Act(s)][294]._
 
 ##### Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][294]._
+_Amendment(s) incorporated in the [Act(s)][295]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (RS Vol 27, p 795)
 
-_Amendment(s) incorporated in the [Act(s)][295]._
+_Amendment(s) incorporated in the [Act(s)][296]._
 
 ##### Public Finance Act 1989 (1989 No 44) (RS Vol 33, p 419)
 
-_Amendment(s) incorporated in the [Act(s)][296]._
+_Amendment(s) incorporated in the [Act(s)][297]._
 
 ##### Summary Proceedings Amendment Act 1993 (1993 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][297]._
+_Amendment(s) incorporated in the [Act(s)][298]._
 
 ##### Weights and Measures Amendment Act 1991 (1991 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][291]._
+_Amendment(s) incorporated in the [Act(s)][292]._
 
 ---
 
@@ -3280,7 +3362,7 @@ Breed and type of dog subject to ban on importation and muzzling
 
 [ss 30A][44], [33A][51], [33C][53], [78A--78C][124]
 
-*   Schedule 4: added, on 1 December 2003, by [section 50][298] of the Dog Control Amendment Act 2003 (2003 No 119).
+*   Schedule 4: added, on 1 December 2003, by [section 50][299] of the Dog Control Amendment Act 2003 (2003 No 119).
 
 ## Part 1  
 Breed of dog
@@ -3298,7 +3380,7 @@ Type of dog
 
 American Pit Bull Terrier
     
-*   Schedule 4 Part 1: amended, on 18 August 2011, by [clause 3][299] of the Dog Control (Perro de Presa Canario) Order 2010 (SR 2010/369).
+*   Schedule 4 Part 1: amended, on 18 August 2011, by [clause 3][300] of the Dog Control (Perro de Presa Canario) Order 2010 (SR 2010/369).
 
 ---
 
@@ -3310,7 +3392,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Dog Control Amendment Act 2003][300].
+*   (1) This Act is the [Dog Control Amendment Act 2003][301].
     
     (2) In this Act, the Dog Control Act 1996 is called ""the principal Act"".
 
@@ -3324,7 +3406,7 @@ Commencementsee section 2
     
     (4) The rest of this Act comes into force on 1 December 2003\.
     
-    Section 2(2): amended, on 7 July 2004, by [section 27(2)][301] of the Dog Control Amendment Act 2004 (2004 No 61).
+    Section 2(2): amended, on 7 July 2004, by [section 27(2)][302] of the Dog Control Amendment Act 2004 (2004 No 61).
 
 ## Part 5  
 Other related amendments
@@ -3343,7 +3425,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Dog Control Amendment Act 2006][302].
+*   This Act is the [Dog Control Amendment Act 2006][303].
 
 ##### 2 Commencement
     
@@ -3377,23 +3459,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Dog Control Act 1996\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Dog Control Act 1996\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][303] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][304] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][304] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][305] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][305] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][306] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][306] and [17E][307] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][307] and [17E][308] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3424,31 +3506,33 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Dog Control Amendment Act 2012][308] (2012 No 100)
+*   [Dog Control Amendment Act 2012][309] (2012 No 100)
     
     Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][157]
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 232][180], [233][258]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 232][180], [233][259]
     
-    Dog Control (Perro de Presa Canario) Order 2010 (SR 2010/369): [clause 3][299]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][184]
+    
+    [Dog Control (Perro de Presa Canario) Order 2010][310] (SR 2010/369)
     
     Private Security Personnel and Private Investigators Act 2010 (2010 No 115): [section 121(1)][158]
     
-    [Dog Control Amendment Act 2010][309] (2010 No 62)
+    [Dog Control Amendment Act 2010][311] (2010 No 62)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][225]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][226]
     
-    [Dog Control Amendment Act 2006][302] (2006 No 23)
+    [Dog Control Amendment Act 2006][303] (2006 No 23)
     
-    [Dog Control Amendment Act 2004][310] (2004 No 61)
+    [Dog Control Amendment Act 2004][312] (2004 No 61)
     
-    [Dog Control Amendment Act 2003][300] (2003 No 119)
+    [Dog Control Amendment Act 2003][301] (2003 No 119)
     
     Local Government Act 2002 (2002 No 84): [section 262][151]
     
-    Animal Welfare Act 1999 (1999 No 142): [sections 194][153], [198][226]
+    Animal Welfare Act 1999 (1999 No 142): [sections 194][153], [198][227]
     
-    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][311]
+    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][313]
     
     Customs and Excise Act 1996 (1996 No 27): [section 294(1)][156]
 
@@ -3638,131 +3722,133 @@ Commencementsee section 2
 [181]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229340
 [182]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303120
 [183]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373538
-[184]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229342
-[185]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229343
-[186]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229344
-[187]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM174049
-[188]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM173422
-[189]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM50295
-[190]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM50426
-[191]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM106092
-[192]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM38266
-[193]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM311856
-[194]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM311346
-[195]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229346
-[196]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303121
-[197]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229347
-[198]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229349
-[199]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303122
-[200]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303123
-[201]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229351
-[202]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303124
-[203]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229353
-[204]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373539
-[205]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229354
-[206]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303125
-[207]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373540
-[208]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229356
-[209]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373542
-[210]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3041805
-[211]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229364
-[212]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303126
-[213]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373543
-[214]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229367
-[215]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303127
-[216]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373545
-[217]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303128
-[218]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303129
-[219]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373546
-[220]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373552
-[221]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229375
-[222]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303130
-[223]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM297436
-[224]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303131
-[225]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM1102349
-[226]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM51970
-[227]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303132
-[228]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195534
-[229]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229376
-[230]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373553
-[231]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303135
-[232]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229379
-[233]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373554
-[234]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303136
-[235]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373555
-[236]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373556
-[237]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229382
-[238]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373558
-[239]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM315329
-[240]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229383
-[241]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373560
-[242]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303137
-[243]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303138
-[244]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229385
-[245]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373561
-[246]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229386
-[247]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229387
-[248]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229388
-[249]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229389
-[250]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229390
-[251]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229392
-[252]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229393
-[253]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303139
-[254]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136771
-[255]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136877
-[256]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136888
-[257]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136896
-[258]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136962
-[259]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229395
-[260]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229397
-[261]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229399
-[262]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230400
-[263]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303140
-[264]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230402
-[265]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230403
-[266]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303141
-[267]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM310742
-[268]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230404
-[269]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303142
-[270]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM51274
-[271]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303143
-[272]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303119
-[273]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373562
-[274]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373563
-[275]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230407
-[276]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373564
-[277]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230408
-[278]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303145
-[279]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM308411
-[280]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373567
-[281]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM163175
-[282]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM163137
-[283]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230410
-[284]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195551
-[285]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230411
-[286]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373569
-[287]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373571
-[288]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM415531
-[289]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM431685
-[290]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM298477
-[291]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM310749
-[292]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM314550
-[293]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM261821
-[294]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM261695
-[295]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM324284
-[296]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM163182
-[297]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM302282
-[298]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230418
-[299]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3282506
-[300]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229322
-[301]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303148
-[302]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373520
-[303]: http://www.pco.parliament.govt.nz/reprints/
-[304]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195439
-[305]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[306]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195468
-[307]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195470
-[308]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM4989804
-[309]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3041800
-[310]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303114
-[311]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM418619
+[184]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3360714
+[185]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229342
+[186]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229343
+[187]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229344
+[188]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM174049
+[189]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM173422
+[190]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM50295
+[191]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM50426
+[192]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM106092
+[193]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM38266
+[194]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3360592
+[195]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM311346
+[196]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229346
+[197]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303121
+[198]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229347
+[199]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229349
+[200]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303122
+[201]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303123
+[202]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229351
+[203]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303124
+[204]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229353
+[205]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373539
+[206]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229354
+[207]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303125
+[208]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373540
+[209]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229356
+[210]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373542
+[211]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3041805
+[212]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229364
+[213]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303126
+[214]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373543
+[215]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229367
+[216]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303127
+[217]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373545
+[218]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303128
+[219]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303129
+[220]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373546
+[221]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373552
+[222]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229375
+[223]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303130
+[224]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM297436
+[225]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303131
+[226]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM1102349
+[227]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM51970
+[228]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303132
+[229]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195534
+[230]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229376
+[231]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373553
+[232]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303135
+[233]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229379
+[234]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373554
+[235]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303136
+[236]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373555
+[237]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373556
+[238]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229382
+[239]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373558
+[240]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM315329
+[241]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229383
+[242]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373560
+[243]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303137
+[244]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303138
+[245]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229385
+[246]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373561
+[247]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229386
+[248]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229387
+[249]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229388
+[250]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229389
+[251]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229390
+[252]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229392
+[253]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229393
+[254]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303139
+[255]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136771
+[256]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136877
+[257]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136888
+[258]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136896
+[259]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM2136962
+[260]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229395
+[261]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229397
+[262]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229399
+[263]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230400
+[264]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303140
+[265]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230402
+[266]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230403
+[267]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3360057
+[268]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303141
+[269]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230404
+[270]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303142
+[271]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM51274
+[272]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303143
+[273]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303119
+[274]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373562
+[275]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373563
+[276]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230407
+[277]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373564
+[278]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230408
+[279]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303145
+[280]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM308411
+[281]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373567
+[282]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM163175
+[283]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM163137
+[284]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230410
+[285]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195551
+[286]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230411
+[287]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373569
+[288]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373571
+[289]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM415531
+[290]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM431685
+[291]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM298477
+[292]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM310749
+[293]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM314550
+[294]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM261821
+[295]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM261695
+[296]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM324284
+[297]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM163182
+[298]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM302282
+[299]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM230418
+[300]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3282506
+[301]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM229322
+[302]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303148
+[303]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM373520
+[304]: http://www.pco.parliament.govt.nz/reprints/
+[305]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195439
+[306]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[307]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195468
+[308]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM195470
+[309]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM4989804
+[310]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3282500
+[311]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM3041800
+[312]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM303114
+[313]: http://www.legislation.govt.nz/act/public/1996/0013/latest/link.aspx?id=DLM418619
