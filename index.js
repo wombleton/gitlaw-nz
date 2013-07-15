@@ -83,7 +83,6 @@ function downloadAct(task, callback) {
 
     console.log("Requesting %s with %d items still in the queue and %d workers.", uri, actQueue.length(), actQueue.concurrency);
     request({
-        timeout: 15000,
         uri: uri
     }, function(err, response, body) {
         var $,
