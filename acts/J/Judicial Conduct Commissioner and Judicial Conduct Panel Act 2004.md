@@ -1,7 +1,7 @@
 Reprint  
-as at 23 March 2010
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004Public Act2004 No 38
 
@@ -23,93 +23,93 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Preliminary provisions][3]
 
-[3][4] [Overview of process][4]
+[3][4][][4][Overview of process][4]
 
-[4][5] [Purpose][5]
+[4][5][][5][Purpose][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [This Act binds the Crown][7]
+[6][7][][7][This Act binds the Crown][7]
 
 [Judicial Conduct Commissioner and Deputy Judicial Conduct Commissioner][8]
 
-[7][9] [Judicial Conduct Commissioner][9]
+[7][9][][9][Judicial Conduct Commissioner][9]
 
-[8][10] [Functions and powers of Commissioner][10]
+[8][10][][10][Functions and powers of Commissioner][10]
 
-[8A][11] [Deputy Judicial Conduct Commissioner][11]
+[8A][11][][11][Deputy Judicial Conduct Commissioner][11]
 
-[8B][12] [Function and powers of Deputy Commissioner][12]
+[8B][12][][12][Function and powers of Deputy Commissioner][12]
 
-[9][13] [Duty to act independently][13]
+[9][13][][13][Duty to act independently][13]
 
-[10][14] [Other provisions relating to Commissioner and Deputy Commissioner][14]
+[10][14][][14][Other provisions relating to Commissioner and Deputy Commissioner][14]
 
 [Complaints about Judges][15]
 
-[11][16] [Which complaints must be dealt with][16]
+[11][16][][16][Which complaints must be dealt with][16]
 
-[12][17] [Who may complain][17]
+[12][17][][17][Who may complain][17]
 
-[13][18] [How to complain][18]
+[13][18][][18][How to complain][18]
 
-[14][19] [Commissioner must acknowledge complaint and deal with it promptly][19]
+[14][19][][19][Commissioner must acknowledge complaint and deal with it promptly][19]
 
-[15][20] [Commissioner must conduct preliminary examination][20]
+[15][20][][20][Commissioner must conduct preliminary examination][20]
 
-[15A][21] [Commissioner's power in certain circumstances to take no further action in respect of complaints][21]
+[15A][21][][21][Commissioner's power in certain circumstances to take no further action in respect of complaints][21]
 
-[16][22] [Commissioner must dismiss complaints that fail to meet required threshold][22]
+[16][22][][22][Commissioner must dismiss complaints that fail to meet required threshold][22]
 
-[17][23] [Commissioner's power to refer complaints to Head of Bench][23]
+[17][23][][23][Commissioner's power to refer complaints to Head of Bench][23]
 
-[18][24] [Commissioner's power to recommend that Attorney-General appoint Judicial Conduct Panel][24]
+[18][24][][24][Commissioner's power to recommend that Attorney-General appoint Judicial Conduct Panel][24]
 
-[19][25] [Commissioner's duty of confidentiality][25]
+[19][25][][25][Commissioner's duty of confidentiality][25]
 
-[20][26] [Commissioner must make files available to Attorney-General and special counsel][26]
+[20][26][][26][Commissioner must make files available to Attorney-General and special counsel][26]
 
 [Judicial Conduct Panel][27]
 
-[21][28] [Appointment of Judicial Conduct Panel][28]
+[21][28][][28][Appointment of Judicial Conduct Panel][28]
 
-[22][29] [Membership of Panel][29]
+[22][29][][29][Membership of Panel][29]
 
-[23][30] [Panel must be dissolved if member unable to continue][30]
+[23][30][][30][Panel must be dissolved if member unable to continue][30]
 
-[24][31] [Functions of Panel][31]
+[24][31][][31][Functions of Panel][31]
 
-[25][32] [Other provisions relating to administration and meetings of Panels][32]
+[25][32][][32][Other provisions relating to administration and meetings of Panels][32]
 
-[26][33] [Power of Panel to conduct hearings and inquiries][33]
+[26][33][][33][Power of Panel to conduct hearings and inquiries][33]
 
-[27][34] [Representation at hearing][34]
+[27][34][][34][Representation at hearing][34]
 
-[28][35] [Special counsel][35]
+[28][35][][35][Special counsel][35]
 
-[29][36] [Hearing to be in public][36]
+[29][36][][36][Hearing to be in public][36]
 
-[30][37] [Restrictions on publication][37]
+[30][37][][37][Restrictions on publication][37]
 
-[31][38] [Appeal to Court of Appeal][38]
+[31][38][][38][Appeal to Court of Appeal][38]
 
-[32][39] [Report by Panel][39]
+[32][39][][39][Report by Panel][39]
 
-[33][40] [Attorney-General has discretion to initiate removal of Judge on receipt of report][40]
+[33][40][][40][Attorney-General has discretion to initiate removal of Judge on receipt of report][40]
 
-[34][41] [Attorney-General's power to take steps independently of this Act if Judge convicted of serious offence][41]
+[34][41][][41][Attorney-General's power to take steps independently of this Act if Judge convicted of serious offence][41]
 
-[35][42] [Official Information Act 1982 amended][42]
+[35][42][][42][Official Information Act 1982 amended][42]
 
 [Savings provision][43]
 
-[36][44] [Amendments do not apply to certain complaints][44]
+[36][44][][44][Amendments do not apply to certain complaints][44]
 
 [Schedule 1][45]  
 [Overview of process for Judicial Conduct Commissioner and Judicial Conduct Panel][45]
@@ -771,13 +771,15 @@ This Act is administered by the Ministry of Justice.
     
     (5) A person commits an offence if he or she acts in contravention of any order made under this section by a Panel.
     
-    (6) A person who commits an offence against subsection (5) is liable on summary conviction,---
+    (6) A person who commits an offence against subsection (5) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $3,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
     Compare: 1993 No 82 [s 107][79]
+    
+    Section 30(6): amended, on 1 July 2013, by [section 413][80] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31 Appeal to Court of Appeal
     
@@ -801,7 +803,7 @@ This Act is administered by the Ministry of Justice.
         
     *   (a) by way of rehearing; and
     
-    *   (b) made within the time, in the form, and in the manner prescribed by rules of court made under [section 51C][80] of the Judicature Act 1908\.
+    *   (b) made within the time, in the form, and in the manner prescribed by rules of court made under [section 51C][81] of the Judicature Act 1908\.
     
     (4) For the purposes of the appeal, the Court of Appeal has all the powers of a Panel and may make any orders it thinks fit.
     
@@ -845,17 +847,17 @@ This Act is administered by the Ministry of Justice.
 
 ##### 35 Official Information Act 1982 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][81]._
+*   _Amendment(s) incorporated in the [Act(s)][82]._
 
 #### Savings provision
     
-*   Heading: added, on 23 March 2010, by [section 14][82] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
+*   Heading: added, on 23 March 2010, by [section 14][83] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
 
 ##### 36 Amendments do not apply to certain complaints
     
-*   Complaints made before the commencement of the [Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010][83] must be dealt with as if that Act had not been enacted.
+*   Complaints made before the commencement of the [Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010][84] must be dealt with as if that Act had not been enacted.
     
-    Section 36: added, on 23 March 2010, by [section 14][82] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
+    Section 36: added, on 23 March 2010, by [section 14][83] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
 
 ---
 
@@ -950,13 +952,13 @@ Judicial Conduct Commissioner and Deputy Judicial Conduct Commissioner
     
     (4) Nothing in subclause (2) or subclause (3) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][69] or [section 78A(1)][70] or [section 105][72] or [section 105A][84] or [section 105B][85] of the Crimes Act 1961 or against [section 20A][71] of the Summary Offences Act 1981; or
+    *   (a) an offence against [section 78][69] or [section 78A(1)][70] or [section 105][72] or [section 105A][85] or [section 105B][86] of the Crimes Act 1961 or against [section 20A][71] of the Summary Offences Act 1981; or
     
-    *   (b) the offence of attempting or conspiring to commit an offence against [section 78][69] or [section 78A(1)][70] or [section 105][72] or [section 105A][84] or [section 105B][85] of the Crimes Act 1961 or against [section 20A][71] of the Summary Offences Act 1981\.
+    *   (b) the offence of attempting or conspiring to commit an offence against [section 78][69] or [section 78A(1)][70] or [section 105][72] or [section 105A][85] or [section 105B][86] of the Crimes Act 1961 or against [section 20A][71] of the Summary Offences Act 1981\.
     
     (5) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commissioner or the Deputy Commissioner under this Act is privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
     
-    (6) For the purposes of [clause 3][86] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner or the Deputy Commissioner under this Act is deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+    (6) For the purposes of [clause 3][87] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner or the Deputy Commissioner under this Act is deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
     
     Schedule 2 clause 4 heading: amended, on 23 March 2010, by [section 9(3)][63] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
     
@@ -1059,13 +1061,13 @@ Judicial Conduct Panel
 
 ##### 11 Members protected
     
-*   [Clause 4][87], with the necessary modifications, applies in relation to a member of a Judicial Conduct Panel.
+*   [Clause 4][88], with the necessary modifications, applies in relation to a member of a Judicial Conduct Panel.
 
 ##### 12 Salary and allowances
     
 *   (1) The members of a Judicial Conduct Panel (other than a Judge) must be paid the remuneration and allowances that the Remuneration Authority determines.
     
-    (2) The members of the Panel (other than a Judge) are entitled to receive from the department referred to in [clause 13][88] the actual and reasonable costs for travelling and other expenses that relate to the performance of their duties and responsibilities.
+    (2) The members of the Panel (other than a Judge) are entitled to receive from the department referred to in [clause 13][89] the actual and reasonable costs for travelling and other expenses that relate to the performance of their duties and responsibilities.
     
     (3) The Remuneration Authority may (without limitation)---
         
@@ -1121,13 +1123,13 @@ Judicial Conduct Panel
 
 ###### 1 General
     
-*   This is a reprint of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004\. The reprint incorporates all the amendments to the Act as at 23 March 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][89] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][90] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -1137,7 +1139,7 @@ Judicial Conduct Panel
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][90] and [17E][91] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][91] and [17E][92] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1168,7 +1170,9 @@ Judicial Conduct Panel
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010][83] (2010 No 5)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][80]
+    
+    [Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010][84] (2010 No 5)
     
     Court Martial Act 2007 (2007 No 101): [section 87][52]
     
@@ -1262,15 +1266,16 @@ Judicial Conduct Panel
 [77]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM139145
 [78]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM139153
 [79]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM305413
-[80]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM146607
-[81]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM64790
-[82]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM1216631
-[83]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM1216600
-[84]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM328755
-[85]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM328758
-[86]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM281290
-[87]: http://www.legislation.govt.nz/act/public/2004/0038/latest/whole.html#DLM293726
-[88]: http://www.legislation.govt.nz/act/public/2004/0038/latest/whole.html#DLM293737
-[89]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM195439
-[90]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM195468
-[91]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM195470
+[80]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM3360714
+[81]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM146607
+[82]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM64790
+[83]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM1216631
+[84]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM1216600
+[85]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM328755
+[86]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM328758
+[87]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM281290
+[88]: http://www.legislation.govt.nz/act/public/2004/0038/latest/whole.html#DLM293726
+[89]: http://www.legislation.govt.nz/act/public/2004/0038/latest/whole.html#DLM293737
+[90]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM195439
+[91]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM195468
+[92]: http://www.legislation.govt.nz/act/public/2004/0038/latest/link.aspx?id=DLM195470
