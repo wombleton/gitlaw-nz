@@ -1,7 +1,7 @@
 Reprint  
-as at 1 October 2008
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Interpretation Act 1999Public Act1999 No 85
 
@@ -13,9 +13,9 @@ Commencementsee section 3
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -25,117 +25,117 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
 [Part 1][3]  
 [Purposes, commencement, and application][3]
 
-[2][4] [Purposes of this Act][4]
+[2][4][][4][Purposes of this Act][4]
 
-[3][5] [Commencement][5]
+[3][5][][5][Commencement][5]
 
-[4][6] [Application][6]
+[4][6][][6][Application][6]
 
 [Part 2][7]  
 [Principles of interpretation][7]
 
-[5][8] [Ascertaining meaning of legislation][8]
+[5][8][][8][Ascertaining meaning of legislation][8]
 
-[6][9] [Enactments apply to circumstances as they arise][9]
+[6][9][][9][Enactments apply to circumstances as they arise][9]
 
-[7][10] [Enactments do not have retrospective effect][10]
+[7][10][][10][Enactments do not have retrospective effect][10]
 
 [Part 3][11]  
 [Specific provisions applying to legislation][11]
 
 [Commencement of legislation][12]
 
-[8][13] [Date of commencement of Acts][13]
+[8][13][][13][Date of commencement of Acts][13]
 
-[9][14] [Date of commencement of regulations][14]
+[9][14][][14][Date of commencement of regulations][14]
 
-[10][15] [Time of commencement of legislation][15]
+[10][15][][15][Time of commencement of legislation][15]
 
 [Exercise of powers between passing and commencement of legislation][16]
 
-[11][17] [Exercise of powers between passing and commencement of legislation][17]
+[11][17][][17][Exercise of powers between passing and commencement of legislation][17]
 
 [Exercise of powers in legislation generally][18]
 
-[12][19] [Power to appoint to an office][19]
+[12][19][][19][Power to appoint to an office][19]
 
-[13][20] [Power to correct errors][20]
+[13][20][][20][Power to correct errors][20]
 
-[14][21] [Exercise of powers by deputies][21]
+[14][21][][21][Exercise of powers by deputies][21]
 
-[15][22] [Power to amend or revoke][22]
+[15][22][][22][Power to amend or revoke][22]
 
-[16][23] [Exercise of powers and duties more than once][23]
+[16][23][][23][Exercise of powers and duties more than once][23]
 
 [Repeals][24]
 
-[17][25] [Effect of repeal generally][25]
+[17][25][][25][Effect of repeal generally][25]
 
-[18][26] [Effect of repeal on enforcement of existing rights][26]
+[18][26][][26][Effect of repeal on enforcement of existing rights][26]
 
-[19][27] [Effect of repeal on prior offences and breaches of enactments][27]
+[19][27][][27][Effect of repeal on prior offences and breaches of enactments][27]
 
-[20][28] [Enactments made under repealed legislation to have continuing effect][28]
+[20][28][][28][Enactments made under repealed legislation to have continuing effect][28]
 
-[21][29] [Powers exercised under repealed legislation to have continuing effect][29]
+[21][29][][29][Powers exercised under repealed legislation to have continuing effect][29]
 
-[22][30] [References to repealed enactment][30]
+[22][30][][30][References to repealed enactment][30]
 
 [Amending legislation][31]
 
-[23][32] [Amending enactment part of enactment amended][32]
+[23][32][][32][Amending enactment part of enactment amended][32]
 
 [Authority to make certain enactments][33]
 
-[24][34] [Authority to make certain enactments][34]
+[24][34][][34][Authority to make certain enactments][34]
 
-[25][35] [Amendment and revocation of regulations made by Act][35]
+[25][35][][35][Amendment and revocation of regulations made by Act][35]
 
 [Forms][36]
 
-[26][37] [Use of prescribed forms][37]
+[26][37][][37][Use of prescribed forms][37]
 
 [Part 4][38]  
 [Application of legislation to the Crown][38]
 
-[27][39] [Enactments not binding on the Crown][39]
+[27][39][][39][Enactments not binding on the Crown][39]
 
-[28][40] [Review of this Part][40]
+[28][40][][40][Review of this Part][40]
 
 [Part 5][41]  
 [Meaning of terms and expressions in legislation][41]
 
-[29][42] [Definitions][42]
+[29][42][][42][Definitions][42]
 
-[29A][43] [Meaning of de facto relationship][43]
+[29A][43][][43][Meaning of de facto relationship][43]
 
-[29B][44] [Meaning of step-parent, etc][44]
+[29B][44][][44][Meaning of step-parent, etc][44]
 
-[30][45] [Definitions in enactments passed or made before commencement of this Act][45]
+[30][45][][45][Definitions in enactments passed or made before commencement of this Act][45]
 
-[31][46] [Use of masculine gender in enactments passed or made before commencement of this Act][46]
+[31][46][][46][Use of masculine gender in enactments passed or made before commencement of this Act][46]
 
-[32][47] [Parts of speech and grammatical forms][47]
+[32][47][][47][Parts of speech and grammatical forms][47]
 
-[33][48] [Numbers][48]
+[33][48][][48][Numbers][48]
 
-[34][49] [Meaning of words and expressions used in regulations and other instruments][49]
+[34][49][][49][Meaning of words and expressions used in regulations and other instruments][49]
 
-[35][50] [Time][50]
+[35][50][][50][Time][50]
 
-[36][51] [Distance][51]
+[36][51][][51][Distance][51]
 
 [Part 6][52]  
 [Amendments and repeals][52]
 
-[37][53] [Amendments to other Acts][53]
+[37][53][][53][Amendments to other Acts][53]
 
-[38][54] [Repeals and saving][54]
+[38][54][][54][Repeals and saving][54]
 
 [Schedule 1][55]  
 [Amendments to other Acts][55]
@@ -448,8 +448,6 @@ Meaning of terms and expressions in legislation
     
     _commencement_, in relation to an enactment, means the time when the enactment comes into force
     
-    _committed for trial_ means committed to the High Court or a District Court under the [Summary Proceedings Act 1957][58]
-    
     _Commonwealth country_ and _part of the Commonwealth_ mean a country that is a member of the Commonwealth; and include a territory for the international relations of which the member is responsible
     
     _consular officer_ means a person who has authority to exercise consular functions
@@ -494,7 +492,7 @@ Meaning of terms and expressions in legislation
     
     *   (d) regulations, rules, or an instrument made under an Imperial Act or the Royal prerogative and having the force of law in New Zealand:
     
-    *   (e) an instrument that is a regulation or that is required to be treated as a regulation for the purposes of the Regulations Act 1936 or the [Acts and Regulations Publication Act 1989][59] or the [Regulations (Disallowance) Act 1989][60]:
+    *   (e) an instrument that is a legislative instrument or a disallowable instrument for the purposes of the [Legislation Act 2012][58]:
     
     *   (f) an instrument that revokes regulations, rules, bylaws, an Order in Council, a Proclamation, a notice, a Warrant, or an instrument, referred to in paragraphs (a) to (e)
     
@@ -503,8 +501,6 @@ Meaning of terms and expressions in legislation
     _rules of court_, in relation to a court, means rules regulating the practice and procedure of the court
     
     _South Island_ means the island commonly known as the ""South Island""; and includes the islands adjacent to it south of Cook Strait
-    
-    _summary conviction_ means a conviction by a District Court Judge or by 1 or more Justices of the Peace in accordance with the [Summary Proceedings Act 1957][58]
     
     _territorial limits of New Zealand_, _limits of New Zealand_, or a similar expression, when used as a territorial description, means the outer limits of the territorial sea of New Zealand
     
@@ -522,7 +518,13 @@ Meaning of terms and expressions in legislation
     
     Compare: 1924 No 11 s 4
     
-    Section 29 **de facto partner**: inserted, on 26 April 2005, by [section 3][61] of the Interpretation Amendment Act 2005 (2005 No 13).
+    Section 29 **committed for trial**: repealed, on 1 July 2013, by [section 413][59] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 29 **de facto partner**: inserted, on 26 April 2005, by [section 3][60] of the Interpretation Amendment Act 2005 (2005 No 13).
+    
+    Section 29 **regulations** paragraph (e): replaced, on 5 August 2013, by [section 77(4)][61] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 29 **summary conviction**: repealed, on 1 July 2013, by [section 413][59] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 29 **writing**: substituted, on 21 November 2003, by [section 38][62] of the Electronic Transactions Act 2002 (2002 No 35).
 
@@ -642,7 +644,7 @@ _Amendment(s) incorporated in the [Act(s)][67]._
 
 ##### Regulations (Disallowance) Act 1989 (1989 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][60]._
+_Amendment(s) incorporated in the [Act(s)][68]._
 
 ---
 
@@ -653,7 +655,7 @@ Enactments repealed
 
 ##### Acts and Regulations Publication Act 1989 (1989 No 142) (RS Vol 31, p 36)
 
-_Amendment(s) incorporated in the [Act(s)][59]._
+_Amendment(s) incorporated in the [Act(s)][69]._
 
 ##### Acts Interpretation Act 1924 (1924 No 11) (RS Vol 31, p 1)
 
@@ -679,11 +681,11 @@ _Amendment(s) incorporated in the [Act(s)][59]._
 
 ##### Finance Act (No 2) 1952 (1952 No 81) (RS Vol 31, p 31)
 
-_Amendment(s) incorporated in the [Act(s)][68]._
+_Amendment(s) incorporated in the [Act(s)][70]._
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (RS Vol 31, p 30)
 
-_Amendment(s) incorporated in the [Act(s)][69]._
+_Amendment(s) incorporated in the [Act(s)][71]._
 
 ##### Statutes Amendment Act 1942 (1942 No 18) (RS Vol 31, p 30)
 
@@ -691,80 +693,41 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1945 (1945 No 40) (RS Vol 31, p 31)
 
-_Amendment(s) incorporated in the [Act(s)][70]._
+_Amendment(s) incorporated in the [Act(s)][72]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Interpretation Act 1999\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Interpretation Act 1999 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][71] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][73] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][74] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][75] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][76] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][72] and [17E][73] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(4)][61]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][59]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Policing Act 2008 (2008 No 72): [section 130(1)][65]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Policing Act 2008 (2008 No 72): [section 130(1)][65]
-    
-    [Interpretation Amendment Act 2005][74] (2005 No 13)
+    [Interpretation Amendment Act 2005][77] (2005 No 13)
     
     Electronic Transactions Act 2002 (2002 No 35): [section 38][62]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1999/0085/latest/whole.html#DLM31461
 [2]: http://www.legislation.govt.nz/act/public/1999/0085/latest/whole.html#DLM31463
 [3]: http://www.legislation.govt.nz/act/public/1999/0085/latest/whole.html#DLM31464
@@ -822,20 +785,23 @@ _Amendment(s) incorporated in the [Act(s)][70]._
 [55]: http://www.legislation.govt.nz/act/public/1999/0085/latest/whole.html#DLM31886
 [56]: http://www.legislation.govt.nz/act/public/1999/0085/latest/whole.html#DLM31890
 [57]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM221343
-[58]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM310742
-[59]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195097
-[60]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195534
-[61]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335987
+[58]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2997643
+[59]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM3360714
+[60]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335987
+[61]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998633
 [62]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM154858
 [63]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM317601
 [64]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335990
 [65]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM1102383
 [66]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM1325506
 [67]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM135073
-[68]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM275648
-[69]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM221336
-[70]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM238797
-[71]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195439
-[72]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195468
-[73]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195470
-[74]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335981
+[68]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195534
+[69]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195097
+[70]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM275648
+[71]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM221336
+[72]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM238797
+[73]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998516
+[74]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998515
+[75]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998532
+[76]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[77]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335981
