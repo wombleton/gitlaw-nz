@@ -1,5 +1,5 @@
 Reprint  
-as at 29 November 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,101 +23,99 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[Title][1]
+[Title][1] \[Repealed\]
 
-\[Repealed\]
+[1][2][][2][Short Title][2]
 
-[1][2] [Short Title][2]
-
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Part 1][4]  
 [Prosecution of crimes of torture][4]
 
-[2A][5] [Purpose of this Part][5]
+[2A][5][][5][Purpose of this Part][5]
 
-[3][6] [Acts of torture][6]
+[3][6][][6][Acts of torture][6]
 
-[4][7] [Jurisdiction in respect of acts of torture][7]
+[4][7][][7][Jurisdiction in respect of acts of torture][7]
 
-[5][8] [Attorney-General to consider question of compensation][8]
+[5][8][][8][Attorney-General to consider question of compensation][8]
 
-[6][9] [Extradition Act 1965 amended][9] \[Repealed\]
+[6][9][][9][Extradition Act 1965 amended][9] \[Repealed\]
 
-[7][10] [Fugitive Offenders Act 1881 amended][10] \[Repealed\]
+[7][10][][10][Fugitive Offenders Act 1881 amended][10] \[Repealed\]
 
-[8][11] [Crimes deemed to be included in extradition treaties][11]
+[8][11][][11][Crimes deemed to be included in extradition treaties][11]
 
-[9][12] [Surrender of offenders][12] \[Repealed\]
+[9][12][][12][Surrender of offenders][12] \[Repealed\]
 
-[10][13] [Restrictions on surrender of offenders][13] \[Repealed\]
+[10][13][][13][Restrictions on surrender of offenders][13] \[Repealed\]
 
-[11][14] [Restrictions on surrender][14]
+[11][14][][14][Restrictions on surrender][14]
 
-[12][15] [Attorney-General's consent required to prosecutions][15]
+[12][15][][15][Attorney-General's consent required to prosecutions][15]
 
-[13][16] [Evidence][16]
+[13][16][][16][Evidence][16]
 
-[14][17] [Application of certain provisions of Crimes Act 1961][17]
+[14][17][][17][Application of certain provisions of Crimes Act 1961][17]
 
 [Part 2][18]  
 [Prevention of crimes of torture][18]
 
 [Preliminary provisions][19]
 
-[15][20] [Purpose of this Part][20]
+[15][20][][20][Purpose of this Part][20]
 
-[16][21] [Interpretation][21]
+[16][21][][21][Interpretation][21]
 
 [Visits by Subcommittee][22]
 
-[17][23] [Purpose of sections 18 to 20][23]
+[17][23][][23][Purpose of sections 18 to 20][23]
 
-[18][24] [Subcommittee's access to information][24]
+[18][24][][24][Subcommittee's access to information][24]
 
-[19][25] [Subcommittee's access to places of detention and persons detained][25]
+[19][25][][25][Subcommittee's access to places of detention and persons detained][25]
 
-[20][26] [Subcommittee may conduct interviews][26]
+[20][26][][26][Subcommittee may conduct interviews][26]
 
-[21][27] [Experts may accompany Subcommittee][27]
+[21][27][][27][Experts may accompany Subcommittee][27]
 
-[22][28] [Objection to visit by Subcommittee][28]
+[22][28][][28][Objection to visit by Subcommittee][28]
 
-[23][29] [Appointment of New Zealand officials][29]
+[23][29][][29][Appointment of New Zealand officials][29]
 
-[24][30] [Identification certificates][30]
+[24][30][][30][Identification certificates][30]
 
-[25][31] [Ministerial directions][31]
+[25][31][][31][Ministerial directions][31]
 
 [National Preventive Mechanisms][32]
 
-[26][33] [Designation of National Preventive Mechanisms][33]
+[26][33][][33][Designation of National Preventive Mechanisms][33]
 
-[27][34] [Functions of National Preventive Mechanism][34]
+[27][34][][34][Functions of National Preventive Mechanism][34]
 
-[28][35] [National Preventive Mechanism's access to information][35]
+[28][35][][35][National Preventive Mechanism's access to information][35]
 
-[29][36] [National Preventive Mechanism's access to places of detention and persons detained][36]
+[29][36][][36][National Preventive Mechanism's access to places of detention and persons detained][36]
 
-[30][37] [National Preventive Mechanism may conduct interviews][37]
+[30][37][][37][National Preventive Mechanism may conduct interviews][37]
 
 [Central National Preventive Mechanism][38]
 
-[31][39] [Designation of Central National Preventive Mechanism][39]
+[31][39][][39][Designation of Central National Preventive Mechanism][39]
 
-[32][40] [Functions of Central National Preventive Mechanism][40]
+[32][40][][40][Functions of Central National Preventive Mechanism][40]
 
 [Miscellaneous provisions][41]
 
-[33][42] [Confidentiality of information][42]
+[33][42][][42][Confidentiality of information][42]
 
-[34][43] [Powers of National Preventive Mechanism][43]
+[34][43][][43][Powers of National Preventive Mechanism][43]
 
-[35][44] [Protections, privileges, and immunities][44]
+[35][44][][44][Protections, privileges, and immunities][44]
 
-[36][45] [Publication of National Preventive Mechanism report][45]
+[36][45][][45][Publication of National Preventive Mechanism report][45]
 
-[37][46] [This Part not limited by other Acts][46]
+[37][46][][46][This Part not limited by other Acts][46]
 
 [Schedule 1][47]  
 [Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment][47]
@@ -127,9 +125,7 @@ This Act is administered by the Ministry of Justice.
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
 *   Title: repealed, on 5 December 2006, by [section 4][49] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
 
@@ -159,9 +155,7 @@ Title
     
     _the Convention_ means the Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, adopted by the General Assembly of the United Nations on 10 December 1984, a copy of the English text of which is set out in [Schedule 1][47]
     
-    _conviction on indictment_ has the same meaning as in [section 3][50] of the Crimes Act 1961
-    
-    _New Zealand_ includes all waters within the outer limits of the territorial sea of New Zealand (as defined by [section 3][51] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
+    _New Zealand_ includes all waters within the outer limits of the territorial sea of New Zealand (as defined by [section 3][50] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
     
     _public official_ means---
         
@@ -169,11 +163,11 @@ Title
             
         *   (i) a member of any of the Armed Forces of New Zealand; and
         
-        *   (ii) a judicial officer and a law enforcement officer within the meaning of [Part 6][52] of the Crimes Act 1961; and
+        *   (ii) a judicial officer and a law enforcement officer within the meaning of [Part 6][51] of the Crimes Act 1961; and
         
-        *   (iii) an officer within the meaning of the [Corrections Act 2004][53]; and
+        *   (iii) an officer within the meaning of the [Corrections Act 2004][52]; and
         
-        *   (iiia) a security officer within the meaning of the [Corrections Act 2004][53]; and
+        *   (iiia) a security officer within the meaning of the [Corrections Act 2004][52]; and
         
         *   (iv) a member and an employee of any local authority or public body; and
         
@@ -183,7 +177,9 @@ Title
     
     (2) Unless the context otherwise requires, an expression that is used both in this Act and in the Convention has, in this Act, the same meaning as it has in the Convention.
     
-    Section 2(1) **the Convention**: amended, on 5 December 2006, by [section 5][54] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
+    Section 2(1) **the Convention**: amended, on 5 December 2006, by [section 5][53] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
+    
+    Section 2(1) **conviction on indictment**: repealed, on 1 July 2013, by [section 413][54] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 2(1) **Fugitive Offenders Act 1881**: repealed, on 1 September 1999, by [section 111][55] of the Extradition Act 1999 (1999 No 55).
     
@@ -208,7 +204,7 @@ Prosecution of crimes of torture
 
 ##### 3 Acts of torture
     
-*   (1) Every person is liable upon conviction on indictment to imprisonment for a term not exceeding 14 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,---
+*   (1) Every person is liable upon conviction to imprisonment for a term not exceeding 14 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,---
         
     *   (a) commits an act of torture; or
     
@@ -218,7 +214,7 @@ Prosecution of crimes of torture
     
     *   (d) incites, counsels, or procures any person to commit an act of torture.
     
-    (2) Every person is liable upon conviction on indictment to imprisonment for a term not exceeding 10 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,---
+    (2) Every person is liable upon conviction to imprisonment for a term not exceeding 10 years who, being a person to whom this section applies or acting at the instigation or with the consent or acquiescence of such a person, whether in or outside New Zealand,---
         
     *   (a) attempts to commit an act of torture; or
     
@@ -227,6 +223,10 @@ Prosecution of crimes of torture
     *   (c) is an accessory after the fact to an act of torture.
     
     (3) This section applies to any person who is a public official or who is acting in an official capacity.
+    
+    Section 3(1): amended, on 1 July 2013, by [section 413][54] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 3(2): amended, on 1 July 2013, by [section 413][54] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 4 Jurisdiction in respect of acts of torture
     
@@ -1405,7 +1405,7 @@ When visiting a State Party, the members of the Subcommittee on Prevention shall
 
 ###### 1 General
     
-*   This is a reprint of the Crimes of Torture Act 1989\. The reprint incorporates all the amendments to the Act as at 29 November 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Crimes of Torture Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][82] ![](/images/external_link.gif).
 
@@ -1452,7 +1452,9 @@ When visiting a State Party, the members of the Subcommittee on Prevention shall
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Immigration Act 2009 (2009 No 51): [section 406(1)][75]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][54]
+    
+    Immigration Act 2009 (2009 No 51): [section 406(1)][75]
     
     Court Martial Act 2007 (2007 No 101): [section 87][74]
     
@@ -1522,11 +1524,11 @@ When visiting a State Party, the members of the Subcommittee on Prevention shall
 [47]: http://www.legislation.govt.nz/act/public/1989/0106/latest/whole.html#DLM193235
 [48]: http://www.legislation.govt.nz/act/public/1989/0106/latest/whole.html#DLM193285
 [49]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM392795
-[50]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM328016
-[51]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM442665
-[52]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM328728
-[53]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM294848
-[54]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM392796
+[50]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM442665
+[51]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM328728
+[52]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM294848
+[53]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM392796
+[54]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM3360714
 [55]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM27330
 [56]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM297136
 [57]: http://www.legislation.govt.nz/act/public/1989/0106/latest/link.aspx?id=DLM392797
