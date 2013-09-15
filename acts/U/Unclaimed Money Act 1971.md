@@ -1,5 +1,5 @@
 Reprint  
-as at 7 July 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -314,21 +314,25 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     provided that the Commissioner may make available for publication the names of owners of unclaimed money paid to the Commissioner under this Act or any former Act and the amounts received belonging to those owners.
     
-    (2) Every person who wilfully acts in contravention of the provisions of this section is liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200\.
+    (2) Every person who wilfully acts in contravention of the provisions of this section is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200\.
     
     Compare: 1932 No 11 [s 31(4), (5)][43]
+    
+    Section 12(2): amended, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 12(2): amended, on 1 April 1980, pursuant to [section 18(2)][39] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 13 Offences
     
-*   Every person commits an offence, and is liable on summary conviction to a fine not exceeding $500, who wilfully or negligently---
+*   Every person commits an offence, and is liable on conviction to a fine not exceeding $500, who wilfully or negligently---
         
     *   (a) being a holder, fails to comply with any provision of [section 6][7], [section 7][8], subsection (1) of [section 8][9], or [section 10][11], or with any condition on which the Commissioner has granted exemption under [section 9][10]; or
     
     *   (b) being a director, manager, secretary, or other officer of the holder, authorises or permits that failure to comply.
     
-    Compare: 1932 No 11 [ss 29(1)][44], [31(5)][43]
+    Compare: 1932 No 11 [ss 29(1)][45], [31(5)][43]
+    
+    Section 13: amended, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Consequential amendments
     
@@ -342,9 +346,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (6) Subject to [section 11][12], the enactments amended by this section shall continue to apply, as if this Act had not been passed, to all money which before the commencement of this Act has become unclaimed money under any provision of any such enactment.
     
-    Section 14(3): repealed, on 1 April 1983, by [section 193(1)][45] of the Law Practitioners Act 1982 (1982 No 123).
+    Section 14(3): repealed, on 1 April 1983, by [section 193(1)][46] of the Law Practitioners Act 1982 (1982 No 123).
     
-    Section 14(4): repealed, on 1 April 1983, by [section 193(1)][45] of the Law Practitioners Act 1982 (1982 No 123).
+    Section 14(4): repealed, on 1 April 1983, by [section 193(1)][46] of the Law Practitioners Act 1982 (1982 No 123).
     
     Section 14(5): repealed, on 1 July 1994, by section 63 of the Companies Amendment Act 1993 (1993 No 108).
 
@@ -387,23 +391,23 @@ Register of money unclaimed held by \[_name of holder_\] on 1 June \[_year_\]
 
 ###### 1 General
     
-*   This is a reprint of the Unclaimed Money Act 1971\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Unclaimed Money Act 1971\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][46] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][47] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][47] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][48] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][48] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][49] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][49] and [17E][50] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][50] and [17E][51] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -434,7 +438,9 @@ Register of money unclaimed held by \[_name of holder_\] on 1 June \[_year_\]
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][36]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][44]
+    
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][36]
     
     Real Estate Agents Act 2008 (2008 No 66): [section 173][33]
     
@@ -462,7 +468,7 @@ Register of money unclaimed held by \[_name of holder_\] on 1 June \[_year_\]
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][18]
     
-    Law Practitioners Act 1982 (1982 No 123): [section 193(1)][45]
+    Law Practitioners Act 1982 (1982 No 123): [section 193(1)][46]
     
     District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][39]
 
@@ -512,10 +518,11 @@ Register of money unclaimed held by \[_name of holder_\] on 1 June \[_year_\]
 [41]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212803
 [42]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM163167
 [43]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212804
-[44]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212802
-[45]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM63909
-[46]: http://www.pco.parliament.govt.nz/reprints/
-[47]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195439
-[48]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[49]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195468
-[50]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195470
+[44]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3360714
+[45]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212802
+[46]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM63909
+[47]: http://www.pco.parliament.govt.nz/reprints/
+[48]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195439
+[49]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[50]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195468
+[51]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195470
