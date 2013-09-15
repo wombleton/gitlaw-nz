@@ -1,5 +1,5 @@
 Reprint  
-as at 7 May 2012
+as at 17 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -968,7 +968,7 @@ Cheque duty
     
 *   (1) Unless otherwise provided by this Act, or by or pursuant to any enactment mentioned in [Schedule 1][142], or by any local or private Act, cheque duty shall be paid to the Crown on every bill of exchange made or drawn after the commencement of this Act.
     
-    (2) For the purposes of this section, the expression **stamp duty** when used in any Act mentioned in [Schedule 1][142], or in any local or private Act in force before the commencement of this Act, shall, unless the context otherwise requires, include cheque duty.
+    (2) For the purposes of this section, the expression _stamp duty_ when used in any Act mentioned in [Schedule 1][142], or in any local or private Act in force before the commencement of this Act, shall, unless the context otherwise requires, include cheque duty.
     
     Compare: 1954 No 52 ss 2, 39, 121; 1967 No 3 s 5(1)
 
@@ -1288,7 +1288,7 @@ Approved issuer levy
 
 ##### 86I Application of approved issuer levy and zero-rating
     
-*   For the purposes of the NRWT rules of the [Income Tax Act 2007][189] and [section 86J][117] of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,---
+*   For the purposes of the NRWT rules of the [Income Tax Act 2007][189], an exemption under a double tax agreement, and [section 86J][117] of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,---
         
     *   (a) and to the extent that, payment is made by or on behalf of the approved issuer of approved issuer levy on the leviable value of the registered security at the time of the payment of interest---
             
@@ -1307,6 +1307,8 @@ Approved issuer levy
         
     
     Section 86I: replaced, on 7 May 2012, by [section 149][192] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
+    
+    Section 86I: amended (with effect on 7 May 2012), on 17 July 2013, by [section 149][193] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 86IB Zero rate of approved issuer levy---requirements for securities 
     
@@ -1316,7 +1318,7 @@ Approved issuer levy
     
     *   (b) the issue of the security---
             
-        *   (i) was an offer to the public for the purposes of the [Securities Act 1978][193]; and
+        *   (i) was an offer to the public for the purposes of the [Securities Act 1978][194]; and
         
         *   (ii) was not a private placement; and
         
@@ -1328,7 +1330,7 @@ Approved issuer levy
     
     *   (e) the security---
             
-        *   (i) is listed on an exchange registered under the [Securities Markets Act 1988][194]:
+        *   (i) is listed on an exchange registered under the [Securities Markets Act 1988][195]:
         
         *   (ii) is one of a number of securities meeting the requirements of subsection (2) that are traded in a market bringing together buyers and sellers of such securities.
         
@@ -1336,7 +1338,7 @@ Approved issuer levy
     
     (2) A security meets the requirements of this subsection if, at or before the time of the payment of interest referred to in [section 86I][115] in respect of the registered security,---
         
-    *   (a) the security is one of a number of identical debt securities (the **class of securities**) that are registered securities; and
+    *   (a) the security is one of a number of identical debt securities (the _class of securities_) that are registered securities; and
     
     *   (b) the group of persons who each hold a security included in the class of securities consists of 100 or more persons; and
     
@@ -1380,7 +1382,7 @@ Approved issuer levy
     
     Section 86K: inserted, on 1 August 1991, by section 2 of the Stamp and Cheque Duties Amendment Act (No 2) 1991 (1991 No 76).
     
-    Section 86K(1): amended, on 27 March 2001 (applying on and after 1 August 1991), by [section 73(1)][195] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 86K(1): amended, on 27 March 2001 (applying on and after 1 August 1991), by [section 73(1)][196] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
 
 ##### 86KA Payment of approved issuer levy in instalments
     
@@ -1414,7 +1416,7 @@ Approved issuer levy
     
     (6) Payments made in accordance with this section must be accompanied by a statement that meets the requirements of [section 86K(2)][118].
     
-    Section 86KA: inserted, on 27 March 2001, by [section 74(1)][196] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 86KA: inserted, on 27 March 2001, by [section 74(1)][197] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
     Section 86KA(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][188] of the Income Tax Act 2004 (2004 No 35).
     
@@ -1422,7 +1424,7 @@ Approved issuer levy
 
 ##### 86L Refund of levy paid in error or in excess
     
-*   (1) Where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that any amount of approved issuer levy has been paid in error or excess, the Commissioner may refund the amount paid in error or the excess to the person entitled.
+*   (1) Where, at any time within 4 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that any amount of approved issuer levy has been paid in error or excess, the Commissioner may refund the amount paid in error or the excess to the person entitled.
     
     (1A) A refund under subsection (1) must be made in accordance with the requirements of [section 184A][180] of the Tax Administration Act 1994\.
     
@@ -1432,21 +1434,23 @@ Approved issuer levy
     
     Section 86L: inserted, on 1 August 1991, by section 2 of the Stamp and Cheque Duties Amendment Act (No 2) 1991 (1991 No 76).
     
-    Section 86L(1A): inserted, on 7 October 1998 (applying to levies paid in error or in excess on and after 1 April 2000), by [section 83(1)][197] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 86L(1): amended, on 17 July 2013 (applying to refunds of levies paid on or after this date), by [section 150][198] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 86L(2): replaced (with effect on 1 August 2010), on 21 December 2010, by [section 183][198] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 86L(1A): inserted, on 7 October 1998 (applying to levies paid in error or in excess on and after 1 April 2000), by [section 83(1)][199] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    
+    Section 86L(2): replaced (with effect on 1 August 2010), on 21 December 2010, by [section 183][200] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 86M Relief in cases of serious hardship
     
 *   \[Repealed\]
     
-    Section 86M: repealed, on 27 March 2001, by [section 75(1)][199] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 86M: repealed, on 27 March 2001, by [section 75(1)][201] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
 
 ##### 86N Offence to give false information
     
 *   \[Repealed\]
     
-    Section 86N: repealed, on 26 July 1996, by [section 21][200] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 86N: repealed, on 26 July 1996, by [section 21][202] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ## Part 7  
 Miscellaneous offences
@@ -1459,19 +1463,19 @@ Miscellaneous offences
     
 *   \[Repealed\]
     
-    Section 87: repealed, on 26 July 1996, by [section 22(1)][201] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 87: repealed, on 26 July 1996, by [section 22(1)][203] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 88 Offence to defraud Crown of duty or penalty payable under this Act
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 26 July 1996, by [section 22(1)][201] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 88: repealed, on 26 July 1996, by [section 22(1)][203] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 89 Offence to give false information
     
 *   \[Repealed\]
     
-    Section 89: repealed, on 26 July 1996, by [section 22(1)][201] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 89: repealed, on 26 July 1996, by [section 22(1)][203] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 90 Offence to issue certain shares unless pursuant to duly stamped instrument of nomination
     
@@ -1495,19 +1499,19 @@ Miscellaneous offences
     
 *   \[Repealed\]
     
-    Section 92A: repealed, on 26 July 1996, by [section 22(1)][201] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 92A: repealed, on 26 July 1996, by [section 22(1)][203] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 93 Principal officers of companies committing offences
     
 *   \[Repealed\]
     
-    Section 93: repealed, on 26 July 1996, by [section 22(1)][201] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 93: repealed, on 26 July 1996, by [section 22(1)][203] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 94 Printing unauthorised inscriptions on bills of exchange
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 26 July 1996, by [section 22(1)][201] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 94: repealed, on 26 July 1996, by [section 22(1)][203] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ## Part 8  
 Miscellaneous provisions
@@ -1516,7 +1520,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 26 July 1996, by [section 23][202] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 95: repealed, on 26 July 1996, by [section 23][204] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 96 Sharebroker may recover duty from purchaser of shares
     
@@ -1546,7 +1550,7 @@ Miscellaneous provisions
     
 *   [Part 9][191] of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after 1 April 1997\.
     
-    Section 99A: inserted, on 26 July 1996, by [section 24][203] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 99A: inserted, on 26 July 1996, by [section 24][205] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 100 Consequential amendments
     
@@ -1568,9 +1572,9 @@ Miscellaneous provisions
     
     *   (e) the Stamp Duties Regulations 1967\.
     
-    Section 101(2)(b): repealed, on 1 August 1991, by [section 2(1)][204] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
+    Section 101(2)(b): repealed, on 1 August 1991, by [section 2(1)][206] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
     
-    Section 101(2)(c): repealed, on 1 August 1991, by [section 2(1)][204] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
+    Section 101(2)(c): repealed, on 1 August 1991, by [section 2(1)][206] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
 
 ---
 
@@ -1627,9 +1631,9 @@ Subsection (4) of section 5\.
 
 Section 13\.
 
-Schedule 1: amended, on 9 December 1991, by [section 11][205] of the Securities Transfer Act 1991 (1991 No 119).
+Schedule 1: amended, on 9 December 1991, by [section 11][207] of the Securities Transfer Act 1991 (1991 No 119).
 
-Schedule 1: amended, on 1 April 1990, by [section 32(3)][206] of the Superannuation Schemes Act 1989 (1989 No 10).
+Schedule 1: amended, on 1 April 1990, by [section 32(3)][208] of the Superannuation Schemes Act 1989 (1989 No 10).
 
 ---
 
@@ -1684,7 +1688,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rural Intermediate Credit Act 1927 (1927 No 45) (1957 Reprint, Vol 13, p 595)
 
-_Amendment(s) incorporated in the [Act(s)][207]._
+_Amendment(s) incorporated in the [Act(s)][209]._
 
 ##### Rural Housing Act 1939 (1939 No 32) (1957 Reprint, Vol 13, p 585)
 
@@ -1707,7 +1711,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Charitable Trusts Act 1957 (1957 No 18) (1957 Reprint, Vol 1, p 830)
 
-_Amendment(s) incorporated in the [Act(s)][208]._
+_Amendment(s) incorporated in the [Act(s)][210]._
 
 ##### Cinematograph Films Act 1961 (1961 No 59)
 
@@ -1719,7 +1723,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Companies (Bondholders Incorporation) Act 1934--35 (1934--35 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][209]._
+_Amendment(s) incorporated in the [Act(s)][211]._
 
 ##### Decimal Currency Amendment Act 1965 (1965 No 124) 
 
@@ -1743,7 +1747,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Family Benefits (Home Ownership) Act 1964 (1964 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][210]._
+_Amendment(s) incorporated in the [Act(s)][212]._
 
 ##### Finance Act 1932--33 (1932--33 No 42)
 
@@ -1755,7 +1759,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1964 (1964 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][211]._
+_Amendment(s) incorporated in the [Act(s)][213]._
 
 ##### Fire Services Act 1949 (1949 No 18) (1957 Reprint, Vol 5, pp 244, 246)
 
@@ -1771,11 +1775,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Housing Act 1955 (1955 No 51) (1957 Reprint, Vol 6, p 246)
 
-_Amendment(s) incorporated in the [Act(s)][212]._
+_Amendment(s) incorporated in the [Act(s)][214]._
 
 ##### Incorporated Societies Act 1908 (1908 No 212) (1957 Reprint, Vol 6, p 370)
 
-_Amendment(s) incorporated in the [Act(s)][213]._
+_Amendment(s) incorporated in the [Act(s)][215]._
 
 ##### Industrial and Provident Societies Act 1908 (1908 No 81) (1957 Reprint, Vol 6, p 401)
 
@@ -1791,11 +1795,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][214]._
+_Amendment(s) incorporated in the [Act(s)][216]._
 
 ##### Land Act 1948 (1948 No 64) (1957 Reprint, Vol 7, p 147)
 
-_Amendment(s) incorporated in the [Act(s)][215]._
+_Amendment(s) incorporated in the [Act(s)][217]._
 
 ##### Land Settlement Promotion and Land Acquisition Act 1952 (1952 No 34) (Reprinted 1969, Vol 3, p 2275)
 
@@ -1827,11 +1831,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### National Expenditure Adjustment Act 1932 (1932 No 8) (1957 Reprint, Vol 10, p 723)
 
-_Amendment(s) incorporated in the [Act(s)][216]._
+_Amendment(s) incorporated in the [Act(s)][218]._
 
 ##### National Expenditure Adjustment Amendment Act 1932 (1932 No 18) (1957 Reprint, Vol 10, p 729)
 
-_Amendment(s) incorporated in the [Act(s)][217]._
+_Amendment(s) incorporated in the [Act(s)][219]._
 
 ##### National Provident Fund Act 1950 (1950 No 55) (1957 Reprint, Vol 10, p 831)
 
@@ -1855,7 +1859,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Property Law Act 1952 (1952 No 51) (1957 Reprint, Vol 12, pp 197, 220)
 
-_Amendment(s) incorporated in the [Act(s)][218]._
+_Amendment(s) incorporated in the [Act(s)][220]._
 
 ##### Queen Elizabeth the Second Arts Council of New Zealand Act 1963 (1963 No 54)
 
@@ -1867,7 +1871,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rural Intermediate Credit Act 1927 (1927 No 45) (1957 Reprint, Vol 13, p 608)
 
-_Amendment(s) incorporated in the [Act(s)][219]._
+_Amendment(s) incorporated in the [Act(s)][221]._
 
 ##### Rural Intermediate Credit Amendment Act 1929 (1929 No 27) (1957 Reprint, Vol 13, p 612) 
 
@@ -1875,7 +1879,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rural Intermediate Credit Amendment Act 1946 (1946 No 5) (1957 Reprint, Vol 13, p 614)
 
-_Amendment(s) incorporated in the [Act(s)][220]._
+_Amendment(s) incorporated in the [Act(s)][222]._
 
 ##### Shipping and Seamen Act 1952 (1952 No 49) (Reprinted 1965, Vol 3, p 2091)
 
@@ -1883,7 +1887,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][221]._
+_Amendment(s) incorporated in the [Act(s)][223]._
 
 ##### Stamp Duties Amendment Act 1952 (1952 No 22) (Reprinted 1964, Vol 3, p 2306)
 
@@ -1915,11 +1919,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State Advances Corporation Act 1965 (1965 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][222]._
+_Amendment(s) incorporated in the [Act(s)][224]._
 
 ##### Statutory Land Charges Registration Act 1928 (1928 No 18) (1957 Reprint, Vol 15, p 187)
 
-_Amendment(s) incorporated in the [Act(s)][223]._
+_Amendment(s) incorporated in the [Act(s)][225]._
 
 ##### Tenancy Act 1955 (1955 No 50) (1957 Reprint, Vol 15, pp 534, 543, 567)
 
@@ -1949,23 +1953,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 1 General
     
-*   This is a reprint of the Stamp and Cheque Duties Act 1971\. The reprint incorporates all the amendments to the Act as at 7 May 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Stamp and Cheque Duties Act 1971\. The reprint incorporates all the amendments to the Act as at 17 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][224] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][226] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][225] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][227] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][226] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][228] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][227] and [17E][228] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][229] and [17E][230] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1996,9 +2000,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34): [section 149][192]
+*   Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [sections 149][193], [150][198]
     
-    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [section 183][198]
+    Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34): [section 149][192]
+    
+    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [section 183][200]
     
     Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 858][187]
     
@@ -2014,13 +2020,13 @@ _Amendment(s) incorporated in the Act(s)._
     
     Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][173]
     
-    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [sections 73--75][195]
+    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [sections 73--75][196]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [sections 4--6][229]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [sections 4--6][231]
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
-    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [sections 82(1)][181], [83(1)][197]
+    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [sections 82(1)][181], [83(1)][199]
     
     Taxation (Remedial Provisions) Act 1998 (1998 No 7): [section 56(1)][183]
     
@@ -2032,15 +2038,15 @@ _Amendment(s) incorporated in the Act(s)._
     
     Stamp and Cheque Duties Amendment Act 1993 (1993 No 133)
     
-    Securities Transfer Act 1991 (1991 No 119): [section 11][205]
+    Securities Transfer Act 1991 (1991 No 119): [section 11][207]
     
-    Rehabilitation Act Repeal Act 1991 (1991 No 80): [section 2(1)][204]
+    Rehabilitation Act Repeal Act 1991 (1991 No 80): [section 2(1)][206]
     
     Stamp and Cheque Duties Amendment Act (No 2) 1991 (1991 No 76)
     
     State Insurance Act 1990 (1990 No 36): [section 7(a)][172]
     
-    Tower Corporation Act 1990 (1990 No 2 (P)): [section 31(5)][230]
+    Tower Corporation Act 1990 (1990 No 2 (P)): [section 31(5)][232]
     
     Stamp and Cheque Duties Amendment Act 1989 (1989 No 154)
     
@@ -2265,41 +2271,43 @@ _Amendment(s) incorporated in the Act(s)._
 [190]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM354985
 [191]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM356110
 [192]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM3324226
-[193]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM25999
-[194]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM139726
-[195]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86479
-[196]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86480
-[197]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM433078
-[198]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM3123600
-[199]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86482
-[200]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393277
-[201]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393278
-[202]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393279
-[203]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393280
-[204]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM248234
-[205]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM250660
-[206]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM144055
-[207]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203214
-[208]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM309995
-[209]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM217901
-[210]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM352215
-[211]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM350946
-[212]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM291342
-[213]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM176183
-[214]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM384112
-[215]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM253232
-[216]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212413
-[217]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212858
-[218]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM267064
-[219]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203488
-[220]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM240167
-[221]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM365868
-[222]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM373417
-[223]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM204895
-[224]: http://www.pco.parliament.govt.nz/reprints/
-[225]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM195439
-[226]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[227]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM195468
-[228]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM195470
-[229]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM230241
-[230]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM114551
+[193]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM5166156
+[194]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM25999
+[195]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM139726
+[196]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86479
+[197]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86480
+[198]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM5256432
+[199]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM433078
+[200]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM3123600
+[201]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86482
+[202]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393277
+[203]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393278
+[204]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393279
+[205]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393280
+[206]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM248234
+[207]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM250660
+[208]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM144055
+[209]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203214
+[210]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM309995
+[211]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM217901
+[212]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM352215
+[213]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM350946
+[214]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM291342
+[215]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM176183
+[216]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM384112
+[217]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM253232
+[218]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212413
+[219]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212858
+[220]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM267064
+[221]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203488
+[222]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM240167
+[223]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM365868
+[224]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM373417
+[225]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM204895
+[226]: http://www.pco.parliament.govt.nz/reprints/
+[227]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM195439
+[228]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[229]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM195468
+[230]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM195470
+[231]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM230241
+[232]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM114551
