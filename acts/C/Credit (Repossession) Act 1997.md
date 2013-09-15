@@ -1,7 +1,7 @@
 Reprint  
-as at 1 June 2005
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Credit (Repossession) Act 1997Public Act1997 No 85
 
@@ -25,158 +25,158 @@ This Act is administered by the Ministry of Consumer Affairs.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Part 1][3]  
 [Preliminary][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Act binds the Crown][5]
+[3][5][][5][Act binds the Crown][5]
 
-[4][6] [Purpose of this Act][6]
+[4][6][][6][Purpose of this Act][6]
 
-[5][7] [Security agreements to which Act applies][7]
+[5][7][][7][Security agreements to which Act applies][7]
 
-[6][8] [Act applies where creditor already has right to take possession, etc][8]
+[6][8][][8][Act applies where creditor already has right to take possession, etc][8]
 
 [Part 2][9]  
 [Rules that apply before possession of goods is taken][9]
 
-[7][10] [Circumstances in which creditor can take possession][10]
+[7][10][][10][Circumstances in which creditor can take possession][10]
 
-[8][11] [Notice to be given to debtor and guarantor before taking possession of consumer goods][11]
+[8][11][][11][Notice to be given to debtor and guarantor before taking possession of consumer goods][11]
 
-[9][12] [Form of pre-possession notice][12]
+[9][12][][12][Form of pre-possession notice][12]
 
-[10][13] [Creditor must allow time to remedy default][13]
+[10][13][][13][Creditor must allow time to remedy default][13]
 
-[11][14] [Offences against this Part][14]
+[11][14][][14][Offences against this Part][14]
 
-[12][15] [Debtor may apply to court for relief][15]
+[12][15][][15][Debtor may apply to court for relief][15]
 
-[13][16] [Court may grant relief][16]
+[13][16][][16][Court may grant relief][16]
 
 [Part 3][17]  
 [Right of entry][17]
 
-[14][18] [Creditor must not enter premises in unreasonable manner][18]
+[14][18][][18][Creditor must not enter premises in unreasonable manner][18]
 
-[15][19] [Creditor must not enter residential premises at prohibited time][19]
+[15][19][][19][Creditor must not enter residential premises at prohibited time][19]
 
-[16][20] [Certain persons disqualified from taking possession of consumer goods][20]
+[16][20][][20][Certain persons disqualified from taking possession of consumer goods][20]
 
-[17][21] [Documents to be produced on entry][21]
+[17][21][][21][Documents to be produced on entry][21]
 
-[18][22] [Entry if occupier not present][22]
+[18][22][][22][Entry if occupier not present][22]
 
-[19][23] [Offence to obstruct taking possession of consumer goods][23]
+[19][23][][23][Offence to obstruct taking possession of consumer goods][23]
 
 [Part 3A][24]  
 [Rules that apply in relation to taking possession of accessions][24]
 
-[19A][25] [Interpretation][25]
+[19A][25][][25][Interpretation][25]
 
-[19B][26] [Creditor must not damage consumer goods when removing accession][26]
+[19B][26][][26][Creditor must not damage consumer goods when removing accession][26]
 
-[19C][27] [Person with interest in other goods entitled to reimbursement for damage caused by removal of accession][27]
+[19C][27][][27][Person with interest in other goods entitled to reimbursement for damage caused by removal of accession][27]
 
-[19D][28] [Person entitled to reimbursement may refuse permission to remove accession][28]
+[19D][28][][28][Person entitled to reimbursement may refuse permission to remove accession][28]
 
-[19E][29] [Secured party may apply to court for order in respect of removal of accession][29]
+[19E][29][][29][Secured party may apply to court for order in respect of removal of accession][29]
 
-[19F][30] [Secured party must give notice of removal of accession][30]
+[19F][30][][30][Secured party must give notice of removal of accession][30]
 
-[19G][31] [When person with interest in whole may retain accession][31]
+[19G][31][][31][When person with interest in whole may retain accession][31]
 
-[19H][32] [Court may make order concerning removal of accession][32]
+[19H][32][][32][Court may make order concerning removal of accession][32]
 
 [Part 4][33]  
 [Rules that apply after possession of goods is taken][33]
 
-[20][34] [Notice to be given to debtor and guarantor after taking possession of consumer goods][34]
+[20][34][][34][Notice to be given to debtor and guarantor after taking possession of consumer goods][34]
 
-[21][35] [Form of post-possession notice][35]
+[21][35][][35][Form of post-possession notice][35]
 
-[21A][36] [Notice of sale of consumer goods to other creditors][36]
+[21A][36][][36][Notice of sale of consumer goods to other creditors][36]
 
-[22][37] [Consequences of not giving post-possession notice][37]
+[22][37][][37][Consequences of not giving post-possession notice][37]
 
-[23][38] [Creditor must not sell consumer goods until 15 days after post-possession notice][38]
+[23][38][][38][Creditor must not sell consumer goods until 15 days after post-possession notice][38]
 
-[24][39] [Consequences of selling within 15 days of post-possession notice][39]
+[24][39][][39][Consequences of selling within 15 days of post-possession notice][39]
 
-[25][40] [Creditor must sell consumer goods 15 days after post-possession notice][40]
+[25][40][][40][Creditor must sell consumer goods 15 days after post-possession notice][40]
 
-[26][41] [Rules relating to sale by creditor][41]
+[26][41][][41][Rules relating to sale by creditor][41]
 
-[27][42] [Debtor may obtain valuation of consumer goods before sale][42]
+[27][42][][42][Debtor may obtain valuation of consumer goods before sale][42]
 
-[28][43] [Debtor's right to reinstate agreement][43]
+[28][43][][43][Debtor's right to reinstate agreement][43]
 
-[29][44] [Consequences of reinstating agreement][44]
+[29][44][][44][Consequences of reinstating agreement][44]
 
-[30][45] [Debtor's right to introduce buyer][45]
+[30][45][][45][Debtor's right to introduce buyer][45]
 
-[31][46] [Debtor's right to settle agreement][46]
+[31][46][][46][Debtor's right to settle agreement][46]
 
-[32][47] [Debtor's right to force sale][47]
+[32][47][][47][Debtor's right to force sale][47]
 
-[32A][48] [Disposal of consumer goods to purchaser for value and in good faith][48]
+[32A][48][][48][Disposal of consumer goods to purchaser for value and in good faith][48]
 
-[32B][49] [Extinguishment of subordinate security interests on sale][49]
+[32B][49][][49][Extinguishment of subordinate security interests on sale][49]
 
-[33][50] [Creditor to give statement of account to debtor][50]
+[33][50][][50][Creditor to give statement of account to debtor][50]
 
-[34][51] [Distribution of surplus][51]
+[34][51][][51][Distribution of surplus][51]
 
-[34A][52] [Surplus may be paid into court][52]
+[34A][52][][52][Surplus may be paid into court][52]
 
-[34B][53] [Debtor's, etc, right to recover surplus][53]
+[34B][53][][53][Debtor's, etc, right to recover surplus][53]
 
-[35][54] [Limit on creditor's right to recover from debtor][54]
+[35][54][][54][Limit on creditor's right to recover from debtor][54]
 
-[36][55] [Court may vary existing judgments or orders when consumer goods are repossessed][55]
+[36][55][][55][Court may vary existing judgments or orders when consumer goods are repossessed][55]
 
-[36A][56] [Voluntary return of goods][56]
+[36A][56][][56][Voluntary return of goods][56]
 
-[36B][57] [Various effects of voluntary return of goods][57]
+[36B][57][][57][Various effects of voluntary return of goods][57]
 
 [Part 5][58]  
 [Miscellaneous provisions][58]
 
-[37][59] [Power of court to extend times][59]
+[37][59][][59][Power of court to extend times][59]
 
-[38][60] [Service of notices][60]
+[38][60][][60][Service of notices][60]
 
-[39][61] [Jurisdiction of District Courts][61]
+[39][61][][61][Jurisdiction of District Courts][61]
 
-[40][62] [Jurisdiction of Disputes Tribunals][62]
+[40][62][][62][Jurisdiction of Disputes Tribunals][62]
 
-[41][63] [Offences to be punishable on summary conviction][63]
+[41][63][][63][Time for filing charging document][63]
 
-[42][64] [No contracting out][64]
+[42][64][][64][No contracting out][64]
 
-[43][65] [Application of law relating to illegal contracts][65]
+[43][65][][65][Application of law relating to illegal contracts][65]
 
-[44][66] [Power to amend forms][66]
+[44][66][][66][Power to amend forms][66]
 
 [Part 6][67]  
 [Amendments to other enactments][67]
 
-[45][68] [Amendments to Chattels Transfer Act 1924][68] \[Repealed\]
+[45][68][][68][Amendments to Chattels Transfer Act 1924][68] \[Repealed\]
 
-[46][69] [Amendment to Insolvency Act 1967][69]
+[46][69][][69][Amendment to Insolvency Act 1967][69]
 
-[47][70] [Amendments to Hire Purchase Act 1971][70] \[Repealed\]
+[47][70][][70][Amendments to Hire Purchase Act 1971][70] \[Repealed\]
 
-[48][71] [Amendment to Credit Contracts Act 1981][71] \[Repealed\]
+[48][71][][71][Amendment to Credit Contracts Act 1981][71] \[Repealed\]
 
-[49][72] [Amendment to Disputes Tribunals Act 1988][72]
+[49][72][][72][Amendment to Disputes Tribunals Act 1988][72]
 
-[50][73] [Amendments to Income Tax Act 1994][73] \[Repealed\]
+[50][73][][73][Amendments to Income Tax Act 1994][73] \[Repealed\]
 
-[51][74] [Transitional provision relating to existing hire purchase agreements][74]
+[51][74][][74][Transitional provision relating to existing hire purchase agreements][74]
 
 [Schedule 1][75]  
 [Pre-possession notice][75]
@@ -525,7 +525,7 @@ Right of entry
     
     *   (c) any person who has been released from a prison within the preceding year.
     
-    (2) Every disqualified person commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, who, being a creditor or a creditor's agent,---
+    (2) Every disqualified person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who, being a creditor or a creditor's agent,---
         
     *   (a) enters, or attempts to enter, any premises for the purpose of taking possession of any consumer goods or for any other purpose in connection with any consumer goods; or
     
@@ -536,6 +536,8 @@ Right of entry
     Section 16 heading: amended, on 1 May 2002, pursuant to [section 11][85] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
     
     Section 16(1)(c): amended, on 1 June 2005, by [section 206][90] of the Corrections Act 2004 (2004 No 50).
+    
+    Section 16(2): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 16(2)(a): amended, on 1 May 2002, by [section 11][85] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
     
@@ -575,18 +577,20 @@ Right of entry
 
 ##### 19 Offence to obstruct taking possession of consumer goods
     
-*   Every person commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $10,000 who wilfully and forcibly obstructs a creditor or a creditor's agent who is lawfully exercising any power to take possession of consumer goods.
+*   Every person commits an offence against this Act, and is liable on conviction to a fine not exceeding $10,000 who wilfully and forcibly obstructs a creditor or a creditor's agent who is lawfully exercising any power to take possession of consumer goods.
     
     Compare: 1971 No 147 s 26(6)
     
     Section 19 heading: amended, on 1 May 2002, by [section 11][85] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    
+    Section 19: amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 19: amended, on 1 May 2002, by [section 11][85] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ## Part 3A  
 Rules that apply in relation to taking possession of accessions
     
-*   Part 3A: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+*   Part 3A: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19A Interpretation
     
@@ -598,7 +602,7 @@ Rules that apply in relation to taking possession of accessions
     
     _whole_ means an accession and the consumer goods in which the accession is installed or to which the accession is affixed.
     
-    Section 19A: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19A: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19B Creditor must not damage consumer goods when removing accession
     
@@ -606,7 +610,7 @@ Rules that apply in relation to taking possession of accessions
     
     Compare: Personal Property Security Act 1993 s 38(7) (Saskatchewan)
     
-    Section 19B: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19B: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19C Person with interest in other goods entitled to reimbursement for damage caused by removal of accession
     
@@ -616,7 +620,7 @@ Rules that apply in relation to taking possession of accessions
     
     Compare: Personal Property Security Act 1993 s 38(8) (Saskatchewan)
     
-    Section 19C: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19C: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19D Person entitled to reimbursement may refuse permission to remove accession
     
@@ -624,7 +628,7 @@ Rules that apply in relation to taking possession of accessions
     
     Compare: Personal Property Security Act 1993 s 38(9) (Saskatchewan)
     
-    Section 19D: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19D: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19E Secured party may apply to court for order in respect of removal of accession
     
@@ -642,7 +646,7 @@ Rules that apply in relation to taking possession of accessions
     
     Compare: Personal Property Security Act 1993 s 38(10) (Saskatchewan)
     
-    Section 19E: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19E: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19F Secured party must give notice of removal of accession
     
@@ -676,7 +680,7 @@ Rules that apply in relation to taking possession of accessions
     
     Compare: Personal Property Security Act 1993 s 38(12), (13) (Saskatchewan)
     
-    Section 19F: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19F: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19G When person with interest in whole may retain accession
     
@@ -686,7 +690,7 @@ Rules that apply in relation to taking possession of accessions
     
     *   (b) the value of the accession if the accession were removed from the other goods.
     
-    Section 19G: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19G: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 19H Court may make order concerning removal of accession
     
@@ -698,7 +702,7 @@ Rules that apply in relation to taking possession of accessions
     
     Compare: Personal Property Security Act 1993 s 38(15) (Saskatchewan)
     
-    Section 19H: inserted, on 1 May 2002, by [section 5][91] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 19H: inserted, on 1 May 2002, by [section 5][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ## Part 4  
 Rules that apply after possession of goods is taken
@@ -739,7 +743,7 @@ Rules that apply after possession of goods is taken
     
     Compare: Personal Property Security Act 1993 s 59(6), (16) (Saskatchewan)
     
-    Section 21A: inserted, on 1 May 2002, by [section 6][92] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 21A: inserted, on 1 May 2002, by [section 6][93] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 22 Consequences of not giving post-possession notice
     
@@ -1029,13 +1033,13 @@ Rules that apply after possession of goods is taken
     
     Compare: Personal Property Security Act 1993 s 61(7) (Saskatchewan)
     
-    Section 32A: inserted, on 1 May 2002, by [section 7][93] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 32A: inserted, on 1 May 2002, by [section 7][94] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 32B Extinguishment of subordinate security interests on sale
     
 *   If consumer goods have been sold under [section 26][41] or [section 32][47], all security interests in the consumer goods and their proceeds that are subordinate to the security interest of the creditor who sold the consumer goods are extinguished on the sale of the consumer goods.
     
-    Section 32B: inserted, on 1 May 2002, by [section 7][93] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 32B: inserted, on 1 May 2002, by [section 7][94] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 33 Creditor to give statement of account to debtor
     
@@ -1051,7 +1055,7 @@ Rules that apply after possession of goods is taken
     
     Compare: 1971 No 147 s 32
     
-    Section 33: amended, on 1 May 2002, by [section 8][94] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 33: amended, on 1 May 2002, by [section 8][95] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
     
     Section 33: amended, on 1 May 2002, by [section 11][85] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
@@ -1071,13 +1075,13 @@ Rules that apply after possession of goods is taken
     
     *   (c) the debtor.
     
-    (2) The security interests to which subsection (1)(a) applies must be paid in the order of their priority as determined by [Part 7][95] or [Part 8][96] of the Personal Property Securities Act 1999\.
+    (2) The security interests to which subsection (1)(a) applies must be paid in the order of their priority as determined by [Part 7][96] or [Part 8][97] of the Personal Property Securities Act 1999\.
     
     (3) Subsection (1) applies despite the extinguishment of a security interest under [section 32B][49].
     
     Compare: Personal Property Security Act 1993 s 60(2) (Saskatchewan)
     
-    Section 34: substituted, on 1 May 2002, by [section 9][97] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 34: substituted, on 1 May 2002, by [section 9][98] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 34A Surplus may be paid into court
     
@@ -1087,13 +1091,13 @@ Rules that apply after possession of goods is taken
     
     Compare: Personal Property Security Act 1993 s 60(4) (Saskatchewan)
     
-    Section 34A: inserted, on 1 May 2002, by [section 9][97] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 34A: inserted, on 1 May 2002, by [section 9][98] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 34B Debtor's, etc, right to recover surplus
     
 *   The persons referred to in [section 34][51] are entitled to recover the amount of any surplus from the creditor.
     
-    Section 34B: inserted, on 1 May 2002, by [section 9][97] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 34B: inserted, on 1 May 2002, by [section 9][98] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 35 Limit on creditor's right to recover from debtor
     
@@ -1184,13 +1188,13 @@ Miscellaneous provisions
     
     *   (b) the total amount in respect of which an order of the court is sought is not more than $200,000; or
     
-    *   (c) the parties agree, in accordance with [section 37][98] of the District Courts Act 1947, that a District Court has jurisdiction to hear and determine the application.
+    *   (c) the parties agree, in accordance with [section 37][99] of the District Courts Act 1947, that a District Court has jurisdiction to hear and determine the application.
     
     Compare: 1971 No 147 s 47
 
 ##### 40 Jurisdiction of Disputes Tribunals
     
-*   (1) A Disputes Tribunal established under the [Disputes Tribunals Act 1988][99] has jurisdiction to exercise the powers conferred on a court by any of the provisions of this Act in any case where, subject to this section, the total amount in respect of which an order of the Tribunal is sought is not more than $3,000\.
+*   (1) A Disputes Tribunal established under the [Disputes Tribunals Act 1988][100] has jurisdiction to exercise the powers conferred on a court by any of the provisions of this Act in any case where, subject to this section, the total amount in respect of which an order of the Tribunal is sought is not more than $3,000\.
     
     (2) Subject to this section, an order of a Disputes Tribunal under any of the provisions of this Act must not---
         
@@ -1204,11 +1208,11 @@ Miscellaneous provisions
     
     and an order of a Tribunal that exceeds any such restriction is entirely of no effect.
     
-    (3) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to [section 13][100] of the Disputes Tribunals Act 1988, subsections (1) and (2) of this section are to be read as if every reference in those subsections to $3,000 were a reference to $5,000\.
+    (3) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to [section 13][101] of the Disputes Tribunals Act 1988, subsections (1) and (2) of this section are to be read as if every reference in those subsections to $3,000 were a reference to $5,000\.
     
-    (4) Any reference in this section to $3,000 is, if a greater amount is from time to time specified in [section 10][101] of the Disputes Tribunals Act 1988, to be read as a reference to that greater amount.
+    (4) Any reference in this section to $3,000 is, if a greater amount is from time to time specified in [section 10][102] of the Disputes Tribunals Act 1988, to be read as a reference to that greater amount.
     
-    (5) The reference in subsection (3) of this section to $5,000 is, if a greater amount is from time to time specified in [section 13][100] of the Disputes Tribunals Act 1988, to be read as a reference to that greater amount.
+    (5) The reference in subsection (3) of this section to $5,000 is, if a greater amount is from time to time specified in [section 13][101] of the Disputes Tribunals Act 1988, to be read as a reference to that greater amount.
     
     Compare: 1971 No 147 s 47A
     
@@ -1216,23 +1220,21 @@ Miscellaneous provisions
     
     Section 40(2)(d): amended, on 1 May 2002, by [section 11][85] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
-##### 41 Offences to be punishable on summary conviction
+##### 41 Time for filing charging document
     
-*   (1) Every offence against this Act is punishable on summary conviction.
+*   Despite anything to the contrary in [section 25][103] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
     
-    (2) Notwithstanding anything in [section 14][102] of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
-    
-    Compare: 1971 No 147 s 49
+    Section 41: replaced, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 No contracting out
     
 *   (1) The provisions of this Act have effect despite any provision to the contrary in any security agreement.
     
-    (2) [Section 56][103] of the Sale of Goods Act 1908 is to be read subject to the provisions of this section.
+    (2) [Section 56][104] of the Sale of Goods Act 1908 is to be read subject to the provisions of this section.
     
-    (3) Every creditor commits an offence against [section 13(i)][104] of the Fair Trading Act 1986 who purports to contract out of any provision of this Act.
+    (3) Every creditor commits an offence against [section 13(i)][105] of the Fair Trading Act 1986 who purports to contract out of any provision of this Act.
     
-    Section 42: substituted, on 1 May 2002, by [section 10][105] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
+    Section 42: substituted, on 1 May 2002, by [section 10][106] of the Credit (Repossession) Amendment Act 1999 (1999 No 127).
 
 ##### 43 Application of law relating to illegal contracts
     
@@ -1255,11 +1257,11 @@ Amendments to other enactments
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 1 May 2002, by [section 192(1)][106] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 45: repealed, on 1 May 2002, by [section 192(1)][107] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 46 Amendment to Insolvency Act 1967
     
-*   _Amendment(s) incorporated in the [Act(s)][107]_.
+*   _Amendment(s) incorporated in the [Act(s)][108]_.
 
 ##### 47 Amendments to Hire Purchase Act 1971
     
@@ -1275,13 +1277,13 @@ Amendments to other enactments
 
 ##### 49 Amendment to Disputes Tribunals Act 1988
     
-*   _Amendment(s) incorporated in the [Act(s)][108]_.
+*   _Amendment(s) incorporated in the [Act(s)][109]_.
 
 ##### 50 Amendments to Income Tax Act 1994
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][109] of the Income Tax Act 2004 (2004 No 35).
+    Section 50: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][110] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 51 Transitional provision relating to existing hire purchase agreements
     
@@ -1326,8 +1328,6 @@ Dated this: \[_date_\]
 
 ...........................  
 \[_Creditor's signature_\]
-
----
 
 This notice is given by \[_full name and address of creditor_\], as creditor under the security agreement.
 
@@ -1485,23 +1485,23 @@ If you are in doubt about what you should do, you should seek advice at once.
 
 ###### 1 General
     
-*   This is a reprint of the Credit (Repossession) Act 1997\. The reprint incorporates all the amendments to the Act as at 1 June 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Credit (Repossession) Act 1997\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][110] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][111] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][111] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][112] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][112] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][113] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][113] and [17E][114] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][114] and [17E][115] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1532,15 +1532,17 @@ If you are in doubt about what you should do, you should seek advice at once.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Corrections Act 2004 (2004 No 50): [section 206][90]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][91]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][109]
+    Corrections Act 2004 (2004 No 50): [section 206][90]
+    
+    Income Tax Act 2004 (2004 No 35): [section YA 2][110]
     
     Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][84]
     
     [Credit (Repossession) Amendment Act 1999][87] (1999 No 127)
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 192(1)][106]
+    Personal Property Securities Act 1999 (1999 No 126): [section 192(1)][107]
 
 
 
@@ -1635,27 +1637,28 @@ If you are in doubt about what you should do, you should seek advice at once.
 [88]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48086
 [89]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM327394
 [90]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM297136
-[91]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48088
-[92]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48904
-[93]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48906
-[94]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48909
-[95]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM46724
-[96]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM46763
-[97]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48910
-[98]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM243648
-[99]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM133281
-[100]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM133648
-[101]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM133638
-[102]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM311191
-[103]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM174699
-[104]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM96908
-[105]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48914
-[106]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM47640
-[107]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM382869
-[108]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM134172
-[109]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM277147
-[110]: http://www.pco.parliament.govt.nz/reprints/
-[111]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM195439
-[112]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[113]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM195468
-[114]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM195470
+[91]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM3360714
+[92]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48088
+[93]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48904
+[94]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48906
+[95]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48909
+[96]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM46724
+[97]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM46763
+[98]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48910
+[99]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM243648
+[100]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM133281
+[101]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM133648
+[102]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM133638
+[103]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM3360067
+[104]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM174699
+[105]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM96908
+[106]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM48914
+[107]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM47640
+[108]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM382869
+[109]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM134172
+[110]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM277147
+[111]: http://www.pco.parliament.govt.nz/reprints/
+[112]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM195439
+[113]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[114]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM195468
+[115]: http://www.legislation.govt.nz/act/public/1997/0085/latest/link.aspx?id=DLM195470
