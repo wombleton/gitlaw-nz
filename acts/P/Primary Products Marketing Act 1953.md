@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2001
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -391,9 +391,11 @@ An Act to provide for the establishment of Marketing Authorities for the purpose
 
 ##### 14 Offences
     
-*   (1) Every person who commits or attempts to commit or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit any offence against any regulations made under this Act for which no specific penalty is prescribed in the regulations shall be liable on summary conviction to a fine not exceeding 200 pounds, in the case of an individual, and, in the case of a company or other corporation, to a fine not exceeding 1,000 pounds.
+*   (1) Every person who commits or attempts to commit or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit any offence against any regulations made under this Act for which no specific penalty is prescribed in the regulations shall be liable on conviction to a fine not exceeding 200 pounds, in the case of an individual, and, in the case of a company or other corporation, to a fine not exceeding 1,000 pounds.
     
     (2) No penalty in excess of that provided in subsection (1) shall be prescribed in any regulations under this Act.
+    
+    Section 14(1): amended, on 1 July 2013, by [section 413][28] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Protection of persons acting under authority of this Act or of regulations thereunder
     
@@ -425,23 +427,23 @@ An Act to provide for the establishment of Marketing Authorities for the purpose
 
 ###### 1 General
     
-*   This is a reprint of the Primary Products Marketing Act 1953\. The reprint incorporates all the amendments to the Act as at 1 July 2001, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Primary Products Marketing Act 1953\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][28] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][29] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][29] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][30] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][30] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][31] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][31] and [17E][32] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][32] and [17E][33] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -472,9 +474,11 @@ An Act to provide for the establishment of Marketing Authorities for the purpose
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Audit Act 2001 (2001 No 10): [section 53][27]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][28]
     
-    [Primary Products Marketing Amendment Act 1997][33] (1997 No 108)
+    Public Audit Act 2001 (2001 No 10): [section 53][27]
+    
+    [Primary Products Marketing Amendment Act 1997][34] (1997 No 108)
     
     Primary Products Marketing Amendment Act 1993 (1993 No 152)
     
@@ -536,9 +540,10 @@ An Act to provide for the establishment of Marketing Authorities for the purpose
 [25]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM130377
 [26]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM88548
 [27]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM88957
-[28]: http://www.pco.parliament.govt.nz/reprints/
-[29]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM195439
-[30]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[31]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM195468
-[32]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM195470
-[33]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM422486
+[28]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM3360714
+[29]: http://www.pco.parliament.govt.nz/reprints/
+[30]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM195439
+[31]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[32]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM195468
+[33]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM195470
+[34]: http://www.legislation.govt.nz/act/public/1953/0010/latest/link.aspx?id=DLM422486
