@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,221 +25,221 @@ This Act is administered by Te Puni Kōkiri.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Part 1][5]  
 [Iwi Transition Agency][5]
 
-[4][6] [Department of Maori Affairs restructured][6] \[Repealed\]
+[4][6][][6][Department of Maori Affairs restructured][6] \[Repealed\]
 
-[5][7] [Title of chief executive][7] \[Repealed\]
+[5][7][][7][Title of chief executive][7] \[Repealed\]
 
-[6][8] [Primary objective of Iwi Transition Agency][8] \[Repealed\]
+[6][8][][8][Primary objective of Iwi Transition Agency][8] \[Repealed\]
 
-[7][9] [Functions of Iwi Transition Agency][9] \[Repealed\]
+[7][9][][9][Functions of Iwi Transition Agency][9] \[Repealed\]
 
-[8][10] [Iwi Transition Agency to take over from Department][10] \[Repealed\]
+[8][10][][10][Iwi Transition Agency to take over from Department][10] \[Repealed\]
 
-[9][11] [Administration of court transferred to Department of Justice][11] \[Repealed\]
+[9][11][][11][Administration of court transferred to Department of Justice][11] \[Repealed\]
 
-[10][12] [Enactments amended consequential upon restructuring of Department][12] \[Repealed\]
+[10][12][][12][Enactments amended consequential upon restructuring of Department][12] \[Repealed\]
 
-[11][13] [Board of Maori Affairs abolished][13] \[Repealed\]
+[11][13][][13][Board of Maori Affairs abolished][13] \[Repealed\]
 
-[12][14] [General manager to take over from Board][14] \[Repealed\]
+[12][14][][14][General manager to take over from Board][14] \[Repealed\]
 
-[13][15] [Enactments amended and repealed consequential upon abolition of Board of Maori Affairs][15]
+[13][15][][15][Enactments amended and repealed consequential upon abolition of Board of Maori Affairs][15]
 
-[13A][16] [Registration of documents following change of owner][16]
+[13A][16][][16][Registration of documents following change of owner][16]
 
 [Part 2][17]  
 [Maori land development][17]
 
-[14][18] [Main purpose of this Part][18]
+[14][18][][18][Main purpose of this Part][18]
 
-[15][19] [Chief executive to implement policy of Government][19]
+[15][19][][19][Chief executive to implement policy of Government][19]
 
-[16][20] [Contracts by chief executive deemed to be made on behalf of Crown][20]
+[16][20][][20][Contracts by chief executive deemed to be made on behalf of Crown][20]
 
-[17][21] [Rights of owners while land remains subject to this Part][21]
+[17][21][][21][Rights of owners while land remains subject to this Part][21]
 
-[18][22] [Rights and obligations of chief executive under Fencing Act 1978][22]
+[18][22][][22][Rights and obligations of chief executive under Fencing Act 1978][22]
 
-[19][23] [Chief executive may declare land to be subject to this Part][23]
+[19][23][][23][Chief executive may declare land to be subject to this Part][23]
 
-[20][24] [Crown land may be made subject to this Part][24]
+[20][24][][24][Crown land may be made subject to this Part][24]
 
-[21][25] [Land subject to this Part may be excluded from Part][25]
+[21][25][][25][Land subject to this Part may be excluded from Part][25]
 
-[22][26] [Notices may be registered against title][26]
+[22][26][][26][Notices may be registered against title][26]
 
-[23][27] [Record of valuations to be kept][27]
+[23][27][][27][Record of valuations to be kept][27]
 
-[23A][28] [Special valuations made for the purposes of this Part on or after 1 July 1998][28]
+[23A][28][][28][Special valuations made for the purposes of this Part on or after 1 July 1998][28]
 
 [Utilisation of land subject to this Part][29]
 
-[24][30] [General provisions as to utilisation of land][30]
+[24][30][][30][General provisions as to utilisation of land][30]
 
-[25][31] [Chief executive may undertake works for improvement and development of land][31]
+[25][31][][31][Chief executive may undertake works for improvement and development of land][31]
 
-[26][32] [Chief executive may maintain land as base farm][32]
+[26][32][][32][Chief executive may maintain land as base farm][32]
 
-[27][33] [Chief executive may purchase and sell equipment, livestock, etc][33]
+[27][33][][33][Chief executive may purchase and sell equipment, livestock, etc][33]
 
-[28][34] [Chief executive may acquire shares in companies][34]
+[28][34][][34][Chief executive may acquire shares in companies][34]
 
 [Use of land by nominated occupiers][35]
 
-[29][36] [Nominated occupiers][36]
+[29][36][][36][Nominated occupiers][36]
 
-[30][37] [Occupier may be required to execute instruments for registration under Chattels Transfer Act 1924][37]
+[30][37][][37][Occupier may be required to execute instruments for registration under Chattels Transfer Act 1924][37]
 
 [Leases of land subject to this Part][38]
 
-[31][39] [Chief executive may grant leases][39]
+[31][39][][39][Chief executive may grant leases][39]
 
-[32][40] [Preference to be given to Maori][40]
+[32][40][][40][Preference to be given to Maori][40]
 
-[33][41] [Leases may be registered against land without production of title][41]
+[33][41][][41][Leases may be registered against land without production of title][41]
 
-[34][42] [Term of leases in respect of Maori land or land owned by Maori][42]
+[34][42][][42][Term of leases in respect of Maori land or land owned by Maori][42]
 
-[35][43] [Term of leases of Crown land][43]
+[35][43][][43][Term of leases of Crown land][43]
 
-[36][44] [Provisions as to review of rent during currency of lease and on renewal][44]
+[36][44][][44][Provisions as to review of rent during currency of lease and on renewal][44]
 
-[37][45] [Special valuation for purposes of fixing new rent][45]
+[37][45][][45][Special valuation for purposes of fixing new rent][45]
 
-[38][46] [Notice of valuations and right of objection][46]
+[38][46][][46][Notice of valuations and right of objection][46]
 
-[39][47] [Chief executive may reduce or remit rent][47]
+[39][47][][47][Chief executive may reduce or remit rent][47]
 
-[40][48] [Compensation for improvements][48]
+[40][48][][48][Compensation for improvements][48]
 
-[41][49] [Compensation to be ascertained by valuation][49]
+[41][49][][49][Compensation to be ascertained by valuation][49]
 
-[42][50] [Rent to be paid to Māori Trustee][50]
+[42][50][][50][Rent to be paid to Māori Trustee][50]
 
-[43][51] [Sinking fund to provide compensation for lessees of Maori land][51]
+[43][51][][51][Sinking fund to provide compensation for lessees of Maori land][51]
 
-[44][52] [Compensation for improvements to lessees of Crown land][52]
+[44][52][][52][Compensation for improvements to lessees of Crown land][52]
 
-[45][53] [Payment of value of improvements to lessee with perpetual right of renewal][53]
+[45][53][][53][Payment of value of improvements to lessee with perpetual right of renewal][53]
 
-[46][54] [Record of improvements][54]
+[46][54][][54][Record of improvements][54]
 
-[47][55] [Surrender of leases][55]
+[47][55][][55][Surrender of leases][55]
 
-[48][56] [Costs][56]
+[48][56][][56][Costs][56]
 
-[49][57] [Restriction on lessee's powers of disposition][57]
+[49][57][][57][Restriction on lessee's powers of disposition][57]
 
-[50][58] [Application of rents received][58]
+[50][58][][58][Application of rents received][58]
 
-[51][59] [Apportionment of rent where land under separate titles][59]
+[51][59][][59][Apportionment of rent where land under separate titles][59]
 
-[52][60] [Application of rents received in respect of Crown land][60]
+[52][60][][60][Application of rents received in respect of Crown land][60]
 
 [Security for money expended or advanced by chief executive][61]
 
-[53][62] [Money expended by chief executive to be charged on land][62]
+[53][62][][62][Money expended by chief executive to be charged on land][62]
 
-[54][63] [Court may impose charges for betterment][63]
+[54][63][][63][Court may impose charges for betterment][63]
 
-[55][64] [Variation and registration of charges][64]
+[55][64][][64][Variation and registration of charges][64]
 
-[56][65] [Enforcement of charges][65]
+[56][65][][65][Enforcement of charges][65]
 
 [Advances to lessees][66]
 
-[57][67] [Advances to lessees][67]
+[57][67][][67][Advances to lessees][67]
 
-[58][68] [Security to be given by lessee in respect of expenditure of chief executive or of advances][68]
+[58][68][][68][Security to be given by lessee in respect of expenditure of chief executive or of advances][68]
 
-[59][69] [Advances to owners of freehold land][69]
+[59][69][][69][Advances to owners of freehold land][69]
 
 [Advances to purchasers][70]
 
-[60][71] [Advances to purchasers of freehold interests][71]
+[60][71][][71][Advances to purchasers of freehold interests][71]
 
-[61][72] [Advances to purchasers of leasehold interests][72]
+[61][72][][72][Advances to purchasers of leasehold interests][72]
 
 [Special powers of chief executive][73]
 
-[62][74] [Chief executive may acquire land or rights over land][74]
+[62][74][][74][Chief executive may acquire land or rights over land][74]
 
-[63][75] [Acquisition of land by chief executive for owners of scheme][75]
+[63][75][][75][Acquisition of land by chief executive for owners of scheme][75]
 
-[64][76] [Land may be vested in owners][76]
+[64][76][][76][Land may be vested in owners][76]
 
-[65][77] [Chief executive may grant or acquire easements][77]
+[65][77][][77][Chief executive may grant or acquire easements][77]
 
-[66][78] [Water supplies][78]
+[66][78][][78][Water supplies][78]
 
-[67][79] [Chief executive may engage advisers for Maori farmers][79]
+[67][79][][79][Chief executive may engage advisers for Maori farmers][79]
 
-[68][80] [Right to cut timber, etc][80]
+[68][80][][80][Right to cut timber, etc][80]
 
-[69][81] [Power to pay rates, taxes, and other money][81]
+[69][81][][81][Power to pay rates, taxes, and other money][81]
 
-[70][82] [Sharemilking contracts, etc][82]
+[70][82][][82][Sharemilking contracts, etc][82]
 
-[71][83] [Use of land for industries other than farming][83]
+[71][83][][83][Use of land for industries other than farming][83]
 
-[72][84] [Use of land for afforestation purposes][84]
+[72][84][][84][Use of land for afforestation purposes][84]
 
-[73][85] [Surveys][85]
+[73][85][][85][Surveys][85]
 
-[74][86] [Power to pay revenue from land to owners][86]
+[74][86][][86][Power to pay revenue from land to owners][86]
 
 [Miscellaneous provisions][87]
 
-[75][88] [Payment in respect of benefit to Crown land that is not subject to this Part][88]
+[75][88][][88][Payment in respect of benefit to Crown land that is not subject to this Part][88]
 
-[76][89] [Development of land under Land Act 1948][89]
+[76][89][][89][Development of land under Land Act 1948][89]
 
-[77][90] [Validity of contracts made by chief executive][90]
+[77][90][][90][Validity of contracts made by chief executive][90]
 
-[78][91] [Accounting provisions][91]
+[78][91][][91][Accounting provisions][91]
 
-[79][92] [Accounts to be kept by chief executive][92]
+[79][92][][92][Accounts to be kept by chief executive][92]
 
-[80][93] [Interest payments in respect of Maori land development][93]
+[80][93][][93][Interest payments in respect of Maori land development][93]
 
-[81][94] [Relief from interest payment][94]
+[81][94][][94][Relief from interest payment][94]
 
-[82][95] [Special provisions as to Crown lands and to lands purchased by chief executive][95]
+[82][95][][95][Special provisions as to Crown lands and to lands purchased by chief executive][95]
 
-[83][96] [Chief executive may accept money for incentive shares, etc][96]
+[83][96][][96][Chief executive may accept money for incentive shares, etc][96]
 
-[84][97] [Interference and obstruction prohibited][97]
+[84][97][][97][Interference and obstruction prohibited][97]
 
 [Part 3][98]  
 [Other powers of chief executive][98]
 
-[85][99] [Advances to Maori occupiers of land that is not subject to Part 2][99]
+[85][99][][99][Advances to Maori occupiers of land that is not subject to Part 2][99]
 
-[86][100] [Advances and other assistance to Maori][100] \[Repealed\]
+[86][100][][100][Advances and other assistance to Maori][100] \[Repealed\]
 
-[86A][101] [Provisional registration of mortgages to Crown or State Loan Department][101]
+[86A][101][][101][Provisional registration of mortgages to Crown or State Loan Department][101]
 
-[87][102] [Authorising establishment and maintenance of Kokiri Centres][102] \[Repealed\]
+[87][102][][102][Authorising establishment and maintenance of Kokiri Centres][102] \[Repealed\]
 
-[88][103] [Chief executive may establish and maintain hostels][103]
+[88][103][][103][Chief executive may establish and maintain hostels][103]
 
 [Part 4][104]  
 [Miscellaneous provisions][104]
 
-[89][105] [Regulations][105]
+[89][105][][105][Regulations][105]
 
-[90][106] [Transitional provision][106]
+[90][106][][106][Transitional provision][106]
 
-[91][107] [Expiry][107] \[Repealed\]
+[91][107][][107][Expiry][107] \[Repealed\]
 
 [Schedule 1][108]  
 [Amendments consequential upon restructuring of Department][108]
@@ -1486,7 +1486,7 @@ Maori land development
 
 ##### 84 Interference and obstruction prohibited
     
-*   (1) Every person commits an offence and is liable upon summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500 who---
+*   (1) Every person commits an offence and is liable upon conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500 who---
         
     *   (a) trespasses on any land that is subject to this Part (whether such land has been leased or not), and neglects or refuses to leave the land after having been warned that he or she is a trespasser and directed to leave the land by any person authorised in that behalf by the chief executive; or
     
@@ -1497,6 +1497,8 @@ Maori land development
     (3) In any such proceedings a certificate under the hand of a Registrar of the court to the effect that any land is subject to this Part shall, in the absence of proof to the contrary, be conclusive evidence of that fact.
     
     (4) No proceedings shall be commenced under this section except with the consent of the chief executive.
+    
+    Section 84(1): amended, on 1 July 2013, by [section 413][144] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 84(1)(a): amended, on 1 January 1992, pursuant to [section 9(2)][113] of the Ministry of Maori Development Act 1991 (1991 No 145).
     
@@ -1561,7 +1563,7 @@ Other powers of chief executive
     
 *   \[Repealed\]
     
-    Section 86: repealed, on 24 June 1996, by [section 2(1)][144] of the Maori Affairs Restructuring Amendment Act 1996 (1996 No 32).
+    Section 86: repealed, on 24 June 1996, by [section 2(1)][145] of the Maori Affairs Restructuring Amendment Act 1996 (1996 No 32).
 
 ##### 86A Provisional registration of mortgages to Crown or State Loan Department
     
@@ -1607,9 +1609,9 @@ Other powers of chief executive
     
     Section 86A: inserted, on 20 June 1991, by section 4 of the Maori Affairs Restructuring Amendment Act 1991 (1991 No 42).
     
-    Section 86A(8)(a): substituted, on 1 March 2002, by [section 170(1)][145] of the Public Trust Act 2001 (2001 No 100).
+    Section 86A(8)(a): substituted, on 1 March 2002, by [section 170(1)][146] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 86A(8)(b): substituted, on 1 July 2001, by [section 24(1)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 86A(8)(b): substituted, on 1 July 2001, by [section 24(1)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
     Section 86A(8)(c): amended, on 1 July 2009, pursuant to [section 30(2)(b)][121] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
@@ -1617,7 +1619,7 @@ Other powers of chief executive
     
 *   \[Repealed\]
     
-    Section 87: repealed, on 1 July 1994, by [section 14][147] of the Maori Purposes Act 1993 (1993 No 103).
+    Section 87: repealed, on 1 July 1994, by [section 14][148] of the Maori Purposes Act 1993 (1993 No 103).
 
 ##### 88 Chief executive may establish and maintain hostels
     
@@ -1717,39 +1719,39 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Purposes Act 1960 (1960 No 120) (RS Vol 8, p 255)
 
-_Amendment(s) incorporated in the [Act(s)][148]._
+_Amendment(s) incorporated in the [Act(s)][149]._
 
 ##### Maori Purposes Act 1966 (1966 No 106) (RS Vol 8, p 264)
 
-_Amendment(s) incorporated in the [Act(s)][149]._
+_Amendment(s) incorporated in the [Act(s)][150]._
 
 ##### Maori Purposes Act 1972 (1972 No 135) (RS Vol 8, p 329)
 
-_Amendment(s) incorporated in the [Act(s)][150]._
+_Amendment(s) incorporated in the [Act(s)][151]._
 
 ##### Maori Purposes Act (No 2) 1973 (1973 No 106) (RS Vol 8, p 331)
 
-_Amendment(s) incorporated in the [Act(s)][151]._
+_Amendment(s) incorporated in the [Act(s)][152]._
 
 ##### Maori Purposes Act 1975 (1975 No 148) (RS Vol 8, p 353)
 
-_Amendment(s) incorporated in the [Act(s)][152]._
+_Amendment(s) incorporated in the [Act(s)][153]._
 
 ##### Maori Purposes Act 1977 (1977 No 103) (RS Vol 8, p 356)
 
-_Amendment(s) incorporated in the [Act(s)][153]._
+_Amendment(s) incorporated in the [Act(s)][154]._
 
 ##### Maori Purposes Act 1979 (1979 No 136) (RS Vol 8, p 357)
 
-_Amendment(s) incorporated in the [Act(s)][154]._
+_Amendment(s) incorporated in the [Act(s)][155]._
 
 ##### Maori Purposes Act 1980 (1980 No 67) (RS Vol 8, p 359)
 
-_Amendment(s) incorporated in the [Act(s)][155]._
+_Amendment(s) incorporated in the [Act(s)][156]._
 
 ##### Maori Purposes Act 1982 (1982 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][156]._
+_Amendment(s) incorporated in the [Act(s)][157]._
 
 ---
 
@@ -1761,7 +1763,7 @@ Commencement24 June 1996
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Maori Affairs Restructuring Amendment Act 1996][157], and shall be read together with and deemed part of the Maori Affairs Restructuring Act 1989 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Maori Affairs Restructuring Amendment Act 1996][158], and shall be read together with and deemed part of the Maori Affairs Restructuring Act 1989 (hereinafter referred to as ""the principal Act"").
 
 ##### 2 Advances and other assistance to Maori
     
@@ -1787,23 +1789,23 @@ Commencement24 June 1996
 
 ###### 1 General
     
-*   This is a reprint of the Maori Affairs Restructuring Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Maori Affairs Restructuring Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][158] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][159] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][159] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][160] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][160] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][161] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][161] and [17E][162] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][162] and [17E][163] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1834,7 +1836,9 @@ Commencement24 June 1996
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Māori Trustee Amendment Act 2009 (2009 No 12): [section 30][121]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][144]
+    
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30][121]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][134]
     
@@ -1842,11 +1846,11 @@ Commencement24 June 1996
     
     Cadastral Survey Act 2002 (2002 No 12): [section 68(1)][140]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][145]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][146]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][146]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][147]
     
-    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][163]
+    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][164]
     
     Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][124]
     
@@ -1854,11 +1858,11 @@ Commencement24 June 1996
     
     Arbitration Act 1996 (1996 No 99): [section 18][137]
     
-    [Maori Affairs Restructuring Amendment Act 1996][157] (1996 No 32) 
+    [Maori Affairs Restructuring Amendment Act 1996][158] (1996 No 32) 
     
-    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 3][164]
+    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 3][165]
     
-    Maori Purposes Act 1993 (1993 No 103): [section 14][147]
+    Maori Purposes Act 1993 (1993 No 103): [section 14][148]
     
     Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][114]
     
@@ -2016,24 +2020,25 @@ Commencement24 June 1996
 [141]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM21620
 [142]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM162942
 [143]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM162982
-[144]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM386862
-[145]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM124529
-[146]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM96736
-[147]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM319565
-[148]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM325964
-[149]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM380552
-[150]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM408889
-[151]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM411105
-[152]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM437760
-[153]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM9051
-[154]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM35097
-[155]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM38540
-[156]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM63913
-[157]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM386856
-[158]: http://www.pco.parliament.govt.nz/reprints/
-[159]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM195439
-[160]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[161]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM195468
-[162]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM195470
-[163]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM90762
-[164]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM211617
+[144]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM3360714
+[145]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM386862
+[146]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM124529
+[147]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM96736
+[148]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM319565
+[149]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM325964
+[150]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM380552
+[151]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM408889
+[152]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM411105
+[153]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM437760
+[154]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM9051
+[155]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM35097
+[156]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM38540
+[157]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM63913
+[158]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM386856
+[159]: http://www.pco.parliament.govt.nz/reprints/
+[160]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM195439
+[161]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[162]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM195468
+[163]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM195470
+[164]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM90762
+[165]: http://www.legislation.govt.nz/act/public/1989/0068/latest/link.aspx?id=DLM211617
