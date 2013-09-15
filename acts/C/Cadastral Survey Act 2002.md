@@ -1,7 +1,7 @@
 Reprint  
-as at 27 March 2008
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Cadastral Survey Act 2002Public Act2002 No 12
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by Land Information New Zealand.
 
@@ -23,175 +23,175 @@ This Act is administered by Land Information New Zealand.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
 [Part 2][6]  
 [Administration][6]
 
 [Surveyor-General][7]
 
-[5][8] [Surveyor-General][8]
+[5][8][][8][Surveyor-General][8]
 
-[6][9] [Deputy Surveyor-General][9]
+[6][9][][9][Deputy Surveyor-General][9]
 
-[7][10] [Functions and duties of Surveyor-General][10]
+[7][10][][10][Functions and duties of Surveyor-General][10]
 
-[8][11] [Delegation of Surveyor-General's functions, duties, and powers][11]
+[8][11][][11][Delegation of Surveyor-General's functions, duties, and powers][11]
 
 [Chief executive][12]
 
-[9][13] [Functions of chief executive][13]
+[9][13][][13][Functions of chief executive][13]
 
 [Cadastral Surveyors Licensing Board of New Zealand][14]
 
-[10][15] [Cadastral Surveyors Licensing Board of New Zealand][15]
+[10][15][][15][Cadastral Surveyors Licensing Board of New Zealand][15]
 
-[11][16] [Functions and duties of Board][16]
+[11][16][][16][Functions and duties of Board][16]
 
-[12][17] [Powers of Board][17]
+[12][17][][17][Powers of Board][17]
 
-[13][18] [Membership of Board][18]
+[13][18][][18][Membership of Board][18]
 
-[14][19] [Further provisions relating to Board and its members][19]
+[14][19][][19][Further provisions relating to Board and its members][19]
 
-[15][20] [Liability of members and employees][20]
+[15][20][][20][Liability of members and employees][20]
 
-[16][21] [Application of fees received by Board][21]
+[16][21][][21][Application of fees received by Board][21]
 
-[17][22] [Fees and allowances][22]
+[17][22][][22][Fees and allowances][22]
 
-[18][23] [Unauthorised expenditure][23]
+[18][23][][23][Unauthorised expenditure][23]
 
-[19][24] [Accounts][24]
+[19][24][][24][Accounts][24]
 
-[20][25] [Annual report][25]
+[20][25][][25][Annual report][25]
 
 [Part 3][26]  
 [Licensing of cadastral surveyors][26]
 
-[21][27] [Register of cadastral surveyors][27]
+[21][27][][27][Register of cadastral surveyors][27]
 
-[22][28] [Entitlement of applicant for licence][28]
+[22][28][][28][Entitlement of applicant for licence][28]
 
-[23][29] [Character of applicant][29]
+[23][29][][29][Character of applicant][29]
 
-[24][30] [Applications for licence][30]
+[24][30][][30][Applications for licence][30]
 
-[25][31] [Board to consider applications][31]
+[25][31][][31][Board to consider applications][31]
 
-[26][32] [Board to license applicant or decline application][32]
+[26][32][][32][Board to license applicant or decline application][32]
 
-[27][33] [Duration of licence][33]
+[27][33][][33][Duration of licence][33]
 
-[28][34] [Renewal of licence][34]
+[28][34][][34][Renewal of licence][34]
 
-[29][35] [Cadastral surveyor to notify change of business address][35]
+[29][35][][35][Cadastral surveyor to notify change of business address][35]
 
-[30][36] [Amendment of register on change of name and removal of name on request][36]
+[30][36][][36][Amendment of register on change of name and removal of name on request][36]
 
-[31][37] [Offences relating to licences][37]
+[31][37][][37][Offences relating to licences][37]
 
-[32][38] [Transitional provision: registered surveyors][38]
+[32][38][][38][Transitional provision: registered surveyors][38]
 
-[33][39] [Transitional provision: applications to be registered surveyor][39]
+[33][39][][39][Transitional provision: applications to be registered surveyor][39]
 
 [Part 4][40]  
 [Discipline][40]
 
-[34][41] [Interpretation][41]
+[34][41][][41][Interpretation][41]
 
-[35][42] [Complaints of professional misconduct][42]
+[35][42][][42][Complaints of professional misconduct][42]
 
-[36][43] [Vexatious or trivial complaints][43]
+[36][43][][43][Vexatious or trivial complaints][43]
 
-[37][44] [Procedure if Board accepts complaint][44]
+[37][44][][44][Procedure if Board accepts complaint][44]
 
-[38][45] [Hearing of complaint][45]
+[38][45][][45][Hearing of complaint][45]
 
-[39][46] [Disciplinary powers of Board][46]
+[39][46][][46][Disciplinary powers of Board][46]
 
-[40][47] [Powers and rights of Board and persons involved in proceedings of Board][47]
+[40][47][][47][Powers and rights of Board and persons involved in proceedings of Board][47]
 
-[41][48] [Appeals from decisions of Board][48]
+[41][48][][48][Appeals from decisions of Board][48]
 
-[42][49] [Suspensions and conditions must be entered in register][49]
+[42][49][][49][Suspensions and conditions must be entered in register][49]
 
-[43][50] [Surrender of licences][50]
+[43][50][][50][Surrender of licences][50]
 
-[44][51] [Publication of orders][51]
+[44][51][][51][Publication of orders][51]
 
-[45][52] [Copies of rules and procedures to be made available on request][52]
+[45][52][][52][Copies of rules and procedures to be made available on request][52]
 
-[46][53] [Transitional provision][53]
+[46][53][][53][Transitional provision][53]
 
 [Part 5][54]  
 [Conduct of cadastral surveys][54]
 
-[47][55] [General duties in relation to cadastral surveys][55]
+[47][55][][55][General duties in relation to cadastral surveys][55]
 
-[48][56] [Regulations][56]
+[48][56][][56][Regulations][56]
 
-[49][57] [Surveyor-General may make rules about conduct of cadastral surveying][57]
+[49][57][][57][Surveyor-General may make rules about conduct of cadastral surveying][57]
 
-[50][58] [Transitional provision: Surveyor-General's rules][58]
+[50][58][][58][Transitional provision: Surveyor-General's rules][58]
 
-[51][59] [Expiry of section 50][59]
+[51][59][][59][Expiry of section 50][59]
 
-[52][60] [Correction of errors in survey][60]
+[52][60][][60][Correction of errors in survey][60]
 
-[53][61] [Powers of entry for cadastral survey purposes][61]
+[53][61][][61][Powers of entry for cadastral survey purposes][61]
 
 [Part 6][62]  
 [Offences and penalties][62]
 
-[54][63] [Obstruction of cadastral surveyor][63]
+[54][63][][63][Obstruction of cadastral surveyor][63]
 
-[55][64] [Interference with survey marks][64]
+[55][64][][64][Interference with survey marks][64]
 
-[56][65] [False cadastral survey marks][65]
+[56][65][][65][False cadastral survey marks][65]
 
-[57][66] [Unlicensed persons not to act as licensed cadastral surveyors][66]
+[57][66][][66][Unlicensed persons not to act as licensed cadastral surveyors][66]
 
-[58][67] [Offences relating to terms implying person is licensed cadastral surveyor][67]
+[58][67][][67][Offences relating to terms implying person is licensed cadastral surveyor][67]
 
 [Infringement offences][68]
 
-[59][69] [Infringement offences][69]
+[59][69][][69][Infringement offences][69]
 
-[60][70] [Commission of infringement offence][70]
+[60][70][][70][Commission of infringement offence][70]
 
-[61][71] [Infringement notices][71]
+[61][71][][71][Infringement notices][71]
 
-[62][72] [Payment of infringement fees][72]
+[62][72][][72][Payment of infringement fees][72]
 
-[63][73] [Regulations][73]
+[63][73][][73][Regulations][73]
 
 [Part 7][74]  
 [Dissolution of Survey Board of New Zealand and New Zealand Institute of Surveyors][74]
 
-[64][75] [Dissolution of Survey Board of New Zealand][75]
+[64][75][][75][Dissolution of Survey Board of New Zealand][75]
 
-[65][76] [Dissolution of New Zealand Institute of Surveyors][76]
+[65][76][][76][Dissolution of New Zealand Institute of Surveyors][76]
 
 [Part 8][77]  
 [Miscellaneous][77]
 
-[66][78] [Certification of plans and descriptions][78]
+[66][78][][78][Certification of plans and descriptions][78]
 
-[67][79] [Certificate by or on behalf of Board to be evidence of being licensed, etc][79]
+[67][79][][79][Certificate by or on behalf of Board to be evidence of being licensed, etc][79]
 
-[68][80] [Consequential amendments and repeals][80]
+[68][80][][80][Consequential amendments and repeals][80]
 
-[69][81] [References in other enactments][81]
+[69][81][][81][References in other enactments][81]
 
 [Schedule 1][82]  
 [Further provisions applying to Board][82]
@@ -693,7 +693,7 @@ Licensing of cadastral surveyors
 
 ##### 31 Offences relating to licences
     
-*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000 who, for the purpose of obtaining a licence or renewal of a licence under this Part (either for himself or herself, or for any other person),---
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000 who, for the purpose of obtaining a licence or renewal of a licence under this Part (either for himself or herself, or for any other person),---
         
     *   (a) either orally or in writing, makes any declaration or representation that to his or her knowledge is false or misleading in a material particular; or
     
@@ -702,6 +702,8 @@ Licensing of cadastral surveyors
     *   (c) produces to the Board or makes use of any document, knowing that it is not genuine.
     
     Compare: 1986 No 123 s 46
+    
+    Section 31: amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 32 Transitional provision: registered surveyors
     
@@ -762,7 +764,7 @@ Discipline
     
     _professional misconduct_ means the professional misconduct described in [Schedule 2][83].
     
-    Section 34: substituted, on 27 March 2008, by [section 4][95] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
+    Section 34: substituted, on 27 March 2008, by [section 4][96] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
 
 ##### 35 Complaints of professional misconduct
     
@@ -792,7 +794,7 @@ Discipline
     
     Compare: 1986 No 123 s 49
     
-    Section 35(4): amended, on 27 March 2008, by [section 5][96] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
+    Section 35(4): amended, on 27 March 2008, by [section 5][97] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
 
 ##### 36 Vexatious or trivial complaints
     
@@ -896,9 +898,9 @@ Discipline
 
 ##### 40 Powers and rights of Board and persons involved in proceedings of Board
     
-*   (1) The Board has and may exercise, for the purposes of any hearing under [section 38][45], the same powers as are conferred on Commissions of Inquiry by [sections 4][97], [4B][98], and [4D to 8][99] of the Commissions of Inquiry Act 1908\.
+*   (1) The Board has and may exercise, for the purposes of any hearing under [section 38][45], the same powers as are conferred on Commissions of Inquiry by [sections 4][98], [4B][99], and [4D to 8][100] of the Commissions of Inquiry Act 1908\.
     
-    (2) [Sections 4][97], [4B][98], and [4D to 8][99] of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in any hearing under [section 38][45] as if it were an inquiry conducted by a Commission under that Act.
+    (2) [Sections 4][98], [4B][99], and [4D to 8][100] of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in any hearing under [section 38][45] as if it were an inquiry conducted by a Commission under that Act.
     
     (3) A cadastral surveyor in respect of whom a hearing is conducted under [section 38][45] is entitled to appear and be heard, either personally or by his or her representative, at the hearing.
     
@@ -942,7 +944,9 @@ Discipline
     
 *   (1) A cadastral surveyor whose licence is cancelled or suspended under this Part must, within 14 days after the date on which written notice of the cancellation or suspension has been given to him or her, deliver to the Board the current licence issued to him or her under this Act.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who wilfully fails to comply with subsection (1).
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who wilfully fails to comply with subsection (1).
+    
+    Section 43(2): amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Publication of orders
     
@@ -975,7 +979,7 @@ Conduct of cadastral surveys
     
     (3) A cadastral surveyor is responsible for a cadastral survey conducted by a person acting under his or her direction.
     
-    (4) Subsection (2) applies subject to subsection (5) and [section 167][100] of the Land Transfer Act 1952\.
+    (4) Subsection (2) applies subject to subsection (5) and [section 167][101] of the Land Transfer Act 1952\.
     
     (5) If the Surveyor-General considers in a particular case that compliance with the requirements of any standards or rules under this Part is impractical or unreasonable, the Surveyor-General may---
         
@@ -1013,7 +1017,7 @@ Conduct of cadastral surveys
     
     *   (e) the manner in which the fees or charges are to be paid.
     
-    (4) The [Survey (Departmental Fees and Charges) Regulations 1998][101], to the extent applicable,---
+    (4) The [Survey (Departmental Fees and Charges) Regulations 1998][102], to the extent applicable,---
         
     *   (a) continue in force as if they had been made under subsection (3); and
     
@@ -1021,7 +1025,7 @@ Conduct of cadastral surveys
     
     Compare: 1986 No 123 s 80
     
-    Section 48(2A): inserted, on 27 March 2008, by [section 6][102] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
+    Section 48(2A): inserted, on 27 March 2008, by [section 6][103] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
 
 ##### 49 Surveyor-General may make rules about conduct of cadastral surveying
     
@@ -1055,7 +1059,7 @@ Conduct of cadastral surveys
         
     *   (a) apply subject to regulations made under this Part; and
     
-    *   (b) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][103].
+    *   (b) are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][104] and must be presented to the House of Representatives under [section 41][105] of that Act.
     
     (5) The Surveyor-General must---
         
@@ -1063,7 +1067,9 @@ Conduct of cadastral surveys
     
     *   (b) supply, on request for a reasonable fee, a copy of rules made under this section.
     
-    Section 49(1)(a): amended, on 15 December 2005, by [section 4][104] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
+    Section 49(1)(a): amended, on 15 December 2005, by [section 4][106] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
+    
+    Section 49(4)(b): replaced, on 5 August 2013, by [section 77(3)][107] of the Legislation Act 2012 (2012 No 119).
 
 ##### 50 Transitional provision: Surveyor-General's rules
     
@@ -1077,23 +1083,23 @@ Conduct of cadastral surveys
 
 ##### 52 Correction of errors in survey
     
-*   (1) If an error is found in a cadastral survey dataset affecting any title under the [Land Transfer Act 1952][105] or any title or tenure under any other Act, the Surveyor-General may, in writing, require the cadastral surveyor responsible for the error to undertake, or arrange to be undertaken, the work necessary to correct the error within a time that the Surveyor-General considers reasonable.
+*   (1) If an error is found in a cadastral survey dataset affecting any title under the [Land Transfer Act 1952][108] or any title or tenure under any other Act, the Surveyor-General may, in writing, require the cadastral surveyor responsible for the error to undertake, or arrange to be undertaken, the work necessary to correct the error within a time that the Surveyor-General considers reasonable.
     
     (2) Subsection (1) does not limit---
         
-    *   (a) the powers granted in [sections 7][106] and [46][107] of the Crown Grants Act 1908:
+    *   (a) the powers granted in [sections 7][109] and [46][110] of the Crown Grants Act 1908:
     
-    *   (b) the powers of the Registrar under [sections 80][108] and [81][109] of the Land Transfer Act 1952, or the provisions of [section 170][110] of that Act:
+    *   (b) the powers of the Registrar under [sections 80][111] and [81][112] of the Land Transfer Act 1952, or the provisions of [section 170][113] of that Act:
     
     *   (c) the powers of any court under any enactment.
     
     (3) In subsection (1), _cadastral surveyor_ includes a former licensed cadastral surveyor and a person who was a registered surveyor under the Survey Act 1986\.
     
-    Section 52(1): amended, on 27 March 2008, by [section 7(1)(a)][111] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
+    Section 52(1): amended, on 27 March 2008, by [section 7(1)(a)][114] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
     
-    Section 52(1): amended, on 27 March 2008, by [section 7(1)(b)][111] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
+    Section 52(1): amended, on 27 March 2008, by [section 7(1)(b)][114] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
     
-    Section 52(3): added, on 27 March 2008, by [section 7(2)][111] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
+    Section 52(3): added, on 27 March 2008, by [section 7(2)][114] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
 
 ##### 53 Powers of entry for cadastral survey purposes
     
@@ -1120,7 +1126,7 @@ Offences and penalties
 
 ##### 54 Obstruction of cadastral surveyor
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who knowingly obstructs or hinders a cadastral surveyor, or a person assisting a cadastral surveyor, in---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who knowingly obstructs or hinders a cadastral surveyor, or a person assisting a cadastral surveyor, in---
         
     *   (a) performing the cadastral surveyor's duties and functions in relation to a cadastral survey; or
     
@@ -1129,16 +1135,18 @@ Offences and penalties
     *   (c) fixing, placing, restoring, repairing, or setting up a cadastral survey mark.
     
     Compare: 1986 No 123 s 66
+    
+    Section 54: amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 55 Interference with survey marks
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who knowingly or recklessly takes, destroys, or alters the position of, or markings on, a survey mark that has been placed or set up---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who knowingly or recklessly takes, destroys, or alters the position of, or markings on, a survey mark that has been placed or set up---
         
     *   (a) for the control of cadastral surveys; or
     
     *   (b) for the purposes of any cadastral survey conducted under, or for the purposes of, this Act or another Act.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who (having taken, destroyed, or altered the position of, or markings on, a survey mark) fails to notify the taking, destruction, or alteration to the Surveyor-General as soon as practicable after doing so.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who (having taken, destroyed, or altered the position of, or markings on, a survey mark) fails to notify the taking, destruction, or alteration to the Surveyor-General as soon as practicable after doing so.
     
     (3) Every person who is convicted of an offence against subsection (1) or subsection (2) is also liable to pay the costs (including any associated cadastral survey costs) of repairing, replacing, or restoring to its proper position, or restoring the markings on, the survey mark concerned.
     
@@ -1158,33 +1166,41 @@ Offences and penalties
     
     Compare: 1986 No 123 s 67
     
-    Section 55 heading: amended, on 15 December 2005, by [section 5(1)][112] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
+    Section 55 heading: amended, on 15 December 2005, by [section 5(1)][115] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
     
-    Section 55(3): amended, on 15 December 2005, by [section 5(2)][112] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
+    Section 55(1): amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55(6)(a): amended, on 15 December 2005, by [section 5(3)][112] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
+    Section 55(2): amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 55(3): amended, on 15 December 2005, by [section 5(2)][115] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
+    
+    Section 55(6)(a): amended, on 15 December 2005, by [section 5(3)][115] of the Cadastral Survey Amendment Act 2005 (2005 No 92).
 
 ##### 56 False cadastral survey marks
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who places in position in relation to any land a peg or mark---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who places in position in relation to any land a peg or mark---
         
     *   (a) that is not a cadastral survey mark properly placed; and
     
     *   (b) with the intention of causing any person to believe that it is a cadastral survey mark placed in that position for the purposes of a cadastral survey.
     
     Compare: 1986 No 123 s 69
+    
+    Section 56: amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Unlicensed persons not to act as licensed cadastral surveyors
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, not being a licensed cadastral surveyor or a person acting under the direction of a licensed cadastral surveyor, performs or executes, or undertakes to perform or execute, anything for the purposes of a cadastral survey.
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, not being a licensed cadastral surveyor or a person acting under the direction of a licensed cadastral surveyor, performs or executes, or undertakes to perform or execute, anything for the purposes of a cadastral survey.
     
     (2) However, subsection (1) does not apply to anything done under the authority of another enactment by a person who is not a licensed cadastral surveyor.
     
     Compare: 1986 No 123 s 70
+    
+    Section 57(1): amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Offences relating to terms implying person is licensed cadastral surveyor
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who,---
         
     *   (a) not being a licensed cadastral surveyor, uses, or causes or permits to be used, written words, titles, or initials, or an abbreviation of words, titles, or initials, that are intended to cause or may reasonably cause a person to believe that the person using them is a licensed cadastral surveyor or is qualified to act as a licensed cadastral surveyor:
     
@@ -1193,6 +1209,8 @@ Offences and penalties
     *   (c) with intent to deceive, makes use of a licence issued to him or her or to another person under this Act.
     
     Compare: 1986 No 123 s 71
+    
+    Section 58: amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Infringement offences
 
@@ -1208,11 +1226,11 @@ Offences and penalties
     
 *   If any person is alleged to have committed an infringement offence, the person may either---
         
-    *   (a) be proceeded against for the alleged offence under the [Summary Proceedings Act 1957][113]; or
+    *   (a) be proceeded against by filing a charging document under [section 14][116] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice under [section 61][71].
     
-    
+    Section 60(a): replaced, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Infringement notices
     
@@ -1224,7 +1242,7 @@ Offences and penalties
     
     *   (b) by sending it by post addressed to the person at the person's last known place of residence or business.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][113], an infringement notice sent to a person under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
+    (3) An infringement notice sent to a person under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
     
     (4) An infringement notice must be in the prescribed form and must contain the following particulars:
         
@@ -1236,7 +1254,7 @@ Offences and penalties
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][114] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][117] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -1244,13 +1262,15 @@ Offences and penalties
     
     *   (h) any other particulars that are prescribed.
     
-    (5) If an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][114] of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with all necessary modifications.
+    (5) If an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][117] of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with all necessary modifications.
+    
+    Section 61(3): amended, on 1 July 2013, by [section 413][95] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Payment of infringement fees
     
 *   All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
     
-    Section 62: amended, on 25 January 2005, pursuant to [section 65R(3)][115] of the Public Finance Act 1989 (1989 No 44).
+    Section 62: amended, on 25 January 2005, pursuant to [section 65R(3)][118] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 63 Regulations
     
@@ -1285,7 +1305,7 @@ Dissolution of Survey Board of New Zealand and New Zealand Institute of Surveyor
     
 *   (1) Despite [section 68(2)][80], the New Zealand Institute of Surveyors (the _Institute_) continues in existence for the purposes of this section.
     
-    (2) The Institute must, as soon as practicable after this Act comes into force, nominate, by notice in the _Gazette_, for the purposes of this section, a society (the _society_) registered under the [Incorporated Societies Act 1908][116], whether registered before or after the commencement of this section.
+    (2) The Institute must, as soon as practicable after this Act comes into force, nominate, by notice in the _Gazette_, for the purposes of this section, a society (the _society_) registered under the [Incorporated Societies Act 1908][119], whether registered before or after the commencement of this section.
     
     (3) On a date appointed by the Governor-General by Order in Council,---
         
@@ -1315,7 +1335,7 @@ Dissolution of Survey Board of New Zealand and New Zealand Institute of Surveyor
         
         
     
-    Section 65(3): 26 August 2002 date appointed for the purposes of section 65(3) of the Cadastral Survey Act 2002, on 26 July 2002, by the [Cadastral Survey (Dissolution of New Zealand Institute of Surveyors) Order 2002][117] (SR 2002/214).
+    Section 65(3): 26 August 2002 date appointed for the purposes of section 65(3) of the Cadastral Survey Act 2002, on 26 July 2002, by the [Cadastral Survey (Dissolution of New Zealand Institute of Surveyors) Order 2002][120] (SR 2002/214).
 
 ## Part 8  
 Miscellaneous
@@ -1336,9 +1356,9 @@ Miscellaneous
     
 *   (1) The Acts specified in [Schedule 4][85] are amended in the manner indicated in that schedule.
     
-    (2) The enactments specified in [Part 1][118] of Schedule 5 are repealed.
+    (2) The enactments specified in [Part 1][121] of Schedule 5 are repealed.
     
-    (3) The regulations specified in [Part 2][119] of Schedule 5 are revoked.
+    (3) The regulations specified in [Part 2][122] of Schedule 5 are revoked.
     
     (4) All surveys, matters, and proceedings commenced under the Survey Regulations 1998 that were pending or in progress on the commencement of this Act---
         
@@ -1360,9 +1380,9 @@ Miscellaneous
     
     *   (b) a reference to a plan approved by a chief surveyor or the Surveyor-General:
     
-    *   (c) a reference to a plan deposited under the [Land Transfer Act 1952][105]:
+    *   (c) a reference to a plan deposited under the [Land Transfer Act 1952][108]:
     
-    *   (d) a reference to a plan to be noted, notified, registered, or recorded in the register under the [Land Transfer Act 1952][105].
+    *   (d) a reference to a plan to be noted, notified, registered, or recorded in the register under the [Land Transfer Act 1952][108].
     
     
 
@@ -1389,7 +1409,7 @@ Further provisions applying to Board
         
     *   (a) any member of the Board appointed by the Minister; and
     
-    *   (b) the substitute member of the Board appointed under [clause 4][120].
+    *   (b) the substitute member of the Board appointed under [clause 4][123].
     
     (2) A member may---
         
@@ -1470,8 +1490,6 @@ Professional misconduct
 
 [s 34][41]
 
-##### 
-    
 *   1 A licensed cadastral surveyor is guilty of professional misconduct if the cadastral surveyor is found in any proceedings or appeal under [Part 4][40]---
         
     *   (a) to have been negligent in the conduct of, or failure to conduct, any cadastral survey:
@@ -1498,10 +1516,8 @@ Professional misconduct
     
     *   (l) to have failed, without reasonable cause, to perform any duty imposed on licensed cadastral surveyors by standards set by rules made under [section 49][57].
     
-    Schedule 2 clause 1(g): amended, on 27 March 2008, by [section 8][121] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
+    Schedule 2 clause 1(g): amended, on 27 March 2008, by [section 8][124] of the Cadastral Survey Amendment Act 2008 (2008 No 7).
 
-##### 
-    
 *   2 For the purposes of determining whether or not a licensed cadastral surveyor is guilty of professional misconduct, the fact that a cadastral survey or cadastral survey dataset may have been approved by or on behalf of the Surveyor-General or the subject of a determination by the chief executive that it complies with standards specified in rules made under [section 49][57] is not relevant.
 
 ---
@@ -1519,7 +1535,7 @@ _Amendment(s) incorporated in the Act(s)_.
 ## Part 2  
 Amendments to Survey Regulations 1998
 
-_Amendment(s) incorporated in the regulation(s)_.
+_Amendment(s) incorporated in the regulations_.
 
 ---
 
@@ -1534,27 +1550,27 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Forestry Rights Registration Act 1983 (1983 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][122]_.
+_Amendment(s) incorporated in the [Act(s)][125]_.
 
 ##### Forests Act 1949 (1949 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][123]_.
+_Amendment(s) incorporated in the [Act(s)][126]_.
 
 ##### Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][124]_.
+_Amendment(s) incorporated in the [Act(s)][127]_.
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][125]_.
+_Amendment(s) incorporated in the [Act(s)][128]_.
 
 ##### Land Transfer Amendment Act 1963 (1963 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][126]_.
+_Amendment(s) incorporated in the [Act(s)][129]_.
 
 ##### Maori Affairs Restructuring Act 1989 (1989 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][127]_.
+_Amendment(s) incorporated in the [Act(s)][130]_.
 
 ##### Marine Farming Act 1971 (1971 No 29)
 
@@ -1562,7 +1578,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][128]_.
+_Amendment(s) incorporated in the [Act(s)][131]_.
 
 ---
 
@@ -1576,13 +1592,13 @@ Enactments repealed
 
 ##### Crown Minerals Act 1991 (1991 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][129]_.
+_Amendment(s) incorporated in the [Act(s)][132]_.
 
 ##### Survey Act 1986 (1986 No 123)
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][130]_.
+_Amendment(s) incorporated in the [Act(s)][133]_.
 
 ## Part 2  
 Regulations revoked
@@ -1591,80 +1607,41 @@ Regulations revoked
 
 ##### Surveyors Professional Regulations 1977 (SR 1977/290)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Cadastral Survey Act 2002\. The reprint incorporates all the amendments to the Act as at 27 March 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Cadastral Survey Act 2002 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][131] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][134] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][135] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][136] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][137] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][132] and [17E][133] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][107]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][95]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Cadastral Survey Amendment Act 2008][138] (2008 No 7)
     
+    [Cadastral Survey Amendment Act 2005][139] (2005 No 92)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    [Cadastral Survey (Dissolution of New Zealand Institute of Surveyors) Order 2002][120] (SR 2002/214)
     
-*   [Cadastral Survey Amendment Act 2008][134] (2008 No 7)
-    
-    [Cadastral Survey Amendment Act 2005][135] (2005 No 92)
-    
-    [Cadastral Survey (Dissolution of New Zealand Institute of Surveyors) Order 2002][117] (SR 2002/214)
-    
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][115]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][118]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM141998
 [2]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM141999
 [3]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM142400
@@ -1759,44 +1736,48 @@ Regulations revoked
 [92]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM304703
 [93]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM319569
 [94]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM329886
-[95]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208607
-[96]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208614
-[97]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139145
-[98]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139153
-[99]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139157
-[100]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM271641
-[101]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM249036
-[102]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208615
-[103]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM195534
-[104]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM361125
-[105]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM269031
-[106]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139519
-[107]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139803
-[108]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM270496
-[109]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM270498
-[110]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM271654
-[111]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208616
-[112]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM361126
-[113]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM310742
-[114]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM311346
-[115]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM162942
-[116]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM175774
-[117]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139033
-[118]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM142690
-[119]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM142694
-[120]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM142644
-[121]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208618
-[122]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM72604
-[123]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM256647
-[124]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM249311
-[125]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM250592
-[126]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM349490
-[127]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM170688
-[128]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM88987
-[129]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM247371
-[130]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM135633
-[131]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM195439
-[132]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM195468
-[133]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM195470
-[134]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208600
-[135]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM361118
+[95]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM3360714
+[96]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208607
+[97]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208614
+[98]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139145
+[99]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139153
+[100]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139157
+[101]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM271641
+[102]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM249036
+[103]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208615
+[104]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM2997643
+[105]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM2998573
+[106]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM361125
+[107]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM2998633
+[108]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM269031
+[109]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139519
+[110]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139803
+[111]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM270496
+[112]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM270498
+[113]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM271654
+[114]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208616
+[115]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM361126
+[116]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM3360057
+[117]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM311346
+[118]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM162942
+[119]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM175774
+[120]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM139033
+[121]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM142690
+[122]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM142694
+[123]: http://www.legislation.govt.nz/act/public/2002/0012/latest/whole.html#DLM142644
+[124]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208618
+[125]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM72604
+[126]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM256647
+[127]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM249311
+[128]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM250592
+[129]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM349490
+[130]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM170688
+[131]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM88987
+[132]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM247371
+[133]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM135633
+[134]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM2998516
+[135]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM2998515
+[136]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM2998532
+[137]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[138]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM1208600
+[139]: http://www.legislation.govt.nz/act/public/2002/0012/latest/link.aspx?id=DLM361118
