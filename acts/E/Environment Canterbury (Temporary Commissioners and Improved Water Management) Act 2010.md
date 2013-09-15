@@ -1,5 +1,5 @@
 Reprint  
-as at 5 March 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1027,13 +1027,15 @@ Additional functions and powers of ECan after commencement day
 
 ##### 55 Appeal to Court of Appeal
     
-*   [Section 144][153] of the Summary Proceedings Act 1957 applies to a decision of the High Court on an appeal under [section 53][74] as if the decision had been made under [section 107][154] of the Summary Proceedings Act 1957\.
+*   [Subpart 8][153] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under [section 53][74] as if the decision had been made under [section 294][154] of that Act.
+    
+    Section 55: replaced, on 1 July 2013, by [section 413][155] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Making or declining to make WCO
 
 ##### 56 Application of sections 214 and 215 of RMA
     
-*   [Sections 214][145] and [215][155] of the RMA apply, with the necessary modifications, to making or declining to make a Canterbury WCO as if---
+*   [Sections 214][145] and [215][156] of the RMA apply, with the necessary modifications, to making or declining to make a Canterbury WCO as if---
         
     *   (a) every reference to a report of a special tribunal under [section 208][150] of the RMA were a reference to a report of ECan under this subpart; and
     
@@ -1043,7 +1045,7 @@ Additional functions and powers of ECan after commencement day
 
 ##### 57 Scope and effect of WCO made under this subpart
     
-*   (1) A Canterbury WCO made under [section 214][145] of the RMA, as applied by [section 56][78], may impose restrictions or prohibitions on the performance of any of ECan's functions under [section 30(1)(e) and (f)][156] of the RMA as they relate to water. 
+*   (1) A Canterbury WCO made under [section 214][145] of the RMA, as applied by [section 56][78], may impose restrictions or prohibitions on the performance of any of ECan's functions under [section 30(1)(e) and (f)][157] of the RMA as they relate to water. 
     
     (2) Restrictions or prohibitions imposed under subsection (1) may include, in particular, restrictions or prohibitions relating to---
         
@@ -1061,7 +1063,7 @@ Additional functions and powers of ECan after commencement day
 
 ##### 58 Applications to revoke or vary WCOs
     
-*   (1) [Section 216(1) and (2)][157] of the RMA apply in respect of an application to revoke or vary a Canterbury WCO. 
+*   (1) [Section 216(1) and (2)][158] of the RMA apply in respect of an application to revoke or vary a Canterbury WCO. 
     
     (2) Despite anything in this subpart, the Minister may, instead of submitting an application to revoke or vary a Canterbury WCO to ECan under [section 48(1)(b)(ii)][67], recommend that the Canterbury WCO to which the application relates be amended if---
         
@@ -1087,9 +1089,9 @@ Additional functions and powers of ECan after commencement day
     
     *   (b) a hearings commissioner appointed by ECan.
     
-    (2) [Section 34(7) to (10)][158] of the RMA (which relate to delegations under that Act) apply, with any necessary modifications, to delegations made under subsection (1).
+    (2) [Section 34(7) to (10)][159] of the RMA (which relate to delegations under that Act) apply, with any necessary modifications, to delegations made under subsection (1).
     
-    (3) Subsection (2) does not limit [clause 32][159] of Schedule 7 of the Local Government Act 2002\.
+    (3) Subsection (2) does not limit [clause 32][160] of Schedule 7 of the Local Government Act 2002\.
 
 #### Transitional matters
 
@@ -1097,13 +1099,13 @@ Additional functions and powers of ECan after commencement day
     
 *   (1) If an application for a Canterbury WCO is received by ECan before the resumption day and, before that day,---
         
-    *   (a) a hearing has not commenced, the application must be returned to the Minister and [clauses 1 to 3][160] of Schedule 2 apply:
+    *   (a) a hearing has not commenced, the application must be returned to the Minister and [clauses 1 to 3][161] of Schedule 2 apply:
     
-    *   (b) a hearing has commenced, [clauses 4][161] and [5][162] of Schedule 2 apply.
+    *   (b) a hearing has commenced, [clauses 4][162] and [5][163] of Schedule 2 apply.
     
     (2) \[Repealed\]
     
-    Section 60(2): repealed, on 5 March 2013, by [section 8][163] of the Environment Canterbury (Temporary Commissioners and Improved Water Management) Amendment Act 2013 (2013 No 6).
+    Section 60(2): repealed, on 5 March 2013, by [section 8][164] of the Environment Canterbury (Temporary Commissioners and Improved Water Management) Amendment Act 2013 (2013 No 6).
 
 ### Subpart 4---Process for approval of proposed regional policy statements or plans
 
@@ -1115,11 +1117,11 @@ Additional functions and powers of ECan after commencement day
         
     *   (a) means---
             
-        *   (i) any proposed plan or change to, or variation of, a plan notified by ECan under [clause 5][164] or [26][165] of Schedule 1 of the RMA---
+        *   (i) any proposed plan or change to, or variation of, a plan notified by ECan under [clause 5][165] or [26][166] of Schedule 1 of the RMA---
                 
             *   (A) after the commencement of this Act; or
             
-            *   (B) before the commencement of this Act, but only if no decision has been made under [clause 10][166] of that Schedule before the commencement of this Act:
+            *   (B) before the commencement of this Act, but only if no decision has been made under [clause 10][167] of that Schedule before the commencement of this Act:
             
             
         
@@ -1135,13 +1137,13 @@ Additional functions and powers of ECan after commencement day
     
 *   (1) Except as expressly provided otherwise in this subpart, the provisions of the [RMA][130] apply, as far as they are relevant, to any proposed regional policy statement or plan.
     
-    (2) However, subsection (1) does not override [section 161][167] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (a transitional provision relating to proposed policy statements, plans, or changes to policy statements or plans publicly notified before 1 October 2009).
+    (2) However, subsection (1) does not override [section 161][168] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (a transitional provision relating to proposed policy statements, plans, or changes to policy statements or plans publicly notified before 1 October 2009).
 
 #### Additional criteria for decision making
 
 ##### 63 Additional relevant criteria
     
-*   In considering any proposed regional policy statement or plan, ECan must have particular regard to the vision and principles of the CWMS in addition to the matters relevant under the [RMA][130] to its decisions made under [clause 10(1)][166] of Schedule 1 of that Act.
+*   In considering any proposed regional policy statement or plan, ECan must have particular regard to the vision and principles of the CWMS in addition to the matters relevant under the [RMA][130] to its decisions made under [clause 10(1)][167] of Schedule 1 of that Act.
 
 #### Procedural arrangements 
 
@@ -1149,7 +1151,7 @@ Additional functions and powers of ECan after commencement day
     
 *   [Sections 65 to 68][94] apply only to decisions---
         
-    *   (a) made under [clause 10][166] of Schedule 1 of the RMA by ECan; and
+    *   (a) made under [clause 10][167] of Schedule 1 of the RMA by ECan; and
     
     *   (b) in respect of which ECan must have particular regard to the additional criteria specified in [section 63][91].
     
@@ -1157,13 +1159,13 @@ Additional functions and powers of ECan after commencement day
 
 ##### 65 Notification of decision
     
-*   A notice served by ECan under [clause 11][168] of Schedule 1 of the RMA must include a statement of the time within which an appeal on a question of law may be lodged by a submitter under [section 66][95].
+*   A notice served by ECan under [clause 11][169] of Schedule 1 of the RMA must include a statement of the time within which an appeal on a question of law may be lodged by a submitter under [section 66][95].
 
 ##### 66 Right of appeal to High Court on question of law
     
-*   (1) No person may appeal to the Environment Court under [clause 14][169] of Schedule 1 of the RMA in respect of any of the decisions referred to in [section 64][93].
+*   (1) No person may appeal to the Environment Court under [clause 14][170] of Schedule 1 of the RMA in respect of any of the decisions referred to in [section 64][93].
     
-    (2) However, a person who made a submission under [clause 6][170] or [8][171] of Schedule 1 of the RMA on a proposed regional policy statement or plan may appeal to the High Court, but only on a question of law, against a decision referred to in [section 64][93].
+    (2) However, a person who made a submission under [clause 6][171] or [8][172] of Schedule 1 of the RMA on a proposed regional policy statement or plan may appeal to the High Court, but only on a question of law, against a decision referred to in [section 64][93].
 
 ##### 67 Scope of right of appeal
     
@@ -1185,11 +1187,11 @@ Additional functions and powers of ECan after commencement day
     
 *   (1) Subsection (2) applies if, on or after the commencement day,---
         
-    *   (a) ECan revokes a delegation under [section 34][158] or [34A][172] of the RMA of the power to make a decision under [clause 10][166] of Schedule 1 of that Act on a matter raised in a submission on a proposed regional policy statement or plan; and
+    *   (a) ECan revokes a delegation under [section 34][159] or [34A][173] of the RMA of the power to make a decision under [clause 10][167] of Schedule 1 of that Act on a matter raised in a submission on a proposed regional policy statement or plan; and
     
     *   (b) any hearing on that submission has been concluded.
     
-    (2) Despite any other enactment or rule of law, ECan (or any other person to whom the power is delegated under [section 34][158] or [34A][172] of the RMA to make a decision on the submission under clause 10 of Schedule 1 of that Act) may make the decision---
+    (2) Despite any other enactment or rule of law, ECan (or any other person to whom the power is delegated under [section 34][159] or [34A][173] of the RMA to make a decision on the submission under clause 10 of Schedule 1 of that Act) may make the decision---
         
     *   (a) without holding a further hearing; but
     
@@ -1199,11 +1201,11 @@ Additional functions and powers of ECan after commencement day
         
         *   (ii) the evidence presented at the hearing; and
         
-        *   (iii) any reports of an officer of ECan or expert commissioned by the person with authority to conduct a hearing under [section 34][158] or [34A][172] of the RMA.
+        *   (iii) any reports of an officer of ECan or expert commissioned by the person with authority to conduct a hearing under [section 34][159] or [34A][173] of the RMA.
         
         
     
-    (3) Despite any other enactment or rule of law, after the commencement day ECan is not required to give a further opportunity to any person to make submissions on, or be heard in relation to, a proposed regional policy statement or plan solely because of changes in the matters to which ECan must have particular regard when making decisions under [clause 10(1)][166] of Schedule 1 of the RMA.
+    (3) Despite any other enactment or rule of law, after the commencement day ECan is not required to give a further opportunity to any person to make submissions on, or be heard in relation to, a proposed regional policy statement or plan solely because of changes in the matters to which ECan must have particular regard when making decisions under [clause 10(1)][167] of Schedule 1 of the RMA.
 
 ---
 
@@ -1251,7 +1253,7 @@ Water is a public resource which must be managed in accordance with sustainabili
 
 ##### 4 Natural character
 
-The natural character (mauri[1][173]) of Canterbury's rivers, streams, lakes, groundwater and wetlands is preserved and enhanced:
+The natural character (mauri[1][174]) of Canterbury's rivers, streams, lakes, groundwater and wetlands is preserved and enhanced:
     
 *   natural flow regimes of rivers are maintained and, where they have been adversely affected by takes, enhanced where possible
 *   the dynamic processes of Canterbury's braided rivers define their character and are protected
@@ -1340,7 +1342,7 @@ Transitional provisions for certain Canterbury WCO applications
     
     (2) When the Minister receives the application and any related submissions under subclause (1), the Minister must---
         
-    *   (a) appoint a special tribunal under [section 202][174] of the RMA to hear and report on the application; and
+    *   (a) appoint a special tribunal under [section 202][175] of the RMA to hear and report on the application; and
     
     *   (b) forward the application and copies of any submissions received from ECan to the special tribunal.
     
@@ -1393,7 +1395,7 @@ Hurunui WCO application
 
 \[Repealed\]
     
-*   Schedule 2 Part 2: repealed, on 5 March 2013, by [section 9][175] of the Environment Canterbury (Temporary Commissioners and Improved Water Management) Amendment Act 2013 (2013 No 6).
+*   Schedule 2 Part 2: repealed, on 5 March 2013, by [section 9][176] of the Environment Canterbury (Temporary Commissioners and Improved Water Management) Amendment Act 2013 (2013 No 6).
 
 ---
 
@@ -1411,23 +1413,23 @@ Hurunui WCO application
 
 ###### 1 General
     
-*   This is a reprint of the Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010\. The reprint incorporates all the amendments to the Act as at 5 March 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Environment Canterbury (Temporary Commissioners and Improved Water Management) Act 2010\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][176] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][177] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][177] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][178] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][178] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][179] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][179] and [17E][180] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][180] and [17E][181] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1458,7 +1460,9 @@ Hurunui WCO application
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Environment Canterbury (Temporary Commissioners and Improved Water Management) Amendment Act 2013][181] (2013 No 6)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][155]
+    
+    [Environment Canterbury (Temporary Commissioners and Improved Water Management) Amendment Act 2013][182] (2013 No 6)
 
 ---
 
@@ -1619,32 +1623,33 @@ Hurunui WCO application
 [150]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236763
 [151]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236753
 [152]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM238277
-[153]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM313122
-[154]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM312658
-[155]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236779
-[156]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM232560
-[157]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236781
-[158]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM233000
-[159]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM176007
-[160]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850496
-[161]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850500
-[162]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850502
-[163]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM4718925
-[164]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241213
-[165]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241530
-[166]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241242
-[167]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM2218814
-[168]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241247
-[169]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241261
-[170]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241221
-[171]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241225
-[172]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM233006
-[173]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850477
-[174]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236756
-[175]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM4718926
-[176]: http://www.pco.parliament.govt.nz/reprints/
-[177]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM195439
-[178]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[179]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM195468
-[180]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM195470
-[181]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM4718901
+[153]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM3360482
+[154]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM3360480
+[155]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM3360714
+[156]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236779
+[157]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM232560
+[158]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236781
+[159]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM233000
+[160]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM176007
+[161]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850496
+[162]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850500
+[163]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850502
+[164]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM4718925
+[165]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241213
+[166]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241530
+[167]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241242
+[168]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM2218814
+[169]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241247
+[170]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241261
+[171]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241221
+[172]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM241225
+[173]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM233006
+[174]: http://www.legislation.govt.nz/act/public/2010/0012/latest/whole.html#DLM2850477
+[175]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM236756
+[176]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM4718926
+[177]: http://www.pco.parliament.govt.nz/reprints/
+[178]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM195439
+[179]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[180]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM195468
+[181]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM195470
+[182]: http://www.legislation.govt.nz/act/public/2010/0012/latest/link.aspx?id=DLM4718901
