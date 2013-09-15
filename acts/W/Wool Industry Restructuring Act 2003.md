@@ -1,7 +1,7 @@
 Reprint  
-as at 7 July 2010
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Wool Industry Restructuring Act 2003Public Act2003 No 40
 
@@ -17,162 +17,162 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Agriculture and Forestry.
+This Act is administered by the Ministry for Primary Industries.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Commencement and interpretation][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Interpretation][4]
+[3][4][][4][Interpretation][4]
 
-[4][5] [Act binds the Crown][5]
+[4][5][][5][Act binds the Crown][5]
 
 [Part 2][6]  
 [Conversion of Board][6]
 
 [Conversion process and effect][7]
 
-[5][8] [Board converts to company][8]
+[5][8][][8][Board converts to company][8]
 
-[6][9] [Steps by Board][9]
+[6][9][][9][Steps by Board][9]
 
-[7][10] [Certificate of incorporation by Registrar][10]
+[7][10][][10][Certificate of incorporation by Registrar][10]
 
-[8][11] [Notice of conversion][11]
+[8][11][][11][Notice of conversion][11]
 
-[9][12] [Annual return][12]
+[9][12][][12][Annual return][12]
 
-[10][13] [Final report of Board][13]
+[10][13][][13][Final report of Board][13]
 
-[11][14] [Effect of conversion][14]
+[11][14][][14][Effect of conversion][14]
 
-[12][15] [Certain matters not affected by conversion][15]
+[12][15][][15][Certain matters not affected by conversion][15]
 
 [Directors of company][16]
 
-[13][17] [Appointment of directors][17]
+[13][17][][17][Appointment of directors][17]
 
-[14][18] [Ministerial appointments][18]
+[14][18][][18][Ministerial appointments][18]
 
-[15][19] [Liability of directors and employees of Board][19]
+[15][19][][19][Liability of directors and employees of Board][19]
 
-[16][20] [No compensation for loss of office][20]
+[16][20][][20][No compensation for loss of office][20]
 
 [Part 3][21]  
 [Restructuring of wool industry][21]
 
 [Restructuring plan, constitutions, and share allocation plan][22]
 
-[17][23] [Board must prepare restructuring plan][23]
+[17][23][][23][Board must prepare restructuring plan][23]
 
-[18][24] [Contents][24]
+[18][24][][24][Contents][24]
 
-[19][25] [Constitutions][25]
+[19][25][][25][Constitutions][25]
 
-[20][26] [Share allocation plans][26]
+[20][26][][26][Share allocation plans][26]
 
-[21][27] [Eligibility][27]
+[21][27][][27][Eligibility][27]
 
-[22][28] [Size of entitlement for non-merino growers][28]
+[22][28][][28][Size of entitlement for non-merino growers][28]
 
-[23][29] [Size of entitlement for merino wool growers][29]
+[23][29][][29][Size of entitlement for merino wool growers][29]
 
-[24][30] [Method of allocation for non-merino growers][30]
+[24][30][][30][Method of allocation for non-merino growers][30]
 
-[25][31] [Method of allocation for merino wool growers][31]
+[25][31][][31][Method of allocation for merino wool growers][31]
 
-[26][32] [Identification of growers][32]
+[26][32][][32][Identification of growers][32]
 
-[27][33] [Other contents of share allocation plans][33]
+[27][33][][33][Other contents of share allocation plans][33]
 
-[28][34] [Company constitution must include certain matters][34]
+[28][34][][34][Company constitution must include certain matters][34]
 
-[29][35] [Minister's consent needed to certain changes][35]
+[29][35][][35][Minister's consent needed to certain changes][35]
 
-[30][36] [Board functions][36]
+[30][36][][36][Board functions][36]
 
 [Ministerial involvement with restructuring plan][37]
 
-[31][38] [Approval of restructuring plan][38]
+[31][38][][38][Approval of restructuring plan][38]
 
-[32][39] [Revision of restructuring plan][39]
+[32][39][][39][Revision of restructuring plan][39]
 
-[33][40] [Approval of revised restructuring plan][40]
+[33][40][][40][Approval of revised restructuring plan][40]
 
-[34][41] [Failure to submit restructuring plan][41]
+[34][41][][41][Failure to submit restructuring plan][41]
 
-[35][42] [Minister to notify restructuring day][42]
+[35][42][][42][Minister to notify restructuring day][42]
 
 [Taxation][43]
 
-[36][44] [Tax treatment of issue of shares][44]
+[36][44][][44][Tax treatment of issue of shares][44]
 
-[37][45] [Net losses][45]
+[37][45][][45][Net losses][45]
 
-[38][46] [Company treated as statutory producer board][46]
+[38][46][][46][Company treated as statutory producer board][46]
 
-[39][47] [Definitions][47]
+[39][47][][47][Definitions][47]
 
 [Levy][48]
 
-[40][49] [Company responsible for levy on wool][49]
+[40][49][][49][Company responsible for levy on wool][49]
 
-[41][50] [Company may designate collection agent][50]
+[41][50][][50][Company may designate collection agent][50]
 
-[42][51] [Specified activities][51]
+[42][51][][51][Specified activities][51]
 
-[43][52] [Levy on wool][52]
+[43][52][][52][Levy on wool][52]
 
-[44][53] [Levy returns][53]
+[44][53][][53][Levy returns][53]
 
-[45][54] [Payment][54]
+[45][54][][54][Payment][54]
 
-[46][55] [Estimate may be disputed][55]
+[46][55][][55][Estimate may be disputed][55]
 
-[47][56] [Collection agents may recover from owner][56]
+[47][56][][56][Collection agents may recover from owner][56]
 
-[48][57] [Refunds][57]
+[48][57][][57][Refunds][57]
 
-[49][58] [Records to be kept][58]
+[49][58][][58][Records to be kept][58]
 
-[50][59] [Levy to constitute debt due to company][59]
+[50][59][][59][Levy to constitute debt due to company][59]
 
-[51][60] [Power of inspection][60]
+[51][60][][60][Power of inspection][60]
 
-[52][61] [Appointment of auditor][61]
+[52][61][][61][Appointment of auditor][61]
 
-[53][62] [Duties of auditor][62]
+[53][62][][62][Duties of auditor][62]
 
-[54][63] [Offences and self-incrimination][63]
+[54][63][][63][Offences and self-incrimination][63]
 
 [Database transfer][64]
 
-[55][65] [Transfer of database][65]
+[55][65][][65][Transfer of database][65]
 
 [Reporting][66]
 
-[56][67] [Annual report on implementation of restructuring plan][67]
+[56][67][][67][Annual report on implementation of restructuring plan][67]
 
-[57][68] [Final report on implementation of restructuring plan][68]
+[57][68][][68][Final report on implementation of restructuring plan][68]
 
-[58][69] [Report on levy][69]
+[58][69][][69][Report on levy][69]
 
 [Notices, repeals, revocations, and amendments][70]
 
-[59][71] [Notices][71]
+[59][71][][71][Notices][71]
 
-[60][72] [Repeals][72]
+[60][72][][72][Repeals][72]
 
-[61][73] [Revocations][73]
+[61][73][][73][Revocations][73]
 
-[62][74] [Amendments to other Acts][74]
+[62][74][][74][Amendments to other Acts][74]
 
 ---
 
@@ -1165,7 +1165,7 @@ Restructuring of wool industry
 
 ##### 54 Offences and self-incrimination
     
-*   (1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, who---
+*   (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $20,000, who---
         
     *   (a) intentionally makes a false or misleading levy return; or
     
@@ -1178,6 +1178,8 @@ Restructuring of wool industry
     (2) A person is not excused from answering a question or giving any information or document under this Act on the ground that to do so may incriminate or tend to incriminate that person.
     
     (3) A self-incriminating statement or document made or given under this Act is not admissible as evidence in criminal proceedings against that person except on the prosecution for an offence against this Act or against [section 108][87] of the Crimes Act 1961 in relation to that statement or document.
+    
+    Section 54(1): amended, on 1 July 2013, by [section 413][88] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Database transfer
 
@@ -1199,7 +1201,7 @@ Restructuring of wool industry
         
     *   (a) a report of its progress in implementing the restructuring plan; and
     
-    *   (b) the annual return of the company under [section 214][88] of the Companies Act 1993 until a final report has been made in accordance with [section 57][68].
+    *   (b) the annual return of the company under [section 214][89] of the Companies Act 1993 until a final report has been made in accordance with [section 57][68].
     
     (2) As soon as reasonably practicable after receiving the report and annual return, the Minister must present them to the House of Representatives.
     
@@ -1281,11 +1283,11 @@ Restructuring of wool industry
 
 ##### 62 Amendments to other Acts
     
-*   (1) On the restructuring day, [Schedule 1][89] of the Official Information Act 1982 is amended by omitting the item relating to the New Zealand Wool Board.
+*   (1) On the restructuring day, [Schedule 1][90] of the Official Information Act 1982 is amended by omitting the item relating to the New Zealand Wool Board.
     
     (2) On the restructuring day, Schedule 15 of the Income Tax Act 1994 is amended by omitting the item relating to the New Zealand Wool Board.
     
-    (3) On the restructuring day, [section 37F][90] of the Statistics Act 1975 is amended by omitting the item relating to the New Zealand Wool Board.
+    (3) On the restructuring day, [section 37F][91] of the Statistics Act 1975 is amended by omitting the item relating to the New Zealand Wool Board.
 
 ---
 
@@ -1303,23 +1305,23 @@ Restructuring of wool industry
 
 ###### 1 General
     
-*   This is a reprint of the Wool Industry Restructuring Act 2003\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Wool Industry Restructuring Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][91] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][92] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][92] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][93] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][93] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][94] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][94] and [17E][95] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][95] and [17E][96] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1350,7 +1352,9 @@ Restructuring of wool industry
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][86]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][88]
+    
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][86]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][82]
     
@@ -1446,11 +1450,12 @@ Restructuring of wool industry
 [85]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM391422
 [86]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM3043113
 [87]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM328793
-[88]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM321131
-[89]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM65921
-[90]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM430937
-[91]: http://www.pco.parliament.govt.nz/reprints/
-[92]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM195439
-[93]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[94]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM195468
-[95]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM195470
+[88]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM3360714
+[89]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM321131
+[90]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM65921
+[91]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM430937
+[92]: http://www.pco.parliament.govt.nz/reprints/
+[93]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM195439
+[94]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[95]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM195468
+[96]: http://www.legislation.govt.nz/act/public/2003/0040/latest/link.aspx?id=DLM195470
