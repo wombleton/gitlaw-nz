@@ -1,5 +1,5 @@
 Reprint  
-as at 3 October 1975
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -267,9 +267,11 @@ An Act to make provision for altering the constitution and powers of the Ohai Ra
     
     *   (e) nothing in this section shall be so construed as to subject the Board to any liability in respect of any goods which, pursuant to any bylaw, are left on the premises of the railway at the risk of the person leaving the same.
     
-    (2) Every person who knowingly and wilfully makes a false statement as to the nature, quantity, or value of any goods delivered in any waybill or other document which, under this Act or any bylaw or regulation for the time being in force under the Local Railways Act 1914, he is required to deliver in respect of such goods, shall be liable on summary conviction to a fine not exceeding $100\.
+    (2) Every person who knowingly and wilfully makes a false statement as to the nature, quantity, or value of any goods delivered in any waybill or other document which, under this Act or any bylaw or regulation for the time being in force under the Local Railways Act 1914, he is required to deliver in respect of such goods, shall be liable on conviction to a fine not exceeding $100\.
     
     Section 19A: inserted, on 12 November 1973, by section 3 of the Ohai Railway Board Amendment Act 1973 (1973 No 8 (L)).
+    
+    Section 19A(2): amended, on 1 July 2013, by [section 413][29] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 20 Exclusion of certain provisions of principal Act
     
@@ -279,7 +281,7 @@ An Act to make provision for altering the constitution and powers of the Ohai Ra
 
 ##### 21 Abolition of existing extension of power to borrow
     
-*   Upon the Board exercising any power to borrow given by this Act the power given by [section 65][29] of the Reserves and other Lands Disposal and Public Bodies Empowering Act 1922 shall cease to be exercised by the Board.
+*   Upon the Board exercising any power to borrow given by this Act the power given by [section 65][30] of the Reserves and other Lands Disposal and Public Bodies Empowering Act 1922 shall cease to be exercised by the Board.
 
 ---
 
@@ -345,23 +347,23 @@ Commencement14 September 1938
 
 ###### 1 General
     
-*   This is a reprint of the Ohai Railway Board Act 1932\. The reprint incorporates all the amendments to the Act as at 3 October 1975, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Ohai Railway Board Act 1932\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][30] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][31] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][31] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][32] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][32] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][33] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][33] and [17E][34] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][34] and [17E][35] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -392,7 +394,9 @@ Commencement14 September 1938
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Ohai Railway Board Amendment Act 1975 (1975 No 14 (L))
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][29]
+    
+    Ohai Railway Board Amendment Act 1975 (1975 No 14 (L))
     
     Ohai Railway Board Amendment Act 1973 (1973 No 8 (L))
     
@@ -431,9 +435,10 @@ Commencement14 September 1938
 [26]: http://www.legislation.govt.nz/act/local/1932/0002/latest/whole.html#DLM48498
 [27]: http://www.legislation.govt.nz/act/local/1932/0002/latest/whole.html#DLM48499
 [28]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM264952
-[29]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM196123
-[30]: http://www.pco.parliament.govt.nz/reprints/
-[31]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM195439
-[32]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[33]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM195468
-[34]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM195470
+[29]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM3360714
+[30]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM196123
+[31]: http://www.pco.parliament.govt.nz/reprints/
+[32]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM195439
+[33]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[34]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM195468
+[35]: http://www.legislation.govt.nz/act/local/1932/0002/latest/link.aspx?id=DLM195470
