@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2008
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencement7 December 1976
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,102 +25,102 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind Crown][4]
+[3][4][][4][Act to bind Crown][4]
 
 [Part 1][5]  
 [Imposition of levy][5]
 
-[4][6] [Levy on natural gas and coal][6]
+[4][6][][6][Levy on natural gas and coal][6]
 
-[5][7] [Rates of levy may be altered by Order in Council][7]
+[5][7][][7][Rates of levy may be altered by Order in Council][7]
 
-[6][8] [Exemptions from levy][8]
+[6][8][][8][Exemptions from levy][8]
 
-[7][9] [Levy on certain energy resources may be remitted or reduced by Order in Council][9]
+[7][9][][9][Levy on certain energy resources may be remitted or reduced by Order in Council][9]
 
 [Part 2][10]  
 [Returns][10]
 
-[8][11] [Returns][11]
+[8][11][][11][Returns][11]
 
-[9][12] [Secretary may require other returns to be furnished][12]
+[9][12][][12][Secretary may require other returns to be furnished][12]
 
-[10][13] [Presumption as to authority][13]
+[10][13][][13][Presumption as to authority][13]
 
 [Part 3][14]  
 [Payment, assessment, and recovery of levy][14]
 
-[11][15] [Time for payment of levy][15]
+[11][15][][15][Time for payment of levy][15]
 
-[12][16] [Assessment of levy][16]
+[12][16][][16][Assessment of levy][16]
 
-[13][17] [Limitation of time for amendment of assessment][17]
+[13][17][][17][Limitation of time for amendment of assessment][17]
 
-[14][18] [Appeal from assessment to High Court][18]
+[14][18][][18][Appeal from assessment to High Court][18]
 
-[15][19] [Obligation to pay levy not suspended by appeal][19]
+[15][19][][19][Obligation to pay levy not suspended by appeal][19]
 
-[16][20] [Additional levy for default in payment of levy][20]
+[16][20][][20][Additional levy for default in payment of levy][20]
 
-[17][21] [Recovery of levy][21]
+[17][21][][21][Recovery of levy][21]
 
 [Part 4][22]  
 [Refunds and relief from levy][22]
 
-[18][23] [Refund of excess levy][23]
+[18][23][][23][Refund of excess levy][23]
 
-[19][24] [Relief in cases of serious hardship][24]
+[19][24][][24][Relief in cases of serious hardship][24]
 
-[20][25] [Appropriation of refunds][25]
+[20][25][][25][Appropriation of refunds][25]
 
 [Part 5][26]  
 [Offences][26]
 
-[21][27] [Offences][27]
+[21][27][][27][Offences][27]
 
-[22][28] [Information may charge several offences][28]
+[22][28][][28][Information may charge several offences][28]
 
-[23][29] [Information may be laid within 10 years][29]
+[23][29][][29][Charging document may be filed within 10 years][29]
 
 [Part 6][30]  
 [Agents][30]
 
-[24][31] [Interpretation][31]
+[24][31][][31][Interpretation][31]
 
-[25][32] [Secretary may declare person to be agent of another person][32]
+[25][32][][32][Secretary may declare person to be agent of another person][32]
 
-[26][33] [Relation of principal and agent arising in effect][33]
+[26][33][][33][Relation of principal and agent arising in effect][33]
 
-[27][34] [Liability of new companies for levy payable by former companies with substantially the same shareholders or under the same control][34]
+[27][34][][34][Liability of new companies for levy payable by former companies with substantially the same shareholders or under the same control][34]
 
-[28][35] [Liability of agent of absentee principal for returns and levy][35]
+[28][35][][35][Liability of agent of absentee principal for returns and levy][35]
 
-[29][36] [General provisions][36]
+[29][36][][36][General provisions][36]
 
-[30][37] [Liability of principal not affected][37]
+[30][37][][37][Liability of principal not affected][37]
 
 [Part 7][38]  
 [General provisions][38]
 
-[31][39] [Effect of imposition or alteration of levy on agreements for sale and prices of energy resources][39]
+[31][39][][39][Effect of imposition or alteration of levy on agreements for sale and prices of energy resources][39]
 
-[32][40] [Power of Secretary to prescribe forms][40]
+[32][40][][40][Power of Secretary to prescribe forms][40]
 
-[33][41] [Evidence of forms, returns, assessments, and financial transactions][41]
+[33][41][][41][Evidence of forms, returns, assessments, and financial transactions][41]
 
-[34][42] [Secretary's powers of inspection and inquiry][42]
+[34][42][][42][Secretary's powers of inspection and inquiry][42]
 
-[35][43] [Chief Inspector of Coal Mines to decide what is lignite][43]
+[35][43][][43][Chief Inspector of Coal Mines to decide what is lignite][43]
 
-[36][44] [Measurement of energy resources and keeping of records][44]
+[36][44][][44][Measurement of energy resources and keeping of records][44]
 
-[37][45] [Regulations][45]
+[37][45][][45][Regulations][45]
 
-[38][46] [Amendments to Ministry of Energy Resources Act 1972][46] \[Repealed\]
+[38][46][][46][Amendments to Ministry of Energy Resources Act 1972][46] \[Repealed\]
 
 ---
 
@@ -225,19 +225,15 @@ Imposition of levy
     
     provided that no such rate may be increased under this subsection to such an extent that it would exceed the rate specified in that subsection (2).
     
-    (2) Every Order in Council made under this section and laid before Parliament in any session pursuant to the [Regulations (Disallowance) Act 1989][52] shall---
+    (2) An Order in Council made under this section and presented to the House of Representatives under [section 41][52] of the Legislation Act 2012 in any session expires as follows:
         
-    *   (a) where the Order in Council is made on or before 30 June in any calendar year, expire on the close of the last day of that session except so far as it is expressly validated or confirmed by an Act of the Parliament of New Zealand passed during that session; and
+    *   (a) if the Order in Council is made on or before 30 June in any calendar year, it expires on the close of the last day of that session except so far as it is expressly validated or confirmed by an Act passed during that session:
     
-    *   (b) where the Order in Council is made on or after 1 July in any calendar year, expire on the close of the last day of the session of Parliament in the following calendar year except so far as it is expressly validated or confirmed by an Act of the Parliament of New Zealand passed during that session or the preceding session.
+    *   (b) if the Order in Council is made on or after 1 July in any calendar year, it expires on the close of the last day of the session of Parliament in the following calendar year except so far as it is expressly validated or confirmed by an Act passed during that session or the preceding session.
     
     (3) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (2), the rate or rates of levy altered by that Order in Council or provision shall, from the expiry of that Order in Council or provision and until it is or they are again altered, be the same as it was or they were immediately before that Order in Council or provision came into force.
     
-    Section 5(2): amended, on 19 December 1989, pursuant to [section 11][53] of the Regulations (Disallowance) Act 1989 (1989 No 143).
-    
-    Section 5(2)(a): amended, on 1 January 1987, pursuant to [section 29(2)][54] of the Constitution Act 1986 (1986 No 114).
-    
-    Section 5(2)(b): amended, on 1 January 1987, pursuant to [section 29(2)][54] of the Constitution Act 1986 (1986 No 114).
+    Section 5(2): replaced, on 5 August 2013, by [section 77(3)][53] of the Legislation Act 2012 (2012 No 119).
 
 ##### 6 Exemptions from levy
     
@@ -385,9 +381,9 @@ Payment, assessment, and recovery of levy
     
     (4) Subject to this section, the procedure in respect of any such appeal shall be in accordance with rules of court.
     
-    Section 14 heading: amended, on 15 August 1991, pursuant to [section 3(5)][55] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 14 heading: amended, on 15 August 1991, pursuant to [section 3(5)][54] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 14(1): amended, on 15 August 1991, pursuant to [section 3(5)][55] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 14(1): amended, on 15 August 1991, pursuant to [section 3(5)][54] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 15 Obligation to pay levy not suspended by appeal
     
@@ -425,21 +421,21 @@ Payment, assessment, and recovery of levy
     
     (2) The right to recover any levy as a Crown debt shall not be affected by the fact that a bond or security has been given for the payment of the levy or that no proper assessment of the levy has been made in due course or that a deficient assessment of the levy has been made.
     
-    (3) Without in any way derogating from the [Income Tax Act 2007][56] or the [Tax Administration Act 1994][57], the provisions of [section RA 7][58] of the Income Tax Act 2007, and [sections 156][59] and [158 to 164][60] of the Tax Administration Act 1994, as far as they are applicable and with the necessary modifications, shall have effect as if they formed part of this Act and as if---
+    (3) Without in any way derogating from the [Income Tax Act 2007][55] or the [Tax Administration Act 1994][56], the provisions of [section RA 7][57] of the Income Tax Act 2007, and [sections 156][58] and [158 to 164][59] of the Tax Administration Act 1994, as far as they are applicable and with the necessary modifications, shall have effect as if they formed part of this Act and as if---
         
     *   (a) every reference in those provisions to income tax or to tax were a reference to a levy; and
     
     *   (b) every reference in those provisions to the Commissioner were a reference to the Secretary as defined in [section 2][3]; and
     
-    *   (c) for the words ""tax, and no proceedings on objection to an assessment of tax"" in [section 162][61] of the Tax Administration Act 1994 there were substituted the words ""a levy, and no proceedings on appeal against an assessment or amended assessment of a levy""; and
+    *   (c) for the words ""tax, and no proceedings on objection to an assessment of tax"" in [section 162][60] of the Tax Administration Act 1994 there were substituted the words ""a levy, and no proceedings on appeal against an assessment or amended assessment of a levy""; and
     
-    *   (d) for the words ""this Act"" in both places where they occur in [section 164][62] of the Tax Administration Act 1994 there were substituted the words ""the Energy Resources Levy Act 1976"".
+    *   (d) for the words ""this Act"" in both places where they occur in [section 164][61] of the Tax Administration Act 1994 there were substituted the words ""the Energy Resources Levy Act 1976"".
     
     (4) All money paid to or recovered by the Secretary under this Act shall be paid into a Crown Bank Account.
     
     Section 17(1): amended, on 1 April 1978, by section 20(1) of the Ministry of Energy Act 1977 (1977 No 33).
     
-    Section 17(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][63] of the Income Tax Act 2007 (2007 No 97).
+    Section 17(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][62] of the Income Tax Act 2007 (2007 No 97).
     
     Section 17(3): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
@@ -449,7 +445,7 @@ Payment, assessment, and recovery of levy
     
     Section 17(3)(d): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 Income Tax Act 1994 (1994 No 164).
     
-    Section 17(4): amended, on 25 January 2005, pursuant to [section 65R(3)][64] of the Public Finance Act 1989 (1989 No 44).
+    Section 17(4): amended, on 25 January 2005, pursuant to [section 65R(3)][63] of the Public Finance Act 1989 (1989 No 44).
     
     Section 17(4): amended, on 1 April 1978, by section 20(1) of the Ministry of Energy Act 1977 (1977 No 33).
 
@@ -472,7 +468,7 @@ Refunds and relief from levy
     
 *   Any refund of a levy or an additional levy under this Act may be paid from public money without further appropriation than this section.
     
-    Section 20: amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][65] of the Public Finance Act 1989 (1989 No 44).
+    Section 20: amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][64] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 5  
 Offences
@@ -493,25 +489,33 @@ Offences
     
     *   (f) \[Repealed\]
     
-    (2) Every person who commits an offence against this Act for which no other penalty is prescribed shall be liable on summary conviction to a fine not exceeding $1,000\.
+    (2) Every person who commits an offence against this Act for which no other penalty is prescribed shall be liable on conviction to a fine not exceeding $1,000\.
     
-    Section 21(1)(b): amended, on 2 January 1990, pursuant to [section 4(c)][66] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
+    Section 21(1)(b): amended, on 2 January 1990, pursuant to [section 4(c)][65] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
     
     Section 21(1)(b): amended, on 1 April 1978, by section 20(1) of the Ministry of Energy Act 1977 (1977 No 33).
     
-    Section 21(1)(f): repealed, on 1 April 1987, by [section 25(1)][67] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 21(1)(f): repealed, on 1 April 1987, by [section 25(1)][66] of the Official Information Amendment Act 1987 (1987 No 8).
+    
+    Section 21(2): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 22 Information may charge several offences
     
-*   (1) Any information may charge the defendant with any number of offences against this Act, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
+*   (1) Any charging document may charge the defendant with any number of offences against this Act, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
     
-    (2) Where any information charges more than 1 such offence, particulars of each offence charged shall be set out separately in the information.
+    (2) Where any charging document charges more than 1 such offence, particulars of each offence charged shall be set out separately in the charging document.
     
     (3) All such charges shall be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
-
-##### 23 Information may be laid within 10 years
     
-*   Notwithstanding [section 14][68] of the Summary Proceedings Act 1957, any information in respect of any offence against this Act or against any regulations made thereunder may be laid at any time within 10 years after the offence was committed.
+    Section 22(1): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 22(2): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
+
+##### 23 Charging document may be filed within 10 years
+    
+*   Despite anything to the contrary in [section 25][68] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 10 years after the date on which the offence was committed.
+    
+    Section 23: replaced, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Agents
@@ -546,9 +550,9 @@ Agents
 
 ##### 27 Liability of new companies for levy payable by former companies with substantially the same shareholders or under the same control
     
-*   Without in any way derogating from the [Income Tax Act 2007][56], [section HD 15][69] of that Act, as far as it is applicable and with the necessary modifications, shall have effect as if it formed part of this Act and as if every reference therein to land tax or to income tax or to tax were a reference to a levy.
+*   Without in any way derogating from the [Income Tax Act 2007][55], [section HD 15][69] of that Act, as far as it is applicable and with the necessary modifications, shall have effect as if it formed part of this Act and as if every reference therein to land tax or to income tax or to tax were a reference to a levy.
     
-    Section 27: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][63] of the Income Tax Act 2007 (2007 No 97).
+    Section 27: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][62] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 28 Liability of agent of absentee principal for returns and levy
     
@@ -651,7 +655,7 @@ General provisions
     
     Section 34 heading: amended, on 1 April 1978, by section 20(1) of the Ministry of Energy Act 1977 (1977 No 33).
     
-    Section 34(1): amended, on 2 January 1990, pursuant to [section 4(c)][66] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
+    Section 34(1): amended, on 2 January 1990, pursuant to [section 4(c)][65] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
     
     Section 34(1): amended, on 1 April 1978, by section 20(1) of the Ministry of Energy Act 1977 (1977 No 33).
     
@@ -715,70 +719,31 @@ General provisions
     
     Section 38: repealed, on 1 April 1978, by section 20(1) of the Ministry of Energy Act 1977 (1977 No 33).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Energy Resources Levy Act 1976\. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][72] ![](/images/external_link.gif).
+*   This is a reprint of the Energy Resources Levy Act 1976 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][73] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][72] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][73] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][74] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][74] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][75] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][75] and [17E][76] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][53]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][67]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][63]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][62]
     
     Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][71]
     
@@ -788,17 +753,13 @@ General provisions
     
     Energy Resources Levy Amendment Act 1993 (1993 No 145)
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(5)][55]
-    
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][53]
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(5)][54]
     
     Ministry of Energy (Abolition) Act 1989 (1989 No 140): sections 4(c), 5
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][64], [86(1)][65]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][63], [86(1)][64]
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][67]
-    
-    Constitution Act 1986 (1986 No 114): [section 29(2)][54]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][66]
     
     Energy Resources Levy Amendment Act 1983 (1983 No 70)
     
@@ -814,7 +775,7 @@ General provisions
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1976/0071/latest/whole.html#DLM439697
 [2]: http://www.legislation.govt.nz/act/public/1976/0071/latest/whole.html#DLM439699
 [3]: http://www.legislation.govt.nz/act/public/1976/0071/latest/whole.html#DLM439800
@@ -866,28 +827,27 @@ General provisions
 [49]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM351644
 [50]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM442752
 [51]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM194767
-[52]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM195534
-[53]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM195558
-[54]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM94263
-[55]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM230219
-[56]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM1512300
-[57]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM348342
-[58]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM1519739
-[59]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM356978
-[60]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM357423
-[61]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM357427
-[62]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM357430
-[63]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM1523176
-[64]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM162942
-[65]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM163175
-[66]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM194766
-[67]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM101353
-[68]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM311191
+[52]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM2998573
+[53]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM2998633
+[54]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM230219
+[55]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM1512300
+[56]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM348342
+[57]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM1519739
+[58]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM356978
+[59]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM357423
+[60]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM357427
+[61]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM357430
+[62]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM1523176
+[63]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM162942
+[64]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM163175
+[65]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM194766
+[66]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM101353
+[67]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM3360714
+[68]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM3360067
 [69]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM1517413
 [70]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM147610
 [71]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM408960
-[72]: http://www.pco.parliament.govt.nz/reprints/
-[73]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM195439
-[74]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[75]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM195468
-[76]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM195470
+[72]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM2998516
+[73]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM2998515
+[74]: http://www.legislation.govt.nz/act/public/1976/0071/latest/link.aspx?id=DLM2998532
+[75]: http://www.pco.parliament.govt.nz/editorial-conventions/
