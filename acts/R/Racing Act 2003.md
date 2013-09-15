@@ -1,7 +1,7 @@
 Reprint  
-as at 7 July 2010
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Racing Act 2003Public Act2003 No 3
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 The Act is administered by the Department of Internal Affairs.
 
@@ -23,241 +23,241 @@ The Act is administered by the Department of Internal Affairs.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Outline][5]
+[4][5][][5][Outline][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [Act binds the Crown][7]
+[6][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [New Zealand Racing Board][8]
 
-[7][9] [Establishment of Board][9]
+[7][9][][9][Establishment of Board][9]
 
-[8][10] [Objectives of Board][10]
+[8][10][][10][Objectives of Board][10]
 
-[9][11] [Functions of Board][11]
+[9][11][][11][Functions of Board][11]
 
 [Governing body][12]
 
-[10][13] [Role of governing body][13]
+[10][13][][13][Role of governing body][13]
 
-[11][14] [Membership of governing body][14]
+[11][14][][14][Membership of governing body][14]
 
-[12][15] [Nomination advisory panel][15]
+[12][15][][15][Nomination advisory panel][15]
 
 [Financial provisions and accountability][16]
 
-[13][17] [Accounts and audit][17]
+[13][17][][17][Accounts and audit][17]
 
-[14][18] [Performance and efficiency audit][18]
+[14][18][][18][Performance and efficiency audit][18]
 
-[15][19] [Board may maintain reserves][19]
+[15][19][][19][Board may maintain reserves][19]
 
-[16][20] [Amounts of distributions to codes][20]
+[16][20][][20][Amounts of distributions to codes][20]
 
-[17][21] [Distributions to codes][21]
+[17][21][][21][Distributions to codes][21]
 
-[18][22] [Board must operate in financially responsible manner][22]
+[18][22][][22][Board must operate in financially responsible manner][22]
 
-[19][23] [Board must prepare statement of intent][23]
+[19][23][][23][Board must prepare statement of intent][23]
 
-[20][24] [Board must prepare business plan][24]
+[20][24][][24][Board must prepare business plan][24]
 
-[21][25] [Annual report][25]
+[21][25][][25][Annual report][25]
 
 [Miscellaneous][26]
 
-[22][27] [Other provisions in Schedule 1 and rules][27]
+[22][27][][27][Other provisions in Schedule 1 and rules][27]
 
 [Part 3][28]  
 [Racing codes and clubs][28]
 
-[23][29] [Racing codes must prepare statement of intent and business plan][29]
+[23][29][][29][Racing codes must prepare statement of intent and business plan][29]
 
-[24][30] [Restriction on use of certain names][30]
+[24][30][][30][Restriction on use of certain names][30]
 
-[25][31] [Distribution to clubs of funds received from Board][31]
+[25][31][][31][Distribution to clubs of funds received from Board][31]
 
-[26][32] [No pecuniary interest in club property][32]
+[26][32][][32][No pecuniary interest in club property][32]
 
-[27][33] [Dissolution of club][33]
+[27][33][][33][Dissolution of club][33]
 
 [Financial statements][34]
 
-[28][35] [Financial statements must be sent to Board][35]
+[28][35][][35][Financial statements must be sent to Board][35]
 
 [Part 4][36]  
 [Racing rules and judicial system][36]
 
-[29][37] [Racing rules][37]
+[29][37][][37][Racing rules][37]
 
-[30][38] [Amendment of racing rules][38]
+[30][38][][38][Amendment of racing rules][38]
 
-[31][39] [Racing rules must not conflict with any Act or general law][39]
+[31][39][][39][Racing rules must not conflict with any Act or general law][39]
 
-[32][40] [Review and availability of racing rules][40]
+[32][40][][40][Review and availability of racing rules][40]
 
-[33][41] [Compliance with racing rules][41]
+[33][41][][41][Compliance with racing rules][41]
 
-[34][42] [Rules controlling or prohibiting admission to racecourses][42]
+[34][42][][42][Rules controlling or prohibiting admission to racecourses][42]
 
-[35][43] [Consequences of breaching rule made under section 34][43]
+[35][43][][43][Consequences of breaching rule made under section 34][43]
 
 [Racing judicial system][44]
 
-[36][45] [Application of sections 37 to 41 and Schedule 3][45]
+[36][45][][45][Application of sections 37 to 41 and Schedule 3][45]
 
-[37][46] [Judicial Control Authority][46]
+[37][46][][46][Judicial Control Authority][46]
 
-[38][47] [Membership of Judicial Control Authority][47]
+[38][47][][47][Membership of Judicial Control Authority][47]
 
-[39][48] [Judicial committees][48]
+[39][48][][48][Judicial committees][48]
 
-[40][49] [Appeals tribunals][49]
+[40][49][][49][Appeals tribunals][49]
 
-[41][50] [Further provisions in schedule][50]
+[41][50][][50][Further provisions in schedule][50]
 
 [Part 5][51]  
 [Racing calendar and licences][51]
 
 [Racing calendar][52]
 
-[42][53] [Board committee to determine and allocate racing dates][53]
+[42][53][][53][Board committee to determine and allocate racing dates][53]
 
-[43][54] [Change of racing dates and allocation][54]
+[43][54][][54][Change of racing dates and allocation][54]
 
-[44][55] [No racing on certain days][55]
+[44][55][][55][No racing on certain days][55]
 
 [Betting licences][56]
 
-[45][57] [Issue of betting licences][57]
+[45][57][][57][Issue of betting licences][57]
 
-[46][58] [Alteration or revocation of betting licence][58]
+[46][58][][58][Alteration or revocation of betting licence][58]
 
 [Inspectors][59]
 
-[47][60] [Chief executive may appoint inspectors][60]
+[47][60][][60][Chief executive may appoint inspectors][60]
 
-[48][61] [Powers of inspector][61]
+[48][61][][61][Powers of inspector][61]
 
-[49][62] [Obstructing inspector][62]
+[49][62][][62][Obstructing inspector][62]
 
 [Part 6][63]  
 [Betting][63]
 
-[50][64] [Board may conduct betting][64]
+[50][64][][64][Board may conduct betting][64]
 
-[51][65] [Racing clubs may conduct equalisator betting][65]
+[51][65][][65][Racing clubs may conduct equalisator betting][65]
 
 [Racing betting][66]
 
-[52][67] [Board may make rules relating to racing betting][67]
+[52][67][][67][Board may make rules relating to racing betting][67]
 
-[53][68] [Application of revenue from racing betting][68]
+[53][68][][68][Application of revenue from racing betting][68]
 
 [Sports betting][69]
 
-[54][70] [Board may make rules relating to sports betting][70]
+[54][70][][70][Board may make rules relating to sports betting][70]
 
-[55][71] [Agreements with national sporting organisations][71]
+[55][71][][71][Agreements with national sporting organisations][71]
 
-[56][72] [Use of facilities][72]
+[56][72][][72][Use of facilities][72]
 
-[57][73] [Application of revenue from sports betting][73]
+[57][73][][73][Application of revenue from sports betting][73]
 
 [Miscellaneous][74]
 
-[58][75] [Deductions for totalisator betting][75]
+[58][75][][75][Deductions for totalisator betting][75]
 
-[59][76] [Review and availability of betting rules][76]
+[59][76][][76][Review and availability of betting rules][76]
 
-[60][77] [Amounts of dividends][77]
+[60][77][][77][Amounts of dividends][77]
 
-[61][78] [Use of betting systems for gaming purposes, etc][78]
+[61][78][][78][Use of betting systems for gaming purposes, etc][78]
 
-[62][79] [Amalgamation with overseas betting systems][79]
+[62][79][][79][Amalgamation with overseas betting systems][79]
 
-[63][80] [Restrictions on betting][80]
+[63][80][][80][Restrictions on betting][80]
 
-[63A][81] [Power to require particulars][81]
+[63A][81][][81][Power to require particulars][81]
 
-[64][82] [Betting contracts enforceable][82]
+[64][82][][82][Betting contracts enforceable][82]
 
-[65][83] [Bets may be refused][83]
+[65][83][][83][Bets may be refused][83]
 
 [Part 6A][84]  
 [Territorial authority consent][84]
 
-[65A][85] [When territorial authority consent is required][85]
+[65A][85][][85][When territorial authority consent is required][85]
 
-[65B][86] [Application for territorial authority consent][86]
+[65B][86][][86][Application for territorial authority consent][86]
 
-[65C][87] [Considering and determining application for territorial authority consent][87]
+[65C][87][][87][Considering and determining application for territorial authority consent][87]
 
-[65D][88] [Territorial authority must adopt Board venue policy][88]
+[65D][88][][88][Territorial authority must adopt Board venue policy][88]
 
-[65E][89] [Adoption and review of Board venue policy][89]
+[65E][89][][89][Adoption and review of Board venue policy][89]
 
 [Part 6B][90]  
 [Harm prevention and minimisation][90]
 
-[65F][91] [Regulations relating to harm prevention and minimisation][91]
+[65F][91][][91][Regulations relating to harm prevention and minimisation][91]
 
-[65G][92] [Regulations relating to admission to and exclusion from Board venues][92]
+[65G][92][][92][Regulations relating to admission to and exclusion from Board venues][92]
 
-[65H][93] [Regulations relating to exclusion of problem gamblers from Board venues and racecourses][93]
+[65H][93][][93][Regulations relating to exclusion of problem gamblers from Board venues and racecourses][93]
 
-[65I][94] [Board must pay problem gambling levy][94]
+[65I][94][][94][Board must pay problem gambling levy][94]
 
-[65J][95] [Board must provide information to Secretary][95]
+[65J][95][][95][Board must provide information to Secretary][95]
 
 [Part 7][96]  
 [Miscellaneous][96]
 
-[66][97] [Board may conduct race meetings][97]
+[66][97][][97][Board may conduct race meetings][97]
 
-[67][98] [Application of Official Information Act 1982][98]
+[67][98][][98][Application of Official Information Act 1982][98]
 
-[68][99] [Crown not liable for debts][99]
+[68][99][][99][Crown not liable for debts][99]
 
-[69][100] [Consequential amendments][100]
+[69][100][][100][Consequential amendments][100]
 
-[70][101] [Repeals and revocation][101]
+[70][101][][101][Repeals and revocation][101]
 
 [Part 8][102]  
 [Transitional provisions][102]
 
-[71][103] [Application of transitional provisions][103]
+[71][103][][103][Application of transitional provisions][103]
 
-[72][104] [Interpretation][104]
+[72][104][][104][Interpretation][104]
 
-[73][105] [NZRIB and TAB abolished][105]
+[73][105][][105][NZRIB and TAB abolished][105]
 
-[74][106] [Vesting of property and liabilities][106]
+[74][106][][106][Vesting of property and liabilities][106]
 
-[75][107] [Records and registers][107]
+[75][107][][107][Records and registers][107]
 
-[76][108] [Taxes and duties][108]
+[76][108][][108][Taxes and duties][108]
 
-[77][109] [Certain matters not affected by restructuring][109]
+[77][109][][109][Certain matters not affected by restructuring][109]
 
-[78][110] [Final reports and accounts][110]
+[78][110][][110][Final reports and accounts][110]
 
-[79][111] [Transfer of employees][111]
+[79][111][][111][Transfer of employees][111]
 
-[80][112] [Members not entitled to compensation for loss of office][112]
+[80][112][][112][Members not entitled to compensation for loss of office][112]
 
-[81][113] [Continuation of judicial offices][113]
+[81][113][][113][Continuation of judicial offices][113]
 
 [Schedule 1][114]  
 [Provisions relating to New Zealand Racing Board][114]
@@ -765,7 +765,7 @@ New Zealand Racing Board
     
     (3) As soon as practicable after making or altering any rules under subsection (2), the Board must send a copy of the rules or amended rules to the Minister.
     
-    (4) The [Regulations (Disallowance) Act 1989][129] (but not the [Acts and Regulations Publication Act 1989][130]) applies to any rules made under subsection (2) as if those rules were regulations within the meaning of the Regulations (Disallowance) Act 1989\.
+    (4) Rules made under subsection (2) are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][129] and must be presented to the House of Representatives under [section 41][130] of that Act.
     
     (5) Rules made under subsection (2) must be notified in the _Gazette_, and come into force on the date specified for the purpose in the rules (which must not be earlier than the date of their notification) or, if no date is specified, on the date of notification.
     
@@ -776,6 +776,8 @@ New Zealand Racing Board
     *   (b) for purchase by any person at a reasonable price.
     
     Compare: 1971 No 155 s 9
+    
+    Section 22(4): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 3  
 Racing codes and clubs
@@ -786,7 +788,7 @@ Racing codes and clubs
     
     (2) The proposed statement of intent must set out, for each racing year to which it relates,---
         
-    *   (a) the code's rules, as required by [section 6][131] of the Incorporated Societies Act 1908; and
+    *   (a) the code's rules, as required by [section 6][132] of the Incorporated Societies Act 1908; and
     
     *   (b) the objectives of the code; and
     
@@ -880,7 +882,7 @@ Racing codes and clubs
     
     (2) The purposes for which the assets must be disposed of must be published by the racing code by notice in the _Gazette_.
     
-    (3) If there is a dispute over the disposition of assets involving a racing club that is an incorporated society or a charitable trust, the dispute must be determined in accordance with [section 27][132] of the Incorporated Societies Act 1908 or [section 27][133] of the Charitable Trusts Act 1957, as the case may be.
+    (3) If there is a dispute over the disposition of assets involving a racing club that is an incorporated society or a charitable trust, the dispute must be determined in accordance with [section 27][133] of the Incorporated Societies Act 1908 or [section 27][134] of the Charitable Trusts Act 1957, as the case may be.
     
     (4) For the purposes of subsection (3), a racing club that is neither an incorporated society nor a charitable trust must be treated as if it were an incorporated society.
     
@@ -951,7 +953,7 @@ Racing rules and judicial system
     
 *   (1) As soon as practicable after making or altering any rules under [section 29][37] or [section 34][42], each racing code must send a copy of the rules or the amended rules to the Minister.
     
-    (2) The [Regulations (Disallowance) Act 1989][129] (but not the [Acts and Regulations Publication Act 1989][130]) applies to rules made under [section 29][37] or [section 34][42] as if those rules were regulations within the meaning of the Regulations (Disallowance) Act 1989\.
+    (2) Rules made under [section 29][37] or [34][42] are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][129] and must be presented to the House of Representatives under [section 41][130] of that Act.
     
     (3) Rules made under [section 29][37] must be notified in the _Gazette_, and come into force on the date specified for the purpose in the rules (which must not be earlier than the date of their notification) or, if no date is specified, on the date of notification.
     
@@ -961,7 +963,7 @@ Racing rules and judicial system
     
     *   (b) for purchase by any person at a reasonable price.
     
-    
+    Section 32(2): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
 
 ##### 33 Compliance with racing rules
     
@@ -983,7 +985,7 @@ Racing rules and judicial system
     
     *   (b) the integrity of racing betting.
     
-    Section 34(5)(b): amended, on 17 May 2005, by [section 4][134] of the Racing Amendment Act 2005 (2005 No 66).
+    Section 34(5)(b): amended, on 17 May 2005, by [section 4][135] of the Racing Amendment Act 2005 (2005 No 66).
 
 ##### 35 Consequences of breaching rule made under section 34
     
@@ -991,11 +993,13 @@ Racing rules and judicial system
     
     (2) Every person who commits a breach of any rule made under [section 34][42] also commits an offence.
     
-    (3) Every person who commits an offence under subsection (2) is liable on summary conviction to a fine not exceeding $1,000\.
+    (3) Every person who commits an offence under subsection (2) is liable on conviction to a fine not exceeding $1,000\.
     
     Compare: 1971 No 155 s 101
     
-    Section 35(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][135] of the Policing Act 2008 (2008 No 72).
+    Section 35(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][136] of the Policing Act 2008 (2008 No 72).
+    
+    Section 35(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Racing judicial system
 
@@ -1017,7 +1021,7 @@ Racing rules and judicial system
         
     *   (a) to initiate, develop, and recommend to the Board and the recognised industry organisations those measures that will, in its opinion, be conducive to the efficient judicial control of racing in New Zealand:
     
-    *   (b) to select and appoint, by any procedures and inquiries that it thinks fit, panels of suitable persons established under [clauses 15][136] and [18][137] of Schedule 3 from which members of a judicial committee or members of an appeals tribunal may be appointed:
+    *   (b) to select and appoint, by any procedures and inquiries that it thinks fit, panels of suitable persons established under [clauses 15][138] and [18][139] of Schedule 3 from which members of a judicial committee or members of an appeals tribunal may be appointed:
     
     *   (c) to appoint the members of judicial committees under [section 39][48]:
     
@@ -1049,7 +1053,7 @@ Racing rules and judicial system
 
 ##### 39 Judicial committees
     
-*   (1) The Authority must appoint, in accordance with [clauses 15][136] and [16][138] of Schedule 3, members of judicial committees to exercise and carry out the powers and functions of those committees, whether in relation to matters that arise on a particular day of racing or in relation to other matters.
+*   (1) The Authority must appoint, in accordance with [clauses 15][138] and [16][140] of Schedule 3, members of judicial committees to exercise and carry out the powers and functions of those committees, whether in relation to matters that arise on a particular day of racing or in relation to other matters.
     
     (2) The functions of every judicial committee are---
         
@@ -1061,9 +1065,9 @@ Racing rules and judicial system
 
 ##### 40 Appeals tribunals
     
-*   (1) The Authority must appoint, in accordance with [clauses 18][137] and [19][139] of Schedule 3, members of appeals tribunals to exercise the functions and powers of those tribunals for any appeal.
+*   (1) The Authority must appoint, in accordance with [clauses 18][139] and [19][141] of Schedule 3, members of appeals tribunals to exercise the functions and powers of those tribunals for any appeal.
     
-    (2) The function of every appeals tribunal is to hear and adjudicate on any appeal made to it under [clause 20][140] of Schedule 3\.
+    (2) The function of every appeals tribunal is to hear and adjudicate on any appeal made to it under [clause 20][142] of Schedule 3\.
     
     Compare: 1971 No 155 ss 99ZE, 99ZI(2)
 
@@ -1172,9 +1176,11 @@ Racing calendar and licences
     
     *   (c) otherwise wilfully hinders or attempts to hinder a government inspector in the execution of any power or duty.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000\.
     
     Compare: 1971 No 155 s 61
+    
+    Section 49(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Betting
@@ -1201,7 +1207,7 @@ Betting
     
     (4) Every racing club, or member, officer, agent, or employee of a racing club commits an offence who knowingly makes, authorises, or permits any payment from money received by way of equalisator betting except in accordance with subsections (2) or (3).
     
-    (5) Every person who commits an offence against subsection (4) is liable on summary conviction,---
+    (5) Every person who commits an offence against subsection (4) is liable on conviction,---
         
     *   (a) in the case of a racing club, to a fine not exceeding $3,000:
     
@@ -1209,7 +1215,9 @@ Betting
     
     Compare: 1971 No 155 ss 48, 52, 53
     
-    Section 51(3): amended, on 1 November 2006, by [section 4][141] of the Racing Amendment Act 2006 (2006 No 52).
+    Section 51(3): amended, on 1 November 2006, by [section 4][143] of the Racing Amendment Act 2006 (2006 No 52).
+    
+    Section 51(5): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Racing betting
 
@@ -1245,7 +1253,7 @@ Betting
     
     *   (b) goods and services tax; and
     
-    *   (c) totalisator duty as prescribed by the [Gaming Duties Act 1971][142]; and
+    *   (c) totalisator duty as prescribed by the [Gaming Duties Act 1971][144]; and
     
     *   (d) all costs, charges, and expenses incurred by the Board in the exercise and performance of its functions, duties, and powers under this Act for that year (less any costs, charges, and expenses incurred by it under [section 57][73]).
     
@@ -1307,7 +1315,7 @@ Betting
     
     *   (b) goods and services tax; and
     
-    *   (c) totalisator duty as prescribed by the [Gaming Duties Act 1971][142]; and
+    *   (c) totalisator duty as prescribed by the [Gaming Duties Act 1971][144]; and
     
     *   (d) the amounts agreed to be paid to New Zealand national sporting organisations under agreements entered into under [section 55][71], being---
             
@@ -1347,7 +1355,7 @@ Betting
     
 *   (1) As soon as practicable after making or altering any rules under [section 52][67] or [section 54][70], the Board must send a copy of the rules or amended rules to the Minister.
     
-    (2) The [Regulations (Disallowance) Act 1989][129] (but not the [Acts and Regulations Publication Act 1989][130]) applies to rules made under [section 52][67] or [section 54][70] as if those rules were regulations within the meaning of the Regulations (Disallowance) Act 1989\.
+    (2) Rules made under [section 52][67] or [54][70] are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][129] and must be presented to the House of Representatives under [section 41][130] of that Act.
     
     (3) Rules made under [section 52][67] or [section 54][70] must be notified in the _Gazette_, and come into force on the date specified for the purpose in the rules (which must not be earlier than the date of their notification) or, if no date is specified, on the date of notification.
     
@@ -1357,7 +1365,7 @@ Betting
     
     *   (b) for purchase by any person at a reasonable price.
     
-    
+    Section 59(2): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
 
 ##### 60 Amounts of dividends
     
@@ -1369,17 +1377,17 @@ Betting
     
     Compare: 1971 No 155 ss 44A, 45, 54
     
-    Section 60(2): substituted, on 1 November 2006, by [section 5(1)][143] of the Racing Amendment Act 2006 (2006 No 52).
+    Section 60(2): substituted, on 1 November 2006, by [section 5(1)][145] of the Racing Amendment Act 2006 (2006 No 52).
     
-    Section 60(3): substituted, on 1 November 2006, by [section 5(2)][143] of the Racing Amendment Act 2006 (2006 No 52).
+    Section 60(3): substituted, on 1 November 2006, by [section 5(2)][145] of the Racing Amendment Act 2006 (2006 No 52).
 
 ##### 61 Use of betting systems for gaming purposes, etc
     
-*   (1) The Board may operate a totalisator, or any other betting system for the time being authorised under this Act, for the purpose of, or in conjunction with, class 3 gambling conducted by a society that holds a licence under [section 37][144] of the Gambling Act 2003\.
+*   (1) The Board may operate a totalisator, or any other betting system for the time being authorised under this Act, for the purpose of, or in conjunction with, class 3 gambling conducted by a society that holds a licence under [section 37][146] of the Gambling Act 2003\.
     
-    (2) The operation of a totalisator or other betting system under subsection (1) is subject to the provisions of the [Gambling Act 2003][145], and to all the game rules and conditions of the licence that apply to the class 3 gambling for which the operation is being carried out.
+    (2) The operation of a totalisator or other betting system under subsection (1) is subject to the provisions of the [Gambling Act 2003][147], and to all the game rules and conditions of the licence that apply to the class 3 gambling for which the operation is being carried out.
     
-    (3) Despite the [Gambling Act 2003][145], the Board may pay its employees for operating, or assisting in the operation of, a totalisator or other betting system, but the payment (or any part of it) may not be charged to, or be recoverable from, the society on whose behalf the operation is carried out.
+    (3) Despite the [Gambling Act 2003][147], the Board may pay its employees for operating, or assisting in the operation of, a totalisator or other betting system, but the payment (or any part of it) may not be charged to, or be recoverable from, the society on whose behalf the operation is carried out.
     
     Compare: 1971 No 155 ss 99S, 99T
     
@@ -1411,7 +1419,7 @@ Betting
     
     (4) Without limiting subsection (3), reasonable grounds exist for the purposes of that subsection if the defendant proves that he or she had sighted an evidence of age document of the person to whom the charge relates, indicating that the person was 18 years or over.
     
-    (5) Every person who commits an offence against this section is liable on summary conviction to,---
+    (5) Every person who commits an offence against this section is liable on conviction to,---
         
     *   (a) in the case of an offence against subsection (1)(a), a fine not exceeding $500:
     
@@ -1425,11 +1433,13 @@ Betting
     
     _bet_ means a bet made with the Board (whether directly or through a racing club or other agent) or a racing club conducting equalisator betting
     
-    _evidence of age document_ has the same meaning as in [section 2A][146] of the Sale of Liquor Act 1989\.
+    _evidence of age document_ has the same meaning as in [section 2A][148] of the Sale of Liquor Act 1989\.
     
     Compare: 1971 No 155 s 100(1)--(3), (7)
     
     Section 63: substituted, on 19 September 2003, by [section 374][124] of the Gambling Act 2003 (2003 No 51).
+    
+    Section 63(5): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 63A Power to require particulars
     
@@ -1437,13 +1447,15 @@ Betting
     
     (2) Every person commits an offence who, being required under subsection (1) to give information regarding his or her age, fails to give that information, or supplies any false information relating to his or her age.
     
-    (3) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $500\.
+    (3) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $500\.
     
     Compare: 1971 No 155 s 100(4), (5)
     
     Section 63A: inserted, on 19 September 2003, by [section 374][124] of the Gambling Act 2003 (2003 No 51).
     
-    Section 63A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][135]of the Policing Act 2008 (2008 No 72).
+    Section 63A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][136]of the Policing Act 2008 (2008 No 72).
+    
+    Section 63A(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 64 Betting contracts enforceable
     
@@ -1510,7 +1522,7 @@ Territorial authority consent
 
 ##### 65E Adoption and review of Board venue policy
     
-*   (1) A policy on Board venues under [section 65D][88] must be adopted in accordance with the special consultative procedure in [section 83][147] of the Local Government Act 2002 and, for the purpose of subsection (1)(e) of that section, the territorial authority must give notice of the proposed policy, in a manner that the territorial authority considers appropriate to---
+*   (1) A policy on Board venues under [section 65D][88] must be adopted in accordance with the special consultative procedure in [section 83][149] of the Local Government Act 2002 and, for the purpose of subsection (1)(e) of that section, the territorial authority must give notice of the proposed policy, in a manner that the territorial authority considers appropriate to---
         
     *   (a) the Board; and
     
@@ -1557,7 +1569,7 @@ Harm prevention and minimisation
     
     (2) The regulations may exclude from a Board venue any specified class or classes of person, either absolutely or subject to any special conditions that may be specified in the regulations.
     
-    (3) Every person who enters, or remains on, a Board venue in breach of a regulation made under this section must be treated as having committed an offence under [section 4][148] of the Trespass Act 1980 and is liable accordingly.
+    (3) Every person who enters, or remains on, a Board venue in breach of a regulation made under this section must be treated as having committed an offence under [section 4][150] of the Trespass Act 1980 and is liable accordingly.
     
     Section 65G: inserted, on 19 September 2003, by [section 374][124] of the Gambling Act 2003 (2003 No 51).
 
@@ -1589,13 +1601,13 @@ Harm prevention and minimisation
 
 ##### 65I Board must pay problem gambling levy
     
-*   The Board must pay a problem gambling levy in accordance with [sections 317 to 325][149] of the Gambling Act 2003 and regulations made under that Act.
+*   The Board must pay a problem gambling levy in accordance with [sections 317 to 325][151] of the Gambling Act 2003 and regulations made under that Act.
     
     Section 65I: inserted, on 19 September 2003, by [section 374][124] of the Gambling Act 2003 (2003 No 51).
 
 ##### 65J Board must provide information to Secretary
     
-*   (1) The Secretary may require information from the Board for research, and policy analysis and development, associated with the purposes of the [Gambling Act 2003][145].
+*   (1) The Secretary may require information from the Board for research, and policy analysis and development, associated with the purposes of the [Gambling Act 2003][147].
     
     (2) The Secretary may require from the Board any information necessary to calculate, administer, and collect the problem gambling levy payable under [section 65I][94].
     
@@ -1612,11 +1624,11 @@ Miscellaneous
     
     (2) For the purposes of subsection (1), the Board may be issued with a betting licence under [section 45][57].
     
-    (3) All or any of the functions under subsection (1) may be carried out by a person acting under a delegation under [clause 24(1)][150] of Schedule 1\.
+    (3) All or any of the functions under subsection (1) may be carried out by a person acting under a delegation under [clause 24(1)][152] of Schedule 1\.
 
 ##### 67 Application of Official Information Act 1982
     
-*   The Board is an organisation within the meaning of [section 2(1)][151] of the Official Information Act 1982, and that Act applies accordingly.
+*   The Board is an organisation within the meaning of [section 2(1)][153] of the Official Information Act 1982, and that Act applies accordingly.
 
 ##### 68 Crown not liable for debts
     
@@ -1626,7 +1638,7 @@ Miscellaneous
         
     *   (a) any sum the Crown is liable to contribute under any Act; or
     
-    *   (b) any sum the Crown is liable to contribute under any guarantee or indemnity given under [section 65ZD][152] of the Public Finance Act 1989; or
+    *   (b) any sum the Crown is liable to contribute under any guarantee or indemnity given under [section 65ZD][154] of the Public Finance Act 1989; or
     
     *   (c) any sum the Crown is liable to pay to a creditor of the Board, the Authority, a judicial committee, or an appeals tribunal by virtue of a good cause of action against the Crown; or
     
@@ -1634,7 +1646,7 @@ Miscellaneous
     
     Compare: 1971 No 155 s 102B
     
-    Section 68(2)(b): amended, on 25 January 2005, by [section 37(1)][153] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 68(2)(b): amended, on 25 January 2005, by [section 37(1)][155] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 69 Consequential amendments
     
@@ -1709,9 +1721,9 @@ Transitional provisions
     
 *   The vesting in the Board under section 74 of all property and liabilities of the NZRIB and TAB---
         
-    *   (a) does not constitute a supply of goods and services for the purposes of the [Goods and Services Tax Act 1985][154]:
+    *   (a) does not constitute a supply of goods and services for the purposes of the [Goods and Services Tax Act 1985][156]:
     
-    *   (b) is an amalgamation under the [Companies Act 1993][155] of the Board, NZRIB, and TAB for the purposes of the [Financial Reporting Act 1993][156].
+    *   (b) is an amalgamation under the [Companies Act 1993][157] of the Board, NZRIB, and TAB for the purposes of the [Financial Reporting Act 1993][158].
     
     
 
@@ -1774,83 +1786,83 @@ Provisions relating to New Zealand Racing Board
 
 ## Contents
 
-[Board members][157]
+[Board members][159]
 
-[1][158] [Duties of Board members][158]
+[1][160][][160][Duties of Board members][160]
 
-[2][159] [Appointment of deputy chairperson][159]
+[2][161][][161][Appointment of deputy chairperson][161]
 
-[3][160] [Resignation and removal from office][160]
+[3][162][][162][Resignation and removal from office][162]
 
-[4][161] [Effect of vacancy in membership][161]
+[4][163][][163][Effect of vacancy in membership][163]
 
-[5][162] [Remuneration][162]
+[5][164][][164][Remuneration][164]
 
-[6][163] [Liability of members and committee members][163]
+[6][165][][165][Liability of members and committee members][165]
 
-[7][164] [Acts may not be called into question][164]
+[7][166][][166][Acts may not be called into question][166]
 
-[Disclosure of interest][165]
+[Disclosure of interest][167]
 
-[8][166] [Obligation to disclose interest][166]
+[8][168][][168][Obligation to disclose interest][168]
 
-[9][167] [Meaning of interested][167]
+[9][169][][169][Meaning of interested][169]
 
-[10][168] [Disclosure of interest][168]
+[10][170][][170][Disclosure of interest][170]
 
-[11][169] [Consequences of disclosure][169]
+[11][171][][171][Consequences of disclosure][171]
 
-[12][170] [Effect of non-compliance][170]
+[12][172][][172][Effect of non-compliance][172]
 
-[Confidentiality of information][171]
+[Confidentiality of information][173]
 
-[13][172] [Confidentiality of information][172]
+[13][174][][174][Confidentiality of information][174]
 
-[14][173] [When member may rely on certain information and advice][173]
+[14][175][][175][When member may rely on certain information and advice][175]
 
-[Procedure of governing body][174]
+[Procedure of governing body][176]
 
-[15][175] [Procedure generally][175]
+[15][177][][177][Procedure generally][177]
 
-[16][176] [Dates, times, and places of meetings][176]
+[16][178][][178][Dates, times, and places of meetings][178]
 
-[17][177] [Methods of holding meetings][177]
+[17][179][][179][Methods of holding meetings][179]
 
-[18][178] [Quorum][178]
+[18][180][][180][Quorum][180]
 
-[19][179] [Who presides at meetings][179]
+[19][181][][181][Who presides at meetings][181]
 
-[20][180] [Voting at meetings][180]
+[20][182][][182][Voting at meetings][182]
 
-[21][181] [Resolutions][181]
+[21][183][][183][Resolutions][183]
 
-[Method of contracting][182]
+[Method of contracting][184]
 
-[22][183] [Method of contracting][183]
+[22][185][][185][Method of contracting][185]
 
-[23][184] [Attorneys][184]
+[23][186][][186][Attorneys][186]
 
-[Delegations][185]
+[Delegations][187]
 
-[24][150] [Ability to delegate][150]
+[24][152][][152][Ability to delegate][152]
 
-[25][186] [Effect of delegation][186]
+[25][188][][188][Effect of delegation][188]
 
-[26][187] [Delegate presumed to act in accordance with delegation][187]
+[26][189][][189][Delegate presumed to act in accordance with delegation][189]
 
-[27][188] [Other matters relating to delegation][188]
+[27][190][][190][Other matters relating to delegation][190]
 
-[Committees][189]
+[Committees][191]
 
-[28][190] [Board committees][190]
+[28][192][][192][Board committees][192]
 
-[Employees][191]
+[Employees][193]
 
-[29][121] [Appointment of chief executive][121]
+[29][121][][121][Appointment of chief executive][121]
 
-[30][192] [Appointment of other employees][192]
+[30][194][][194][Appointment of other employees][194]
 
-[31][193] [Superannuation or retiring allowances][193]
+[31][195][][195][Superannuation or retiring allowances][195]
 
 ---
 
@@ -1930,7 +1942,7 @@ Provisions relating to New Zealand Racing Board
 
 ##### 8 Obligation to disclose interest
     
-*   (1) A Board member who (except as a member) has a direct or indirect interest in any of the matters listed in subclause (2) (except a betting transaction) must, as soon as practicable after the Board member knows about the relevant facts, disclose the nature of the interest in accordance with [clause 10][168].
+*   (1) A Board member who (except as a member) has a direct or indirect interest in any of the matters listed in subclause (2) (except a betting transaction) must, as soon as practicable after the Board member knows about the relevant facts, disclose the nature of the interest in accordance with [clause 10][170].
     
     (2) The matters are---
         
@@ -1954,7 +1966,7 @@ Provisions relating to New Zealand Racing Board
     
     *   (e) is otherwise directly or indirectly materially interested in the transaction.
     
-    Schedule 1 clause 9(d): amended, on 26 April 2005, by [section 7][194] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 9(d): amended, on 26 April 2005, by [section 7][196] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 10 Disclosure of interest
     
@@ -1968,7 +1980,7 @@ Provisions relating to New Zealand Racing Board
 
 ##### 11 Consequences of disclosure
     
-*   A Board member who discloses his or her interest under [clause 10][168]---
+*   A Board member who discloses his or her interest under [clause 10][170]---
         
     *   (a) must not vote or take part in any deliberation or decision of the governing body relating to the matter; and
     
@@ -1978,7 +1990,7 @@ Provisions relating to New Zealand Racing Board
 
 ##### 12 Effect of non-compliance
     
-*   If a Board member fails to comply with the disclosure requirements in [clauses 8 to 10][166], the validity of a transaction entered into by the Board is not affected by that fact.
+*   If a Board member fails to comply with the disclosure requirements in [clauses 8 to 10][168], the validity of a transaction entered into by the Board is not affected by that fact.
 
 #### Confidentiality of information
 
@@ -2084,7 +2096,7 @@ Provisions relating to New Zealand Racing Board
         
     *   (a) 2 or more Board members; or
     
-    *   (b) 1 or more attorneys appointed by the Board in accordance with [clause 23][184].
+    *   (b) 1 or more attorneys appointed by the Board in accordance with [clause 23][186].
     
     (3) An obligation that, if entered into by an individual, is required to be in writing may be entered into on behalf of the Board in writing by a person acting under the Board's express or implied authority.
     
@@ -2100,7 +2112,7 @@ Provisions relating to New Zealand Racing Board
 
 ##### 23 Attorneys
     
-*   (1) The Board may, by an instrument in writing executed in accordance with [clause 24(1)][150], appoint a person as its attorney either generally or in relation to a specific matter.
+*   (1) The Board may, by an instrument in writing executed in accordance with [clause 24(1)][152], appoint a person as its attorney either generally or in relation to a specific matter.
     
     (2) An act of the attorney in accordance with the instrument binds the Board.
 
@@ -2120,17 +2132,17 @@ Provisions relating to New Zealand Racing Board
 
 ##### 25 Effect of delegation
     
-*   (1) A person to whom any functions or powers are delegated under [clause 24(1)][150] may carry out those functions or exercise those powers in the same manner and with the same effect as if they had been conferred on the person directly by this Act and not by delegation.
+*   (1) A person to whom any functions or powers are delegated under [clause 24(1)][152] may carry out those functions or exercise those powers in the same manner and with the same effect as if they had been conferred on the person directly by this Act and not by delegation.
     
     (2) Subclause (1) is subject to any direction given, or condition imposed, by the governing body.
 
 ##### 26 Delegate presumed to act in accordance with delegation
     
-*   A person who appears to act under a delegation under [clause 24(1)][150] is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+*   A person who appears to act under a delegation under [clause 24(1)][152] is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 
 ##### 27 Other matters relating to delegation
     
-*   A delegation under [clause 24(1)][150]---
+*   A delegation under [clause 24(1)][152]---
         
     *   (a) is revocable at will, but the revocation does not take effect until it is communicated to the delegate; and
     
@@ -2146,7 +2158,7 @@ Provisions relating to New Zealand Racing Board
         
     *   (a) advise the governing body on any matters relating to the Board's functions or powers that are referred to the committee by the governing body; or
     
-    *   (b) exercise any of the Board's functions or powers that are delegated to the committee under [clause 24(1)][150].
+    *   (b) exercise any of the Board's functions or powers that are delegated to the committee under [clause 24(1)][152].
     
     (2) The governing body may, by resolution, alter, discharge, continue, or reconstitute a committee appointed under subclause (1).
     
@@ -2154,7 +2166,7 @@ Provisions relating to New Zealand Racing Board
     
     (4) A committee may regulate its own procedure, subject to any direction from the governing body.
     
-    (5) [Clauses 7 to 22][164] apply to the committee.
+    (5) [Clauses 7 to 22][166] apply to the committee.
 
 #### Employees
 
@@ -2172,7 +2184,7 @@ Provisions relating to New Zealand Racing Board
 
 ##### 31 Superannuation or retiring allowances
     
-*   For the purpose of providing a superannuation fund or retiring allowances for its employees, the governing body may pay sums by way of a subsidy or a contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][195].
+*   For the purpose of providing a superannuation fund or retiring allowances for its employees, the governing body may pay sums by way of a subsidy or a contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][197].
 
 ---
 
@@ -2229,7 +2241,7 @@ Provisions relating to performance and efficiency audit of Board
     
     *   (e) the nature of those policies and strategies, and the manner in which they were put in place; and
     
-    *   (f) any other matters determined by the Board in accordance with [clause 3(3)][196].
+    *   (f) any other matters determined by the Board in accordance with [clause 3(3)][198].
     
     Compare: 1971 No 155 s 103C(13)
 
@@ -2264,63 +2276,63 @@ Provisions relating to racing judicial system
 
 ## Contents
 
-[Judicial Control Authority][197]
+[Judicial Control Authority][199]
 
-[1][198] [Term of office][198]
+[1][200][][200][Term of office][200]
 
-[2][199] [Extraordinary vacancies][199]
+[2][201][][201][Extraordinary vacancies][201]
 
-[3][200] [Meetings][200]
+[3][202][][202][Meetings][202]
 
-[4][201] [Voting at meetings][201]
+[4][203][][203][Voting at meetings][203]
 
-[5][202] [Remuneration and allowances][202]
+[5][204][][204][Remuneration and allowances][204]
 
-[6][203] [Employees of Authority][203]
+[6][205][][205][Employees of Authority][205]
 
-[7][204] [Superannuation or retiring allowances][204]
+[7][206][][206][Superannuation or retiring allowances][206]
 
-[8][205] [Application of certain Acts to members and employees][205]
+[8][207][][207][Application of certain Acts to members and employees][207]
 
-[9][206] [Funds of Authority][206]
+[9][208][][208][Funds of Authority][208]
 
-[10][207] [Bank accounts][207]
+[10][209][][209][Bank accounts][209]
 
-[11][208] [Investment of money][208]
+[11][210][][210][Investment of money][210]
 
-[12][209] [Borrowing powers][209]
+[12][211][][211][Borrowing powers][211]
 
-[13][210] [Accounts and audit][210]
+[13][212][][212][Accounts and audit][212]
 
-[14][211] [Annual report][211]
+[14][213][][213][Annual report][213]
 
-[Judicial committees][212]
+[Judicial committees][214]
 
-[15][136] [Selection and appointment of panel for judicial committees][136]
+[15][138][][138][Selection and appointment of panel for judicial committees][138]
 
-[16][138] [Appointment of members of judicial committees][138]
+[16][140][][140][Appointment of members of judicial committees][140]
 
-[17][213] [Representation for hearings held on race days][213]
+[17][215][][215][Representation for hearings held on race days][215]
 
-[Appeals tribunals][214]
+[Appeals tribunals][216]
 
-[18][137] [Selection and appointment of panel for appeals tribunals][137]
+[18][139][][139][Selection and appointment of panel for appeals tribunals][139]
 
-[19][139] [Appointment of members of appeals tribunals][139]
+[19][141][][141][Appointment of members of appeals tribunals][141]
 
-[20][140] [Right of appeal][140]
+[20][142][][142][Right of appeal][142]
 
-[21][215] [Appeals against placings and stakes][215]
+[21][217][][217][Appeals against placings and stakes][217]
 
-[22][216] [Costs][216]
+[22][218][][218][Costs][218]
 
-[23][217] [Power to secure attendance][217]
+[23][219][][219][Power to secure attendance][219]
 
-[24][218] [Power to dismiss frivolous or vexatious appeals][218]
+[24][220][][220][Power to dismiss frivolous or vexatious appeals][220]
 
-[Miscellaneous][219]
+[Miscellaneous][221]
 
-[25][220] [Privileges and immunities][220]
+[25][222][][222][Privileges and immunities][222]
 
 ---
 
@@ -2328,9 +2340,9 @@ Provisions relating to racing judicial system
 
 ##### 1 Term of office
     
-*   (1) Except as provided in [clause 2][199], every member of the Authority, including the chairperson, must hold office for a period not exceeding 3 years, and is eligible for reappointment.
+*   (1) Except as provided in [clause 2][201], every member of the Authority, including the chairperson, must hold office for a period not exceeding 3 years, and is eligible for reappointment.
     
-    (2) Unless a member sooner vacates office under [clause 2][199], every member of the Authority whose term of office has expired must continue to hold office until---
+    (2) Unless a member sooner vacates office under [clause 2][201], every member of the Authority whose term of office has expired must continue to hold office until---
         
     *   (a) he or she is reappointed; or
     
@@ -2390,21 +2402,21 @@ Provisions relating to racing judicial system
 
 ##### 7 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing a superannuation fund or retiring allowances for its employees, the Authority may pay sums by way of a subsidy or a contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][195].
+*   (1) For the purpose of providing a superannuation fund or retiring allowances for its employees, the Authority may pay sums by way of a subsidy or a contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][197].
     
-    (2) A person who, immediately before becoming an employee of the Authority, is a contributor to the Government Superannuation Fund under [Part 2][221] or [Part 2A][222] of the Government Superannuation Fund Act 1956 must be regarded, for the purposes of that Act, as employed in the Government service so long as that person continues to be an employee of the Authority and that Act applies to that person in all respects as if that person's service as an employee of the Authority were Government service.
+    (2) A person who, immediately before becoming an employee of the Authority, is a contributor to the Government Superannuation Fund under [Part 2][223] or [Part 2A][224] of the Government Superannuation Fund Act 1956 must be regarded, for the purposes of that Act, as employed in the Government service so long as that person continues to be an employee of the Authority and that Act applies to that person in all respects as if that person's service as an employee of the Authority were Government service.
     
     (3) Nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][223], in accordance with subclause (2), to an employee of the Authority who is a contributor to the Government Superannuation Fund, the term **controlling authority**, in relation to that employee, means the Authority.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][225], in accordance with subclause (2), to an employee of the Authority who is a contributor to the Government Superannuation Fund, the term **controlling authority**, in relation to that employee, means the Authority.
     
     Compare: 1971 No 155 Schedule 2 cl 4
 
 ##### 8 Application of certain Acts to members and employees
     
-*   (1) No person may be regarded as employed in the service of the Crown for the purposes of the [State Sector Act 1988][224] or the Government service for the purposes of the [Government Superannuation Fund Act 1956][223] merely because that person is an employee of the Authority.
+*   (1) No person may be regarded as employed in the service of the Crown for the purposes of the [State Sector Act 1988][226] or the Government service for the purposes of the [Government Superannuation Fund Act 1956][225] merely because that person is an employee of the Authority.
     
-    (2) This clause applies subject to [clause 7(2)][204].
+    (2) This clause applies subject to [clause 7(2)][206].
     
     Compare: 1971 No 155 Schedule 2 cl 5
 
@@ -2444,7 +2456,7 @@ Provisions relating to racing judicial system
     
 *   Without limiting the terms of any trust or endowment, any money held by, or on behalf of, the Authority and that is not immediately required for expenditure may be invested---
         
-    *   (a) in accordance with the provisions of the [Trustee Act 1956][225] that relate to the investment of trust funds; or
+    *   (a) in accordance with the provisions of the [Trustee Act 1956][227] that relate to the investment of trust funds; or
     
     *   (b) in any other manner that the Authority, with the prior approval of the Board, may determine.
     
@@ -2462,7 +2474,7 @@ Provisions relating to racing judicial system
     
     (2) At the end of every racing year, the Authority must cause to be prepared full and true statements and accounts of all its income and expenditure in that year, together with a balance sheet as at the last day of that year.
     
-    (3) The statement and balance sheet must be audited by a chartered accountant (within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][226]).
+    (3) The statement and balance sheet must be audited by a chartered accountant (within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][228]).
     
     (4) No person who is an officer, agent, employee, or member of the Authority may be appointed as an auditor under subclause (3).
     
@@ -2607,11 +2619,11 @@ Enactments amended
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][227]._
+_Amendment(s) incorporated in the [Act(s)][229]._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][228]._
+_Amendment(s) incorporated in the [Act(s)][230]._
 
 ##### Gaming and Lotteries Act 1977 (1977 No 84)
 
@@ -2623,7 +2635,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][229]._
+_Amendment(s) incorporated in the [Act(s)][231]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -2631,7 +2643,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][230]._
+_Amendment(s) incorporated in the [Act(s)][232]._
 
 ---
 
@@ -2653,19 +2665,19 @@ Enactments repealed
 
 ##### Finance Act 1977 (1977 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][231]._
+_Amendment(s) incorporated in the [Act(s)][233]._
 
 ##### Gaming Duties Amendment Act 1976 (1976 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][232]._
+_Amendment(s) incorporated in the [Act(s)][234]._
 
 ##### Gaming Duties Amendment Act 1995 (1995 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][233]._
+_Amendment(s) incorporated in the [Act(s)][235]._
 
 ##### Gaming Duties Amendment Act 1996 (1996 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][234]._
+_Amendment(s) incorporated in the [Act(s)][236]._
 
 ##### Goods and Services Tax Amendment Act 1987 (1987 No 103)
 
@@ -2708,9 +2720,11 @@ Order in Council At Wellington this 22nd day of June 2009
 Present:  
 Her Excellency the Administrator of the Government in Council
 
+### Order
+
 ##### 1 Title
     
-*   This order is the [Racing (New Zealand Greyhound Racing Association Incorporated) Order 2009][235].
+*   This order is the [Racing (New Zealand Greyhound Racing Association Incorporated) Order 2009][237].
 
 ##### 2 Commencement
     
@@ -2723,82 +2737,43 @@ Her Excellency the Administrator of the Government in Council
 Rebecca Kitteridge,  
 Clerk of the Executive Council.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Racing Act 2003\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][236] ![](/images/external_link.gif).
+*   This is a reprint of the Racing Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][237] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][238] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][239] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][238] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][240] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][241] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][239] and [17E][240] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][131]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][137]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][128]
     
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][136]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    [Racing Amendment Act 2007][242] (2007 No 74)
     
-*   New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][128]
+    [Racing Amendment Act 2006][243] (2006 No 52)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][135]
+    [Racing Amendment Act 2005][244] (2005 No 66)
     
-    [Racing Amendment Act 2007][241] (2007 No 74)
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][196]
     
-    [Racing Amendment Act 2006][242] (2006 No 52)
-    
-    [Racing Amendment Act 2005][243] (2005 No 66)
-    
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][194]
-    
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][153]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][155]
     
     Gambling Act 2003 (2003 No 51): [section 374][124]
     
@@ -2806,7 +2781,7 @@ Clerk of the Executive Council.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM184058
 [2]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM184059
 [3]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM184060
@@ -2935,118 +2910,119 @@ Clerk of the Executive Council.
 [126]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM968479
 [127]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM391422
 [128]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM3043113
-[129]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM195534
-[130]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM195097
-[131]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM175792
-[132]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM176149
-[133]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM309947
-[134]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM348945
-[135]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM1102349
-[136]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185563
-[137]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185567
-[138]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185564
-[139]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185568
-[140]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185569
-[141]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM385220
-[142]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM398477
-[143]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM385221
-[144]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM208278
-[145]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM207496
-[146]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM165334
-[147]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM172328
-[148]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM36944
-[149]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM210255
-[150]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185528
-[151]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM64790
-[152]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM162971
-[153]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM328867
-[154]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM81034
-[155]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM319569
-[156]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM323597
-[157]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315405
-[158]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185099
-[159]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185500
-[160]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185501
-[161]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185502
-[162]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185503
-[163]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185504
-[164]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185505
-[165]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315406
-[166]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185507
-[167]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185508
-[168]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185510
-[169]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185511
-[170]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185512
-[171]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315407
-[172]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185514
-[173]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185515
-[174]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315408
-[175]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185517
-[176]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185518
-[177]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185519
-[178]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185520
-[179]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185521
-[180]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185522
-[181]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185523
-[182]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315409
-[183]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185525
-[184]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185526
-[185]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315410
-[186]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185529
-[187]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185530
-[188]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185531
-[189]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315411
-[190]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185533
-[191]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315412
-[192]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185536
-[193]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185537
-[194]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM333795
-[195]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM143291
-[196]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185541
-[197]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315413
-[198]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185548
-[199]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185549
-[200]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185550
-[201]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185551
-[202]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185552
-[203]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185553
-[204]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185554
-[205]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185555
-[206]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185556
-[207]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185557
-[208]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185558
-[209]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185559
-[210]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185560
-[211]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185561
-[212]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315414
-[213]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185565
-[214]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315415
-[215]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185570
-[216]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185571
-[217]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185572
-[218]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185573
-[219]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315416
-[220]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185575
-[221]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM446395
-[222]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM446842
-[223]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM446000
-[224]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM129109
-[225]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM304703
-[226]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM391363
-[227]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM373873
-[228]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM52294
-[229]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM81877
-[230]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM65921
-[231]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM445233
-[232]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM438748
-[233]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM372869
-[234]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM393291
-[235]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2135600
-[236]: http://www.pco.parliament.govt.nz/reprints/
-[237]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM195439
-[238]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[239]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM195468
-[240]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM195470
-[241]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM968472
-[242]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM385213
-[243]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM348938
+[129]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2997643
+[130]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2998573
+[131]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2998633
+[132]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM175792
+[133]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM176149
+[134]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM309947
+[135]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM348945
+[136]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM1102349
+[137]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM3360714
+[138]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185563
+[139]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185567
+[140]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185564
+[141]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185568
+[142]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185569
+[143]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM385220
+[144]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM398477
+[145]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM385221
+[146]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM208278
+[147]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM207496
+[148]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM165334
+[149]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM172328
+[150]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM36944
+[151]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM210255
+[152]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185528
+[153]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM64790
+[154]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM162971
+[155]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM328867
+[156]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM81034
+[157]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM319569
+[158]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM323597
+[159]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315405
+[160]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185099
+[161]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185500
+[162]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185501
+[163]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185502
+[164]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185503
+[165]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185504
+[166]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185505
+[167]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315406
+[168]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185507
+[169]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185508
+[170]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185510
+[171]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185511
+[172]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185512
+[173]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315407
+[174]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185514
+[175]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185515
+[176]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315408
+[177]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185517
+[178]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185518
+[179]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185519
+[180]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185520
+[181]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185521
+[182]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185522
+[183]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185523
+[184]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315409
+[185]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185525
+[186]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185526
+[187]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315410
+[188]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185529
+[189]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185530
+[190]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185531
+[191]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315411
+[192]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185533
+[193]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315412
+[194]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185536
+[195]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185537
+[196]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM333795
+[197]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM143291
+[198]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185541
+[199]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315413
+[200]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185548
+[201]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185549
+[202]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185550
+[203]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185551
+[204]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185552
+[205]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185553
+[206]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185554
+[207]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185555
+[208]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185556
+[209]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185557
+[210]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185558
+[211]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185559
+[212]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185560
+[213]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185561
+[214]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315414
+[215]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185565
+[216]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315415
+[217]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185570
+[218]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185571
+[219]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185572
+[220]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185573
+[221]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM2315416
+[222]: http://www.legislation.govt.nz/act/public/2003/0003/latest/whole.html#DLM185575
+[223]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM446395
+[224]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM446842
+[225]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM446000
+[226]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM129109
+[227]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM304703
+[228]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM391363
+[229]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM373873
+[230]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM52294
+[231]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM81877
+[232]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM65921
+[233]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM445233
+[234]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM438748
+[235]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM372869
+[236]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM393291
+[237]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2135600
+[238]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2998516
+[239]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2998515
+[240]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM2998532
+[241]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[242]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM968472
+[243]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM385213
+[244]: http://www.legislation.govt.nz/act/public/2003/0003/latest/link.aspx?id=DLM348938
