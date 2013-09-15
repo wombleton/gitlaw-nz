@@ -13072,9 +13072,9 @@ Related amendments to other enactments
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [sections 169][456], [170][461]
+*   Biosecurity Law Reform Act 2012 (2012 No 73): [Part 1][756]
     
-    Biosecurity Law Reform Act 2012 (2012 No 73): [Part 1][756]
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [sections 169][456], [170][461]
     
     [Biosecurity Amendment Act 2012][757] (2012 No 26)
     
