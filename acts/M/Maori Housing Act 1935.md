@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -331,15 +331,19 @@ An Act to make better provision for the housing of the Maori people
 
 ##### 14B False statements
     
-*   (1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $1,000 who, for the purpose of obtaining any advance under this Act, whether for that person or for any other person,---
+*   (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $1,000 who, for the purpose of obtaining any advance under this Act, whether for that person or for any other person,---
         
     *   (a) makes any statement or declaration knowing it to be false in any particular; or
     
     *   (b) wilfully misleads or attempts to mislead any other person involved in the granting of advances under this Act.
     
-    (2) Notwithstanding anything in [section 14][44] of the [Summary Proceedings Act 1957][45], any information for an offence against this Act may be laid at any time within 12 months after the date of the alleged offence.
+    (2) Despite anything to the contrary in [section 25][44] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
     
     Section 14B: inserted, on 30 July 1985, by section 4 of the Maori Housing Amendment Act 1985 (1985 No 115).
+    
+    Section 14B(1): amended, on 1 July 2013, by [section 413][45] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 14B(2): replaced, on 1 July 2013, by [section 413][45] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Annual statement of accounts
     
@@ -909,7 +913,7 @@ Commencement16 September 1938
 
 ###### 1 General
     
-*   This is a reprint of the Maori Housing Act 1935\. The reprint incorporates all the amendments to the Act as at 1 January 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Maori Housing Act 1935\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][71] ![](/images/external_link.gif).
 
@@ -956,7 +960,9 @@ Commencement16 September 1938
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Property Law Act 2007 (2007 No 91): [section 364(1)][43]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][45]
+    
+    Property Law Act 2007 (2007 No 91): [section 364(1)][43]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][58]
     
@@ -1082,8 +1088,8 @@ Commencement16 September 1938
 [41]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM969624
 [42]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM374006
 [43]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM969644
-[44]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM311191
-[45]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM310742
+[44]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM3360067
+[45]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM3360714
 [46]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM374007
 [47]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM224191
 [48]: http://www.legislation.govt.nz/act/public/1935/0034/latest/link.aspx?id=DLM396102
