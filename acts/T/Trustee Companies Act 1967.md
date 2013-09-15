@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -981,13 +981,15 @@ Trustee companies protection
     
     (3) In the case of shares in a trustee company to which this Part applies belonging to the estate of any deceased person, or to any estate which is being administered under the Mental Health Act 1969, or the [Protection of Personal and Property Rights Act 1988][84], the registered holder or other persons entitled to vote in respect of the shares shall not be deemed, for the purposes of any certificate to be signed by him under this section, to have given any undertaking or to be under any obligation to the beneficiary or beneficiaries of the estate as to the exercise of his voting or other rights or powers in respect of the shares.
     
-    (4) Any person who signs for the purposes of this Part a false certificate commits an offence, and is liable on summary conviction to a fine of $200\.
+    (4) Any person who signs for the purposes of this Part a false certificate commits an offence, and is liable on conviction to a fine of $200\.
     
     Compare: 1934--35 No 52 s 6
     
     Section 46(3): amended, on 1 October 1988, pursuant to [section 113][91] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
     Section 46(3): amended, on 1 April 1970, pursuant to section 129(1) of the Mental Health Act 1969 (1969 No 16).
+    
+    Section 46(4): amended, on 1 July 2013, by [section 413][120] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Certificates for purposes of this Part not to constitute notice of any trust
     
@@ -1028,11 +1030,11 @@ Miscellaneous provisions
     
     *   (e) make special provision in relation to existing funds within the meaning of [section 5(2)][106] of the Trustee Companies Amendment Act 2002\.
     
-    Section 47A: inserted, on 27 November 2002, by [section 8][120] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 47A: inserted, on 27 November 2002, by [section 8][121] of the Trustee Companies Amendment Act 2002 (2002 No 48).
 
 ##### 48 Repeals
     
-*   The enactments specified in [Schedule 3][121] are hereby repealed.
+*   The enactments specified in [Schedule 3][122] are hereby repealed.
 
 ---
 
@@ -1041,12 +1043,12 @@ Deposits by trustee companies
 
 [s 6(2)][8]
 
-Name of companyNature and amount of deposit
+**Name of company****Nature and amount of deposit**
 
-*   Schedule 1: amended, on 1 May 2002, by [section 16(1)][122] of the Trustees Executors Limited Act 2002 (2002 No 2 (P)).
-*   Schedule 1: amended, on 1 September 1991, by [section 14(1)][123] of the New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)).
+*   Schedule 1: amended, on 1 May 2002, by [section 16(1)][123] of the Trustees Executors Limited Act 2002 (2002 No 2 (P)).
+*   Schedule 1: amended, on 1 September 1991, by [section 14(1)][124] of the New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)).
 *   Schedule 1: amended, on 1 May 1989, by [section 19(3)][76] of the PGG Trust Limited Act 1989 (1989 No 1 (P)).
-*   Schedule 1: amended, on 1 April 1988, by [section 14(1)][124] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
+*   Schedule 1: amended, on 1 April 1988, by [section 14(1)][125] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
 *   Schedule 1: amended, on 1 April 1983, by [section 20(3)][78] of the New Zealand Guardian Trust Company Act 1982 (1982 No 3 (P)).
 
 ---
@@ -1074,8 +1076,6 @@ Date:
 \[_Signature of shareholder_\]  
 Witness:
 
----
-
 #### Form 2  
 Certificate which a shareholder may be called upon to sign before voting
 
@@ -1087,8 +1087,6 @@ Date:
 
 \[_Signature of shareholder_\]  
 Witness:
-
----
 
 #### Form 3  
 Certificate to accompany proxy
@@ -1155,7 +1153,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Unit Trusts Act 1960 (1960 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][125]._
+_Amendment(s) incorporated in the [Act(s)][126]._
 
 ---
 
@@ -1167,7 +1165,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Trustee Companies Amendment Act 2002][126].
+*   (1) This Act is the [Trustee Companies Amendment Act 2002][127].
     
     (2) In this Act, the Trustee Companies Act 1967 is called ""the principal Act"".
 
@@ -1177,7 +1175,7 @@ Commencementsee section 2
     
     (2) Section 5 comes into force on a day to be fixed by the Governor-General by Order in Council.
     
-    Section 2(2): section 5 brought into force, on 1 July 2003, by the [Trustee Companies Amendment Act Commencement Order 2003][127] (SR 2003/120).
+    Section 2(2): section 5 brought into force, on 1 July 2003, by the [Trustee Companies Amendment Act Commencement Order 2003][128] (SR 2003/120).
 
 ##### 5 New sections 32 and 32A substituted
     
@@ -1211,23 +1209,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Trustee Companies Act 1967\. The reprint incorporates all the amendments to the Act as at 1 October 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Trustee Companies Act 1967\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][128] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][129] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][129] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][130] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][130] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][131] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][131] and [17E][132] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][132] and [17E][133] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1258,7 +1256,9 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 76][92]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][120]
+    
+    Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 76][92]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][99]
     
@@ -1272,7 +1272,7 @@ Commencementsee section 2
     
     Local Government Act 2002 (2002 No 84): [section 266][93]
     
-    [Trustee Companies Amendment Act 2002][126] (2002 No 48)
+    [Trustee Companies Amendment Act 2002][127] (2002 No 48)
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][105]
     
@@ -1286,7 +1286,7 @@ Commencementsee section 2
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][72]
     
-    New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)): [sections 14][123], [16][75]
+    New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)): [sections 14][124], [16][75]
     
     Trustee Companies Amendment Act 1990 (1990 No 16)
     
@@ -1296,7 +1296,7 @@ Commencementsee section 2
     
     Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 113][91]
     
-    AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)): [sections 14][124], [15][77]
+    AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)): [sections 14][125], [15][77]
     
     Trust Companies Amendment Act 1983 (1983 No 25)
     
@@ -1436,16 +1436,17 @@ Commencementsee section 2
 [117]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381757
 [118]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381759
 [119]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381761
-[120]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164235
-[121]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381763
-[122]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM121354
-[123]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM115325
-[124]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM113263
-[125]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM325263
-[126]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164218
-[127]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM191066
-[128]: http://www.pco.parliament.govt.nz/reprints/
-[129]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM195439
-[130]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[131]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM195468
-[132]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM195470
+[120]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM3360714
+[121]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164235
+[122]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381763
+[123]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM121354
+[124]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM115325
+[125]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM113263
+[126]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM325263
+[127]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164218
+[128]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM191066
+[129]: http://www.pco.parliament.govt.nz/reprints/
+[130]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM195439
+[131]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[132]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM195468
+[133]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM195470
