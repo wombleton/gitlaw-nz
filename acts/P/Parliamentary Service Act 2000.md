@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Parliamentary Service.
 
@@ -23,146 +23,146 @@ This Act is administered by the Parliamentary Service.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
 [Interpretation][4]
 
-[3][5] [Interpretation][5]
+[3][5][][5][Interpretation][5]
 
-[3A][6] [Meaning of publish in sections 3B and 3C][6]
+[3A][6][][6][Meaning of publish in sections 3B and 3C][6]
 
-[3B][7] [Meaning of funding entitlements for parliamentary purposes][7]
+[3B][7][][7][Meaning of funding entitlements for parliamentary purposes][7]
 
-[3C][8] [Apportionment of funding for election advertisement or referendum advertisement published both before and during regulated period][8]
+[3C][8][][8][Apportionment of funding for election advertisement or referendum advertisement published both before and during regulated period][8]
 
-[3D][9] [Opinion given by Electoral Commission may be taken into account in determining whether advertisement is election advertisement][9]
+[3D][9][][9][Opinion given by Electoral Commission may be taken into account in determining whether advertisement is election advertisement][9]
 
-[3E][10] [Interpretation of determinations under section 20A of Civil List Act 1979][10]
+[3E][10][][10][Interpretation of determinations under section 20A of Civil List Act 1979][10]
 
 [Purposes][11]
 
-[4][12] [Purposes of this Act][12]
+[4][12][][12][Purposes of this Act][12]
 
-[5][13] [Act to bind the Crown][13]
+[5][13][][13][Act to bind the Crown][13]
 
 [Part 2][14]  
 [Delivery of services and funding entitlements for House of Representatives and its members][14]
 
 [Parliamentary Service][15]
 
-[6][16] [Parliamentary Service][16]
+[6][16][][16][Parliamentary Service][16]
 
-[7][17] [Principal duties of Parliamentary Service][17]
+[7][17][][17][Principal duties of Parliamentary Service][17]
 
-[8][18] [Services provided in accordance with Speaker's directions][18]
+[8][18][][18][Services provided in accordance with Speaker's directions][18]
 
-[9][19] [Other functions of Parliamentary Service][19]
+[9][19][][19][Other functions of Parliamentary Service][19]
 
-[9A][20] [Application of section 9C to electoral candidates][20]
+[9A][20][][20][Application of section 9C to electoral candidates][20]
 
-[9B][21] [Speaker may give directions for provision of services and funding for parliamentary purposes in relation to certain electoral candidates][21]
+[9B][21][][21][Speaker may give directions for provision of services and funding for parliamentary purposes in relation to certain electoral candidates][21]
 
-[9C][22] [Provision of services and funding for parliamentary purposes in relation to certain electoral candidates][22]
+[9C][22][][22][Provision of services and funding for parliamentary purposes in relation to certain electoral candidates][22]
 
-[9D][23] [Speaker to take into account advice and recommendations of Commission][23]
+[9D][23][][23][Speaker to take into account advice and recommendations of Commission][23]
 
 [General Manager of Parliamentary Service][24]
 
-[10][25] [General Manager of Parliamentary Service][25]
+[10][25][][25][General Manager of Parliamentary Service][25]
 
-[11][26] [Principal responsibilities of General Manager][26]
+[11][26][][26][Principal responsibilities of General Manager][26]
 
 [Further provisions relating to Parliamentary Service][27]
 
-[12][28] [Further provisions relating to Parliamentary Service][28]
+[12][28][][28][Further provisions relating to Parliamentary Service][28]
 
 [Part 3][29]  
 [Policy relating to parliamentary resources and services][29]
 
 [Parliamentary Service Commission][30]
 
-[13][31] [Parliamentary Service Commission][31]
+[13][31][][31][Parliamentary Service Commission][31]
 
-[14][32] [Functions of Parliamentary Service Commission][32]
+[14][32][][32][Functions of Parliamentary Service Commission][32]
 
-[15][33] [Membership of Commission during term of Parliament][33]
+[15][33][][33][Membership of Commission during term of Parliament][33]
 
-[16][34] [Chairperson of Commission][34]
+[16][34][][34][Chairperson of Commission][34]
 
-[17][35] [Vacation of office by nominated or appointed members][35]
+[17][35][][35][Vacation of office by nominated or appointed members][35]
 
-[18][36] [Membership of Parliamentary Service Commission between Parliaments][36]
+[18][36][][36][Membership of Parliamentary Service Commission between Parliaments][36]
 
-[19][37] [Further provisions relating to Commission][37]
+[19][37][][37][Further provisions relating to Commission][37]
 
 [Review committee][38]
 
-[20][39] [Establishment of committee to review appropriations][39]
+[20][39][][39][Establishment of committee to review appropriations][39]
 
-[21][40] [Work of review committee][40]
+[21][40][][40][Work of review committee][40]
 
-[22][41] [Report by committee][41]
+[22][41][][41][Report by committee][41]
 
 [Part 4][42]  
 [Land and other assets held for parliamentary purposes][42]
 
 [Parliamentary precincts][43]
 
-[23][44] [Parliament grounds][44]
+[23][44][][44][Parliament grounds][44]
 
-[24][45] [Leased premises in Bowen House][45]
+[24][45][][45][Leased premises in Bowen House][45]
 
-[25][46] [House of Representatives may add land to parliamentary precincts][46]
+[25][46][][46][House of Representatives may add land to parliamentary precincts][46]
 
-[26][47] [Parliamentary precincts under control of Speaker][47]
+[26][47][][47][Parliamentary precincts under control of Speaker][47]
 
 [Parliamentary Corporation][48]
 
-[27][49] [Parliamentary Corporation][49]
+[27][49][][49][Parliamentary Corporation][49]
 
-[28][50] [Functions of Parliamentary Corporation][50]
+[28][50][][50][Functions of Parliamentary Corporation][50]
 
-[29][51] [Membership of Parliamentary Corporation][51]
+[29][51][][51][Membership of Parliamentary Corporation][51]
 
-[30][52] [Specific powers of Parliamentary Corporation][52]
+[30][52][][52][Specific powers of Parliamentary Corporation][52]
 
-[31][53] [No borrowing power][53]
+[31][53][][53][No borrowing power][53]
 
-[32][54] [Further provisions relating to Parliamentary Corporation][54]
+[32][54][][54][Further provisions relating to Parliamentary Corporation][54]
 
 [Part 5][55]  
 [Miscellaneous provisions][55]
 
 [Exercise of Speaker's powers][56]
 
-[33][57] [Deputy Speaker may act as Speaker][57]
+[33][57][][57][Deputy Speaker may act as Speaker][57]
 
-[34][58] [Delegation of powers by Speaker][58]
+[34][58][][58][Delegation of powers by Speaker][58]
 
-[35][59] [Status of delegations][59]
+[35][59][][59][Status of delegations][59]
 
 [Recovery of amounts paid made outside entitlements][60]
 
-[35A][61] [Recovery of amounts paid outside entitlements to funding for parliamentary purposes][61]
+[35A][61][][61][Recovery of amounts paid outside entitlements to funding for parliamentary purposes][61]
 
 [Amendments to other Acts][62]
 
-[36][63] [Amendment to Ombudsmen Act 1975][63]
+[36][63][][63][Amendment to Ombudsmen Act 1975][63]
 
-[37][64] [Amendment to Higher Salaries Commission Act 1977][64]
+[37][64][][64][Amendment to Higher Salaries Commission Act 1977][64]
 
-[38][65] [Amendment to Official Information Act 1982][65]
+[38][65][][65][Amendment to Official Information Act 1982][65]
 
-[39][66] [Amendment to Public Finance Act 1989][66]
+[39][66][][66][Amendment to Public Finance Act 1989][66]
 
 [Repeals][67]
 
-[40][68] [Repeals][68]
+[40][68][][68][Repeals][68]
 
 [Schedule 1][69]  
 [Provisions applying in respect of Parliamentary Service][69]
@@ -817,7 +817,9 @@ Land and other assets held for parliamentary purposes
     
     (3) No land or premises may be added under this section to the parliamentary precincts unless the Crown or the Parliamentary Corporation holds, on the date on which the resolution takes effect, an interest in the land or premises.
     
-    (4) Any resolution made under subsection (1) must be printed and published in accordance with the [Acts and Regulations Publication Act 1989][94], but is not a regulation for the purposes of the [Regulations (Disallowance) Act 1989][95].
+    (4) A resolution made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][94].
+    
+    Section 25(4): replaced, on 5 August 2013, by [section 77(3)][95] of the Legislation Act 2012 (2012 No 119).
 
 ##### 26 Parliamentary precincts under control of Speaker
     
@@ -1177,6 +1179,8 @@ Provisions applying in respect of Parliamentary Service
     
 *   (1) The State Services Commissioner may from time to time, at the request of the Speaker, exercise in respect of the Parliamentary Service any of the functions conferred on the State Services Commissioner by [section 6][121] of the State Sector Act 1988\.
     
+    (1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Parliamentary Service and its separation from the executive government.
+    
     (2) For the purposes of this clause, [section 6][121] of the State Sector Act 1988 applies, with all necessary modifications, as if---
         
     *   (a) the Service were a department; and
@@ -1184,6 +1188,8 @@ Provisions applying in respect of Parliamentary Service
     *   (b) the General Manager of the Service were the chief executive of that department.
     
     Compare: 1988 No 126 [s 17][122]
+    
+    Schedule 1 clause 15(1A): inserted, on 18 July 2013, by [section 64(2)][123] of the State Sector Amendment Act 2013 (2013 No 49).
 
 #### Assets of Parliamentary Corporation notionally owned by Parliamentary Service
 
@@ -1193,15 +1199,15 @@ Provisions applying in respect of Parliamentary Service
         
     *   (a) the audit of the Service:
     
-    *   (b) the information that is required to be provided by the Service under [section 14][123] or [section 15][124] of the Public Finance Act 1989:
+    *   (b) the information that is required to be provided by the Service under [section 14][124] or [section 15][125] of the Public Finance Act 1989:
     
     *   (c) the reports and information required to be prepared under the [Public Finance Act 1989][97]:
     
     *   (d) any other matter done under, or in connection with, the Public Finance Act 1989\.
     
-    Schedule 1 clause 16(b): substituted, on 25 January 2005, by [section 37(1)][125] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Schedule 1 clause 16(b): substituted, on 25 January 2005, by [section 37(1)][126] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Schedule 1 clause 16(c): substituted, on 25 January 2005, by [section 37(1)][125] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Schedule 1 clause 16(c): substituted, on 25 January 2005, by [section 37(1)][126] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ---
 
@@ -1224,7 +1230,7 @@ Provisions applying in respect of Parliamentary Service Commission
     
 *   (1) At all meetings of the Parliamentary Service Commission, the chairperson, if present, presides.
     
-    (2) If the chairperson is absent from a meeting and there is no deputy appointed under [clause 7][126] attending for the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
+    (2) If the chairperson is absent from a meeting and there is no deputy appointed under [clause 7][127] attending for the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
     
     Compare: 1985 No 128 s 11(3)
 
@@ -1244,7 +1250,7 @@ Provisions applying in respect of Parliamentary Service Commission
     
 *   (1) Each question arising at any meeting of the Parliamentary Service Commission is decided by a majority of the valid votes recorded on the question.
     
-    (2) The manner of voting at meetings of the Commission must be in accordance with [clause 5][127] or [clause 6][128], as the case may require.
+    (2) The manner of voting at meetings of the Commission must be in accordance with [clause 5][128] or [clause 6][129], as the case may require.
     
     Compare: 1985 No 128 s 11(4)
 
@@ -1384,11 +1390,11 @@ Provisions applying in respect of Parliamentary Corporation
     
     (2) Every meeting of the Corporation requires the presence of---
         
-    *   (a) the chairperson or a deputy appointed, under [clause 5][129], by the chairperson; and
+    *   (a) the chairperson or a deputy appointed, under [clause 5][130], by the chairperson; and
     
-    *   (b) the General Manager or a deputy appointed, under [clause 5][129], by the General Manager; and
+    *   (b) the General Manager or a deputy appointed, under [clause 5][130], by the General Manager; and
     
-    *   (c) 1 member appointed under [section 29(1)(c)][51] or a deputy appointed, under [clause 5][129], by such a member.
+    *   (c) 1 member appointed under [section 29(1)(c)][51] or a deputy appointed, under [clause 5][130], by such a member.
     
     
 
@@ -1396,7 +1402,7 @@ Provisions applying in respect of Parliamentary Corporation
     
 *   (1) At all meetings of the Corporation, the chairperson, if present, presides.
     
-    (2) If the chairperson is absent from a meeting and there is no deputy, appointed under [clause 5][129] by the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
+    (2) If the chairperson is absent from a meeting and there is no deputy, appointed under [clause 5][130] by the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
 
 ##### 5 Deputies
     
@@ -1458,7 +1464,7 @@ Provisions applying in respect of Parliamentary Corporation
     
     (3) Despite subclause (1), no obligation entered into by or on behalf of the Corporation, under the authority of a general or specific resolution of the Corporation, is invalid only because the obligation was not entered into in accordance with this clause.
     
-    Compare: 1959 No 98 [s 3][130]; 1993 No 105 [s 180(1)][131]
+    Compare: 1959 No 98 [s 3][131]; 1993 No 105 [s 180(1)][132]
 
 ##### 11 Records
     
@@ -1473,11 +1479,11 @@ Enactments repealed
 
 ##### Clerk of the House of Representatives Act 1988 (1988 No 126)
 
-_Amendment(s) incorporated in the [Act(s)][132]._
+_Amendment(s) incorporated in the [Act(s)][133]._
 
 ##### Constitution Act 1986 (1986 No 114)
 
-_Amendment(s) incorporated in the [Act(s)][133]._
+_Amendment(s) incorporated in the [Act(s)][134]._
 
 ##### Parliamentary Service Act 1985 (1985 No 128)
 
@@ -1487,76 +1493,37 @@ _Amendment(s) incorporated in the [Act(s)][133]._
 
 ##### Reserves and Other Lands Disposal Act 1974 (1974 No 139)
 
-_Amendment(s) incorporated in the [Act(s)][134]._
+_Amendment(s) incorporated in the [Act(s)][135]._
 
 ##### Reserves and Other Lands Disposal Act 1980 (1980 No 62)
 
-_Amendment(s) incorporated in the [Act(s)][135]._
+_Amendment(s) incorporated in the [Act(s)][136]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Parliamentary Service Act 2000\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][136] ![](/images/external_link.gif).
+*   This is a reprint of the Parliamentary Service Act 2000 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][137] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][137] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][138] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][138] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][139] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][140] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][139] and [17E][140] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   State Sector Amendment Act 2013 (2013 No 49): [section 64][123]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Legislation Act 2012 (2012 No 119): [section 77(3)][95]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Parliamentary Service Amendment Act 2010][141] (2010 No 138)
+    [Parliamentary Service Amendment Act 2010][141] (2010 No 138)
     
     Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(1)(b)][90]
     
@@ -1564,7 +1531,7 @@ _Amendment(s) incorporated in the [Act(s)][135]._
     
     State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][116]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][125]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][126]
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][106]
     
@@ -1572,7 +1539,7 @@ _Amendment(s) incorporated in the [Act(s)][135]._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM55843
 [2]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM55844
 [3]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM55845
@@ -1666,8 +1633,8 @@ _Amendment(s) incorporated in the [Act(s)][135]._
 [91]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129548
 [92]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM392268
 [93]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM45426
-[94]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM195097
-[95]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM195534
+[94]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2997643
+[95]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998633
 [96]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM36926
 [97]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM160808
 [98]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3381607
@@ -1695,23 +1662,23 @@ _Amendment(s) incorporated in the [Act(s)][135]._
 [120]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM88957
 [121]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129446
 [122]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135683
-[123]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161614
-[124]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161617
-[125]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM328867
-[126]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56364
-[127]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56362
-[128]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56363
-[129]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56377
-[130]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM324229
-[131]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM320845
-[132]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM136118
-[133]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM94264
-[134]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM430404
-[135]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM36915
-[136]: http://www.pco.parliament.govt.nz/reprints/
-[137]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM195439
-[138]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[139]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM195468
-[140]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM195470
+[123]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM5205916
+[124]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161614
+[125]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161617
+[126]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM328867
+[127]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56364
+[128]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56362
+[129]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56363
+[130]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56377
+[131]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM324229
+[132]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM320845
+[133]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM136118
+[134]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM94264
+[135]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM430404
+[136]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM36915
+[137]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998516
+[138]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998515
+[139]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998532
+[140]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [141]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3130800
 [142]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM1315800
