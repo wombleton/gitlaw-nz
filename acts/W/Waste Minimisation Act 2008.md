@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -220,9 +220,9 @@ This Act is administered by the Ministry for the Environment.
 
 [70][96][][96][Liability of principals for acts of agents][96]
 
-[Time for laying informations][97]
+[Time for filing charge][97]
 
-[71][98][][98][Time for laying informations][98]
+[71][98][][98][Time for filing charge][98]
 
 [Injunctions][99]
 
@@ -1544,7 +1544,7 @@ Offences and enforcement
 
 ##### 65 Offences
     
-*   (1) The following persons commit an offence and are liable on summary conviction to a fine not exceeding $100,000:
+*   (1) The following persons commit an offence and are liable on conviction to a fine not exceeding $100,000:
         
     *   (a) a producer who contravenes regulations made under [section 22(1)(a)][29]:
     
@@ -1564,9 +1564,9 @@ Offences and enforcement
         
         
     
-    (2) A territorial authority that fails to comply with [section 55(3)][74] commits an offence and is liable on summary conviction to a fine not exceeding $20,000\.
+    (2) A territorial authority that fails to comply with [section 55(3)][74] commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
-    (3) The following persons commit an offence and are liable on summary conviction to a fine not exceeding $5,000:
+    (3) The following persons commit an offence and are liable on conviction to a fine not exceeding $5,000:
         
     *   (a) a person who intentionally prevents an enforcement officer or auditor from carrying out his or her statutory functions or duties; or
     
@@ -1584,13 +1584,21 @@ Offences and enforcement
     
     (5) Costs under subsection (4) must be assessed by the court.
     
-    Section 65(3)(b)(i): amended, on 1 October 2012, by [section 306(1)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 65(1): amended, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 65(3)(b)(ii): amended, on 1 October 2012, by [section 306(1)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 65(2): amended, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65(3): amended, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65(3)(b)(i): amended, on 1 October 2012, by [section 306(1)][159] of the Search and Surveillance Act 2012 (2012 No 24).
+    
+    Section 65(3)(b)(ii): amended, on 1 October 2012, by [section 306(1)][159] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 66 Offences against bylaws
     
-*   Every person commits an offence who breaches a bylaw made under [section 56][76] and is liable on summary conviction to a fine not exceeding $20,000\.
+*   Every person commits an offence who breaches a bylaw made under [section 56][76] and is liable on conviction to a fine not exceeding $20,000\.
+    
+    Section 66: amended, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 67 Additional penalty for contravention involving commercial gain
     
@@ -1682,13 +1690,19 @@ Offences and enforcement
     
     
 
-#### Time for laying informations
+#### Time for filing charge
+    
+*   Heading: replaced, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 71 Time for laying informations
+##### 71 Time for filing charge
     
-*   (1) An information in respect of an offence against this Act may be laid at any time within 12 months after the time when the matter giving rise to the information first became known, or should have become known, to the person laying the information.
+*   Despite anything to the contrary in [section 25][160] of the Criminal Procedure Act 2011,---
+        
+    *   (a) the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the matter giving rise to the charge first became known, or should have become known, to the person who commences the proceedings; and
     
-    (2) An information in respect of an offence against a bylaw made under [section 56][76] may be laid at any time by the territorial authority concerned within 6 months after the time when the matter giving rise to the information first became known, or should have become known, to the territorial authority.
+    *   (b) the limitation period in respect of an offence against a bylaw made under [section 56][76] ends on the date that is 6 months after the date on which the matter giving rise to the charge first became known, or should have become known, to the territorial authority that commences the proceedings.
+    
+    Section 71: replaced, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Injunctions
 
@@ -1718,11 +1732,11 @@ Offences and enforcement
     
 *   A person who is alleged to have committed an infringement offence may either---
         
-    *   (a) be proceeded against under the Summary Proceedings Act 1957; or
+    *   (a) be proceeded against by filing a charging document under [section 14][161] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice under [section 74][103].
     
-    
+    Section 73(a): replaced, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 74 Issue and service of infringement notices
     
@@ -1738,7 +1752,7 @@ Offences and enforcement
     
     *   (b) by post addressed to the person's last known place of residence or business.
     
-    (3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person under subsection (2)(b) must be treated as having been served on the person when it was posted.
+    (3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on the person when it was posted.
     
     (4) An infringement notice must be in the prescribed form and must contain the following particulars:
         
@@ -1750,7 +1764,7 @@ Offences and enforcement
     
     *   (d) the address of the place at which the infringement fee must be paid:
     
-    *   (e) a summary of [section 21(10)][159] of the Summary Proceedings Act 1957:
+    *   (e) a summary of [section 21(10)][162] of the Summary Proceedings Act 1957:
     
     *   (f) a statement that the person served with the notice has a right to request a hearing:
     
@@ -1760,11 +1774,11 @@ Offences and enforcement
     
     (5) If an infringement notice has been served under this section,---
         
-    *   (a) proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][159] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][162] of the Summary Proceedings Act 1957; and
     
     *   (b) the provisions of that section apply with all necessary modifications.
     
-    
+    Section 74(3): amended, on 1 July 2013, by [section 413][158] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 75 Entitlement to infringement fees
     
@@ -1802,13 +1816,13 @@ Offences and enforcement
     
 *   \[Repealed\]
     
-    Section 77: repealed, on 1 October 2012, by [section 306(2)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 77: repealed, on 1 October 2012, by [section 306(2)][159] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 78 Power to require certain information
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 1 October 2012, by [section 306(2)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 78: repealed, on 1 October 2012, by [section 306(2)][159] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 79 Power to inspect property and obtain information
     
@@ -1822,11 +1836,11 @@ Offences and enforcement
     
     (2) Before exercising the power in subsection (1)(a), the officer must, if practicable, give reasonable notice to the occupier of the land, building, or place of the intention to exercise the power, unless the giving of notice would defeat the purpose of the entry.
     
-    (2A) The provisions of [Part 4][160] of the Search and Surveillance Act 2012 (except [subpart 3][161] and [sections 118][162] and [119][163]) apply.
+    (2A) The provisions of [Part 4][163] of the Search and Surveillance Act 2012 (except [subpart 3][164] and [sections 118][165] and [119][166]) apply.
     
     (3) This section is subject to [section 80][111].
     
-    Section 79(2A): inserted, on 1 October 2012, by [section 306(3)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 79(2A): inserted, on 1 October 2012, by [section 306(3)][159] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 80 Consent or warrant required to inspect dwellinghouse or marae
     
@@ -1842,7 +1856,7 @@ Offences and enforcement
         
         
     
-    (2) An issuing officer (within the meaning of [section 3][164] of the Search and Surveillance Act 2012) may, on the application of an enforcement officer made in the manner provided for an application for a search warrant in [subpart 3][161] of Part 4 of that Act, issue a warrant authorising the enforcement officer to enter the dwellinghouse or marae specified in the application.
+    (2) An issuing officer (within the meaning of [section 3][167] of the Search and Surveillance Act 2012) may, on the application of an enforcement officer made in the manner provided for an application for a search warrant in [subpart 3][164] of Part 4 of that Act, issue a warrant authorising the enforcement officer to enter the dwellinghouse or marae specified in the application.
     
     (3) The issuing officer may issue a warrant under subsection (2)---
         
@@ -1856,7 +1870,7 @@ Offences and enforcement
     
     *   (b) \[Repealed\]
     
-    (3A) The provisions of [Part 4][160] of the Search and Surveillance Act 2012 (except [sections 118][162] and [119][163]) apply as if a warrant issued under subsection (2) were a search warrant.
+    (3A) The provisions of [Part 4][163] of the Search and Surveillance Act 2012 (except [sections 118][165] and [119][166]) apply as if a warrant issued under subsection (2) were a search warrant.
     
     (4) In this section,---
     
@@ -1874,15 +1888,15 @@ Offences and enforcement
     
     Section 80(1)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][140] of the Policing Act 2008 (2008 No 72).
     
-    Section 80(2): replaced, on 1 October 2012, by [section 306(4)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 80(2): replaced, on 1 October 2012, by [section 306(4)][159] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 80(3): amended, on 1 October 2012, by [section 306(5)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 80(3): amended, on 1 October 2012, by [section 306(5)][159] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 80(3)(a)(ii): amended, on 1 October 2012, by [section 306(6)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 80(3)(a)(ii): amended, on 1 October 2012, by [section 306(6)][159] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 80(3)(b): repealed, on 1 October 2012, by [section 306(7)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 80(3)(b): repealed, on 1 October 2012, by [section 306(7)][159] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 80(3A): inserted, on 1 October 2012, by [section 306(8)][158] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 80(3A): inserted, on 1 October 2012, by [section 306(8)][159] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 81 Seizure of property not on private land
     
@@ -1932,11 +1946,11 @@ Offences and enforcement
 
 ##### 82 Seizure of property from private land
     
-*   (1) An issuing officer (within the meaning of [section 3][164] of the Search and Surveillance Act 2012) may issue a warrant authorising an enforcement officer to enter private land and seize and impound property materially involved in the commission of an offence.
+*   (1) An issuing officer (within the meaning of [section 3][167] of the Search and Surveillance Act 2012) may issue a warrant authorising an enforcement officer to enter private land and seize and impound property materially involved in the commission of an offence.
     
     (2) A warrant may be issued only if---
         
-    *   (a) the application for it is made in the manner provided for an application for a search warrant in [subpart 3][161] of Part 4 of the Search and Surveillance Act 2012; and
+    *   (a) the application for it is made in the manner provided for an application for a search warrant in [subpart 3][164] of Part 4 of the Search and Surveillance Act 2012; and
     
     *   (b) the issuing officer is satisfied that---
             
@@ -1956,25 +1970,25 @@ Offences and enforcement
         
         
     
-    (3) The provisions of [Part 4][160] of the Search and Surveillance Act 2012 (except [sections 118][162] and [119][163]) apply as if a warrant issued under subsection (1) were a search warrant.
+    (3) The provisions of [Part 4][163] of the Search and Surveillance Act 2012 (except [sections 118][165] and [119][166]) apply as if a warrant issued under subsection (1) were a search warrant.
     
     (4) An enforcement officer executing a warrant issued under this section must be accompanied by a constable.
     
-    Section 82(1): amended, on 1 October 2012, by [section 307(1)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 82(1): amended, on 1 October 2012, by [section 307(1)][168] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 82(2)(a): amended, on 1 October 2012, by [section 307(2)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 82(2)(a): amended, on 1 October 2012, by [section 307(2)][168] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 82(2)(b): amended, on 1 October 2012, by [section 307(3)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 82(2)(b): amended, on 1 October 2012, by [section 307(3)][168] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 82(3): replaced, on 1 October 2012, by [section 307(4)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 82(3): replaced, on 1 October 2012, by [section 307(4)][168] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 82(4): inserted, on 1 October 2012, by [section 307(4)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 82(4): inserted, on 1 October 2012, by [section 307(4)][168] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 83 Conditions for exercise of warrant to seize property on private land
     
 *   \[Repealed\]
     
-    Section 83: repealed, on 1 October 2012, by [section 307(5)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 83: repealed, on 1 October 2012, by [section 307(5)][168] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 84 Return of property seized and impounded
     
@@ -1994,7 +2008,7 @@ Offences and enforcement
     
     *   (b) order that the property be returned.
     
-    Section 84(1): amended, on 1 October 2012, by [section 307(6)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 84(1): amended, on 1 October 2012, by [section 307(6)][168] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 85 Power to dispose of property seized and impounded under section 81
     
@@ -2012,9 +2026,9 @@ Offences and enforcement
     
     *   (c) thirdly, any surplus to the owner of the property or the person from whom it was seized.
     
-    Section 85 heading: amended, on 1 October 2012, by [section 307(7)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 85 heading: amended, on 1 October 2012, by [section 307(7)][168] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 85(1): amended, on 1 October 2012, by [section 307(8)][165] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 85(1): amended, on 1 October 2012, by [section 307(8)][168] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 6  
 Reporting and audits
@@ -2242,7 +2256,7 @@ Waste Advisory Board
     
     *   (b) reimbursed for actual and reasonable travelling and other expenses incurred in carrying out the member's office, in accordance with the fees framework.
     
-    (2) In subsection (1), _fees framework_ has the same meaning as in [section 10][166] of the Crown Entities Act 2004\.
+    (2) In subsection (1), _fees framework_ has the same meaning as in [section 10][169] of the Crown Entities Act 2004\.
 
 ##### 98 Proceedings of Board
     
@@ -2260,76 +2274,6 @@ Waste Advisory Board
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][167].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][168] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -2344,23 +2288,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Waste Minimisation Act 2008\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Waste Minimisation Act 2008\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][169] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][170] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][170] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][171] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][171] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][172] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][172] and [17E][173] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][173] and [17E][174] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2391,7 +2335,9 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [sections 306][158], [307][165]
+*   Search and Surveillance Act 2012 (2012 No 24): [sections 306][159], [307][168]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][158]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][140]
 
@@ -2555,19 +2501,20 @@ Amendments, repeals, and miscellaneous provisions
 [155]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM173426
 [156]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM172929
 [157]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM176050
-[158]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM4356909
-[159]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM311346
-[160]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136770
-[161]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136781
-[162]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136813
-[163]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136815
-[164]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136542
-[165]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM4356910
-[166]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM329649
-[167]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136500
-[168]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM4686448
-[169]: http://www.pco.parliament.govt.nz/reprints/
-[170]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM195439
-[171]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[172]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM195468
-[173]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM195470
+[158]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM3360714
+[159]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM4356909
+[160]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM3360067
+[161]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM3360057
+[162]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM311346
+[163]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136770
+[164]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136781
+[165]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136813
+[166]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136815
+[167]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM2136542
+[168]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM4356910
+[169]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM329649
+[170]: http://www.pco.parliament.govt.nz/reprints/
+[171]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM195439
+[172]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[173]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM195468
+[174]: http://www.legislation.govt.nz/act/public/2008/0089/latest/link.aspx?id=DLM195470
