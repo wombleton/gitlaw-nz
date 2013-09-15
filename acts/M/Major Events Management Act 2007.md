@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry for Primary Industries.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -191,7 +191,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [Subpart 5][82][---][82][Criminal offences][82]
 
-[64][83][][83][When criminal proceedings may be commenced][83]
+[64][83][][83][Time for filing charging document for offence against section 26 or 28][83]
 
 [65][84][][84][Application of Sentencing Act 2002][84]
 
@@ -230,7 +230,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [80][101][][101][Power to amend Schedule][101]
 
-[81][102][][102][Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989][102]
+[81][102][][102][Application of Legislation Act 2012][102]
 
 [82][103][][103][Regulations][103]
 
@@ -557,9 +557,11 @@ Declaration of major event and protections for major events
     
     *   (c) possesses those goods for the purpose of trade or manufacture.
     
-    (3) Every person who commits an offence against subsection (1) or (2) is liable on summary conviction to a fine not exceeding $150,000\.
+    (3) Every person who commits an offence against subsection (1) or (2) is liable on conviction to a fine not exceeding $150,000\.
     
     Compare: 2002 No 49 [ss 124][121], [125][122]
+    
+    Section 13(3): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Defences to breach of section 10
     
@@ -571,7 +573,7 @@ Declaration of major event and protections for major events
     
     (2) This section overrides the presumption in [section 11][15].
     
-    Compare: 1981 No 47 [s 20AA][123]; London Olympic Games and Paralympic Games Act 2006 s 21(2) (UK)
+    Compare: 1981 No 47 [s 20AA][124]; London Olympic Games and Paralympic Games Act 2006 s 21(2) (UK)
 
 ##### 15 Registering authority must not register in certain cases
     
@@ -587,7 +589,7 @@ Declaration of major event and protections for major events
     
     *   (b) is not registered at the start of the protection period.
     
-    Compare: 1981 No 47 [s 21][124]
+    Compare: 1981 No 47 [s 21][125]
 
 ### Subpart 3---Ambush marketing by intrusion protections
 
@@ -627,9 +629,9 @@ Declaration of major event and protections for major events
     
     *   (b) consists of, or is directly proximate to, either---
             
-        *   (i) a motorway or State highway (as those terms are defined in [section 2(1)][125] of the Government Roading Powers Act 1989); or
+        *   (i) a motorway or State highway (as those terms are defined in [section 2(1)][126] of the Government Roading Powers Act 1989); or
         
-        *   (ii) a railway line (as that term is defined in [section 2(1)][126] of the New Zealand Railways Corporation Act 1981); and
+        *   (ii) a railway line (as that term is defined in [section 2(1)][127] of the New Zealand Railways Corporation Act 1981); and
         
         
     
@@ -677,7 +679,7 @@ Declaration of major event and protections for major events
     
     The clean period for the clean transport routes is declared to start at 8 am on Saturday, 9 June 2007 and finish at 11 pm on Saturday, 9 June 2007\.
     
-    Section 16(4)(b)(i): amended, on 1 August 2008, by [section 50(1)][127] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 16(4)(b)(i): amended, on 1 August 2008, by [section 50(1)][128] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 17 No street trading in clean zone without authorisation
     
@@ -857,13 +859,15 @@ Declaration of major event and protections for major events
     
     This is not a breach of section 18, 19, or 20 because of the exceptions in section 22(b)(i) and (c).
     
-    Compare: 1981 No 47 [s 20A(3)][119]; 1990 No 98 [s 13A(3)][128]; 2002 No 49 [s 95][120]; London Olympic Games and Paralympic Games Act 2006 Schedule 4 cl 1(2)(b) (UK)
+    Compare: 1981 No 47 [s 20A(3)][119]; 1990 No 98 [s 13A(3)][129]; 2002 No 49 [s 95][120]; London Olympic Games and Paralympic Games Act 2006 Schedule 4 cl 1(2)(b) (UK)
 
 ##### 23 Offences and penalties for breach of any of sections 17 to 20
     
 *   (1) Every person commits an offence who knowingly breaches any of [sections 17 to 20][22].
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $150,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $150,000\.
+    
+    Section 23(2): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Defences to breaches of sections 18 to 20
     
@@ -873,7 +877,7 @@ Declaration of major event and protections for major events
     
     *   (b) that the defendant received the advertisement in the ordinary course of that business and did not know, and had no reason to believe, that publishing it would constitute a breach of any of [sections 18 to 20][23].
     
-    Compare: 1981 No 47 [s 20AA][123]; London Olympic Games and Paralympic Games Act 2006 s 21(2) (UK)
+    Compare: 1981 No 47 [s 20AA][124]; London Olympic Games and Paralympic Games Act 2006 s 21(2) (UK)
 
 ### Subpart 4---Ticket-scalping protections
 
@@ -891,9 +895,11 @@ Declaration of major event and protections for major events
     
 *   (1) Every person commits an offence who knowingly sells or trades a ticket to a major event activity in breach of [section 25][31].
     
-    (2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1981 No 47 [s 24][129]
+    Compare: 1981 No 47 [s 24][130]
+    
+    Section 26(2): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 5---Pitch invasion
 
@@ -913,7 +919,9 @@ Declaration of major event and protections for major events
     
     _propels_ means intentionally setting an object in motion in any manner, including, for example, throwing, kicking, dropping, or rolling.
     
-    (3) A person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000\.
+    (3) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000\.
+    
+    Section 27(3): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Permanently protected emblems and words
@@ -924,25 +932,25 @@ Permanently protected emblems and words
         
     *   (a) causes an incorporated or unincorporated body to be formed under any name, title, style, or designation that---
             
-        *   (i) includes any word in [Parts 2][130] and [3][131] of the Schedule; or
+        *   (i) includes any word in [Parts 2][131] and [3][132] of the Schedule; or
         
-        *   (ii) so closely resembles any word in [Parts 2][130] and [3][131] of the Schedule as to be likely to deceive or confuse any person; or
+        *   (ii) so closely resembles any word in [Parts 2][131] and [3][132] of the Schedule as to be likely to deceive or confuse any person; or
         
         
     
     *   (b) in a business, trade, or occupation carries on activities under any word, name, title, style, or designation that---
             
-        *   (i) includes any emblem or word in [Parts 1 to 3][132] of the Schedule; or
+        *   (i) includes any emblem or word in [Parts 1 to 3][133] of the Schedule; or
         
-        *   (ii) so closely resembles any emblem or word in [Parts 1 to 3][132] of the Schedule as to be likely to deceive or confuse any person; or
+        *   (ii) so closely resembles any emblem or word in [Parts 1 to 3][133] of the Schedule as to be likely to deceive or confuse any person; or
         
         
     
     *   (c) in any business, trade, or occupation displays, exhibits, or otherwise uses any word, name, title, style, or designation that---
             
-        *   (i) includes any emblem or word in [Parts 1 to 3][132] of the Schedule; or
+        *   (i) includes any emblem or word in [Parts 1 to 3][133] of the Schedule; or
         
-        *   (ii) so closely resembles any emblem or word in [Parts 1 to 3][132] of the Schedule as to be likely to deceive or confuse any person.
+        *   (ii) so closely resembles any emblem or word in [Parts 1 to 3][133] of the Schedule as to be likely to deceive or confuse any person.
         
         
     
@@ -952,7 +960,7 @@ Permanently protected emblems and words
     
 *   (1) The New Zealand Olympic Committee Incorporated must make a decision on an application for its written authorisation for a person to take an action described in [section 28][36] within 10 working days after receipt of the information it considers necessary to make that decision, and if it fails to do so the Committee is to be treated as having given the written authorisation sought in the application.
     
-    (2) A decision of the New Zealand Olympic Committee Incorporated under subsection (1) is an exercise of a statutory power of decision for the purposes of the [Judicature Amendment Act 1972][133].
+    (2) A decision of the New Zealand Olympic Committee Incorporated under subsection (1) is an exercise of a statutory power of decision for the purposes of the [Judicature Amendment Act 1972][134].
     
     Compare: 1981 No 47 [s 20A][119]
 
@@ -984,9 +992,11 @@ Permanently protected emblems and words
 
 ##### 31 Penalty for offence against section 28
     
-*   Every person who commits an offence against [section 28][36] is liable on summary conviction to a fine not exceeding $150,000\.
+*   Every person who commits an offence against [section 28][36] is liable on conviction to a fine not exceeding $150,000\.
     
-    Compare: 1981 No 47 [s 24][129]
+    Compare: 1981 No 47 [s 24][130]
+    
+    Section 31: amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 32 Defence to offence against section 28
     
@@ -996,7 +1006,7 @@ Permanently protected emblems and words
     
     *   (b) that the defendant received the advertisement, or the emblem or word contained in the advertisement, in the ordinary course of that business and did not know, and had no reason to believe, that the publication of the advertisement or the publication of the advertisement containing that emblem or word would constitute a breach of [section 28][36].
     
-    Compare: 1981 No 47 [s 20AA(1)][123]
+    Compare: 1981 No 47 [s 20AA(1)][124]
 
 ##### 33 Injunction for breach of section 28
     
@@ -1016,7 +1026,7 @@ Permanently protected emblems and words
     
     (4) The court may at any time rescind or vary an injunction granted under this section.
     
-    Compare: 1981 No 47 [s 20B][134]
+    Compare: 1981 No 47 [s 20B][135]
 
 ##### 34 Registering authority must not register in certain cases
     
@@ -1038,7 +1048,7 @@ Permanently protected emblems and words
         
         
     
-    Compare: 1981 No 47 [ss 20(5)][135], [21][124]
+    Compare: 1981 No 47 [ss 20(5)][136], [21][125]
 
 ## Part 4  
 Enforcement
@@ -1051,15 +1061,15 @@ Enforcement
         
     *   (a) the law relating to passing off; or
     
-    *   (b) rights under the [Fair Trading Act 1986][136]; or
+    *   (b) rights under the [Fair Trading Act 1986][137]; or
     
-    *   (c) rights under the [Geographical Indications (Wines and Spirits) Registration Act 2006][137]; or
+    *   (c) rights under the [Geographical Indications (Wines and Spirits) Registration Act 2006][138]; or
     
     *   (d) rights under the [Trade Marks Act 2002][106]; or
     
-    *   (e) rights under the [Copyright Act 1994][138].
+    *   (e) rights under the [Copyright Act 1994][139].
     
-    Compare: 2002 No 49 [s 88][139]
+    Compare: 2002 No 49 [s 88][140]
 
 ##### 36 Interrelationship of civil and criminal remedies under this Act
     
@@ -1069,11 +1079,11 @@ Enforcement
 
 ##### 37 Application of Trade Marks Act 2002 to major event emblems and major event words
     
-*   (1) [Subpart 3][140] of Part 4 of the Trade Marks Act 2002 applies to major event emblems and major event words in the manner set out in this section and, as far as practicable, must be interpreted consistently with this section.
+*   (1) [Subpart 3][141] of Part 4 of the Trade Marks Act 2002 applies to major event emblems and major event words in the manner set out in this section and, as far as practicable, must be interpreted consistently with this section.
     
     (2) In particular,---
         
-    *   (a) an Order in Council under [section 8][12] must be treated as a notice that has been accepted under [section 139][141] of the Trade Marks Act 2002; and
+    *   (a) an Order in Council under [section 8][12] must be treated as a notice that has been accepted under [section 139][142] of the Trade Marks Act 2002; and
     
     *   (b) _claimant_ means the relevant major event organiser; and
     
@@ -1087,15 +1097,15 @@ Enforcement
         
         
     
-    *   (e) except as specified in paragraph (a), [sections 137 to 141][142] of the Trade Marks Act 2002 do not apply.
+    *   (e) except as specified in paragraph (a), [sections 137 to 141][143] of the Trade Marks Act 2002 do not apply.
     
-    (3) In applying [subpart 3][140] of Part 4 of the Trade Marks Act 2002 in the manner set out in this section,---
+    (3) In applying [subpart 3][141] of Part 4 of the Trade Marks Act 2002 in the manner set out in this section,---
         
     *   (a) that subpart and this section do not apply in relation to any infringing sign that has been applied to goods in an overseas country by, or with the written authorisation of, the major event organiser; and
     
     *   (b) the chief executive or a customs officer may release any goods that are in the control of the Customs or that have been detained in the custody of the chief executive or a customs officer if a reasonable person would not believe there is an association between those goods and the major event.
     
-    (4) Any term or expression that is defined in [section 135][143] of the Trade Marks Act 2002 and used, but not defined, in this section has the same meaning as in that section.
+    (4) Any term or expression that is defined in [section 135][144] of the Trade Marks Act 2002 and used, but not defined, in this section has the same meaning as in that section.
 
 ### Subpart 3---Enforcement officers
 
@@ -1103,7 +1113,7 @@ Enforcement
     
 *   The chief executive of the Ministry of Economic Development may appoint enforcement officers, on a permanent or temporary basis, to perform the functions set out in [section 40][52] and exercise the powers conferred by this Act.
     
-    Compare: 2003 No 51 [s 330][144]
+    Compare: 2003 No 51 [s 330][145]
 
 ##### 39 Authority to act as enforcement officer
     
@@ -1121,9 +1131,11 @@ Enforcement
     
     (4) A person who ceases to be an enforcement officer must return the person's warrant of appointment.
     
-    (5) A person who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $1,000\.
+    (5) A person who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
-    Compare: 2003 No 51 [s 331][145]
+    Compare: 2003 No 51 [s 331][146]
+    
+    Section 39(5): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Functions of enforcement officer
     
@@ -1141,7 +1153,7 @@ Enforcement
     
     *   (f) reporting to the chief executive of the Ministry of Economic Development on any matters relating to the enforcement officer's functions.
     
-    Compare: 2003 No 51 [s 332][146]
+    Compare: 2003 No 51 [s 332][147]
 
 ##### 41 Enforcement officer's entry to premises restricted
     
@@ -1153,7 +1165,7 @@ Enforcement
     
     *   (c) when the entry is authorised by a search warrant issued under [section 67][87].
     
-    Compare: 2003 No 12 [s 127][147]
+    Compare: 2003 No 12 [s 127][148]
 
 ##### 42 Power of enforcement officer to seize or cover things
     
@@ -1189,7 +1201,7 @@ Enforcement
     
     *   (b) seize or cover any specified thing.
     
-    Compare: 2003 No 51 [s 335][148]
+    Compare: 2003 No 51 [s 335][149]
 
 ##### 43 Notice of thing seized or covered under section 42
     
@@ -1215,7 +1227,7 @@ Enforcement
     
     *   (c) left in a prominent place where the thing was seized or covered.
     
-    Compare: 2003 No 51 [s 337][149]
+    Compare: 2003 No 51 [s 337][150]
 
 ##### 44 Uncovering of things covered under section 42
     
@@ -1229,7 +1241,7 @@ Enforcement
     
     (2) In relation to any thing seized under [section 42][54] for a breach of [section 10][14] or [25][31], [sections 76][96] and [78][98] apply (with all necessary modifications) as if that thing had been seized under a warrant issued under [section 67][87].
     
-    Compare: 2003 No 51 [s 337][149]
+    Compare: 2003 No 51 [s 337][150]
 
 ##### 46 Enforcement officers may issue formal warnings
     
@@ -1251,7 +1263,7 @@ Enforcement
     
     *   (c) be issued in the manner specified in regulations made under [section 82][103].
     
-    Compare: 2003 No 51 [s 338][150]
+    Compare: 2003 No 51 [s 338][151]
 
 ##### 47 No liability if powers are exercised in good faith
     
@@ -1281,7 +1293,7 @@ Enforcement
     
     *   (b) has all, and may exercise any, of the powers of an enforcement officer.
     
-    Compare: 2003 No 51 [s 339][151]
+    Compare: 2003 No 51 [s 339][152]
 
 ### Subpart 4---Civil proceedings
 
@@ -1309,7 +1321,7 @@ Enforcement
     
     *   (c) the defendant has all the defences that would be available against proceedings by the major event organiser.
     
-    Compare: 1994 No 143 [ss 123(3)][152], [124(2)][153]
+    Compare: 1994 No 143 [ss 123(3)][153], [124(2)][154]
 
 ##### 50 Time for bringing civil proceedings
     
@@ -1327,7 +1339,7 @@ Enforcement
     
     (3) Nothing in this section makes a barrister or solicitor of the High Court of New Zealand liable to any proceedings under this section in respect of any act done in his or her professional capacity on behalf of a client.
     
-    Compare: 2002 No 49 [s 105][154]
+    Compare: 2002 No 49 [s 105][155]
 
 #### Injunctions, damages, and account of profits
 
@@ -1339,7 +1351,7 @@ Enforcement
     
     *   (b) either damages or an account of profits.
     
-    Compare: 2002 No 49 [s 106][155]
+    Compare: 2002 No 49 [s 106][156]
 
 #### Order for erasure
 
@@ -1367,7 +1379,7 @@ Enforcement
     
     *   (c) if it is not reasonably practicable to erase, remove, cover, or obliterate the unauthorised representation or advertisement, to destroy the goods, material, or object.
     
-    Compare: 2002 No 49 [s 108][156]
+    Compare: 2002 No 49 [s 108][157]
 
 ##### 54 Rights of persons with interest in unauthorised representation or advertisement
     
@@ -1403,7 +1415,7 @@ Enforcement
     
     (4) The court may make an order under subsection (1) whether or not the person has previously breached [section 10][14].
     
-    Compare: 1986 No 121 [s 42][157]
+    Compare: 1986 No 121 [s 42][158]
 
 #### Orders for delivery up
 
@@ -1427,7 +1439,7 @@ Enforcement
     
     (5) Nothing in this section affects any other power of the court.
     
-    Compare: 2002 No 49 [s 109][158]
+    Compare: 2002 No 49 [s 109][159]
 
 ##### 57 Order for forfeiture, destruction, or retention of goods, material, or object
     
@@ -1439,7 +1451,7 @@ Enforcement
     
     *   (c) retained by the major event organiser or any other person that the court thinks fit until the end of the relevant protection period and then returned to the person who delivered them up.
     
-    Compare: 2002 No 49 [s 110][159]
+    Compare: 2002 No 49 [s 110][160]
 
 ##### 58 Matters to be considered by court
     
@@ -1461,7 +1473,7 @@ Enforcement
         
         
     
-    Compare: 2002 No 49 [s 111][160]
+    Compare: 2002 No 49 [s 111][161]
 
 ##### 59 Directions for service
     
@@ -1503,11 +1515,13 @@ Enforcement
 
 ### Subpart 5---Criminal offences
 
-##### 64 When criminal proceedings may be commenced
+##### 64 Time for filing charging document for offence against section 26 or 28
     
-*   Despite [section 14][161] of the Summary Proceedings Act 1957, an information for an offence against [section 13][17], [23][28], [26][32], or [28][36] may be laid at any time within 3 years after the time when the matter of the information arose.
+*   (1) Despite anything to the contrary in [section 25][162] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 26][32] or [28][36] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    Compare: 2002 No 49 [s 117][162]
+    (2) Nothing in subsection (1) affects the application of [section 25][162] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    
+    Section 64: replaced, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65 Application of Sentencing Act 2002
     
@@ -1665,7 +1679,7 @@ Enforcement
     
 *   (1) If any person is convicted in any proceedings for an offence relating to any thing for which a warrant has been issued, and any order is made under [section 76][96] or [77][97], the operation of the order is suspended,---
         
-    *   (a) in any case, until the expiration of the time prescribed by the [Summary Proceedings Act 1957][176] for the filing of a notice of appeal or an application for leave to appeal; and
+    *   (a) in any case, until the expiration of the time prescribed by the [Criminal Procedure Act 2011][176] for the filing of a notice of appeal or an application for leave to appeal; and
     
     *   (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
     
@@ -1674,6 +1688,8 @@ Enforcement
     (2) If the operation of an order under [section 76][96] or [77][97] is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
     
     Compare: 2003 No 12 [s 140][177]
+    
+    Section 78(1)(a): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Miscellaneous
@@ -1694,17 +1710,17 @@ Miscellaneous
     
     Compare: 1981 No 47 [s 26A][181]
 
-##### 81 Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
+##### 81 Application of Legislation Act 2012
     
-*   (1) An Order in Council made under [section 7][10] or [8][12] is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][182] and the [Acts and Regulations Publication Act 1989][183].
+*   (1) An Order in Council made under [section 7][10] or [8][12] is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][182] and must be presented to the House of Representatives under [section 41][183] of that Act.
     
     (2) A notice in the _Gazette_ under [section 16][21]---
         
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][182] and must be presented to the House of Representatives in accordance with [section 4][184] of that Act; but
+    *   (a) is a disallowable instrument for the purposes of the [Legislation Act 2012][182] and must be presented to the House of Representatives under [section 41][183] of that Act; but
     
-    *   (b) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][183].
+    *   (b) is not a legislative instrument for the purposes of that Act.
     
-    
+    Section 81: replaced, on 5 August 2013, by [section 77(3)][184] of the Legislation Act 2012 (2012 No 119).
 
 ##### 82 Regulations
     
@@ -1887,150 +1903,41 @@ Words relating to Olympic and Commonwealth Games
 
 *   4 Words that have the same meaning as, or a similar meaning to, a word or words in clause 1 or 2\.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][189].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][190] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Major Events Management Act 2007\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][191] ![](/images/external_link.gif).
+*   This is a reprint of the _\[name\]_ that incorporates all the amendments to that _\[type\]_ as at the date of the last amendment to _\[it/them\]_.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][192] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][189] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][190] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][193] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][191] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][192] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][194] and [17E][195] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][184]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Charities Amendment Act (No 2) 2012 (2012 No 43): [section 16(2)][118]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Charities Amendment Act (No 2) 2012 (2012 No 43): [section 16(2)][118]
-    
-    [Major Events Management (Olympic Games and Commonwealth Games Emblems and Words) Order 2012][196] (SR 2012/80)
+    [Major Events Management (Olympic Games and Commonwealth Games Emblems and Words) Order 2012][193] (SR 2012/80)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 272][172]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][127]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][123]
+    
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][128]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM411990
 [2]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM411991
 [3]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM411992
@@ -2153,46 +2060,46 @@ Amendments, repeals, and miscellaneous provisions
 [120]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM164687
 [121]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165032
 [122]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165033
-[123]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52238
-[124]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52245
-[125]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM173374
-[126]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM57011
-[127]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM1313622
-[128]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM215767
-[129]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52248
-[130]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM1190438
-[131]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM1190440
-[132]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM1190444
-[133]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM408329
-[134]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52241
-[135]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52233
-[136]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM96438
-[137]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM390755
-[138]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM345633
-[139]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM164677
-[140]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165044
-[141]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165061
-[142]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165059
-[143]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165046
-[144]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210278
-[145]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210279
-[146]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210280
-[147]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM188920
-[148]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210283
-[149]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210286
-[150]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210287
-[151]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210288
-[152]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM346291
-[153]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM346292
-[154]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165004
-[155]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165006
-[156]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165008
-[157]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM97302
-[158]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165010
-[159]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165011
-[160]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165012
-[161]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM311191
-[162]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165020
+[123]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM3360714
+[124]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52238
+[125]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52245
+[126]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM173374
+[127]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM57011
+[128]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM1313622
+[129]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM215767
+[130]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52248
+[131]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM1190438
+[132]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM1190440
+[133]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM1190444
+[134]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM408329
+[135]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52241
+[136]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52233
+[137]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM96438
+[138]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM390755
+[139]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM345633
+[140]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM164677
+[141]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165044
+[142]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165061
+[143]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165059
+[144]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165046
+[145]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210278
+[146]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210279
+[147]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210280
+[148]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM188920
+[149]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210283
+[150]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210286
+[151]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210287
+[152]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM210288
+[153]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM346291
+[154]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM346292
+[155]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165004
+[156]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165006
+[157]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165008
+[158]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM97302
+[159]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165010
+[160]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165011
+[161]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165012
+[162]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM3360067
 [163]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM135596
 [164]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165021
 [165]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM165022
@@ -2206,24 +2113,21 @@ Amendments, repeals, and miscellaneous provisions
 [173]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM173447
 [174]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM188925
 [175]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM188933
-[176]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM310742
+[176]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM3359902
 [177]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM188934
 [178]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52294
 [179]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52247
 [180]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM413256
 [181]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52252
-[182]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM195534
-[183]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM195097
-[184]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM195549
+[182]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2997643
+[183]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2998573
+[184]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2998633
 [185]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM51357
 [186]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM52266
 [187]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM4416506
 [188]: http://www.legislation.govt.nz/act/public/2007/0035/latest/whole.html#DLM1190431
-[189]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2136500
-[190]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM4686448
-[191]: http://www.pco.parliament.govt.nz/reprints/
-[192]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM195439
-[193]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[194]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM195468
-[195]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM195470
-[196]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM4416500
+[189]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2998516
+[190]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2998515
+[191]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM2998532
+[192]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[193]: http://www.legislation.govt.nz/act/public/2007/0035/latest/link.aspx?id=DLM4416500
