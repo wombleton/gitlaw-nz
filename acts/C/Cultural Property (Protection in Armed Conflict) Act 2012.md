@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 2 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -152,7 +152,7 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [Consequential amendments][62]
 
-[44][63][][63][Consequential amendments to sections 12, 18, and 38][63]
+[44][63][][63][Consequential amendments to sections 12, 18, and 38][63] \[Repealed\]
 
 [45][64][][64][Amendment to Extradition Act 1999][64]
 
@@ -1218,21 +1218,15 @@ Miscellaneous
 
 ##### 44 Consequential amendments to sections 12, 18, and 38
     
-*   (1) The purpose of this section is to make consequential amendments to [sections 12][16], [18][27], and [38][52] on the date when the [Criminal Procedure Act 2011][96] comes fully into force.
+*   \[Repealed\]
     
-    (2) In [section 12(1), (3), and (5)][16], delete ""on indictment"".
-    
-    (3) In [section 18(1), (3), and (5)][27], delete ""on indictment"".
-    
-    (4) In [section 38][52], delete ""summary"".
-    
-    (5) This section expires and is repealed on the close of the day when the [Criminal Procedure Act 2011][96] comes fully into force.
+    Section 44: repealed, on 2 July 2013, by [section 44(5)][63].
 
 ##### 45 Amendment to Extradition Act 1999
     
 *   (1) This section amends the [Extradition Act 1999][76].
     
-    (2) [Section 101A(2)][97] is amended by adding the following paragraph:
+    (2) [Section 101A(2)][96] is amended by adding the following paragraph:
     
     > *   "(j) section 13 of the Cultural Property (Protection in Armed Conflict) Act 2012\."
     > 
@@ -1242,9 +1236,9 @@ Miscellaneous
 
 ##### 46 Amendment to Flags, Emblems, and Names Protection Act 1981
     
-*   (1) This section amends the [Flags, Emblems, and Names Protection Act 1981][98].
+*   (1) This section amends the [Flags, Emblems, and Names Protection Act 1981][97].
     
-    (2) [Schedule 3][99] is amended by adding the following item:
+    (2) [Schedule 3][98] is amended by adding the following item:
     
     > Cultural Property (Protection in Armed Conflict) Act 2012: section 36\. distinctive emblem of the Convention for the Protection of Cultural Property in the Event of Armed Conflict.
     > 
@@ -1254,15 +1248,15 @@ Miscellaneous
 
 ##### 47 Amendment to Mutual Assistance in Criminal Matters Act 1992
     
-*   (1) This section amends the [Mutual Assistance in Criminal Matters Act 1992][100].
+*   (1) This section amends the [Mutual Assistance in Criminal Matters Act 1992][99].
     
-    (2) The [Schedule][101] is amended by adding the following item:
+    (2) The [Schedule][100] is amended by adding the following item:
     
     > 31 
     > 
     > The Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 26 March 1999\. 
     > 
-    > An offence against the following section of the [Cultural Property (Protection in Armed Conflict) Act 2012][102]:
+    > An offence against the following section of the [Cultural Property (Protection in Armed Conflict) Act 2012][101]:
     > 
     > _section_ _subject matter_
     > 
@@ -2427,23 +2421,23 @@ Done at The Hague, this twenty-sixth day of March 1999, in a single copy which s
 
 ###### 1 General
     
-*   This is a reprint of the Cultural Property (Protection in Armed Conflict) Act 2012\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Cultural Property (Protection in Armed Conflict) Act 2012\. The reprint incorporates all the amendments to the Act as at 2 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][103] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][102] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][104] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][103] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][105] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][104] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][106] and [17E][107] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][105] and [17E][106] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2476,7 +2470,7 @@ Done at The Hague, this twenty-sixth day of March 1999, in a single copy which s
     
 *   [Cultural Property (Protection in Armed Conflict) Act Commencement Order 2013][70] (SR 2013/192)
     
-    Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118): [section 44(2)--(4)][63]
+    Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118): [section 44][63]
 
 
 
@@ -2576,15 +2570,14 @@ Done at The Hague, this twenty-sixth day of March 1999, in a single copy which s
 [93]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM2136781
 [94]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM379910
 [95]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM164249
-[96]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM3359902
-[97]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM27300
-[98]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM51357
-[99]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM52294
-[100]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM273056
-[101]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM275002
-[102]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM1559800
-[103]: http://www.pco.parliament.govt.nz/reprints/
-[104]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195439
-[105]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[106]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195468
-[107]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195470
+[96]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM27300
+[97]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM51357
+[98]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM52294
+[99]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM273056
+[100]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM275002
+[101]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM1559800
+[102]: http://www.pco.parliament.govt.nz/reprints/
+[103]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195439
+[104]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[105]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195468
+[106]: http://www.legislation.govt.nz/act/public/2012/0118/latest/link.aspx?id=DLM195470
