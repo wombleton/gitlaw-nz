@@ -1,5 +1,5 @@
 Reprint  
-as at 25 January 2005
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,91 +25,91 @@ This Act is administered by the Department of Conservation.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Part 1][4]  
 [The Queen Elizabeth the Second National Trust][4]
 
-[3][5] [Establishment of Trust][5]
+[3][5][][5][Establishment of Trust][5]
 
-[4][6] [Directors of Trust][6]
+[4][6][][6][Directors of Trust][6]
 
-[5][7] [Membership of Trust][7]
+[5][7][][7][Membership of Trust][7]
 
-[6][8] [Terms of office of directors][8]
+[6][8][][8][Terms of office of directors][8]
 
-[7][9] [Extraordinary vacancies][9]
+[7][9][][9][Extraordinary vacancies][9]
 
-[8][10] [Deputy chairman][10] \[Repealed\]
+[8][10][][10][Deputy chairman][10] \[Repealed\]
 
-[9][11] [Meetings of board][11]
+[9][11][][11][Meetings of board][11]
 
-[10][12] [Special committees][12]
+[10][12][][12][Special committees][12]
 
-[11][13] [Delegation of powers][13]
+[11][13][][13][Delegation of powers][13]
 
-[12][14] [Protection of directors, members, and committees][14]
+[12][14][][14][Protection of directors, members, and committees][14]
 
-[13][15] [Remuneration of directors and committees][15]
+[13][15][][15][Remuneration of directors and committees][15]
 
-[14][16] [Disclosure of interests][16]
+[14][16][][16][Disclosure of interests][16]
 
-[15][17] [Contracts of Trust][17]
+[15][17][][17][Contracts of Trust][17]
 
-[16][18] [Rules of Trust][18]
+[16][18][][18][Rules of Trust][18]
 
-[17][19] [Bylaws][19]
+[17][19][][19][Bylaws][19]
 
-[18][20] [Appointment of employees][20]
+[18][20][][20][Appointment of employees][20]
 
-[18A][21] [Employment principles][21]
+[18A][21][][21][Employment principles][21]
 
-[19][22] [Status of directors, members, committees, and persons engaged on contract][22]
+[19][22][][22][Status of directors, members, committees, and persons engaged on contract][22]
 
 [Part 2][23]  
 [Functions and powers of Trust][23]
 
-[20][24] [Functions of Trust][24]
+[20][24][][24][Functions of Trust][24]
 
-[21][25] [Powers of Trust][25]
+[21][25][][25][Powers of Trust][25]
 
-[22][26] [Open space covenants][26]
+[22][26][][26][Open space covenants][26]
 
-[22A][27] [Variation of open space covenants][27]
+[22A][27][][27][Variation of open space covenants][27]
 
 [Part 3][28]  
 [Financial provisions][28]
 
-[23][29] [National Trust Fund][29]
+[23][29][][29][National Trust Fund][29]
 
-[24][30] [National Trust Fund Account][30]
+[24][30][][30][National Trust Fund Account][30]
 
-[25][31] [Powers of investment][31]
+[25][31][][31][Powers of investment][31]
 
-[26][32] [Unauthorised expenditure][32]
+[26][32][][32][Unauthorised expenditure][32]
 
-[27][33] [Borrowing powers][33]
+[27][33][][33][Borrowing powers][33]
 
-[27A][34] [Liability for debts of Trust][34]
+[27A][34][][34][Liability for debts of Trust][34]
 
-[28][35] [Financial year][35]
+[28][35][][35][Financial year][35]
 
-[29][36] [Donations to Trust][36]
+[29][36][][36][Donations to Trust][36]
 
-[30][37] [Exemptions from duties and taxes][37]
+[30][37][][37][Exemptions from duties and taxes][37]
 
-[31][38] [Accounts][38]
+[31][38][][38][Accounts][38]
 
-[32][39] [Annual report][39]
+[32][39][][39][Annual report][39]
 
 [Part 4][40]  
 [Miscellaneous provisions][40]
 
-[33][41] [Public access][41]
+[33][41][][41][Public access][41]
 
-[34][42] [Offences][42]
+[34][42][][42][Offences][42]
 
 ---
 
@@ -801,9 +801,11 @@ Miscellaneous provisions
     
     (4) Any person convicted of an offence under this section may, if the court thinks fit, be ordered to pay, in addition to any penalty for which he is liable for the offence, a sum not exceeding the full market value of any property or thing removed from the land, or the cost of the damage done to the property or thing damaged, as assessed by the court. The full market value shall be deemed to be the amount which the Trust or the owner of the property, or thing, as the case requires, would have received by way of purchase price for the property or thing removed if the same had been offered for sale by the Trust or the owner on reasonable conditions in the condition in which it was before its severance and removal from the land.
     
-    (5) Any person who commits an offence against this Act for which no other penalty is provided is liable on summary conviction to a fine not exceeding $3,000\.
+    (5) Any person who commits an offence against this Act for which no other penalty is provided is liable on conviction to a fine not exceeding $3,000\.
     
-    Section 34(5): amended, on 12 June 1991, by [section 15][87] of the Queen Elizabeth the Second National Trust Amendment Act 1991 (1991 No 37).
+    Section 34(5): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 34(5): amended, on 12 June 1991, by [section 15][88] of the Queen Elizabeth the Second National Trust Amendment Act 1991 (1991 No 37).
 
 ---
 
@@ -821,23 +823,23 @@ Miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Queen Elizabeth the Second National Trust Act 1977\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Queen Elizabeth the Second National Trust Act 1977\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][88] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][89] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][89] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][90] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][90] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][91] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][91] and [17E][92] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][92] and [17E][93] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -868,9 +870,11 @@ Miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][80]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][87]
     
-    [Queen Elizabeth the Second National Trust Amendment Act 2003][93] (2003 No 96)
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][80]
+    
+    [Queen Elizabeth the Second National Trust Amendment Act 2003][94] (2003 No 96)
     
     Local Government Act 2002 (2002 No 84): [section 262][82]
     
@@ -886,7 +890,7 @@ Miscellaneous provisions
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][78]
     
-    [Queen Elizabeth the Second National Trust Amendment Act 1991][94] (1991 No 37)
+    [Queen Elizabeth the Second National Trust Amendment Act 1991][95] (1991 No 37)
     
     Land Tax Amendment Act 1989 (1989 No 50): section 10
     
@@ -991,11 +995,12 @@ Miscellaneous provisions
 [84]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM29377
 [85]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM30504
 [86]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM330555
-[87]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM229595
-[88]: http://www.pco.parliament.govt.nz/reprints/
-[89]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM195439
-[90]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[91]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM195468
-[92]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM195470
-[93]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM218806
-[94]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM229576
+[87]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM3360714
+[88]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM229595
+[89]: http://www.pco.parliament.govt.nz/reprints/
+[90]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM195439
+[91]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[92]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM195468
+[93]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM195470
+[94]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM218806
+[95]: http://www.legislation.govt.nz/act/public/1977/0102/latest/link.aspx?id=DLM229576
