@@ -1,5 +1,5 @@
 Reprint  
-as at 28 October 1992
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Labour.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,27 +25,27 @@ This Act is administered by the Department of Labour.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Minister may approve trustees or society][4]
+[3][4][][4][Minister may approve trustees or society][4]
 
-[4][5] [Dissolution of Council][5]
+[4][5][][5][Dissolution of Council][5]
 
-[5][6] [Minister may define rescue areas][6]
+[5][6][][6][Minister may define rescue areas][6]
 
-[6][7] [Appointment of commissioner][7]
+[6][7][][7][Appointment of commissioner][7]
 
-[7][8] [Levies][8]
+[7][8][][8][Levies][8]
 
-[8][9] [Powers of entry, inspection, etc][9]
+[8][9][][9][Powers of entry, inspection, etc][9]
 
-[9][10] [Offences][10]
+[9][10][][10][Offences][10]
 
-[10][11] [Transitional][11]
+[10][11][][11][Transitional][11]
 
-[11][12] [Validations][12]
+[11][12][][12][Validations][12]
 
 ---
 
@@ -279,7 +279,7 @@ Be it enacted by the Parliament of New Zealand as follows:
     
     *   (e) subject to subsection (4) of section 8, fail without reasonable cause to comply with a requirement under that section.
     
-    (2) Every person who fails to comply with any provision of subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $2,000\.
+    (2) Every person who fails to comply with any provision of subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $2,000\.
     
     (3) Where---
         
@@ -298,6 +298,8 @@ Be it enacted by the Parliament of New Zealand as follows:
         the other person shall be deemed to have failed to have complied with the provision too.
     
     (4) Subsection (3) shall have effect notwithstanding that the employee or agent concerned may not have been charged with or convicted of any offence.
+    
+    Section 9(2): amended, on 1 July 2013, by [section 413][15] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Transitional
     
@@ -325,23 +327,23 @@ Be it enacted by the Parliament of New Zealand as follows:
 
 ###### 1 General
     
-*   This is a reprint of the Mines Rescue Trust Act 1992\. The reprint incorporates all the amendments to the Act as at 28 October 1992, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Mines Rescue Trust Act 1992\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][15] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][16] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][16] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][17] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][17] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][18] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][18] and [17E][19] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][19] and [17E][20] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -372,7 +374,7 @@ Be it enacted by the Parliament of New Zealand as follows:
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][15]
 
 
 
@@ -391,8 +393,9 @@ Be it enacted by the Parliament of New Zealand as follows:
 [12]: http://www.legislation.govt.nz/act/public/1992/0097/latest/whole.html#DLM280612
 [13]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM309917
 [14]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM81034
-[15]: http://www.pco.parliament.govt.nz/reprints/
-[16]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM195439
-[17]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[18]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM195468
-[19]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM195470
+[15]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM3360714
+[16]: http://www.pco.parliament.govt.nz/reprints/
+[17]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM195439
+[18]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[19]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM195468
+[20]: http://www.legislation.govt.nz/act/public/1992/0097/latest/link.aspx?id=DLM195470
