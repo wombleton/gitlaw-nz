@@ -1,5 +1,5 @@
 Reprint  
-as at 15 December 2005
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -97,7 +97,7 @@ This Act is administered by Land Information New Zealand.
 
 [Disciplinary powers of the Board][37]
 
-[31][38][][38][Removal of name from register if registered valuer guilty of indictable offence or grave misconduct][38]
+[31][38][][38][Removal of name from register if registered valuer guilty of offence or grave misconduct][38]
 
 [32][39][][39][Inquiry by Board into charges of misconduct][39]
 
@@ -507,11 +507,11 @@ An Act to make provision for the registration of land valuers, to constitute the
 
 #### Disciplinary powers of the Board
 
-##### 31 Removal of name from register if registered valuer guilty of indictable offence or grave misconduct
+##### 31 Removal of name from register if registered valuer guilty of offence or grave misconduct
     
 *   (1) The Board may cause the name of any registered valuer to be removed from the register if it is satisfied, after inquiry as hereinafter provided, but not otherwise,---
         
-    *   (a) that he has been guilty of such improper conduct as renders him in the opinion of the Board unfit to be registered under this Act, or has been convicted (either before or after his registration) of an indictable offence punishable by imprisonment for a term of 2 years or upwards:
+    *   (a) that he has been guilty of such improper conduct as renders him in the opinion of the Board unfit to be registered under this Act, or has been convicted (either before or after his registration) of an offence punishable by imprisonment for a term of 2 years or upwards:
     
     *   (b) that he has been convicted (either before or after his registration) of an offence which tends to dishonour him in the public estimation:
     
@@ -520,6 +520,10 @@ An Act to make provision for the registration of land valuers, to constitute the
     (2) Unethical conduct for the purposes of paragraph (c) of the last preceding subsection means conduct in breach of the code of ethics prescribed by the rules of the Institute.
     
     (3) The name of any valuer shall not be removed from the register under paragraph (a) or paragraph (b) of subsection (1) by reason of any offence committed before the date of his registration, if at that date the Board was aware of his conviction in respect of that offence.
+    
+    Section 31 heading: amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 31(1)(a): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 31(1) proviso: repealed, on 13 January 1981, by section 2 of the Valuers Amendment Act 1980 (1980 No 150).
 
@@ -599,7 +603,7 @@ An Act to make provision for the registration of land valuers, to constitute the
     
     Section 34(1): amended, on 1 July 1994, by section 4 of the Valuers Amendment Act 1994 (1994 No 65).
     
-    Section 34(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 34(2): amended, on 1 April 1980, pursuant to [section 18(2)][72] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Annual practising certificates
 
@@ -675,19 +679,19 @@ An Act to make provision for the registration of land valuers, to constitute the
     
     (7) The Board may from time to time, as it thinks fit, invest any moneys not for the time being required for any of the purposes mentioned in the last preceding subsection by depositing them with any bank or other institution authorised to receive moneys on deposit.
     
-    (8) The Board is a public entity as defined in [section 4][72] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (8) The Board is a public entity as defined in [section 4][73] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 37(3): amended, on 30 June 1995, pursuant to [section 2(2)][73] of the Banking Act Repeal Act 1995 (1995 No 32).
+    Section 37(3): amended, on 30 June 1995, pursuant to [section 2(2)][74] of the Banking Act Repeal Act 1995 (1995 No 32).
     
     Section 37(3)(bb): inserted, on 24 September 1959, by section 3 of the Valuers Amendment Act 1959 (1959 No 7).
     
     Section 37(3A): inserted, on 13 December 1968, by section 3 of the Valuers Amendment Act 1968 (1968 No 115).
     
-    Section 37(6): amended, on 1 October 1997, pursuant to [section 6(1)][74] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 37(6): amended, on 1 October 1997, pursuant to [section 6(1)][75] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
     Section 37(7): amended, on 1 April 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 37(8): replaced, on 1 July 2001, by [section 53][75] of the Public Audit Act 2001 (2001 No 10).
+    Section 37(8): replaced, on 1 July 2001, by [section 53][76] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 37A Board to reimburse Land Information New Zealand and other government agencies for expenditure incurred in relation to this Act
     
@@ -749,7 +753,9 @@ An Act to make provision for the registration of land valuers, to constitute the
 
 ##### 43 Offences
     
-*   Every person who commits an offence against this Act shall, where no other penalty for that offence is provided elsewhere in this Act, be liable on summary conviction to a fine not exceeding $500, and, where the offence is a continuing one, to a further fine not exceeding $50 for every day during which the offence continues.
+*   Every person who commits an offence against this Act shall, where no other penalty for that offence is provided elsewhere in this Act, be liable on conviction to a fine not exceeding $500, and, where the offence is a continuing one, to a further fine not exceeding $50 for every day during which the offence continues.
+    
+    Section 43: amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 43: amended, on 23 December 1977, by section 3(a) of the Valuers Amendment Act 1977 (1977 No 181).
     
@@ -785,11 +791,11 @@ An Act to make provision for the registration of land valuers, to constitute the
     
     Section 44(2)(ca): inserted, on 8 August 1991, by section 5 of the Valuers Amendment Act 1991 (1991 No 88).
     
-    Section 44(2)(h): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 44(2)(h): amended, on 1 April 1980, pursuant to [section 18(2)][72] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 44(2)(i): amended, on 23 December 1977, by section 3(c) of the Valuers Amendment Act 1977 (1977 No 181).
     
-    Section 44(3): repealed, on 19 December 1989, by [section 11][76] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 44(3): repealed, on 19 December 1989, by [section 11][77] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ---
 
@@ -807,23 +813,23 @@ An Act to make provision for the registration of land valuers, to constitute the
 
 ###### 1 General
     
-*   This is a reprint of the Valuers Act 1948\. The reprint incorporates all the amendments to the Act as at 15 December 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Valuers Act 1948\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][77] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][78] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][78] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][79] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][79] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][80] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][80] and [17E][81] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][81] and [17E][82] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -854,23 +860,25 @@ An Act to make provision for the registration of land valuers, to constitute the
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Valuers Amendment Act 2005][82] (2005 No 117)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][71]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][75]
+    [Valuers Amendment Act 2005][83] (2005 No 117)
+    
+    Public Audit Act 2001 (2001 No 10): [section 53][76]
     
     Rating Valuations Act 1998 (1998 No 69): [section 54(1)][63]
     
-    [Valuers Amendment Act 1997][83] (1997 No 55)
+    [Valuers Amendment Act 1997][84] (1997 No 55)
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][74]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][75]
     
-    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][73]
+    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][74]
     
     Valuers Amendment Act 1994 (1994 No 65)
     
     Valuers Amendment Act 1991 (1991 No 88)
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][76]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][77]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
@@ -880,7 +888,7 @@ An Act to make provision for the registration of land valuers, to constitute the
     
     Valuers Amendment Act 1980 (1980 No 150)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][71]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][72]
     
     Valuers Amendment Act 1977 (1977 No 181)
     
@@ -965,16 +973,17 @@ An Act to make provision for the registration of land valuers, to constitute the
 [68]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM410747
 [69]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM410748
 [70]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM410749
-[71]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM35085
-[72]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM88548
-[73]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM366890
-[74]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM408960
-[75]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM88957
-[76]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195558
-[77]: http://www.pco.parliament.govt.nz/reprints/
-[78]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195439
-[79]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[80]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195468
-[81]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195470
-[82]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM362658
-[83]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM410745
+[71]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM3360714
+[72]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM35085
+[73]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM88548
+[74]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM366890
+[75]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM408960
+[76]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM88957
+[77]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195558
+[78]: http://www.pco.parliament.govt.nz/reprints/
+[79]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195439
+[80]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[81]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195468
+[82]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM195470
+[83]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM362658
+[84]: http://www.legislation.govt.nz/act/public/1948/0063/latest/link.aspx?id=DLM410745
