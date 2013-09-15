@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Primary Industries.
 
@@ -353,7 +353,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [109][163][][163][Liability of companies and persons for actions of agent or employee][163]
 
-[110][164][][164][Offences generally punishable on summary conviction][164]
+[110][164][][164][Time for filing charge for offence against section 102 or 103][164]
 
 [Industry levies][165]
 
@@ -3100,7 +3100,7 @@ Officers, cost recovery, etc
         
     *   (a) have not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the [Regulations (Disallowance) Act 1989][229],---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][229] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
     
@@ -3108,9 +3108,13 @@ Officers, cost recovery, etc
         
     *   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the [Regulations (Disallowance) Act 1989][229],---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][229] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
+    
+    Section 96(1)(b): amended, on 5 August 2013, by [section 77(3)][230] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 96(2)(b): amended, on 5 August 2013, by [section 77(3)][230] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 4  
 Offences, penalties, and miscellaneous provisions
@@ -3135,15 +3139,17 @@ Offences, penalties, and miscellaneous provisions
     
     *   (g) aids, abets, incites, counsels, procures, or conspires with any other person to commit an offence under this section.
     
-    (2) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
+    (2) \[Repealed\]
     
-    (3) A person who commits an offence against subsection (1) is liable---
+    (3) A person who commits an offence against subsection (1) is liable on conviction---
         
     *   (a) in the case of a body corporate, to a fine not exceeding $500,000:
     
     *   (b) in the case of an individual, to imprisonment for a term not exceeding 5 years and a fine not exceeding $100,000\.
     
+    Section 97(2): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 97(3): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 98 Offences involving endangerment of human health
     
@@ -3155,9 +3161,9 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) may, directly or indirectly, increase the likelihood of an existing risk to human health.
     
-    (3) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
+    (3) \[Repealed\]
     
-    (4) A person who commits an offence against subsection (1) is liable---
+    (4) A person who commits an offence against subsection (1) is liable on conviction---
         
     *   (a) in the case of a body corporate, to a fine not exceeding $500,000:
     
@@ -3169,7 +3175,9 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) in the case of an individual, to imprisonment for a term not exceeding 2 years and a fine not exceeding $75,000\.
     
+    Section 98(3): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 98(4): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99 Sale of non-complying wine
     
@@ -3177,15 +3185,17 @@ Offences, penalties, and miscellaneous provisions
     
     (2) A person commits an offence who sells or offers for sale, or has in possession for sale, any wine that purports or is represented to have been made in accordance with [subparts 1][11] and [2][36] of Part 2, but that, to the person's knowledge, has not been made in accordance with those subparts.
     
-    (3) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
+    (3) \[Repealed\]
     
-    (4) A person who commits an offence against this section is liable---
+    (4) A person who commits an offence against this section is liable on conviction---
         
     *   (a) in the case of a body corporate, to a fine not exceeding $250,000:
     
     *   (b) in the case of an individual, to a fine not exceeding $50,000\.
     
+    Section 99(3): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 99(4): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Offence to export unless registered or in compliance with export eligibility requirements
     
@@ -3193,15 +3203,17 @@ Offences, penalties, and miscellaneous provisions
     
     (2) A person commits an offence who exports any wine that does not comply with any relevant export eligibility requirements.
     
-    (3) A prosecution for an offence against this section may be proceeded with either summarily or on indictment.
+    (3) \[Repealed\]
     
-    (4) A person who commits an offence against this section is liable to a fine not exceeding---
+    (4) A person who commits an offence against this section is liable on conviction to a fine not exceeding---
         
     *   (a) $250,000, in the case of a body corporate; or
     
     *   (b) $50,000, in the case of an individual.
     
+    Section 100(3): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 100(4): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 101 Obstruction of officers, etc
     
@@ -3217,13 +3229,13 @@ Offences, penalties, and miscellaneous provisions
     
     (2) A person commits an offence who, with intent to deceive, personates or pretends to be a wine officer or recognised verifying agency, or a person referred to in subsection (1)(c).
     
-    (3) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding---
+    (3) A person who commits an offence against this section is liable on conviction to a fine not exceeding---
         
     *   (a) $250,000, in the case of a body corporate; or
     
     *   (b) $50,000, in the case of an individual.
     
-    
+    Section 101(3): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 Offence of breach of duty
     
@@ -3237,15 +3249,17 @@ Offences, penalties, and miscellaneous provisions
     
     *   (d) being a recognised person, breaches or fails to carry out any of the duties specified in [section 82H][109].
     
-    (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding---
+    (2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding---
         
     *   (a) $100,000, in the case of a body corporate; or
     
     *   (b) $20,000, in the case of an individual.
     
-    Section 102(1)(c): amended, on 31 August 2012, by [section 10(1)][230] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 102(1)(c): amended, on 31 August 2012, by [section 10(1)][232] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 102(1)(d): amended, on 31 August 2012, by [section 10(2)][230] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 102(1)(d): amended, on 31 August 2012, by [section 10(2)][232] of the Wine Amendment Act 2012 (2012 No 70).
+    
+    Section 102(2): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 103 Failure to comply with Act, etc
     
@@ -3257,13 +3271,13 @@ Offences, penalties, and miscellaneous provisions
     
     *   (c) any direction, condition, notice, or requirement lawfully given, made, or imposed by or under this Act.
     
-    (2) A person who commits an offence against this section for which no other penalty is specified is liable on summary conviction to a fine not exceeding---
+    (2) A person who commits an offence against this section for which no other penalty is specified is liable on conviction to a fine not exceeding---
         
     *   (a) $100,000, in the case of a body corporate; or
     
     *   (b) $20,000, in the case of an individual.
     
-    
+    Section 103(2): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 104 Defence for persons charged with breach of duty or failure to comply
     
@@ -3339,9 +3353,9 @@ Offences, penalties, and miscellaneous provisions
     
     (5) The court may not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
     
-    Section 105(1)(c): amended, on 31 August 2012, by [section 11(1)][231] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 105(1)(c): amended, on 31 August 2012, by [section 11(1)][233] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 105(3): amended, on 31 August 2012, by [section 11(2)][231] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 105(3): amended, on 31 August 2012, by [section 11(2)][233] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 106 Presumption as to authority
     
@@ -3375,11 +3389,11 @@ Offences, penalties, and miscellaneous provisions
     
     (2) Despite subsection (1), where a principal is charged under this Act in relation to the act or omission of an agent for an offence against any of [sections 97][151], [98][152], [99][153], and [100][154], it is a defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
 
-##### 110 Offences generally punishable on summary conviction
+##### 110 Time for filing charge for offence against section 102 or 103
     
-*   (1) Except as provided in [sections 97(2)][151], [98(3)][152], [99(3)][153], and [100(3)][154], every offence under this Act or any regulations made under this Act is punishable on summary conviction.
+*   Despite anything to the contrary in [section 25][234] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 102][156] or [103][157] of this Act ends on the date that is 2 years after the date on which the offence was committed.
     
-    (2) Despite [section 14][232] of the Summary Proceedings Act 1957, an information in respect of an offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+    Section 110: replaced, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Industry levies
 
@@ -3387,19 +3401,19 @@ Offences, penalties, and miscellaneous provisions
     
 *   (1) The purpose of this section is to allow the wine industry to determine to introduce and impose 1 or more levies on wine that are payable to a body representing the views and interests of winemakers.
     
-    (2) Subject to this section, the provisions of the [Commodity Levies Act 1990][233] apply to wine as if it were a commodity within the meaning of that Act.
+    (2) Subject to this section, the provisions of the [Commodity Levies Act 1990][235] apply to wine as if it were a commodity within the meaning of that Act.
     
     (3) Despite subsection (2),---
         
-    *   (a) paragraphs (ag) to (ak) of [section 5(2)][234] of the Commodity Levies Act 1990 apply as if the references in those paragraphs to ""more than half"" of the various kinds of support or totals were references to ""more than 60%"" of the relevant support or total:
+    *   (a) paragraphs (ag) to (ak) of [section 5(2)][236] of the Commodity Levies Act 1990 apply as if the references in those paragraphs to ""more than half"" of the various kinds of support or totals were references to ""more than 60%"" of the relevant support or total:
     
     *   (b) a referendum to demonstrate support for the levy proposal may include sub-referenda within industry-agreed groups within the wine industry; if this is the case, the more than 60% support requirement applies to each industry-agreed group.
     
-    (4) Despite subsection (2), any wine levy order made in accordance with this section and the provisions of the [Commodity Levies Act 1990][233]---
+    (4) Despite subsection (2), any wine levy order made in accordance with this section and the provisions of the [Commodity Levies Act 1990][235]---
         
     *   (a) may be made under this Act, rather than under that Act, as if authorised by [section 119][178] of this Act; but
     
-    *   (b) must be made on the recommendation of the Minister responsible for the [Commodity Levies Act 1990][233], and are to be administered under that Act.
+    *   (b) must be made on the recommendation of the Minister responsible for the [Commodity Levies Act 1990][235], and are to be administered under that Act.
     
     
 
@@ -3503,21 +3517,21 @@ Offences, penalties, and miscellaneous provisions
     
     (8) A decision by the Director-General under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
     
-    Section 114(1): amended, on 31 August 2012, by [section 12(1)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1): amended, on 31 August 2012, by [section 12(1)][237] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(g): replaced, on 31 August 2012, by [section 12(2)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(g): replaced, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(h): replaced, on 31 August 2012, by [section 12(2)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(h): replaced, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(ha): inserted, on 31 August 2012, by [section 12(2)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(ha): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(hb): inserted, on 31 August 2012, by [section 12(2)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(hb): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(hc): inserted, on 31 August 2012, by [section 12(2)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(hc): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(hd): inserted, on 31 August 2012, by [section 12(2)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(hd): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(he): inserted, on 31 August 2012, by [section 12(2)][235] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(he): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Consultation, notification, etc
 
@@ -3631,7 +3645,7 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) a company or other body to whom the relevant person is contracted in relation to the person's functions for the purposes of this Act.
     
-    Section 118(1A): inserted, on 31 August 2012, by [section 13][236] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 118(1A): inserted, on 31 August 2012, by [section 13][238] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Regulations, notices, etc
 
@@ -3699,15 +3713,15 @@ Offences, penalties, and miscellaneous provisions
     
     *   (c) exempt from compliance with or from the application of any provisions of the regulations any wine, process, operation, person, place, premises, or area, or authorise the Minister or the Director-General to grant such exemptions as the regulations may specify.
     
-    Section 119(1)(h): replaced, on 31 August 2012, by [section 14(1)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(h): replaced, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(ha): inserted, on 31 August 2012, by [section 14(1)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(ha): inserted, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(hb): inserted, on 31 August 2012, by [section 14(1)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(hb): inserted, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(hc): inserted, on 31 August 2012, by [section 14(1)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(hc): inserted, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(j): replaced, on 31 August 2012, by [section 14(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(j): replaced, on 31 August 2012, by [section 14(2)][239] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 120 Notices
     
@@ -3759,19 +3773,17 @@ Offences, penalties, and miscellaneous provisions
     
     (2) Any notice under subsection (1) must be notified in accordance with [section 116][174].
     
-    (3) A notice under subsection (1)(o)---
-        
-    *   (a) is to be treated as a regulation for the purposes of the [Regulations (Disallowance) Act 1989][229]; but
+    (3) A notice under subsection (1)(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][240] and must be presented to the House of Representatives under [section 41][241] of that Act.
     
-    *   (b) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][238].
+    Section 120(1)(f): replaced, on 31 August 2012, by [section 15(1)][242] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(1)(f): replaced, on 31 August 2012, by [section 15(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(1)(n): replaced, on 31 August 2012, by [section 15(2)][242] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(1)(n): replaced, on 31 August 2012, by [section 15(2)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(1)(na): inserted, on 31 August 2012, by [section 15(2)][242] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(1)(na): inserted, on 31 August 2012, by [section 15(2)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(1)(nb): inserted, on 31 August 2012, by [section 15(2)][242] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(1)(nb): inserted, on 31 August 2012, by [section 15(2)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(3): replaced, on 5 August 2013, by [section 77(3)][230] of the Legislation Act 2012 (2012 No 119).
 
 ##### 121 Incorporation of material by reference into regulations, notices, and orders
     
@@ -3823,21 +3835,21 @@ Offences, penalties, and miscellaneous provisions
 
 ##### 124 Alcohol Advisory Council Act 1976 amended
     
-*   (1) The [Alcohol Advisory Council Act 1976][240] is amended in the manner indicated in [Part 1][241] of Schedule 2 with effect on 1 January 2004\.
+*   (1) The [Alcohol Advisory Council Act 1976][243] is amended in the manner indicated in [Part 1][244] of Schedule 2 with effect on 1 January 2004\.
     
-    (2) The [Alcohol Advisory Council Act 1976][240] is amended in the manner indicated in [Part 2][242] of Schedule 2 with effect on the close of 30 June 2004\.
+    (2) The [Alcohol Advisory Council Act 1976][243] is amended in the manner indicated in [Part 2][245] of Schedule 2 with effect on the close of 30 June 2004\.
 
 ##### 125 Food Act 1981 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][243]_.
+*   _Amendment(s) incorporated in the [Act(s)][246]_.
 
 ##### 126 Privacy Act 1993 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][244]_.
+*   _Amendment(s) incorporated in the [Act(s)][247]_.
 
 ##### 127 Customs and Excise Regulations 1996 amended
     
-*   _Amendment(s) incorporated in the [regulations][245]_.
+*   _Amendment(s) incorporated in the [regulations][248]_.
 
 ##### 128 Wine Makers Regulations 1990 revoked
     
@@ -3900,84 +3912,14 @@ Amendments in force on 1 January 2004
 
 ##### Alcohol Advisory Council Act 1976 (1976 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][246]_.
+_Amendment(s) incorporated in the [Act(s)][249]_.
 
 ## Part 2  
 Amendments in force on 30 June 2004
 
 ##### Alcohol Advisory Council Act 1976 (1976 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][246]_.
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][247].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][248] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+_Amendment(s) incorporated in the [Act(s)][249]_.
 
 ---
 
@@ -3989,7 +3931,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Wine Amendment Act 2012][249].
+*   This Act is the [Wine Amendment Act 2012][250].
 
 ##### 2 Commencement
     
@@ -4003,84 +3945,43 @@ Commencementsee section 2
     
 *   An agency or a person that, immediately before the commencement of this Act, was recognised to carry out specified functions under sections 69 to 82 of the principal Act is deemed to have been recognised to carry out those specified functions under sections 70 to 82Z of the principal Act, as amended by this Act, and anything evidencing the recognition is valid as a notice of recognition under those sections, as amended, until it expires or is suspended or revoked.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Wine Act 2003\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Wine Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][250] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][251] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][252] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][253] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][254] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][251] and [17E][252] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][230]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Wine Amendment Act 2012][249] (2012 No 70)
+    [Wine Amendment Act 2012][250] (2012 No 70)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 310][214]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][231]
+    
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][220]
     
-    [Wine Amendment Act 2005][253] (2005 No 119)
+    [Wine Amendment Act 2005][255] (2005 No 119)
     
     [Wine Act Commencement Order 2005][195] (SR 2005/28)
-    
-    
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM222450
 [2]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM222451
 [3]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM222452
@@ -4309,28 +4210,30 @@ Commencementsee section 2
 [226]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418630
 [227]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418632
 [228]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418633
-[229]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM195534
-[230]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444993
-[231]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444994
-[232]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM311191
-[233]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM226673
-[234]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM227327
-[235]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444995
-[236]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444996
-[237]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444997
-[238]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM195097
-[239]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444998
-[240]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439968
-[241]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223807
-[242]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223809
-[243]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM49931
-[244]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM298477
-[245]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM220030
-[246]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439978
-[247]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136500
-[248]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4686448
-[249]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444900
-[250]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM195439
-[251]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM195468
-[252]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM195470
-[253]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM362683
+[229]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998557
+[230]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998633
+[231]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM3360714
+[232]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444993
+[233]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444994
+[234]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM3360067
+[235]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM226673
+[236]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM227327
+[237]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444995
+[238]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444996
+[239]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444997
+[240]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2997643
+[241]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998573
+[242]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444998
+[243]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439968
+[244]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223807
+[245]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223809
+[246]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM49931
+[247]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM298477
+[248]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM220030
+[249]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439978
+[250]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444900
+[251]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998516
+[252]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998515
+[253]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998532
+[254]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[255]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM362683
