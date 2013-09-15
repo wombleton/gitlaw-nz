@@ -1,7 +1,7 @@
 Reprint  
-as at 1 August 2007
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # United Nations Convention on the Law of the Sea Act 1996Public Act1996 No 69
 
@@ -25,48 +25,48 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Meaning of State Party][5]
+[3][5][][5][Meaning of State Party][5]
 
-[4][6] [Act to bind the Crown][6]
+[4][6][][6][Act to bind the Crown][6]
 
 [Part 2][7]  
 [The Area][7]
 
-[5][8] [Purpose][8]
+[5][8][][8][Purpose][8]
 
-[6][9] [Persons to have licences to carry out activities in Area][9]
+[6][9][][9][Persons to have licences to carry out activities in Area][9]
 
-[7][10] [Grant of licences][10]
+[7][10][][10][Grant of licences][10]
 
-[8][11] [Offence to carry out activities without licence][11]
+[8][11][][11][Offence to carry out activities without licence][11]
 
-[9][12] [Application of criminal and civil law][12]
+[9][12][][12][Application of criminal and civil law][12]
 
-[10][13] [Liability of principal for acts of agents][13]
+[10][13][][13][Liability of principal for acts of agents][13]
 
-[11][14] [Limitation of proceedings][14]
+[11][14][][14][Limitation of proceedings][14]
 
 [Part 3][15]  
 [Decisions of international courts or tribunals][15]
 
-[12][16] [Prompt release of vessels and crews][16]
+[12][16][][16][Prompt release of vessels and crews][16]
 
-[13][17] [Applicable law][17]
+[13][17][][17][Applicable law][17]
 
-[14][18] [Enforcement of decisions of chamber][18]
+[14][18][][18][Enforcement of decisions of chamber][18]
 
 [Miscellaneous provisions][19]
 
-[15][20] [Evidence of decision][20]
+[15][20][][20][Evidence of decision][20]
 
-[16][21] [Rules of court][21]
+[16][21][][21][Rules of court][21]
 
 ---
 
@@ -220,13 +220,15 @@ The Area
     
 *   (1) Every person who, pursuant to [section 6][9], requires a licence to carry out any activity in the Area commits an offence if that person carries out any activity in the Area otherwise than pursuant to a licence and in accordance with the conditions of the licence.
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $200,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $200,000\.
     
     (3) On convicting any person of an offence against this section, the court may, in addition to imposing a penalty under subsection (2), order that person to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of that offence if the court is satisfied that the offence was committed in the course of producing a commercial gain.
     
     (4) For the purposes of subsection (3), the value of any gain shall be assessed by the court, and any amount ordered to be paid shall be recoverable in the same manner as a fine.
     
     Compare: 1964 No 28 [s 5(7)][25]; 1994 No 104 [s 409][26]
+    
+    Section 8(2): amended, on 1 July 2013, by [section 413][27] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Application of criminal and civil law
     
@@ -244,7 +246,7 @@ The Area
     
     (4) A person alleged to have committed an offence in respect of which the courts of New Zealand have jurisdiction by virtue only of this section may be arrested or a warrant for the person's arrest may be issued and executed, and the person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of proceedings for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
     
-    Compare: 1964 No 28 [s 7(1), (3), (4)][27]
+    Compare: 1964 No 28 [s 7(1), (3), (4)][28]
 
 ##### 10 Liability of principal for acts of agents
     
@@ -280,15 +282,19 @@ The Area
     
     *   (b) that he or she knew or could reasonably be expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
     
-    Compare: 1994 No 104 [s 410][28]
+    Compare: 1994 No 104 [s 410][29]
 
 ##### 11 Limitation of proceedings
     
-*   (1) Subject to subsection (2), no person shall be charged with an offence against [section 8][11] unless an information charging that person with that offence is laid within 6 months after the matter arose.
+*   (1) Despite anything to the contrary in [section 25][30] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the offence was committed.
     
-    (2) Notwithstanding anything in [section 14][29] of the Summary Proceedings Act 1957, the period of 6 months shall not run while the person charged is beyond the territorial limits of New Zealand.
+    (2) The period of 6 months does not run while the person charged is beyond the territorial limits of New Zealand.
     
-    Compare: 1994 No 104 [s 411][30]
+    (3) Subsection (1) is subject to subsection (2).
+    
+    Compare: 1994 No 104 [s 411][31]
+    
+    Section 11: replaced, on 1 July 2013, by [section 413][27] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Decisions of international courts or tribunals
@@ -385,7 +391,7 @@ Decisions of international courts or tribunals
 
 ##### 16 Rules of court
     
-*   The Governor-General in Council, with the concurrence of the Chief Justice and any 2 or more of the members of the Rules Committee, of whom at least 1 shall be a Judge, may, under [section 51C][31] of the Judicature Act 1908, from time to time make rules relating to the enforcement of any decision of a kind referred to in [section 13(3)][17] or [section 14(3)][18], if the Governor-General, the Chief Justice, and the relevant members of the Rules Committee are satisfied that the rules are consistent with New Zealand's rights and obligations under the Convention.
+*   The Governor-General in Council, with the concurrence of the Chief Justice and any 2 or more of the members of the Rules Committee, of whom at least 1 shall be a Judge, may, under [section 51C][32] of the Judicature Act 1908, from time to time make rules relating to the enforcement of any decision of a kind referred to in [section 13(3)][17] or [section 14(3)][18], if the Governor-General, the Chief Justice, and the relevant members of the Rules Committee are satisfied that the rules are consistent with New Zealand's rights and obligations under the Convention.
 
 ---
 
@@ -403,23 +409,23 @@ Decisions of international courts or tribunals
 
 ###### 1 General
     
-*   This is a reprint of the United Nations Convention on the Law of the Sea Act 1996\. The reprint incorporates all the amendments to the Act as at 1 August 2007, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the United Nations Convention on the Law of the Sea Act 1996\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][32] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][33] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][33] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][34] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][34] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][35] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][35] and [17E][36] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][36] and [17E][37] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -450,7 +456,9 @@ Decisions of international courts or tribunals
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Evidence Act 2006 (2006 No 69): [section 216][24]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][27]
+    
+    Evidence Act 2006 (2006 No 69): [section 216][24]
 
 
 
@@ -481,13 +489,14 @@ Decisions of international courts or tribunals
 [24]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM394552
 [25]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM351671
 [26]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM338367
-[27]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM351681
-[28]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM338368
-[29]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM311191
-[30]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM338369
-[31]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM146607
-[32]: http://www.pco.parliament.govt.nz/reprints/
-[33]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM195439
-[34]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[35]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM195468
-[36]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM195470
+[27]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM3360714
+[28]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM351681
+[29]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM338368
+[30]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM3360067
+[31]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM338369
+[32]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM146607
+[33]: http://www.pco.parliament.govt.nz/reprints/
+[34]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM195439
+[35]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[36]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM195468
+[37]: http://www.legislation.govt.nz/act/public/1996/0069/latest/link.aspx?id=DLM195470
