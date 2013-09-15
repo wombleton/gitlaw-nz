@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,59 +25,59 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Application of Act][4]
+[3][4][][4][Application of Act][4]
 
-[4][5] [Moratorium][5]
+[4][5][][5][Moratorium][5]
 
-[5][6] [Directors of company to which Act applies][6]
+[5][6][][6][Directors of company to which Act applies][6]
 
-[6][7] [Meetings of board][7]
+[6][7][][7][Meetings of board][7]
 
-[7][8] [Conduct of business while Act applies to company][8]
+[7][8][][8][Conduct of business while Act applies to company][8]
 
-[8][9] [Termination of contract of agency or service][9]
+[8][9][][9][Termination of contract of agency or service][9]
 
-[9][10] [Duties and functions of board][10]
+[9][10][][10][Duties and functions of board][10]
 
-[10][11] [Powers of board][11]
+[10][11][][11][Powers of board][11]
 
-[11][12] [Local boards of directors][12]
+[11][12][][12][Local boards of directors][12]
 
-[12][13] [Delegations][13]
+[12][13][][13][Delegations][13]
 
-[13][14] [Duty to deliver books and property to board][14]
+[13][14][][14][Duty to deliver books and property to board][14]
 
-[14][15] [Protection of board, etc][15]
+[14][15][][15][Protection of board, etc][15]
 
-[15][16] [Expenses of administration][16]
+[15][16][][16][Expenses of administration][16]
 
-[16][17] [Determination of management][17]
+[16][17][][17][Determination of management][17]
 
-[17][18] [Report to Minister][18]
+[17][18][][18][Report to Minister][18]
 
-[18][19] [Claims by beneficiaries against company][19]
+[18][19][][19][Claims by beneficiaries against company][19]
 
-[18A][20] [Provisions apply to Perpetual Trustees Substitute Company Limited][20]
+[18A][20][][20][Provisions apply to Perpetual Trustees Substitute Company Limited][20]
 
-[19][21] [Prohibition on certain claims against other trustee companies][21]
+[19][21][][21][Prohibition on certain claims against other trustee companies][21]
 
-[20][22] [Offence to destroy or alter records][22]
+[20][22][][22][Offence to destroy or alter records][22]
 
-[21][23] [Duty to report offences, etc][23]
+[21][23][][23][Duty to report offences, etc][23]
 
-[22][24] [Advances of fees of boards, etc][24]
+[22][24][][24][Advances of fees of boards, etc][24]
 
-[23][25] [Special advances to companies][25]
+[23][25][][25][Special advances to companies][25]
 
-[24][26] [Application of Companies Act 1955][26]
+[24][26][][26][Application of Companies Act 1955][26]
 
-[24A][27] [Application of Financial Reporting Act 1993][27]
+[24A][27][][27][Application of Financial Reporting Act 1993][27]
 
-[25][28] [Regulations][28]
+[25][28][][28][Regulations][28]
 
 [Schedule][29]  
 [Provisions of Companies Act 1955 which do not apply to companies to which this Act applies][29]
@@ -268,13 +268,15 @@ An Act to make special provision for the protection of persons who have benefici
     
     forthwith after the passing of this Act in the case of the trustee company specified in [section 3(1)(a)][4], or forthwith after the first board of directors is appointed under [section 5][6] in respect of any other trustee company or associated company to which this Act applies, to deliver or yield up possession of all such books, records, documents, or other property as aforesaid to the board or its authorised agent.
     
-    (2) If any person fails for 14 days to comply with the requirements of subsection (1), he commits an offence, and is liable on summary conviction to a fine not exceeding $500 and to a further fine not exceeding $10 for every day after the expiration of those 14 days during which the offence has continued.
+    (2) If any person fails for 14 days to comply with the requirements of subsection (1), he commits an offence, and is liable on conviction to a fine not exceeding $500 and to a further fine not exceeding $10 for every day after the expiration of those 14 days during which the offence has continued.
     
     (3) If any person fails to comply with the requirements of subsection (1), the board concerned may at any time certify the failure to the court (whether or not an offence has been committed under subsection (2)), and the court may thereupon inquire into the matter of the failure and, after hearing any witnesses who may be produced against or by or on behalf of the alleged offender, and after hearing any statement which may be offered in defence, may punish the offender in like manner as if he had been guilty of contempt of court.
     
     (4) It shall be no defence to any proceedings under this section that the person in possession or control of any property as aforesaid is or was a trustee of the property for any trustee company or associated company incorporated in New Zealand to which this Act applies or entitled to a lien or other charge over the property, or was a receiver or manager of the property appointed under Part 7 of the Companies Act 1955\.
     
     (5) The rights of any person who, in accordance with this section, delivers any property to the board in respect of any trustee company or associated company incorporated in New Zealand to which this Act applies or its authorised agent shall continue while this Act continues to apply to the trustee company or associated company as if the person had not so delivered the property; and when this Act ceases to apply to the trustee company or associated company, subject to the provisions of this Act and unless the court otherwise orders, the property shall be returned to the person who delivered it or to someone who derives a right to possession of the property from that person. The provisions of this subsection shall apply whether the person who delivers the property is a receiver or manager appointed under Part 7 of the Companies Act 1955, or a person entitled to a lien or charge in respect of the property, or any other person having any rights whatsoever in respect thereof.
+    
+    Section 13(2): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Protection of board, etc
     
@@ -400,11 +402,17 @@ An Act to make special provision for the protection of persons who have benefici
     
     *   (b) fails or refuses to answer to the best of his knowledge and ability any question which he may be asked by the board in relation to any such book or document or record or property, or wilfully gives a false answer to any such question,---
     
-    he commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000 or both.
+    he commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000 or both.
     
     (2) If in any prosecution for an offence alleged to have been committed against this section it is proved that the person charged with the offence has destroyed or altered any book, document, or record as aforesaid, or has sent or attempted to send or conspired to send out of New Zealand any such book, document, or record, or any other thing, the onus of proving that in so doing he had not acted in contravention of this section shall lie on him.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][41]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][42]_.
+    
+    (4) Despite anything to the contrary in [section 25][43] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section.
+    
+    Section 20(1): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 20(4): inserted, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Duty to report offences, etc
     
@@ -416,31 +424,31 @@ An Act to make special provision for the protection of persons who have benefici
     
     (2) All money so advanced to any such person shall be refunded to the Crown out of money payable to that board in respect of the trustee company or associated company, and the Crown shall have all the rights of the board to which the advance was made to receive and recover such money.
     
-    (3) The Minister of Finance may, on behalf of the Crown, guarantee pursuant to the [Public Finance Act 1989][42] the repayment of any money borrowed by the board for the payment of any general expenses (including salaries) payable in the exercise of its functions by the board while it has insufficient revenue for the payment thereof and the payment of interest on any money so borrowed.
+    (3) The Minister of Finance may, on behalf of the Crown, guarantee pursuant to the [Public Finance Act 1989][44] the repayment of any money borrowed by the board for the payment of any general expenses (including salaries) payable in the exercise of its functions by the board while it has insufficient revenue for the payment thereof and the payment of interest on any money so borrowed.
     
-    Section 22(1): amended, on 1 July 1989, by [section 86(1)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 22(1): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 22(2): amended, on 1 July 1989, by [section 86(1)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 22(2): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 22(3): amended, on 1 July 1989, by [section 86(1)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 22(3): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
     
     Section 22(3): amended, on 1 April 1978, by section 160(1) of the Public Finance Act 1977 (1977 No 65).
 
 ##### 23 Special advances to companies
     
-*   (1) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][42] the advance of money with or without securities, to the board of any trustee company or associated company to which this Act applies.
+*   (1) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][44] the advance of money with or without securities, to the board of any trustee company or associated company to which this Act applies.
     
-    (2) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][42] the advance of money with or without securities, to the board for the repayment of the money borrowed by way of overdraft from the National Bank of New Zealand Limited by the AMP Perpetual Trustee Company N.Z. Limited in respect of its group investment funds.
+    (2) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][44] the advance of money with or without securities, to the board for the repayment of the money borrowed by way of overdraft from the National Bank of New Zealand Limited by the AMP Perpetual Trustee Company N.Z. Limited in respect of its group investment funds.
     
     (3) On the repayment of the last mentioned money the National Bank of New Zealand Limited shall surrender to the board the securities deposited with the bank by the company as part of the transaction between them.
     
     (4) The National Bank of New Zealand Limited shall be indemnified by the Crown for any loss suffered or occasioned by the said bank by reason of the repayment of money under subsection (1).
     
-    Section 23(1): amended, on 1 July 1989, by [section 86(1)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 23(1): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
     
     Section 23(1): amended, on 1 April 1978, by section 160(1) of the Public Finance Act 1977 (1977 No 65).
     
-    Section 23(2): amended, on 1 July 1989, by [section 86(1)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 23(2): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
     
     Section 23(2): amended, on 1 April 1988, pursuant to [section 4(1)][36] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
     
@@ -458,9 +466,9 @@ An Act to make special provision for the protection of persons who have benefici
 
 ##### 24A Application of Financial Reporting Act 1993
     
-*   The [Financial Reporting Act 1993][44] shall not apply to any trustee company or associated company to which this Act applies.
+*   The [Financial Reporting Act 1993][46] shall not apply to any trustee company or associated company to which this Act applies.
     
-    Section 24A: inserted, on 1 July 1994, by [section 2][45] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 24A: inserted, on 1 July 1994, by [section 2][47] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 25 Regulations
     
@@ -495,23 +503,23 @@ Sections 130 to 135 (both inclusive) and 152 to 162 (both inclusive), and Part 7
 
 ###### 1 General
     
-*   This is a reprint of the Trustee Companies Management Act 1975\. The reprint incorporates all the amendments to the Act as at 1 April 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Trustee Companies Management Act 1975\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][46] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][48] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][47] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][49] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][48] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][50] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][49] and [17E][50] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][51] and [17E][52] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -542,7 +550,9 @@ Sections 130 to 135 (both inclusive) and 152 to 162 (both inclusive), and Part 7
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][35]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][41]
+    
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][35]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][37]
     
@@ -550,9 +560,9 @@ Sections 130 to 135 (both inclusive) and 152 to 162 (both inclusive), and Part 7
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][34]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][45]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][47]
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][43]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][45]
     
     AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)): [section 4(1)][36]
     
@@ -609,13 +619,15 @@ Sections 130 to 135 (both inclusive) and 152 to 162 (both inclusive), and Part 7
 [38]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM124529
 [39]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM381478
 [40]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM381480
-[41]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM314307
-[42]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM160808
-[43]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM163175
-[44]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM323597
-[45]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM328986
-[46]: http://www.pco.parliament.govt.nz/reprints/
-[47]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195439
-[48]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[49]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195468
-[50]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195470
+[41]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM3360714
+[42]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM314307
+[43]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM3360062
+[44]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM160808
+[45]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM163175
+[46]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM323597
+[47]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM328986
+[48]: http://www.pco.parliament.govt.nz/reprints/
+[49]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195439
+[50]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[51]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195468
+[52]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195470
