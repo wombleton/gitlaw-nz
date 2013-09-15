@@ -1,7 +1,7 @@
 Reprint  
-as at 24 January 2009
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Social Workers Registration Act 2003Public Act2003 No 17
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Social Development.
 
@@ -23,365 +23,365 @@ This Act is administered by the Ministry of Social Development.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Registration and practising certificates][7]
 
 [Entitlement to registration][8]
 
-[6][9] [Entitlement to registration of New Zealand-qualified social workers][9]
+[6][9][][9][Entitlement to registration of New Zealand-qualified social workers][9]
 
-[7][10] [Entitlement to registration of overseas-qualified social workers][10]
+[7][10][][10][Entitlement to registration of overseas-qualified social workers][10]
 
 [Applications][11]
 
-[8][12] [Applications for registration][12]
+[8][12][][12][Applications for registration][12]
 
-[9][13] [Consideration of applications by Board][13]
+[9][13][][13][Consideration of applications by Board][13]
 
-[10][14] [Provisional registration][14]
+[10][14][][14][Provisional registration][14]
 
-[11][15] [Temporary registration][15]
+[11][15][][15][Temporary registration][15]
 
 [Criteria][16]
 
-[12][17] [Criteria for full registration][17]
+[12][17][][17][Criteria for full registration][17]
 
-[13][18] [Board may recognise practical experience in certain cases][18]
+[13][18][][18][Board may recognise practical experience in certain cases][18]
 
-[14][19] [Criteria for provisional registration][19]
+[14][19][][19][Criteria for provisional registration][19]
 
-[15][20] [Criteria for temporary registration][20]
+[15][20][][20][Criteria for temporary registration][20]
 
-[16][21] [Applications by certain people previously registered][21]
+[16][21][][21][Applications by certain people previously registered][21]
 
-[17][22] [Board to give reasons][22]
+[17][22][][22][Board to give reasons][22]
 
 [Registration generally][23]
 
-[18][24] [Registrar to register successful applicants][24]
+[18][24][][24][Registrar to register successful applicants][24]
 
-[19][25] [Registrar to notify unsuccessful applicants][25]
+[19][25][][25][Registrar to notify unsuccessful applicants][25]
 
-[20][26] [Certificates of registration][26]
+[20][26][][26][Certificates of registration][26]
 
-[21][27] [Surrender of certificate of registration][27]
+[21][27][][27][Surrender of certificate of registration][27]
 
 [Limited registration][28]
 
-[22][29] [Renewal of limited registration][29]
+[22][29][][29][Renewal of limited registration][29]
 
-[23][30] [Criteria for renewal of limited registration][30]
+[23][30][][30][Criteria for renewal of limited registration][30]
 
-[24][31] [Cancellation of limited registration][31]
+[24][31][][31][Cancellation of limited registration][31]
 
 [Practising certificates][32]
 
-[25][33] [Practising registered social workers to hold practising certificates][33]
+[25][33][][33][Practising registered social workers to hold practising certificates][33]
 
-[26][34] [Applications for practising certificates][34]
+[26][34][][34][Applications for practising certificates][34]
 
-[27][35] [Effect of making compliant application][35]
+[27][35][][35][Effect of making compliant application][35]
 
-[28][36] [Issue of practising certificates][36]
+[28][36][][36][Issue of practising certificates][36]
 
-[29][37] [Board may adopt general conditions][37]
+[29][37][][37][Board may adopt general conditions][37]
 
-[30][38] [Restrictions on issue of practising certificates][38]
+[30][38][][38][Restrictions on issue of practising certificates][38]
 
-[31][39] [Board to consider certain applications][39]
+[31][39][][39][Board to consider certain applications][39]
 
-[32][40] [Procedure for consideration][40]
+[32][40][][40][Procedure for consideration][40]
 
-[33][41] [Decisions of Board as to practising certificates][41]
+[33][41][][41][Decisions of Board as to practising certificates][41]
 
-[34][42] [Currency of practising certificates][42]
+[34][42][][42][Currency of practising certificates][42]
 
-[35][43] [Conditions on practising certificates][43]
+[35][43][][43][Conditions on practising certificates][43]
 
-[36][44] [Surrender of practising certificates][44]
+[36][44][][44][Surrender of practising certificates][44]
 
-[37][45] [Interim practising certificates][45]
+[37][45][][45][Interim practising certificates][45]
 
 [Part 3][46]  
 [Competence and fitness][46]
 
 [Competence][47]
 
-[38][48] [Competence to practise social work][48]
+[38][48][][48][Competence to practise social work][48]
 
-[39][49] [Reviews of competence to practise social work][49]
+[39][49][][49][Reviews of competence to practise social work][49]
 
-[40][50] [Form of review][50]
+[40][50][][50][Form of review][50]
 
-[41][51] [Actions after review of competence][51]
+[41][51][][51][Actions after review of competence][51]
 
 [Competence assessments][52]
 
-[42][53] [Competence assessments][53]
+[42][53][][53][Competence assessments][53]
 
-[43][54] [Copies of competence assessments to be available][54]
+[43][54][][54][Copies of competence assessments to be available][54]
 
-[44][55] [Registered social workers to complete assessments every 5 years][55]
+[44][55][][55][Registered social workers to complete assessments every 5 years][55]
 
-[45][56] [Actions if registered social worker fails assessment][56]
+[45][56][][56][Actions if registered social worker fails assessment][56]
 
-[46][57] [Confidentiality of information][57]
+[46][57][][57][Confidentiality of information][57]
 
 [Fitness][58]
 
-[47][59] [Fitness to practise social work][59]
+[47][59][][59][Fitness to practise social work][59]
 
-[48][60] [Consideration of fitness to practise social work][60]
+[48][60][][60][Consideration of fitness to practise social work][60]
 
-[49][61] [Action if Board considers registered social worker not fit and proper][61]
+[49][61][][61][Action if Board considers registered social worker not fit and proper][61]
 
-[50][62] [Board to ask Police for information, and consider convictions][62]
+[50][62][][62][Board to ask Police for information, and consider convictions][62]
 
 [Conditions affecting ability to practise social work][63]
 
-[51][64] [Notification of conditions affecting ability to practise social work][64]
+[51][64][][64][Notification of conditions affecting ability to practise social work][64]
 
-[52][65] [Power to seek medical advice][65]
+[52][65][][65][Power to seek medical advice][65]
 
-[53][66] [Notice to be put before chairperson][66]
+[53][66][][66][Notice to be put before chairperson][66]
 
-[54][67] [Interim suspensions][67]
+[54][67][][67][Interim suspensions][67]
 
-[55][68] [Power to order medical examination][68]
+[55][68][][68][Power to order medical examination][68]
 
-[56][69] [Conduct and consequences of examination][69]
+[56][69][][69][Conduct and consequences of examination][69]
 
-[57][70] [Restrictions may be imposed because of condition][70]
+[57][70][][70][Restrictions may be imposed because of condition][70]
 
-[58][71] [Revocation of restrictions][71]
+[58][71][][71][Revocation of restrictions][71]
 
 [Part 4][72]  
 [Discipline][72]
 
 [Complaints][73]
 
-[59][74] [Complaints against registered social workers][74]
+[59][74][][74][Complaints against registered social workers][74]
 
-[60][75] [Registrar to notify Tribunal of complaints][75]
+[60][75][][75][Registrar to notify Tribunal of complaints][75]
 
-[61][76] [Registrar to notify Health and Disability Commissioner of certain complaints][76]
+[61][76][][76][Registrar to notify Health and Disability Commissioner of certain complaints][76]
 
-[62][77] [Health and Disability Commissioner may notify Tribunal of complaints][77]
+[62][77][][77][Health and Disability Commissioner may notify Tribunal of complaints][77]
 
-[63][78] [Notification of convictions][78]
+[63][78][][78][Notification of convictions][78]
 
-[64][79] [Suspension of action while Health and Disability Commissioner investigates][79]
+[64][79][][79][Suspension of action while Health and Disability Commissioner investigates][79]
 
-[65][80] [Referral of complaints and notices of conviction to complaints assessment committee][80]
+[65][80][][80][Referral of complaints and notices of conviction to complaints assessment committee][80]
 
 [Complaints assessment committees][81]
 
-[66][82] [Complaints assessment committees][82]
+[66][82][][82][Complaints assessment committees][82]
 
-[67][83] [Committees may regulate own procedure][83]
+[67][83][][83][Committees may regulate own procedure][83]
 
-[68][84] [Committees may appoint legal advisers][84]
+[68][84][][84][Committees may appoint legal advisers][84]
 
-[69][85] [Information to be given to social worker and complainant][85]
+[69][85][][85][Information to be given to social worker and complainant][85]
 
-[70][86] [Social workers and complainants may request changes in membership of complaints assessment committee][86]
+[70][86][][86][Social workers and complainants may request changes in membership of complaints assessment committee][86]
 
-[71][87] [Determination of complaint by complaints assessment committee][87]
+[71][87][][87][Determination of complaint by complaints assessment committee][87]
 
-[72][88] [Procedure after committee makes determination][88]
+[72][88][][88][Procedure after committee makes determination][88]
 
-[73][89] [Conciliation][89]
+[73][89][][89][Conciliation][89]
 
-[74][90] [Committee may recommend suspension of registration or imposition of conditions][90]
+[74][90][][90][Committee may recommend suspension of registration or imposition of conditions][90]
 
 [Procedure and decisions of Tribunal][91]
 
-[75][92] [Laying of charge before Tribunal][92]
+[75][92][][92][Laying of charge before Tribunal][92]
 
-[76][93] [Notice of disciplinary proceedings to be given to social worker][93]
+[76][93][][93][Notice of disciplinary proceedings to be given to social worker][93]
 
-[77][94] [Interim suspension of registration or imposition of restrictions on practice][94]
+[77][94][][94][Interim suspension of registration or imposition of restrictions on practice][94]
 
-[78][95] [Social worker may apply for revocation of direction][95]
+[78][95][][95][Social worker may apply for revocation of direction][95]
 
-[79][96] [Hearings of Tribunal to be public][96]
+[79][96][][96][Hearings of Tribunal to be public][96]
 
-[80][97] [Special protection for certain witnesses][97]
+[80][97][][97][Special protection for certain witnesses][97]
 
-[81][98] [Application for revocation of order under section 79][98]
+[81][98][][98][Application for revocation of order under section 79][98]
 
-[82][99] [Grounds on which Tribunal may make order][99]
+[82][99][][99][Grounds on which Tribunal may make order][99]
 
-[83][100] [Penalties][100]
+[83][100][][100][Penalties][100]
 
-[84][101] [Orders as to restoration of registration][101]
+[84][101][][101][Orders as to restoration of registration][101]
 
-[85][102] [Orders of Tribunal][102]
+[85][102][][102][Orders of Tribunal][102]
 
-[86][103] [Funding][103]
+[86][103][][103][Funding][103]
 
-[87][104] [Recovery of fines and costs][104]
+[87][104][][104][Recovery of fines and costs][104]
 
 [Part 5][105]  
 [Appeals][105]
 
-[88][106] [Rights of appeal][106]
+[88][106][][106][Rights of appeal][106]
 
-[89][107] [Notice of right of appeal][107]
+[89][107][][107][Notice of right of appeal][107]
 
-[90][108] [Orders to have effect pending determination of appeal][108]
+[90][108][][108][Orders to have effect pending determination of appeal][108]
 
-[91][109] [Procedure on appeal][109]
+[91][109][][109][Procedure on appeal][109]
 
-[92][110] [Court's decision final][110]
+[92][110][][110][Court's decision final][110]
 
-[93][111] [Court may refer matter back for reconsideration][111]
+[93][111][][111][Court may refer matter back for reconsideration][111]
 
-[94][112] [Orders as to costs][112]
+[94][112][][112][Orders as to costs][112]
 
-[95][113] [Orders as to publication of names][113]
+[95][113][][113][Orders as to publication of names][113]
 
-[96][114] [Appeal on question of law][114]
+[96][114][][114][Appeal on question of law][114]
 
 [Part 6][115]  
 [Social Workers Registration Board and Social Workers Complaints and Disciplinary Tribunal][115]
 
 [Social Workers Registration Board][116]
 
-[97][117] [Social Workers Registration Board established][117]
+[97][117][][117][Social Workers Registration Board established][117]
 
-[98][118] [Powers of Board][118] \[Repealed\]
+[98][118][][118][Powers of Board][118] \[Repealed\]
 
-[99][119] [Functions of Board][119]
+[99][119][][119][Functions of Board][119]
 
-[100][120] [Obligations of Board in relation to Māori][120]
+[100][120][][120][Obligations of Board in relation to Māori][120]
 
-[101][121] [Obtaining views of ethnic and cultural groups][121]
+[101][121][][121][Obtaining views of ethnic and cultural groups][121]
 
-[102][122] [Restriction on Ministerial direction][122]
+[102][122][][122][Restriction on Ministerial direction][122]
 
-[103][123] [Other provisions relating to requirements][123] \[Repealed\]
+[103][123][][123][Other provisions relating to requirements][123] \[Repealed\]
 
-[104][124] [Review of operation of Act][124]
+[104][124][][124][Review of operation of Act][124]
 
-[105][125] [Code of conduct][125]
+[105][125][][125][Code of conduct][125]
 
-[106][126] [Membership][126]
+[106][126][][126][Membership][126]
 
-[107][127] [Additional information in annual report][127]
+[107][127][][127][Additional information in annual report][127]
 
-[108][128] [Board may set fees][128]
+[108][128][][128][Board may set fees][128]
 
-[109][129] [Disciplinary levy][129]
+[109][129][][129][Disciplinary levy][129]
 
-[110][130] [Further provisions relating to fees and levy][130]
+[110][130][][130][Further provisions relating to fees and levy][130]
 
-[111][131] [Application of income][131] \[Repealed\]
+[111][131][][131][Application of income][131] \[Repealed\]
 
-[112][132] [Directions and resolutions to be in writing][132] \[Repealed\]
+[112][132][][132][Directions and resolutions to be in writing][132] \[Repealed\]
 
-[113][133] [Other provisions relating to Board][133]
+[113][133][][133][Other provisions relating to Board][133]
 
 [Social Workers Complaints and Disciplinary Tribunal][134]
 
-[114][135] [Social Workers Complaints and Disciplinary Tribunal established][135]
+[114][135][][135][Social Workers Complaints and Disciplinary Tribunal established][135]
 
-[115][136] [Function of Tribunal][136]
+[115][136][][136][Function of Tribunal][136]
 
-[116][137] [Membership of Tribunal][137]
+[116][137][][137][Membership of Tribunal][137]
 
-[117][138] [Suitability of certain people to be appointed][138]
+[117][138][][138][Suitability of certain people to be appointed][138]
 
-[118][139] [Removal of members][139]
+[118][139][][139][Removal of members][139]
 
-[119][140] [Hearings by Tribunal][140]
+[119][140][][140][Hearings by Tribunal][140]
 
-[120][141] [Other provisions relating to Tribunal][141]
+[120][141][][141][Other provisions relating to Tribunal][141]
 
 [Part 7][142]  
 [Register and Registrar][142]
 
 [Register of Social Workers][143]
 
-[121][144] [Register of social workers][144]
+[121][144][][144][Register of social workers][144]
 
-[122][145] [Register to be maintained in parts][145]
+[122][145][][145][Register to be maintained in parts][145]
 
-[123][146] [Information to be registered][146]
+[123][146][][146][Information to be registered][146]
 
-[124][147] [Certificates of registered information][147]
+[124][147][][147][Certificates of registered information][147]
 
-[125][148] [Social workers to notify changes of address][148]
+[125][148][][148][Social workers to notify changes of address][148]
 
-[126][149] [Changes of name][149]
+[126][149][][149][Changes of name][149]
 
-[127][150] [Social worker may ask for registration to be cancelled][150]
+[127][150][][150][Social worker may ask for registration to be cancelled][150]
 
-[128][151] [Entry to be cancelled on death of social worker][151]
+[128][151][][151][Entry to be cancelled on death of social worker][151]
 
-[129][152] [Revision of Register][152]
+[129][152][][152][Revision of Register][152]
 
-[130][153] [Restoration of entries][153]
+[130][153][][153][Restoration of entries][153]
 
-[131][154] [Cancellation of registration of overseas qualified person for non-residence in New Zealand][154]
+[131][154][][154][Cancellation of registration of overseas qualified person for non-residence in New Zealand][154]
 
-[132][155] [Cancellation of registration on Board's direction][155]
+[132][155][][155][Cancellation of registration on Board's direction][155]
 
-[133][156] [Removal of qualifications, or cancellation of registration, overseas][156]
+[133][156][][156][Removal of qualifications, or cancellation of registration, overseas][156]
 
-[134][157] [Cancellation or suspension not to affect existing liabilities][157]
+[134][157][][157][Cancellation or suspension not to affect existing liabilities][157]
 
-[135][158] [Board to publish Register][158]
+[135][158][][158][Board to publish Register][158]
 
-[136][159] [Inspection of Register][159]
+[136][159][][159][Inspection of Register][159]
 
 [Registrar][160]
 
-[137][161] [Board to appoint Registrar][161]
+[137][161][][161][Board to appoint Registrar][161]
 
-[138][162] [Registrar to carry out Board's decisions and comply with directions of Board and Tribunal][162]
+[138][162][][162][Registrar to carry out Board's decisions and comply with directions of Board and Tribunal][162]
 
-[139][163] [Registrar may refuse to act if fine or costs outstanding, or fee not paid][163]
+[139][163][][163][Registrar may refuse to act if fine or costs outstanding, or fee not paid][163]
 
-[140][164] [Notice of restrictions or conditions imposed on registration or practising certificate][164]
+[140][164][][164][Notice of restrictions or conditions imposed on registration or practising certificate][164]
 
 [Part 8][165]  
 [Miscellaneous, transitional, and consequential provisions][165]
 
 [Miscellaneous provisions][166]
 
-[141][167] [Certificate of Registrar to be evidence][167]
+[141][167][][167][Certificate of Registrar to be evidence][167]
 
-[142][168] [Board may withhold information in certain circumstances][168]
+[142][168][][168][Board may withhold information in certain circumstances][168]
 
-[143][169] [Immunity of members and legal advisers of complaints assessment committees and other from civil liability to third parties][169]
+[143][169][][169][Immunity of members and legal advisers of complaints assessment committees and other from civil liability to third parties][169]
 
-[144][170] [Proceedings not invalid because of defect in appointment][170]
+[144][170][][170][Proceedings not invalid because of defect in appointment][170]
 
-[145][171] [Notice and service of documents][171]
+[145][171][][171][Notice and service of documents][171]
 
-[146][172] [Publication of orders][172]
+[146][172][][172][Publication of orders][172]
 
-[147][173] [Regulations][173]
+[147][173][][173][Regulations][173]
 
-[148][174] [Offences][174]
+[148][174][][174][Offences][174]
 
 [Consequential amendments][175]
 
-[149][176] [Consequential amendments][176]
+[149][176][][176][Consequential amendments][176]
 
 [Schedule 1][177]  
 [Provisions applying to Social Workers Registration Board][177]
@@ -2347,13 +2347,15 @@ Appeals
     
     (2) The appeal must be heard and determined in accordance with rules of court.
     
-    (3) [Part 4][193] of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal---
+    (3) [Part 6][193] of the Criminal Procedure Act 2011 applies to the appeal---
         
     *   (a) so far as it is applicable and with all necessary modifications; but
     
     *   (b) only so far as it relates to appeals on questions of law.
     
     (4) Subsection (3) overrides subsection (2).
+    
+    Section 96(3): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Social Workers Registration Board and Social Workers Complaints and Disciplinary Tribunal
@@ -2364,19 +2366,19 @@ Social Workers Registration Board and Social Workers Complaints and Disciplinary
     
 *   (1) This section establishes the Social Workers Registration Board.
     
-    (2) The Board is a Crown entity for the purposes of [section 7][194] of the Crown Entities Act 2004\.
+    (2) The Board is a Crown entity for the purposes of [section 7][195] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][195] applies to the Board except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][196] applies to the Board except to the extent that this Act expressly provides otherwise.
     
-    Section 97(2): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 97(2): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 97(3): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 97(3): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 98 Powers of Board
     
 *   \[Repealed\]
     
-    Section 98: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 98: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 99 Functions of Board
     
@@ -2452,15 +2454,15 @@ Social Workers Registration Board and Social Workers Complaints and Disciplinary
 
 ##### 102 Restriction on Ministerial direction
     
-*   The Minister may not give a direction under [section 103][197] of the Crown Entities Act 2004 relating to the registration of social workers.
+*   The Minister may not give a direction under [section 103][198] of the Crown Entities Act 2004 relating to the registration of social workers.
     
-    Section 102: substituted, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 102: substituted, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 103 Other provisions relating to requirements
     
 *   \[Repealed\]
     
-    Section 103: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 103: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 104 Review of operation of Act
     
@@ -2510,17 +2512,17 @@ Social Workers Registration Board and Social Workers Complaints and Disciplinary
     
     *   (b) 4 other people.
     
-    (2) Before the transition day, the references in subsection (1)(a) and [clause 37][198] of Schedule 1 to registered social workers must be read as references to people engaged or employed as a social worker.
+    (2) Before the transition day, the references in subsection (1)(a) and [clause 37][199] of Schedule 1 to registered social workers must be read as references to people engaged or employed as a social worker.
     
-    (3) Members of the Board are the board for the purposes of the [Crown Entities Act 2004][195].
+    (3) Members of the Board are the board for the purposes of the [Crown Entities Act 2004][196].
     
-    Section 106(3): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106(3): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 107 Additional information in annual report
     
-*   In addition to the information required by [section 151][199] of the Crown Entities Act 2004, the annual report of the Board under [section 150][200] of that Act must include a report on any other matters affecting the social work profession that the Board thinks fit.
+*   In addition to the information required by [section 151][200] of the Crown Entities Act 2004, the annual report of the Board under [section 150][201] of that Act must include a report on any other matters affecting the social work profession that the Board thinks fit.
     
-    Section 107: substituted, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 107: substituted, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 108 Board may set fees
     
@@ -2562,23 +2564,25 @@ Social Workers Registration Board and Social Workers Complaints and Disciplinary
     
     (2) Every notice published under [section 108][128], [section 109][129], or this section comes into force on a day stated in it, being a day at least 28 days after the date of publication of the notice.
     
-    (3) Every notice published under [section 108][128], [section 109][129], or this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][201], but not for the purposes of the [Acts and Regulations Publication Act 1989][202].
+    (3) A notice published under [section 108][128] or [109][129] or this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][202] and must be presented to the House of Representatives under [section 41][203] of that Act.
     
     (4) Every fee set under [section 108][128] and every levy imposed under [section 109][129] is payable to the Board, and recoverable by the Board as a debt due to the Board.
     
     (5) The Registrar may decline to do or permit to be done any act in respect of which a fee is payable to the Board under this Act, until the fee is paid.
+    
+    Section 110(3): replaced, on 5 August 2013, by [section 77(3)][204] of the Legislation Act 2012 (2012 No 119).
 
 ##### 111 Application of income
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 111: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 112 Directions and resolutions to be in writing
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 112: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 113 Other provisions relating to Board
     
@@ -2648,7 +2652,7 @@ Social Workers Registration Board and Social Workers Complaints and Disciplinary
     
 *   (1) The Board must remove a person from the Tribunal if---
         
-    *   (a) he or she is adjudged bankrupt under the [Insolvency Act 2006][203]; or
+    *   (a) he or she is adjudged bankrupt under the [Insolvency Act 2006][205]; or
     
     *   (b) 5 years has elapsed since the date on which he or she was appointed to the Tribunal; or
     
@@ -2664,7 +2668,7 @@ Social Workers Registration Board and Social Workers Complaints and Disciplinary
     
     (4) No person is entitled to compensation for removal from the Tribunal.
     
-    Section 118(1)(a): amended, on 3 December 2007, by [section 445][204] of the Insolvency Act 2006 (2006 No 55).
+    Section 118(1)(a): amended, on 3 December 2007, by [section 445][206] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 119 Hearings by Tribunal
     
@@ -2811,7 +2815,7 @@ Register and Registrar
 
 ##### 128 Entry to be cancelled on death of social worker
     
-*   (1) Promptly after registering the death of a person who appears to have been a registered social worker, a Registrar (within the meaning of [section 2][205] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) must give the Registrar written notice of the death, with particulars of its date and place.
+*   (1) Promptly after registering the death of a person who appears to have been a registered social worker, a Registrar (within the meaning of [section 2][207] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) must give the Registrar written notice of the death, with particulars of its date and place.
     
     (2) If there is an entry in the Register relating to the person, the Registrar must, as soon as is practicable after receiving the notice, cancel it.
     
@@ -2821,9 +2825,9 @@ Register and Registrar
     
     (5) \[Repealed\]
     
-    Section 128(1): substituted, on 24 January 2009, by [section 47][206] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 128(1): substituted, on 24 January 2009, by [section 47][208] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 128(5): repealed, on 24 January 2009, by [section 47][206] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 128(5): repealed, on 24 January 2009, by [section 47][208] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 129 Revision of Register
     
@@ -2997,9 +3001,9 @@ Register and Registrar
     
     (2) The Registrar may be the same person as the chief executive of the Board.
     
-    Section 137(1): substituted, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 137(1): substituted, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 137(2): amended, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 137(2): amended, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 138 Registrar to carry out Board's decisions and comply with directions of Board and Tribunal
     
@@ -3084,13 +3088,13 @@ Miscellaneous, transitional, and consequential provisions
 
 ##### 142 Board may withhold information in certain circumstances
     
-*   Nothing in this Act requires the Board to make available to any person any information that could be withheld under the [Official Information Act 1982][207].
+*   Nothing in this Act requires the Board to make available to any person any information that could be withheld under the [Official Information Act 1982][209].
 
 ##### 143 Immunity of members and legal advisers of complaints assessment committees and other from civil liability to third parties
     
-*   [Section 121(2)][208] of the Crown Entities Act 2004 applies, with any necessary modifications, to a member of a complaints assessment committee and any legal adviser appointed to assist a complaints assessment committee as if he or she were an office holder.
+*   [Section 121(2)][210] of the Crown Entities Act 2004 applies, with any necessary modifications, to a member of a complaints assessment committee and any legal adviser appointed to assist a complaints assessment committee as if he or she were an office holder.
     
-    Section 143: substituted, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 143: substituted, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 144 Proceedings not invalid because of defect in appointment
     
@@ -3102,7 +3106,7 @@ Miscellaneous, transitional, and consequential provisions
     
     *   (b) a person acting as a member of the body was incapable of being, or had ceased to be, a member of it.
     
-    Section 144(1): amended, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Section 144(1): amended, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 145 Notice and service of documents
     
@@ -3160,7 +3164,7 @@ Miscellaneous, transitional, and consequential provisions
 
 ##### 148 Offences
     
-*   (1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000 or both, who, for the purpose of obtaining registration or a practising certificate (for himself or herself or for any other person),---
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000 or both, who, for the purpose of obtaining registration or a practising certificate (for himself or herself or for any other person),---
         
     *   (a) makes an oral or written declaration or representation that, to his or her knowledge, is false or misleading in a material particular; or
     
@@ -3168,15 +3172,15 @@ Miscellaneous, transitional, and consequential provisions
     
     *   (c) produces a document to the Board, or otherwise uses a document, knowing that it is not genuine.
     
-    (2) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds himself or herself out as a registered social worker when---
+    (2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds himself or herself out as a registered social worker when---
         
     *   (a) he or she is not a registered social worker; or
     
     *   (b) he or she is a registered social worker, but his or her registration is suspended.
     
-    (3) Every registered social worker commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who is engaged or employed as a social worker contrary to [section 25][33].
+    (3) Every registered social worker commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who is engaged or employed as a social worker contrary to [section 25][33].
     
-    (4) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds an employee or professional associate out as a registered social worker, knowing that the employee or associate---
+    (4) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who holds an employee or professional associate out as a registered social worker, knowing that the employee or associate---
         
     *   (a) is not a registered social worker; or
     
@@ -3190,7 +3194,7 @@ Miscellaneous, transitional, and consequential provisions
         
         
     
-    (5) Every registered social worker commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who---
+    (5) Every registered social worker commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $10,000 or both, who---
         
     *   (a) holds himself or herself out as holding a current practising certificate when---
             
@@ -3208,7 +3212,15 @@ Miscellaneous, transitional, and consequential provisions
         
         
     
+    Section 148(1): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 148(2): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 148(3): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 148(4): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 148(5): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Consequential amendments
 
@@ -3225,163 +3237,163 @@ Provisions applying to Social Workers Registration Board
 
 ## Contents
 
-[1][209] [Interpretation][209] \[Repealed\]
+[1][211][][211][Interpretation][211] \[Repealed\]
 
-[_Members' appointments_][210]
+[_Members' appointments_][212]
 
-[2][211] [Criteria for appointment][211]
+[2][213][][213][Criteria for appointment][213]
 
-[3][212] [Restrictions on people who may be members][212] \[Repealed\]
+[3][214][][214][Restrictions on people who may be members][214] \[Repealed\]
 
-[4][213] [Method of appointment][213] \[Repealed\]
+[4][215][][215][Method of appointment][215] \[Repealed\]
 
-[5][214] [Members must consent and certify to appointment and disclose interests][214] \[Repealed\]
+[5][216][][216][Members must consent and certify to appointment and disclose interests][216] \[Repealed\]
 
-[_Term of office_][215]
+[_Term of office_][217]
 
-[6][216] [Term of office][216] \[Repealed\]
+[6][218][][218][Term of office][218] \[Repealed\]
 
-[7][217] [Limit on term][217]
+[7][219][][219][Limit on term][219]
 
-[8][218] [Position where concurrent office][218] \[Repealed\]
+[8][220][][220][Position where concurrent office][220] \[Repealed\]
 
-[_Vacation of office by members_][219]
+[_Vacation of office by members_][221]
 
-[9][220] [Resignation][220] \[Repealed\]
+[9][222][][222][Resignation][222] \[Repealed\]
 
-[10][221] [Vacation of office if status changes][221]
+[10][223][][223][Vacation of office if status changes][223]
 
-[11][222] [Removal from office][222] \[Repealed\]
+[11][224][][224][Removal from office][224] \[Repealed\]
 
-[_Vacancies in Board's membership_][223]
-
-\[Repealed\]
-
-[12][224] [Effect of vacancy in membership][224] \[Repealed\]
-
-[_Remuneration_][225]
+[_Vacancies in Board's membership_][225]
 
 \[Repealed\]
 
-[13][226] [Remuneration of members][226] \[Repealed\]
+[12][226][][226][Effect of vacancy in membership][226] \[Repealed\]
 
-[_Chairperson and deputy chairperson_][227]
-
-\[Repealed\]
-
-[14][228] [Election][228] \[Repealed\]
-
-[15][229] [Term of office][229] \[Repealed\]
-
-[16][230] [Removal][230] \[Repealed\]
-
-[17][231] [Resignation][231] \[Repealed\]
-
-[18][232] [Exercise of chairperson's functions, duties, and powers during vacancy, etc][232] \[Repealed\]
-
-[_Acts not to be called into question_][233]
+[_Remuneration_][227]
 
 \[Repealed\]
 
-[19][234] [Acts not to be called into question][234] \[Repealed\]
+[13][228][][228][Remuneration of members][228] \[Repealed\]
 
-[_Members representing other members_][235]
-
-[20][236] [Members representing other members][236]
-
-[_Duties of members_][237]
+[_Chairperson and deputy chairperson_][229]
 
 \[Repealed\]
 
-[21][238] [Duties of members][238] \[Repealed\]
+[14][230][][230][Election][230] \[Repealed\]
 
-[_Liability of members_][239]
+[15][231][][231][Term of office][231] \[Repealed\]
 
-\[Repealed\]
+[16][232][][232][Removal][232] \[Repealed\]
 
-[22][240] [Liability of members and committee members][240] \[Repealed\]
+[17][233][][233][Resignation][233] \[Repealed\]
 
-[_Disclosure of interest_][241]
+[18][234][][234][Exercise of chairperson's functions, duties, and powers during vacancy, etc][234] \[Repealed\]
 
-[23][242] [Obligation to disclose interest][242] \[Repealed\]
-
-[24][243] [Meaning of interested][243] \[Repealed\]
-
-[25][244] [Disclosure of interest][244] \[Repealed\]
-
-[26][245] [Consequences of disclosure][245] \[Repealed\]
-
-[27][246] [Matters to be delegated to committee][246] \[Repealed\]
-
-[28][247] [Exceptions][247] \[Repealed\]
-
-[29][248] [Effect of non-compliance][248] \[Repealed\]
-
-[_Use of information_][249]
+[_Acts not to be called into question_][235]
 
 \[Repealed\]
 
-[30][250] [Restrictions on disclosure or use of information][250] \[Repealed\]
+[19][236][][236][Acts not to be called into question][236] \[Repealed\]
 
-[31][251] [When member may rely on certain information and advice][251] \[Repealed\]
+[_Members representing other members_][237]
 
-[32][252] [When clause 31 applies][252] \[Repealed\]
+[20][238][][238][Members representing other members][238]
 
-[_Procedure of Board: General_][253]
+[_Duties of members_][239]
 
-[33][186] [Procedure generally][186]
+\[Repealed\]
 
-[_Procedure of Board: Meetings_][254]
+[21][240][][240][Duties of members][240] \[Repealed\]
 
-[34][255] [Ordinary meetings][255] \[Repealed\]
+[_Liability of members_][241]
 
-[35][256] [Special meetings][256] \[Repealed\]
+\[Repealed\]
 
-[36][257] [Telephone conference meetings][257] \[Repealed\]
+[22][242][][242][Liability of members and committee members][242] \[Repealed\]
 
-[37][198] [Quorum][198]
+[_Disclosure of interest_][243]
 
-[38][258] [Chairperson to preside at meetings][258] \[Repealed\]
+[23][244][][244][Obligation to disclose interest][244] \[Repealed\]
 
-[39][259] [Voting][259]
+[24][245][][245][Meaning of interested][245] \[Repealed\]
 
-[40][260] [Resolution assented to by members][260] \[Repealed\]
+[25][246][][246][Disclosure of interest][246] \[Repealed\]
 
-[41][261] [Method of contracting][261] \[Repealed\]
+[26][247][][247][Consequences of disclosure][247] \[Repealed\]
 
-[_Committees and delegations_][262]
+[27][248][][248][Matters to be delegated to committee][248] \[Repealed\]
 
-[42][263] [Committees][263] \[Repealed\]
+[28][249][][249][Exceptions][249] \[Repealed\]
 
-[43][264] [Restriction on delegation][264]
+[29][250][][250][Effect of non-compliance][250] \[Repealed\]
 
-[44][265] [Effect of delegation][265] \[Repealed\]
+[_Use of information_][251]
 
-[45][266] [Presumption of acting in accordance with delegation][266] \[Repealed\]
+\[Repealed\]
 
-[46][267] [Other matters relating to delegation][267] \[Repealed\]
+[30][252][][252][Restrictions on disclosure or use of information][252] \[Repealed\]
 
-[47][268] [Expenses of Board][268] \[Repealed\]
+[31][253][][253][When member may rely on certain information and advice][253] \[Repealed\]
 
-[_Employees_][269]
+[32][254][][254][When clause 31 applies][254] \[Repealed\]
 
-[48][270] [Appointment of secretary][270] \[Repealed\]
+[_Procedure of Board: General_][255]
 
-[49][271] [Appointment of other employees][271] \[Repealed\]
+[33][186][][186][Procedure generally][186]
 
-[50][272] [Liability of employees][272] \[Repealed\]
+[_Procedure of Board: Meetings_][256]
 
-[51][273] [Personnel policy][273] \[Repealed\]
+[34][257][][257][Ordinary meetings][257] \[Repealed\]
 
-[52][274] [Equal employment opportunities][274] \[Repealed\]
+[35][258][][258][Special meetings][258] \[Repealed\]
 
-[53][275] [Superannuation or retiring allowances][275] \[Repealed\]
+[36][259][][259][Telephone conference meetings][259] \[Repealed\]
 
-[54][276] [Application of certain Acts to members and employees][276] \[Repealed\]
+[37][199][][199][Quorum][199]
 
-[55][277] [Legal advisers][277]
+[38][260][][260][Chairperson to preside at meetings][260] \[Repealed\]
 
-[56][278] [Common seal][278] \[Repealed\]
+[39][261][][261][Voting][261]
+
+[40][262][][262][Resolution assented to by members][262] \[Repealed\]
+
+[41][263][][263][Method of contracting][263] \[Repealed\]
+
+[_Committees and delegations_][264]
+
+[42][265][][265][Committees][265] \[Repealed\]
+
+[43][266][][266][Restriction on delegation][266]
+
+[44][267][][267][Effect of delegation][267] \[Repealed\]
+
+[45][268][][268][Presumption of acting in accordance with delegation][268] \[Repealed\]
+
+[46][269][][269][Other matters relating to delegation][269] \[Repealed\]
+
+[47][270][][270][Expenses of Board][270] \[Repealed\]
+
+[_Employees_][271]
+
+[48][272][][272][Appointment of secretary][272] \[Repealed\]
+
+[49][273][][273][Appointment of other employees][273] \[Repealed\]
+
+[50][274][][274][Liability of employees][274] \[Repealed\]
+
+[51][275][][275][Personnel policy][275] \[Repealed\]
+
+[52][276][][276][Equal employment opportunities][276] \[Repealed\]
+
+[53][277][][277][Superannuation or retiring allowances][277] \[Repealed\]
+
+[54][278][][278][Application of certain Acts to members and employees][278] \[Repealed\]
+
+[55][279][][279][Legal advisers][279]
+
+[56][280][][280][Common seal][280] \[Repealed\]
 
 ---
 
@@ -3389,13 +3401,13 @@ Provisions applying to Social Workers Registration Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 1: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 1: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Members' appointments_
 
 ##### 2 Criteria for appointment
     
-*   (1) Members must be appointed by the Minister under [section 28(1)(a)][279] of the Crown Entities Act 2004 after consultation with organisations and individuals that, in the Minister's opinion, represent various sectors of the social work profession.
+*   (1) Members must be appointed by the Minister under [section 28(1)(a)][281] of the Crown Entities Act 2004 after consultation with organisations and individuals that, in the Minister's opinion, represent various sectors of the social work profession.
     
     (2) The Minister---
         
@@ -3415,35 +3427,35 @@ Provisions applying to Social Workers Registration Board
         
         
     
-    (3) Subclauses (1) and (2) do not limit [section 29][280] of the Crown Entities Act 2004\.
+    (3) Subclauses (1) and (2) do not limit [section 29][282] of the Crown Entities Act 2004\.
     
-    (4) In addition to the matters in [section 30(2)][281] of the Crown Entities Act 2004, a person employed by a department of State responsible for advising the Minister on the Board's performance is disqualified from being appointed as a member.
+    (4) In addition to the matters in [section 30(2)][283] of the Crown Entities Act 2004, a person employed by a department of State responsible for advising the Minister on the Board's performance is disqualified from being appointed as a member.
     
-    Schedule 1 clause 2(1): amended, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 2(1): amended, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 1 clause 2(2)(a): repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 2(2)(a): repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 1 clause 2(3): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 2(3): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 1 clause 2(4): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 2(4): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3 Restrictions on people who may be members
     
 *   \[Repealed\]
     
-    Schedule 1 clause 3: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 3: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 Method of appointment
     
 *   \[Repealed\]
     
-    Schedule 1 clause 4: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 4: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Members must consent and certify to appointment and disclose interests
     
 *   \[Repealed\]
     
-    Schedule 1 clause 5: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 5: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Term of office_
 
@@ -3451,7 +3463,7 @@ Provisions applying to Social Workers Registration Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 6: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 6: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7 Limit on term
     
@@ -3461,15 +3473,15 @@ Provisions applying to Social Workers Registration Board
     
     (3) Subclause (2) overrides subclause (1).
     
-    (4) This clause applies despite [sections 32(2)][282] and [45][283] of the Crown Entities Act 2004\.
+    (4) This clause applies despite [sections 32(2)][284] and [45][285] of the Crown Entities Act 2004\.
     
-    Schedule 1 clause 7(4): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 7(4): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 8 Position where concurrent office
     
 *   \[Repealed\]
     
-    Schedule 1 clause 8: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 8: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Vacation of office by members_
 
@@ -3477,7 +3489,7 @@ Provisions applying to Social Workers Registration Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 9: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 9: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Vacation of office if status changes
     
@@ -3493,87 +3505,87 @@ Provisions applying to Social Workers Registration Board
     
     (4) A member appointed before the transition day who was not then engaged or employed as a social worker vacates office if he or she becomes a registered social worker.
     
-    (5) This clause does not limit [section 45][283] of the Crown Entities Act 2004\.
+    (5) This clause does not limit [section 45][285] of the Crown Entities Act 2004\.
     
-    Schedule 1 clause 10(5): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 10(5): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11 Removal from office
     
 *   \[Repealed\]
     
-    Schedule 1 clause 11: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 11: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Vacancies in Board's membership_
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 Effect of vacancy in membership
     
 *   \[Repealed\]
     
-    Schedule 1 clause 12: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 12: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Remuneration_
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13 Remuneration of members
     
 *   \[Repealed\]
     
-    Schedule 1 clause 13: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 13: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Chairperson and deputy chairperson_
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 14 Election
     
 *   \[Repealed\]
     
-    Schedule 1 clause 14: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 14: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15 Term of office
     
 *   \[Repealed\]
     
-    Schedule 1 clause 15: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 15: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 16 Removal
     
 *   \[Repealed\]
     
-    Schedule 1 clause 16: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 16: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 17 Resignation
     
 *   \[Repealed\]
     
-    Schedule 1 clause 17: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 17: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18 Exercise of chairperson's functions, duties, and powers during vacancy, etc
     
 *   \[Repealed\]
     
-    Schedule 1 clause 18: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 18: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Acts not to be called into question_
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19 Acts not to be called into question
     
 *   \[Repealed\]
     
-    Schedule 1 clause 19: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 19: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Members representing other members_
 
@@ -3611,7 +3623,7 @@ Provisions applying to Social Workers Registration Board
     
     *   (b) must be counted only once in determining whether the quorum necessary for transacting business at a meeting of the Board is present; and
     
-    *   (c) may not assent twice to a resolution under [clause 40][260]; and
+    *   (c) may not assent twice to a resolution under [clause 40][262]; and
     
     *   (d) may not vote twice on a matter being considered by a teleconference meeting.
     
@@ -3621,95 +3633,95 @@ Provisions applying to Social Workers Registration Board
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Duties of members
     
 *   \[Repealed\]
     
-    Schedule 1 clause 21: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 21: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Liability of members_
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 Liability of members and committee members
     
 *   \[Repealed\]
     
-    Schedule 1 clause 22: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 22: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Disclosure of interest_
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23 Obligation to disclose interest
     
 *   \[Repealed\]
     
-    Schedule 1 clause 23: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 23: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 Meaning of interested
     
 *   \[Repealed\]
     
-    Schedule 1 clause 24: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 24: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 25 Disclosure of interest
     
 *   \[Repealed\]
     
-    Schedule 1 clause 25: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 25: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 26 Consequences of disclosure
     
 *   \[Repealed\]
     
-    Schedule 1 clause 26: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 26: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 27 Matters to be delegated to committee
     
 *   \[Repealed\]
     
-    Schedule 1 clause 27: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 27: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 28 Exceptions
     
 *   \[Repealed\]
     
-    Schedule 1 clause 28: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 28: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 29 Effect of non-compliance
     
 *   \[Repealed\]
     
-    Schedule 1 clause 29: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 29: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Use of information_
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 30 Restrictions on disclosure or use of information
     
 *   \[Repealed\]
     
-    Schedule 1 clause 30: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 30: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 31 When member may rely on certain information and advice
     
 *   \[Repealed\]
     
-    Schedule 1 clause 31: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 31: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 32 When clause 31 applies
     
 *   \[Repealed\]
     
-    Schedule 1 clause 32: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 32: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Procedure of Board: General_
 
@@ -3721,7 +3733,7 @@ Provisions applying to Social Workers Registration Board
     
     (3) \[Repealed\]
     
-    Schedule 1 clause 33(3): repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 33(3): repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Procedure of Board: Meetings_
 
@@ -3729,19 +3741,19 @@ Provisions applying to Social Workers Registration Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 34: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 34: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 35 Special meetings
     
 *   \[Repealed\]
     
-    Schedule 1 clause 35: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 35: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 36 Telephone conference meetings
     
 *   \[Repealed\]
     
-    Schedule 1 clause 36: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 36: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 37 Quorum
     
@@ -3751,15 +3763,15 @@ Provisions applying to Social Workers Registration Board
     
     *   (b) at least 2 must not be registered social workers.
     
-    (2) This clause applies despite [clause 9(1) and (2)][284] of Schedule 5 of the Crown Entities Act 2004\.
+    (2) This clause applies despite [clause 9(1) and (2)][286] of Schedule 5 of the Crown Entities Act 2004\.
     
-    Schedule 1 clause 37(2): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 37(2): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 38 Chairperson to preside at meetings
     
 *   \[Repealed\]
     
-    Schedule 1 clause 38: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 38: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 39 Voting
     
@@ -3767,23 +3779,23 @@ Provisions applying to Social Workers Registration Board
     
     (2) \[Repealed\]
     
-    (3) A member of the Board must not be present or vote or otherwise participate (as a member of the Board or a representative under [clause 20][236]) at any part of a meeting of the Board where any matter relating to the member's registration, suspension, competence, fitness to practise, or discipline under this Act is being considered.
+    (3) A member of the Board must not be present or vote or otherwise participate (as a member of the Board or a representative under [clause 20][238]) at any part of a meeting of the Board where any matter relating to the member's registration, suspension, competence, fitness to practise, or discipline under this Act is being considered.
     
-    Schedule 1 clause 39(1): repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 39(1): repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 1 clause 39(2): repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 39(2): repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 40 Resolution assented to by members
     
 *   \[Repealed\]
     
-    Schedule 1 clause 40: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 40: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 41 Method of contracting
     
 *   \[Repealed\]
     
-    Schedule 1 clause 41: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 41: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Committees and delegations_
 
@@ -3791,39 +3803,39 @@ Provisions applying to Social Workers Registration Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 42: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 42: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 43 Restriction on delegation
     
 *   (1) The Board may not delegate its functions, duties, and powers relating to registration.
     
-    (2) In other respects, [section 73][285] of the Crown Entities Act 2004 applies.
+    (2) In other respects, [section 73][287] of the Crown Entities Act 2004 applies.
     
-    Schedule 1 clause 43: substituted, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 43: substituted, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 44 Effect of delegation
     
 *   \[Repealed\]
     
-    Schedule 1 clause 44: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 44: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 45 Presumption of acting in accordance with delegation
     
 *   \[Repealed\]
     
-    Schedule 1 clause 45: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 45: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 46 Other matters relating to delegation
     
 *   \[Repealed\]
     
-    Schedule 1 clause 46: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 46: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 47 Expenses of Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 47: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 47: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 #### _Employees_
 
@@ -3831,43 +3843,43 @@ Provisions applying to Social Workers Registration Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 48: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 48: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 49 Appointment of other employees
     
 *   \[Repealed\]
     
-    Schedule 1 clause 49: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 49: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 50 Liability of employees
     
 *   \[Repealed\]
     
-    Schedule 1 clause 50: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 50: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 51 Personnel policy
     
 *   \[Repealed\]
     
-    Schedule 1 clause 51: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 51: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 52 Equal employment opportunities
     
 *   \[Repealed\]
     
-    Schedule 1 clause 52: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 52: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53 Superannuation or retiring allowances
     
 *   \[Repealed\]
     
-    Schedule 1 clause 53: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 53: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 54 Application of certain Acts to members and employees
     
 *   \[Repealed\]
     
-    Schedule 1 clause 54: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 54: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 55 Legal advisers
     
@@ -3879,15 +3891,15 @@ Provisions applying to Social Workers Registration Board
     
     (2) The legal adviser must not be present during any deliberations of the Board.
     
-    (3) Subclause (1) does not limit [sections 16][286] and [17][287] of the Crown Entities Act 2004\.
+    (3) Subclause (1) does not limit [sections 16][288] and [17][289] of the Crown Entities Act 2004\.
     
-    Schedule 1 clause 55(3): added, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 55(3): added, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 56 Common seal
     
 *   \[Repealed\]
     
-    Schedule 1 clause 56: repealed, on 25 January 2005, by [section 200][196] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 56: repealed, on 25 January 2005, by [section 200][197] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
@@ -3898,39 +3910,39 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
 
 ## Contents
 
-[1][288] [Deputy chairperson][288]
+[1][290][][290][Deputy chairperson][290]
 
-[2][289] [Term of office][289]
+[2][291][][291][Term of office][291]
 
-[3][290] [Vacation of office][290]
+[3][292][][292][Vacation of office][292]
 
-[4][291] [Expenses of Tribunal][291]
+[4][293][][293][Expenses of Tribunal][293]
 
-[5][292] [Procedure of Tribunal][292]
+[5][294][][294][Procedure of Tribunal][294]
 
-[6][293] [Evidence][293]
+[6][295][][295][Evidence][295]
 
-[7][294] [Powers of investigation][294]
+[7][296][][296][Powers of investigation][296]
 
-[8][295] [Witness summons][295]
+[8][297][][297][Witness summons][297]
 
-[9][296] [Service of witness summons][296]
+[9][298][][298][Service of witness summons][298]
 
-[10][297] [Witnesses' allowances][297]
+[10][299][][299][Witnesses' allowances][299]
 
-[11][298] [Privileges and immunities][298]
+[11][300][][300][Privileges and immunities][300]
 
-[12][299] [Non-attendance or refusal to co-operate][299]
+[12][301][][301][Non-attendance or refusal to co-operate][301]
 
-[13][300] [Contempt of Tribunal][300]
+[13][302][][302][Contempt of Tribunal][302]
 
-[14][301] [Power to amend charges][301]
+[14][303][][303][Power to amend charges][303]
 
-[15][302] [Adjournments][302]
+[15][304][][304][Adjournments][304]
 
-[16][303] [Legal and medical advisers][303]
+[16][305][][305][Legal and medical advisers][305]
 
-[17][304] [Immunity of members of Tribunal][304]
+[17][306][][306][Immunity of members of Tribunal][306]
 
 ---
 
@@ -3978,7 +3990,7 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
     
     (2) The chairperson or a deputy chairperson of the Tribunal vacates office if he or she---
         
-    *   (a) is adjudged bankrupt under the [Insolvency Act 2006][203]; or
+    *   (a) is adjudged bankrupt under the [Insolvency Act 2006][205]; or
     
     *   (b) becomes a member of the Board.
     
@@ -3988,7 +4000,7 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
     
     *   (b) for neglect of duty, or misconduct, proved to the Board's satisfaction.
     
-    Schedule 2 clause 3(2)(a): amended, on 3 December 2007, by [section 445][204] of the Insolvency Act 2006 (2006 No 55).
+    Schedule 2 clause 3(2)(a): amended, on 3 December 2007, by [section 445][206] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 4 Expenses of Tribunal
     
@@ -4022,11 +4034,11 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
     
     *   (b) if the Tribunal thinks fit, verifying it by oath.
     
-    (4) The [Evidence Act 2006][305] applies to the Tribunal as if it were a court within the meaning of that Act.
+    (4) The [Evidence Act 2006][307] applies to the Tribunal as if it were a court within the meaning of that Act.
     
     (5) Subclause (4) is subject to subclauses (1) to (3).
     
-    Schedule 2 clause 6(4): amended, on 1 August 2007, by [section 216][306] of the Evidence Act 2006 (2006 No 69).
+    Schedule 2 clause 6(4): amended, on 1 August 2007, by [section 216][308] of the Evidence Act 2006 (2006 No 69).
 
 ##### 7 Powers of investigation
     
@@ -4080,7 +4092,7 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
 
 ##### 10 Witnesses' allowances
     
-*   (1) A witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations under the [Summary Proceedings Act 1957][307], and those regulations (with any necessary modifications) apply accordingly.
+*   (1) A witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations under the [Criminal Procedure Act 2011][309], and those regulations (with any necessary modifications) apply accordingly.
     
     (2) Each time the Tribunal issues a witness summons, it must fix an amount that, on the service of the summons or at some other reasonable time before the day on which the witness is required to attend, must be paid or tendered to the witness.
     
@@ -4094,7 +4106,7 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
     
     *   (b) be paid out of the funds of the Board.
     
-    
+    Schedule 2 clause 10(1): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Privileges and immunities
     
@@ -4114,21 +4126,23 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
     
     (3) Every person commits an offence who---
         
-    *   (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things pursuant to [clause 7(1)(a)][294]; or
+    *   (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things pursuant to [clause 7(1)(a)][296]; or
     
-    *   (b) without reasonable excuse, fails to comply with any requirement of the Tribunal or any authorised person made under paragraph (b) or paragraph (c) of [clause 7(1)][294]; or
+    *   (b) without reasonable excuse, fails to comply with any requirement of the Tribunal or any authorised person made under paragraph (b) or paragraph (c) of [clause 7(1)][296]; or
     
-    *   (c) without reasonable excuse, acts in contravention of, or fails to comply with, any order made by the Tribunal under [clause 7(3)][294] or any term or condition of such an order.
+    *   (c) without reasonable excuse, acts in contravention of, or fails to comply with, any order made by the Tribunal under [clause 7(3)][296] or any term or condition of such an order.
     
-    (4) Every person who commits an offence against this clause is liable on summary conviction to a fine not exceeding $1,500\.
+    (4) Every person who commits an offence against this clause is liable on conviction to a fine not exceeding $1,500\.
     
-    (5) No person summoned to attend before the Tribunal may be convicted of an offence against subclause (1) unless travelling expenses were tendered or paid to him or her in accordance with [clause 10][297].
+    (5) No person summoned to attend before the Tribunal may be convicted of an offence against subclause (1) unless travelling expenses were tendered or paid to him or her in accordance with [clause 10][299].
+    
+    Schedule 2 clause 12(4): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Contempt of Tribunal
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting.
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who---
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who---
         
     *   (a) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
     
@@ -4136,7 +4150,11 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
     
     (3) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the member's opinion, constitutes an offence against this section, whether or not the person is charged with the offence or any other offence; and any constable may take any steps reasonably necessary to enforce the exclusion.
     
-    Schedule 2 clause 13(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
+    Schedule 2 clause 13(1): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Schedule 2 clause 13(2): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Schedule 2 clause 13(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][310] of the Policing Act 2008 (2008 No 72).
 
 ##### 14 Power to amend charges
     
@@ -4144,7 +4162,7 @@ Provisions applying to Social Workers Complaints and Disciplinary Tribunal
 
 ##### 15 Adjournments
     
-*   If the Tribunal is of the opinion that the registered social worker concerned would be embarrassed in his or her defence by reason of an amendment made or proposed to be made under [clause 14][301], it may, at his or her request, adjourn the hearing.
+*   If the Tribunal is of the opinion that the registered social worker concerned would be embarrassed in his or her defence by reason of an amendment made or proposed to be made under [clause 14][303], it may, at his or her request, adjourn the hearing.
 
 ##### 16 Legal and medical advisers
     
@@ -4179,86 +4197,47 @@ _Amendment(s) incorporated in the _[Act(s)][183]__.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the _[Act(s)][309]__.
+_Amendment(s) incorporated in the _[Act(s)][311]__.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the _[Act(s)][310]__.
+_Amendment(s) incorporated in the _[Act(s)][312]__.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the _[Act(s)][311]__.
+_Amendment(s) incorporated in the _[Act(s)][313]__.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Social Workers Registration Act 2003\. The reprint incorporates all the amendments to the Act as at 24 January 2009, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Social Workers Registration Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][312] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][314] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][315] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][316] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][317] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][313] and [17E][314] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][204]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][194]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][310]
     
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][208]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Evidence Act 2006 (2006 No 69): [section 216][308]
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][308]
-    
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][206]
-    
-    Evidence Act 2006 (2006 No 69): [section 216][306]
-    
-    Insolvency Act 2006 (2006 No 55): [section 445][204]
+    Insolvency Act 2006 (2006 No 55): [section 445][206]
     
     Crown Entities Act 2004 (2004 No 115): section 200
     
@@ -4268,7 +4247,7 @@ _Amendment(s) incorporated in the _[Act(s)][311]__.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM189918
 [2]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM189919
 [3]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM189920
@@ -4461,125 +4440,128 @@ _Amendment(s) incorporated in the _[Act(s)][311]__.
 [190]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM334102
 [191]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM334121
 [192]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM190266
-[193]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM312656
-[194]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329641
-[195]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329630
-[196]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM331111
-[197]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330351
-[198]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190955
-[199]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330553
-[200]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330552
-[201]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM195534
-[202]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM195097
-[203]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM385298
-[204]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM387857
-[205]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM359378
-[206]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM1048943
-[207]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM64784
-[208]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330373
-[209]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190658
-[210]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918205
-[211]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190661
-[212]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190665
-[213]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190667
-[214]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190669
-[215]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918206
-[216]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190672
-[217]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190674
-[218]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190676
-[219]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918207
-[220]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190679
-[221]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190681
-[222]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190683
-[223]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918208
-[224]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190687
-[225]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918209
-[226]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190691
-[227]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918210
-[228]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190695
-[229]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190697
-[230]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190699
-[231]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190901
-[232]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190903
-[233]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918211
-[234]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190907
-[235]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918212
-[236]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190910
-[237]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918213
-[238]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190915
-[239]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918214
-[240]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190919
-[241]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918215
-[242]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190922
-[243]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190924
-[244]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190927
-[245]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190929
-[246]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190931
-[247]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190933
-[248]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190935
-[249]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918216
-[250]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190939
-[251]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190941
-[252]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190943
-[253]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918217
-[254]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918218
-[255]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190949
-[256]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190951
-[257]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190953
-[258]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190957
-[259]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190959
-[260]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190961
-[261]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190963
-[262]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918219
-[263]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190966
-[264]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190968
-[265]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190970
-[266]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190972
-[267]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190974
-[268]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190976
-[269]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918220
-[270]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190979
-[271]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190981
-[272]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190983
-[273]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190985
-[274]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190987
-[275]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190989
-[276]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190991
-[277]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190993
-[278]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190995
-[279]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329954
-[280]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329955
-[281]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329956
-[282]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329959
-[283]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329972
-[284]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM331142
-[285]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330308
-[286]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329930
-[287]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329931
-[288]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190998
-[289]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190999
-[290]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191200
-[291]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191201
-[292]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191202
-[293]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191203
-[294]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191205
-[295]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191206
-[296]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191207
-[297]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191208
-[298]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191209
-[299]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191210
-[300]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191211
-[301]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191212
-[302]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191213
-[303]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191214
-[304]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191215
-[305]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM393462
-[306]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM394552
-[307]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM310742
-[308]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM1102349
-[309]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM431204
-[310]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM298476
-[311]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM160808
-[312]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM195439
-[313]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM195468
-[314]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM195470
+[193]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM3360366
+[194]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM3360714
+[195]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329641
+[196]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329630
+[197]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM331111
+[198]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330351
+[199]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190955
+[200]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330553
+[201]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330552
+[202]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM2997643
+[203]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM2998573
+[204]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM2998633
+[205]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM385298
+[206]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM387857
+[207]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM359378
+[208]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM1048943
+[209]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM64784
+[210]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330373
+[211]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190658
+[212]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918205
+[213]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190661
+[214]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190665
+[215]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190667
+[216]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190669
+[217]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918206
+[218]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190672
+[219]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190674
+[220]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190676
+[221]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918207
+[222]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190679
+[223]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190681
+[224]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190683
+[225]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918208
+[226]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190687
+[227]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918209
+[228]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190691
+[229]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918210
+[230]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190695
+[231]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190697
+[232]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190699
+[233]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190901
+[234]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190903
+[235]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918211
+[236]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190907
+[237]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918212
+[238]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190910
+[239]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918213
+[240]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190915
+[241]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918214
+[242]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190919
+[243]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918215
+[244]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190922
+[245]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190924
+[246]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190927
+[247]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190929
+[248]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190931
+[249]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190933
+[250]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190935
+[251]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918216
+[252]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190939
+[253]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190941
+[254]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190943
+[255]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918217
+[256]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918218
+[257]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190949
+[258]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190951
+[259]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190953
+[260]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190957
+[261]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190959
+[262]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190961
+[263]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190963
+[264]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918219
+[265]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190966
+[266]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190968
+[267]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190970
+[268]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190972
+[269]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190974
+[270]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190976
+[271]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM1918220
+[272]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190979
+[273]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190981
+[274]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190983
+[275]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190985
+[276]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190987
+[277]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190989
+[278]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190991
+[279]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190993
+[280]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190995
+[281]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329954
+[282]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329955
+[283]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329956
+[284]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329959
+[285]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329972
+[286]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM331142
+[287]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM330308
+[288]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329930
+[289]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM329931
+[290]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190998
+[291]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM190999
+[292]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191200
+[293]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191201
+[294]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191202
+[295]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191203
+[296]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191205
+[297]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191206
+[298]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191207
+[299]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191208
+[300]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191209
+[301]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191210
+[302]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191211
+[303]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191212
+[304]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191213
+[305]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191214
+[306]: http://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html#DLM191215
+[307]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM393462
+[308]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM394552
+[309]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM3359902
+[310]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM1102349
+[311]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM431204
+[312]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM298476
+[313]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM160808
+[314]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM2998516
+[315]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM2998515
+[316]: http://www.legislation.govt.nz/act/public/2003/0017/latest/link.aspx?id=DLM2998532
+[317]: http://www.pco.parliament.govt.nz/editorial-conventions/
