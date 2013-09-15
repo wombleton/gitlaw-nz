@@ -1,5 +1,5 @@
 Reprint  
-as at 31 August 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,19 +13,17 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[Title][1]
-
-\[Repealed\]
+[Title][1] \[Repealed\]
 
 [1][2][][2][Short Title and commencement][2]
 
@@ -324,47 +322,49 @@ This Act is administered by the Ministry of Economic Development.
 
 [Subpart 5][146][---][146][General][146]
 
-[44Q][147][][147][Jurisdiction of courts in New Zealand][147]
+[44PA][147][][147][Time limit for commencing proceedings for offence under section 44H, 44J, or 44P][147]
 
-[44R][148][][148][Court may order payment of Panel's costs][148]
+[44Q][148][][148][Jurisdiction of courts in New Zealand][148]
 
-[44S][149][][149][Orders to secure compliance][149]
+[44R][149][][149][Court may order payment of Panel's costs][149]
 
-[44T][150][][150][Giving notice of applications for court orders][150]
+[44S][150][][150][Orders to secure compliance][150]
 
-[44U][151][][151][General provisions as to court's orders][151]
+[44T][151][][151][Giving notice of applications for court orders][151]
 
-[44V][152][][152][Persons entitled to appear before court][152]
+[44U][152][][152][General provisions as to court's orders][152]
 
-[44W][153][][153][Knowledge of matters presumed if employee or agent knows matters][153]
+[44V][153][][153][Persons entitled to appear before court][153]
 
-[44X][154][][154][No pecuniary penalty and fine for same conduct][154]
+[44W][154][][154][Knowledge of matters presumed if employee or agent knows matters][154]
 
-[Part 4][155]  
-[Miscellaneous][155]
+[44X][155][][155][No pecuniary penalty and fine for same conduct][155]
 
-[45][156][][156][Panel may grant exemptions][156]
+[Part 4][156]  
+[Miscellaneous][156]
 
-[46][157][][157][Regulations][157]
+[45][157][][157][Panel may grant exemptions][157]
 
-[47][158][][158][Amendment to Official Information Act 1982][158] \[Repealed\]
+[45A][158][][158][Deferral of obligations, and variation or revocation of exemptions][158]
 
-[48][159][][159][Amendment to Public Finance Act 1989][159] \[Repealed\]
+[46][159][][159][Regulations][159]
 
-[49][160][][160][Repeal of Companies Amendment Act 1963][160]
+[47][160][][160][Amendment to Official Information Act 1982][160] \[Repealed\]
 
-[50][161][][161][Amendment to Public Finance Act 1989][161] \[Repealed\]
+[48][161][][161][Amendment to Public Finance Act 1989][161] \[Repealed\]
 
-[Schedule][162]  
-[Provisions applying to Takeovers Panel][162]
+[49][162][][162][Repeal of Companies Amendment Act 1963][162]
+
+[50][163][][163][Amendment to Public Finance Act 1989][163] \[Repealed\]
+
+[Schedule][164]  
+[Provisions applying to Takeovers Panel][164]
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
-*   Title: repealed, on 1 December 2002, by [section 3][163] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Title: repealed, on 1 December 2002, by [section 3][165] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 1 Short Title and commencement
     
@@ -374,7 +374,7 @@ Title
     
     (3) [Section 17][25] and [Part 3][42] come into force on 1 June 2001\.
     
-    Section 1(3): substituted, on 1 June 2001, by [section 3][164] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 1(3): substituted, on 1 June 2001, by [section 3][166] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ##### 2 Interpretation
     
@@ -382,7 +382,7 @@ Title
     
     _code company_ has the meaning given to it in [section 2A][4]
     
-    _company_ has the same meaning as in [section 2(1)][165] of the Companies Act 1993
+    _company_ has the same meaning as in [section 2(1)][167] of the Companies Act 1993
     
     _court_ means, in relation to any matter, the court before which the matter is to be determined
     
@@ -396,7 +396,7 @@ Title
     
     *   (c) material subsequently derived from information recorded by that means
     
-    _FMA_ means the Financial Markets Authority established under [Part 2][166] of the Financial Markets Authority Act 2011
+    _FMA_ means the Financial Markets Authority established under [Part 2][168] of the Financial Markets Authority Act 2011
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -410,19 +410,19 @@ Title
     
     _quoted_, in relation to securities of a person, means securities of the person that are approved for trading on a registered exchange's securities market (and, for the avoidance of doubt, securities do not cease to be quoted merely because trading in those securities is suspended)
     
-    _registered exchange_ has the meaning set out in [section 2(1)][167] of the Securities Markets Act 1988
+    _registered exchange_ has the meaning set out in [section 2(1)][169] of the Securities Markets Act 1988
     
-    _registered exchange's securities market_ has the meaning set out in [section 2(1)][167] of the Securities Markets Act 1988
+    _registered exchange's securities market_ has the meaning set out in [section 2(1)][169] of the Securities Markets Act 1988
     
-    _Registrar_ means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the [Companies Act 1993][168]
+    _Registrar_ means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the [Companies Act 1993][170]
     
     _security_, in relation to a code company, means---
         
-    *   (a) an equity security within the meaning of [section 2][169] of the Securities Act 1978, whether or not the security carries voting rights:
+    *   (a) an equity security within the meaning of [section 2][171] of the Securities Act 1978, whether or not the security carries voting rights:
     
-    *   (b) a debt security within the meaning of [section 2][169] of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company:
+    *   (b) a debt security within the meaning of [section 2][171] of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company:
     
-    *   (c) a participatory security within the meaning of [section 2][169] of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company,---
+    *   (c) a participatory security within the meaning of [section 2][171] of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the code company,---
     
     and includes a security that is convertible, at the option of the security holder, into a security of the type referred to in paragraph (a) or paragraph (b) or paragraph (c)
     
@@ -456,53 +456,53 @@ Title
     
     *   (f) conspiring with any other person to contravene the takeovers code or a term or condition of an exemption from the takeovers code.
     
-    Section 2(1) **code company**: replaced, on 31 August 2012, by [section 4][170] of the Takeovers Amendment Act 2012 (2012 No 68).
+    Section 2(1) **code company**: replaced, on 31 August 2012, by [section 4][172] of the Takeovers Amendment Act 2012 (2012 No 68).
     
-    Section 2(1) **company**: substituted, on 25 October 2006, by [section 4(1)][171] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 2(1) **company**: substituted, on 25 October 2006, by [section 4(1)][173] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 2(1) **court**: substituted, on 1 December 2002, by [section 4(1)][172] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 2(1) **court**: substituted, on 1 December 2002, by [section 4(1)][174] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 2(1) **document**: substituted, on 1 December 2002, by [section 4(2)][172] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 2(1) **document**: substituted, on 1 December 2002, by [section 4(2)][174] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 2(1) **FMA**: inserted, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 2(1) **FMA**: inserted, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 2(1) **Minister**: substituted, on 1 October 1995, by [section 10(3)][174] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2(1) **Minister**: substituted, on 1 October 1995, by [section 10(3)][176] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 2(1) **overseas regulator**: inserted, on 1 December 2002, by [section 4(3)][172] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 2(1) **overseas regulator**: inserted, on 1 December 2002, by [section 4(3)][174] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 2(1) **Panel**: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **Panel**: substituted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **public issuer**: repealed, on 25 October 2006, by [section 4(4)][171] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 2(1) **public issuer**: repealed, on 25 October 2006, by [section 4(4)][173] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 2(1) **quoted**: inserted, on 25 October 2006, by [section 4(3)][171] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 2(1) **quoted**: inserted, on 25 October 2006, by [section 4(3)][173] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 2(1) **quoted**: amended, on 24 November 2009, by [section 23(1)][176] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 2(1) **quoted**: amended, on 24 November 2009, by [section 23(1)][178] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 2(1) **registered exchange**: inserted, on 1 December 2002, by [section 30][177] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 2(1) **registered exchange**: inserted, on 1 December 2002, by [section 30][179] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 2(1) **registered exchange's market**: repealed, on 24 November 2009, by [section 23(1)][176] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 2(1) **registered exchange's market**: repealed, on 24 November 2009, by [section 23(1)][178] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 2(1) **registered exchange's securities market**: inserted, on 24 November 2009, by [section 23(1)][176] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 2(1) **registered exchange's securities market**: inserted, on 24 November 2009, by [section 23(1)][178] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 2(1) **Registrar**: inserted, on 1 June 2001, by [section 4][178] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 2(1) **Registrar**: inserted, on 1 June 2001, by [section 4][180] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 2(1) **Securities Commission**: repealed, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 2(1) **Securities Commission**: repealed, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 2(1) **security**: amended, on 7 July 2010, by [section 4(2)][179] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 2(1) **security**: amended, on 7 July 2010, by [section 4(2)][181] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 2(1) **security** paragraph (b): amended, on 7 July 2010, by [section 4(2)][179] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 2(1) **security** paragraph (b): amended, on 7 July 2010, by [section 4(2)][181] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 2(1) **security** paragraph (c): amended, on 7 July 2010, by [section 4(2)][179] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 2(1) **security** paragraph (c): amended, on 7 July 2010, by [section 4(2)][181] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 2(1) **specified company**: repealed, on 7 July 2010, by [section 4(3)][179] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 2(1) **specified company**: repealed, on 7 July 2010, by [section 4(3)][181] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 2(1) **stock exchange**: repealed, on 1 December 2002, by [section 30][177] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 2(1) **stock exchange**: repealed, on 1 December 2002, by [section 30][179] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 2(1) **takeovers code**: added, on 1 December 2002, by [section 4(3)][172] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 2(1) **takeovers code**: added, on 1 December 2002, by [section 4(3)][174] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 2(1) **voting right**: added, on 25 October 2006, by [section 4(3)][171] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 2(1) **voting right**: added, on 25 October 2006, by [section 4(3)][173] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 2(2): substituted, on 25 October 2006, by [section 4(5)][171] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 2(2): substituted, on 25 October 2006, by [section 4(5)][173] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 2A Meaning of code company
     
@@ -510,15 +510,15 @@ Title
         
     *   (a) is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's securities market; or
     
-    *   (b) was within paragraph (a) at any time during a period specified in the [takeovers code][180] (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
+    *   (b) was within paragraph (a) at any time during a period specified in the [takeovers code][182] (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
     
     *   (c) has 50 or more shareholders and 50 or more share parcels.
     
-    (2) However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of [Part 7][181] of the code.
+    (2) However, if, as a result of a transaction or an event regulated under the code, a company that previously satisfied subsection (1)(c) ceases to have 50 or more shareholders and 50 or more share parcels, that company continues to be a code company for the purposes of [Part 7][183] of the code.
     
     (3) In this section, _shareholder_ means a shareholder holding a security that confers a voting right.
     
-    Section 2A: inserted, on 31 August 2012, by [section 5][182] of the Takeovers Amendment Act 2012 (2012 No 68).
+    Section 2A: inserted, on 31 August 2012, by [section 5][184] of the Takeovers Amendment Act 2012 (2012 No 68).
 
 ##### 3 Act to bind the Crown
     
@@ -540,23 +540,23 @@ Title
     
     *   (e) empower the Panel to co-operate with overseas regulators.
     
-    Section 4(a): amended, on 1 December 2002, by [section 5(1)][183] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 4(a): amended, on 1 December 2002, by [section 5(1)][185] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Sections 4(b): substituted, on 1 December 2002, by [section 5(2)][183] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Sections 4(b): substituted, on 1 December 2002, by [section 5(2)][185] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 4(b): amended, on 7 July 2010, by [section 5][184] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 4(b): amended, on 7 July 2010, by [section 5][186] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Sections 4(c): substituted, on 1 December 2002, by [section 5(2)][183] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Sections 4(c): substituted, on 1 December 2002, by [section 5(2)][185] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 4(ca): inserted, on 25 October 2006, by [section 5][185] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 4(ca): inserted, on 25 October 2006, by [section 5][187] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 4(ca): amended, on 7 July 2010, by [section 5][184] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 4(ca): amended, on 7 July 2010, by [section 5][186] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Sections 4(d): substituted, on 1 December 2002, by [section 5(2)][183] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Sections 4(d): substituted, on 1 December 2002, by [section 5(2)][185] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 4(d): amended, on 7 July 2010, by [section 5][184] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 4(d): amended, on 7 July 2010, by [section 5][186] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Sections 4(e): substituted, on 1 December 2002, by [section 5(2)][183] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Sections 4(e): substituted, on 1 December 2002, by [section 5(2)][185] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ## Part 1  
 Takeovers Panel
@@ -565,23 +565,23 @@ Takeovers Panel
     
 *   (1) There is hereby established a panel to be called the Takeovers Panel.
     
-    (2) The Panel is a Crown entity for the purposes of [section 7][186] of the Crown Entities Act 2004\.
+    (2) The Panel is a Crown entity for the purposes of [section 7][188] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][187] applies to the Panel except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][189] applies to the Panel except to the extent that this Act expressly provides otherwise.
     
-    (4) Members of the Panel are the board for the purposes of the [Crown Entities Act 2004][187].
+    (4) Members of the Panel are the board for the purposes of the [Crown Entities Act 2004][189].
     
-    Section 5(2): substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 5(2): substituted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Sections 5(3): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Sections 5(3): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Sections 5(4): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Sections 5(4): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 Membership of Panel
     
 *   (1) The Panel shall consist of not less than 5 and not more than 11 members.
     
-    (2) Despite [clause 1(2)][188] of Schedule 5 of the Crown Entities Act 2004, 1 member must be appointed by the Governor-General, on the recommendation of the Minister, as chairperson of the Panel, and another must be appointed by the Governor-General, on the recommendation of the Minister, as deputy chairperson of the Panel.
+    (2) Despite [clause 1(2)][190] of Schedule 5 of the Crown Entities Act 2004, 1 member must be appointed by the Governor-General, on the recommendation of the Minister, as chairperson of the Panel, and another must be appointed by the Governor-General, on the recommendation of the Minister, as deputy chairperson of the Panel.
     
     (2A) The chairperson and any deputy chairperson of the Panel may only be removed from office as chairperson or deputy chairperson for just cause.
     
@@ -589,27 +589,27 @@ Takeovers Panel
     
     (4) The Minister must not recommend a person for appointment as a member of the Panel unless, in the opinion of the Minister, that person is qualified or experienced in business, accounting, or law.
     
-    (5) Subsection (4) does not limit [section 29][189] of the Crown Entities Act 2004\.
+    (5) Subsection (4) does not limit [section 29][191] of the Crown Entities Act 2004\.
     
-    Section 6(1): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 6(1): amended, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 6(1): amended, on 1 December 2002, by [section 6(1)][190] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 6(1): amended, on 1 December 2002, by [section 6(1)][192] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 6(2): substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 6(2): substituted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 6(2A): inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 6(2A): inserted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 6(3): amended, on 1 December 2002, by [section 6(2)][190] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 6(3): amended, on 1 December 2002, by [section 6(2)][192] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 6(4): substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 6(4): substituted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 6(5): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 6(5): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7 Associate members
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 1 December 2002, by [section 7(1)][191] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7: repealed, on 1 December 2002, by [section 7(1)][193] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 7A Panel may act by divisions
     
@@ -619,21 +619,23 @@ Takeovers Panel
         
     *   (a) any power in connection with the performance of its functions under [section 8(1)(a)][14]:
     
-    *   (b) the power of the Panel to grant an exemption under [section 45(1)(b)][156].
+    *   (b) the power of the Panel to grant an exemption under [section 45(1)(c)][157].
     
     (3) The Panel or chairperson may revoke or amend a determination made under subsection (1).
     
     (4) Every determination (or revocation or amendment of a determination) must be recorded in writing and signed by 3 members or the chairperson.
     
-    (5) The powers in this section are an exception to [clause 14][192] of Schedule 5 of the Crown Entities Act 2004\.
+    (5) The powers in this section are an exception to [clause 14][194] of Schedule 5 of the Crown Entities Act 2004\.
     
-    (6) [Clause 7][193] of Schedule 5 of that Act applies to meetings of a special division of the Panel.
+    (6) [Clause 7][195] of Schedule 5 of that Act applies to meetings of a special division of the Panel.
     
-    Section 7A: substituted, on 1 December 2002, by [section 8][194] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7A: substituted, on 1 December 2002, by [section 8][196] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 7A(5): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 7A(2)(b): amended, on 5 August 2013, by [section 77(3)][197] of the Legislation Act 2012 (2012 No 119).
     
-    Section 7A(6): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 7A(5): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 7A(6): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7B Membership and chairperson of division
     
@@ -647,17 +649,17 @@ Takeovers Panel
     
     (4) \[Repealed\]
     
-    Section 7B: inserted, on 1 June 2001, by [section 5(1)][195] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 7B: inserted, on 1 June 2001, by [section 5(1)][198] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 7B(1): substituted, on 1 December 2002, by [section 9(1)][196] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7B(1): substituted, on 1 December 2002, by [section 9(1)][199] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 7B(1A): inserted, on 1 December 2002, by [section 9(1)][196] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7B(1A): inserted, on 1 December 2002, by [section 9(1)][199] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 7B(2): amended, on 1 December 2002, by [section 9(2)][196] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7B(2): amended, on 1 December 2002, by [section 9(2)][199] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 7B(3): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 7B(3): repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 7B(4): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 7B(4): repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7C Powers of division
     
@@ -673,17 +675,17 @@ Takeovers Panel
     
     (4) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
     
-    Section 7C: inserted, on 1 June 2001, by [section 5(1)][195] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 7C: inserted, on 1 June 2001, by [section 5(1)][198] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 7C(1): amended, on 1 December 2002, by [section 10(1)][197] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7C(1): amended, on 1 December 2002, by [section 10(1)][200] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 7C(1)(a): amended, on 1 December 2002, by [section 10(1)][197] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7C(1)(a): amended, on 1 December 2002, by [section 10(1)][200] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 7C(1)(a): amended, on 1 December 2002, by [section 10(2)][197] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 7C(1)(a): amended, on 1 December 2002, by [section 10(2)][200] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 7C(3): inserted, on 31 August 2012, by [section 6][198] of the Takeovers Amendment Act 2012 (2012 No 68).
+    Section 7C(3): inserted, on 31 August 2012, by [section 6][201] of the Takeovers Amendment Act 2012 (2012 No 68).
     
-    Section 7C(4): inserted, on 31 August 2012, by [section 6][198] of the Takeovers Amendment Act 2012 (2012 No 68).
+    Section 7C(4): inserted, on 31 August 2012, by [section 6][201] of the Takeovers Amendment Act 2012 (2012 No 68).
 
 ##### 8 Functions of Panel
     
@@ -695,7 +697,7 @@ Takeovers Panel
     
     *   (c) for the purposes of paragraph (a), to keep under review practices relating to takeovers of code companies:
     
-    *   (d) to investigate any act or omission or practice for the purpose of exercising its powers and functions under [Parts 3][42] and [4][155]:
+    *   (d) to investigate any act or omission or practice for the purpose of exercising its powers and functions under [Parts 3][42] and [4][156]:
     
     *   (e) to make determinations and orders and make applications to the court in accordance with [Part 3][42]:
     
@@ -705,43 +707,43 @@ Takeovers Panel
     
     *   (g) to perform such other functions as are conferred on it by this Act.
     
-    (2) In the exercise of its functions and powers under [Parts 3][42] and [4][155] and the takeovers code, the Panel shall comply with the principles of natural justice.
+    (2) In the exercise of its functions and powers under [Parts 3][42] and [4][156] and the takeovers code, the Panel shall comply with the principles of natural justice.
     
     (3) Except as expressly provided otherwise in this or any other Act, the Panel must act independently in performing its statutory functions and duties, and exercising its statutory powers, under---
         
     *   (a) this Act; and
     
-    *   (b) any other Act that expressly provides for the functions, powers, or duties of the Panel (other than the [Crown Entities Act 2004][187]).
+    *   (b) any other Act that expressly provides for the functions, powers, or duties of the Panel (other than the [Crown Entities Act 2004][189]).
     
-    Section 8(1)(a): substituted, on 1 December 2002, by [section 11(1)][199] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 8(1)(a): substituted, on 1 December 2002, by [section 11(1)][202] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 8(1)(a): amended, on 7 July 2010, by [section 6(1)][200] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 8(1)(a): amended, on 7 July 2010, by [section 6(1)][203] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 8(1)(b): repealed, on 1 December 2002, by [section 11(1)][199] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 8(1)(b): repealed, on 1 December 2002, by [section 11(1)][202] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 8(1)(c): amended, on 7 July 2010, by [section 6(1)][200] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 8(1)(c): amended, on 7 July 2010, by [section 6(1)][203] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 8(1)(c): amended, on 1 December 2002, by [section 11(2)][199] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 8(1)(c): amended, on 1 December 2002, by [section 11(2)][202] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 8(1)(d): amended, on 7 July 2010, by [section 6(2)][200] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 8(1)(d): amended, on 7 July 2010, by [section 6(2)][203] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 8(1)(ea): inserted, on 1 December 2002, by [section 11(3)][199] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 8(1)(ea): inserted, on 1 December 2002, by [section 11(3)][202] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 8(2): amended, on 7 July 2010, by [section 6(3)][200] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 8(2): amended, on 7 July 2010, by [section 6(3)][203] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 8(3): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 8(3): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 9 Powers of Panel to take evidence
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 1 December 2002, by [section 12][201] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 9: repealed, on 1 December 2002, by [section 12][204] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 10 Provisions relating to certain proceedings before Panel
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 1 December 2002, by [section 12][201] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 10: repealed, on 1 December 2002, by [section 12][204] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 11 Protection from liability for Panel and members, officers, and employees
     
@@ -751,17 +753,17 @@ Takeovers Panel
     
     (3) Nothing in subsections (1) and (2) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][202] or [section 78A][203] or [section 105][204] or [section 105A][205] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][205] or [section 78A][206] or [section 105][207] or [section 105A][208] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][202] or [section 78A][203] or [section 105][204] or [section 105A][205] of the Crimes Act 1961; or
+    *   (b) the offence of conspiring to commit an offence against [section 78][205] or [section 78A][206] or [section 105][207] or [section 105A][208] of the Crimes Act 1961; or
     
-    *   (c) the offence of attempting to commit an offence against [section 78][202] or [section 78A][203] or [section 105][204] or [section 105A][205] of the Crimes Act 1961\.
+    *   (c) the offence of attempting to commit an offence against [section 78][205] or [section 78A][206] or [section 105][207] or [section 105A][208] of the Crimes Act 1961\.
     
-    (3A) [Section 59(3)][206] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown that the person acted in bad faith.
+    (3A) [Section 59(3)][209] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown that the person acted in bad faith.
     
-    (3B) [Sections 122 to 126][207] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
+    (3B) [Sections 122 to 126][210] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
     
-    (3C) This section contains an exception to [section 121][208] of the Crown Entities Act 2004\.
+    (3C) This section contains an exception to [section 121][211] of the Crown Entities Act 2004\.
     
     (4) \[Repealed\]
     
@@ -775,63 +777,63 @@ Takeovers Panel
     
     (9) \[Repealed\]
     
-    (10) For the purposes of [clause 3][209] of Part 2 of Schedule 1 of the Defamation Act 1992, any statement, document, determination, order, or decision made by the Panel in the exercise or intended exercise of any of its functions or powers shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+    (10) For the purposes of [clause 3][212] of Part 2 of Schedule 1 of the Defamation Act 1992, any statement, document, determination, order, or decision made by the Panel in the exercise or intended exercise of any of its functions or powers shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
     
     (11) \[Repealed\]
     
-    Compare: 1986 No 5 [s 106][210]; 1990 No 41 [s 39][211]
+    Compare: 1986 No 5 [s 106][213]; 1990 No 41 [s 39][214]
     
-    Section 11 heading: substituted, on 1 December 2002, by [section 13(1)][212] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 11 heading: substituted, on 1 December 2002, by [section 13(1)][215] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 11(2): substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(2): substituted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(3A): inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(3A): inserted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(3B): inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(3B): inserted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(3C): inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(3C): inserted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(4): repealed, on 1 December 2002, by [section 13(3)][212] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 11(4): repealed, on 1 December 2002, by [section 13(3)][215] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 11(5): repealed, on 1 December 2002, by [section 13(3)][212] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 11(5): repealed, on 1 December 2002, by [section 13(3)][215] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 11(6): repealed, on 1 December 2002, by [section 13(3)][212] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 11(6): repealed, on 1 December 2002, by [section 13(3)][215] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 11(7): repealed, on 1 December 2002, by [section 13(3)][212] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 11(7): repealed, on 1 December 2002, by [section 13(3)][215] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 11(8): repealed, on 1 December 2002, by [section 13(3)][212] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 11(8): repealed, on 1 December 2002, by [section 13(3)][215] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 11(9): repealed, on 1 December 2002, by [section 13(3)][212] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 11(9): repealed, on 1 December 2002, by [section 13(3)][215] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 11(11): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(11): repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 Meetings
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 1 December 2002, by [section 14][213] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 12: repealed, on 1 December 2002, by [section 14][216] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 13 Power to prohibit disclosure of information, documents, and evidence
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 1 December 2002, by [section 14][213] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 13: repealed, on 1 December 2002, by [section 14][216] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 14 Delegation
     
-*   (1) The Panel may not delegate the powers in [sections 31A,][45] [31X][79], [32][81], and [45(1)][156].
+*   (1) The Panel may not delegate the powers in [sections 31A,][45] [31X][79], [32][81], and [45(1)][157].
     
-    (2) In other respects, [section 73][214] of the Crown Entities Act 2004 applies.
+    (2) In other respects, [section 73][217] of the Crown Entities Act 2004 applies.
     
-    Section 14: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 14: substituted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 14(1): amended, on 25 October 2006, by [section 6][215] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 14(1): amended, on 25 October 2006, by [section 6][218] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 15 Powers
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15A Sharing of information and documents with FMA
     
@@ -841,13 +843,13 @@ Takeovers Panel
     
     *   (b) considers may assist the FMA in the exercise of the FMA's powers or the performance of its functions and duties under any enactment.
     
-    (2) The Panel may use any information, or a copy of any document, provided to it by the FMA under [section 30][216] of the Financial Markets Authority Act 2011 in the Panel's exercise of its powers or the performance of its functions and duties.
+    (2) The Panel may use any information, or a copy of any document, provided to it by the FMA under [section 30][219] of the Financial Markets Authority Act 2011 in the Panel's exercise of its powers or the performance of its functions and duties.
     
     (3) This section applies despite anything to the contrary in any contract, deed, or document.
     
-    (4) Nothing in this section limits the [Privacy Act 1993][217].
+    (4) Nothing in this section limits the [Privacy Act 1993][220].
     
-    Section 15A: substituted, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 15A: substituted, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 15B Sharing of information and documents with Commerce Commission
     
@@ -855,21 +857,21 @@ Takeovers Panel
         
     *   (a) holds in relation to the exercise of the Panel's powers, or the performance of its functions and duties; and
     
-    *   (b) considers may assist the Commerce Commission in the exercise of the Commerce Commission's powers, or the performance of its functions and duties, in respect of the [Fair Trading Act 1986][218].
+    *   (b) considers may assist the Commerce Commission in the exercise of the Commerce Commission's powers, or the performance of its functions and duties, in respect of the [Fair Trading Act 1986][221].
     
-    (2) The Panel may use any information, or a copy of any document, provided to it by the Commerce Commission under [section 48A][219] of the Fair Trading Act 1986 in the Panel's exercise of its powers, or the performance of its functions and duties.
+    (2) The Panel may use any information, or a copy of any document, provided to it by the Commerce Commission under [section 48A][222] of the Fair Trading Act 1986 in the Panel's exercise of its powers, or the performance of its functions and duties.
     
     (3) This section applies despite anything to the contrary in any contract, deed, or document.
     
-    (4) Nothing in this section limits the [Privacy Act 1993][217].
+    (4) Nothing in this section limits the [Privacy Act 1993][220].
     
-    Section 15B: substituted, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 15B: substituted, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 16 Annual reports
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 17 Annual fee in respect of funding of Panel
     
@@ -885,17 +887,17 @@ Takeovers Panel
     
     (3) The Registrar of Companies shall, as soon as practicable, remit to the Panel the fees paid under this section.
     
-    Section 17(1): amended, on 7 July 2010, by [section 7][220] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 17(1): amended, on 7 July 2010, by [section 7][223] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 17A Panel deemed to be public authority
     
 *   \[Repealed\]
     
-    Section 17A: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 17A: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18 Further provisions applying to Panel
     
-*   The provisions set out in the [Schedule][162] apply in respect of the Panel.
+*   The provisions set out in the [Schedule][164] apply in respect of the Panel.
 
 ## Part 2  
 Takeovers code
@@ -906,9 +908,9 @@ Takeovers code
     
     (2) The Minister must formulate and make his or her recommendations in accordance with this Part.
     
-    Section 19: substituted, on 1 December 2002, by [section 16][221] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 19: substituted, on 1 December 2002, by [section 16][224] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 19(1): amended, on 7 July 2010, by [section 8][222] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 19(1): amended, on 7 July 2010, by [section 8][225] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 20 Objectives of takeovers code
     
@@ -932,15 +934,15 @@ Takeovers code
     
     (4) \[Repealed\]
     
-    Section 20(1): amended, on 1 December 2002, by [section 17(1)][223] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 20(1): amended, on 1 December 2002, by [section 17(1)][226] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 20(1)(b): amended, on 7 July 2010, by [section 9][224] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 20(1)(b): amended, on 7 July 2010, by [section 9][227] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 20(2): substituted, on 1 December 2002, by [section 17(2)][223] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 20(2): substituted, on 1 December 2002, by [section 17(2)][226] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 20(3): repealed, on 1 December 2002, by [section 17(2)][223] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 20(3): repealed, on 1 December 2002, by [section 17(2)][226] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 20(4): repealed, on 1 December 2002, by [section 17(2)][223] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 20(4): repealed, on 1 December 2002, by [section 17(2)][226] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 21 Matters to be considered by Minister in making recommendations concerning takeovers code
     
@@ -960,13 +962,13 @@ Takeovers code
     
     *   (g) for the regulation of defensive tactics.
     
-    Section 21 heading: amended, on 1 December 2002, by [section 18(1)][225] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 21 heading: amended, on 1 December 2002, by [section 18(1)][228] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 21: amended, on 1 December 2002, by [section 18(2)][225] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 21: amended, on 1 December 2002, by [section 18(2)][228] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 21(b): amended, on 7 July 2010, by [section 10][226] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 21(b): amended, on 7 July 2010, by [section 10][229] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 21(f): amended, on 7 July 2010, by [section 10][226] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 21(f): amended, on 7 July 2010, by [section 10][229] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 22 Specific provisions applying to takeovers code
     
@@ -982,13 +984,13 @@ Takeovers code
     
     *   (e) prescribe the duties and obligations of a code company and the directors of the code company and other persons in a takeover.
     
-    Section 22: amended, on 1 December 2002, by [section 19][227] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 22: amended, on 1 December 2002, by [section 19][230] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 22(b): amended, on 7 July 2010, by [section 11][228] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 22(b): amended, on 7 July 2010, by [section 11][231] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 22(c): amended, on 7 July 2010, by [section 11][228] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 22(c): amended, on 7 July 2010, by [section 11][231] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 22(e): amended, on 7 July 2010, by [section 11][228] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 22(e): amended, on 7 July 2010, by [section 11][231] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 23 Takeovers code not to apply in certain cases
     
@@ -998,73 +1000,73 @@ Takeovers code
     
     *   (b) by reason of the acquisition of securities in a code company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
     
-    Section 23(a): amended, on 7 July 2010, by [section 12][229] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 23(a): amended, on 7 July 2010, by [section 12][232] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 23(b): amended, on 7 July 2010, by [section 12][229] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 23(b): amended, on 7 July 2010, by [section 12][232] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 23(b): amended, on 1 December 2002, by [section 20][230] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 23(b): amended, on 1 December 2002, by [section 20][233] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 24 Co-ordination with Australia
     
 *   In formulating recommendations concerning a takeovers code, the Minister must have regard, as far as practicable, to any principles applying to the co-ordination of business law between Australia and New Zealand set out in any agreement or memorandum of understanding between the Governments of Australia and New Zealand.
     
-    Section 24: substituted, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 24: substituted, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 25 Minister to consult Panel
     
 *   The Minister must, in formulating recommendations concerning a takeovers code, consult the Panel.
     
-    Section 25: substituted, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 25: substituted, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 26 Panel to consult with Minister
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 26: repealed, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 27 Action taken by Takeover Panel Advisory Committee
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 27: repealed, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 28 Approval of takeovers code
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 28: repealed, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 29 Order in Council deemed to be regulation
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 29: repealed, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 30 Minister may request formulation of further takeovers code
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 30: repealed, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31 Revocation of takeovers code
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 December 2002, by [section 21][231] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31: repealed, on 1 December 2002, by [section 21][234] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ## Part 3  
 Investigation and enforcement
     
-*   Part 3: inserted, as Part 2A, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
-*   Part 3 Part number and heading: substituted, on 1 December 2002, by [section 22][233] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Part 3: inserted, as Part 2A, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
+*   Part 3 Part number and heading: substituted, on 1 December 2002, by [section 22][236] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ### Subpart 1---Investigation and enforcement by Panel
     
-*   Subpart 1 heading: inserted, on 25 October 2006, by [section 8][234] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Subpart 1 heading: inserted, on 25 October 2006, by [section 8][237] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Panel's powers of inspection
     
-*   Heading: substituted, on 1 December 2002, by [section 22][233] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: substituted, on 1 December 2002, by [section 22][236] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31A Power to inspect documents
     
@@ -1080,7 +1082,7 @@ Investigation and enforcement
     
     (2) Documents may be required under this section either specifically, generally, or by class, nature, content, or effect.
     
-    Section 31A: substituted, on 1 December 2002, by [section 22][233] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31A: substituted, on 1 December 2002, by [section 22][236] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31B Power to request or approve Registrar or authorised person to inspect documents
     
@@ -1090,11 +1092,11 @@ Investigation and enforcement
     
     (3) The fact that the Registrar, or any person authorised by the Panel or Registrar, does, or attempts to do, any of the things in [section 31A(1)][45] is sufficient evidence that that inspection has been requested or approved by the Panel unless there is evidence to the contrary.
     
-    (4) This section applies despite [section 73][214] of the Crown Entities Act 2004\.
+    (4) This section applies despite [section 73][217] of the Crown Entities Act 2004\.
     
-    Section 31B: substituted, on 1 December 2002, by [section 22][233] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31B: substituted, on 1 December 2002, by [section 22][236] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 31B(4): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 31B(4): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 31BA Limits on exercise of power to inspect documents
     
@@ -1110,7 +1112,7 @@ Investigation and enforcement
     
     *   (b) the Panel first considers, along with any other relevant matters, any matters relating to the necessity or expediency of carrying out an inspection (for example, whether it is practicable to obtain the information from other sources or by other means in the time available).
     
-    Section 31BA: inserted, on 1 December 2002, by [section 22][233] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31BA: inserted, on 1 December 2002, by [section 22][236] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31BB Requirements for persons authorised to inspect documents
     
@@ -1118,13 +1120,13 @@ Investigation and enforcement
     
     (2) A person authorised by the Panel or Registrar to carry out an inspection under [section 31A][45] must, if requested at the time of carrying out the inspection, produce evidence of that person's authority to carry out the inspection.
     
-    Section 31BB: inserted, on 1 December 2002, by [section 22][233] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31BB: inserted, on 1 December 2002, by [section 22][236] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31C Disclosure of information from inspection
     
 *   (1) On the direction of the Panel or Registrar, a person who has made an inspection under [section 31A][45] must give all records and disclose all information acquired in the course of the inspection to any person specified by the Panel or Registrar for the purposes of---
         
-    *   (a) this Act, the [Financial Markets Authority Act 2011][235], or any of the Acts listed in [Schedule 1][236] of that Act:
+    *   (a) this Act, the [Financial Markets Authority Act 2011][238], or any of the Acts listed in [Schedule 1][239] of that Act:
     
     *   (b) detecting and prosecuting offences against any enactments other than those referred to in paragraph (a), but, in this case, those records and information are not admissible in any criminal proceedings against the person from whom the records or information were acquired or any person to whom the records or information relate:
     
@@ -1132,31 +1134,31 @@ Investigation and enforcement
     
     (2) The Minister may, by written notice, require the Panel or Registrar to give a direction under subsection (1), and the Panel or Registrar must comply with that requirement.
     
-    (2A) [Section 115][237] of the Crown Entities Act 2004 does not apply to that requirement.
+    (2A) [Section 115][240] of the Crown Entities Act 2004 does not apply to that requirement.
     
     (3) The Panel may, by written notice, require the Registrar to give a direction under subsection (1), and the Registrar must comply with that requirement.
     
-    (4) This section is subject to [section 31X][79] of this Act and to [section 44][238] of the Financial Markets Authority Act 2011\.
+    (4) This section is subject to [section 31X][79] of this Act and to [section 44][241] of the Financial Markets Authority Act 2011\.
     
-    Section 31C: substituted, on 1 December 2002, by [section 23][239] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31C: substituted, on 1 December 2002, by [section 23][242] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 31C(1)(a): substituted, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 31C(1)(a): substituted, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 31C(1)(b): amended, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 31C(1)(b): amended, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 31C(2A): inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 31C(2A): inserted, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 31C(4): amended, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 31C(4): amended, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 31D Powers not limited
     
-*   [Sections 31A][45], [31B][46], and [31C][49] do not limit any power that the Panel, Registrar, or any other person has under the [Companies Act 1993][168] or any other enactment.
+*   [Sections 31A][45], [31B][46], and [31C][49] do not limit any power that the Panel, Registrar, or any other person has under the [Companies Act 1993][170] or any other enactment.
     
-    Compare: 1978 No 103 [s 67(7)][240]
+    Compare: 1978 No 103 [s 67(7)][243]
     
-    Section 31D: inserted, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 31D: inserted, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 31D: amended, on 1 December 2002, by [section 24][241] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31D: amended, on 1 December 2002, by [section 24][244] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31E Non-disclosure of information from inspection
     
@@ -1164,37 +1166,37 @@ Investigation and enforcement
         
     *   (a) in accordance with [section 31C][49]; or
     
-    *   (b) for the purposes of this Act, the [Financial Markets Authority Act 2011][235], or any of the Acts listed in [Schedule 1][236] of that Act; or
+    *   (b) for the purposes of this Act, the [Financial Markets Authority Act 2011][238], or any of the Acts listed in [Schedule 1][239] of that Act; or
     
-    *   (c) in accordance with the [Official Information Act 1982][242] or the [Privacy Act 1993][217]; or
+    *   (c) in accordance with the [Official Information Act 1982][245] or the [Privacy Act 1993][220]; or
     
     *   (d) in the course of any criminal proceedings (but subject to the limitation in [section 31C(1)(b)][49]).
     
-    Compare: 1978 No 103 [s 67A(1)][243]
+    Compare: 1978 No 103 [s 67A(1)][246]
     
-    Section 31E: inserted, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 31E: inserted, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 31E(b): substituted, on 1 May 2011, by [section 82][173] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 31E(b): substituted, on 1 May 2011, by [section 82][175] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 31E(d): amended, on 1 December 2002, by [section 25(2)][244] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31E(d): amended, on 1 December 2002, by [section 25(2)][247] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31EA No privilege against self-incrimination
     
 *   [Section 33B][86] applies to information and documents provided under [section 31A][45].
     
-    Section 31EA: inserted, on 1 December 2002, by [section 26][245] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31EA: inserted, on 1 December 2002, by [section 26][248] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31EB Protections from liability for persons exercising powers of inspection
     
 *   Without limiting any other statutory protection from liability, no person is liable for any act done or omitted to be done by the person in the performance or intended performance of the person's powers under [section 31A][45], [section 31C][49], or [section 31E][51] unless the person acts in bad faith.
     
-    Section 31EB: inserted, on 1 December 2002, by [section 26][245] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31EB: inserted, on 1 December 2002, by [section 26][248] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 #### Offences
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2002, by [section 27][246] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: repealed, on 1 December 2002, by [section 27][249] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31F Offences
     
@@ -1208,25 +1210,27 @@ Investigation and enforcement
     
     *   (d) wilfully contravenes [section 31E][51].
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
-    Section 31F: substituted, on 1 December 2002, by [section 28][247] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31F: substituted, on 1 December 2002, by [section 28][250] of the Takeovers Amendment Act 2002 (2002 No 45).
+    
+    Section 31F(2): amended\], on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Appeals
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2002, by [section 29][248] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: repealed, on 1 December 2002, by [section 29][252] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31G Rights of appeal
     
 *   A person who is aggrieved by an act or decision of the Panel or Registrar, or of any person authorised by the Panel or Registrar, under any of [sections 31A to 31C][45] may appeal against the act or decision to the court.
     
-    Compare: 1978 No 103 [ss 68(1)][249], [69A(1)][250]
+    Compare: 1978 No 103 [ss 68(1)][253], [69A(1)][254]
     
-    Section 31G: inserted, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 31G: inserted, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 31G: amended, on 1 December 2002, by [section 30][251] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31G: amended, on 1 December 2002, by [section 30][255] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31H Time for appeal
     
@@ -1236,9 +1240,9 @@ Investigation and enforcement
     
     *   (b) within any longer time allowed by the court.
     
-    Compare: 1978 No 103 [ss 68(1)][249], [69A(1)][250]
+    Compare: 1978 No 103 [ss 68(1)][253], [69A(1)][254]
     
-    Section 31H: inserted, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 31H: inserted, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ##### 31I Situation while appeal pending
     
@@ -1250,21 +1254,21 @@ Investigation and enforcement
     
     *   (c) information that is obtained as a result of an inspection to which the appeal relates is not admissible as evidence in any criminal proceedings against the person to whom the information relates.
     
-    Compare: 1978 No 103 [s 68(3)][249]
+    Compare: 1978 No 103 [s 68(3)][253]
     
-    Section 31I: inserted, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 31I: inserted, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 31I(a): amended, on 1 December 2002, by [section 31(1)][252] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31I(a): amended, on 1 December 2002, by [section 31(1)][256] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 31I(a): amended, on 1 December 2002, by [section 31(2)][252] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31I(a): amended, on 1 December 2002, by [section 31(2)][256] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31J Determination of appeal
     
 *   The court must determine the appeal by either dismissing the appeal or giving such directions or making such determination in the matter as it thinks fit.
     
-    Compare: 1978 No 103 [ss 68(2)][249], [69A(2)][250]
+    Compare: 1978 No 103 [ss 68(2)][253], [69A(2)][254]
     
-    Section 31J: inserted, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 31J: inserted, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ##### 31K Requirements where appeal allowed
     
@@ -1274,17 +1278,17 @@ Investigation and enforcement
     
     *   (b) no information acquired under paragraph (a) or paragraph (b) of [section 31A(1)][45] in respect of the act or decision is admissible in evidence in any proceedings.
     
-    Compare: 1978 No 103 [s 68(3)][249]
+    Compare: 1978 No 103 [s 68(3)][253]
     
-    Section 31K: inserted, on 1 June 2001, by [section 9][232] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 31K: inserted, on 1 June 2001, by [section 9][235] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 31K: amended, on 1 December 2002, by [section 32][253] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31K: amended, on 1 December 2002, by [section 32][257] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 31K(a): amended, on 1 December 2002, by [section 32][253] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31K(a): amended, on 1 December 2002, by [section 32][257] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 #### Panel's powers for receiving evidence
     
-*   Heading: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31L Who may receive evidence
     
@@ -1294,9 +1298,9 @@ Investigation and enforcement
         
     *   (a) subsection (1) does not apply, and the evidence must be received at a meeting of the Panel; and
     
-    *   (b) the meeting must not be held by a method under [clause 8(b)][255] of Schedule 5 of the Crown Entities Act 2004 except with the consent of the person summoned.
+    *   (b) the meeting must not be held by a method under [clause 8(b)][259] of Schedule 5 of the Crown Entities Act 2004 except with the consent of the person summoned.
     
-    Section 31L: substituted, on 25 October 2006, by [section 9][256] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 31L: substituted, on 25 October 2006, by [section 9][260] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 31M Admissibility of evidence
     
@@ -1306,7 +1310,7 @@ Investigation and enforcement
     
     *   (b) the Panel may receive under [section 31P][69].
     
-    Section 31M: substituted, on 25 October 2006, by [section 9][256] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 31M: substituted, on 25 October 2006, by [section 9][260] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 31MA How evidence may be given
     
@@ -1324,7 +1328,7 @@ Investigation and enforcement
     
     (2) A member, officer, or an employee of the Panel may administer an oath for the purpose of a person giving evidence on oath.
     
-    Section 31MA: inserted, on 25 October 2006, by [section 9][256] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 31MA: inserted, on 25 October 2006, by [section 9][260] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 31N Power to summon witnesses
     
@@ -1352,15 +1356,15 @@ Investigation and enforcement
     
     *   (b) in the case of a body corporate, by leaving it at the body corporate's usual place of business at least 24 hours before its attendance is required.
     
-    Compare: 1978 No 103 [s 18(3)][257]; 1993 No 107 [s 9(3)][15]
+    Compare: 1978 No 103 [s 18(3)][261]; 1993 No 107 [s 9(3)][15]
     
-    Section 31N: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31N: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 31N(1): substituted, on 25 October 2006, by [section 10(1)][258] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 31N(1): substituted, on 25 October 2006, by [section 10(1)][262] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 31N(2)(c): amended, on 25 October 2006, by [section 10(2)][258] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 31N(2)(c): amended, on 25 October 2006, by [section 10(2)][262] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 31N(3): substituted, on 25 October 2006, by [section 10(3)][258] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 31N(3): substituted, on 25 October 2006, by [section 10(3)][262] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 31O Witnesses' expenses
     
@@ -1368,13 +1372,13 @@ Investigation and enforcement
     
     (2) That sum must not exceed the amount that would be payable to the witness if his or her attendance had been as a witness for the Crown in a criminal case in accordance with regulations for the time being in force for the payment of witnesses for the Crown in criminal cases.
     
-    Compare: 1978 No 103 [s 18(5)][257]; 1993 No 107 [s 9(5)][15]
+    Compare: 1978 No 103 [s 18(5)][261]; 1993 No 107 [s 9(5)][15]
     
-    Section 31O: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31O: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 #### Exercise of inspection and evidence powers for overseas regulators
     
-*   Heading: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31P Power of Panel to act on requests of overseas regulators
     
@@ -1388,7 +1392,7 @@ Investigation and enforcement
     
     (3) The Panel may transmit the information, documents, or evidence obtained by it to the overseas regulator in the manner that the Panel thinks fit.
     
-    Section 31P: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31P: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31Q Panel's consideration of requests
     
@@ -1414,9 +1418,9 @@ Investigation and enforcement
     
     *   (e) whether the overseas regulator would be likely to comply with a similar request made by the Panel and whether any arrangement with the overseas regulator to that effect exists:
     
-    *   (f) whether, in the Panel's opinion, it would be more appropriate for the request to be dealt with under the [Mutual Assistance in Criminal Matters Act 1992][259].
+    *   (f) whether, in the Panel's opinion, it would be more appropriate for the request to be dealt with under the [Mutual Assistance in Criminal Matters Act 1992][263].
     
-    Section 31Q: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31Q: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31R Conditions that may be imposed on providing information to overseas regulators
     
@@ -1424,7 +1428,7 @@ Investigation and enforcement
     
     (2) Those conditions may include, without limitation, conditions relating to---
         
-    *   (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the [Privacy Act 1993][217]):
+    *   (a) maintaining the confidentiality of anything provided (in particular, information that is personal information within the meaning of the [Privacy Act 1993][220]):
     
     *   (b) the storing of, use of, or access to anything provided:
     
@@ -1432,7 +1436,7 @@ Investigation and enforcement
     
     *   (d) payment of the costs incurred by the Panel in providing anything or in generally complying with a request.
     
-    Section 31R: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31R: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31S Undertakings to be obtained before providing certain information to overseas regulators
     
@@ -1442,11 +1446,11 @@ Investigation and enforcement
     
     *   (b) to the extent to which it is within the ability of the overseas regulator to ensure, will not be used by any other person, authority, or agency as evidence in proceedings of that kind.
     
-    Section 31S: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31S: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 #### Panel's power to accept undertakings
     
-*   Heading: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31T Panel may accept undertakings
     
@@ -1454,7 +1458,7 @@ Investigation and enforcement
     
     (2) The person may withdraw or vary the undertaking with the consent of the Panel.
     
-    Section 31T: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31T: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31U Enforcement of undertakings
     
@@ -1470,11 +1474,11 @@ Investigation and enforcement
     
     *   (d) an order for any consequential relief that the court thinks appropriate.
     
-    Section 31U: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31U: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 #### Proceedings before Panel
     
-*   Heading: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31V Right to be heard and represented at proceedings before Panel
     
@@ -1494,17 +1498,17 @@ Investigation and enforcement
         
         
     
-    Compare: 1978 No 103 [s 19(1), (2)][260]; 1993 No 107 [s 10][16]
+    Compare: 1978 No 103 [s 19(1), (2)][264]; 1993 No 107 [s 10][16]
     
-    Section 31V: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31V: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31W Panel to hear proceedings in private
     
 *   The Panel may decide whether to hold any meeting or any part of a meeting in public or in private.
     
-    Compare: 1993 No 107 [s 12][261]
+    Compare: 1993 No 107 [s 12][265]
     
-    Section 31W: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31W: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 31X Power to make confidentiality orders
     
@@ -1518,15 +1522,15 @@ Investigation and enforcement
     
     (3) An order under subsection (1) may be expressed to have effect from the commencement of any inquiry or other proceedings of the Panel to the end of that inquiry or proceedings.
     
-    (4) At the end of the inquiry or proceedings, the [Official Information Act 1982][242] applies to any information or document or evidence that was the subject of the order.
+    (4) At the end of the inquiry or proceedings, the [Official Information Act 1982][245] applies to any information or document or evidence that was the subject of the order.
     
-    Compare: 1978 No 103 [s 19(5)(b), (6)][260]; 1993 No 107 [s 13][19]
+    Compare: 1978 No 103 [s 19(5)(b), (6)][264]; 1993 No 107 [s 13][19]
     
-    Section 31X: inserted, on 1 December 2002, by [section 33][254] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 31X: inserted, on 1 December 2002, by [section 33][258] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 #### Enforcement of takeovers code by Panel
     
-*   Heading: substituted, on 1 December 2002, by [section 34][262] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: substituted, on 1 December 2002, by [section 34][266] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 32 Panel's powers in respect of compliance with takeovers code
     
@@ -1566,31 +1570,31 @@ Investigation and enforcement
     
     (7) The Panel may revoke the order or suspend the order on the terms and conditions it thinks fit.
     
-    Section 32(2): amended, on 25 October 2006, by [section 11(1)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(2): amended, on 25 October 2006, by [section 11(1)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(3A): inserted, on 25 October 2006, by [section 11(2)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(3A): inserted, on 25 October 2006, by [section 11(2)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(4)(a): amended, on 25 October 2006, by [section 11(3)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(4)(a): amended, on 25 October 2006, by [section 11(3)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(4)(b): amended, on 25 October 2006, by [section 11(3)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(4)(b): amended, on 25 October 2006, by [section 11(3)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(4)(c): added, on 25 October 2006, by [section 11(4)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(4)(c): added, on 25 October 2006, by [section 11(4)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(4)(d): added, on 25 October 2006, by [section 11(4)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(4)(d): added, on 25 October 2006, by [section 11(4)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(4A): inserted, on 25 October 2006, by [section 11(5)][263] of the Takeovers Amendment Act 2006 (2006 No 48). 
+    Section 32(4A): inserted, on 25 October 2006, by [section 11(5)][267] of the Takeovers Amendment Act 2006 (2006 No 48). 
     
-    Section 32(5): added, on 1 December 2002, by [section 35][264] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 32(5): added, on 1 December 2002, by [section 35][268] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 32(5): amended, on 25 October 2006, by [section 11(6)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(5): amended, on 25 October 2006, by [section 11(6)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(6): added, on 1 December 2002, by [section 35][264] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 32(6): added, on 1 December 2002, by [section 35][268] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 32(6): amended, on 25 October 2006, by [section 11(7)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(6): amended, on 25 October 2006, by [section 11(7)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 32(7): added, on 1 December 2002, by [section 35][264] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 32(7): added, on 1 December 2002, by [section 35][268] of the Takeovers Amendment Act 2002 (2002 No 45).
     
-    Section 32(7): amended, on 25 October 2006, by [section 11(7)][263] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 32(7): amended, on 25 October 2006, by [section 11(7)][267] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33 Temporary restraining orders
     
@@ -1612,23 +1616,23 @@ Investigation and enforcement
     
     *   (h) for the purpose of securing compliance with any such order, an order directing a person to do or refrain from doing a specified act.
     
-    Section 33 heading: amended, on 25 October 2006, by [section 12(1)][265] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33 heading: amended, on 25 October 2006, by [section 12(1)][269] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 33: amended, on 25 October 2006, by [section 12(2)][265] of the Takeovers Amendment Act 2006 (2006 No 48). 
+    Section 33: amended, on 25 October 2006, by [section 12(2)][269] of the Takeovers Amendment Act 2006 (2006 No 48). 
     
-    Section 33(a): amended, on 7 July 2010, by [section 13][266] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33(a): amended, on 7 July 2010, by [section 13][270] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 33(b): amended, on 7 July 2010, by [section 13][266] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33(b): amended, on 7 July 2010, by [section 13][270] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 33(c): amended, on 7 July 2010, by [section 13][266] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33(c): amended, on 7 July 2010, by [section 13][270] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 33(d): substituted, on 25 October 2006, by [section 12(3)][265] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33(d): substituted, on 25 October 2006, by [section 12(3)][269] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 33(e): amended, on 7 July 2010, by [section 13][266] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33(e): amended, on 7 July 2010, by [section 13][270] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 33(f): amended, on 7 July 2010, by [section 13][266] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33(f): amended, on 7 July 2010, by [section 13][270] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 33(g): amended, on 7 July 2010, by [section 13][266] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33(g): amended, on 7 July 2010, by [section 13][270] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 33AA Permanent compliance orders
     
@@ -1642,11 +1646,11 @@ Investigation and enforcement
     
     *   (d) for the purpose of securing compliance with any of those orders, an order directing a person to do or refrain from doing a specified act.
     
-    Section 33AA: inserted, on 25 October 2006, by [section 13][267] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33AA: inserted, on 25 October 2006, by [section 13][271] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Miscellaneous provisions for investigation and enforcement by Panel
     
-*   Heading: inserted, on 1 December 2002, by [section 36][268] of the Takeovers Amendment Act 2002 (2002 No 45).
+*   Heading: inserted, on 1 December 2002, by [section 36][272] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 33A Witnesses and counsel to have privileges of witnesses and counsel in court
     
@@ -1658,7 +1662,7 @@ Investigation and enforcement
     
     (4) This section is subject to [section 33B][86].
     
-    Section 33A: inserted, on 1 December 2002, by [section 36][268] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 33A: inserted, on 1 December 2002, by [section 36][272] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 33B No privilege against self-incrimination
     
@@ -1666,7 +1670,7 @@ Investigation and enforcement
     
     Compare: 1993 No 107 [s 11(4)][17]
     
-    Section 33B: inserted, on 1 December 2002, by [section 36][268] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 33B: inserted, on 1 December 2002, by [section 36][272] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ##### 33C Restrictions on use of self-incriminating statements obtained by summons
     
@@ -1676,7 +1680,7 @@ Investigation and enforcement
             
         *   (i) criminal proceedings against that person; or
         
-        *   (ii) proceedings under this Act, the [Securities Act 1978][269], or the [Securities Markets Act 1988][270] for a pecuniary penalty order against that person; but
+        *   (ii) proceedings under this Act, the [Securities Act 1978][273], or the [Securities Markets Act 1988][274] for a pecuniary penalty order against that person; but
         
         
     
@@ -1688,7 +1692,7 @@ Investigation and enforcement
     
     *   (b) the answering of a question in a way that is false, deceptive, or misleading or the providing of information or a document that is false, deceptive, or misleading may be used in evidence against that person in proceedings for an offence under [section 44(1)][125] arising from that act.
     
-    Section 33C: substituted, on 25 October 2006, by [section 14][271] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33C: substituted, on 25 October 2006, by [section 14][275] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33D Limitation on disclosure of information obtained in Panel's operations
     
@@ -1706,27 +1710,27 @@ Investigation and enforcement
     
     *   (c) proceedings in respect of---
             
-        *   (i) an offence against [section 78][202] or [section 78A(1)][203] or [section 105][204] or [section 105A][205] or [section 105B][272] of the Crimes Act 1961; or
+        *   (i) an offence against [section 78][205] or [section 78A(1)][206] or [section 105][207] or [section 105A][208] or [section 105B][276] of the Crimes Act 1961; or
         
-        *   (ii) the offence of conspiring to commit an offence against [section 78][202] or [section 78A(1)][203] or [section 105][204] or [section 105A][205] or [section 105B][272] of the Crimes Act 1961; or
+        *   (ii) the offence of conspiring to commit an offence against [section 78][205] or [section 78A(1)][206] or [section 105][207] or [section 105A][208] or [section 105B][276] of the Crimes Act 1961; or
         
-        *   (iii) the offence of attempting to commit an offence against [section 78][202] or [section 78A(1)][203] or [section 105][204] or [section 105A][205] or [section 105B][272] of the Crimes Act 1961\.
+        *   (iii) the offence of attempting to commit an offence against [section 78][205] or [section 78A(1)][206] or [section 105][207] or [section 105A][208] or [section 105B][276] of the Crimes Act 1961\.
         
         
     
-    (3) This section does not limit the application of the [Official Information Act 1982][242].
+    (3) This section does not limit the application of the [Official Information Act 1982][245].
     
-    Compare: 1978 No 103 [s 28(4), (5)][273]; 1993 No 107 [s 11(7), (8)][17]
+    Compare: 1978 No 103 [s 28(4), (5)][277]; 1993 No 107 [s 11(7), (8)][17]
     
-    Section 33D: inserted, on 1 December 2002, by [section 36][268] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 33D: inserted, on 1 December 2002, by [section 36][272] of the Takeovers Amendment Act 2002 (2002 No 45).
 
 ### Subpart 2---Enforcement by court
     
-*   Subpart 2 heading: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Subpart 2 heading: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Overview of enforcement powers and civil remedies
     
-*   Heading: substituted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: substituted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33E Overview of enforcement powers and civil remedies
     
@@ -1744,17 +1748,17 @@ Investigation and enforcement
     
     (3) This section is a guide only to the general scheme and effect of this subpart.
     
-    Section 33E: substituted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33E: substituted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Injunctions
     
-*   Heading: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33F What court may injunct
     
 *   The court may, on application by any person in accordance with [section 35][111], grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of the takeovers code.
     
-    Section 33F: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33F: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33G When court may grant injunctions and interim injunctions
     
@@ -1774,7 +1778,7 @@ Investigation and enforcement
     
     *   (b) there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
     
-    Section 33G: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33G: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33H Undertaking as to damages not required by Panel
     
@@ -1782,17 +1786,17 @@ Investigation and enforcement
     
     (2) However, in determining the Panel's application for the grant of an interim injunction, the court must not take into account that the Panel is not required to give an undertaking as to damages.
     
-    Section 33H: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33H: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Various civil remedy orders
     
-*   Heading: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33I When court may make various civil remedy orders
     
 *   The court may, on application by any person in accordance with [section 35][111], make 1 or more of the civil remedy orders described in [section 33J][98] if the court is satisfied on reasonable grounds that a person has contravened or is contravening or intends to contravene the takeovers code.
     
-    Section 33I: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33I: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33J Terms of various civil remedy orders
     
@@ -1832,11 +1836,11 @@ Investigation and enforcement
     
     *   (m) require a person to comply with any provision of the takeovers code even though the time for doing so may have expired.
     
-    Section 33J: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33J: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Compensatory orders
     
-*   Heading: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33K When court may make compensatory orders
     
@@ -1848,7 +1852,7 @@ Investigation and enforcement
     
     (2) The court may make a compensatory order whether or not the aggrieved person is a party to the proceedings.
     
-    Section 33K: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33K: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33L Terms of compensatory orders
     
@@ -1868,11 +1872,11 @@ Investigation and enforcement
         
         
     
-    Section 33L: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33L: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Pecuniary penalty orders and declarations of contravention
     
-*   Heading: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33M When court may make pecuniary penalty orders and declarations of contravention
     
@@ -1892,9 +1896,9 @@ Investigation and enforcement
         
         
     
-    Section 33M: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33M: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 33M(c)(i): amended, on 7 July 2010, by [section 14][275] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33M(c)(i): amended, on 7 July 2010, by [section 14][279] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 33N Purpose and effect of declarations of contravention
     
@@ -1902,7 +1906,7 @@ Investigation and enforcement
     
     (2) Accordingly, a declaration of contravention is conclusive evidence of the matters that must be stated in it under [section 33O][105].
     
-    Section 33N: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33N: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33O What declarations of contravention must state
     
@@ -1918,15 +1922,15 @@ Investigation and enforcement
     
     *   (e) the code company to which the conduct related.
     
-    Section 33O: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33O: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 33O(e): amended, on 7 July 2010, by [section 15][276] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 33O(e): amended, on 7 July 2010, by [section 15][280] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 33P Maximum amount of pecuniary penalty
     
 *   The maximum amount of a pecuniary penalty is $500,000 for an individual and $5,000,000 for a body corporate, for each contravention.
     
-    Section 33P: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33P: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33Q Considerations for court in determining pecuniary penalty
     
@@ -1944,23 +1948,23 @@ Investigation and enforcement
     
     *   (f) whether or not the person in contravention has previously been found by the court in proceedings under this Act to have engaged in any similar conduct.
     
-    Section 33Q: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33Q: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 33R Court must order that recovery from pecuniary penalty be applied to Panel's actual costs
     
 *   If the court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the Panel, the court must also order that the penalty must be applied first to pay the Panel's actual costs in bringing the proceedings.
     
-    Section 33R: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 33R: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### General
     
-*   Heading: inserted, on 25 October 2006, by [section 16][274] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 16][278] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 34 Court may make orders
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 25 October 2006, by [section 15][277] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 34: repealed, on 25 October 2006, by [section 15][281] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 35 Persons who may apply
     
@@ -2002,51 +2006,51 @@ Investigation and enforcement
     
     (4) If the Panel makes a determination under [section 32(3)(b)][81] (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code), the Panel may make an application to the court under [section 33M][103].
     
-    Section 35(1): amended, on 25 October 2006, by [section 17(1)][278] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 35(1): amended, on 25 October 2006, by [section 17(1)][282] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 35(1)(b): amended, on 7 July 2010, by [section 16(1)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(1)(b): amended, on 7 July 2010, by [section 16(1)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(1)(b): amended, on 24 November 2009, by [section 23(1)][176] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 35(1)(b): amended, on 24 November 2009, by [section 23(1)][178] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 35(1)(b): amended, on 1 December 2002, by [section 30][177] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 35(1)(b): amended, on 1 December 2002, by [section 30][179] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 35(1)(c): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(1)(c): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(1)(d): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(1)(d): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(1)(e): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(1)(e): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(1)(f): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(1)(f): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(3): amended, on 25 October 2006, by [section 17(2)][278] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 35(3): amended, on 25 October 2006, by [section 17(2)][282] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 35(3)(a): amended, on 7 July 2010, by [section 16(3)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(3)(a): amended, on 7 July 2010, by [section 16(3)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(3)(a): amended, on 24 November 2009, by [section 23(1)][176] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 35(3)(a): amended, on 24 November 2009, by [section 23(1)][178] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 35(3)(a): amended, on 1 December 2002, by [section 30][177] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 35(3)(a): amended, on 1 December 2002, by [section 30][179] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 35(3)(b): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(3)(b): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(3)(c): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(3)(c): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(3)(d): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(3)(d): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(3)(e): amended, on 7 July 2010, by [section 16(2)][279] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 35(3)(e): amended, on 7 July 2010, by [section 16(2)][283] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 35(4): substituted, on 25 October 2006, by [section 17(3)][278] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 35(4): substituted, on 25 October 2006, by [section 17(3)][282] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 36 Orders
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 25 October 2006, by [section 18][280] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 36: repealed, on 25 October 2006, by [section 18][284] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 37 Interim orders
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 25 October 2006, by [section 18][280] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 37: repealed, on 25 October 2006, by [section 18][284] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 38 Court may have regard to determinations and recommendations by Panel
     
@@ -2054,21 +2058,21 @@ Investigation and enforcement
     
     (2) The court may, in determining whether to make any order under [section 33I][97] or [33K][100] and the type of any such order, have regard to any recommendation made by the Panel either at any meeting of the Panel held for the purposes of [section 32][81] or at the request of the court.
     
-    Section 38(1): amended, on 25 October 2006, by [section 19(1)][281] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 38(1): amended, on 25 October 2006, by [section 19(1)][285] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 38(2): amended, on 25 October 2006, by [section 19(2)][281] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 38(2): amended, on 25 October 2006, by [section 19(2)][285] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 39 Orders directing disposal of securities
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 25 October 2006, by [section 20][282] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 39: repealed, on 25 October 2006, by [section 20][286] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 40 Revocation, variation, and suspension of orders
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 25 October 2006, by [section 20][282] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 40: repealed, on 25 October 2006, by [section 20][286] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 41 Court may excuse contravention
     
@@ -2086,7 +2090,7 @@ Investigation and enforcement
     
     (3) The order has effect according to its tenor.
     
-    Section 41: substituted, on 25 October 2006, by [section 21][283] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 41: substituted, on 25 October 2006, by [section 21][287] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 42 Court may require person to give evidence or produce documents relating to interests in securities
     
@@ -2104,11 +2108,11 @@ Investigation and enforcement
     
     (2) An order under subsection (1) may be made on the application of any person who is a party to the application under this subpart.
     
-    Section 42(1): amended, on 25 October 2006, by [section 22(1)][284] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 42(1): amended, on 25 October 2006, by [section 22(1)][288] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 42(1)(a): amended, on 7 July 2010, by [section 17][285] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 42(1)(a): amended, on 7 July 2010, by [section 17][289] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 42(2): amended, on 25 October 2006, by [section 22(2)][284] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 42(2): amended, on 25 October 2006, by [section 22(2)][288] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 43 More than 1 civil remedy order may be made for same conduct
     
@@ -2120,19 +2124,19 @@ Investigation and enforcement
     
     The court may make a civil remedy order requiring forfeiture of securities and declaring a previous exercise of voting rights attaching to those securities to be void.
     
-    Section 43: substituted, on 25 October 2006, by [section 23][286] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 43: substituted, on 25 October 2006, by [section 23][290] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 43A Only 1 pecuniary penalty order may be made for same conduct
     
 *   If conduct by a person constitutes a contravention of 2 or more provisions of the takeovers code, proceedings may be brought against that person for the contravention of any 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
     
-    Section 43A: inserted, on 25 October 2006, by [section 23][286] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 43A: inserted, on 25 October 2006, by [section 23][290] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 43B Standard of proof for civil remedies
     
 *   The proceedings under this subpart are civil proceedings and the usual rules of the court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
     
-    Section 43B: inserted, on 25 October 2006, by [section 23][286] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 43B: inserted, on 25 October 2006, by [section 23][290] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 43C Time limit for applying for civil remedies
     
@@ -2142,15 +2146,15 @@ Investigation and enforcement
     
     (3) However, an application for a compensatory order in respect of a contravention may be made at any time within 6 months after the date on which a declaration of contravention is made, even if the usual time limit has expired.
     
-    Section 43C: inserted, on 25 October 2006, by [section 23][286] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 43C: inserted, on 25 October 2006, by [section 23][290] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ### Subpart 3---Offences
     
-*   Subpart 3 heading: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Subpart 3 heading: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### General offences
     
-*   Heading: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44 General offences
     
@@ -2160,7 +2164,7 @@ Investigation and enforcement
     
     *   (b) attempt to deceive or knowingly mislead the Panel or a member, officer, or employee of the Panel in relation to any matter before it.
     
-    (2) A person who has been summoned to appear before the Panel or a member, officer, or employee of the Panel must not, without reasonable excuse,---
+    (2) A person who has been summoned to appear before the Panel or a member, officer, or employee of the Panel must not---
         
     *   (a) refuse or fail to appear before the Panel to give evidence:
     
@@ -2174,9 +2178,13 @@ Investigation and enforcement
     
     (4) A person must not act in contravention of any order made by the Panel under [section 31X][79] or [section 32][81].
     
-    (5) Every person who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is committed.
+    (5) Every person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is committed.
     
-    Section 44: substituted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44: substituted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+    
+    Section 44(2): amended, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 44(5): amended, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44A Conviction of offence under section 44 excluded in certain cases
     
@@ -2188,11 +2196,15 @@ Investigation and enforcement
     
     (2) A director of a body corporate must not be convicted of an offence under [section 44][125] in relation to a contravention by the body corporate if, in the opinion of the court dealing with the case, the contravention took place without the director's knowledge and consent.
     
-    Section 44A: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    (3) In proceedings for an offence against [section 44][125], the burden of proving any of the matters described in subsections (1) and (2) lies on the defendant.
+    
+    Section 44A: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+    
+    Section 44A(3): inserted, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### False or misleading statement or information
     
-*   Heading: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44B False or misleading statement or information
     
@@ -2212,41 +2224,43 @@ Investigation and enforcement
     
     (2) In this section, _trade_ means to acquire or dispose of securities.
     
-    Section 44B: inserted, on 29 February 2008, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44B: inserted, on 29 February 2008, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 44B(1)(b)(i): amended, on 7 July 2010, by [section 18][288] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44B(1)(b)(i): amended, on 7 July 2010, by [section 18][292] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 44C Criminal liability for false or misleading statement or information
     
 *   (1) A person who contravenes [section 44B][128] commits an offence if the person has actual knowledge that the statement or information is false in a material aspect or is materially misleading.
     
-    (2) A person who commits an offence against subsection (1) is liable on conviction on indictment to,---
+    (2) A person who commits an offence against subsection (1) is liable on conviction to,---
         
     *   (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or to both:
     
     *   (b) in the case of a body corporate, a fine not exceeding $1,000,000\.
     
-    Section 44C: inserted, on 29 February 2008, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44C: inserted, on 29 February 2008, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+    
+    Section 44C(2): amended, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44D Exception for disclosure by investment advisers or brokers
     
 *   \[Repealed\]
     
-    Section 44D: repealed, on 1 July 2011, by [section 50][289] of the Financial Advisers Amendment Act 2010 (2010 No 40).
+    Section 44D: repealed, on 1 July 2011, by [section 50][293] of the Financial Advisers Amendment Act 2010 (2010 No 40).
 
 ##### 44E Fair Trading Act 1986 excluded
     
 *   The Fair Trading Act 1986 does not apply to conduct in relation to any transaction or event regulated by the takeovers code or incidental or preliminary to a transaction or event that is or is likely to be regulated by the takeovers code.
     
-    Section 44E: inserted, on 29 February 2008, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44E: inserted, on 29 February 2008, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ### Subpart 4---Other court orders
     
-*   Subpart 4 heading: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Subpart 4 heading: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Management bans
     
-*   Heading: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44F When court may make management banning orders
     
@@ -2256,7 +2270,7 @@ Investigation and enforcement
     
     *   (b) A has, while a director of an incorporated or unincorporated body,---
             
-        *   (i) persistently contravened this Act, the [Companies Act 1993][168], the [Securities Markets Act 1988][270], the [Securities Act 1978][269], the [Securities Trustees and Statutory Supervisors Act 2011][290], or the takeovers code; or
+        *   (i) persistently contravened this Act, the [Companies Act 1993][170], the [Securities Markets Act 1988][274], the [Securities Act 1978][273], the [Securities Trustees and Statutory Supervisors Act 2011][294], or the takeovers code; or
         
         *   (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
         
@@ -2264,27 +2278,29 @@ Investigation and enforcement
     
     *   (c) A has been prohibited in an overseas jurisdiction from carrying on activities that the court is satisfied are substantially similar to any of the activities referred to in [section 44G][135] in connection with a contravention of any law relating to takeovers.
     
-    Section 44F: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44F: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 44F(b)(i): amended, on 1 October 2011, by [section 75][291] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 44F(b)(i): amended, on 1 October 2011, by [section 75][295] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
 
 ##### 44G Terms of management banning orders
     
 *   A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
     
-    Section 44G: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44G: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44H Offence of contravening management banning order
     
-*   An individual who acts in contravention of a management banning order under [section 44F][134] commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
+*   An individual who acts in contravention of a management banning order under [section 44F][134] commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
     
-    Section 44H: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44H: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+    
+    Section 44H: amended, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44I Only 1 management banning order may be made for same conduct
     
-*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 44F][134] of this Act, [section 60A][292] of the Securities Act 1978, [section 43F][293] of the Securities Markets Act 1988, and [section 383][294] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 44F][134] of this Act, [section 60A][296] of the Securities Act 1978, [section 43F][297] of the Securities Markets Act 1988, and [section 383][298] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
     
-    Section 44I: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44I: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44J Persons automatically banned from management
     
@@ -2292,9 +2308,11 @@ Investigation and enforcement
     
     (2) The person must not, for the period of 5 years after the conviction or making of the order (without the leave of the court) be a director or promoter of, or in any way (whether directly or indirectly) be concerned or take part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
     
-    (3) An individual who acts in contravention of this section commits an offence and is liable, on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
+    (3) An individual who acts in contravention of this section commits an offence and is liable, on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
     
-    Section 44J: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44J: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+    
+    Section 44J(3): amended, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44K General provisions for bans and banning orders
     
@@ -2308,11 +2326,11 @@ Investigation and enforcement
     
     (3) The Panel, and any other person that the court thinks fit, may attend and be heard at the hearing of the application.
     
-    Section 44K: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44K: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Orders to preserve assets to satisfy claims
     
-*   Heading: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Heading: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44L When court may prohibit payment or transfer of money, securities, or other property
     
@@ -2334,7 +2352,7 @@ Investigation and enforcement
         
     *   (a) persons who are relatives within the meaning of the Income Tax Act 2007 or de facto partners; or
     
-    *   (b) persons who are partners to whom the [Partnership Act 1908][295] applies; or
+    *   (b) persons who are partners to whom the [Partnership Act 1908][299] applies; or
     
     *   (c) bodies corporate that consist of substantially the same shareholders or are under the control of the same persons; or
     
@@ -2348,9 +2366,9 @@ Investigation and enforcement
     
     Compare: Corporations Act 2001 s 1323(1) (Aust)
     
-    Section 44L: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44L: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 44L(3) **associated persons** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][296] of the Income Tax Act 2007 (2007 No 97).
+    Section 44L(3) **associated persons** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][300] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 44M What orders may be made
     
@@ -2390,7 +2408,7 @@ Investigation and enforcement
     
     Compare: Corporations Act 2001 s 1323(1), (2A), (6) (Aust)
     
-    Section 44M: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44M: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44N Interim orders
     
@@ -2402,21 +2420,21 @@ Investigation and enforcement
     
     Compare: Corporations Act 2001 s 1323(3), (4) (Aust)
     
-    Section 44N: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44N: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44O Relationship with other law
     
 *   (1) Nothing in [sections 44L to 44N][141] affects the powers that the court has apart from those sections.
     
-    (2) This section has effect subject to the [Insolvency Act 1967][297].
+    (2) This section has effect subject to the [Insolvency Act 1967][301].
     
     Compare: Corporations Act 2001 s 1323(7), (8) (Aust)
     
-    Section 44O: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44O: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44P Offence
     
-*   A person commits an offence who contravenes an order by the court under [section 44M][142] or [section 44N][143] that is applicable to the person and is liable on conviction on indictment,---
+*   A person commits an offence who contravenes an order by the court under [section 44M][142] or [section 44N][143] that is applicable to the person and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment to a term not exceeding 3 years or to a fine not exceeding $100,000, or both:
     
@@ -2424,29 +2442,37 @@ Investigation and enforcement
     
     Compare: Corporations Act 2001 s 1323(9), (10) (Aust)
     
-    Section 44P: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44P: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+    
+    Section 44P: amended, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 5---General
     
-*   Subpart 5 heading: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Subpart 5 heading: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+
+##### 44PA Time limit for commencing proceedings for offence under section 44H, 44J, or 44P
+    
+*   Despite anything to the contrary in [section 25][302] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against [section 44H][136], [44J][138], or [44P][145] of this Act.
+    
+    Section 44PA: inserted, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44Q Jurisdiction of courts in New Zealand
     
 *   The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences against this Act or appeals under [section 31G][57].
     
-    Section 44Q: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44Q: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44R Court may order payment of Panel's costs
     
 *   If the Panel brings proceedings under this Part and the court makes any order against a person under this Part, the court may also order that person to pay the Panel's costs and expenses in bringing the proceedings.
     
-    Section 44R: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44R: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44S Orders to secure compliance
     
 *   The court may, for the purpose of securing compliance with any order it makes under this Part, direct a person to do or refrain from doing a specified act.
     
-    Section 44S: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44S: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44T Giving notice of applications for court orders
     
@@ -2456,7 +2482,7 @@ Investigation and enforcement
     
     *   (b) publish notice of the application in the manner the court thinks fit.
     
-    Section 44T: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44T: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44U General provisions as to court's orders
     
@@ -2464,7 +2490,7 @@ Investigation and enforcement
     
     (2) The court may revoke, vary, or suspend an order made under this Part on the terms and conditions the court thinks fit.
     
-    Section 44U: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44U: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44V Persons entitled to appear before court
     
@@ -2488,86 +2514,80 @@ Investigation and enforcement
     
     *   (i) with the leave of the court, any other person.
     
-    Section 44V: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44V: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 44V(c): amended, on 7 July 2010, by [section 19(1)][298] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(c): amended, on 7 July 2010, by [section 19(1)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 44V(c): amended, on 24 November 2009, by [section 23(1)][176] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 44V(c): amended, on 24 November 2009, by [section 23(1)][178] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 44V(d): amended, on 7 July 2010, by [section 19(2)][298] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(d): amended, on 7 July 2010, by [section 19(2)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 44V(f): amended, on 7 July 2010, by [section 19(2)][298] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(f): amended, on 7 July 2010, by [section 19(2)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 44V(g): amended, on 7 July 2010, by [section 19(2)][298] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(g): amended, on 7 July 2010, by [section 19(2)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 44W Knowledge of matters presumed if employee or agent knows matters
     
 *   In any proceedings under this Act, it is presumed, in the absence of proof to the contrary established on the balance of probabilities, that a person knew, at a material time, of any matter if, at that time, an employee or agent of that person knew of the matter in his or her capacity as employee or agent.
     
-    Section 44W: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44W: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 44X No pecuniary penalty and fine for same conduct
     
 *   A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act for the same conduct.
     
-    Section 44X: inserted, on 25 October 2006, by [section 24][287] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 44X: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ## Part 4  
 Miscellaneous
     
-*   Part 4 heading: substituted, on 25 October 2006, by [section 25][299] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Part 4 heading: substituted, on 25 October 2006, by [section 25][304] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 45 Panel may grant exemptions
     
-*   (1) The Panel may, in its discretion and on such terms and conditions (if any) as it thinks fit,---
+*   (1) The Panel may, in its discretion and subject to such terms and conditions (if any) as it thinks fit, exempt from compliance with any provision of the takeovers code---
         
-    *   (a) exempt any person from compliance with any provision of the takeovers code; and
+    *   (a) any person, transaction, or offer:
     
-    *   (b) exempt, from compliance with any provision of the takeovers code,---
-            
-        *   (i) any class of persons:
+    *   (b) any class of persons, transactions, or offers associated with or involving a particular code company or entity:
+    
+    *   (c) any class of persons, transactions, or offers that is not associated with or does not involve a particular code company or entity.
+    
+    (2) An exemption may be granted in respect of past acts or omissions only under subsection (1)(a).
+    
+    (3) An exemption under this section is a disallowable instrument for the purposes of the [Legislation Act 2012][305] and must be presented to the House of Representatives under [section 41][306] of that Act.
+    
+    (4) An exemption under subsection (1)(a) or (b) must, as soon as practicable after being granted, be---
         
-        *   (ii) any class of transactions:
-        
-        *   (iii) any class of offers.
-        
-        
+    *   (a) published on an Internet site maintained by or on behalf of the Panel; and
     
-    (2) An exemption under subsection (1)(a) may be granted in respect of past or proposed acts or omissions.
+    *   (b) notified (without incorporating the exemption) in the _Gazette_; and
     
-    (2A) An exemption under subsection (1)(b) may be granted in respect of proposed acts or omissions.
+    *   (c) made available in printed form for purchase on request by members of the public.
     
-    (3) An exemption shall have effect according to its tenor.
+    (5) An exemption under subsection (1)(c) is of general application and must be published under [section 6][307] of the Legislation Act 2012\.
     
-    (4) An exemption, and the Panel's reasons for granting it, shall be notified in the _Gazette_ as soon as practicable after being granted.
-    
-    (4A) The Panel's reasons for granting an exemption under subsection (1) must include---
+    (6) The Panel's reasons for granting an exemption under this section must be published together with the exemption, and the reasons must include---
         
     *   (a) why it is appropriate that the exemption is granted; and
     
     *   (b) how the exemption is consistent with the objectives of the takeovers code.
     
-    (5) The Panel may defer notifying an exemption in the _Gazette_ if the Panel is satisfied that it is proper to do so on the ground of commercial confidentiality.
+    (7) Subsections (4) and (6) are subject to [section 45A][158].
     
-    (6) The Panel may defer notifying, or omit to notify, the reasons for granting an exemption in the _Gazette_ if the Panel is satisfied that it is proper to do so on the ground of commercial confidentiality.
+    Section 45: replaced, on 5 August 2013, by [section 77(3)][197] of the Legislation Act 2012 (2012 No 119).
+
+##### 45A Deferral of obligations, and variation or revocation of exemptions
     
-    (7) The Panel may vary any exemption granted under this section, and the provisions of this section shall apply, with necessary modifications, in all respects to the variation.
+*   (1) The Panel may defer complying with [section 45(4)][157] if the Panel is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
     
-    (8) The Panel may revoke any exemption granted under this section, and shall notify the revocation in the _Gazette_ as soon as practicable.
+    (2) The Panel may defer publishing, and need not publish, under [section 45][157] the reasons for granting an exemption if the Panel is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
     
-    Section 45(1): substituted, on 1 June 2001, by [section 10(1)][300] of the Takeovers Amendment Act 2001 (2001 No 30).
+    (3) The Panel may vary or revoke an exemption granted under [section 45][157].
     
-    Section 45(1)(a): amended, on 1 December 2002, by [section 37][301] of the Takeovers Amendment Act 2002 (2002 No 45).
+    (4) [Section 45(1) to (5)][157] and this section apply, with necessary modifications, in all respects to a variation or revocation under this section.
     
-    Section 45(1)(b): amended, on 1 December 2002, by [section 37][301] of the Takeovers Amendment Act 2002 (2002 No 45).
-    
-    Section 45(2): amended, on 1 June 2001, by [section 10(2)][300] of the Takeovers Amendment Act 2001 (2001 No 30).
-    
-    Section 45(2A): inserted, on 1 June 2001, by [section 10(3)][300] of the Takeovers Amendment Act 2001 (2001 No 30).
-    
-    Section 45(4A): inserted, on 1 June 2001, by [section 10(4)][300] of the Takeovers Amendment Act 2001 (2001 No 30).
-    
-    Section 45(4A)(b): amended, on 1 December 2002, by [section 37][301] of the Takeovers Amendment Act 2002 (2002 No 45).
+    Section 45A: inserted, on 5 August 2013, by [section 77(3)][197] of the Legislation Act 2012 (2012 No 119).
 
 ##### 46 Regulations
     
@@ -2591,25 +2611,25 @@ Miscellaneous
     
     *   (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    Section 46(a): repealed, on 1 June 2001, by [section 11(1)][302] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(a): repealed, on 1 June 2001, by [section 11(1)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 46(c): substituted, on 1 June 2001, by [section 11(2)][302] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(c): substituted, on 1 June 2001, by [section 11(2)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 46(ca): inserted, on 1 June 2001, by [section 11(2)][302] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(ca): inserted, on 1 June 2001, by [section 11(2)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 46(cb): inserted, on 1 June 2001, by [section 11(2)][302] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(cb): inserted, on 1 June 2001, by [section 11(2)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ##### 47 Amendment to Official Information Act 1982
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 47: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 48 Amendment to Public Finance Act 1989
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 49 Repeal of Companies Amendment Act 1963
     
@@ -2617,13 +2637,13 @@ Miscellaneous
     
     (2) Despite subsection (1), Part 1 of the Companies Amendment Act 1963 continues in force in respect of the acquisition of shares in a company in any case where notice of a takeover scheme has, before the commencement of this section, been served on the company under section 4 of the Companies Amendment Act 1963\.
     
-    Section 49: substituted, on 1 July 2001, by [section 12(1)][303] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 49: substituted, on 1 July 2001, by [section 12(1)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ##### 50 Amendment to Public Finance Act 1989
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 July 2001, by [section 12(1)][303] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 50: repealed, on 1 July 2001, by [section 12(1)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ---
 
@@ -2636,19 +2656,19 @@ Provisions applying to Takeovers Panel
     
 *   \[Repealed\]
     
-    Schedule clause 1: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 1: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 2 Continuation in office after term expires
     
 *   \[Repealed\]
     
-    Schedule clause 2: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 2: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3 Extraordinary vacancies
     
 *   \[Repealed\]
     
-    Schedule clause 3: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 3: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 Meetings of Panel
     
@@ -2660,51 +2680,51 @@ Provisions applying to Takeovers Panel
     
     (3) At any meeting of the Panel the quorum shall be 3 members.
     
-    (4) Subclause (3) applies despite [clause 9][304] of Schedule 5 of the Crown Entities Act 2004\.
+    (4) Subclause (3) applies despite [clause 9][310] of Schedule 5 of the Crown Entities Act 2004\.
     
-    Schedule clause 4(1): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 4(1): repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule clause 4(2): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 4(2): repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule clause 4(2A): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 4(2A): repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule clause 4(4): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 4(4): added, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Chairperson
     
 *   \[Repealed\]
     
-    Schedule clause 5: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 5: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 Voting at meetings
     
 *   \[Repealed\]
     
-    Schedule clause 6: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 6: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7 Procedure
     
 *   \[Repealed\]
     
-    Schedule clause 7: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 7: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 8 Employees of Panel
     
 *   \[Repealed\]
     
-    Schedule clause 8: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 8: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 9 Employment of experts
     
 *   \[Repealed\]
     
-    Schedule clause 9: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 9: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Remuneration and travelling allowances
     
 *   \[Repealed\]
     
-    Schedule clause 10: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule clause 10: repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
@@ -2716,7 +2736,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Takeovers Amendment Act 2002][305].
+*   (1) This Act is the [Takeovers Amendment Act 2002][311].
     
     (2) In this Act, the Takeovers Act 1993 is called "the principal Act".
 
@@ -2744,7 +2764,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Takeovers Amendment Act 2006][306].
+*   This Act is the [Takeovers Amendment Act 2006][312].
 
 ##### 2 Commencement
     
@@ -2758,9 +2778,9 @@ Commencementsee section 2
     
     (3) For the purposes of subsection (2), 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2(2)(a): sections 44B to 44E of the Takeovers Act 1993 as inserted by section 24 brought into force, on 29 February 2008, by [clause 2(1)][307] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
+    Section 2(2)(a): sections 44B to 44E of the Takeovers Act 1993 as inserted by section 24 brought into force, on 29 February 2008, by [clause 2(1)][313] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
     
-    Section 2(2)(b): section 29 brought into force, on 29 February 2008, by [clause 2(2)][307] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
+    Section 2(2)(b): section 29 brought into force, on 29 February 2008, by [clause 2(2)][313] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
 
 #### Transitional provisions
 
@@ -2772,9 +2792,9 @@ Commencementsee section 2
     
     *   (b) by reason of the acquisition of securities in a code company, whether by that person or any other person, on or after the commencement of this section, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the commencement of this section.
     
-    Section 31(a): amended, on 7 July 2010, by [section 20][308] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 31(a): amended, on 7 July 2010, by [section 20][314] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 31(b): amended, on 7 July 2010, by [section 20][308] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 31(b): amended, on 7 July 2010, by [section 20][314] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 32 Transitional provision for existing offences and contraventions
     
@@ -2788,98 +2808,59 @@ Commencementsee section 2
     
     (2) In this section, _existing offence or contravention_ means an offence under, or contravention of, the principal Act or the code that was committed or done before the commencement of this Act.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Takeovers Act 1993\. The reprint incorporates all the amendments to the Act as at 31 August 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][309] ![](/images/external_link.gif).
+*   This is a reprint of the Takeovers Act 1993 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][310] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][315] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][316] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][311] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][317] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][318] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][312] and [17E][313] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][197]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Takeovers Amendment Act 2012][319] (2012 No 68)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][251]
     
+    Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 75][295]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][175]
     
-*   [Takeovers Amendment Act 2012][314] (2012 No 68)
+    [Takeovers Amendment Act 2010][320] (2010 No 88)
     
-    Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 75][291]
+    Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][293]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][173]
+    Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][178]
     
-    [Takeovers Amendment Act 2010][315] (2010 No 88)
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][300]
     
-    Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][289]
-    
-    Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][176]
-    
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][296]
-    
-    [Takeovers Amendment Act 2006][306] (2006 No 48)
+    [Takeovers Amendment Act 2006][312] (2006 No 48)
     
     Crown Entities Act 2004 (2004 No 115): section 200
     
-    [Takeovers Amendment Act 2002][316] (2002 No 45)
+    [Takeovers Amendment Act 2002][321] (2002 No 45)
     
-    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][177]
+    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][179]
     
-    [Takeovers Amendment Act 2001][317] (2001 No 30) 
+    [Takeovers Amendment Act 2001][322] (2001 No 30) 
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][174]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][176]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM325511
 [2]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM325514
 [3]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM325516
@@ -3026,174 +3007,179 @@ Commencementsee section 2
 [144]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326730
 [145]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326732
 [146]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326734
-[147]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326736
-[148]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326738
-[149]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326740
-[150]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326742
-[151]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326744
-[152]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326746
-[153]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326748
-[154]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326750
-[155]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326752
-[156]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326754
-[157]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326760
-[158]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326763
-[159]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326766
-[160]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326769
-[161]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326771
-[162]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326773
-[163]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162666
-[164]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91713
-[165]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM319576
-[166]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231062
-[167]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM139735
-[168]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM319569
-[169]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM26805
-[170]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444807
-[171]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384523
-[172]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162667
-[173]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231793
-[174]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM367235
-[175]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331111
-[176]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2498696
-[177]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162198
-[178]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91714
-[179]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044605
-[180]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM10106
-[181]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM10548
-[182]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444810
-[183]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162676
-[184]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044610
-[185]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384534
-[186]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329641
-[187]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329630
-[188]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331133
-[189]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329955
-[190]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162677
-[191]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162678
-[192]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331147
-[193]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331140
-[194]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162679
-[195]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91719
-[196]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162681
-[197]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162682
-[198]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444814
-[199]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162683
-[200]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044611
-[201]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162684
-[202]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328526
-[203]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328528
-[204]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328753
-[205]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328755
-[206]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329990
-[207]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330374
-[208]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330373
-[209]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM281290
-[210]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM89961
-[211]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM210493
-[212]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162685
-[213]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162686
-[214]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330308
-[215]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384535
-[216]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231705
-[217]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM296638
-[218]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM96438
-[219]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM97348
-[220]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044612
-[221]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162688
-[222]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044613
-[223]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162691
-[224]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044614
-[225]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162692
-[226]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044615
-[227]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162693
-[228]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044616
-[229]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044617
-[230]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162694
-[231]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162695
-[232]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91729
-[233]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162698
-[234]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384538
-[235]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231004
-[236]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3232235
-[237]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330364
-[238]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231726
-[239]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163005
-[240]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29720
-[241]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163007
-[242]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM64784
-[243]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29729
-[244]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163008
-[245]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163009
-[246]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163012
-[247]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163013
-[248]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163015
-[249]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29734
-[250]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29766
-[251]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163016
-[252]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163017
-[253]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163018
-[254]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163019
-[255]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331141
-[256]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384539
-[257]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM27868
-[258]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384543
-[259]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM273056
-[260]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM27876
-[261]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM27813
-[262]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163037
-[263]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384544
-[264]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163039
-[265]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384545
-[266]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044618
-[267]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384546
-[268]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163040
-[269]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM25999
-[270]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM139726
-[271]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384548
-[272]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328758
-[273]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM28126
-[274]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384551
-[275]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044619
-[276]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044620
-[277]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384550
-[278]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384574
-[279]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044621
-[280]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384575
-[281]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384576
-[282]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384577
-[283]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384578
-[284]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384580
-[285]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044622
-[286]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384581
-[287]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384586
-[288]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044623
-[289]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2607873
-[290]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2651100
-[291]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2651320
-[292]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29434
-[293]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM141877
-[294]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM323252
-[295]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM172479
-[296]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1523176
-[297]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM382333
-[298]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044624
-[299]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384828
-[300]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91745
-[301]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163048
-[302]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91746
-[303]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91747
-[304]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331142
-[305]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162660
-[306]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384516
-[307]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1061129
-[308]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044625
-[309]: http://www.pco.parliament.govt.nz/reprints/
-[310]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM195439
-[311]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[312]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM195468
-[313]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM195470
-[314]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444800
-[315]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044600
-[316]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162662
-[317]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91709
+[147]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM5409802
+[148]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326736
+[149]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326738
+[150]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326740
+[151]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326742
+[152]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326744
+[153]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326746
+[154]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326748
+[155]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326750
+[156]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326752
+[157]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326754
+[158]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM5539106
+[159]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326760
+[160]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326763
+[161]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326766
+[162]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326769
+[163]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326771
+[164]: http://www.legislation.govt.nz/act/public/1993/0107/latest/whole.html#DLM326773
+[165]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162666
+[166]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91713
+[167]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM319576
+[168]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231062
+[169]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM139735
+[170]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM319569
+[171]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM26805
+[172]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444807
+[173]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384523
+[174]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162667
+[175]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231793
+[176]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM367235
+[177]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331111
+[178]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2498696
+[179]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162198
+[180]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91714
+[181]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044605
+[182]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM10106
+[183]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM10548
+[184]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444810
+[185]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162676
+[186]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044610
+[187]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384534
+[188]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329641
+[189]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329630
+[190]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331133
+[191]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329955
+[192]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162677
+[193]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162678
+[194]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331147
+[195]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331140
+[196]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162679
+[197]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998633
+[198]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91719
+[199]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162681
+[200]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162682
+[201]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444814
+[202]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162683
+[203]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044611
+[204]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162684
+[205]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328526
+[206]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328528
+[207]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328753
+[208]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328755
+[209]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM329990
+[210]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330374
+[211]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330373
+[212]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM281290
+[213]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM89961
+[214]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM210493
+[215]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162685
+[216]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162686
+[217]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330308
+[218]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384535
+[219]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231705
+[220]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM296638
+[221]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM96438
+[222]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM97348
+[223]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044612
+[224]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162688
+[225]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044613
+[226]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162691
+[227]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044614
+[228]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162692
+[229]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044615
+[230]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162693
+[231]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044616
+[232]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044617
+[233]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162694
+[234]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162695
+[235]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91729
+[236]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162698
+[237]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384538
+[238]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231004
+[239]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3232235
+[240]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM330364
+[241]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3231726
+[242]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163005
+[243]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29720
+[244]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163007
+[245]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM64784
+[246]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29729
+[247]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163008
+[248]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163009
+[249]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163012
+[250]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163013
+[251]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3360714
+[252]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163015
+[253]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29734
+[254]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29766
+[255]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163016
+[256]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163017
+[257]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163018
+[258]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163019
+[259]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331141
+[260]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384539
+[261]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM27868
+[262]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384543
+[263]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM273056
+[264]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM27876
+[265]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM27813
+[266]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163037
+[267]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384544
+[268]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163039
+[269]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384545
+[270]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044618
+[271]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384546
+[272]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM163040
+[273]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM25999
+[274]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM139726
+[275]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384548
+[276]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM328758
+[277]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM28126
+[278]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384551
+[279]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044619
+[280]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044620
+[281]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384550
+[282]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384574
+[283]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044621
+[284]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384575
+[285]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384576
+[286]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384577
+[287]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384578
+[288]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384580
+[289]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044622
+[290]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384581
+[291]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384586
+[292]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044623
+[293]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2607873
+[294]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2651100
+[295]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2651320
+[296]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29434
+[297]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM141877
+[298]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM323252
+[299]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM172479
+[300]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1523176
+[301]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM382333
+[302]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3360067
+[303]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044624
+[304]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384828
+[305]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2997643
+[306]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998573
+[307]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2997696
+[308]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91746
+[309]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91747
+[310]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331142
+[311]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162660
+[312]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384516
+[313]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1061129
+[314]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044625
+[315]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998516
+[316]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998515
+[317]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998532
+[318]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[319]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444800
+[320]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044600
+[321]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162662
+[322]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91709
