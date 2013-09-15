@@ -1,5 +1,5 @@
 Reprint  
-as at 7 July 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -27,49 +27,49 @@ This Act is administered by the Ministry of Justice.
 
 [Title][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
 [Internationally protected persons and United Nations and associated personnel][5]
 
-[3][6] [Crimes against persons][6]
+[3][6][][6][Crimes against persons][6]
 
-[4][7] [Crimes against premises or vehicles][7]
+[4][7][][7][Crimes against premises or vehicles][7]
 
-[5][8] [Threats against persons][8]
+[5][8][][8][Threats against persons][8]
 
-[6][9] [Threats against premises or vehicles][9]
+[6][9][][9][Threats against premises or vehicles][9]
 
-[6A][10] [Sections 3 to 6 not to apply to certain United Nations operations][10]
+[6A][10][][10][Sections 3 to 6 not to apply to certain United Nations operations][10]
 
-[7][11] [Prosecution need not prove certain matters][11]
+[7][11][][11][Prosecution need not prove certain matters][11]
 
 [Hostages][12]
 
-[8][13] [Hostage-taking][13]
+[8][13][][13][Hostage-taking][13]
 
 [General provisions][14]
 
-[9][15] [Extradition Act amended][15] \[Repealed\]
+[9][15][][15][Extradition Act amended][15] \[Repealed\]
 
-[10][16] [Crimes deemed to be included in extradition treaties][16]
+[10][16][][16][Crimes deemed to be included in extradition treaties][16]
 
-[10A][17] [Further provision on crimes deemed to be included in extradition treaties][17]
+[10A][17][][17][Further provision on crimes deemed to be included in extradition treaties][17]
 
-[11][18] [Surrender of offenders][18] \[Repealed\]
+[11][18][][18][Surrender of offenders][18] \[Repealed\]
 
-[12][19] [Restrictions on surrender][19]
+[12][19][][19][Restrictions on surrender][19]
 
-[13][20] [Further restrictions on surrender of offenders][20] \[Repealed\]
+[13][20][][20][Further restrictions on surrender of offenders][20] \[Repealed\]
 
-[14][21] [Attorney-General's consent required to prosecutions][21]
+[14][21][][21][Attorney-General's consent required to prosecutions][21]
 
-[15][22] [Evidence][22]
+[15][22][][22][Evidence][22]
 
-[16][23] [Application of certain provisions of Crimes Act][23]
+[16][23][][23][Application of certain provisions of Crimes Act][23]
 
-[17][24] [Other Acts not affected][24]
+[17][24][][24][Other Acts not affected][24]
 
 [Schedule 1][25]  
 [Crimes against persons protected by a convention][25]
@@ -133,8 +133,6 @@ and for matters incidental to the implementation of those Conventions
         
         to carry out activities in support of the fulfilment of the mandate of a United Nations operation
     
-    _conviction on indictment_ has the same meaning as in [section 3][29] of the Crimes Act 1961
-    
     _internationally protected person_, in relation to an alleged act or omission that constitutes a crime by virtue of or against any of [sections 3 to 6][6], means---
         
     *   (a) a person who, at the time of the alleged act or omission, is---
@@ -161,7 +159,7 @@ and for matters incidental to the implementation of those Conventions
     
     *   (d) a member of the family of a person referred to in paragraph (c) who is a member of that person's household
     
-    _New Zealand_ includes all waters within the outer limits of the territorial sea of New Zealand (as defined by [section 3][30] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
+    _New Zealand_ includes all waters within the outer limits of the territorial sea of New Zealand (as defined by [section 3][29] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
     
     _person protected by a convention_ means---
         
@@ -205,9 +203,11 @@ and for matters incidental to the implementation of those Conventions
     
     (2) In paragraph (a)(i) of the definition of the term internationally protected person in subsection (1), the term _Head of State_ includes, in relation to any Commonwealth country (other than the United Kingdom) of which Her Majesty the Queen is Head of State, the Governor-General or other person who performs the functions of the Head of State as Her Majesty's representative.
     
-    Compare: 1972 No 137 [s 2][31]; Internationally Protected Persons Act 1978 s 1(5) (UK)
+    Compare: 1972 No 137 [s 2][30]; Internationally Protected Persons Act 1978 s 1(5) (UK)
     
-    Section 2(1): replaced, on 1 March 1999, by [section 3][32] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
+    Section 2(1): replaced, on 1 March 1999, by [section 3][31] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
+    
+    Section 2(1) **conviction on indictment**: repealed, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 2(1) **Fugitive Offenders Act 1881**: repealed, on 1 September 1999, by [section 111][33] of the Extradition Act 1999 (1999 No 55).
     
@@ -237,9 +237,11 @@ and for matters incidental to the implementation of those Conventions
         
         
     
-    (2) Every one who commits a crime against this section is liable on conviction on indictment to the same penalty to which he or she would have been liable had he or she been charged with a crime against the relevant provision of the [Crimes Act 1961][36].
+    (2) Every one who commits a crime against this section is liable on conviction to the same penalty to which he or she would have been liable had he or she been charged with a crime against the relevant provision of the [Crimes Act 1961][36].
     
     Section 3: replaced, on 1 March 1999, by [section 4][35] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
+    
+    Section 3(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 4 Crimes against premises or vehicles
     
@@ -265,11 +267,13 @@ and for matters incidental to the implementation of those Conventions
         
         
     
-    (2) Every one who commits a crime against this section is liable on conviction on indictment to the same penalty to which he would have been liable had he been charged with a crime against the relevant provision of the [Crimes Act 1961][36].
+    (2) Every one who commits a crime against this section is liable on conviction to the same penalty to which he would have been liable had he been charged with a crime against the relevant provision of the [Crimes Act 1961][36].
     
     Compare: Internationally Protected Persons Act 1978 s 1(1)(b), (2)(a), (4) (UK)
     
     Section 4(1): replaced, on 1 March 1999, by [section 5][37] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
+    
+    Section 4(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 5 Threats against persons
     
@@ -291,7 +295,7 @@ and for matters incidental to the implementation of those Conventions
     
     *   (d) he or she makes the threat with the intention of compelling the person, or any other person, to do or refrain from doing an act.
     
-    (2) Every one who commits a crime against this section is liable on conviction on indictment to imprisonment for a term not exceeding---
+    (2) Every one who commits a crime against this section is liable on conviction to imprisonment for a term not exceeding---
         
     *   (a) 7 years; or
     
@@ -304,6 +308,8 @@ and for matters incidental to the implementation of those Conventions
     Section 5(1): replaced, on 1 March 1999, by [section 6][38] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
     
     Section 5(1A): inserted, on 1 March 1999, by [section 6][38] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
+    
+    Section 5(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Threats against premises or vehicles
     
@@ -337,13 +343,15 @@ and for matters incidental to the implementation of those Conventions
     
     *   (d) he or she makes the threat with the intention of compelling the person, or any other person, to do or refrain from doing an act.
     
-    (2) Every one who commits a crime against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 years.
+    (2) Every one who commits a crime against this section is liable on conviction to imprisonment for a term not exceeding 3 years.
     
     Compare: Internationally Protected Persons Act 1978 s 1(3), (4) (UK)
     
     Section 6(1): replaced, on 1 March 1999, by [section 7][39] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
     
     Section 6(1A): inserted, on 1 March 1999, by [section 7][39] of the Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36).
+    
+    Section 6(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6A Sections 3 to 6 not to apply to certain United Nations operations
     
@@ -391,7 +399,9 @@ and for matters incidental to the implementation of those Conventions
     
     *   (c) the alleged offender is in New Zealand.
     
-    (3) Every one who commits the crime of hostage-taking is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+    (3) Every one who commits the crime of hostage-taking is liable on conviction to imprisonment for a term not exceeding 14 years.
+    
+    Section 8(3): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### General provisions
 
@@ -607,7 +617,7 @@ Crimes against premises or vehicles of persons protected by a convention
 
 ###### 1 General
     
-*   This is a reprint of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][82] ![](/images/external_link.gif).
 
@@ -654,7 +664,9 @@ Crimes against premises or vehicles of persons protected by a convention
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Amendment Act 2010][87] (2010 No 59)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][32]
+    
+    [Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Amendment Act 2010][87] (2010 No 59)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][55]
     
@@ -701,10 +713,10 @@ Crimes against premises or vehicles of persons protected by a convention
 [26]: http://www.legislation.govt.nz/act/public/1980/0044/latest/whole.html#DLM36768
 [27]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM3041405
 [28]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM103902
-[29]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM328016
-[30]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM442665
-[31]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM409123
-[32]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM426426
+[29]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM442665
+[30]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM409123
+[31]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM426426
+[32]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM3360714
 [33]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM27330
 [34]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM3041407
 [35]: http://www.legislation.govt.nz/act/public/1980/0044/latest/link.aspx?id=DLM426427
