@@ -1,5 +1,5 @@
 Reprint  
-as at 18 September 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Agriculture and Forestry.
+This Act is administered by the Ministry for Primary Industries.
 
 ---
 
@@ -1136,9 +1136,17 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 53 How proceedings commenced
     
-*   (1) Despite [section 14][130] of the Summary Proceedings Act 1957, proceedings for offences are commenced by laying an information under that Act not later than 1 year after the commission of the offence.
+*   (1) Proceedings are commenced by filing a charging document under [section 14][130] of the Criminal Procedure Act 2011\.
     
-    (2) Any person, including the Commission, an enforcement officer, or an honorary enforcement officer, may lay an information.
+    (1A) Despite anything to the contrary in [section 25][131] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
+    
+    (2) Any person, including the Commission, an enforcement officer, or an honorary enforcement officer, may file a charging document.
+    
+    Section 53(1): replaced, on 1 July 2013, by [section 413][132] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 53(1A): inserted, on 1 July 2013, by [section 413][132] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 53(2): amended, on 1 July 2013, by [section 413][132] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences
 
@@ -1174,9 +1182,9 @@ Compliance, enforcement, and miscellaneous provisions
     
     (4) In this section,--- 
     
-    _dog_ does not include a disability assist dog within the meaning of [section 2][131] of the Dog Control Act 1996
+    _dog_ does not include a disability assist dog within the meaning of [section 2][133] of the Dog Control Act 1996
     
-    _noxious weed_ means any plant specified as a pest in a pest management plan made under [Part 5][132] of the Biosecurity Act 1993
+    _noxious weed_ means any plant specified as a pest in a pest management plan made under [Part 5][134] of the Biosecurity Act 1993
     
     _plant_---
         
@@ -1190,7 +1198,7 @@ Compliance, enforcement, and miscellaneous provisions
     
     *   (b) whether or not the plant or part of it is removed from, or subsequently returned alive or dead to, the land on which it grew. 
     
-    Section 54(4) **noxious weed**: amended, on 18 September 2012, by [section 93][133] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 54(4) **noxious weed**: amended, on 18 September 2012, by [section 93][135] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 55 Defences to strict liability offences
     
@@ -1222,7 +1230,7 @@ Compliance, enforcement, and miscellaneous provisions
             
         *   (i) is closed under [section 38][51]; or
         
-        *   (ii) was closed under [section 28][134] of the New Zealand Walkways Act 1990 and remains closed; or
+        *   (ii) was closed under [section 28][136] of the New Zealand Walkways Act 1990 and remains closed; or
         
         
     
@@ -1290,9 +1298,13 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 59 Penalties
     
-*   (1) A person who commits an offence against [section 54][73] is liable on summary conviction to a fine not exceeding $5,000\.
+*   (1) A person who commits an offence against [section 54][73] is liable on conviction to a fine not exceeding $5,000\.
     
-    (2) A person who commits an offence against [section 56][75] is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) A person who commits an offence against [section 56][75] is liable on conviction to a fine not exceeding $10,000\.
+    
+    Section 59(1): amended, on 1 July 2013, by [section 413][132] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 59(2): amended, on 1 July 2013, by [section 413][132] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 60 Penalties for continuing offences 
     
@@ -1300,7 +1312,9 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 61 Penalties for bodies corporate
     
-*   A body corporate that commits an offence against [section 54][73] or 56 is liable on summary conviction to a fine not exceeding 5 times the maximum fine otherwise provided for the offence.
+*   A body corporate that commits an offence against [section 54][73] or 56 is liable on conviction to a fine not exceeding 5 times the maximum fine otherwise provided for the offence.
+    
+    Section 61: amended, on 1 July 2013, by [section 413][132] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Liability of directors and managers
     
@@ -1314,7 +1328,7 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 63 Sentence of community work
     
-*   A court may sentence a person who commits an offence against [section 54][73] or [56][75] to a sentence of community work, and the provisions of subpart 2 of [Part 2][135] of the Sentencing Act 2002 apply accordingly.
+*   A court may sentence a person who commits an offence against [section 54][73] or [56][75] to a sentence of community work, and the provisions of subpart 2 of [Part 2][137] of the Sentencing Act 2002 apply accordingly.
 
 ##### 64 Offenders liable for loss, damage, or costs
     
@@ -1370,7 +1384,7 @@ Compliance, enforcement, and miscellaneous provisions
             
         *   (i) the Occupiers' Liability Act 1962; or
         
-        *   (ii) any common law rule referred to in [section 3][136] of that Act; and
+        *   (ii) any common law rule referred to in [section 3][138] of that Act; and
         
         
     
@@ -1424,7 +1438,7 @@ Compliance, enforcement, and miscellaneous provisions
     
     *   (b) must be made,---
             
-        *   (i) if the controlling authority is a local authority, in accordance with [section 156(1)][137] of the Local Government Act 2002, as if they were made under that Act; or
+        *   (i) if the controlling authority is a local authority, in accordance with [section 156(1)][139] of the Local Government Act 2002, as if they were made under that Act; or
         
         *   (ii) if the controlling authority is not a local authority,---
                 
@@ -1438,7 +1452,9 @@ Compliance, enforcement, and miscellaneous provisions
     
     (4) Despite anything to the contrary in this Act or in any other enactment, the controlling authority must not delegate the power conferred by subsection (1).
     
-    (5) A person who fails to comply with any bylaw made under this section contravenes this subsection and is liable, on summary conviction, to a fine not exceeding $1,000\.
+    (5) A person who fails to comply with any bylaw made under this section contravenes this subsection and is liable, on conviction, to a fine not exceeding $1,000\.
+    
+    Section 68(5): amended, on 1 July 2013, by [section 413][132] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Bylaws to be approved by Commission
     
@@ -1482,15 +1498,15 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 71 Certain other requirements do not apply to bylaws
     
-*   [Section 157][138] of the Local Government Act 2002 does not apply to a bylaw made by a local authority under [section 68][91].
+*   [Section 157][140] of the Local Government Act 2002 does not apply to a bylaw made by a local authority under [section 68][91].
 
 #### Transitional provisions
 
 ##### 72 Existing controlling authorities of walkways to continue
     
-*   (1) An entity that, immediately before the commencement of this Act, is a controlling authority appointed under [section 11][139] of the New Zealand Walkways Act 1990 is to be treated as a controlling authority appointed under [section 35][47] of this Act.
+*   (1) An entity that, immediately before the commencement of this Act, is a controlling authority appointed under [section 11][141] of the New Zealand Walkways Act 1990 is to be treated as a controlling authority appointed under [section 35][47] of this Act.
     
-    (2) If an administering authority or the Minister of Conservation is, immediately before the commencement of this Act, still deemed to be a controlling authority under [section 11(3)][139] or (4) of the New Zealand Walkways Act 1990, the administering authority or the Minister is to be treated as having become a controlling authority under [section 36][48] of this Act.
+    (2) If an administering authority or the Minister of Conservation is, immediately before the commencement of this Act, still deemed to be a controlling authority under [section 11(3)][141] or (4) of the New Zealand Walkways Act 1990, the administering authority or the Minister is to be treated as having become a controlling authority under [section 36][48] of this Act.
 
 ##### 73 Easements, leases, and agreements to vest in Commission
     
@@ -1514,7 +1530,7 @@ Compliance, enforcement, and miscellaneous provisions
     
 *   (1) This section applies to all agreements---
         
-    *   (a) made under [section 16(1)(a)][140] of the New Zealand Walkways Act 1990; and
+    *   (a) made under [section 16(1)(a)][142] of the New Zealand Walkways Act 1990; and
     
     *   (b) that were in existence immediately before the commencement of this Act.
     
@@ -1522,7 +1538,7 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 75 Grants and gifts to Commission
     
-*   (1) All money received under [section 18][141] of the New Zealand Walkways Act 1990 and held in the Department of Conservation Grants and Gifts Trust Account (a Trust Bank Account established under [section 67][142] of the Public Finance Act 1989) immediately before the commencement of this Act---
+*   (1) All money received under [section 18][143] of the New Zealand Walkways Act 1990 and held in the Department of Conservation Grants and Gifts Trust Account (a Trust Bank Account established under [section 67][144] of the Public Finance Act 1989) immediately before the commencement of this Act---
         
     *   (a) vests in the Commission; and
     
@@ -1540,7 +1556,7 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 77 Current contributors to Government Superannuation Fund
     
-*   (1) This section applies to any person who, immediately before being employed by the Commission, was a contributor to the Government Superannuation Fund under [Part 2][143] or [2A][144] of the Government Superannuation Fund Act 1956\.
+*   (1) This section applies to any person who, immediately before being employed by the Commission, was a contributor to the Government Superannuation Fund under [Part 2][145] or [2A][146] of the Government Superannuation Fund Act 1956\.
     
     (2) A person to whom subsection (1) applies is, for the purposes of the Government Superannuation Fund Act 1956, deemed to be employed in the Government service, and that Act applies to the person as if his or her service as an employee of the Commission were Government service.
     
@@ -1584,7 +1600,7 @@ Compliance, enforcement, and miscellaneous provisions
 
 ##### 81 New Zealand Walkways Act 1990 repealed
     
-*   The [New Zealand Walkways Act 1990][145] (1990 No 32) is repealed.
+*   The [New Zealand Walkways Act 1990][147] (1990 No 32) is repealed.
 
 ##### 82 Acts amended
     
@@ -1599,7 +1615,7 @@ Acts amended
 
 ## Consequential amendments to Acts
 
-##### [Conservation Act 1987][146] (1987 No 65)
+##### [Conservation Act 1987][148] (1987 No 65)
 
 Definition of _walkway_ in section 2(1): repeal.
 
@@ -1617,7 +1633,7 @@ Section 26ZS(1)(e): repeal.
 
 Item relating to the New Zealand Walkways Act 1990 in Schedule 1: omit.
 
-##### [Crown Entities Act 2004][147] (2004 No 115)
+##### [Crown Entities Act 2004][149] (2004 No 115)
 
 Part 1 of Schedule 1: insert the following item in its appropriate alphabetical order:
 
@@ -1629,7 +1645,7 @@ Part 1 of Schedule 1: insert the following item in its appropriate alphabetical 
 > 
 > 
 
-##### [Crown Pastoral Land Act 1998][148] (1998 No 65)
+##### [Crown Pastoral Land Act 1998][150] (1998 No 65)
 
 Paragraph (a) of the definition of _protective mechanism_ in section 2: omit ""section 8 of the New Zealand Walkways Act 1990"" and substitute ""sections 26 to 29 of the Walking Access Act 2008"".
 
@@ -1657,7 +1673,7 @@ Section 80(3)(b): repeal and substitute:
 > 
 > 
 
-##### [Hauraki Gulf Marine Park Act 2000][149] (2000 No 1)
+##### [Hauraki Gulf Marine Park Act 2000][151] (2000 No 1)
 
 Section 11(1)(h): repeal.
 
@@ -1665,7 +1681,7 @@ Item relating to the New Zealand Walkways Act 1990 in Schedule 1: omit.
 
 Schedule 1: insert in its appropriate alphabetical order ""Walking Access Act 2008"".
 
-##### [Litter Act 1979][150] (1979 No 41)
+##### [Litter Act 1979][152] (1979 No 41)
 
 Paragraph (l) of the definition of _public place_ in section 2(1): omit ""section 2 of the New Zealand Walkways Act 1975"" and substitute ""section 4 of the Walking Access Act 2008"".
 
@@ -1675,13 +1691,13 @@ Section 6(1)(f): repeal and substitute:
 > 
 > 
 
-##### [Ombudsmen Act 1975][151] (1975 No 9)
+##### [Ombudsmen Act 1975][153] (1975 No 9)
 
 Part 2 of Schedule 1: insert the following item in its appropriate alphabetical order:
 
 > "New Zealand Walking Access Commission".
 
-##### [Summit Road (Canterbury) Protection Act 2001][152] (2001 No 3(L))
+##### [Summit Road (Canterbury) Protection Act 2001][154] (2001 No 3(L))
 
 Definition of _walkway_ in section 4(1): repeal and substitute:
 
@@ -1703,23 +1719,23 @@ Definition of _walkway_ in section 4(1): repeal and substitute:
 
 ###### 1 General
     
-*   This is a reprint of the Walking Access Act 2008\. The reprint incorporates all the amendments to the Act as at 18 September 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Walking Access Act 2008\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][153] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][155] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][154] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][156] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][155] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][157] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][156] and [17E][157] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][158] and [17E][159] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1750,7 +1766,9 @@ Definition of _walkway_ in section 4(1): repeal and substitute:
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][133]
+*   Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][135]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][132]
 
 
 
@@ -1884,31 +1902,33 @@ Definition of _walkway_ in section 4(1): repeal and substitute:
 [127]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM142600
 [128]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM142498
 [129]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM291869
-[130]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM311191
-[131]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM374415
-[132]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM315367
-[133]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM3388552
-[134]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209949
-[135]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM135593
-[136]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM339673
-[137]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM173404
-[138]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM173407
-[139]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209931
-[140]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209936
-[141]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209938
-[142]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM162983
-[143]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM446395
-[144]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM446842
-[145]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209477
-[146]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM103609
-[147]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM329630
-[148]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM426893
-[149]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM52557
-[150]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM33081
-[151]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM430983
-[152]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM85720
-[153]: http://www.pco.parliament.govt.nz/reprints/
-[154]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM195439
-[155]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[156]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM195468
-[157]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM195470
+[130]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM3360057
+[131]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM3360067
+[132]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM3360714
+[133]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM374415
+[134]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM315367
+[135]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM3388552
+[136]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209949
+[137]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM135593
+[138]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM339673
+[139]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM173404
+[140]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM173407
+[141]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209931
+[142]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209936
+[143]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209938
+[144]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM162983
+[145]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM446395
+[146]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM446842
+[147]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM209477
+[148]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM103609
+[149]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM329630
+[150]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM426893
+[151]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM52557
+[152]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM33081
+[153]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM430983
+[154]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM85720
+[155]: http://www.pco.parliament.govt.nz/reprints/
+[156]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM195439
+[157]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[158]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM195468
+[159]: http://www.legislation.govt.nz/act/public/2008/0101/latest/link.aspx?id=DLM195470
