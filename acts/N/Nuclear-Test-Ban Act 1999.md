@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2008
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Foreign Affairs and Trade.
 
@@ -180,9 +180,11 @@ Prohibitions and offences
     
     (2) Every person who engages in conduct prohibited by subsection (1) commits an offence.
     
-    (3) Every person who commits an offence against subsection (2) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years or a fine not exceeding $1,000,000\.
+    (3) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 10 years or a fine not exceeding $1,000,000\.
     
     (4) Nothing in subsections (1) to (3) limits the [New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987][47].
+    
+    Section 5(3): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Prohibitions and offences also apply in certain cases outside New Zealand
     
@@ -194,11 +196,13 @@ Prohibitions and offences
     
     (2) If an offence against [section 5(2)][11] is alleged to have occurred anywhere outside New Zealand,---
         
-    *   (a) an information may be laid only with the consent of the Attorney-General and on his or her certificate that it is expedient that the information be laid:
+    *   (a) a charging document may be filed only with the consent of the Attorney-General and on his or her certificate that it is expedient that the charging document be filed:
     
     *   (b) before the Attorney-General's consent has been obtained, a person may be arrested, or a warrant for a person's arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further or other proceedings are to be taken until that consent has been obtained.
     
-    Compare: 1996 No 37 [s 5][48]
+    Compare: 1996 No 37 [s 5][49]
+    
+    Section 6(2)(a): replaced, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Information and documents
@@ -223,21 +227,25 @@ Information and documents
     
     (4) The Secretary may, by written notice given to a person, require the person to give to the Secretary particular documents, or documents of a particular kind, specified in the notice, within such reasonable period as is specified in the notice.
     
-    Compare: 1996 No 37 [s 14][49]
+    Compare: 1996 No 37 [s 14][50]
 
 ##### 8 Failure to supply information an offence
     
 *   (1) Every person commits an offence who, without reasonable excuse, fails to comply with a notice under [section 7][14] to the extent that the person is capable of complying with it.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    
+    Section 8(2): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 False or misleading statements and documents
     
 *   (1) Every person commits an offence who, in any document prepared under [section 7][14], makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
     
-    Compare: 1996 No 37 [s 15][50]
+    Compare: 1996 No 37 [s 15][51]
+    
+    Section 9(2): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 4  
 Clarification inspections
@@ -254,9 +262,9 @@ Clarification inspections
     
     *   (b) the constable has the functions contemplated, and the powers provided for, in the Treaty for on-site inspections by an international inspector.
     
-    Section 10(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 10(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
     
-    Section 10(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 10(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
 
 ## Part 5  
 On-site inspections
@@ -273,7 +281,7 @@ On-site inspections
     
     *   (c) enabling New Zealand officers to accompany or assist an international inspector.
     
-    Compare: 1996 No 37 [s 16][52]
+    Compare: 1996 No 37 [s 16][53]
 
 #### Access by international inspectors
 
@@ -287,7 +295,7 @@ On-site inspections
     
     *   (c) exercise, in connection with the on-site inspection, a function contemplated, or a power provided for, in the Treaty.
     
-    Compare: 1996 No 37 [s 18][53]
+    Compare: 1996 No 37 [s 18][54]
 
 ##### 13 Persons who may accompany international inspectors
     
@@ -299,9 +307,9 @@ On-site inspections
     
     *   (c) a constable.
     
-    Compare: 1996 No 37 [s 19][54]
+    Compare: 1996 No 37 [s 19][55]
     
-    Section 13(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 13(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
 
 #### Directions
 
@@ -311,9 +319,11 @@ On-site inspections
     
     (2) Every person commits an offence who wilfully fails to comply with a direction given by the Minister under subsection (1).
     
-    (3) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $100,000\.
+    (3) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $100,000\.
     
-    Compare: 1996 No 37 [s 20][55]
+    Compare: 1996 No 37 [s 20][56]
+    
+    Section 14(3): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### New Zealand assistance with on-site inspections
 
@@ -321,13 +331,13 @@ On-site inspections
     
 *   The Minister may appoint any person to accompany or assist an international inspector.
     
-    Compare: 1996 No 37 [s 21][56]
+    Compare: 1996 No 37 [s 21][57]
 
 ##### 16 Identification certificates
     
 *   The Minister may issue a certificate identifying an international inspector or other person authorised to accompany or assist an international inspector.
     
-    Compare: 1996 No 37 [s 22][57]
+    Compare: 1996 No 37 [s 22][58]
 
 #### Enforcement
 
@@ -357,11 +367,11 @@ On-site inspections
     
     *   (c) may be issued without conditions or subject to any conditions the Judge, Justice, Community Magistrate, or Registrar thinks fit.
     
-    Section 17(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 17(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
     
-    Section 17(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 17(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
     
-    Section 17(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 17(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
 
 ##### 18 Search without warrant
     
@@ -375,9 +385,9 @@ On-site inspections
     
     *   (c) delaying entry until a warrant can be obtained would create a real risk that the exercise of a function contemplated, or a power provided for, in the Treaty, would be frustrated.
     
-    Section 18(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 18(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
     
-    Section 18(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][51] of the Policing Act 2008 (2008 No 72).
+    Section 18(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][52] of the Policing Act 2008 (2008 No 72).
 
 ##### 19 Obligations of persons accompanying international inspectors
     
@@ -407,7 +417,7 @@ On-site inspections
     
     (3) If a person appointed under [section 15][28] discovers any offence or suspected offence under this Act as a result of accompanying an international inspector on an on-site inspection, the person must report that offence or suspected offence to the Police as soon as practicable after the completion of that inspection.
     
-    Compare: 1996 No 37 [s 25][58]
+    Compare: 1996 No 37 [s 25][59]
 
 ##### 20 Obstruction of international inspectors
     
@@ -415,9 +425,11 @@ On-site inspections
     
     (2) Nothing in subsection (1) applies to a refusal to give consent to entry by an international inspector who is not acting pursuant to [section 18][32] or a search warrant (whether issued under [section 17][31] or otherwise).
     
-    (3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000\.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000\.
     
-    Compare: 1996 No 37 [s 26][59]
+    Compare: 1996 No 37 [s 26][60]
+    
+    Section 20(3): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
@@ -430,7 +442,7 @@ Miscellaneous provisions
     
     (2) A self-incriminating statement or document made or given under this Act or the Treaty is not admissible as evidence in criminal proceedings against that person except on the prosecution of that person for an offence against [section 9(1)][16] in relation to that statement or document.
     
-    Compare: 1996 No 37 [s 28][60]
+    Compare: 1996 No 37 [s 28][61]
 
 #### Regulations
 
@@ -440,7 +452,7 @@ Miscellaneous provisions
         
     *   (a) providing for any matter that is necessary or desirable for the purpose of implementing the Treaty or any agreement or arrangement that is concluded between New Zealand and the Organization under the Treaty:
     
-    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
     
     *   (c) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
     
@@ -450,9 +462,13 @@ Miscellaneous provisions
     
     *   (b) revoke the [Schedule][44], and substitute a new schedule setting out in an up-to-date form the text of the extracts of the Treaty.
     
-    (3) Any order made under subsection (2) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][61] and the [Regulations (Disallowance) Act 1989][62].
+    (3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][62] and must be presented to the House of Representatives under [section 41][63] of that Act.
     
-    Compare: 1996 No 37 [s 29(1)][63]
+    Compare: 1996 No 37 [s 29(1)][64]
+    
+    Section 22(1)(b): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 22(3): replaced, on 5 August 2013, by [section 77(3)][65] of the Legislation Act 2012 (2012 No 119).
 
 #### Application to Tokelau
 
@@ -460,7 +476,7 @@ Miscellaneous provisions
     
 *   (1) Subject to subsections (2) to (4), this Act is in force in Tokelau.
     
-    (2) A prosecution for an offence under this Act alleged to have been committed in Tokelau is to be heard and determined by the High Court of New Zealand in the exercise of its powers under [section 3][64] of the Tokelau Amendment Act 1986\.
+    (2) A prosecution for an offence under this Act alleged to have been committed in Tokelau is to be heard and determined by the High Court of New Zealand in the exercise of its powers under [section 3][66] of the Tokelau Amendment Act 1986\.
     
     (3) An application for a search warrant under [section 17(1)][31] in respect of a place in Tokelau is to be heard and determined by a Judge of the High Court of New Zealand.
     
@@ -476,13 +492,13 @@ Miscellaneous provisions
 
 ##### 24 Amendment to Diplomatic Privileges and Immunities Act 1968
     
-*   [Section 10A][65] of the Diplomatic Privileges and Immunities Act 1968 is amended by inserting, after paragraph (aa), the following paragraph:
+*   [Section 10A][67] of the Diplomatic Privileges and Immunities Act 1968 is amended by inserting, after paragraph (aa), the following paragraph:
     
     > *   "(ab) confer upon any persons to whom paragraph 57 of Article II of the Comprehensive Nuclear-Test-Ban Treaty applies, and any persons to whom Part II, Section B of the Protocol to that Treaty applies, any additional privileges and immunities that are required by that Treaty; and".
     > 
     > 
     
-    Compare: 1996 No 37 [s 31][66]
+    Compare: 1996 No 37 [s 31][68]
 
 ---
 
@@ -491,65 +507,65 @@ Extracts from the English text of the Comprehensive Nuclear-Test-Ban Treaty
 
 [s 2(1)][5]
 
-**Contents**
+## Contents
 
-\[_This table is not part of the Treaty and is included for convenience_\]
+\[This table is not part of the Treaty and is included for convenience\]
 
-_Page_
+[Preamble][69] 
 
-[Preamble][67] 16
+1\.[Basic obligations][70] 
 
-1\.[Basic obligations][68] 17
+2\.[The Organization][71] 
 
-2\.[The Organization][69] 18
+3\.[National implementation measures][72] 
 
-3\.[National implementation measures][70] 31
+4\.[Verification][73] 
 
-4\.[Verification][71] 32
+5\.[Measures to redress a situation and to ensure compliance including sanctions][74] 
 
-5\.[Measures to redress a situation and to ensure compliance including sanctions][72] 51
+6\.[Settlement of disputes][75] 
 
-6\.[Settlement of disputes][73] 52
+7\.[Amendments][76] 
 
-7\.[Amendments][74] 53
+8\.[Review of the Treaty][77] 
 
-8\.[Review of the Treaty][75] 55
+9\.[Duration and withdrawal][78] 
 
-9\.[Duration and withdrawal][76] 56
+10\.[Status of the Protocol and the Annexes][79] 
 
-10\.[Status of the Protocol and the Annexes][77] 56
+11\.[Signature][80] 
 
-11\.[Signature][78] 57
+12\.[Ratification][81] 
 
-12\.[Ratification][79] 57
+13\.[Accession][82] 
 
-13\.[Accession][80] 57
+14\.[Entry into force][83] 
 
-14\.[Entry into force][81] 57
+15\.[Reservations][84] 
 
-15\.[Reservations][82] 58
+16\.[Depositary][85] 
 
-16\.[Depositary][83] 58
+17\.[Authentic texts][86] 
 
-17\.[Authentic texts][84] 58
+[Annex 1 to the Treaty -- List of States pursuant to Article II, paragraph 28][87] 
 
-[Annex 1 to the Treaty -- List of States pursuant to Article II, paragraph 28][85] 59
+[Annex 2 to the Treaty -- List of States pursuant to Article XIV][88] 
 
-[Annex 2 to the Treaty -- List of States pursuant to Article XIV][86] 60
+[Protocol][89] 
 
-[Protocol][87] 61
+1\.[The International Monitoring System and International Data Centre functions][90] 
 
-1\.[The International Monitoring System and International Data Centre functions][88] 61
+2\.[On-site inspections][91] 
 
-2\.[On-site inspections][89] 69
+3\.[Confidence-building measures][92] 
 
-3\.[Confidence-building measures][90] 95
+[Annex 1 to the Protocol (_extracts only_) -- Tables listing stations and laboratories][93] 
 
-[Annex 1 to the Protocol (_extracts only_) -- Tables listing stations and laboratories][91] 96
+[Annex 2 to the Protocol -- List of characterization parameters for International Data Centre standard event screening][94] 
 
-[Annex 2 to the Protocol -- List of characterization parameters for International Data Centre standard event screening][92] 98
+---
 
-**The Comprehensive Nuclear-Test-Ban Treaty**
+#### **The Comprehensive Nuclear-Test-Ban Treaty**
 
 ## Preamble
 
@@ -1586,74 +1602,35 @@ List of characterization parameters for International Data Centre standard event
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Nuclear-Test-Ban Act 1999\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Nuclear-Test-Ban Act 1999 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][93] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][95] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][96] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][97] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][98] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][94] and [17E][95] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][65]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][51]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][52]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM19384
 [2]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM19386
 [3]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM19387
@@ -1701,51 +1678,54 @@ List of characterization parameters for International Data Centre standard event
 [45]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386870
 [46]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386880
 [47]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM115115
-[48]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386881
-[49]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386892
-[50]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386893
-[51]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM1102349
-[52]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386895
-[53]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386898
-[54]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386899
-[55]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388301
-[56]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388303
-[57]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388304
-[58]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388309
-[59]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388310
-[60]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388313
-[61]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM195097
-[62]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM195534
-[63]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388314
-[64]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM93121
-[65]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388052
-[66]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388316
-[67]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792300
-[68]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092415
-[69]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792303
-[70]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092426
-[71]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792306
-[72]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092446
-[73]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092447
-[74]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092448
-[75]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092449
-[76]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092450
-[77]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092451
-[78]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092452
-[79]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092453
-[80]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092454
-[81]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092455
-[82]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092456
-[83]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092457
-[84]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092458
-[85]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092459
-[86]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092460
-[87]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092461
-[88]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792325
-[89]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792327
-[90]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092478
-[91]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092479
-[92]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092480
-[93]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM195439
-[94]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM195468
-[95]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM195470
+[48]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM3360714
+[49]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386881
+[50]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386892
+[51]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386893
+[52]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM1102349
+[53]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386895
+[54]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386898
+[55]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM386899
+[56]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388301
+[57]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388303
+[58]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388304
+[59]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388309
+[60]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388310
+[61]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388313
+[62]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM2997643
+[63]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM2998573
+[64]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388314
+[65]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM2998633
+[66]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM93121
+[67]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388052
+[68]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM388316
+[69]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792300
+[70]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092415
+[71]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792303
+[72]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092426
+[73]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792306
+[74]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092446
+[75]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092447
+[76]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092448
+[77]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092449
+[78]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092450
+[79]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092451
+[80]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092452
+[81]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092453
+[82]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092454
+[83]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092455
+[84]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092456
+[85]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092457
+[86]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092458
+[87]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092459
+[88]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092460
+[89]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092461
+[90]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792325
+[91]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2792327
+[92]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092478
+[93]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092479
+[94]: http://www.legislation.govt.nz/act/public/1999/0010/latest/whole.html#DLM2092480
+[95]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM2998516
+[96]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM2998515
+[97]: http://www.legislation.govt.nz/act/public/1999/0010/latest/link.aspx?id=DLM2998532
+[98]: http://www.pco.parliament.govt.nz/editorial-conventions/
