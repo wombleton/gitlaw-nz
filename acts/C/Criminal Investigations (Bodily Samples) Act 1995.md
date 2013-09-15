@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,9 +15,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -27,338 +27,338 @@ This Act is administered by the Ministry of Justice.
 
 [Title][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
 [Part 1][4]  
 [Preliminary provisions][4]
 
-[2][5] [Interpretation][5]
+[2][5][][5][Interpretation][5]
 
-[2A][6] [Meaning of independent adult][6]
+[2A][6][][6][Meaning of independent adult][6]
 
-[3][7] [Act to bind the Crown][7]
+[3][7][][7][Act to bind the Crown][7]
 
-[4][8] [Application][8]
+[4][8][][8][Application][8]
 
-[4A][9] [Detained under sentence of imprisonment][9]
+[4A][9][][9][Detained under sentence of imprisonment][9]
 
-[4B][10] [Approval of agency to determine training criteria for dealing with, and device or other means for taking, buccal samples][10]
+[4B][10][][10][Approval of agency to determine training criteria for dealing with, and device or other means for taking, buccal samples][10]
 
 [Part 2][11]  
 [Obtaining bodily samples from suspects][11]
 
 [Authority to obtain bodily sample from suspects][12]
 
-[5][13] [Authority to take bodily sample from suspect][13]
+[5][13][][13][Authority to take bodily sample from suspect][13]
 
-[5A][14] [Relationship to Part 2B][14]
+[5A][14][][14][Relationship to Part 2B][14]
 
 [Obtaining bodily sample by consent][15]
 
-[6][16] [Request to consent to taking of bodily sample][16]
+[6][16][][16][Request to consent to taking of bodily sample][16]
 
-[7][17] [Form and content of notice][17]
+[7][17][][17][Form and content of notice][17]
 
-[8][18] [Suspect requests to persons under 17][18]
+[8][18][][18][Suspect requests to persons under 17][18]
 
-[9][19] [Consent to taking of bodily sample][19]
+[9][19][][19][Consent to taking of bodily sample][19]
 
-[10][20] [Withdrawal of consent][20]
+[10][20][][20][Withdrawal of consent][20]
 
-[11][21] [Consent deemed to have been refused][21]
+[11][21][][21][Consent deemed to have been refused][21]
 
-[12][22] [Right of suspect in custody to consult lawyer][22]
+[12][22][][22][Right of suspect in custody to consult lawyer][22]
 
 [Obtaining bodily sample by court order from persons 17 and over][23]
 
-[13][24] [Application for order authorising taking of bodily sample][24]
+[13][24][][24][Application for order authorising taking of bodily sample][24]
 
-[14][25] [Prohibition against publication of name of respondent][25]
+[14][25][][25][Prohibition against publication of name of respondent][25]
 
-[15][26] [Information may be withheld from respondent][26]
+[15][26][][26][Information may be withheld from respondent][26]
 
-[16][27] [Judge may authorise bodily sample to be taken][27]
+[16][27][][27][Judge may authorise bodily sample to be taken][27]
 
-[17][28] [Further applications for suspect compulsion order][28]
+[17][28][][28][Further applications for suspect compulsion order][28]
 
-[17A][29] [Judge to specify method of taking sample if further suspect compulsion order made][29]
+[17A][29][][29][Judge to specify method of taking sample if further suspect compulsion order made][29]
 
 [Obtaining bodily sample by court order from persons under 17][30]
 
-[18][31] [Application for order authorising taking of bodily sample from person under 17][31]
+[18][31][][31][Application for order authorising taking of bodily sample from person under 17][31]
 
-[19][32] [Prohibition against publication of name of respondent under 17][32]
+[19][32][][32][Prohibition against publication of name of respondent under 17][32]
 
-[20][33] [Sections 15, 17, and 17A to apply][33]
+[20][33][][33][Sections 15, 17, and 17A to apply][33]
 
-[21][34] [Appointment of lawyer to represent respondent][34]
+[21][34][][34][Appointment of lawyer to represent respondent][34]
 
-[22][35] [Further provisions relating to appointment of lawyer for respondent][35]
+[22][35][][35][Further provisions relating to appointment of lawyer for respondent][35]
 
-[23][36] [Judge may authorise bodily sample to be taken][36]
+[23][36][][36][Judge may authorise bodily sample to be taken][36]
 
 [Form and content of compulsion order][37]
 
-[24][38] [Form and content of compulsion order][38]
+[24][38][][38][Form and content of compulsion order][38]
 
-[24A][39] [Conditions included in compulsion order][39]
+[24A][39][][39][Conditions included in compulsion order][39]
 
-[24B][40] [Parent or other person having care to be notified if Police suggest variation of juvenile compulsion order][40]
+[24B][40][][40][Parent or other person having care to be notified if Police suggest variation of juvenile compulsion order][40]
 
 [Part 2A][41]  
 [Obtaining buccal sample from suspect who is child or was child when offence for which suspect may not be lawfully prosecuted committed][41]
 
 [Authority to obtain buccal sample from suspect][42]
 
-[24C][43] [Authority to obtain buccal sample from suspect][43]
+[24C][43][][43][Authority to obtain buccal sample from suspect][43]
 
 [Obtaining buccal sample from suspect][44]
 
-[24D][45] [Request to consent to taking of buccal sample from suspect][45]
+[24D][45][][45][Request to consent to taking of buccal sample from suspect][45]
 
-[24E][46] [Police obligations if Part 2A request made][46]
+[24E][46][][46][Police obligations if Part 2A request made][46]
 
-[24F][47] [Form and content of notice][47]
+[24F][47][][47][Form and content of notice][47]
 
-[24G][48] [Consent to taking of buccal sample][48]
+[24G][48][][48][Consent to taking of buccal sample][48]
 
-[24H][49] [Withdrawal of consent][49]
+[24H][49][][49][Withdrawal of consent][49]
 
-[24I][50] [Buccal sample to be forwarded to approved agency as soon as practicable][50]
+[24I][50][][50][Buccal sample to be forwarded to approved agency as soon as practicable][50]
 
 [Part 2B][51]  
 [Taking bodily sample from person arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule][51]
 
-[24J][52] [Authority to take bodily sample from person of or over 17 years arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule][52]
+[24J][52][][52][Authority to take bodily sample from person of or over 17 years arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule][52]
 
-[24K][53] [Authority to take bodily sample from young person arrested or intended to be charged with relevant offence][53]
+[24K][53][][53][Authority to take bodily sample from young person arrested or intended to be charged with relevant offence][53]
 
-[24L][54] [Relationship to Part 2][54]
+[24L][54][][54][Relationship to Part 2][54]
 
-[24M][55] [Information to be given to person][55]
+[24M][55][][55][Information to be given to person][55]
 
-[24N][56] [Form and content of notice][56]
+[24N][56][][56][Form and content of notice][56]
 
-[24O][57] [Part 2B temporary databank][57]
+[24O][57][][57][Part 2B temporary databank][57]
 
-[24P][58] [Information that may be kept on Part 2B temporary databank][58]
+[24P][58][][58][Information that may be kept on Part 2B temporary databank][58]
 
-[24Q][59] [Removal of DNA profiles from Part 2B temporary databank][59]
+[24Q][59][][59][Removal of DNA profiles from Part 2B temporary databank][59]
 
-[24R][60] [Access to and disclosure of information on Part 2B temporary databank][60]
+[24R][60][][60][Access to and disclosure of information on Part 2B temporary databank][60]
 
-[24S][61] [Access to and use of bodily samples taken under this Part][61]
+[24S][61][][61][Access to and use of bodily samples taken under this Part][61]
 
 [Part 3][62]  
 [DNA profile databank][62]
 
 [DNA profile databank][63]
 
-[25][64] [DNA profile databank][64]
+[25][64][][64][DNA profile databank][64]
 
-[26][65] [Information that may be kept on DNA profile databank][65]
+[26][65][][65][Information that may be kept on DNA profile databank][65]
 
-[26A][66] [Removal of certain DNA profiles from DNA profile databank][66]
+[26A][66][][66][Removal of certain DNA profiles from DNA profile databank][66]
 
-[26B][67] [Certain young persons may apply for removal of DNA profiles from DNA profile databank][67]
+[26B][67][][67][Certain young persons may apply for removal of DNA profiles from DNA profile databank][67]
 
-[27][68] [Access to and disclosure of information on DNA profile databank][68]
+[27][68][][68][Access to and disclosure of information on DNA profile databank][68]
 
-[28][69] [Access to and use of bodily samples held for DNA profile databank purposes][69]
+[28][69][][69][Access to and use of bodily samples held for DNA profile databank purposes][69]
 
 [Authority to obtain bodily sample for DNA profile databank][70]
 
-[29][71] [Authority to take bodily sample for DNA profile databank][71]
+[29][71][][71][Authority to take bodily sample for DNA profile databank][71]
 
 [Obtaining bodily sample by consent][72]
 
-[30][73] [Request to consent to taking of bodily sample][73]
+[30][73][][73][Request to consent to taking of bodily sample][73]
 
-[31][74] [Form and content of notice][74]
+[31][74][][74][Form and content of notice][74]
 
-[32][75] [Section 30 not to apply to persons under 17][75]
+[32][75][][75][Section 30 not to apply to persons under 17][75]
 
-[33][76] [Dual requests][76]
+[33][76][][76][Dual requests][76]
 
-[34][77] [Consent to taking of bodily sample][77]
+[34][77][][77][Consent to taking of bodily sample][77]
 
-[35][78] [Right of person in custody to consult lawyer][78]
+[35][78][][78][Right of person in custody to consult lawyer][78]
 
-[36][79] [Withdrawal of consent after sample taken][79]
+[36][79][][79][Withdrawal of consent after sample taken][79]
 
-[37][80] [Withdrawal of consent suspended][80]
+[37][80][][80][Withdrawal of consent suspended][80]
 
-[38][81] [Retention of sample despite withdrawal of consent][81]
+[38][81][][81][Retention of sample despite withdrawal of consent][81]
 
 [Obtaining bodily sample by databank compulsion notice][82]
 
-[39][83] [Issue and service of databank compulsion notice][83]
+[39][83][][83][Issue and service of databank compulsion notice][83]
 
-[39A][84] [Form and content of databank compulsion notice][84]
+[39A][84][][84][Form and content of databank compulsion notice][84]
 
-[39B][85] [Form and content of databank compulsion notice issued in relation to person under age of 17 years][85]
+[39B][85][][85][Form and content of databank compulsion notice issued in relation to person under age of 17 years][85]
 
-[39C][86] [Date and place for taking of sample to be specified in databank compulsion notice][86]
+[39C][86][][86][Date and place for taking of sample to be specified in databank compulsion notice][86]
 
-[39D][87] [Parent or other person having care to be notified if Police suggest variation of databank compulsion notice issued in relation to person under age of 17 years][87]
+[39D][87][][87][Parent or other person having care to be notified if Police suggest variation of databank compulsion notice issued in relation to person under age of 17 years][87]
 
-[40][88] [Databank compulsion notice of no effect if conviction for relevant offence quashed][88]
+[40][88][][88][Databank compulsion notice of no effect if conviction for relevant offence quashed][88]
 
 [Databank compulsion notice hearing][89]
 
-[41][90] [Databank compulsion notice hearing may be requested on certain grounds][90]
+[41][90][][90][Databank compulsion notice hearing may be requested on certain grounds][90]
 
-[41A][91] [Form and effect of request for databank compulsion notice hearing][91]
+[41A][91][][91][Form and effect of request for databank compulsion notice hearing][91]
 
-[41B][92] [Obligations if databank compulsion notice hearing requested][92]
+[41B][92][][92][Obligations if databank compulsion notice hearing requested][92]
 
-[41C][93] [Appearance at databank compulsion notice hearing][93]
+[41C][93][][93][Appearance at databank compulsion notice hearing][93]
 
 [Part 3 orders and other orders made at databank compulsion notice hearings][94]
 
-[42][95] [Part 3 orders and other orders made at databank compulsion notice hearings][95]
+[42][95][][95][Part 3 orders and other orders made at databank compulsion notice hearings][95]
 
-[43][96] [Judge may vary, or impose conditions on, databank compulsion notice][96]
+[43][96][][96][Judge may vary, or impose conditions on, databank compulsion notice][96]
 
-[43A][97] [Change of circumstances before databank compulsion notice hearing takes place or is completed][97]
+[43A][97][][97][Change of circumstances before databank compulsion notice hearing takes place or is completed][97]
 
-[43B][98] [Order that databank compulsion notice of no effect must be made in certain circumstances][98]
+[43B][98][][98][Order that databank compulsion notice of no effect must be made in certain circumstances][98]
 
 [Further databank compulsion notice][99]
 
-[44][100] [Further databank compulsion notice][100]
+[44][100][][100][Further databank compulsion notice][100]
 
-[44A][101] [Certain matters relating to further databank compulsion notice][101]
+[44A][101][][101][Certain matters relating to further databank compulsion notice][101]
 
-[44B][102] [Judge to specify method of taking sample if further databank compulsion notice issued][102]
+[44B][102][][102][Judge to specify method of taking sample if further databank compulsion notice issued][102]
 
 [Part 4][103]  
 [Procedures for taking bodily samples][103]
 
 [Attendance for purpose of taking bodily sample: Compulsion order or databank compulsion notice][104]
 
-[45AA][105] [Date on which bodily sample to be taken][105]
+[45AA][105][][105][Date on which bodily sample to be taken][105]
 
-[45][106] [Judge may issue warrant for arrest and detention][106]
+[45][106][][106][Judge may issue warrant for arrest and detention][106]
 
-[45A][107] [Form and effect of warrant for arrest and detention][107]
+[45A][107][][107][Form and effect of warrant for arrest and detention][107]
 
-[46][108] [Person in custody to attend to give bodily sample][108]
+[46][108][][108][Person in custody to attend to give bodily sample][108]
 
-[46A][109] [Person detained or required to remain at residence to attend to give bodily sample][109]
+[46A][109][][109][Person detained or required to remain at residence to attend to give bodily sample][109]
 
-[47][110] [Variation by Judge on application of place and date for taking sample][110]
+[47][110][][110][Variation by Judge on application of place and date for taking sample][110]
 
 [Procedure for taking bodily samples][111]
 
-[48][112] [Method by which bodily sample may be taken: samples under Parts 2, 2A, and 3][112]
+[48][112][][112][Method by which bodily sample may be taken: samples under Parts 2, 2A, and 3][112]
 
-[48A][113] [Method by which bodily sample may be taken: samples under Part 2B][113]
+[48A][113][][113][Method by which bodily sample may be taken: samples under Part 2B][113]
 
-[49][114] [Persons authorised to take blood samples][114]
+[49][114][][114][Persons authorised to take blood samples][114]
 
-[49A][115] [Persons authorised to take buccal samples][115]
+[49A][115][][115][Persons authorised to take buccal samples][115]
 
-[50][116] [Person giving sample under Part 2, 2A, or 3 entitled to have certain other persons present][116]
+[50][116][][116][Person giving sample under Part 2, 2A, or 3 entitled to have certain other persons present][116]
 
-[50A][117] [Other person must be present when young person gives sample under Part 2B][117]
+[50A][117][][117][Other person must be present when young person gives sample under Part 2B][117]
 
-[50B][118] [Further provision if other person chosen to be present not present when choice made][118]
+[50B][118][][118][Further provision if other person chosen to be present not present when choice made][118]
 
-[50C][119] [Judge may issue warrant for arrest and detention if young person fails to attend in accordance with notice under section 50B][119]
+[50C][119][][119][Judge may issue warrant for arrest and detention if young person fails to attend in accordance with notice under section 50B][119]
 
-[50D][120] [Form and effect of warrant issued under section 50C][120]
+[50D][120][][120][Form and effect of warrant issued under section 50C][120]
 
-[51][121] [Suitably qualified persons and certain other persons, not compelled to take sample or be present][121]
+[51][121][][121][Suitably qualified persons and certain other persons, not compelled to take sample or be present][121]
 
-[52][122] [Who may be present when bodily sample taken][122]
+[52][122][][122][Who may be present when bodily sample taken][122]
 
-[52A][123] [Who must be present when suspect under age of 17 years takes own buccal sample for suspect request or Part 2A request][123]
+[52A][123][][123][Who must be present when suspect under age of 17 years takes own buccal sample for suspect request or Part 2A request][123]
 
-[53][124] [Reasonable privacy to be afforded][124]
+[53][124][][124][Reasonable privacy to be afforded][124]
 
-[54][125] [Procedure for taking bodily sample pursuant to compulsion order or databank compulsion notice][125]
+[54][125][][125][Procedure for taking bodily sample pursuant to compulsion order or databank compulsion notice][125]
 
-[54A][126] [Procedure for taking bodily sample under Part 2B][126]
+[54A][126][][126][Procedure for taking bodily sample under Part 2B][126]
 
-[55][127] [How venous sample to be dealt with][127]
+[55][127][][127][How venous sample to be dealt with][127]
 
-[56][128] [How fingerprick sample to be dealt with][128]
+[56][128][][128][How fingerprick sample to be dealt with][128]
 
-[56A][129] [How buccal sample to be dealt with][129]
+[56A][129][][129][How buccal sample to be dealt with][129]
 
 [Analysis of bodily samples and other material][130]
 
-[57][131] [Analysis of material found at scene, etc][131]
+[57][131][][131][Analysis of material found at scene, etc][131]
 
-[58][132] [Analysis of bodily sample][132]
+[58][132][][132][Analysis of bodily sample][132]
 
-[59][133] [Records of analysis to be made available][133]
+[59][133][][133][Records of analysis to be made available][133]
 
 [Disposal of bodily samples][134]
 
-[60][135] [Disposal of bodily samples and identifying information obtained under Part 2][135]
+[60][135][][135][Disposal of bodily samples and identifying information obtained under Part 2][135]
 
-[60A][136] [Disposal of bodily samples and identifying information obtained under Part 2B][136]
+[60A][136][][136][Disposal of bodily samples and identifying information obtained under Part 2B][136]
 
-[61][137] [Extension of period for which sample may be retained][137]
+[61][137][][137][Extension of period for which sample may be retained][137]
 
-[61A][138] [Disposal of buccal samples and identifying information obtained under Part 2A][138]
+[61A][138][][138][Disposal of buccal samples and identifying information obtained under Part 2A][138]
 
-[62][139] [Disposal of bodily samples and identifying information obtained under Part 3][139]
+[62][139][][139][Disposal of bodily samples and identifying information obtained under Part 3][139]
 
-[63][140] [Material extracted from samples to be destroyed][140]
+[63][140][][140][Material extracted from samples to be destroyed][140]
 
 [Part 5][141]  
 [Miscellaneous provisions][141]
 
 [Procedural and evidential provisions][142]
 
-[64][143] [Translation of notices][143]
+[64][143][][143][Translation of notices][143]
 
-[65][144] [No right of appeal][144]
+[65][144][][144][No right of appeal][144]
 
-[66][145] [Court may dispense with service][145]
+[66][145][][145][Court may dispense with service][145]
 
-[67][146] [Application of Legal Services Act 2000][146]
+[67][146][][146][Application of Legal Services Act 2000][146]
 
-[68][147] [Standard of proof][147]
+[68][147][][147][Standard of proof][147]
 
-[69][148] [Non-attendance of persons not to affect admissibility of evidence][148]
+[69][148][][148][Non-attendance of persons not to affect admissibility of evidence][148]
 
-[70][149] [Inference may be drawn from refusal to allow sample to be taken][149]
+[70][149][][149][Inference may be drawn from refusal to allow sample to be taken][149]
 
-[71][150] [Information stored on DNA profile databank or obtained under Part 2B not admissible in criminal proceedings][150]
+[71][150][][150][Information stored on DNA profile databank or obtained under Part 2B not admissible in criminal proceedings][150]
 
-[71A][151] [Judge may consent to bodily sample taken under Part 2B being retained and used for evidential purposes][151]
+[71A][151][][151][Judge may consent to bodily sample taken under Part 2B being retained and used for evidential purposes][151]
 
 [Miscellaneous provisions][152]
 
-[72][153] [Other powers and abilities to take specimens from person's body not affected][153]
+[72][153][][153][Other powers and abilities to take specimens from person's body not affected][153]
 
-[73][154] [Consent to taking of bodily sample may not be given on person's behalf][154]
+[73][154][][154][Consent to taking of bodily sample may not be given on person's behalf][154]
 
-[74][155] [Payment of lawyer appointed to represent suspect][155]
+[74][155][][155][Payment of lawyer appointed to represent suspect][155]
 
-[75][156] [Fees and expenses of lay advocate][156]
+[75][156][][156][Fees and expenses of lay advocate][156]
 
-[76][157] [Information relating to bodily samples to be included in annual report of Police][157]
+[76][157][][157][Information relating to bodily samples to be included in annual report of Police][157]
 
-[77][158] [Offences][158]
+[77][158][][158][Offences][158]
 
-[78][159] [Breach of compulsion order or Part 3 order not punishable as contempt][159]
+[78][159][][159][Breach of compulsion order or Part 3 order not punishable as contempt][159]
 
-[79][160] [Indemnity][160]
+[79][160][][160][Indemnity][160]
 
-[80][161] [Regulations][161]
+[80][161][][161][Regulations][161]
 
-[81][162] [Rules][162]
+[81][162][][162][Rules][162]
 
-[82][163] [Amendment to Summary Proceedings Act 1957][163] \[Repealed\]
+[82][163][][163][Amendment to Summary Proceedings Act 1957][163] \[Repealed\]
 
-[83][164] [Transitional provision][164]
+[83][164][][164][Transitional provision][164]
 
-[84][165] [Savings][165]
+[84][165][][165][Savings][165]
 
 [Schedule][166]  
 [Relevant offences][166]
@@ -413,7 +413,7 @@ Preliminary provisions
     
     _buccal sample_ means a sample of epithelial cells from inside the mouth taken by a device, or provided by other means, approved for the purpose under [section 4B(1)(b)][10]
     
-    _charged_, in relation to a person, means that an information charging the person with an offence has been filed in a District Court or Youth Court and a summons or warrant to arrest the person has been issued in respect of the offence charged
+    _charged_, in relation to a person, means that a charging document charging the person with an offence has been filed in a District Court (including in relation to proceedings in the Youth Court)
     
     _child_ means a person of or over the age of 10 years but under the age of 14 years
     
@@ -427,7 +427,7 @@ Preliminary provisions
     
     *   (b) an acquittal on account of insanity; and
     
-    *   (c) the dismissal of an information on account of insanity; and
+    *   (c) the dismissal of a charge on account of insanity; and
     
     *   (d) a finding that the person is unfit to stand trial;---
     
@@ -469,15 +469,13 @@ Preliminary provisions
     
     _independent adult_ has the meaning given to it in section 2A
     
-    _indictable offence_ has the same meaning as it has in the [Summary Proceedings Act 1957][169]
-    
     _juvenile compulsion order_ means an order made under [section 23][36]
     
-    _lawyer_ has the meaning given to it by [section 6][170] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the meaning given to it by [section 6][169] of the Lawyers and Conveyancers Act 2006
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][171] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][170] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
     
-    _nurse_ means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by [section 114(1)(a)][171] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
+    _nurse_ means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by [section 114(1)(a)][170] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
     
     _parent_, in relation to a person who is under the age of 17 years,---
         
@@ -493,19 +491,19 @@ Preliminary provisions
     
     _Part 3 order_ means an order made by a Judge requiring a bodily sample to be taken pursuant to a databank compulsion notice
     
-    _prison officer_ means an officer as defined in [section 3(1)][172] of the Corrections Act 2004
+    _prison officer_ means an officer as defined in [section 3(1)][171] of the Corrections Act 2004
     
     _relevant offence_ means---
         
-    *   (a) an offence against any of the provisions listed in [Part 1][173] of the Schedule; or
+    *   (a) an offence against any of the provisions listed in [Part 1][172] of the Schedule; or
     
-    *   (b) an offence against any of the provisions listed in [Part 2][174] of the Schedule; or
+    *   (b) an offence against any of the provisions listed in [Part 2][173] of the Schedule; or
     
-    *   (ba) an offence against any of the provisions listed in [Part 3][175] of the Schedule; or
+    *   (ba) an offence against any of the provisions listed in [Part 3][174] of the Schedule; or
     
-    *   (c) an attempt to commit an offence against any of the provisions listed in [Part 1][173], [2][174], or [3][175] of the Schedule if the offence is not itself specified as an attempt; or
+    *   (c) an attempt to commit an offence against any of the provisions listed in [Part 1][172], [2][173], or [3][174] of the Schedule if the offence is not itself specified as an attempt; or
     
-    *   (d) conspiring with any person to commit an offence against any of the provisions listed in [Part 1][173], [2][174], or [3][175] of the Schedule if the offence is not itself specified as a conspiracy; or
+    *   (d) conspiring with any person to commit an offence against any of the provisions listed in [Part 1][172], [2][173], or [3][174] of the Schedule if the offence is not itself specified as a conspiracy; or
     
     *   (e) an offence punishable by a term of imprisonment of 7 years or more; or
     
@@ -559,47 +557,51 @@ Preliminary provisions
     
     _venous sample_ means a sample of venous blood taken in accordance with normal medical procedures
     
-    _video record_ has the same meaning as in [section 4][176] of the Evidence Act 2006
+    _video record_ has the same meaning as in [section 4][175] of the Evidence Act 2006
     
     _young person_ means a person of or over 14 years of age but under 17 years of age.
     
     (2) For the purposes of this Act, 2 offences are related to one another if the elements of the 2 offences comprise substantially the same act or omission.
     
-    Section 2(1) **approved agency**: inserted, on 15 April 2004, by [section 5(1)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **approved agency**: inserted, on 15 April 2004, by [section 5(1)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **blood sample**: inserted, on 15 April 2004, by [section 5(2)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **blood sample**: inserted, on 15 April 2004, by [section 5(2)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **blood sample** or **sample**: repealed, on 15 April 2004, by [section 5(2)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **blood sample** or **sample**: repealed, on 15 April 2004, by [section 5(2)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **bodily sample** or **sample**: inserted, on 15 April 2004, by [section 5(2)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **bodily sample** or **sample**: inserted, on 15 April 2004, by [section 5(2)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **buccal sample**: inserted, on 15 April 2004, by [section 5(2)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **buccal sample**: inserted, on 15 April 2004, by [section 5(2)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **charged**: inserted, on 6 September 2010, by [section 4(1)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **charged**: replaced, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **child**: inserted, on 15 April 2004, by [section 5(2)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **child**: inserted, on 15 April 2004, by [section 5(2)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **compulsion order**: amended, on 15 April 2004, by [section 5(3)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **compulsion order**: amended, on 15 April 2004, by [section 5(3)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **conviction** paragraph (c): amended, on 1 September 2004, by [section 50(2)][179] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 2(1) **conviction** paragraph (c): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **conviction** paragraph (d): added, on 1 September 2004, by [section 50(2)][179] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 2(1) **conviction** paragraph (c): amended, on 1 September 2004, by [section 50(2)][178] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 2(1) **databank compulsion notice**: inserted, on 15 April 2004, by [section 5(4)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **conviction** paragraph (d): added, on 1 September 2004, by [section 50(2)][178] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 2(1) **databank compulsion notice hearing**: inserted, on 15 April 2004, by [section 5(4)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **databank compulsion notice**: inserted, on 15 April 2004, by [section 5(4)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **databank compulsion order**: repealed, on 15 April 2004, by [section 5(4)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **databank compulsion notice hearing**: inserted, on 15 April 2004, by [section 5(4)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **detained under a sentence of imprisonment**: inserted, on 15 April 2004, by [section 5(5)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **databank compulsion order**: repealed, on 15 April 2004, by [section 5(4)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **District Court**: inserted, on 5 December 2011, by [section 32][180] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **detained under a sentence of imprisonment**: inserted, on 15 April 2004, by [section 5(5)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **home detention**: repealed, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 2(1) **District Court**: inserted, on 5 December 2011, by [section 32][179] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 2(1) **imprisonable offence**: inserted, on 5 December 2011, by [section 32][180] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **home detention**: repealed, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 2(1) **independent adult**: substituted, on 6 September 2010, by [section 4(2)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **imprisonable offence**: inserted, on 5 December 2011, by [section 32][179] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    
+    Section 2(1) **independent adult**: substituted, on 6 September 2010, by [section 4(2)][181] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    
+    Section 2(1) **indictable offence**: repealed, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 2(1) **lawyer**: substituted, on 1 August 2008, by [section 348][182] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
@@ -609,33 +611,33 @@ Preliminary provisions
     
     Section 2(1) **parent** paragraph (b): substituted, on 26 April 2005, by [section 7][184] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2(1) **parent** paragraph (c): amended, on 15 April 2004, by [section 5(8)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **parent** paragraph (c): amended, on 15 April 2004, by [section 5(8)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **Part 2A request**: inserted, on 15 April 2004, by [section 5(9)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **Part 2A request**: inserted, on 15 April 2004, by [section 5(9)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **Part 2B temporary databank**: inserted, on 6 September 2010, by [section 4(3)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **Part 2B temporary databank**: inserted, on 6 September 2010, by [section 4(3)][181] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 2(1) **Part 3 order**: inserted, on 15 April 2004, by [section 5(9)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **Part 3 order**: inserted, on 15 April 2004, by [section 5(9)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
     Section 2(1) **prison officer**: substituted, on 1 June 2005, by [section 206][185] of the Corrections Act 2004 (2004 No 50).
     
-    Section 2(1) **relevant offence**: substituted, on 15 April 2004, by [section 5(10)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **relevant offence**: substituted, on 15 April 2004, by [section 5(10)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 2(1) **relevant offence** paragraph (ba): inserted, on 6 September 2010, by [section 4(4)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **relevant offence** paragraph (ba): inserted, on 6 September 2010, by [section 4(4)][181] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 2(1) **relevant offence** paragraph (c): amended, on 6 September 2010, by [section 4(5)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **relevant offence** paragraph (c): amended, on 6 September 2010, by [section 4(5)][181] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 2(1) **relevant offence** paragraph (d): amended, on 6 September 2010, by [section 4(5)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **relevant offence** paragraph (d): amended, on 6 September 2010, by [section 4(5)][181] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 2(1) **suitably qualified person**: inserted, on 15 April 2004, by [section 5(11)][177] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 2(1) **suitably qualified person**: inserted, on 15 April 2004, by [section 5(11)][176] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
     Section 2(1) **suitably qualified person** paragraph (a)(ii): amended, on 15 December 2005, by [section 3][186] of the Criminal Investigations (Bodily Samples) Amendment Act 2005 (2005 No 98).
     
-    Section 2(1) **triggering offence**: inserted, on 6 September 2010, by [section 4(6)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **triggering offence**: inserted, on 6 September 2010, by [section 4(6)][181] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
     Section 2(1) **video record**: added, on 27 March 2008, by [section 4][187] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
     
-    Section 2(1) **young person**: added, on 6 September 2010, by [section 4(6)][178] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 2(1) **young person**: added, on 6 September 2010, by [section 4(6)][181] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 2A Meaning of independent adult
     
@@ -691,15 +693,15 @@ Preliminary provisions
     
     (3) Despite subsection (2), nothing in [Part 3][62] applies to any conviction entered before the commencement of [section 7][190] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 for any---
         
-    *   (a) offence against any of the provisions listed in [Part 2][174] of the Schedule; or
+    *   (a) offence against any of the provisions listed in [Part 2][173] of the Schedule; or
     
-    *   (b) attempt to commit an offence against any of the provisions listed in [Part 1][173] or [Part 2][174] of the Schedule unless the offence is itself specified as an attempt in Part 1 of the Schedule; or
+    *   (b) attempt to commit an offence against any of the provisions listed in [Part 1][172] or [Part 2][173] of the Schedule unless the offence is itself specified as an attempt in Part 1 of the Schedule; or
     
-    *   (c) conspiracy to commit an offence against any of the provisions listed in [Part 1][173] or [Part 2][174] of the Schedule; or
+    *   (c) conspiracy to commit an offence against any of the provisions listed in [Part 1][172] or [Part 2][173] of the Schedule; or
     
-    *   (d) offence punishable by a term of imprisonment of 7 years or more unless it is an offence listed in [Part 1][173] of the Schedule; or
+    *   (d) offence punishable by a term of imprisonment of 7 years or more unless it is an offence listed in [Part 1][172] of the Schedule; or
     
-    *   (e) attempt to commit an offence of the kind referred to in paragraph (d) unless the offence is itself specified as an attempt in [Part 1][173] of the Schedule; or
+    *   (e) attempt to commit an offence of the kind referred to in paragraph (d) unless the offence is itself specified as an attempt in [Part 1][172] of the Schedule; or
     
     *   (f) conspiracy to commit an offence of the kind referred to in paragraph (d).
     
@@ -757,11 +759,11 @@ Preliminary provisions
     
     Section 4A(1)(a): amended, on 1 June 2005, by [section 206][185] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4A(1)(c): substituted, on 1 September 2004, by [section 50(3)][179] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 4A(1)(c): substituted, on 1 September 2004, by [section 50(3)][178] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 4A(1)(d): added, on 1 September 2004, by [section 50(3)][179] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 4A(1)(d): added, on 1 September 2004, by [section 50(3)][178] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 4A(3)(ab): inserted, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4A(3)(ab): inserted, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 4A(3)(b): amended, on 1 June 2005, by [section 206][185] of the Corrections Act 2004 (2004 No 50).
 
@@ -773,24 +775,26 @@ Preliminary provisions
     
     *   (b) a device for taking, or other means of providing, buccal samples.
     
-    (2) A notice issued under this section is deemed to be a regulation for the purposes of the [Acts and Regulations Publication Act 1989][200] and the [Regulations (Disallowance) Act 1989][201].
+    (2) A notice in the _Gazette_ made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][200] and must be presented to the House of Representatives under [section 41][201] of that Act.
     
     Section 4B: inserted, on 31 October 2003, by [section 9][202] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    
+    Section 4B(2): replaced, on 5 August 2013, by [section 77(3)][203] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 2  
 Obtaining bodily samples from suspects
     
-*   Part 2 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Part 2 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Authority to obtain bodily sample from suspects
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 5 Authority to take bodily sample from suspect
     
 *   Subject to [section 72][153], in any criminal investigation in respect of an offence committed or believed to have been committed, a bodily sample may be taken from a suspect, for the purposes of that investigation, on behalf of any constable only if---
         
-    *   (a) the offence is an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule; and
+    *   (a) the offence is an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule; and
     
     *   (b) either,---
             
@@ -804,27 +808,27 @@ Obtaining bodily samples from suspects
     
     *   (c) the sample is taken in accordance with the procedures set out in [Part 4][103].
     
-    Section 5 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 5 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 5: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 5: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 5: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 5: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 5(a): amended, on 5 December 2011, by [section 33][205] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 5(a): amended, on 5 December 2011, by [section 33][206] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 5A Relationship to Part 2B
     
 *   The authority in this Part to take, or order the taking of, a bodily sample from a person in respect of an offence is not limited by the fact that a bodily sample has been taken from that person under [Part 2B][51] (whether in respect of that offence or a different offence).
     
-    Section 5A: inserted, on 6 September 2010, by [section 6][206] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 5A: inserted, on 6 September 2010, by [section 6][207] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 #### Obtaining bodily sample by consent
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 6 Request to consent to taking of bodily sample
     
-*   (1) Subject to [section 8][18], for the purposes of any criminal investigation in respect of an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule committed or believed to have been committed, a constable may request any suspect to give a bodily sample if that constable has reasonable grounds to believe that analysis of the sample would tend to confirm or disprove the suspect's involvement in the commission of the offence.
+*   (1) Subject to [section 8][18], for the purposes of any criminal investigation in respect of an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule committed or believed to have been committed, a constable may request any suspect to give a bodily sample if that constable has reasonable grounds to believe that analysis of the sample would tend to confirm or disprove the suspect's involvement in the commission of the offence.
     
     (2) Subject to [section 8][18], on making a request under subsection (1) of this section, the constable shall---
         
@@ -844,29 +848,29 @@ Obtaining bodily samples from suspects
         
         *   (vi) that the sample will be analysed and may provide evidence that may be used in criminal proceedings; and
         
-        *   (vii) that if the suspect refuses to consent to the taking of the sample, and there is good cause to suspect that the suspect committed the offence in respect of which the request is made, or a related offence, and that offence is an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule, an application may be made to a District Court Judge for an order requiring the suspect to give a bodily sample.
+        *   (vii) that if the suspect refuses to consent to the taking of the sample, and there is good cause to suspect that the suspect committed the offence in respect of which the request is made, or a related offence, and that offence is an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule, an application may be made to a District Court Judge for an order requiring the suspect to give a bodily sample.
         
         
     
-    Section 6 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 6 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 6(1): amended, on 5 December 2011, by [section 34(1)][207] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 6(1): amended, on 5 December 2011, by [section 34(1)][208] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 6(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 6(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 6(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 6(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 6(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 6(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 6(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 6(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 6(2)(b)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 6(2)(b)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 6(2)(b)(vii): amended, on 5 December 2011, by [section 34(2)(a)][207] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 6(2)(b)(vii): amended, on 5 December 2011, by [section 34(2)(a)][208] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 6(2)(b)(vii): amended, on 5 December 2011, by [section 34(2)(b)][207] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 6(2)(b)(vii): amended, on 5 December 2011, by [section 34(2)(b)][208] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 6(2)(b)(vii): amended, on 15 April 2004, by [section 6(2)][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 6(2)(b)(vii): amended, on 15 April 2004, by [section 6(2)][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 7 Form and content of notice
     
@@ -908,23 +912,23 @@ Obtaining bodily samples from suspects
         
         
     
-    Section 7(b)(i): amended, on 5 December 2011, by [section 35(1)][208] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 7(b)(i): amended, on 5 December 2011, by [section 35(1)][209] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 7(b)(i): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 7(b)(i): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 7(b)(viii): amended, on 5 December 2011, by [section 35(2)(a)][208] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 7(b)(viii): amended, on 5 December 2011, by [section 35(2)(a)][209] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 7(b)(viii): amended, on 5 December 2011, by [section 35(2)(b)][208] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 7(b)(viii): amended, on 5 December 2011, by [section 35(2)(b)][209] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 7(b)(viii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 7(b)(viii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 7(b)(ix): amended, on 15 April 2004, by [section 10(1)][209] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 7(b)(ix): amended, on 15 April 2004, by [section 10(1)][210] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 7(b)(x): substituted, on 15 April 2004, by [section 10(2)][209] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 7(b)(x): substituted, on 15 April 2004, by [section 10(2)][210] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 7(b)(xi): amended, on 15 April 2004, by [section 10(3)][209] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 7(b)(xi): amended, on 15 April 2004, by [section 10(3)][210] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 7(b)(xiii): amended, on 5 December 2011, by [section 35(3)][208] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 7(b)(xiii): amended, on 5 December 2011, by [section 35(3)][209] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 8 Suspect requests to persons under 17
     
@@ -934,25 +938,7 @@ Obtaining bodily samples from suspects
     
     *   (b) makes a person of the kind referred to in paragraph (a) capable of consenting to the taking of a bodily sample in response to a request made under that section.
     
-    (1A) However, a suspect may, in relation to an indictable offence, consent to the taking of a buccal sample as a result of a [Part 2A][41] request if the suspect is a child, or was a child, at the time the offence is alleged to have been committed, and cannot lawfully be prosecuted in relation to the offence because it is not an offence of any of the following kinds:
-        
-    *   (a) the offence of murder or manslaughter:
-    
-    *   (b) an indictable offence (other than murder or manslaughter)---
-            
-        *   (i) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
-        
-        *   (ii) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years:
-        
-        
-    
-    *   (c) an indictable offence (other than murder or manslaughter)---
-            
-        *   (i) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of [section 272(1)(c)][210] of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
-        
-        *   (ii) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years.
-        
-        
+    (1A) However, a suspect who is a child, or was a child at the time the offence is alleged to have been committed, may consent to the taking of a buccal sample as a result of a [Part 2A][51] request if, in accordance with [section 272][211] of the Children, Young Persons, and Their Families Act 1989, he or she may not be lawfully prosecuted under the [Criminal Procedure Act 2011][212] for that offence.
     
     (2) Where a suspect request is made under [section 6][16] to a suspect who is of or over the age of 14 years but under 17 years, that section and [section 7][17] shall apply subject to the following modifications:
         
@@ -984,23 +970,23 @@ Obtaining bodily samples from suspects
     
     *   (d) the notice required by [section 6(2)(a)][16] to be handed to the suspect shall, instead of the particulars specified in [section 7(b)(vi)][17], contain a statement that unless, within the period of 48 hours after the request is made, both the suspect and a parent of the suspect consent to the taking of the sample, the suspect shall be deemed to have refused to consent to the taking of the sample.
     
-    Section 8(1): substituted, on 15 April 2004, by [section 11(1)][211] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 8(1): substituted, on 15 April 2004, by [section 11(1)][213] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 8(1A): substituted, on 1 October 2010, by [section 55(2)][212] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 8(1A): replaced, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 8(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 8(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 8(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 8(2)(b)(i): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 8(2)(b)(i): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 8(2)(c)(i): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 8(2)(c)(i): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 8(2)(c)(iv): amended, on 15 April 2004, by [section 11(2)(a)][211] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 8(2)(c)(iv): amended, on 15 April 2004, by [section 11(2)(a)][213] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 8(2)(c)(v): added, on 15 April 2004, by [section 11(2)(b)][211] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 8(2)(c)(v): added, on 15 April 2004, by [section 11(2)(b)][213] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 8(2)(c)(vi): added, on 15 April 2004, by [section 11(2)(b)][211] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 8(2)(c)(vi): added, on 15 April 2004, by [section 11(2)(b)][213] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 9 Consent to taking of bodily sample
     
@@ -1032,15 +1018,15 @@ Obtaining bodily samples from suspects
         
         
     
-    Section 9 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 9 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 9(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 9(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 9(1)(b): amended, on 27 March 2008, by [section 5(1)][213] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
+    Section 9(1)(b): amended, on 27 March 2008, by [section 5(1)][214] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
     
-    Section 9(3): amended, on 27 March 2008, by [section 5(2)][213] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
+    Section 9(3): amended, on 27 March 2008, by [section 5(2)][214] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
     
-    Section 9(3)(b)(i): amended, on 15 April 2004, by [section 12][214] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 9(3)(b)(i): amended, on 15 April 2004, by [section 12][215] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 10 Withdrawal of consent
     
@@ -1052,9 +1038,9 @@ Obtaining bodily samples from suspects
     
     (2) Where any such consent is withdrawn orally, that withdrawal shall be recorded in writing by a constable as soon as practicable.
     
-    Section 10(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 10(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 10(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 10(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 11 Consent deemed to have been refused
     
@@ -1070,7 +1056,7 @@ Obtaining bodily samples from suspects
         
         have so consented.
     
-    Section 11: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 11: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 12 Right of suspect in custody to consult lawyer
     
@@ -1088,19 +1074,19 @@ Obtaining bodily samples from suspects
 
 #### Obtaining bodily sample by court order from persons 17 and over
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 13 Application for order authorising taking of bodily sample
     
 *   (1) An application may be made in accordance with this section to a District Court Judge for an order requiring a suspect who is of or over the age of 17 years to give a bodily sample in any case where---
         
-    *   (a) there is good cause to suspect that the suspect has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule; and
+    *   (a) there is good cause to suspect that the suspect has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule; and
     
     *   (b) the suspect has refused to consent to the taking of a bodily sample in response to a suspect request made in respect of that offence, or a related offence.
     
     (2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing and on oath, and shall set out the following particulars:
         
-    *   (a) the facts relied on to show that there is good cause to suspect that the respondent has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule:
+    *   (a) the facts relied on to show that there is good cause to suspect that the respondent has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule:
     
     *   (b) the reasons why it is considered necessary to obtain a suspect compulsion order in relation to the respondent, including the facts relied on to show that there are reasonable grounds to believe that analysis of a bodily sample taken from the respondent would tend to confirm or disprove the respondent's involvement in the commission of the offence:
     
@@ -1114,23 +1100,23 @@ Obtaining bodily samples from suspects
     
     (4) In considering an application made under this section, the Judge may take into account any oral or documentary material that the Judge considers relevant, whether or not it would be admissible in a court of law.
     
-    Section 13 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 13 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 13(1): amended, on 5 December 2011, by [section 36(1)][215] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 13(1): amended, on 5 December 2011, by [section 36(1)][216] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 13(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 13(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 13(1)(a): amended, on 5 December 2011, by [section 36(2)][215] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 13(1)(a): amended, on 5 December 2011, by [section 36(2)][216] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 13(1)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 13(1)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 13(2): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 13(2): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 13(2)(a): amended, on 5 December 2011, by [section 36(3)][215] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 13(2)(a): amended, on 5 December 2011, by [section 36(3)][216] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 13(2)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 13(2)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 13(2)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 13(2)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 14 Prohibition against publication of name of respondent
     
@@ -1144,7 +1130,7 @@ Obtaining bodily samples from suspects
     
     (3) Nothing in this section shall be construed to limit or restrict the provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to any judicial proceedings.
     
-    Section 14(1)(a): amended, on 5 December 2011, by [section 37][216] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 14(1)(a): amended, on 5 December 2011, by [section 37][217] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 15 Information may be withheld from respondent
     
@@ -1176,9 +1162,9 @@ Obtaining bodily samples from suspects
     
     *   (b) the publication of reports or particulars relating to any such proceedings.
     
-    Section 15(1): amended, on 5 December 2011, by [section 38][217] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 15(1): amended, on 5 December 2011, by [section 38][218] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 15(3)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 15(3)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 16 Judge may authorise bodily sample to be taken
     
@@ -1226,29 +1212,29 @@ Obtaining bodily samples from suspects
     
     (4) Where the Judge adjourns the hearing of any proceedings on an application for a suspect compulsion order for the purpose of giving the respondent an opportunity to give, by consent, a specimen from his or her body (including a bodily sample) from which a DNA profile may be obtained for the purpose of confirming or disproving the respondent's involvement in the commission of the offence to which the application relates, the period of the adjournment shall be only for as long as the Judge considers reasonably necessary for the purpose of giving the respondent that opportunity.
     
-    Section 16 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(1): amended, on 5 December 2011, by [section 39(1)][218] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 16(1): amended, on 5 December 2011, by [section 39(1)][219] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 16(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(1)(a): amended, on 5 December 2011, by [section 39(2)][218] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 16(1)(a): amended, on 5 December 2011, by [section 39(2)][219] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 16(1)(b): substituted, on 15 April 2004, by [section 13][219] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(1)(b): substituted, on 15 April 2004, by [section 13][220] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(1)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(1)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(1)(d): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(1)(d): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(2)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(2)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(3)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(3)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(3)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(3)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(3)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(3)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 16(4): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 16(4): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 17 Further applications for suspect compulsion order
     
@@ -1272,19 +1258,19 @@ Obtaining bodily samples from suspects
     
     *   (b) any view expressed by the respondent regarding which of the 3 methods should be used.
     
-    Section 17A: inserted, on 15 April 2004, by [section 14][220] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 17A: inserted, on 15 April 2004, by [section 14][221] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 17A(2)(a): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 17A(2)(a): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
 
 #### Obtaining bodily sample by court order from persons under 17
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 18 Application for order authorising taking of bodily sample from person under 17
     
 *   (1) An application may be made in accordance with this section to a District Court Judge for an order requiring a suspect who is under the age of 17 years to give a bodily sample in any case where---
         
-    *   (a) there is good cause to suspect that the suspect has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule; and
+    *   (a) there is good cause to suspect that the suspect has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule; and
     
     *   (b) the suspect may lawfully be prosecuted for that offence (being, in the case of a suspect who is a child or was a child at the time the offence is alleged to have been committed,---
             
@@ -1300,7 +1286,7 @@ Obtaining bodily samples from suspects
         
         *   (iii) an offence (other than murder or manslaughter)---
                 
-            *   (A) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of [section 272(1)(c)][210] of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+            *   (A) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of [section 272(1)(c)][211] of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
             
             *   (B) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years); and
             
@@ -1318,7 +1304,7 @@ Obtaining bodily samples from suspects
     
     (2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing and on oath, and shall set out the following particulars:
         
-    *   (a) the facts relied on to show that there is good cause to suspect that the respondent has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule:
+    *   (a) the facts relied on to show that there is good cause to suspect that the respondent has committed an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule:
     
     *   (b) the reasons why it is considered necessary to obtain a juvenile compulsion order in relation to the respondent, including the facts relied on to show that there are reasonable grounds to believe that analysis of a bodily sample taken from the respondent would tend to confirm or disprove the respondent's involvement in the commission of the offence:
     
@@ -1332,7 +1318,7 @@ Obtaining bodily samples from suspects
         
         *   (ii) a parent or other person having the care of the respondent; and
         
-        *   (iii) where a lay advocate is for the time being appointed in respect of the respondent under [section 326][221] of the Children, Young Persons, and Their Families Act 1989, that lay advocate; and
+        *   (iii) where a lay advocate is for the time being appointed in respect of the respondent under [section 326][222] of the Children, Young Persons, and Their Families Act 1989, that lay advocate; and
         
         
     
@@ -1356,29 +1342,29 @@ Obtaining bodily samples from suspects
     
     (4) In considering an application made under this section, the Judge may take into account any oral or documentary material that the Judge considers relevant, whether or not it would be admissible in a court of law.
     
-    Section 18 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 18 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 18(1): amended, on 5 December 2011, by [section 40(1)][222] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 18(1): amended, on 5 December 2011, by [section 40(1)][223] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 18(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 18(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 18(1)(a): amended, on 5 December 2011, by [section 40(2)][222] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 18(1)(a): amended, on 5 December 2011, by [section 40(2)][223] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 18(1)(b): substituted, on 1 October 2010, by [section 55(3)][212] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 18(1)(b): substituted, on 1 October 2010, by [section 55(3)][224] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 18(1)(c): amended, on 15 April 2004, by [section 15(2)][223] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 18(1)(c): amended, on 15 April 2004, by [section 15(2)][225] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 18(1)(c)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 18(1)(c)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 18(2): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 18(2): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 18(2)(a): amended, on 5 December 2011, by [section 40(3)][222] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 18(2)(a): amended, on 5 December 2011, by [section 40(3)][223] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 18(2)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 18(2)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 18(2)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 18(2)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 18(3)(b)(vii): amended, on 5 December 2011, by [section 40(4)][222] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 18(3)(b)(vii): amended, on 5 December 2011, by [section 40(4)][223] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 19 Prohibition against publication of name of respondent under 17
     
@@ -1402,9 +1388,9 @@ Obtaining bodily samples from suspects
     
     (2) [Section 17][28] and [section 17A][29] shall apply in respect of applications made under [section 18][31] as if they were applications made under [section 13][24].
     
-    Section 20 heading: amended, on 15 December 2005, by [section 4(1)][224] of the Criminal Investigations (Bodily Samples) Amendment Act 2005 (2005 No 98).
+    Section 20 heading: amended, on 15 December 2005, by [section 4(1)][226] of the Criminal Investigations (Bodily Samples) Amendment Act 2005 (2005 No 98).
     
-    Section 20(2): amended, on 15 December 2005, by [section 4(2)][224] of the Criminal Investigations (Bodily Samples) Amendment Act 2005 (2005 No 98).
+    Section 20(2): amended, on 15 December 2005, by [section 4(2)][226] of the Criminal Investigations (Bodily Samples) Amendment Act 2005 (2005 No 98).
 
 ##### 21 Appointment of lawyer to represent respondent
     
@@ -1422,11 +1408,11 @@ Obtaining bodily samples from suspects
         
     *   (a) pursuant to subsection (1), a Judge is required to appoint a lawyer to represent a respondent in any proceedings; and
     
-    *   (b) a lawyer has been appointed, pursuant to [section 323][225] of the Children, Young Persons, and Their Families Act 1989, to represent the respondent in any proceedings,---
+    *   (b) a lawyer has been appointed, pursuant to [section 323][227] of the Children, Young Persons, and Their Families Act 1989, to represent the respondent in any proceedings,---
     
     the Judge shall, where possible, appoint that lawyer under this section to represent the respondent.
     
-    Compare: 1989 No 24 [s 323][225]
+    Compare: 1989 No 24 [s 323][227]
 
 ##### 22 Further provisions relating to appointment of lawyer for respondent
     
@@ -1438,7 +1424,7 @@ Obtaining bodily samples from suspects
     
     *   (b) where a juvenile compulsion order is made in respect of the respondent, in any proceedings on an application made under [section 47][110] in respect of the order.
     
-    Compare: 1989 No 24 [s 324][226]
+    Compare: 1989 No 24 [s 324][228]
 
 ##### 23 Judge may authorise bodily sample to be taken
     
@@ -1460,7 +1446,7 @@ Obtaining bodily samples from suspects
         
         *   (iii) an offence (other than murder or manslaughter)---
                 
-            *   (A) that is alleged to have been committed when the respondent was aged 12 or 13 years, and was for the purposes of [section 272(1)(c)][210] of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
+            *   (A) that is alleged to have been committed when the respondent was aged 12 or 13 years, and was for the purposes of [section 272(1)(c)][211] of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
             
             *   (B) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years); and
             
@@ -1522,31 +1508,31 @@ Obtaining bodily samples from suspects
     
     (4) Where the Judge adjourns the hearing of any proceedings on an application for a juvenile compulsion order for the purpose of giving the respondent an opportunity to give, by consent, a specimen from his or her body (including a bodily sample) from which a DNA profile may be obtained for the purpose of confirming or disproving the respondent's involvement in the commission of the offence to which the application relates, the period of the adjournment shall be only for as long as the Judge considers reasonably necessary for the purpose of giving the respondent that opportunity.
     
-    Section 23 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(1)(a): amended, on 5 December 2011, by [section 41][227] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 23(1)(a): amended, on 5 December 2011, by [section 41][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 23(1)(b): substituted, on 1 October 2010, by [section 55(4)][212] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 23(1)(b): substituted, on 1 October 2010, by [section 55(4)][224] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 23(1)(c): amended, on 15 April 2004, by [section 16(2)][228] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(1)(c): amended, on 15 April 2004, by [section 16(2)][230] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(1)(c)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(1)(c)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(1)(d): substituted, on 15 April 2004, by [section 16(3)][228] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(1)(d): substituted, on 15 April 2004, by [section 16(3)][230] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(1)(e): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(1)(e): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(2)(d): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(2)(d): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(3)(a): amended, on 15 April 2004, by[section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(3)(a): amended, on 15 April 2004, by[section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(3)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(3)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(3)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(3)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 23(4): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 23(4): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Form and content of compulsion order
 
@@ -1580,31 +1566,31 @@ Obtaining bodily samples from suspects
     
     *   (g) a statement that the sample, and any information derived from any analysis of the sample, will be held by or on behalf of the Police:
     
-    *   (h) a statement that if the suspect is convicted of the offence in respect of which the order is made, or a related offence that is an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule, information derived from any analysis of the sample will be held on a DNA profile databank:
+    *   (h) a statement that if the suspect is convicted of the offence in respect of which the order is made, or a related offence that is an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule, information derived from any analysis of the sample will be held on a DNA profile databank:
     
     *   (i) a reference to the provisions of [section 60][135] relating to the destruction of the sample and of any information derived from any analysis of the sample:
     
     *   (j) such other particulars as may be prescribed.
     
-    Section 24(2): substituted, on 15 April 2004, by [section 17(1)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(2): substituted, on 15 April 2004, by [section 17(1)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(3): repealed, on 15 April 2004, by [section 17(1)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(3): repealed, on 15 April 2004, by [section 17(1)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(4)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(b): substituted, on 15 April 2004, by [section 17(2)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(4)(b): substituted, on 15 April 2004, by [section 17(2)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(c): substituted, on 15 April 2004, by [section 17(3)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(4)(c): substituted, on 15 April 2004, by [section 17(3)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(ca): inserted, on 15 April 2004, by [section 17(3)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(4)(ca): inserted, on 15 April 2004, by [section 17(3)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(d): amended, on 15 April 2004, by [section 17(4)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(4)(d): amended, on 15 April 2004, by [section 17(4)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(e): substituted, on 15 April 2004, by [section 17(5)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(4)(e): substituted, on 15 April 2004, by [section 17(5)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(f): substituted, on 15 April 2004, by [section 17(6)][229] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24(4)(f): substituted, on 15 April 2004, by [section 17(6)][231] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24(4)(h): amended, on 5 December 2011, by [section 42][230] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24(4)(h): amended, on 5 December 2011, by [section 42][232] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24A Conditions included in compulsion order
     
@@ -1618,7 +1604,7 @@ Obtaining bodily samples from suspects
     
     (3) If a Judge believes good reasons exist why the respondent must attend to give a bodily sample at the place, on the date, or at the place and on the date specified in the suspect compulsion order or juvenile compulsion order, the Judge may include the condition that the respondent must attend to give the sample at the place, on the date, or at the place and on the date specified in the order.
     
-    (4) If a respondent is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][231] of the Sentencing Act 2002 or is on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, a suspect compulsion order or juvenile compulsion order must include the following conditions:
+    (4) If a respondent is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][233] of the Sentencing Act 2002 or is on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, a suspect compulsion order or juvenile compulsion order must include the following conditions:
         
     *   (a) that the respondent must give a bodily sample at the residence at which the respondent is detained or is required to remain; and
     
@@ -1628,17 +1614,17 @@ Obtaining bodily samples from suspects
     
     (6) A condition included in a suspect compulsion order or juvenile compulsion order under any of subsections (2) to (5) is subject to any condition included in the order under subsection (1).
     
-    Section 24A: inserted, on 15 April 2004, by [section 18][232] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24A: inserted, on 15 April 2004, by [section 18][234] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 24A(4): amended, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 24A(4): amended, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 24A(4)(a): amended, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 24A(4)(a): amended, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 24A(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24A(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 24A(5): substituted, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 24A(5): substituted, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 24B Parent or other person having care to be notified if Police suggest variation of juvenile compulsion order
     
@@ -1646,80 +1632,62 @@ Obtaining bodily samples from suspects
     
     (2) If a condition is included in a juvenile compulsion order under [section 24A(4)(b)][39] and a constable suggests varying the date on which a respondent is to attend to give a bodily sample pursuant to that order, the constable must take all reasonable steps to notify a parent or other person having care of the respondent of the suggested variation.
     
-    Section 24B: inserted, on 15 April 2004, by [section 18][232] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24B: inserted, on 15 April 2004, by [section 18][234] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24B(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24B(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 24B(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24B(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ## Part 2A  
 Obtaining buccal sample from suspect who is child or was child when offence for which suspect may not be lawfully prosecuted committed
     
-*   Part 2A: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Part 2A: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Authority to obtain buccal sample from suspect
     
-*   Heading: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 24C Authority to obtain buccal sample from suspect
     
-*   (1) Subject to [section 72][153], in a criminal investigation in respect of an indictable offence committed or believed to have been committed by a suspect who is a child or was a child at the time the offence was committed and in relation to which that suspect may not be lawfully prosecuted, a buccal sample may be taken from that suspect, for the purposes of the investigation, on behalf of any constable, only if---
+*   (1) In a criminal investigation in respect of an offence committed or believed to have been committed by a suspect who is a child or was a child at the time the offence was committed and for which, in accordance with [section 272][211] of the Children, Young Persons, and Their Families Act 1989, that suspect may not be lawfully prosecuted under the [Criminal Procedure Act 2011][212], a buccal sample may be taken from that suspect, for the purposes of the investigation, on behalf of any constable, only if---
         
     *   (a) both the suspect and a parent of the suspect have consented to the taking of a buccal sample under [section 24G][48]; and
     
     *   (b) the sample is taken in accordance with the procedures set out in [Part 4][103].
     
-    (2) Every reference in this Part to an indictable offence for which a suspect who is or was a child at the time the offence was committed may not be lawfully prosecuted is a reference to an indictable offence other than---
-        
-    *   (a) the offence of murder or manslaughter; or
+    (2) This section is subject to [section 72][153].
     
-    *   (b) an offence (other than murder or manslaughter)---
-            
-        *   (i) that is alleged to have been committed when the suspect was aged 12 or 13 years; and
-        
-        *   (ii) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
-        
-        
+    (3) Every reference in this Part to an offence for which a suspect who is or was a child at the time the offence was committed may not be lawfully prosecuted is a reference to an offence for which, in accordance with [section 272][211] of the Children, Young Persons, and Their Families Act 1989, that suspect may not be lawfully prosecuted under the [Criminal Procedure Act 2011][212].
     
-    *   (c) an offence (other than murder or manslaughter)---
-            
-        *   (i) that is alleged to have been committed when the suspect was aged 12 or 13 years, and was for the purposes of [section 272(1)(c)][210] of the Children, Young Persons, and Their Families Act 1989 a previous offender under section 272(1A) or (1B) of that Act; and
-        
-        *   (ii) for which the maximum penalty available is or includes imprisonment for at least 10 years but less than 14 years.
-        
-        
-    
-    Section 24C: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
-    
-    Section 24C(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
-    
-    Section 24C(2): substituted, on 1 October 2010, by [section 55(5)][212] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 24C: replaced, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Obtaining buccal sample from suspect
     
-*   Heading: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 24D Request to consent to taking of buccal sample from suspect
     
 *   A constable may request that a suspect give a buccal sample (being a _Part 2A request_) if---
         
-    *   (a) there is good cause to suspect that the suspect has committed or may have committed an indictable offence for which the suspect may not lawfully be prosecuted (because the suspect is a child or was a child at the time the offence was committed); and
+    *   (a) there is good cause to suspect that the suspect has committed or may have committed an offence for which the suspect may not lawfully be prosecuted (because the suspect is a child or was a child at the time the offence was committed); and
     
     *   (b) the suspect---
             
         *   (i) is under the age of 17 years; and
         
-        *   (ii) is a person in relation to whom an application for a declaration for care or protection may be made on the ground set out in [section 14(1)(e)][234] of the Children, Young Persons, and Their Families Act 1989 if the suspect's involvement in the offence tends to be confirmed by the analysis of a buccal sample; and
+        *   (ii) is a person in relation to whom an application for a declaration for care or protection may be made on the ground set out in [section 14(1)(e)][236] of the Children, Young Persons, and Their Families Act 1989 if the suspect's involvement in the offence tends to be confirmed by the analysis of a buccal sample; and
         
         
     
     *   (c) a constable has reasonable grounds to believe that the analysis of a buccal sample from the suspect would tend to confirm or disprove the suspect's involvement in the commission of the offence.
     
-    Section 24D: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24D: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24D: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24D: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 24D(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24D(a): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 24D(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 24E Police obligations if Part 2A request made
     
@@ -1747,17 +1715,17 @@ Obtaining buccal sample from suspect who is child or was child when offence for 
         
         *   (viii) that the suspect or any parent of the suspect is able to consult with any person (not being a constable) that he or she wishes before deciding whether or not to consent to the buccal sample being taken; and
         
-        *   (ix) that the sample will be analysed and may, if it tends to confirm the suspect's involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][234] of the Children, Young Persons, and Their Families Act 1989, but may not be used to prosecute the suspect for any offence.
+        *   (ix) that the sample will be analysed and may, if it tends to confirm the suspect's involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][236] of the Children, Young Persons, and Their Families Act 1989, but may not be used to prosecute the suspect for any offence.
         
         
     
-    Section 24E: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24E: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24E: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24E: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 24E(c)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24E(c)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 24E(c)(viii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24E(c)(viii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 24F Form and content of notice
     
@@ -1767,7 +1735,7 @@ Obtaining buccal sample from suspect who is child or was child when offence for 
     
     *   (b) contain the following particulars:
             
-        *   (i) a statement that it is believed that the suspect has or may have committed an indictable offence for which he or she may not be lawfully prosecuted and that the suspect is being requested to consent to the giving of a buccal sample in relation to that offence:
+        *   (i) a statement that it is believed that the suspect has or may have committed an offence for which he or she may not be lawfully prosecuted and that the suspect is being requested to consent to the giving of a buccal sample in relation to that offence:
         
         *   (ii) a statement that there are reasonable grounds to believe that analysis of the buccal sample will tend to confirm or disprove the suspect's involvement in the commission of the offence:
         
@@ -1783,7 +1751,7 @@ Obtaining buccal sample from suspect who is child or was child when offence for 
         
         *   (viii) a statement that, if the suspect or a parent of the suspect consents to the taking of the sample, he or she may, at any time before the buccal sample is taken, withdraw his or her consent to it being taken:
         
-        *   (ix) a statement that the sample will be analysed and may, if it tends to confirm the suspect's involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][234] of the Children, Young Persons, and Their Families Act 1989, but may not be used to prosecute the suspect for any offence:
+        *   (ix) a statement that the sample will be analysed and may, if it tends to confirm the suspect's involvement in the offence, be used to make an application for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][236] of the Children, Young Persons, and Their Families Act 1989, but may not be used to prosecute the suspect for any offence:
         
         *   (x) a summary of [section 49A][115] relating to who may take the buccal sample:
         
@@ -1801,9 +1769,11 @@ Obtaining buccal sample from suspect who is child or was child when offence for 
         
         
     
-    Section 24F: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24F: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24F(b)(vii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24F(b)(i): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 24F(b)(vii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 24G Consent to taking of buccal sample
     
@@ -1835,11 +1805,11 @@ Obtaining buccal sample from suspect who is child or was child when offence for 
         
         
     
-    Section 24G: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24G: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24G(1)(b): amended, on 27 March 2008, by [section 6(1)][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
+    Section 24G(1)(b): amended, on 27 March 2008, by [section 6(1)][237] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
     
-    Section 24G(3): amended, on 27 March 2008, by [section 6(2)][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
+    Section 24G(3): amended, on 27 March 2008, by [section 6(2)][237] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
 
 ##### 24H Withdrawal of consent
     
@@ -1847,29 +1817,29 @@ Obtaining buccal sample from suspect who is child or was child when offence for 
     
     (2) If the consent is withdrawn orally, the withdrawal must be recorded in writing by a constable as soon as is practicable.
     
-    Section 24H: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24H: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 24H(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 24H(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 24I Buccal sample to be forwarded to approved agency as soon as practicable
     
 *   If a buccal sample is taken as a result of a Part 2A request, the Police must ensure that the buccal sample is forwarded to an approved agency as soon as is practicable after it is taken.
     
-    Section 24I: inserted, on 15 April 2004, by [section 19][233] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 24I: inserted, on 15 April 2004, by [section 19][235] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ## Part 2B  
 Taking bodily sample from person arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule
     
-*   Part 2B: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
-*   Part 2B heading: amended, on 5 December 2011, by [section 43][237] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+*   Part 2B: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+*   Part 2B heading: amended, on 5 December 2011, by [section 43][239] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24J Authority to take bodily sample from person of or over 17 years arrested or intended to be charged with imprisonable offence or offence listed in Part 3 of Schedule
     
 *   (1) A constable may require a person who is of or over the age of 17 years to give a bodily sample if either---
         
-    *   (a) the person is in the lawful custody of the Police and being detained for committing an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule and is at a Police station or at any other place being used for Police purposes; or
+    *   (a) the person is in the lawful custody of the Police and being detained for committing an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule and is at a Police station or at any other place being used for Police purposes; or
     
-    *   (b) a constable has good cause to suspect the person of committing an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule and intends to bring proceedings against the person in respect of that offence by way of summons.
+    *   (b) a constable has good cause to suspect the person of committing an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule and intends to bring proceedings against the person in respect of that offence by filing a charging document.
     
     (2) The sample must be taken in accordance with the procedures set out in [Part 4][103].
     
@@ -1879,13 +1849,15 @@ Taking bodily sample from person arrested or intended to be charged with impriso
     
     *   (b) only for the period necessary in order for the bodily sample to be taken.
     
-    Section 24J: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24J: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 24J heading: amended, on 5 December 2011, by [section 44(1)][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24J heading: amended, on 5 December 2011, by [section 44(1)][240] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 24J(1)(a): amended, on 5 December 2011, by [section 44(2)][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24J(1)(a): amended, on 5 December 2011, by [section 44(2)][240] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 24J(1)(b): amended, on 5 December 2011, by [section 44(2)][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24J(1)(b): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 24J(1)(b): amended, on 5 December 2011, by [section 44(2)][240] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24K Authority to take bodily sample from young person arrested or intended to be charged with relevant offence
     
@@ -1893,7 +1865,7 @@ Taking bodily sample from person arrested or intended to be charged with impriso
         
     *   (a) the person has been arrested for a relevant offence; or
     
-    *   (b) a constable has good cause to suspect the person of committing a relevant offence and intends to bring proceedings against the person in respect of that offence by way of summons.
+    *   (b) a constable has good cause to suspect the person of committing a relevant offence and intends to bring proceedings against the person in respect of that offence by filing a charging document.
     
     (2) The sample must be taken in accordance with the procedures set out in [Part 4][103].
     
@@ -1903,13 +1875,15 @@ Taking bodily sample from person arrested or intended to be charged with impriso
     
     *   (b) only for the period necessary in order for the bodily sample to be taken.
     
-    Section 24K: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24K: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    
+    Section 24K(1)(b): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24L Relationship to Part 2
     
 *   Nothing in [Part 2][11] limits the authority to take a bodily sample conferred by [section 24J][52] or [24K][53].
     
-    Section 24L: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24L: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24M Information to be given to person
     
@@ -1935,7 +1909,7 @@ Taking bodily sample from person arrested or intended to be charged with impriso
         
         
     
-    Section 24M: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24M: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24N Form and content of notice
     
@@ -1961,13 +1935,13 @@ Taking bodily sample from person arrested or intended to be charged with impriso
         
         
     
-    Section 24N: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24N: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24O Part 2B temporary databank
     
 *   There may be maintained (whether in computerised form or otherwise), by or on behalf of the Police, a database of DNA profiles derived from bodily samples taken under this Part.
     
-    Section 24O: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24O: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24P Information that may be kept on Part 2B temporary databank
     
@@ -1983,13 +1957,13 @@ Taking bodily sample from person arrested or intended to be charged with impriso
         
         
     
-    Section 24P: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24P: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24Q Removal of DNA profiles from Part 2B temporary databank
     
 *   When either of the circumstances in [section 24P(b)(i) or (ii)][58] has arisen in relation to a DNA profile, the DNA profile must be removed from the Part 2B temporary databank.
     
-    Section 24Q: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24Q: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24R Access to and disclosure of information on Part 2B temporary databank
     
@@ -1997,7 +1971,7 @@ Taking bodily sample from person arrested or intended to be charged with impriso
         
     *   (a) to compare with unidentified DNA information obtained from the scenes of offences under investigation or otherwise in respect of which a conviction or further conviction is yet to be obtained, for the purpose of a criminal investigation by the Police into the triggering offence or any other offence:
     
-    *   (b) for the purpose of making the information available, in accordance with the [Privacy Act 1993][239], to the person to whom the information relates:
+    *   (b) for the purpose of making the information available, in accordance with the [Privacy Act 1993][241], to the person to whom the information relates:
     
     *   (c) for the purpose of administering the Part 2B temporary databank.
     
@@ -2005,7 +1979,7 @@ Taking bodily sample from person arrested or intended to be charged with impriso
     
     (3) Nothing in this section applies in relation to information that does not identify any person.
     
-    (4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the [Privacy Act 1993][239] to investigate any complaint made under [Part 8][240] of that Act.
+    (4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the [Privacy Act 1993][241] to investigate any complaint made under [Part 8][242] of that Act.
     
     (5) Nothing in this section prohibits access to, or the disclosure of, any information for the purposes of---
         
@@ -2015,7 +1989,7 @@ Taking bodily sample from person arrested or intended to be charged with impriso
     
     *   (c) the prosecution of an offence against [section 77(2)][158].
     
-    Section 24R: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24R: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 24S Access to and use of bodily samples taken under this Part
     
@@ -2025,7 +1999,7 @@ Taking bodily sample from person arrested or intended to be charged with impriso
     
     *   (b) where applicable, for storage on a DNA profile databank in accordance with [section 26(ab) or (ac)][65].
     
-    Section 24S: inserted, on 6 September 2010, by [section 7][236] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 24S: inserted, on 6 September 2010, by [section 7][238] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ## Part 3  
 DNA profile databank
@@ -2036,7 +2010,7 @@ DNA profile databank
     
 *   There may be maintained (whether in computerised form or otherwise), by or on behalf of the Police, a database of DNA profiles derived from bodily samples taken pursuant to this Act.
     
-    Section 25: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 25: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 26 Information that may be kept on DNA profile databank
     
@@ -2046,23 +2020,23 @@ DNA profile databank
             
         *   (i) that person is convicted of the offence in respect of which the sample is taken, or of a related offence, (unless the conviction is subsequently quashed); and
         
-        *   (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule:
+        *   (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule:
         
         
     
     *   (ab) any DNA profile derived from a bodily sample taken from a person under [Part 2B][51] if---
             
-        *   (i) that person is convicted of the triggering offence, or of a related imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule (unless the conviction is subsequently quashed); and
+        *   (i) that person is convicted of the triggering offence, or of a related imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule (unless the conviction is subsequently quashed); and
         
-        *   (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule; and
+        *   (ii) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule; and
         
-        *   (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or a Youth Court makes an order under [section 283][241] of the Children, Young Persons, and Their Families Act 1989:
+        *   (iii) in the case of a person who was a young person on the date of the offence, a sentence of imprisonment or of a non-custodial nature is imposed for the offence or a Youth Court makes an order under [section 283][243] of the Children, Young Persons, and Their Families Act 1989:
         
         
     
     *   (ac) any DNA profile derived from a bodily sample taken from a young person under [Part 2B][51] if---
             
-        *   (i) a Youth Court made an order under [section 282][242] of the Children, Young Persons, and Their Families Act 1989 discharging the information relating to the offence after finding that the offence was proved; and 
+        *   (i) a Youth Court made an order under [section 282][244] of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved; and 
         
         *   (ii) the offence in relation to which the order was made is a relevant offence, or a related offence:
         
@@ -2070,21 +2044,23 @@ DNA profile databank
     
     *   (b) subject to [section 36][79], any DNA profile derived from a bodily sample taken from any person pursuant to this Part.
     
-    Section 26: amended, on 6 September 2010, by [section 8(1)][243] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26: amended, on 6 September 2010, by [section 8(1)][245] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 26(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 26(a)(ii): amended, on 5 December 2011, by [section 45(1)][244] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26(a)(ii): amended, on 5 December 2011, by [section 45(1)][246] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26(ab): inserted, on 6 September 2010, by [section 8(2)][243] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26(ab): inserted, on 6 September 2010, by [section 8(2)][245] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26(ab)(i): amended, on 5 December 2011, by [section 45(2)][244] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26(ab)(i): amended, on 5 December 2011, by [section 45(2)][246] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26(ab)(ii): amended, on 5 December 2011, by [section 45(3)][244] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26(ab)(ii): amended, on 5 December 2011, by [section 45(3)][246] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26(ac): inserted, on 6 September 2010, by [section 8(2)][243] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26(ac): inserted, on 6 September 2010, by [section 8(2)][245] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 26(ac)(i): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 26(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 26A Removal of certain DNA profiles from DNA profile databank
     
@@ -2096,9 +2072,9 @@ DNA profile databank
     
     *   (b) any of the following applies:
             
-        *   (i) a Youth Court made an order under 1 or more of paragraphs (a) to (n) of [section 283][241] of the Children, Young Persons, and Their Families Act 1989; or
+        *   (i) a Youth Court made an order under 1 or more of paragraphs (a) to (n) of [section 283][243] of the Children, Young Persons, and Their Families Act 1989; or
         
-        *   (ii) a Youth Court made an order under [section 283(o)][241] of the Children, Young Persons, and Their Families Act 1989 but no court imposed a sentence of imprisonment for the offence; or
+        *   (ii) a Youth Court made an order under [section 283(o)][243] of the Children, Young Persons, and Their Families Act 1989 but no court imposed a sentence of imprisonment for the offence; or
         
         *   (iii) a District Court (rather than a Youth Court) convicted the person of the offence but did not impose a sentence of imprisonment.
         
@@ -2108,23 +2084,23 @@ DNA profile databank
         
     *   (a) the person was a young person on the date of the offence; and
     
-    *   (b) a Youth Court made an order under [section 282][242] of the Children, Young Persons, and Their Families Act 1989 discharging the information relating to the offence after finding that the offence was proved.
+    *   (b) a Youth Court made an order under [section 282][244] of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
     
     (4) The retention periods and effect of certain subsequent offences are as follows:
     
     **Sentence or order** **Retention period for order or conviction** **Retention period for subsequent offence **
     
-    [Section 26(a) or (ab)][65]: [section 283(a) to (n)][241] order made by a Youth Court 10 years after date of that [section 283][241] order If a [section 282][242] order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.
+    [Section 26(a) or (ab)][65]: [section 283(a) to (n)][243] order made by a Youth Court 10 years after date of that [section 283][243] order If a [section 282][244] order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.
     
-    [Section 26(a) or (ab)][65]: [section 283(o)][241] order made by a Youth Court but no imprisonment 10 years after date of [section 283(o)][241] order If a [section 282][242] order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.
+    [Section 26(a) or (ab)][65]: [section 283(o)][243] order made by a Youth Court but no imprisonment 10 years after date of [section 283(o)][243] order If a [section 282][244] order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.
     
-    [Section 26(a) or (ab)][65]: convicted by a District Court but no imprisonment 10 years after date of conviction If a [section 282][242] order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.
+    [Section 26(a) or (ab)][65]: convicted by a District Court but no imprisonment 10 years after date of conviction If a [section 282][244] order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.
     
-    [Section 26(ac)][65]: [section 282][242] order made after offence proved 4 years after date of [section 282][242] order If a [section 283][241] order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.
+    [Section 26(ac)][65]: [section 282][244] order made after offence proved 4 years after date of [section 282][244] order If a [section 283][243] order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.
     
     If the person is subsequently convicted by a District Court without imprisonment during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.
     
-    If another [section 282][242] order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
+    If another [section 282][244] order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
     
     (5) A person's DNA profile stored under [section 26][65] may, unless otherwise provided by this Act, be stored indefinitely on a DNA profile databank if any of the following apply:
         
@@ -2154,11 +2130,13 @@ DNA profile databank
     
     *   (b) the conviction was for an offence that was not a relevant offence at the time of the conviction; and
     
-    *   (c) the person has not been convicted of an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule since the date of the conviction.
+    *   (c) the person has not been convicted of an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule since the date of the conviction.
     
-    Section 26A: inserted, on 6 September 2010, by [section 9][245] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26A: inserted, on 6 September 2010, by [section 9][247] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26A(6): added, on 5 December 2011, by [section 46][246] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26A(3)(b): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 26A(6): added, on 5 December 2011, by [section 46][248] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 26B Certain young persons may apply for removal of DNA profiles from DNA profile databank
     
@@ -2168,17 +2146,17 @@ DNA profile databank
             
         *   (i) a DNA profile of the person was taken and stored on a DNA databank under [Part 2][11] when the person was a young person; and
         
-        *   (ii) a Youth Court made an order in relation to the person under [section 282][242] or [283][241] of the Children, Young Persons, and Their Families Act 1989 in relation to an offence but no court imposed a sentence of imprisonment for the offence; and
+        *   (ii) a Youth Court made an order in relation to the person under [section 282][244] or [283][243] of the Children, Young Persons, and Their Families Act 1989 in relation to an offence but no court imposed a sentence of imprisonment for the offence; and
         
         
     
-    *   (b) within 10 years after the date of that order, the person is not convicted of an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule.
+    *   (b) within 10 years after the date of that order, the person is not convicted of an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule.
     
     (2) The person's DNA profile must be removed from the DNA databank and destroyed if the person applies in writing to the Commissioner requesting the removal of the profile.
     
-    Section 26B: inserted, on 6 September 2010, by [section 9][245] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26B: inserted, on 6 September 2010, by [section 9][247] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 26B(1)(b): amended, on 5 December 2011, by [section 47][247] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 26B(1)(b): amended, on 5 December 2011, by [section 47][249] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 27 Access to and disclosure of information on DNA profile databank
     
@@ -2186,13 +2164,13 @@ DNA profile databank
         
     *   (a) for the purpose of forensic comparison in the course of a criminal investigation by the Police:
     
-    *   (b) for the purpose of making the information available, in accordance with the [Privacy Act 1993][239], to the person to whom the information relates:
+    *   (b) for the purpose of making the information available, in accordance with the [Privacy Act 1993][241], to the person to whom the information relates:
     
     *   (c) for the purpose of administering the DNA profile databank.
     
     (2) Nothing in this section applies in relation to information that does not identify any person.
     
-    (3) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the [Privacy Act 1993][239] to investigate any complaint made under [Part 8][240] of that Act.
+    (3) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the [Privacy Act 1993][241] to investigate any complaint made under [Part 8][242] of that Act.
     
     (4) Nothing in this section prohibits access to, or the disclosure of, any information for the purposes of---
         
@@ -2202,7 +2180,7 @@ DNA profile databank
     
     *   (b) the prosecution of an offence against [section 77(2)][158].
     
-    Section 27(4)(ab): inserted, on 15 April 2004, by [section 20][248] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 27(4)(ab): inserted, on 15 April 2004, by [section 20][250] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 28 Access to and use of bodily samples held for DNA profile databank purposes
     
@@ -2214,13 +2192,13 @@ DNA profile databank
     
     except for the purpose of deriving from that sample a DNA profile for storage on a DNA profile databank.
     
-    Section 28 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 28 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 28: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 28: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Authority to obtain bodily sample for DNA profile databank
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 29 Authority to take bodily sample for DNA profile databank
     
@@ -2236,15 +2214,15 @@ DNA profile databank
     
     *   (b) the sample is taken in accordance with the procedures set out in [Part 4][103].
     
-    Section 29 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 29 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 29: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 29: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 29(a)(ii): substituted, on 15 April 2004, by [section 21][249] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 29(a)(ii): substituted, on 15 April 2004, by [section 21][251] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Obtaining bodily sample by consent
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 30 Request to consent to taking of bodily sample
     
@@ -2270,17 +2248,17 @@ DNA profile databank
         
         
     
-    Section 30 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 30 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 30(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 30(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 30(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 30(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 30(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 30(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 30(2)(b)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 30(2)(b)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 30(2)(b)(vi): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 30(2)(b)(vi): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 31 Form and content of notice
     
@@ -2316,19 +2294,19 @@ DNA profile databank
         
         
     
-    Section 31(b)(vi): amended, on 15 April 2004, by [section 22(1)][250] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 31(b)(vi): amended, on 15 April 2004, by [section 22(1)][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 31(b)(vii): substituted, on 15 April 2004, by [section 22(2)][250] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 31(b)(vii): substituted, on 15 April 2004, by [section 22(2)][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 31(b)(viii): amended, on 15 April 2004, by [section 22(3)][250] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 31(b)(viii): amended, on 15 April 2004, by [section 22(3)][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 31(b)(xi): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 31(b)(xi): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 32 Section 30 not to apply to persons under 17
     
 *   Nothing in [section 30][73] applies in respect of a person who is under the age of 17 years, and no such person shall be capable of consenting to the taking of a bodily sample in response to a request made under that section.
     
-    Section 32: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 32: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 33 Dual requests
     
@@ -2358,13 +2336,13 @@ DNA profile databank
         
         
     
-    Section 33(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 33(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 33(a)(i): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 33(a)(i): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 33(a)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 33(a)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 33(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 33(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 34 Consent to taking of bodily sample
     
@@ -2388,15 +2366,15 @@ DNA profile databank
     
     (5) Where any such consent is withdrawn orally, that withdrawal shall be recorded in writing by a constable as soon as practicable.
     
-    Section 34 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 34 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 34(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 34(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 34(1)(b): amended, on 27 March 2008, by [section 7(1)][251] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
+    Section 34(1)(b): amended, on 27 March 2008, by [section 7(1)][253] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
     
-    Section 34(3): amended, on 27 March 2008, by [section 7(2)][251] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
+    Section 34(3): amended, on 27 March 2008, by [section 7(2)][253] of the Criminal Investigations (Bodily Samples) Amendment Act 2008 (2008 No 9).
     
-    Section 34(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 34(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 35 Right of person in custody to consult lawyer
     
@@ -2442,17 +2420,17 @@ DNA profile databank
     
     then, notwithstanding anything in subsection (1), that bodily sample and any information derived from any analysis of that sample may continue to be dealt with in accordance with the consent given in response to the suspect request.
     
-    Section 36(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 36(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 36(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 36(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 36(2): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 36(2): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 36(3): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 36(3): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 36(3)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 36(3)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 36(3)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 36(3)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 37 Withdrawal of consent suspended
     
@@ -2558,29 +2536,29 @@ DNA profile databank
     
     *   (b) if, for any reason, no bodily sample is obtained from the person in accordance with the suspect compulsion order, then [section 38][81] shall apply.
     
-    Section 37(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(1)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(1)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(1)(b)(i): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(1)(b)(i): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(1)(b)(v): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(1)(b)(v): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(2)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(2)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(2)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(2)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(3)(b)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(3)(b)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(3)(c)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(3)(c)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(4)(b)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(4)(b)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(4)(c)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(4)(c)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(6)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(6)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 37(6)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 37(6)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 38 Retention of sample despite withdrawal of consent
     
@@ -2604,19 +2582,19 @@ DNA profile databank
         
         but, in the meantime, no DNA profile derived from the bodily sample shall be used for the purposes of any criminal investigation or any criminal proceedings (other than the investigation or prosecution of any offence against [section 77(2)][158]).
     
-    Section 38: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 38: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 38(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 38(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 38(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 38(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 38(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 38(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 38(c)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 38(c)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Obtaining bodily sample by databank compulsion notice
     
-*   Heading: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 39 Issue and service of databank compulsion notice
     
@@ -2634,29 +2612,29 @@ DNA profile databank
     
     *   (c) explain the contents of the notice to the person being served in a manner, and in a language, that the person is likely to understand.
     
-    (3) If a person in relation to whom a databank compulsion notice is issued is not detained under a sentence of imprisonment for the imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule in relation to which it is issued, the notice---
+    (3) If a person in relation to whom a databank compulsion notice is issued is not detained under a sentence of imprisonment for the imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule in relation to which it is issued, the notice---
         
-    *   (a) must be served on a date as soon as is reasonably practicable after the person's conviction for the imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule is entered; but
+    *   (a) must be served on a date as soon as is reasonably practicable after the person's conviction for the imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule is entered; but
     
-    *   (b) need not be served on a date before the person is sentenced for the imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule; and
+    *   (b) need not be served on a date before the person is sentenced for the imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule; and
     
     *   (c) must be served on a date that allows for the taking of a bodily sample in accordance with [section 39C(3)][86] (which describes the dates between which a person who is not detained under a sentence of imprisonment may be required to attend to give a bodily sample).
     
-    (4) If a person in relation to whom a databank compulsion notice is issued is detained under a sentence of imprisonment for the imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule in relation to which it is issued, the notice must be served on a date that allows for the taking of a bodily sample in accordance with [section 39C(4)][86] (which describes the dates between which a person who is detained under a sentence of imprisonment may be required to attend to give a bodily sample).
+    (4) If a person in relation to whom a databank compulsion notice is issued is detained under a sentence of imprisonment for the imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule in relation to which it is issued, the notice must be served on a date that allows for the taking of a bodily sample in accordance with [section 39C(4)][86] (which describes the dates between which a person who is detained under a sentence of imprisonment may be required to attend to give a bodily sample).
     
-    Section 39: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 39: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 39(1): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39(1): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(1)(a): amended, on 5 December 2011, by [section 48(1)][253] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 39(1)(a): amended, on 5 December 2011, by [section 48(1)][255] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 39(3): amended, on 5 December 2011, by [section 48(2)][253] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 39(3): amended, on 5 December 2011, by [section 48(2)][255] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 39(3)(a): amended, on 5 December 2011, by [section 48(2)][253] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 39(3)(a): amended, on 5 December 2011, by [section 48(2)][255] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 39(3)(b): amended, on 5 December 2011, by [section 48(2)][253] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 39(3)(b): amended, on 5 December 2011, by [section 48(2)][255] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 39(4): amended, on 5 December 2011, by [section 48(3)][253] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 39(4): amended, on 5 December 2011, by [section 48(3)][255] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 39A Form and content of databank compulsion notice
     
@@ -2688,7 +2666,7 @@ DNA profile databank
     
     *   (l) any other particulars that may be prescribed.
     
-    (3) If a databank compulsion notice is issued in relation to a person who is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][231] of the Sentencing Act 2002, or is on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, the notice must contain---
+    (3) If a databank compulsion notice is issued in relation to a person who is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][233] of the Sentencing Act 2002, or is on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, the notice must contain---
         
     *   (a) the particulars in subsection (2)(a) and (d) to (l); but
     
@@ -2702,21 +2680,21 @@ DNA profile databank
     
     (4) Despite subsection (3)(b)(i), a constable who is of or above the level of position of inspector may state in a databank compulsion notice that a person may give a bodily sample at a place other than the residence at which the person is detained or is required to remain, if the constable who is of or above the level of position of inspector issuing the notice is of the view that it is necessary to do so on account of the person's health.
     
-    Section 39A: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 39A: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 39A(2)(b): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39A(2)(b): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 39A(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39A(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 39A(3): amended, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 39A(3): amended, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 39A(3)(b)(i): amended, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 39A(3)(b)(i): amended, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 39A(3)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39A(3)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 39A(4): substituted, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 39A(4): substituted, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 39A(4): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39A(4): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 39B Form and content of databank compulsion notice issued in relation to person under age of 17 years
     
@@ -2730,13 +2708,13 @@ DNA profile databank
     
     *   (c) a statement that a parent or other person having the care of the person may be present when the bodily sample is taken.
     
-    Section 39B: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 39B: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 39C Date and place for taking of sample to be specified in databank compulsion notice
     
 *   (1) A constable who is of or above the level of position of inspector who issues a databank compulsion notice must specify in the notice the place where and the date on which the person to whom the notice relates is to attend to give a bodily sample.
     
-    (2) If a person to whom a databank compulsion notice relates is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][231] of the Sentencing Act 2002, or is on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, the place the constable who is of or above the level of position of inspector must specify under subsection (1) must be the residence at which the person is detained or is required to remain, unless the constable who is of or above the level of position of inspector is of the view that it is necessary for the person to give the sample at another place on account of the person's state of health.
+    (2) If a person to whom a databank compulsion notice relates is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][233] of the Sentencing Act 2002, or is on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, the place the constable who is of or above the level of position of inspector must specify under subsection (1) must be the residence at which the person is detained or is required to remain, unless the constable who is of or above the level of position of inspector is of the view that it is necessary for the person to give the sample at another place on account of the person's state of health.
     
     (3) If a person to whom a databank compulsion notice relates is not detained under a sentence of imprisonment for the relevant offence in relation to which the notice is issued at the time the notice is served, the date specified in the notice under subsection (1)---
         
@@ -2756,13 +2734,13 @@ DNA profile databank
         
         
     
-    Section 39C: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 39C: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 39C(1): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39C(1): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 39C(2): substituted, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 39C(2): substituted, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 39C(2): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39C(2): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 39D Parent or other person having care to be notified if Police suggest variation of databank compulsion notice issued in relation to person under age of 17 years
     
@@ -2770,11 +2748,11 @@ DNA profile databank
     
     (2) If a constable suggests varying, under [section 39A(3)(b)(ii)][84], the date on which a person under the age of 17 years is to attend to give a bodily sample pursuant to a databank compulsion notice, the constable must take all reasonable steps to notify a parent or other person having the care of the person of the suggested variation.
     
-    Section 39D: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 39D: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 39D(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39D(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 39D(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 39D(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 40 Databank compulsion notice of no effect if conviction for relevant offence quashed
     
@@ -2794,13 +2772,13 @@ DNA profile databank
     
     *   (b) as soon as practicable after notifying the person and, if applicable, the person's parent or other person having the care of that person, of the matters listed in paragraph (a), confirm those matters in writing.
     
-    Section 40: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 40: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 40(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 40(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 #### Databank compulsion notice hearing
     
-*   Heading: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 41 Databank compulsion notice hearing may be requested on certain grounds
     
@@ -2856,9 +2834,9 @@ DNA profile databank
     
     (4) In this section and [section 41B][92], the _appropriate court_ is the court before which the person to whom the databank compulsion notice relates was sentenced for the relevant offence, or is due to appear for sentence for the relevant offence, in relation to which the notice has been issued.
     
-    Section 41: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 41: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 41A Form and effect of request for databank compulsion notice hearing
     
@@ -2870,7 +2848,7 @@ DNA profile databank
     
     (2) If a request is made for a databank compulsion notice hearing, a bodily sample must not be taken from the person to whom the databank compulsion notice relates unless a Judge at a databank compulsion notice hearing makes a Part 3 order.
     
-    Section 41A: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 41A: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 41B Obligations if databank compulsion notice hearing requested
     
@@ -2882,17 +2860,17 @@ DNA profile databank
     
     *   (b) if the person to whom the notice relates is under the age of 17 years, a parent or other person having the care of that person:
     
-    *   (c) if a lay advocate has been appointed under [section 326][221] of the Children, Young Persons, and Their Families Act 1989 in respect of the person to whom the notice relates, that lay advocate:
+    *   (c) if a lay advocate has been appointed under [section 326][222] of the Children, Young Persons, and Their Families Act 1989 in respect of the person to whom the notice relates, that lay advocate:
     
     *   (d) the constable in charge of the Police station where the constable who filed the notice of hearing is stationed.
     
-    Section 41B: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 41B: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 41B(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 41B(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 41B(2)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 41B(2)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 41B(2)(d): amended, on 1 October 2008, pursuant to [section 116(a)(v)][204] of the Policing Act 2008 (2008 No 72).
+    Section 41B(2)(d): amended, on 1 October 2008, pursuant to [section 116(a)(v)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 41C Appearance at databank compulsion notice hearing
     
@@ -2910,17 +2888,17 @@ DNA profile databank
     
     *   (b) any lawyer representing a person referred to in paragraph (a):
     
-    *   (c) a lay advocate of the person to whom the databank compulsion notice relates, if any has been appointed under [section 326][221] of the Children, Young Persons, and Their Families Act 1989:
+    *   (c) a lay advocate of the person to whom the databank compulsion notice relates, if any has been appointed under [section 326][222] of the Children, Young Persons, and Their Families Act 1989:
     
     *   (d) with the leave of the Judge, any other person.
     
     (3) The provisions of [sections 21][34] and [22][35] (which relate to the appointment of a lawyer to represent a respondent who is under the age of 17 years) apply, with any necessary modifications, to a databank compulsion notice hearing if the person to whom the hearing relates is under the age of 17 years.
     
-    Section 41C: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 41C: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Part 3 orders and other orders made at databank compulsion notice hearings
     
-*   Heading: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 42 Part 3 orders and other orders made at databank compulsion notice hearings
     
@@ -2966,7 +2944,7 @@ DNA profile databank
     
     (8) This section is subject to [sections 43A][97] and [43B][98].
     
-    Section 42: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 42: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 43 Judge may vary, or impose conditions on, databank compulsion notice
     
@@ -2982,7 +2960,7 @@ DNA profile databank
     
     (3) This section is subject to [section 43A][97].
     
-    Section 43: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 43: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 43A Change of circumstances before databank compulsion notice hearing takes place or is completed
     
@@ -3026,7 +3004,7 @@ DNA profile databank
     
     (4) This section is subject to [section 43B][98].
     
-    Section 43A: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 43A: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 43B Order that databank compulsion notice of no effect must be made in certain circumstances
     
@@ -3038,13 +3016,13 @@ DNA profile databank
     
     (2) If the Judge is satisfied of the matters in subsection (1)(a) and (b), the Judge must make an order that a databank compulsion notice is of no effect.
     
-    Section 43B: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 43B: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 43B(1)(a): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 43B(1)(a): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
 
 #### Further databank compulsion notice
     
-*   Heading: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 44 Further databank compulsion notice
     
@@ -3052,11 +3030,11 @@ DNA profile databank
     
     (2) In this section, the _appropriate court_ is the court before which the person to whom the databank compulsion notice relates was sentenced for the relevant offence in relation to which the notice has been issued, or is due to appear for sentence for the relevant offence in relation to which the notice has been issued.
     
-    Section 44: substituted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 44: substituted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 44(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 44(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 44(1): amended, on 1 October 2008, by [section 130(1)][254] of the Policing Act 2008 (2008 No 72).
+    Section 44(1): amended, on 1 October 2008, by [section 130(1)][256] of the Policing Act 2008 (2008 No 72).
 
 ##### 44A Certain matters relating to further databank compulsion notice
     
@@ -3080,9 +3058,9 @@ DNA profile databank
     
     (5) A person in relation to whom a further databank compulsion notice is issued in the circumstances referred to in subsection (3) may not request a databank compulsion hearing on the ground specified in [section 41(2)(e)][90], but may do so on any other ground specified in section 41(2).
     
-    Section 44A: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 44A: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 44A(4): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 44A(4): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 44B Judge to specify method of taking sample if further databank compulsion notice issued
     
@@ -3094,21 +3072,21 @@ DNA profile databank
     
     *   (b) any view expressed by the person to whom the notice relates regarding which of the 3 methods should be used.
     
-    Section 44B: inserted, on 15 April 2004, by [section 23][252] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 44B: inserted, on 15 April 2004, by [section 23][254] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 44B(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 44B(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 44B(2)(a): amended, on 1 October 2008, by [section 130(1)][254] of the Policing Act 2008 (2008 No 72).
+    Section 44B(2)(a): amended, on 1 October 2008, by [section 130(1)][256] of the Policing Act 2008 (2008 No 72).
 
 ## Part 4  
 Procedures for taking bodily samples
     
-*   Part 4 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Part 4 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Attendance for purpose of taking bodily sample: Compulsion order or databank compulsion notice
     
-*   Heading: substituted, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
-*   Heading: amended, on 6 September 2010, by [section 10][255] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+*   Heading: substituted, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 6 September 2010, by [section 10][257] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 45AA Date on which bodily sample to be taken
     
@@ -3124,11 +3102,11 @@ Procedures for taking bodily samples
     
     *   (b) any other date before the date specified in the order or notice, agreed to by the person to whom the order or notice relates and a constable under [section 24A(2) or (4)(b)][39] or [section 39A(2)(c) or (3)(b)(ii)][84].
     
-    Section 45AA: inserted, on 15 April 2004, by [section 24(1)][256] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 45AA: inserted, on 15 April 2004, by [section 24(1)][258] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 45AA(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 45AA(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 45AA(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 45AA(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 45 Judge may issue warrant for arrest and detention
     
@@ -3194,15 +3172,15 @@ Procedures for taking bodily samples
     
     (6) Nothing in this section requires a Judge to direct the issue of an arrest warrant if the Judge is satisfied that the person to whom a compulsion order or databank compulsion notice relates was, or will be, unable to attend to give a bodily sample on the date specified in the compulsion order or databank compulsion notice due to reasons outside that person's control.
     
-    Section 45: substituted, on 15 April 2004, by [section 24(1)][256] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 45: substituted, on 15 April 2004, by [section 24(1)][258] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 45(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 45(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(2): amended, on 1 October 2008, by [section 130(1)][254] of the Policing Act 2008 (2008 No 72).
+    Section 45(2): amended, on 1 October 2008, by [section 130(1)][256] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(2): amended, on 15 December 2005, by [section 5][257] of the Criminal Investigations (Bodily Samples) Amendment Act 2005 (2005 No 98).
+    Section 45(2): amended, on 15 December 2005, by [section 5][259] of the Criminal Investigations (Bodily Samples) Amendment Act 2005 (2005 No 98).
 
 ##### 45A Form and effect of warrant for arrest and detention
     
@@ -3224,7 +3202,7 @@ Procedures for taking bodily samples
     
     (5) The power to arrest and detain a person pursuant to a warrant issued under [section 45][106] may be exercised on 1 occasion only.
     
-    Section 45A: inserted, on 15 April 2004, by [section 24(1)][256] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 45A: inserted, on 15 April 2004, by [section 24(1)][258] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 46 Person in custody to attend to give bodily sample
     
@@ -3236,9 +3214,9 @@ Procedures for taking bodily samples
     
     *   (c) in custody any prison; or
     
-    *   (d) in a hospital under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][258]; or
+    *   (d) in a hospital under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][260]; or
     
-    *   (e) in a facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][259].
+    *   (e) in a facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][261].
     
     (2) A person having custody of, or responsibility for, a person to whom this section applies must cause that person to attend at the place where, and on the date on which, a bodily sample is to be taken pursuant to the compulsion order or databank compulsion notice.
     
@@ -3258,21 +3236,21 @@ Procedures for taking bodily samples
     
     (6) The expenses referred to in subsection (5) include, but are not limited to, expenses relating to the maintenance and custody of a person to whom this section applies while he or she is absent from the place where he or she would otherwise be detained.
     
-    Section 46: substituted, on 15 April 2004, by [section 24(1)][256] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 46: substituted, on 15 April 2004, by [section 24(1)][258] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
     Section 46(1)(c): amended, on 1 June 2005, by [section 206][185] of the Corrections Act 2004 (2004 No 50).
     
-    Section 46(1)(d): amended, on 1 September 2004, by [section 50(4)][179] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 46(1)(d): amended, on 1 September 2004, by [section 50(4)][178] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 46(1)(e): added, on 1 September 2004, by [section 50(4)][179] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 46(1)(e): added, on 1 September 2004, by [section 50(4)][178] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 46(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 46(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 46(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 46(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 46A Person detained or required to remain at residence to attend to give bodily sample
     
-*   (1) An agreement reached, under [section 24A(4)(b)][39] or [section 39A(3)(b)(ii)][84], between a person serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][231] of the Sentencing Act 2002, or on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, and a constable to vary the date on which a bodily sample is to be taken, pursuant to a compulsion order or databank compulsion notice, is of no effect unless it has been approved by the probation officer supervising that person.
+*   (1) An agreement reached, under [section 24A(4)(b)][39] or [section 39A(3)(b)(ii)][84], between a person serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under [section 80A][233] of the Sentencing Act 2002, or on parole subject to residential restrictions imposed under [section 15][198] of the Parole Act 2002, and a constable to vary the date on which a bodily sample is to be taken, pursuant to a compulsion order or databank compulsion notice, is of no effect unless it has been approved by the probation officer supervising that person.
     
     (2) Subsection (3) applies if---
         
@@ -3286,9 +3264,9 @@ Procedures for taking bodily samples
     
     *   (b) [section 46(5) and (6)][108] applies with all necessary modifications.
     
-    Section 46A: substituted, on 1 October 2007, by [section 58][181] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 46A: substituted, on 1 October 2007, by [section 58][180] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 46A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 46A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 47 Variation by Judge on application of place and date for taking sample
     
@@ -3318,17 +3296,17 @@ Procedures for taking bodily samples
     
     (6) To avoid doubt, an application must not be made under subsection (1) to vary a date or place, or date and place, agreed to by the person to whom the compulsion order or databank compulsion notice relates and a constable under [section 24A(2)][39] or [section 39A(2)(c)][84], or to vary a date agreed to by those persons under section 24A(4)(b) or section 39A(3)(b)(ii), but that date or place, or date and place, may be varied by a further agreement between the parties.
     
-    Section 47: substituted, on 15 April 2004, by [section 24(1)][256] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 47: substituted, on 15 April 2004, by [section 24(1)][258] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 47(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 47(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 47(1): amended, on 1 October 2008, by [section 130(1)][254] of the Policing Act 2008 (2008 No 72).
+    Section 47(1): amended, on 1 October 2008, by [section 130(1)][256] of the Policing Act 2008 (2008 No 72).
     
-    Section 47(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 47(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 #### Procedure for taking bodily samples
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 48 Method by which bodily sample may be taken: samples under Parts 2, 2A, and 3
     
@@ -3368,15 +3346,15 @@ Procedures for taking bodily samples
     
     (8) [Section 54(2)][125] and, if applicable, section 54(3) apply if a person refuses to allow a bodily sample to be taken after a decision has been made by a constable under subsection (7).
     
-    Section 48: substituted, on 15 April 2004, by [section 25][260] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 48: substituted, on 15 April 2004, by [section 25][262] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 48 heading: amended, on 6 September 2010, by [section 11][261] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 48 heading: amended, on 6 September 2010, by [section 11][263] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 48(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 48(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 48(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 48(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 48(8): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 48(8): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 48A Method by which bodily sample may be taken: samples under Part 2B
     
@@ -3398,13 +3376,13 @@ Procedures for taking bodily samples
     
     (5) Despite subsection (4), if reasonable force is required to take the sample, the sample must be taken by fingerprick sample.
     
-    Section 48A: inserted, on 6 September 2010, by [section 12][262] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 48A: inserted, on 6 September 2010, by [section 12][264] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 49 Persons authorised to take blood samples
     
 *   A blood sample taken from a person under this Act must be taken by a suitably qualified person.
     
-    Section 49: substituted, on 15 April 2004, by [section 26][263] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 49: substituted, on 15 April 2004, by [section 26][265] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 49A Persons authorised to take buccal samples
     
@@ -3446,23 +3424,23 @@ Procedures for taking bodily samples
     
     *   (c) the child does not make an election under subsection (6).
     
-    Section 49A: inserted, on 15 April 2004, by [section 27][264] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 49A: inserted, on 15 April 2004, by [section 27][266] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 49A(1): amended, on 6 September 2010, by [section 13(1)][265] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 49A(1): amended, on 6 September 2010, by [section 13(1)][267] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 49A(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 49A(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 49A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 49A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 49A(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 49A(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 49A(3)(b): amended, on 6 September 2010, by [section 13(2)][265] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 49A(3)(b): amended, on 6 September 2010, by [section 13(2)][267] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 49A(3)(c): added, on 6 September 2010, by [section 13(2)][265] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 49A(3)(c): added, on 6 September 2010, by [section 13(2)][267] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 49A(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 49A(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 49A(6)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 49A(6)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 50 Person giving sample under Part 2, 2A, or 3 entitled to have certain other persons present
     
@@ -3486,17 +3464,17 @@ Procedures for taking bodily samples
     
     (3) Notwithstanding anything in paragraph (a) of subsection (1), where a bodily sample is to be taken from a person who is under the age of 17 years, the persons referred to in that paragraph may, unless the person from whom the sample is to be taken objects, be chosen, on that person's behalf, by a parent or other person who has the care of that person, and in any such case the provisions of subsection (2) shall apply with all necessary modifications.
     
-    Section 50 heading: amended, on 6 September 2010, by [section 14(1)][266] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 50 heading: amended, on 6 September 2010, by [section 14(1)][268] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 50(1): substituted, on 15 April 2004, by [section 28][267] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 50(1): substituted, on 15 April 2004, by [section 28][269] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 50(1): amended, on 6 September 2010, by [section 14(2)][266] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 50(1): amended, on 6 September 2010, by [section 14(2)][268] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 50(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 50(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 50(2): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 50(2): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 50(3): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 50(3): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 50A Other person must be present when young person gives sample under Part 2B
     
@@ -3526,7 +3504,7 @@ Procedures for taking bodily samples
     
     *   (d) a person, who is not a Police employee within the meaning of [section 4][188] of the Policing Act 2008, chosen by the constable if the young person fails or refuses to make a choice under subsection (2).
     
-    Section 50A: inserted, on 6 September 2010, by [section 15][268] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 50A: inserted, on 6 September 2010, by [section 15][270] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 50B Further provision if other person chosen to be present not present when choice made
     
@@ -3572,7 +3550,7 @@ Procedures for taking bodily samples
     
     (7) However, if a constable believes, on reasonable grounds, that any person chosen as described in subsection (5)(a)(i) cannot with reasonable diligence be located or will not be available within a period of time that is reasonable in the circumstances, the constable may choose a person who is not a Police employee within the meaning of [section 4][188] of the Policing Act 2008 to be present.
     
-    Section 50B: inserted, on 6 September 2010, by [section 15][268] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 50B: inserted, on 6 September 2010, by [section 15][270] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 50C Judge may issue warrant for arrest and detention if young person fails to attend in accordance with notice under section 50B
     
@@ -3592,11 +3570,15 @@ Procedures for taking bodily samples
     
     (4) In subsection (1), _appropriate court_ means---
         
-    *   (a) if the young person has not yet been charged for the triggering offence, the court in which the charge would be laid; or
+    *   (a) if the young person has not yet been charged for the triggering offence, the court in which the charge would be filed; or
     
-    *   (b) if the young person has been charged for the triggering offence, the court in which the charge was laid.
+    *   (b) if the young person has been charged for the triggering offence, the court in which the charge was filed.
     
-    Section 50C: inserted, on 6 September 2010, by [section 15][268] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 50C: inserted, on 6 September 2010, by [section 15][270] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    
+    Section 50C(4)(a): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 50C(4)(b): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50D Form and effect of warrant issued under section 50C
     
@@ -3616,7 +3598,7 @@ Procedures for taking bodily samples
     
     (4) The power to arrest and detain a person under a warrant issued under [section 50C][119] may be exercised on 1 occasion only.
     
-    Section 50D: inserted, on 6 September 2010, by [section 15][268] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 50D: inserted, on 6 September 2010, by [section 15][270] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 51 Suitably qualified persons and certain other persons, not compelled to take sample or be present
     
@@ -3628,21 +3610,21 @@ Procedures for taking bodily samples
     
     *   (c) compels any parent to take a buccal sample from his or her child under [section 49A(3)(c), (4)(b), or (6)(a)][115].
     
-    Section 51 heading: amended, on 15 April 2004, by [section 29(1)][269] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 51 heading: amended, on 15 April 2004, by [section 29(1)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 51(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 51(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 51(a): amended, on 15 April 2004, by [section 29(2)][269] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 51(a): amended, on 15 April 2004, by [section 29(2)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 51(b): substituted, on 15 April 2004, by [section 29(3)][269] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 51(b): substituted, on 15 April 2004, by [section 29(3)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 51(b): amended, on 6 September 2010, by [section 16(1)(a)][270] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 51(b): amended, on 6 September 2010, by [section 16(1)(a)][272] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 51(b): amended, on 6 September 2010, by [section 16(1)(b)][270] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 51(b): amended, on 6 September 2010, by [section 16(1)(b)][272] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 51(c): added, on 15 April 2004, by [section 29(3)][269] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 51(c): added, on 15 April 2004, by [section 29(3)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 51(c): amended, on 6 September 2010, by [section 16(2)][270] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 51(c): amended, on 6 September 2010, by [section 16(2)][272] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 52 Who may be present when bodily sample taken
     
@@ -3666,29 +3648,29 @@ Procedures for taking bodily samples
     
     (2) \[Repealed\]
     
-    Section 52 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 52 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 52(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 52(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 52(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 52(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 52(1)(b): substituted, on 15 April 2004, by [section 30(1)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 52(1)(b): substituted, on 15 April 2004, by [section 30(1)][273] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 52(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 52(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 52(1)(c): amended, on 6 September 2010, by [section 17(1)][272] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 52(1)(c): amended, on 6 September 2010, by [section 17(1)][274] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 52(1)(d): amended, on 6 September 2010, by [section 17(2)][272] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 52(1)(d): amended, on 6 September 2010, by [section 17(2)][274] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 52(1)(da): inserted, on 15 April 2004, by [section 30(2)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 52(1)(da): inserted, on 15 April 2004, by [section 30(2)][273] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 52(1)(e): amended, on 15 April 2004, by [section 30(3)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 52(1)(e): amended, on 15 April 2004, by [section 30(3)][273] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 52(1)(f): added, on 6 September 2010, by [section 17(3)][272] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 52(1)(f): added, on 6 September 2010, by [section 17(3)][274] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 52(1)(g): added, on 6 September 2010, by [section 17(3)][272] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 52(1)(g): added, on 6 September 2010, by [section 17(3)][274] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 52(2): repealed, on 15 April 2004, by [section 30(4)][271] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 52(2): repealed, on 15 April 2004, by [section 30(4)][273] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 52A Who must be present when suspect under age of 17 years takes own buccal sample for suspect request or Part 2A request
     
@@ -3698,13 +3680,13 @@ Procedures for taking bodily samples
     
     *   (b) the suspect has confirmed, in the presence of that independent adult, before taking the buccal sample, that he or she has elected to take a buccal sample himself or herself.
     
-    Section 52A: inserted, on 15 April 2004, by [section 31][273] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 52A: inserted, on 15 April 2004, by [section 31][275] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 53 Reasonable privacy to be afforded
     
 *   Subject to [section 52][122], a bodily sample taken from a person pursuant to this Act shall be taken in circumstances affording reasonable privacy to that person.
     
-    Section 53: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 53: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 54 Procedure for taking bodily sample pursuant to compulsion order or databank compulsion notice
     
@@ -3728,23 +3710,23 @@ Procedures for taking bodily samples
     
     (4) If a constable exercises the power conferred by subsection (2), that constable must, not later than 3 days after exercising that power, furnish to the Commissioner a written report of the exercise of that power.
     
-    Section 54: substituted, on 15 April 2004, by [section 32][274] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 54: substituted, on 15 April 2004, by [section 32][276] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 54(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(3): amended, on 1 June 2005, pursuant to [section 235(1)][275] of the Corrections Act 2004 (2004 No 50).
+    Section 54(3): amended, on 1 June 2005, pursuant to [section 235(1)][277] of the Corrections Act 2004 (2004 No 50).
     
-    Section 54(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 54(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 54A Procedure for taking bodily sample under Part 2B
     
@@ -3756,7 +3738,7 @@ Procedures for taking bodily samples
     
     (2) If a person refuses to give a bodily sample when required to do so under [Part 2B][51], a constable may use or cause to be used reasonable force to assist a suitably qualified person to take a fingerprick sample.
     
-    Section 54A: inserted, on 6 September 2010, by [section 18][276] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 54A: inserted, on 6 September 2010, by [section 18][278] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 55 How venous sample to be dealt with
     
@@ -3786,7 +3768,7 @@ Procedures for taking bodily samples
     
     (4) Any anti-coagulant substance may be added to any venous sample by placing it in the container, whether before or after the sample is taken and placed in the container.
     
-    Section 55(2)(c): substituted, on 15 April 2004, by [section 33][277] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 55(2)(c): substituted, on 15 April 2004, by [section 33][279] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 56 How fingerprick sample to be dealt with
     
@@ -3812,7 +3794,7 @@ Procedures for taking bodily samples
         
         
     
-    Section 56(d): substituted, on 15 April 2004, by [section 34][278] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 56(d): substituted, on 15 April 2004, by [section 34][280] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 56A How buccal sample to be dealt with
     
@@ -3856,15 +3838,15 @@ Procedures for taking bodily samples
         
         
     
-    Section 56A: inserted, on 15 April 2004, by [section 35][279] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 56A: inserted, on 15 April 2004, by [section 35][281] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 56A(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 56A(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 56A(2)(c)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 56A(2)(c)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 #### Analysis of bodily samples and other material
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 57 Analysis of material found at scene, etc
     
@@ -3890,25 +3872,25 @@ Procedures for taking bodily samples
     
     then, if practicable, a part of that material sufficient for analysis shall, at the request of the person so charged, be made available to him or her or to any other person nominated by him or her.
     
-    (2) Subsection (1) applies with all necessary modifications to a buccal sample taken as a result of a Part 2A request if an application is made for a declaration that the suspect from whom the buccal sample is taken is in need of care or protection on the ground set out in [section 14(1)(e)][234] of the Children, Young Persons, and Their Families Act 1989\.
+    (2) Subsection (1) applies with all necessary modifications to a buccal sample taken as a result of a Part 2A request if an application is made for a declaration that the suspect from whom the buccal sample is taken is in need of care or protection on the ground set out in [section 14(1)(e)][236] of the Children, Young Persons, and Their Families Act 1989\.
     
-    Section 57(1)(a): substituted, on 15 April 2004, by [section 36(1)][280] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 57(1)(a): substituted, on 15 April 2004, by [section 36(1)][282] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 57(1)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 57(1)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 57(1)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 57(1)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 57(2): added, on 15 April 2004, by [section 36(2)][280] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 57(2): added, on 15 April 2004, by [section 36(2)][282] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 58 Analysis of bodily sample
     
 *   If any bodily sample taken pursuant to this Act is analysed on behalf of any constable, that sample shall be analysed in accordance with the prescribed procedure (if any).
     
-    Section 58 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 58 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 58: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 58: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 58: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 58: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 59 Records of analysis to be made available
     
@@ -3920,13 +3902,13 @@ Procedures for taking bodily samples
     
     shall be made available, as soon as practicable, to the person from whom the sample was taken or to his or her lawyer.
     
-    Section 59: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 59: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 59: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 59: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 #### Disposal of bodily samples
     
-*   Heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 60 Disposal of bodily samples and identifying information obtained under Part 2
     
@@ -3956,7 +3938,7 @@ Procedures for taking bodily samples
         
         whichever occurs first; or
     
-    *   (f) if the person is convicted of such an offence, and the offence is not an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule, as soon as practicable after the expiry of the appeal period applicable to the conviction.
+    *   (f) if the person is convicted of such an offence, and the offence is not an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule, as soon as practicable after the expiry of the appeal period applicable to the conviction.
     
     (2) Subsection (2A) applies if---
         
@@ -3964,7 +3946,7 @@ Procedures for taking bodily samples
     
     *   (b) the person is convicted of the offence in respect of which the sample is taken, or of a related offence; and
     
-    *   (c) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in [Part 3][175] of the Schedule.
+    *   (c) the offence of which the person is convicted is an imprisonable offence or offence against any of the provisions listed in [Part 3][174] of the Schedule.
     
     (2A) The Commissioner must ensure that the sample is retained only for as long as necessary to enable a DNA profile to be obtained from the sample, and is then destroyed.
     
@@ -3972,21 +3954,21 @@ Procedures for taking bodily samples
     
     (4) Nothing in subsection (1)(f) applies where the conviction for the offence is quashed on appeal and a new trial is ordered.
     
-    Section 60 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 60 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 60(1)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 60(1)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 60(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 60(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 60(1)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 60(1)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 60(1)(d): amended, on 6 September 2010, by [section 19][281] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 60(1)(d): amended, on 6 September 2010, by [section 19][283] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 60(1)(f): amended, on 5 December 2011, by [section 49(1)][282] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 60(1)(f): amended, on 5 December 2011, by [section 49(1)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 60(2): substituted, on 5 December 2011, by [section 49(2)][282] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 60(2): substituted, on 5 December 2011, by [section 49(2)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 60(2A): inserted, on 5 December 2011, by [section 49(2)][282] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 60(2A): inserted, on 5 December 2011, by [section 49(2)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 60A Disposal of bodily samples and identifying information obtained under Part 2B
     
@@ -4020,7 +4002,7 @@ Procedures for taking bodily samples
     
     (4) Nothing in this section requires the destruction of a DNA profile that may lawfully be retained in a DNA profile databank.
     
-    Section 60A: inserted, on 6 September 2010, by [section 20][283] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 60A: inserted, on 6 September 2010, by [section 20][285] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 61 Extension of period for which sample may be retained
     
@@ -4074,21 +4056,21 @@ Procedures for taking bodily samples
     
     (5) Where an application for the extension or, as the case requires, the further extension of the relevant period is duly made before the expiry of that period (or, as the case requires, of any current extension of that period granted under this section), then, until the application is determined, the sample (in the case of a sample taken under [Part 2][11]) and any records to which the application relates may be retained notwithstanding the expiration of that period or, as the case requires, any extension of that period.
     
-    Section 61(1): substituted, on 6 September 2010, by [section 21(1)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 61(1): substituted, on 6 September 2010, by [section 21(1)][286] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 61(1): amended, on 5 December 2011, by [section 50(1)][285] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 61(1): amended, on 5 December 2011, by [section 50(1)][287] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 61(1A): inserted, on 6 September 2010, by [section 21(1)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 61(1A): inserted, on 6 September 2010, by [section 21(1)][286] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 61(2)(a): amended, on 1 October 2008, pursuant to [section 116(b)][204] of the Policing Act 2008 (2008 No 72).
+    Section 61(2)(a): amended, on 1 October 2008, pursuant to [section 116(b)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 61(3): substituted, on 6 September 2010, by [section 21(2)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 61(3): substituted, on 6 September 2010, by [section 21(2)][286] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 61(3): amended, on 5 December 2011, by [section 50(2)][285] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 61(3): amended, on 5 December 2011, by [section 50(2)][287] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 61(3A): inserted, on 6 September 2010, by [section 21(2)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 61(3A): inserted, on 6 September 2010, by [section 21(2)][286] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 61(5): amended, on 6 September 2010, by [section 21(3)][284] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 61(5): amended, on 6 September 2010, by [section 21(3)][286] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 61A Disposal of buccal samples and identifying information obtained under Part 2A
     
@@ -4096,9 +4078,9 @@ Procedures for taking bodily samples
         
     *   (a) in a case where the results of analysis of the buccal sample do not tend to confirm the suspect's involvement in the offence in relation to which the buccal sample was taken, as soon as practicable after the Police receive those results; or
     
-    *   (b) in a case where the results of analysis of the buccal sample tend to confirm the suspect's involvement in the offence in relation to which the buccal sample was taken but an application is not made for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][234] of the Children, Young Persons, and Their Families Act 1989, not later than 60 days after the Police receive the results of analysis of the buccal sample; or
+    *   (b) in a case where the results of analysis of the buccal sample tend to confirm the suspect's involvement in the offence in relation to which the buccal sample was taken but an application is not made for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][236] of the Children, Young Persons, and Their Families Act 1989, not later than 60 days after the Police receive the results of analysis of the buccal sample; or
     
-    *   (c) in the case where the results of analysis of the buccal sample tend to confirm the suspect's involvement in the offence in relation to which the buccal sample was taken and an application has been made for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][234] of the Children, Young Persons, and Their Families Act 1989, as soon as practicable after a decision is made by the Family Court in relation to that application (whether or not a declaration is made).
+    *   (c) in the case where the results of analysis of the buccal sample tend to confirm the suspect's involvement in the offence in relation to which the buccal sample was taken and an application has been made for a declaration that the suspect is in need of care or protection on the ground set out in [section 14(1)(e)][236] of the Children, Young Persons, and Their Families Act 1989, as soon as practicable after a decision is made by the Family Court in relation to that application (whether or not a declaration is made).
     
     (2) The information is---
         
@@ -4112,9 +4094,9 @@ Procedures for taking bodily samples
         
         
     
-    Section 61A: inserted, on 15 April 2004, by [section 37][286] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 61A: inserted, on 15 April 2004, by [section 37][288] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 61A(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 61A(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
 
 ##### 62 Disposal of bodily samples and identifying information obtained under Part 3
     
@@ -4146,33 +4128,33 @@ Procedures for taking bodily samples
     
     are destroyed as soon as practicable after the conviction is quashed.
     
-    Section 62 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 62(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 62(2): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62(2): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 62(3): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62(3): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 62(4)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62(4)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 62(4)(a): amended, on 15 April 2004, by [section 38][287] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62(4)(a): amended, on 15 April 2004, by [section 38][289] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 62(4)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62(4)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 62(4)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 62(4)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 62(4)(d): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 62(4)(d): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 63 Material extracted from samples to be destroyed
     
 *   Where any provision of [section 60][135], [60A][136], [61A][138], or [62][139] requires the destruction of any bodily sample, any material extracted from that bodily sample shall also be destroyed.
     
-    Section 63: amended, on 6 September 2010, by [section 22][288] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 63: amended, on 6 September 2010, by [section 22][290] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 63: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 63: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 63: amended, on 15 April 2004, by [section 39][289] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 63: amended, on 15 April 2004, by [section 39][291] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ## Part 5  
 Miscellaneous provisions
@@ -4193,13 +4175,13 @@ Miscellaneous provisions
     
     *   (d) it shall be sufficient compliance with the requirements of [section 9(2)][19] or, as the case requires, [section 24G(2)][48] or [section 34(2)][77] if that person's consent to the taking of a bodily sample is signified on the notice so given to that person.
     
-    Section 64(a): amended, on 6 September 2010, by [section 23][290] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 64(a): amended, on 6 September 2010, by [section 23][292] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 64(a): amended, on 15 April 2004, by [section 40(1)][291] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 64(a): amended, on 15 April 2004, by [section 40(1)][293] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 64(d): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 64(d): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 64(d): amended, on 15 April 2004, by [section 40(2)][291] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 64(d): amended, on 15 April 2004, by [section 40(2)][293] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 65 No right of appeal
     
@@ -4211,17 +4193,17 @@ Miscellaneous provisions
 
 ##### 67 Application of Legal Services Act 2000
     
-*   (1) For the purposes of the [Legal Services Act 2000][292], all proceedings under this Act are civil proceedings.
+*   (1) For the purposes of the [Legal Services Act 2000][294], all proceedings under this Act are civil proceedings.
     
     (2) \[Repealed\]
     
     (3) \[Repealed\]
     
-    Section 67: substituted, on 1 February 2001, by [section 128][293] of the Legal Services Act 2000 (2000 No 42).
+    Section 67: substituted, on 1 February 2001, by [section 128][295] of the Legal Services Act 2000 (2000 No 42).
     
-    Section 67(2): repealed, on 15 April 2004, by [section 41][294] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 67(2): repealed, on 15 April 2004, by [section 41][296] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 67(3): repealed, on 1 July 2011, by [section 144][295] of the Legal Services Act 2011 (2011 No 4).
+    Section 67(3): repealed, on 1 July 2011, by [section 144][297] of the Legal Services Act 2011 (2011 No 4).
 
 ##### 68 Standard of proof
     
@@ -4237,11 +4219,11 @@ Miscellaneous provisions
     
     (2) This section is subject to [section 50A(5)][117].
     
-    Section 69(1): amended, on 6 September 2010, by [section 24(1)][296] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 69(1): amended, on 6 September 2010, by [section 24(1)][298] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 69(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 69(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 69(2): added, on 6 September 2010, by [section 24(2)][296] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 69(2): added, on 6 September 2010, by [section 24(2)][298] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 70 Inference may be drawn from refusal to allow sample to be taken
     
@@ -4259,15 +4241,15 @@ Miscellaneous provisions
     
     (2) In any proceedings in which the jury might draw an inference pursuant to subsection (1)(d), the Judge or, as the case may be, the District Court Judge may tell the jury that there may be good reasons for the person's refusal to allow the taking of a bodily sample.
     
-    Compare: 1980 No 94 [s 57][297]; 1991 No 120 [s 2(4)][298]
+    Compare: 1980 No 94 [s 57][299]; 1991 No 120 [s 2(4)][300]
     
-    Section 70(1)(b): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 70(1)(b): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 70(1)(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 70(1)(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 70(1)(d): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 70(1)(d): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 70(2): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 70(2): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 71 Information stored on DNA profile databank or obtained under Part 2B not admissible in criminal proceedings
     
@@ -4287,15 +4269,15 @@ Miscellaneous provisions
     
     (4) Nothing in subsection (1) or (1A) affects the admissibility of any evidence (other than a DNA profile) relating to the use of any DNA profile in the course of any criminal investigation, if that evidence would otherwise be admissible.
     
-    Section 71 heading: amended, on 6 September 2010, by [section 25(1)][299] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 71 heading: amended, on 6 September 2010, by [section 25(1)][301] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 71(1)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 71(1)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 71(1A): inserted, on 6 September 2010, by [section 25(2)][299] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 71(1A): inserted, on 6 September 2010, by [section 25(2)][301] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 71(2): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 71(2): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 71(4): amended, on 6 September 2010, by [section 25(3)][299] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 71(4): amended, on 6 September 2010, by [section 25(3)][301] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 71A Judge may consent to bodily sample taken under Part 2B being retained and used for evidential purposes
     
@@ -4321,7 +4303,7 @@ Miscellaneous provisions
     
     (3) If the form of an application or consent under this section is not prescribed, the form must be acceptable to the court.
     
-    Section 71A: inserted, on 6 September 2010, by [section 26][300] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 71A: inserted, on 6 September 2010, by [section 26][302] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 #### Miscellaneous provisions
 
@@ -4331,27 +4313,27 @@ Miscellaneous provisions
         
     *   (a) limits or affects any other enactment relating to the taking of a bodily sample, or any other specimen from a person's body; or
     
-    *   (b) limits [section 32][301] of the Policing Act 2008 (which relates to the taking of fingerprints and other particulars from a person in custody); or
+    *   (b) limits [section 32][303] of the Policing Act 2008 (which relates to the taking of fingerprints and other particulars from a person in custody); or
     
     *   (c) shall be taken to limit or affect the circumstances in which any specimen from a person's body (other than a bodily sample), or any other particulars of a person (including (without limitation) fingerprints and dental impressions) may be taken from any person with that person's consent.
     
-    Section 72 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 72 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 72(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 72(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 72(b): amended, on 1 October 2008, pursuant to [section 130(4)][254] of the Policing Act 2008 (2008 No 72).
+    Section 72(b): amended, on 1 October 2008, pursuant to [section 130(4)][256] of the Policing Act 2008 (2008 No 72).
     
-    Section 72(c): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 72(c): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 73 Consent to taking of bodily sample may not be given on person's behalf
     
 *   Notwithstanding any other enactment or rule of law, no person shall be capable of consenting, on behalf of another person, to the taking of a bodily sample from that other person in response to a suspect request, [Part 2A][41] request, or a databank request.
     
-    Section 73 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 73 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 73: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 73: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 73: amended, on 15 April 2004, by [section 42][302] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 73: amended, on 15 April 2004, by [section 42][304] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 74 Payment of lawyer appointed to represent suspect
     
@@ -4365,23 +4347,23 @@ Miscellaneous provisions
     
     (3) Notwithstanding subsection (1), a Judge may, if he or she thinks proper, order any party to the proceedings to refund to the Crown such amount as the Judge specifies in respect of any fees and expenses paid under that subsection, and the amount ordered to be refunded shall be a debt due to the Crown by that party and shall be recoverable accordingly in any court of competent jurisdiction.
     
-    Compare: 1989 No 24 [s 325][303]
+    Compare: 1989 No 24 [s 325][305]
     
-    Section 74(1): amended, on 15 April 2004, by [section 43][304] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 74(1): amended, on 15 April 2004, by [section 43][306] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 75 Fees and expenses of lay advocate
     
 *   Where, pursuant to [section 18(3)(b)(vi)][31] or [section 41C(2)(c)][93], any person appears at the hearing of an application for a juvenile compulsion order or at a databank compulsion notice hearing for a person under the age of 17 years,---
         
-    *   (a) the fees and expenses of that person in connection with that appearance shall be deemed, for the purposes of [section 328A][305] of the Children, Young Persons, and Their Families Act 1989, to be fees and expenses of that person in his or her capacity as a lay advocate; and
+    *   (a) the fees and expenses of that person in connection with that appearance shall be deemed, for the purposes of [section 328A][307] of the Children, Young Persons, and Their Families Act 1989, to be fees and expenses of that person in his or her capacity as a lay advocate; and
     
     *   (b) the provisions of that section of that Act shall apply in relation to those fees and expenses accordingly.
     
-    Section 75: amended, on 15 April 2004, by [section 44][306] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 75: amended, on 15 April 2004, by [section 44][308] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 76 Information relating to bodily samples to be included in annual report of Police
     
-*   (1) The Commissioner shall include, in every annual report prepared by him or her for the purposes of [section 101][307] of the Policing Act 2008, the following information for the period under review:
+*   (1) The Commissioner shall include, in every annual report prepared by him or her for the purposes of [section 101][309] of the Policing Act 2008, the following information for the period under review:
         
     *   (a) the number of occasions on which a blood sample has been taken with the consent of a person given in response to a databank request:
     
@@ -4447,57 +4429,57 @@ Miscellaneous provisions
     
     (2) The information required by subsection (1)(eb) to (eg) must be provided together with a breakdown of those totals according to the ethnicity of the persons from whom the samples were taken, and the number of young persons from whom the samples were taken, so far as that information is known by the Police.
     
-    Compare: 1978 No 65 [s 29][308]
+    Compare: 1978 No 65 [s 29][310]
     
-    Section 76 heading: amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76 heading: amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1): amended, on 1 October 2008, by [section 130(1)][254] of the Policing Act 2008 (2008 No 72).
+    Section 76(1): amended, on 1 October 2008, by [section 130(1)][256] of the Policing Act 2008 (2008 No 72).
     
-    Section 76(1)(ab): inserted, on 15 April 2004, by [section 45(1)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(ab): inserted, on 15 April 2004, by [section 45(1)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(ca): inserted, on 15 April 2004, by [section 45(2)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(ca): inserted, on 15 April 2004, by [section 45(2)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(cb): inserted, on 15 April 2004, by [section 45(2)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(cb): inserted, on 15 April 2004, by [section 45(2)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(cc): inserted, on 15 April 2004, by [section 45(2)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(cc): inserted, on 15 April 2004, by [section 45(2)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(cd): inserted, on 15 April 2004, by [section 45(2)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(cd): inserted, on 15 April 2004, by [section 45(2)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(ce): inserted, on 15 April 2004, by [section 45(2)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(ce): inserted, on 15 April 2004, by [section 45(2)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(d): substituted, on 15 April 2004, by [section 45(3)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(d): substituted, on 15 April 2004, by [section 45(3)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(da): inserted, on 15 April 2004, by [section 45(3)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(da): inserted, on 15 April 2004, by [section 45(3)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(e): substituted, on 15 April 2004, by [section 45(4)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(e): substituted, on 15 April 2004, by [section 45(4)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(e): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][204] of the Policing Act 2008 (2008 No 72).
+    Section 76(1)(e): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][205] of the Policing Act 2008 (2008 No 72).
     
-    Section 76(1)(ea): inserted, on 15 April 2004, by [section 45(4)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(ea): inserted, on 15 April 2004, by [section 45(4)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(eb): inserted, on 6 September 2010, by [section 27(1)][310] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 76(1)(eb): inserted, on 6 September 2010, by [section 27(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 76(1)(ec): inserted, on 6 September 2010, by [section 27(1)][310] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 76(1)(ec): inserted, on 6 September 2010, by [section 27(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 76(1)(ed): inserted, on 6 September 2010, by [section 27(1)][310] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 76(1)(ed): inserted, on 6 September 2010, by [section 27(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 76(1)(ee): inserted, on 6 September 2010, by [section 27(1)][310] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 76(1)(ee): inserted, on 6 September 2010, by [section 27(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 76(1)(ef): inserted, on 6 September 2010, by [section 27(1)][310] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 76(1)(ef): inserted, on 6 September 2010, by [section 27(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 76(1)(eg): inserted, on 6 September 2010, by [section 27(1)][310] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 76(1)(eg): inserted, on 6 September 2010, by [section 27(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 76(1)(f): substituted, on 15 April 2004, by [section 45(5)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(f): substituted, on 15 April 2004, by [section 45(5)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(g): added, on 15 April 2004, by [section 45(5)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(g): added, on 15 April 2004, by [section 45(5)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(1)(h): added, on 15 April 2004, by [section 45(5)][309] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 76(1)(h): added, on 15 April 2004, by [section 45(5)][311] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 76(2): added, on 6 September 2010, by [section 27(2)][310] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 76(2): added, on 6 September 2010, by [section 27(2)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 ##### 77 Offences
     
-*   (1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who,---
+*   (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who,---
         
     *   (a) for the purpose of the providing of a bodily sample pursuant to this Act, personates any other person; or
     
@@ -4505,7 +4487,7 @@ Miscellaneous provisions
     
     *   (c) having been given a notice under [section 50B][118] requiring him or her to attend on a specified date and at a specified place and time to give a bodily sample under [Part 2B][51], fails to comply with that notice.
     
-    (2) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years who---
+    (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years who---
         
     *   (a) knowingly falsifies any DNA profile stored on a DNA profile databank, or a [Part 2B][51] temporary databank, by the addition, deletion, or modification of any information in that profile; or
     
@@ -4529,41 +4511,47 @@ Miscellaneous provisions
         
         
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who publishes any name or particular in contravention of [section 14][25] or [section 19][32].
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who publishes any name or particular in contravention of [section 14][25] or [section 19][32].
     
-    Compare: 1976 No 19 s 29; 1980 No 94 [s 59][311]
+    Compare: 1976 No 19 s 29; 1980 No 94 [s 59][313]
     
-    Section 77(1)(a): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 77(1): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 77(1)(b): substituted, on 6 September 2010, by [section 28(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(1)(a): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 77(1)(c): added, on 6 September 2010, by [section 28(1)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(1)(b): substituted, on 6 September 2010, by [section 28(1)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(a): amended, on 6 September 2010, by [section 28(2)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(1)(c): added, on 6 September 2010, by [section 28(1)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(b): amended, on 6 September 2010, by [section 28(3)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(2): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 77(2)(c): amended, on 6 September 2010, by [section 28(4)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(2)(a): amended, on 6 September 2010, by [section 28(2)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(d): amended, on 6 September 2010, by [section 28(5)(a)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(2)(b): amended, on 6 September 2010, by [section 28(3)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(d)(i): amended, on 6 September 2010, by [section 28(5)(b)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(2)(c): amended, on 6 September 2010, by [section 28(4)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(d)(ii): amended, on 6 September 2010, by [section 28(5)(b)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(2)(d): amended, on 6 September 2010, by [section 28(5)(a)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(e): amended, on 6 September 2010, by [section 28(6)][312] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 77(2)(d)(i): amended, on 6 September 2010, by [section 28(5)(b)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(e)(i): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 77(2)(d)(ii): amended, on 6 September 2010, by [section 28(5)(b)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 77(2)(e)(ii): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 77(2)(e): amended, on 6 September 2010, by [section 28(6)][314] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    
+    Section 77(2)(e)(i): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    
+    Section 77(2)(e)(ii): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    
+    Section 77(3): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Breach of compulsion order or Part 3 order not punishable as contempt
     
 *   No proceedings for contempt of court shall be brought in respect of any refusal or failure to comply with a compulsion order or a [Part 3][62] order.
     
-    Section 78 heading: amended, on 15 April 2004, by [section 47(1)][313] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 78 heading: amended, on 15 April 2004, by [section 47(1)][315] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 78: amended, on 15 April 2004, by [section 47(2)][313] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 78: amended, on 15 April 2004, by [section 47(2)][315] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 79 Indemnity
     
@@ -4571,15 +4559,15 @@ Miscellaneous provisions
     
     (2) Nothing in subsection (1) shall apply with respect to any proceeding on the ground of any negligent act or omission in the taking of any bodily sample.
     
-    Compare: 1962 No 135 [s 58D][314]; 1988 No 170 s 7
+    Compare: 1962 No 135 [s 58D][316]; 1988 No 170 s 7
     
-    Section 79(1): amended, on 6 September 2010, by [section 29][315] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+    Section 79(1): amended, on 6 September 2010, by [section 29][317] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
     
-    Section 79(1): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 79(1): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 79(1): amended, on 15 April 2004, by [section 48][316] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 79(1): amended, on 15 April 2004, by [section 48][318] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 79(2): amended, on 15 April 2004, by [section 6][203] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 79(2): amended, on 15 April 2004, by [section 6][204] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 80 Regulations
     
@@ -4601,11 +4589,11 @@ Miscellaneous provisions
     
     *   (h) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
     
-    Section 80(a): amended, on 31 October 2003, by [section 49(1)][317] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 80(a): amended, on 31 October 2003, by [section 49(1)][319] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 80(b): amended, on 31 October 2003, by [section 49(2)][317] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 80(b): amended, on 31 October 2003, by [section 49(2)][319] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
     
-    Section 80(g): amended, on 31 October 2003, by [section 49(3)][317] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 80(g): amended, on 31 October 2003, by [section 49(3)][319] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 81 Rules
     
@@ -4615,27 +4603,27 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 82: repealed, on 15 April 2004, by [section 50][318] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 82: repealed, on 15 April 2004, by [section 50][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 83 Transitional provision
     
-*   (1) Despite the amendments made to this Act by the [Criminal Investigations (Bodily Samples) Amendment Act 2003][319], this Act continues to apply as if those amendments had not been made in respect of---
+*   (1) Despite the amendments made to this Act by the [Criminal Investigations (Bodily Samples) Amendment Act 2003][321], this Act continues to apply as if those amendments had not been made in respect of---
         
-    *   (a) a suspect request or a databank request to take a blood sample made before the commencement of [section 51][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 and every matter arising out of that suspect request or databank request, until the blood sample is taken pursuant to that request:
+    *   (a) a suspect request or a databank request to take a blood sample made before the commencement of [section 51][322] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 and every matter arising out of that suspect request or databank request, until the blood sample is taken pursuant to that request:
     
-    *   (b) an application for a suspect compulsion order, juvenile compulsion order, or databank compulsion order to take a blood sample made before the commencement of [section 51][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 and every matter arising out of that application (including but not limited to any warrant issued), until the sample is taken pursuant to that order.
+    *   (b) an application for a suspect compulsion order, juvenile compulsion order, or databank compulsion order to take a blood sample made before the commencement of [section 51][322] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 and every matter arising out of that application (including but not limited to any warrant issued), until the sample is taken pursuant to that order.
     
-    (2) Leave may be sought to apply for a further databank compulsion order in relation to a databank compulsion order made before the commencement of [section 51][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003, and the application must be dealt with under this Act as if the [Criminal Investigations (Bodily Samples) Amendment Act 2003][319] had not been passed.
+    (2) Leave may be sought to apply for a further databank compulsion order in relation to a databank compulsion order made before the commencement of [section 51][322] of the Criminal Investigations (Bodily Samples) Amendment Act 2003, and the application must be dealt with under this Act as if the [Criminal Investigations (Bodily Samples) Amendment Act 2003][321] had not been passed.
     
-    (3) If leave is sought to apply for a further suspect compulsion order or further juvenile compulsion order in relation to a suspect compulsion order or juvenile compulsion order made before the commencement of [section 51][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003, the application for the further suspect compulsion order or further juvenile compulsion order must be dealt with as if it is an application for a further suspect compulsion order or further juvenile compulsion order under this Act as amended by the [Criminal Investigations (Bodily Samples) Amendment Act 2003][319].
+    (3) If leave is sought to apply for a further suspect compulsion order or further juvenile compulsion order in relation to a suspect compulsion order or juvenile compulsion order made before the commencement of [section 51][322] of the Criminal Investigations (Bodily Samples) Amendment Act 2003, the application for the further suspect compulsion order or further juvenile compulsion order must be dealt with as if it is an application for a further suspect compulsion order or further juvenile compulsion order under this Act as amended by the [Criminal Investigations (Bodily Samples) Amendment Act 2003][321].
     
-    Section 83: added, on 15 April 2004, by [section 51][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 83: added, on 15 April 2004, by [section 51][322] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ##### 84 Savings
     
-*   The amendments made to this Act by the [Criminal Investigations (Bodily Samples) Amendment Act 2003][319] do not affect the validity or effect of anything done under this Act before the commencement of [section 51][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003\.
+*   The amendments made to this Act by the [Criminal Investigations (Bodily Samples) Amendment Act 2003][321] do not affect the validity or effect of anything done under this Act before the commencement of [section 51][322] of the Criminal Investigations (Bodily Samples) Amendment Act 2003\.
     
-    Section 84: added, on 15 April 2004, by [section 51][320] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+    Section 84: added, on 15 April 2004, by [section 51][322] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ---
 
@@ -4644,7 +4632,7 @@ Relevant offences
 
 [s 2][5]
 
-*   Schedule: substituted, on 15 April 2004, by [section 52][321] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
+*   Schedule: substituted, on 15 April 2004, by [section 52][323] of the Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113).
 
 ## Part 1
 
@@ -4652,125 +4640,125 @@ Relevant offences
 
 _Crimes Act 1961_
 
-Sexual violation [128B(1)][322]
+Sexual violation [128B(1)][324]
 
-Attempted sexual violation [129(1)][323]
+Attempted sexual violation [129(1)][325]
 
-Assault with intent to commit sexual violation [129(2)][323]
+Assault with intent to commit sexual violation [129(2)][325]
 
-Inducing sexual connection by threat [129A(1)][324]
+Inducing sexual connection by threat [129A(1)][326]
 
-Inducing indecent act by threat [129A(2)][324]
+Inducing indecent act by threat [129A(2)][326]
 
-Incest [130(2)][325]
+Incest [130(2)][327]
 
-Sexual connection with dependent family member [131(1)][326]
+Sexual connection with dependent family member [131(1)][328]
 
-Attempted sexual connection with dependent family member [131(2)][326]
+Attempted sexual connection with dependent family member [131(2)][328]
 
-Indecent act with dependent family member [131(3)][326]
+Indecent act with dependent family member [131(3)][328]
 
-Meeting young person under 16 following sexual grooming, etc [131B(1)][327]
+Meeting young person under 16 following sexual grooming, etc [131B(1)][329]
 
-Sexual connection with child under 12 [132(1)][328]
+Sexual connection with child under 12 [132(1)][330]
 
-Attempted sexual connection with child under 12 [132(2)][328]
+Attempted sexual connection with child under 12 [132(2)][330]
 
-Indecent act on child under 12 [132(3)][328]
+Indecent act on child under 12 [132(3)][330]
 
-Sexual connection with young person under 16 [134(1)][329]
+Sexual connection with young person under 16 [134(1)][331]
 
-Attempted sexual connection with young person under 16 [134(2)][329]
+Attempted sexual connection with young person under 16 [134(2)][331]
 
-Indecent act on young person under 16 [134(3)][329]
+Indecent act on young person under 16 [134(3)][331]
 
-Indecent assault [135][330]
+Indecent assault [135][332]
 
-Exploitative sexual connection with person with significant impairment [138(1)][331]
+Exploitative sexual connection with person with significant impairment [138(1)][333]
 
-Attempted exploitative sexual connection with person with significant impairment [138(2)][331]
+Attempted exploitative sexual connection with person with significant impairment [138(2)][333]
 
-Exploitative indecent act with person with significant impairment [138(4)][331]
+Exploitative indecent act with person with significant impairment [138(4)][333]
 
-Murder [sections 167][332] and [168][333]
+Murder [sections 167][334] and [168][335]
 
-Manslaughter [section 171][334]
+Manslaughter [section 171][336]
 
-Attempt to murder [section 173][335]
+Attempt to murder [section 173][337]
 
-Wounding with intent to cause grievous bodily harm [section 188(1)][336]
+Wounding with intent to cause grievous bodily harm [section 188(1)][338]
 
-Wounding with intent to injure [section 188(2)][336]
+Wounding with intent to injure [section 188(2)][338]
 
-Injuring with intent to cause grievous bodily harm [section 189(1)][337]
+Injuring with intent to cause grievous bodily harm [section 189(1)][339]
 
-Injuring with intent to injure, or with reckless disregard for the safety of others [section 189(2)][337]
+Injuring with intent to injure, or with reckless disregard for the safety of others [section 189(2)][339]
 
-Aggravated wounding [section 191(1)][338]
+Aggravated wounding [section 191(1)][340]
 
-Aggravated injury [section 191(2)][338]
+Aggravated injury [section 191(2)][340]
 
-Infecting with disease [section 201][339]
+Infecting with disease [section 201][341]
 
-Abduction for purposes of marriage or sexual connection [208][340]
+Abduction for purposes of marriage or sexual connection [208][342]
 
-Kidnapping [209][341]
+Kidnapping [209][343]
 
-Burglary [section 231][342]
+Burglary [section 231][344]
 
-Aggravated burglary [section 232][343]
+Aggravated burglary [section 232][345]
 
-Robbery [section 234][344]
+Robbery [section 234][346]
 
-Aggravated robbery [section 235][345]
+Aggravated robbery [section 235][347]
 
-Assault with intent to rob [section 236][346]
+Assault with intent to rob [section 236][348]
 
 _Crimes Act 1961 (before commencement of Crimes Amendment Act 2003)_
 
-Robbery [section 234][344]
+Robbery [section 234][346]
 
-Aggravated robbery [section 235][345]
+Aggravated robbery [section 235][347]
 
-Assault with intent to rob [section 237][347]
+Assault with intent to rob [section 237][349]
 
-Aggravated burglary [section 240A][348]
+Aggravated burglary [section 240A][350]
 
-Burglary [section 241][349]
+Burglary [section 241][351]
 
-Entering with intent [section 242][350]
+Entering with intent [section 242][352]
 
 _Crimes Act 1961 (before commencement of Crimes Amendment Act 2005)_
 
-Sexual violation [section 128][351]
+Sexual violation [section 128][353]
 
-Attempt to commit sexual violation [section 129][323]
+Attempt to commit sexual violation [section 129][325]
 
-Inducing sexual connection by coercion [section 129A][324]
+Inducing sexual connection by coercion [section 129A][326]
 
-Incest [section 130][325]
+Incest [section 130][327]
 
-Sexual intercourse with girl under care or protection [section 131][326]
+Sexual intercourse with girl under care or protection [section 131][328]
 
-Sexual intercourse with girl under 12 [section 132(1)][328]
+Sexual intercourse with girl under 12 [section 132(1)][330]
 
-Attempted sexual intercourse with girl under 12 [section 132(2)][328]
+Attempted sexual intercourse with girl under 12 [section 132(2)][330]
 
-Indecency with girl under 12 [section 133][352]
+Indecency with girl under 12 [section 133][354]
 
-Sexual intercourse with girl between 12 and 16 [section 134(1)][329]
+Sexual intercourse with girl between 12 and 16 [section 134(1)][331]
 
-Indecency with girl between 12 and 16 [section 134(2)][329]
+Indecency with girl between 12 and 16 [section 134(2)][331]
 
-Indecent assault on woman or girl [section 135][330]
+Indecent assault on woman or girl [section 135][332]
 
-Sexual intercourse with severely subnormal woman or girl [section 138][331]
+Sexual intercourse with severely subnormal woman or girl [section 138][333]
 
-Abduction of woman or girl [section 208][340]
+Abduction of woman or girl [section 208][342]
 
-Abduction of child under 16 [section 210][353]
+Abduction of child under 16 [section 210][355]
 
-*   Schedule Part 1: amended, on 20 May 2005, by [section 10][354] of the Crimes Amendment Act 2005 (2005 No 41).
+*   Schedule Part 1: amended, on 20 May 2005, by [section 10][356] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ## Part 2
 
@@ -4778,159 +4766,159 @@ Abduction of child under 16 [section 210][353]
 
 _Aviation Crimes Act 1972_
 
-Hijacking [section 3][355]
+Hijacking [section 3][357]
 
-Other crimes relating to aircraft [section 5][356]
+Other crimes relating to aircraft [section 5][358]
 
-Crimes relating to international airports [section 5A][357]
+Crimes relating to international airports [section 5A][359]
 
 _Crimes Act 1961_
 
-Smuggling migrants [section 98C][358]
+Smuggling migrants [section 98C][360]
 
-Trafficking in people by means of coercion or deception [section 98D][359]
+Trafficking in people by means of coercion or deception [section 98D][361]
 
-Compelling indecent act with animal [section 142A][360]
+Compelling indecent act with animal [section 142A][362]
 
-Sexual conduct with children and young people outside New Zealand [section 144A][361]
+Sexual conduct with children and young people outside New Zealand [section 144A][363]
 
-Counselling or attempting to procure murder [section 174][362]
+Counselling or attempting to procure murder [section 174][364]
 
-Conspiracy to murder [section 175][363]
+Conspiracy to murder [section 175][365]
 
-Discharging firearm or doing dangerous act with intent [section 198][364]
+Discharging firearm or doing dangerous act with intent [section 198][366]
 
-Using any firearm against law enforcement officer, etc [section 198A][365]
+Using any firearm against law enforcement officer, etc [section 198A][367]
 
-Commission of crime with firearm [section 198B][366]
+Commission of crime with firearm [section 198B][368]
 
-Acid throwing [section 199][367]
+Acid throwing [section 199][369]
 
-Poisoning with intent [section 200][368]
+Poisoning with intent [section 200][370]
 
-Endangering transport [section 203][369]
+Endangering transport [section 203][371]
 
-Abduction of young person under 16 [section 210][353]
+Abduction of young person under 16 [section 210][355]
 
-Theft or stealing [section 219][370]
+Theft or stealing [section 219][372]
 
-Theft by person in special relationship [section 220][371]
+Theft by person in special relationship [section 220][373]
 
-Theft of animals [section 221][372]
+Theft of animals [section 221][374]
 
-Theft by spouse [section 222][373]
+Theft by spouse [section 222][375]
 
-Being in possession of an instrument for conversion [section 227][374]
+Being in possession of an instrument for conversion [section 227][376]
 
-Being disguised or in possession of instruments for burglary [section 233][375]
+Being disguised or in possession of instruments for burglary [section 233][377]
 
-Arson [section 267][376]
+Arson [section 267][378]
 
-Attempted arson [section 268][377]
+Attempted arson [section 268][379]
 
-Intentional damage [section 269][378]
+Intentional damage [section 269][380]
 
 _Crimes Act 1961 (before commencement of Crimes Amendment Act 2003)_
 
-Being in possession of instrument for conversion [section 229][379]
+Being in possession of instrument for conversion [section 229][381]
 
-Being armed with intent to break or enter [section 243][380]
+Being armed with intent to break or enter [section 243][382]
 
-Being disguised or in possession of instruments for burglary [section 244][381]
+Being disguised or in possession of instruments for burglary [section 244][383]
 
-Arson [section 294][382]
+Arson [section 294][384]
 
-Attempted arson [section 295][383]
+Attempted arson [section 295][385]
 
-Wilful damage (aggravating factors) [section 298(1)][384]
+Wilful damage (aggravating factors) [section 298(1)][386]
 
-Wrecking [section 301][385]
+Wrecking [section 301][387]
 
-Attempting to wreck [section 302][386]
+Attempting to wreck [section 302][388]
 
 _Crimes Act 1961 (before commencement of Crimes Amendment Act 2005)_
 
-Inducing sexual intercourse under pretence of marriage [section 137][387]
+Inducing sexual intercourse under pretence of marriage [section 137][389]
 
-Indecent act between woman and girl [section 139][388]
+Indecent act between woman and girl [section 139][390]
 
-Sexual conduct with children outside New Zealand [section 144A][361]
+Sexual conduct with children outside New Zealand [section 144A][363]
 
-Abduction of child under 16 [section 210][353]
+Abduction of child under 16 [section 210][355]
 
 _Terrorism Suppression Act 2002_
 
-Terrorist bombing [section 7][389]
+Terrorist bombing [section 7][391]
 
-Financing of terrorism [section 8][390]
+Financing of terrorism [section 8][392]
 
-Recruiting members of terrorist groups [section 12][391]
+Recruiting members of terrorist groups [section 12][393]
 
-Participating in terrorist groups [section 13][392]
+Participating in terrorist groups [section 13][394]
 
-*   Schedule Part 2: amended, on 20 May 2005, by [section 10][354] of the Crimes Amendment Act 2005 (2005 No 41).
+*   Schedule Part 2: amended, on 20 May 2005, by [section 10][356] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ## Part 3
     
-*   Schedule Part 3: added, on 6 September 2010, by [section 30][393] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
+*   Schedule Part 3: added, on 6 September 2010, by [section 30][395] of the Criminal Investigations (Bodily Samples) Amendment Act 2009 (2009 No 46).
 
 **Offences** **Provision of Act**
 
 _Animal Welfare Act 1999_
 
-Wilful ill-treatment of animals [section 28][394]
+Wilful ill-treatment of animals [section 28][396]
 
-Reckless ill-treatment of animals [section 28A][395]
+Reckless ill-treatment of animals [section 28A][397]
 
 _Arms Act 1983_
 
-Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose [section 45][396]
+Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose [section 45][398]
 
-Unlawful possession of pistol or restricted weapon [section 50][397]
+Unlawful possession of pistol or restricted weapon [section 50][399]
 
-Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon [section 51][398]
+Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon [section 51][400]
 
-Possession of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive at time of committing offence [section 54(2)][399]
+Possession of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive at time of committing offence [section 54(2)][401]
 
-Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent [section 55][400]
+Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent [section 55][402]
 
 _Crimes Act 1961_
 
-Indecent act in public place [section 125][401]
+Indecent act in public place [section 125][403]
 
-Indecent act with intent to insult or offend [section 126][402]
+Indecent act with intent to insult or offend [section 126][404]
 
-Aggravated assault [section 192][403]
+Aggravated assault [section 192][405]
 
-Assault with intent to injure [section 193][404]
+Assault with intent to injure [section 193][406]
 
-Male assaults female [section 194(b)][405]
+Male assaults female [section 194(b)][407]
 
-Cruelty to a child [section 195][406]
+Cruelty to a child [section 195][408]
 
-Disabling [section 197][407]
+Disabling [section 197][409]
 
-Possession of offensive weapons or disabling substances [section 202A][408]
+Possession of offensive weapons or disabling substances [section 202A][410]
 
-Assault with weapon [section 202C][409]
+Assault with weapon [section 202C][411]
 
-Receiving (if the value of the property does not exceed $1,000) [section 246][410]
+Receiving (if the value of the property does not exceed $1,000) [section 246][412]
 
-Threatening acts [section 308][411]
+Threatening acts [section 308][413]
 
 _Land Transport Act 1998_
 
-Contravention of [section 7][412] or [section 22][413] involving injury [section 36][414]
+Contravention of [section 7][414] or [section 22][415] involving injury [section 36][416]
 
-Contravention of [section 7][412] by causing death of another person [section 36AA][415]
+Contravention of [section 7][414] by causing death of another person [section 36AA][417]
 
-Person in charge of motor vehicle causing injury or death [section 61][416]
+Person in charge of motor vehicle causing injury or death [section 61][418]
 
 _Summary Offences Act 1981_
 
-Peeping or peering into dwellinghouse [section 30][417]
+Peeping or peering into dwellinghouse [section 30][419]
 
-*   Schedule Part 3: amended, on 10 May 2011, by [section 100(3)][418] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+*   Schedule Part 3: amended, on 10 May 2011, by [section 100(3)][420] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ---
 
@@ -4942,7 +4930,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Criminal Investigations (Bodily Samples) Amendment Act 2009][419].
+*   This Act is the [Criminal Investigations (Bodily Samples) Amendment Act 2009][421].
 
 ##### 2 Commencement
     
@@ -4950,7 +4938,7 @@ Commencementsee section 2
     
     (2) Part 2 comes into force on a date to be appointed by the Governor-General by Order in Council, which date must not be earlier than the date appointed under subsection (1).
     
-    Section 2(1): Criminal Investigations (Bodily Samples) Amendment Act 2009 (except Part 2), brought into force, on 6 September 2010, by the Criminal Investigations (Bodily Samples) Amendment Act 2009 Commencement Order 2010 (SR 2010/220).
+    Section 2(1): Criminal Investigations (Bodily Samples) Amendment Act 2009 (except Part 2), brought into force, on 6 September 2010, by the [Criminal Investigations (Bodily Samples) Amendment Act 2009 Commencement Order 2010][422] (SR 2010/220).
 
 ## Part 1  
 New authority to take and retain bodily samples, and other amendments to principal Act
@@ -4961,107 +4949,68 @@ New authority to take and retain bodily samples, and other amendments to princip
     
 *   For the purposes of Part 3 of the principal Act, a conviction entered by any court before the commencement of section 30 of this Act for an offence described in Part 3 of the Schedule of the principal Act (as added by section 30) is not a conviction for a relevant offence.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Criminal Investigations (Bodily Samples) Act 1995\. The reprint incorporates all the amendments to the Act as at 5 December 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][420] ![](/images/external_link.gif).
+*   This is a reprint of the Criminal Investigations (Bodily Samples) Act 1995 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][421] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][423] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][424] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][422] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][425] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][426] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][423] and [17E][424] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][203]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][177]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][420]
     
+    Legal Services Act 2011 (2011 No 4): [section 144][297]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2): [section 55][224]
     
-*   Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][418]
+    [Criminal Investigations (Bodily Samples) Amendment Act 2009][421] (2009 No 46)
     
-    Legal Services Act 2011 (2011 No 4): [section 144][295]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (v), (vii), (b), (d)][205], [130(1), (4)][256]
     
-    Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2): [section 55][212]
+    [Criminal Investigations (Bodily Samples) Amendment Act 2008][427] (2008 No 9)
     
-    [Criminal Investigations (Bodily Samples) Amendment Act 2009][419] (2009 No 46)
-    
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (v), (vii), (b), (d)][204], [130(1), (4)][254]
-    
-    [Criminal Investigations (Bodily Samples) Amendment Act 2008][425] (2008 No 9)
-    
-    Sentencing Amendment Act 2007 (2007 No 27): [section 58][181]
+    Sentencing Amendment Act 2007 (2007 No 27): [section 58][180]
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][182]
     
-    [Criminal Investigations (Bodily Samples) Amendment Act 2005][426] (2005 No 98)
+    [Criminal Investigations (Bodily Samples) Amendment Act 2005][428] (2005 No 98)
     
-    Crimes Amendment Act 2005 (2005 No 41): [section 10][354]
+    Crimes Amendment Act 2005 (2005 No 41): [section 10][356]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][184]
     
-    Corrections Act 2004 (2004 No 50): [sections 206][185], [235(1)][275]
+    Corrections Act 2004 (2004 No 50): [sections 206][185], [235(1)][277]
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 50][179]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 50][178]
     
-    [Criminal Investigations (Bodily Samples) Amendment Act 2003][319] (2003 No 113)
+    [Criminal Investigations (Bodily Samples) Amendment Act 2003][321] (2003 No 113)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][183]
     
-    Legal Services Act 2000 (2000 No 42): [section 128][293]
+    Legal Services Act 2000 (2000 No 42): [section 128][295]
     
     [Criminal Investigations (Blood Samples) Act Commencement Order 1996][168] (SR 1996/189)
 
 
 
 [0]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221446
-[1]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2998524
 [2]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM368907
 [3]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM368910
 [4]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM368912
@@ -5229,19 +5178,19 @@ New authority to take and retain bodily samples, and other amendments to princip
 [166]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM369877
 [167]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221445
 [168]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM216642
-[169]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM310742
-[170]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM364948
-[171]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM204329
-[172]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM294857
-[173]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM369881
-[174]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM369886
-[175]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM3222222
-[176]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM393471
-[177]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221447
-[178]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829227
-[179]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM224533
-[180]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829291
-[181]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM411004
+[169]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM364948
+[170]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM204329
+[171]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM294857
+[172]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM369881
+[173]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM369886
+[174]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM3222222
+[175]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM393471
+[176]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221447
+[177]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3360714
+[178]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM224533
+[179]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829291
+[180]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM411004
+[181]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829227
 [182]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM367849
 [183]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM205009
 [184]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM333795
@@ -5260,230 +5209,232 @@ New authority to take and retain bodily samples, and other amendments to princip
 [197]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM137641
 [198]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM138471
 [199]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221483
-[200]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM195097
-[201]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM195534
+[200]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2997643
+[201]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2998573
 [202]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221485
-[203]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221481
-[204]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1102349
-[205]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829295
-[206]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829243
-[207]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM1829296
-[208]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829297
-[209]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221487
-[210]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM153418
-[211]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221488
-[212]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1839117
-[213]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209410
-[214]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221489
-[215]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829298
-[216]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829299
-[217]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829300
-[218]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829301
-[219]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221490
-[220]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221491
-[221]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154039
-[222]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829302
-[223]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221493
-[224]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM361191
-[225]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154035
-[226]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154036
-[227]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829303
-[228]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221494
-[229]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221495
-[230]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829304
-[231]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM136401
-[232]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221496
-[233]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221499
-[234]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM149457
-[235]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209411
-[236]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829246
-[237]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829306
-[238]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829307
-[239]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM296638
-[240]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM297439
-[241]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM153436
-[242]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM153435
-[243]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829259
-[244]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829310
-[245]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301426
-[246]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829311
-[247]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301440
-[248]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222110
-[249]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222111
-[250]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222112
-[251]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209412
-[252]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222113
-[253]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301441
-[254]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1102383
-[255]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829262
-[256]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222135
-[257]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM361192
-[258]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM262175
-[259]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM224577
-[260]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222142
-[261]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829263
-[262]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829264
-[263]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222144
-[264]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222146
-[265]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829266
-[266]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829267
-[267]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222148
-[268]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829268
-[269]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222149
-[270]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829271
-[271]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222150
-[272]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829272
-[273]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222151
-[274]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222153
-[275]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM297177
-[276]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829275
-[277]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222155
-[278]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222156
-[279]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222157
-[280]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222159
-[281]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829277
-[282]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829312
-[283]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829278
-[284]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829280
-[285]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301442
-[286]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222160
-[287]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222162
-[288]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829282
-[289]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222163
-[290]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829283
-[291]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222164
-[292]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM71806
-[293]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM73105
-[294]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222165
-[295]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3143015
-[296]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301434
-[297]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM40466
-[298]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM250676
-[299]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829284
-[300]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301435
-[301]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1351201
-[302]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222166
-[303]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154037
-[304]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222167
-[305]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154042
-[306]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222168
-[307]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1102339
-[308]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM23686
-[309]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222169
-[310]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829285
-[311]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM40472
-[312]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829286
-[313]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222171
-[314]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM343416
-[315]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829287
-[316]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222172
-[317]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222173
-[318]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222174
-[319]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221438
-[320]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222175
-[321]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222178
-[322]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329064
-[323]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329070
-[324]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329075
-[325]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329081
-[326]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329085
-[327]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329200
-[328]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329203
-[329]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329212
-[330]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329219
-[331]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329227
-[332]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329311
-[333]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329312
-[334]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329319
-[335]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329322
-[336]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329371
-[337]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329374
-[338]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329378
-[339]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329704
-[340]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329771
-[341]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329775
-[342]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330242
-[343]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330245
-[344]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330250
-[345]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330254
-[346]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330259
-[347]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330263
-[348]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330278
-[349]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330283
-[350]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330285
-[351]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329051
-[352]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329208
-[353]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329781
-[354]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM346419
-[355]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM409172
-[356]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM409174
-[357]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM409176
-[358]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM328720
-[359]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM328722
-[360]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329256
-[361]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329264
-[362]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329325
-[363]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329326
-[364]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329389
-[365]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329392
-[366]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329394
-[367]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329398
-[368]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329701
-[369]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329729
-[370]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329897
-[371]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330201
-[372]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330203
-[373]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330205
-[374]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330218
-[375]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330247
-[376]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330497
-[377]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330700
-[378]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330702
-[379]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330233
-[380]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330289
-[381]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330403
-[382]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330756
-[383]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330758
-[384]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330764
-[385]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330774
-[386]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330776
-[387]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329225
-[388]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329232
-[389]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152707
-[390]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152710
-[391]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152721
-[392]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152723
-[393]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829288
-[394]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM50429
-[395]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3094404
-[396]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM72984
-[397]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM72996
-[398]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM72999
-[399]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM73303
-[400]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM73305
-[401]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329045
-[402]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329047
-[403]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329381
-[404]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329382
-[405]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329383
-[406]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329384
-[407]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329386
-[408]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329710
-[409]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329725
-[410]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330408
-[411]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330792
-[412]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434511
-[413]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434540
-[414]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434651
-[415]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3820293
-[416]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434807
-[417]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM53594
-[418]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3231293
-[419]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829200
-[420]: http://www.pco.parliament.govt.nz/reprints/
-[421]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM195439
-[422]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[423]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM195468
-[424]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM195470
-[425]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209400
-[426]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM361184
+[203]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2998633
+[204]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221481
+[205]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1102349
+[206]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829295
+[207]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829243
+[208]: http://www.legislation.govt.nz/act/public/1995/0055/latest/whole.html#DLM1829296
+[209]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829297
+[210]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221487
+[211]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM153418
+[212]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3359902
+[213]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221488
+[214]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209410
+[215]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221489
+[216]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829298
+[217]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829299
+[218]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829300
+[219]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829301
+[220]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221490
+[221]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221491
+[222]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154039
+[223]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829302
+[224]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1839117
+[225]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221493
+[226]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM361191
+[227]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154035
+[228]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154036
+[229]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829303
+[230]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221494
+[231]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221495
+[232]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829304
+[233]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM136401
+[234]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221496
+[235]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221499
+[236]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM149457
+[237]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209411
+[238]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829246
+[239]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829306
+[240]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829307
+[241]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM296638
+[242]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM297439
+[243]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM153436
+[244]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM153435
+[245]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829259
+[246]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829310
+[247]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301426
+[248]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829311
+[249]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301440
+[250]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222110
+[251]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222111
+[252]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222112
+[253]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209412
+[254]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222113
+[255]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301441
+[256]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1102383
+[257]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829262
+[258]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222135
+[259]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM361192
+[260]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM262175
+[261]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM224577
+[262]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222142
+[263]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829263
+[264]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829264
+[265]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222144
+[266]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222146
+[267]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829266
+[268]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829267
+[269]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222148
+[270]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829268
+[271]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222149
+[272]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829271
+[273]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222150
+[274]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829272
+[275]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222151
+[276]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222153
+[277]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM297177
+[278]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829275
+[279]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222155
+[280]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222156
+[281]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222157
+[282]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222159
+[283]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829277
+[284]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829312
+[285]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829278
+[286]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829280
+[287]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301442
+[288]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222160
+[289]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222162
+[290]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829282
+[291]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222163
+[292]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829283
+[293]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222164
+[294]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM71806
+[295]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM73105
+[296]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222165
+[297]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3143015
+[298]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301434
+[299]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM40466
+[300]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM250676
+[301]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829284
+[302]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2301435
+[303]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1351201
+[304]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222166
+[305]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154037
+[306]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222167
+[307]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM154042
+[308]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222168
+[309]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1102339
+[310]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM23686
+[311]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222169
+[312]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829285
+[313]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM40472
+[314]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829286
+[315]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222171
+[316]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM343416
+[317]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829287
+[318]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222172
+[319]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222173
+[320]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222174
+[321]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM221438
+[322]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222175
+[323]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM222178
+[324]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329064
+[325]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329070
+[326]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329075
+[327]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329081
+[328]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329085
+[329]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329200
+[330]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329203
+[331]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329212
+[332]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329219
+[333]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329227
+[334]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329311
+[335]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329312
+[336]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329319
+[337]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329322
+[338]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329371
+[339]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329374
+[340]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329378
+[341]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329704
+[342]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329771
+[343]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329775
+[344]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330242
+[345]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330245
+[346]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330250
+[347]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330254
+[348]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330259
+[349]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330263
+[350]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330278
+[351]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330283
+[352]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330285
+[353]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329051
+[354]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329208
+[355]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329781
+[356]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM346419
+[357]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM409172
+[358]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM409174
+[359]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM409176
+[360]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM328720
+[361]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM328722
+[362]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329256
+[363]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329264
+[364]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329325
+[365]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329326
+[366]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329389
+[367]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329392
+[368]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329394
+[369]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329398
+[370]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329701
+[371]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329729
+[372]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329897
+[373]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330201
+[374]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330203
+[375]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330205
+[376]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330218
+[377]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330247
+[378]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330497
+[379]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330700
+[380]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330702
+[381]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330233
+[382]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330289
+[383]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330403
+[384]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330756
+[385]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330758
+[386]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330764
+[387]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330774
+[388]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330776
+[389]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329225
+[390]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329232
+[391]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152707
+[392]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152710
+[393]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152721
+[394]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM152723
+[395]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829288
+[396]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM50429
+[397]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3094404
+[398]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM72984
+[399]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM72996
+[400]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM72999
+[401]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM73303
+[402]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM73305
+[403]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329045
+[404]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329047
+[405]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329381
+[406]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329382
+[407]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329383
+[408]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329384
+[409]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329386
+[410]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329710
+[411]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM329725
+[412]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330408
+[413]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM330792
+[414]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434511
+[415]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434540
+[416]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434651
+[417]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3820293
+[418]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM434807
+[419]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM53594
+[420]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3231293
+[421]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1829200
+[422]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM3115201
+[423]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2998516
+[424]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2998515
+[425]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM2998532
+[426]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[427]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM1209400
+[428]: http://www.legislation.govt.nz/act/public/1995/0055/latest/link.aspx?id=DLM361184
