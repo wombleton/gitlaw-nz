@@ -1,7 +1,7 @@
 Reprint  
-as at 7 July 2010
+as at 27 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Coroners Act 2006Public Act2006 No 38
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -23,337 +23,337 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [General provisions][3]
 
-[3][4] [Purpose of this Act][4]
+[3][4][][4][Purpose of this Act][4]
 
-[4][5] [Coroner's role][5]
+[4][5][][5][Coroner's role][5]
 
-[5][6] [Coroners must perform their duties without delay][6]
+[5][6][][6][Coroners must perform their duties without delay][6]
 
-[6][7] [Coroners must have regard to relevant practice notes][7]
+[6][7][][7][Coroners must have regard to relevant practice notes][7]
 
-[7][8] [Chief coroner's functions][8]
+[7][8][][8][Chief coroner's functions][8]
 
-[8][9] [Overview of this Act][9]
+[8][9][][9][Overview of this Act][9]
 
-[9][10] [Interpretation][10]
+[9][10][][10][Interpretation][10]
 
-[10][11] [Coroner defined][11]
+[10][11][][11][Coroner defined][11]
 
-[11][12] [Application of Act to deaths of members of visiting forces][12]
+[11][12][][12][Application of Act to deaths of members of visiting forces][12]
 
-[12][13] [Act binds the Crown][13]
+[12][13][][13][Act binds the Crown][13]
 
 [Part 2][14]  
 [Deaths to be reported and post-mortems][14]
 
 [Reporting of deaths][15]
 
-[13][16] [Deaths that must be reported under section 14(2)][16]
+[13][16][][16][Deaths that must be reported under section 14(2)][16]
 
-[14][17] [Reporting of deaths to police][17]
+[14][17][][17][Reporting of deaths to police][17]
 
-[15][18] [Reporting of deaths to coroner by police][18]
+[15][18][][18][Reporting of deaths to coroner by police][18]
 
-[16][19] [Chief coroner to designate replacement designated coroner or report death to original designated coroner][19]
+[16][19][][19][Chief coroner to designate replacement designated coroner or report death to original designated coroner][19]
 
-[17][20] [Investigations by police][20]
+[17][20][][20][Investigations by police][20]
 
 [Custody and removal of bodies][21]
 
-[18][22] [When police have exclusive right to custody of body][22]
+[18][22][][22][When police have exclusive right to custody of body][22]
 
-[19][23] [When designated coroner has exclusive right to custody of body][23]
+[19][23][][23][When designated coroner has exclusive right to custody of body][23]
 
-[20][24] [Directions about removal of body][24]
+[20][24][][24][Directions about removal of body][24]
 
-[21][25] [Coroner not required to view body][25]
+[21][25][][25][Coroner not required to view body][25]
 
 [Interests of families and other relevant people or organisations][26]
 
-[22][27] [Representative for liaison with immediate family][27]
+[22][27][][27][Representative for liaison with immediate family][27]
 
-[23][28] [Coroner must give family representative, immediate family, and certain others notice of significant matters][28]
+[23][28][][28][Coroner must give family representative, immediate family, and certain others notice of significant matters][28]
 
-[24][29] [Significant matters referred to in section 23(1)][29]
+[24][29][][29][Significant matters referred to in section 23(1)][29]
 
-[25][30] [Viewing, touching, or remaining with or near body in coroner's custody][30]
+[25][30][][30][Viewing, touching, or remaining with or near body in coroner's custody][30]
 
-[26][31] [Matters to be taken into account under section 25(3)][31]
+[26][31][][31][Matters to be taken into account under section 25(3)][31]
 
-[27][32] [Family may request pathologist's report on post-mortem][32]
+[27][32][][32][Family may request pathologist's report on post-mortem][32]
 
-[28][33] [Any person may access specified certificates and notices][33]
+[28][33][][33][Any person may access specified certificates and notices][33]
 
-[29][34] [Access to other documents given to Secretary][34]
+[29][34][][34][Access to other documents given to Secretary][34]
 
-[30][35] [Charges for copies under section 28 or 29][35]
+[30][35][][35][Charges for copies under section 28 or 29][35]
 
 [Post-mortems][36]
 
-[31][37] [Coroner may direct post-mortem][37]
+[31][37][][37][Coroner may direct post-mortem][37]
 
-[32][38] [Criteria for decision whether to direct post-mortem][38]
+[32][38][][38][Criteria for decision whether to direct post-mortem][38]
 
-[33][39] [Right in some cases to object to post-mortem][39]
+[33][39][][39][Right in some cases to object to post-mortem][39]
 
-[34][40] [Procedure for objections under section 33][40]
+[34][40][][40][Procedure for objections under section 33][40]
 
-[35][41] [Procedure for objection in High Court][41]
+[35][41][][41][Procedure for objection in High Court][41]
 
-[36][42] [Nature of post-mortem][42]
+[36][42][][42][Nature of post-mortem][42]
 
-[37][43] [Post-mortem may be performed early in some cases][43]
+[37][43][][43][Post-mortem may be performed early in some cases][43]
 
-[38][44] [Who may attend post-mortem][44]
+[38][44][][44][Who may attend post-mortem][44]
 
-[39][45] [Definitions for section 38][45]
+[39][45][][45][Definitions for section 38][45]
 
-[40][46] [Coroner may require person's doctor to report][46]
+[40][46][][46][Coroner may require person's doctor to report][46]
 
-[41][47] [High Court may order post-mortem in certain circumstances][47]
+[41][47][][47][High Court may order post-mortem in certain circumstances][47]
 
 [Release of bodies, and retention and return of body parts and bodily samples][48]
 
-[42][49] [Release of bodies][49]
+[42][49][][49][Release of bodies][49]
 
-[43][50] [Restriction on release if no post-mortem directed][50]
+[43][50][][50][Restriction on release if no post-mortem directed][50]
 
-[44][51] [Restriction on release if parts or samples to be retained][51]
+[44][51][][51][Restriction on release if parts or samples to be retained][51]
 
-[45][52] [Release of still-born children][52]
+[45][52][][52][Release of still-born children][52]
 
-[46][53] [Costs of transporting body moved for post-mortem, etc][53]
+[46][53][][53][Costs of transporting body moved for post-mortem, etc][53]
 
-[47][54] [Receipt, removal, and taking of parts and samples][54]
+[47][54][][54][Receipt, removal, and taking of parts and samples][54]
 
-[48][55] [Retention of parts and samples on release of body][55]
+[48][55][][55][Retention of parts and samples on release of body][55]
 
-[49][56] [Coroner's authorisation under section 48(2)(b)][56]
+[49][56][][56][Coroner's authorisation under section 48(2)(b)][56]
 
-[50][57] [Coroner must notify family, etc, of retention, and of right to request return, of retained parts and samples][57]
+[50][57][][57][Coroner must notify family, etc, of retention, and of right to request return, of retained parts and samples][57]
 
-[51][58] [Pathologists proposing to retain parts or samples under section 48(2)(c) must advise of right to request return][58]
+[51][58][][58][Pathologists proposing to retain parts or samples under section 48(2)(c) must advise of right to request return][58]
 
-[52][59] [Requests for return of retained parts and samples][59]
+[52][59][][59][Requests for return of retained parts and samples][59]
 
-[53][60] [Parts and samples whose retention is not permitted must generally be returned when body released][60]
+[53][60][][60][Parts and samples whose retention is not permitted must generally be returned when body released][60]
 
-[54][61] [Restrictions on return and disposal][61]
+[54][61][][61][Restrictions on return and disposal][61]
 
-[55][62] [Return on request of retained parts and samples][62]
+[55][62][][62][Return on request of retained parts and samples][62]
 
-[56][63] [Use and disposal of retained parts or samples whose return is not requested][63]
+[56][63][][63][Use and disposal of retained parts or samples whose return is not requested][63]
 
 [Part 3][64]  
 [Inquiries into causes and circumstances of deaths][64]
 
 [Inquiries][65]
 
-[57][66] [Purposes of inquiries][66]
+[57][66][][66][Purposes of inquiries][66]
 
-[58][67] [Adverse comments by coroners][67]
+[58][67][][67][Adverse comments by coroners][67]
 
-[59][68] [Jurisdiction of coroners to open inquiries][68]
+[59][68][][68][Jurisdiction of coroners to open inquiries][68]
 
-[60][69] [Deaths into which inquiries must be opened][69]
+[60][69][][69][Deaths into which inquiries must be opened][69]
 
-[61][70] [Deaths where coroner may decide not to open inquiries][70]
+[61][70][][70][Deaths where coroner may decide not to open inquiries][70]
 
-[62][71] [Other deaths][71]
+[62][71][][71][Other deaths][71]
 
-[63][72] [Decision whether to open and conduct inquiry][72]
+[63][72][][72][Decision whether to open and conduct inquiry][72]
 
-[64][73] [Duties of coroner who decides not to open inquiry][73]
+[64][73][][73][Duties of coroner who decides not to open inquiry][73]
 
-[65][74] [Coroner may decide to open inquiry despite initial decision][74]
+[65][74][][74][Coroner may decide to open inquiry despite initial decision][74]
 
-[66][75] [Which coroner conducts inquiry][75]
+[66][75][][75][Which coroner conducts inquiry][75]
 
-[67][76] [Chief coroner and Secretary to be notified of inquiry][76]
+[67][76][][76][Chief coroner and Secretary to be notified of inquiry][76]
 
-[68][77] [Procedure if person charged with offence][77]
+[68][77][][77][Procedure if person charged with offence][77]
 
-[69][78] [Procedure if some other investigation to be conducted][78]
+[69][78][][78][Procedure if some other investigation to be conducted][78]
 
-[70][79] [Coroner may decide not to open or resume postponed or adjourned inquiry][79]
+[70][79][][79][Coroner may decide not to open or resume postponed or adjourned inquiry][79]
 
-[71][80] [Restrictions on making public of details of self-inflicted deaths][80]
+[71][80][][80][Restrictions on making public of details of self-inflicted deaths][80]
 
-[72][81] [Permission referred to in section 71(2)][81]
+[72][81][][81][Permission referred to in section 71(2)][81]
 
-[73][82] [Definitions for sections 71 and 74][82]
+[73][82][][82][Definitions for sections 71 and 74][82]
 
-[74][83] [Coroner may prohibit making public of evidence given at any part of inquiry proceedings][83]
+[74][83][][83][Coroner may prohibit making public of evidence given at any part of inquiry proceedings][83]
 
-[75][84] [Review of coroner's decision as to making public of details, evidence, etc][84]
+[75][84][][84][Review of coroner's decision as to making public of details, evidence, etc][84]
 
-[76][85] [People from whom evidence generally to be heard][85]
+[76][85][][85][People from whom evidence generally to be heard][85]
 
-[77][86] [Hearings on papers and chambers findings][86]
+[77][86][][86][Hearings on papers and chambers findings][86]
 
-[78][87] [Protection for witnesses and counsel][87]
+[78][87][][87][Protection for witnesses and counsel][87]
 
-[79][88] [Admission and verification of evidence][88]
+[79][88][][88][Admission and verification of evidence][88]
 
 [Inquests][89]
 
-[80][90] [Decision to hold inquest][90]
+[80][90][][90][Decision to hold inquest][90]
 
-[81][91] [Date, etc, and notice of inquest][91]
+[81][91][][91][Date, etc, and notice of inquest][91]
 
-[82][92] [Inquests usually to be before coroner alone][92]
+[82][92][][92][Inquests usually to be before coroner alone][92]
 
-[83][93] [Specialist advisers to sit with and help coroners][93]
+[83][93][][93][Specialist advisers to sit with and help coroners][93]
 
-[84][94] [Joint inquests][94]
+[84][94][][94][Joint inquests][94]
 
-[85][95] [Inquests usually to be public][95]
+[85][95][][95][Inquests usually to be public][95]
 
-[86][96] [Coroner may exclude people from inquest][96]
+[86][96][][96][Coroner may exclude people from inquest][96]
 
-[87][97] [Coroner may exclude witness until he or she gives evidence][97]
+[87][97][][97][Coroner may exclude witness until he or she gives evidence][97]
 
-[88][98] [Evidence at inquest][98]
+[88][98][][98][Evidence at inquest][98]
 
-[89][99] [Others who may cross-examine at inquest][99]
+[89][99][][99][Others who may cross-examine at inquest][99]
 
-[90][100] [Evidence by written statement confirmed by witness][100]
+[90][100][][100][Evidence by written statement confirmed by witness][100]
 
-[91][101] [Evidence at distance for purposes of inquest][101]
+[91][101][][101][Evidence at distance for purposes of inquest][101]
 
 [Completion of inquiries][102]
 
-[92][103] [Body must be viewed before certain inquiries concluded][103]
+[92][103][][103][Body must be viewed before certain inquiries concluded][103]
 
-[93][104] [Certificate of and written reasons for interim findings][104]
+[93][104][][104][Certificate of and written reasons for interim findings][104]
 
-[94][105] [Certificate of and written reasons for findings][105]
+[94][105][][105][Certificate of and written reasons for findings][105]
 
 [Inquiries or further inquiries ordered by Solicitor-General or High Court][106]
 
-[95][107] [Inquiry if coroner has failed or refused to open one][107]
+[95][107][][107][Inquiry if coroner has failed or refused to open one][107]
 
-[96][108] [Inquiry if new facts discovered][108]
+[96][108][][108][Inquiry if new facts discovered][108]
 
-[97][109] [Further inquiry if sufficient reason][109]
+[97][109][][109][Further inquiry if sufficient reason][109]
 
-[98][110] [Sections 95 to 97 subject to general jurisdiction][110]
+[98][110][][110][Sections 95 to 97 subject to general jurisdiction][110]
 
-[99][111] [Exercise of powers under sections 95 to 97][111]
+[99][111][][111][Exercise of powers under sections 95 to 97][111]
 
-[100][112] [Form and service of orders under sections 95 to 97][112]
+[100][112][][112][Form and service of orders under sections 95 to 97][112]
 
-[101][113] [Coroner must open and conduct inquiry accordingly][113]
+[101][113][][113][Coroner must open and conduct inquiry accordingly][113]
 
-[102][114] [Procedure at inquiries ordered under sections 95 to 97][114]
+[102][114][][114][Procedure at inquiries ordered under sections 95 to 97][114]
 
 [Part 4][115]  
 [Appointments, administration, powers, offences and penalties, and technical provisions][115]
 
 [Appointments][116]
 
-[103][117] [Coroners][117]
+[103][117][][117][Coroners][117]
 
-[104][118] [Relief coroners][118]
+[104][118][][118][Relief coroners][118]
 
-[105][119] [Chief coroner][119]
+[105][119][][119][Chief coroner][119]
 
-[106][120] [Acting chief coroner][120]
+[106][120][][120][Acting chief coroner][120]
 
-[107][121] [Concurrent office or employment][121]
+[107][121][][121][Concurrent office or employment][121]
 
-[108][122] [Coroners act full-time unless authorised to act part-time][122]
+[108][122][][122][Coroners act full-time unless authorised to act part-time][122]
 
-[109][123] [Maximum number of coroners][123]
+[109][123][][123][Maximum number of coroners][123]
 
-[110][124] [Salaries and allowances][124]
+[110][124][][124][Salaries and allowances][124]
 
-[111][125] [When determination under section 110(1) comes into force][125]
+[111][125][][125][When determination under section 110(1) comes into force][125]
 
-[112][126] [Resignation][126]
+[112][126][][126][Resignation][126]
 
-[113][127] [Complaints about coroners][127]
+[113][127][][127][Complaints about coroners][127]
 
-[114][128] [Removal][128]
+[114][128][][128][Removal][128]
 
 [Administration][129]
 
-[115][130] [Police to help coroners' investigations][130]
+[115][130][][130][Police to help coroners' investigations][130]
 
-[116][131] [Responsible department to provide administrative support][131]
+[116][131][][131][Responsible department to provide administrative support][131]
 
 [Powers][132]
 
-[117][133] [Coroners' powers and immunities generally][133]
+[117][133][][133][Coroners' powers and immunities generally][133]
 
-[118][134] [Coroner may call for investigations or examinations or commission reports][134]
+[118][134][][134][Coroner may call for investigations or examinations or commission reports][134]
 
-[119][135] [Coroner may refer death to other investigating authorities][135]
+[119][135][][135][Coroner may refer death to other investigating authorities][135]
 
-[120][136] [Coroner may by written notice require person to supply information or documents or other things][136]
+[120][136][][136][Coroner may by written notice require person to supply information or documents or other things][136]
 
-[121][137] [Grounds for refusing to comply with written notice][137]
+[121][137][][137][Grounds for refusing to comply with written notice][137]
 
-[122][138] [Warrant for information, document, or other thing][138]
+[122][138][][138][Warrant for information, document, or other thing][138]
 
-[123][139] [Entry and search under warrant under section 122][139]
+[123][139][][139][Entry and search under warrant under section 122][139]
 
-[124][140] [Duties when executing warrant under section 122][140]
+[124][140][][140][Duties when executing warrant under section 122][140]
 
-[125][141] [Grounds for withholding thing sought by warrant][141]
+[125][141][][141][Grounds for withholding thing sought by warrant][141]
 
-[126][142] [Review of dismissal of claim that section 121(2) applies][142]
+[126][142][][142][Review of dismissal of claim that section 121(2) applies][142]
 
-[127][143] [Limits on use of information, etc, given or produced in response to notice under section 120 or obtained through execution of warrant under section 122][143]
+[127][143][][143][Limits on use of information, etc, given or produced in response to notice under section 120 or obtained through execution of warrant under section 122][143]
 
-[128][144] [Warrant for removal of body][144]
+[128][144][][144][Warrant for removal of body][144]
 
-[129][145] [Entry and search under warrant under section 128][145]
+[129][145][][145][Entry and search under warrant under section 128][145]
 
-[130][146] [Warrant under section 128 to be produced][146]
+[130][146][][146][Warrant under section 128 to be produced][146]
 
-[131][147] [Power to seize evidence relevant to post-mortem][147]
+[131][147][][147][Power to seize evidence relevant to post-mortem][147]
 
-[132][148] [Chief coroner may issue practice notes][148]
+[132][148][][148][Chief coroner may issue practice notes][148]
 
-[133][149] [Chief coroner must designate coroners for specified deaths][149]
+[133][149][][149][Chief coroner must designate coroners for specified deaths][149]
 
 [Offences and penalties][150]
 
-[134][151] [Failure to supply information or documents or other things as required by coroner's notice under section 120][151]
+[134][151][][151][Failure to supply information or documents or other things as required by coroner's notice under section 120][151]
 
-[135][152] [False or misleading statements and omissions in certain documents][152]
+[135][152][][152][False or misleading statements and omissions in certain documents][152]
 
-[136][153] [Non-compliance with direction about removal of body][153]
+[136][153][][153][Non-compliance with direction about removal of body][153]
 
-[137][154] [Failure or refusal to give report required][154]
+[137][154][][154][Failure or refusal to give report required][154]
 
-[138][155] [False or misleading statement for purposes of section 64(3)][155]
+[138][155][][155][False or misleading statement for purposes of section 64(3)][155]
 
-[139][156] [Publication of information in contravention of section 71 or prohibition under section 74][156]
+[139][156][][156][Publication of information in contravention of section 71 or prohibition under section 74][156]
 
 [Technical provisions][157]
 
-[140][158] [Regulations][158]
+[140][158][][158][Regulations][158]
 
-[141][159] [Transitional provisions: amendments to Coroners Act 1988 effective day after assent are in Schedule 1][159]
+[141][159][][159][Transitional provisions: amendments to Coroners Act 1988 effective day after assent are in Schedule 1][159]
 
-[142][160] [Transitional provisions: functions or powers available day after assent are in Schedule 2][160]
+[142][160][][160][Transitional provisions: functions or powers available day after assent are in Schedule 2][160]
 
-[143][161] [Coroners Act 1988 repealed][161]
+[143][161][][161][Coroners Act 1988 repealed][161]
 
-[144][162] [Transitional provisions: arrangements effective on and after 1 July 2007 are in Schedule 3][162]
+[144][162][][162][Transitional provisions: arrangements effective on and after 1 July 2007 are in Schedule 3][162]
 
-[145][163] [Amendments relating to complaints against coroners are in Schedule 4][163]
+[145][163][][163][Amendments relating to complaints against coroners are in Schedule 4][163]
 
-[146][164] [Consequential amendments are in Schedule 5][164]
+[146][164][][164][Consequential amendments are in Schedule 5][164]
 
 [Schedule 1][165]  
 [Amendments to Coroners Act 1988 effective day after assent][165]
@@ -655,11 +655,13 @@ General provisions
     
     *   (m) the Transport Accident Investigation Commission established by [section 3][188] of the Transport Accident Investigation Commission Act 1990:
     
-    *   (n) a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the [Commissions of Inquiry Act 1908][189], or a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, or by, any provision of an Act
+    *   (n) a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the [Commissions of Inquiry Act 1908][189], or a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, or by, any provision of an Act:Inquiries Act 2013:
+    
+    *   (o) an inquiry to which [section 6][190] of the Inquiries Act 2013 applies
     
     _pathologist_---
         
-    *   (a) means a doctor who is competent to perform post-mortems because his or her scope of practice (as defined in [section 5(1)][190] of the Health Practitioners Competence Assurance Act 2003) includes the branch of medicine of pathology; and
+    *   (a) means a doctor who is competent to perform post-mortems because his or her scope of practice (as defined in [section 5(1)][191] of the Health Practitioners Competence Assurance Act 2003) includes the branch of medicine of pathology; and
     
     *   (b) in relation to a post-mortem directed under [section 31][37], means the pathologist directed to perform the post-mortem; and includes another pathologist who, with a coroner's authorisation under [section 38(1)(b)][44], is attending, participating in, and helping with, the post-mortem
     
@@ -667,7 +669,7 @@ General provisions
     
     _relief coroner_ means a person appointed under [section 104][118]
     
-    _Remuneration Authority_ means the Authority established by [section 4(1)][191] of the Remuneration Authority Act 1977
+    _Remuneration Authority_ means the Authority established by [section 4(1)][192] of the Remuneration Authority Act 1977
     
     _responsible department_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -681,13 +683,15 @@ General provisions
     
     _vehicle_ means a conveyance for use on land, whether or not it is also capable of being used on or over water.
     
-    Compare: 1988 No 111 [s 2][192]
+    Compare: 1988 No 111 [s 2][193]
     
-    Section 9 **body** paragraph (b): amended, on 24 January 2009, by [section 47][193] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 9 **body** paragraph (b): amended, on 24 January 2009, by [section 47][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 9 **other investigating authority** paragraph (i): amended, on 1 August 2008, by [section 50(1)][194] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 9 **other investigating authority** paragraph (i): amended, on 1 August 2008, by [section 50(1)][195] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 9 **other investigating authority** paragraph (l): amended, on 29 November 2007, by [section 26][195] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 9 **other investigating authority** paragraph (l): amended, on 29 November 2007, by [section 26][196] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    
+    Section 9 **other investigating authority** paragraph (o): inserted, on 27 August 2013, by [section 39][197] of the Inquiries Act 2013 (2013 No 60).
 
 ##### 10 Coroner defined
     
@@ -695,7 +699,7 @@ General provisions
         
     *   (a) the chief coroner; and
     
-    *   (b) a person who (under [section 8(d)][196] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge; and
+    *   (b) a person who (under [section 8(d)][198] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge; and
     
     *   (c) a relief coroner.
     
@@ -711,7 +715,7 @@ General provisions
     
     *   (e) [section 112][126] (resignation).
     
-    (3) In the following sections, **coroner** does not, except as provided in [section 109(2)(a)][123], include a person who (under [section 8(d)][196] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge:
+    (3) In the following sections, **coroner** does not, except as provided in [section 109(2)(a)][123], include a person who (under [section 8(d)][198] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge:
         
     *   (a) [section 108][122] (coroners act full-time unless authorised to act part-time):
     
@@ -737,9 +741,9 @@ General provisions
 
 ##### 11 Application of Act to deaths of members of visiting forces
     
-*   This Act is subject to [section 19][197] of the Visiting Forces Act 2004, which applies to inquiries relating to members of visiting forces.
+*   This Act is subject to [section 19][199] of the Visiting Forces Act 2004, which applies to inquiries relating to members of visiting forces.
     
-    Compare: 1988 No 111 [s 3A][198]
+    Compare: 1988 No 111 [s 3A][200]
 
 ##### 12 Act binds the Crown
     
@@ -760,7 +764,7 @@ Deaths to be reported and post-mortems
     
     *   ###### For which no doctor's certificate given
     
-    *   (b) every death in respect of which no doctor has given a doctor's certificate (as defined in [section 2(1)][199] of the Burial and Cremation Act 1964):
+    *   (b) every death in respect of which no doctor has given a doctor's certificate (as defined in [section 2(1)][201] of the Burial and Cremation Act 1964):
     
     *   ###### During medical, surgical, or dental operation, treatment, etc
     
@@ -774,7 +778,7 @@ Deaths to be reported and post-mortems
         
         *   (iv) that occurred while that person was affected by an anaesthetic; or
         
-        *   (v) that appears to have been the result of the administration to that person of an anaesthetic or a medicine (as defined in [section 3][200] of the Medicines Act 1981):
+        *   (v) that appears to have been the result of the administration to that person of an anaesthetic or a medicine (as defined in [section 3][202] of the Medicines Act 1981):
         
         
     
@@ -782,15 +786,15 @@ Deaths to be reported and post-mortems
     
     *   ###### In official custody or care
     
-    *   (e) the death of a patient required to be detained in an institution pursuant to an order under [section 9][201] of the Alcoholism and Drug Addiction Act 1966:
+    *   (e) the death of a patient required to be detained in an institution pursuant to an order under [section 9][203] of the Alcoholism and Drug Addiction Act 1966:
     
-    *   (f) the death of a child or young person the chief executive has, under [section 365][202] of the Children, Young Persons, and Their Families Act 1989, placed in a residence established under [section 364][203] of that Act:
+    *   (f) the death of a child or young person the chief executive has, under [section 365][204] of the Children, Young Persons, and Their Families Act 1989, placed in a residence established under [section 364][205] of that Act:
     
     *   (g) the death of a child or young person while that child or young person---
             
-        *   (i) is in the custody or care of an Iwi Social Service or a Cultural Social Service, or the Director of a Child and Family Support Service, pursuant to [section 43][204] or [78][205] or [110][206] or [139][207] or [140][208] or [141][209] or [234][210] or [238][211] or [345][212] of the Children, Young Persons, and Their Families Act 1989; or
+        *   (i) is in the custody or care of an Iwi Social Service or a Cultural Social Service, or the Director of a Child and Family Support Service, pursuant to [section 43][206] or [78][207] or [110][208] or [139][209] or [140][210] or [141][211] or [234][212] or [238][213] or [345][214] of the Children, Young Persons, and Their Families Act 1989; or
         
-        *   (ii) is in the charge of any person or organisation pursuant to [section 362][213] of that Act:
+        *   (ii) is in the charge of any person or organisation pursuant to [section 362][215] of that Act:
         
         
     
@@ -798,25 +802,25 @@ Deaths to be reported and post-mortems
     
     *   (i) the death of any proposed care recipient or care recipient as defined in [section 5(1)][180] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
     
-    *   (j) the death of a prisoner as defined in [section 3(1)][214] of the Corrections Act 2004:
+    *   (j) the death of a prisoner as defined in [section 3(1)][216] of the Corrections Act 2004:
     
     *   (k) the death of a person in the custody of the New Zealand Police:
     
-    *   (l) the death of a person under the control of a security officer as defined in [section 3(1)][214] of the Corrections Act 2004\.
+    *   (l) the death of a person under the control of a security officer as defined in [section 3(1)][216] of the Corrections Act 2004\.
     
     (2) This subsection applies only to deaths that occurred in New Zealand or that are deaths on or from---
         
-    *   (a) an aircraft registered in New Zealand under the [Civil Aviation Act 1990][215]; or
+    *   (a) an aircraft registered in New Zealand under the [Civil Aviation Act 1990][217]; or
     
-    *   (b) a New Zealand ship (as defined in [section 2(1)][216] of the Maritime Transport Act 1994); or
+    *   (b) a New Zealand ship (as defined in [section 2(1)][218] of the Maritime Transport Act 1994); or
     
-    *   (c) an aircraft or ship of the Armed Forces (as defined in [section 2(1)][217] of the Armed Forces Discipline Act 1971).
+    *   (c) an aircraft or ship of the Armed Forces (as defined in [section 2(1)][219] of the Armed Forces Discipline Act 1971).
     
     (3) Subsection (1)(e) and (f) and (h) to (j) apply to a death whether or not it occurred in the institution, residence, hospital, facility, or prison concerned.
     
-    Compare: 1988 No 111 [ss 4][218], [5(2)][219]
+    Compare: 1988 No 111 [ss 4][220], [5(2)][221]
     
-    Section 13(1)(b): amended, on 24 January 2009, by [section 47][193] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 13(1)(b): amended, on 24 January 2009, by [section 47][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 14 Reporting of deaths to police
     
@@ -832,7 +836,7 @@ Deaths to be reported and post-mortems
     
     (4) Any person may report to a member of the police the death outside New Zealand of a person whose body is in New Zealand.
     
-    Compare: 1988 No 111 [s 5(1)--(3), (5)][219]
+    Compare: 1988 No 111 [s 5(1)--(3), (5)][221]
 
 ##### 15 Reporting of deaths to coroner by police
     
@@ -850,7 +854,7 @@ Deaths to be reported and post-mortems
     
     (3) A member of the police is not required by subsection (2) to report a death if he or she believes that the death is already known to, or will be reported by another member of the police to, the coroner, or a coroner, to whom the death is required by that subsection to be reported.
     
-    Compare: 1988 No 111 [s 5(4)][219]
+    Compare: 1988 No 111 [s 5(4)][221]
 
 ##### 16 Chief coroner to designate replacement designated coroner or report death to original designated coroner
     
@@ -874,7 +878,7 @@ Deaths to be reported and post-mortems
     
     (2) This section does not limit [section 115][130].
     
-    Compare: 1988 No 111 [s 5(6)][219]
+    Compare: 1988 No 111 [s 5(6)][221]
 
 #### Custody and removal of bodies
 
@@ -904,13 +908,13 @@ Deaths to be reported and post-mortems
     
 *   For the purposes of a post-mortem of a body directed under [section 31][37], a coroner may give any directions the coroner thinks fit about removal of the body (for example, directions about the removal of the body to a mortuary or morgue).
     
-    Compare: 1988 No 111 [s 13(1)][220]
+    Compare: 1988 No 111 [s 13(1)][222]
 
 ##### 21 Coroner not required to view body
     
 *   A coroner is not required to view any body.
     
-    Compare: 1988 No 111 [s 24(2)][221]
+    Compare: 1988 No 111 [s 24(2)][223]
 
 #### Interests of families and other relevant people or organisations
 
@@ -942,7 +946,7 @@ Deaths to be reported and post-mortems
     
     (2) A failure to comply with this section or [section 50(1)(b)][57] (which relates to family, etc, being notified of the retention, and of the right to request the return, of retained body parts or bodily samples) does not affect the validity of any action taken by or on behalf of the coroner.
     
-    Compare: 1988 No 111 [s 11(1)][222]
+    Compare: 1988 No 111 [s 11(1)][224]
 
 ##### 24 Significant matters referred to in section 23(1)
     
@@ -1034,7 +1038,7 @@ Deaths to be reported and post-mortems
     
     (2) A copy of the report (whether it is, or contains, information withheld under subsection (1)(d), or not) may be requested, and made available, in accordance with [section 29][34].
     
-    Compare: 1988 No 111 [s 11(2)][222]
+    Compare: 1988 No 111 [s 11(2)][224]
 
 ##### 28 Any person may access specified certificates and notices
     
@@ -1050,15 +1054,15 @@ Deaths to be reported and post-mortems
     
     (2) A copy may be obtained under subsection (1) despite a prohibition under [section 74][83] (which empowers the coroner to prohibit the making public of evidence given at any part of inquiry proceedings), but nothing in this section permits a person to make public any information in contravention of [section 71][80] (which relates to restrictions on the making public of details of self-inflicted deaths).
     
-    (3) Subsections (1) and (2) apply to the following certificates and notices given to the Secretary under the [Coroners Act 1988][170] (but, for the purposes of this subsection, the references in subsection (2) to [sections 74][83] and [71][80] must be read as references to [sections 25(2)(b)][223] and [29][224] of that Act respectively):
+    (3) Subsections (1) and (2) apply to the following certificates and notices given to the Secretary under the [Coroners Act 1988][170] (but, for the purposes of this subsection, the references in subsection (2) to [sections 74][83] and [71][80] must be read as references to [sections 25(2)(b)][225] and [29][226] of that Act respectively):
         
-    *   (a) a notice under [section 20(2)][225] of that Act of a coroner's decision not to hold an inquest under that Act:
+    *   (a) a notice under [section 20(2)][227] of that Act of a coroner's decision not to hold an inquest under that Act:
     
-    *   (b) a notice under [section 28(7)][226] of that Act of a coroner's decision not to open or resume an inquest under that Act:
+    *   (b) a notice under [section 28(7)][228] of that Act of a coroner's decision not to open or resume an inquest under that Act:
     
-    *   (c) a certificate under [section 31][227] of that Act of a coroner's findings in relation to a death.
+    *   (c) a certificate under [section 31][229] of that Act of a coroner's findings in relation to a death.
     
-    Compare: 1988 No 111 [s 44(1), (5)][228]
+    Compare: 1988 No 111 [s 44(1), (5)][230]
 
 ##### 29 Access to other documents given to Secretary
     
@@ -1070,9 +1074,9 @@ Deaths to be reported and post-mortems
     
     (2) The availability of documents requested under subsection (1) must be determined,---
         
-    *   (a) in the case of a request made by the individual to whom the information concerned relates, in accordance with the [Privacy Act 1993][229]; or
+    *   (a) in the case of a request made by the individual to whom the information concerned relates, in accordance with the [Privacy Act 1993][231]; or
     
-    *   (b) in any other case, in accordance with the [Official Information Act 1982][230].
+    *   (b) in any other case, in accordance with the [Official Information Act 1982][232].
     
     (3) Nothing in this section authorises---
         
@@ -1080,13 +1084,13 @@ Deaths to be reported and post-mortems
     
     *   (b) the publication of any information in contravention of [section 71][80] (which relates to restrictions on the making public of details of self-inflicted deaths).
     
-    (4) Subsections (1) to (3) apply to the following (but, for the purposes of this subsection, the references in subsection (3) to [sections 74][83] and [71][80] must be read as references to [sections 25(2)(b)][223] and [29][224] of the Coroners Act 1988 respectively):
+    (4) Subsections (1) to (3) apply to the following (but, for the purposes of this subsection, the references in subsection (3) to [sections 74][83] and [71][80] must be read as references to [sections 25(2)(b)][225] and [29][226] of the Coroners Act 1988 respectively):
         
-    *   (a) depositions transmitted to the Secretary under [section 24(2)][231] of the Coroners Act 1951; and
+    *   (a) depositions transmitted to the Secretary under [section 24(2)][233] of the Coroners Act 1951; and
     
     *   (b) any document that is not a certificate or notice specified in [section 28(3)][33] but was given by a coroner to the Secretary under the [Coroners Act 1988][170].
     
-    Compare: 1988 No 111 [s 44(2)--(5)][228]
+    Compare: 1988 No 111 [s 44(2)--(5)][230]
 
 ##### 30 Charges for copies under section 28 or 29
     
@@ -1104,7 +1108,7 @@ Deaths to be reported and post-mortems
     
     (5) The responsible department may require that the whole or part of any charge fixed be paid in advance.
     
-    Compare: 1982 No 156 [s 15(1A)--(3)][232]; 1993 No 28 [s 35(1)][233]
+    Compare: 1982 No 156 [s 15(1A)--(3)][234]; 1993 No 28 [s 35(1)][235]
 
 #### Post-mortems
 
@@ -1126,7 +1130,7 @@ Deaths to be reported and post-mortems
     
     (6) As soon as practicable after completing the post-mortem, the pathologist must give the coroner a written report on the results of the post-mortem.
     
-    Compare: 1988 No 111 [s 7][234]
+    Compare: 1988 No 111 [s 7][236]
 
 ##### 32 Criteria for decision whether to direct post-mortem
     
@@ -1140,7 +1144,7 @@ Deaths to be reported and post-mortems
         
         
     
-    *   (b) whether the Director-General of Health has ordered or is likely to order a post-mortem of the body concerned under [section 78][235] of the Health Act 1956; and
+    *   (b) whether the Director-General of Health has ordered or is likely to order a post-mortem of the body concerned under [section 78][237] of the Health Act 1956; and
     
     *   (c) whether the death appears to have been unnatural or violent; and
     
@@ -1156,7 +1160,7 @@ Deaths to be reported and post-mortems
     
     *   (i) any other matters the coroner thinks relevant.
     
-    Compare: 1988 No 111 [s 8][236]
+    Compare: 1988 No 111 [s 8][238]
 
 ##### 33 Right in some cases to object to post-mortem
     
@@ -1194,7 +1198,7 @@ Deaths to be reported and post-mortems
     
     (4) In calculating the 48-hour period in subsection (3), hours count only if they are hours of working days.
     
-    (5) An objection under subsection (3) is lodged by originating application in the manner provided by the [High Court Rules][237] (as defined in [section 2][238] of the Judicature Act 1908).
+    (5) An objection under subsection (3) is lodged by originating application in the manner provided by the [High Court Rules][239] (as defined in [section 2][240] of the Judicature Act 1908).
 
 ##### 35 Procedure for objection in High Court
     
@@ -1212,11 +1216,11 @@ Deaths to be reported and post-mortems
     
     *   (c) without delay, inform every party to the proceeding of the action taken under this section.
     
-    (5) Subsections (3) and (4) apply in substitution for any provision of the [High Court Rules][237] relating to the transfer of notices of application filed at a time when a Judge is not present.
+    (5) Subsections (3) and (4) apply in substitution for any provision of the [High Court Rules][239] relating to the transfer of notices of application filed at a time when a Judge is not present.
     
     (6) The High Court must either uphold the objection, or dismiss it by ordering that the coroner may direct under [section 31][37] that the post-mortem be performed.
     
-    Compare: 2001 No 31 [ss 9][239], [10][240]
+    Compare: 2001 No 31 [ss 9][241], [10][242]
 
 ##### 36 Nature of post-mortem
     
@@ -1244,7 +1248,7 @@ Deaths to be reported and post-mortems
     
     (3) Subsection (2) does not limit subsection (1).
     
-    Compare: 1988 No 111 [s 9][241]
+    Compare: 1988 No 111 [s 9][243]
 
 ##### 38 Who may attend post-mortem
     
@@ -1268,7 +1272,7 @@ Deaths to be reported and post-mortems
     
     (2) No doctor, nurse, or funeral director is responsible for the conduct of, or may participate in otherwise than by observing, a post-mortem just because he or she attends the post-mortem as a representative in accordance with subsection (1)(d) or (e).
     
-    Compare: 1988 No 111 [s 10(1), (3)--(5)][242]
+    Compare: 1988 No 111 [s 10(1), (3)--(5)][244]
 
 ##### 39 Definitions for section 38
     
@@ -1282,19 +1286,19 @@ Deaths to be reported and post-mortems
     
     _national qualification_ means a qualification registered on the National Qualifications Framework
     
-    _National Qualifications Framework_ means the framework for national qualifications in secondary schools and in post-school education and training developed by the Qualifications Authority under [section 253(1)(c)][243] of the Education Act 1989
+    _National Qualifications Framework_ means the framework for national qualifications in secondary schools and in post-school education and training developed by the Qualifications Authority under [section 253(1)(c)][245] of the Education Act 1989
     
     _nurse_ means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by [section 114(1)(a)][174] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
     
-    _Qualifications Authority_ means the New Zealand Qualifications Authority established by [Part 20][244] of the Education Act 1989\.
+    _Qualifications Authority_ means the New Zealand Qualifications Authority established by [Part 20][246] of the Education Act 1989\.
     
-    Compare: 2000 No 94 [s 4][245]
+    Compare: 2000 No 94 [s 4][247]
 
 ##### 40 Coroner may require person's doctor to report
     
 *   A coroner may, by written notice to a doctor who attended a person before death, require the doctor to give the coroner a written report (containing information specified in the notice) relating to the person.
     
-    Compare: 1988 No 111 [s 10(2)][242]
+    Compare: 1988 No 111 [s 10(2)][244]
 
 ##### 41 High Court may order post-mortem in certain circumstances
     
@@ -1340,7 +1344,7 @@ Deaths to be reported and post-mortems
     
     *   (e) [section 131][147] (power to seize evidence relevant to post-mortem).
     
-    Compare: 1988 No 111 [s 39][246]
+    Compare: 1988 No 111 [s 39][248]
 
 #### Release of bodies, and retention and return of body parts and bodily samples
 
@@ -1358,7 +1362,7 @@ Deaths to be reported and post-mortems
     
     (4) A body whose release a coroner has authorised under this section may be released accordingly.
     
-    Compare: 1988 No 111 [ss 13(2)][220], [14][247]
+    Compare: 1988 No 111 [ss 13(2)][222], [14][249]
 
 ##### 43 Restriction on release if no post-mortem directed
     
@@ -1366,9 +1370,9 @@ Deaths to be reported and post-mortems
     
     (2) Subsection (1) does not apply if a member of the police of the level of position of senior sergeant or above agrees to the coroner authorising the release of the body within the 24-hour period referred to in that subsection.
     
-    Compare: 1988 No 111 [s 13(3)][220]
+    Compare: 1988 No 111 [s 13(3)][222]
     
-    Section 43(2): amended, on 1 October 2008, by [section 130(1)][248] of the Policing Act 2008 (2008 No 72).
+    Section 43(2): amended, on 1 October 2008, by [section 130(1)][250] of the Policing Act 2008 (2008 No 72).
 
 ##### 44 Restriction on release if parts or samples to be retained
     
@@ -1565,7 +1569,7 @@ Inquiries into causes and circumstances of deaths
     
     (4) The third purpose is to determine whether the public interest would be served by the death being investigated by other investigating authorities in the performance or exercise of their functions, powers, or duties, and to refer the death to them if satisfied that the public interest would be served by their investigating it in the performance or exercise of their functions, powers, or duties.
     
-    Compare: 1988 No 111 [s 15(1)][249]
+    Compare: 1988 No 111 [s 15(1)][251]
 
 ##### 58 Adverse comments by coroners
     
@@ -1591,7 +1595,7 @@ Inquiries into causes and circumstances of deaths
     
     (5) This section overrides [section 57][66] (purposes of inquiries), but is subject to [section 68][77] (procedure if person charged with offence).
     
-    Compare: 1988 No 111 [s 15(2)][249]
+    Compare: 1988 No 111 [s 15(2)][251]
 
 ##### 59 Jurisdiction of coroners to open inquiries
     
@@ -1615,7 +1619,7 @@ Inquiries into causes and circumstances of deaths
         
         
     
-    Compare: 1988 No 111 [s 16][250]
+    Compare: 1988 No 111 [s 16][252]
 
 ##### 60 Deaths into which inquiries must be opened
     
@@ -1633,7 +1637,7 @@ Inquiries into causes and circumstances of deaths
     
     (2) This section is subject to [section 59][68] (jurisdiction of coroners to open inquiries) and [section 61][70] (deaths where coroner may decide not to open inquiries).
     
-    Compare: 1988 No 111 [s 17][251]
+    Compare: 1988 No 111 [s 17][253]
 
 ##### 61 Deaths where coroner may decide not to open inquiries
     
@@ -1645,15 +1649,15 @@ Inquiries into causes and circumstances of deaths
     
     (2) The coroner to whom a death has been reported under [section 15(2)(a)][18] or [section 16(2)(b)][19] may decide not to open an inquiry into it if satisfied that the death occurred outside New Zealand, and otherwise than on or from---
         
-    *   (a) an aircraft registered in New Zealand under the [Civil Aviation Act 1990][215]; or
+    *   (a) an aircraft registered in New Zealand under the [Civil Aviation Act 1990][217]; or
     
-    *   (b) a New Zealand ship (as defined in [section 2(1)][216] of the Maritime Transport Act 1994); or
+    *   (b) a New Zealand ship (as defined in [section 2(1)][218] of the Maritime Transport Act 1994); or
     
-    *   (c) an aircraft or ship of the Armed Forces (as defined in [section 2(1)][217] of the Armed Forces Discipline Act 1971).
+    *   (c) an aircraft or ship of the Armed Forces (as defined in [section 2(1)][219] of the Armed Forces Discipline Act 1971).
     
     (3) This section is subject to [sections 95 to 97][107] (inquiries or further inquiries ordered by Solicitor-General or High Court).
     
-    Compare: 1988 No 111 [s 18][252]
+    Compare: 1988 No 111 [s 18][254]
 
 ##### 62 Other deaths
     
@@ -1667,7 +1671,7 @@ Inquiries into causes and circumstances of deaths
     
     *   (c) [sections 95 to 97][107] (inquiries or further inquiries ordered by Solicitor-General or High Court).
     
-    Compare: 1988 No 111 [s 19][253]
+    Compare: 1988 No 111 [s 19][255]
 
 ##### 63 Decision whether to open and conduct inquiry
     
@@ -1685,7 +1689,7 @@ Inquiries into causes and circumstances of deaths
     
     *   (f) any other matters the coroner thinks fit.
     
-    Compare: 1988 No 111 [s 20(1)][225]
+    Compare: 1988 No 111 [s 20(1)][227]
 
 ##### 64 Duties of coroner who decides not to open inquiry
     
@@ -1699,15 +1703,15 @@ Inquiries into causes and circumstances of deaths
     
     *   (b) shows that the person's signature has been witnessed either by a member of the police or by a person (not being a member of the police) the coroner authorised to witness that signature.
     
-    Compare: 1988 No 111 [s 20(2)][225]
+    Compare: 1988 No 111 [s 20(2)][227]
 
 ##### 65 Coroner may decide to open inquiry despite initial decision
     
 *   (1) A coroner who, after deciding not to open an inquiry, becomes satisfied (whether because of information not available at the time of deciding, or for any other reason) that it is desirable to open an inquiry into the death concerned, may do so.
     
-    (2) [Clause 14][254] of Schedule 3 empowers a coroner to open an inquiry under this section following a decision under [section 20][225] of the Coroners Act 1988 not to hold an inquest.
+    (2) [Clause 14][256] of Schedule 3 empowers a coroner to open an inquiry under this section following a decision under [section 20][227] of the Coroners Act 1988 not to hold an inquest.
     
-    Compare: 1988 No 111 [s 20(3)][225]
+    Compare: 1988 No 111 [s 20(3)][227]
 
 ##### 66 Which coroner conducts inquiry
     
@@ -1727,7 +1731,7 @@ Inquiries into causes and circumstances of deaths
     
     *   (c) there is some other good reason why coroner A should not conduct the inquiry.
     
-    Compare: 1988 No 111 [s 22][255]
+    Compare: 1988 No 111 [s 22][257]
 
 ##### 67 Chief coroner and Secretary to be notified of inquiry
     
@@ -1757,7 +1761,7 @@ Inquiries into causes and circumstances of deaths
     
     (3) A coroner who has under subsection (2) postponed or adjourned an inquiry must not open or proceed with it until criminal proceedings against the person have been finally concluded (as defined in subsection (6)).
     
-    (4) Subsections (2) and (3) do not limit or affect [sections 44][256] and [45][257] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which require the coroner to notify a Registrar of the death).
+    (4) Subsections (2) and (3) do not limit or affect [sections 44][258] and [45][259] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which require the coroner to notify a Registrar of the death).
     
     (5) Despite subsection (3), a coroner who has under subsection (2) postponed or adjourned an inquiry may later open or resume it if satisfied that---
         
@@ -1767,9 +1771,9 @@ Inquiries into causes and circumstances of deaths
     
     (6) Criminal proceedings are _finally concluded_ for the purposes of this section if no appeal (or, as the case requires, no further appeal) can be made in the course of the proceedings unless the High Court, Court of Appeal, or Supreme Court grants an extension of time.
     
-    Compare: 1988 No 111 [s 28(1), (2), (4), (8)][226]
+    Compare: 1988 No 111 [s 28(1), (2), (4), (8)][228]
     
-    Section 68(4): amended, on 24 January 2009, by [section 47][193] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 68(4): amended, on 24 January 2009, by [section 47][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 69 Procedure if some other investigation to be conducted
     
@@ -1801,7 +1805,7 @@ Inquiries into causes and circumstances of deaths
     
     (4) This section does not limit [section 119][135].
     
-    Compare: 1988 No 111 [s 28(3), (5)][226]
+    Compare: 1988 No 111 [s 28(3), (5)][228]
 
 ##### 70 Coroner may decide not to open or resume postponed or adjourned inquiry
     
@@ -1817,7 +1821,7 @@ Inquiries into causes and circumstances of deaths
     
     (4) A coroner who decides under subsection (2) not to open or resume an inquiry must give the Secretary written notice of the decision.
     
-    Compare: 1988 No 111 [s 28(6), (7)][226]
+    Compare: 1988 No 111 [s 28(6), (7)][228]
 
 ##### 71 Restrictions on making public of details of self-inflicted deaths
     
@@ -1845,21 +1849,21 @@ Inquiries into causes and circumstances of deaths
     
     *   (c) any other matters the coroner considers relevant.
     
-    Compare: 1988 No 111 [s 29(2), (3)(a)][224]
+    Compare: 1988 No 111 [s 29(2), (3)(a)][226]
 
 ##### 72 Permission referred to in section 71(2)
     
 *   For the purposes of [section 71(2)][80], this section gives permission for---
         
-    *   (a) the publication by the Independent Police Conduct Authority, under [section 34(1)(b)][258] of the Independent Police Conduct Authority Act 1988, of a report that includes a particular of the death; and
+    *   (a) the publication by the Independent Police Conduct Authority, under [section 34(1)(b)][260] of the Independent Police Conduct Authority Act 1988, of a report that includes a particular of the death; and
     
-    *   (b) the publication by the Commissioner of Police, under [section 34(2)][258] of that Act, of an opinion or recommendation under [section 27][259] or [28][260] of that Act, or a part of any such opinion or recommendation, that includes a particular of the death; and
+    *   (b) the publication by the Commissioner of Police, under [section 34(2)][260] of that Act, of an opinion or recommendation under [section 27][261] or [28][262] of that Act, or a part of any such opinion or recommendation, that includes a particular of the death; and
     
     *   (c) the making public by a person of a particular of the death contained in any such report, opinion, recommendation, or part of an opinion or recommendation, published under that Act.
     
-    Compare: 1988 No 111 [s 29(3)(b)][224]
+    Compare: 1988 No 111 [s 29(3)(b)][226]
     
-    Section 72(a): amended, on 29 November 2007, by [section 26][195] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 72(a): amended, on 29 November 2007, by [section 26][196] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 73 Definitions for sections 71 and 74
     
@@ -1867,9 +1871,9 @@ Inquiries into causes and circumstances of deaths
     
     _make public_ means publish by means of---
         
-    *   (a) broadcasting (within the meaning of the [Broadcasting Act 1989][261]); or
+    *   (a) broadcasting (within the meaning of the [Broadcasting Act 1989][263]); or
     
-    *   (b) a newspaper (within the meaning of the [Defamation Act 1992][262]); or
+    *   (b) a newspaper (within the meaning of the [Defamation Act 1992][264]); or
     
     *   (c) a book, journal, magazine, newsletter, or other similar document; or
     
@@ -1879,7 +1883,7 @@ Inquiries into causes and circumstances of deaths
     
     _particular_, in relation to a death, means a detail relating to the manner in which the death occurred, to the circumstances of the death, or to an inquiry into the death.
     
-    Compare: 1988 No 111 [s 29(1)][224]
+    Compare: 1988 No 111 [s 29(1)][226]
 
 ##### 74 Coroner may prohibit making public of evidence given at any part of inquiry proceedings
     
@@ -1889,7 +1893,7 @@ Inquiries into causes and circumstances of deaths
     
     *   (b) the name, and any name or particulars likely to lead to the identification, of any witness or witnesses.
     
-    Compare: 1985 No 120 [s 138(2)][263]; 1988 No 111 [s 25(2)(b)][223]
+    Compare: 1985 No 120 [s 138(2)][265]; 1988 No 111 [s 25(2)(b)][225]
 
 ##### 75 Review of coroner's decision as to making public of details, evidence, etc
     
@@ -1911,7 +1915,7 @@ Inquiries into causes and circumstances of deaths
     
     (5) An authority may be issued under subsection (4)(a) unconditionally, or subject to conditions the Judge thinks fit.
     
-    Compare: 1988 No 111 [s 30][264]
+    Compare: 1988 No 111 [s 30][266]
 
 ##### 76 People from whom evidence generally to be heard
     
@@ -1925,7 +1929,7 @@ Inquiries into causes and circumstances of deaths
     
     (3) Subsection (1) is subject to the rest of this Act.
     
-    Compare: 1988 No 111 [s 26(1)][265]
+    Compare: 1988 No 111 [s 26(1)][267]
 
 ##### 77 Hearings on papers and chambers findings
     
@@ -1951,7 +1955,7 @@ Inquiries into causes and circumstances of deaths
     
     *   (c) counsel appearing before coroners (whether at inquests or otherwise) for the purposes of this Act.
     
-    Compare: 1988 No 111 [s 42][266]
+    Compare: 1988 No 111 [s 42][268]
 
 ##### 79 Admission and verification of evidence
     
@@ -1961,7 +1965,7 @@ Inquiries into causes and circumstances of deaths
     
     (3) Evidence given by a witness for the purposes of an inquiry must, if it is admitted by the coroner and not given at an inquest held for the purposes of the inquiry, be put into writing, read over by or to the witness, and signed by the witness.
     
-    Compare: 1988 No 111 [s 26(5), (6), (9)][265]
+    Compare: 1988 No 111 [s 26(5), (6), (9)][267]
 
 #### Inquests
 
@@ -2005,7 +2009,7 @@ Inquiries into causes and circumstances of deaths
     
     (5) Subsection (4) does not limit or affect [sections 95 to 97][107] (inquiries or further inquiries ordered by Solicitor-General or High Court).
     
-    Compare: 1988 No 111 [s 23][267]
+    Compare: 1988 No 111 [s 23][269]
 
 ##### 82 Inquests usually to be before coroner alone
     
@@ -2029,7 +2033,7 @@ Inquiries into causes and circumstances of deaths
     
     (5) Advice given by a specialist adviser may be given any weight the coroner thinks fit.
     
-    Compare: 1908 No 89 [s 99B][268]; 1988 No 111 [s 21][269]
+    Compare: 1908 No 89 [s 99B][270]; 1988 No 111 [s 21][271]
 
 ##### 84 Joint inquests
     
@@ -2045,19 +2049,19 @@ Inquiries into causes and circumstances of deaths
     
     (2) This section is subject to [sections 74][83], [86][96], and [87][97].
     
-    Compare: 1988 No 111 [s 25(1)][223]
+    Compare: 1988 No 111 [s 25(1)][225]
 
 ##### 86 Coroner may exclude people from inquest
     
 *   A coroner may exclude any person or people from all or a part of an inquest.
     
-    Compare: 1988 No 111 [s 25(2)(a)][223]
+    Compare: 1988 No 111 [s 25(2)(a)][225]
 
 ##### 87 Coroner may exclude witness until he or she gives evidence
     
 *   A coroner may direct any witness whose evidence has not yet been heard at an inquest to remain, or go and remain, outside the place where the inquest is being held until required to give evidence.
     
-    Compare: 1988 No 111 [s 25(3)][223]
+    Compare: 1988 No 111 [s 25(3)][225]
 
 ##### 88 Evidence at inquest
     
@@ -2067,7 +2071,7 @@ Inquiries into causes and circumstances of deaths
     
     *   (b) may be cross-examined (either personally or by counsel) by the coroner or a person specified in [section 89(1)][99] (others who may cross-examine at inquest).
     
-    Compare: 1988 No 111 [s 26(2), (3)][265]
+    Compare: 1988 No 111 [s 26(2), (3)][267]
 
 ##### 89 Others who may cross-examine at inquest
     
@@ -2079,7 +2083,7 @@ Inquiries into causes and circumstances of deaths
     
     (2) This section is subject to [sections 86][96] and [87][97], and does not affect the coroner's powers to regulate the procedure of, or maintain order at, the inquest.
     
-    Compare: 1988 No 111 [s 26(4)][265]
+    Compare: 1988 No 111 [s 26(4)][267]
 
 ##### 90 Evidence by written statement confirmed by witness
     
@@ -2091,7 +2095,7 @@ Inquiries into causes and circumstances of deaths
     
     (2) A witness who gives evidence at an inquest under subsection (1) may be cross-examined as if it had been given orally; and the written statement concerned forms part of the depositions of the inquest.
     
-    Compare: 1988 No 111 [s 26(7), (8)][265]
+    Compare: 1988 No 111 [s 26(7), (8)][267]
 
 ##### 91 Evidence at distance for purposes of inquest
     
@@ -2119,7 +2123,7 @@ Inquiries into causes and circumstances of deaths
     
     (5) Evidence given by a witness under subsection (2) and admitted by a coroner or Justice must be put into writing, read over to or by the witness, and signed by the witness and the coroner or Justice, who must send it to the coroner holding the inquest concerned; and that coroner must receive it and act upon it as if it had been given and admitted at the inquest concerned.
     
-    Compare: 1988 No 111 [s 27][270]
+    Compare: 1988 No 111 [s 27][272]
 
 #### Completion of inquiries
 
@@ -2139,7 +2143,7 @@ Inquiries into causes and circumstances of deaths
     
     (2) Subsection (1) does not apply to an inquiry the opening of which was authorised by the Solicitor-General under [section 59(c)][68] (jurisdiction of coroners to open inquiries).
     
-    Compare: 1988 No 111 [s 24(1)][221]
+    Compare: 1988 No 111 [s 24(1)][223]
 
 ##### 93 Certificate of and written reasons for interim findings
     
@@ -2167,7 +2171,7 @@ Inquiries into causes and circumstances of deaths
     
     *   (d) any specified recommendations or comments (as defined in [section 9][10]) made under [section 57(3)][66] (purposes of inquiries).
     
-    Compare: 1988 No 111 [s 31][227]
+    Compare: 1988 No 111 [s 31][229]
 
 #### Inquiries or further inquiries ordered by Solicitor-General or High Court
 
@@ -2175,37 +2179,37 @@ Inquiries into causes and circumstances of deaths
     
 *   (1) If satisfied that an inquiry is necessary or desirable and that the coroner by whom the inquiry should be opened has failed or refused to open one, the Solicitor-General or the High Court may order an inquiry to be opened; and in that case an inquiry must be opened and conducted.
     
-    (2) This section is subject to [clause 15][271] of Schedule 3\.
+    (2) This section is subject to [clause 15][273] of Schedule 3\.
     
-    Compare: 1988 No 111 [s 40(2)][272]
+    Compare: 1988 No 111 [s 40(2)][274]
 
 ##### 96 Inquiry if new facts discovered
     
 *   (1) If satisfied that since a coroner decided not to open an inquiry into a death new facts have been discovered that make it desirable to open one and that one has not been opened under [section 65][74] (coroner may decide to open inquiry despite initial decision), the Solicitor-General may order one to be opened; and in that case an inquiry must be opened and conducted.
     
-    (2) This section is subject to [clause 16][273] of Schedule 3\.
+    (2) This section is subject to [clause 16][275] of Schedule 3\.
     
-    Compare: 1988 No 111 [s 38(1)][274]
+    Compare: 1988 No 111 [s 38(1)][276]
 
 ##### 97 Further inquiry if sufficient reason
     
 *   (1) If satisfied that 1 or more inquiries have been conducted into a death but another should be conducted because of fraud, rejection of evidence, irregularity of proceedings, or discovery of new facts, or for any other sufficient reason, the Solicitor-General or the High Court may order another to be opened; and in that case another must be opened and conducted.
     
-    (2) This section is subject to [clause 17][275] of Schedule 3\.
+    (2) This section is subject to [clause 17][277] of Schedule 3\.
     
-    Compare: 1988 No 111 [ss 38(2)][274], [40(3)][272]
+    Compare: 1988 No 111 [ss 38(2)][276], [40(3)][274]
 
 ##### 98 Sections 95 to 97 subject to general jurisdiction
     
 *   [Sections 95 to 97][107] are subject to [section 59][68].
     
-    Compare: 1988 No 111 [ss 38(4)][274], [40(5)][272]
+    Compare: 1988 No 111 [ss 38(4)][276], [40(5)][274]
 
 ##### 99 Exercise of powers under sections 95 to 97
     
 *   The Solicitor-General's powers under [sections 95 to 97][107] may be exercised on his or her own initiative, but the High Court's powers under those sections may be exercised only on an application made for the purpose by the Solicitor-General under the section concerned.
     
-    Compare: 1988 No 111 [ss 38][274], [40(1)][272]
+    Compare: 1988 No 111 [ss 38][276], [40(1)][274]
 
 ##### 100 Form and service of orders under sections 95 to 97
     
@@ -2215,13 +2219,13 @@ Inquiries into causes and circumstances of deaths
     
     *   (b) specify that it is to be opened and conducted by a coroner (who may, but need not, be a coroner who has not previously opened an inquiry into the death concerned) authorised by the chief coroner, and be served on the chief coroner, who must serve it on the coroner authorised.
     
-    Compare: 1988 No 111 [ss 38(3)][274], [40(4)][272]
+    Compare: 1988 No 111 [ss 38(3)][276], [40(4)][274]
 
 ##### 101 Coroner must open and conduct inquiry accordingly
     
 *   The coroner on whom an order is served in accordance with [section 100][112] must open and conduct the inquiry concerned accordingly.
     
-    Compare: 1988 No 111 [ss 38(3)][274], [40(4)][272]
+    Compare: 1988 No 111 [ss 38(3)][276], [40(4)][274]
 
 ##### 102 Procedure at inquiries ordered under sections 95 to 97
     
@@ -2231,7 +2235,7 @@ Inquiries into causes and circumstances of deaths
     
     (3) Except as provided in this section and [sections 95 to 97][107], an inquiry held pursuant to any of those sections must be held in the same manner as any other inquiry.
     
-    Compare: 1988 No 111 [s 41][276]
+    Compare: 1988 No 111 [s 41][278]
 
 ## Part 4  
 Appointments, administration, powers, offences and penalties, and technical provisions
@@ -2250,9 +2254,9 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (5) However, a former coroner of or over the age of 70 years may from time to time be reappointed for a term not exceeding 12 months specified in the warrant of reappointment.
     
-    Section 103(4): amended, on 1 July 2007, by [section 4(1)][277] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
+    Section 103(4): amended, on 1 July 2007, by [section 4(1)][279] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
     
-    Section 103(5): amended, on 1 July 2007, by [section 4(2)][277] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
+    Section 103(5): amended, on 1 July 2007, by [section 4(2)][279] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
 
 ##### 104 Relief coroners
     
@@ -2274,9 +2278,9 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (9) A relief coroner who is acting in the place of a coroner may rely on actions by, or steps involving, the coroner, as if they were actions by, or steps involving, the relief coroner.
     
-    Section 104(5): amended, on 1 July 2007, by [section 5(1)][278] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
+    Section 104(5): amended, on 1 July 2007, by [section 5(1)][280] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
     
-    Section 104(6): amended, on 1 July 2007, by [section 5(2)][278] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
+    Section 104(6): amended, on 1 July 2007, by [section 5(2)][280] of the Coroners Act 2006 Amendment Act 2007 (2007 No 6).
 
 ##### 105 Chief coroner
     
@@ -2326,9 +2330,9 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (7) The basis on which a coroner acts must not be altered during the term of the coroner's appointment without the coroner's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
     
-    (8) Nothing in this section applies to a person who (under [section 8(d)][196] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
+    (8) Nothing in this section applies to a person who (under [section 8(d)][198] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
     
-    Compare: 1947 No 16 [s 5AA][279]
+    Compare: 1947 No 16 [s 5AA][281]
 
 ##### 109 Maximum number of coroners
     
@@ -2336,7 +2340,7 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (2) For the purposes of subsection (1),---
         
-    *   (a) a person who (under [section 8(d)][196] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge does not count unless he or she is also the chief coroner:
+    *   (a) a person who (under [section 8(d)][198] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge does not count unless he or she is also the chief coroner:
     
     *   (b) a person who is a relief coroner does not count:
     
@@ -2346,7 +2350,7 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     *   (e) the aggregate number (for example, 13.5) must not exceed the maximum number of coroners that is for the time being permitted by subsection (1).
     
-    Compare: 1947 No 16 [s 5(2), (2A)][280]
+    Compare: 1947 No 16 [s 5(2), (2A)][282]
 
 ##### 110 Salaries and allowances
     
@@ -2366,17 +2370,17 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (5) For the purposes of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (3) or the payment of reduced salary and allowances under subsection (4) is not a diminution in salary.
     
-    (6) Nothing in this section applies to a person who (under [section 8(d)][196] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
+    (6) Nothing in this section applies to a person who (under [section 8(d)][198] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
     
-    Compare: 1947 No 16 [s 6(1)--(2C)][281]
+    Compare: 1947 No 16 [s 6(1)--(2C)][283]
 
 ##### 111 When determination under section 110(1) comes into force
     
-*   (1) Unless the [Remuneration Authority Act 1977][282] requires otherwise, a determination made under [section 110(1)][124], and any provision of a determination under section 110(1), may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
+*   (1) Unless the [Remuneration Authority Act 1977][284] requires otherwise, a determination made under [section 110(1)][124], and any provision of a determination under section 110(1), may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
     
     (2) Every determination under [section 110(1)][124], and every provision of any determination under section 110(1), in respect of which no date is specified as provided in subsection (1) of this section, comes into force on the date of the making of the determination.
     
-    Compare: 1947 No 16 [s 6(3), (4)][281]
+    Compare: 1947 No 16 [s 6(3), (4)][283]
 
 ##### 112 Resignation
     
@@ -2384,29 +2388,29 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (2) A relief coroner may at any time resign the office by written notice to the Attorney-General.
     
-    Compare: 1908 No 89 [s 26E(2)][283]; 1988 No 111 [s 33(6)][284]
+    Compare: 1908 No 89 [s 26E(2)][285]; 1988 No 111 [s 33(6)][286]
 
 ##### 113 Complaints about coroners
     
-*   (1) Complaints about coroners' conduct may be made, received, and dealt with in accordance with the [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][171] because coroners are Judges as defined in [section 5][285] of that Act.
+*   (1) Complaints about coroners' conduct may be made, received, and dealt with in accordance with the [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][171] because coroners are Judges as defined in [section 5][287] of that Act.
     
-    (2) If a complaint is made about the conduct of the chief coroner and, under [section 17][286] of that Act, the Commissioner or the Deputy Commissioner must refer the complaint to the chief coroner, the Commissioner or the Deputy Commissioner may also refer the complaint to the Attorney-General.
+    (2) If a complaint is made about the conduct of the chief coroner and, under [section 17][288] of that Act, the Commissioner or the Deputy Commissioner must refer the complaint to the chief coroner, the Commissioner or the Deputy Commissioner may also refer the complaint to the Attorney-General.
     
-    Section 113(2): amended, on 23 March 2010, by [section 15(2)][287] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
+    Section 113(2): amended, on 23 March 2010, by [section 15(2)][289] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
 
 ##### 114 Removal
     
 *   (1) The Governor-General may, if he or she thinks fit, remove a coroner from office for inability or misbehaviour.
     
-    (2) Subsection (1) is subject to [sections 33(2)][288] and [34][289] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004, which prevent removal unless---
+    (2) Subsection (1) is subject to [sections 33(2)][290] and [34][291] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004, which prevent removal unless---
         
     *   (a) a Judicial Conduct Panel has reported to the Attorney-General that it is of the opinion that consideration of the removal of the coroner is justified; or
     
     *   (b) the coroner has been convicted of a criminal offence punishable by imprisonment for 2 or more years and the Attorney-General takes steps independently of that Act to initiate the removal of the coroner.
     
-    (3) Nothing in this section applies to a person who (under [section 8(d)][196] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
+    (3) Nothing in this section applies to a person who (under [section 8(d)][198] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge.
     
-    Compare: 1947 No 16 [s 7(1)][290]; 1988 No 111 [s 34][291]
+    Compare: 1947 No 16 [s 7(1)][292]; 1988 No 111 [s 34][293]
 
 #### Administration
 
@@ -2416,9 +2420,9 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (2) This section does not limit [section 17][20].
     
-    Compare: 1988 No 111 [s 37][292]
+    Compare: 1988 No 111 [s 37][294]
     
-    Section 115(1): amended, on 1 October 2008, by [section 130(1)][248] of the Policing Act 2008 (2008 No 72).
+    Section 115(1): amended, on 1 October 2008, by [section 130(1)][250] of the Policing Act 2008 (2008 No 72).
 
 ##### 116 Responsible department to provide administrative support
     
@@ -2430,7 +2434,7 @@ Appointments, administration, powers, offences and penalties, and technical prov
 
 ##### 117 Coroners' powers and immunities generally
     
-*   (1) For the purpose of performing or exercising a function, power, or duty under this Act, a coroner has the same powers, privileges, authorities, and immunities as a District Court Judge exercising jurisdiction under the [Summary Proceedings Act 1957][293].
+*   (1) For the purpose of performing or exercising a function, power, or duty under this Act, a coroner has the same powers, privileges, authorities, and immunities as a District Court Judge exercising jurisdiction under the [Criminal Procedure Act 2011][295].
     
     (2) Despite subsection (1), a coroner who is not a District Court Judge has, at all times, the same immunities as a Judge of the High Court.
     
@@ -2450,13 +2454,17 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (4) Subsection (3) does not limit subsection (1).
     
-    (5) The [Summary Proceedings Act 1957][293], so far as it is applicable and with the necessary modifications, applies to the powers, privileges, authorities, and immunities conferred on coroners by this section.
+    (5) The [Criminal Procedure Act 2011][295], so far as it is applicable and with the necessary modifications, applies to the powers, privileges, authorities, and immunities conferred on coroners by this section.
     
-    (6) Evidence given by a person (whether at an inquest or otherwise) on oath or affirmation administered by a coroner under this section must, for the purposes of [section 108][294] of the Crimes Act 1961 (which relates to perjury), be treated as having been given as evidence in a judicial proceeding on oath.
+    (6) Evidence given by a person (whether at an inquest or otherwise) on oath or affirmation administered by a coroner under this section must, for the purposes of [section 108][296] of the Crimes Act 1961 (which relates to perjury), be treated as having been given as evidence in a judicial proceeding on oath.
     
-    (7) Nothing in this section limits any power of a coroner under any other enactment or the application of the [Inferior Courts Procedure Act 1909][295] (which makes further provision for the validity of the judicial proceedings of inferior courts notwithstanding technical or formal errors) in respect of the exercise by a coroner of any judicial authority conferred on the coroner by this Act.
+    (7) Nothing in this section limits any power of a coroner under any other enactment or the application of the [Inferior Courts Procedure Act 1909][297] (which makes further provision for the validity of the judicial proceedings of inferior courts notwithstanding technical or formal errors) in respect of the exercise by a coroner of any judicial authority conferred on the coroner by this Act.
     
-    Compare: 1947 No 16 [s 119][296]; 1988 No 111 [s 35][297]
+    Compare: 1947 No 16 [s 119][298]; 1988 No 111 [s 35][299]
+    
+    Section 117(1): amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 117(5): amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 118 Coroner may call for investigations or examinations or commission reports
     
@@ -2468,9 +2476,9 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (2) Before acting under this section, a coroner must have regard to any relevant practice notes issued under [section 132][148] by the chief coroner.
     
-    (3) This section does not limit or affect a coroner's powers under any other enactment, for example, under [section 28][298] (coroner may call for report on fatal accident) of the Health and Safety in Employment Act 1992\.
+    (3) This section does not limit or affect a coroner's powers under any other enactment, for example, under [section 28][301] (coroner may call for report on fatal accident) of the Health and Safety in Employment Act 1992\.
     
-    Compare: 1988 No 111 [s 12][299]
+    Compare: 1988 No 111 [s 12][302]
 
 ##### 119 Coroner may refer death to other investigating authorities
     
@@ -2496,9 +2504,9 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     *   (b) if given by a body corporate, must be signed by an officer authorised to sign on behalf of the body corporate.
     
-    (4) This section does not limit or affect a coroner's powers under any other enactment, for example, under [section 28][298] (coroner may call for report on fatal accident) of the Health and Safety in Employment Act 1992\.
+    (4) This section does not limit or affect a coroner's powers under any other enactment, for example, under [section 28][301] (coroner may call for report on fatal accident) of the Health and Safety in Employment Act 1992\.
     
-    Compare: 1986 No 5 [s 98][300]; 1999 No 10 [s 7(3)][301]
+    Compare: 1986 No 5 [s 98][303]; 1999 No 10 [s 7(3)][304]
 
 ##### 121 Grounds for refusing to comply with written notice
     
@@ -2612,7 +2620,7 @@ Appointments, administration, powers, offences and penalties, and technical prov
         
     *   (a) on a prosecution of the person for an offence against [section 135][152] (false or misleading statements and documents) in relation to the document; or
     
-    *   (b) on the trial of the person for perjury (within the meaning of the [Crimes Act 1961][302]) in relation to evidence given on oath or affirmation by the person.
+    *   (b) on the trial of the person for perjury (within the meaning of the [Crimes Act 1961][305]) in relation to evidence given on oath or affirmation by the person.
     
     (4) However, the thing cannot be used for the purposes of the inquiry concerned if the person who gave or produced it, or from whom it was obtained, claims, within 5 working days after it was given, produced, or obtained, that any or all of the grounds in [section 121(2)][137] apply to it, and that person's claim---
         
@@ -2628,7 +2636,7 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (5) The thing must be returned to the person who gave or produced it, or from whom it was obtained, once it is no longer needed for the purposes of the inquiry concerned or for the purposes of a prosecution or trial referred to in subsection (3).
     
-    Compare: 1975 No 9 [s 19(6)][303]
+    Compare: 1975 No 9 [s 19(6)][306]
 
 ##### 128 Warrant for removal of body
     
@@ -2716,13 +2724,15 @@ Appointments, administration, powers, offences and penalties, and technical prov
 
 ##### 134 Failure to supply information or documents or other things as required by coroner's notice under section 120
     
-*   Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under [section 120][136] (coroner may by written notice require person to supply information or documents or other things) to the extent that the person is capable of complying with it.
+*   Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under [section 120][136] (coroner may by written notice require person to supply information or documents or other things) to the extent that the person is capable of complying with it.
     
-    Compare: 1999 No 10 [s 8][304]
+    Compare: 1999 No 10 [s 8][307]
+    
+    Section 134: amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 135 False or misleading statements and omissions in certain documents
     
-*   (1) Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, in any document to which subsection (2) applies, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
+*   (1) Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, in any document to which subsection (2) applies, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
     
     (2) This subsection applies to the following documents:
         
@@ -2734,47 +2744,57 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     *   (d) documents prepared under [section 120(1)(a)][136] (coroner may by written notice require person to supply information or documents or other things).
     
-    Compare: 1999 No 10 [s 9][305]
+    Compare: 1999 No 10 [s 9][308]
+    
+    Section 135(1): amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 136 Non-compliance with direction about removal of body
     
-*   Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $2,000, who---
+*   Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $2,000, who---
         
     *   (a) fails or refuses to comply with a direction about the removal of a body under [section 20][24]; or
     
     *   (b) hinders or prevents any person from complying with a direction about the removal of a body under [section 20][24].
     
-    Compare: 1988 No 111 [s 43(2)][306]
+    Compare: 1988 No 111 [s 43(2)][309]
+    
+    Section 136: amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 137 Failure or refusal to give report required
     
-*   Every pathologist or doctor commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails or refuses to give to a coroner a report required under---
+*   Every pathologist or doctor commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails or refuses to give to a coroner a report required under---
         
     *   (a) [section 31(6)][37] (coroner may direct post-mortem); or
     
     *   (b) [section 40][46] (coroner may require person's doctor to report).
     
-    Compare: 1988 No 111 [s 43(1)][306]
+    Compare: 1988 No 111 [s 43(1)][309]
+    
+    Section 137: amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 138 False or misleading statement for purposes of section 64(3)
     
-*   Every person commits an offence against this section, and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years, who makes a written statement as to the identity of a person for the purposes of [section 64(3)][73] (duties of coroner who decides not to open inquiry)---
+*   Every person commits an offence against this section, and is liable on conviction to imprisonment for a term not exceeding 7 years, who makes a written statement as to the identity of a person for the purposes of [section 64(3)][73] (duties of coroner who decides not to open inquiry)---
         
     *   (a) knowing the statement to be false; and
     
     *   (b) intending to mislead people who might rely upon it.
     
-    Compare: 1988 No 111 [s 43(4)][306]
+    Compare: 1988 No 111 [s 43(4)][309]
+    
+    Section 138: amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 139 Publication of information in contravention of section 71 or prohibition under section 74
     
-*   Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $5,000 in the case of a body corporate, or $1,000 in any other case, who publishes or permits to be published any information in contravention of---
+*   Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $5,000 in the case of a body corporate, or $1,000 in any other case, who publishes or permits to be published any information in contravention of---
         
     *   (a) [section 71][80] (which relates to restrictions on the making public of details of self-inflicted deaths); or
     
     *   (b) a prohibition under [section 74][83] (which empowers the coroner to prohibit the making public of evidence given at any part of inquiry proceedings).
     
-    Compare: 1988 No 111 [s 43(3)][306]
+    Compare: 1988 No 111 [s 43(3)][309]
+    
+    Section 139: amended, on 1 July 2013, by [section 413][300] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Technical provisions
 
@@ -2786,9 +2806,9 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     *   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 1988 No 111 [s 45][307]
+    Compare: 1988 No 111 [s 45][310]
     
-    Section 140(a): amended, on 7 July 2010, by [section 4][308] of the Coroners Amendment Act 2010 (2010 No 56).
+    Section 140(a): amended, on 7 July 2010, by [section 4][311] of the Coroners Amendment Act 2010 (2010 No 56).
 
 ##### 141 Transitional provisions: amendments to Coroners Act 1988 effective day after assent are in Schedule 1
     
@@ -2802,7 +2822,7 @@ Appointments, administration, powers, offences and penalties, and technical prov
     
     (3) Subsection (1) and [Schedule 2][166] apply as if the enactment under which the function is performed or the power is exercised and any other enactment that is not in force when the function is performed or the power is exercised were in force when the function is performed or the power is exercised.
     
-    (4) Nothing in this section limits the application of the [Interpretation Act 1999][309].
+    (4) Nothing in this section limits the application of the [Interpretation Act 1999][312].
 
 ##### 143 Coroners Act 1988 repealed
     
@@ -2856,27 +2876,17 @@ Functions or powers available day after assent
 
 [s 142][160]
 
-##### 1
-    
-*   The power to appoint coroners under [section 103][117].
+*   1 The power to appoint coroners under section 103\.
 
-##### 2
-    
-*   The power to appoint relief coroners under [section 104][118].
+*   2 The power to appoint relief coroners under section 104\.
     
     
 
-##### 3
-    
-*   The power to appoint a chief coroner under [section 105][119].
+*   3 The power to appoint a chief coroner under section 105\.
 
-##### 4
-    
-*   The power to appoint an acting chief coroner under [section 106][120].
+*   4 The power to appoint an acting chief coroner under section 106\.
 
-##### 5
-    
-*   The chief coroner's functions under [section 7][8].
+*   5 The chief coroner's functions under section 7\.
 
 ---
 
@@ -2885,33 +2895,25 @@ Arrangements effective on and after 1 July 2007
 
 [s 144][162]
 
-##### 1
-    
-*   In this schedule, _former Act_ means the [Coroners Act 1988][170], and _former coroner_,---
+*   1 In this schedule, former Act means the Coroners Act 1988, and former coroner,---
         
     *   (a) means a person who, immediately before the repeal of the former Act by [section 143][161], held office under the former Act as a coroner or deputy coroner; and
     
-    *   (b) in [clauses 7][310], [8][311], [14 to 16][254], and [18][312], includes a person who, at any time before the repeal of the former Act,---
+    *   (b) in [clauses 7][313], [8][314], [14 to 16][256], and [18][315], includes a person who, at any time before the repeal of the former Act,---
             
         *   (i) held office under the former Act as a coroner or deputy coroner; or
         
-        *   (ii) was (under [section 8(d)][196] of the District Courts Act 1947) a coroner by virtue of holding office as a District Court Judge.
+        *   (ii) was (under [section 8(d)][198] of the District Courts Act 1947) a coroner by virtue of holding office as a District Court Judge.
         
         
     
     
 
-##### 2
-    
-*   On the repeal of the former Act, every former coroner vacates office under that Act as a coroner or deputy coroner.
+*   2 On the repeal of the former Act, every former coroner vacates office under that Act as a coroner or deputy coroner.
 
-##### 3
-    
-*   No former coroner is entitled to compensation for loss of office as a coroner or deputy coroner under [clause 2][313].
+*   3 No former coroner is entitled to compensation for loss of office as a coroner or deputy coroner under clause 2\.
 
-##### 4
-    
-*   A former coroner may nevertheless continue in office under the former Act for the period reasonably necessary to enable him or her to complete, under that Act (which remains in force for these purposes as if it had not been repealed),---
+*   4 A former coroner may nevertheless continue in office under the former Act for the period reasonably necessary to enable him or her to complete, under that Act (which remains in force for these purposes as if it had not been repealed),---
         
     *   (a) every inquest he or she was holding, and had not completed, immediately before the repeal of that Act; and
     
@@ -2919,61 +2921,33 @@ Arrangements effective on and after 1 July 2007
     
     
 
-##### 5
-    
-*   The salaries, fees, allowances, and travelling allowances and expenses payable to former coroners who continue in office in accordance with [clause 4][314] (and to any coroners who under [clause 6][315] replace those former coroners) are those prescribed by regulations made under [section 45][307] of the former Act.
+*   5 The salaries, fees, allowances, and travelling allowances and expenses payable to former coroners who continue in office in accordance with clause 4 (and to any coroners who under clause 6 replace those former coroners) are those prescribed by regulations made under section 45 of the former Act.
 
-##### 6
-    
-*   A former coroner who continues in office under [clause 4][314] may resign or be removed under [section 33][284] or [34][291] of the former Act and, if that occurs, a coroner may be appointed under that Act to replace that former coroner for the period and the purposes for which that former coroner would otherwise have continued in office under clause 4\.
+*   6 A former coroner who continues in office under clause 4 may resign or be removed under section 33 or 34 of the former Act and, if that occurs, a coroner may be appointed under that Act to replace that former coroner for the period and the purposes for which that former coroner would otherwise have continued in office under clause 4\.
 
-##### 7
-    
-*   Every post-mortem examination that a former coroner or a Justice has authorised a doctor to perform under the former Act and that, on the repeal of that Act, has not been completed, must be performed and completed (with all associated reports required also being completed) under that Act (which remains in force for these purposes as if it had not been repealed).
+*   7 Every post-mortem examination that a former coroner or a Justice has authorised a doctor to perform under the former Act and that, on the repeal of that Act, has not been completed, must be performed and completed (with all associated reports required also being completed) under that Act (which remains in force for these purposes as if it had not been repealed).
 
-##### 8
-    
-*   An authorisation by a former coroner or a Justice for the disposal of a body under [section 13][220] of the former Act (whether before its repeal or as continued in force for the purposes specified in [clause 4][314]) must, on and after the repeal of that Act, be treated as if it were an authorisation for the release of the body under [section 42][49] of this Act.
+*   8 An authorisation by a former coroner or a Justice for the disposal of a body under section 13 of the former Act (whether before its repeal or as continued in force for the purposes specified in clause 4) must, on and after the repeal of that Act, be treated as if it were an authorisation for the release of the body under section 42 of this Act.
 
-##### 9
-    
-*   If the High Court has ordered under [section 39][246] of the former Act that a doctor be authorised to perform a post-mortem examination and, on the repeal of that Act, the post-mortem examination has not been authorised or completed, it must be authorised, performed, and completed under that Act (which remains in force for these purposes as if it had not been repealed).
+*   9 If the High Court has ordered under section 39 of the former Act that a doctor be authorised to perform a post-mortem examination and, on the repeal of that Act, the post-mortem examination has not been authorised or completed, it must be authorised, performed, and completed under that Act (which remains in force for these purposes as if it had not been repealed).
 
-##### 10
-    
-*   The salaries, fees, allowances, and travelling allowances and expenses payable to doctors, analysts, and pathologists who perform any function in connection with a post-mortem examination referred to in [clause 7][310] or [9][316] are those prescribed by regulations made under [section 45][307] of the former Act.
+*   10 The salaries, fees, allowances, and travelling allowances and expenses payable to doctors, analysts, and pathologists who perform any function in connection with a post-mortem examination referred to in clause 7 or 9 are those prescribed by regulations made under section 45 of the former Act.
 
-##### 11
-    
-*   An application to the High Court under [section 39][246] of the former Act and that, on the repeal of that Act, has not been determined, must be determined as if it were an application under [section 41][47] of this Act.
+*   11 An application to the High Court under section 39 of the former Act and that, on the repeal of that Act, has not been determined, must be determined as if it were an application under section 41 of this Act.
 
-##### 12
-    
-*   A Justice to whom a death is reported in accordance with [section 6(1)][317] of the former Act and who, on the repeal of that Act, has not completed his or her performance or exercise of the functions and powers conferred by section 6(2) of that Act, must complete his or her performance or exercise of those functions and powers (which remain in force as if that Act had not been repealed).
+*   12 A Justice to whom a death is reported in accordance with section 6(1) of the former Act and who, on the repeal of that Act, has not completed his or her performance or exercise of the functions and powers conferred by section 6(2) of that Act, must complete his or her performance or exercise of those functions and powers (which remain in force as if that Act had not been repealed).
 
-##### 13
-    
-*   A person who (under [section 8(d)][196] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge and, on the repeal of the former Act, has not completed in relation to a death reported to him or her under that Act his or her performance or exercise of the functions and powers conferred by that Act, must complete his or her performance or exercise of those functions and powers (which remain in force as if that Act had not been repealed).
+*   13 A person who (under section 8(d) of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge and, on the repeal of the former Act, has not completed in relation to a death reported to him or her under that Act his or her performance or exercise of the functions and powers conferred by that Act, must complete his or her performance or exercise of those functions and powers (which remain in force as if that Act had not been repealed).
 
-##### 14
-    
-*   If a former coroner or a Justice has, under [section 20][225] of the former Act, decided not to hold an inquest, a coroner as defined in [section 10][11] of this Act (_coroner A_) may, under [section 65][74] of this Act, decide to open an inquiry as if the former coroner's decision not to hold an inquest were a decision by coroner A not to open an inquiry.
+*   14 If a former coroner or a Justice has, under section 20 of the former Act, decided not to hold an inquest, a coroner as defined in section 10 of this Act (coroner A) may, under section 65 of this Act, decide to open an inquiry as if the former coroner's decision not to hold an inquest were a decision by coroner A not to open an inquiry.
 
-##### 15
-    
-*   The reference in [section 95][107] to a coroner failing or refusing to open an inquiry includes a reference to a former coroner or a Justice failing or refusing to hold an inquest under the former Act.
+*   15 The reference in section 95 to a coroner failing or refusing to open an inquiry includes a reference to a former coroner or a Justice failing or refusing to hold an inquest under the former Act.
 
-##### 16
-    
-*   The reference in [section 96][108] to a coroner deciding not to open an inquiry into a death includes a reference to a former coroner or a Justice deciding under the former Act not to hold an inquest into the death.
+*   16 The reference in section 96 to a coroner deciding not to open an inquiry into a death includes a reference to a former coroner or a Justice deciding under the former Act not to hold an inquest into the death.
 
-##### 17
-    
-*   The reference in [section 97][109] to 1 or more inquiries conducted into a death includes a reference to 1 or more inquests held into the death under the former Act.
+*   17 The reference in section 97 to 1 or more inquiries conducted into a death includes a reference to 1 or more inquests held into the death under the former Act.
 
-##### 18
-    
-*   The references in [sections 103(2)][117] and [104(2)][118] to people who have held a practising certificate as a barrister or solicitor for at least 5 years include a reference to former coroners who have held a certificate of that kind for a shorter period.
+*   18 The references in sections 103(2) and 104(2) to people who have held a practising certificate as a barrister or solicitor for at least 5 years include a reference to former coroners who have held a certificate of that kind for a shorter period.
 
 ---
 
@@ -3029,11 +3003,11 @@ Consequential amendments
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-[Section 175(3)][318]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
+[Section 175(3)][316]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
 
 ##### Armed Forces Discipline Amendment Act 1997 (1997 No 34)
 
-[Schedule][319]: repeal so much as relates to section 175 of the Armed Forces Discipline Act 1971\.
+[Schedule][317]: repeal so much as relates to section 175 of the Armed Forces Discipline Act 1971\.
 
 ##### Births, Deaths, and Marriages Registration Act 1995 (1995 No 16)
 
@@ -3041,25 +3015,25 @@ Definition of **coroner's order** in [section 2][173]: omit ""order by"" and sub
 
 Definition of **coroner's order** in [section 2][173]: omit ""disposal"" and substitute ""release"".
 
-[Section 37(3)][320]: repeal and substitute:
+[Section 37(3)][318]: repeal and substitute:
 
 > *   "(3) If a death must under section 14(2) of the Coroners Act 2006 be reported to the New Zealand Police because it is one to which section 13 (except subsection (1)(b)) of that Act applies, or has been reported to a coroner under section 15(2)(a) or section 16(2)(b) of that Act, a doctor must not give a doctor's certificate for the death under subsection (1) unless a coroner has decided not to open an inquiry into the death."
 > 
 > 
 
-[Section 38(1)][321]: omit ""Notwithstanding that a death may have been reported to the police under section 4 of the Coroners Act 1988,"" and substitute ""Even though a death may have been reported to the New Zealand Police under section 14 of the Coroners Act 2006,"".
+[Section 38(1)][319]: omit ""Notwithstanding that a death may have been reported to the police under section 4 of the Coroners Act 1988,"" and substitute ""Even though a death may have been reported to the New Zealand Police under section 14 of the Coroners Act 2006,"".
 
-[Section 38(1)(f)][321]: omit ""Coroners Act 1988 requires an inquest to be held"" and substitute ""Coroners Act 2006 requires an inquiry to be conducted"".
+[Section 38(1)(f)][319]: omit ""Coroners Act 1988 requires an inquest to be held"" and substitute ""Coroners Act 2006 requires an inquiry to be conducted"".
 
-[Section 38(2)][321]: omit ""under section 4 of the Coroners Act 1988"" and substitute ""to a coroner under section 15(2)(a) or section 16(2)(b) of the Coroners Act 2006"".
+[Section 38(2)][319]: omit ""under section 4 of the Coroners Act 1988"" and substitute ""to a coroner under section 15(2)(a) or section 16(2)(b) of the Coroners Act 2006"".
 
-[Section 40(2)(b)(ii)][322]: omit ""authorised"" and substitute ""directed"".
+[Section 40(2)(b)(ii)][320]: omit ""authorised"" and substitute ""directed"".
 
-[Section 48(2)][323]: omit ""inquest"" and substitute ""inquiry"".
+[Section 48(2)][321]: omit ""inquest"" and substitute ""inquiry"".
 
 ##### Burial and Cremation Act 1964 (1964 No 75)
 
-[Section 46A(c)][324]: repeal and substitute:
+[Section 46A(c)][322]: repeal and substitute:
 
 > *   "(c) a coroner's authorisation for the release of the child."
 > 
@@ -3067,29 +3041,29 @@ Definition of **coroner's order** in [section 2][173]: omit ""disposal"" and sub
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-[Schedule 2][325]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule 2][323]: repeal so much as relates to the Coroners Act 1988\.
 
 ##### Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121)
 
-[Section 48][326]: repeal.
+[Section 48][324]: repeal.
 
 ##### Corrections Act 2004 (2004 No 50)
 
-[Schedule 2][327]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule 2][325]: repeal so much as relates to the Coroners Act 1988\.
 
-[Part 1][328] of Schedule 4: repeal so much as relates to the Coroners Act 1988\.
+[Part 1][326] of Schedule 4: repeal so much as relates to the Coroners Act 1988\.
 
 ##### Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115)
 
-[Schedule][329]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule][327]: repeal so much as relates to the Coroners Act 1988\.
 
 ##### Department of Justice (Restructuring) Act 1995 (1995 No 39)
 
-[Schedule 1][330]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule 1][328]: repeal so much as relates to the Coroners Act 1988\.
 
 ##### District Courts Act 1947 (1947 No 16)
 
-Insert after [section 7(1)][290]:
+Insert after [section 7(1)][292]:
 
 > *   "(1A) To avoid doubt, a Judge may be removed under subsection (1) for inability or misbehaviour related to the exercise, contemplated by section 8(d), of the judicial authority conferred on a coroner by the Coroners Act 2006\."
 > 
@@ -3097,15 +3071,15 @@ Insert after [section 7(1)][290]:
 
 ##### Evidence Act 1908 (1908 No 56)
 
-[Section 23B(1)(c)][331]: omit ""inquest"" and substitute ""inquiry"".
+[Section 23B(1)(c)][329]: omit ""inquest"" and substitute ""inquiry"".
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-[Section 45(2)][332]: omit ""inquest or"".
+[Section 45(2)][330]: omit ""inquest or"".
 
 ##### Health Act 1956 (1956 No 65)
 
-[Section 84(1)(a)][333]: repeal and substitute:
+[Section 84(1)(a)][331]: repeal and substitute:
 
 > *   "(a) provide, equip, and maintain places for the reception of dead bodies (_mortuaries_) pending the carrying out of any post-mortem examination or until removal for interment, and provide facilities for carrying out in the mortuaries post-mortems authorised or directed under the Coroners Act 2006 or under any other enactment and for making good for burial dead bodies on which post-mortems of that kind have been carried out:".
 > 
@@ -3113,15 +3087,15 @@ Insert after [section 7(1)][290]:
 
 ##### Health and Disability Services (Safety) Act 2001 (2001 No 93)
 
-[Section 31(5)(c)][334]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
+[Section 31(5)(c)][332]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
 
 ##### Health Practitioners Competence Assurance Act 2003 (2003 No 48)
 
-[Section 67(b)(iv)][335]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
+[Section 67(b)(iv)][333]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
 
-[Section 100(2)(a)(iv)][336]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
+[Section 100(2)(a)(iv)][334]: omit ""Coroners Act 1988"" and substitute ""Coroners Act 2006"".
 
-[Schedule 4][337]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule 4][335]: repeal so much as relates to the Coroners Act 1988\.
 
 ##### Human Tissue Act 1964 (1964 No 19)
 
@@ -3129,19 +3103,19 @@ _\[Item(s) repealed\]_
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
-[Schedule 3][338]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule 3][336]: repeal so much as relates to the Coroners Act 1988\.
 
 ##### Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140)
 
-[Section 79][339]: repeal.
+[Section 79][337]: repeal.
 
 ##### Relationships (Statutory References) Act 2005 (2005 No 3)
 
-[Schedule 1][340]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule 1][338]: repeal so much as relates to the Coroners Act 1988\.
 
 ##### Remuneration Authority Act 1977 (1977 No 110)
 
-[Section 12B(1)(e)][341]: repeal and substitute:
+[Section 12B(1)(e)][339]: repeal and substitute:
 
 > *   "(e) the Associate Judges of the High Court; and
 > 
@@ -3151,15 +3125,15 @@ _\[Item(s) repealed\]_
 
 ##### Transport Accident Investigation Commission Act 1990 (1990 No 99)
 
-[Section 14N(a)][342]: omit ""inquest"" and substitute ""inquiry"".
+[Section 14N(a)][340]: omit ""inquest"" and substitute ""inquiry"".
 
 ##### Visiting Forces Act 2004 (2004 No 59)
 
-Heading to [section 19][197]: omit ""**Inquests**"" and substitute ""**Inquiries**"".
+Heading to [section 19][199]: omit ""**Inquests**"" and substitute ""**Inquiries**"".
 
-[Section 19(1) and (6)][197]: omit ""section 5 of the Coroners Act 1988"" in both places where it occurs and substitute in each case ""section 15(2)(a) or section 16(2)(b) of the Coroners Act 2006"".
+[Section 19(1) and (6)][199]: omit ""section 5 of the Coroners Act 1988"" in both places where it occurs and substitute in each case ""section 15(2)(a) or section 16(2)(b) of the Coroners Act 2006"".
 
-[Section 19(1)(a) and (b)][197]: repeal and substitute:
+[Section 19(1)(a) and (b)][199]: repeal and substitute:
 
 > *   "(a) if the coroner has not opened an inquiry into the death, he or she must not open an inquiry into the death:
 > 
@@ -3167,106 +3141,67 @@ Heading to [section 19][197]: omit ""**Inquests**"" and substitute ""**Inquiries
 > 
 > 
 
-[Section 19(4)(b)][197]: repeal and substitute:
+[Section 19(4)(b)][199]: repeal and substitute:
 
 > *   "(b) the provisions of the Coroners Act 2006, except section 25 (which relates to viewing, touching, or remaining with or near the body)."
 > 
 > 
 
-[Section 19(6)(a)][197]: repeal and substitute:
+[Section 19(6)(a)][199]: repeal and substitute:
 
 > *   "(a) if the coroner has not opened an inquiry into the death, he or she must not open an inquiry into the death until the criminal or disciplinary proceedings against the person have been finally concluded:".
 > 
 > 
 
-[Section 19(6)(b)][197]: omit ""inquest"" in both places where it occurs and substitute in each case ""inquiry"".
+[Section 19(6)(b)][199]: omit ""inquest"" in both places where it occurs and substitute in each case ""inquiry"".
 
-[Schedule 2][343]: repeal so much as relates to the Coroners Act 1988\.
+[Schedule 2][341]: repeal so much as relates to the Coroners Act 1988\.
 
-Schedule 5 **Human Tissue Act 1964**: item(s) repealed, on 1 November 2008, by [section 92][344] of the Human Tissue Act 2008 (2008 No 28).
+Schedule 5 **Human Tissue Act 1964**: item(s) repealed, on 1 November 2008, by [section 92][342] of the Human Tissue Act 2008 (2008 No 28).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Coroners Act 2006\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][345] ![](/images/external_link.gif).
+*   This is a reprint of the Coroners Act 2006 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][346] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][343] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][344] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][347] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][345] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][346] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][348] and [17E][349] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Inquiries Act 2013 (2013 No 60): [section 39][197]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][300]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Coroners Amendment Act 2010][347] (2010 No 56)
     
+    Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5): [section 15(2)][289]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Policing Act 2008 (2008 No 72): [section 130(1)][250]
     
-*   [Coroners Amendment Act 2010][350] (2010 No 56)
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][194]
     
-    Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5): [section 15(2)][287]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][195]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][248]
+    Human Tissue Act 2008 (2008 No 28): [section 92][342]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][193]
+    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][196]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][194]
-    
-    Human Tissue Act 2008 (2008 No 28): [section 92][344]
-    
-    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][195]
-    
-    [Coroners Act 2006 Amendment Act 2007][351] (2007 No 6)
+    [Coroners Act 2006 Amendment Act 2007][348] (2007 No 6)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM377060
 [2]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM377061
 [3]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM377062
@@ -3456,165 +3391,162 @@ Schedule 5 **Human Tissue Act 1964**: item(s) repealed, on 1 November 2008, by [
 [187]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM126236
 [188]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM219779
 [189]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM139130
-[190]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM203321
-[191]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM15674
-[192]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134606
-[193]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1048943
-[194]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1313622
-[195]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM967974
-[196]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242975
-[197]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM302835
-[198]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134636
-[199]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM355084
-[200]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM54687
-[201]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM380323
-[202]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154326
-[203]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154320
-[204]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM150012
-[205]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM150069
-[206]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM150441
-[207]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM151023
-[208]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM151026
-[209]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM151029
-[210]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM152939
-[211]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM152948
-[212]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154077
-[213]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154313
-[214]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM294857
-[215]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM214686
-[216]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM334667
-[217]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM401069
-[218]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134641
-[219]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134654
-[220]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134672
-[221]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134698
-[222]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134668
-[223]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135000
-[224]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135009
-[225]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134688
-[226]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135006
-[227]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135019
-[228]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135054
-[229]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM296638
-[230]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM64784
-[231]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM377545
-[232]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM65390
-[233]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM297095
-[234]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134660
-[235]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM307245
-[236]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134662
-[237]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM147653
-[238]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM145501
-[239]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM91784
-[240]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM91785
-[241]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134664
-[242]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134666
-[243]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM186208
-[244]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM185966
-[245]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM84624
-[246]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135044
-[247]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134674
-[248]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1102383
-[249]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134678
-[250]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134680
-[251]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134682
-[252]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134684
-[253]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134686
-[254]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378322
-[255]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134694
-[256]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364178
-[257]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364179
-[258]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM126513
-[259]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM126502
-[260]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM126503
-[261]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM155364
-[262]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM280686
-[263]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM78862
-[264]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135017
-[265]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135002
-[266]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135050
-[267]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134696
-[268]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM147630
-[269]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134690
-[270]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135004
-[271]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378324
-[272]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135046
-[273]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378325
-[274]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135042
-[275]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378326
-[276]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135048
-[277]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM405129
-[278]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM405130
-[279]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242958
-[280]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242948
-[281]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242963
-[282]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM15636
-[283]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM146034
-[284]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135026
-[285]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293561
-[286]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293598
-[287]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1216635
-[288]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293716
-[289]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293717
-[290]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242971
-[291]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135031
-[292]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135040
-[293]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM310742
-[294]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM328793
-[295]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM176584
-[296]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM244460
-[297]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135033
-[298]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM279299
-[299]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134670
-[300]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM89917
-[301]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM20108
-[302]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM327381
-[303]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM431148
-[304]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM20109
-[305]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM20110
-[306]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135052
-[307]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135058
-[308]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM3041005
-[309]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM31458
-[310]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378315
-[311]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378316
-[312]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378327
-[313]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378310
-[314]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378312
-[315]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378314
-[316]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378317
-[317]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134656
-[318]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM403836
-[319]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM409941
-[320]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364162
-[321]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364165
-[322]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364172
-[323]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364182
-[324]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM355846
-[325]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM155349
-[326]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM344642
-[327]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM297181
-[328]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM298003
-[329]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM224535
-[330]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM367240
-[331]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM143003
-[332]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM59876
-[333]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM307263
-[334]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM120564
-[335]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM203871
-[336]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM204310
-[337]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM205262
-[338]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM264277
-[339]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM49619
-[340]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM334005
-[341]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM16119
-[342]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM221886
-[343]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM302863
-[344]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1154311
-[345]: http://www.pco.parliament.govt.nz/reprints/
-[346]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM195439
-[347]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[348]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM195468
-[349]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM195470
-[350]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM3041000
-[351]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM405122
+[190]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1566136
+[191]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM203321
+[192]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM15674
+[193]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134606
+[194]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1048943
+[195]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1313622
+[196]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM967974
+[197]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1566190
+[198]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242975
+[199]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM302835
+[200]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134636
+[201]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM355084
+[202]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM54687
+[203]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM380323
+[204]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154326
+[205]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154320
+[206]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM150012
+[207]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM150069
+[208]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM150441
+[209]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM151023
+[210]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM151026
+[211]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM151029
+[212]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM152939
+[213]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM152948
+[214]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154077
+[215]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM154313
+[216]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM294857
+[217]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM214686
+[218]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM334667
+[219]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM401069
+[220]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134641
+[221]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134654
+[222]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134672
+[223]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134698
+[224]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134668
+[225]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135000
+[226]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135009
+[227]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134688
+[228]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135006
+[229]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135019
+[230]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135054
+[231]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM296638
+[232]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM64784
+[233]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM377545
+[234]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM65390
+[235]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM297095
+[236]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134660
+[237]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM307245
+[238]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134662
+[239]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM147653
+[240]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM145501
+[241]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM91784
+[242]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM91785
+[243]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134664
+[244]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134666
+[245]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM186208
+[246]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM185966
+[247]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM84624
+[248]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135044
+[249]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134674
+[250]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1102383
+[251]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134678
+[252]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134680
+[253]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134682
+[254]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134684
+[255]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134686
+[256]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378322
+[257]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134694
+[258]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364178
+[259]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364179
+[260]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM126513
+[261]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM126502
+[262]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM126503
+[263]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM155364
+[264]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM280686
+[265]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM78862
+[266]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135017
+[267]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135002
+[268]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135050
+[269]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134696
+[270]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM147630
+[271]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134690
+[272]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135004
+[273]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378324
+[274]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135046
+[275]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378325
+[276]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135042
+[277]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378326
+[278]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135048
+[279]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM405129
+[280]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM405130
+[281]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242958
+[282]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242948
+[283]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242963
+[284]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM15636
+[285]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM146034
+[286]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135026
+[287]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293561
+[288]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293598
+[289]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1216635
+[290]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293716
+[291]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM293717
+[292]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM242971
+[293]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135031
+[294]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135040
+[295]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM3359902
+[296]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM328793
+[297]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM176584
+[298]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM244460
+[299]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135033
+[300]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM3360714
+[301]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM279299
+[302]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM134670
+[303]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM89917
+[304]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM20108
+[305]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM327381
+[306]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM431148
+[307]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM20109
+[308]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM20110
+[309]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135052
+[310]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM135058
+[311]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM3041005
+[312]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM31458
+[313]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378315
+[314]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378316
+[315]: http://www.legislation.govt.nz/act/public/2006/0038/latest/whole.html#DLM378327
+[316]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM403836
+[317]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM409941
+[318]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364162
+[319]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364165
+[320]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364172
+[321]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM364182
+[322]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM355846
+[323]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM155349
+[324]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM344642
+[325]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM297181
+[326]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM298003
+[327]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM224535
+[328]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM367240
+[329]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM143003
+[330]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM59876
+[331]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM307263
+[332]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM120564
+[333]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM203871
+[334]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM204310
+[335]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM205262
+[336]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM264277
+[337]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM49619
+[338]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM334005
+[339]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM16119
+[340]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM221886
+[341]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM302863
+[342]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM1154311
+[343]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM2998516
+[344]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM2998515
+[345]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM2998532
+[346]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[347]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM3041000
+[348]: http://www.legislation.govt.nz/act/public/2006/0038/latest/link.aspx?id=DLM405122
