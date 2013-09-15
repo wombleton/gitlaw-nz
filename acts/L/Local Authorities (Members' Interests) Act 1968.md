@@ -1,5 +1,5 @@
 Reprint  
-as at 1 June 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -270,9 +270,11 @@ An Act to consolidate and amend the law relating to the making of contracts betw
 
 ##### 5 Penalty for acting unlawfully
     
-*   Every person commits an offence who does any act as a member of any local authority or of a committee thereof while incapacitated under [section 3][4], and is liable on summary conviction to a fine not exceeding $200\.
+*   Every person commits an offence who does any act as a member of any local authority or of a committee thereof while incapacitated under [section 3][4], and is liable on conviction to a fine not exceeding $200\.
     
     Compare: 1954 No 49 s 5
+    
+    Section 5: amended, on 1 July 2013, by [section 413][31] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Member of local authority or committee not to discuss or vote on question in which he has pecuniary interest
     
@@ -304,9 +306,9 @@ An Act to consolidate and amend the law relating to the making of contracts betw
     
     *   (d) any formal resolution to seal or otherwise complete any contract or document in accordance with a resolution already adopted; or
     
-    *   (e) the preparation, recommendation, approval, or review of a district plan under the [Resource Management Act 1991][31] or any section of such a scheme, unless the matter relates to any variation or change of or departure from a district scheme or section thereof or to the conditional use of land as defined in that Act; or
+    *   (e) the preparation, recommendation, approval, or review of a district plan under the [Resource Management Act 1991][32] or any section of such a scheme, unless the matter relates to any variation or change of or departure from a district scheme or section thereof or to the conditional use of land as defined in that Act; or
     
-    *   (ea) the preparation, recommendation, approval, or review of general schemes under the [Soil Conservation and Rivers Control Act 1941][32] for the preventing or minimising of damage by floods and by erosion; or
+    *   (ea) the preparation, recommendation, approval, or review of general schemes under the [Soil Conservation and Rivers Control Act 1941][33] for the preventing or minimising of damage by floods and by erosion; or
     
     *   (eb) the preparation, recommendation, approval, or review of reports as to the effect or likely effect on the environment of any public work or proposed public work within the meaning of the [Public Works Act 1981][20]; or
     
@@ -372,7 +374,7 @@ An Act to consolidate and amend the law relating to the making of contracts betw
     
     Section 6(3)(a): substituted, on 13 December 1979, by section 3 of the Local Authorities (Members' Interests) Amendment Act 1979 (1979 No 97).
     
-    Section 6(3)(e): amended, on 1 October 1991, pursuant to [section 373(1)][33] of the Resource Management Act 1991 (1991 No 69).
+    Section 6(3)(e): amended, on 1 October 1991, pursuant to [section 373(1)][34] of the Resource Management Act 1991 (1991 No 69).
     
     Section 6(3)(ea): inserted, on 8 November 1974, by section 3(2) of the Local Authorities (Members' Interests) Amendment Act 1974 (1974 No 97).
     
@@ -384,7 +386,7 @@ An Act to consolidate and amend the law relating to the making of contracts betw
     
     Section 6(4): amended, on 1 July 2001, by [section 52][25] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 6(6)(gg): repealed (without coming into force), on 23 July 1990, by [section 50(5)][34] of the Education Amendment Act 1990 (1990 No 60).
+    Section 6(6)(gg): repealed (without coming into force), on 23 July 1990, by [section 50(5)][35] of the Education Amendment Act 1990 (1990 No 60).
     
     Section 6(6)(h): amended, on 1 February 1982, by [section 248(1)][26] of the Public Works Act 1981 (1981 No 35).
     
@@ -396,7 +398,7 @@ An Act to consolidate and amend the law relating to the making of contracts betw
 
 ##### 7 Penalty for discussing or voting when pecuniarily interested
     
-*   (1) Where any person does any act in contravention of or fails to comply with any provision of subsection (1) of [section 6][7], he commits an offence and is liable on summary conviction to a fine not exceeding $100\.
+*   (1) Where any person does any act in contravention of or fails to comply with any provision of subsection (1) of [section 6][7], he commits an offence and is liable on conviction to a fine not exceeding $100\.
     
     (2) It shall be a defence in proceedings for an offence against subsection (1) if the defendant proves that when he took part in the discussion of, or, as the case may be, voted on, the matter before the local authority or committee he did not know and had no reasonable opportunity of knowing that he had a pecuniary interest in that matter other than an interest in common with the public.
     
@@ -413,6 +415,8 @@ An Act to consolidate and amend the law relating to the making of contracts betw
     *   (b) the vacancy shall be deemed an extraordinary vacancy, and shall be dealt with in the manner (if any) provided by law for dealing with extraordinary or casual vacancies in the membership of that local authority or committee. If no provision exists for dealing with extraordinary or casual vacancies, the vacancy may be dealt with in such manner as the Governor-General, by Order in Council, prescribes.
     
     Compare: 1954 No 49 s 5(2); 1957 No 60 s 2(1)
+    
+    Section 7(1): amended, on 1 July 2013, by [section 413][31] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Auditor-General to institute proceedings
     
@@ -426,7 +430,7 @@ An Act to consolidate and amend the law relating to the making of contracts betw
 
 ##### 9 Repeals, revocations, and amendment
     
-*   (1) The enactments specified in [Schedule 2][35] are hereby repealed.
+*   (1) The enactments specified in [Schedule 2][36] are hereby repealed.
     
     (2) The orders specified in [Schedule 3][13] are hereby revoked.
     
@@ -434,7 +438,7 @@ An Act to consolidate and amend the law relating to the making of contracts betw
     
     (4) Any provisions in any enactment restraining the members of any local authority or of a committee thereof from contracting with the local authority, either wholly or beyond certain limits, or disqualifying as members of the local authority or of any such committee any persons so contracting, and all provisions incidental to any such first-mentioned provisions, shall, except so far as that enactment expressly provides to the contrary, be read subject to the provisions of this Act.
     
-    Section 9(3): repealed, on 1 December 1978, by [section 4(8)(h)][36] of the New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48).
+    Section 9(3): repealed, on 1 December 1978, by [section 4(8)(h)][37] of the New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48).
 
 ---
 
@@ -503,30 +507,30 @@ Territorial authorities Local Government Act 2002 (2002 No 84)
 Town Councils Local Government Act 1974 (1974 No 66)
 
 *   Schedule 1 Part 1: amended, on 1 July 2003, by [section 262][30] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Part 1: amended, on 25 October 2001, by [section 17][37] of the Education Standards Act 2001 (2001 No 88).
-*   Schedule 1 Part 1: amended, on 7 October 1994, by [section 96(1)][38] of the Energy Companies Act 1992 (1992 No 56).
-*   Schedule 1 Part 1: amended, on 1 July 1994, by [section 34(3)][39] of the Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19).
-*   Schedule 1 Part 1: amended, on 1 July 1993, by [section 32][40] of the Health Sector (Transfers) Act 1993 (1993 No 23).
-*   Schedule 1 Part 1: amended, on 1 April 1990, pursuant to [section 230(2)][41] of the Sale of Liquor Act 1989 (1989 No 63).
+*   Schedule 1 Part 1: amended, on 25 October 2001, by [section 17][38] of the Education Standards Act 2001 (2001 No 88).
+*   Schedule 1 Part 1: amended, on 7 October 1994, by [section 96(1)][39] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule 1 Part 1: amended, on 1 July 1994, by [section 34(3)][40] of the Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19).
+*   Schedule 1 Part 1: amended, on 1 July 1993, by [section 32][41] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+*   Schedule 1 Part 1: amended, on 1 April 1990, pursuant to [section 230(2)][42] of the Sale of Liquor Act 1989 (1989 No 63).
 *   Schedule 1 Part 1: amended, on 18 May 1989, by section 24(2) of the School Trustees Act 1989 (1989 No 3).
 *   Schedule 1 Part 1: amended, on 1 July 1988, by section 28 of the Access Training Scheme Act 1988 (1988 No 108).
-*   Schedule 1 Part 1: amended, on 1 April 1988, by [section 43(5)(g)][42] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+*   Schedule 1 Part 1: amended, on 1 April 1988, by [section 43(5)(g)][43] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 *   Schedule 1 Part 1: amended, on 1 March 1983, by section 89(1) of the Dog Control and Hydatids Act 1982 (1982 No 42).
 *   Schedule 1 Part 1: amended, on 16 November 1982, by section 49(2) of the Vocational Training Council Act 1982 (1982 No 54).
 *   Schedule 1 Part 1: amended, on 5 November 1982, by section 4(2)(a) of the Local Authorities (Members' Interests) Amendment Act 1982 (1982 No 37).
 *   Schedule 1 Part 1: amended, on 5 November 1982, by section 4(2)(b) of the Local Authorities (Members' Interests) Amendment Act 1982 (1982 No 37).
 *   Schedule 1 Part 1: amended, on 5 November 1982, by section 4(2)(c) of the Local Authorities (Members' Interests) Amendment Act 1982 (1982 No 37).
-*   Schedule 1 Part 1: amended, on 1 April 1981, by [section 80(1)][43] of the National Parks Act 1980 (1980 No 66).
+*   Schedule 1 Part 1: amended, on 1 April 1981, by [section 80(1)][44] of the National Parks Act 1980 (1980 No 66).
 *   Schedule 1 Part 1: amended, on 1 April 1979, pursuant to section 119(1) of the Noxious Plants Act 1978 (1978 No 15).
 *   Schedule 1 Part 1: amended, on 1 June 1978, pursuant to section 178(2) of the Town and Country Planning Act 1977 (1977 No 121).
-*   Schedule 1 Part 1: amended, on 1 April 1978, pursuant to [section 8(1)][44] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
-*   Schedule 1 Part 1: amended, on 1 April 1978, by [section 124(2)][45] of the Reserves Act 1977 (1977 No 66).
+*   Schedule 1 Part 1: amended, on 1 April 1978, pursuant to [section 8(1)][45] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
+*   Schedule 1 Part 1: amended, on 1 April 1978, by [section 124(2)][46] of the Reserves Act 1977 (1977 No 66).
 *   Schedule 1 Part 1: amended, on 1 April 1975, by section 44(1) of the Queen Elizabeth the Second Arts Council of New Zealand Act 1974 (1974 No 67).
-*   Schedule 1 Part 1: amended, on 1 December 1974, by [section 725][46] of the Local Government Act 1974 (1974 No 66).
-*   Schedule 1 Part 1: amended, on 8 November 1974, by [section 10(4)][47] of the Education Amendment Act (No 2) 1974 (1974 No 136).
+*   Schedule 1 Part 1: amended, on 1 December 1974, by [section 725][47] of the Local Government Act 1974 (1974 No 66).
+*   Schedule 1 Part 1: amended, on 8 November 1974, by [section 10(4)][48] of the Education Amendment Act (No 2) 1974 (1974 No 136).
 *   Schedule 1 Part 1: amended, on 2 October 1973, by section 15(1) of the Water and Soil Conservation Amendment Act 1973 (1973 No 24).
 *   Schedule 1 Part 1: amended, on 1 April 1973, by section 100(1) of the Fire Services Act 1972 (1972 No 119).
-*   Schedule 1 Part 1: amended on 10 May 1971, by [clause 2(2)][48] of the Local Authorities (Members' Interests) Order 1971 (SR 1971/111).
+*   Schedule 1 Part 1: amended on 10 May 1971, by [clause 2(2)][49] of the Local Authorities (Members' Interests) Order 1971 (SR 1971/111).
 *   Schedule 1 Part 1: amended, on 17 July 1970, by section 14(5) of the Hospitals Amendment Act 1970 (1970 No 12).
 *   Schedule 1 Part 1: amended, on 23 October 1969, by section 2(1) of the Local Authorities (Members' Interests) Amendment Act 1969 (1969 No 90).
 *   Schedule 1 Part 1: amended, on 23 October 1969, by section 2(2)(a) of the Local Authorities (Members' Interests) Amendment Act 1969 (1969 No 90).
@@ -623,7 +627,7 @@ The Otago Museum Trust Board Otago Museum Trust Board Act 1996 (1996 No 1 (L))
 
 The Overseas Investment Commission Overseas Investment Act 1973 (1973 No 14)
 
-The Plumbers, Gasfitters, and Drainlayers Board [Plumbers, Gasfitters, and Drainlayers Act 2006][49] (2006 No 74)
+The Plumbers, Gasfitters, and Drainlayers Board [Plumbers, Gasfitters, and Drainlayers Act 2006][50] (2006 No 74)
 
 The Rangitaiki Drainage Board Rangitaiki Land Drainage Act 1956 (1956 No 34)
 
@@ -641,62 +645,62 @@ The Wellington Regional Water Board Wellington Regional Water Board Act 1972 (19
 
 The Winston Churchill Memorial Trust Board Winston Churchill Memorial Trust Board Act 1965 (1965 No 39)
 
-*   Schedule 1 Part 2: amended, on 1 June 2010, by [section 12][50] of the Carter Observatory Act Repeal Act 2010 (2010 No 34).
-*   Schedule 1 Part 2: amended, on 1 April 2010, by [section 185][51] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
-*   Schedule 1 Part 2: amended, on 17 May 2005, by [section 20][52] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
-*   Schedule 1 Part 2: amended, on 25 January 2005, by [section 180(2)][53] of the Crown Entities Act 2004 (2004 No 115).
-*   Schedule 1 Part 2: amended, on 6 May 2003, by [section 47][54] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
-*   Schedule 1 Part 2: amended, on 6 May 2003, by [section 36][55] of the Masterton Trust Lands Act 2003 (2003 No 1 (L)).
-*   Schedule 1 Part 2: amended, on 30 April 2003, by [section 28(1)][56] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
-*   Schedule 1 Part 2: amended, on 1 October 2002, by [section 5(3)][57] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
-*   Schedule 1 Part 2: amended, on 1 April 2000, by [section 28(2)][58] of the Museum of Transport and Technology Act 2000 (2000 No 1 (P)).
-*   Schedule 1 Part 2: amended, on 1 April 2000, by [section 7][59] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
-*   Schedule 1 Part 2: amended, on 8 October 1998, by [section 20(2)][60] of the Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)).
-*   Schedule 1 Part 2: amended, on 17 July 1997, by [clause 2][61] of the Local Authorities (Members' Interests) Order 1997 (SR 1997/112).
-*   Schedule 1 Part 2: amended, on 2 September 1996, by [section 32(2)][62] of the Auckland War Memorial Museum Act 1996 (1996 No 4 (L)).
+*   Schedule 1 Part 2: amended, on 1 June 2010, by [section 12][51] of the Carter Observatory Act Repeal Act 2010 (2010 No 34).
+*   Schedule 1 Part 2: amended, on 1 April 2010, by [section 185][52] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+*   Schedule 1 Part 2: amended, on 17 May 2005, by [section 20][53] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+*   Schedule 1 Part 2: amended, on 25 January 2005, by [section 180(2)][54] of the Crown Entities Act 2004 (2004 No 115).
+*   Schedule 1 Part 2: amended, on 6 May 2003, by [section 47][55] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
+*   Schedule 1 Part 2: amended, on 6 May 2003, by [section 36][56] of the Masterton Trust Lands Act 2003 (2003 No 1 (L)).
+*   Schedule 1 Part 2: amended, on 30 April 2003, by [section 28(1)][57] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
+*   Schedule 1 Part 2: amended, on 1 October 2002, by [section 5(3)][58] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
+*   Schedule 1 Part 2: amended, on 1 April 2000, by [section 28(2)][59] of the Museum of Transport and Technology Act 2000 (2000 No 1 (P)).
+*   Schedule 1 Part 2: amended, on 1 April 2000, by [section 7][60] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
+*   Schedule 1 Part 2: amended, on 8 October 1998, by [section 20(2)][61] of the Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)).
+*   Schedule 1 Part 2: amended, on 17 July 1997, by [clause 2][62] of the Local Authorities (Members' Interests) Order 1997 (SR 1997/112).
+*   Schedule 1 Part 2: amended, on 2 September 1996, by [section 32(2)][63] of the Auckland War Memorial Museum Act 1996 (1996 No 4 (L)).
 *   Schedule 1 Part 2: amended, on 1 July 1996, by section 11(2) of the Marlborough Forestry Corporation Act Repeal Act 1996 (1996 No 2 (L)).
-*   Schedule 1 Part 2: amended, on 18 June 1996, pursuant to [section 29(a)][63] of the Otago Museum Trust Board Act 1996 (1996 No 1 (L)).
-*   Schedule 1 Part 2: amended, on 26 October 1993, by [section 79(2)][64] of the Energy Companies Act 1992 (1992 No 56).
-*   Schedule 1 Part 2: amended, on 1 October 1993, by [section 95(2)][65] of the Energy Companies Act 1992 (1992 No 56).
-*   Schedule 1 Part 2: amended, on 4 December 1992, by [section 11][66] of the Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102).
-*   Schedule 1 Part 2: amended, on 1 July 1991, by [section 36][67] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
-*   Schedule 1 Part 2: amended, on 1 January 1991, pursuant to [section 165(1)(b)][68] of the Education Act 1989 (1989 No 60).
-*   Schedule 1 Part 2: amended, on 1 October 1990, by [section 53(2)][69] of the Health Research Council Act 1990 (1990 No 68).
-*   Schedule 1 Part 2: amended, on 23 July 1990, pursuant to [section 50(5)][34] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 Part 2: amended, on 1 April 1990, pursuant to [section 230(2)][41] of the Sale of Liquor Act 1989 (1989 No 63).
-*   Schedule 1 Part 2: amended, on 19 March 1990, by [section 4(d)][70] of the New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10).
-*   Schedule 1 Part 2: amended, on 1 January 1990, pursuant to [section 49(6)][71] of the Education Amendment Act 1989 (1989 No 156).
+*   Schedule 1 Part 2: amended, on 18 June 1996, pursuant to [section 29(a)][64] of the Otago Museum Trust Board Act 1996 (1996 No 1 (L)).
+*   Schedule 1 Part 2: amended, on 26 October 1993, by [section 79(2)][65] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule 1 Part 2: amended, on 1 October 1993, by [section 95(2)][66] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule 1 Part 2: amended, on 4 December 1992, by [section 11][67] of the Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102).
+*   Schedule 1 Part 2: amended, on 1 July 1991, by [section 36][68] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
+*   Schedule 1 Part 2: amended, on 1 January 1991, pursuant to [section 165(1)(b)][69] of the Education Act 1989 (1989 No 60).
+*   Schedule 1 Part 2: amended, on 1 October 1990, by [section 53(2)][70] of the Health Research Council Act 1990 (1990 No 68).
+*   Schedule 1 Part 2: amended, on 23 July 1990, pursuant to [section 50(5)][35] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 Part 2: amended, on 1 April 1990, pursuant to [section 230(2)][42] of the Sale of Liquor Act 1989 (1989 No 63).
+*   Schedule 1 Part 2: amended, on 19 March 1990, by [section 4(d)][71] of the New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10).
+*   Schedule 1 Part 2: amended, on 1 January 1990, pursuant to [section 49(6)][72] of the Education Amendment Act 1989 (1989 No 156).
 *   Schedule 1 Part 2: amended, on 1 January 1989, by section 21 of the Wool Testing Authority Dissolution Act 1988 (1988 No 166).
 *   Schedule 1 Part 2: amended, on 16 December 1988, by section 2(1) of the Local Authorities (Members' Interests) Amendment Act 1988 (1988 No 197).
 *   Schedule 1 Part 2: amended, on 10 December 1988, by section 13 of the Testing Laboratory Registration Amendment Act 1988 (1988 No 167).
 *   Schedule 1 Part 2: amended, on 1 December 1988, by section 15 of the Broadcasting Amendment Act (No 2) 1988 (1988 No 161).
-*   Schedule 1 Part 2: amended, on 1 April 1988, by [section 42(2)(d)][72] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
-*   Schedule 1 Part 2: amended, on 1 October 1987, by [section 5(2)][73] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
-*   Schedule 1 Part 2: amended, on 16 July 1987, by [section 64(3)][74] of the New Zealand Horticulture Export Authority Act 1987 (1987 No 93).
-*   Schedule 1 Part 2: amended, on 1 April 1987, by [section 40(1)(d)][75] of the Sport, Fitness, and Leisure Act 1987 (1987 No 13).
-*   Schedule 1 Part 2: amended, on 17 December 1985, by [section 19(4)][76] of the Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)).
-*   Schedule 1 Part 2: amended, on 1 April 1984, by [section 18(k)][77] of the Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153).
+*   Schedule 1 Part 2: amended, on 1 April 1988, by [section 42(2)(d)][73] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+*   Schedule 1 Part 2: amended, on 1 October 1987, by [section 5(2)][74] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+*   Schedule 1 Part 2: amended, on 16 July 1987, by [section 64(3)][75] of the New Zealand Horticulture Export Authority Act 1987 (1987 No 93).
+*   Schedule 1 Part 2: amended, on 1 April 1987, by [section 40(1)(d)][76] of the Sport, Fitness, and Leisure Act 1987 (1987 No 13).
+*   Schedule 1 Part 2: amended, on 17 December 1985, by [section 19(4)][77] of the Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)).
+*   Schedule 1 Part 2: amended, on 1 April 1984, by [section 18(k)][78] of the Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153).
 *   Schedule 1 Part 2: amended, on 22 October 1981, pursuant to section 2(3) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
 *   Schedule 1 Part 2: amended, on 22 October 1981, pursuant to section 3(4) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
 *   Schedule 1 Part 2: amended, on 13 January 1981, by section 3(2) of the New Zealand Film Commission Amendment Act 1980 (1980 No 125).
-*   Schedule 1 Part 2: amended, on 1 December 1978, by [section 4(8)(h)][36] of the New Zealand Airways Corporation Dissolution Act 1978 (1978 No 48).
+*   Schedule 1 Part 2: amended, on 1 December 1978, by [section 4(8)(h)][37] of the New Zealand Airways Corporation Dissolution Act 1978 (1978 No 48).
 *   Schedule 1 Part 2: amended, on 12 October 1978, by section 16 of the Queen Elizabeth the Second Arts Council of New Zealand Amendment Act 1978 (1978 No 29).
-*   Schedule 1 Part 2: amended, on 21 December 1977, by [section 14(2)][78] of the Queen Elizabeth the Second National Trust Act 1977 (1977 No 102).
+*   Schedule 1 Part 2: amended, on 21 December 1977, by [section 14(2)][79] of the Queen Elizabeth the Second National Trust Act 1977 (1977 No 102).
 *   Schedule 1 Part 2: amended, on 1 February 1977, by section 101(2) of the Broadcasting Act 1976 (1976 No 132).
 *   Schedule 1 Part 2: amended, on 14 December 1976, by section 11(10) of the Development Finance Corporation Amendment Act 1976 (1976 No 133).
 *   Schedule 1 Part 2: amended, on 31 August 1976, by section 21(4) of the Christchurch Town Hall Board of Management Act 1976 (1976 No 2 (L)).
 *   Schedule 1 Part 2: amended, on 1 April 1975, by section 103(3) of the Broadcasting Act 1973 (1973 No 116).
 *   Schedule 1 Part 2: amended, on 8 November 1974, pursuant to section 23(1) of the Tourist Hotel Corporation Act 1974 (1974 No 59).
 *   Schedule 1 Part 2: amended, on 18 December 1973, by section 103(2) of the Broadcasting Act 1973 (1973 No 116).
-*   Schedule 1 Part 2: amended, on 23 November 1973, by [section 22(3)][79] of the Local Legislation Act 1973 (1973 No 109).
+*   Schedule 1 Part 2: amended, on 23 November 1973, by [section 22(3)][80] of the Local Legislation Act 1973 (1973 No 109).
 *   Schedule 1 Part 2: amended, on 30 July 1973, by section 12 of the Overseas Investment Act 1973 (1973 No 14).
 *   Schedule 1 Part 2: amended, on 1 April 1973, by section 31 of the National Art Gallery, Museum, and War Memorial Act 1972 (1972 No 11).
-*   Schedule 1 Part 2: amended, on 1 March 1973, by [section 120(1)][80] of the Wellington Regional Water Board Act 1972 (1972 No 3 (L)).
-*   Schedule 1 Part 2: amended, on 1 March 1973, by [section 123(4)][81] of the Wellington Regional Water Board Act 1972 (1972 No 3 (L)).
-*   Schedule 1 Part 2: amended, on 1 January 1973, by [section 34(2)][82] of the New Zealand Council for Educational Research Act 1972 (1972 No 35).
-*   Schedule 1 Part 2: amended, on 20 October 1972, by [section 14(6)][83] of the Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138).
+*   Schedule 1 Part 2: amended, on 1 March 1973, by [section 120(1)][81] of the Wellington Regional Water Board Act 1972 (1972 No 3 (L)).
+*   Schedule 1 Part 2: amended, on 1 March 1973, by [section 123(4)][82] of the Wellington Regional Water Board Act 1972 (1972 No 3 (L)).
+*   Schedule 1 Part 2: amended, on 1 January 1973, by [section 34(2)][83] of the New Zealand Council for Educational Research Act 1972 (1972 No 35).
+*   Schedule 1 Part 2: amended, on 20 October 1972, by [section 14(6)][84] of the Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138).
 *   Schedule 1 Part 2: amended, on 3 December 1971, by section 5(4) of the Agricultural Pests Destruction Amendment Act 1971 (1971 No 74).
-*   Schedule 1 Part 2: amended, on 1 January 1970, by [section 12(3)][84] of the Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138).
+*   Schedule 1 Part 2: amended, on 1 January 1970, by [section 12(3)][85] of the Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138).
 *   Schedule 1 Part 2: amended, on 23 October 1969, by section 2(3)(a) of the Local Authorities (Members' Interests) Amendment Act 1969 (1969 No 90).
 *   Schedule 1 Part 2: amended, on 23 October 1969, by section 2(3)(b) of the Local Authorities (Members' Interests) Amendment Act 1969 (1969 No 90).
 *   Schedule 1 Part 2: amended, on 23 October 1969, by section 2(3)(c) of the Local Authorities (Members' Interests) Amendment Act 1969 (1969 No 90).
@@ -730,7 +734,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Auckland Regional Authority Act 1963 (1963 No 18 (L))
 
-_Amendment(s) incorporated in the [Act(s)][85]_.
+_Amendment(s) incorporated in the [Act(s)][86]_.
 
 ##### Auckland War Memorial Museum Maintenance Amendment Act 1963 (1963 No 6 (L))
 
@@ -766,7 +770,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Lincoln College Act 1961 (1961 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][86]_.
+_Amendment(s) incorporated in the [Act(s)][87]_.
 
 ##### Local Authorities (Members' Contracts) Act 1954 (1954 No 49) (1957 Reprint Vol 8 p 523)
 
@@ -780,11 +784,11 @@ _Amendment(s) incorporated in the [Act(s)][86]_.
 
 ##### Massey University Act 1963 (1963 No 7)
 
-_Amendment(s) incorporated in the [Act(s)][87]_.
+_Amendment(s) incorporated in the [Act(s)][88]_.
 
 ##### Massey University Amendment Act 1966 (1966 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][88]_.
+_Amendment(s) incorporated in the [Act(s)][89]_.
 
 ##### National Library Act 1965 (1965 No 136)
 
@@ -796,7 +800,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### New Zealand Maori Arts and Crafts Institute Amendment Act 1967 (1967 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][89]_.
+_Amendment(s) incorporated in the [Act(s)][90]_.
 
 ##### Queen Elizabeth the Second Arts Council of New Zealand Act 1963 (1963 No 54)
 
@@ -816,23 +820,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### University of Auckland 1961 (1961 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][90]_.
+_Amendment(s) incorporated in the [Act(s)][91]_.
 
 ##### University of Canterbury Act 1961 (1961 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][91]_.
+_Amendment(s) incorporated in the [Act(s)][92]_.
 
 ##### University of Otago Amendment Act 1961 (1961 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][92]_.
+_Amendment(s) incorporated in the [Act(s)][93]_.
 
 ##### University of Waikato Act 1963 (1963 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][93]_.
+_Amendment(s) incorporated in the [Act(s)][94]_.
 
 ##### Victoria University of Wellington Act 1961 (1961 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][94]_.
+_Amendment(s) incorporated in the [Act(s)][95]_.
 
 ##### Wheat Board Act 1965 (1965 No 60)
 
@@ -840,9 +844,9 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Winston Churchill Memorial Trust Act 1965 (1965 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][95]_.
+_Amendment(s) incorporated in the [Act(s)][96]_.
 
-Schedule 2: amended, on 23 July 1990, by [section 50(5)][34] of the Education Amendment Act 1990 (1990 No 60).
+Schedule 2: amended, on 23 July 1990, by [section 50(5)][35] of the Education Amendment Act 1990 (1990 No 60).
 
 ---
 
@@ -877,23 +881,23 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
 
 ###### 1 General
     
-*   This is a reprint of the Local Authorities (Members' Interests) Act 1968\. The reprint incorporates all the amendments to the Act as at 1 June 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Local Authorities (Members' Interests) Act 1968\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][96] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][97] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][97] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][98] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][98] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][99] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][99] and [17E][100] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][100] and [17E][101] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -924,71 +928,73 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Carter Observatory Act Repeal Act 2010 (2010 No 34): [section 12][50]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][31]
     
-    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][51]
+    Carter Observatory Act Repeal Act 2010 (2010 No 34): [section 12][51]
     
-    Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65): [section 20][52]
+    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][52]
+    
+    Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65): [section 20][53]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 4(1), (2)][19]
     
-    Crown Entities Act 2004 (2004 No 115): [section 180(2)][53]
+    Crown Entities Act 2004 (2004 No 115): [section 180(2)][54]
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][54]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][55]
     
-    Masterton Trust Lands Act 2003 (2003 No 1 (L)): [section 36][55]
+    Masterton Trust Lands Act 2003 (2003 No 1 (L)): [section 36][56]
     
     Local Government Act 2002 (2002 No 84): [section 262][30]
     
     Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][28]
     
-    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][56]
+    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][57]
     
-    Education Standards Act 2001 (2001 No 88): [section 17][37]
+    Education Standards Act 2001 (2001 No 88): [section 17][38]
     
-    Fishing Industry Board Repeal Act 2001 (2001 No 34): [section 5(3)][57]
+    Fishing Industry Board Repeal Act 2001 (2001 No 34): [section 5(3)][58]
     
     Public Audit Act 2001 (2001 No 10): [section 52][25]
     
-    Museum of Transport and Technology Act 2000 (2000 No 1 (P)): [section 28(2)][101]
+    Museum of Transport and Technology Act 2000 (2000 No 1 (P)): [section 28(2)][102]
     
-    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 7][59]
+    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 7][60]
     
     Local Authorities (Members' Interests) Order 1997 (SR 1997/112)
     
-    Auckland War Memorial Museum Act 1996 (1996 No 4 (L)): [section 32(2)][62]
+    Auckland War Memorial Museum Act 1996 (1996 No 4 (L)): [section 32(2)][63]
     
     Marlborough Forestry Corporation Act Repeal Act 1996 (1996 No 2 (L)): section 11(2)
     
-    Otago Museum Trust Board Act 1996 (1996 No 1 (L)): [section 29(a)][63]
+    Otago Museum Trust Board Act 1996 (1996 No 1 (L)): [section 29(a)][64]
     
-    Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19): [section 34(3)][39]
+    Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19): [section 34(3)][40]
     
     Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][18]
     
-    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][40]
+    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][41]
     
-    Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102): [section 11][66]
+    Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102): [section 11][67]
     
-    Energy Companies Act 1992 (1992 No 56): [sections 79(2)][64], [95(2)][65], [96(1)][38]
+    Energy Companies Act 1992 (1992 No 56): [sections 79(2)][65], [95(2)][66], [96(1)][39]
     
-    Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19): [section 36][67]
+    Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19): [section 36][68]
     
-    Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)): [section 20(2)][60]
+    Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)): [section 20(2)][61]
     
-    Resource Management Act 1991 (1991 No 69): [section 373(1)][33]
+    Resource Management Act 1991 (1991 No 69): [section 373(1)][34]
     
-    Health Research Council Act 1990 (1990 No 68): [section 53(2)][69]
+    Health Research Council Act 1990 (1990 No 68): [section 53(2)][70]
     
-    Education Amendment Act 1990 (1990 No 60): [section 50(5)][34]
+    Education Amendment Act 1990 (1990 No 60): [section 50(5)][35]
     
-    New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10): [section 4(d)][70]
+    New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10): [section 4(d)][71]
     
-    Education Amendment Act 1989 (1989 No 156): [section 49(6)][71]
+    Education Amendment Act 1989 (1989 No 156): [section 49(6)][72]
     
-    Education Act 1989 (1989 No 80): [section 165(1)(b)][68]
+    Education Act 1989 (1989 No 80): [section 165(1)(b)][69]
     
-    Sale of Liquor Act 1989 (1989 No 63): [section 230(2)][41]
+    Sale of Liquor Act 1989 (1989 No 63): [section 230(2)][42]
     
     School Trustees Act 1989 (1989 No 3): section 24(2)
     
@@ -1002,19 +1008,19 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
     
     Access Training Scheme Act 1988 (1988 No 108): section 28
     
-    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [sections 42(2)(d)][72],[43(5)(g)][42]
+    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [sections 42(2)(d)][73],[43(5)(g)][43]
     
     Protection of Personal and Property Rights 1988 (1988 No 4): [section 117(3)][29]
     
-    New Zealand Horticulture Export Authority Act 1987 (1987 No 93): [section 64(3)][74]
+    New Zealand Horticulture Export Authority Act 1987 (1987 No 93): [section 64(3)][75]
     
-    Sport, Fitness, and Leisure Act 1987 (1987 No 13): [section 40(1)(d)][75]
+    Sport, Fitness, and Leisure Act 1987 (1987 No 13): [section 40(1)(d)][76]
     
-    Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4): [section 5(2)][73]
+    Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4): [section 5(2)][74]
     
-    Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)): [section 19(4)][76]
+    Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)): [section 19(4)][77]
     
-    Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153): [section 18(k)][77]
+    Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153): [section 18(k)][78]
     
     Vocational Training Council Act 1982 (1982 No 54): section 49(2)
     
@@ -1028,25 +1034,25 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
     
     New Zealand Film Commission Amendment Act 1980 (1980 No 125): section 3(2)
     
-    National Parks Act 1980 (1980 No 66): [section 80(1)][43]
+    National Parks Act 1980 (1980 No 66): [section 80(1)][44]
     
     Local Authorities (Members' Interests) Amendment Act 1979 (1979 No 97)
     
     Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][27]
     
-    New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48): [section 4(8)(h)][36]
+    New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48): [section 4(8)(h)][37]
     
     Queen Elizabeth the Second Arts Council of New Zealand Amendment Act 1978 (1978 No 29): section 16
     
     Noxious Plants Act 1978 (1978 No 15): section 119(1)
     
-    Local Government Amendment Act (No 3) 1977 (1977 No 122): [section 8(1)][44]
+    Local Government Amendment Act (No 3) 1977 (1977 No 122): [section 8(1)][45]
     
     Town and Country Planning Act 1977 (1977 No 121): section 178(2)
     
-    Queen Elizabeth the Second National Trust Act 1977 (1977 No 102): [section 14(2)][78]
+    Queen Elizabeth the Second National Trust Act 1977 (1977 No 102): [section 14(2)][79]
     
-    Reserves Act 1977 (1977 No 66): [section 124(2)][45]
+    Reserves Act 1977 (1977 No 66): [section 124(2)][46]
     
     Development Finance Corporation Amendment Act 1976 (1976 No 133): section 11(10)
     
@@ -1054,33 +1060,33 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
     
     Christchurch Town Hall Board of Management Act 1976 (1976 No 2 (L)): section 21(4)
     
-    Education Amendment Act (No 2) 1974 (1974 No 136): [section 10(4)][47]
+    Education Amendment Act (No 2) 1974 (1974 No 136): [section 10(4)][48]
     
     Local Authorities (Members' Interests) Amendment Act 1974 (1974 No 97)
     
     Queen Elizabeth the Second Arts Council of New Zealand Act 1974 (1974 No 67): section 44(1)
     
-    Local Government Act 1974 (1974 No 66): [section 725][46]
+    Local Government Act 1974 (1974 No 66): [section 725][47]
     
     Tourist Hotel Corporation Act 1974 (1974 No 59): section 23(1)
     
     Broadcasting Act 1973 (1973 No 116): section 103(2), (3)
     
-    Local Legislation Act 1973 (1973 No 109): [section 22(3)][79]
+    Local Legislation Act 1973 (1973 No 109): [section 22(3)][80]
     
     Water and Soil Conservation Amendment Act 1973 (1973 No 24): section 15(1)
     
     Overseas Investment Act 1973 (1973 No 14): section 12
     
-    Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138): [section 14(6)][83]
+    Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138): [section 14(6)][84]
     
     Fire Services Act 1972 (1972 No 119): section 100(1)
     
-    New Zealand Council for Educational Research Act 1972 (1972 No 35): [section 34(2)][82]
+    New Zealand Council for Educational Research Act 1972 (1972 No 35): [section 34(2)][83]
     
     National Art Gallery, Museum, and War Memorial Act 1972 (1972 No 11): section 31
     
-    Wellington Regional Water Board Act 1972 (1972 No 3 (L)): [sections 120(1)][80], [123(4)][81]
+    Wellington Regional Water Board Act 1972 (1972 No 3 (L)): [sections 120(1)][81], [123(4)][82]
     
     Local Authorities (Members' Interests) Order 1971 (SR 1971/111)
     
@@ -1090,7 +1096,7 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
     
     Hospitals Amendment Act 1970 (1970 No 12): section 14(5)
     
-    Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138): [section 12(3)][84]
+    Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138): [section 12(3)][85]
     
     Local Authorities (Members' Interests) Amendment Act 1969 (1969 No 90)
 
@@ -1127,74 +1133,75 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
 [28]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM151437
 [29]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM128108
 [30]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM174088
-[31]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM230264
-[32]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM230364
-[33]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM239827
-[34]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM212679
-[35]: http://www.legislation.govt.nz/act/public/1968/0147/latest/whole.html#DLM390631
-[36]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM21803
-[37]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM118313
-[38]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM268395
-[39]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM330648
-[40]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM295182
-[41]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM167530
-[42]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM131667
-[43]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM38526
-[44]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM18560
-[45]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM445090
-[46]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM425411
-[47]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM425953
-[48]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM34487
-[49]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM396777
-[50]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM2272429
-[51]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM397798
-[52]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM348932
-[53]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM330589
-[54]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM192277
-[55]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM87708
-[56]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM121634
-[57]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM92784
-[58]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM260271
-[59]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM49649
-[60]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM80697
-[61]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM233555
-[62]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM83638
-[63]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM83359
-[64]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM268363
-[65]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM268394
-[66]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM280653
-[67]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM260283
-[68]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM183687
-[69]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM213340
-[70]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM203557
-[71]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM199357
-[72]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM131666
-[73]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM100574
-[74]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM118177
-[75]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM102238
-[76]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM77330
-[77]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM75143
-[78]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM8884
-[79]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM411603
-[80]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM70937
-[81]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM70940
-[82]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM407085
-[83]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM409261
-[84]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM394314
-[85]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM62077
-[86]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM336193
-[87]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM347540
-[88]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM374501
-[89]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM384141
-[90]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM335242
-[91]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM334824
-[92]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM334225
-[93]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM347774
-[94]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM335854
-[95]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM373413
-[96]: http://www.pco.parliament.govt.nz/reprints/
-[97]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM195439
-[98]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[99]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM195468
-[100]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM195470
-[101]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM119840
+[31]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM3360714
+[32]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM230264
+[33]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM230364
+[34]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM239827
+[35]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM212679
+[36]: http://www.legislation.govt.nz/act/public/1968/0147/latest/whole.html#DLM390631
+[37]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM21803
+[38]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM118313
+[39]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM268395
+[40]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM330648
+[41]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM295182
+[42]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM167530
+[43]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM131667
+[44]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM38526
+[45]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM18560
+[46]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM445090
+[47]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM425411
+[48]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM425953
+[49]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM34487
+[50]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM396777
+[51]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM2272429
+[52]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM397798
+[53]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM348932
+[54]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM330589
+[55]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM192277
+[56]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM87708
+[57]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM121634
+[58]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM92784
+[59]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM260271
+[60]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM49649
+[61]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM80697
+[62]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM233555
+[63]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM83638
+[64]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM83359
+[65]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM268363
+[66]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM268394
+[67]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM280653
+[68]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM260283
+[69]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM183687
+[70]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM213340
+[71]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM203557
+[72]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM199357
+[73]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM131666
+[74]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM100574
+[75]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM118177
+[76]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM102238
+[77]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM77330
+[78]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM75143
+[79]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM8884
+[80]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM411603
+[81]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM70937
+[82]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM70940
+[83]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM407085
+[84]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM409261
+[85]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM394314
+[86]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM62077
+[87]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM336193
+[88]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM347540
+[89]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM374501
+[90]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM384141
+[91]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM335242
+[92]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM334824
+[93]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM334225
+[94]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM347774
+[95]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM335854
+[96]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM373413
+[97]: http://www.pco.parliament.govt.nz/reprints/
+[98]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM195439
+[99]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[100]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM195468
+[101]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM195470
+[102]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM119840
