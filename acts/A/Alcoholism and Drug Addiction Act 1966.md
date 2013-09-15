@@ -1,7 +1,7 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Alcoholism and Drug Addiction Act 1966Public Act1966 No 97
 
@@ -25,107 +25,107 @@ This Act is administered by the Ministry of Health.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Drug addicts][4]
+[3][4][][4][Drug addicts][4]
 
-[4][5] [Advisory and technical committees][5]
+[4][5][][5][Advisory and technical committees][5]
 
 [Certified institutions][6]
 
-[5][7] [Certified institutions][7]
+[5][7][][7][Certified institutions][7]
 
-[6][8] [Existing institutions][8]
+[6][8][][8][Existing institutions][8]
 
-[7][9] [Supervising committees for certain institutions][9]
+[7][9][][9][Supervising committees for certain institutions][9]
 
 [Orders for detention and treatment][10]
 
-[8][11] [Voluntary applications for detention in institution][11]
+[8][11][][11][Voluntary applications for detention in institution][11]
 
-[9][12] [Power of District Court Judge to order detention and treatment on application of relative or other reputable person][12]
+[9][12][][12][Power of District Court Judge to order detention and treatment on application of relative or other reputable person][12]
 
-[10][13] [Period of detention][13]
+[10][13][][13][Period of detention][13]
 
-[11][14] [Mode of computing period of detention][14]
+[11][14][][14][Mode of computing period of detention][14]
 
 [Reception, transfer, and discharge][15]
 
-[12][16] [Enforcement of order of detention when term of imprisonment imposed][16]
+[12][16][][16][Enforcement of order of detention when term of imprisonment imposed][16]
 
-[13][17] [Pending reception into institution, person may be detained][17]
+[13][17][][17][Pending reception into institution, person may be detained][17]
 
-[14][18] [Power of arrest][18]
+[14][18][][18][Power of arrest][18]
 
-[15][19] [Detention during transit][19]
+[15][19][][19][Detention during transit][19]
 
-[16][20] [Patient unlawfully absent may be arrested without warrant][20]
+[16][20][][20][Patient unlawfully absent may be arrested without warrant][20]
 
-[17][21] [Discharge, transfer, or release on leave of patients][21]
+[17][21][][21][Discharge, transfer, or release on leave of patients][21]
 
-[18][22] [Patient may apply for discharge][22]
+[18][22][][22][Patient may apply for discharge][22]
 
-[19][23] [Variation of conditions of leave of absence][23]
+[19][23][][23][Variation of conditions of leave of absence][23]
 
-[20][24] [Revocation of leave of absence][24]
+[20][24][][24][Revocation of leave of absence][24]
 
-[21][25] [Transfer of prisoner to institution][25]
+[21][25][][25][Transfer of prisoner to institution][25]
 
-[22][26] [Absence of patient for medical or dental treatment, etc][26]
+[22][26][][26][Absence of patient for medical or dental treatment, etc][26]
 
-[22A][27] [Managers to notify Police of deaths][27]
+[22A][27][][27][Managers to notify Police of deaths][27]
 
 [Appeals][28]
 
-[23][29] [Appeals against order of District Court Judge][29]
+[23][29][][29][Appeals against order of District Court Judge][29]
 
 [Offences][30]
 
-[24][31] [Unlawful detention in institution][31]
+[24][31][][31][Unlawful detention in institution][31]
 
-[25][32] [Escaping from institution][32]
+[25][32][][32][Escaping from institution][32]
 
-[26][33] [Improper conduct][33]
+[26][33][][33][Improper conduct][33]
 
-[27][34] [Supplying liquor or drugs to patients][34]
+[27][34][][34][Supplying liquor or drugs to patients][34]
 
-[28][35] [Trespass][35]
+[28][35][][35][Trespass][35]
 
-[29][36] [Ill-treatment of patients][36]
+[29][36][][36][Ill-treatment of patients][36]
 
 [Evidence][37]
 
-[30][38] [Evidence in proceedings][38]
+[30][38][][38][Evidence in proceedings][38]
 
-[31][39] [Medical certificate evidence of certain facts][39]
+[31][39][][39][Medical certificate evidence of certain facts][39]
 
-[32][40] [Who may not sign medical certificate][40]
+[32][40][][40][Who may not sign medical certificate][40]
 
 [Procedure][41]
 
-[33][42] [Notice of order of detention to be given][42]
+[33][42][][42][Notice of order of detention to be given][42]
 
-[34][43] [Immaterial errors not to invalidate orders, etc][43]
+[34][43][][43][Immaterial errors not to invalidate orders, etc][43]
 
-[35][44] [Legal proceedings][44]
+[35][44][][44][Legal proceedings][44]
 
-[36][45] [General penalty][45]
+[36][45][][45][General penalty][45]
 
-[37][46] [Offences to be punishable on summary conviction][46]
+[37][46][][46][Offences to be punishable on summary conviction][46] \[Repealed\]
 
 [Miscellaneous provisions][47]
 
-[37A][48] [Persons found intoxicated in public place][48] \[Repealed\]
+[37A][48][][48][Persons found intoxicated in public place][48] \[Repealed\]
 
-[38][49] [Protection from civil or criminal liability of persons acting under authority of this Act][49]
+[38][49][][49][Protection from civil or criminal liability of persons acting under authority of this Act][49]
 
-[38A][50] [Fees payable to medical practitioners][50]
+[38A][50][][50][Fees payable to medical practitioners][50]
 
-[39][51] [Regulations][51]
+[39][51][][51][Regulations][51]
 
-[40][52] [Repeals and amendments][52]
+[40][52][][52][Repeals and amendments][52]
 
 [Schedule][53]  
 [Enactments repealed][53]
@@ -192,11 +192,11 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     (3) Any such Order may at any time be revoked by the Governor-General by Order in Council; and thereupon the institution shall cease to be an institution under this Act as from the date specified in that behalf in the last-mentioned Order.
     
-    Compare: [1909 No 33][57] ss [3][58], [4][59]
+    Compare: 1909 No 33 [ss 3][57], [4][58]
     
-    Section 5(1) proviso: repealed, on 1 July 1993, by [section 32][60] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 5(1) proviso: repealed, on 1 July 1993, by [section 32][59] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 5(2): repealed, on 1 July 1993, by [section 32][60] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 5(2): repealed, on 1 July 1993, by [section 32][59] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
 
 ##### 6 Existing institutions
     
@@ -234,15 +234,15 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1918 No 8 s 11
     
-    Section 7(1): substituted, on 1 July 1993, by [section 32][60] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 7(1): substituted, on 1 July 1993, by [section 32][59] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 7(2): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(2): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 7(4): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(4): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 7(8): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(8): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 7(10): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(10): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 7(12): added, on 1 January 1969, by section 2 of the Alcoholism and Drug Addiction Amendment Act 1970 (1970 No 47).
 
@@ -260,11 +260,11 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 7
     
-    Section 8(1): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 8(1): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 8(3): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 8(3): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 8(4): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 8(4): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 9 Power of District Court Judge to order detention and treatment on application of relative or other reputable person
     
@@ -290,27 +290,27 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     *   (c) A's step-parent; but, if A is under the age of 18 years, only if the step-parent shares responsibility for the day-to-day care of A with a parent of A.
     
-    Section 9 heading: amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9 heading: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 9(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
     
-    Section 9(1): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(1): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 9(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
     
-    Section 9(3): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(3): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(4): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(4): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(5): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(5): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 9(5): amended, on 27 November 1970, by section 3 of the Alcoholism and Drug Addiction Amendment Act 1970 (1970 No 47).
     
-    Section 9(6): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(6): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(7): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(7): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 9(8): substituted, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(8): substituted, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 10 Period of detention
     
@@ -320,7 +320,7 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 ss 7(2), 8, 9(3), 10(1), 23(2)
     
-    Section 10(1): amended, on 30 June 2002, by [section 186][64] of the Sentencing Act 2002 (2002 No 9).
+    Section 10(1): amended, on 30 June 2002, by [section 186][63] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 11 Mode of computing period of detention
     
@@ -332,9 +332,9 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     (4) Except as provided in this section, the period of detention of any person shall be computed continuously from the date of his actual reception into the institution.
     
-    Compare: 1909 No 30 s 19; [1936 No 58][65] s [67][66]
+    Compare: 1909 No 30 s 19; [1936 No 58][64] [s 67][65]
     
-    Section 11(3): amended, on 1 June 2005, by [section 206][67] of the Corrections Act 2004 (2004 No 50).
+    Section 11(3): amended, on 1 June 2005, by [section 206][66] of the Corrections Act 2004 (2004 No 50).
 
 #### Reception, transfer, and discharge
 
@@ -346,11 +346,11 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 14
     
-    Section 12: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 12: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
     
-    Section 12: amended, on 1 June 2005, by [section 206][67] of the Corrections Act 2004 (2004 No 50).
+    Section 12: amended, on 1 June 2005, by [section 206][66] of the Corrections Act 2004 (2004 No 50).
     
-    Section 12: amended, on 30 June 2002, by [section 186][64] of the Sentencing Act 2002 (2002 No 9).
+    Section 12: amended, on 30 June 2002, by [section 186][63] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 13 Pending reception into institution, person may be detained
     
@@ -360,7 +360,7 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 16
     
-    Section 13: amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 13: amended, on 1 April 1970, pursuant to section 129(6) of the Mental Health Act 1969 (1969 No 16).
 
@@ -370,7 +370,7 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 13
     
-    Section 14: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 14: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
 
 ##### 15 Detention during transit
     
@@ -384,11 +384,11 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 17
     
-    Section 16: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 16: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
 
 ##### 17 Discharge, transfer, or release on leave of patients
     
-*   (1) Subject to the provisions of this Act, the Minister, or the supervising committee (if any) of an institution, or the person in charge of a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][68], may at any time by order in writing---
+*   (1) Subject to the provisions of this Act, the Minister, or the supervising committee (if any) of an institution, or the person in charge of a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][67], may at any time by order in writing---
         
     *   (a) discharge any patient:
     
@@ -406,9 +406,9 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 ss 18(1)(a)--(c), (2), (3), 23(1)
     
-    Section 17(1): amended, on 1 July 1993, by [section 32][60] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+    Section 17(1): amended, on 1 July 1993, by [section 32][59] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
     
-    Section 17(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 17(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
 
 ##### 18 Patient may apply for discharge
     
@@ -426,11 +426,11 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     (7) Where an application under this section is refused a further application under this section shall not be entertained unless 6 months have elapsed since the date of the refusal and unless the application has been preceded by a further request for the discharge of the applicant under paragraph (a) of subsection (1) of [section 17][21].
     
-    Section 18(1): amended, on 30 June 2002, by [section 186][64] of the Sentencing Act 2002 (2002 No 9).
+    Section 18(1): amended, on 30 June 2002, by [section 186][63] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 18(1): amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 18(1): amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 18(4): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 18(4): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 19 Variation of conditions of leave of absence
     
@@ -452,21 +452,21 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 18(1)(d), (4)
     
-    Section 20(1): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 20(1): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 20(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 20(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
     
-    Section 20(2): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 20(2): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 20(3): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 20(3): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 20(5): added, on 9 October 1975, by section 2 of the Alcoholism and Drug Addiction Amendment Act 1975 (1975 No 60).
     
-    Section 20(5): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 20(5): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 20(6): added, on 9 October 1975, by section 2 of the Alcoholism and Drug Addiction Amendment Act 1975 (1975 No 60).
     
-    Section 20(6): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 20(6): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 21 Transfer of prisoner to institution
     
@@ -488,25 +488,25 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1918 No 8 s 10
     
-    Section 21(1): amended, on 1 June 2005, by [section 206][67] of the Corrections Act 2004 (2004 No 50).
+    Section 21(1): amended, on 1 June 2005, by [section 206][66] of the Corrections Act 2004 (2004 No 50).
     
-    Section 21(1): amended, on 30 June 2002, by [section 186][64] of the Sentencing Act 2002 (2002 No 9).
+    Section 21(1): amended, on 30 June 2002, by [section 186][63] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 21(1): amended, on 1 October 1995, by [section 10(3)][70] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 21(1): amended, on 1 October 1995, by [section 10(3)][69] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 21(2): amended, on 1 June 2005, by [section 206][67] of the Corrections Act 2004 (2004 No 50).
+    Section 21(2): amended, on 1 June 2005, by [section 206][66] of the Corrections Act 2004 (2004 No 50).
     
-    Section 21(2): amended, on 1 October 1995, by [section 10(3)][70] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 21(2): amended, on 1 October 1995, by [section 10(3)][69] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 21(4): amended, on 1 October 1995, by [section 10(3)][70] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 21(4): amended, on 1 October 1995, by [section 10(3)][69] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 21(5)(c): amended, on 1 June 2005, by [section 206][67] of the Corrections Act 2004 (2004 No 50).
+    Section 21(5)(c): amended, on 1 June 2005, by [section 206][66] of the Corrections Act 2004 (2004 No 50).
     
-    Section 21(5)(c): amended, on 1 October 1995, by [section 10(3)][70] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 21(5)(c): amended, on 1 October 1995, by [section 10(3)][69] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 22 Absence of patient for medical or dental treatment, etc
     
-*   (1) Subject to the provisions of this Act, in the case of the illness of any patient, he may, with the consent of the supervising committee or, if there is no supervising committee, a District Court Judge or the Minister, be removed by the managers or superintendent of the institution to any hospital care institution within the meaning of [section 58(4)][71] of the Health and Disability Services (Safety) Act 2001\.
+*   (1) Subject to the provisions of this Act, in the case of the illness of any patient, he may, with the consent of the supervising committee or, if there is no supervising committee, a District Court Judge or the Minister, be removed by the managers or superintendent of the institution to any hospital care institution within the meaning of [section 58(4)][70] of the Health and Disability Services (Safety) Act 2001\.
     
     (2) Subject to the provisions of this Act, the superintendent of an institution, on the recommendation of the medical practitioner attending the institution, may permit any patient to be absent from the institution for the purpose of receiving medical or dental treatment for any specified period, not exceeding 5 days at any one time.
     
@@ -514,47 +514,51 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     (4) Any person removed or absent under this section shall be deemed to remain subject to the order by which he was detained in the institution under this Act, and may at any time be returned to the institution by the managers or superintendent of the institution, or by any constable at the request of the managers or superintendent, or by any officer of any hospital or other institution to which he has been so removed.
     
-    Compare: 1909 No 30 s 20; [1936 No 58][65] s [66][72]
+    Compare: 1909 No 30 s 20; 1936 No 58 [s 66][71]
     
-    Section 22(1): amended, on 1 October 2002 by [section 58(1)][71] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 22(1): amended, on 1 October 2002 by [section 58(1)][70] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 22(1): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 22(1): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 22(3): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 22(3): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 22(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 22(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
 
 ##### 22A Managers to notify Police of deaths
     
 *   Where the managers of an institution where a patient is detained pursuant to an order under [section 9][12] learn that the patient has died (whether within or outside the institution) they shall forthwith notify a constable.
     
-    Section 22A: inserted, on 1 January 1989, by [section 46][73] of the Coroners Act 1988 (1988 No 111).
+    Section 22A: inserted, on 1 January 1989, by [section 46][72] of the Coroners Act 1988 (1988 No 111).
     
-    Section 22A: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][62] of the Policing Act 2008 (2008 No 72).
+    Section 22A: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
 
 #### Appeals
 
 ##### 23 Appeals against order of District Court Judge
     
-*   All the provisions of the [Summary Proceedings Act 1957][74] in respect of appeals from convictions or orders shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to detention within the meaning of the Summary Proceedings Act 1957:
+*   All the provisions of [Part 6][73] of the Criminal Procedure Act 2011 in respect of appeals against sentence shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to imprisonment:
     
     provided that an appeal under this section may be made at any time within 3 weeks after the date on which the order for detention and treatment or return or removal was signed by the District Court Judge.
     
-    Compare: 1909 No 30 s 30; 1918 No 8 s 13; [1957 No 87][74] s [213][75]
+    Compare: 1909 No 30 s 30; 1918 No 8 s 13; 1957 No 87 [s 213][74]
     
-    Section 23 heading: amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23 heading: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 23: amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23: amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 23 proviso: amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 23 proviso: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Offences
 
 ##### 24 Unlawful detention in institution
     
-*   Every person commits an offence against this Act and is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000, or to both, who wilfully detains any other person, or wilfully procures the detention of any other person, in an institution under this Act otherwise than in due course of law, or for a longer period than is authorised by law.
+*   Every person commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000, or to both, who wilfully detains any other person, or wilfully procures the detention of any other person, in an institution under this Act otherwise than in due course of law, or for a longer period than is authorised by law.
     
     Compare: 1909 No 30 s 24; 1954 No 50 s 40(1)
+    
+    Section 24: amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 24: amended, on 10 July 1967, pursuant to [section 7(1)][76] of the Decimal Currency Act 1964 (1964 No 27).
 
@@ -614,7 +618,7 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 7(5)
     
-    Section 30(a): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 30(a): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 31 Medical certificate evidence of certain facts
     
@@ -636,7 +640,7 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     (3) Every such certificate shall contain a statement that the certifying medical practitioner is not prohibited by this Act from signing the same.
     
-    (4) If an employee of a hospital care operator within the meaning of [section 58(4)][71] of the Health and Disability Services (Safety) Act 2001 applies for a committal order under this Act, a medical practitioner employed by the operator---
+    (4) If an employee of a hospital care operator within the meaning of [section 58(4)][70] of the Health and Disability Services (Safety) Act 2001 applies for a committal order under this Act, a medical practitioner employed by the operator---
         
     *   (a) is not for the purposes of subsection (1)(c) deemed, by reason of any official relationship with the applicant, to be the applicant's business partner, principal, or assistant; and
     
@@ -662,23 +666,23 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     *   (f) a spouse, civil union partner, or de facto partner of a person referred to in paragraphs (d) or (e).
     
-    Section 32(1)(c): substituted, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 32(1)(c): substituted, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 32(2): substituted, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 32(2): substituted, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 32(4): substituted, on 1 October 2002 by [section 58(1)][71] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 32(4): substituted, on 1 October 2002 by [section 58(1)][70] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 32(4)(a): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 32(4)(a): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 32(4)(b): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 32(4)(b): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 32(5): added, on 1 October 2002 by [section 58(1)][71] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 32(5): added, on 1 October 2002 by [section 58(1)][70] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 32(5)(a): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 32(5)(a): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 32(5)(b): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 32(5)(b): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 32(6): added, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 32(6): added, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 #### Procedure
 
@@ -692,9 +696,9 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Compare: 1909 No 30 s 32
     
-    Section 33: amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 33: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 33: amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 33: amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 34 Immaterial errors not to invalidate orders, etc
     
@@ -712,21 +716,25 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     (4) The determination of an application under [section 9][12] may be adjourned in accordance with the provisions of section 23 of the Mental Health Act 1969 which section shall apply with such modifications as are necessary, but this subsection shall not limit any other power of the court, Judge, or District Court Judge to adjourn the determination of the application.
     
-    Section 35(1): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 35(1): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 35(4): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 35(4): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 35(4): amended, on 1 April 1970, pursuant to section 129(1) of the Mental Health Act 1969 (1969 No 16).
 
 ##### 36 General penalty
     
-*   Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
+*   Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
+    
+    Section 36: amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 36: amended, on 10 July 1967, pursuant to [section 7(1)][76] of the Decimal Currency Act 1964 (1964 No 27).
 
 ##### 37 Offences to be punishable on summary conviction
     
-*   Every offence against this Act or against any regulations made under this Act shall be punishable on summary conviction.
+*   \[Repealed\]
+    
+    Section 37: repealed, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous provisions
 
@@ -750,7 +758,7 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
     
     Section 38A: inserted, on 9 October 1975, by section 3(1) of the Alcoholism and Drug Addiction Amendment Act 1975 (1975 No 60).
     
-    Section 38A: amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 38A: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 39 Regulations
     
@@ -786,7 +794,7 @@ An Act to consolidate and amend the Reformatory Institutions Act 1909 and its am
 
 ##### 40 Repeals and amendments
     
-*   (1) The enactments specified in the Schedule are hereby repealed.
+*   (1) The enactments specified in the [Schedule][53] are hereby repealed.
     
     (2) Every reference in any enactment, or in any regulation, order, or warrant, or in any document whatsoever, to a certified inebriates home or an inebriates home shall hereafter, unless the context otherwise requires, be read as a reference to an institution within the meaning of this Act.
 
@@ -803,7 +811,7 @@ Enactments repealed
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (1957 Reprint, Vol 13, pp 216, 226)
 
-[Sections 66 to 68][72].
+[Sections 66 to 68][71].
 
 ##### Statutes Amendment Act 1944 (1944 No 25) (1957 Reprint, Vol 13, p 227)
 
@@ -829,23 +837,23 @@ So much of [Schedule 3][79] as relates to the Reformatory Institutions Act 1909\
 
 ###### 1 General
     
-*   This is a reprint of the Alcoholism and Drug Addiction Act 1966\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Alcoholism and Drug Addiction Act 1966\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][80] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][80] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][81] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][82] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][81] and [17E][82] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][83] and [17E][84] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -876,27 +884,29 @@ So much of [Schedule 3][79] as relates to the Reformatory Institutions Act 1909\
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][62], [130(1)][77]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][75]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][63]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][61], [130(1)][77]
     
-    Corrections Act 2004 (2004 No 50): [section 206][67]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][62]
+    
+    Corrections Act 2004 (2004 No 50): [section 206][66]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48):[section 175(1)][55]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][64]
+    Sentencing Act 2002 (2002 No 9): [section 186][63]
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][71]
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][70]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][70]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][69]
     
-    Health Reforms (Transitional Provisions) Act 1993 (1993 No 23): [section 32][60]
+    Health Reforms (Transitional Provisions) Act 1993 (1993 No 23): [section 32][59]
     
-    Coroners Act 1988 (1988 No 111): [section 46][73]
+    Coroners Act 1988 (1988 No 111): [section 46][72]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][61]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][60]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][69]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][68]
     
     Alcoholism and Drug Addiction Amendment Act 1975 (1975 No 60)
     
@@ -967,29 +977,31 @@ So much of [Schedule 3][79] as relates to the Reformatory Institutions Act 1909\
 [54]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM204329
 [55]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM205009
 [56]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM264952
-[57]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM176917
-[58]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM176927
-[59]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM176930
-[60]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM295182
-[61]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35085
-[62]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102349
-[63]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM333795
-[64]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM137267
-[65]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221336
-[66]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221717
-[67]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM297136
-[68]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM262175
-[69]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35049
-[70]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM367235
-[71]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM120905
-[72]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221716
-[73]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM135060
-[74]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM310742
-[75]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM314305
+[57]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM176927
+[58]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM176930
+[59]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM295182
+[60]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35085
+[61]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102349
+[62]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM333795
+[63]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM137267
+[64]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221336
+[65]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221717
+[66]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM297136
+[67]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM262175
+[68]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35049
+[69]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM367235
+[70]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM120905
+[71]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221716
+[72]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM135060
+[73]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3360366
+[74]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM314305
+[75]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3360714
 [76]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM351265
 [77]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102383
 [78]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM237831
 [79]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM314549
-[80]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM195439
-[81]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM195468
-[82]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM195470
+[80]: http://www.pco.parliament.govt.nz/reprints/
+[81]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM195439
+[82]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[83]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM195468
+[84]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM195470
