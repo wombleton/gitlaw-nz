@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -290,11 +290,13 @@ Commercial sexual services
     
     *   (e) take all other reasonable steps to minimise the risk of sex workers or clients acquiring or transmitting sexually transmissible infections.
     
-    (2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     (3) The obligations in this section apply only in relation to commercial sexual services provided for the business and to sex workers and clients in connection with those services.
     
     (4) In this section, _health information_ means information on safer sex practices and on services for the prevention and treatment of sexually transmissible infections.
+    
+    Section 8(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Sex workers and clients must adopt safer sex practices
     
@@ -304,11 +306,13 @@ Commercial sexual services
     
     (3) A person who provides or receives commercial sexual services must take all other reasonable steps to minimise the risk of acquiring or transmitting sexually transmissible infections.
     
-    (4) Every person who contravenes subsection (1), subsection (2), or subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $2,000\.
+    (4) Every person who contravenes subsection (1), subsection (2), or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $2,000\.
+    
+    Section 9(4): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Application of Health and Safety in Employment Act 1992
     
-*   (1) A sex worker is at work for the purposes of the [Health and Safety in Employment Act 1992][72] while providing commercial sexual services.
+*   (1) A sex worker is at work for the purposes of the [Health and Safety in Employment Act 1992][73] while providing commercial sexual services.
     
     (2) However, nothing in this Act (including subsection (1)) limits that Act or any regulations or approved codes of practice under that Act.
 
@@ -324,13 +328,15 @@ Commercial sexual services
     
     *   (c) screened at a public cinema.
     
-    (2) A person who does any of the things described in subsection (1), or who authorises any of the things described in that subsection to be done, commits an offence and is liable on summary conviction to,---
+    (2) A person who does any of the things described in subsection (1), or who authorises any of the things described in that subsection to be done, commits an offence and is liable on conviction to,---
         
     *   (a) in the case of a body corporate, a fine not exceeding $50,000; and
     
     *   (b) in any other case, a fine not exceeding $10,000\.
     
     (3) In this section, _advertisement_ means any words, or any pictorial or other representation, used to notify the availability of, or promote the sale of, commercial sexual services, either generally or specifically.
+    
+    Section 11(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Territorial authority may make bylaws
 
@@ -346,31 +352,31 @@ Commercial sexual services
     
     (3) Bylaws made under this section may prohibit or regulate signage in any terms, including (without limitation) by imposing restrictions on the content, form, or amount of signage on display.
     
-    (4) [Parts 8][73] and [9][74] of the Local Government Act 2002 (which are about, among other things, the enforcement of bylaws and penalties for their breach) apply to a bylaw made under this section as if the bylaw had been made under [section 145][75] of that Act.
+    (4) [Parts 8][74] and [9][75] of the Local Government Act 2002 (which are about, among other things, the enforcement of bylaws and penalties for their breach) apply to a bylaw made under this section as if the bylaw had been made under [section 145][76] of that Act.
 
 ##### 13 Procedure for making bylaws
     
-*   (1) A bylaw made under [section 12][18] must be made in the same manner in all respects as if it were a bylaw made under the [Local Government Act 2002][76].
+*   (1) A bylaw made under [section 12][18] must be made in the same manner in all respects as if it were a bylaw made under the [Local Government Act 2002][77].
     
-    (2) Despite subsection (1), a bylaw may be made under [section 12][18] even if, contrary to [section 155(3)][77] of the Local Government Act 2002, it is inconsistent with the [New Zealand Bill of Rights Act 1990][78].
+    (2) Despite subsection (1), a bylaw may be made under [section 12][18] even if, contrary to [section 155(3)][78] of the Local Government Act 2002, it is inconsistent with the [New Zealand Bill of Rights Act 1990][79].
 
 ##### 14 Bylaws regulating location of brothels
     
-*   Without limiting [section 145][75] of the Local Government Act 2002, a territorial authority may make bylaws for its district under [section 146][79] of that Act for the purpose of regulating the location of brothels.
+*   Without limiting [section 145][76] of the Local Government Act 2002, a territorial authority may make bylaws for its district under [section 146][80] of that Act for the purpose of regulating the location of brothels.
 
 #### Resource consents
 
 ##### 15 Resource consents in relation to businesses of prostitution
     
-*   (1) When considering an application for a resource consent under the [Resource Management Act 1991][80] for a land use relating to a business of prostitution, a territorial authority must have regard to whether the business of prostitution---
+*   (1) When considering an application for a resource consent under the [Resource Management Act 1991][81] for a land use relating to a business of prostitution, a territorial authority must have regard to whether the business of prostitution---
         
     *   (a) is likely to cause a nuisance or serious offence to ordinary members of the public using the area in which the land is situated; or
     
     *   (b) is incompatible with the existing character or use of the area in which the land is situated.
     
-    (2) Having considered the matters in subsection (1)(a) and (b) as well as the matters it is required to consider under the [Resource Management Act 1991][80], the territorial authority may, in accordance with [sections 104A to 104D][81] of that Act, grant or refuse to grant a resource consent, or, in accordance with [section 108][82] of that Act, impose conditions on any resource consent granted.
+    (2) Having considered the matters in subsection (1)(a) and (b) as well as the matters it is required to consider under the [Resource Management Act 1991][81], the territorial authority may, in accordance with [sections 104A to 104D][82] of that Act, grant or refuse to grant a resource consent, or, in accordance with [section 108][83] of that Act, impose conditions on any resource consent granted.
     
-    (3) Subsection (1) does not limit or affect the operation of the [Resource Management Act 1991][80] in any way, and it may be overriden, with respect to particular areas within a district, by the provisions of a district plan or proposed district plan.
+    (3) Subsection (1) does not limit or affect the operation of the [Resource Management Act 1991][81] in any way, and it may be overriden, with respect to particular areas within a district, by the provisions of a district plan or proposed district plan.
 
 #### Protections for sex workers
 
@@ -404,9 +410,11 @@ Commercial sexual services
         
         
     
-    *   (d) supply, or withhold supply of, any controlled drug within the meaning of the [Misuse of Drugs Act 1975][83].
+    *   (d) supply, or withhold supply of, any controlled drug within the meaning of the [Misuse of Drugs Act 1975][84].
     
-    (3) Every person who contravenes subsection (1) commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+    (3) Every person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 14 years.
+    
+    Section 16(3): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Refusal to provide commercial sexual services
     
@@ -420,9 +428,9 @@ Commercial sexual services
 
 ##### 18 Refusal to work as sex worker does not affect entitlements
     
-*   (1) A person's benefit, or entitlement to a benefit, under the [Social Security Act 1964][84] may not be cancelled or affected in any other way by his or her refusal to work, or to continue to work, as a sex worker (and, in this case, that work is not suitable employment for that person under that Act).
+*   (1) A person's benefit, or entitlement to a benefit, under the [Social Security Act 1964][85] may not be cancelled or affected in any other way by his or her refusal to work, or to continue to work, as a sex worker (and, in this case, that work is not suitable employment for that person under that Act).
     
-    (2) A person's entitlements under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][85] may not be lost or affected in any other way by his or her being capable of working as a sex worker if he or she refuses to do, or to continue to do, that kind of work.
+    (2) A person's entitlements under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][86] may not be lost or affected in any other way by his or her being capable of working as a sex worker if he or she refuses to do, or to continue to do, that kind of work.
     
     (3) In this section, refusal means a _refusal_ to do this kind of work in general, rather than a refusal of a particular job or at a particular time.
 
@@ -430,7 +438,7 @@ Commercial sexual services
 
 ##### 19 Application of Immigration Act 2009
     
-*   (1) No visa may be granted under the [Immigration Act 2009][86] to a person on the basis that the person---
+*   (1) No visa may be granted under the [Immigration Act 2009][87] to a person on the basis that the person---
         
     *   (a) has provided, or intends to provide, commercial sexual services; or
     
@@ -438,7 +446,7 @@ Commercial sexual services
     
     *   (c) has invested, or intends to invest, in a business of prostitution.
     
-    (2) It is a condition of every temporary entry class visa granted under the [Immigration Act 2009][86] that the holder of the visa may not, while in New Zealand,---
+    (2) It is a condition of every temporary entry class visa granted under the [Immigration Act 2009][87] that the holder of the visa may not, while in New Zealand,---
         
     *   (a) provide commercial sexual services; or
     
@@ -446,13 +454,13 @@ Commercial sexual services
     
     *   (c) invest in a New Zealand business of prostitution.
     
-    (3) It is sufficient reason for the Minister of Immigration or an immigration officer to determine that a temporary entry class visa holder is liable for deportation under [section 157][87] of the Immigration Act 2009 if the Minister or the officer believes, on reasonable grounds, that the holder is engaged in any of the things listed in subsection (2)(a) to (c) of this section.
+    (3) It is sufficient reason for the Minister of Immigration or an immigration officer to determine that a temporary entry class visa holder is liable for deportation under [section 157][88] of the Immigration Act 2009 if the Minister or the officer believes, on reasonable grounds, that the holder is engaged in any of the things listed in subsection (2)(a) to (c) of this section.
     
-    (4) Any conditions of a resident visa are deemed not to have been met and the resident is liable for deportation under [section 159][88] of the Immigration Act 2009 if the Minister of Immigration or an immigration officer determines that the holder of a resident visa acts as an operator of, or invests in, a New Zealand business of prostitution.
+    (4) Any conditions of a resident visa are deemed not to have been met and the resident is liable for deportation under [section 159][89] of the Immigration Act 2009 if the Minister of Immigration or an immigration officer determines that the holder of a resident visa acts as an operator of, or invests in, a New Zealand business of prostitution.
     
-    (5) This section applies to all visas and permits held and all requirements and conditions imposed under the [Immigration Act 1987][89] or the [Immigration Act 2009][86], whether granted or imposed before or after the commencement of this section.
+    (5) This section applies to all visas and permits held and all requirements and conditions imposed under the [Immigration Act 1987][90] or the [Immigration Act 2009][87], whether granted or imposed before or after the commencement of this section.
     
-    Section 19: substituted, at 2 am on 29 November 2010, by [section 406(1)][90] of the Immigration Act 2009 (2009 No 51).
+    Section 19: substituted, at 2 am on 29 November 2010, by [section 406(1)][91] of the Immigration Act 2009 (2009 No 51).
 
 #### Prohibitions on use in prostitution of persons under 18 years
 
@@ -472,11 +480,13 @@ Commercial sexual services
 
 ##### 23 Offence to breach prohibitions on use in prostitution of persons under 18 years
     
-*   (1) Every person who contravenes [section 20][31], [section 21][32], or [section 22][33] commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+*   (1) Every person who contravenes [section 20][31], [section 21][32], or [section 22][33] commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years.
     
     (2) No person contravenes [section 20][31] merely by providing legal advice, counselling, health advice, or any medical services to a person under 18 years of age.
     
     (3) No person under 18 years of age may be charged as a party to an offence committed on or with that person against this section.
+    
+    Section 23(1): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Powers to enter and inspect compliance with health and safety requirements
 
@@ -488,7 +498,7 @@ Commercial sexual services
 
 ##### 25 Inspectors
     
-*   (1) Every person designated as a Medical Officer of Health by the Director-General of Health under the [Health Act 1956][91] is an inspector for the purposes of this Act.
+*   (1) Every person designated as a Medical Officer of Health by the Director-General of Health under the [Health Act 1956][92] is an inspector for the purposes of this Act.
     
     (2) A Medical Officer of Health may also appoint persons as inspectors for his or her health district, on a permanent or temporary basis, for the purposes of this Act.
     
@@ -546,7 +556,7 @@ Commercial sexual services
     
     (3) The warrant must be directed to an inspector by name and must be in the prescribed form.
     
-    Section 27(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][92] of the Policing Act 2008 (2008 No 72).
+    Section 27(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
 
 ##### 28 Requirements when carrying out inspection
     
@@ -580,17 +590,19 @@ Commercial sexual services
     
     (3) If any thing is seized in the course of an inspection, the inspector must leave in a prominent location at the premises, or deliver or send by registered mail to the owner or occupier within 10 working days after the entry, a written inventory of all things seized.
     
-    (4) [Section 199][93] of the Summary Proceedings Act 1957 applies to any thing seized in the course of an inspection (as if the inspector were a constable and with any other necessary modifications).
+    (4) [Section 199][94] of the Summary Proceedings Act 1957 applies to any thing seized in the course of an inspection (as if the inspector were a constable and with any other necessary modifications).
 
 ##### 29 Obstructing inspectors
     
-*   Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who intentionally obstructs, hinders, or deceives an inspector in the execution of a power or duty under this Act.
+*   Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who intentionally obstructs, hinders, or deceives an inspector in the execution of a power or duty under this Act.
+    
+    Section 29: amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Powers of entry
 
 ##### 30 Warrant for Police to enter
     
-*   (1) An issuing officer (within the meaning of [section 3][94] of the Search and Surveillance Act 2012) may issue a warrant to enter a place if he or she is satisfied that---
+*   (1) An issuing officer (within the meaning of [section 3][95] of the Search and Surveillance Act 2012) may issue a warrant to enter a place if he or she is satisfied that---
         
     *   (a) there is good cause to suspect that an offence under either of the following provisions is being, has been, or is likely to be committed in the place:
             
@@ -602,35 +614,35 @@ Commercial sexual services
     
     *   (b) there are reasonable grounds to believe that it is necessary for a constable to enter the place for the purpose of preventing the commission or repetition of that offence or investigating that offence.
     
-    (2) The provisions of [Part 4][95] of the Search and Surveillance Act 2012 apply as if a warrant referred to in subsection (1) were a search warrant.
+    (2) The provisions of [Part 4][96] of the Search and Surveillance Act 2012 apply as if a warrant referred to in subsection (1) were a search warrant.
     
     (3) \[Repealed\]
     
-    Section 30(1): amended, on 1 October 2012, by [section 293(2)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 30(1): amended, on 1 October 2012, by [section 293(2)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 30(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][92] of the Policing Act 2008 (2008 No 72).
+    Section 30(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
     
-    Section 30(2): replaced, on 1 October 2012, by [section 293(3)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 30(2): replaced, on 1 October 2012, by [section 293(3)][97] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 30(3): repealed, on 1 October 2012, by [section 293(3)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 30(3): repealed, on 1 October 2012, by [section 293(3)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 31 Form and content of warrant
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 October 2012, by [section 293(4)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 31: repealed, on 1 October 2012, by [section 293(4)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 32 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 October 2012, by [section 293(4)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 32: repealed, on 1 October 2012, by [section 293(4)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 33 Requirements when executing warrant
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 1 October 2012, by [section 293(4)][96] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 33: repealed, on 1 October 2012, by [section 293(4)][97] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 3  
 Operator certificates
@@ -639,11 +651,13 @@ Operator certificates
     
 *   (1) Every operator of a business of prostitution (other than a company) must hold a certificate issued under [section 35][49].
     
-    (2) Every person who, while required by subsection (1) to hold a certificate, does not hold a certificate commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Every person who, while required by subsection (1) to hold a certificate, does not hold a certificate commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     (3) If a person who is charged under subsection (2) claims that he or she is not an operator because he or she is a sex worker at a small owner-operated brothel and is not an operator of any other business of prostitution, it is for the person charged to prove that assertion on the balance of probabilities.
     
     (4) Despite subsection (2), no person may be convicted of an offence under that subsection if the period during which the person does not hold a certificate is the first 6 months after this section comes into force.
+    
+    Section 34(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Application for, and grant of, certificates
     
@@ -693,33 +707,33 @@ Operator certificates
         
     *   (a) an offence under this Act (other than an offence under [section 39(3)][53], [section 40(2)][54], and [section 41(3)][55]):
     
-    *   (b) an offence under any of the following sections or Parts of the [Crimes Act 1961][97] that is punishable by 2 or more years' imprisonment:
+    *   (b) an offence under any of the following sections or Parts of the [Crimes Act 1961][98] that is punishable by 2 or more years' imprisonment:
             
-        *   (i) [section 98A][98] (participation in an organised criminal group):
+        *   (i) [section 98A][99] (participation in an organised criminal group):
         
-        *   (ii) [sections 127 to 144C][99] (includes sexual crimes):
+        *   (ii) [sections 127 to 144C][100] (includes sexual crimes):
         
-        *   (iii) [Part 8][100] (includes murder, manslaughter, assault, and abduction):
+        *   (iii) [Part 8][101] (includes murder, manslaughter, assault, and abduction):
         
-        *   (iv) [sections 234 to 244][101] (robbery, extortion, and burglary):
+        *   (iv) [sections 234 to 244][102] (robbery, extortion, and burglary):
         
-        *   (v) [section 257A][102] (money laundering):
+        *   (v) [section 257A][103] (money laundering):
         
         
     
-    *   (c) an offence under the [Arms Act 1983][103] that is punishable by imprisonment:
+    *   (c) an offence under the [Arms Act 1983][104] that is punishable by imprisonment:
     
-    *   (d) in relation to the [Misuse of Drugs Act 1975][83],---
+    *   (d) in relation to the [Misuse of Drugs Act 1975][84],---
             
-        *   (i) an offence under [section 6][104] (other than possession of a Class C controlled drug):
+        *   (i) an offence under [section 6][105] (other than possession of a Class C controlled drug):
         
-        *   (ii) an offence under [section 9][105], [section 12A][106], [section 12AB][107], or [section 12B][108]:
+        *   (ii) an offence under [section 9][106], [section 12A][107], [section 12AB][108], or [section 12B][109]:
         
         *   (iii) an offence under any other section, but only if it relates to a Class A or a Class B controlled drug.
         
         
     
-    Section 36(2)(d)(ii): amended, on 22 June 2005, by [section 23][109] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 36(2)(d)(ii): amended, on 22 June 2005, by [section 23][110] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
 
 ##### 37 Waiver of disqualification
     
@@ -789,15 +803,19 @@ Operator certificates
     
     (2) The cancellation of the certificate takes effect 5 days after notification of the cancellation is sent to the certificate holder at the address supplied in his or her application for a certificate.
     
-    (3) A person whose certificate is cancelled commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails to return the certificate to a District Court within 1 month of the cancellation of the certificate.
+    (3) A person whose certificate is cancelled commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails to return the certificate to a District Court within 1 month of the cancellation of the certificate.
+    
+    Section 39(3): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Operator to produce certificate on request
     
 *   (1) A constable may, on producing evidence that he or she is a constable, require any person whom the member believes on reasonable grounds is an operator to produce that person's certificate for inspection, and the person must produce his or her certificate to the member, or to another constable at a local Police station, within 24 hours of the request.
     
-    (2) If a request under subsection (1) is made to the holder of a certificate, that holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to produce his or her certificate as required by that subsection.
+    (2) If a request under subsection (1) is made to the holder of a certificate, that holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to produce his or her certificate as required by that subsection.
     
-    Section 40(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][92] of the Policing Act 2008 (2008 No 72).
+    Section 40(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
+    
+    Section 40(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41 Court records
     
@@ -811,7 +829,9 @@ Operator certificates
     
     (2) Nothing in this section limits the power of the Registrar to prepare and supply (whether for use by the Department for Courts or any other purpose) statistical information about applicants for certificates, applicants for waiver of disqualification, and certificate holders, as long as the information is supplied in a form that does not identify individual applicants or certificate holders.
     
-    (3) A person who, in contravention of this section, obtains or uses information that is sourced from, or purports to be sourced from, the court records referred to in this section commits an offence and is liable on summary conviction to a fine not exceeding $2,000\.
+    (3) A person who, in contravention of this section, obtains or uses information that is sourced from, or purports to be sourced from, the court records referred to in this section commits an offence and is liable on conviction to a fine not exceeding $2,000\.
+    
+    Section 41(3): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 4  
 Miscellaneous provisions
@@ -896,7 +916,7 @@ Miscellaneous provisions
 
 ##### 45 Remuneration of members
     
-*   (1) A member is entitled to receive remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][110] (and the provisions of that Act apply as if the Prostitution Law Review Committee were a statutory Board under that Act).
+*   (1) A member is entitled to receive remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][111] (and the provisions of that Act apply as if the Prostitution Law Review Committee were a statutory Board under that Act).
     
     (2) That remuneration must be paid out of the departmental bank account operated by the Ministry of Justice.
     
@@ -942,15 +962,15 @@ Miscellaneous provisions
 
 ##### 50 Consequential amendments
     
-*   (1) The Acts specified in [Part 1][111] of the Schedule are consequentially amended in the manner set out in that schedule.
+*   (1) The Acts specified in [Part 1][112] of the Schedule are consequentially amended in the manner set out in that schedule.
     
-    (2) The regulations specified in [Part 2][112] of the Schedule are consequentially amended in the manner set out in that schedule.
+    (2) The regulations specified in [Part 2][113] of the Schedule are consequentially amended in the manner set out in that schedule.
 
 ##### 51 Transitional provisions for past offences
     
-*   (1) No person may be convicted of an offence against any of the enactments repealed by [section 48][66] (other than an offence against [section 149A][113] of the Crimes Act 1961) on or after the commencement of this Act if the offence was committed before the commencement of this Act.
+*   (1) No person may be convicted of an offence against any of the enactments repealed by [section 48][66] (other than an offence against [section 149A][114] of the Crimes Act 1961) on or after the commencement of this Act if the offence was committed before the commencement of this Act.
     
-    (2) The repeal of [section 149A][113] of the Crimes Act 1961 does not affect a liability to conviction or to a penalty for an offence committed against that section before the commencement of this Act, and that section continues to have effect as if it had not been repealed for the purposes of---
+    (2) The repeal of [section 149A][114] of the Crimes Act 1961 does not affect a liability to conviction or to a penalty for an offence committed against that section before the commencement of this Act, and that section continues to have effect as if it had not been repealed for the purposes of---
         
     *   (a) investigating the offence:
     
@@ -972,92 +992,22 @@ Acts amended
 
 ##### District Courts Act 1947 (1947 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][114]_.
+_Amendment(s) incorporated in the [Act(s)][115]_.
 
 ##### Summary Offences Act 1981 (1981 No 113)
 
-_Amendment(s) incorporated in the [Act(s)][115]_.
+_Amendment(s) incorporated in the [Act(s)][116]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][116]_.
+_Amendment(s) incorporated in the [Act(s)][117]_.
 
 ## Part 2  
 Regulation amended
 
 ##### Fees Regulations 1987 (SR 1987/68)
 
-_Amendments incorporated in the [Regulations][117]._
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][118].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][119] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+_Amendments incorporated in the [Regulations][118]._
 
 ---
 
@@ -1075,23 +1025,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Prostitution Reform Act 2003\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Prostitution Reform Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][120] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][119] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][121] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][120] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][122] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][121] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][123] and [17E][124] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][122] and [17E][123] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1122,13 +1072,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 293][96]
+*   Search and Surveillance Act 2012 (2012 No 24): [section 293][97]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1) ][90]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][72]
     
-    Policing Act 2003 (2008 No 72): [section 116(a)(ii)][92]
+    Immigration Act 2009 (2009 No 51): [section 406(1) ][91]
     
-    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][109]
+    Policing Act 2003 (2008 No 72): [section 116(a)(ii)][93]
+    
+    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][110]
 
 
 
@@ -1204,56 +1156,55 @@ Amendments, repeals, and miscellaneous provisions
 [69]: http://www.legislation.govt.nz/act/public/2003/0028/latest/whole.html#DLM198312
 [70]: http://www.legislation.govt.nz/act/public/2003/0028/latest/whole.html#DLM198313
 [71]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM170881
-[72]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM278828
-[73]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM172973
-[74]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM174008
-[75]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM172978
-[76]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM170872
-[77]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM173401
-[78]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM224791
-[79]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM172979
-[80]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM230264
-[81]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM234363
-[82]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM234810
-[83]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436100
-[84]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM359106
-[85]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM99493
-[86]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1440300
-[87]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1440844
-[88]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1440847
-[89]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM108017
-[90]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1441347
-[91]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM305839
-[92]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1102349
-[93]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM314018
-[94]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM2136542
-[95]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM2136770
-[96]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM2137057
-[97]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM327381
-[98]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM328596
-[99]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM329049
-[100]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM329288
-[101]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM330250
-[102]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM330448
-[103]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM72621
-[104]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436222
-[105]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436264
-[106]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436279
-[107]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436281
-[108]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436285
-[109]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM356263
-[110]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM264952
-[111]: http://www.legislation.govt.nz/act/public/2003/0028/latest/whole.html#DLM198314
-[112]: http://www.legislation.govt.nz/act/public/2003/0028/latest/whole.html#DLM198320
-[113]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM329284
-[114]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM244497
-[115]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM53585
-[116]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM314308
-[117]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM119180
-[118]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM2136500
-[119]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM4686448
-[120]: http://www.pco.parliament.govt.nz/reprints/
-[121]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM195439
-[122]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[123]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM195468
-[124]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM195470
+[72]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM3360714
+[73]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM278828
+[74]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM172973
+[75]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM174008
+[76]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM172978
+[77]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM170872
+[78]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM173401
+[79]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM224791
+[80]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM172979
+[81]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM230264
+[82]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM234363
+[83]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM234810
+[84]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436100
+[85]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM359106
+[86]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM99493
+[87]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1440300
+[88]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1440844
+[89]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1440847
+[90]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM108017
+[91]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1441347
+[92]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM305839
+[93]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM1102349
+[94]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM314018
+[95]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM2136542
+[96]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM2136770
+[97]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM2137057
+[98]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM327381
+[99]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM328596
+[100]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM329049
+[101]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM329288
+[102]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM330250
+[103]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM330448
+[104]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM72621
+[105]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436222
+[106]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436264
+[107]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436279
+[108]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436281
+[109]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM436285
+[110]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM356263
+[111]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM264952
+[112]: http://www.legislation.govt.nz/act/public/2003/0028/latest/whole.html#DLM198314
+[113]: http://www.legislation.govt.nz/act/public/2003/0028/latest/whole.html#DLM198320
+[114]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM329284
+[115]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM244497
+[116]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM53585
+[117]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM314308
+[118]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM119180
+[119]: http://www.pco.parliament.govt.nz/reprints/
+[120]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM195439
+[121]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[122]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM195468
+[123]: http://www.legislation.govt.nz/act/public/2003/0028/latest/link.aspx?id=DLM195470
