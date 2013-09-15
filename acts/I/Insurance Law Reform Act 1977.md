@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,39 +25,39 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Misstatements in contracts of life insurance][5]
+[4][5][][5][Misstatements in contracts of life insurance][5]
 
-[5][6] [Misstatements in other contracts of insurance][6]
+[5][6][][6][Misstatements in other contracts of insurance][6]
 
-[6][7] [Incorrectness and materiality defined][7]
+[6][7][][7][Incorrectness and materiality defined][7]
 
-[7][8] [Misstatement of age][8]
+[7][8][][8][Misstatement of age][8]
 
-[8][9] [Arbitration clauses not binding][9]
+[8][9][][9][Arbitration clauses not binding][9]
 
-[9][10] [Time limits on claims under contracts of insurance][10]
+[9][10][][10][Time limits on claims under contracts of insurance][10]
 
-[10][11] [Salesman, etc, to be agents of insurer][11]
+[10][11][][11][Salesman, etc, to be agents of insurer][11]
 
-[11][12] [Certain exclusions forbidden][12]
+[11][12][][12][Certain exclusions forbidden][12]
 
-[12][13] [Actions on or in relation to contracts of insurance to be tried before a Judge alone][13]
+[12][13][][13][Actions on or in relation to contracts of insurance to be tried before a Judge alone][13]
 
-[12A][14] [Application for shares in company not to be contained in proposal for insurance][14]
+[12A][14][][14][Application for shares in company not to be contained in proposal for insurance][14]
 
-[13][15] [Application of Act][15]
+[13][15][][15][Application of Act][15]
 
-[14][16] [Marine Insurance Act 1908 to be subject to this Act][16]
+[14][16][][16][Marine Insurance Act 1908 to be subject to this Act][16]
 
-[15][17] [No contracting out][17]
+[15][17][][17][No contracting out][17]
 
-[16][18] [Repeal][18]
+[16][18][][18][Repeal][18]
 
 ---
 
@@ -221,9 +221,9 @@ An Act to effect certain reforms in the law governing contracts of insurance
     
     (3) If a company contravenes this section,---
         
-    *   (a) the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000:
+    *   (a) the company commits an offence and is liable on conviction to a fine not exceeding $10,000:
     
-    *   (b) every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000 if it is proved---
+    *   (b) every director of the company commits an offence and is liable on conviction to a fine not exceeding $10,000 if it is proved---
             
         *   (i) that the act that constituted the offence under paragraph (a) took place with his or her authority, permission, or consent; or
         
@@ -244,6 +244,10 @@ An Act to effect certain reforms in the law governing contracts of insurance
     Compare: 1994 No 117 [s 33][24]
     
     Section 12A: inserted, on 1 February 2011, by [section 241(2)][25] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    
+    Section 12A(3)(a): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 12A(3)(b): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Application of Act
     
@@ -269,7 +273,7 @@ An Act to effect certain reforms in the law governing contracts of insurance
 
 ##### 14 Marine Insurance Act 1908 to be subject to this Act
     
-*   Nothing in the [Marine Insurance Act 1908][26] shall limit any provision of this Act and the provisions of this Act shall prevail in any case where they are in conflict with any provision of that Act.
+*   Nothing in the [Marine Insurance Act 1908][27] shall limit any provision of this Act and the provisions of this Act shall prevail in any case where they are in conflict with any provision of that Act.
 
 ##### 15 No contracting out
     
@@ -277,7 +281,7 @@ An Act to effect certain reforms in the law governing contracts of insurance
 
 ##### 16 Repeal
     
-*   _Amendment(s) incorporated in the [Act(s)][27]_.
+*   _Amendment(s) incorporated in the [Act(s)][28]_.
 
 ---
 
@@ -295,23 +299,23 @@ An Act to effect certain reforms in the law governing contracts of insurance
 
 ###### 1 General
     
-*   This is a reprint of the Insurance Law Reform Act 1977\. The reprint incorporates all the amendments to the Act as at 1 February 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Insurance Law Reform Act 1977\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][28] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][29] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][29] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][30] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][30] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][31] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][31] and [17E][32] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][32] and [17E][33] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -342,7 +346,9 @@ An Act to effect certain reforms in the law governing contracts of insurance
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][25]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][26]
+    
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][25]
     
     Arbitration Act 1996 (1996 No 99): [section 17][21]
     
@@ -376,10 +382,11 @@ An Act to effect certain reforms in the law governing contracts of insurance
 [23]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM319576
 [24]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM342778
 [25]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM2478612
-[26]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM170781
-[27]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM289020
-[28]: http://www.pco.parliament.govt.nz/reprints/
-[29]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM195439
-[30]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[31]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM195468
-[32]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM3360714
+[27]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM170781
+[28]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM289020
+[29]: http://www.pco.parliament.govt.nz/reprints/
+[30]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM195439
+[31]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[32]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM195468
+[33]: http://www.legislation.govt.nz/act/public/1977/0014/latest/link.aspx?id=DLM195470
