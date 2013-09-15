@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -600,15 +600,17 @@ An Act to consolidate and amend the Radioactive Substances Act 1949
     
     *   (d) for the purpose of obtaining, whether for himself or any other person, the grant of any licence under this Act, or for any other purpose in relation to this Act, makes any declaration or statement which to his knowledge is false in any particular, or utters, produces, or makes use of any such declaration or statement or any document containing the same, or knowingly utters, produces, or makes use of any document which is not genuine.
     
-    (2) Every person who commits an offence against this Act is liable on summary conviction to a fine not exceeding $10,000, and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
+    (2) Every person who commits an offence against this Act is liable on conviction to a fine not exceeding $10,000, and, where the offence is a continuing one, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
     
     Compare: 1949 No 42 s 26
     
     Section 26(1)(c): repealed, on 1 April 1987, by [section 25(1)][69] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 26(2): amended, on 28 July 1997, by [section 2(1)][70] of the Radiation Protection Amendment Act 1997 (1997 No 53).
+    Section 26(2): amended, on 1 July 2013, by [section 413][70] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 26(2): amended, on 28 July 1997, by [section 2(2)][70] of the Radiation Protection Amendment Act 1997 (1997 No 53).
+    Section 26(2): amended, on 28 July 1997, by [section 2(1)][71] of the Radiation Protection Amendment Act 1997 (1997 No 53).
+    
+    Section 26(2): amended, on 28 July 1997, by [section 2(2)][71] of the Radiation Protection Amendment Act 1997 (1997 No 53).
 
 ##### 27 Liability of licensee
     
@@ -648,7 +650,7 @@ An Act to consolidate and amend the Radioactive Substances Act 1949
     
     Compare: 1949 No 42 s 28
     
-    Section 30: amended, on 25 January 2005, pursuant to [section 83(7)][71] of the Public Finance Act 1989 (1989 No 44).
+    Section 30: amended, on 25 January 2005, pursuant to [section 83(7)][72] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 31 Regulations
     
@@ -700,7 +702,7 @@ An Act to consolidate and amend the Radioactive Substances Act 1949
     
     Compare: 1949 No 42 s 29
     
-    Section 31(a): amended, on 21 November 1973, by [section 3][72] of the Radiation Protection Amendment Act 1973 (1973 No 89).
+    Section 31(a): amended, on 21 November 1973, by [section 3][73] of the Radiation Protection Amendment Act 1973 (1973 No 89).
 
 ##### 32 Saving of other Acts
     
@@ -731,76 +733,6 @@ _Amendment(s) incorporated in the [Act(s)][54]._
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][73].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][74] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -815,23 +747,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Radiation Protection Act 1965\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Radiation Protection Act 1965\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][75] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][74] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][76] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][75] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][77] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][76] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][78] and [17E][79] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][77] and [17E][78] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -864,6 +796,8 @@ Amendments, repeals, and miscellaneous provisions
     
 *   Search and Surveillance Act 2012 (2012 No 24): [section 294][66]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][70]
+    
     Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][59]
     
     Building Act 2004 (2004 No 72): [section 414][68]
@@ -872,9 +806,9 @@ Amendments, repeals, and miscellaneous provisions
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][53]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][80]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][79]
     
-    [Radiation Protection Amendment Act 1997][81] (1997 No 53)
+    [Radiation Protection Amendment Act 1997][80] (1997 No 53)
     
     Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][58]
     
@@ -886,11 +820,11 @@ Amendments, repeals, and miscellaneous provisions
     
     Building Act 1991 (1991 No 150): section 92(1)
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][71]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][72]
     
     Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][69]
     
-    [Radiation Protection Amendment Act 1986][82] (1986 No 107)
+    [Radiation Protection Amendment Act 1986][81] (1986 No 107)
     
     Radiation Protection Amendment Act 1981 (1981 No 90)
     
@@ -976,16 +910,15 @@ Amendments, repeals, and miscellaneous provisions
 [67]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM306035
 [68]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM309090
 [69]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM101353
-[70]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM410720
-[71]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM163167
-[72]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM372586
-[73]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM2136500
-[74]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM4686448
-[75]: http://www.pco.parliament.govt.nz/reprints/
-[76]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM195439
-[77]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[78]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM195468
-[79]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM195470
-[80]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM427920
-[81]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM410714
-[82]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM93875
+[70]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM3360714
+[71]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM410720
+[72]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM163167
+[73]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM372586
+[74]: http://www.pco.parliament.govt.nz/reprints/
+[75]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM195439
+[76]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[77]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM195468
+[78]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM195470
+[79]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM427920
+[80]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM410714
+[81]: http://www.legislation.govt.nz/act/public/1965/0023/latest/link.aspx?id=DLM93875
