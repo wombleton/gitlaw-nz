@@ -1,3 +1,6 @@
+Reprint  
+as at 1 July 2013
+
 # Marine Insurance Act 1908Public Act1908 No 112
 
 Date of assent4 August 1908
@@ -6,233 +9,237 @@ Date of assent4 August 1908
 
 ###### Note
 
-This Act is administered in the Ministry of Commerce
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+
+A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+
+This Act is administered by the Ministry of Commerce.
 
 ---
 
 ## Contents
 
-[Title][0]
+[Title][1]
 
-[1][1] [Short Title, etc][1]
+[1][2][][2][Short Title, etc][2]
 
-[2][2] [Interpretation][2]
+[2][3][][3][Interpretation][3]
 
-[Marine insurance][3]
+[Marine insurance][4]
 
-[3][4] [Marine insurance defined. Mixed sea and land risks][4]
+[3][5][][5][Marine insurance defined. Mixed sea and land risks][5]
 
-[4][5] [Marine adventure and maritime perils defined][5]
+[4][6][][6][Marine adventure and maritime perils defined][6]
 
-[Insurable interest][6]
+[Insurable interest][7]
 
-[5][7] [Avoidance of wagering or gaming contracts][7]
+[5][8][][8][Avoidance of wagering or gaming contracts][8]
 
-[6][8] [Insurable interest defined][8]
+[6][9][][9][Insurable interest defined][9]
 
-[7][9] [When interest must attach][9]
+[7][10][][10][When interest must attach][10]
 
-[8][10] [Defeasible or contingent interest][10]
+[8][11][][11][Defeasible or contingent interest][11]
 
-[9][11] [Partial interest][11]
+[9][12][][12][Partial interest][12]
 
-[10][12] [Reinsurance][12]
+[10][13][][13][Reinsurance][13]
 
-[11][13] [Bottomry][13]
+[11][14][][14][Bottomry][14]
 
-[12][14] [Master's and seamen's wages][14]
+[12][15][][15][Master's and seamen's wages][15]
 
-[13][15] [Advance freight][15]
+[13][16][][16][Advance freight][16]
 
-[14][16] [Charges of insurance][16]
+[14][17][][17][Charges of insurance][17]
 
-[15][17] [Quantum of interest][17]
+[15][18][][18][Quantum of interest][18]
 
-[16][18] [Assignment of interest][18]
+[16][19][][19][Assignment of interest][19]
 
-[Insurable value][19]
+[Insurable value][20]
 
-[17][20] [Measure of insurable value][20]
+[17][21][][21][Measure of insurable value][21]
 
-[Disclosure and representations][21]
+[Disclosure and representations][22]
 
-[18][22] [Disclosure by assured][22]
+[18][23][][23][Disclosure by assured][23]
 
-[19][23] [Disclosure by agent effecting insurance][23]
+[19][24][][24][Disclosure by agent effecting insurance][24]
 
-[20][24] [Representations pending negotiation of contract][24]
+[20][25][][25][Representations pending negotiation of contract][25]
 
-[21][25] [When contract is deemed to be concluded][25]
+[21][26][][26][When contract is deemed to be concluded][26]
 
-[The policy][26]
+[The policy][27]
 
-[22][27] [][27] \[Repealed\]
+[22][28][][28][Contract must be embodied in policy][28] \[Repealed\]
 
-[23][28] [What policy must specify][28]
+[23][29][][29][What policy must specify][29]
 
-[24][29] [Signature of insurer][29]
+[24][30][][30][Signature of insurer][30]
 
-[25][30] [Designation of subject-matter][30]
+[25][31][][31][Designation of subject-matter][31]
 
-[26][31] [Failure to execute policy][31]
+[26][32][][32][Failure to execute policy][32]
 
-[27][32] [Voyage and time policies][32]
+[27][33][][33][Voyage and time policies][33]
 
-[28][33] [Valued policy][33]
+[28][34][][34][Valued policy][34]
 
-[29][34] [Unvalued policy][34]
+[29][35][][35][Unvalued policy][35]
 
-[30][35] [Floating policy by ship or ships][35]
+[30][36][][36][Floating policy by ship or ships][36]
 
-[31][36] [Premium to be arranged][36]
+[31][37][][37][Premium to be arranged][37]
 
-[32][37] [Construction of terms in policy][37]
+[32][38][][38][Construction of terms in policy][38]
 
-[Double insurance][38]
+[Double insurance][39]
 
-[33][39] [Double insurance][39]
+[33][40][][40][Double insurance][40]
 
-[Warranties, etc][40]
+[Warranties, etc][41]
 
-[34][41] [Nature of warranty][41]
+[34][42][][42][Nature of warranty][42]
 
-[35][42] [When breach of warranty excused][42]
+[35][43][][43][When breach of warranty excused][43]
 
-[36][43] [Express warranties][43]
+[36][44][][44][Express warranties][44]
 
-[37][44] [Warranty of neutrality][44]
+[37][45][][45][Warranty of neutrality][45]
 
-[38][45] [No implied warranty of nationality][45]
+[38][46][][46][No implied warranty of nationality][46]
 
-[39][46] [Warranty of good safety][46]
+[39][47][][47][Warranty of good safety][47]
 
-[40][47] [Warranty of seaworthiness of ship][47]
+[40][48][][48][Warranty of seaworthiness of ship][48]
 
-[41][48] [No implied warranty that goods are seaworthy][48]
+[41][49][][49][No implied warranty that goods are seaworthy][49]
 
-[42][49] [Warranty of legality][49]
+[42][50][][50][Warranty of legality][50]
 
-[The voyage][50]
+[The voyage][51]
 
-[43][51] [Implied condition as to commencement of risk][51]
+[43][52][][52][Implied condition as to commencement of risk][52]
 
-[44][52] [Alteration of port of departure][52]
+[44][53][][53][Alteration of port of departure][53]
 
-[45][53] [Sailing for different destination][53]
+[45][54][][54][Sailing for different destination][54]
 
-[46][54] [Change of voyage][54]
+[46][55][][55][Change of voyage][55]
 
-[47][55] [Deviation][55]
+[47][56][][56][Deviation][56]
 
-[48][56] [Several ports of discharge][56]
+[48][57][][57][Several ports of discharge][57]
 
-[49][57] [Delay in voyage][57]
+[49][58][][58][Delay in voyage][58]
 
-[50][58] [Excuses for deviation or delay][58]
+[50][59][][59][Excuses for deviation or delay][59]
 
-[Assignment of policy][59]
+[Assignment of policy][60]
 
-[51][60] [When and how policy is assignable][60]
+[51][61][][61][When and how policy is assignable][61]
 
-[52][61] [Assured who has no interest cannot assign][61]
+[52][62][][62][Assured who has no interest cannot assign][62]
 
-[The premium][62]
+[The premium][63]
 
-[53][63] [Policy effected through broker][63]
+[53][64][][64][Policy effected through broker][64]
 
-[54][64] [Effect of receipt on policy][64]
+[54][65][][65][Effect of receipt on policy][65]
 
-[Loss and abandonment][65]
+[Loss and abandonment][66]
 
-[55][66] [Included and excluded losses][66]
+[55][67][][67][Included and excluded losses][67]
 
-[56][67] [Partial and total loss][67]
+[56][68][][68][Partial and total loss][68]
 
-[57][68] [Actual total loss][68]
+[57][69][][69][Actual total loss][69]
 
-[58][69] [Missing ship][69]
+[58][70][][70][Missing ship][70]
 
-[59][70] [Effect of transhipment, etc][70]
+[59][71][][71][Effect of transhipment, etc][71]
 
-[60][71] [Constructive total loss defined][71]
+[60][72][][72][Constructive total loss defined][72]
 
-[61][72] [Effect of constructive total loss][72]
+[61][73][][73][Effect of constructive total loss][73]
 
-[62][73] [Notice of abandonment][73]
+[62][74][][74][Notice of abandonment][74]
 
-[63][74] [Effect of abandonment][74]
+[63][75][][75][Effect of abandonment][75]
 
-[Partial losses (including salvage and general average and particular charges)][75]
+[Partial losses (including salvage and general average and particular charges)][76]
 
-[64][76] [Particular average loss][76]
+[64][77][][77][Particular average loss][77]
 
-[65][77] [Salvage charges][77]
+[65][78][][78][Salvage charges][78]
 
-[66][78] [General average loss][78]
+[66][79][][79][General average loss][79]
 
-[Measure of indemnity][79]
+[Measure of indemnity][80]
 
-[67][80] [Extent of liability of insurer for loss][80]
+[67][81][][81][Extent of liability of insurer for loss][81]
 
-[68][81] [Total loss][81]
+[68][82][][82][Total loss][82]
 
-[69][82] [Partial loss of ship][82]
+[69][83][][83][Partial loss of ship][83]
 
-[70][83] [Partial loss of freight][83]
+[70][84][][84][Partial loss of freight][84]
 
-[71][84] [Partial loss of goods, merchandise, etc][84]
+[71][85][][85][Partial loss of goods, merchandise, etc][85]
 
-[72][85] [Apportionment of valuation][85]
+[72][86][][86][Apportionment of valuation][86]
 
-[73][86] [General average contributions and salvage charges][86]
+[73][87][][87][General average contributions and salvage charges][87]
 
-[74][87] [Liabilities to third parties][87]
+[74][88][][88][Liabilities to third parties][88]
 
-[75][88] [General provisions as to measure of indemnity][88]
+[75][89][][89][General provisions as to measure of indemnity][89]
 
-[76][89] [Particular average warranties][89]
+[76][90][][90][Particular average warranties][90]
 
-[77][90] [Successive losses][90]
+[77][91][][91][Successive losses][91]
 
-[78][91] [Suing and labouring clause][91]
+[78][92][][92][Suing and labouring clause][92]
 
-[Rights of insurer on payment][92]
+[Rights of insurer on payment][93]
 
-[79][93] [Right of subrogation][93]
+[79][94][][94][Right of subrogation][94]
 
-[80][94] [Right of contribution][94]
+[80][95][][95][Right of contribution][95]
 
-[81][95] [Effect of under-insurance][95]
+[81][96][][96][Effect of under-insurance][96]
 
-[Return of premium][96]
+[Return of premium][97]
 
-[82][97] [Enforcement of return][97]
+[82][98][][98][Enforcement of return][98]
 
-[83][98] [Return by agreement][98]
+[83][99][][99][Return by agreement][99]
 
-[84][99] [Return for failure of consideration][99]
+[84][100][][100][Return for failure of consideration][100]
 
-[Mutual insurance][100]
+[Mutual insurance][101]
 
-[85][101] [Modification of Act in case of mutual insurance][101]
+[85][102][][102][Modification of Act in case of mutual insurance][102]
 
-[Supplemental][102]
+[Supplemental][103]
 
-[86][103] [Ratification by assured][103]
+[86][104][][104][Ratification by assured][104]
 
-[87][104] [Implied obligations varied by agreement or usage][104]
+[87][105][][105][Implied obligations varied by agreement or usage][105]
 
-[88][105] [Reasonable time, etc, a question of fact][105]
+[88][106][][106][Reasonable time, etc, a question of fact][106]
 
-[89][106] [Application of rules of common law][106]
+[89][107][][107][Application of rules of common law][107]
 
-[90][107] [][107] \[Repealed\]
+[90][108][][108][Slip as evidence][108] \[Repealed\]
 
-[Schedule 1][108]  
-[Enactments consolidated][108]
+[Schedule 1][109]  
+[Enactments consolidated][109]
 
-[Schedule 2][109]  
-[Rules for the construction of policies][109]
+[Schedule 2][110]  
+[Rules for the construction of policies][110]
 
 ---
 
@@ -242,7 +249,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
 *   (1) The Short Title of this Act is the Marine Insurance Act 1908\.
     
-    (2) This Act is a consolidation of the enactments mentioned in Schedule [1][108] hereto.
+    (2) This Act is a consolidation of the enactments mentioned in [Schedule 1][109].
     
     (3) All matters and proceedings commenced under those enactments, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
 
@@ -250,17 +257,17 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
 *   In this Act, if not inconsistent with the context,---
     
-    _Action_ includes counterclaim and set-off
+    _action_ includes counterclaim and set-off
     
-    _Freight_ includes the profit derivable by a shipowner from the employment of his ship to carry his own goods or movables, as well as freight payable by a third party, but does not include passage money
+    _freight_ includes the profit derivable by a shipowner from the employment of his ship to carry his own goods or movables, as well as freight payable by a third party, but does not include passage money
     
-    _Movables_ means any movable tangible property other than the ship, and includes money, valuable securities, and other documents
+    _movables_ means any movable tangible property other than the ship, and includes money, valuable securities, and other documents
     
-    _Policy_ means a marine policy.
+    _policy_ means a marine policy.
     
     Compare: 1907 No 24 s 91
 
-## Marine insurance
+#### Marine insurance
 
 ##### 3 Marine insurance defined. Mixed sea and land risks
     
@@ -278,17 +285,17 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (2) In particular there is a marine adventure where---
         
-    *   (a) Any ship, goods, or other movables (such property being hereinafter referred to as _insurable property_) are exposed to maritime perils:
+    *   (a) any ship, goods, or other movables (such property being hereinafter referred to as _insurable property_) are exposed to maritime perils:
     
-    *   (b) The earning or acquisition of any freight, passage money, commission, profit, or other pecuniary benefit, or the security for any advances, loan, or disbursements, is endangered by the exposure of insurable property to maritime perils:
+    *   (b) the earning or acquisition of any freight, passage money, commission, profit, or other pecuniary benefit, or the security for any advances, loan, or disbursements, is endangered by the exposure of insurable property to maritime perils:
     
-    *   (c) Any liability to a third party may be incurred by the owner of, or other person interested in or responsible for, insurable property by reason of maritime perils.
+    *   (c) any liability to a third party may be incurred by the owner of, or other person interested in or responsible for, insurable property by reason of maritime perils.
     
     (3) _Maritime perils_ means the perils consequent on or incidental to the navigation of the sea---that is to say, perils of the seas, fire, war perils, pirates, rovers, thieves, captures, seizures, restraints, and detainments of princes and peoples, jettisons, barratry, and any other perils, either of the like kind or designated by the policy.
     
     Compare: 1907 No 24 s 4
 
-## Insurable interest
+#### Insurable interest
 
 ##### 5 Avoidance of wagering or gaming contracts
     
@@ -296,11 +303,11 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (2) A contract of marine insurance is deemed to be a gaming or wagering contract---
         
-    *   (a) Where the assured has not an insurable interest as defined by this Act, and the contract is entered into with no expectation of acquiring such an interest; or
+    *   (a) where the assured has not an insurable interest as defined by this Act, and the contract is entered into with no expectation of acquiring such an interest; or
     
-    *   (b) Where the policy is made **interest or no interest**, or **without further proof of interest than the policy itself**, or **without benefit of salvage to the insurer**, or subject to any other like term:
-        
-        Provided that where there is no possibility of salvage a policy may be effected without benefit of salvage to the insurer.
+    *   (b) where the policy is made **interest or no interest**, or **without further proof of interest than the policy itself**, or **without benefit of salvage to the insurer**, or subject to any other like term:
+    
+    *   Provided that where there is no possibility of salvage a policy may be effected without benefit of salvage to the insurer.
     
     Compare: 1907 No 24 s 5
 
@@ -386,23 +393,23 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 16
 
-## Insurable value
+#### Insurable value
 
 ##### 17 Measure of insurable value
     
 *   Subject to any express provision or valuation in the policy, the insurable value of the subject-matter insured must be ascertained as follows:
         
-    *   (a) In insurance on ship the insurable value is the value, at the commencement of the risk, of the ship, including her outfit, provisions and stores for the officers and crew, money advanced for seamen's wages, and other disbursements (if any) incurred to make the ship fit for the voyage or adventure contemplated by the policy, plus the charges of insurance upon the whole; and, in the case of a steamship, includes also the machinery, boilers, and coals and engine stores if owned by the assured; and, in the case of a ship engaged in a special trade, the ordinary fittings requisite for that trade:
+    *   (a) in insurance on ship the insurable value is the value, at the commencement of the risk, of the ship, including her outfit, provisions and stores for the officers and crew, money advanced for seamen's wages, and other disbursements (if any) incurred to make the ship fit for the voyage or adventure contemplated by the policy, plus the charges of insurance upon the whole; and, in the case of a steamship, includes also the machinery, boilers, and coals and engine stores if owned by the assured; and, in the case of a ship engaged in a special trade, the ordinary fittings requisite for that trade:
     
-    *   (b) In insurance on freight, whether paid in advance or otherwise, the insurable value is the gross amount of the freight at the risk of the assured, plus the charges of insurance:
+    *   (b) in insurance on freight, whether paid in advance or otherwise, the insurable value is the gross amount of the freight at the risk of the assured, plus the charges of insurance:
     
-    *   (c) In insurance on goods or merchandise the insurable value is the prime cost of the property insured, plus the expenses of and incidental to shipping and the charges of insurance upon the whole:
+    *   (c) in insurance on goods or merchandise the insurable value is the prime cost of the property insured, plus the expenses of and incidental to shipping and the charges of insurance upon the whole:
     
-    *   (d) In insurance on any other subject-matter the insurable value is the amount at the risk of the assured when the policy attaches, plus the charges of insurance.
+    *   (d) in insurance on any other subject-matter the insurable value is the amount at the risk of the assured when the policy attaches, plus the charges of insurance.
     
     Compare: 1907 No 24 s 17
 
-## Disclosure and representations
+#### Disclosure and representations
 
 ##### 18 Disclosure by assured
     
@@ -412,13 +419,13 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (3) In the absence of inquiry the following circumstances need not be disclosed, namely:
         
-    *   (a) Any circumstance which diminishes the risk:
+    *   (a) any circumstance which diminishes the risk:
     
-    *   (b) Any circumstance known or presumed to be known to the insurer. The insurer is presumed to know matters of common notoriety or knowledge, and matters which an insurer in the ordinary course of his business, as such, ought to know:
+    *   (b) any circumstance known or presumed to be known to the insurer. The insurer is presumed to know matters of common notoriety or knowledge, and matters which an insurer in the ordinary course of his business, as such, ought to know:
     
-    *   (c) Any circumstance as to which information is waived by the insurer:
+    *   (c) any circumstance as to which information is waived by the insurer:
     
-    *   (d) Any circumstance which it is superfluous to disclose by reason of any express or implied warranty.
+    *   (d) any circumstance which it is superfluous to disclose by reason of any express or implied warranty.
     
     (4) Whether any particular circumstance which is not disclosed is material or not is in each case a question of fact.
     
@@ -430,9 +437,9 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
 *   Subject to the provisions of the last preceding section as to circumstances which need not be disclosed, where an insurance is effected for the assured by an agent, the agent must disclose to the insurer---
         
-    *   (a) Every material circumstance known to himself; and an agent to insure is deemed to know every circumstance which in the ordinary course of business ought to be known by him or to have been communicated to him; and
+    *   (a) every material circumstance known to himself; and an agent to insure is deemed to know every circumstance which in the ordinary course of business ought to be known by him or to have been communicated to him; and
     
-    *   (b) Every material circumstance which the assured is bound to disclose, unless it comes to his knowledge too late to communicate it to the agent.
+    *   (b) every material circumstance which the assured is bound to disclose, unless it comes to his knowledge too late to communicate it to the agent.
     
     Compare: 1907 No 24 s 19
 
@@ -460,27 +467,27 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 21
 
-## The policy
+#### The policy
 
-##### 22
+##### 22 Contract must be embodied in policy
     
 *   \[Repealed\]
     
-    Section 22 was repealed by section 2 of the Marine Insurance Amendment Act 1975\.
+    Section 22 : repealed, on 19 September 1975, by section 2 of the Marine Insurance Amendment Act 1975 (1975 No 45).
 
 ##### 23 What policy must specify
     
 *   A marine policy must specify---
         
-    *   (a) The name of the assured, or of some person who effects the insurance on his behalf:
+    *   (a) the name of the assured, or of some person who effects the insurance on his behalf:
     
-    *   (b) The subject-matter insured and the risk insured against:
+    *   (b) the subject-matter insured and the risk insured against:
     
-    *   (c) The voyage or period of time, or both, as the case may be, covered by the insurance:
+    *   (c) the voyage or period of time, or both, as the case may be, covered by the insurance:
     
-    *   (d) The sum or sums insured:
+    *   (d) the sum or sums insured:
     
-    *   (e) The name or names of the insurers.
+    *   (e) the name or names of the insurers.
     
     Compare: 1907 No 24 s 23
 
@@ -506,15 +513,17 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
 
 ##### 26 Failure to execute policy
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $200 who, as an insurer or as the agent of an insurer, directly or indirectly receives or takes credit in account for any premium or consideration for any contract of marine insurance, and does not before or within 30 days after receiving or taking credit for such premium or consideration duly execute, or procure to be duly executed, a policy of such insurance complying with the provisions of this Act.
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $200 who, as an insurer or as the agent of an insurer, directly or indirectly receives or takes credit in account for any premium or consideration for any contract of marine insurance, and does not before or within 30 days after receiving or taking credit for such premium or consideration duly execute, or procure to be duly executed, a policy of such insurance complying with the provisions of this Act.
     
     (2) This section does not apply to contracts of reinsurance of risks.
     
     (3) This section applies to the agent of an insurer, whether such insurer resides or carries on business in New Zealand or elsewhere.
     
-    (4) Failure to comply with any of the provisions of sections [23 to 26][28] of this Act shall not of itself invalidate any contract of marine insurance.
+    (4) Failure to comply with any of the provisions of [sections 23 to 26][29] of this Act shall not of itself invalidate any contract of marine insurance.
     
-    This section was substituted for the original section 26 (as amended by section 3(2)(a)-(c) of the Stamp Duties Amendment Act 1960) by section 3(1) of the Marine Insurance Amendment Act 1975\.
+    Section 26: replaced, on 19 September 1975, by section 3(1) of the Marine Insurance Amendment Act 1975 (1975 No 45).
+    
+    Section 26(1): amended, on 1 July 2013, by [section 413][111] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27 Voyage and time policies
     
@@ -524,7 +533,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 27
     
-    Section 27(2) was repealed by section 4(1) of the Marine Insurance Amendment Act 1975\.
+    Section 27(2) : repealed, on 19 September 1975, by section 4(1) of the Marine Insurance Amendment Act 1975 (1975 No 45).
 
 ##### 28 Valued policy
     
@@ -566,11 +575,11 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
 
 ##### 32 Construction of terms in policy
     
-*   Subject to the provisions of this Act, and unless the context of the policy otherwise requires, the terms and expressions mentioned in Schedule [2][109] to this Act have, when contained in a policy, the meaning and operation attributed to them in the said Schedule.
+*   Subject to the provisions of this Act, and unless the context of the policy otherwise requires, the terms and expressions mentioned in [Schedule 2][110] to this Act have, when contained in a policy, the meaning and operation attributed to them in the said Schedule.
     
     Compare: 1907 No 24 s 32
 
-## Double insurance
+#### Double insurance
 
 ##### 33 Double insurance
     
@@ -578,17 +587,17 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (2) Where the assured is overinsured by double insurance---
         
-    *   (a) The assured, unless the policy otherwise provides, may claim payment from the insurers in such order as he thinks fit, provided that he is not entitled to receive any sum in excess of the indemnity allowed by this Act:
+    *   (a) the assured, unless the policy otherwise provides, may claim payment from the insurers in such order as he thinks fit, provided that he is not entitled to receive any sum in excess of the indemnity allowed by this Act:
     
-    *   (b) Where the policy under which the assured claims is a valued policy, the assured must give credit as against the valuation for any sum received by him under any other policy, without regard to the actual value of the subject-matter insured:
+    *   (b) where the policy under which the assured claims is a valued policy, the assured must give credit as against the valuation for any sum received by him under any other policy, without regard to the actual value of the subject-matter insured:
     
-    *   (c) Where the policy under which the assured claims is an unvalued policy, he must give credit, as against the full insurable value, for any sum received by him under any other policy:
+    *   (c) where the policy under which the assured claims is an unvalued policy, he must give credit, as against the full insurable value, for any sum received by him under any other policy:
     
-    *   (d) Where the assured receives any sum in excess of the indemnity allowed by this Act, he is deemed to hold such sum in trust for the insurers, according to their right of contribution among themselves.
+    *   (d) where the assured receives any sum in excess of the indemnity allowed by this Act, he is deemed to hold such sum in trust for the insurers, according to their right of contribution among themselves.
     
     Compare: 1907 No 24 s 33
 
-## Warranties, etc
+#### Warranties, etc
 
 ##### 34 Nature of warranty
     
@@ -668,7 +677,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 42
 
-## The voyage
+#### The voyage
 
 ##### 43 Implied condition as to commencement of risk
     
@@ -704,9 +713,9 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (2) There is a deviation from the voyage contemplated by the policy---
         
-    *   (a) Where the course of the voyage is specifically designated by the policy, and that course is departed from; or
+    *   (a) where the course of the voyage is specifically designated by the policy, and that course is departed from; or
     
-    *   (b) Where the course of the voyage is not specifically designated by the policy, but the usual and customary course is departed from.
+    *   (b) where the course of the voyage is not specifically designated by the policy, but the usual and customary course is departed from.
     
     (3) The intention to deviate is immaterial; there must be a deviation in fact to discharge the insurer from his liability under the contract.
     
@@ -730,25 +739,25 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
 *   (1) Deviation or delay in prosecuting the voyage contemplated by the policy is excused---
         
-    *   (a) Where authorised by any special term in the policy; or
+    *   (a) where authorised by any special term in the policy; or
     
-    *   (b) Where caused by circumstances beyond the control of the master and his employer; or
+    *   (b) where caused by circumstances beyond the control of the master and his employer; or
     
-    *   (c) Where reasonably necessary in order to comply with an express or implied warranty; or
+    *   (c) where reasonably necessary in order to comply with an express or implied warranty; or
     
-    *   (d) Where reasonably necessary for the safety of the ship or subject-matter insured; or
+    *   (d) where reasonably necessary for the safety of the ship or subject-matter insured; or
     
-    *   (e) For the purpose of saving human life, or aiding a ship in distress where human life may be in danger; or
+    *   (e) for the purpose of saving human life, or aiding a ship in distress where human life may be in danger; or
     
-    *   (f) Where reasonably necessary for the purpose of obtaining medical or surgical aid for any person on board the ship; or
+    *   (f) where reasonably necessary for the purpose of obtaining medical or surgical aid for any person on board the ship; or
     
-    *   (g) Where caused by the barratrous conduct of the master or crew, if barratry is one of the perils insured against.
+    *   (g) where caused by the barratrous conduct of the master or crew, if barratry is one of the perils insured against.
     
     (2) When the cause excusing the deviation or delay ceases to operate, the ship must resume her course and prosecute her voyage with reasonable despatch.
     
     Compare: 1907 No 24 s 50
 
-## Assignment of policy
+#### Assignment of policy
 
 ##### 51 When and how policy is assignable
     
@@ -768,7 +777,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 52
 
-## The premium
+#### The premium
 
 ##### 53 Policy effected through broker
     
@@ -784,7 +793,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 54
 
-## Loss and abandonment
+#### Loss and abandonment
 
 ##### 55 Included and excluded losses
     
@@ -792,11 +801,11 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (2) In particular---
         
-    *   (a) The insurer is not liable for any loss attributable to the wilful misconduct of the assured; but, unless the policy otherwise provides, he is liable for any loss proximately caused by a peril insured against, even though the loss would not have happened but for the misconduct or negligence of the master or crew:
+    *   (a) the insurer is not liable for any loss attributable to the wilful misconduct of the assured; but, unless the policy otherwise provides, he is liable for any loss proximately caused by a peril insured against, even though the loss would not have happened but for the misconduct or negligence of the master or crew:
     
-    *   (b) Unless the policy otherwise provides, the insurer on ship or goods is not liable for any loss proximately caused by delay, although the delay is caused by a peril insured against:
+    *   (b) unless the policy otherwise provides, the insurer on ship or goods is not liable for any loss proximately caused by delay, although the delay is caused by a peril insured against:
     
-    *   (c) Unless the policy otherwise provides, the insurer is not liable for ordinary wear and tear, ordinary leakage and breakage, inherent vice or nature of the subject-matter insured, or for any loss proximately caused by rats or vermin, or for any injury to machinery not proximately caused by maritime perils.
+    *   (c) unless the policy otherwise provides, the insurer is not liable for ordinary wear and tear, ordinary leakage and breakage, inherent vice or nature of the subject-matter insured, or for any loss proximately caused by rats or vermin, or for any injury to machinery not proximately caused by maritime perils.
     
     Compare: 1907 No 24 s 55
 
@@ -840,11 +849,11 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (2) In particular there is a constructive total loss---
         
-    *   (a) Where the assured is deprived of the possession of his ship or goods by a peril insured against, and (i) it is unlikely that he can recover the ship or goods, as the case may be, or (ii) the cost of recovering the ship or goods, as the case may be, would exceed their value when recovered; or
+    *   (a) where the assured is deprived of the possession of his ship or goods by a peril insured against, and (i) it is unlikely that he can recover the ship or goods, as the case may be, or (ii) the cost of recovering the ship or goods, as the case may be, would exceed their value when recovered; or
     
-    *   (b) In the case of damage to a ship, where she is so damaged by a peril insured against that the cost of repairing the damage would exceed the value of the ship when repaired; or
+    *   (b) in the case of damage to a ship, where she is so damaged by a peril insured against that the cost of repairing the damage would exceed the value of the ship when repaired; or
     
-    *   (c) In the case of damage to goods, where the cost of repairing the damage and forwarding the goods to their destination would exceed their value on arrival.
+    *   (c) in the case of damage to goods, where the cost of repairing the damage and forwarding the goods to their destination would exceed their value on arrival.
     
     (3) In estimating the cost of repairs, no deduction is to be made in respect of general average contributions to those repairs payable by other interests, but account is to be taken of the expense of future salvage operations and of any future general average contributions to which the ship would be liable if repaired.
     
@@ -886,7 +895,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 63
 
-## Partial losses (including salvage and general average and particular charges)
+#### Partial losses (including salvage and general average and particular charges)
 
 ##### 64 Particular average loss
     
@@ -922,7 +931,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 66
 
-## Measure of indemnity
+#### Measure of indemnity
 
 ##### 67 Extent of liability of insurer for loss
     
@@ -936,9 +945,9 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
 *   Subject to the provisions of this Act and to any express provision in the policy, where there is a total loss of the subject-matter insured,---
         
-    *   (a) If the policy is a valued policy, the measure of indemnity is the sum fixed by the policy:
+    *   (a) if the policy is a valued policy, the measure of indemnity is the sum fixed by the policy:
     
-    *   (b) If the policy is an unvalued policy, the measure of indemnity is the insurable value of the subject-matter insured.
+    *   (b) if the policy is an unvalued policy, the measure of indemnity is the insurable value of the subject-matter insured.
     
     Compare: 1907 No 24 s 68
 
@@ -946,11 +955,11 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
 *   Where a ship is damaged, but is not totally lost, the measure of indemnity, subject to any express provision in the policy, is as follows:
         
-    *   (a) Where the ship has been repaired, the assured is entitled to the reasonable cost of the repairs, less the customary deductions, but not exceeding the sum insured in respect of any one casualty:
+    *   (a) where the ship has been repaired, the assured is entitled to the reasonable cost of the repairs, less the customary deductions, but not exceeding the sum insured in respect of any one casualty:
     
-    *   (b) Where the ship has been only partially repaired, the assured is entitled to the reasonable cost of such repairs, computed as above, and also to be indemnified for the reasonable depreciation (if any) arising from the unrepaired damage, provided that the aggregate amount shall not exceed the cost of repairing the whole damage, computed as above:
+    *   (b) where the ship has been only partially repaired, the assured is entitled to the reasonable cost of such repairs, computed as above, and also to be indemnified for the reasonable depreciation (if any) arising from the unrepaired damage, provided that the aggregate amount shall not exceed the cost of repairing the whole damage, computed as above:
     
-    *   (c) Where the ship has not been repaired, and has not been sold in her damaged state during the risk, the assured is entitled to be indemnified for the reasonable depreciation arising from the unrepaired damage, but not exceeding the reasonable cost of repairing such damage, computed as above.
+    *   (c) where the ship has not been repaired, and has not been sold in her damaged state during the risk, the assured is entitled to be indemnified for the reasonable depreciation arising from the unrepaired damage, but not exceeding the reasonable cost of repairing such damage, computed as above.
     
     Compare: 1907 No 24 s 69
 
@@ -964,13 +973,13 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
 *   Where there is a partial loss of goods, merchandise, or other movables, the measure of indemnity, subject to any express provision in the policy, is as follows:
         
-    *   (a) Where part of the goods, merchandise, or other movables insured by a valued policy is totally lost, the measure of indemnity is such proportion of the sum fixed by the policy as the insurable value of the part lost bears to the insurable value of the whole, ascertained as in the case of an unvalued policy:
+    *   (a) where part of the goods, merchandise, or other movables insured by a valued policy is totally lost, the measure of indemnity is such proportion of the sum fixed by the policy as the insurable value of the part lost bears to the insurable value of the whole, ascertained as in the case of an unvalued policy:
     
-    *   (b) Where part of the goods, merchandise, or other movables insured by an unvalued policy is totally lost, the measure of indemnity is the insurable value of the part lost, ascertained as in case of total loss:
+    *   (b) where part of the goods, merchandise, or other movables insured by an unvalued policy is totally lost, the measure of indemnity is the insurable value of the part lost, ascertained as in case of total loss:
     
-    *   (c) Where the whole or any part of the goods or merchandise insured has been delivered damaged at its destination, the measure of indemnity is such proportion of the sum fixed by the policy in the case of a valued policy, or of the insurable value in the case of an unvalued policy, as the difference between the gross sound and damaged values at the place of arrival bears to the gross sound value:
+    *   (c) where the whole or any part of the goods or merchandise insured has been delivered damaged at its destination, the measure of indemnity is such proportion of the sum fixed by the policy in the case of a valued policy, or of the insurable value in the case of an unvalued policy, as the difference between the gross sound and damaged values at the place of arrival bears to the gross sound value:
     
-    *   (d) _Gross value_ means the wholesale price or, if there is no such price, the estimated value, with in either case freight, landing charges, and duty paid beforehand; provided that, in the case of goods or merchandise customarily sold in bond, the bonded price is deemed to be the gross value.
+    *   (d) _gross value_ means the wholesale price or, if there is no such price, the estimated value, with in either case freight, landing charges, and duty paid beforehand; provided that, in the case of goods or merchandise customarily sold in bond, the bonded price is deemed to be the gross value.
     
     Compare: 1907 No 24 s 71
 
@@ -1040,7 +1049,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 78
 
-## Rights of insurer on payment
+#### Rights of insurer on payment
 
 ##### 79 Right of subrogation
     
@@ -1064,15 +1073,15 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 81
 
-## Return of premium
+#### Return of premium
 
 ##### 82 Enforcement of return
     
 *   Where the premium or a proportionate part thereof is by this Act declared to be returnable,---
         
-    *   (a) If already paid, it may be recovered by the assured from the insurer; and
+    *   (a) if already paid, it may be recovered by the assured from the insurer; and
     
-    *   (b) If unpaid, it may be retained by the assured or his agent.
+    *   (b) if unpaid, it may be retained by the assured or his agent.
     
     Compare: 1907 No 24 s 82
 
@@ -1090,25 +1099,25 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     (3) In particular,---
         
-    *   (a) Where the policy is void, or is avoided by the insurer as from the commencement of the risk, the premium is returnable, provided that there has been no fraud or illegality on the part of the assured; but if the risk is not apportionable, and has once attached, the premium is not returnable:
+    *   (a) where the policy is void, or is avoided by the insurer as from the commencement of the risk, the premium is returnable, provided that there has been no fraud or illegality on the part of the assured; but if the risk is not apportionable, and has once attached, the premium is not returnable:
     
-    *   (b) Where the subject-matter insured or part thereof has never been imperilled, the premium or, as the case may be, a proportionate part thereof is returnable:
-        
-        Provided that where the subject-matter has been insured **lost or not lost,** and has arrived in safety at the time when the contract is concluded, the premium is not returnable unless at such time the insurer knew of the safe arrival:
+    *   (b) where the subject-matter insured or part thereof has never been imperilled, the premium or, as the case may be, a proportionate part thereof is returnable:
     
-    *   (c) Where the assured has no insurable interest throughout the currency of the risk, the premium is returnable; provided that this rule does not apply to a policy effected by way of gaming or wagering:
+    *   Provided that where the subject-matter has been insured **lost or not lost,** and has arrived in safety at the time when the contract is concluded, the premium is not returnable unless at such time the insurer knew of the safe arrival:
     
-    *   (d) Where the assured has a defeasible interest which is terminated during the currency of the risk, the premium is not returnable:
+    *   (c) where the assured has no insurable interest throughout the currency of the risk, the premium is returnable; provided that this rule does not apply to a policy effected by way of gaming or wagering:
     
-    *   (e) Where the assured has overinsured under an unvalued policy, a proportionate part of the premium is returnable:
+    *   (d) where the assured has a defeasible interest which is terminated during the currency of the risk, the premium is not returnable:
     
-    *   (f) Subject to the foregoing provisions, where the assured has overinsured by double insurance, a proportionate part of the several premiums is returnable:
-        
-        Provided that if the policies are effected at different times, and any earlier policy has at any time borne the entire risk, or if a claim has been paid on the policy in respect of the full sum insured thereby, no premium is returnable in respect of that policy; and when the double insurance is effected knowingly by the assured, no premium is returnable.
+    *   (e) where the assured has overinsured under an unvalued policy, a proportionate part of the premium is returnable:
+    
+    *   (f) subject to the foregoing provisions, where the assured has overinsured by double insurance, a proportionate part of the several premiums is returnable:
+    
+    *   Provided that if the policies are effected at different times, and any earlier policy has at any time borne the entire risk, or if a claim has been paid on the policy in respect of the full sum insured thereby, no premium is returnable in respect of that policy; and when the double insurance is effected knowingly by the assured, no premium is returnable.
     
     Compare: 1907 No 24 s 84
 
-## Mutual insurance
+#### Mutual insurance
 
 ##### 85 Modification of Act in case of mutual insurance
     
@@ -1122,7 +1131,7 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 85
 
-## Supplemental
+#### Supplemental
 
 ##### 86 Ratification by assured
     
@@ -1150,41 +1159,43 @@ An Act to consolidate certain enactments of the General Assembly relating to mar
     
     Compare: 1907 No 24 s 89
 
-##### 90
+##### 90 Slip as evidence
     
 *   \[Repealed\]
     
-    Section 90 was repealed by section 3(2)(e) of the Stamp Duties Amendment Act 1960\.
+    Section 90 : repealed, on 16 September 1960, by section 3(2)(e) of the Stamp Duties Amendment Act 1960 (1960 No 11).
 
 ---
 
 ## Schedule 1  
 Enactments consolidated
 
-Section [1(2)][1]
+[s 1(2)][2]
 
 *   1907, No 24---The Marine Insurance Act 1907
+
+---
 
 ## Schedule 2  
 Rules for the construction of policies
 
-Section [32][37]
+[s 32][38]
 
 *   #### Preamble
     
-    THE following are the rules referred to by this Act for the construction of a policy where the context does not otherwise require:
+    The following are the rules referred to by this Act for the construction of a policy where the context does not otherwise require:
 
-##### 1
+*   1 
     
-*   Where the subject-matter is insured **lost or not lost**, and the loss has occurred before the contract is concluded, the risk attaches unless at such time the assured was aware of the loss and the insurer was not.
+    Where the subject-matter is insured **lost or not lost**, and the loss has occurred before the contract is concluded, the risk attaches unless at such time the assured was aware of the loss and the insurer was not.
 
-##### 2
+*   2 
     
-*   Where the subject-matter is insured **from** a particular place, the risk does not attach until the ship starts on the voyage insured.
+    Where the subject-matter is insured **from** a particular place, the risk does not attach until the ship starts on the voyage insured.
 
-##### 3
+*   3 
     
-*   *   (a) Where a ship is insured **at and from** a particular place, and she is at that place in good safety when the contract is concluded, the risk attaches immediately.
+    *   (a) Where a ship is insured **at and from** a particular place, and she is at that place in good safety when the contract is concluded, the risk attaches immediately.
     
     *   (b) If she is not at that place when the contract is concluded the risk attaches as soon as she arrives there in good safety; and, unless the policy otherwise provides, it is immaterial that she is covered by another policy for a specified time after arrival.
     
@@ -1194,175 +1205,204 @@ Section [32][37]
     
     
 
-##### 4
+*   4 
     
-*   Where goods or other movables are insured **from the loading thereof**, the risk does not attach until such goods or movables are actually on board, and the insurer is not liable for them while in transit from the shore to the ship.
+    Where goods or other movables are insured **from the loading thereof**, the risk does not attach until such goods or movables are actually on board, and the insurer is not liable for them while in transit from the shore to the ship.
 
-##### 5
+*   5 
     
-*   Where the risk on goods or other movables continues until they are **safely landed**, they must be landed in the customary manner and within a reasonable time after arrival at the port of discharge, and if they are not so landed the risk ceases.
+    Where the risk on goods or other movables continues until they are **safely landed**, they must be landed in the customary manner and within a reasonable time after arrival at the port of discharge, and if they are not so landed the risk ceases.
 
-##### 6
+*   6 
     
-*   In the absence of any further licence or usage, the liberty to touch and stay **at any port or place whatsoever** does not authorise the ship to depart from the course of her voyage from the port of departure to the port of destination.
+    In the absence of any further licence or usage, the liberty to touch and stay **at any port or place whatsoever** does not authorise the ship to depart from the course of her voyage from the port of departure to the port of destination.
 
-##### 7
+*   7 
     
-*   The term _perils of the seas_ refers only to fortuitous accidents or casualties of the seas. It does not include the ordinary action of the winds and waves.
+    The term _perils of the seas_ refers only to fortuitous accidents or casualties of the seas. It does not include the ordinary action of the winds and waves.
 
-##### 8
+*   8 
     
-*   The term _pirates_ includes passengers who mutiny and rioters who attack the ship from the shore.
+    The term _pirates_ includes passengers who mutiny and rioters who attack the ship from the shore.
 
-##### 9
+*   9 
     
-*   The term _thieves_ does not cover clandestine theft or a theft committed by any one of the ship's company, whether crew or passengers.
+    The term _thieves_ does not cover clandestine theft or a theft committed by any one of the ship's company, whether crew or passengers.
 
-##### 10
+*   10 
     
-*   The term _arrests, etc, of kings, princes, and people_ refers to political or executive acts, and does not include a loss caused by riot or by ordinary judicial process.
+    The term _arrests, etc, of kings, princes, and people_ refers to political or executive acts, and does not include a loss caused by riot or by ordinary judicial process.
 
-##### 11
+*   11 
     
-*   The term _barratry_ includes every wrongful act wilfully committed by the master or crew to the prejudice of the owner or, as the case may be, the charterer.
+    The term _barratry_ includes every wrongful act wilfully committed by the master or crew to the prejudice of the owner or, as the case may be, the charterer.
 
-##### 12
+*   12 
     
-*   The term _all other perils_ includes only perils similar in kind to the perils specifically mentioned in the policy.
+    The term _all other perils_ includes only perils similar in kind to the perils specifically mentioned in the policy.
 
-##### 13
+*   13 
     
-*   The term _average unless general_ means a partial loss of the subject-matter insured other than a general average loss, and does not include **particular charges**.
+    The term _average unless general_ means a partial loss of the subject-matter insured other than a general average loss, and does not include **particular charges**.
 
-##### 14
+*   14 
     
-*   When a policy contains the words **warranted free from particular average unless the ship is stranded, sunk, or burnt**, or any similar expression, and any such accident has happened to the ship, the insurer is liable for the excepted losses, although the loss is not attributable to such accident, provided that when the accident occurs the risk has attached and (if the policy is on goods) the damaged goods are on board.
+    When a policy contains the words **warranted free from particular average unless the ship is stranded, sunk, or burnt**, or any similar expression, and any such accident has happened to the ship, the insurer is liable for the excepted losses, although the loss is not attributable to such accident, provided that when the accident occurs the risk has attached and (if the policy is on goods) the damaged goods are on board.
 
-##### 15
+*   15 
     
-*   The term _ship_ includes the hull, materials and outfit, stores and provisions for the officers and crew, and, in the case of vessels engaged in a special trade, the ordinary fittings requisite for the trade; and also, in the case of a steamship, the machinery, boilers, and coals and engine stores, if owned by the assured.
+    The term _ship_ includes the hull, materials and outfit, stores and provisions for the officers and crew, and, in the case of vessels engaged in a special trade, the ordinary fittings requisite for the trade; and also, in the case of a steamship, the machinery, boilers, and coals and engine stores, if owned by the assured.
 
-##### 16
+*   16 
     
-*   The term _freight_ includes the profit derivable by a shipowner from the employment of his ship to carry his own goods or movables, as well as freight payable by a third party, but does not include passage money.
+    The term _freight_ includes the profit derivable by a shipowner from the employment of his ship to carry his own goods or movables, as well as freight payable by a third party, but does not include passage money.
 
-##### 17
+*   17 
     
-*   The term _goods_ means goods in the nature of merchandise, and does not include personal effects or provisions and stores for use on board.
+    The term _goods_ means goods in the nature of merchandise, and does not include personal effects or provisions and stores for use on board.
 
-##### 18
+*   18 
     
-*   In the absence of any usage to the contrary, deck cargo and living animals must be insured specifically, and not under the general denomination of goods.
+    In the absence of any usage to the contrary, deck cargo and living animals must be insured specifically, and not under the general denomination of goods.
+
+---
+
+#### Contents
+    
+*   1General
+*   2About this eprint
+*   3List of amendments incorporated in this eprint (most recent first) 
+
+---
+
+##### Notes
+
+###### 1 General
+    
+*   This is an eprint of the Marine Insurance Act 1908\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+
+###### 2 About this eprint
+    
+*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][112] ![](/images/external_link.gif).
+
+###### 3 List of amendments incorporated in this eprint (most recent first)
+    
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][111]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170784
-[1]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170786
-[2]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170787
-[3]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170796
-[4]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170797
-[5]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170798
-[6]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171201
-[7]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171202
-[8]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171203
-[9]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171204
-[10]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171205
-[11]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171206
-[12]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171207
-[13]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171208
-[14]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171209
-[15]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171210
-[16]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171211
-[17]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171212
-[18]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171213
-[19]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171214
-[20]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171215
-[21]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171216
-[22]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171217
-[23]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171219
-[24]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171220
-[25]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171221
-[26]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171222
-[27]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171223
-[28]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171225
-[29]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171226
-[30]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171227
-[31]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171228
-[32]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171230
-[33]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171232
-[34]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171233
-[35]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171234
-[36]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171235
-[37]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171236
-[38]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171237
-[39]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171238
-[40]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171239
-[41]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171240
-[42]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171241
-[43]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171242
-[44]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171243
-[45]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171244
-[46]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171245
-[47]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171246
-[48]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171247
-[49]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171248
-[50]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171249
-[51]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171250
-[52]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171251
-[53]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171252
-[54]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171253
-[55]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171254
-[56]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171255
-[57]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171256
-[58]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171257
-[59]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171258
-[60]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171259
-[61]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171260
-[62]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171261
-[63]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171262
-[64]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171263
-[65]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171264
-[66]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171265
-[67]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171266
-[68]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171267
-[69]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171268
-[70]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171269
-[71]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171270
-[72]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171271
-[73]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171272
-[74]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171273
-[75]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171274
-[76]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171275
-[77]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171276
-[78]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171278
-[79]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171279
-[80]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171280
-[81]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171281
-[82]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171282
-[83]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171283
-[84]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171284
-[85]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171286
-[86]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171287
-[87]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171288
-[88]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171289
-[89]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171290
-[90]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171291
-[91]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171292
-[92]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171293
-[93]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171294
-[94]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171295
-[95]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171296
-[96]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171297
-[97]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171298
-[98]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171299
-[99]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171900
-[100]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171901
-[101]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171902
-[102]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171903
-[103]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171904
-[104]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171905
-[105]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171906
-[106]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171907
-[107]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171908
-[108]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171910
-[109]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171911
+[0]: http://www.legislation.govt.nz/act/public/1908/0112/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170784
+[2]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170786
+[3]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170787
+[4]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528613
+[5]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170797
+[6]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM170798
+[7]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528614
+[8]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171202
+[9]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171203
+[10]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171204
+[11]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171205
+[12]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171206
+[13]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171207
+[14]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171208
+[15]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171209
+[16]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171210
+[17]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171211
+[18]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171212
+[19]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171213
+[20]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528615
+[21]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171215
+[22]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528616
+[23]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171217
+[24]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171219
+[25]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171220
+[26]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171221
+[27]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528617
+[28]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171223
+[29]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171225
+[30]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171226
+[31]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171227
+[32]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171228
+[33]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171230
+[34]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171232
+[35]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171233
+[36]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171234
+[37]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171235
+[38]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171236
+[39]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528618
+[40]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171238
+[41]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528619
+[42]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171240
+[43]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171241
+[44]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171242
+[45]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171243
+[46]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171244
+[47]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171245
+[48]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171246
+[49]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171247
+[50]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171248
+[51]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528620
+[52]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171250
+[53]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171251
+[54]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171252
+[55]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171253
+[56]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171254
+[57]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171255
+[58]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171256
+[59]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171257
+[60]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528621
+[61]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171259
+[62]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171260
+[63]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528622
+[64]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171262
+[65]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171263
+[66]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528623
+[67]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171265
+[68]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171266
+[69]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171267
+[70]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171268
+[71]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171269
+[72]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171270
+[73]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171271
+[74]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171272
+[75]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171273
+[76]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528624
+[77]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171275
+[78]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171276
+[79]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171278
+[80]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528625
+[81]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171280
+[82]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171281
+[83]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171282
+[84]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171283
+[85]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171284
+[86]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171286
+[87]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171287
+[88]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171288
+[89]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171289
+[90]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171290
+[91]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171291
+[92]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171292
+[93]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528626
+[94]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171294
+[95]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171295
+[96]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171296
+[97]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528627
+[98]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171298
+[99]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171299
+[100]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171900
+[101]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528628
+[102]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171902
+[103]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM4528629
+[104]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171904
+[105]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171905
+[106]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171906
+[107]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171907
+[108]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171908
+[109]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171910
+[110]: http://www.legislation.govt.nz/act/public/1908/0112/latest/whole.html#DLM171911
+[111]: http://www.legislation.govt.nz/act/public/1908/0112/latest/link.aspx?id=DLM3360714
+[112]: http://www.pco.parliament.govt.nz/eprints/
