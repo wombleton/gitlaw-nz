@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -485,9 +485,11 @@ An Act to empower certain local authorities to unite in erecting and conducting 
 
 ##### 39 Fines
     
-*   (1) Every person guilty of a breach of any bylaw made by the Board shall be liable on summary conviction to a fine not exceeding 20 pounds; or where the breach is a continuing one, then to a fine not exceeding 5 pounds for every day or part of a day during which the breach continues.
+*   (1) Every person guilty of a breach of any bylaw made by the Board shall be liable on conviction to a fine not exceeding 20 pounds; or where the breach is a continuing one, then to a fine not exceeding 5 pounds for every day or part of a day during which the breach continues.
     
     (2) All fines recovered in any proceedings in respect of breaches of bylaws made by the Board shall be paid into the Public Account to the credit of the Consolidated Fund and be subject to section 13 of the Finance Act 1927 (No 2).
+    
+    Section 39(1): amended, on 1 July 2013, by [section 413][53] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Evidence
     
@@ -720,23 +722,23 @@ W G Jarvis, Clerk.
 
 ###### 1 General
     
-*   This is a reprint of the Hawke's Bay Crematorium Act 1944\. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Hawke's Bay Crematorium Act 1944\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][53] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][54] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][54] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][55] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][55] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][56] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][56] and [17E][57] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][57] and [17E][58] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -767,7 +769,9 @@ W G Jarvis, Clerk.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][49]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][53]
+    
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][49]
     
     Rating Act 1967 (1967 No 123): section 177(1)
     
@@ -838,8 +842,9 @@ W G Jarvis, Clerk.
 [50]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM264952
 [51]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM264982
 [52]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM262646
-[53]: http://www.pco.parliament.govt.nz/reprints/
-[54]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM195439
-[55]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[56]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM195468
-[57]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM195470
+[53]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM3360714
+[54]: http://www.pco.parliament.govt.nz/reprints/
+[55]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM195439
+[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[57]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM195468
+[58]: http://www.legislation.govt.nz/act/local/1944/0007/latest/link.aspx?id=DLM195470
