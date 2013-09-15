@@ -1,5 +1,5 @@
 Reprint  
-as at 25 January 2005
+as at 18 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,103 +25,103 @@ This Act is administered by the Office of the Clerk of the House of Representati
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Clerk of the House of Representatives][3]
 
-[2][4] [Clerk of the House of Representatives][4]
+[2][4][][4][Clerk of the House of Representatives][4]
 
-[3][5] [Functions of Clerk of the House of Representatives][5]
+[3][5][][5][Functions of Clerk of the House of Representatives][5]
 
 [Deputy Clerk of the House of Representatives][6]
 
-[4][7] [Deputy Clerk of the House of Representatives][7]
+[4][7][][7][Deputy Clerk of the House of Representatives][7]
 
-[5][8] [Functions of Deputy Clerk of the House of Representatives][8]
+[5][8][][8][Functions of Deputy Clerk of the House of Representatives][8]
 
 [Acting Clerk of the House of Representatives][9]
 
-[6][10] [Acting Clerk of the House of Representatives][10]
+[6][10][][10][Acting Clerk of the House of Representatives][10]
 
 [Provisions relating to Clerk and Deputy Clerk of the House of Representatives][11]
 
-[7][12] [Appointment of Clerk and Deputy Clerk of the House of Representatives][12]
+[7][12][][12][Appointment of Clerk and Deputy Clerk of the House of Representatives][12]
 
-[8][13] [Remuneration and conditions of employment][13]
+[8][13][][13][Remuneration and conditions of employment][13]
 
-[9][14] [Prohibition on holding other office][14]
+[9][14][][14][Prohibition on holding other office][14]
 
-[10][15] [Term of office][15]
+[10][15][][15][Term of office][15]
 
-[11][16] [Vacation of office][16]
+[11][16][][16][Vacation of office][16]
 
-[12][17] [Delegation of functions or powers][17]
+[12][17][][17][Delegation of functions or powers][17]
 
-[13][18] [Revocation of delegations][18]
+[13][18][][18][Revocation of delegations][18]
 
 [Office of the Clerk of the House of Representatives][19]
 
-[14][20] [Establishment of Office][20]
+[14][20][][20][Establishment of Office][20]
 
-[15][21] [Principal officer][21]
+[15][21][][21][Principal officer][21]
 
-[16][22] [Responsibility of Clerk][22]
+[16][22][][22][Responsibility of Clerk][22]
 
-[17][23] [Functions of State Services Commission in relation to Office][23]
+[17][23][][23][Functions of State Services Commissioner in relation to Office][23]
 
 [Other officers of the House of Representatives][24]
 
-[18][25] [Appointment of staff][25]
+[18][25][][25][Appointment of staff][25]
 
-[19][26] [Appointments on merit][26]
+[19][26][][26][Appointments on merit][26]
 
-[20][27] [Obligation to notify vacancies][27]
+[20][27][][27][Obligation to notify vacancies][27]
 
-[21][28] [Obligation to notify appointments][28]
+[21][28][][28][Obligation to notify appointments][28]
 
-[22][29] [Review of appointments][29]
+[22][29][][29][Review of appointments][29]
 
-[23][30] [Removal from office][30]
+[23][30][][30][Removal from office][30]
 
-[24][31] [Employment principles][31]
+[24][31][][31][Employment principles][31]
 
 [Employment relations][32]
 
-[25][33] [Application of Employment Relations Act 2000][33]
+[25][33][][33][Application of Employment Relations Act 2000][33]
 
-[26][34] [Negotiation of conditions of employment][34]
+[26][34][][34][Negotiation of conditions of employment][34]
 
 [State sector][35]
 
 \[Repealed\]
 
-[27][36] [Application of provisions of State Sector Act 1988][36] \[Repealed\]
+[27][36][][36][Application of provisions of State Sector Act 1988][36] \[Repealed\]
 
 [Government service][37]
 
-[28][38] [Government service][38]
+[28][38][][38][Government service][38]
 
 [Financial provisions][39]
 
-[29][40] [Money to be appropriated by Parliament for purposes of this Act][40]
+[29][40][][40][Money to be appropriated by Parliament for purposes of this Act][40]
 
-[30][41] [Audit][41]
+[30][41][][41][Audit][41]
 
 [Official information][42]
 
-[31][43] [Right of access to personal information][43]
+[31][43][][43][Right of access to personal information][43]
 
 [Transitional provisions][44]
 
-[32][45] [Transitional provisions][45]
+[32][45][][45][Transitional provisions][45]
 
 [Amendments to other Acts][46]
 
 \[Repealed\]
 
-[33][47] [Amendments to Parliamentary Service Act 1985][47] \[Repealed\]
+[33][47][][47][Amendments to Parliamentary Service Act 1985][47] \[Repealed\]
 
-[34][48] [Amendment to Constitution Act 1986][48] \[Repealed\]
+[34][48][][48][Amendment to Constitution Act 1986][48] \[Repealed\]
 
 [Schedule][49]  
 [Application of provisions of State Sector Act 1988][49]
@@ -280,9 +280,11 @@ An Act to provide for the appointment of the Clerk of the House of Representativ
     
 *   The Clerk of the House of Representatives shall be responsible to the Speaker of the House of Representatives, on behalf of the House, for the efficient, effective, and economic management of the Office of the Clerk of the House of Representatives.
 
-##### 17 Functions of State Services Commission in relation to Office
+##### 17 Functions of State Services Commissioner in relation to Office
     
-*   (1) The State Services Commission may from time to time, at the request of the Speaker of the House of Representatives, exercise in respect of the Office of the Clerk of the House of Representatives any of the functions conferred on the State Services Commission by [section 6][53] of the State Sector Act 1988\.
+*   (1) The State Services Commissioner may from time to time, at the request of the Speaker of the House of Representatives, exercise in respect of the Office of the Clerk of the House of Representatives any of the functions conferred on the State Services Commissioner by [section 6][53] of the State Sector Act 1988\.
+    
+    (1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Office of the Clerk of the House of Representatives and its separation from the executive government.
     
     (2) For the purposes of this section, [section 6][53] of the State Sector Act 1988 shall apply with all necessary modifications and as if the Office of the Clerk of the House of Representatives were a department within the meaning of that Act and as if the Clerk of the House of Representatives were the chief executive of that department.
     
@@ -290,9 +292,15 @@ An Act to provide for the appointment of the Clerk of the House of Representativ
     
     (4) The State Services Commissioner may advise the Speaker of the House of Representatives on any matter concerning ethics, values, and standards in relation to the Office of the Clerk.
     
-    Section 17(3): added, on 25 January 2005, by [section 18][54] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 17 heading: amended, on 18 July 2013, by [section 63(2)][54] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 17(4): added, on 25 January 2005, by [section 18][54] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 17(1): amended, on 18 July 2013, by [section 63(3)][54] of the State Sector Amendment Act 2013 (2013 No 49).
+    
+    Section 17(1A): inserted, on 18 July 2013, by [section 63(4)][54] of the State Sector Amendment Act 2013 (2013 No 49).
+    
+    Section 17(3): added, on 25 January 2005, by [section 18][55] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    
+    Section 17(4): added, on 25 January 2005, by [section 18][55] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 #### Other officers of the House of Representatives
 
@@ -326,21 +334,21 @@ An Act to provide for the appointment of the Clerk of the House of Representativ
 
 ##### 24 Employment principles
     
-*   The Clerk of the House of Representatives shall operate a personnel policy that complies with the principle of being a good employer by following, subject to this Act, as closely as possible and as if he or she were the chief executive of a department, the provisions of [sections 56][55] and [58][56] of the State Sector Act 1988\.
+*   The Clerk of the House of Representatives shall operate a personnel policy that complies with the principle of being a good employer by following, subject to this Act, as closely as possible and as if he or she were the chief executive of a department, the provisions of [sections 56][56] and [58][57] of the State Sector Act 1988\.
 
 #### Employment relations
     
-*   Heading: substituted, on 2 October 2000, by [section 240][57] of the Employment Relations Act 2000 (2000 No 24).
+*   Heading: substituted, on 2 October 2000, by [section 240][58] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 25 Application of Employment Relations Act 2000
     
-*   Except as otherwise provided in [section 26][34], the [Employment Relations Act 2000][58] applies in relation to employees appointed under [section 18][25].
+*   Except as otherwise provided in [section 26][34], the [Employment Relations Act 2000][59] applies in relation to employees appointed under [section 18][25].
     
-    Section 25: substituted, on 2 October 2000, by [section 240][57] of the Employment Relations Act 2000 (2000 No 24).
+    Section 25: substituted, on 2 October 2000, by [section 240][58] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 26 Negotiation of conditions of employment
     
-*   (1) The Clerk of the House of Representatives must negotiate under the [Employment Relations Act 2000][58] every collective agreement applicable to employees appointed under [section 18][25].
+*   (1) The Clerk of the House of Representatives must negotiate under the [Employment Relations Act 2000][59] every collective agreement applicable to employees appointed under [section 18][25].
     
     (2) The Clerk of the House of Representatives must conduct the negotiations---
         
@@ -348,9 +356,9 @@ An Act to provide for the appointment of the Clerk of the House of Representativ
     
     *   (b) in consultation with the State Services Commissioner.
     
-    (3) In this section, _union_ has the meaning given to that term by [section 5][59] of the Employment Relations Act 2000\.
+    (3) In this section, _union_ has the meaning given to that term by [section 5][60] of the Employment Relations Act 2000\.
     
-    Section 26: substituted, on 2 October 2000, by [section 240][57] of the Employment Relations Act 2000 (2000 No 24).
+    Section 26: substituted, on 2 October 2000, by [section 240][58] of the Employment Relations Act 2000 (2000 No 24).
 
 #### State sector
 
@@ -368,15 +376,15 @@ An Act to provide for the appointment of the Clerk of the House of Representativ
 
 ##### 28 Government service
     
-*   (1) For the purposes of the [Government Superannuation Fund Act 1956][60], service as an officer of the House of Representatives appointed under this Act shall be deemed to be Government service.
+*   (1) For the purposes of the [Government Superannuation Fund Act 1956][61], service as an officer of the House of Representatives appointed under this Act shall be deemed to be Government service.
     
     (2) Where any person who is appointed under this Act as an officer of the House of Representatives is, at the date of that person's appointment, an officer of the State services, the period of that person's service as an officer of the House of Representatives appointed under this Act shall be deemed to be continuous service in that branch of the State services in which that person was employed at that date for the purposes of---
         
-    *   (a) the [Government Superannuation Fund Act 1956][60]:
+    *   (a) the [Government Superannuation Fund Act 1956][61]:
     
     *   (b) entitlement to leave of absence.
     
-    (3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][61] by reason of that person's appointment under this Act as an officer of the House of Representatives.
+    (3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][62] by reason of that person's appointment under this Act as an officer of the House of Representatives.
 
 #### Financial provisions
 
@@ -386,17 +394,17 @@ An Act to provide for the appointment of the Clerk of the House of Representativ
 
 ##### 30 Audit
     
-*   The Office of the Clerk of the House of Representatives is a public entity as defined in [section 4][62] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Office of the Clerk of the House of Representatives is a public entity as defined in [section 4][63] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 30: substituted, on 1 July 2001, by [section 53][63] of the Public Audit Act 2001 (2001 No 10).
+    Section 30: substituted, on 1 July 2001, by [section 53][64] of the Public Audit Act 2001 (2001 No 10).
 
 #### Official information
 
 ##### 31 Right of access to personal information
     
-*   (1) [Part 4][64] of the Official Information Act 1982 shall apply in relation to the Office of the Clerk of the House of Representatives as if that Office were an organisation within the meaning of that Act.
+*   (1) [Part 4][65] of the Official Information Act 1982 shall apply in relation to the Office of the Clerk of the House of Representatives as if that Office were an organisation within the meaning of that Act.
     
-    (2) [Section 35][65] of the Official Information Act 1982 shall apply accordingly with all necessary modifications.
+    (2) [Section 35][66] of the Official Information Act 1982 shall apply accordingly with all necessary modifications.
 
 #### Transitional provisions
 
@@ -422,19 +430,19 @@ An Act to provide for the appointment of the Clerk of the House of Representativ
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2000, pursuant to [section 40(1)][66] of the Parliamentary Service Act 2000 (2000 No 17).
+*   Heading: repealed, on 1 July 2000, pursuant to [section 40(1)][67] of the Parliamentary Service Act 2000 (2000 No 17).
 
 ##### 33 Amendments to Parliamentary Service Act 1985
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 1 July 2000, by [section 40(1)][66] of the Parliamentary Service Act 2000 (2000 No 17).
+    Section 33: repealed, on 1 July 2000, by [section 40(1)][67] of the Parliamentary Service Act 2000 (2000 No 17).
 
 ##### 34 Amendment to Constitution Act 1986
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 1 July 2000, by [section 40(1)][66] of the Parliamentary Service Act 2000 (2000 No 17).
+    Section 34: repealed, on 1 July 2000, by [section 40(1)][67] of the Parliamentary Service Act 2000 (2000 No 17).
 
 ---
 
@@ -463,23 +471,23 @@ Application of provisions of State Sector Act 1988
 
 ###### 1 General
     
-*   This is a reprint of the Clerk of the House of Representatives Act 1988\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Clerk of the House of Representatives Act 1988\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][67] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][68] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][68] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][69] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][69] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][70] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][70] and [17E][71] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][71] and [17E][72] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -510,17 +518,19 @@ Application of provisions of State Sector Act 1988
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][54]
+*   State Sector Amendment Act 2013 (2013 No 49): [section 63][54]
+    
+    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][55]
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][52]
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][50]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][63]
+    Public Audit Act 2001 (2001 No 10): [section 53][64]
     
-    Employment Relations Act 2000 (2000 No 24): [section 240][57]
+    Employment Relations Act 2000 (2000 No 24): [section 240][58]
     
-    Parliamentary Service Act 2000 (2000 No 17): [section 40(1)][66]
+    Parliamentary Service Act 2000 (2000 No 17): [section 40(1)][67]
     
     Parliamentary Service Amendment Act 1991 (1991 No 146): section 10
     
@@ -582,21 +592,22 @@ Application of provisions of State Sector Act 1988
 [51]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM15636
 [52]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM167443
 [53]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM129446
-[54]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM329199
-[55]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM129719
-[56]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM129733
-[57]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM61487
-[58]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM58316
-[59]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM58337
-[60]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM446000
-[61]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM129109
-[62]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM88548
-[63]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM88957
-[64]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM65636
-[65]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM65679
-[66]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM56329
-[67]: http://www.pco.parliament.govt.nz/reprints/
-[68]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM195439
-[69]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[70]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM195468
-[71]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM195470
+[54]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM5205915
+[55]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM329199
+[56]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM129719
+[57]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM129733
+[58]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM61487
+[59]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM58316
+[60]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM58337
+[61]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM446000
+[62]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM129109
+[63]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM88548
+[64]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM88957
+[65]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM65636
+[66]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM65679
+[67]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM56329
+[68]: http://www.pco.parliament.govt.nz/reprints/
+[69]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM195439
+[70]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[71]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM195468
+[72]: http://www.legislation.govt.nz/act/public/1988/0126/latest/link.aspx?id=DLM195470
