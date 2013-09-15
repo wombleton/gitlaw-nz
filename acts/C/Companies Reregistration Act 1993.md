@@ -1,5 +1,5 @@
 Reprint  
-as at 3 June 1998
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This order is administered by the Ministry of Economic Development.
+This order is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,47 +25,47 @@ This order is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Existing companies to reregister under Companies Act 1993][4]
+[3][4][][4][Existing companies to reregister under Companies Act 1993][4]
 
-[4][5] [Reregistration following approval of application by members][5]
+[4][5][][5][Reregistration following approval of application by members][5]
 
-[5][6] [Reregistration where application not approved][6]
+[5][6][][6][Reregistration where application not approved][6]
 
-[6][7] [Reregistration following approval by Board][7]
+[6][7][][7][Reregistration following approval by Board][7]
 
-[7][8] [Application with unanimous consent of members][8]
+[7][8][][8][Application with unanimous consent of members][8]
 
-[8][9] [Application to prohibit reregistration][9]
+[8][9][][9][Application to prohibit reregistration][9]
 
-[9][10] [Powers of court][10]
+[9][10][][10][Powers of court][10]
 
-[10][11] [Court may extend time for reregistration][11]
+[10][11][][11][Court may extend time for reregistration][11]
 
-[11][12] [Reregistration][12]
+[11][12][][12][Reregistration][12]
 
-[12][13] [Effect of reregistration][13]
+[12][13][][13][Effect of reregistration][13]
 
-[13][14] [Companies that do not reregister][14]
+[13][14][][14][Companies that do not reregister][14]
 
-[13A][15] [Reregistration of companies restored to register after dissolution or striking off][15]
+[13A][15][][15][Reregistration of companies restored to register after dissolution or striking off][15]
 
-[13B][16] [Reregistration of companies that have ceased to be in liquidation][16]
+[13B][16][][16][Reregistration of companies that have ceased to be in liquidation][16]
 
-[13C][17] [Effect of adopted constitution on companies that are deemed to be reregistered][17]
+[13C][17][][17][Effect of adopted constitution on companies that are deemed to be reregistered][17]
 
-[14][18] [Remedies for failure to reregister][18]
+[14][18][][18][Remedies for failure to reregister][18]
 
-[15][19] [Reduction of member's liability on reregistration][19]
+[15][19][][19][Reduction of member's liability on reregistration][19]
 
-[16][20] [Service of documents][20]
+[16][20][][20][Service of documents][20]
 
-[17][21] [Offences][21]
+[17][21][][21][Offences][21]
 
-[18][22] [Regulations][22]
+[18][22][][22][Regulations][22]
 
 [Schedule][23]  
 [Provisions applying in relation to companies deemed to have been reregistered under Companies Act 1993][23]
@@ -600,9 +600,9 @@ An Act to provide for the reregistration of existing companies under the Compani
     
     *   (b) having voted in favour of a resolution referred to in paragraph (b) of subsection (1) of [section 6][7], fails to sign a certificate in accordance with paragraph (c) of that subsection,---
     
-    commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    (2) Where a company fails to comply with [section 10(4)][11], the company and every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Where a company fails to comply with [section 10(4)][11], the company and every director of the company commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     (3) It is a defence to a director charged with an offence against subsection (2) if the director proves that---
         
@@ -612,7 +612,9 @@ An Act to provide for the reregistration of existing companies under the Compani
     
     *   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of that subsection.
     
+    Section 17(1): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 17(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Regulations
     
@@ -701,7 +703,7 @@ In any case where a company is deemed to have been reregistered pursuant to [sec
 
 *   (h) the address for service of the company is at the registered office of the company.
 
-*   Schedule: amended (with effect immediately before the close of 30 June 1997), on 3 June 1998, by [section 3][32] of the Companies Reregistration Amendment Act 1998 (1998 No 32).
+*   Schedule: amended (with effect immediately before the close of 30 June 1997), on 3 June 1998, by [section 3][33] of the Companies Reregistration Amendment Act 1998 (1998 No 32).
 
 ---
 
@@ -719,23 +721,23 @@ In any case where a company is deemed to have been reregistered pursuant to [sec
 
 ###### 1 General
     
-*   This is a reprint of the Companies Reregistration Act 1993\. The reprint incorporates all the amendments to the Act as at 3 June 1998, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Companies Reregistration Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][33] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][34] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][35] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][36] and [17E][37] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -766,9 +768,11 @@ In any case where a company is deemed to have been reregistered pursuant to [sec
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Companies Reregistration Amendment Act 1998][38] (1998 No 32)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][32]
     
-    [Companies Reregistration Amendment Act 1997][39] (1997 No 29)
+    [Companies Reregistration Amendment Act 1998][39] (1998 No 32)
+    
+    [Companies Reregistration Amendment Act 1997][40] (1997 No 29)
     
     Companies Reregistration Amendment Act 1994 (1994 No 10)
 
@@ -806,11 +810,12 @@ In any case where a company is deemed to have been reregistered pursuant to [sec
 [29]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM409575
 [30]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM426297
 [31]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM323276
-[32]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM426298
-[33]: http://www.pco.parliament.govt.nz/reprints/
-[34]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM195439
-[35]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[36]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM195468
-[37]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM195470
-[38]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM426291
-[39]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM409569
+[32]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM3360714
+[33]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM426298
+[34]: http://www.pco.parliament.govt.nz/reprints/
+[35]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM195439
+[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[37]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM195468
+[38]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM195470
+[39]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM426291
+[40]: http://www.legislation.govt.nz/act/public/1993/0121/latest/link.aspx?id=DLM409569
