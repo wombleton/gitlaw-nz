@@ -1,3 +1,6 @@
+Reprint  
+as at 1 July 2013
+
 # Bylaws Act 1910Public Act1910 No 28
 
 Date of assent21 November 1910
@@ -6,72 +9,76 @@ Date of assent21 November 1910
 
 ###### Note
 
-This Act is administered by the Department of Internal Affairs
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+
+A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+
+This Act is administered by the Department of Internal Affairs.
 
 ---
 
 ## Contents
 
-[Title][0]
+[Title][1]
 
-[1][1] [Short Title and commencement][1]
+[1][2][][2][Short Title and commencement][2]
 
-[2][2] [Interpretation][2]
+[2][3][][3][Interpretation][3]
 
-[Confirmation of bylaws][3]
+[Confirmation of bylaws][4]
 
-[3][4] [Application to Minister for confirmation of bylaw][4] \[Repealed\]
+[3][5][][5][Application to Minister for confirmation of bylaw][5] \[Repealed\]
 
-[4][5] [Confirmation of bylaw by Minister][5] \[Repealed\]
+[4][6][][6][Confirmation of bylaw by Minister][6] \[Repealed\]
 
-[5][6] [Confirmation of bylaw where immaterial error or defect][6] \[Repealed\]
+[5][7][][7][Confirmation of bylaw where immaterial error or defect][7] \[Repealed\]
 
-[6][7] [Certificate of confirmation][7] \[Repealed\]
+[6][8][][8][Certificate of confirmation][8] \[Repealed\]
 
-[7][8] [Effect of certificate of confirmation][8] \[Repealed\]
+[7][9][][9][Effect of certificate of confirmation][9] \[Repealed\]
 
-[8][9] [Restrictions on effect of certificate][9] \[Repealed\]
+[8][10][][10][Restrictions on effect of certificate][10] \[Repealed\]
 
-[9][10] [Certificate not to be questioned in Court][10] \[Repealed\]
+[9][11][][11][Certificate not to be questioned in Court][11] \[Repealed\]
 
-[10][11] [Confirmation not to affect prior proceedings for enforcement][11] \[Repealed\]
+[10][12][][12][Confirmation not to affect prior proceedings for enforcement][12] \[Repealed\]
 
-[11][12] [Regulations][12] \[Repealed\]
+[11][13][][13][Regulations][13] \[Repealed\]
 
-[Quashing or amending of bylaws by the High Court][13]
+[Quashing or amending of bylaws by the High Court][14]
 
-[12][14] [Order by High Court to quash or amend invalid bylaw][14]
+[12][15][][15][Order by High Court to quash or amend invalid bylaw][15]
 
-[Validity of bylaws][15]
+[Validity of bylaws][16]
 
-[13][16] [Bylaw not invalid because of discretionary power left to local authority, etc][16]
+[13][17][][17][Bylaw not invalid because of discretionary power left to local authority, etc][17]
 
-[14][17] [Bylaw not invalid because subject-matter dealt with by statute][17]
+[14][18][][18][Bylaw not invalid because subject-matter dealt with by statute][18]
 
-[15][18] [Bylaw may impose different penalty from that imposed by statute][18]
+[15][19][][19][Bylaw may impose different penalty from that imposed by statute][19]
 
-[16][19] [Bylaw may apply to certain parts of district][19]
+[16][20][][20][Bylaw may apply to certain parts of district][20]
 
-[17][20] [Part of bylaw only may be deemed invalid][20]
+[17][21][][21][Part of bylaw only may be deemed invalid][21]
 
-[Operation and proof of bylaws][21]
+[Operation and proof of bylaws][22]
 
-[18][22] [Bylaw not deemed to relieve from other liability][22]
+[18][23][][23][Bylaw not deemed to relieve from other liability][23]
 
-[19][23] [Fines recoverable summarily][23]
+[19][24][][24][Procedure for recovery of fines][24]
 
-[20][24] [Bylaw may provide fine for breach thereof][24]
+[20][25][][25][Bylaw may provide fine for breach thereof][25]
 
-[21][25] [Fines to be in the discretion of the Court][25]
+[21][26][][26][Fines to be in the discretion of the Court][26]
 
-[22][26] [Evidence of bylaws][26]
+[22][27][][27][Evidence of bylaws][27]
 
-[23][27] [Application of Act][27]
+[23][28][][28][Application of Act][28]
 
-[24][28] [Repeal][28]
+[24][29][][29][Repeal][29]
 
-[Schedule][29]  
-[Certificate of confirmation][29]
+[Schedule][30]  
+[Certificate of confirmation][30]
 
 ---
 
@@ -79,95 +86,81 @@ An Act to make better provision for the validity of bylaws
 
 ##### 1 Short Title and commencement
     
-*   This Act may be cited as the Bylaws Act 1910, and shall come into operation on the 1st day of January 1911\.
+*   This Act may be cited as the Bylaws Act 1910, and shall come into operation on 1 January 1911\.
 
 ##### 2 Interpretation
     
 *   In this Act, unless a different intention appears from the context or subject-matter,---
     
-    _Bylaw_ means any rule or regulation which is made by any local authority by virtue of any Act now or hereafter to be in force, and which is termed a bylaw in the Act by virtue of which it is so made
+    _bylaw_ means any rule or regulation which is made by any local authority by virtue of any Act now or hereafter to be in force, and which is termed a bylaw in the Act by virtue of which it is so made
     
-    _Local authority_ means---
+    _local authority_ means---
         
-    *   (a) any local authority within the meaning of the [Local Government Act 2002][30]; or.
+    *   (a) any local authority within the meaning of the [Local Government Act 2002][31]; or.
     
-    *   (b) Any body corporate of any kind whatsoever having authority, under any Act now or hereafter to be in force, to make any rules or regulations which are in that Act termed bylaws; or
+    *   (b) any body corporate of any kind whatsoever having authority, under any Act now or hereafter to be in force, to make any rules or regulations which are in that Act termed bylaws; or
     
-    *   (c) Any Board, Council, Trustees, or other body of persons being the governing body of any corporation of any kind whatsoever and having authority, under any Act now or hereafter to be in force, to make any rules or regulations which are in that Act termed bylaws, or (where the context or subject-matter so requires) the corporation of any such governing body.
+    *   (c) any Board, Council, Trustees, or other body of persons being the governing body of any corporation of any kind whatsoever and having authority, under any Act now or hereafter to be in force, to make any rules or regulations which are in that Act termed bylaws, or (where the context or subject-matter so requires) the corporation of any such governing body.
     
-    Local authority: paragraph (a) of this definition was amended by section 413(6), 1954 No 76 and section [7(3)][31] Local Government Amendment Act (No 3) 1977 (1977 No 122).
-    
-    Local authority: paragraph (a) of this definition was substituted, as from 1 July 2003, by section [262][32] Local Government Act 2002 (2002 No 84). _See_ sections [273 to 314][33] of that Act as to the savings and transitional provisions.
+    Section 2 **local authority** paragraph (a): replaced, on 1 July 2003, by [section 262][32] of the Local Government Act 2002 (2002 No 84).
 
-## Confirmation of bylaws
+#### Confirmation of bylaws
 
 ##### 3 Application to Minister for confirmation of bylaw
     
 *   \[Repealed\]
     
-    A reference in subsections (1) and (4) to the ""Minister of Local Government"" replaced, as from 21 September 1972, a reference to the ""Minister of Internal Affairs"" pursuant to section 5(a) Minister of Local Government Act 1972 (1972 No 10).
-    
-    Subsection (4) was amended, as from 10 December 1976, by section 2 Bylaws Amendment Act 1976 (1976 No 78) by substituting the expression ""3 years"" for the expression ""twelve months"".
-    
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 3: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 4 Confirmation of bylaw by Minister
     
 *   \[Repealed\]
     
-    A reference to the ""Minister of Local Government"" replaced, as from 21 September 1972, a reference to the ""Minister of Internal Affairs"" pursuant to section 5(a) Minister of Local Government Act 1972 (1972 No 10).
-    
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 4: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 5 Confirmation of bylaw where immaterial error or defect
     
 *   \[Repealed\]
     
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 5: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 6 Certificate of confirmation
     
 *   \[Repealed\]
     
-    A reference to the ""Minister of Local Government"" replaced, as from 21 September 1972, a reference to the ""Minister of Internal Affairs"" pursuant to section 5(a) Minister of Local Government Act 1972 (1972 No 10).
-    
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 6: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 7 Effect of certificate of confirmation
     
 *   \[Repealed\]
     
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 7: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 8 Restrictions on effect of certificate
     
 *   \[Repealed\]
     
-    A reference in subsection (3) to the ""Minister of Local Government"" replaced, as from 21 September 1972, a reference to the ""Minister of Internal Affairs"" pursuant to section 5(a) Minister of Local Government Act 1972 (1972 No 10).
-    
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 8: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 9 Certificate not to be questioned in Court
     
 *   \[Repealed\]
     
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 9: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 10 Confirmation not to affect prior proceedings for enforcement
     
 *   \[Repealed\]
     
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 10: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 11 Regulations
     
 *   \[Repealed\]
     
-    Subsection (4) was amended, as from 1 April 1978, by section 114(6) Public Finance Act 1977 by substituting the words ""Consolidated Account"" for the words ""Consolidated Revenue Account"" (as substituted for a reference to the ""Consolidated Fund""). The words ""Public Account, and shall form part of the Consolidated Account"" should now be read as ""Crown Bank Account"" pursuant to section [83][36] Public Finance Act 1989\.
-    
-    Sections 3 to 11 were repealed, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29). _See_ section [4][35] of that Act as to the continuation of certificates of confirmation.
+    Section 11: repealed, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
-## Quashing or amending of bylaws by the High Court
+#### Quashing or amending of bylaws by the High Court
 
 ##### 12 Order by High Court to quash or amend invalid bylaw
     
@@ -175,7 +168,7 @@ An Act to make better provision for the validity of bylaws
     
     (2) Notice of any such application to the High Court, and of the grounds thereof, shall be given by the applicant to the local authority by which the bylaw was made, and that local authority shall be heard in support of the bylaw.
     
-    (3) Every person making any such application to the High Court shall, at the time of filing the notice of motion, pay into Court the sum of $10 as security for the costs of the application.
+    (3) Every person making any such application to the High Court shall, at the time of filing the notice of motion, pay into Court the sum of 5 pounds as security for the costs of the application.
     
     (4) The costs of any such application shall, as between the applicant and the local authority, whether the local authority appears in support of the bylaw or not, be in the discretion of the Court, and the Court may make an order accordingly.
     
@@ -191,9 +184,9 @@ An Act to make better provision for the validity of bylaws
     
     (10) The quashing or amending of a bylaw under this section shall not affect any conviction, order, or judgment theretofore made or given, or any judicial proceedings then pending, in any Court.
     
-    Subsection (9) was substituted, as from 30 June 1998, by section [7][37] District Courts Amendment Act 1998 (1998 No 76).
+    Section 12(9): replaced, on 30 June 1998, by [section 7][34] of the District Courts Amendment Act 1998 (1998 No 76).
 
-## Validity of bylaws
+#### Validity of bylaws
 
 ##### 13 Bylaw not invalid because of discretionary power left to local authority, etc
     
@@ -213,29 +206,33 @@ An Act to make better provision for the validity of bylaws
     
 *   No bylaw shall be invalid because it extends and applies to a part or parts only of the district or region within the jurisdiction of the local authority making the same.
     
-    Section 16 was amended, as from 1 July 2003, by section [262][32] Local Government Act 2002 (2002 No 84) by inserting the words ""or region"" after the word ""district"". _See_ sections [273 to 314][33] of that Act as to the savings and transitional provisions.
+    Section 16: amended, on 1 July 2003, by [section 262][32] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17 Part of bylaw only may be deemed invalid
     
 *   If any bylaw contains any provisions which are invalid because they are _ultra vires_ of the local authority, or repugnant to the laws of New Zealand, or unreasonable, or for any other cause whatever, the bylaw shall be invalid to the extent of those provisions and any others which cannot be severed therefrom.
 
-## Operation and proof of bylaws
+#### Operation and proof of bylaws
 
 ##### 18 Bylaw not deemed to relieve from other liability
     
 *   Nothing in any bylaw shall be deemed to relieve any person from any penalty, fine, punishment, action, or liability to which he would otherwise be subject in respect of anything done or omitted by him in breach of the bylaw.
 
-##### 19 Fines recoverable summarily
+##### 19 Procedure for recovery of fines
     
-*   All fines which by virtue of any bylaw are authorised or directed to be imposed on any person for a breach thereof may, when no other form or mode of procedure is prescribed by the Act under which the bylaw is made, be recovered on summary conviction in the manner provided by the [Summary Proceedings Act 1957][38].
+*   All fines which by virtue of any bylaw are authorised or directed to be imposed on any person for a breach thereof may, when no other form or mode of procedure is prescribed by the Act under which the bylaw is made, be recovered on conviction in the manner provided by the [Summary Proceedings Act 1957][35].
     
-    The reference to the ""Summary Proceedings Act 1957"" was substituted, as from 1 April 1958, for a reference to the ""Justices of the Peace Act 1908"".
+    Section 19 heading: replaced, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 19: amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 19: amended, on 1 April 1958, pursuant to [section 214(1)][37] of the Summary Proceedings Act 1957 (1957 No 87).
 
 ##### 20 Bylaw may provide fine for breach thereof
     
 *   Where any Act passed after the passing of this Act authorises the making of bylaws, and contains no provision imposing any penalty for the breach of bylaws made thereunder, or authorising the local authority to impose any penalty therefor, then the local authority making any such bylaw may provide a fine for any breach thereof of an amount not exceeding $500\.
     
-    This section was amended, as from 3 June 1998, by section [3][34] Bylaws Amendment Act 1998 (1998 No 29) by substituting the expression ""$500"" for the expression ""$40"".
+    Section 20: amended, on 3 June 1998, by [section 3][33] of the Bylaws Amendment Act 1998 (1998 No 29).
 
 ##### 21 Fines to be in the discretion of the Court
     
@@ -264,52 +261,83 @@ An Act to make better provision for the validity of bylaws
 ## Schedule  
 Certificate of confirmation
 
-Section [6][7]
+[s 6][8]
 
-*   The reference to the ""Minister of Local Government"" was substituted for a reference to the ""Minister of Internal Affairs"" by section 5(a) Minister of Local Government Act 1972\.
+*   Schedule: amended, on 21 September 1972, by [section 5(a)][38] of the Minister of Local Government Act 1972 (1972 No 10).
 
-![. ](images/ACT_NZL_PUB.1910_028_END_SCH_FRM.36_GPH.37_V1.jpg)
+In pursuance of the Bylaws Act 1910, I hereby confirm the above-written bylaw \[_or_ bylaws\], and declare that the same shall come into force \[_or_ came into force\] on the day of 19 
+
+Dated this day of 19 
+
+\[_Signature_\]
+
+Minister of Local Government
+
+---
+
+#### Contents
+    
+*   1General
+*   2About this eprint
+*   3List of amendments incorporated in this eprint (most recent first) 
+
+---
+
+##### Notes
+
+###### 1 General
+    
+*   This is an eprint of the Bylaws Act 1910\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+
+###### 2 About this eprint
+    
+*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][39] ![](/images/external_link.gif).
+
+###### 3 List of amendments incorporated in this eprint (most recent first)
+    
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][36]
 
 
-IN pursuance of the Bylaws Act 1910, I hereby confirm the above-written bylaw \[or bylaws\], and declare that the same shall come into force \[or came into force\] on the day of 19 Dated this .............. day of ............................. 19 ............ Signature \[Minister of Local Government\] 
 
-
-[0]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176984
-[1]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176986
-[2]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176987
-[3]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176994
-[4]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176995
-[5]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176999
-[6]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177602
-[7]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177604
-[8]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177607
-[9]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177609
-[10]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177612
-[11]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177614
-[12]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177616
-[13]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177619
-[14]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177620
-[15]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177622
-[16]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177623
-[17]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177624
-[18]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177625
-[19]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177626
-[20]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177628
-[21]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177629
-[22]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177630
-[23]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177631
-[24]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177633
-[25]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177635
-[26]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177636
-[27]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177637
-[28]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177638
-[29]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177639
-[30]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM170872
-[31]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM18559
+[0]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176984
+[2]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176986
+[3]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176987
+[4]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM4501106
+[5]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176995
+[6]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM176999
+[7]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177602
+[8]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177604
+[9]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177607
+[10]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177609
+[11]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177612
+[12]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177614
+[13]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177616
+[14]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM4501107
+[15]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177620
+[16]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM4501108
+[17]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177623
+[18]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177624
+[19]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177625
+[20]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177626
+[21]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177628
+[22]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM4501109
+[23]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177630
+[24]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177631
+[25]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177633
+[26]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177635
+[27]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177636
+[28]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177637
+[29]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177638
+[30]: http://www.legislation.govt.nz/act/public/1910/0028/latest/whole.html#DLM177639
+[31]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM170872
 [32]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM174088
-[33]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM174200
-[34]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM426253
-[35]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM426254
-[36]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM163167
-[37]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM427920
-[38]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM310742
+[33]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM426253
+[34]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM427920
+[35]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM310742
+[36]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM3360714
+[37]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM314306
+[38]: http://www.legislation.govt.nz/act/public/1910/0028/latest/link.aspx?id=DLM36507
+[39]: http://www.pco.parliament.govt.nz/eprints/
