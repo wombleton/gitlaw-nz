@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,35 +25,35 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Trespass after warning to leave][4]
+[3][4][][4][Trespass after warning to leave][4]
 
-[4][5] [Trespass after warning to stay off][5]
+[4][5][][5][Trespass after warning to stay off][5]
 
-[5][6] [Delivery of warnings][6]
+[5][6][][6][Delivery of warnings][6]
 
-[6][7] [Disturbance of domestic animals by trespasser][7]
+[6][7][][7][Disturbance of domestic animals by trespasser][7]
 
-[7][8] [Laying of poison or setting of traps on private land][8]
+[7][8][][8][Laying of poison or setting of traps on private land][8]
 
-[8][9] [Gates][9]
+[8][9][][9][Gates][9]
 
-[9][10] [Obligation to give name and other particulars][10]
+[9][10][][10][Obligation to give name and other particulars][10]
 
-[10][11] [Informations][11]
+[10][11][][11][Charges][11]
 
-[11][12] [Offences and penalties][12]
+[11][12][][12][Offences and penalties][12]
 
-[12][13] [Weapons][13]
+[12][13][][13][Weapons][13]
 
-[12A][14] [Application of Act to public bars][14]
+[12A][14][][14][Application of Act to public bars][14]
 
-[13][15] [Savings][15]
+[13][15][][15][Savings][15]
 
-[14][16] [Repeal][16]
+[14][16][][16][Repeal][16]
 
 ---
 
@@ -205,15 +205,15 @@ An Act to amend the law relating to trespass
     
     Section 9(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][20] of the Policing Act 2008 (2008 No 72).
 
-##### 10 Informations
+##### 10 Charges
     
-*   Proceedings under this Act shall be taken only on the information of an occupier of the place concerned or a constable.
+*   Proceedings under this Act may be commenced only by an occupier of the place concerned or a constable.
     
-    Section 10: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][20] of the Policing Act 2008 (2008 No 72).
+    Section 10: replaced, on 1 July 2013, by [section 413][22] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Offences and penalties
     
-*   (1) Every offence against this Act shall be punishable on summary conviction.
+*   (1) \[Repealed\]
     
     (2) Every person who commits an offence against this Act shall be liable on conviction---
         
@@ -227,7 +227,7 @@ An Act to amend the law relating to trespass
     
     *   (e) in the case of an offence against [section 9][10], to a fine not exceeding $500\.
     
-    
+    Section 11(1): repealed, on 1 July 2013, by [section 413][22] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Weapons
     
@@ -289,23 +289,23 @@ An Act to amend the law relating to trespass
 
 ###### 1 General
     
-*   This is a reprint of the Trespass Act 1980\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Trespass Act 1980\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][22] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][23] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][23] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][24] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][24] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][25] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][25] and [17E][26] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][26] and [17E][27] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -336,7 +336,9 @@ An Act to amend the law relating to trespass
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][20]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][22]
+    
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][20]
     
     Trespass Amendment Act 1987 (1987 No 164)
     
@@ -368,8 +370,9 @@ An Act to amend the law relating to trespass
 [19]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM17625
 [20]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM1102349
 [21]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM73373
-[22]: http://www.pco.parliament.govt.nz/reprints/
-[23]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM195439
-[24]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[25]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM195468
-[26]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM195470
+[22]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM3360714
+[23]: http://www.pco.parliament.govt.nz/reprints/
+[24]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM195439
+[25]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[26]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM195468
+[27]: http://www.legislation.govt.nz/act/public/1980/0065/latest/link.aspx?id=DLM195470
