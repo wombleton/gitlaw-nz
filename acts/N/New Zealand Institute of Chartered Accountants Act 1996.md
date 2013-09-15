@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,11 +15,11 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -43,7 +43,7 @@ This Act is administered by the Ministry of Economic Development.
 
 [7][10][][10][Code of ethics][10]
 
-[8][11][][11][Application of Regulations (Disallowance) Act 1989 to certain rules and code of ethics][11]
+[8][11][][11][Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics][11]
 
 [Matters relating to disciplining of members][12]
 
@@ -248,17 +248,17 @@ An Act to---
     
     (5) The Council must, no later than 14 days after passing any amendment to the code or replacing the code, deliver to the Registrar for registration a copy of the amendment or the new code.
 
-##### 8 Application of Regulations (Disallowance) Act 1989 to certain rules and code of ethics
+##### 8 Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics
     
-*   The [Regulations (Disallowance) Act 1989][44] applies to---
+*   The following are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][44]:
         
-    *   (a) the rules that relate to the matters referred to in [sections 5(d)][8], [6(1)(a), (b), and (f) to (j)][9], and [19][27]; and
+    *   (a) the rules that relate to the matters referred to in [sections 5(d)][8], [6(1)(a), (b), and (f) to (j)][9], and [19][27]:
     
-    *   (b) rules that relate to the entitlement of members to use the designation chartered accountant; and
+    *   (b) rules that relate to the entitlement of members to use the designation chartered accountant:
     
-    *   (c) the code of ethics required by [section 7][10]---
+    *   (c) the code of ethics required by section 7\.
     
-    as if they were regulations within the meaning of that Act.
+    Section 8: replaced, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
 
 #### Matters relating to disciplining of members
 
@@ -274,7 +274,7 @@ An Act to---
     
     *   (b) permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath.
     
-    (2) A hearing before a disciplinary body is a judicial proceeding for the purposes of [section 109][45] of the Crimes Act 1961\.
+    (2) A hearing before a disciplinary body is a judicial proceeding for the purposes of [section 109][46] of the Crimes Act 1961\.
 
 ##### 11 Disciplinary bodies may summon witnesses
     
@@ -316,7 +316,9 @@ An Act to---
     
     (8) A summons that is posted shall be treated as having been served when it would have been served in the ordinary course of post.
     
-    (9) There shall be paid or tendered to the witness by the person requiring the attendance of the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scales for the time being prescribed by regulations under the [Summary Proceedings Act 1957][46].
+    (9) There shall be paid or tendered to the witness by the person requiring the attendance of the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scales for the time being prescribed by regulations under the [Criminal Procedure Act 2011][47].
+    
+    Section 11(9): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Protection for members of disciplinary bodies and others
     
@@ -354,7 +356,9 @@ An Act to---
     
     *   (d) not being entitled to do so under the rules, uses in connection with his or her name, or with the name under which he or she carries on business, the initials CA, ACA, FCA, FACA, CA (PP), ACA (PP), or AT or an abbreviation of the words chartered accountant, associate chartered accountant, registered accountant, or accounting technician, or any combination of any such initials or abbreviations, unless it is proved that the manner and circumstances in which the initials or abbreviations were used were such as to raise no reasonable inference that they were referring to membership of the Institute.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000\.
+    
+    Section 14(2): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Accountants and auditors must be qualified
     
@@ -372,11 +376,13 @@ An Act to---
     
     *   (d) any Minister of the Crown or officer charged with the administration of any law or the Controller and Auditor-General from appointing, or authorising or approving the appointment of, any person as auditor in respect of any undertaking.
     
-    (4) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000\.
+    (4) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000\.
     
-    (5) Nothing in this section limits [sections 8][47] and [9][48] of the Auditor Regulation Act 2011\.
+    (5) Nothing in this section limits [sections 8][49] and [9][50] of the Auditor Regulation Act 2011\.
     
-    Section 15(5): inserted, on 1 July 2012, by [section 82][49] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 15(4): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 15(5): inserted, on 1 July 2012, by [section 82][51] of the Auditor Regulation Act 2011 (2011 No 21).
 
 ##### 16 Failure to comply with summons of disciplinary body
     
@@ -394,7 +400,9 @@ An Act to---
     
     (2) A person summoned to attend a hearing of a disciplinary body shall not be convicted of an offence against subsection (1) of this section unless witnesses expenses are paid or tendered to that person in accordance with [section 11(9)][15].
     
-    (3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $1,000\.
+    (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000\.
+    
+    Section 16(3): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Appointment of agent to conduct practice of sole practitioner
 
@@ -414,7 +422,7 @@ An Act to---
     
 *   A reference in an enactment or in a document to the Institute of Chartered Accountants of New Zealand must, unless the context otherwise requires, be read as a reference to the New Zealand Institute of Chartered Accountants.
     
-    Section 18A: inserted, on 7 July 2010, by [section 9][50] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 18A: inserted, on 7 July 2010, by [section 9][52] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 ##### 19 References to chartered accountants
     
@@ -469,15 +477,15 @@ Appointment of agent to conduct sole practitioner's practice
     
 *   (1) In this schedule,---
     
-    _administrator_ has the meaning given to it by [section 4][51] of the Administration Act 1969
+    _administrator_ has the meaning given to it by [section 4][53] of the Administration Act 1969
     
-    _agent_ means a chartered accountant in public practice appointed under [clause 2][52] to conduct the practice of a sole practitioner; and includes a substitute appointed under [clause 4][53]
+    _agent_ means a chartered accountant in public practice appointed under [clause 2][54] to conduct the practice of a sole practitioner; and includes a substitute appointed under [clause 4][55]
     
     _appointor_ means a person who has given a power of attorney under this schedule
     
     _chartered accountant in public practice_ means a chartered accountant who for the time being holds a certificate of public practice issued under the rules
     
-    _manager_ has the meaning given to it by [section 2][54] of the Protection of Personal and Property Rights Act 1988
+    _manager_ has the meaning given to it by [section 2][56] of the Protection of Personal and Property Rights Act 1988
     
     _representative of a sole practitioner_ means---
         
@@ -497,7 +505,7 @@ Appointment of agent to conduct sole practitioner's practice
         
     *   (a) an agent has already been appointed in respect of that practice; and
     
-    *   (b) the powers of that agent have been suspended under [clause 7][55].
+    *   (b) the powers of that agent have been suspended under [clause 7][57].
     
     
 
@@ -515,7 +523,7 @@ Appointment of agent to conduct sole practitioner's practice
     
     *   (c) may authorise the agent to appoint 1 or more chartered accountants in public practice as a substitute for that agent.
     
-    (2) All the provisions of this schedule apply to a substitute appointed by an agent under this clause as if that substitute had been the agent originally appointed under [clause 2][52].
+    (2) All the provisions of this schedule apply to a substitute appointed by an agent under this clause as if that substitute had been the agent originally appointed under [clause 2][54].
 
 ##### 5 Term of appointment
     
@@ -577,11 +585,11 @@ Appointment of agent to conduct sole practitioner's practice
     
 *   \[Repealed\]
     
-    Schedule 1 clause 10: repealed, on 24 May 1999, by [section 15(1)][56] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Schedule 1 clause 10: repealed, on 24 May 1999, by [section 15(1)][58] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 11 Miscellaneous provisions
     
-*   (1) The provisions of this schedule apply notwithstanding the provisions of the [Property Law Act 2007][57] or any other enactment or rule of law.
+*   (1) The provisions of this schedule apply notwithstanding the provisions of the [Property Law Act 2007][59] or any other enactment or rule of law.
     
     (2) Every enactment and rule of law applies to any agent or any agency under this schedule, except to the extent that the enactment or rule of law has been modified by this schedule.
     
@@ -591,7 +599,7 @@ Appointment of agent to conduct sole practitioner's practice
     
     *   (b) a chartered accountant granting a power of attorney otherwise than under this schedule.
     
-    Schedule 1 clause 11(1): amended, on 1 January 2008, by [section 364(1)][58] of the Property Law Act 2007 (2007 No 91).
+    Schedule 1 clause 11(1): amended, on 1 January 2008, by [section 364(1)][60] of the Property Law Act 2007 (2007 No 91).
 
 ---
 
@@ -630,15 +638,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Building Research Levy Act 1969 (1969 No 23) (RS Vol 21, p 195)
 
-_Amendment(s) incorporated in the [Act(s)][59]._
+_Amendment(s) incorporated in the [Act(s)][61]._
 
 ##### Building Societies Act 1965 (1965 No 22) (RS Vol 17, p 41)
 
-_Amendment(s) incorporated in the [Act(s)][60]._
+_Amendment(s) incorporated in the [Act(s)][62]._
 
 ##### Commodity Levies Act 1990 (1990 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][61]._
+_Amendment(s) incorporated in the [Act(s)][63]._
 
 ##### Companies Act 1955 (1955 No 63) (RS Vol 15, p 89)
 
@@ -646,7 +654,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][62]._
+_Amendment(s) incorporated in the [Act(s)][64]._
 
 ##### Dairy Industry Act 1952 (1952 No 55) (RS Vol 26, p 113)
 
@@ -654,19 +662,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Education Act 1989 (1989 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][63]._
+_Amendment(s) incorporated in the [Act(s)][65]._
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35) (RS Vol 28, p 341)
 
-_Amendment(s) incorporated in the [Act(s)][64]._
+_Amendment(s) incorporated in the [Act(s)][66]._
 
 ##### Financial Reporting Act 1993 (1993 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][65]._
+_Amendment(s) incorporated in the [Act(s)][67]._
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][66]._
+_Amendment(s) incorporated in the [Act(s)][68]._
 
 ##### Gaming and Lotteries Act 1977 (1977 No 84) (RS Vol 33, p 17)
 
@@ -674,7 +682,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Industrial and Provident Societies Act 1908 (1908 No 81) (RS Vol 7, p 407)
 
-_Amendment(s) incorporated in the [Act(s)][67]._
+_Amendment(s) incorporated in the [Act(s)][69]._
 
 ##### Law Practitioners Act 1982 (1982 No 123)
 
@@ -682,7 +690,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Community Development Act 1962 (1962 No 133) (RS Vol 8, p 361)
 
-_Amendment(s) incorporated in the [Act(s)][68]._
+_Amendment(s) incorporated in the [Act(s)][70]._
 
 ##### Motor Vehicle Dealers Act 1975 (1975 No 127) (RS Vol 5, p 749)
 
@@ -690,7 +698,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Private Investigators and Security Guards Act 1974 (1974 No 48) (RS Vol 24, p 633)
 
-_Amendment(s) incorporated in the [Act(s)][69]._
+_Amendment(s) incorporated in the [Act(s)][71]._
 
 ##### Racing Act 1971 (1971 No 155) (RS Vol 7, p 731)
 
@@ -698,35 +706,35 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Real Estate Agents Act 1976 (1976 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][70]._
+_Amendment(s) incorporated in the [Act(s)][72]._
 
 ##### Receiverships Act 1993 (1993 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][71]._
+_Amendment(s) incorporated in the [Act(s)][73]._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 33, p 587)
 
-_Amendment(s) incorporated in the [Act(s)][72]._
+_Amendment(s) incorporated in the [Act(s)][74]._
 
 ##### Securities Transfer Act 1991 (1991 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][73]._
+_Amendment(s) incorporated in the [Act(s)][75]._
 
 ##### Superannuation Schemes Act 1989 (1989 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][74]._
+_Amendment(s) incorporated in the [Act(s)][76]._
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][75]._
+_Amendment(s) incorporated in the [Act(s)][77]._
 
 ##### Trustee Act 1956 (1956 No 61) (RS Vol 15, p 615)
 
-_Amendment(s) incorporated in the [Act(s)][76]._
+_Amendment(s) incorporated in the [Act(s)][78]._
 
 ##### Unclaimed Money Act 1971 (1971 No 28) (RS Vol 21, p 831)
 
-_Amendment(s) incorporated in the [Act(s)][77]._
+_Amendment(s) incorporated in the [Act(s)][79]._
 
 ##### Vegetables Levy Act 1957 (1957 No 100) (RS Vol 11, p 749)
 
@@ -769,85 +777,46 @@ _Amendment(s) incorporated in the Act(s)._
 
 _Amendment(s) incorporated in the Act(s)._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Institute of Chartered Accountants Act 1996\. It incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][78] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Institute of Chartered Accountants Act 1996 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][79] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][80] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][81] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][80] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][82] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][83] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][81] and [17E][82] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][45]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Auditor Regulation Act 2011 (2011 No 21): [section 82][51]
     
+    [New Zealand Institute of Chartered Accountants Amendment Act 2010][84] (2010 No 74)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Auditor Regulation Act 2011 (2011 No 21): [section 82][49]
-    
-    [New Zealand Institute of Chartered Accountants Amendment Act 2010][83] (2010 No 74)
-    
-    Property Law Act 2007 (2007 No 91): [section 364(1)][58]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][60]
     
     [Institute of Chartered Accountants of New Zealand Act Commencement Order 2002][40] (SR 2002/51)
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][56]
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][58]
     
     Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 21(3), (4)][29]
 
 
 
 [0]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043106
-[1]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM2998524
 [2]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391366
 [3]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391368
 [4]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391369
@@ -890,43 +859,44 @@ _Amendment(s) incorporated in the Act(s)._
 [41]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043107
 [42]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043109
 [43]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043110
-[44]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM195534
-[45]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM328796
-[46]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM310742
-[47]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3231435
-[48]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3616753
-[49]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3231525
-[50]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043111
-[51]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM392687
-[52]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391445
-[53]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391447
-[54]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM126533
-[55]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391450
-[56]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM30504
-[57]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM968961
-[58]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM969644
-[59]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM391294
-[60]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM372072
-[61]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM227341
-[62]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM320887
-[63]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM289849
-[64]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM386653
-[65]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM324989
-[66]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM60211
-[67]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM144646
-[68]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM341138
-[69]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM414601
-[70]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM438547
-[71]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM327767
-[72]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM26805
-[73]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM250601
-[74]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM143297
-[75]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM292515
-[76]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM305809
-[77]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM398449
-[78]: http://www.pco.parliament.govt.nz/reprints/
-[79]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM195439
-[80]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[81]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM195468
-[82]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM195470
-[83]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043100
+[44]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM2997643
+[45]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM2998633
+[46]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM328796
+[47]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3359902
+[48]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3360714
+[49]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3231435
+[50]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3616753
+[51]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3231525
+[52]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043111
+[53]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM392687
+[54]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391445
+[55]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391447
+[56]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM126533
+[57]: http://www.legislation.govt.nz/act/public/1996/0039/latest/whole.html#DLM391450
+[58]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM30504
+[59]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM968961
+[60]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM969644
+[61]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM391294
+[62]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM372072
+[63]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM227341
+[64]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM320887
+[65]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM289849
+[66]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM386653
+[67]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM324989
+[68]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM60211
+[69]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM144646
+[70]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM341138
+[71]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM414601
+[72]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM438547
+[73]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM327767
+[74]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM26805
+[75]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM250601
+[76]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM143297
+[77]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM292515
+[78]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM305809
+[79]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM398449
+[80]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM2998516
+[81]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM2998515
+[82]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM2998532
+[83]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[84]: http://www.legislation.govt.nz/act/public/1996/0039/latest/link.aspx?id=DLM3043100
